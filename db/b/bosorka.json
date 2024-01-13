@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 469,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -491,6 +491,11 @@
       "Time": "2024-01-12T15:06:55.3088149+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T08:07:08.1069701+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -510,7 +515,7 @@
       "Name": "It doesn\u0027t work like that",
       "Percentage": 23,
       "XP": 55,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
@@ -532,9 +537,9 @@
       "ID": "RUNE_BROOMDASHDAMAGE",
       "SetID": "9433p49",
       "Name": "Time is on my side",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "RUNE_CURSEDCOINS",
@@ -542,7 +547,7 @@
       "Name": "Unstoppable Curiosity",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
@@ -564,9 +569,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 55,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -574,15 +579,15 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 37
+      "UsersEstimate": 36
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -606,7 +611,7 @@
       "Name": "Path of purity",
       "Percentage": 84,
       "XP": 55,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "RUNE_STUNHIT",
@@ -621,7 +626,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -629,8 +634,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:16.8146591+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:07:08.1069698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:07.5850357+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:45.309339+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:16.8146697+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:38.372829+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:07:08.1069864+00:00"
 }

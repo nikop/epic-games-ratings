@@ -2194,10 +2194,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1926,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-13T07:59:51.2247571+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1927,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1926,
+  "NumberOfAwards": 1927,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2235,7 +2241,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2274,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16594,
+  "EOS_Progressed": 16598,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19829,6 +19835,11 @@
       "Time": "2024-01-13T07:10:22.5153426+00:00",
       "NumProgressed": 16594,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T08:10:50.3790765+00:00",
+      "NumProgressed": 16598,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20718,9 +20729,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -21222,9 +21233,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 116
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -21462,9 +21473,9 @@
       "ID": "ACHIEVEMENT_NATION_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egypt",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -21830,9 +21841,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -22118,9 +22129,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -22654,9 +22665,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
       "SetID": "9201eeb",
       "Name": "Yazilikaya",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -22703,21 +22714,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16594,
+      "Progressed": 16598,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16594,
+      "Progressed": 16598,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-13T04:59:13.8910853+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:22.5153422+00:00",
+  "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:50.3790762+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:18.7978986+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:22.5165799+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:59:51.2247575+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:50.380099+00:00"
 }

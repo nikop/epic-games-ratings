@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,608 |
-| Life is your teacher | 5.00% | ~38,007 |
-| Lightning Hands | 5.00% | ~38,007 |
+| The Old Grandmaster | 6.00% | ~45,609 |
+| Life is your teacher | 5.00% | ~38,008 |
+| Lightning Hands | 5.00% | ~38,008 |
 | The Assault | 4.00% | ~30,406 |
 | The Hateful Pole Fighter | 3.00% | ~22,804 |
 | Street Fighting | 3.00% | ~22,804 |
@@ -26,11 +26,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,203 |
 | Take damage to save time | 2.00% | ~15,203 |
 | Diligence as a goal | 2.00% | ~1,389 |
-| Scareless | 1.00% | ~7,601 |
-| Dance of the Praying Mantis | 1.00% | ~7,601 |
-| Qi Gong: Mind | 1.00% | ~7,601 |
-| Kung-Fu Tussle | 1.00% | ~7,601 |
-| Project Arena | 1.00% | ~694 |
+| Scareless | 1.00% | ~7,602 |
+| Dance of the Praying Mantis | 1.00% | ~7,602 |
+| Qi Gong: Mind | 1.00% | ~7,602 |
+| Kung-Fu Tussle | 1.00% | ~7,602 |
+| Project Arena | 1.00% | ~695 |
 | Fight the way you practice | 0.80% | ~556 |
 | Muk Yan Master | 0.70% | ~5,321 |
 | Detective Story | 0.70% | ~5,321 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~69 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,138 (Ranked 26)  
+Progressed: 760,150 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
-| 2024-01-13 | 760,138 | 12,984 |
+| 2024-01-13 | 760,150 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
 Sum: 12,710 (Ranked 85)  

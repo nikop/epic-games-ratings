@@ -1,17 +1,17 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 470)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,707 |
-| Alt+F4 | 11.00% | ~27,264 |
-| Where's that freaking Dwarf? | 9.00% | ~22,307 |
-| Déjà vu | 8.00% | ~19,828 |
-| Sock! SOCK! | 6.00% | ~14,871 |
-| Speedrun | 6.00% | ~14,871 |
+| Sowwy! | 37.00% | ~91,709 |
+| Alt+F4 | 11.00% | ~27,265 |
+| Where's that freaking Dwarf? | 9.00% | ~22,308 |
+| Déjà vu | 8.00% | ~19,829 |
+| Sock! SOCK! | 6.00% | ~14,872 |
+| Speedrun | 6.00% | ~14,872 |
 | A beer, two curses, three companions | 5.00% | ~12,393 |
 | GG EZ | 5.00% | ~12,393 |
 | DM intervention | 5.00% | ~12,393 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,479 |
 | Material Girl | 1.00% | ~2,479 |
 | We come in peace | 0.90% | ~2,231 |
+| An old poacher makes the best gamekeeper | 0.80% | ~1,983 |
 | Holistic Adventuring Party | 0.70% | ~1,735 |
-| An old poacher makes the best gamekeeper | 0.70% | ~1,735 |
 | Law and Order | 0.70% | ~1,735 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,487 |
 | It's been a hard day's night | 0.50% | ~1,239 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247,856 (Ranked 72)  
+Progressed: 247,862 (Ranked 72)  
 Completed: 9 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 9 (0.00%) (Ranked 399)
 | 2024-01-10 | 247,582 | 8 |
 | 2024-01-11 | 247,677 | 8 |
 | 2024-01-12 | 247,819 | 8 |
-| 2024-01-13 | 247,856 | 9 |
+| 2024-01-13 | 247,862 | 9 |
 ## Awards
 Max (Character Customization): 268  (Ranked 278)  
 Sum: 567 (Ranked 330)  

@@ -157,10 +157,10 @@
       "Count": 168
     }
   ],
-  "EOS_Progressed": 259793,
+  "EOS_Progressed": 259953,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 26327,
-  "EOS_NewCompleters": 150,
+  "EOS_NewPlayers": 26146,
+  "EOS_NewCompleters": 149,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
     {
@@ -2017,6 +2017,11 @@
       "Time": "2024-01-13T07:06:52.4149599+00:00",
       "NumProgressed": 259793,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-13T08:08:15.7908174+00:00",
+      "NumProgressed": 259953,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -2029,7 +2034,7 @@
       "Name": "Dungeon Master",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10392
+      "UsersEstimate": 10398
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -2037,7 +2042,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 20783
+      "UsersEstimate": 20796
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -2045,7 +2050,7 @@
       "Name": "Super Catventurer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7794
+      "UsersEstimate": 7799
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -2053,7 +2058,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 64948
+      "UsersEstimate": 64988
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -2061,7 +2066,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -2069,7 +2074,7 @@
       "Name": "Level One",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "com.thegentlebros.catquest.mew_02",
@@ -2077,7 +2082,7 @@
       "Name": "Naked Cat",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "com.thegentlebros.catquest.mew_03",
@@ -2085,7 +2090,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -2093,7 +2098,7 @@
       "Name": "Stronger Enemies",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "com.thegentlebros.catquest.mew_05",
@@ -2101,7 +2106,7 @@
       "Name": "The Old Master",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "com.thegentlebros.catquest.sidequest_03",
@@ -2109,7 +2114,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 33773
+      "UsersEstimate": 33794
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -2117,14 +2122,14 @@
       "Name": "Power of the Arcane",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 54557
+      "UsersEstimate": 54590
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 259793,
+      "Progressed": 259953,
       "Completed": 456
     }
   ],
@@ -2132,8 +2137,8 @@
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-12T14:00:20.1382492+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:52.4149594+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:08:15.7908169+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.0806357+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:00:30.302784+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:52.4149843+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:01:33.0660598+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:08:15.7908393+00:00"
 }

@@ -12,8 +12,8 @@ Number of Ratings: 398  (23.09.2022)
 | Trade Is My Trait | 35.00% | ~2,488 |
 | Number 18 | 23.00% | ~1,635 |
 | We Don't Have Time For That | 18.00% | ~1,280 |
-| The Legend of Langostino | 16.00% | ~1,137 |
-| The Governator | 16.00% | ~1,137 |
+| The Legend of Langostino | 16.00% | ~1,138 |
+| The Governator | 16.00% | ~1,138 |
 | Caribbean Comrade | 15.00% | ~1,066 |
 | The Dreamer of Dreams | 15.00% | ~1,066 |
 | Happy Ending? | 10.00% | ~711 |
@@ -27,11 +27,11 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~498 |
 | Don't Panic! | 6.00% | ~427 |
 | I Owe You Nothing | 6.00% | ~427 |
-| Viva Tropico! | 5.00% | ~355 |
-| Computer Says "No" | 5.00% | ~355 |
-| Beware The Betman | 5.00% | ~355 |
-| Watch The World Burn | 5.00% | ~355 |
-| Fairy Tale Come True | 5.00% | ~355 |
+| Viva Tropico! | 5.00% | ~356 |
+| Computer Says "No" | 5.00% | ~356 |
+| Beware The Betman | 5.00% | ~356 |
+| Watch The World Burn | 5.00% | ~356 |
+| Fairy Tale Come True | 5.00% | ~356 |
 | Been there, Done That | 3.00% | ~213 |
 | Apocalypso | 3.00% | ~213 |
 | Narcissist | 3.00% | ~213 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,109 (Ranked 198)  
+Progressed: 7,110 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 2 (0.03%) (Ranked 357)
 | 2024-01-10 | 7,069 | 2 |
 | 2024-01-11 | 7,083 | 2 |
 | 2024-01-12 | 7,100 | 2 |
-| 2024-01-13 | 7,109 | 2 |
+| 2024-01-13 | 7,110 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 371)  
 Sum: 764 (Ranked 303)  

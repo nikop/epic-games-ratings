@@ -2,8 +2,8 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 454,
-  "Ranking_Popularity": 433,
+  "Ranking_Rating": 453,
+  "Ranking_Popularity": 428,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
@@ -1817,11 +1817,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 459,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-13T07:57:41.0089843+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 460,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 459,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 460,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1834,7 +1840,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1879,9 +1885,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167923,
+  "EOS_Progressed": 167930,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22899,6 +22905,11 @@
       "Time": "2024-01-13T07:06:10.7118926+00:00",
       "NumProgressed": 167923,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-13T08:06:59.6049007+00:00",
+      "NumProgressed": 167930,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22983,7 +22994,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23063,7 +23074,7 @@
       "Name": "Jawstag",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -23095,7 +23106,7 @@
       "Name": "Watcher",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1175
+      "UsersEstimate": 1176
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -23278,21 +23289,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167506,
+      "Progressed": 167513,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167923,
+      "Progressed": 167930,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:10.7118921+00:00",
+  "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:06:59.6049003+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:47.2867243+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:10.7120298+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:41.0089845+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:06:59.6050395+00:00"
 }

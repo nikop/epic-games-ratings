@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,7 +69,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1312,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 2,
@@ -3974,6 +3974,11 @@
       "Time": "2024-01-12T17:11:03.4789891+00:00",
       "NumProgressed": 1312,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-13T08:10:46.1987757+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4009,7 +4014,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -4105,7 +4110,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4145,7 +4150,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "HexlockGift",
@@ -4169,7 +4174,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "LacunaCompleted",
@@ -4185,7 +4190,7 @@
       "Name": "Cartographer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "NoCritterSump",
@@ -4193,7 +4198,7 @@
       "Name": "Wildlife Protection",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NoDeathRun",
@@ -4225,7 +4230,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ParryBoss",
@@ -4241,7 +4246,7 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4329,15 +4334,15 @@
       "Name": "Sump Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 158
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4345,7 +4350,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "TheaterChests1",
@@ -4361,7 +4366,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "WarwickDefeated",
@@ -4391,9 +4396,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 368
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4408,7 +4413,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1312,
+      "Progressed": 1313,
       "Completed": 8
     }
   ],
@@ -4416,8 +4421,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:18.7221062+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:46.1987754+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:58:09.6005101+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:18.7221594+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:58:13.0155488+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:46.1988284+00:00"
 }

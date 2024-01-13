@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 762,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.07,
   "EosHistory": [
@@ -2888,9 +2888,9 @@
       "ID": "ach_main18unholy_training",
       "SetID": "4hg22ll",
       "Name": "To Infinity And Beyond!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_main19war_completed",
@@ -2953,8 +2953,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:30.3322927+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:09:44.3489335+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:34.0546004+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:30.3323475+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:22.0215656+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:09:44.3489883+00:00"
 }

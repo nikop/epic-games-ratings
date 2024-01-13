@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 617,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 139,
@@ -4017,7 +4017,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33589,
+  "EOS_Progressed": 33591,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
@@ -25377,6 +25377,11 @@
       "Time": "2024-01-13T07:09:12.0563745+00:00",
       "NumProgressed": 33589,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-13T08:09:19.690285+00:00",
+      "NumProgressed": 33591,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25428,7 +25433,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "Collect_Spores",
@@ -25436,7 +25441,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "Collector",
@@ -25524,7 +25529,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "GB_In_Training",
@@ -25724,7 +25729,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "Terrifying",
@@ -25748,7 +25753,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "Tobins_Prodigy",
@@ -25772,7 +25777,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "Welcome_Crew",
@@ -25795,7 +25800,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33589,
+      "Progressed": 33591,
       "Completed": 71
     }
   ],
@@ -25803,8 +25808,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T04:02:39.7895166+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:12.0563741+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:09:19.6902846+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:01.8485347+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:00:51.3148565+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:12.0565441+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:02:52.248108+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:09:19.6904441+00:00"
 }

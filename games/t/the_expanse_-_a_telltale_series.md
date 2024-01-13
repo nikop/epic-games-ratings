@@ -1,21 +1,21 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 567)  
+Rating: 4.53 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,406 |
+| Oyedang, Kopengs | 18.00% | ~3,407 |
 | Captain Drummer | 15.00% | ~2,839 |
 | Celebrations are in Order | 14.00% | ~2,650 |
-| The Pit and the Pirates | 13.00% | ~2,460 |
-| Martian Music | 13.00% | ~2,460 |
-| Drone Dodger | 13.00% | ~2,460 |
-| Bosmang | 13.00% | ~2,460 |
-| Impossible Objects | 13.00% | ~2,460 |
+| The Pit and the Pirates | 13.00% | ~2,461 |
+| Martian Music | 13.00% | ~2,461 |
+| Drone Dodger | 13.00% | ~2,461 |
+| Bosmang | 13.00% | ~2,461 |
+| Impossible Objects | 13.00% | ~2,461 |
 | Spore Taste | 12.00% | ~2,271 |
 | Stogie for Fogey | 11.00% | ~2,082 |
-| Call it Even | 10.00% | ~1,892 |
+| Call it Even | 10.00% | ~1,893 |
 | Safe Cracker | 10.00% | ~488 |
 | Zen Master | 10.00% | ~488 |
 | Heal Thy Medic | 9.00% | ~1,703 |
@@ -31,17 +31,17 @@ Rating: 4.53 (Ranked 567)
 | Data Logger | 5.00% | ~946 |
 | Miraculous Maya | 5.00% | ~946 |
 | Data Master | 3.00% | ~568 |
-| Brother's Reaper | 2.00% | ~378 |
-| No Belter Left Behind | 2.00% | ~378 |
-| Debris Spree | 2.00% | ~378 |
-| Data Recoverer | 2.00% | ~378 |
+| Brother's Reaper | 2.00% | ~379 |
+| No Belter Left Behind | 2.00% | ~379 |
+| Debris Spree | 2.00% | ~379 |
+| Data Recoverer | 2.00% | ~379 |
 | Urshanabi Hoarder | 1.00% | ~189 |
 | Grave Robber | 0.80% | ~151 |
 | Data Miner | 0.70% | ~132 |
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,925 (Ranked 159)  
+Progressed: 18,927 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-10 | 18,829 | 62 |
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
-| 2024-01-13 | 18,925 | 64 |
+| 2024-01-13 | 18,927 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

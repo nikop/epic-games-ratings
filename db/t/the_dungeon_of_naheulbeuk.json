@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247856,
+  "EOS_Progressed": 247862,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1084,
+  "EOS_NewPlayers": 1085,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26003,6 +26003,11 @@
       "Time": "2024-01-13T07:10:19.2855733+00:00",
       "NumProgressed": 247856,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-13T08:10:46.7742787+00:00",
+      "NumProgressed": 247862,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26062,7 +26067,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19828
+      "UsersEstimate": 19829
     },
     {
       "ID": "Chapter2",
@@ -26414,7 +26419,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22307
+      "UsersEstimate": 22308
     },
     {
       "ID": "DwarfElf15Support",
@@ -26446,7 +26451,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14871
+      "UsersEstimate": 14872
     },
     {
       "ID": "ElfEpic",
@@ -26462,7 +26467,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91707
+      "UsersEstimate": 91709
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26510,7 +26515,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27264
+      "UsersEstimate": 27265
     },
     {
       "ID": "FollowBraztok",
@@ -26524,9 +26529,9 @@
       "ID": "FollowNarzatok",
       "SetID": "50chcgj",
       "Name": "An old poacher makes the best gamekeeper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1983
     },
     {
       "ID": "InsultLoose",
@@ -26662,7 +26667,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14871
+      "UsersEstimate": 14872
     },
     {
       "ID": "SupportCount4",
@@ -26717,21 +26722,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247856,
+      "Progressed": 247862,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247856,
+      "Progressed": 247862,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:19.2855729+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:46.7742783+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:58:22.6128616+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:19.2857532+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:58:31.8379479+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:46.7744636+00:00"
 }

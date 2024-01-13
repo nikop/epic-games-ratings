@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -2455,9 +2455,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2671,8 +2671,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:17.9147333+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:07:09.6274366+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:48.9544379+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:17.9147831+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:00:31.9098247+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:07:09.627508+00:00"
 }

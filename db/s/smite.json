@@ -2,7 +2,7 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 726,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 827,
@@ -11833,6 +11833,6 @@
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
   "LastChanged": "2024-01-13T05:56:58.6652731+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:42.0455248+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:27.2350347+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:05:29.8754849+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:12.2543249+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:06:05.0940014+00:00"
 }

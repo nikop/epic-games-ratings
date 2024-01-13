@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 453)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,717 |
 | The Hunt | 3.00% | ~5,038 |
 | Ravenous | 3.00% | ~5,038 |
-| Weeper | 2.00% | ~3,358 |
+| Weeper | 2.00% | ~3,359 |
 | Harmless | 1.00% | ~1,679 |
 | Silenced Whispers | 1.00% | ~1,679 |
 | Devourer | 1.00% | ~1,679 |
@@ -19,8 +19,8 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 0.80% | ~1,340 |
 | Jawcrab | 0.80% | ~1,343 |
 | Feast | 0.80% | ~1,343 |
-| Jawstag | 0.70% | ~1,175 |
-| Watcher | 0.70% | ~1,175 |
+| Jawstag | 0.70% | ~1,176 |
+| Watcher | 0.70% | ~1,176 |
 | Shapely | 0.60% | ~1,008 |
 | Glare | 0.60% | ~1,005 |
 | Predator | 0.60% | ~1,008 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167,923 (Ranked 84)  
+Progressed: 167,930 (Ranked 84)  
 Completed: 456 (0.27%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,14 +298,14 @@ Completed: 456 (0.27%) (Ranked 264)
 | 2024-01-10 | 167,592 | 454 |
 | 2024-01-11 | 167,713 | 455 |
 | 2024-01-12 | 167,856 | 456 |
-| 2024-01-13 | 167,923 | 456 |
+| 2024-01-13 | 167,930 | 456 |
 ## Awards
-Max (Highly Recommended): 62  (Ranked 433)  
-Sum: 459 (Ranked 342)  
-Diff (max vs sum): 91  
+Max (Highly Recommended): 63  (Ranked 428)  
+Sum: 460 (Ranked 342)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 62 |
+| This game is Highly Recommended | 63 |
 | This game has Unique Visuals | 62 |
 | This game has Challenging Combat | 61 |
 | This game is Extremely Fun | 61 |
@@ -498,3 +498,4 @@ Diff (max vs sum): 91
 | 2024-01-10 | 4.59 | - | 62 | 457 |
 | 2024-01-11 | 4.59 | - | 62 | 458 |
 | 2024-01-12 | 4.59 | - | 62 | 459 |
+| 2024-01-13 | 4.59 | - | 63 | 460 |

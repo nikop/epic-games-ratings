@@ -62,12 +62,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~166 |
 | Roman Paganism | 1.00% | ~166 |
 | Zoroastrianism | 1.00% | ~166 |
+| Mythology | 1.00% | ~166 |
 | Hanging Gardens in Babylon | 0.90% | ~149 |
 | Valiant | 0.90% | ~149 |
 | Just Difficulty | 0.90% | ~149 |
 | Artisans | 0.90% | ~149 |
 | Building Wonders | 0.90% | ~149 |
-| Mythology | 0.90% | ~149 |
 | Intercessor | 0.80% | ~133 |
 | Champions | 0.80% | ~133 |
 | Sages | 0.80% | ~133 |
@@ -78,29 +78,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.70% | ~116 |
 | Patrons | 0.70% | ~116 |
 | Statesmen | 0.70% | ~116 |
+| Temple of Solomon | 0.70% | ~116 |
 | Greece | 0.70% | ~116 |
 | Power to the People | 0.70% | ~116 |
 | Points Victory | 0.70% | ~116 |
 | Win a Single Player Game | 0.70% | ~116 |
 | Victorious | 0.60% | ~100 |
 | Landowners | 0.60% | ~100 |
+| Riders | 0.60% | ~100 |
 | Traders | 0.60% | ~100 |
 | Circus Maximus | 0.60% | ~100 |
 | Hagia Sophia | 0.60% | ~100 |
-| Temple of Solomon | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
 | Economic Reform | 0.60% | ~100 |
 | Military Prestige | 0.60% | ~100 |
 | Legionary | 0.60% | ~100 |
 | Double Victory | 0.60% | ~100 |
+| The Clergy | 0.60% | ~100 |
 | Kushite Paganism | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~83 |
 | Capable | 0.50% | ~83 |
 | Conqueror | 0.50% | ~83 |
 | Ready | 0.50% | ~83 |
 | Subjugator | 0.50% | ~83 |
-| Riders | 0.50% | ~83 |
 | Hittite Iron | 0.50% | ~83 |
 | Learn to Play 4 | 0.50% | ~83 |
 | Assyrian Paganism | 0.50% | ~83 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.50% | ~83 |
 | Cimmerian Archer | 0.50% | ~83 |
 | Ambition Victory | 0.50% | ~83 |
-| The Clergy | 0.50% | ~83 |
 | Kushite Pyramids | 0.50% | ~83 |
 | Devout | 0.40% | ~66 |
 | Invincible | 0.40% | ~66 |
@@ -123,6 +123,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.40% | ~66 |
 | Babylonia | 0.40% | ~66 |
 | Carthage | 0.40% | ~66 |
+| Egypt | 0.40% | ~66 |
 | Rome | 0.40% | ~66 |
 | Hittite Paganism | 0.40% | ~66 |
 | Gnosticism | 0.40% | ~66 |
@@ -138,7 +139,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
 | Learn to Play 5 | 0.30% | ~50 |
-| Egypt | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
 | Cataphract Archer | 0.30% | ~50 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.20% | ~33 |
 | Jerwan Aqueduct | 0.20% | ~33 |
 | Royal Library | 0.20% | ~33 |
+| Yazilikaya | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -310,7 +311,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
 | Jebel Barkal | 0.10% | ~17 |
-| Yazilikaya | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,594 (Ranked 170)  
+Progressed: 16,598 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,17 +633,17 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,594 | 5 |
+| 2024-01-13 | 16,598 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,926 (Ranked 223)  
+Sum: 1,927 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
 | This game has Diverse Characters | 224 |
 | This game is Extremely Fun | 223 |
-| This game is Highly Recommended | 222 |
+| This game is Highly Recommended | 223 |
 | This game is Educational | 220 |
 | This game has Challenging Combat | 209 |
 | This game has Amazing Characters | 202 |
@@ -845,4 +845,4 @@ Diff (max vs sum): 64
 | 2024-01-08 | 4.65 | - | 229 | 1,917 |
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
-| 2024-01-13 | 4.65 | - | 230 | 1,926 |
+| 2024-01-13 | 4.65 | - | 230 | 1,927 |

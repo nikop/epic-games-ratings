@@ -598,9 +598,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "HeartHurt",
@@ -614,9 +614,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "HonoraryAlumni",
@@ -654,9 +654,9 @@
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "MoneyCamouflage",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:44.1041363+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:07:44.5885713+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.2153552+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:00:19.2959585+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:44.1041552+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:01:14.3835783+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:07:44.5885923+00:00"
 }

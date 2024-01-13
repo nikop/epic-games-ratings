@@ -8,9 +8,9 @@
 | Hidden History | 71.00% | ~960 |
 | Commencing of Quests | 61.00% | ~825 |
 | Budding Conjuror | 60.00% | ~811 |
+| Mountain Splitter | 49.00% | ~662 |
 | Charmed by the Hunt | 49.00% | ~662 |
 | Man-Machine Master | 48.00% | ~649 |
-| Mountain Splitter | 48.00% | ~649 |
 | Subsistence Skills | 48.00% | ~649 |
 | Memory Rouser | 47.00% | ~635 |
 | Fusion Conjuror | 45.00% | ~608 |
@@ -43,9 +43,9 @@
 | Jack of All Trades | 13.00% | ~176 |
 | Canyon of Karakuri | 12.00% | ~162 |
 | Karakuri Fortress | 11.00% | ~149 |
+| Haven Hunter | 10.00% | ~135 |
 | Volatile Vocation | 9.00% | ~122 |
 | Tender Touch | 9.00% | ~122 |
-| Haven Hunter | 9.00% | ~122 |
 | Superlative View | 8.00% | ~108 |
 | Relentless Kemono Hunter | 7.00% | ~95 |
 | Vanquisher of the Volatile | 6.00% | ~81 |

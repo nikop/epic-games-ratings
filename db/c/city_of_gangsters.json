@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1054,9 +1054,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 361828,
+  "EOS_Progressed": 361831,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31669,6 +31669,11 @@
       "Time": "2024-01-13T07:06:49.2314266+00:00",
       "NumProgressed": 361828,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-13T08:07:51.5214662+00:00",
+      "NumProgressed": 361831,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -31696,7 +31701,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43419
+      "UsersEstimate": 43420
     },
     {
       "ID": "ach004",
@@ -31720,7 +31725,7 @@
       "Name": "Street Knowledge",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach007",
@@ -31736,7 +31741,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43419
+      "UsersEstimate": 43420
     },
     {
       "ID": "ach009",
@@ -31760,7 +31765,7 @@
       "Name": "Oh Captain",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach012",
@@ -31784,7 +31789,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54274
+      "UsersEstimate": 54275
     },
     {
       "ID": "ach015",
@@ -31792,7 +31797,7 @@
       "Name": "Branching Out",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach016",
@@ -31888,7 +31893,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166441
+      "UsersEstimate": 166442
     },
     {
       "ID": "ach028",
@@ -31992,7 +31997,7 @@
       "Name": "Improvement Missions",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach041",
@@ -32008,7 +32013,7 @@
       "Name": "Opportunity Knocked",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach043",
@@ -32072,7 +32077,7 @@
       "Name": "City of Big Shoulders",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach051",
@@ -32208,7 +32213,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57892
+      "UsersEstimate": 57893
     },
     {
       "ID": "ach069",
@@ -32232,7 +32237,7 @@
       "Name": "Mission Mastery",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 18091
+      "UsersEstimate": 18092
     },
     {
       "ID": "ach072",
@@ -32319,7 +32324,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 361828,
+      "Progressed": 361831,
       "Completed": 7
     }
   ],
@@ -32327,8 +32332,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-11T09:01:19.8796035+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:49.2314262+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:07:51.5214659+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:19.8615185+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:58:17.538899+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:49.2316157+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:58:24.3367731+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:07:51.5216605+00:00"
 }

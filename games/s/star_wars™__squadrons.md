@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~38,586 |
-| Safety in the Storm | 23.00% | ~9,342 |
-| A Better Idea | 23.00% | ~9,342 |
-| Begin the Ceremony | 19.00% | ~7,717 |
-| Mission Accomplished | 18.00% | ~7,311 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,093 |
-| A Starfighter of Your Own | 13.00% | ~5,280 |
-| Asset Secured | 12.00% | ~4,874 |
-| Unkillable | 7.00% | ~2,843 |
-| Together, Vanguard | 7.00% | ~2,843 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,437 |
+| Fracture at Fostar Haven | 95.00% | ~38,596 |
+| Safety in the Storm | 23.00% | ~9,344 |
+| A Better Idea | 23.00% | ~9,344 |
+| Begin the Ceremony | 19.00% | ~7,719 |
+| Mission Accomplished | 18.00% | ~7,313 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,094 |
+| A Starfighter of Your Own | 13.00% | ~5,282 |
+| Asset Secured | 12.00% | ~4,875 |
+| Unkillable | 7.00% | ~2,844 |
+| Together, Vanguard | 7.00% | ~2,844 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,438 |
 | Sound Strategy | 5.00% | ~2,031 |
 | Stomped | 5.00% | ~2,031 |
 | Fearless | 4.00% | ~1,625 |
@@ -26,16 +26,16 @@
 | Temporary Guardian | 3.00% | ~1,219 |
 | Baited | 3.00% | ~1,219 |
 | Punch It | 3.00% | ~1,219 |
-| Stun 'Em | 2.00% | ~812 |
-| Squadron Hunter | 2.00% | ~812 |
-| Combat Pilot | 2.00% | ~812 |
-| Dressed for the Job You Want | 2.00% | ~812 |
+| Stun 'Em | 2.00% | ~813 |
+| Squadron Hunter | 2.00% | ~813 |
+| Combat Pilot | 2.00% | ~813 |
+| Dressed for the Job You Want | 2.00% | ~813 |
 | I Have You Now | 1.00% | ~406 |
 | Against the Current | 0.80% | ~325 |
 | Denied | 0.70% | ~284 |
 | Found Your Place | 0.60% | ~244 |
 | Unstoppable Ace | 0.50% | ~203 |
-| Special Modifications | 0.40% | ~162 |
+| Special Modifications | 0.40% | ~163 |
 | Seasoned Star Pilot | 0.30% | ~122 |
 | Heavy Hitter | 0.30% | ~122 |
 | The Trap is Set | 0.30% | ~122 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~41 |
 | Ultimate Weapon | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,617 (Ranked 135)  
+Progressed: 40,627 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 3 (0.01%) (Ranked 375)
 | 2024-01-10 | 39,988 | 3 |
 | 2024-01-11 | 40,244 | 3 |
 | 2024-01-12 | 40,533 | 3 |
-| 2024-01-13 | 40,617 | 3 |
+| 2024-01-13 | 40,627 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

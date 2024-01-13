@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1352,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4491,9 +4491,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_20",
@@ -4739,9 +4739,9 @@
       "ID": "achievement_48",
       "SetID": "2cpn27e",
       "Name": "Haven Hunter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_5",
@@ -4793,8 +4793,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:44.9386939+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:03.377808+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:58:41.5538343+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:44.9387687+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:59:00.2169598+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:03.377857+00:00"
 }

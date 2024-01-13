@@ -5,17 +5,17 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 88.00% | ~437 |
-| Luc Piette | 74.00% | ~368 |
-| Angeline Van den Bosch | 72.00% | ~358 |
-| Elizabeth Padget | 69.00% | ~343 |
-| Little Grey Cells | 68.00% | ~338 |
-| The Bracelet | 65.00% | ~323 |
-| Florette Duval | 54.00% | ~268 |
-| The Blackmail | 53.00% | ~263 |
-| Major Felix Hagen | 53.00% | ~263 |
-| Order and Method | 52.00% | ~258 |
-| Fine-toothed Comb | 52.00% | ~258 |
+| It Wasn’t a Burglary | 88.00% | ~438 |
+| Luc Piette | 74.00% | ~369 |
+| Angeline Van den Bosch | 72.00% | ~359 |
+| Elizabeth Padget | 69.00% | ~344 |
+| Little Grey Cells | 67.00% | ~334 |
+| The Bracelet | 65.00% | ~324 |
+| Florette Duval | 54.00% | ~269 |
+| The Blackmail | 53.00% | ~264 |
+| Major Felix Hagen | 53.00% | ~264 |
+| Fine-toothed Comb | 52.00% | ~259 |
+| Order and Method | 51.00% | ~254 |
 | The Altercation | 49.00% | ~244 |
 | Truth from Within | 47.00% | ~234 |
 | The Major | 46.00% | ~229 |
@@ -41,18 +41,18 @@ Rating: 4.38 (Ranked 797)
 | Archibald Sterling | 26.00% | ~129 |
 | Viscount Edwin Van den Bosch | 26.00% | ~129 |
 | Exquisite Artwork | 25.00% | ~124 |
-| Well-prepared | 22.00% | ~109 |
-| The Truth | 21.00% | ~104 |
-| What Else Did I Miss? | 19.00% | ~94 |
-| I Like an Audience | 19.00% | ~94 |
-| The Denouement | 18.00% | ~89 |
-| Sunken Secrets | 18.00% | ~89 |
+| Well-prepared | 21.00% | ~105 |
+| The Truth | 21.00% | ~105 |
+| I Like an Audience | 19.00% | ~95 |
+| The Denouement | 18.00% | ~90 |
+| Sunken Secrets | 18.00% | ~90 |
+| What Else Did I Miss? | 18.00% | ~90 |
 | Probably the Greatest Detective in the World | 13.00% | ~65 |
 | Take a Break | 11.00% | ~55 |
 | Room with a View | 7.00% | ~35 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 358)  
+Progressed: 498 (Ranked 358)  
 Completed: 7 (1.41%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 7 (1.41%) (Ranked 155)
 | 2024-01-06 | 495 | 6 |
 | 2024-01-08 | 496 | 7 |
 | 2024-01-10 | 497 | 7 |
+| 2024-01-13 | 498 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

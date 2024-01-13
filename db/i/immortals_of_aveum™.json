@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 580,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3387,
+  "EOS_Progressed": 3388,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5405,6 +5405,11 @@
       "Time": "2024-01-13T06:10:16.914033+00:00",
       "NumProgressed": 3387,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T08:10:34.3508379+00:00",
+      "NumProgressed": 3388,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5505,7 +5510,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "achievement_20",
@@ -5553,15 +5558,15 @@
       "Name": "Scholar",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2338
     },
     {
       "ID": "achievement_36",
@@ -5569,7 +5574,7 @@
       "Name": "Armsman",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "achievement_37",
@@ -5593,7 +5598,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "achievement_41",
@@ -5601,7 +5606,7 @@
       "Name": "Armaments Azure",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_42",
@@ -5617,7 +5622,7 @@
       "Name": "Armaments Vert",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_44",
@@ -5649,7 +5654,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2541
     },
     {
       "ID": "achievement_49",
@@ -5713,7 +5718,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "achievement_60",
@@ -5769,7 +5774,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "achievement_8",
@@ -5792,7 +5797,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3387,
+      "Progressed": 3388,
       "Completed": 4
     }
   ],
@@ -5800,8 +5805,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-13T05:59:39.1565143+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:08.7342179+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:34.3508378+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.8440656+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:00:10.4573678+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:08.7342832+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:01:01.5168715+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:34.3508844+00:00"
 }

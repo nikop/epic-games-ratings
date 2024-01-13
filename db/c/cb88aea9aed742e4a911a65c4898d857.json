@@ -341,9 +341,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11231,
+  "EOS_Progressed": 11233,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 911,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4701,6 +4701,11 @@
       "Time": "2024-01-13T06:10:19.7362267+00:00",
       "NumProgressed": 11231,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T08:10:37.7540432+00:00",
+      "NumProgressed": 11233,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4721,7 +4726,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4873,7 +4878,7 @@
       "Name": "Perfect Timing",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "23_DynastyRestored",
@@ -4921,7 +4926,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5041,7 +5046,7 @@
       "Name": "No Place Like Home",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5232,7 +5237,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11231,
+      "Progressed": 11233,
       "Completed": 1
     }
   ],
@@ -5240,8 +5245,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T06:00:00.7016199+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:11.4655866+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:37.7540426+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:00:33.2612131+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:11.4656723+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:01:36.3060796+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:37.7541262+00:00"
 }

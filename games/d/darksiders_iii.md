@@ -36,8 +36,8 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 26.00% | ~150 |
 | Cleanup Crew | 25.00% | ~144 |
 | Crowd Source | 25.00% | ~144 |
+| Demon Meddler | 24.00% | ~138 |
 | Seeing Red | 24.00% | ~138 |
-| Demon Meddler | 23.00% | ~132 |
 | Maximum Capacity | 22.00% | ~126 |
 | Egomaniac | 22.00% | ~126 |
 | Protector of Humanity | 20.00% | ~115 |

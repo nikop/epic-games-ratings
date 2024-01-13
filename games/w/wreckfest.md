@@ -11,7 +11,7 @@ Rating: 4.27 (Ranked 908)
 | Regional Juniors Champion | 31.00% | ~346 |
 | Wheeler Dealer | 24.00% | ~268 |
 | Look Mom, I Can Fly | 22.00% | ~246 |
-| National Amateurs Champion | 17.00% | ~190 |
+| National Amateurs Champion | 18.00% | ~201 |
 | Junk Collector | 14.00% | ~156 |
 | Trashing Around | 14.00% | ~156 |
 | Hating Them Tin Cans | 14.00% | ~156 |

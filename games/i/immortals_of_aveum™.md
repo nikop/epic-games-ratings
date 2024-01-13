@@ -6,13 +6,13 @@ Rating: 4.20 (Ranked 968)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~2,981 |
-| Battlefields Have Memories | 81.00% | ~2,743 |
-| Enlisted | 75.00% | ~2,540 |
-| Maybe Engage a Little | 70.00% | ~2,371 |
-| No More Names | 53.00% | ~1,795 |
+| Battlefields Have Memories | 81.00% | ~2,744 |
+| Enlisted | 75.00% | ~2,541 |
+| Maybe Engage a Little | 69.00% | ~2,338 |
+| No More Names | 53.00% | ~1,796 |
 | Initiate | 39.00% | ~1,321 |
-| Thrada-Kul | 35.00% | ~1,185 |
-| Gravity-Challenged Rocks | 29.00% | ~982 |
+| Thrada-Kul | 35.00% | ~1,186 |
+| Gravity-Challenged Rocks | 29.00% | ~983 |
 | Soldier | 25.00% | ~847 |
 | Socialite | 24.00% | ~813 |
 | All the Major Food Groups | 24.00% | ~813 |
@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 968)
 | Geas Aristeya | 15.00% | ~508 |
 | A Perfect Cycle | 14.00% | ~474 |
 | Recruit | 14.00% | ~474 |
-| Armsman | 12.00% | ~406 |
+| Armsman | 12.00% | ~407 |
 | Lights Army | 10.00% | ~339 |
 | Periapt Cerulean | 8.00% | ~271 |
 | Good Boy | 8.00% | ~271 |
@@ -34,9 +34,9 @@ Rating: 4.20 (Ranked 968)
 | Shroudfane Explorer | 6.00% | ~203 |
 | Kitted Out | 5.00% | ~169 |
 | Armaments Gules | 5.00% | ~169 |
-| Scholar | 4.00% | ~135 |
-| Armaments Azure | 4.00% | ~135 |
-| Armaments Vert | 4.00% | ~135 |
+| Scholar | 4.00% | ~136 |
+| Armaments Azure | 4.00% | ~136 |
+| Armaments Vert | 4.00% | ~136 |
 | Grand Magnus | 2.00% | ~68 |
 | Veteran | 2.00% | ~68 |
 | Master of Carmine | 1.00% | ~34 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 968)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,387 (Ranked 229)  
+Progressed: 3,388 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 4 (0.12%) (Ranked 305)
 | 2024-01-10 | 3,285 | 4 |
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
-| 2024-01-13 | 3,387 | 4 |
+| 2024-01-13 | 3,388 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 579)  
 Sum: 20 (Ranked 580)  

@@ -280,9 +280,9 @@
       "ID": "beautiful",
       "SetID": "d4692al",
       "Name": "It\u0027s beautiful",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "beginner",
@@ -384,9 +384,9 @@
       "ID": "happyVisitors",
       "SetID": "d4692al",
       "Name": "Happy visitors",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "indoorlands",
@@ -480,9 +480,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "visitorLife",
@@ -519,8 +519,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:08:47.4374164+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:08:47.6191111+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:44.4005278+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:08:47.4374377+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:37.0062214+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:08:47.619139+00:00"
 }

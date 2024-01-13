@@ -900,9 +900,9 @@
       "ID": "StrangerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "A Strange Proposition",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -1069,8 +1069,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:04:44.5265961+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:05:05.9436803+00:00",
   "LastUpdate_AppInfo": "2024-01-06T19:56:57.5094104+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:58.7470199+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:04:44.5266322+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:00:47.0860739+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:05:05.9437229+00:00"
 }

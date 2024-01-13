@@ -1,11 +1,11 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 530)  
+Rating: 4.55 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,762 |
+| Getting Started | 81.00% | ~15,763 |
 | Pay 'n' Spray | 50.00% | ~9,730 |
 | All Dressed Up for San Fierro | 25.00% | ~4,865 |
 | The American Dream | 19.00% | ~3,697 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 530)
 | ...Here we go again | 0.50% | ~97 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,459 (Ranked 157)  
+Progressed: 19,460 (Ranked 157)  
 Completed: 77 (0.40%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 77 (0.40%) (Ranked 240)
 | 2024-01-10 | 19,333 | 75 |
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
-| 2024-01-13 | 19,459 | 77 |
+| 2024-01-13 | 19,460 | 77 |
 ## Awards
 Max (Great Boss Battles): 659  (Ranked 201)  
 Sum: 1,055 (Ranked 271)  

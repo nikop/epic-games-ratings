@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,050 |
-| Autodidact | 8.00% | ~10,610 |
+| Autodidact | 8.00% | ~10,611 |
 | Lost and Found | 8.00% | ~600 |
 | This Belongs in a Museum | 7.00% | ~9,284 |
 | This guy... again? | 7.00% | ~525 |
@@ -17,16 +17,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~7,958 |
 | Ploughshares to Swords | 6.00% | ~450 |
 | Bloody Graduation | 6.00% | ~450 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,631 |
-| It Rings a Bell | 5.00% | ~6,631 |
-| Not Today! | 5.00% | ~6,631 |
-| Meat and Greet | 5.00% | ~6,631 |
-| Catch and Decease | 5.00% | ~6,631 |
-| It Happens | 5.00% | ~6,631 |
-| Rush Hour | 5.00% | ~6,631 |
-| To Grandmother's House | 5.00% | ~6,631 |
-| A Place to Lay Your Head | 5.00% | ~6,631 |
-| FNG | 5.00% | ~6,631 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,632 |
+| It Rings a Bell | 5.00% | ~6,632 |
+| Not Today! | 5.00% | ~6,632 |
+| Meat and Greet | 5.00% | ~6,632 |
+| Catch and Decease | 5.00% | ~6,632 |
+| It Happens | 5.00% | ~6,632 |
+| Rush Hour | 5.00% | ~6,632 |
+| To Grandmother's House | 5.00% | ~6,632 |
+| A Place to Lay Your Head | 5.00% | ~6,632 |
+| FNG | 5.00% | ~6,632 |
 | Unfulfilled Desires | 4.00% | ~5,305 |
 | Dissector | 4.00% | ~5,305 |
 | Banishment | 4.00% | ~5,305 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 1.00% | ~75 |
 | Slap on the Wrist | 1.00% | ~75 |
 | For Old Time' Sake | 1.00% | ~75 |
-| Et Tu, Riposte? | 0.90% | ~67 |
+| Et Tu, Riposte? | 0.90% | ~68 |
 | The World As It Was | 0.70% | ~928 |
 | A Life Well Lived | 0.60% | ~796 |
 | Bacon Bits | 0.60% | ~796 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,628 (Ranked 91)  
+Progressed: 132,633 (Ranked 91)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 132,395 | 4 |
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
-| 2024-01-13 | 132,628 | 4 |
+| 2024-01-13 | 132,633 | 4 |
 ## Awards
 Max (Character Customization): 8,007  (Ranked 51)  
 Sum: 21,612 (Ranked 58)  

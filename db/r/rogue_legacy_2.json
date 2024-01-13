@@ -1602,9 +1602,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28274,
+  "EOS_Progressed": 28275,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -13977,6 +13977,11 @@
       "Time": "2024-01-13T06:10:15.6896707+00:00",
       "NumProgressed": 28274,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-13T08:10:32.7163793+00:00",
+      "NumProgressed": 28275,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14084,7 +14089,7 @@
       "Name": "Hands and Hammers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "BossFinalAdvancedDefeated",
@@ -14100,7 +14105,7 @@
       "Name": "King and Kin",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -14132,7 +14137,7 @@
       "Name": "Progenitor and Prot\u00E9g\u00E9",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -14164,7 +14169,7 @@
       "Name": "Suns and Soldiers",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "BoxerBoss",
@@ -14244,7 +14249,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "RogueMode",
@@ -14299,21 +14304,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28274,
+      "Progressed": 28275,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7204,
+      "Progressed": 7205,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-13T04:59:20.2152369+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:07.521261+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:32.7163789+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.4635805+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:25.329656+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:07.5213607+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:59:59.7271823+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:32.7164621+00:00"
 }

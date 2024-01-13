@@ -2,7 +2,7 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 741,
+  "Ranking_Rating": 742,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 52,
@@ -2847,10 +2847,10 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 396096,
+  "EOS_Progressed": 396121,
   "EOS_Completed": 1590,
-  "EOS_NewPlayers": 8812,
-  "EOS_NewCompleters": 112,
+  "EOS_NewPlayers": 8795,
+  "EOS_NewCompleters": 111,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -20782,6 +20782,11 @@
       "Time": "2024-01-13T07:08:48.3168738+00:00",
       "NumProgressed": 396096,
       "NumCompleted": 1590
+    },
+    {
+      "Time": "2024-01-13T08:08:48.7345321+00:00",
+      "NumProgressed": 396121,
+      "NumCompleted": 1590
     }
   ],
   "TotalAchievements": 24,
@@ -20801,7 +20806,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23766
+      "UsersEstimate": 23767
     },
     {
       "ID": "11",
@@ -20833,7 +20838,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 35649
+      "UsersEstimate": 35651
     },
     {
       "ID": "15",
@@ -20889,7 +20894,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19805
+      "UsersEstimate": 19806
     },
     {
       "ID": "21",
@@ -20921,7 +20926,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15844
+      "UsersEstimate": 15845
     },
     {
       "ID": "3",
@@ -20937,7 +20942,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11883
+      "UsersEstimate": 11884
     },
     {
       "ID": "5",
@@ -20945,7 +20950,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51492
+      "UsersEstimate": 51496
     },
     {
       "ID": "6",
@@ -20953,7 +20958,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15844
+      "UsersEstimate": 15845
     },
     {
       "ID": "7",
@@ -20984,7 +20989,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 396096,
+      "Progressed": 396121,
       "Completed": 1590
     }
   ],
@@ -20992,8 +20997,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-13T06:59:52.3038423+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:08:48.3168731+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:08:48.7345315+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.3145678+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:52.3038429+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:08:48.3169774+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:00:37.6840152+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:08:48.7346288+00:00"
 }

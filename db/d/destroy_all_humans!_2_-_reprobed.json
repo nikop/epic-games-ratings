@@ -2,12 +2,12 @@
   "ID": "4d62b26703d24f6d919750b3d88b6d52",
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -1916,6 +1916,11 @@
       "Time": "2024-01-13T06:09:40.0454916+00:00",
       "NumProgressed": 422,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T08:09:46.0237992+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1928,7 +1933,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2040,7 +2045,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2064,7 +2069,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2072,7 +2077,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -2080,7 +2085,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2096,7 +2101,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2104,7 +2109,7 @@
       "Name": "Kaijuiced",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2176,7 +2181,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2216,7 +2221,7 @@
       "Name": "Dusted",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2279,7 +2284,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 2
     }
   ],
@@ -2287,8 +2292,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:31.6514946+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:09:46.0237988+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:18.0071629+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:00:01.7894613+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:31.6515284+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:00:51.8255855+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:09:46.0238392+00:00"
 }

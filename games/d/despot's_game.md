@@ -1,7 +1,7 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 617)  
+Rating: 4.50 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,8 +18,8 @@ Rating: 4.50 (Ranked 617)
 | He's Seen It All | 28.00% | ~140 |
 | Great Hero | 28.00% | ~140 |
 | Campaigning | 27.00% | ~135 |
+| Catch Jonathan_tostar | 27.00% | ~135 |
 | Rookie | 27.00% | ~135 |
-| Catch Jonathan_tostar | 26.00% | ~130 |
 | Assemble a Meganewbie | 24.00% | ~120 |
 | Frugal | 21.00% | ~105 |
 | Feed a God | 21.00% | ~105 |

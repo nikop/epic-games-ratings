@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 579,
+  "Ranking_Rating": 578,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1325,6 +1325,11 @@
       "Time": "2024-01-12T15:07:40.9944804+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T08:07:47.9448872+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1360,7 +1365,7 @@
       "Name": "B-asic!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ALLMODULESS",
@@ -1488,7 +1493,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1568,7 +1573,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "FLYLONG",
@@ -1632,7 +1637,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "ONELIVERY",
@@ -1686,9 +1691,9 @@
       "ID": "PARMESANCHEESE",
       "SetID": "3dh70f3",
       "Name": "A Cheese Grater to the Face",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 230
     },
     {
       "ID": "TENPLATINUM",
@@ -1751,7 +1756,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1211,
       "Completed": 0
     }
   ],
@@ -1759,8 +1764,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-12-19T23:02:44.1554509+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:46.7086097+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:07:47.9448869+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:52.4033181+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:03:31.7654289+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:46.7086723+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:03:32.9597987+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:07:47.9449352+00:00"
 }

@@ -10794,9 +10794,9 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132628,
+  "EOS_Progressed": 132633,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39619,6 +39619,11 @@
       "Time": "2024-01-13T07:10:02.6015281+00:00",
       "NumProgressed": 132628,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T08:10:26.8997904+00:00",
+      "NumProgressed": 132633,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39630,7 +39635,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -39646,7 +39651,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -39782,7 +39787,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -39830,7 +39835,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -39846,7 +39851,7 @@
       "Name": "Catch and Decease",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "combat_kill_librarian",
@@ -39902,7 +39907,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -39926,7 +39931,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -39950,7 +39955,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "driving_distance_easy",
@@ -39982,7 +39987,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10610
+      "UsersEstimate": 10611
     },
     {
       "ID": "hero_story_complete_all",
@@ -40022,7 +40027,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -40038,7 +40043,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "inn_visit_all_variants",
@@ -40206,7 +40211,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -40261,21 +40266,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132628,
+      "Progressed": 132633,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7497,
+      "Progressed": 7502,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-13T01:49:01.7207298+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:02.6015278+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:26.89979+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:39.7285278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:29.8532514+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:02.6017493+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:16.1475118+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:26.8999708+00:00"
 }

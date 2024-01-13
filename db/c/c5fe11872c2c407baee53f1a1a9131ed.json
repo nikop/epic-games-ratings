@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 502,
+  "Ranking_EOS_NewPlayers": 503,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "ach_endless_h_30",
       "SetID": "5a4225j",
       "Name": "Endless Hardcore 30 Seconds",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_endless_winter",
@@ -979,9 +979,9 @@
       "ID": "ach_sploder_zone",
       "SetID": "5a4225j",
       "Name": "Won Sploder Zone",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_spreader_zone",
@@ -1018,8 +1018,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:06:37.064034+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:07:35.0396232+00:00",
   "LastUpdate_AppInfo": "2024-01-06T16:57:11.79685+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:57:45.4295133+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:06:37.0640609+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:57:38.4142039+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:07:35.0396714+00:00"
 }

@@ -2201,9 +2201,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22255,
+  "EOS_Progressed": 22257,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 1013,
+  "EOS_NewPlayers": 1011,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13701,6 +13701,11 @@
       "Time": "2024-01-13T07:09:50.988628+00:00",
       "NumProgressed": 22255,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-13T08:10:11.5326678+00:00",
+      "NumProgressed": 22257,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13744,7 +13749,7 @@
       "Name": "Flesh Wound",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 5786
+      "UsersEstimate": 5787
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13776,7 +13781,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -13816,7 +13821,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4896
+      "UsersEstimate": 4897
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13856,7 +13861,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -13880,7 +13885,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "PRINT_WEAPON",
@@ -13912,7 +13917,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "STORY_HABITAT",
@@ -14087,13 +14092,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22255,
+      "Progressed": 22257,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10181,
+      "Progressed": 10183,
       "Completed": 29
     }
   ],
@@ -14101,8 +14106,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-12T18:03:09.9063195+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:50.9886277+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:11.5326672+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T07:03:39.4627153+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:50.9887004+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:03:43.375632+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:11.5327878+00:00"
 }

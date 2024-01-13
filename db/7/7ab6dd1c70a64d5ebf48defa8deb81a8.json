@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2281,
+  "EOS_Progressed": 2282,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4416,6 +4416,11 @@
       "Time": "2024-01-13T07:10:13.1500366+00:00",
       "NumProgressed": 2281,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T08:10:39.3558284+00:00",
+      "NumProgressed": 2282,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4459,7 +4464,7 @@
       "Name": "To Battle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_06",
@@ -4467,7 +4472,7 @@
       "Name": "Godslayer",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_07",
@@ -4531,7 +4536,7 @@
       "Name": "Airborne",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_15",
@@ -4563,7 +4568,7 @@
       "Name": "Shatter Them All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_19",
@@ -4603,7 +4608,7 @@
       "Name": "Geared Up",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_24",
@@ -4643,7 +4648,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH_29",
@@ -4714,7 +4719,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2281,
+      "Progressed": 2282,
       "Completed": 3
     }
   ],
@@ -4722,8 +4727,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-11T14:57:15.6904807+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:10:13.1500363+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:39.3558281+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:58:19.105661+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:10:13.1500866+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:58:26.4441328+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:39.355878+00:00"
 }

@@ -313,9 +313,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18504,
+  "EOS_Progressed": 18505,
   "EOS_Completed": 320,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 764,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
@@ -9758,6 +9758,11 @@
       "Time": "2024-01-13T07:09:49.0768036+00:00",
       "NumProgressed": 18504,
       "NumCompleted": 320
+    },
+    {
+      "Time": "2024-01-13T08:10:09.0226138+00:00",
+      "NumProgressed": 18505,
+      "NumCompleted": 320
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9778,7 +9783,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 14988
+      "UsersEstimate": 14989
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -9794,7 +9799,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -9874,7 +9879,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -9938,7 +9943,7 @@
       "Name": "The Flash",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -9954,7 +9959,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 10732
+      "UsersEstimate": 10733
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -9978,7 +9983,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9807
+      "UsersEstimate": 9808
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10018,7 +10023,7 @@
       "Name": "FIRST LOVE",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -10034,7 +10039,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6106
+      "UsersEstimate": 6107
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -10042,7 +10047,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5736
+      "UsersEstimate": 5737
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -10066,7 +10071,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5921
+      "UsersEstimate": 5922
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -10074,7 +10079,7 @@
       "Name": "Worthless Speech",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -10082,7 +10087,7 @@
       "Name": "Drama King",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10105,7 +10110,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18504,
+      "Progressed": 18505,
       "Completed": 320
     }
   ],
@@ -10113,8 +10118,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-12T16:59:43.8842991+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:49.0768032+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:09.0226134+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:39.1181663+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:49.0768948+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:00:19.4426336+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:09.022677+00:00"
 }

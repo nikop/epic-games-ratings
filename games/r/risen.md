@@ -1,23 +1,23 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 511)  
+Rating: 4.56 (Ranked 510)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~176 |
-| Map reader | 64.00% | ~125 |
-| Adventurer | 63.00% | ~123 |
-| Philanthropist | 59.00% | ~115 |
+| Beginner | 89.00% | ~174 |
+| Map reader | 63.00% | ~123 |
+| Adventurer | 62.00% | ~122 |
+| Philanthropist | 59.00% | ~116 |
 | Archer | 40.00% | ~78 |
 | The brave little tailor | 39.00% | ~76 |
-| Field hand | 36.00% | ~70 |
-| Well-to-do | 32.00% | ~62 |
+| Field hand | 36.00% | ~71 |
+| Well-to-do | 32.00% | ~63 |
 | Samaritan | 28.00% | ~55 |
 | Ladies' man | 28.00% | ~55 |
 | The merciful one | 27.00% | ~53 |
-| Idiot | 23.00% | ~45 |
 | Ferocious wild boars | 22.00% | ~43 |
+| Idiot | 22.00% | ~43 |
 | Beast slayer | 21.00% | ~41 |
 | Ogre friend | 19.00% | ~37 |
 | Death of a legend | 18.00% | ~35 |
@@ -32,10 +32,10 @@ Rating: 4.56 (Ranked 511)
 | Ghost hunter | 14.00% | ~27 |
 | Master detective | 14.00% | ~27 |
 | Pandora's box | 13.00% | ~25 |
-| Peacekeeper | 12.00% | ~23 |
-| Defender | 11.00% | ~21 |
-| Showdown | 11.00% | ~21 |
-| Workaholic | 11.00% | ~21 |
+| Peacekeeper | 12.00% | ~24 |
+| Defender | 11.00% | ~22 |
+| Showdown | 11.00% | ~22 |
+| Workaholic | 11.00% | ~22 |
 | Safecracker | 10.00% | ~20 |
 | Titan Lord | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 511)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 433)  
+Progressed: 196 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 188 | 0 |
 | 2024-01-11 | 191 | 0 |
 | 2024-01-12 | 193 | 0 |
-| 2024-01-13 | 195 | 0 |
+| 2024-01-13 | 196 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

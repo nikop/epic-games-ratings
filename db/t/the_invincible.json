@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 265,
@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1657,
+  "EOS_Progressed": 1658,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4364,6 +4364,11 @@
       "Time": "2024-01-13T07:09:48.8573159+00:00",
       "NumProgressed": 1657,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T08:10:08.8081343+00:00",
+      "NumProgressed": 1658,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4406,9 +4411,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 381
+      "UsersEstimate": 365
     },
     {
       "ID": "AchvBombing",
@@ -4456,7 +4461,7 @@
       "Name": "Evacuation",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "AchvInvShip",
@@ -4544,7 +4549,7 @@
       "Name": "The field base",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "AchvReachCamp",
@@ -4552,7 +4557,7 @@
       "Name": "The Camp",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "AchvReachCity",
@@ -4560,7 +4565,7 @@
       "Name": "The City",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "AchvReachCondor",
@@ -4607,7 +4612,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1657,
+      "Progressed": 1658,
       "Completed": 1
     }
   ],
@@ -4615,8 +4620,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:09:48.8573154+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:10:08.8081338+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:59:46.4290048+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:09:48.857353+00:00"
+  "LastUpdate_Ratings": "2024-01-13T08:00:28.2007203+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:10:08.8082146+00:00"
 }

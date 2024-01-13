@@ -15,9 +15,9 @@
 | Conciliator | 9.00% | ~27 |
 | Fight Another Day | 9.00% | ~27 |
 | Taskmaster | 9.00% | ~27 |
+| The More the Merrier | 7.00% | ~21 |
 | Acquaintance | 7.00% | ~21 |
 | Scholar | 6.00% | ~18 |
-| The More the Merrier | 6.00% | ~18 |
 | Harbinger | 6.00% | ~18 |
 | Tail-wind | 6.00% | ~18 |
 | Pilgrimage's End | 6.00% | ~18 |

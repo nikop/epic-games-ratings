@@ -1,24 +1,24 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.44 (Ranked 705)  
+Rating: 4.44 (Ranked 706)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~35,440 |
-| Quick Understanding of Block Extrusion | 68.00% | ~32,133 |
-| Nature or Nurture | 52.00% | ~24,572 |
-| Power Glove | 50.00% | ~23,627 |
-| Forgotten Memories | 43.00% | ~20,319 |
-| Cogs in the Machine | 37.00% | ~17,484 |
-| Mission Success | 23.00% | ~10,868 |
-| There's No Place Like Home | 23.00% | ~10,868 |
-| Green Cube Killer | 20.00% | ~9,451 |
+| Lost in Space | 75.00% | ~35,444 |
+| Quick Understanding of Block Extrusion | 68.00% | ~32,135 |
+| Nature or Nurture | 52.00% | ~24,574 |
+| Power Glove | 50.00% | ~23,629 |
+| Forgotten Memories | 43.00% | ~20,321 |
+| Cogs in the Machine | 37.00% | ~17,485 |
+| Mission Success | 23.00% | ~10,869 |
+| There's No Place Like Home | 23.00% | ~10,869 |
+| Green Cube Killer | 20.00% | ~9,452 |
 | Path to Salvation | 18.00% | ~8,506 |
-| Infinity Loop | 17.00% | ~8,033 |
-| Descendants | 15.00% | ~7,088 |
-| The Flawed Teacher | 13.00% | ~6,143 |
+| Infinity Loop | 17.00% | ~8,034 |
+| Descendants | 15.00% | ~7,089 |
+| The Flawed Teacher | 13.00% | ~6,144 |
 | To Infinity and Beyond | 6.00% | ~2,835 |
 | The Truthful Enemy | 5.00% | ~2,363 |
 | Laser Sharp | 3.00% | ~1,418 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~473 |
 | Expert Collector | 1.00% | ~473 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,254 (Ranked 126)  
+Progressed: 47,258 (Ranked 126)  
 Completed: 238 (0.50%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 238 (0.50%) (Ranked 224)
 | 2024-01-10 | 47,040 | 237 |
 | 2024-01-11 | 47,121 | 238 |
 | 2024-01-12 | 47,225 | 238 |
-| 2024-01-13 | 47,254 | 238 |
+| 2024-01-13 | 47,258 | 238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

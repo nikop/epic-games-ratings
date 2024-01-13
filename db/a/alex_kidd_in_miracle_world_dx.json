@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1029,6 +1029,11 @@
       "Time": "2024-01-12T20:04:06.6734346+00:00",
       "NumProgressed": 442,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T08:05:05.7425575+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1167,7 +1172,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 4
     }
   ],
@@ -1175,8 +1180,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-13T07:04:44.4012224+00:00",
+  "LastChanged_Achievements": "2024-01-13T08:05:05.742557+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:23.883052+00:00",
-  "LastUpdate_Ratings": "2024-01-13T06:58:01.8550846+00:00",
-  "LastUpdate_Achievements": "2024-01-13T07:04:44.4012393+00:00"
+  "LastUpdate_Ratings": "2024-01-13T07:58:01.4743142+00:00",
+  "LastUpdate_Achievements": "2024-01-13T08:05:05.7425713+00:00"
 }

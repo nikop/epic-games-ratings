@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 617)  
+Rating: 4.50 (Ranked 616)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,12 +11,12 @@ Rating: 4.50 (Ranked 617)
 | Discovery | 6.00% | ~2,015 |
 | Solo Capture | 6.00% | ~2,015 |
 | Swift Rift Removers | 6.00% | ~2,015 |
-| Clutch Capture | 5.00% | ~1,679 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,679 |
-| Fully Upgraded | 5.00% | ~1,679 |
-| Teamwork | 5.00% | ~1,679 |
-| There you are! | 5.00% | ~1,679 |
-| Vaporous Expansion | 5.00% | ~1,679 |
+| Clutch Capture | 5.00% | ~1,680 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,680 |
+| Fully Upgraded | 5.00% | ~1,680 |
+| Teamwork | 5.00% | ~1,680 |
+| There you are! | 5.00% | ~1,680 |
+| Vaporous Expansion | 5.00% | ~1,680 |
 | Cultured | 4.00% | ~1,344 |
 | Daily Dose | 4.00% | ~1,344 |
 | Ghostbuster In Training | 4.00% | ~1,344 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,589 (Ranked 139)  
+Progressed: 33,591 (Ranked 139)  
 Completed: 71 (0.21%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 71 (0.21%) (Ranked 279)
 | 2024-01-10 | 33,517 | 71 |
 | 2024-01-11 | 33,549 | 71 |
 | 2024-01-12 | 33,580 | 71 |
-| 2024-01-13 | 33,589 | 71 |
+| 2024-01-13 | 33,591 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 257)  
 Sum: 2,964 (Ranked 187)  
