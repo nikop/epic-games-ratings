@@ -154,7 +154,7 @@
 | 149 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 7,246 | 56 |
 | 149 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.75 | 0 | 585 |
 | 149 | [Beyond Good & Evil](games/b/beyond_good_&_evil.md) | 4.75 | 0 | 585 |
-| 149 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 912 | 172 |
+| 149 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 918 | 171 |
 | 149 | [Dungeons 4](games/d/dungeons_4.md) | 4.75 | 0 | 585 |
 | 149 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,368 | 143 |
 | 149 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.75 | 30,445 | 16 |
@@ -176,7 +176,7 @@
 | 167 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 152 | 332 |
 | 167 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.74 | 0 | 585 |
 | 167 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.74 | 0 | 585 |
-| 167 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 890 | 175 |
+| 167 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 891 | 174 |
 | 167 | [The Machines Arena](games/t/the_machines_arena.md) | 4.74 | 0 | 585 |
 | 167 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 94 | 392 |
 | 167 | [Townscaper](games/t/townscaper.md) | 4.74 | 0 | 585 |
@@ -385,7 +385,7 @@
 | 380 | [Black Skylands](games/b/black_skylands.md) | 4.62 | 0 | 585 |
 | 380 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.62 | 0 | 585 |
 | 380 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 293 | 268 |
-| 380 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 632 | 204 |
+| 380 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 633 | 203 |
 | 380 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 189 | 307 |
 | 380 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.62 | 1,692 | 134 |
 | 380 | [Mutazione](games/m/mutazione.md) | 4.62 | 0 | 585 |
@@ -582,7 +582,7 @@
 | 578 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 585 |
 | 578 | [Everything](games/e/everything.md) | 4.52 | 0 | 585 |
 | 578 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 585 |
-| 578 | [GigaBash](games/g/gigabash.md) | 4.52 | 54 | 446 |
+| 578 | [GigaBash](games/g/gigabash.md) | 4.52 | 54 | 447 |
 | 578 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 107 | 371 |
 | 578 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 132 | 344 |
 | 578 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.52 | 206 | 299 |
@@ -701,7 +701,7 @@
 | 693 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.45 | 0 | 585 |
 | 693 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 12,955 | 33 |
 | 693 | [Men of War Assault Squad](games/m/men_of_war_assault_squad.md) | 4.45 | 0 | 585 |
-| 693 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 913 | 171 |
+| 693 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 913 | 172 |
 | 693 | [Sail Forth](games/s/sail_forth.md) | 4.45 | 0 | 585 |
 | 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.45 | 1,051 | 160 |
 | 693 | [True Fear: Forsaken Souls Part 2](games/t/true_fear__forsaken_souls_part_2.md) | 4.45 | 0 | 585 |
@@ -728,7 +728,7 @@
 | 706 | [Tropico 5](games/t/tropico_5.md) | 4.44 | 127 | 353 |
 | 727 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.43 | 0 | 585 |
 | 727 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 4.43 | 0 | 585 |
-| 727 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 54 | 446 |
+| 727 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 55 | 445 |
 | 727 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.43 | 0 | 585 |
 | 727 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.43 | 14,236 | 29 |
 | 727 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 585 |
@@ -787,7 +787,7 @@
 | 770 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 530 | 221 |
 | 770 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 74 | 412 |
 | 770 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.40 | 63 | 428 |
-| 788 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 54 | 446 |
+| 788 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 54 | 447 |
 | 788 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 619 | 207 |
 | 788 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 4.39 | 0 | 585 |
 | 788 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,820 | 37 |

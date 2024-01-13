@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.24% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.88% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.87% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -49,17 +49,17 @@
 | 47 | [Smelter](games/s/smelter.md) | 8.51% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.36% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
-| 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
 | 54 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.59% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
-| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.42% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.41% |
-| 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.14% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.06% |
+| 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.41% |
+| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.41% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.06% |
+| 59 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 7.06% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.91% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.85% |
@@ -94,7 +94,7 @@
 | 92 | [The Bunker](games/t/the_bunker.md) | 3.91% |
 | 93 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.90% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
-| 94 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
+| 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
 | 96 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.61% |
 | 96 | [Doodle God](games/d/doodle_god.md) | 3.61% |
 | 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.57% |
@@ -164,7 +164,7 @@
 | 162 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.18% |
 | 162 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.18% |
 | 162 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
-| 165 | [Ten Dates](games/t/ten_dates.md) | 1.17% |
+| 165 | [Ten Dates](games/t/ten_dates.md) | 1.16% |
 | 166 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
 | 166 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.15% |
 | 168 | [Adios](games/a/adios.md) | 1.12% |
