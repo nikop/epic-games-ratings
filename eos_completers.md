@@ -83,7 +83,7 @@
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.44% |
 | 82 | [JARS](games/j/jars.md) | 4.42% |
 | 83 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
-| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.39% |
+| 84 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.38% |
 | 85 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.35% |
 | 86 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 86 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.26% |
@@ -92,7 +92,7 @@
 | 90 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 4.07% |
 | 92 | [The Bunker](games/t/the_bunker.md) | 3.91% |
-| 93 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.90% |
+| 93 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.85% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
 | 95 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
 | 96 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.61% |
@@ -103,11 +103,11 @@
 | 101 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.28% |
+| 104 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.25% |
 | 104 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
-| 105 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
-| 106 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
-| 107 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
-| 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.11% |
+| 106 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
+| 107 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
+| 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.08% |
 | 110 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 3.03% |
 | 111 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -122,8 +122,8 @@
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.64% |
 | 122 | [The Complex](games/t/the_complex.md) | 2.63% |
-| 123 | [FORECLOSED](games/f/foreclosed.md) | 2.61% |
-| 124 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.60% |
+| 123 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
+| 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.60% |
 | 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.57% |
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
