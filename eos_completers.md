@@ -102,8 +102,8 @@
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 101 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 102 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
-| 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.30% |
-| 104 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.26% |
+| 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.29% |
+| 104 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
 | 105 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
 | 105 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
 | 107 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
@@ -245,10 +245,10 @@
 | 240 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
 | 244 | [Tchia](games/t/tchia.md) | 0.39% |
 | 245 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
-| 246 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 246 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.36% |
-| 248 | [Darksiders III](games/d/darksiders_iii.md) | 0.35% |
-| 248 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
+| 247 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.35% |
+| 247 | [Darksiders III](games/d/darksiders_iii.md) | 0.35% |
+| 247 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 250 | [Remnant 2](games/r/remnant_2.md) | 0.34% |
 | 250 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.34% |
 | 250 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
