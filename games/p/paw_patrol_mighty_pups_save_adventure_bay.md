@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 81.00% | ~50 |
-| Grand Re-Opening | 68.00% | ~42 |
-| Pup Pup Boogie | 66.00% | ~41 |
-| Summer Day | 65.00% | ~40 |
-| Mr. Porter | 53.00% | ~33 |
-| Risky Rescue | 52.00% | ~32 |
-| Carlos Is Tangled | 50.00% | ~31 |
-| Mandy Family | 44.00% | ~27 |
-| Clear the Road | 42.00% | ~26 |
+| Mighty Powers | 79.00% | ~50 |
+| Grand Re-Opening | 67.00% | ~42 |
+| Pup Pup Boogie | 65.00% | ~41 |
+| Summer Day | 63.00% | ~40 |
+| Mr. Porter | 52.00% | ~33 |
+| Risky Rescue | 51.00% | ~32 |
+| Carlos Is Tangled | 49.00% | ~31 |
+| Mandy Family | 43.00% | ~27 |
+| Clear the Road | 41.00% | ~26 |
 | Paw patrol member | 40.00% | ~25 |
 | Robot Out of Control | 40.00% | ~25 |
 | Break Time | 35.00% | ~22 |
 | Training Day | 35.00% | ~22 |
 | In the Air | 35.00% | ~22 |
 | Never Miss | 35.00% | ~22 |
-| Master of the Rope | 34.00% | ~21 |
+| Master of the Rope | 33.00% | ~21 |
 | Animal Sighting | 29.00% | ~18 |
-| The Fastest | 26.00% | ~16 |
-| Adventure Bay’s Citizen | 26.00% | ~16 |
+| The Fastest | 25.00% | ~16 |
+| Adventure Bay’s Citizen | 25.00% | ~16 |
 | Don’t Miss Any | 24.00% | ~15 |
-| Mountain and Ice | 23.00% | ~14 |
+| Mountain and Ice | 22.00% | ~14 |
 | You Have Been Everywhere | 21.00% | ~13 |
 | Everything Under Control | 19.00% | ~12 |
 | Nothing Can Stop You | 11.00% | ~7 |
@@ -35,7 +35,7 @@
 | The Collector | 2.00% | ~1 |
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 542)  
+Progressed: 63 (Ranked 541)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,6 +94,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-07 | 60 | 0 |
 | 2024-01-09 | 61 | 0 |
 | 2024-01-10 | 62 | 0 |
+| 2024-01-13 | 63 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 217,
@@ -507,7 +507,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4045,
+  "EOS_Progressed": 4046,
   "EOS_Completed": 144,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -7307,6 +7307,11 @@
       "Time": "2024-01-13T16:06:47.361817+00:00",
       "NumProgressed": 4045,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-13T17:05:40.3124984+00:00",
+      "NumProgressed": 4046,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7334,7 +7339,7 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH_CLIMBER",
@@ -7342,7 +7347,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7390,7 +7395,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "ACH_REUNION",
@@ -7429,7 +7434,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4045,
+      "Progressed": 4046,
       "Completed": 144
     }
   ],
@@ -7437,8 +7442,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:06:47.3618166+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:05:40.3124981+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:45.5665199+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:58:52.6093456+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:06:47.3618604+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:58:32.0547996+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:05:40.3125371+00:00"
 }

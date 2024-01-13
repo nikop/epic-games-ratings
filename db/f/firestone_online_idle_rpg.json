@@ -775,9 +775,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4464,
+  "EOS_Progressed": 4466,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12525,6 +12525,11 @@
       "Time": "2024-01-13T16:05:01.5407217+00:00",
       "NumProgressed": 4464,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T17:04:24.6631106+00:00",
+      "NumProgressed": 4466,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12648,7 +12653,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "dragonslayer",
@@ -12704,7 +12709,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "exoticmerchant",
@@ -12712,7 +12717,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "fellowshippower",
@@ -12720,7 +12725,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "fourleafclover",
@@ -12728,7 +12733,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "frostfireliberator",
@@ -12768,7 +12773,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "herewegoagain",
@@ -12776,7 +12781,7 @@
       "Name": "Here We Go Again",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "heroinspection",
@@ -12784,7 +12789,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "howdoyouturnthison",
@@ -12848,7 +12853,7 @@
       "Name": "Master Enchanter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "mastery",
@@ -12864,7 +12869,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "minerclicker",
@@ -12928,7 +12933,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "prestigiousx10",
@@ -12992,7 +12997,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "thealchemist",
@@ -13016,7 +13021,7 @@
       "Name": "The father of Dragons",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "thegameison",
@@ -13056,7 +13061,7 @@
       "Name": "Trader",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -13096,7 +13101,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4153
     },
     {
       "ID": "warmachinesarmy",
@@ -13128,14 +13133,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4464,
+      "Progressed": 4466,
       "Completed": 2
     }
   ],
@@ -13143,8 +13148,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-13T16:00:20.695304+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:05:01.5407213+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:04:24.66311+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:00:20.6953044+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:05:01.5408177+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:32.8142961+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:04:24.6632325+00:00"
 }

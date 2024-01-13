@@ -6,9 +6,9 @@ Rating: 4.59 (Ranked 454)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,420 |
-| Sputnik 2049 | 30.00% | ~1,252 |
+| Sputnik 2049 | 30.00% | ~1,253 |
 | Infinite Growth... | 28.00% | ~1,169 |
-| Without Breaking Some Eggs... | 27.00% | ~1,127 |
+| Without Breaking Some Eggs... | 27.00% | ~1,128 |
 | Ready for a New World | 20.00% | ~835 |
 | Space Society | 19.00% | ~793 |
 | A Thousand Strong | 19.00% | ~793 |
@@ -17,9 +17,9 @@ Rating: 4.59 (Ranked 454)
 | Fully Recycled | 15.00% | ~626 |
 | Ain't Nobody Got Time for That | 15.00% | ~626 |
 | The Ship of Theseus | 15.00% | ~626 |
-| Hope Seeker | 14.00% | ~584 |
+| Hope Seeker | 14.00% | ~585 |
+| A Hunk of Junk | 13.00% | ~543 |
 | Breaking Protocol | 13.00% | ~543 |
-| A Hunk of Junk | 12.00% | ~501 |
 | Exceeding Capacity | 12.00% | ~501 |
 | Man's Best Friend | 9.00% | ~376 |
 | Power Outage | 9.00% | ~376 |
@@ -29,8 +29,8 @@ Rating: 4.59 (Ranked 454)
 | Convenient Transport | 8.00% | ~334 |
 | Access Granted | 7.00% | ~292 |
 | From the Past | 7.00% | ~292 |
-| All in Good Health | 6.00% | ~250 |
-| Drill-dozer | 6.00% | ~250 |
+| All in Good Health | 6.00% | ~251 |
+| Drill-dozer | 6.00% | ~251 |
 | Oats | 5.00% | ~209 |
 | What They Hide From Us | 5.00% | ~209 |
 | ...  in a finite world | 5.00% | ~209 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 454)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,175 (Ranked 214)  
+Progressed: 4,176 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 4,148 | 0 |
 | 2024-01-11 | 4,156 | 0 |
 | 2024-01-12 | 4,168 | 0 |
-| 2024-01-13 | 4,175 | 0 |
+| 2024-01-13 | 4,176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

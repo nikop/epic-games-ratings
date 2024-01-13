@@ -2,7 +2,7 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 594,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 477,
   "Ranking_EOS_NewCompleters": 157,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -184,6 +184,11 @@
       "Time": "2024-01-10T11:10:55.0786203+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T17:10:18.7189292+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T17:03:09.6040716+00:00",
@@ -322,7 +327,7 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -418,7 +423,7 @@
       "ID": "ACH_UNUSUAL_ENCOUNTER",
       "SetID": "715gm5d",
       "Name": "Unusual Encounter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -435,14 +440,14 @@
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:10:40.3813915+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:10:18.7189289+00:00",
   "LastUpdate_AppInfo": "2024-01-10T01:46:07.5961786+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:59:36.6035855+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:10:40.3814131+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:00.786369+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:10:18.7189518+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -779,7 +779,7 @@
   ],
   "EOS_Progressed": 7222,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11559,9 +11559,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 72
     },
     {
       "ID": "48",
@@ -11655,9 +11655,9 @@
       "ID": "59",
       "SetID": "7132754",
       "Name": "But this one is mine",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 433
     },
     {
       "ID": "60",
@@ -11686,8 +11686,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:05:13.0327186+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:04:32.6223037+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:00:42.6614514+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:05:13.0327963+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:48.1131779+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:04:32.6223782+00:00"
 }

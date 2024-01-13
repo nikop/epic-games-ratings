@@ -5,34 +5,34 @@ Rating: 4.29 (Ranked 884)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~187 |
-| Bullseye! | 84.00% | ~181 |
-| Graduation! | 80.00% | ~172 |
-| Villfir Forest | 72.00% | ~155 |
-| Right in the kisser! | 56.00% | ~120 |
-| The Thrower | 45.00% | ~97 |
+| Level Up! | 87.00% | ~188 |
+| Bullseye! | 83.00% | ~179 |
+| Graduation! | 81.00% | ~175 |
+| Villfir Forest | 71.00% | ~153 |
+| Right in the kisser! | 56.00% | ~121 |
 | Duscot Steamcity | 45.00% | ~97 |
-| The Shaman | 43.00% | ~92 |
-| The Penguin | 42.00% | ~90 |
+| The Thrower | 44.00% | ~95 |
+| The Shaman | 43.00% | ~93 |
+| The Penguin | 42.00% | ~91 |
 | The Magician | 38.00% | ~82 |
 | The Tunneler | 38.00% | ~82 |
-| Level Up!! | 35.00% | ~75 |
-| The Shield | 35.00% | ~75 |
+| Level Up!! | 35.00% | ~76 |
+| The Shield | 35.00% | ~76 |
 | Kill-streak | 28.00% | ~60 |
 | Topped up | 28.00% | ~60 |
-| The Bird | 27.00% | ~58 |
+| The Bird | 26.00% | ~56 |
 | The Idol | 25.00% | ~54 |
 | The Ninja | 25.00% | ~54 |
 | Inferno Ruins | 24.00% | ~52 |
 | I'm Rich | 21.00% | ~45 |
 | The Slime | 21.00% | ~45 |
-| Untouchable | 20.00% | ~43 |
 | 1 is all I need | 20.00% | ~43 |
+| Untouchable | 19.00% | ~41 |
 | The Giant | 17.00% | ~37 |
-| The Flower | 16.00% | ~34 |
-| The Ooze | 16.00% | ~34 |
-| Out of the Frying Pan... | 16.00% | ~34 |
-| Ember | 16.00% | ~34 |
+| The Flower | 16.00% | ~35 |
+| The Ooze | 16.00% | ~35 |
+| Out of the Frying Pan... | 16.00% | ~35 |
+| Ember | 16.00% | ~35 |
 | The Blacksmith | 15.00% | ~32 |
 | Turquoise | 14.00% | ~30 |
 | The Assistant | 13.00% | ~28 |
@@ -41,10 +41,10 @@ Rating: 4.29 (Ranked 884)
 | Verse | 10.00% | ~22 |
 | Iron | 9.00% | ~19 |
 | The Bomber | 8.00% | ~17 |
-| Power Overwhelming | 7.00% | ~15 |
 | The Astronaut | 7.00% | ~15 |
 | Highway to Hell | 7.00% | ~15 |
 | Tested | 7.00% | ~15 |
+| Power Overwhelming | 6.00% | ~13 |
 | The Exorcist | 6.00% | ~13 |
 | Anvil | 6.00% | ~13 |
 | Mithril | 5.00% | ~11 |
@@ -79,8 +79,8 @@ Rating: 4.29 (Ranked 884)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215 (Ranked 429)  
-Completed: 1 (0.47%) (Ranked 229)  
+Progressed: 216 (Ranked 429)  
+Completed: 1 (0.46%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,6 +199,7 @@ Completed: 1 (0.47%) (Ranked 229)
 | 2023-12-30 | 213 | 1 |
 | 2024-01-06 | 214 | 1 |
 | 2024-01-09 | 215 | 1 |
+| 2024-01-13 | 216 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

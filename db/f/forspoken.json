@@ -655,9 +655,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 47187,
+  "EOS_Progressed": 47192,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18705,6 +18705,11 @@
       "Time": "2024-01-13T16:08:23.0776604+00:00",
       "NumProgressed": 47187,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T17:08:38.5377054+00:00",
+      "NumProgressed": 47192,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18748,7 +18753,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18764,7 +18769,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6134
+      "UsersEstimate": 6135
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18772,7 +18777,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2360
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18780,7 +18785,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18876,7 +18881,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -18932,7 +18937,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -18972,7 +18977,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "MAGIC_IVY",
@@ -18980,7 +18985,7 @@
       "Name": "Wildfire",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "MAGIC_TANTA",
@@ -19052,7 +19057,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5662
+      "UsersEstimate": 5663
     },
     {
       "ID": "SPRING_ALL",
@@ -19139,22 +19144,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47187,
+      "Progressed": 47192,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12024,
-      "Completed": 12024
+      "Progressed": 12029,
+      "Completed": 12029
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-13T10:03:30.8792595+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:08:23.07766+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:08:38.5377052+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:02:50.1927181+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:08:23.0778233+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:03:06.0678686+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:08:38.5378061+00:00"
 }

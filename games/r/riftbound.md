@@ -8,8 +8,8 @@
 | Master Of The Arts | 72.00% | ~34 |
 | Getting Good At This | 26.00% | ~12 |
 | Close Call | 19.00% | ~9 |
+| Evolution Revolution | 11.00% | ~5 |
 | I'm A Wizard | 11.00% | ~5 |
-| Evolution Revolution | 9.00% | ~4 |
 | Five Of A Kind | 9.00% | ~4 |
 | Ender Ender | 6.00% | ~3 |
 | Hold The Line | 6.00% | ~3 |

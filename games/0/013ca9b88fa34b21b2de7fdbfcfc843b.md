@@ -32,8 +32,8 @@ Rating: 4.64 (Ranked 343)
 | Fanatical Farmer | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.60% | ~54 |
 | Azorian Hat Dance | 0.60% | ~10 |
+| Chatty Neighbor | 0.50% | ~45 |
 | I Now Pronounce You... | 0.40% | ~36 |
-| Chatty Neighbor | 0.40% | ~36 |
 | Right Tool For the Job | 0.40% | ~36 |
 | House Proud | 0.40% | ~36 |
 | Going Down | 0.40% | ~7 |

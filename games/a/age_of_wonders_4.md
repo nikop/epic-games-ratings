@@ -19,12 +19,12 @@ Rating: 4.63 (Ranked 357)
 | Valley of Wonders | 7.00% | ~506 |
 | In a Liege of Your Own | 7.00% | ~506 |
 | Intimidation Tactics | 7.00% | ~506 |
+| But this one is mine | 6.00% | ~433 |
 | Return of the Wizard King | 5.00% | ~361 |
 | Enchanted Archipelago | 5.00% | ~361 |
 | Digging for Treasure | 5.00% | ~361 |
 | My Final Form | 5.00% | ~361 |
 | Against the Odds | 5.00% | ~361 |
-| But this one is mine | 5.00% | ~361 |
 | Preparation Is Everything | 4.00% | ~289 |
 | Fiery Friend | 4.00% | ~289 |
 | Impenetrable Fortress | 4.00% | ~289 |
@@ -51,10 +51,10 @@ Rating: 4.63 (Ranked 357)
 | Grexolis | 1.00% | ~72 |
 | One for All, All for One | 1.00% | ~72 |
 | Betrayal Most Foul | 1.00% | ~72 |
+| Duality | 1.00% | ~72 |
 | Prometheus Avenged | 1.00% | ~72 |
 | Seal the Deal | 1.00% | ~72 |
 | A Conqueror's Cohort | 1.00% | ~72 |
-| Duality | 0.90% | ~65 |
 | Snap Out of It! | 0.60% | ~43 |
 | The Magic That Empowers Me! | 0.60% | ~43 |
 | Jack of All Tomes | 0.50% | ~36 |

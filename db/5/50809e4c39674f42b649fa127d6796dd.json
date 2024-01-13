@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1532,6 +1532,11 @@
       "Time": "2024-01-13T11:08:08.5049534+00:00",
       "NumProgressed": 526,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-13T17:08:55.9885674+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1606,9 +1611,9 @@
       "ID": "FIRST_ALL_MISSION_CLEAR",
       "SetID": "apihg0e",
       "Name": "Perfect Run",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 169
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1648,7 +1653,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1656,7 +1661,7 @@
       "Name": "Speed Demon",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1664,7 +1669,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1736,7 +1741,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1752,7 +1757,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1856,21 +1861,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:08:47.4227789+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:08:55.9885672+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:00:07.9150018+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:08:47.4228427+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:24.7259319+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:08:55.9886052+00:00"
 }

@@ -19,7 +19,7 @@ Rating: 4.75 (Ranked 149)
 | Master of Magic | 62.00% | ~473 |
 | The Ascent | 60.00% | ~458 |
 | It's Warm and Cozy at Home | 60.00% | ~458 |
-| Magic Accidents | 58.00% | ~443 |
+| Magic Accidents | 59.00% | ~450 |
 | Trap Master | 56.00% | ~427 |
 | Minions, Minions! | 56.00% | ~427 |
 | Hard Work | 55.00% | ~420 |
@@ -37,7 +37,7 @@ Rating: 4.75 (Ranked 149)
 | If Looks Could Kill | 38.00% | ~290 |
 | Unstoppable Horde | 36.00% | ~275 |
 | Master of the Undead | 36.00% | ~275 |
-| The Finitude Drill | 35.00% | ~267 |
+| The Finitude Drill | 36.00% | ~275 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~244 |
 | Doom Hill | 32.00% | ~244 |
 | Brimstone Shaken, Not Stirred | 30.00% | ~229 |

@@ -961,9 +961,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667308,
+  "EOS_Progressed": 667311,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -26541,6 +26541,11 @@
       "Time": "2024-01-13T16:09:57.8630141+00:00",
       "NumProgressed": 667308,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-13T17:09:47.199161+00:00",
+      "NumProgressed": 667311,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26552,7 +26557,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480462
+      "UsersEstimate": 480464
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26560,7 +26565,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387039
+      "UsersEstimate": 387040
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26568,7 +26573,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153481
+      "UsersEstimate": 153482
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -26576,7 +26581,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40038
+      "UsersEstimate": 40039
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -26640,7 +26645,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 33365
+      "UsersEstimate": 33366
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -26688,7 +26693,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153481
+      "UsersEstimate": 153482
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -26696,7 +26701,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93423
+      "UsersEstimate": 93424
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -26704,7 +26709,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113442
+      "UsersEstimate": 113443
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -26712,7 +26717,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40038
+      "UsersEstimate": 40039
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -26728,7 +26733,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 33365
+      "UsersEstimate": 33366
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -26816,7 +26821,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166827
+      "UsersEstimate": 166828
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -26935,15 +26940,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667308,
+      "Progressed": 667311,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:09:57.8630138+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:09:47.1991608+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:16.9289695+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:00:15.1263699+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:09:57.8631453+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:30.0077113+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:09:47.1992919+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_Completed": 45,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2884,
-  "EOS_Completed": 269,
+  "EOS_Completed": 270,
   "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 9.33,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 9.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8406,6 +8406,11 @@
       "Time": "2024-01-13T16:09:31.459138+00:00",
       "NumProgressed": 2884,
       "NumCompleted": 269
+    },
+    {
+      "Time": "2024-01-13T17:09:27.7119726+00:00",
+      "NumProgressed": 2884,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 12,
@@ -8503,9 +8508,9 @@
       "ID": "Nuremberg Laws",
       "SetID": "b40dflc",
       "Name": "Nuremberg Laws",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 346
+      "UsersEstimate": 375
     }
   ],
   "AchievementSets": [
@@ -8513,15 +8518,15 @@
       "ID": "b40dflc",
       "IsBase": true,
       "Progressed": 2884,
-      "Completed": 269
+      "Completed": 270
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:09:31.4591377+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:09:27.7119724+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.1144562+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:02:07.2545643+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:09:31.4591759+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:00:47.370393+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:09:27.7120223+00:00"
 }

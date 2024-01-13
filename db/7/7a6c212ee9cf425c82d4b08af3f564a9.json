@@ -2,7 +2,7 @@
   "ID": "7a6c212ee9cf425c82d4b08af3f564a9",
   "Name": "The Walking Dead No Man\u0027s Land",
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
-  "Ranking_EOS_Progress": 213,
+  "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 157,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4255,
+  "EOS_Progressed": 4312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4155,
+  "EOS_NewPlayers": 4212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -424,6 +424,11 @@
       "Time": "2024-01-13T16:06:02.1552639+00:00",
       "NumProgressed": 4255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T17:05:08.048898+00:00",
+      "NumProgressed": 4312,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-10T10:04:20.1419386+00:00",
@@ -436,7 +441,7 @@
       "Name": "All the supplies - Completed",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1854
     },
     {
       "ID": "EpicTWD_CollectSupplies_2",
@@ -444,7 +449,7 @@
       "Name": "All the supplies II - Completed",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 894
+      "UsersEstimate": 906
     },
     {
       "ID": "EpicTWD_CollectSupplies_3",
@@ -452,23 +457,23 @@
       "Name": "All the supplies III - Completed",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 681
+      "UsersEstimate": 690
     },
     {
       "ID": "EpicTWD_CollectSurvivalPoints_1",
       "SetID": "22m25eg",
       "Name": "Level up - Completed",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1682
     },
     {
       "ID": "EpicTWD_CollectSurvivalPoints_2",
       "SetID": "22m25eg",
       "Name": "Level up II - Completed",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 992
     },
     {
       "ID": "EpicTWD_CollectSurvivalPoints_3",
@@ -476,7 +481,7 @@
       "Name": "Level up III - Completed",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 723
+      "UsersEstimate": 733
     },
     {
       "ID": "EpicTWD_CompleteDeadlyMissions_1",
@@ -484,7 +489,7 @@
       "Name": "Risk and reward - Completed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "EpicTWD_CompleteDeadlyMissions_2",
@@ -492,7 +497,7 @@
       "Name": "Risk and reward II - Completed",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "EpicTWD_CompleteDeadlyMissions_3",
@@ -500,7 +505,7 @@
       "Name": "Risk and reward III - Completed",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "EpicTWD_CompleteEpisode_1",
@@ -508,15 +513,15 @@
       "Name": "Complete Chapter 1 - Completed",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1552
     },
     {
       "ID": "EpicTWD_CompleteEpisode_10",
       "SetID": "22m25eg",
       "Name": "Chapter 10 - Completed",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 561
     },
     {
       "ID": "EpicTWD_CompleteEpisode_10_Lvl2",
@@ -524,7 +529,7 @@
       "Name": "Chapter 10: Hard Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_10_Lvl3",
@@ -532,7 +537,7 @@
       "Name": "Chapter 10: Nightmare Mode - Completed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "EpicTWD_CompleteEpisode_11",
@@ -540,7 +545,7 @@
       "Name": "Chapter 11 - Completed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 561
     },
     {
       "ID": "EpicTWD_CompleteEpisode_11_Lvl2",
@@ -548,7 +553,7 @@
       "Name": "Chapter 11: Hard Mode - Completed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "EpicTWD_CompleteEpisode_11_Lvl3",
@@ -556,15 +561,15 @@
       "Name": "Chapter 11: Nightmare Mode - Completed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "EpicTWD_CompleteEpisode_12",
       "SetID": "22m25eg",
       "Name": "Chapter 12 - Completed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_12_Lvl2",
@@ -572,15 +577,15 @@
       "Name": "Chapter 12: Hard Mode - Completed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "EpicTWD_CompleteEpisode_12_Lvl3",
       "SetID": "22m25eg",
       "Name": "Chapter 12: Nightmare Mode - Completed",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 388
     },
     {
       "ID": "EpicTWD_CompleteEpisode_13",
@@ -588,7 +593,7 @@
       "Name": "Chapter 13 - Completed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_13_Lvl2",
@@ -596,7 +601,7 @@
       "Name": "Chapter 13: Hard Mode - Completed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "EpicTWD_CompleteEpisode_13_Lvl3",
@@ -604,7 +609,7 @@
       "Name": "Chapter 13: Nightmare Mode - Completed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 388
     },
     {
       "ID": "EpicTWD_CompleteEpisode_14",
@@ -612,15 +617,15 @@
       "Name": "Chapter 14 - Completed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_14_Lvl2",
       "SetID": "22m25eg",
       "Name": "Chapter 14: Hard Mode - Completed",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 388
     },
     {
       "ID": "EpicTWD_CompleteEpisode_14_Lvl3",
@@ -628,15 +633,15 @@
       "Name": "Chapter 14: Nightmare Mode - Completed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 388
     },
     {
       "ID": "EpicTWD_CompleteEpisode_15",
       "SetID": "22m25eg",
       "Name": "Chapter 15 - Completed",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 388
     },
     {
       "ID": "EpicTWD_CompleteEpisode_15_Lvl2",
@@ -644,7 +649,7 @@
       "Name": "Chapter 15: Hard Mode - Completed",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 345
     },
     {
       "ID": "EpicTWD_CompleteEpisode_15_Lvl3",
@@ -652,7 +657,7 @@
       "Name": "Chapter 15: Nightmare Mode - Completed",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 302
     },
     {
       "ID": "EpicTWD_CompleteEpisode_2",
@@ -660,7 +665,7 @@
       "Name": "Chapter 2- Completed",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1035
     },
     {
       "ID": "EpicTWD_CompleteEpisode_2_Lvl2",
@@ -668,7 +673,7 @@
       "Name": "Chapter 2: Hard Mode - Completed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_CompleteEpisode_2_Lvl3",
@@ -676,15 +681,15 @@
       "Name": "Chapter 2: Nightmare Mode - Completed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 561
     },
     {
       "ID": "EpicTWD_CompleteEpisode_3",
       "SetID": "22m25eg",
       "Name": "Completed chapter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 819
     },
     {
       "ID": "EpicTWD_CompleteEpisode_3_Lvl2",
@@ -692,7 +697,7 @@
       "Name": "Chapter 3: Hard Mode - Completed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 561
     },
     {
       "ID": "EpicTWD_CompleteEpisode_3_Lvl3",
@@ -700,7 +705,7 @@
       "Name": "Chapter 3: Nightmare Mode - Completed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_4",
@@ -708,7 +713,7 @@
       "Name": "Chapter 4- Completed",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 776
     },
     {
       "ID": "EpicTWD_CompleteEpisode_4_Lvl2",
@@ -716,7 +721,7 @@
       "Name": "Chapter 4: Hard Mode - Completed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_4_Lvl3",
@@ -724,15 +729,15 @@
       "Name": "Chapter 4: Nightmare Mode - Completed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_5",
       "SetID": "22m25eg",
       "Name": "Chapter 5 - Completed",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 690
     },
     {
       "ID": "EpicTWD_CompleteEpisode_5_Lvl2",
@@ -740,7 +745,7 @@
       "Name": "Chapter 5: Hard Mode - Completed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_CompleteEpisode_6",
@@ -748,15 +753,15 @@
       "Name": "Chapter 6 - Completed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 647
     },
     {
       "ID": "EpicTWD_CompleteEpisode_6_Lvl2",
       "SetID": "22m25eg",
       "Name": "Chapter 6: Hard Mode - Completed",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_6_Lvl3",
@@ -764,7 +769,7 @@
       "Name": "Chapter 6: Nightmare Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_7",
@@ -772,7 +777,7 @@
       "Name": "Chapter 7 - Completed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 647
     },
     {
       "ID": "EpicTWD_CompleteEpisode_7_Lvl2",
@@ -780,7 +785,7 @@
       "Name": "Chapter 7: Hard Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_7_Lvl3",
@@ -788,15 +793,15 @@
       "Name": "Chapter 7: Nightmare Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_8",
       "SetID": "22m25eg",
       "Name": "Chapter 8 - Completed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_CompleteEpisode_8_Lvl2",
@@ -804,7 +809,7 @@
       "Name": "Chapter 8: Hard Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_8_Lvl3",
@@ -812,7 +817,7 @@
       "Name": "Chapter 8: Nightmare Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_9",
@@ -820,7 +825,7 @@
       "Name": "Chapter 9 - Completed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_CompleteEpisode_9_Lvl2",
@@ -828,7 +833,7 @@
       "Name": "Chapter 9: Hard Mode - Completed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 474
     },
     {
       "ID": "EpicTWD_CompleteEpisode_9_Lvl3",
@@ -836,7 +841,7 @@
       "Name": "Chapter 9: Nightmare Mode - Completed",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 431
     },
     {
       "ID": "EpicTWD_DefendWalkers_1",
@@ -844,15 +849,15 @@
       "Name": "Defend the camp - Completed",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1121
     },
     {
       "ID": "EpicTWD_DefendWalkers_2",
       "SetID": "22m25eg",
       "Name": "Defend the camp II - Completed",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 733
     },
     {
       "ID": "EpicTWD_DefendWalkers_3",
@@ -860,15 +865,15 @@
       "Name": "Defend the camp III - Completed",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_FindEquipmentEpic_1",
       "SetID": "22m25eg",
       "Name": "First of many - Completed",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1250
     },
     {
       "ID": "EpicTWD_FindEquipmentLegendary_1",
@@ -876,7 +881,7 @@
       "Name": "Now we\u0027re talking - Completed",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 949
     },
     {
       "ID": "EpicTWD_GetStars_1",
@@ -884,7 +889,7 @@
       "Name": "Get stars - Completed",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 690
     },
     {
       "ID": "EpicTWD_GetStars_2",
@@ -892,7 +897,7 @@
       "Name": "Get stars II - Completed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_GetStars_3",
@@ -900,7 +905,7 @@
       "Name": "Get stars III - Completed",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 561
     },
     {
       "ID": "EpicTWD_JoinGuild",
@@ -908,7 +913,7 @@
       "Name": "Join Guild - Completed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 862
     },
     {
       "ID": "EpicTWD_Kill walkers_1",
@@ -924,7 +929,7 @@
       "Name": "Kill walkers II - Completed",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 936
+      "UsersEstimate": 949
     },
     {
       "ID": "EpicTWD_KillWalkers_3",
@@ -932,7 +937,7 @@
       "Name": "Kill walkers III - Completed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 647
     },
     {
       "ID": "EpicTWD_KillWalkers_4",
@@ -940,7 +945,7 @@
       "Name": "Kill walkers IV - Completed",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 511
+      "UsersEstimate": 517
     },
     {
       "ID": "EpicTWD_ParticipateInWeeklyChallenge",
@@ -948,7 +953,7 @@
       "Name": "Do your part - Completed",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 776
     },
     {
       "ID": "EpicTWD_RecruitSurvivorEpic_1",
@@ -956,7 +961,7 @@
       "Name": "Get Epic - Completed",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 766
+      "UsersEstimate": 776
     },
     {
       "ID": "EpicTWD_RecruitSurvivorLegendary_1",
@@ -964,7 +969,7 @@
       "Name": "Get Legendary - Completed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_UpgradeCouncil_1",
@@ -972,7 +977,7 @@
       "Name": "Council - Completed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1466
     },
     {
       "ID": "EpicTWD_UpgradeCouncil_2",
@@ -980,15 +985,15 @@
       "Name": "Council II - Completed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 733
     },
     {
       "ID": "EpicTWD_UpgradeCouncil_3",
       "SetID": "22m25eg",
       "Name": "Council III - Completed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_UpgradeCouncil_4",
@@ -996,7 +1001,7 @@
       "Name": "Council IV - Completed",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_UpgradeCouncil_5",
@@ -1004,23 +1009,23 @@
       "Name": "Council V - Completed",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 553
+      "UsersEstimate": 561
     },
     {
       "ID": "EpicTWD_UpgradeSurvivorToLevel_1",
       "SetID": "22m25eg",
       "Name": "Survivor I - Completed",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1035
     },
     {
       "ID": "EpicTWD_UpgradeSurvivorToLevel_2",
       "SetID": "22m25eg",
       "Name": "Survivor II - Completed",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 604
     },
     {
       "ID": "EpicTWD_UpgradeSurvivotToLevel_3",
@@ -1028,21 +1033,21 @@
       "Name": "Survivor III - completed",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 561
     }
   ],
   "AchievementSets": [
     {
       "ID": "22m25eg",
       "IsBase": true,
-      "Progressed": 4255,
+      "Progressed": 4312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:06:02.1552636+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:05:08.0488976+00:00",
   "LastUpdate_AppInfo": "2024-01-10T09:57:12.5897385+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:59:41.9800793+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:06:02.155327+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:04.1205657+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:05:08.0489572+00:00"
 }

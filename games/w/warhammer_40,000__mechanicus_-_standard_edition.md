@@ -1,18 +1,18 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 728)  
+Rating: 4.43 (Ranked 727)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,353 |
-| This is only the beginning | 20.00% | ~46,425 |
-| Knowledge is power | 13.00% | ~30,176 |
+| No aid from the Omnissiah | 26.00% | ~60,355 |
+| This is only the beginning | 20.00% | ~46,427 |
+| Knowledge is power | 13.00% | ~30,177 |
 | Galvanic Rifle | 10.00% | ~23,213 |
 | Radium Ready | 10.00% | ~23,213 |
-| Power Ranger | 9.00% | ~20,891 |
-| Taser Goad | 9.00% | ~20,891 |
-| Half a cog | 9.00% | ~20,891 |
+| Power Ranger | 9.00% | ~20,892 |
+| Taser Goad | 9.00% | ~20,892 |
+| Half a cog | 9.00% | ~20,892 |
 | Watch them crumble | 6.00% | ~13,928 |
 | Competent Cohort | 4.00% | ~9,285 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,285 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 728)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,126 (Ranked 77)  
+Progressed: 232,133 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 5 (0.00%) (Ranked 399)
 | 2024-01-10 | 231,901 | 5 |
 | 2024-01-11 | 231,980 | 5 |
 | 2024-01-12 | 232,058 | 5 |
-| 2024-01-13 | 232,126 | 5 |
+| 2024-01-13 | 232,133 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 269)  
 Sum: 2,232 (Ranked 212)  

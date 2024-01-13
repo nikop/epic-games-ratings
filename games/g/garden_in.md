@@ -36,8 +36,8 @@
 | Love and Science | 0.90% | ~2 |
 | Perfectionist | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217 (Ranked 427)  
-Completed: 1 (0.46%) (Ranked 232)  
+Progressed: 217 (Ranked 428)  
+Completed: 1 (0.46%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

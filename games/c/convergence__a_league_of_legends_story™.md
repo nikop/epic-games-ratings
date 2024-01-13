@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.70 (Ranked 220)  
+Rating: 4.70 (Ranked 221)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,15 +9,15 @@ Rating: 4.70 (Ranked 220)
 | The Mysterious Stranger | 35.00% | ~461 |
 | Rail Rat | 35.00% | ~461 |
 | Immaculate Aim | 29.00% | ~382 |
-| The Brass Boss | 28.00% | ~368 |
+| The Brass Boss | 29.00% | ~382 |
 | Time Flies | 27.00% | ~355 |
 | No, Thanks! | 27.00% | ~355 |
 | The Prince in Heels | 27.00% | ~355 |
 | Make Up For Lost Time | 26.00% | ~342 |
 | The Harder They Fall | 26.00% | ~342 |
 | Honest Mistake | 26.00% | ~342 |
+| Fast Learner | 26.00% | ~342 |
 | Immaculate Aim | 26.00% | ~342 |
-| Fast Learner | 25.00% | ~329 |
 | The Steel Shadow | 24.00% | ~316 |
 | Right On Time | 23.00% | ~303 |
 | Breaking Down Barriers | 23.00% | ~303 |

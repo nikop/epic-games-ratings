@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -61,7 +61,7 @@
   "Tags": [],
   "EOS_Progressed": 891,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3470,9 +3470,9 @@
       "ID": "ACHIEVEMENT_2_FirstBond",
       "SetID": "9bke6f1",
       "Name": "The First Bond",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 570
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3543,8 +3543,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:09:35.3506296+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:09:30.6772073+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:59.7410286+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:00:54.0767287+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:09:35.3506836+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:56.710176+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:09:30.6772386+00:00"
 }

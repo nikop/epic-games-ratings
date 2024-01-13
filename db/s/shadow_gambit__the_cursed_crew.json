@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1530,
+  "EOS_Progressed": 1531,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
@@ -5296,6 +5296,11 @@
       "Time": "2024-01-13T16:05:09.8087191+00:00",
       "NumProgressed": 1530,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-13T17:04:30.34097+00:00",
+      "NumProgressed": 1531,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5356,7 +5361,7 @@
       "Name": "All Good Things",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "_08_Completion_10",
@@ -5404,7 +5409,7 @@
       "Name": "Corsair",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "_14_Completion_70",
@@ -5515,7 +5520,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1530,
+      "Progressed": 1531,
       "Completed": 37
     }
   ],
@@ -5523,8 +5528,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:05:09.8087186+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:04:30.3409698+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:58:13.6353248+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:05:09.8087581+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:58:08.0763403+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:04:30.3410092+00:00"
 }

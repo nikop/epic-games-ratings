@@ -420,9 +420,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209069,
+  "EOS_Progressed": 209074,
   "EOS_Completed": 562,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29090,6 +29090,11 @@
       "Time": "2024-01-13T16:04:53.7243742+00:00",
       "NumProgressed": 209069,
       "NumCompleted": 562
+    },
+    {
+      "Time": "2024-01-13T17:04:19.0933554+00:00",
+      "NumProgressed": 209074,
+      "NumCompleted": 562
     }
   ],
   "TotalAchievements": 29,
@@ -29125,7 +29130,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196525
+      "UsersEstimate": 196530
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29133,7 +29138,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -29181,7 +29186,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10453
+      "UsersEstimate": 10454
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -29261,7 +29266,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10453
+      "UsersEstimate": 10454
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -29332,7 +29337,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209069,
+      "Progressed": 209074,
       "Completed": 562
     }
   ],
@@ -29340,8 +29345,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:04:53.7243739+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:04:19.0933551+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:20.3451627+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:01:56.8418609+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:04:53.7245629+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:00:39.3522454+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:04:19.0935209+00:00"
 }

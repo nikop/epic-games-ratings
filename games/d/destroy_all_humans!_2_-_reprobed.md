@@ -6,21 +6,21 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~357 |
-| Mash Machine | 74.00% | ~314 |
+| Rock of the Bay | 84.00% | ~358 |
+| Mash Machine | 75.00% | ~320 |
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~234 |
 | Furon Fashion | 48.00% | ~204 |
 | Shop Til They Drop | 40.00% | ~170 |
 | Bodied Sattva | 38.00% | ~162 |
 | Cult Following | 35.00% | ~149 |
-| Earthly Pleasures | 34.00% | ~144 |
+| Earthly Pleasures | 34.00% | ~145 |
 | Lie Back and Think of Albion | 28.00% | ~119 |
 | Upgreatest | 28.00% | ~119 |
-| Pimp My Raid | 26.00% | ~110 |
+| Pimp My Raid | 26.00% | ~111 |
 | Freshly Squeezed | 23.00% | ~98 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~89 |
 | Die Nasty | 19.00% | ~81 |
-| Perfect Probulator | 18.00% | ~76 |
+| Perfect Probulator | 18.00% | ~77 |
 | Transmitting From Sol-3 | 16.00% | ~68 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~55 |
 | Fly Me to the Moon Base | 11.00% | ~47 |
@@ -33,7 +33,7 @@ Number of Ratings: 90  (23.09.2022)
 | Yettisoned | 5.00% | ~21 |
 | Arkvoodle Doodle | 4.00% | ~17 |
 | Deincarnated | 3.00% | ~13 |
-| Forbidden Donut | 2.00% | ~8 |
+| Forbidden Donut | 2.00% | ~9 |
 | Against All Odds | 1.00% | ~4 |
 | The Optional Mandate | 1.00% | ~4 |
 | Arty Facts | 0.90% | ~4 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 368)  
+Progressed: 426 (Ranked 368)  
 Completed: 2 (0.47%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.47%) (Ranked 229)
 | 2024-01-10 | 399 | 2 |
 | 2024-01-11 | 410 | 2 |
 | 2024-01-12 | 416 | 2 |
-| 2024-01-13 | 425 | 2 |
+| 2024-01-13 | 426 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 533)  

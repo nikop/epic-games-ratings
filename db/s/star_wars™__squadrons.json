@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40764,
+  "EOS_Progressed": 40786,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2337,
+  "EOS_NewPlayers": 2322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13739,6 +13739,11 @@
       "Time": "2024-01-13T16:10:45.86876+00:00",
       "NumProgressed": 40764,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T17:10:22.7737193+00:00",
+      "NumProgressed": 40786,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -13751,7 +13756,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6118
     },
     {
       "ID": "achievement_10",
@@ -13767,7 +13772,7 @@
       "Name": "Great Shot, Kid",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_12",
@@ -13799,7 +13804,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7745
+      "UsersEstimate": 7749
     },
     {
       "ID": "achievement_16",
@@ -13831,7 +13836,7 @@
       "Name": "Stronger Together",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_2",
@@ -13839,7 +13844,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "achievement_20",
@@ -13847,7 +13852,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_21",
@@ -13855,7 +13860,7 @@
       "Name": "Sound Strategy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "achievement_22",
@@ -13895,7 +13900,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_27",
@@ -13903,7 +13908,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2855
     },
     {
       "ID": "achievement_28",
@@ -13951,7 +13956,7 @@
       "Name": "Denied",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_33",
@@ -13959,7 +13964,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7338
+      "UsersEstimate": 7341
     },
     {
       "ID": "achievement_34",
@@ -13975,7 +13980,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 38726
+      "UsersEstimate": 38747
     },
     {
       "ID": "achievement_36",
@@ -13983,7 +13988,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2855
     },
     {
       "ID": "achievement_37",
@@ -13991,7 +13996,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4892
+      "UsersEstimate": 4894
     },
     {
       "ID": "achievement_38",
@@ -13999,7 +14004,7 @@
       "Name": "Temporary Guardian",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_39",
@@ -14007,7 +14012,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9376
+      "UsersEstimate": 9381
     },
     {
       "ID": "achievement_4",
@@ -14031,7 +14036,7 @@
       "Name": "Baited",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_42",
@@ -14047,7 +14052,7 @@
       "Name": "Punch It",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "achievement_44",
@@ -14055,7 +14060,7 @@
       "Name": "Combat Pilot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_45",
@@ -14079,7 +14084,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "achievement_5",
@@ -14087,7 +14092,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_6",
@@ -14095,7 +14100,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5302
     },
     {
       "ID": "achievement_7",
@@ -14111,7 +14116,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9376
+      "UsersEstimate": 9381
     },
     {
       "ID": "achievement_9",
@@ -14126,7 +14131,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 40764,
+      "Progressed": 40786,
       "Completed": 3
     }
   ],
@@ -14134,8 +14139,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:10:45.8687595+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:10:22.7737191+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:40.6174818+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:03:36.2152615+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:10:45.8688893+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:03:24.7551422+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:10:22.7737957+00:00"
 }

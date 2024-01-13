@@ -25,11 +25,11 @@ Rating: 4.68 (Ranked 264)
 | Favorite | 4.00% | ~36 |
 | Queen | 4.00% | ~36 |
 | Goal! | 3.00% | ~27 |
+| Both sides | 3.00% | ~27 |
 | Specialist | 3.00% | ~27 |
 | Witch's cookbook | 3.00% | ~27 |
 | Bad apple | 2.00% | ~18 |
 | Gnowlledgeable | 2.00% | ~18 |
-| Both sides | 2.00% | ~18 |
 | Always worth a try | 2.00% | ~18 |
 | Toxic | 2.00% | ~18 |
 | Entangled | 2.00% | ~18 |

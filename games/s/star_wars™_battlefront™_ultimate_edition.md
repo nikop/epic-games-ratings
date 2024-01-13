@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,516 |
-| Off to a good start | 60.00% | ~1,756 |
-| Do... or do not. There is no try | 52.00% | ~1,522 |
-| A good blaster at your side | 24.00% | ~702 |
-| I suggest a new strategy | 17.00% | ~497 |
-| Great shot, kid! | 15.00% | ~439 |
+| New Recruit | 86.00% | ~2,520 |
+| Off to a good start | 60.00% | ~1,758 |
+| Do... or do not. There is no try | 52.00% | ~1,524 |
+| A good blaster at your side | 24.00% | ~703 |
+| I suggest a new strategy | 17.00% | ~498 |
+| Great shot, kid! | 15.00% | ~440 |
 | Scrap collector | 14.00% | ~410 |
 | All right, I'll give it a try | 14.00% | ~410 |
-| The power of the Force | 12.00% | ~351 |
-| Shoot first | 12.00% | ~351 |
+| The power of the Force | 12.00% | ~352 |
+| Together we can rule the galaxy | 12.00% | ~352 |
+| Shoot first | 12.00% | ~352 |
 | Collector | 11.00% | ~322 |
-| Together we can rule the galaxy | 11.00% | ~322 |
 | Tell Jabba that I've got his money | 8.00% | ~234 |
 | Best star-pilot in the galaxy | 8.00% | ~234 |
 | Never tell me the odds! | 7.00% | ~205 |
@@ -26,10 +26,10 @@
 | Judge me by my size, do you? | 5.00% | ~146 |
 | Distinguished | 4.00% | ~117 |
 | Impressive. Most impressive. | 4.00% | ~117 |
+| Not bad for a little furball | 4.00% | ~117 |
 | Support the troops | 4.00% | ~117 |
 | A tremor in the Force | 3.00% | ~88 |
 | Safety ain't the point of a joyride | 3.00% | ~88 |
-| Not bad for a little furball | 3.00% | ~88 |
 | Patience you must have | 3.00% | ~88 |
 | The Force is strong with this one | 2.00% | ~59 |
 | I've been waiting for you | 2.00% | ~59 |
@@ -51,7 +51,7 @@
 | The circle is now complete | 0.90% | ~26 |
 | Playing the objective | 0.80% | ~23 |
 | Walker defender | 0.80% | ~23 |
-| You have your moments | 0.70% | ~20 |
+| You have your moments | 0.70% | ~21 |
 | A New Hope | 0.60% | ~18 |
 | When surrounded by war... | 0.60% | ~18 |
 | No such thing as luck | 0.50% | ~15 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,926 (Ranked 233)  
+Progressed: 2,930 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 1 (0.03%) (Ranked 357)
 | 2024-01-10 | 2,858 | 1 |
 | 2024-01-11 | 2,884 | 1 |
 | 2024-01-12 | 2,908 | 1 |
-| 2024-01-13 | 2,926 | 1 |
+| 2024-01-13 | 2,930 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

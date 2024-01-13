@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74946,
+  "EOS_Progressed": 74957,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1397,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7174,6 +7174,11 @@
       "Time": "2024-01-13T16:08:49.4407303+00:00",
       "NumProgressed": 74946,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-13T17:08:57.3781925+00:00",
+      "NumProgressed": 74957,
+      "NumCompleted": 120
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7186,7 +7191,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27730
+      "UsersEstimate": 27734
     },
     {
       "ID": "Achievement_10",
@@ -7194,7 +7199,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Achievement_11",
@@ -7202,7 +7207,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Achievement_12",
@@ -7242,7 +7247,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Achievement_17",
@@ -7274,7 +7279,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 20985
+      "UsersEstimate": 20988
     },
     {
       "ID": "Achievement_20",
@@ -7290,7 +7295,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Achievement_22",
@@ -7330,7 +7335,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Achievement_27",
@@ -7362,7 +7367,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 8994
+      "UsersEstimate": 8995
     },
     {
       "ID": "Achievement_30",
@@ -7394,7 +7399,7 @@
       "Name": "Family Ties",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Achievement_34",
@@ -7410,7 +7415,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6745
+      "UsersEstimate": 6746
     },
     {
       "ID": "Achievement_5",
@@ -7418,7 +7423,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5246
+      "UsersEstimate": 5247
     },
     {
       "ID": "Achievement_6",
@@ -7434,7 +7439,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "Achievement_8",
@@ -7442,7 +7447,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2248
+      "UsersEstimate": 2249
     },
     {
       "ID": "Achievement_9",
@@ -7450,14 +7455,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 74946,
+      "Progressed": 74957,
       "Completed": 120
     }
   ],
@@ -7465,8 +7470,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:08:49.4407297+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:08:57.3781922+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:03:12.0653049+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:08:49.4407963+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:57:16.3907736+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:08:57.3782367+00:00"
 }

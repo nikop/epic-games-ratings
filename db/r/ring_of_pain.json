@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3910,7 +3910,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242888,
+  "EOS_Progressed": 242894,
   "EOS_Completed": 305,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 1,
@@ -31690,6 +31690,11 @@
       "Time": "2024-01-13T16:10:54.4771579+00:00",
       "NumProgressed": 242888,
       "NumCompleted": 305
+    },
+    {
+      "Time": "2024-01-13T17:10:29.5611783+00:00",
+      "NumProgressed": 242894,
+      "NumCompleted": 305
     }
   ],
   "TotalAchievements": 138,
@@ -32475,9 +32480,9 @@
       "ID": "STEALTH100",
       "SetID": "5l8oe0h",
       "Name": "Shadow Walker",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1943
     },
     {
       "ID": "SURVIVEON1",
@@ -32804,13 +32809,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242888,
+      "Progressed": 242894,
       "Completed": 305
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4368,
+      "Progressed": 4374,
       "Completed": 425
     }
   ],
@@ -32818,8 +32823,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-12T05:59:51.3980392+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:10:54.4771577+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:10:29.5611782+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:54.9741634+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:01:07.6302466+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:10:54.4774361+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:00:05.0974461+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:10:29.5614464+00:00"
 }

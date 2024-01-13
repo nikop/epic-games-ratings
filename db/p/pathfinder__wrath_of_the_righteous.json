@@ -4919,9 +4919,9 @@
       "Count": 407
     }
   ],
-  "EOS_Progressed": 13258,
+  "EOS_Progressed": 13259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19669,6 +19669,11 @@
       "Time": "2024-01-13T15:10:12.8311941+00:00",
       "NumProgressed": 13258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T17:10:29.189243+00:00",
+      "NumProgressed": 13259,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19888,7 +19893,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "29_StrategicVictory",
@@ -20032,7 +20037,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -20607,21 +20612,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12040,
+      "Progressed": 12041,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13258,
+      "Progressed": 13259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-13T15:59:47.176869+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:10:53.9801549+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:10:29.1892428+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:50.9176644+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:59:47.1768697+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:10:53.9803306+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:59:07.7651242+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:10:29.1894089+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "epic-world-hunt-for-quest-4500b1",
   "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewPlayers": 577,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
@@ -133,8 +133,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-03T05:03:06.3410136+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:04:06.1759101+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:03:45.2607173+00:00",
   "LastUpdate_AppInfo": "2024-01-07T07:57:11.7643391+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:02:14.4865639+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:04:06.1759181+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:00:52.1353722+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:03:45.2607226+00:00"
 }

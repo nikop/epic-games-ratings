@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8973,9 +8973,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760350,
+  "EOS_Progressed": 760364,
   "EOS_Completed": 12985,
-  "EOS_NewPlayers": 4650,
+  "EOS_NewPlayers": 4615,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33628,6 +33628,11 @@
       "Time": "2024-01-13T16:09:53.7004335+00:00",
       "NumProgressed": 760350,
       "NumCompleted": 12985
+    },
+    {
+      "Time": "2024-01-13T17:09:44.0975395+00:00",
+      "NumProgressed": 760364,
+      "NumCompleted": 12985
     }
   ],
   "TotalAchievements": 60,
@@ -33639,7 +33644,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45621
+      "UsersEstimate": 45622
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33647,7 +33652,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30414
+      "UsersEstimate": 30415
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33655,7 +33660,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33687,7 +33692,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5322
+      "UsersEstimate": 5323
     },
     {
       "ID": "08_Wude_H2",
@@ -33695,7 +33700,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5322
+      "UsersEstimate": 5323
     },
     {
       "ID": "09_Wude_H3",
@@ -33751,7 +33756,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5322
+      "UsersEstimate": 5323
     },
     {
       "ID": "16_Detective_H2",
@@ -33791,7 +33796,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33807,7 +33812,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33823,7 +33828,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "25_ShrineMind",
@@ -33847,7 +33852,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -33887,7 +33892,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22810
+      "UsersEstimate": 22811
     },
     {
       "ID": "33_BladeOneShot",
@@ -34118,21 +34123,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69651,
+      "Progressed": 69665,
       "Completed": 10808
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760350,
+      "Progressed": 760364,
       "Completed": 12985
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-13T13:06:00.9075882+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:09:53.7004333+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:09:44.0975393+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:03:01.4261287+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:09:53.7005903+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:03:13.9595793+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:09:44.0976856+00:00"
 }

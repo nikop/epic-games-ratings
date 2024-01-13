@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2525,9 +2525,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 443
+      "UsersEstimate": 450
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2805,9 +2805,9 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 275
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2958,8 +2958,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:09:45.5150797+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:09:38.2688384+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:21.5631662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:57:30.608414+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:09:45.515133+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:57:39.5828778+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:09:38.268905+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 449,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 333,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1724,
+  "EOS_Progressed": 1726,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4622,6 +4622,11 @@
       "Time": "2024-01-13T14:10:16.4433544+00:00",
       "NumProgressed": 1724,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T17:10:18.1674538+00:00",
+      "NumProgressed": 1726,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4641,7 +4646,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -4689,7 +4694,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1709
     },
     {
       "ID": "EXPERT_1",
@@ -4785,7 +4790,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4793,7 +4798,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "PACIFIST",
@@ -4857,7 +4862,7 @@
       "Name": "Savant",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "SECRET_ROOM",
@@ -4889,7 +4894,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "VVE",
@@ -4897,7 +4902,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WANDERER_1",
@@ -4920,15 +4925,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1724,
+      "Progressed": 1726,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:10:39.7348261+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:10:18.1674536+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:59:05.8297396+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:10:39.7348831+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:58:41.5225016+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:10:18.1674967+00:00"
 }

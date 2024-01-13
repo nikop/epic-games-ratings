@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1885,9 +1885,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167999,
+  "EOS_Progressed": 168010,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22950,6 +22950,11 @@
       "Time": "2024-01-13T16:07:22.3363395+00:00",
       "NumProgressed": 167999,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-13T17:06:05.7430833+00:00",
+      "NumProgressed": 168010,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23074,7 +23079,7 @@
       "Name": "Glare",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -23329,21 +23334,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167582,
+      "Progressed": 167593,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167999,
+      "Progressed": 168010,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:07:22.336339+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:06:05.743083+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:57:53.3914818+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:07:22.3365489+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:57:53.9486291+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:06:05.7432251+00:00"
 }

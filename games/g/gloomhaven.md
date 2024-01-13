@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,618 |
-| Overkill | 33.00% | ~10,958 |
-| Vaccine Incoming | 31.00% | ~10,294 |
-| A normal day in Gloomhaven | 29.00% | ~9,629 |
-| Spread the plague | 26.00% | ~8,633 |
-| Get over here! | 24.00% | ~7,969 |
-| Just when I thought I was out... | 19.00% | ~6,309 |
-| Precious! | 16.00% | ~5,313 |
-| Mine... All Mine... | 16.00% | ~5,313 |
-| Grizzled veteran | 15.00% | ~4,981 |
-| Anatomy Lesson | 14.00% | ~4,649 |
-| Who's the Boss? | 12.00% | ~3,985 |
-| You activated my trap card! | 12.00% | ~3,985 |
-| Obstacle race | 12.00% | ~3,985 |
-| Light of my life | 12.00% | ~3,985 |
-| Augmented rat | 10.00% | ~3,320 |
-| Doom and gloom | 10.00% | ~3,320 |
-| Dungeon Veteran | 8.00% | ~2,656 |
-| Pain is your friend | 8.00% | ~2,656 |
-| Pack leader | 7.00% | ~2,324 |
-| Black death | 7.00% | ~2,324 |
-| Play it again, Sam | 7.00% | ~2,324 |
-| Quad damage | 6.00% | ~1,992 |
-| Power Up! | 5.00% | ~1,660 |
-| Merchant of doom | 5.00% | ~1,660 |
-| Caught off guard | 5.00% | ~1,660 |
-| Now you see me... | 5.00% | ~1,660 |
-| The Pro from Dover | 4.00% | ~1,328 |
-| Pretty lights! | 4.00% | ~1,328 |
-| I hate portals | 3.00% | ~996 |
-| Down the hatch | 3.00% | ~996 |
-| An eye for an eye | 3.00% | ~996 |
-| The Cephalophore | 3.00% | ~996 |
+| I'm not dead yet | 38.00% | ~12,622 |
+| Overkill | 33.00% | ~10,962 |
+| Vaccine Incoming | 31.00% | ~10,297 |
+| A normal day in Gloomhaven | 29.00% | ~9,633 |
+| Spread the plague | 26.00% | ~8,636 |
+| Get over here! | 24.00% | ~7,972 |
+| Just when I thought I was out... | 19.00% | ~6,311 |
+| Mine... All Mine... | 16.00% | ~5,315 |
+| Precious! | 15.00% | ~4,983 |
+| Grizzled veteran | 15.00% | ~4,983 |
+| Anatomy Lesson | 14.00% | ~4,650 |
+| Who's the Boss? | 12.00% | ~3,986 |
+| You activated my trap card! | 12.00% | ~3,986 |
+| Obstacle race | 12.00% | ~3,986 |
+| Light of my life | 12.00% | ~3,986 |
+| Augmented rat | 10.00% | ~3,322 |
+| Doom and gloom | 10.00% | ~3,322 |
+| Dungeon Veteran | 8.00% | ~2,657 |
+| Pain is your friend | 8.00% | ~2,657 |
+| Pack leader | 7.00% | ~2,325 |
+| Black death | 7.00% | ~2,325 |
+| Play it again, Sam | 7.00% | ~2,325 |
+| Quad damage | 6.00% | ~1,993 |
+| Power Up! | 5.00% | ~1,661 |
+| Merchant of doom | 5.00% | ~1,661 |
+| Caught off guard | 5.00% | ~1,661 |
+| Now you see me... | 5.00% | ~1,661 |
+| The Pro from Dover | 4.00% | ~1,329 |
+| Pretty lights! | 4.00% | ~1,329 |
+| I hate portals | 3.00% | ~997 |
+| Down the hatch | 3.00% | ~997 |
+| An eye for an eye | 3.00% | ~997 |
+| The Cephalophore | 3.00% | ~997 |
 | From Gloom, only greed and death emerges | 2.00% | ~664 |
 | The Rat King | 2.00% | ~664 |
 | How to train your Drake | 2.00% | ~664 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,205 (Ranked 141)  
+Progressed: 33,217 (Ranked 141)  
 Completed: 1 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,10 +190,10 @@ Completed: 1 (0.00%) (Ranked 399)
 | 2024-01-10 | 32,673 | 1 |
 | 2024-01-11 | 32,855 | 1 |
 | 2024-01-12 | 33,039 | 1 |
-| 2024-01-13 | 33,205 | 1 |
+| 2024-01-13 | 33,217 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
-Sum: 8,478 (Ranked 108)  
+Sum: 8,480 (Ranked 108)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -202,9 +202,9 @@ Diff (max vs sum): -13
 | This game has Challenging Combat | 558 |
 | This game is Highly Recommended | 556 |
 | This game is Extremely Fun | 552 |
+| This game has Quickly Understood Controls | 495 |
 | This game is Relaxing | 495 |
 | This game has Amazing Characters | 494 |
-| This game has Quickly Understood Controls | 493 |
 | This game has Amazing Storytelling | 493 |
 | This game has Unique Visuals | 383 |
 | This game has a Creative Community | 221 |
@@ -474,4 +474,4 @@ Diff (max vs sum): -13
 | 2024-01-08 | 4.47 | - | 3,616 | 8,468 |
 | 2024-01-10 | 4.47 | - | 3,617 | 8,470 |
 | 2024-01-11 | 4.47 | - | 3,617 | 8,475 |
-| 2024-01-13 | 4.47 | - | 3,618 | 8,478 |
+| 2024-01-13 | 4.47 | - | 3,618 | 8,480 |

@@ -1,34 +1,34 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.50 (Ranked 618)  
+Rating: 4.50 (Ranked 617)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,707 |
-| One HIT wonder | 34.00% | ~586 |
+| Atom Agent | 99.00% | ~1,709 |
+| One HIT wonder | 34.00% | ~587 |
 | Wanderer | 32.00% | ~552 |
-| One shot, one kill | 25.00% | ~431 |
-| Traveler | 22.00% | ~379 |
+| One shot, one kill | 25.00% | ~432 |
+| Traveler | 22.00% | ~380 |
 | Grave Robber | 17.00% | ~293 |
 | Head Burst | 16.00% | ~276 |
 | Double agent | 15.00% | ~259 |
 | Explorer | 15.00% | ~259 |
 | Paranoia | 15.00% | ~259 |
-| Savant | 10.00% | ~172 |
+| Savant | 10.00% | ~173 |
 | Kraina Grzybow | 9.00% | ~155 |
 | Love Guru | 9.00% | ~155 |
 | Superhuman | 8.00% | ~138 |
 | Bustin' nuts | 7.00% | ~121 |
 | Not-so-private Eye | 7.00% | ~121 |
-| The Vitinsky Rifle | 6.00% | ~103 |
+| The Vitinsky Rifle | 6.00% | ~104 |
 | Protection racket | 5.00% | ~86 |
 | Sacrifice | 4.00% | ~69 |
 | Secret room | 4.00% | ~69 |
 | Indy | 3.00% | ~52 |
 | Wishmaster | 3.00% | ~52 |
-| Career criminal | 2.00% | ~34 |
+| Career criminal | 2.00% | ~35 |
 | Neanderthal | 1.00% | ~17 |
 | Cosmic Horror | 1.00% | ~17 |
 | It was worth a shot | 0.90% | ~16 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 260)  
+Progressed: 1,726 (Ranked 260)  
 Completed: 1 (0.06%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 1 (0.06%) (Ranked 333)
 | 2024-01-10 | 1,708 | 1 |
 | 2024-01-11 | 1,714 | 1 |
 | 2024-01-12 | 1,717 | 1 |
-| 2024-01-13 | 1,724 | 1 |
+| 2024-01-13 | 1,726 | 1 |
 ## Awards
 Max (Character Customization): 53  (Ranked 449)  
 Sum: 53 (Ranked 507)  

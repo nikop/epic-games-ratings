@@ -14,16 +14,16 @@ Number of Ratings: 85  (23.09.2022)
 | Yettisoned | 59.00% | ~281 |
 | Pimp My Raid | 57.00% | ~271 |
 | Perfect Probulator | 57.00% | ~271 |
-| Lobster Blisque | 51.00% | ~243 |
-| Fly Me to the Moon Base | 49.00% | ~233 |
+| Lobster Blisque | 52.00% | ~248 |
+| Fly Me to the Moon Base | 50.00% | ~238 |
 | Earthly Pleasures | 49.00% | ~233 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~224 |
 | Bodied Sattva | 37.00% | ~176 |
 | Forbidden Donut | 36.00% | ~171 |
 | Freshly Squeezed | 36.00% | ~171 |
 | Upgreatest | 35.00% | ~167 |
+| Furon Fashion | 30.00% | ~143 |
 | Deincarnated | 29.00% | ~138 |
-| Furon Fashion | 29.00% | ~138 |
 | Rock of the Bay | 28.00% | ~133 |
 | Trans-Siberian Express | 25.00% | ~119 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~95 |

@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 89.00% | ~177 |
-| Map reader | 63.00% | ~125 |
-| Adventurer | 62.00% | ~123 |
-| Philanthropist | 59.00% | ~117 |
+| Beginner | 90.00% | ~180 |
+| Map reader | 63.00% | ~126 |
+| Adventurer | 62.00% | ~124 |
+| Philanthropist | 59.00% | ~118 |
 | Archer | 39.00% | ~78 |
 | The brave little tailor | 38.00% | ~76 |
 | Field hand | 36.00% | ~72 |
-| Well-to-do | 31.00% | ~62 |
+| Well-to-do | 32.00% | ~64 |
 | Samaritan | 28.00% | ~56 |
 | Ladies' man | 27.00% | ~54 |
 | The merciful one | 26.00% | ~52 |
@@ -28,9 +28,9 @@ Rating: 4.56 (Ranked 510)
 | The fourth triplet | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
-| Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
 | Ghost hunter | 14.00% | ~28 |
+| Hard worker | 14.00% | ~28 |
 | Master detective | 14.00% | ~28 |
 | Peacekeeper | 12.00% | ~24 |
 | Defender | 11.00% | ~22 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 510)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 199 (Ranked 433)  
+Progressed: 200 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 188 | 0 |
 | 2024-01-11 | 191 | 0 |
 | 2024-01-12 | 193 | 0 |
-| 2024-01-13 | 199 | 0 |
+| 2024-01-13 | 200 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 178,
+  "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9535,10 +9535,10 @@
       "Count": 3635
     }
   ],
-  "EOS_Progressed": 253720,
+  "EOS_Progressed": 253729,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1710,
-  "EOS_NewCompleters": 18,
+  "EOS_NewPlayers": 1704,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -39950,6 +39950,11 @@
       "Time": "2024-01-13T16:10:57.3687902+00:00",
       "NumProgressed": 253720,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-13T17:10:32.0509248+00:00",
+      "NumProgressed": 253729,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -40329,7 +40334,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5074
+      "UsersEstimate": 5075
     },
     {
       "ID": "objective_completed_110",
@@ -41633,7 +41638,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5074
+      "UsersEstimate": 5075
     },
     {
       "ID": "objective_completed_34",
@@ -41825,7 +41830,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2283
+      "UsersEstimate": 2284
     },
     {
       "ID": "objective_completed_40",
@@ -44328,21 +44333,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 219994,
+      "Progressed": 220003,
       "Completed": 4147
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253720,
+      "Progressed": 253729,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-13T16:01:23.7071451+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:10:57.3687899+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:10:32.0509247+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:01:23.7071459+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:10:57.3712255+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:00:16.1782397+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:10:32.0532344+00:00"
 }

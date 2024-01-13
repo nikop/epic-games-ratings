@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -2469,6 +2469,11 @@
       "Time": "2024-01-13T13:08:24.1389126+00:00",
       "NumProgressed": 760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T17:05:29.5131079+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2521,7 +2526,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "9",
@@ -2545,7 +2550,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "REMAKE_004",
@@ -2553,7 +2558,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "Remake_005",
@@ -2679,9 +2684,9 @@
       "ID": "Remake_20",
       "SetID": "5pi96jj",
       "Name": "Dug Straight Down",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 15
     },
     {
       "ID": "Remake_21",
@@ -2704,14 +2709,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:06:32.6214952+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:05:29.5131076+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:01:09.5800549+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:06:32.6215269+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:00:06.4570424+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:05:29.5131347+00:00"
 }

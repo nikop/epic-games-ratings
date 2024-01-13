@@ -17,7 +17,7 @@ Rating: 4.81 (Ranked 82)
 | Pirates Assemble! | 24.00% | ~367 |
 | Buccaneer | 20.00% | ~306 |
 | Fishy Fish | 20.00% | ~306 |
-| All Good Things | 18.00% | ~275 |
+| All Good Things | 18.00% | ~276 |
 | Persistent Parasite | 16.00% | ~245 |
 | Seadog | 14.00% | ~214 |
 | Jaded Judge | 12.00% | ~184 |
@@ -27,12 +27,12 @@ Rating: 4.81 (Ranked 82)
 | Privateer | 9.00% | ~138 |
 | Lyrical Longing | 9.00% | ~138 |
 | Fully Decked | 7.00% | ~107 |
-| Corsair | 5.00% | ~76 |
+| Corsair | 5.00% | ~77 |
 | Freebooter | 4.00% | ~61 |
 | Marauder | 3.00% | ~46 |
 | Welcome Back Jester | 3.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,530 (Ranked 270)  
+Progressed: 1,531 (Ranked 270)  
 Completed: 37 (2.42%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 37 (2.42%) (Ranked 130)
 | 2024-01-10 | 1,515 | 37 |
 | 2024-01-11 | 1,522 | 37 |
 | 2024-01-12 | 1,527 | 37 |
-| 2024-01-13 | 1,530 | 37 |
+| 2024-01-13 | 1,531 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

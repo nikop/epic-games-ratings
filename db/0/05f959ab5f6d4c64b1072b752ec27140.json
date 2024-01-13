@@ -2,9 +2,9 @@
   "ID": "05f959ab5f6d4c64b1072b752ec27140",
   "Name": "Super Kids Racing - Mini Edition",
   "ProductSlug": "super-kids-racing-mini-edition-65c0fa",
-  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewPlayers": 577,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-09T18:30:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -58,6 +58,11 @@
     {
       "Time": "2023-12-29T16:07:46.7611381+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T17:06:23.1588367+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -110,14 +115,14 @@
     {
       "ID": "b09jj6n",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-19T21:03:04.8631681+00:00",
   "FirstSeenAchievements": "2023-12-05T19:03:44.4513235+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:07:46.4569567+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:06:23.1588364+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.6715809+00:00",
-  "LastUpdate_Ratings": "2024-01-13T15:59:33.0943244+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:07:46.4569606+00:00"
+  "LastUpdate_Ratings": "2024-01-13T16:58:58.5270791+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:06:23.1588404+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 942,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -3084,6 +3084,11 @@
       "Time": "2024-01-13T16:08:54.926513+00:00",
       "NumProgressed": 940,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T17:09:01.1927305+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3126,7 +3131,7 @@
       "ID": "ach_complete_difficulty_extreme",
       "SetID": "d499apg",
       "Name": "Exterminatus",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 175,
       "UsersEstimate": 8
     },
@@ -3144,7 +3149,7 @@
       "Name": "My Armour is Contempt",
       "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -3152,7 +3157,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -3160,7 +3165,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3191,14 +3196,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 942,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-13T16:08:54.9265128+00:00",
+  "LastChanged_Achievements": "2024-01-13T17:09:01.1927297+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:55.7118105+00:00",
-  "LastUpdate_Ratings": "2024-01-13T16:02:30.2182778+00:00",
-  "LastUpdate_Achievements": "2024-01-13T16:08:54.9265521+00:00"
+  "LastUpdate_Ratings": "2024-01-13T17:02:51.9495457+00:00",
+  "LastUpdate_Achievements": "2024-01-13T17:09:01.1927576+00:00"
 }

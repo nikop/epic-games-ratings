@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.43 (Ranked 728)  
+Rating: 4.43 (Ranked 727)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,14 +13,14 @@ Rating: 4.43 (Ranked 728)
 | Treasure Hunt | 29.00% | ~1,173 |
 | Ancient Curse | 26.00% | ~1,052 |
 | Hidden Secrets | 24.00% | ~971 |
-| Cat Person | 23.00% | ~930 |
-| Climber | 23.00% | ~930 |
-| Mad Scientist | 23.00% | ~930 |
+| Cat Person | 23.00% | ~931 |
+| Climber | 23.00% | ~931 |
+| Mad Scientist | 23.00% | ~931 |
 | Imprisonment | 22.00% | ~890 |
 | Reunion | 22.00% | ~890 |
 | Dog Person | 18.00% | ~728 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,045 (Ranked 217)  
+Progressed: 4,046 (Ranked 217)  
 Completed: 144 (3.56%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 144 (3.56%) (Ranked 101)
 | 2024-01-10 | 4,013 | 144 |
 | 2024-01-11 | 4,022 | 144 |
 | 2024-01-12 | 4,033 | 144 |
-| 2024-01-13 | 4,045 | 144 |
+| 2024-01-13 | 4,046 | 144 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
