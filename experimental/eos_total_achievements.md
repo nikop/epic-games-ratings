@@ -362,6 +362,7 @@
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
 | [Despot's Game](../games/d/despot's_game.md) | 35 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
+| [Geometric Sniper](../games/1/17514f68442f4cb19f6219f45309142b.md) | 35 | 1,000 |
 | [GigaBash](../games/g/gigabash.md) | 35 | 1,000 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](../games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 35 | 1,000 |
 | [greensheen Production](../games/g/greensheen_production.md) | 35 | 1,000 |

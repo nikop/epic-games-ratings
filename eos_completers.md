@@ -13,7 +13,7 @@
 | 11 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 32.14% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.71% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.08% |
-| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.98% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.56% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 15 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 25.00% |
@@ -62,7 +62,7 @@
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.10% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.93% |
 | 62 | [Scorn](games/s/scorn.md) | 6.91% |
-| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.88% |
+| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.87% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.85% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -91,8 +91,8 @@
 | 89 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 90 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 91 | [Dungeons 4](games/d/dungeons_4.md) | 4.07% |
-| 92 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.95% |
-| 93 | [The Bunker](games/t/the_bunker.md) | 3.91% |
+| 92 | [The Bunker](games/t/the_bunker.md) | 3.91% |
+| 93 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.90% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
 | 94 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 96 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.61% |
@@ -286,10 +286,10 @@
 | 284 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.18% |
 | 284 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 284 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
-| 287 | [Against the Storm](games/a/against_the_storm.md) | 0.16% |
-| 287 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.16% |
-| 287 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 287 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 287 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
+| 288 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.16% |
+| 288 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 288 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 291 | [Blanc](games/b/blanc.md) | 0.15% |
 | 291 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 291 | [Scathe](games/s/scathe.md) | 0.15% |
