@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 741)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,474 |
-| IT MAKES BOOM! | 9.00% | ~35,636 |
-| EXTRA BOOST | 6.00% | ~23,757 |
-| PROTECTED | 5.00% | ~19,798 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,838 |
-| PRO | 4.00% | ~15,838 |
-| AGGRESSIVE RACER | 3.00% | ~11,879 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,919 |
-| TRAINING HARD | 2.00% | ~7,919 |
-| BE OUR GUEST | 2.00% | ~7,919 |
-| ACE SPEEDSTER | 2.00% | ~7,919 |
-| A TIGER'S FEAR | 2.00% | ~7,919 |
+| ROOKIE | 13.00% | ~51,480 |
+| IT MAKES BOOM! | 9.00% | ~35,640 |
+| EXTRA BOOST | 6.00% | ~23,760 |
+| PROTECTED | 5.00% | ~19,800 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,840 |
+| PRO | 4.00% | ~15,840 |
+| AGGRESSIVE RACER | 3.00% | ~11,880 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,920 |
+| TRAINING HARD | 2.00% | ~7,920 |
+| BE OUR GUEST | 2.00% | ~7,920 |
+| ACE SPEEDSTER | 2.00% | ~7,920 |
+| A TIGER'S FEAR | 2.00% | ~7,920 |
 | RELEASE THE KRAKEN | 1.00% | ~3,960 |
 | ACE BRAWLER | 1.00% | ~3,960 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,960 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 741)
 | ACE TRICKSTER | 0.70% | ~2,772 |
 | PERFECTLY POISED | 0.60% | ~2,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 395,956 (Ranked 52)  
+Progressed: 396,000 (Ranked 52)  
 Completed: 1,589 (0.40%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 1,589 (0.40%) (Ranked 240)
 | 2024-01-10 | 393,978 | 1,557 |
 | 2024-01-11 | 394,848 | 1,570 |
 | 2024-01-12 | 395,787 | 1,582 |
-| 2024-01-13 | 395,956 | 1,589 |
+| 2024-01-13 | 396,000 | 1,589 |
 ## Awards
 Max (Great for Beginners): 179  (Ranked 313)  
-Sum: 1,188 (Ranked 264)  
+Sum: 1,189 (Ranked 264)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -307,7 +307,7 @@ Diff (max vs sum): 49
 | This game has a Competitive Community | 104 |
 | This game has Playful Visuals | 99 |
 | This game has Amazing Characters | 90 |
-| This game is Highly Recommended | 88 |
+| This game is Highly Recommended | 89 |
 | This game is Extremely Fun | 78 |
 | This game has Competitive Players | 71 |
 | This game has Quickly Understood Controls | 66 |
@@ -420,4 +420,4 @@ Diff (max vs sum): 49
 | 2024-01-10 | 4.42 | 178 | 1,174 |
 | 2024-01-11 | 4.42 | 179 | 1,181 |
 | 2024-01-12 | 4.42 | 179 | 1,187 |
-| 2024-01-13 | 4.42 | 179 | 1,188 |
+| 2024-01-13 | 4.42 | 179 | 1,189 |

@@ -49,7 +49,7 @@ Number of Ratings: 801  (23.09.2022)
 | Ground Control | 3.00% | ~311 |
 | Treasure Hunting | 3.00% | ~311 |
 | Nexuwizard | 2.00% | ~207 |
-| Everybody Freeze | 0.90% | ~93 |
+| Everybody Freeze | 1.00% | ~104 |
 | Nature Is Lit | 0.80% | ~83 |
 | The Collector | 0.80% | ~83 |
 | I'm The Pluggernaut | 0.50% | ~52 |

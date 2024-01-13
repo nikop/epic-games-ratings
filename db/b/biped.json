@@ -2,10 +2,10 @@
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
   "ProductSlug": "biped",
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10364,
+  "EOS_Progressed": 10365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16834,6 +16834,11 @@
       "Time": "2024-01-13T02:28:55.1032538+00:00",
       "NumProgressed": 10364,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T04:06:09.7128374+00:00",
+      "NumProgressed": 10365,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16909,7 +16914,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2176
+      "UsersEstimate": 2177
     },
     {
       "ID": "4",
@@ -16964,7 +16969,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10364,
+      "Progressed": 10365,
       "Completed": 0
     }
   ],
@@ -16972,8 +16977,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:06:09.2735863+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:06:09.7128371+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:19.9263192+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:59:50.1326225+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:06:09.2736728+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:00:11.9185565+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:06:09.712936+00:00"
 }

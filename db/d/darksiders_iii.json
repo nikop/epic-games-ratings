@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -488,7 +488,7 @@
   ],
   "EOS_Progressed": 574,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2242,9 +2242,9 @@
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 195
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2554,9 +2554,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 373
     },
     {
       "ID": "Save_Humans_10",
@@ -2666,8 +2666,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:05:49.9101054+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:05:50.4080694+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:59:14.8592348+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:05:49.9101701+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:59:35.1718941+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:05:50.4081232+00:00"
 }

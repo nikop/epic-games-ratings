@@ -1,11 +1,11 @@
 # Spelldrifter
 [Store](https://store.epicgames.com/en-US/p/spelldrifter)  
 [View Rawdata](../../db/s/spelldrifter.json)  
-Rating: 3.80 (Ranked 1,089)  
+Rating: 3.80 (Ranked 1,090)  
 ## Awards
-Max (Character Customization): 26  (Ranked 545)  
+Max (Character Customization): 26  (Ranked 546)  
 Sum: 26 (Ranked 558)  
-Diff (max vs sum): -13  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 26 |

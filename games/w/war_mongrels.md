@@ -1,28 +1,28 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.37 (Ranked 812)  
+Rating: 4.37 (Ranked 813)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~526 |
-| Cowardice | 61.00% | ~472 |
+| Explorer | 68.00% | ~527 |
+| Cowardice | 61.00% | ~473 |
 | The Breaking Point | 44.00% | ~341 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~341 |
-| Eat Lead! | 42.00% | ~325 |
+| Eat Lead! | 42.00% | ~326 |
 | Here Comes the Boom | 40.00% | ~310 |
 | Prospector | 38.00% | ~294 |
-| Sniper Wolf | 37.00% | ~286 |
+| Sniper Wolf | 37.00% | ~287 |
 | The Motivation | 36.00% | ~279 |
 | Treasure Hunter | 35.00% | ~271 |
-| Heroism | 34.00% | ~263 |
+| Heroism | 34.00% | ~264 |
 | Collectibles of Chapter I | 32.00% | ~248 |
 | Missing in Action | 32.00% | ~248 |
 | Consequences | 31.00% | ~240 |
 | Opportunities | 30.00% | ~232 |
 | King of Knives | 30.00% | ~232 |
-| The Horror | 28.00% | ~217 |
+| The Horror | 27.00% | ~209 |
 | The Difference | 25.00% | ~194 |
 | It's Just an Accident | 25.00% | ~194 |
 | Vengeance | 24.00% | ~186 |
@@ -33,11 +33,11 @@ Number of Ratings: 34  (23.09.2022)
 | Atonement | 17.00% | ~132 |
 | Helping Hand | 17.00% | ~132 |
 | Food Massacre | 17.00% | ~132 |
-| Without a Second Thought | 14.00% | ~108 |
+| Without a Second Thought | 14.00% | ~109 |
 | Collectibles of Chapter III | 13.00% | ~101 |
 | Collectibles of Chapter IV | 13.00% | ~101 |
 | Tiptoe Around | 11.00% | ~85 |
-| Collectibles of Chapter V | 10.00% | ~77 |
+| Collectibles of Chapter V | 10.00% | ~78 |
 | Such is War! | 8.00% | ~62 |
 | Piece of Cake | 7.00% | ~54 |
 | Collectibles of Chapter VII | 6.00% | ~46 |
@@ -48,9 +48,9 @@ Number of Ratings: 34  (23.09.2022)
 | The Good Samaritan | 5.00% | ~39 |
 | Collectibles of Chapter VIII | 4.00% | ~31 |
 | Collectibles of Chapter X | 3.00% | ~23 |
-| Collectibles of Chapter VI | 2.00% | ~15 |
-| Collectibles of Chapter IX | 2.00% | ~15 |
-| Daddy Would Be Proud | 2.00% | ~15 |
+| Collectibles of Chapter VI | 2.00% | ~16 |
+| Collectibles of Chapter IX | 2.00% | ~16 |
+| Daddy Would Be Proud | 2.00% | ~16 |
 | Hold a Door | 1.00% | ~8 |
 | Warm Up | 0.40% | ~3 |
 | Challenges of Chapter I | 0.10% | ~1 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 774 (Ranked 317)  
+Progressed: 775 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-08 | 770 | 0 |
 | 2024-01-11 | 771 | 0 |
 | 2024-01-12 | 774 | 0 |
+| 2024-01-13 | 775 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

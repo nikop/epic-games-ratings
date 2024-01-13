@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 684,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "KILL",
       "SetID": "5770k2f",
       "Name": "Murderer",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_0_COMPLETED",
@@ -297,8 +297,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:04:22.4680372+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:04:24.0706644+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:07.9830278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:57:59.8785169+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:04:22.4680548+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:58:22.6174535+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:04:24.0707008+00:00"
 }

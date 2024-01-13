@@ -2,13 +2,13 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8297,
+  "EOS_Progressed": 8298,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13967,6 +13967,11 @@
       "Time": "2024-01-13T00:09:10.9067689+00:00",
       "NumProgressed": 8297,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T04:08:48.2564518+00:00",
+      "NumProgressed": 8298,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -13978,7 +13983,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -14026,7 +14031,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14297,13 +14302,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8297,
+      "Progressed": 8298,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7669,
+      "Progressed": 7670,
       "Completed": 113
     }
   ],
@@ -14311,8 +14316,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:08:50.7447497+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:08:48.2564516+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:09.2529662+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:57:00.0908597+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:08:50.744851+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:57:20.2376602+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:08:48.2565378+00:00"
 }

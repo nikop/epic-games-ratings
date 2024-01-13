@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4755,
+  "EOS_Progressed": 4756,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -8314,6 +8314,11 @@
       "Time": "2024-01-13T01:56:04.0525371+00:00",
       "NumProgressed": 4755,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T04:08:26.9247081+00:00",
+      "NumProgressed": 4756,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8509,7 +8514,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8660,15 +8665,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4755,
+      "Progressed": 4756,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:08:29.1252765+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:08:26.9247075+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:45.0450053+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:03:08.8501866+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:08:29.1253434+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:03:07.9007784+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:08:26.9247615+00:00"
 }

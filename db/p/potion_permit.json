@@ -2,13 +2,13 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 1079,
+  "Ranking_Rating": 1080,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1944,
+  "EOS_Progressed": 1945,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -3649,6 +3649,11 @@
       "Time": "2024-01-13T02:28:38.7749107+00:00",
       "NumProgressed": 1944,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-13T04:05:53.2749298+00:00",
+      "NumProgressed": 1945,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3660,7 +3665,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3708,7 +3713,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3716,7 +3721,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3724,7 +3729,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3732,7 +3737,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3754,9 +3759,9 @@
       "ID": "ACHIEVEMENTS_13",
       "SetID": "d4o538a",
       "Name": "Line Cook",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 233
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -3772,7 +3777,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3924,7 +3929,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3963,7 +3968,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1944,
+      "Progressed": 1945,
       "Completed": 11
     }
   ],
@@ -3971,8 +3976,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-11T09:59:14.3189006+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:05:52.9212412+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:05:53.2749296+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:08.493824+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:00:04.4711233+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:05:52.9212965+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:00:25.6152844+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:05:53.274964+00:00"
 }

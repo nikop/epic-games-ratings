@@ -6,7 +6,7 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 21.00% | ~816 |
+| Executioner | 21.00% | ~817 |
 | Look Over There! | 15.00% | ~583 |
 | Not So Fast... | 15.00% | ~583 |
 | Watch Where You Step... | 15.00% | ~583 |
@@ -19,8 +19,8 @@ Number of Ratings: 371  (23.09.2022)
 | Honoured Battle-Brother | 5.00% | ~194 |
 | The Emperor Protects | 5.00% | ~194 |
 | A Foul Creche | 5.00% | ~194 |
-| Nemesis Master | 4.00% | ~155 |
-| Gunmaster | 4.00% | ~155 |
+| Nemesis Master | 4.00% | ~156 |
+| Gunmaster | 4.00% | ~156 |
 | Hold Your Ground | 3.00% | ~117 |
 | Just a Scratch | 3.00% | ~117 |
 | Hive Exterminator | 3.00% | ~117 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,887 (Ranked 220)  
+Progressed: 3,889 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 3,875 | 0 |
 | 2024-01-11 | 3,880 | 0 |
 | 2024-01-12 | 3,886 | 0 |
-| 2024-01-13 | 3,887 | 0 |
+| 2024-01-13 | 3,889 | 0 |
 ## Awards
 Max (Character Customization): 233  (Ranked 286)  
 Sum: 502 (Ranked 336)  

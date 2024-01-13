@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 247832,
+  "EOS_Progressed": 247840,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1084,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25983,6 +25983,11 @@
       "Time": "2024-01-13T01:58:38.0874264+00:00",
       "NumProgressed": 247832,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-13T04:10:16.8563757+00:00",
+      "NumProgressed": 247840,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26026,7 +26031,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9913
+      "UsersEstimate": 9914
     },
     {
       "ID": "BookCollection",
@@ -26058,7 +26063,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9913
+      "UsersEstimate": 9914
     },
     {
       "ID": "Chapter4",
@@ -26394,7 +26399,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22305
+      "UsersEstimate": 22306
     },
     {
       "ID": "DwarfElf15Support",
@@ -26442,7 +26447,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91698
+      "UsersEstimate": 91701
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26474,7 +26479,7 @@
       "Name": "100% satisfaction guarantee",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "EndGameNoDeath",
@@ -26482,7 +26487,7 @@
       "Name": "Death is for wimps",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "FastKill",
@@ -26530,7 +26535,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "MinistrelEpic",
@@ -26690,28 +26695,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9913
+      "UsersEstimate": 9914
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 247832,
+      "Progressed": 247840,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 247832,
+      "Progressed": 247840,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:10:19.786693+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:10:16.8563752+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8090113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:57:46.671529+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:10:19.7868665+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:58:08.4276628+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:10:16.8565451+00:00"
 }

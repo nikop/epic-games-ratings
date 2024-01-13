@@ -10,34 +10,34 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 3.00% | ~497 |
 | Friendly Family | 3.00% | ~497 |
 | Play a Single Player Game | 3.00% | ~497 |
-| Able | 2.00% | ~331 |
-| Ambitious | 2.00% | ~331 |
-| Architect | 2.00% | ~331 |
-| Enlightened | 2.00% | ~331 |
-| Fountainhead | 2.00% | ~331 |
-| Glorious | 2.00% | ~331 |
-| Good | 2.00% | ~331 |
-| Intrepid | 2.00% | ~331 |
-| Just | 2.00% | ~331 |
-| Keystone | 2.00% | ~331 |
-| Learned | 2.00% | ~331 |
-| Magnificent | 2.00% | ~331 |
-| Mason | 2.00% | ~331 |
-| Noble | 2.00% | ~331 |
-| Pioneer | 2.00% | ~331 |
-| Strong | 2.00% | ~331 |
-| Warrior | 2.00% | ~331 |
-| Developing Cities | 2.00% | ~331 |
-| Strong Cities | 2.00% | ~331 |
-| Hanging Gardens | 2.00% | ~331 |
-| Oracle | 2.00% | ~331 |
-| Pyramids | 2.00% | ~331 |
-| Learn to Play 1 | 2.00% | ~331 |
-| Judaism | 2.00% | ~331 |
-| Babylonian Paganism | 2.00% | ~331 |
-| Greek Paganism | 2.00% | ~331 |
-| Naming Landmarks | 2.00% | ~331 |
-| Trade Caravan | 2.00% | ~331 |
+| Able | 2.00% | ~332 |
+| Ambitious | 2.00% | ~332 |
+| Architect | 2.00% | ~332 |
+| Enlightened | 2.00% | ~332 |
+| Fountainhead | 2.00% | ~332 |
+| Glorious | 2.00% | ~332 |
+| Good | 2.00% | ~332 |
+| Intrepid | 2.00% | ~332 |
+| Just | 2.00% | ~332 |
+| Keystone | 2.00% | ~332 |
+| Learned | 2.00% | ~332 |
+| Magnificent | 2.00% | ~332 |
+| Mason | 2.00% | ~332 |
+| Noble | 2.00% | ~332 |
+| Pioneer | 2.00% | ~332 |
+| Strong | 2.00% | ~332 |
+| Warrior | 2.00% | ~332 |
+| Developing Cities | 2.00% | ~332 |
+| Strong Cities | 2.00% | ~332 |
+| Hanging Gardens | 2.00% | ~332 |
+| Oracle | 2.00% | ~332 |
+| Pyramids | 2.00% | ~332 |
+| Learn to Play 1 | 2.00% | ~332 |
+| Judaism | 2.00% | ~332 |
+| Babylonian Paganism | 2.00% | ~332 |
+| Greek Paganism | 2.00% | ~332 |
+| Naming Landmarks | 2.00% | ~332 |
+| Trade Caravan | 2.00% | ~332 |
 | Regicide | 1.00% | ~166 |
 | Drillmaster | 1.00% | ~166 |
 | Brilliant | 1.00% | ~166 |
@@ -72,6 +72,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 0.80% | ~133 |
 | Sages | 0.80% | ~133 |
 | Learn to Play 3 | 0.80% | ~133 |
+| Persian Paganism | 0.80% | ~133 |
 | Beloved | 0.70% | ~116 |
 | Mighty | 0.70% | ~116 |
 | Good Difficulty | 0.70% | ~116 |
@@ -79,7 +80,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.70% | ~116 |
 | Greece | 0.70% | ~116 |
 | Power to the People | 0.70% | ~116 |
-| Persian Paganism | 0.70% | ~116 |
 | Points Victory | 0.70% | ~116 |
 | Win a Single Player Game | 0.70% | ~116 |
 | Victorious | 0.60% | ~99 |
@@ -143,8 +143,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.30% | ~50 |
 | Cataphract Archer | 0.30% | ~50 |
 | No Undo | 0.30% | ~50 |
+| Poetic Leader | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.20% | ~33 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
+| Ancient | 0.20% | ~33 |
 | Noble Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
@@ -154,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.20% | ~33 |
 | Ten Crowns | 0.20% | ~33 |
 | Siege Tower | 0.20% | ~33 |
-| Poetic Leader | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
 | Jerwan Aqueduct | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
@@ -191,7 +192,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 4) | 0.10% | ~17 |
 | Carthage Campaign | 0.10% | ~17 |
 | Cleopatra's Love | 0.10% | ~17 |
-| Ancient | 0.10% | ~17 |
 | Avenger | 0.10% | ~17 |
 | Destroyer | 0.10% | ~17 |
 | Holy | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,569 (Ranked 170)  
+Progressed: 16,580 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,569 | 5 |
+| 2024-01-13 | 16,580 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,925 (Ranked 223)  

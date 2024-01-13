@@ -6,15 +6,15 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,439 |
-| Photographer | 67.00% | ~9,439 |
-| Valley's Helper | 59.00% | ~8,312 |
-| Constructor | 50.00% | ~7,044 |
-| Renovator | 49.00% | ~6,903 |
-| Bestest Friend | 44.00% | ~6,199 |
-| Banker | 38.00% | ~5,353 |
-| Gardener | 30.00% | ~4,226 |
-| Generous | 25.00% | ~3,522 |
+| Goofy's Investor | 67.00% | ~9,441 |
+| Photographer | 67.00% | ~9,441 |
+| Valley's Helper | 59.00% | ~8,314 |
+| Constructor | 50.00% | ~7,046 |
+| Renovator | 49.00% | ~6,905 |
+| Bestest Friend | 44.00% | ~6,200 |
+| Banker | 38.00% | ~5,355 |
+| Gardener | 30.00% | ~4,227 |
+| Generous | 25.00% | ~3,523 |
 | Chef Cook | 19.00% | ~2,677 |
 | Miner | 11.00% | ~1,550 |
 | Duty Bound | 8.00% | ~1,127 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~845 |
 | Chit Chatter | 3.00% | ~423 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,088 (Ranked 176)  
+Progressed: 14,091 (Ranked 176)  
 Completed: 350 (2.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,16 +241,16 @@ Completed: 350 (2.48%) (Ranked 127)
 | 2024-01-10 | 14,047 | 348 |
 | 2024-01-11 | 14,066 | 349 |
 | 2024-01-12 | 14,085 | 350 |
-| 2024-01-13 | 14,088 | 350 |
+| 2024-01-13 | 14,091 | 350 |
 ## Awards
 Max (Great for Beginners): 1,180  (Ranked 150)  
-Sum: 8,392 (Ranked 110)  
+Sum: 8,394 (Ranked 110)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,180 |
 | This game has Diverse Characters | 999 |
-| This game is Highly Recommended | 870 |
+| This game is Highly Recommended | 872 |
 | This game has Amazing Characters | 848 |
 | This game is Relaxing | 829 |
 | This game has Amazing Storytelling | 805 |
@@ -566,3 +566,4 @@ Diff (max vs sum): 40
 | 2024-01-10 | 4.76 | - | 1,179 | 8,388 |
 | 2024-01-11 | 4.76 | - | 1,179 | 8,389 |
 | 2024-01-12 | 4.76 | - | 1,180 | 8,392 |
+| 2024-01-13 | 4.76 | - | 1,180 | 8,394 |

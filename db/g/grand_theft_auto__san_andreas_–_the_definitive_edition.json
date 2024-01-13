@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2425,9 +2425,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 19451,
+  "EOS_Progressed": 19452,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20170,6 +20170,11 @@
       "Time": "2024-01-13T03:10:10.8985675+00:00",
       "NumProgressed": 19451,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-13T04:10:08.2562876+00:00",
+      "NumProgressed": 19452,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20181,7 +20186,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15755
+      "UsersEstimate": 15756
     },
     {
       "ID": "ACH02",
@@ -20403,9 +20408,9 @@
       "ID": "ACH29",
       "SetID": "4ck5mbe",
       "Name": "Today Was a Good Day",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2723
+      "UsersEstimate": 2918
     },
     {
       "ID": "ACH30",
@@ -20460,7 +20465,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19451,
+      "Progressed": 19452,
       "Completed": 77
     }
   ],
@@ -20468,8 +20473,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-13T01:50:16.0028084+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:10:10.898567+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:10:08.2562872+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-13T03:02:55.3036933+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:10:10.8986865+00:00"
+  "LastUpdate_Ratings": "2024-01-13T04:02:54.5498198+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:10:08.2564242+00:00"
 }

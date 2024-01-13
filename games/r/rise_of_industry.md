@@ -1,25 +1,25 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.25 (Ranked 926)  
+Rating: 4.25 (Ranked 927)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~368,675 |
-| Well educated | 37.00% | ~284,187 |
-| City Planner | 19.00% | ~145,934 |
-| Deforester | 17.00% | ~130,572 |
-| Big Hauling | 16.00% | ~122,892 |
-| Apprentice Manufacturer | 13.00% | ~99,849 |
-| Exporter | 13.00% | ~99,849 |
-| I would drive 500 tiles... | 12.00% | ~92,169 |
-| Landscaper | 12.00% | ~92,169 |
+| Entrepreneur | 48.00% | ~368,678 |
+| Well educated | 37.00% | ~284,190 |
+| City Planner | 19.00% | ~145,935 |
+| Deforester | 17.00% | ~130,574 |
+| Big Hauling | 16.00% | ~122,893 |
+| Apprentice Manufacturer | 13.00% | ~99,850 |
+| Exporter | 13.00% | ~99,850 |
+| I would drive 500 tiles... | 12.00% | ~92,170 |
+| Landscaper | 12.00% | ~92,170 |
 | Railwayman | 8.00% | ~61,446 |
-| Penniless | 6.00% | ~46,084 |
-| Massive Gains | 6.00% | ~46,084 |
+| Penniless | 6.00% | ~46,085 |
+| Massive Gains | 6.00% | ~46,085 |
 | Salesman | 3.00% | ~23,042 |
-| Engineer | 2.00% | ~15,361 |
-| High Flyer | 2.00% | ~15,361 |
+| Engineer | 2.00% | ~15,362 |
+| High Flyer | 2.00% | ~15,362 |
 | Captain | 0.80% | ~6,145 |
 | Billionaire | 0.70% | ~5,377 |
 | Vroom Vroom | 0.40% | ~3,072 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 926)
 | Master Builder | 0.10% | ~768 |
 | Hard working | 0.10% | ~768 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768,072 (Ranked 24)  
+Progressed: 768,080 (Ranked 24)  
 Completed: 4 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 4 (0.00%) (Ranked 399)
 | 2024-01-10 | 767,557 | 4 |
 | 2024-01-11 | 767,792 | 4 |
 | 2024-01-12 | 768,039 | 4 |
-| 2024-01-13 | 768,072 | 4 |
+| 2024-01-13 | 768,080 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

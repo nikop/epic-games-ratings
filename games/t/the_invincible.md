@@ -32,7 +32,7 @@ Rating: 4.55 (Ranked 530)
 | Got lost again | 6.00% | ~99 |
 | Strong objection | 6.00% | ~99 |
 | I leave no man behind (no exceptions) | 2.00% | ~33 |
-| Convoy list | 0.90% | ~15 |
+| Convoy list | 1.00% | ~17 |
 | No more mistakes | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,653 (Ranked 265)  

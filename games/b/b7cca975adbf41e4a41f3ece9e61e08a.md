@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,274 |
-| I Challenge You To Save More Money! | 81.00% | ~14,979 |
-| I Love How Tough You Are | 65.00% | ~12,020 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,726 |
-| What I Want Is You | 53.00% | ~9,801 |
-| To Be Or Not To Be | 50.00% | ~9,246 |
+| Last Night...Did We... | 88.00% | ~16,275 |
+| I Challenge You To Save More Money! | 81.00% | ~14,980 |
+| I Love How Tough You Are | 65.00% | ~12,021 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,727 |
+| What I Want Is You | 53.00% | ~9,802 |
+| To Be Or Not To Be | 50.00% | ~9,247 |
 | Are You Alright? | 47.00% | ~8,692 |
-| Love Actually | 41.00% | ~7,582 |
-| Drama King | 36.00% | ~6,657 |
+| Love Actually | 41.00% | ~7,583 |
+| Drama King | 36.00% | ~6,658 |
 | Go Clean up In Your Own Way | 33.00% | ~6,103 |
 | You're Really Something Else | 32.00% | ~5,918 |
 | Drama CP: Reel to Real | 31.00% | ~5,733 |
@@ -25,8 +25,8 @@ Rating: 4.69 (Ranked 241)
 | ONE PUNCH | 28.00% | ~5,178 |
 | Days Of Innocence | 26.00% | ~4,808 |
 | David | 26.00% | ~4,808 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,623 |
-| That's So You | 22.00% | ~4,068 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,624 |
+| That's So You | 22.00% | ~4,069 |
 | All I Have Is Money | 21.00% | ~3,884 |
 | Lover In Dark Alley | 21.00% | ~3,884 |
 | A Slap In The Face! | 21.00% | ~3,884 |
@@ -38,9 +38,9 @@ Rating: 4.69 (Ranked 241)
 | Doesn't Matter I'll Handle It | 12.00% | ~2,219 |
 | The Flash | 11.00% | ~2,034 |
 | New Yoga Pose Unlocked | 10.00% | ~1,849 |
-| My Dear Love! | 8.00% | ~1,479 |
-| Counting Sheep? | 8.00% | ~1,479 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,479 |
+| My Dear Love! | 8.00% | ~1,480 |
+| Counting Sheep? | 8.00% | ~1,480 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,480 |
 | Life Is A Rollercoaster | 7.00% | ~1,295 |
 | Boys Need To Protect Themselves | 7.00% | ~1,295 |
 | Stubborn Noob | 7.00% | ~1,295 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 241)
 | Tall; Grande; Venti | 2.00% | ~370 |
 | Limerence | 2.00% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,493 (Ranked 161)  
+Progressed: 18,494 (Ranked 161)  
 Completed: 319 (1.72%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 319 (1.72%) (Ranked 145)
 | 2024-01-10 | 18,309 | 316 |
 | 2024-01-11 | 18,396 | 316 |
 | 2024-01-12 | 18,482 | 319 |
-| 2024-01-13 | 18,493 | 319 |
+| 2024-01-13 | 18,494 | 319 |
 ## Awards
 Max (Impact the Story): 37  (Ranked 497)  
 Sum: 37 (Ranked 531)  

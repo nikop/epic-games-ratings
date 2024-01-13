@@ -37,7 +37,7 @@ Number of Ratings: 48  (23.09.2022)
 | Fishing Master | 23.00% | ~184 |
 | Armor Master | 22.00% | ~176 |
 | The Pride of the Town | 21.00% | ~168 |
-| This Treasure I've Found | 19.00% | ~152 |
+| This Treasure I've Found | 20.00% | ~160 |
 | New Nevaeh's Number One Customer | 19.00% | ~152 |
 | Arms Master | 18.00% | ~144 |
 | Rune Scholar | 15.00% | ~120 |

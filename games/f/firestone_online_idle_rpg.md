@@ -1,19 +1,19 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.11 (Ranked 1,021)  
+Rating: 4.11 (Ranked 1,022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,136 |
+| Victor | 93.00% | ~4,137 |
 | World Map | 78.00% | ~3,469 |
-| Temple of Eternals | 56.00% | ~2,490 |
-| Prestigious | 52.00% | ~2,312 |
-| Fellowship Power | 41.00% | ~1,823 |
+| Temple of Eternals | 56.00% | ~2,491 |
+| Prestigious | 52.00% | ~2,313 |
+| Fellowship Power | 41.00% | ~1,824 |
 | Full Party | 29.00% | ~1,290 |
-| Guild Power | 22.00% | ~978 |
-| Prestigious x10 | 20.00% | ~889 |
-| The game is on | 18.00% | ~800 |
+| Guild Power | 22.00% | ~979 |
+| Prestigious x10 | 20.00% | ~890 |
+| The game is on | 18.00% | ~801 |
 | Exotic Merchant | 16.00% | ~712 |
 | Dragon Clicker | 15.00% | ~667 |
 | Miner Clicker | 15.00% | ~667 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,021)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,447 (Ranked 209)  
+Progressed: 4,448 (Ranked 209)  
 Completed: 2 (0.04%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 2 (0.04%) (Ranked 351)
 | 2024-01-10 | 4,381 | 2 |
 | 2024-01-11 | 4,414 | 2 |
 | 2024-01-12 | 4,441 | 2 |
-| 2024-01-13 | 4,447 | 2 |
+| 2024-01-13 | 4,448 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 485)  
 Sum: 158 (Ranked 440)  

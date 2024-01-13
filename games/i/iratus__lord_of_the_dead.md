@@ -1,36 +1,36 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 812)  
+Rating: 4.37 (Ranked 813)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~41,861 |
-| Blood Moon | 73.00% | ~35,951 |
-| Path of the Necromancer | 65.00% | ~32,011 |
+| Improvement | 85.00% | ~41,862 |
+| Blood Moon | 73.00% | ~35,952 |
+| Path of the Necromancer | 65.00% | ~32,012 |
 | Chainbreaker - I | 60.00% | ~29,549 |
-| Cursed Creature | 57.00% | ~28,071 |
-| Extraction | 57.00% | ~28,071 |
+| Cursed Creature | 57.00% | ~28,072 |
+| Extraction | 57.00% | ~28,072 |
 | Chainbreaker - II | 54.00% | ~26,594 |
 | Necromancer's Apprentice | 50.00% | ~24,624 |
 | Keeper of Keys | 47.00% | ~23,147 |
 | Distillation | 43.00% | ~21,177 |
-| Transmutation | 42.00% | ~20,684 |
+| Transmutation | 42.00% | ~20,685 |
 | Mountain King - I | 41.00% | ~20,192 |
-| Prepared Necromancer | 40.00% | ~19,699 |
+| Prepared Necromancer | 40.00% | ~19,700 |
 | Mountain King - II | 39.00% | ~19,207 |
-| Blind Rage | 38.00% | ~18,714 |
+| Blind Rage | 38.00% | ~18,715 |
 | Mad Genius | 35.00% | ~17,237 |
-| Cannon Fodder - I | 34.00% | ~16,744 |
-| Soul of Lies | 34.00% | ~16,744 |
-| Bane of Mercenaries - I | 32.00% | ~15,759 |
+| Cannon Fodder - I | 34.00% | ~16,745 |
+| Soul of Lies | 34.00% | ~16,745 |
+| Bane of Mercenaries - I | 32.00% | ~15,760 |
 | Bane of Mercenaries - II | 31.00% | ~15,267 |
 | Cannon Fodder - II | 29.00% | ~14,282 |
 | Shadow Between Worlds | 29.00% | ~14,282 |
-| Bane of Monsters | 28.00% | ~13,789 |
-| Chainbreaker - III | 28.00% | ~13,789 |
-| Revealed Secrets - I | 26.00% | ~12,804 |
+| Bane of Monsters | 28.00% | ~13,790 |
+| Chainbreaker - III | 28.00% | ~13,790 |
+| Revealed Secrets - I | 26.00% | ~12,805 |
 | Revealed Secrets - II | 25.00% | ~12,312 |
 | Unholy Bones | 23.00% | ~11,327 |
 | Blood Elemental | 23.00% | ~11,327 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~246 |
 | Renowned Researcher | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,248 (Ranked 125)  
+Progressed: 49,249 (Ranked 125)  
 Completed: 26 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 26 (0.05%) (Ranked 340)
 | 2024-01-10 | 49,103 | 26 |
 | 2024-01-11 | 49,175 | 26 |
 | 2024-01-12 | 49,234 | 26 |
-| 2024-01-13 | 49,248 | 26 |
+| 2024-01-13 | 49,249 | 26 |
 ## Awards
 Max (Character Customization): 2,166  (Ranked 115)  
 Sum: 4,227 (Ranked 163)  

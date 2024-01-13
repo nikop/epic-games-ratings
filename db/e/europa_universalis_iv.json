@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14287,10 +14287,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64469,
       "NumberOfAwardsMax": 7824
+    },
+    {
+      "Time": "2024-01-13T03:58:57.8485147+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64480,
+      "NumberOfAwardsMax": 7824
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64469,
+  "NumberOfAwards": 64480,
   "NumberOfAwardsMax": 7824,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14310,7 +14316,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7662
+      "Count": 7673
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14361,9 +14367,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 497646,
+  "EOS_Progressed": 497667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4617,
+  "EOS_NewPlayers": 4616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45251,6 +45257,11 @@
       "Time": "2024-01-13T03:10:23.3217118+00:00",
       "NumProgressed": 497646,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T04:10:20.6539825+00:00",
+      "NumProgressed": 497667,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46260,9 +46271,9 @@
       "ID": "achievement_grand_army",
       "SetID": "8p2n7he",
       "Name": "That\u0027s a Grand Army",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2986
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48165,21 +48176,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 497646,
+      "Progressed": 497667,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 497646,
+      "Progressed": 497667,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-13T01:46:40.3253192+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:10:23.3217115+00:00",
+  "LastChanged": "2024-01-13T03:58:57.8485146+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:10:20.653982+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:12.850256+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:58:38.9676629+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:10:23.3227922+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:58:57.8485151+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:10:20.6550269+00:00"
 }

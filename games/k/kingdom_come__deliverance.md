@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,487 |
-| Cavalier | 26.00% | ~212,458 |
-| Fatso | 23.00% | ~187,944 |
-| Awakening | 21.00% | ~171,601 |
+| Blacksmith's Son | 32.00% | ~261,489 |
+| Cavalier | 26.00% | ~212,460 |
+| Fatso | 23.00% | ~187,945 |
+| Awakening | 21.00% | ~171,602 |
 | Ranger | 20.00% | ~163,430 |
 | Scrooge | 20.00% | ~163,430 |
 | Anorectic | 16.00% | ~130,744 |
 | Firestarter | 16.00% | ~130,744 |
-| Bookworm | 15.00% | ~122,572 |
-| Insomniac | 13.00% | ~106,229 |
+| Bookworm | 15.00% | ~122,573 |
+| Insomniac | 13.00% | ~106,230 |
 | Buddy | 12.00% | ~98,058 |
 | Thief | 12.00% | ~98,058 |
-| Sinner | 11.00% | ~89,886 |
-| Traveller | 11.00% | ~89,886 |
+| Sinner | 11.00% | ~89,887 |
+| Traveller | 11.00% | ~89,887 |
 | Convict | 10.00% | ~81,715 |
-| Haggler | 9.00% | ~73,543 |
-| McLovin | 7.00% | ~57,200 |
-| Runt | 7.00% | ~57,200 |
+| Haggler | 9.00% | ~73,544 |
+| McLovin | 7.00% | ~57,201 |
+| Runt | 7.00% | ~57,201 |
 | Casanova | 6.00% | ~49,029 |
-| Bad Trip | 5.00% | ~40,857 |
-| Monk | 5.00% | ~40,857 |
-| Serial Killer | 5.00% | ~40,857 |
+| Bad Trip | 5.00% | ~40,858 |
+| Monk | 5.00% | ~40,858 |
+| Serial Killer | 5.00% | ~40,858 |
 | Bastard | 4.00% | ~32,686 |
 | Hunter | 4.00% | ~32,686 |
 | Plague Doctor | 4.00% | ~32,686 |
-| Bard | 3.00% | ~24,514 |
-| Conqueror | 3.00% | ~24,514 |
-| Ginger in a Pickle | 3.00% | ~24,514 |
-| Kingdom did not come | 3.00% | ~24,514 |
+| Bard | 3.00% | ~24,515 |
+| Conqueror | 3.00% | ~24,515 |
+| Ginger in a Pickle | 3.00% | ~24,515 |
+| Kingdom did not come | 3.00% | ~24,515 |
 | Completionist | 2.00% | ~16,343 |
 | Death by splinter | 2.00% | ~16,343 |
 | King Charming | 2.00% | ~16,343 |
@@ -44,13 +44,13 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~16,343 |
 | Talmberger | 2.00% | ~16,343 |
 | The End | 2.00% | ~16,343 |
-| Woman's Lot | 1.00% | ~8,171 |
-| Chivalrous Soul | 1.00% | ~8,171 |
-| Spoilsport | 1.00% | ~8,171 |
-| Freud | 1.00% | ~8,171 |
-| Gambler | 1.00% | ~8,171 |
-| Master Huntsman | 1.00% | ~8,171 |
-| Stealth Killer | 1.00% | ~8,171 |
+| Woman's Lot | 1.00% | ~8,172 |
+| Chivalrous Soul | 1.00% | ~8,172 |
+| Spoilsport | 1.00% | ~8,172 |
+| Freud | 1.00% | ~8,172 |
+| Gambler | 1.00% | ~8,172 |
+| Master Huntsman | 1.00% | ~8,172 |
+| Stealth Killer | 1.00% | ~8,172 |
 | Bailiff | 0.90% | ~7,354 |
 | Tracker | 0.90% | ~7,354 |
 | David Horak | 0.80% | ~6,537 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~817 |
 | Wingman | 0.10% | ~817 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,148 (Ranked 20)  
+Progressed: 817,152 (Ranked 20)  
 Completed: 53 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 53 (0.01%) (Ranked 375)
 | 2024-01-10 | 816,875 | 53 |
 | 2024-01-11 | 817,003 | 53 |
 | 2024-01-12 | 817,138 | 53 |
-| 2024-01-13 | 817,148 | 53 |
+| 2024-01-13 | 817,152 | 53 |
 ## Awards
 Max (Character Customization): 7,775  (Ranked 53)  
 Sum: 28,829 (Ranked 50)  

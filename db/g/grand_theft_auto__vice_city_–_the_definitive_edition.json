@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16322,
+  "EOS_Progressed": 16323,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -17972,6 +17972,11 @@
       "Time": "2024-01-13T02:32:28.3551217+00:00",
       "NumProgressed": 16322,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-13T04:09:58.0809365+00:00",
+      "NumProgressed": 16323,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 34,
@@ -18063,7 +18068,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1795
+      "UsersEstimate": 1796
     },
     {
       "ID": "ACH12",
@@ -18087,7 +18092,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6856
     },
     {
       "ID": "ACH15",
@@ -18143,7 +18148,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7671
+      "UsersEstimate": 7672
     },
     {
       "ID": "ACH22",
@@ -18254,7 +18259,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16322,
+      "Progressed": 16323,
       "Completed": 98
     }
   ],
@@ -18262,8 +18267,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:10:00.5490529+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:09:58.0809362+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:58:50.5722077+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:10:00.5491475+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:59:08.9818918+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:09:58.0810335+00:00"
 }

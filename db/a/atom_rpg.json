@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1718,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4597,6 +4597,11 @@
       "Time": "2024-01-13T01:58:26.0278175+00:00",
       "NumProgressed": 1718,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T04:10:07.46622+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4608,7 +4613,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4664,7 +4669,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "EXPERT_1",
@@ -4856,7 +4861,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "TRAVELER_1",
@@ -4895,15 +4900,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1718,
+      "Progressed": 1719,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:10:10.0773713+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:10:07.4662197+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:57:55.2909389+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:10:10.077409+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:58:17.2041774+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:10:07.4662577+00:00"
 }

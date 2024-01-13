@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~442 |
 | First of many… | 68.00% | ~390 |
-| Helping Hand | 64.00% | ~367 |
+| Helping Hand | 65.00% | ~373 |
 | Increased Vigor | 60.00% | ~344 |
 | Fight Fire with Fire | 58.00% | ~333 |
 | Increased Capacity | 55.00% | ~316 |
@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 38.00% | ~218 |
 | Soul Harvester | 36.00% | ~207 |
 | Unshakable Fortitude | 35.00% | ~201 |
+| I Wanna Rock | 34.00% | ~195 |
 | Delusions of Grandeur | 34.00% | ~195 |
-| I Wanna Rock | 33.00% | ~189 |
 | Love Tap | 33.00% | ~189 |
 | Maximum Vigor | 32.00% | ~184 |
 | Freeze Frame | 30.00% | ~172 |

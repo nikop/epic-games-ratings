@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 827,
   "Ranking_EOS_Completed": 399,
   "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
     "PcReleaseDate": "2020-12-17T17:00:00+00:00",
@@ -28,9 +28,291 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-13T04:06:07.4634078+00:00",
+  "TotalAchievements": 35,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_ALL_22",
+      "SetID": "3f1bldb",
+      "Name": "SNIPER MASTER",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ALT_23",
+      "SetID": "3f1bldb",
+      "Name": "1ST DIFFERENT DEATH",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ALT_24",
+      "SetID": "3f1bldb",
+      "Name": "2ND DIFFERENT DEATH",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_ALT_25",
+      "SetID": "3f1bldb",
+      "Name": "3rd DIFFERENT DEATH",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_01",
+      "SetID": "3f1bldb",
+      "Name": "HISTORY STARTED",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_02",
+      "SetID": "3f1bldb",
+      "Name": "THOUGHTS",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_03",
+      "SetID": "3f1bldb",
+      "Name": "QUESTIONS",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_04",
+      "SetID": "3f1bldb",
+      "Name": "DOUBTS",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_05",
+      "SetID": "3f1bldb",
+      "Name": "HEROES?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_06",
+      "SetID": "3f1bldb",
+      "Name": "SEARCHING FOR ANSWERS!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_AV_07",
+      "SetID": "3f1bldb",
+      "Name": "ADVENTURE COMPLETE.",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_23",
+      "SetID": "3f1bldb",
+      "Name": "1st MISSION ELITE",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_24",
+      "SetID": "3f1bldb",
+      "Name": "2nd MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_25",
+      "SetID": "3f1bldb",
+      "Name": "3rd MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_26",
+      "SetID": "3f1bldb",
+      "Name": "4th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_27",
+      "SetID": "3f1bldb",
+      "Name": "5th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_28",
+      "SetID": "3f1bldb",
+      "Name": "6th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_29",
+      "SetID": "3f1bldb",
+      "Name": "7th MISSION ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_30",
+      "SetID": "3f1bldb",
+      "Name": "8th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_31",
+      "SetID": "3f1bldb",
+      "Name": "9th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_32",
+      "SetID": "3f1bldb",
+      "Name": "10th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_33",
+      "SetID": "3f1bldb",
+      "Name": "11th MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_EL_34",
+      "SetID": "3f1bldb",
+      "Name": "FULL MISSION  ELITE",
+      "Percentage": 0,
+      "XP": 175,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND12",
+      "SetID": "3f1bldb",
+      "Name": "5th MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND13",
+      "SetID": "3f1bldb",
+      "Name": "6th MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND14",
+      "SetID": "3f1bldb",
+      "Name": "7th MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND15",
+      "SetID": "3f1bldb",
+      "Name": "8th MISSION FIND",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_08",
+      "SetID": "3f1bldb",
+      "Name": "1st MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_09",
+      "SetID": "3f1bldb",
+      "Name": "2nd MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_10",
+      "SetID": "3f1bldb",
+      "Name": "3rd MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_11",
+      "SetID": "3f1bldb",
+      "Name": "4th MISSION FIND",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_16",
+      "SetID": "3f1bldb",
+      "Name": "9th MISSION FIND",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_17X",
+      "SetID": "3f1bldb",
+      "Name": "10th MISSION FIND",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_18",
+      "SetID": "3f1bldb",
+      "Name": "11th MISSION FIND",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_FIND_19",
+      "SetID": "3f1bldb",
+      "Name": "FULL MISSION FIND",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3f1bldb",
@@ -40,8 +322,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-13T03:06:07.0364647+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:06:07.0364626+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:06:07.4634071+00:00",
   "LastUpdate_AppInfo": "2024-01-09T04:57:00.4709803+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:58:27.9461814+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:06:07.0364662+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:58:49.8359611+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:06:07.4955989+00:00"
 }

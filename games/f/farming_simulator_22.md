@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,309 |
-| I read Shakespeare and stuff | 59.00% | ~36,820 |
-| Just a sprinkle | 58.00% | ~36,196 |
+| Own use | 71.00% | ~44,310 |
+| I read Shakespeare and stuff | 59.00% | ~36,821 |
+| Just a sprinkle | 58.00% | ~36,197 |
 | I'm stumped | 56.00% | ~34,948 |
 | Plant get enough | 56.00% | ~34,948 |
 | This is just my weekend vehicle | 54.00% | ~33,700 |
 | It's just the beginning | 54.00% | ~33,700 |
-| Hard work pays off | 49.00% | ~30,579 |
-| It's never too late to farm | 45.00% | ~28,083 |
+| Hard work pays off | 49.00% | ~30,580 |
+| It's never too late to farm | 45.00% | ~28,084 |
 | All out of Land | 41.00% | ~25,587 |
 | Field Trip | 40.00% | ~24,963 |
 | I like to switch it up | 37.00% | ~23,091 |
-| Help me to help you | 35.00% | ~21,842 |
+| Help me to help you | 35.00% | ~21,843 |
 | Ultimutt Pawesomeness | 25.00% | ~15,602 |
 | Van Gogh | 23.00% | ~14,354 |
-| You wood not believe it | 20.00% | ~12,481 |
-| Vehicle fleet | 20.00% | ~12,481 |
+| You wood not believe it | 20.00% | ~12,482 |
+| Vehicle fleet | 20.00% | ~12,482 |
 | Well-Oiled Machine | 15.00% | ~9,361 |
 | Clucky Streak | 14.00% | ~8,737 |
 | The plot thickens | 14.00% | ~8,737 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~250 |
 | Raisin the stakes | 0.30% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,407 (Ranked 119)  
+Progressed: 62,408 (Ranked 119)  
 Completed: 6 (0.01%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 6 (0.01%) (Ranked 375)
 | 2024-01-10 | 62,176 | 6 |
 | 2024-01-11 | 62,288 | 6 |
 | 2024-01-12 | 62,391 | 6 |
-| 2024-01-13 | 62,407 | 6 |
+| 2024-01-13 | 62,408 | 6 |
 ## Awards
 Max (Great for Beginners): 6,090  (Ranked 67)  
 Sum: 45,552 (Ranked 34)  

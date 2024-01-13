@@ -1,20 +1,20 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.85 (Ranked 1,079)  
+Rating: 3.85 (Ranked 1,080)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,905 |
-| The First Step | 87.00% | ~1,691 |
-| Moonbury Traveller | 62.00% | ~1,205 |
-| Rookie Chemist | 60.00% | ~1,166 |
+| Welcome to Moonbury | 98.00% | ~1,906 |
+| The First Step | 87.00% | ~1,692 |
+| Moonbury Traveller | 62.00% | ~1,206 |
+| Rookie Chemist | 60.00% | ~1,167 |
 | Great Doctor | 49.00% | ~953 |
 | Dog Whisperer | 47.00% | ~914 |
-| Friendly | 46.00% | ~894 |
+| Friendly | 46.00% | ~895 |
 | The Capitalist | 43.00% | ~836 |
-| K.O.! | 42.00% | ~816 |
-| Intermediate Chemist | 39.00% | ~758 |
+| K.O.! | 42.00% | ~817 |
+| Intermediate Chemist | 39.00% | ~759 |
 | Decorative Mind | 33.00% | ~642 |
 | Lumber Specialist | 31.00% | ~603 |
 | Kind-hearted | 25.00% | ~486 |
@@ -25,7 +25,7 @@ Rating: 3.85 (Ranked 1,079)
 | Community Helper | 16.00% | ~311 |
 | Expert Chemist | 14.00% | ~272 |
 | Stone Specialist | 14.00% | ~272 |
-| Line Cook | 13.00% | ~253 |
+| Line Cook | 12.00% | ~233 |
 | Sociable | 12.00% | ~233 |
 | Ablutomaniac | 12.00% | ~233 |
 | Production Sorter | 11.00% | ~214 |
@@ -44,7 +44,7 @@ Rating: 3.85 (Ranked 1,079)
 | Moonbury Navigator | 1.00% | ~19 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,944 (Ranked 256)  
+Progressed: 1,945 (Ranked 256)  
 Completed: 11 (0.57%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 11 (0.57%) (Ranked 216)
 | 2024-01-10 | 1,937 | 11 |
 | 2024-01-11 | 1,940 | 11 |
 | 2024-01-12 | 1,942 | 11 |
-| 2024-01-13 | 1,944 | 11 |
+| 2024-01-13 | 1,945 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 419)  
 Sum: 70 (Ranked 493)  

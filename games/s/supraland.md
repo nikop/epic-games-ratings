@@ -6,34 +6,34 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,617 |
-| The Blues | 85.00% | ~629,014 |
-| Fast | 66.00% | ~488,411 |
-| Healthbar | 55.00% | ~407,009 |
-| Force Cube | 53.00% | ~392,209 |
-| Double Jump | 48.00% | ~355,208 |
-| Regeneration | 47.00% | ~347,808 |
-| Triple Jump | 43.00% | ~318,207 |
-| Climb the hill | 42.00% | ~310,807 |
+| Out of bed | 99.00% | ~732,619 |
+| The Blues | 85.00% | ~629,016 |
+| Fast | 66.00% | ~488,413 |
+| Healthbar | 55.00% | ~407,010 |
+| Force Cube | 53.00% | ~392,210 |
+| Double Jump | 48.00% | ~355,209 |
+| Regeneration | 47.00% | ~347,809 |
+| Triple Jump | 43.00% | ~318,208 |
+| Climb the hill | 42.00% | ~310,808 |
 | Through the fire pipe | 39.00% | ~288,607 |
-| MacGuffin | 38.00% | ~281,206 |
-| Just once | 37.00% | ~273,806 |
-| Armor | 30.00% | ~222,005 |
+| MacGuffin | 38.00% | ~281,207 |
+| Just once | 37.00% | ~273,807 |
+| Armor | 30.00% | ~222,006 |
 | True holy spirit | 28.00% | ~207,205 |
 | That's how electronics work obviously | 27.00% | ~199,805 |
-| Force Cube Catapult | 25.00% | ~185,004 |
+| Force Cube Catapult | 25.00% | ~185,005 |
 | Holy Sword | 23.00% | ~170,204 |
 | Telefrag | 23.00% | ~170,204 |
 | Freed from prison | 22.00% | ~162,804 |
 | Stomp | 21.00% | ~155,404 |
-| Double Health | 19.00% | ~140,603 |
+| Double Health | 19.00% | ~140,604 |
 | Buckle | 18.00% | ~133,203 |
 | Green Keycard | 18.00% | ~133,203 |
 | Rattle Hag | 16.00% | ~118,403 |
 | All Shells | 15.00% | ~111,003 |
-| Beam | 14.00% | ~103,602 |
-| 9 | 14.00% | ~103,602 |
-| Supraball Noob | 14.00% | ~103,602 |
+| Beam | 14.00% | ~103,603 |
+| 9 | 14.00% | ~103,603 |
+| Supraball Noob | 14.00% | ~103,603 |
 | Health Drink | 13.00% | ~96,202 |
 | Helped a star | 13.00% | ~96,202 |
 | Purple Cube | 13.00% | ~96,202 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~66,602 |
 | Through the tiny pipe | 9.00% | ~66,602 |
 | Win! | 9.00% | ~66,602 |
-| The real real teleported man | 8.00% | ~59,201 |
+| The real real teleported man | 8.00% | ~59,202 |
 | Well deserved | 6.00% | ~44,401 |
 | Super Sword | 4.00% | ~29,601 |
 | Happiness | 3.00% | ~22,201 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,017 (Ranked 27)  
+Progressed: 740,019 (Ranked 27)  
 Completed: 782 (0.11%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -373,7 +373,7 @@ Completed: 782 (0.11%) (Ranked 308)
 | 2024-01-10 | 739,782 | 780 |
 | 2024-01-11 | 739,888 | 781 |
 | 2024-01-12 | 739,997 | 782 |
-| 2024-01-13 | 740,017 | 782 |
+| 2024-01-13 | 740,019 | 782 |
 ## Awards
 Max (Challenging Puzzles): 7,775  (Ranked 53)  
 Sum: 10,153 (Ranked 94)  

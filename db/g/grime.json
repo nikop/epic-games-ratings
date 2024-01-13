@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1879,9 +1879,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167889,
+  "EOS_Progressed": 167903,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1156,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22879,6 +22879,11 @@
       "Time": "2024-01-13T03:05:42.8524605+00:00",
       "NumProgressed": 167889,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-13T04:05:43.3578843+00:00",
+      "NumProgressed": 167903,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -22915,7 +22920,7 @@
       "Name": "Assimilation",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -23051,7 +23056,7 @@
       "Name": "Celebration",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -23258,21 +23263,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167472,
+      "Progressed": 167486,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167889,
+      "Progressed": 167903,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-12T18:57:16.5787168+00:00",
-  "LastChanged_Achievements": "2024-01-13T03:05:42.8524601+00:00",
+  "LastChanged_Achievements": "2024-01-13T04:05:43.357884+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T02:57:10.7934604+00:00",
-  "LastUpdate_Achievements": "2024-01-13T03:05:42.852577+00:00"
+  "LastUpdate_Ratings": "2024-01-13T03:57:31.4534836+00:00",
+  "LastUpdate_Achievements": "2024-01-13T04:05:43.3579917+00:00"
 }

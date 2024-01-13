@@ -22,9 +22,9 @@
 | Defeat the AI | 27.00% | ~28 |
 | Invincible | 27.00% | ~28 |
 | Best in Dragon City | 23.00% | ~24 |
+| Walking into a Trap | 23.00% | ~24 |
 | Unsalvageable | 23.00% | ~24 |
 | Neutralize | 23.00% | ~24 |
-| Walking into a Trap | 22.00% | ~23 |
 | Disdain | 21.00% | ~22 |
 | Final Battle | 18.00% | ~19 |
 | Brain in a Vat | 18.00% | ~19 |

@@ -1,20 +1,20 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 958)  
+Rating: 4.21 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,234 |
-| The touch of Chaos | 5.00% | ~17,234 |
-| A powerful aura was here | 3.00% | ~10,340 |
+| May the Torchbearer light our way | 5.00% | ~17,235 |
+| The touch of Chaos | 5.00% | ~17,235 |
+| A powerful aura was here | 3.00% | ~10,341 |
 | Let's raise the stakes!! | 2.00% | ~6,894 |
 | Rumors are true | 1.00% | ~3,447 |
 | We'll be careful | 1.00% | ~3,447 |
 | Pride is a sin, young Knight | 1.00% | ~3,447 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,447 |
-| Back to your senses | 0.80% | ~2,757 |
-| Bring it on! | 0.80% | ~2,757 |
+| Back to your senses | 0.80% | ~2,758 |
+| Bring it on! | 0.80% | ~2,758 |
 | They tricked me | 0.70% | ~2,413 |
 | We need to talk | 0.70% | ~2,413 |
 | They won't last long | 0.70% | ~2,413 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 958)
 | Something... unnatural | 0.10% | ~345 |
 | We strike as one | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344,678 (Ranked 59)  
+Progressed: 344,694 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 7 (0.00%) (Ranked 399)
 | 2024-01-10 | 343,827 | 7 |
 | 2024-01-11 | 344,221 | 7 |
 | 2024-01-12 | 344,619 | 7 |
-| 2024-01-13 | 344,678 | 7 |
+| 2024-01-13 | 344,694 | 7 |
 ## Awards
 Max (Great Boss Battles): 79  (Ranked 404)  
 Sum: 79 (Ranked 485)  
