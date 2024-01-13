@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,611 |
-| Life is your teacher | 5.00% | ~38,010 |
-| Lightning Hands | 5.00% | ~38,010 |
-| The Assault | 4.00% | ~30,408 |
+| The Old Grandmaster | 6.00% | ~45,613 |
+| Life is your teacher | 5.00% | ~38,011 |
+| Lightning Hands | 5.00% | ~38,011 |
+| The Assault | 4.00% | ~30,409 |
 | The Hateful Pole Fighter | 3.00% | ~22,806 |
 | Stuntmaster | 3.00% | ~22,806 |
 | Street Fighting | 3.00% | ~22,806 |
@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,602 |
 | Project Arena | 1.00% | ~695 |
 | Fight the way you practice | 0.80% | ~556 |
-| Muk Yan Master | 0.70% | ~5,321 |
-| Detective Story | 0.70% | ~5,321 |
+| Muk Yan Master | 0.70% | ~5,322 |
+| Detective Story | 0.70% | ~5,322 |
 | Tiger on Fire | 0.60% | ~4,561 |
 | Source of Flying Daggers | 0.60% | ~4,561 |
 | Iron Money | 0.60% | ~4,561 |
@@ -50,8 +50,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.30% | ~2,281 |
 | Knowledge Greed | 0.30% | ~2,281 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,281 |
-| Deadly Venom | 0.30% | ~208 |
-| A Touch of Acumen | 0.30% | ~208 |
+| Deadly Venom | 0.30% | ~209 |
+| A Touch of Acumen | 0.30% | ~209 |
 | Healing Memory | 0.20% | ~1,520 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,520 |
 | Be like water my friend | 0.20% | ~1,520 |
@@ -61,13 +61,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~139 |
 | Beatmaker | 0.20% | ~139 |
 | Warriors from the Mountain | 0.10% | ~760 |
-| Hidden Dragon | 0.10% | ~69 |
-| Here Cometh the Iceman | 0.10% | ~69 |
-| Fighter in the Pond | 0.10% | ~69 |
-| Bonus Stage | 0.10% | ~69 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~69 |
+| Hidden Dragon | 0.10% | ~70 |
+| Here Cometh the Iceman | 0.10% | ~70 |
+| Fighter in the Pond | 0.10% | ~70 |
+| Bonus Stage | 0.10% | ~70 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,191 (Ranked 26)  
+Progressed: 760,216 (Ranked 26)  
 Completed: 12,984 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 12,984 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
-| 2024-01-13 | 760,191 | 12,984 |
+| 2024-01-13 | 760,216 | 12,984 |
 ## Awards
 Max (Great Boss Battles): 7,179  (Ranked 57)  
 Sum: 12,710 (Ranked 85)  

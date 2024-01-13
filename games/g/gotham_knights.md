@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,320 |
+| First Step Into the Knight | 50.00% | ~41,321 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,098 |
 | Loose Ends | 33.00% | ~27,272 |
 | To the Victor Go the Spoils | 27.00% | ~22,313 |
@@ -19,7 +19,7 @@ Rating: 4.19 (Ranked 977)
 | Working Hard or Harley Working? | 20.00% | ~16,528 |
 | Unstoppable Force | 20.00% | ~16,528 |
 | Bad Apples in Every Orchard | 20.00% | ~16,528 |
-| Snow Problem | 18.00% | ~14,875 |
+| Snow Problem | 18.00% | ~14,876 |
 | The Show Mud Go On | 17.00% | ~14,049 |
 | From Inside Gotham's Walls | 17.00% | ~14,049 |
 | Protector of Gotham | 16.00% | ~13,223 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 977)
 | Drone You Out | 9.00% | ~7,438 |
 | Solid Alibi | 8.00% | ~6,611 |
 | Fusion Expert | 7.00% | ~5,785 |
-| Family Meeting | 6.00% | ~4,958 |
-| A Worthy Successor | 6.00% | ~4,958 |
+| Family Meeting | 6.00% | ~4,959 |
+| A Worthy Successor | 6.00% | ~4,959 |
 | Expert Crime Fighter | 5.00% | ~4,132 |
 | Dressed to Impress | 4.00% | ~3,306 |
 | A Momentum Occasion | 3.00% | ~2,479 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,641 (Ranked 110)  
+Progressed: 82,642 (Ranked 110)  
 Completed: 133 (0.16%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 133 (0.16%) (Ranked 288)
 | 2024-01-10 | 82,440 | 133 |
 | 2024-01-11 | 82,506 | 133 |
 | 2024-01-12 | 82,606 | 133 |
-| 2024-01-13 | 82,641 | 133 |
+| 2024-01-13 | 82,642 | 133 |
 ## Awards
 Max (Great Boss Battles): 3,189  (Ranked 101)  
 Sum: 5,448 (Ranked 141)  

@@ -5237,9 +5237,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82641,
+  "EOS_Progressed": 82642,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 947,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30042,6 +30042,11 @@
       "Time": "2024-01-13T10:08:39.696645+00:00",
       "NumProgressed": 82641,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2024-01-13T11:06:06.8929588+00:00",
+      "NumProgressed": 82642,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 61,
@@ -30253,7 +30258,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -30293,7 +30298,7 @@
       "Name": "Snow Problem",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 14875
+      "UsersEstimate": 14876
     },
     {
       "ID": "FREEZE_3",
@@ -30397,7 +30402,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41320
+      "UsersEstimate": 41321
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30437,7 +30442,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4958
+      "UsersEstimate": 4959
     },
     {
       "ID": "MYSTERY_01",
@@ -30540,13 +30545,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82641,
+      "Progressed": 82642,
       "Completed": 133
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52921,
+      "Progressed": 52922,
       "Completed": 2679
     }
   ],
@@ -30554,8 +30559,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-13T05:57:37.2756977+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:08:39.6966445+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:06:06.8929584+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:43.7132471+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:58:19.6061801+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:08:39.6968388+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:57:47.2138877+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:06:06.8931339+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.11 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,143 |
-| World Map | 78.00% | ~3,475 |
-| Temple of Eternals | 56.00% | ~2,495 |
-| Prestigious | 52.00% | ~2,317 |
+| Victor | 93.00% | ~4,145 |
+| World Map | 78.00% | ~3,476 |
+| Temple of Eternals | 56.00% | ~2,496 |
+| Prestigious | 52.00% | ~2,318 |
 | Fellowship Power | 41.00% | ~1,827 |
-| Full Party | 29.00% | ~1,292 |
-| Guild Power | 22.00% | ~980 |
+| Full Party | 29.00% | ~1,293 |
+| Guild Power | 22.00% | ~981 |
 | Prestigious x10 | 20.00% | ~891 |
 | The game is on | 18.00% | ~802 |
 | Exotic Merchant | 16.00% | ~713 |
-| Dragon Clicker | 15.00% | ~668 |
-| Miner Clicker | 15.00% | ~668 |
+| Dragon Clicker | 15.00% | ~669 |
+| Miner Clicker | 15.00% | ~669 |
 | Inspection | 14.00% | ~624 |
 | Dragon Master | 13.00% | ~579 |
 | Enlightenment | 13.00% | ~579 |
@@ -30,14 +30,14 @@ Rating: 4.11 (Ranked 1,022)
 | Doing My Part | 9.00% | ~401 |
 | Scientist | 9.00% | ~401 |
 | The power of Awakening | 9.00% | ~401 |
-| Challenger | 8.00% | ~356 |
-| Daily Quest Completionist | 8.00% | ~356 |
-| Frostfire Liberator | 8.00% | ~356 |
-| Hunter | 8.00% | ~356 |
-| Mastery | 8.00% | ~356 |
-| Moving Up The Ladder | 8.00% | ~356 |
-| Relic Of The Past | 8.00% | ~356 |
-| Scroll Master | 8.00% | ~356 |
+| Challenger | 8.00% | ~357 |
+| Daily Quest Completionist | 8.00% | ~357 |
+| Frostfire Liberator | 8.00% | ~357 |
+| Hunter | 8.00% | ~357 |
+| Mastery | 8.00% | ~357 |
+| Moving Up The Ladder | 8.00% | ~357 |
+| Relic Of The Past | 8.00% | ~357 |
+| Scroll Master | 8.00% | ~357 |
 | Four Leaf Clover | 7.00% | ~312 |
 | Master Enchanter | 7.00% | ~312 |
 | The father of Dragons | 7.00% | ~312 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,022)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,455 (Ranked 208)  
+Progressed: 4,457 (Ranked 208)  
 Completed: 2 (0.04%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 2 (0.04%) (Ranked 351)
 | 2024-01-10 | 4,381 | 2 |
 | 2024-01-11 | 4,414 | 2 |
 | 2024-01-12 | 4,441 | 2 |
-| 2024-01-13 | 4,455 | 2 |
+| 2024-01-13 | 4,457 | 2 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 486)  
 Sum: 158 (Ranked 440)  

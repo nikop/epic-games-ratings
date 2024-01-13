@@ -87,7 +87,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1541,
+  "EOS_Progressed": 1542,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
@@ -4167,6 +4167,11 @@
       "Time": "2024-01-13T02:32:44.8141791+00:00",
       "NumProgressed": 1541,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-13T11:09:36.0124299+00:00",
+      "NumProgressed": 1542,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -4179,7 +4184,7 @@
       "Name": "Blue Dreams",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "EV_ACH02",
@@ -4195,15 +4200,15 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 833
     },
     {
       "ID": "EV_ACH05",
@@ -4211,7 +4216,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "EV_ACH06",
@@ -4219,7 +4224,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "EV_ACH07",
@@ -4233,9 +4238,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 648
     },
     {
       "ID": "EV_ACH09",
@@ -4275,7 +4280,7 @@
       "Name": "It Is Not Over",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "EV_ACH14",
@@ -4291,7 +4296,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "EV_ACH16",
@@ -4299,7 +4304,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "EV_ACH17",
@@ -4387,7 +4392,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "EV_ACH28",
@@ -4433,9 +4438,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1018
     },
     {
       "ID": "EV_ACH34",
@@ -4451,7 +4456,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "EV_ACH36",
@@ -4467,7 +4472,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "EV_ACH38",
@@ -4499,7 +4504,7 @@
       "Name": "Handy Yeti",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "EV_ACH42",
@@ -4530,7 +4535,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1541,
+      "Progressed": 1542,
       "Completed": 9
     }
   ],
@@ -4538,8 +4543,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-09T13:16:23.2542222+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:11:16.0794515+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:09:36.0124295+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:58:55.1373954+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:11:16.0795364+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:58:12.5862771+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:09:36.0124799+00:00"
 }

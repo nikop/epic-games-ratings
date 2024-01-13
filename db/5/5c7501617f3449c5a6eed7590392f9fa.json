@@ -1390,9 +1390,9 @@
       "ID": "Ach-04-krabicka",
       "SetID": "2pjo9pi",
       "Name": "Krabicka",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "Ach-04-kukacka",
@@ -1446,9 +1446,9 @@
       "ID": "Ach-04-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach-04-zarovka",
@@ -1645,8 +1645,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:10:05.6742126+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:08:42.1853216+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:58:52.4360312+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:10:05.6742566+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:58:11.2455816+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:08:42.1853985+00:00"
 }

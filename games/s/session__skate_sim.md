@@ -6,9 +6,9 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,311 |
+| You're free now! | 63.00% | ~2,312 |
 | Keeping it classy | 27.00% | ~991 |
-| Welcome to the family | 21.00% | ~770 |
+| Welcome to the family | 21.00% | ~771 |
 | The finer things in life | 19.00% | ~697 |
 | Backpacker | 13.00% | ~477 |
 | Go with the Flow | 13.00% | ~477 |
@@ -28,15 +28,15 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~220 |
 | Squad goals | 6.00% | ~220 |
 | Sup widdit big dog! | 6.00% | ~220 |
-| Commence the Hijinx! | 5.00% | ~183 |
-| DIY Boss | 5.00% | ~183 |
-| Globetrotter | 5.00% | ~183 |
-| Laid back | 5.00% | ~183 |
-| Lines for days | 5.00% | ~183 |
-| Manny Destroys All | 5.00% | ~183 |
-| NAHELL! | 5.00% | ~183 |
-| Renaissance man | 5.00% | ~183 |
-| Trick shot marksman | 5.00% | ~183 |
+| Commence the Hijinx! | 5.00% | ~184 |
+| DIY Boss | 5.00% | ~184 |
+| Globetrotter | 5.00% | ~184 |
+| Laid back | 5.00% | ~184 |
+| Lines for days | 5.00% | ~184 |
+| Manny Destroys All | 5.00% | ~184 |
+| NAHELL! | 5.00% | ~184 |
+| Renaissance man | 5.00% | ~184 |
+| Trick shot marksman | 5.00% | ~184 |
 | Cops called! | 4.00% | ~147 |
 | G.O.A.T. status | 4.00% | ~147 |
 | Hoarder | 4.00% | ~147 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,669 (Ranked 223)  
+Progressed: 3,670 (Ranked 223)  
 Completed: 2 (0.05%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.05%) (Ranked 340)
 | 2024-01-10 | 3,653 | 2 |
 | 2024-01-11 | 3,659 | 2 |
 | 2024-01-12 | 3,666 | 2 |
-| 2024-01-13 | 3,669 | 2 |
+| 2024-01-13 | 3,670 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 64  (Ranked 427)  
 Sum: 587 (Ranked 326)  

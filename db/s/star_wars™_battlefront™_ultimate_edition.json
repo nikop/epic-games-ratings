@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2916,
+  "EOS_Progressed": 2920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7914,6 +7914,11 @@
       "Time": "2024-01-13T04:10:17.1067666+00:00",
       "NumProgressed": 2916,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T11:09:38.9416167+00:00",
+      "NumProgressed": 2920,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -7926,7 +7931,7 @@
       "Name": "A New Hope",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_10",
@@ -8030,7 +8035,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_22",
@@ -8062,7 +8067,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_26",
@@ -8118,7 +8123,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_32",
@@ -8126,7 +8131,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "achievement_33",
@@ -8134,7 +8139,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_34",
@@ -8142,7 +8147,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "achievement_35",
@@ -8150,7 +8155,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2508
+      "UsersEstimate": 2511
     },
     {
       "ID": "achievement_36",
@@ -8166,7 +8171,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1752
     },
     {
       "ID": "achievement_38",
@@ -8198,7 +8203,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1518
     },
     {
       "ID": "achievement_41",
@@ -8214,7 +8219,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_43",
@@ -8230,7 +8235,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "achievement_45",
@@ -8246,7 +8251,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_47",
@@ -8302,7 +8307,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_53",
@@ -8366,7 +8371,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_60",
@@ -8429,13 +8434,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2916,
+      "Progressed": 2920,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2916,
+      "Progressed": 2920,
       "Completed": 1
     }
   ],
@@ -8443,8 +8448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:11:19.5582379+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:09:38.9416162+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:03:06.3756479+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:11:19.5583305+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:02:27.8016718+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:09:38.9417323+00:00"
 }

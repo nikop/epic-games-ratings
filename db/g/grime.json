@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1885,9 +1885,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 167943,
+  "EOS_Progressed": 167949,
   "EOS_Completed": 456,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22920,6 +22920,11 @@
       "Time": "2024-01-13T10:07:16.1138197+00:00",
       "NumProgressed": 167943,
       "NumCompleted": 456
+    },
+    {
+      "Time": "2024-01-13T11:05:34.3317638+00:00",
+      "NumProgressed": 167949,
+      "NumCompleted": 456
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23188,7 +23193,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -23196,7 +23201,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -23299,21 +23304,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167526,
+      "Progressed": 167532,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 167943,
+      "Progressed": 167949,
       "Completed": 456
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:07:16.1138192+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:05:34.3317634+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:57:53.7518691+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:07:16.1139407+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:57:27.9509731+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:05:34.3319277+00:00"
 }

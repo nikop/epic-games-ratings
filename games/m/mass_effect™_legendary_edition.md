@@ -5,21 +5,21 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 90.00% | ~3,830 |
-| Spectre Inductee | 66.00% | ~2,808 |
-| Medal of Exploration I | 55.00% | ~2,340 |
+| Spectre Inductee | 66.00% | ~2,809 |
+| Medal of Exploration I | 55.00% | ~2,341 |
 | Recruit | 52.00% | ~2,213 |
-| Search and Rescue | 51.00% | ~2,170 |
-| Quarian Ally | 48.00% | ~2,042 |
+| Search and Rescue | 51.00% | ~2,171 |
+| Quarian Ally | 48.00% | ~2,043 |
 | Medal of Heroism | 43.00% | ~1,830 |
 | Honorarium of Corporate Service | 43.00% | ~1,830 |
 | Turian Ally | 40.00% | ~1,702 |
 | Medal of Exploration II | 38.00% | ~1,617 |
 | Council Legion of Merit | 38.00% | ~1,617 |
 | Missing in Action | 36.00% | ~1,532 |
-| Medal of Honor | 35.00% | ~1,489 |
-| Meritorious Service Medal | 35.00% | ~1,489 |
-| Soldier Ally | 35.00% | ~1,489 |
-| Charismatic | 35.00% | ~1,489 |
+| Medal of Honor | 35.00% | ~1,490 |
+| Meritorious Service Medal | 35.00% | ~1,490 |
+| Soldier Ally | 35.00% | ~1,490 |
+| Charismatic | 35.00% | ~1,490 |
 | Soldier | 34.00% | ~1,447 |
 | Asari Ally | 33.00% | ~1,404 |
 | Very Elusive | 33.00% | ~1,404 |
@@ -27,17 +27,17 @@
 | Medal of Exploration III | 31.00% | ~1,319 |
 | Principled | 31.00% | ~1,319 |
 | Scientist | 31.00% | ~1,319 |
-| Paramour I | 30.00% | ~1,276 |
-| Sentinel Ally | 30.00% | ~1,276 |
-| Krogan Ally | 30.00% | ~1,276 |
-| Merciless | 30.00% | ~1,276 |
+| Paramour I | 30.00% | ~1,277 |
+| Sentinel Ally | 30.00% | ~1,277 |
+| Krogan Ally | 30.00% | ~1,277 |
+| Merciless | 30.00% | ~1,277 |
 | The Professor | 29.00% | ~1,234 |
 | Head Hunter | 29.00% | ~1,234 |
 | Scholar | 29.00% | ~1,234 |
-| The Archangel | 28.00% | ~1,191 |
+| The Archangel | 28.00% | ~1,192 |
 | The Convict | 27.00% | ~1,149 |
 | Operative | 27.00% | ~1,149 |
-| Power Full | 26.00% | ~1,106 |
+| Power Full | 26.00% | ~1,107 |
 | Colony Defense | 25.00% | ~1,064 |
 | The Krogan | 25.00% | ~1,064 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,064 |
@@ -68,19 +68,19 @@
 | Doppelganger | 20.00% | ~851 |
 | Treason | 20.00% | ~851 |
 | Mobilizer | 20.00% | ~851 |
-| Untouchable | 19.00% | ~808 |
-| Completionist | 19.00% | ~808 |
-| Mission Accomplished | 19.00% | ~808 |
-| Suicide Mission | 19.00% | ~808 |
-| Against All Odds | 19.00% | ~808 |
-| Agent | 19.00% | ~808 |
+| Untouchable | 19.00% | ~809 |
+| Completionist | 19.00% | ~809 |
+| Mission Accomplished | 19.00% | ~809 |
+| Suicide Mission | 19.00% | ~809 |
+| Against All Odds | 19.00% | ~809 |
+| Agent | 19.00% | ~809 |
 | Eye of the Hurricane | 18.00% | ~766 |
 | Giant Killer | 18.00% | ~766 |
 | First Aid Specialist | 18.00% | ~766 |
 | A House Divided | 18.00% | ~766 |
 | World Shaker | 18.00% | ~766 |
-| Pathfinder | 17.00% | ~723 |
-| Liberator | 17.00% | ~723 |
+| Pathfinder | 17.00% | ~724 |
+| Liberator | 17.00% | ~724 |
 | Savior | 16.00% | ~681 |
 | Weapon Specialist | 16.00% | ~681 |
 | Tunnel Rat | 16.00% | ~681 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~38 |
 | The One and Only | 0.50% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,255 (Ranked 212)  
+Progressed: 4,256 (Ranked 212)  
 Completed: 13 (0.31%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,4 +252,4 @@ Completed: 13 (0.31%) (Ranked 256)
 | 2024-01-10 | 4,135 | 13 |
 | 2024-01-11 | 4,190 | 13 |
 | 2024-01-12 | 4,237 | 13 |
-| 2024-01-13 | 4,255 | 13 |
+| 2024-01-13 | 4,256 | 13 |

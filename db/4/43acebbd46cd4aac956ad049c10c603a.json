@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 1383,
+  "EOS_Progressed": 1385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4026,6 +4026,11 @@
       "Time": "2024-01-13T07:04:24.5424229+00:00",
       "NumProgressed": 1383,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T11:03:48.2979479+00:00",
+      "NumProgressed": 1385,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4046,7 +4051,7 @@
       "Name": "Ab Initio",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "AnthropicHills",
@@ -4070,7 +4075,7 @@
       "Name": "Balance",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BecomingSmarter",
@@ -4078,7 +4083,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "BreakTheLoop",
@@ -4094,7 +4099,7 @@
       "Name": "Bridge Builder",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ChasingTheLight",
@@ -4102,7 +4107,7 @@
       "Name": "Chasing the Light",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "Chicken",
@@ -4134,7 +4139,7 @@
       "Name": "Discovery",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "EasternWetlands",
@@ -4142,7 +4147,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "EcstaticTruth",
@@ -4206,7 +4211,7 @@
       "Name": "Into the Machine",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "JustOneLap",
@@ -4238,7 +4243,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Mnemosyne",
@@ -4260,9 +4265,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 373
+      "UsersEstimate": 360
     },
     {
       "ID": "NewBeginning",
@@ -4294,7 +4299,7 @@
       "Name": "Overload",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Persistent",
@@ -4316,9 +4321,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 263
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4326,7 +4331,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "RenaissanceRobot",
@@ -4430,7 +4435,7 @@
       "Name": "The Spark",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "TheThiefOfFire",
@@ -4478,7 +4483,7 @@
       "Name": "Wanderers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "WesternDelta",
@@ -4494,7 +4499,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "YourBiggestFan",
@@ -4509,7 +4514,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1383,
+      "Progressed": 1385,
       "Completed": 2
     }
   ],
@@ -4517,8 +4522,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:04:56.2020734+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:03:48.2979474+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
   "LastUpdate_Ratings": "2024-01-13T10:03:00.9027515+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:04:56.2021365+00:00"
+  "LastUpdate_Achievements": "2024-01-13T11:03:48.2980093+00:00"
 }

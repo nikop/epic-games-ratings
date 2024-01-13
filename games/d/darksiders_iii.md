@@ -13,7 +13,7 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 59.00% | ~339 |
 | Increased Capacity | 55.00% | ~316 |
 | Just the start | 50.00% | ~288 |
-| Perfect Storm | 46.00% | ~264 |
+| Perfect Storm | 47.00% | ~270 |
 | All That Glitters | 46.00% | ~264 |
 | Enhance! | 42.00% | ~242 |
 | One Of the Chosen | 41.00% | ~236 |
@@ -27,7 +27,7 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 34.00% | ~196 |
 | Delusions of Grandeur | 34.00% | ~196 |
 | Love Tap | 33.00% | ~190 |
-| Maximum Vigor | 31.00% | ~178 |
+| Maximum Vigor | 32.00% | ~184 |
 | Freeze Frame | 30.00% | ~172 |
 | Eat Your Heart Out | 30.00% | ~172 |
 | For Whom the Bell Tolls | 29.00% | ~167 |
@@ -42,7 +42,7 @@ Number of Ratings: 116  (23.09.2022)
 | Egomaniac | 22.00% | ~126 |
 | Protector of Humanity | 20.00% | ~115 |
 | Everybody Wants to Rule the World | 20.00% | ~115 |
-| Community Outreach | 15.00% | ~86 |
+| Community Outreach | 16.00% | ~92 |
 | Unbreakable Will | 14.00% | ~81 |
 | A Parting Gift | 14.00% | ~81 |
 | Path of the Horseman | 14.00% | ~81 |

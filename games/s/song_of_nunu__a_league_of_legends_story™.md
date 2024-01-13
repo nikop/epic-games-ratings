@@ -6,26 +6,26 @@ Rating: 4.59 (Ranked 453)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~1,156 |
-| I Broke It | 73.00% | ~1,125 |
-| Better On Ice | 68.00% | ~1,048 |
-| Notai Notes | 67.00% | ~1,032 |
-| Blue Dreams | 66.00% | ~1,017 |
-| He's Famous! | 66.00% | ~1,017 |
+| I Broke It | 73.00% | ~1,126 |
+| Better On Ice | 68.00% | ~1,049 |
+| Blue Dreams | 66.00% | ~1,018 |
+| He's Famous! | 66.00% | ~1,018 |
+| Notai Notes | 66.00% | ~1,018 |
 | Cutie Poro | 65.00% | ~1,002 |
-| Krugmazing | 64.00% | ~986 |
-| The Fire Below the Mountain | 61.00% | ~940 |
+| Krugmazing | 64.00% | ~987 |
+| The Fire Below the Mountain | 61.00% | ~941 |
 | Moneyball | 60.00% | ~925 |
-| No Bites | 55.00% | ~848 |
 | Iceborn | 55.00% | ~848 |
+| No Bites | 54.00% | ~833 |
 | Boom Things | 53.00% | ~817 |
-| Tear of Freedom | 52.00% | ~801 |
+| Tear of Freedom | 52.00% | ~802 |
 | My Darkest Day | 48.00% | ~740 |
 | Rhythm Of Willump | 46.00% | ~709 |
 | The Relentless Storm | 46.00% | ~709 |
-| A Tragic Reminder | 45.00% | ~693 |
+| A Tragic Reminder | 45.00% | ~694 |
 | 3000 Year Blackout | 44.00% | ~678 |
-| The Finisher | 42.00% | ~647 |
-| So Close | 41.00% | ~632 |
+| So Close | 42.00% | ~648 |
+| The Finisher | 42.00% | ~648 |
 | You Get Used To It | 41.00% | ~632 |
 | Family | 39.00% | ~601 |
 | Biggest Snowball Ever | 39.00% | ~601 |
@@ -34,7 +34,7 @@ Rating: 4.59 (Ranked 453)
 | Freeze The Ice Witch | 38.00% | ~586 |
 | True Legends | 38.00% | ~586 |
 | Bullseye | 36.00% | ~555 |
-| It Is Not Over | 35.00% | ~539 |
+| It Is Not Over | 35.00% | ~540 |
 | Snowy Poro | 33.00% | ~509 |
 | On The Rocks | 33.00% | ~509 |
 | Never Gets Old | 32.00% | ~493 |
@@ -43,14 +43,14 @@ Rating: 4.59 (Ranked 453)
 | Yummy | 10.00% | ~154 |
 | Snowball Fightn't | 9.00% | ~139 |
 | It Was Him | 7.00% | ~108 |
-| Handy Yeti | 6.00% | ~92 |
+| Handy Yeti | 6.00% | ~93 |
 | The Pied Piper Of Freljord | 4.00% | ~62 |
 | Braum's Poro Ranch | 3.00% | ~46 |
 | Rock Star | 2.00% | ~31 |
 | Sneaky Notai | 1.00% | ~15 |
 | We Are Speed | 1.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,541 (Ranked 267)  
+Progressed: 1,542 (Ranked 267)  
 Completed: 9 (0.58%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 9 (0.58%) (Ranked 215)
 | 2024-01-10 | 1,524 | 9 |
 | 2024-01-11 | 1,533 | 9 |
 | 2024-01-12 | 1,539 | 9 |
-| 2024-01-13 | 1,541 | 9 |
+| 2024-01-13 | 1,542 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

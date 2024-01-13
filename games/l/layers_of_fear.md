@@ -15,7 +15,7 @@
 | Refuse to look | 36.00% | ~117 |
 | Face your fears | 31.00% | ~101 |
 | Finished it | 25.00% | ~82 |
-| Whispers long forgotten | 17.00% | ~55 |
+| Whispers long forgotten | 18.00% | ~59 |
 | Sound Bite | 14.00% | ~46 |
 | A Slice of Life | 13.00% | ~42 |
 | Debut | 13.00% | ~42 |
@@ -50,10 +50,10 @@
 | Rocket Science | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
+| You might have a problem | 0.30% | ~1 |
 | Letting go | 0.30% | ~1 |
 | The Tree and the Apple | 0.30% | ~1 |
 | The whole story | 0.00% | ~0 |
-| You might have a problem | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -8967,9 +8967,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760191,
+  "EOS_Progressed": 760216,
   "EOS_Completed": 12984,
-  "EOS_NewPlayers": 4870,
+  "EOS_NewPlayers": 4831,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33592,6 +33592,11 @@
       "Time": "2024-01-13T10:10:23.5078957+00:00",
       "NumProgressed": 760191,
       "NumCompleted": 12984
+    },
+    {
+      "Time": "2024-01-13T11:08:55.6962109+00:00",
+      "NumProgressed": 760216,
+      "NumCompleted": 12984
     }
   ],
   "TotalAchievements": 60,
@@ -33603,7 +33608,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45611
+      "UsersEstimate": 45613
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33611,7 +33616,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30408
+      "UsersEstimate": 30409
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33651,7 +33656,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5321
+      "UsersEstimate": 5322
     },
     {
       "ID": "08_Wude_H2",
@@ -33715,7 +33720,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5321
+      "UsersEstimate": 5322
     },
     {
       "ID": "16_Detective_H2",
@@ -33779,7 +33784,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38010
+      "UsersEstimate": 38011
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33867,7 +33872,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38010
+      "UsersEstimate": 38011
     },
     {
       "ID": "35_WideStrike",
@@ -33971,7 +33976,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -33995,7 +34000,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -34011,7 +34016,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -34035,7 +34040,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -34043,7 +34048,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "57_Arena_Car",
@@ -34051,7 +34056,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "58_Arena_Music",
@@ -34075,28 +34080,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69492,
+      "Progressed": 69517,
       "Completed": 10808
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760191,
+      "Progressed": 760216,
       "Completed": 12984
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-12T15:03:25.8049852+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:10:23.5078953+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:08:55.6962105+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:03:42.0827453+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:10:23.5080936+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:02:52.5884039+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:08:55.6963424+00:00"
 }

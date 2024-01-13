@@ -8,13 +8,13 @@ Rating: 4.70 (Ranked 220)
 | Time Heals All Wounds | 47.00% | ~618 |
 | Rail Rat | 35.00% | ~460 |
 | The Mysterious Stranger | 34.00% | ~447 |
-| Immaculate Aim | 29.00% | ~381 |
-| The Brass Boss | 28.00% | ~368 |
+| Immaculate Aim | 30.00% | ~394 |
+| The Brass Boss | 29.00% | ~381 |
 | Time Flies | 27.00% | ~355 |
 | No, Thanks! | 27.00% | ~355 |
+| The Prince in Heels | 27.00% | ~355 |
 | Make Up For Lost Time | 26.00% | ~342 |
 | The Harder They Fall | 26.00% | ~342 |
-| The Prince in Heels | 26.00% | ~342 |
 | Honest Mistake | 26.00% | ~342 |
 | Immaculate Aim | 26.00% | ~342 |
 | Fast Learner | 25.00% | ~328 |
@@ -40,8 +40,8 @@ Rating: 4.70 (Ranked 220)
 | Sump Explorer | 12.00% | ~158 |
 | Syron for Hope | 12.00% | ~158 |
 | Factorywood Explorer | 11.00% | ~145 |
+| Theater Explorer | 11.00% | ~145 |
 | Fairgrounds Explorer | 10.00% | ~131 |
-| Theater Explorer | 10.00% | ~131 |
 | Cultivair Explorer | 9.00% | ~118 |
 | Entresol Explorer | 9.00% | ~118 |
 | Corin Goes Home | 8.00% | ~105 |

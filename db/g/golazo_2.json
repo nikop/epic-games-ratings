@@ -4,7 +4,7 @@
   "ProductSlug": "golazo-2-0b1701",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 399,
-  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-21T03:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:22.0425425+00:00",
   "LastChanged": "2023-03-31T05:58:22.0425425+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:35.2519372+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:59:12.5178364+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:09:11.1828661+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:58:26.0391143+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:07:59.9977524+00:00"
 }

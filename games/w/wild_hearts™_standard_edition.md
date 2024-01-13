@@ -8,9 +8,9 @@
 | Hidden History | 71.00% | ~961 |
 | Commencing of Quests | 61.00% | ~825 |
 | Budding Conjuror | 59.00% | ~798 |
+| Man-Machine Master | 49.00% | ~663 |
 | Mountain Splitter | 49.00% | ~663 |
 | Charmed by the Hunt | 49.00% | ~663 |
-| Man-Machine Master | 48.00% | ~649 |
 | Subsistence Skills | 48.00% | ~649 |
 | Memory Rouser | 47.00% | ~636 |
 | Fusion Conjuror | 45.00% | ~609 |
@@ -29,9 +29,9 @@
 | Single Minded | 24.00% | ~325 |
 | Karakuri Trail | 23.00% | ~311 |
 | Snare Specialist | 23.00% | ~311 |
+| Karakuri Isle | 20.00% | ~271 |
 | Team Hunter | 20.00% | ~271 |
 | Artful Assister | 20.00% | ~271 |
-| Karakuri Isle | 19.00% | ~257 |
 | Reincarnation Cycle Stopper | 18.00% | ~244 |
 | Left Arm Leverager | 16.00% | ~216 |
 | Human Believer | 16.00% | ~216 |

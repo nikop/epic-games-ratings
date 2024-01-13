@@ -6,25 +6,25 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 43.00% | ~103 |
-| Best Buddy | 38.00% | ~91 |
-| Civilian | 35.00% | ~84 |
+| Entrepreneur | 43.00% | ~104 |
+| Best Buddy | 38.00% | ~92 |
+| Civilian | 34.00% | ~82 |
 | Role Model | 32.00% | ~77 |
 | Creator | 29.00% | ~70 |
 | Military Leader | 27.00% | ~65 |
 | Festival-goer | 27.00% | ~65 |
 | Peddler | 24.00% | ~58 |
-| Commander | 21.00% | ~50 |
+| Commander | 21.00% | ~51 |
 | Irissa's Fate | 19.00% | ~46 |
 | Pass A38 | 18.00% | ~43 |
 | Long-Haul Flyer | 15.00% | ~36 |
 | Family Reunion | 15.00% | ~36 |
-| Eternal Oblivion | 14.00% | ~34 |
-| Storyteller | 13.00% | ~31 |
-| Berserker | 13.00% | ~31 |
-| Banker | 11.00% | ~26 |
-| Globetrotter | 11.00% | ~26 |
-| Alb | 11.00% | ~26 |
+| Eternal Oblivion | 15.00% | ~36 |
+| Storyteller | 12.00% | ~29 |
+| Berserker | 12.00% | ~29 |
+| Banker | 11.00% | ~27 |
+| Globetrotter | 11.00% | ~27 |
+| Alb | 11.00% | ~27 |
 | Perfectionist | 9.00% | ~22 |
 | Lover | 9.00% | ~22 |
 | Hunter | 8.00% | ~19 |
@@ -38,10 +38,10 @@ Number of Ratings: 124  (23.09.2022)
 | Alchemist | 5.00% | ~12 |
 | Unbreakable | 4.00% | ~10 |
 | Self-Sufficient | 3.00% | ~7 |
-| Idealist | 3.00% | ~7 |
-| Morkon | 3.00% | ~7 |
 | Legendary | 3.00% | ~7 |
+| Idealist | 2.00% | ~5 |
 | Toy Time | 2.00% | ~5 |
+| Morkon | 2.00% | ~5 |
 | Destroyer | 2.00% | ~5 |
 | Pack Rat | 1.00% | ~2 |
 | Defector | 1.00% | ~2 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 422)  
+Progressed: 241 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-10 | 233 | 0 |
 | 2024-01-11 | 235 | 0 |
 | 2024-01-12 | 239 | 0 |
-| 2024-01-13 | 240 | 0 |
+| 2024-01-13 | 241 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

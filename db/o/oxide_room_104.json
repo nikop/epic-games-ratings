@@ -4,7 +4,7 @@
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 324,
+  "EOS_Progressed": 325,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1499,6 +1499,11 @@
       "Time": "2024-01-12T21:03:53.5730623+00:00",
       "NumProgressed": 324,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-13T11:04:02.740197+00:00",
+      "NumProgressed": 325,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 31,
@@ -1518,7 +1523,7 @@
       "Name": "373",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ANTIDOTE",
@@ -1526,7 +1531,7 @@
       "Name": "Antidote",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_BANDAGES",
@@ -1542,7 +1547,7 @@
       "Name": "What\u0027s going on here?",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -1558,7 +1563,7 @@
       "Name": "The experiment",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_ENTRANCE",
@@ -1646,7 +1651,7 @@
       "Name": "Soundtrack",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_NOBULLETS",
@@ -1678,7 +1683,7 @@
       "Name": "Nimble fingers",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_RESTAURANT",
@@ -1702,7 +1707,7 @@
       "Name": "Room 104",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_ROOM203",
@@ -1732,9 +1737,9 @@
       "ID": "ACH_THEGARDEN",
       "SetID": "511e31d",
       "Name": "Face to face",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_THIRDFLOOR",
@@ -1757,14 +1762,14 @@
     {
       "ID": "511e31d",
       "IsBase": true,
-      "Progressed": 324,
+      "Progressed": 325,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:05:15.2149462+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:04:02.7401964+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:32.0336088+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:59:44.4786566+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:05:15.2149799+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:58:48.9123462+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:04:02.7402217+00:00"
 }

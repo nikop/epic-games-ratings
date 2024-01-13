@@ -23,8 +23,8 @@ Rating: 4.64 (Ranked 344)
 | Higher Tax Bracket | 1.00% | ~90 |
 | Botanical Breakthrough | 1.00% | ~90 |
 | Azorian Anniversary | 1.00% | ~90 |
+| Skilled | 1.00% | ~90 |
 | Exit Through The Gift Shop | 1.00% | ~16 |
-| Skilled | 0.90% | ~81 |
 | Flaming Hot Completos | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.70% | ~63 |

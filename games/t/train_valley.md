@@ -14,7 +14,7 @@ Number of Ratings: 28  (23.09.2022)
 | Pangs of conscience | 43.00% | ~286 |
 | Need to think | 41.00% | ~273 |
 | Completely nuts! | 40.00% | ~266 |
-| Europe | 32.00% | ~213 |
+| Europe | 33.00% | ~219 |
 | Just in time! | 32.00% | ~213 |
 | Madness! | 31.00% | ~206 |
 | It's no coincidence. | 27.00% | ~180 |

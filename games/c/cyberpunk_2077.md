@@ -6,51 +6,51 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,887 |
-| The Fool | 11.00% | ~115,396 |
-| Right Back At Ya | 9.00% | ~94,415 |
-| Gun Fu | 9.00% | ~94,415 |
-| The Lovers | 8.00% | ~83,924 |
-| Full Body Conversion | 7.00% | ~73,434 |
-| Christmas Tree Attack | 6.00% | ~62,943 |
-| Stanislavski's Method | 6.00% | ~62,943 |
-| The Hermit | 6.00% | ~62,943 |
-| The Wheel of Fortune | 6.00% | ~62,943 |
-| True Soldier | 6.00% | ~62,943 |
-| All the President's Men | 6.00% | ~10,661 |
-| Arachnophobia | 6.00% | ~10,661 |
-| The High Priestess | 5.00% | ~52,453 |
-| Legend of The Afterlife | 5.00% | ~52,453 |
-| Master Crafter | 4.00% | ~41,962 |
-| Life of the Road | 4.00% | ~41,962 |
-| True Warrior | 4.00% | ~41,962 |
-| Bushido and Chill | 3.00% | ~31,472 |
-| I Am The Law | 3.00% | ~31,472 |
-| The Quick and the Dead | 3.00% | ~31,472 |
-| The World | 3.00% | ~31,472 |
-| Two Heads, One Bullet | 3.00% | ~31,472 |
-| Judy vs Night City | 3.00% | ~31,472 |
-| Relic Ruler | 3.00% | ~5,330 |
-| To Protect and Serve | 2.00% | ~20,981 |
-| The Wandering Fool | 2.00% | ~20,981 |
-| The Sun | 2.00% | ~20,981 |
-| Spin Doctor | 2.00% | ~3,554 |
-| King of Wands | 2.00% | ~3,554 |
-| Easy Come, Easy Go | 2.00% | ~3,554 |
+| V for Vendetta | 12.00% | ~125,895 |
+| The Fool | 11.00% | ~115,404 |
+| Right Back At Ya | 9.00% | ~94,421 |
+| Gun Fu | 9.00% | ~94,421 |
+| The Lovers | 8.00% | ~83,930 |
+| Full Body Conversion | 7.00% | ~73,439 |
+| Christmas Tree Attack | 6.00% | ~62,948 |
+| Stanislavski's Method | 6.00% | ~62,948 |
+| The Hermit | 6.00% | ~62,948 |
+| The Wheel of Fortune | 6.00% | ~62,948 |
+| True Soldier | 6.00% | ~62,948 |
+| All the President's Men | 6.00% | ~10,665 |
+| Arachnophobia | 6.00% | ~10,665 |
+| The High Priestess | 5.00% | ~52,456 |
+| Legend of The Afterlife | 5.00% | ~52,456 |
+| Master Crafter | 4.00% | ~41,965 |
+| Life of the Road | 4.00% | ~41,965 |
+| True Warrior | 4.00% | ~41,965 |
+| Bushido and Chill | 3.00% | ~31,474 |
+| I Am The Law | 3.00% | ~31,474 |
+| The Quick and the Dead | 3.00% | ~31,474 |
+| The World | 3.00% | ~31,474 |
+| Two Heads, One Bullet | 3.00% | ~31,474 |
+| Judy vs Night City | 3.00% | ~31,474 |
+| Relic Ruler | 3.00% | ~5,332 |
+| To Protect and Serve | 2.00% | ~20,982 |
+| The Wandering Fool | 2.00% | ~20,982 |
+| The Sun | 2.00% | ~20,982 |
+| Spin Doctor | 2.00% | ~3,555 |
+| King of Wands | 2.00% | ~3,555 |
+| Easy Come, Easy Go | 2.00% | ~3,555 |
 | To Bad Decisions! | 1.00% | ~10,491 |
 | Breathtaking | 1.00% | ~10,491 |
 | Ten out of Ten | 1.00% | ~10,491 |
 | The Star | 1.00% | ~10,491 |
 | Dirty Deeds | 1.00% | ~1,777 |
-| Autojock | 0.90% | ~9,441 |
-| The APB is Not Enough | 0.90% | ~1,599 |
-| Judgement Day | 0.90% | ~1,599 |
-| The Tower | 0.90% | ~1,599 |
-| Must Be Rats | 0.80% | ~8,392 |
-| Temperance | 0.80% | ~8,392 |
-| King of Swords | 0.80% | ~1,421 |
+| Autojock | 0.90% | ~9,442 |
+| The APB is Not Enough | 0.90% | ~1,600 |
+| Judgement Day | 0.90% | ~1,600 |
+| The Tower | 0.90% | ~1,600 |
+| Must Be Rats | 0.80% | ~8,393 |
+| Temperance | 0.80% | ~8,393 |
+| King of Swords | 0.80% | ~1,422 |
 | King of Pentacles | 0.70% | ~1,244 |
-| King of Cups | 0.50% | ~888 |
+| King of Cups | 0.50% | ~889 |
 | City Lights | 0.40% | ~4,196 |
 | The Devil | 0.40% | ~4,196 |
 | The Jungle | 0.40% | ~4,196 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049,055 (Ranked 17)  
+Progressed: 1,049,125 (Ranked 17)  
 Completed: 3,083 (0.29%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 3,083 (0.29%) (Ranked 261)
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
 | 2024-01-12 | 1,048,338 | 3,079 |
-| 2024-01-13 | 1,049,055 | 3,083 |
+| 2024-01-13 | 1,049,125 | 3,083 |
 ## Awards
 Max (Character Customization): 138,203  (Ranked 8)  
 Sum: 487,956 (Ranked 8)  

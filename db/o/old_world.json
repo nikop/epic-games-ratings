@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16610,
+  "EOS_Progressed": 16618,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19850,6 +19850,11 @@
       "Time": "2024-01-13T10:11:23.150263+00:00",
       "NumProgressed": 16610,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T11:09:41.6808728+00:00",
+      "NumProgressed": 16618,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -19941,7 +19946,7 @@
       "Name": "Hanging Gardens in Babylon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -20293,7 +20298,7 @@
       "Name": "Explorer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20341,7 +20346,7 @@
       "Name": "Intercessor",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -20349,7 +20354,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20485,7 +20490,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20509,7 +20514,7 @@
       "Name": "Valiant",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -20629,7 +20634,7 @@
       "Name": "Just Difficulty",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -20693,7 +20698,7 @@
       "Name": "Artisans",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -20773,7 +20778,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -21613,7 +21618,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21765,7 +21770,7 @@
       "Name": "Building Wonders",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -22395,17 +22400,17 @@
       "ID": "ACHIEVEMENT_EGYPT4_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Ramesses II The Great",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Qadesh Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_MUWATALLI_DEFEAT",
@@ -22724,21 +22729,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16610,
+      "Progressed": 16618,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16610,
+      "Progressed": 16618,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:11:23.1502627+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:09:41.6808723+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:00:01.2045544+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:11:23.1514442+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:59:00.7843168+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:09:41.6819281+00:00"
 }

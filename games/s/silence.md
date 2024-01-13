@@ -6,29 +6,29 @@
 | ---- | ---------- | ----- |
 | Chapter I | 52.00% | ~96 |
 | Fire in the... nevermind | 51.00% | ~94 |
-| Haute cuisine | 47.00% | ~86 |
-| Demolition expert | 40.00% | ~74 |
+| Haute cuisine | 46.00% | ~85 |
 | I didn't do it! | 40.00% | ~74 |
+| Demolition expert | 39.00% | ~72 |
 | Open up wide | 37.00% | ~68 |
 | Keep away from children | 37.00% | ~68 |
-| Wooooooow! | 35.00% | ~64 |
-| Artistic fool | 33.00% | ~61 |
-| Let the boot talk | 32.00% | ~59 |
-| Shadow on the wall | 32.00% | ~59 |
+| Wooooooow! | 35.00% | ~65 |
+| Artistic fool | 32.00% | ~59 |
+| Let the boot talk | 31.00% | ~57 |
+| Shadow on the wall | 31.00% | ~57 |
 | Chapter II | 26.00% | ~48 |
 | Bubblekillerfamily | 24.00% | ~44 |
-| Quite a buggy game | 23.00% | ~42 |
-| Handyman | 23.00% | ~42 |
-| Achoo!! | 23.00% | ~42 |
-| Chapter III | 23.00% | ~42 |
-| Like a moth in the Wind | 23.00% | ~42 |
+| Quite a buggy game | 23.00% | ~43 |
+| Handyman | 23.00% | ~43 |
+| Achoo!! | 23.00% | ~43 |
+| Chapter III | 23.00% | ~43 |
+| Like a moth in the Wind | 23.00% | ~43 |
 | Pacifist | 21.00% | ~39 |
-| Mirror mirror on the wall... | 20.00% | ~37 |
 | Fastidious Clown | 19.00% | ~35 |
+| Mirror mirror on the wall... | 19.00% | ~35 |
 | It's not easy being green! | 18.00% | ~33 |
 | Home is where the heart is | 18.00% | ~33 |
 | Death is a part of life | 15.00% | ~28 |
-| Master of Thermodynamics | 13.00% | ~24 |
+| Master of Thermodynamics | 12.00% | ~22 |
 | Unfullfilled dreams | 12.00% | ~22 |
 | To err is human... | 11.00% | ~20 |
 | Mumbo Jumbo | 10.00% | ~18 |
@@ -36,7 +36,7 @@
 | Nothing can stop me | 9.00% | ~17 |
 | It's nothing personal | 8.00% | ~15 |
 | Lollipop | 7.00% | ~13 |
-| Where there is life, there is hope | 7.00% | ~13 |
+| Where there is life, there is hope | 6.00% | ~11 |
 | Artistic master | 5.00% | ~9 |
 | Sadist | 5.00% | ~9 |
 | Fartjokes! | 5.00% | ~9 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.50% | ~1 |
 | Do not feed the fish! | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 439)  
+Progressed: 185 (Ranked 439)  
 Completed: 0 (0.00%) (Ranked 399)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 399)
 | 2024-01-05 | 182 | 0 |
 | 2024-01-06 | 183 | 0 |
 | 2024-01-07 | 184 | 0 |
+| 2024-01-13 | 185 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

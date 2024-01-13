@@ -6,11 +6,11 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 4.00% | ~664 |
-| Explorer | 3.00% | ~498 |
-| Intrepid | 3.00% | ~498 |
-| Friendly Family | 3.00% | ~498 |
-| Play a Single Player Game | 3.00% | ~498 |
+| Settler | 4.00% | ~665 |
+| Explorer | 3.00% | ~499 |
+| Intrepid | 3.00% | ~499 |
+| Friendly Family | 3.00% | ~499 |
+| Play a Single Player Game | 3.00% | ~499 |
 | Able | 2.00% | ~332 |
 | Ambitious | 2.00% | ~332 |
 | Architect | 2.00% | ~332 |
@@ -63,12 +63,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 1.00% | ~166 |
 | Roman Paganism | 1.00% | ~166 |
 | Mythology | 1.00% | ~166 |
-| Hanging Gardens in Babylon | 0.90% | ~149 |
-| Intercessor | 0.90% | ~149 |
-| Valiant | 0.90% | ~149 |
-| Just Difficulty | 0.90% | ~149 |
-| Artisans | 0.90% | ~149 |
-| Building Wonders | 0.90% | ~149 |
+| Hanging Gardens in Babylon | 0.90% | ~150 |
+| Intercessor | 0.90% | ~150 |
+| Valiant | 0.90% | ~150 |
+| Just Difficulty | 0.90% | ~150 |
+| Artisans | 0.90% | ~150 |
+| Building Wonders | 0.90% | ~150 |
 | Champions | 0.80% | ~133 |
 | Sages | 0.80% | ~133 |
 | Learn to Play 3 | 0.80% | ~133 |
@@ -296,6 +296,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Akhen-who? | 0.10% | ~17 |
 | Glory to The Aten | 0.10% | ~17 |
 | Akhenaten's Legacy | 0.10% | ~17 |
+| Ramesses II The Great | 0.10% | ~17 |
+| Qadesh Victory | 0.10% | ~17 |
 | Ramesses II KIA | 0.10% | ~17 |
 | Lost the Hearts of Kmt | 0.10% | ~17 |
 | Won the Hearts of Kmt | 0.10% | ~17 |
@@ -345,8 +347,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Akhenaten's Pharaonic Legacy | 0.00% | ~0 |
 | Qadesh Defeat | 0.00% | ~0 |
 | Destruction at Qadesh | 0.00% | ~0 |
-| Ramesses II The Great | 0.00% | ~0 |
-| Qadesh Victory | 0.00% | ~0 |
 | Muwatalli II KIA | 0.00% | ~0 |
 | Pharaonic Ramesses II The Great | 0.00% | ~0 |
 | Pharaonic Qadesh Victory | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,610 (Ranked 170)  
+Progressed: 16,618 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 357)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 357)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,610 | 5 |
+| 2024-01-13 | 16,618 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

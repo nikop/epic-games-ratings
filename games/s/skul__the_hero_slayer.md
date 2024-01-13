@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,633 |
-| What should I buy? | 80.00% | ~11,727 |
-| Focus! | 60.00% | ~8,795 |
-| Rescued Elder Ent | 60.00% | ~8,795 |
-| The End of the Gold Mane Knights | 47.00% | ~6,890 |
-| False Goddess, Disappear | 39.00% | ~5,717 |
-| Rules of Etiquette | 37.00% | ~5,424 |
-| Inventory Management | 32.00% | ~4,691 |
-| The Fall of the Leonia Order | 30.00% | ~4,398 |
-| Quick Movements | 30.00% | ~4,398 |
-| Go Home... | 27.00% | ~3,958 |
-| The Final Battle of the First Hero | 26.00% | ~3,811 |
-| The Hero Killer | 25.00% | ~3,665 |
+| The Legend Begins | 93.00% | ~13,636 |
+| What should I buy? | 80.00% | ~11,730 |
+| Focus! | 60.00% | ~8,797 |
+| Rescued Elder Ent | 60.00% | ~8,797 |
+| The End of the Gold Mane Knights | 47.00% | ~6,891 |
+| False Goddess, Disappear | 39.00% | ~5,718 |
+| Rules of Etiquette | 37.00% | ~5,425 |
+| Inventory Management | 32.00% | ~4,692 |
+| The Fall of the Leonia Order | 30.00% | ~4,399 |
+| Quick Movements | 30.00% | ~4,399 |
+| Go Home... | 27.00% | ~3,959 |
+| The Final Battle of the First Hero | 26.00% | ~3,812 |
+| The Hero Killer | 25.00% | ~3,666 |
 | Brain at Full Throttle | 20.00% | ~2,932 |
 | Rookies Welcome | 18.00% | ~2,639 |
-| Deadly Power | 16.00% | ~2,345 |
+| Deadly Power | 16.00% | ~2,346 |
 | Castle Restoration Plans | 13.00% | ~1,906 |
 | The Dwarven Chandelier | 10.00% | ~1,466 |
-| Master of Speed | 9.00% | ~1,319 |
+| Master of Speed | 9.00% | ~1,320 |
 | The Levitator | 8.00% | ~1,173 |
 | The God of Battle | 4.00% | ~586 |
 | Too Much of a Talker | 1.00% | ~147 |
 | The Skeleton King | 1.00% | ~147 |
 | Cold-Blooded | 0.60% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,659 (Ranked 175)  
+Progressed: 14,662 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 22 (0.15%) (Ranked 291)
 | 2024-01-10 | 14,523 | 21 |
 | 2024-01-11 | 14,593 | 21 |
 | 2024-01-12 | 14,641 | 22 |
-| 2024-01-13 | 14,659 | 22 |
+| 2024-01-13 | 14,662 | 22 |
 ## Awards
 Max (Diverse Characters): 152  (Ranked 332)  
-Sum: 1,021 (Ranked 275)  
+Sum: 1,022 (Ranked 275)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -293,7 +293,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 113 |
 | This game has Amazing Storytelling | 95 |
 | This game has Amazing Characters | 88 |
-| This game has a Creative Community | 66 |
+| This game has a Creative Community | 67 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
 ## Ratings History
@@ -474,4 +474,4 @@ Diff (max vs sum): 57
 | 2024-01-10 | 4.75 | - | 152 | 1,012 |
 | 2024-01-11 | 4.75 | - | 152 | 1,018 |
 | 2024-01-12 | 4.74 | - | 152 | 1,018 |
-| 2024-01-13 | 4.74 | - | 152 | 1,021 |
+| 2024-01-13 | 4.74 | - | 152 | 1,022 |

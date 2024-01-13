@@ -223,7 +223,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8573,
+  "EOS_Progressed": 8574,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 4,
@@ -9903,6 +9903,11 @@
       "Time": "2024-01-13T08:04:35.5775294+00:00",
       "NumProgressed": 8573,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-13T11:03:45.4204378+00:00",
+      "NumProgressed": 8574,
+      "NumCompleted": 53
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -9915,7 +9920,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7544
+      "UsersEstimate": 7545
     },
     {
       "ID": "achievement_01_02",
@@ -9931,7 +9936,7 @@
       "Name": "Brand New Ride",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 5572
+      "UsersEstimate": 5573
     },
     {
       "ID": "achievement_01_04",
@@ -9947,7 +9952,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "achievement_01_06",
@@ -9963,7 +9968,7 @@
       "Name": "Car Workshop",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3686
+      "UsersEstimate": 3687
     },
     {
       "ID": "achievement_01_08",
@@ -10027,7 +10032,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "achievement_02_06",
@@ -10163,7 +10168,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "achievement_04_04",
@@ -10195,7 +10200,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4373
     },
     {
       "ID": "achievement_04_08",
@@ -10218,7 +10223,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8573,
+      "Progressed": 8574,
       "Completed": 53
     }
   ],
@@ -10226,8 +10231,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-12T20:57:15.3154982+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:04:52.4021687+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:03:45.4204375+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:08.2542069+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:58:04.6118391+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:04:52.402262+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:57:35.889398+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:03:45.4205307+00:00"
 }

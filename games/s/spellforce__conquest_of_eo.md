@@ -10,17 +10,17 @@
 | A kind of Magic | 67.00% | ~96 |
 | Connected | 57.00% | ~82 |
 | Expansion | 55.00% | ~79 |
-| Mine! | 52.00% | ~75 |
+| Mine! | 53.00% | ~76 |
 | Harvest Time | 51.00% | ~73 |
 | Artificer's Apprentice | 42.00% | ~60 |
+| Fly the friendly Sky | 41.00% | ~59 |
 | Get out of here! | 40.00% | ~58 |
-| Fly the friendly Sky | 40.00% | ~58 |
+| Necromancer's Apprentice | 36.00% | ~52 |
 | Alchemist's Apprentice | 35.00% | ~50 |
-| Necromancer's Apprentice | 35.00% | ~50 |
 | Friend of Lyraine | 33.00% | ~48 |
 | The Circle | 29.00% | ~42 |
 | Redecorating | 28.00% | ~40 |
-| Bad JuJu | 23.00% | ~33 |
+| Bad JuJu | 24.00% | ~35 |
 | Friend of Sevenkeeps | 21.00% | ~30 |
 | Slave to the rhythm | 19.00% | ~27 |
 | Castle Meldec | 19.00% | ~27 |

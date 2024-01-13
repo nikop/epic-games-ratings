@@ -2231,9 +2231,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 184
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2263,9 +2263,9 @@
       "ID": "Collect_Hollow_Storm",
       "SetID": "7a5k76n",
       "Name": "Perfect Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2575,9 +2575,9 @@
       "ID": "Save_Humans_15",
       "SetID": "7a5k76n",
       "Name": "Community Outreach",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 92
     },
     {
       "ID": "Save_Humans_20",
@@ -2671,8 +2671,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-11T19:59:53.1108333+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:07:25.50827+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:05:41.6738512+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:22.0382916+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:00:44.3619735+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:07:25.5083376+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:59:30.2396096+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:05:41.6739303+00:00"
 }

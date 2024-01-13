@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1353,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4424,9 +4424,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 271
     },
     {
       "ID": "achievement_12",
@@ -4480,9 +4480,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 649
+      "UsersEstimate": 663
     },
     {
       "ID": "achievement_19",
@@ -4798,8 +4798,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:10:34.8764628+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:09:04.4393041+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:30.0899668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:59:11.6760035+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:10:34.8765159+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:58:24.3789431+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:09:04.43936+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -750,6 +750,11 @@
       "Time": "2024-01-11T19:03:37.9971323+00:00",
       "NumProgressed": 280,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-13T11:04:11.4779362+00:00",
+      "NumProgressed": 281,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -769,7 +774,7 @@
       "Name": "Comedy Killer",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -801,7 +806,7 @@
       "Name": "A leader, you are not",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "lootaphilia",
@@ -881,7 +886,7 @@
       "Name": "Um, ok...",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -896,7 +901,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 6
     }
   ],
@@ -904,8 +909,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:05:26.9618446+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:04:11.4779356+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.9728945+00:00",
-  "LastUpdate_Ratings": "2024-01-13T10:03:58.8587538+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:05:26.9618902+00:00"
+  "LastUpdate_Ratings": "2024-01-13T11:03:04.7438272+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:04:11.4779507+00:00"
 }

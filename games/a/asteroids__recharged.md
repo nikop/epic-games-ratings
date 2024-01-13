@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Hero | 51.00% | ~3,332 |
-| Now I'm Here | 45.00% | ~2,940 |
-| The Hitman | 27.00% | ~1,764 |
-| Keep Yourself Alive | 26.00% | ~1,699 |
-| All Dead, All Dead | 17.00% | ~1,111 |
-| The Invisible Man | 16.00% | ~1,045 |
-| Misfire | 15.00% | ~980 |
-| The Miracle | 10.00% | ~653 |
+| The Hero | 51.00% | ~3,335 |
+| Now I'm Here | 45.00% | ~2,943 |
+| The Hitman | 27.00% | ~1,766 |
+| Keep Yourself Alive | 26.00% | ~1,700 |
+| All Dead, All Dead | 17.00% | ~1,112 |
+| The Invisible Man | 16.00% | ~1,046 |
+| Misfire | 15.00% | ~981 |
+| The Miracle | 10.00% | ~654 |
 | We Will Rock You | 8.00% | ~523 |
-| Rock It | 4.00% | ~261 |
+| Rock It | 4.00% | ~262 |
 | Friends Will Be Friends | 2.00% | ~131 |
 | Put Out the Fire | 1.00% | ~65 |
 | Machines | 0.90% | ~59 |
@@ -21,7 +21,7 @@
 | Killer Queen | 0.30% | ~20 |
 | Good Company | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,534 (Ranked 199)  
+Progressed: 6,540 (Ranked 199)  
 Completed: 5 (0.08%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 5 (0.08%) (Ranked 326)
 | 2024-01-10 | 6,000 | 5 |
 | 2024-01-11 | 6,222 | 5 |
 | 2024-01-12 | 6,448 | 5 |
-| 2024-01-13 | 6,534 | 5 |
+| 2024-01-13 | 6,540 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

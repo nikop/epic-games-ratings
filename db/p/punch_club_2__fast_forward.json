@@ -4,7 +4,7 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2853,9 +2853,9 @@
       "ID": "trainer_promotion_1",
       "SetID": "69co12a",
       "Name": "Escaped from a big trouble",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 261
     },
     {
       "ID": "trainer_promotion_2",
@@ -2924,8 +2924,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-13T10:11:05.8573396+00:00",
+  "LastChanged_Achievements": "2024-01-13T11:09:27.9184951+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:10.7103832+00:00",
-  "LastUpdate_Ratings": "2024-01-13T09:59:33.7637111+00:00",
-  "LastUpdate_Achievements": "2024-01-13T10:11:05.8574241+00:00"
+  "LastUpdate_Ratings": "2024-01-13T10:58:41.0287879+00:00",
+  "LastUpdate_Achievements": "2024-01-13T11:09:27.9185551+00:00"
 }
