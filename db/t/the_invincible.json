@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1667,
+  "EOS_Progressed": 1668,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4404,6 +4404,11 @@
       "Time": "2024-01-13T18:10:28.8168054+00:00",
       "NumProgressed": 1667,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-13T20:09:38.2165472+00:00",
+      "NumProgressed": 1668,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4416,7 +4421,7 @@
       "Name": "The Teleprobe",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "AchvAllMemories",
@@ -4448,7 +4453,7 @@
       "Name": "Peacemaker",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "AchvBombing",
@@ -4496,7 +4501,7 @@
       "Name": "Evacuation",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "AchvInvShip",
@@ -4504,7 +4509,7 @@
       "Name": "Another giant",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4512,7 +4517,7 @@
       "Name": "Krauta is alive",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "AchvLava",
@@ -4600,7 +4605,7 @@
       "Name": "The City",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "AchvReachCondor",
@@ -4608,7 +4613,7 @@
       "Name": "The Condor",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "AchvSurvivors",
@@ -4624,7 +4629,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "AchvTheEnd",
@@ -4632,7 +4637,7 @@
       "Name": "The End",
       "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "AchvUnity",
@@ -4647,7 +4652,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1667,
+      "Progressed": 1668,
       "Completed": 1
     }
   ],
@@ -4655,8 +4660,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:44.0465119+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:38.2165468+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:26.5120258+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:59:51.9130884+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:44.0465453+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:59:58.4646391+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:38.2165818+00:00"
 }

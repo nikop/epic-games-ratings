@@ -22,8 +22,8 @@ Rating: 4.75 (Ranked 149)
 | Magic Accidents | 59.00% | ~450 |
 | Trap Master | 56.00% | ~427 |
 | Minions, Minions! | 56.00% | ~427 |
+| The Big Eaty | 56.00% | ~427 |
 | Hard Work | 55.00% | ~420 |
-| The Big Eaty | 55.00% | ~420 |
 | “… like son” | 53.00% | ~404 |
 | YOU SHALL NOT PASS! | 51.00% | ~389 |
 | The Cathedral of Light | 49.00% | ~374 |
@@ -42,9 +42,9 @@ Rating: 4.75 (Ranked 149)
 | Doom Hill | 32.00% | ~244 |
 | Forbidden Knowledge | 30.00% | ~229 |
 | Brimstone Shaken, Not Stirred | 30.00% | ~229 |
+| Hungry, Hungry Gorgu! | 29.00% | ~221 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~221 |
 | Sabotage! | 29.00% | ~221 |
-| Hungry, Hungry Gorgu! | 28.00% | ~214 |
 | Stop Tanos! | 28.00% | ~214 |
 | Raiders of the Lost Stone | 28.00% | ~214 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~214 |

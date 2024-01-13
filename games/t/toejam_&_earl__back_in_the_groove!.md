@@ -5,17 +5,17 @@ Rating: 4.33 (Ranked 857)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~5,877 |
+| Food Taster | 10.00% | ~5,878 |
 | Fall Fest | 8.00% | ~4,702 |
 | Thrill Seeker | 7.00% | ~4,114 |
-| Flying Present Catcher | 6.00% | ~3,526 |
-| HFZ Goober | 6.00% | ~3,526 |
+| Flying Present Catcher | 6.00% | ~3,527 |
+| HFZ Goober | 6.00% | ~3,527 |
 | Sunflower Master | 5.00% | ~2,939 |
 | Hi Fiver | 3.00% | ~1,763 |
 | A Timely Splash | 3.00% | ~1,763 |
-| Backer Visitor | 2.00% | ~1,175 |
-| Hate That Randomizer | 2.00% | ~1,175 |
-| Feet on Funkotron | 2.00% | ~1,175 |
+| Backer Visitor | 2.00% | ~1,176 |
+| Hate That Randomizer | 2.00% | ~1,176 |
+| Feet on Funkotron | 2.00% | ~1,176 |
 | Elf Chaser | 1.00% | ~588 |
 | Fool Me Twice | 1.00% | ~588 |
 | Old School Jammin' | 1.00% | ~588 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 857)
 | Why Do I Keep Doing That? | 0.10% | ~59 |
 | Hey, You Did It! | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,774 (Ranked 121)  
+Progressed: 58,776 (Ranked 121)  
 Completed: 6 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 6 (0.01%) (Ranked 376)
 | 2024-01-10 | 58,735 | 6 |
 | 2024-01-11 | 58,740 | 6 |
 | 2024-01-12 | 58,752 | 6 |
-| 2024-01-13 | 58,774 | 6 |
+| 2024-01-13 | 58,776 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -263,9 +263,9 @@
       "ID": "ach-copper",
       "SetID": "6aph42m",
       "Name": "Harder materials",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach-copper-watering-can",
@@ -455,9 +455,9 @@
       "ID": "ach-redwood-cone",
       "SetID": "6aph42m",
       "Name": "What a big tree!",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach-rgb-lamps",
@@ -582,8 +582,8 @@
   ],
   "FirstSeen": "2023-12-09T20:59:53.605626+00:00",
   "FirstSeenAchievements": "2023-09-27T06:05:39.2666292+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:51.0845003+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:44.8749647+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.6486205+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:58:15.3212687+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:51.0845491+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:58:26.8401667+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:44.8750033+00:00"
 }

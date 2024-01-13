@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,448 |
-| Photographer | 67.00% | ~9,448 |
-| Valley's Helper | 59.00% | ~8,320 |
-| Constructor | 50.00% | ~7,051 |
-| Renovator | 49.00% | ~6,910 |
+| Goofy's Investor | 67.00% | ~9,449 |
+| Photographer | 67.00% | ~9,449 |
+| Valley's Helper | 59.00% | ~8,321 |
+| Constructor | 50.00% | ~7,052 |
+| Renovator | 50.00% | ~7,052 |
 | Bestest Friend | 44.00% | ~6,205 |
 | Banker | 38.00% | ~5,359 |
 | Gardener | 30.00% | ~4,231 |
 | Generous | 25.00% | ~3,526 |
-| Chef Cook | 19.00% | ~2,679 |
+| Chef Cook | 19.00% | ~2,680 |
 | Miner | 11.00% | ~1,551 |
 | Duty Bound | 8.00% | ~1,128 |
 | Angler | 6.00% | ~846 |
 | Thorn Cleaner | 6.00% | ~846 |
 | Chit Chatter | 3.00% | ~423 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,102 (Ranked 176)  
+Progressed: 14,103 (Ranked 176)  
 Completed: 351 (2.49%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,10 +241,10 @@ Completed: 351 (2.49%) (Ranked 127)
 | 2024-01-10 | 14,047 | 348 |
 | 2024-01-11 | 14,066 | 349 |
 | 2024-01-12 | 14,085 | 350 |
-| 2024-01-13 | 14,102 | 351 |
+| 2024-01-13 | 14,103 | 351 |
 ## Awards
 Max (Great for Beginners): 1,180  (Ranked 150)  
-Sum: 8,397 (Ranked 110)  
+Sum: 8,398 (Ranked 110)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +256,7 @@ Diff (max vs sum): 40
 | This game has Amazing Storytelling | 805 |
 | This game is Extremely Fun | 793 |
 | This game has Quickly Understood Controls | 782 |
-| This game has a Creative Community | 734 |
+| This game has a Creative Community | 735 |
 | This game has Easy Combat | 555 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -566,4 +566,4 @@ Diff (max vs sum): 40
 | 2024-01-10 | 4.76 | - | 1,179 | 8,388 |
 | 2024-01-11 | 4.76 | - | 1,179 | 8,389 |
 | 2024-01-12 | 4.76 | - | 1,180 | 8,392 |
-| 2024-01-13 | 4.76 | - | 1,180 | 8,397 |
+| 2024-01-13 | 4.76 | - | 1,180 | 8,398 |

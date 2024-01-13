@@ -2293,9 +2293,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 294712,
+  "EOS_Progressed": 294744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2481,
+  "EOS_NewPlayers": 2440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33088,6 +33088,11 @@
       "Time": "2024-01-13T18:08:23.2671755+00:00",
       "NumProgressed": 294712,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T20:03:42.8908104+00:00",
+      "NumProgressed": 294744,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -33323,7 +33328,7 @@
       "Name": "Ball Launched",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11788
+      "UsersEstimate": 11790
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -33410,21 +33415,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 294712,
+      "Progressed": 294744,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 12871,
+      "Progressed": 12903,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-11T21:04:08.3674975+00:00",
-  "LastChanged_Achievements": "2024-01-13T18:08:23.267175+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:03:42.89081+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:59:02.0619191+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:03:27.9295783+00:00",
-  "LastUpdate_Achievements": "2024-01-13T18:08:23.2673712+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:03:40.2269397+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:03:42.8910356+00:00"
 }

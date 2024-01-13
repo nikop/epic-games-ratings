@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1885,9 +1885,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168022,
+  "EOS_Progressed": 168031,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1151,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22965,6 +22965,11 @@
       "Time": "2024-01-13T19:06:05.7464895+00:00",
       "NumProgressed": 168022,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-13T20:06:15.1379592+00:00",
+      "NumProgressed": 168031,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23049,7 +23054,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3360
+      "UsersEstimate": 3361
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23127,9 +23132,9 @@
       "ID": "DEFEAT_JAWSTAG",
       "SetID": "ccc0dlh",
       "Name": "Jawstag",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1344
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -23344,21 +23349,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167605,
+      "Progressed": 167614,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168022,
+      "Progressed": 168031,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:06:05.7464892+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:06:15.1379588+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:45.9569246+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:06:05.7466483+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:57:58.054629+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:06:15.1380985+00:00"
 }

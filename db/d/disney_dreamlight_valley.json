@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5851,10 +5851,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8397,
       "NumberOfAwardsMax": 1180
+    },
+    {
+      "Time": "2024-01-13T19:58:07.1624419+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8398,
+      "NumberOfAwardsMax": 1180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8397,
+  "NumberOfAwards": 8398,
   "NumberOfAwardsMax": 1180,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5916,7 +5922,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 734
+      "Count": 735
     },
     {
       "Text": "This game has Easy Combat",
@@ -5925,9 +5931,9 @@
       "Count": 555
     }
   ],
-  "EOS_Progressed": 14102,
+  "EOS_Progressed": 14103,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
@@ -25200,6 +25206,11 @@
       "Time": "2024-01-13T18:09:50.1605806+00:00",
       "NumProgressed": 14102,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-13T20:09:10.9802506+00:00",
+      "NumProgressed": 14103,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 15,
@@ -25235,7 +25246,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "Chit_Chatter",
@@ -25251,7 +25262,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7051
+      "UsersEstimate": 7052
     },
     {
       "ID": "Duty_Bound",
@@ -25283,7 +25294,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9448
+      "UsersEstimate": 9449
     },
     {
       "ID": "Miner",
@@ -25299,15 +25310,15 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9448
+      "UsersEstimate": 9449
     },
     {
       "ID": "Renovator",
       "SetID": "chapdi4",
       "Name": "Renovator",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6910
+      "UsersEstimate": 7052
     },
     {
       "ID": "Thorn_Cleaner",
@@ -25323,23 +25334,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8320
+      "UsersEstimate": 8321
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14102,
+      "Progressed": 14103,
       "Completed": 351
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-13T04:57:35.5100872+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:16.1118601+00:00",
+  "LastChanged": "2024-01-13T19:58:07.1624417+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:10.9802503+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:11.1438624+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:54.2964553+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:16.1119707+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:58:07.1624422+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:10.9803587+00:00"
 }

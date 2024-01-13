@@ -4,7 +4,7 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 621,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 438,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 22,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -346,8 +346,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:10:05.7534012+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:58.8715068+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:11.3406825+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:00:06.0575775+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:10:05.7534161+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:00:12.6072076+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:58.8715461+00:00"
 }

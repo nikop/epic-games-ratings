@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16686,
+  "EOS_Progressed": 16691,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19895,6 +19895,11 @@
       "Time": "2024-01-13T19:10:17.6989818+00:00",
       "NumProgressed": 16686,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-13T20:10:10.1497015+00:00",
+      "NumProgressed": 16691,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20272,9 +20277,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_BELOVED",
       "SetID": "9201eeb",
       "Name": "Beloved",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -20440,9 +20445,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -20466,7 +20471,7 @@
       "Name": "Mighty",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20488,9 +20493,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
       "SetID": "9201eeb",
       "Name": "Peacemaker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PIONEER",
@@ -20530,7 +20535,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20658,7 +20663,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -20746,7 +20751,7 @@
       "Name": "Champions",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -20800,9 +20805,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -21288,9 +21293,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
       "SetID": "9201eeb",
       "Name": "Temple of Solomon",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -21538,7 +21543,7 @@
       "Name": "Greece",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -21658,15 +21663,15 @@
       "Name": "Play a Single Player Game",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -22024,9 +22029,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -22040,9 +22045,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -22074,7 +22079,7 @@
       "Name": "Points Victory",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -22696,9 +22701,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_JEBEL_BARKAL",
       "SetID": "9201eeb",
       "Name": "Jebel Barkal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
@@ -22769,21 +22774,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16686,
+      "Progressed": 16691,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16686,
+      "Progressed": 16691,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:10:17.6989817+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:10:10.1497012+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:59:24.127079+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:10:17.7000005+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:59:32.1661906+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:10:10.1507925+00:00"
 }

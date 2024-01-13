@@ -15,12 +15,12 @@
 | Technology first! | 18.00% | ~15 |
 | The Keeper of Fleed | 10.00% | ~8 |
 | The Collector | 10.00% | ~8 |
+| Gold Seeker | 7.00% | ~6 |
 | The Broken Guard | 7.00% | ~6 |
-| Gold Seeker | 6.00% | ~5 |
+| A Land of Peace | 6.00% | ~5 |
 | A Good Paint Job | 6.00% | ~5 |
 | The Planner | 6.00% | ~5 |
 | The Vega Turtle | 6.00% | ~5 |
-| A Land of Peace | 5.00% | ~4 |
 | You can't fool me! | 5.00% | ~4 |
 | The Flying Octopus | 5.00% | ~4 |
 | Iron Fist | 4.00% | ~3 |

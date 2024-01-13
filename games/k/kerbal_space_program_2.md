@@ -1,19 +1,19 @@
 # Kerbal Space Program 2
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program-2)  
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
-Rating: 4.24 (Ranked 935)  
+Rating: 4.24 (Ranked 934)  
 ## Awards
 Max (Relaxing): 49  (Ranked 462)  
-Sum: 321 (Ranked 375)  
+Sum: 324 (Ranked 375)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 49 |
 | This game is Educational | 43 |
 | This game has Diverse Characters | 41 |
-| This game has Amazing Characters | 35 |
+| This game has Amazing Characters | 36 |
+| This game is Highly Recommended | 35 |
 | This game has Quickly Understood Controls | 33 |
-| This game is Highly Recommended | 33 |
 | This game has Realistic Visuals | 32 |
 | This game is Extremely Fun | 30 |
 | This game has a Creative Community | 30 |
@@ -151,4 +151,4 @@ Diff (max vs sum): 87
 | 2024-01-10 | 4.23 | 48 | 308 |
 | 2024-01-11 | 4.24 | 48 | 312 |
 | 2024-01-12 | 4.24 | 49 | 318 |
-| 2024-01-13 | 4.24 | 49 | 321 |
+| 2024-01-13 | 4.24 | 49 | 324 |

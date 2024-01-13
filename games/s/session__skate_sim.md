@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 63.00% | ~2,316 |
+| You're free now! | 63.00% | ~2,317 |
 | Keeping it classy | 27.00% | ~993 |
 | Welcome to the family | 21.00% | ~772 |
-| The finer things in life | 19.00% | ~698 |
+| The finer things in life | 19.00% | ~699 |
 | Backpacker | 13.00% | ~478 |
 | Go with the Flow | 13.00% | ~478 |
 | The flip trick crown jewel | 10.00% | ~368 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,676 (Ranked 223)  
+Progressed: 3,677 (Ranked 223)  
 Completed: 2 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,7 +298,7 @@ Completed: 2 (0.05%) (Ranked 341)
 | 2024-01-10 | 3,653 | 2 |
 | 2024-01-11 | 3,659 | 2 |
 | 2024-01-12 | 3,666 | 2 |
-| 2024-01-13 | 3,676 | 2 |
+| 2024-01-13 | 3,677 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 64  (Ranked 427)  
 Sum: 587 (Ranked 327)  

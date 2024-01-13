@@ -11,8 +11,8 @@ Rating: 4.63 (Ranked 357)
 | Walls Cannot Stop Us | 14.00% | ~1,012 |
 | From Friends to Family | 12.00% | ~867 |
 | Bone Peddler | 11.00% | ~795 |
+| Magical Synergy | 10.00% | ~723 |
 | Full Ascension | 9.00% | ~650 |
-| Magical Synergy | 9.00% | ~650 |
 | There Can Only Be One! | 8.00% | ~578 |
 | Stronger Together | 8.00% | ~578 |
 | Seat of Power | 8.00% | ~578 |

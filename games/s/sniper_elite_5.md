@@ -5,16 +5,16 @@ Rating: 4.47 (Ranked 666)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,009 |
-| Confirming Suspicions | 42.00% | ~1,795 |
-| The Kraken Wakes | 38.00% | ~1,624 |
-| It's Starting to Crack | 35.00% | ~1,496 |
+| Meeting Resistance | 47.00% | ~2,010 |
+| Confirming Suspicions | 42.00% | ~1,796 |
+| The Kraken Wakes | 38.00% | ~1,625 |
+| It's Starting to Crack | 35.00% | ~1,497 |
 | Change the Channel | 32.00% | ~1,368 |
-| Lord of War | 31.00% | ~1,325 |
-| Taking it back | 30.00% | ~1,282 |
+| Lord of War | 31.00% | ~1,326 |
+| Taking it back | 30.00% | ~1,283 |
 | Resourceful | 28.00% | ~1,197 |
 | Target America | 28.00% | ~1,197 |
-| The Kraken Sleeps | 26.00% | ~1,111 |
+| The Kraken Sleeps | 25.00% | ~1,069 |
 | Liberté | 24.00% | ~1,026 |
 | Organ Grinder | 24.00% | ~1,026 |
 | As Quiet as a Mouse | 24.00% | ~1,026 |
@@ -30,15 +30,15 @@ Rating: 4.47 (Ranked 666)
 | Brains of the Operation | 16.00% | ~684 |
 | No Stone Unturned | 15.00% | ~641 |
 | Die Nussknacker Sweet! | 15.00% | ~641 |
-| Opposing Force | 14.00% | ~598 |
-| Enemy at the Gates | 14.00% | ~598 |
-| Fields of Glory | 14.00% | ~598 |
-| Set Europe Ablaze | 14.00% | ~598 |
-| Precision Is Key | 10.00% | ~427 |
-| My Little Friend | 10.00% | ~427 |
+| Opposing Force | 14.00% | ~599 |
+| Enemy at the Gates | 14.00% | ~599 |
+| Fields of Glory | 14.00% | ~599 |
+| Set Europe Ablaze | 14.00% | ~599 |
+| Precision Is Key | 10.00% | ~428 |
+| My Little Friend | 10.00% | ~428 |
 | Rigged to Blow | 9.00% | ~385 |
 | Herr Today, Gone Tomorrow | 7.00% | ~296 |
-| The Long Game | 6.00% | ~256 |
+| The Long Game | 6.00% | ~257 |
 | Operation Foxley | 6.00% | ~254 |
 | Strategist | 5.00% | ~214 |
 | Tinkerer | 5.00% | ~214 |
@@ -56,14 +56,14 @@ Rating: 4.47 (Ranked 666)
 | If You Go Down To The Woods Today | 3.00% | ~127 |
 | Fight Another Day | 3.00% | ~127 |
 | Shipbreaker | 3.00% | ~127 |
-| Out of Scope | 2.00% | ~85 |
-| Eagle Eyed | 2.00% | ~85 |
-| Up close and personal | 2.00% | ~85 |
-| Can't Outrun A Bullet | 2.00% | ~85 |
-| Führerious Repetition | 2.00% | ~84 |
-| Reich To The Point | 2.00% | ~84 |
-| Covert Elimination | 2.00% | ~84 |
-| Sink or Swim | 2.00% | ~84 |
+| Out of Scope | 2.00% | ~86 |
+| Eagle Eyed | 2.00% | ~86 |
+| Up close and personal | 2.00% | ~86 |
+| Can't Outrun A Bullet | 2.00% | ~86 |
+| Führerious Repetition | 2.00% | ~85 |
+| Reich To The Point | 2.00% | ~85 |
+| Covert Elimination | 2.00% | ~85 |
+| Sink or Swim | 2.00% | ~85 |
 | Best of the Best | 1.00% | ~43 |
 | Sight Beyond Sights | 1.00% | ~43 |
 | From Führer Away | 1.00% | ~42 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 666)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,274 (Ranked 213)  
+Progressed: 4,276 (Ranked 213)  
 Completed: 11 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 11 (0.26%) (Ranked 268)
 | 2024-01-10 | 4,261 | 11 |
 | 2024-01-11 | 4,268 | 11 |
 | 2024-01-12 | 4,273 | 11 |
-| 2024-01-13 | 4,274 | 11 |
+| 2024-01-13 | 4,276 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 548)  

@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 714,
+  "EOS_Progressed": 715,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2612,6 +2612,11 @@
       "Time": "2024-01-13T18:10:55.2340222+00:00",
       "NumProgressed": 714,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-13T20:09:56.6840317+00:00",
+      "NumProgressed": 715,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2623,15 +2628,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 45,
       "XP": 60,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 271
+      "UsersEstimate": 265
     },
     {
       "ID": "completeact3",
@@ -2742,7 +2747,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 714,
+      "Progressed": 715,
       "Completed": 3
     }
   ],
@@ -2750,8 +2755,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:10:03.609296+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:56.6840313+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:02.1061642+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:35.5583452+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:10:03.60932+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:57:47.6457324+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:56.6840518+00:00"
 }

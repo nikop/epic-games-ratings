@@ -1,25 +1,25 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 221)  
+Rating: 4.70 (Ranked 220)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~14,770 |
-| Finding Your Footing | 25.00% | ~13,676 |
-| Nomad | 17.00% | ~9,299 |
-| Picking Up Speed | 15.00% | ~8,205 |
-| Welcome Maya | 14.00% | ~7,658 |
-| Scout | 11.00% | ~6,017 |
-| Sightseer | 11.00% | ~6,017 |
-| Amateur | 10.00% | ~5,470 |
-| Unlock Maya | 8.00% | ~4,376 |
-| Wanderer | 8.00% | ~4,376 |
-| Enter Paz | 7.00% | ~3,829 |
-| Aviator | 5.00% | ~2,735 |
-| My Little Friend | 5.00% | ~2,735 |
-| One With The Board | 5.00% | ~2,735 |
+| Rookie | 28.00% | ~15,319 |
+| Finding Your Footing | 25.00% | ~13,678 |
+| Nomad | 17.00% | ~9,301 |
+| Picking Up Speed | 15.00% | ~8,206 |
+| Welcome Maya | 14.00% | ~7,659 |
+| Scout | 11.00% | ~6,018 |
+| Sightseer | 11.00% | ~6,018 |
+| Amateur | 10.00% | ~5,471 |
+| Unlock Maya | 8.00% | ~4,377 |
+| Wanderer | 8.00% | ~4,377 |
+| Enter Paz | 7.00% | ~3,830 |
+| Aviator | 5.00% | ~2,736 |
+| My Little Friend | 5.00% | ~2,736 |
+| One With The Board | 5.00% | ~2,736 |
 | Voyager | 4.00% | ~2,188 |
 | Junkie | 3.00% | ~1,641 |
 | Traveler | 3.00% | ~1,641 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~55 |
 | Windswept | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,702 (Ranked 123)  
+Progressed: 54,710 (Ranked 123)  
 Completed: 5 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 5 (0.01%) (Ranked 376)
 | 2024-01-10 | 54,339 | 5 |
 | 2024-01-11 | 54,454 | 5 |
 | 2024-01-12 | 54,584 | 5 |
-| 2024-01-13 | 54,702 | 5 |
+| 2024-01-13 | 54,710 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 456)  
 Sum: 397 (Ranked 359)  

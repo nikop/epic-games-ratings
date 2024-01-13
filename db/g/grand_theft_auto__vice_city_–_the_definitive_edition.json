@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16360,
+  "EOS_Progressed": 16362,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -18037,6 +18037,11 @@
       "Time": "2024-01-13T19:09:55.2207521+00:00",
       "NumProgressed": 16360,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-13T20:09:48.8778321+00:00",
+      "NumProgressed": 16362,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 34,
@@ -18152,7 +18157,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7035
+      "UsersEstimate": 7036
     },
     {
       "ID": "ACH15",
@@ -18176,7 +18181,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH18",
@@ -18208,7 +18213,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7689
+      "UsersEstimate": 7690
     },
     {
       "ID": "ACH22",
@@ -18280,7 +18285,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "ACH31",
@@ -18319,7 +18324,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16360,
+      "Progressed": 16362,
       "Completed": 98
     }
   ],
@@ -18327,8 +18332,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:55.2207519+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:48.8778316+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:12.9251558+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:59:27.9676666+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:55.2208358+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:59:36.4381204+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:48.8779879+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~6,024 |
-| Having A Field Day | 76.00% | ~6,024 |
-| Reap What You Sow | 73.00% | ~5,786 |
-| The First Day | 70.00% | ~5,548 |
+| Get A Room | 76.00% | ~6,025 |
+| Having A Field Day | 76.00% | ~6,025 |
+| Reap What You Sow | 73.00% | ~5,787 |
+| The First Day | 70.00% | ~5,549 |
 | Green Thumb | 68.00% | ~5,390 |
 | Novice Researcher | 68.00% | ~5,390 |
-| Home Cooked Meal | 62.00% | ~4,914 |
-| Onward | 58.00% | ~4,597 |
+| Home Cooked Meal | 63.00% | ~4,994 |
+| Onward | 58.00% | ~4,598 |
 | The First Week | 56.00% | ~4,439 |
 | Beam Me Up | 53.00% | ~4,201 |
 | Studious Researcher | 53.00% | ~4,201 |
 | Adept Researcher | 45.00% | ~3,567 |
-| Retribution | 43.00% | ~3,408 |
-| Putting Food on the Table | 43.00% | ~3,408 |
-| ...And Don’t Come Back! | 43.00% | ~3,408 |
+| Retribution | 43.00% | ~3,409 |
+| Putting Food on the Table | 43.00% | ~3,409 |
+| ...And Don’t Come Back! | 43.00% | ~3,409 |
 | Feast or Famine | 34.00% | ~2,695 |
 | Heating Up | 33.00% | ~2,616 |
 | Luminary Researcher | 30.00% | ~2,378 |
@@ -32,13 +32,13 @@ Number of Ratings: 706  (23.09.2022)
 | A Party Now | 22.00% | ~1,744 |
 | All Year Round | 22.00% | ~1,744 |
 | Don't Cry Wolf | 14.00% | ~1,110 |
-| Nothing Wasted | 13.00% | ~1,030 |
+| Nothing Wasted | 13.00% | ~1,031 |
 | Deerly Departed | 8.00% | ~634 |
 | Where Wolf? | 5.00% | ~396 |
 | Food Chain | 2.00% | ~159 |
 | Wabbit Season | 0.50% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,926 (Ranked 192)  
+Progressed: 7,927 (Ranked 192)  
 Completed: 14 (0.18%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,11 +285,11 @@ Completed: 14 (0.18%) (Ranked 285)
 | 2024-01-10 | 7,883 | 14 |
 | 2024-01-11 | 7,897 | 14 |
 | 2024-01-12 | 7,912 | 14 |
-| 2024-01-13 | 7,926 | 14 |
+| 2024-01-13 | 7,927 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 344)  
-Sum: 1,061 (Ranked 270)  
-Diff (max vs sum): 74  
+Sum: 1,061 (Ranked 271)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 133 |

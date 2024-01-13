@@ -6,60 +6,60 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~125,979 |
-| The Fool | 11.00% | ~115,481 |
-| Right Back At Ya | 10.00% | ~104,983 |
-| Gun Fu | 9.00% | ~94,484 |
-| The Lovers | 8.00% | ~83,986 |
-| Full Body Conversion | 7.00% | ~73,488 |
-| Christmas Tree Attack | 6.00% | ~62,990 |
-| Stanislavski's Method | 6.00% | ~62,990 |
-| The Hermit | 6.00% | ~62,990 |
-| The Wheel of Fortune | 6.00% | ~62,990 |
-| True Soldier | 6.00% | ~62,990 |
-| All the President's Men | 6.00% | ~10,707 |
-| Arachnophobia | 6.00% | ~10,707 |
-| The High Priestess | 5.00% | ~52,491 |
-| Legend of The Afterlife | 5.00% | ~52,491 |
-| Master Crafter | 4.00% | ~41,993 |
-| Life of the Road | 4.00% | ~41,993 |
-| True Warrior | 4.00% | ~41,993 |
-| Bushido and Chill | 3.00% | ~31,495 |
-| I Am The Law | 3.00% | ~31,495 |
-| The Quick and the Dead | 3.00% | ~31,495 |
-| The World | 3.00% | ~31,495 |
-| Two Heads, One Bullet | 3.00% | ~31,495 |
-| Judy vs Night City | 3.00% | ~31,495 |
-| Relic Ruler | 3.00% | ~5,353 |
-| To Protect and Serve | 2.00% | ~20,997 |
-| The Wandering Fool | 2.00% | ~20,997 |
-| The Sun | 2.00% | ~20,997 |
-| Spin Doctor | 2.00% | ~3,569 |
-| King of Wands | 2.00% | ~3,569 |
-| Easy Come, Easy Go | 2.00% | ~3,569 |
-| To Bad Decisions! | 1.00% | ~10,498 |
-| Breathtaking | 1.00% | ~10,498 |
-| Ten out of Ten | 1.00% | ~10,498 |
-| The Star | 1.00% | ~10,498 |
-| Dirty Deeds | 1.00% | ~1,784 |
-| Autojock | 0.90% | ~9,448 |
-| The APB is Not Enough | 0.90% | ~1,606 |
-| Judgement Day | 0.90% | ~1,606 |
-| The Tower | 0.90% | ~1,606 |
+| V for Vendetta | 12.00% | ~125,987 |
+| The Fool | 11.00% | ~115,488 |
+| Right Back At Ya | 10.00% | ~104,989 |
+| Gun Fu | 9.00% | ~94,490 |
+| The Lovers | 8.00% | ~83,991 |
+| Full Body Conversion | 7.00% | ~73,492 |
+| Christmas Tree Attack | 6.00% | ~62,993 |
+| Stanislavski's Method | 6.00% | ~62,993 |
+| The Hermit | 6.00% | ~62,993 |
+| The Wheel of Fortune | 6.00% | ~62,993 |
+| True Soldier | 6.00% | ~62,993 |
+| All the President's Men | 6.00% | ~10,711 |
+| Arachnophobia | 6.00% | ~10,711 |
+| The High Priestess | 5.00% | ~52,494 |
+| Legend of The Afterlife | 5.00% | ~52,494 |
+| Master Crafter | 4.00% | ~41,996 |
+| The Quick and the Dead | 4.00% | ~41,996 |
+| Life of the Road | 4.00% | ~41,996 |
+| True Warrior | 4.00% | ~41,996 |
+| Bushido and Chill | 3.00% | ~31,497 |
+| I Am The Law | 3.00% | ~31,497 |
+| The World | 3.00% | ~31,497 |
+| Two Heads, One Bullet | 3.00% | ~31,497 |
+| Judy vs Night City | 3.00% | ~31,497 |
+| Relic Ruler | 3.00% | ~5,355 |
+| To Protect and Serve | 2.00% | ~20,998 |
+| The Wandering Fool | 2.00% | ~20,998 |
+| The Sun | 2.00% | ~20,998 |
+| Spin Doctor | 2.00% | ~3,570 |
+| King of Wands | 2.00% | ~3,570 |
+| Easy Come, Easy Go | 2.00% | ~3,570 |
+| To Bad Decisions! | 1.00% | ~10,499 |
+| Breathtaking | 1.00% | ~10,499 |
+| Ten out of Ten | 1.00% | ~10,499 |
+| The Star | 1.00% | ~10,499 |
+| Dirty Deeds | 1.00% | ~1,785 |
+| Autojock | 0.90% | ~9,449 |
+| The APB is Not Enough | 0.90% | ~1,607 |
+| Judgement Day | 0.90% | ~1,607 |
+| The Tower | 0.90% | ~1,607 |
 | Must Be Rats | 0.80% | ~8,399 |
 | Temperance | 0.80% | ~8,399 |
 | King of Swords | 0.80% | ~1,428 |
-| King of Pentacles | 0.70% | ~1,249 |
-| King of Cups | 0.50% | ~892 |
-| City Lights | 0.40% | ~4,199 |
-| The Devil | 0.40% | ~4,199 |
-| The Jungle | 0.40% | ~4,199 |
-| Gunslinger | 0.30% | ~3,149 |
-| Mean Streets | 0.30% | ~3,149 |
-| Little Tokyo | 0.30% | ~3,149 |
-| The Wasteland | 0.30% | ~3,149 |
-| Greetings from Pacifica! | 0.30% | ~3,149 |
-| It's Elementary | 0.30% | ~3,149 |
+| King of Pentacles | 0.70% | ~1,250 |
+| King of Cups | 0.50% | ~893 |
+| City Lights | 0.40% | ~4,200 |
+| The Devil | 0.40% | ~4,200 |
+| The Jungle | 0.40% | ~4,200 |
+| Gunslinger | 0.30% | ~3,150 |
+| Mean Streets | 0.30% | ~3,150 |
+| Little Tokyo | 0.30% | ~3,150 |
+| The Wasteland | 0.30% | ~3,150 |
+| Greetings from Pacifica! | 0.30% | ~3,150 |
+| It's Elementary | 0.30% | ~3,150 |
 | Daemon In The Shell | 0.20% | ~2,100 |
 | Frequent Flyer | 0.10% | ~1,050 |
 | Rough Landing | 0.10% | ~1,050 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049,826 (Ranked 17)  
+Progressed: 1,049,888 (Ranked 17)  
 Completed: 3,086 (0.29%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,16 +342,16 @@ Completed: 3,086 (0.29%) (Ranked 262)
 | 2024-01-10 | 1,044,342 | 3,067 |
 | 2024-01-11 | 1,046,687 | 3,071 |
 | 2024-01-12 | 1,048,338 | 3,079 |
-| 2024-01-13 | 1,049,826 | 3,086 |
+| 2024-01-13 | 1,049,888 | 3,086 |
 ## Awards
-Max (Character Customization): 138,203  (Ranked 8)  
-Sum: 489,170 (Ranked 8)  
+Max (Character Customization): 139,040  (Ranked 8)  
+Sum: 490,224 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 138,203 |
+| This game has Inclusive Character Customization | 139,040 |
 | This game has Great Boss Battles | 103,001 |
-| This game is Great for Beginners | 31,054 |
+| This game is Great for Beginners | 31,271 |
 | This game has Diverse Characters | 30,400 |
 | This game is Highly Recommended | 29,066 |
 | This game has Amazing Storytelling | 28,532 |
@@ -722,4 +722,4 @@ Diff (max vs sum): 0
 | 2024-01-10 | 4.67 | - | 136,867 | 482,007 |
 | 2024-01-11 | 4.67 | - | 137,500 | 484,717 |
 | 2024-01-12 | 4.67 | - | 138,203 | 487,257 |
-| 2024-01-13 | 4.67 | - | 138,203 | 489,170 |
+| 2024-01-13 | 4.67 | - | 139,040 | 490,224 |

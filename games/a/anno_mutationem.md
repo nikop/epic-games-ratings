@@ -6,12 +6,12 @@ Rating: 4.55 (Ranked 529)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~638 |
-| Don't judge a manhole by its cover | 60.00% | ~510 |
-| I just love stuff! | 41.00% | ~348 |
-| Keep 'em coming! | 41.00% | ~348 |
+| Don't judge a manhole by its cover | 60.00% | ~511 |
+| I just love stuff! | 41.00% | ~349 |
+| Keep 'em coming! | 41.00% | ~349 |
 | The things they print nowadays | 39.00% | ~332 |
 | Big Spender | 38.00% | ~323 |
-| That's gotta hurt | 36.00% | ~306 |
+| That's gotta hurt | 35.00% | ~298 |
 | I think it's broke | 26.00% | ~221 |
 | The Ann Flores Combo Experience | 26.00% | ~221 |
 | Club Star | 24.00% | ~204 |
@@ -21,10 +21,10 @@ Rating: 4.55 (Ranked 529)
 | You are the One | 19.00% | ~162 |
 | Deadly Kombationem | 18.00% | ~153 |
 | The truth is out there | 16.00% | ~136 |
-| Annakin Skyscroller | 13.00% | ~110 |
+| Annakin Skyscroller | 13.00% | ~111 |
 | In the smacker...I think | 10.00% | ~85 |
-| Arm Wrestlin' | 9.00% | ~76 |
-| 1+1>2 | 9.00% | ~76 |
+| Arm Wrestlin' | 9.00% | ~77 |
+| 1+1>2 | 9.00% | ~77 |
 | This can't be right… | 8.00% | ~68 |
 | Welcome home, 06 | 8.00% | ~68 |
 | I'm walking here! | 7.00% | ~60 |
@@ -34,7 +34,7 @@ Rating: 4.55 (Ranked 529)
 | I feel secure, contained & protected | 6.00% | ~51 |
 | Science, it works! | 6.00% | ~51 |
 | The Traveler | 6.00% | ~51 |
-| Woman on a (side) mission | 5.00% | ~42 |
+| Woman on a (side) mission | 5.00% | ~43 |
 | Ann ULTRA | 3.00% | ~26 |
 | Lady Luck is a cool cat | 3.00% | ~26 |
 | SERENITY NOW | 2.00% | ~17 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 529)
 | Love me like I love my posters | 0.90% | ~8 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 310)  
+Progressed: 851 (Ranked 310)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-09 | 844 | 0 |
 | 2024-01-11 | 845 | 0 |
 | 2024-01-12 | 847 | 0 |
-| 2024-01-13 | 850 | 0 |
+| 2024-01-13 | 851 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

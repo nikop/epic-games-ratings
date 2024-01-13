@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,623 |
-| Life is your teacher | 5.00% | ~38,019 |
-| Lightning Hands | 5.00% | ~38,019 |
-| The Assault | 4.00% | ~30,415 |
+| Life is your teacher | 5.00% | ~38,020 |
+| Lightning Hands | 5.00% | ~38,020 |
+| The Assault | 4.00% | ~30,416 |
 | The Hateful Pole Fighter | 3.00% | ~22,812 |
 | Stuntmaster | 3.00% | ~22,812 |
 | Street Fighting | 3.00% | ~22,812 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,604 |
 | Kung-Fu Tussle | 1.00% | ~7,604 |
 | Project Arena | 1.00% | ~697 |
-| Fight the way you practice | 0.80% | ~557 |
+| Fight the way you practice | 0.80% | ~558 |
 | Muk Yan Master | 0.70% | ~5,323 |
 | Tiger on Fire | 0.70% | ~5,323 |
 | Detective Story | 0.70% | ~5,323 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,384 (Ranked 26)  
+Progressed: 760,391 (Ranked 26)  
 Completed: 12,985 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,10 +335,10 @@ Completed: 12,985 (1.71%) (Ranked 146)
 | 2024-01-10 | 759,091 | 12,982 |
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
-| 2024-01-13 | 760,384 | 12,985 |
+| 2024-01-13 | 760,391 | 12,985 |
 ## Awards
 Max (Great Boss Battles): 7,194  (Ranked 57)  
-Sum: 12,725 (Ranked 85)  
+Sum: 12,730 (Ranked 85)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -347,9 +347,9 @@ Diff (max vs sum): -28
 | This game has Challenging Combat | 648 |
 | This game has Amazing Storytelling | 620 |
 | This game has Amazing Characters | 617 |
-| This game is Highly Recommended | 608 |
+| This game is Highly Recommended | 610 |
 | This game has Quickly Understood Controls | 600 |
-| This game is Extremely Fun | 587 |
+| This game is Extremely Fun | 590 |
 | This game has Unique Visuals | 586 |
 | This game is Relaxing | 564 |
 | This game has a Creative Community | 436 |
@@ -717,4 +717,4 @@ Diff (max vs sum): -28
 | 2024-01-10 | 4.82 | - | 7,166 | 12,681 |
 | 2024-01-11 | 4.82 | - | 7,171 | 12,693 |
 | 2024-01-12 | 4.82 | - | 7,179 | 12,710 |
-| 2024-01-13 | 4.82 | - | 7,194 | 12,725 |
+| 2024-01-13 | 4.82 | - | 7,194 | 12,730 |

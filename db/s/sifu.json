@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8893,10 +8893,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12725,
       "NumberOfAwardsMax": 7194
+    },
+    {
+      "Time": "2024-01-13T20:03:25.7862285+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12730,
+      "NumberOfAwardsMax": 7194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12725,
+  "NumberOfAwards": 12730,
   "NumberOfAwardsMax": 7194,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8910,7 +8916,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 587
+      "Count": 590
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8964,7 +8970,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 608
+      "Count": 610
     },
     {
       "Text": "This game has a Creative Community",
@@ -8973,9 +8979,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760384,
+  "EOS_Progressed": 760391,
   "EOS_Completed": 12985,
-  "EOS_NewPlayers": 4566,
+  "EOS_NewPlayers": 4553,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33643,6 +33649,11 @@
       "Time": "2024-01-13T19:09:31.4293893+00:00",
       "NumProgressed": 760384,
       "NumCompleted": 12985
+    },
+    {
+      "Time": "2024-01-13T20:09:26.2256346+00:00",
+      "NumProgressed": 760391,
+      "NumCompleted": 12985
     }
   ],
   "TotalAchievements": 60,
@@ -33662,7 +33673,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30415
+      "UsersEstimate": 30416
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33830,7 +33841,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38019
+      "UsersEstimate": 38020
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33918,7 +33929,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38019
+      "UsersEstimate": 38020
     },
     {
       "ID": "35_WideStrike",
@@ -34118,7 +34129,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -34133,21 +34144,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69685,
+      "Progressed": 69692,
       "Completed": 10808
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760384,
+      "Progressed": 760391,
       "Completed": 12985
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-13T13:06:00.9075882+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:31.4293892+00:00",
+  "LastChanged": "2024-01-13T20:03:25.7862283+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:26.2256343+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:47.3871095+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:03:13.4007925+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:31.4295316+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:03:25.7862289+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:26.2257964+00:00"
 }

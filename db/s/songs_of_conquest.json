@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1169,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -4057,6 +4057,11 @@
       "Time": "2024-01-13T19:09:26.3459991+00:00",
       "NumProgressed": 1169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T20:09:21.3255116+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4077,7 +4082,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4093,7 +4098,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "AttackCount",
@@ -4381,7 +4386,7 @@
       "Name": "Trojan Horse",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "UltraKill",
@@ -4397,7 +4402,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "WielderLevel2",
@@ -4411,9 +4416,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 94
     },
     {
       "ID": "WielderLevel4",
@@ -4500,15 +4505,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1169,
+      "Progressed": 1171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:26.3459989+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:21.3255113+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:48.70698+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:59:23.766941+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:26.3460634+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:59:31.8159672+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:21.3255773+00:00"
 }

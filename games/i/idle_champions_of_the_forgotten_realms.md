@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,752 (Ranked 70)  
+Progressed: 253,759 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -821,7 +821,7 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-10 | 253,250 | 2,611 |
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
-| 2024-01-13 | 253,752 | 2,616 |
+| 2024-01-13 | 253,759 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,777  (Ranked 74)  
 Sum: 33,476 (Ranked 41)  

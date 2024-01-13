@@ -2,9 +2,9 @@
   "ID": "125eda42f0574d97a16a5721f10d3ea1",
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
-  "Ranking_EOS_Progress": 685,
+  "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 461,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -56,6 +56,11 @@
     {
       "Time": "2024-01-12T22:03:57.8662914+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T20:04:56.1239407+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -107,9 +112,9 @@
       "ID": "DIE",
       "SetID": "5770k2f",
       "Name": "Die",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DIFFICULTY_1",
@@ -195,17 +200,17 @@
       "ID": "KILL",
       "SetID": "5770k2f",
       "Name": "Murderer",
-      "Percentage": 67,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_0_COMPLETED",
       "SetID": "5770k2f",
       "Name": "On Your Way",
-      "Percentage": 83,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SURVIVAL_BUY_ITEM",
@@ -292,13 +297,13 @@
     {
       "ID": "5770k2f",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:04:43.2552322+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:04:56.1239404+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:07.9830278+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:58:38.8966159+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:04:43.2552669+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:58:48.838042+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:04:56.1239659+00:00"
 }

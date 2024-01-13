@@ -688,9 +688,9 @@
       "ID": "Ach_AllSlashDashUnlock",
       "SetID": "4o5gjp0",
       "Name": "Full power",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_AllSucces",
@@ -736,17 +736,17 @@
       "ID": "Ach_BossSlugMk2",
       "SetID": "4o5gjp0",
       "Name": "\u0022Ah sh*t... Here we go again!\u0022",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "Ach_BuyHut",
@@ -808,9 +808,9 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -888,9 +888,9 @@
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach_LavaDeath",
@@ -904,9 +904,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "Ach_SkullGoal",
@@ -967,8 +967,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:16.8656902+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:11.8678782+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:04.3902526+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:02:47.4322427+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:16.8657211+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:00:52.4198538+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:11.8679016+00:00"
 }

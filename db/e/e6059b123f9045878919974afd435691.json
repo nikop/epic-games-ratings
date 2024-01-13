@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1457,
+  "EOS_Progressed": 1458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3864,6 +3864,11 @@
       "Time": "2024-01-13T19:10:15.3580333+00:00",
       "NumProgressed": 1457,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T20:10:08.085168+00:00",
+      "NumProgressed": 1458,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3875,7 +3880,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3883,7 +3888,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3913,9 +3918,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 656
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -3947,7 +3952,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4123,7 +4128,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -4155,7 +4160,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4171,7 +4176,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4313,9 +4318,9 @@
       "ID": "PASS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beep Beep Boop",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 204
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_1",
@@ -4402,14 +4407,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:10:15.3580332+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:10:08.0851674+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:50.3627643+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:10:15.358091+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:58:03.3554284+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:10:08.0852706+00:00"
 }

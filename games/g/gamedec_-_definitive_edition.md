@@ -1,25 +1,25 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 898)  
+Rating: 4.28 (Ranked 899)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,744 |
-| Powergamer | 27.00% | ~69,590 |
-| Write that down | 25.00% | ~64,435 |
-| Barely scratched the surface | 25.00% | ~64,435 |
-| Guns, lots of guns | 13.00% | ~33,506 |
-| Collector | 12.00% | ~30,929 |
+| I will finish what you started | 29.00% | ~74,747 |
+| Powergamer | 27.00% | ~69,592 |
+| Write that down | 25.00% | ~64,437 |
+| Barely scratched the surface | 25.00% | ~64,437 |
+| Guns, lots of guns | 13.00% | ~33,507 |
+| Collector | 12.00% | ~30,930 |
 | Elementary! | 9.00% | ~23,197 |
-| Griever | 8.00% | ~20,619 |
-| Pumpkin Jack | 8.00% | ~20,619 |
-| Wake up! | 8.00% | ~20,619 |
+| Griever | 8.00% | ~20,620 |
+| Pumpkin Jack | 8.00% | ~20,620 |
+| Wake up! | 8.00% | ~20,620 |
 | It's honest work | 7.00% | ~18,042 |
-| Me smart | 6.00% | ~15,464 |
-| Trash compactor | 6.00% | ~15,464 |
-| Valedictorian | 6.00% | ~15,464 |
+| Me smart | 6.00% | ~15,465 |
+| Trash compactor | 6.00% | ~15,465 |
+| Valedictorian | 6.00% | ~15,465 |
 | Good listener | 5.00% | ~12,887 |
 | BOY! | 4.00% | ~10,310 |
 | Ka-ching! | 4.00% | ~10,310 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~515 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,739 (Ranked 69)  
+Progressed: 257,747 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 8 (0.00%) (Ranked 400)
 | 2024-01-10 | 257,504 | 8 |
 | 2024-01-11 | 257,575 | 8 |
 | 2024-01-12 | 257,650 | 8 |
-| 2024-01-13 | 257,739 | 8 |
+| 2024-01-13 | 257,747 | 8 |
 ## Awards
 Max (Character Customization): 98  (Ranked 385)  
 Sum: 98 (Ranked 473)  

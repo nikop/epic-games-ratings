@@ -24,22 +24,22 @@
 | Spirit of the past | 58.00% | ~338 |
 | Employee of the month | 57.00% | ~332 |
 | Law student | 55.00% | ~320 |
+| Handyman | 53.00% | ~308 |
 | Workout professional | 52.00% | ~303 |
 | Fight for life | 52.00% | ~303 |
 | Little hacker | 52.00% | ~303 |
-| Handyman | 52.00% | ~303 |
 | Champion – starter pack | 52.00% | ~303 |
 | It's good to be alive | 52.00% | ~303 |
 | Intriguing candies | 52.00% | ~303 |
+| Employee of the year | 51.00% | ~297 |
 | Own four walls | 50.00% | ~291 |
-| Employee of the year | 50.00% | ~291 |
 | Legal courier | 47.00% | ~274 |
 | Extreme neuropower! | 47.00% | ~274 |
 | Escaped from a big trouble | 45.00% | ~262 |
 | Now you are worthy | 40.00% | ~233 |
 | Fight is life | 40.00% | ~233 |
 | Guiding on the right path | 40.00% | ~233 |
-| Mysterious voice | 38.00% | ~221 |
+| Mysterious voice | 39.00% | ~227 |
 | Champion – no way back | 36.00% | ~210 |
 | No blades in the gym | 36.00% | ~210 |
 | Responsible approach | 36.00% | ~210 |

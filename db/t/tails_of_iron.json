@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4495,9 +4495,9 @@
       "ID": "DefeatAvor",
       "SetID": "9lj35g4",
       "Name": "Defeat Avor Warden of the Northern Wastes",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4583,9 +4583,9 @@
       "ID": "MysteryKingsChamber",
       "SetID": "9lj35g4",
       "Name": "Discover the mystery of the Kings Chambers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "RepairChef",
@@ -4694,8 +4694,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:03:43.5463052+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:03:56.3099176+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:03.3487718+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:51.7559114+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:03:43.5463586+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:58:04.6588571+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:03:56.3099653+00:00"
 }

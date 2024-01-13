@@ -22,11 +22,11 @@
 | The art of movement | 13.00% | ~42 |
 | Another perspective | 12.00% | ~39 |
 | Lights! Camera! Action! | 12.00% | ~39 |
+| Playtime | 10.00% | ~33 |
 | Tough conversation | 10.00% | ~33 |
+| A new way | 9.00% | ~29 |
 | First steps | 9.00% | ~29 |
-| Playtime | 9.00% | ~29 |
 | The tragedy unfolds | 9.00% | ~29 |
-| A new way | 8.00% | ~26 |
 | Breaking free | 8.00% | ~26 |
 | Heavy Burden | 7.00% | ~23 |
 | Fisherman | 7.00% | ~23 |

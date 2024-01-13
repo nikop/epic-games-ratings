@@ -333,7 +333,7 @@
   ],
   "EOS_Progressed": 1390,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4328,9 +4328,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 195
     },
     {
       "ID": "PuzzleFiend",
@@ -4537,8 +4537,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:04:17.8645336+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:04:30.9413182+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:16.5102674+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:04:17.8645911+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:57:28.6167926+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:04:30.9413845+00:00"
 }

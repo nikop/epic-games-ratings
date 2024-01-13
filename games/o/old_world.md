@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 4.00% | ~667 |
-| Play a Single Player Game | 4.00% | ~667 |
+| Settler | 4.00% | ~668 |
+| Play a Single Player Game | 4.00% | ~668 |
 | Architect | 3.00% | ~501 |
 | Explorer | 3.00% | ~501 |
 | Intrepid | 3.00% | ~501 |
@@ -72,20 +72,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 3 | 0.90% | ~150 |
 | Persian Paganism | 0.90% | ~150 |
 | Building Wonders | 0.90% | ~150 |
-| Mighty | 0.80% | ~133 |
-| Good Difficulty | 0.80% | ~133 |
-| Champions | 0.80% | ~133 |
-| Greece | 0.80% | ~133 |
-| Points Victory | 0.80% | ~133 |
-| Beloved | 0.70% | ~117 |
+| Beloved | 0.80% | ~134 |
+| Mighty | 0.80% | ~134 |
+| Good Difficulty | 0.80% | ~134 |
+| Champions | 0.80% | ~134 |
+| Statesmen | 0.80% | ~134 |
+| Temple of Solomon | 0.80% | ~134 |
+| Greece | 0.80% | ~134 |
+| Power to the People | 0.80% | ~134 |
+| Points Victory | 0.80% | ~134 |
 | Landowners | 0.70% | ~117 |
 | Patrons | 0.70% | ~117 |
-| Statesmen | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
-| Temple of Solomon | 0.70% | ~117 |
-| Power to the People | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
 | Legionary | 0.70% | ~117 |
+| Double Victory | 0.70% | ~117 |
 | Win a Single Player Game | 0.70% | ~117 |
 | Conqueror | 0.60% | ~100 |
 | Ready | 0.60% | ~100 |
@@ -101,12 +102,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
-| Double Victory | 0.60% | ~100 |
+| Ambition Victory | 0.60% | ~100 |
 | The Clergy | 0.60% | ~100 |
 | Kushite Paganism | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~83 |
 | Capable | 0.50% | ~83 |
 | Invincible | 0.50% | ~83 |
+| Lion | 0.50% | ~83 |
+| Peacemaker | 0.50% | ~83 |
 | Strong Difficulty | 0.50% | ~83 |
 | Hunters | 0.50% | ~83 |
 | Adur Burzen-Mihr | 0.50% | ~83 |
@@ -117,11 +120,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.50% | ~83 |
 | Kushite Cavalry | 0.50% | ~83 |
 | Phalangite | 0.50% | ~83 |
-| Ambition Victory | 0.50% | ~83 |
 | Kushite Pyramids | 0.50% | ~83 |
 | Devout | 0.40% | ~67 |
-| Lion | 0.40% | ~67 |
-| Peacemaker | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Babylonia | 0.40% | ~67 |
@@ -162,6 +162,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~33 |
 | Conquest Victory | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
+| Jebel Barkal | 0.20% | ~33 |
 | Royal Library | 0.20% | ~33 |
 | Yazilikaya | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
@@ -312,7 +313,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum | 0.10% | ~17 |
 | Cothon | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
-| Jebel Barkal | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,686 (Ranked 169)  
+Progressed: 16,691 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -633,7 +633,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-10 | 16,386 | 5 |
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
-| 2024-01-13 | 16,686 | 5 |
+| 2024-01-13 | 16,691 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

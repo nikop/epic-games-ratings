@@ -8,7 +8,7 @@
 | From Way Downtown | 55.00% | ~538 |
 | Makin' the Cut | 53.00% | ~519 |
 | Clean Sheet | 50.00% | ~490 |
-| Winner's Circle | 43.00% | ~421 |
+| Winner's Circle | 44.00% | ~431 |
 | Holey Moley | 42.00% | ~411 |
 | Bomb's Away | 38.00% | ~372 |
 | Competitor's Spirit | 34.00% | ~333 |
@@ -24,7 +24,7 @@
 | Victory Lap | 6.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 979 (Ranked 298)  
-Completed: 10 (1.02%) (Ranked 179)  
+Completed: 10 (1.02%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

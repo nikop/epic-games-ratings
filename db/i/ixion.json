@@ -355,7 +355,7 @@
   "Tags": [],
   "EOS_Progressed": 4178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8668,9 +8668,9 @@
       "ID": "ACH_BASE_27",
       "SetID": "92iocjf",
       "Name": "A Hunk of Junk",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_BASE_28",
@@ -9003,8 +9003,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-11T09:57:52.466446+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:04:26.3858874+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:04:39.3068118+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:25.5201636+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:59:21.4269778+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:04:26.3859608+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:59:28.6784671+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:04:39.3068898+00:00"
 }

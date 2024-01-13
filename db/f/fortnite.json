@@ -2,7 +2,7 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 898,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 828,
@@ -8468,10 +8468,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 20071676,
       "NumberOfAwardsMax": 2859596
+    },
+    {
+      "Time": "2024-01-13T19:59:35.8733606+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 20078308,
+      "NumberOfAwardsMax": 2859596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20071676,
+  "NumberOfAwards": 20078308,
   "NumberOfAwardsMax": 2859596,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -8503,7 +8509,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2443202
+      "Count": 2449834
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8535,8 +8541,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-01-13T16:59:35.4024171+00:00",
+  "LastChanged": "2024-01-13T19:59:35.8733605+00:00",
   "LastUpdate_AppInfo": "2024-01-06T21:57:33.693388+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:59:27.8494955+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:06:19.4902034+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:59:35.8733611+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:06:28.1343984+00:00"
 }

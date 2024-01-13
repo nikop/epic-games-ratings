@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,199 |
+| Just One...More...Term... | 73.00% | ~5,200 |
 | Un-Lonely Island | 44.00% | ~3,134 |
-| The Beginning of a Servantship | 43.00% | ~3,062 |
+| The Beginning of a Servantship | 43.00% | ~3,063 |
 | Trade Is My Trait | 35.00% | ~2,493 |
 | Number 18 | 23.00% | ~1,638 |
 | We Don't Have Time For That | 18.00% | ~1,282 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,122 (Ranked 198)  
+Progressed: 7,123 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 2 (0.03%) (Ranked 358)
 | 2024-01-10 | 7,069 | 2 |
 | 2024-01-11 | 7,083 | 2 |
 | 2024-01-12 | 7,100 | 2 |
-| 2024-01-13 | 7,122 | 2 |
+| 2024-01-13 | 7,123 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 372)  
-Sum: 764 (Ranked 303)  
+Sum: 765 (Ranked 303)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -328,8 +328,8 @@ Diff (max vs sum): 69
 | This game has Quickly Understood Controls | 103 |
 | This game is Extremely Fun | 97 |
 | This game has Amazing Storytelling | 97 |
+| This game is Educational | 93 |
 | This game has Amazing Characters | 92 |
-| This game is Educational | 92 |
 | This game has a Creative Community | 71 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -522,4 +522,4 @@ Diff (max vs sum): 69
 | 2024-01-10 | 4.65 | - | 107 | 759 |
 | 2024-01-11 | 4.65 | - | 107 | 760 |
 | 2024-01-12 | 4.66 | - | 107 | 764 |
-| 2024-01-13 | 4.65 | - | 107 | 764 |
+| 2024-01-13 | 4.65 | - | 107 | 765 |

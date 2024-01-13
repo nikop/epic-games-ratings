@@ -3,8 +3,8 @@
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 641,
-  "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 475,
+  "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 191,
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 641,
+  "EOS_Progressed": 643,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2270,6 +2270,11 @@
       "Time": "2024-01-13T18:10:52.74085+00:00",
       "NumProgressed": 641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-13T20:09:55.0263842+00:00",
+      "NumProgressed": 643,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2418,7 +2423,7 @@
       "Name": "Mint I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MintII",
@@ -2521,15 +2526,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 641,
+      "Progressed": 643,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:10:01.3815422+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:55.0263834+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:38.460117+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:00:43.2717638+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:10:01.3815659+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:00:49.5447201+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:55.0264223+00:00"
 }

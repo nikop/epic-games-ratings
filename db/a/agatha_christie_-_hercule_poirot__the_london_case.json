@@ -618,9 +618,9 @@
       "ID": "ACH_012",
       "SetID": "7b646ck",
       "Name": "Well-acquainted",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_013",
@@ -786,9 +786,9 @@
       "ID": "ACH_031",
       "SetID": "7b646ck",
       "Name": "Anastasia Babanin",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_032",
@@ -898,9 +898,9 @@
       "ID": "ACH_044",
       "SetID": "7b646ck",
       "Name": "Zakariya Demir",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_045",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:09:58.1380667+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:09:51.6549331+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:23.6830852+00:00",
-  "LastUpdate_Ratings": "2024-01-13T19:00:01.6072517+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:09:58.1381173+00:00"
+  "LastUpdate_Ratings": "2024-01-13T20:00:08.4944108+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:09:51.6549761+00:00"
 }

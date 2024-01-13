@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1532,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.42,
+  "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5306,6 +5306,11 @@
       "Time": "2024-01-13T18:05:28.994035+00:00",
       "NumProgressed": 1532,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-13T20:04:43.3932838+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5318,7 +5323,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -5326,7 +5331,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "_03_FinishAct1",
@@ -5334,7 +5339,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5358,7 +5363,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "_07_FinishAct3",
@@ -5382,7 +5387,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "_10_Completion_30",
@@ -5390,7 +5395,7 @@
       "Name": "Buccaneer",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "_11_Completion_40",
@@ -5398,7 +5403,7 @@
       "Name": "Seadog",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "_12_Completion_50",
@@ -5470,7 +5475,7 @@
       "Name": "Fishy Fish",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5525,7 +5530,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1532,
+      "Progressed": 1534,
       "Completed": 37
     }
   ],
@@ -5533,8 +5538,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-13T19:04:30.8150379+00:00",
+  "LastChanged_Achievements": "2024-01-13T20:04:43.3932835+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-13T18:57:59.0075206+00:00",
-  "LastUpdate_Achievements": "2024-01-13T19:04:30.8150935+00:00"
+  "LastUpdate_Ratings": "2024-01-13T19:58:12.2288323+00:00",
+  "LastUpdate_Achievements": "2024-01-13T20:04:43.3933375+00:00"
 }

@@ -41,9 +41,9 @@
 | Another one bites the iron | 33.00% | ~50 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
 | A Megapint...? | 27.00% | ~41 |
+| Your daily dose of Vitamin C. | 27.00% | ~41 |
 | Hovering around | 27.00% | ~41 |
 | Kleptomaniac | 27.00% | ~41 |
-| Your daily dose of Vitamin C. | 26.00% | ~40 |
 | You're not so Big anymore, Boi! | 25.00% | ~38 |
 | I cant stand still! | 24.00% | ~37 |
 | Slimy... yet satisfying | 23.00% | ~35 |
