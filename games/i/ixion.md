@@ -6,13 +6,13 @@ Rating: 4.59 (Ranked 453)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,423 |
-| Sputnik 2049 | 30.00% | ~1,255 |
+| Sputnik 2049 | 30.00% | ~1,256 |
 | Infinite Growth... | 28.00% | ~1,172 |
 | Without Breaking Some Eggs... | 27.00% | ~1,130 |
 | Ready for a New World | 20.00% | ~837 |
 | Space Society | 19.00% | ~795 |
 | A Thousand Strong | 19.00% | ~795 |
-| Permanent Redesigns | 17.00% | ~711 |
+| Permanent Redesigns | 17.00% | ~712 |
 | Guy de Borderlands | 15.00% | ~628 |
 | Fully Recycled | 15.00% | ~628 |
 | Ain't Nobody Got Time for That | 15.00% | ~628 |
@@ -28,9 +28,9 @@ Rating: 4.59 (Ranked 453)
 | Necessary Enhancement | 8.00% | ~335 |
 | Convenient Transport | 8.00% | ~335 |
 | Access Granted | 7.00% | ~293 |
-| Drill-dozer | 7.00% | ~293 |
 | From the Past | 7.00% | ~293 |
 | All in Good Health | 6.00% | ~251 |
+| Drill-dozer | 6.00% | ~251 |
 | Oats | 5.00% | ~209 |
 | What They Hide From Us | 5.00% | ~209 |
 | ...  in a finite world | 5.00% | ~209 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 453)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,184 (Ranked 214)  
+Progressed: 4,186 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 4,156 | 0 |
 | 2024-01-12 | 4,168 | 0 |
 | 2024-01-13 | 4,180 | 0 |
-| 2024-01-14 | 4,184 | 0 |
+| 2024-01-14 | 4,186 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

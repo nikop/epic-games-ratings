@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -781,9 +781,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4476,
+  "EOS_Progressed": 4477,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12576,6 +12576,11 @@
       "Time": "2024-01-14T08:06:04.9754941+00:00",
       "NumProgressed": 4476,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T09:04:33.7675682+00:00",
+      "NumProgressed": 4477,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12691,7 +12696,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "dragonmaster",
@@ -12771,7 +12776,7 @@
       "Name": "Fellowship Power",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "fourleafclover",
@@ -12817,9 +12822,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 1030
     },
     {
       "ID": "herewegoagain",
@@ -12923,7 +12928,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "missionsdedication",
@@ -13147,7 +13152,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "warmachinesarmy",
@@ -13179,14 +13184,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3491
+      "UsersEstimate": 3492
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4476,
+      "Progressed": 4477,
       "Completed": 2
     }
   ],
@@ -13194,8 +13199,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-13T18:00:48.4471764+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:06:04.9754938+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:04:33.7675679+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:01:02.0511757+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:06:04.9756005+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:59:25.50891+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:04:33.7676685+00:00"
 }

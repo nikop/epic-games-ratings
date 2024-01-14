@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 409,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -870,6 +870,11 @@
       "Time": "2024-01-13T01:55:34.0696109+00:00",
       "NumProgressed": 330,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T09:03:43.0708849+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -897,7 +902,7 @@
       "Name": "Bullseye",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "chameleon",
@@ -945,7 +950,7 @@
       "Name": "Look Mum I\u0027m A Detective",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "oscar_winning_performance",
@@ -969,7 +974,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "play_me_by_the_hour",
@@ -977,7 +982,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "poetent",
@@ -1001,7 +1006,7 @@
       "Name": "Show Me Some Skin",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "strong_silent_type",
@@ -1009,7 +1014,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "the_big_sleep",
@@ -1048,7 +1053,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 3
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:04:52.7191996+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:03:43.0708846+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:04:07.4078422+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:04:52.719222+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:03:11.3558587+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:03:43.0709037+00:00"
 }

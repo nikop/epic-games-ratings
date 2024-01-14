@@ -6,27 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,777 |
-| Alt+F4 | 11.00% | ~27,285 |
-| Where's that freaking Dwarf? | 9.00% | ~22,324 |
+| Sowwy! | 37.00% | ~91,780 |
+| Alt+F4 | 11.00% | ~27,286 |
+| Where's that freaking Dwarf? | 9.00% | ~22,325 |
 | Déjà vu | 8.00% | ~19,844 |
 | Sock! SOCK! | 6.00% | ~14,883 |
 | Speedrun | 6.00% | ~14,883 |
-| A beer, two curses, three companions | 5.00% | ~12,402 |
-| GG EZ | 5.00% | ~12,402 |
-| DM intervention | 5.00% | ~12,402 |
+| A beer, two curses, three companions | 5.00% | ~12,403 |
+| GG EZ | 5.00% | ~12,403 |
+| DM intervention | 5.00% | ~12,403 |
 | Way of the Wimp | 4.00% | ~9,922 |
 | The plot thickens... At the tavern | 4.00% | ~9,922 |
 | Fireproof Wizardess | 4.00% | ~9,922 |
-| Livin' in a dwarven paradise | 3.00% | ~7,441 |
-| The demons' feast | 3.00% | ~7,441 |
-| The Great Library | 3.00% | ~7,441 |
-| Torture and Sensibility | 3.00% | ~7,441 |
-| Urik's Depths | 3.00% | ~7,441 |
-| The Dungeon Master | 3.00% | ~7,441 |
-| The Woman in the High Castle | 3.00% | ~7,441 |
-| Team Building Exercise | 3.00% | ~7,441 |
-| Oh, when I'll be level 10... | 3.00% | ~7,441 |
+| Livin' in a dwarven paradise | 3.00% | ~7,442 |
+| The demons' feast | 3.00% | ~7,442 |
+| The Great Library | 3.00% | ~7,442 |
+| Torture and Sensibility | 3.00% | ~7,442 |
+| Urik's Depths | 3.00% | ~7,442 |
+| The Dungeon Master | 3.00% | ~7,442 |
+| The Woman in the High Castle | 3.00% | ~7,442 |
+| Team Building Exercise | 3.00% | ~7,442 |
+| Oh, when I'll be level 10... | 3.00% | ~7,442 |
 | Shiny and Crôm | 2.00% | ~4,961 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,961 |
 | Res Judicata | 2.00% | ~4,961 |
@@ -40,12 +40,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~4,961 |
 | I am the night | 2.00% | ~4,961 |
 | Thieves' Guild Accreditation | 2.00% | ~4,961 |
-| %#*!$*! | 1.00% | ~2,480 |
-| Dead for good | 1.00% | ~2,480 |
-| Gargantua | 1.00% | ~2,480 |
-| In Navalu's footsteps | 1.00% | ~2,480 |
-| Lëgal Legend | 1.00% | ~2,480 |
-| Material Girl | 1.00% | ~2,480 |
+| %#*!$*! | 1.00% | ~2,481 |
+| Dead for good | 1.00% | ~2,481 |
+| Gargantua | 1.00% | ~2,481 |
+| In Navalu's footsteps | 1.00% | ~2,481 |
+| Lëgal Legend | 1.00% | ~2,481 |
+| Material Girl | 1.00% | ~2,481 |
 | We come in peace | 0.90% | ~2,232 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,984 |
 | Holistic Adventuring Party | 0.70% | ~1,736 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,047 (Ranked 72)  
+Progressed: 248,054 (Ranked 72)  
 Completed: 9 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 9 (0.00%) (Ranked 400)
 | 2024-01-11 | 247,677 | 8 |
 | 2024-01-12 | 247,819 | 8 |
 | 2024-01-13 | 247,988 | 9 |
-| 2024-01-14 | 248,047 | 9 |
+| 2024-01-14 | 248,054 | 9 |
 ## Awards
 Max (Character Customization): 268  (Ranked 279)  
 Sum: 567 (Ranked 330)  

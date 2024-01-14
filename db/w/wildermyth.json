@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -172,9 +172,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1600,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2447,6 +2447,11 @@
       "Time": "2024-01-13T02:32:44.2712089+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-14T09:10:12.6137226+00:00",
+      "NumProgressed": 1600,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2456,9 +2461,9 @@
       "ID": "achievement_10DifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "We Emerge Changed",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_150Calamities",
@@ -2480,9 +2485,9 @@
       "ID": "achievement_3hookQuestsResolved",
       "SetID": "95dc8p",
       "Name": "Storied Past",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_5petsReceived",
@@ -2544,9 +2549,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 64
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2720,9 +2725,9 @@
       "ID": "completedStory_procedural",
       "SetID": "95dc8p",
       "Name": "A Story of Heroes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "completedStory_ulstryx",
@@ -2792,9 +2797,9 @@
       "ID": "theme_crow_blind20Enemies",
       "SetID": "95dc8p",
       "Name": "Fight Like a Bird",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "theme_fire_hit5EnemiesAtOnce",
@@ -2905,15 +2910,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1600,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:11:29.6339282+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:10:12.6137224+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.1596234+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:01:42.9012156+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:11:29.6339946+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:59:51.8580176+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:10:12.613771+00:00"
 }

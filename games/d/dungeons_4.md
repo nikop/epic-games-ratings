@@ -22,8 +22,8 @@ Rating: 4.76 (Ranked 134)
 | Magic Accidents | 59.00% | ~450 |
 | Trap Master | 56.00% | ~427 |
 | Minions, Minions! | 56.00% | ~427 |
+| Hard Work | 56.00% | ~427 |
 | The Big Eaty | 56.00% | ~427 |
-| Hard Work | 55.00% | ~420 |
 | “… like son” | 53.00% | ~404 |
 | YOU SHALL NOT PASS! | 51.00% | ~389 |
 | The Cathedral of Light | 49.00% | ~374 |

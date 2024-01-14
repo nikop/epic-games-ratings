@@ -5,21 +5,21 @@ Rating: 4.17 (Ranked 990)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,482 |
-| Trinity | 34.00% | ~787 |
-| The Collector | 28.00% | ~648 |
+| Break Out | 64.00% | ~1,483 |
+| Trinity | 34.00% | ~788 |
+| The Collector | 28.00% | ~649 |
 | Find Allies | 26.00% | ~602 |
 | A Taste of Wrath | 26.00% | ~602 |
+| Shatter Them All | 25.00% | ~579 |
 | Geared Up | 25.00% | ~579 |
 | Adventurer | 24.00% | ~556 |
-| Shatter Them All | 24.00% | ~556 |
 | Scholar | 24.00% | ~556 |
 | I Found It | 24.00% | ~556 |
 | Fashion Victim | 23.00% | ~533 |
 | Tributes of Caladrias | 22.00% | ~510 |
 | Stone Collection | 22.00% | ~510 |
 | Powerful Allies | 20.00% | ~463 |
-| Big Bazar | 15.00% | ~347 |
+| Big Bazar | 15.00% | ~348 |
 | Alchemist | 14.00% | ~324 |
 | Essence Blow | 13.00% | ~301 |
 | The Mentor | 11.00% | ~255 |
@@ -31,8 +31,8 @@ Rating: 4.17 (Ranked 990)
 | Shatterer | 5.00% | ~116 |
 | Clear Sight | 4.00% | ~93 |
 | Fine Feathers Make Fine Birds | 4.00% | ~93 |
-| Slayer | 3.00% | ~69 |
-| A Queen's Tale | 3.00% | ~69 |
+| Slayer | 3.00% | ~70 |
+| A Queen's Tale | 3.00% | ~70 |
 | Shardbearer | 2.00% | ~46 |
 | Flawless Victory | 2.00% | ~46 |
 | All There Is | 2.00% | ~46 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 990)
 | All That Gold | 0.70% | ~16 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,316 (Ranked 246)  
+Progressed: 2,317 (Ranked 246)  
 Completed: 3 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 3 (0.13%) (Ranked 301)
 | 2024-01-11 | 2,245 | 4 |
 | 2024-01-12 | 2,273 | 4 |
 | 2024-01-13 | 2,309 | 3 |
-| 2024-01-14 | 2,316 | 3 |
+| 2024-01-14 | 2,317 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

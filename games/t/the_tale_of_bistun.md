@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Story Begins... | 86.00% | ~24 |
+| These Blades Are Made For Swinging | 86.00% | ~24 |
 | First Blood | 86.00% | ~24 |
-| These Blades Are Made For Swinging | 82.00% | ~23 |
-| Unearth A Qanat | 75.00% | ~21 |
+| Unearth A Qanat | 79.00% | ~22 |
 | It Feels Better Than It Sounds | 71.00% | ~20 |
 | Carving A Memory | 71.00% | ~20 |
 | A Friend In Need | 68.00% | ~19 |
@@ -16,9 +16,9 @@
 | Skilled Hands | 61.00% | ~17 |
 | The Milk Canal | 61.00% | ~17 |
 | Fledgling Smithy | 61.00% | ~17 |
+| Close Encounter | 57.00% | ~16 |
 | Master Smithy | 57.00% | ~16 |
 | At One With Nature | 57.00% | ~16 |
-| Close Encounter | 54.00% | ~15 |
 | The Depths Of Darkness | 54.00% | ~15 |
 | One With The Blades | 54.00% | ~15 |
 | Heart of Oblivion | 54.00% | ~15 |
@@ -27,11 +27,11 @@
 | Shoo! Shoo! | 54.00% | ~15 |
 | Prison Break | 50.00% | ~14 |
 | I Pick You | 50.00% | ~14 |
+| Accomplished Smithy | 50.00% | ~14 |
 | Nature's Savior | 50.00% | ~14 |
 | Hammer It Home | 50.00% | ~14 |
-| Accomplished Smithy | 46.00% | ~13 |
+| The Blight's Blight | 46.00% | ~13 |
 | The Ultimate Sacrifice | 46.00% | ~13 |
-| The Blight's Blight | 43.00% | ~12 |
 | For Whom the Bell Tolls | 39.00% | ~11 |
 | Here I Am | 39.00% | ~11 |
 | Break The Cycle | 36.00% | ~10 |

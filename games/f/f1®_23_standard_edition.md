@@ -5,16 +5,16 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,469 |
-| On the Top Step | 82.00% | ~14,840 |
-| Setting up for Success | 69.00% | ~12,488 |
-| Team Orders | 67.00% | ~12,126 |
-| Engineer | 45.00% | ~8,144 |
-| Familiar Faces | 41.00% | ~7,420 |
-| Going the Extra Mile | 35.00% | ~6,334 |
-| Sharing the Love | 33.00% | ~5,972 |
-| Hitting a Season | 26.00% | ~4,705 |
-| Making History | 25.00% | ~4,524 |
+| Getting on the Step | 91.00% | ~16,473 |
+| On the Top Step | 82.00% | ~14,844 |
+| Setting up for Success | 69.00% | ~12,490 |
+| Team Orders | 67.00% | ~12,128 |
+| Engineer | 45.00% | ~8,146 |
+| Familiar Faces | 41.00% | ~7,422 |
+| Going the Extra Mile | 35.00% | ~6,336 |
+| Sharing the Love | 33.00% | ~5,974 |
+| Hitting a Season | 26.00% | ~4,707 |
+| Making History | 25.00% | ~4,526 |
 | A Dozen Pieces | 24.00% | ~4,344 |
 | Network Success | 23.00% | ~4,163 |
 | Challenge Yourself | 23.00% | ~4,163 |
@@ -49,13 +49,13 @@ Rating: 4.64 (Ranked 343)
 | Filling in the Gaps | 1.00% | ~181 |
 | Media Darling | 1.00% | ~181 |
 | Saturday Night Drama | 0.90% | ~163 |
-| Under the Microscope | 0.50% | ~90 |
+| Under the Microscope | 0.50% | ~91 |
 | Ultimate Collector | 0.30% | ~54 |
 | Golden Touch | 0.20% | ~36 |
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,098 (Ranked 163)  
+Progressed: 18,102 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 17,785 | 0 |
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
-| 2024-01-14 | 18,098 | 0 |
+| 2024-01-14 | 18,102 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 424)  
 Sum: 429 (Ranked 350)  

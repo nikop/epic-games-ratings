@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2611,9 +2611,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 427
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2964,8 +2964,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:10:28.6017554+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:09:28.4734403+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:58:17.5912344+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:10:28.6018232+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:57:33.6170059+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:09:28.4734937+00:00"
 }

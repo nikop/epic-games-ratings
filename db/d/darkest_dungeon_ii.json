@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10848,9 +10848,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132754,
+  "EOS_Progressed": 132758,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39793,6 +39793,11 @@
       "Time": "2024-01-14T08:11:14.5909971+00:00",
       "NumProgressed": 132754,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T09:10:01.1755112+00:00",
+      "NumProgressed": 132758,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40156,7 +40161,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10620
+      "UsersEstimate": 10621
     },
     {
       "ID": "hero_story_complete_all",
@@ -40324,7 +40329,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -40332,7 +40337,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -40340,7 +40345,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "combat_kill_collector",
@@ -40388,7 +40393,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40396,7 +40401,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "quest_complete_crusader",
@@ -40435,21 +40440,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132754,
+      "Progressed": 132758,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7623,
+      "Progressed": 7627,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T06:57:33.4610936+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:11:14.5909968+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:10:01.175511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:58:11.2906221+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:11:14.5911774+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:57:29.6578336+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:10:01.1757151+00:00"
 }

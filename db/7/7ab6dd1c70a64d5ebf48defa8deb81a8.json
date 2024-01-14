@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2316,
+  "EOS_Progressed": 2317,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2024-01-14T07:10:18.2040321+00:00",
       "NumProgressed": 2316,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T09:10:09.8238399+00:00",
+      "NumProgressed": 2317,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4523,7 +4528,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "ACH_02",
@@ -4595,7 +4600,7 @@
       "Name": "Trinity",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_11",
@@ -4657,9 +4662,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_19",
@@ -4667,7 +4672,7 @@
       "Name": "Slayer",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_20",
@@ -4683,7 +4688,7 @@
       "Name": "Big Bazar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_22",
@@ -4779,7 +4784,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_35",
@@ -4795,7 +4800,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_38",
@@ -4810,7 +4815,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2316,
+      "Progressed": 2317,
       "Completed": 3
     }
   ],
@@ -4818,8 +4823,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-13T14:58:03.8260489+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:11:26.1650449+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:10:09.8238396+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:59:29.6241107+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:11:26.1650951+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:21.5621588+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:10:09.8238882+00:00"
 }

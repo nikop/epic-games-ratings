@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257791,
+  "EOS_Progressed": 257795,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30691,6 +30691,11 @@
       "Time": "2024-01-14T07:05:10.0747308+00:00",
       "NumProgressed": 257791,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T09:05:12.8202575+00:00",
+      "NumProgressed": 257795,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30702,7 +30707,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69604
+      "UsersEstimate": 69605
     },
     {
       "ID": "ACH_AON",
@@ -30782,7 +30787,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23201
+      "UsersEstimate": 23202
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -30846,7 +30851,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74759
+      "UsersEstimate": 74761
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -30918,7 +30923,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64448
+      "UsersEstimate": 64449
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -30974,7 +30979,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18045
+      "UsersEstimate": 18046
     },
     {
       "ID": "ACH_MEMESMART",
@@ -30982,7 +30987,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "ACH_MEMORY5",
@@ -31006,7 +31011,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20623
+      "UsersEstimate": 20624
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -31014,7 +31019,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20623
+      "UsersEstimate": 20624
     },
     {
       "ID": "ACH_SCRATCH",
@@ -31022,7 +31027,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64448
+      "UsersEstimate": 64449
     },
     {
       "ID": "ACH_SOREAD",
@@ -31070,7 +31075,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "ACH_TROLLKING",
@@ -31086,7 +31091,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "ACH_WAKEUP",
@@ -31094,7 +31099,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20623
+      "UsersEstimate": 20624
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -31117,7 +31122,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257791,
+      "Progressed": 257795,
       "Completed": 8
     }
   ],
@@ -31125,8 +31130,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:07:00.862949+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:05:12.8202572+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:01:26.37459+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:07:00.8631427+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:59:41.8504776+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:05:12.8203984+00:00"
 }

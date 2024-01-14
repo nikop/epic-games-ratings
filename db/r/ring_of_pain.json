@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242924,
+  "EOS_Progressed": 242928,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31771,6 +31771,11 @@
       "Time": "2024-01-14T08:11:36.1006486+00:00",
       "NumProgressed": 242924,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T09:10:17.9359349+00:00",
+      "NumProgressed": 242928,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31814,7 +31819,7 @@
       "Name": "First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4858
+      "UsersEstimate": 4859
     },
     {
       "ID": "CURSE1HP",
@@ -32252,9 +32257,9 @@
       "ID": "KILLCOMPULSION",
       "SetID": "5l8oe0h",
       "Name": "All Consuming",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1458
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -32276,9 +32281,9 @@
       "ID": "KILLNICEDOG",
       "SetID": "5l8oe0h",
       "Name": "Heartless",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2429
     },
     {
       "ID": "KILLPARANOIA",
@@ -32885,13 +32890,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242924,
+      "Progressed": 242928,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4404,
+      "Progressed": 4408,
       "Completed": 425
     }
   ],
@@ -32899,8 +32904,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:11:36.1006481+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:10:17.9359345+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:01:50.0656733+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:11:36.1009596+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:59:56.4863363+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:10:17.9361896+00:00"
 }

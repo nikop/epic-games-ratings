@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2752,
+  "EOS_Progressed": 2753,
   "EOS_Completed": 205,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 35,
@@ -7262,6 +7262,11 @@
       "Time": "2024-01-14T07:05:22.5270919+00:00",
       "NumProgressed": 2752,
       "NumCompleted": 205
+    },
+    {
+      "Time": "2024-01-14T09:05:24.9337059+00:00",
+      "NumProgressed": 2753,
+      "NumCompleted": 205
     }
   ],
   "TotalAchievements": 25,
@@ -7321,7 +7326,7 @@
       "Name": "Open door",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7337,7 +7342,7 @@
       "Name": "Feels like springtime",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7369,7 +7374,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7472,7 +7477,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2752,
+      "Progressed": 2753,
       "Completed": 205
     }
   ],
@@ -7480,8 +7485,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:07:18.3156144+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:05:24.9337056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:59:06.747021+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:07:18.3156681+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:06.4822927+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:05:24.9337508+00:00"
 }

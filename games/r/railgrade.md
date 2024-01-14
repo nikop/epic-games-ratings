@@ -5,14 +5,14 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 108.00% | ~19,210 |
-| Before the Downfall | 102.00% | ~18,143 |
-| Money like Water | 100.00% | ~17,787 |
-| Minimalist | 99.00% | ~17,609 |
-| Builder | 91.00% | ~16,186 |
-| Eraser | 77.00% | ~13,696 |
-| Pocket of Trains | 72.00% | ~12,807 |
-| Inspector | 65.00% | ~11,562 |
+| Trevithick's Legacy | 108.00% | ~19,209 |
+| Before the Downfall | 102.00% | ~18,142 |
+| Money like Water | 100.00% | ~17,786 |
+| Minimalist | 99.00% | ~17,608 |
+| Builder | 91.00% | ~16,185 |
+| Eraser | 77.00% | ~13,695 |
+| Pocket of Trains | 72.00% | ~12,806 |
+| Inspector | 65.00% | ~11,561 |
 | Going the Distance | 59.00% | ~10,494 |
 | Oil Baron | 46.00% | ~8,182 |
 | Loads-a-Money | 46.00% | ~8,182 |
@@ -20,16 +20,16 @@ Rating: 4.55 (Ranked 528)
 | Simplification | 37.00% | ~6,581 |
 | Box of Trains | 37.00% | ~6,581 |
 | Let There be Light | 36.00% | ~6,403 |
-| Hot Water | 34.00% | ~6,048 |
+| Hot Water | 34.00% | ~6,047 |
 | Indecisive | 32.00% | ~5,692 |
 | The scenic route | 30.00% | ~5,336 |
 | Industrialist | 28.00% | ~4,980 |
-| Perfectionist | 26.00% | ~4,625 |
-| 8K is Enough for Everyone | 25.00% | ~4,447 |
-| Trains over Pipes | 25.00% | ~4,447 |
-| Man of Steel | 18.00% | ~3,202 |
+| Perfectionist | 26.00% | ~4,624 |
+| 8K is Enough for Everyone | 25.00% | ~4,446 |
+| Trains over Pipes | 25.00% | ~4,446 |
+| Man of Steel | 18.00% | ~3,201 |
 | Room Full of Trains | 14.00% | ~2,490 |
-| Investor | 11.00% | ~1,957 |
+| Investor | 11.00% | ~1,956 |
 | Multiverse | 8.00% | ~1,423 |
 | The poor groundwater levels | 8.00% | ~1,423 |
 | Metropolis | 8.00% | ~1,423 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 528)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,787 (Ranked 165)  
+Progressed: 17,786 (Ranked 165)  
 Completed: 23 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |

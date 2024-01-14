@@ -25,10 +25,10 @@
 | "Gonk? Gonk!" | 5.00% | ~147 |
 | Judge me by my size, do you? | 5.00% | ~147 |
 | Distinguished | 4.00% | ~118 |
+| A tremor in the Force | 4.00% | ~118 |
 | Impressive. Most impressive. | 4.00% | ~118 |
 | Not bad for a little furball | 4.00% | ~118 |
 | Support the troops | 4.00% | ~118 |
-| A tremor in the Force | 3.00% | ~88 |
 | Safety ain't the point of a joyride | 3.00% | ~88 |
 | Patience you must have | 3.00% | ~88 |
 | The Force is strong with this one | 2.00% | ~59 |

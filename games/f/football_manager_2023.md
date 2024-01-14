@@ -1,40 +1,40 @@
 # Football Manager 2023
 [Store](https://store.epicgames.com/en-US/p/football-manager-2023)  
 [View Rawdata](../../db/f/football_manager_2023.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 151)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~256,314 |
-| The Player Whisperer | 68.00% | ~252,600 |
-| One of Us, One of Us! | 62.00% | ~230,311 |
-| Clean Sheet | 55.00% | ~204,309 |
-| First Victory | 55.00% | ~204,309 |
-| #DoneDeal | 54.00% | ~200,594 |
-| Off the Books | 52.00% | ~193,164 |
-| Super-Sub | 52.00% | ~193,164 |
-| Hat-trick | 47.00% | ~174,591 |
-| Planned Signing | 44.00% | ~163,447 |
-| "I Would Love It If We Beat Them" | 43.00% | ~159,732 |
-| Scoring Streak | 41.00% | ~152,303 |
-| Wheeler Dealer | 41.00% | ~152,303 |
-| Thumping | 40.00% | ~148,588 |
-| People Pleaser | 39.00% | ~144,873 |
+| Motivational Speaker | 69.00% | ~256,316 |
+| The Player Whisperer | 68.00% | ~252,601 |
+| One of Us, One of Us! | 62.00% | ~230,313 |
+| Clean Sheet | 55.00% | ~204,310 |
+| First Victory | 55.00% | ~204,310 |
+| #DoneDeal | 54.00% | ~200,595 |
+| Off the Books | 52.00% | ~193,165 |
+| Super-Sub | 52.00% | ~193,165 |
+| Hat-trick | 47.00% | ~174,592 |
+| Planned Signing | 44.00% | ~163,448 |
+| "I Would Love It If We Beat Them" | 43.00% | ~159,733 |
+| Scoring Streak | 41.00% | ~152,304 |
+| Wheeler Dealer | 41.00% | ~152,304 |
+| Thumping | 40.00% | ~148,589 |
+| People Pleaser | 39.00% | ~144,874 |
 | Unbeatable! | 38.00% | ~141,159 |
-| One Of Our Own | 37.00% | ~137,444 |
-| They're a Natural | 32.00% | ~118,870 |
-| Record Signing | 32.00% | ~118,870 |
+| One Of Our Own | 37.00% | ~137,445 |
+| They're a Natural | 32.00% | ~118,871 |
+| Record Signing | 32.00% | ~118,871 |
 | Team Performance | 31.00% | ~115,156 |
-| Star Player | 30.00% | ~111,441 |
-| The Only Stat That Matters | 30.00% | ~111,441 |
+| Star Player | 30.00% | ~111,442 |
+| The Only Stat That Matters | 30.00% | ~111,442 |
 | Parked The Bus | 28.00% | ~104,012 |
 | Full Faith | 28.00% | ~104,012 |
 | Goal Rush | 28.00% | ~104,012 |
 | Squad Goals | 28.00% | ~104,012 |
 | The People's Champion | 28.00% | ~104,012 |
 | Beating Expectations | 27.00% | ~100,297 |
-| Unstoppable Force | 26.00% | ~96,582 |
-| Record Sale | 26.00% | ~96,582 |
+| Unstoppable Force | 26.00% | ~96,583 |
+| Record Sale | 26.00% | ~96,583 |
 | You're on Fire | 25.00% | ~92,868 |
 | Tremendous Trio | 25.00% | ~92,868 |
 | On a Roll | 24.00% | ~89,153 |
@@ -42,18 +42,18 @@ Rating: 4.75 (Ranked 150)
 | Flavour Of The Month | 24.00% | ~89,153 |
 | The Special One | 24.00% | ~89,153 |
 | Shots For Days | 24.00% | ~89,153 |
-| What A Goal! | 23.00% | ~85,438 |
-| Goal Machine | 22.00% | ~81,723 |
+| What A Goal! | 23.00% | ~85,439 |
+| Goal Machine | 22.00% | ~81,724 |
 | Immovable Object | 21.00% | ~78,009 |
 | Cup Glory! | 21.00% | ~78,009 |
 | Splashing the Cash | 20.00% | ~74,294 |
 | Irresistible Force | 18.00% | ~66,865 |
 | Do The Double | 17.00% | ~63,150 |
 | Cash to Burn | 17.00% | ~63,150 |
-| Window Shopping | 15.00% | ~55,720 |
+| Window Shopping | 15.00% | ~55,721 |
 | Top Form | 14.00% | ~52,006 |
 | A Game of Two Halves | 13.00% | ~48,291 |
-| You're Up! | 12.00% | ~44,576 |
+| You're Up! | 12.00% | ~44,577 |
 | Money, Money, Money | 11.00% | ~40,862 |
 | Superb Strike | 9.00% | ~33,432 |
 | Best in the World | 9.00% | ~33,432 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 150)
 | 200 Club | 0.10% | ~371 |
 | Draft Value | 0.10% | ~371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,470 (Ranked 57)  
+Progressed: 371,472 (Ranked 57)  
 Completed: 30 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 30 (0.01%) (Ranked 376)
 | 2024-01-11 | 371,061 | 30 |
 | 2024-01-12 | 371,234 | 30 |
 | 2024-01-13 | 371,433 | 30 |
-| 2024-01-14 | 371,470 | 30 |
+| 2024-01-14 | 371,472 | 30 |
 ## Awards
 Max (Diverse Characters): 1,372  (Ranked 143)  
 Sum: 9,383 (Ranked 99)  

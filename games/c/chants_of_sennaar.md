@@ -22,16 +22,16 @@ Rating: 4.85 (Ranked 39)
 | Rascal | 27.00% | ~743 |
 | In this together | 26.00% | ~716 |
 | Champollion | 26.00% | ~716 |
-| Open door | 22.00% | ~605 |
-| Feels like springtime | 22.00% | ~605 |
-| Alchemists Express | 22.00% | ~605 |
+| Open door | 22.00% | ~606 |
+| Feels like springtime | 22.00% | ~606 |
+| Alchemists Express | 22.00% | ~606 |
 | Free at last | 19.00% | ~523 |
 | A Link to the Past | 17.00% | ~468 |
 | A great audience | 15.00% | ~413 |
 | For its own good | 15.00% | ~413 |
 | Fashion victim | 10.00% | ~275 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,752 (Ranked 235)  
+Progressed: 2,753 (Ranked 235)  
 Completed: 205 (7.45%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 205 (7.45%) (Ranked 57)
 | 2024-01-11 | 2,694 | 196 |
 | 2024-01-12 | 2,719 | 200 |
 | 2024-01-13 | 2,740 | 204 |
-| 2024-01-14 | 2,752 | 205 |
+| 2024-01-14 | 2,753 | 205 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

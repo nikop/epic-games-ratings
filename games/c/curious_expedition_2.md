@@ -1,34 +1,34 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.74 (Ranked 167)  
+Rating: 4.74 (Ranked 166)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 65.00% | ~279 |
+| The Adventure Begins | 64.00% | ~275 |
 | Cartographer | 58.00% | ~249 |
 | A Strange Artefact | 54.00% | ~232 |
 | Insomnia | 48.00% | ~206 |
-| Lost & Found & Lost Again | 43.00% | ~184 |
-| From Whence we Came | 43.00% | ~184 |
+| Lost & Found & Lost Again | 43.00% | ~185 |
+| From Whence we Came | 43.00% | ~185 |
 | Fire and Flood | 41.00% | ~176 |
 | Spooky! | 38.00% | ~163 |
-| Treasure Hunt | 36.00% | ~154 |
+| Treasure Hunt | 36.00% | ~155 |
 | Shennong Herbalist | 35.00% | ~150 |
 | Good Mama | 33.00% | ~142 |
-| O Captain My Captain | 32.00% | ~137 |
+| O Captain My Captain | 32.00% | ~138 |
 | Plunderer | 30.00% | ~129 |
 | Taxonomist | 27.00% | ~116 |
 | Traveller | 26.00% | ~112 |
-| Uncertain Loyalties | 25.00% | ~107 |
+| Uncertain Loyalties | 25.00% | ~108 |
 | Roll to Save | 23.00% | ~99 |
 | Nahua Seeker | 23.00% | ~99 |
-| Veteran Explorer | 22.00% | ~94 |
+| Veteran Explorer | 22.00% | ~95 |
 | Red Flag Pirate | 20.00% | ~86 |
 | Iron Man | 17.00% | ~73 |
 | A Gentle Beast | 17.00% | ~73 |
-| Practical Palaeontology | 16.00% | ~69 |
+| Practical Palaeontology | 17.00% | ~73 |
 | Adventurer | 15.00% | ~64 |
 | For the Club! | 15.00% | ~64 |
 | Shortening of the Way | 15.00% | ~64 |
@@ -38,7 +38,7 @@ Number of Ratings: 20  (23.09.2022)
 | And Here Is Your Statue | 13.00% | ~56 |
 | Discovery | 13.00% | ~56 |
 | Plays Well With Others | 13.00% | ~56 |
-| Very Classy | 12.00% | ~51 |
+| Very Classy | 12.00% | ~52 |
 | Under the Table | 11.00% | ~47 |
 | It's Complicated | 10.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~39 |
@@ -49,10 +49,10 @@ Number of Ratings: 20  (23.09.2022)
 | Zookeeper | 7.00% | ~30 |
 | SCHMETTERLING | 7.00% | ~30 |
 | The Workshop | 6.00% | ~26 |
-| Islander Understanding | 5.00% | ~21 |
-| A Paris Sunset | 5.00% | ~21 |
-| The Director Perseveres | 5.00% | ~21 |
-| The Round Table | 5.00% | ~21 |
+| Islander Understanding | 5.00% | ~22 |
+| A Paris Sunset | 5.00% | ~22 |
+| The Director Perseveres | 5.00% | ~22 |
+| The Round Table | 5.00% | ~22 |
 | Frugal | 4.00% | ~17 |
 | I Set Forth Again... and Again... and Again... | 4.00% | ~17 |
 | A Familiar Figure | 3.00% | ~13 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429 (Ranked 367)  
+Progressed: 430 (Ranked 367)  
 Completed: 1 (0.23%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 1 (0.23%) (Ranked 273)
 | 2024-01-10 | 427 | 1 |
 | 2024-01-11 | 428 | 1 |
 | 2024-01-12 | 429 | 1 |
+| 2024-01-14 | 430 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4023,9 +4023,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33629,
+  "EOS_Progressed": 33631,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25483,6 +25483,11 @@
       "Time": "2024-01-14T08:10:01.9578447+00:00",
       "NumProgressed": 33629,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-14T09:09:09.4237167+00:00",
+      "NumProgressed": 33631,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25534,7 +25539,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Collect_Spores",
@@ -25542,7 +25547,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Collector",
@@ -25630,7 +25635,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "GB_In_Training",
@@ -25830,7 +25835,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Terrifying",
@@ -25854,7 +25859,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Tobins_Prodigy",
@@ -25878,7 +25883,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Welcome_Crew",
@@ -25901,7 +25906,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33629,
+      "Progressed": 33631,
       "Completed": 71
     }
   ],
@@ -25909,8 +25914,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:10:01.9578444+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:09:09.4237163+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:03:31.1757762+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:10:01.9579686+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:02:44.5452709+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:09:09.4238495+00:00"
 }

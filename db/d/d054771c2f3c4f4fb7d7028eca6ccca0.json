@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4105,
+  "EOS_Progressed": 4106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4919,6 +4919,11 @@
       "Time": "2024-01-14T08:08:41.5605436+00:00",
       "NumProgressed": 4105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T09:06:23.3998356+00:00",
+      "NumProgressed": 4106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4995,7 +5000,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -5131,7 +5136,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1847
+      "UsersEstimate": 1848
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5306,14 +5311,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4105,
+      "Progressed": 4106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:08:41.5605432+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:06:23.3998352+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:59:28.8714728+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:08:41.5606043+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:20.977034+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:06:23.3999015+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,229 |
-| Realm Estate | 16.00% | ~1,157 |
+| Secret Technique | 17.00% | ~1,230 |
+| Realm Estate | 16.00% | ~1,158 |
 | A Wonderful Discovery | 15.00% | ~1,085 |
-| Walls Cannot Stop Us | 14.00% | ~1,012 |
+| Walls Cannot Stop Us | 14.00% | ~1,013 |
 | From Friends to Family | 12.00% | ~868 |
 | Bone Peddler | 11.00% | ~796 |
-| Magical Synergy | 10.00% | ~723 |
+| Magical Synergy | 10.00% | ~724 |
 | Full Ascension | 9.00% | ~651 |
 | There Can Only Be One! | 8.00% | ~579 |
 | Stronger Together | 8.00% | ~579 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,232 (Ranked 197)  
+Progressed: 7,235 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
-| 2024-01-14 | 7,232 | 8 |
+| 2024-01-14 | 7,235 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 238 (Ranked 407)  

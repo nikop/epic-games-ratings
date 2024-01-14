@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.25,
+  "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1334,6 +1334,11 @@
       "Time": "2024-01-13T16:10:34.65466+00:00",
       "NumProgressed": 308,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T09:10:02.7813636+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1410,7 +1415,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "creepytaleach6",
@@ -1424,9 +1429,9 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "creepytaleach8",
@@ -1449,14 +1454,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 10
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:11:16.764674+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:10:02.7813634+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:57.0912092+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:59:09.0323508+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:11:16.7647087+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:07.9827445+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:10:02.7813777+00:00"
 }

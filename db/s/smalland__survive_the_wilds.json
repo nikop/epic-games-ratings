@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -429,9 +429,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21350,
+  "EOS_Progressed": 21351,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10669,6 +10669,11 @@
       "Time": "2024-01-13T19:09:55.6759871+00:00",
       "NumProgressed": 21350,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-14T09:09:57.7143126+00:00",
+      "NumProgressed": 21351,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -10696,7 +10701,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "FirstTame",
@@ -10744,7 +10749,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "PickupKey",
@@ -10783,7 +10788,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21350,
+      "Progressed": 21351,
       "Completed": 18
     }
   ],
@@ -10791,8 +10796,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2024-01-09T21:57:23.548781+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:11:09.6567281+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:09:57.7143122+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:16.2240641+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:01:15.5661212+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:11:09.656832+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:59:35.6051486+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:09:57.7143652+00:00"
 }

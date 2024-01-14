@@ -38,6 +38,7 @@
 | Forest Expert | 0.60% | ~1 |
 | Ancient Powers | 0.60% | ~1 |
 | Wizard | 0.60% | ~1 |
+| Wayseeker | 0.60% | ~1 |
 | Pathfinder | 0.60% | ~1 |
 | Globetrotter | 0.60% | ~1 |
 | Unveiling the Truth | 0.60% | ~1 |
@@ -49,7 +50,6 @@
 | Fashionista | 0.00% | ~0 |
 | Knowledge is King | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
-| Wayseeker | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |

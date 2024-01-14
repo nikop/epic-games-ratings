@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,338 |
-| Finding Your Footing | 25.00% | ~13,694 |
-| Nomad | 17.00% | ~9,312 |
-| Picking Up Speed | 15.00% | ~8,217 |
-| Welcome Maya | 14.00% | ~7,669 |
-| Scout | 12.00% | ~6,573 |
+| Rookie | 28.00% | ~15,340 |
+| Finding Your Footing | 25.00% | ~13,696 |
+| Nomad | 17.00% | ~9,313 |
+| Picking Up Speed | 15.00% | ~8,218 |
+| Welcome Maya | 14.00% | ~7,670 |
+| Scout | 12.00% | ~6,574 |
 | Sightseer | 11.00% | ~6,026 |
 | Amateur | 10.00% | ~5,478 |
-| Unlock Maya | 8.00% | ~4,382 |
-| Wanderer | 8.00% | ~4,382 |
-| Enter Paz | 7.00% | ~3,834 |
+| Unlock Maya | 8.00% | ~4,383 |
+| Wanderer | 8.00% | ~4,383 |
+| Enter Paz | 7.00% | ~3,835 |
 | Aviator | 5.00% | ~2,739 |
 | My Little Friend | 5.00% | ~2,739 |
 | One With The Board | 5.00% | ~2,739 |
 | Voyager | 4.00% | ~2,191 |
-| Junkie | 3.00% | ~1,643 |
-| Traveler | 3.00% | ~1,643 |
-| Unlock Paz | 3.00% | ~1,643 |
-| Human Flight | 3.00% | ~1,643 |
-| Sandboarder | 3.00% | ~1,643 |
-| Izel Has Arrived | 3.00% | ~1,643 |
+| Junkie | 3.00% | ~1,644 |
+| Traveler | 3.00% | ~1,644 |
+| Unlock Paz | 3.00% | ~1,644 |
+| Human Flight | 3.00% | ~1,644 |
+| Sandboarder | 3.00% | ~1,644 |
+| Izel Has Arrived | 3.00% | ~1,644 |
 | Explorer | 2.00% | ~1,096 |
 | Pro | 2.00% | ~1,096 |
 | Journeyer | 2.00% | ~1,096 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~55 |
 | Windswept | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,778 (Ranked 123)  
+Progressed: 54,784 (Ranked 123)  
 Completed: 5 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 5 (0.01%) (Ranked 376)
 | 2024-01-11 | 54,454 | 5 |
 | 2024-01-12 | 54,584 | 5 |
 | 2024-01-13 | 54,736 | 5 |
-| 2024-01-14 | 54,778 | 5 |
+| 2024-01-14 | 54,784 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 456)  
 Sum: 397 (Ranked 360)  

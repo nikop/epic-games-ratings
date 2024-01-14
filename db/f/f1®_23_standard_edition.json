@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1485,9 +1485,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18098,
+  "EOS_Progressed": 18102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1793,
+  "EOS_NewPlayers": 1786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11625,6 +11625,11 @@
       "Time": "2024-01-14T08:05:12.5787506+00:00",
       "NumProgressed": 18098,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T09:03:57.5274746+00:00",
+      "NumProgressed": 18102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -11653,7 +11658,7 @@
       "Name": "Under the Microscope",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_0004",
@@ -11677,7 +11682,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 12488
+      "UsersEstimate": 12490
     },
     {
       "ID": "achievement_0007",
@@ -11685,7 +11690,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16469
+      "UsersEstimate": 16473
     },
     {
       "ID": "achievement_0008",
@@ -11693,7 +11698,7 @@
       "Name": "On the Top Step",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 14840
+      "UsersEstimate": 14844
     },
     {
       "ID": "achievement_0009",
@@ -11757,7 +11762,7 @@
       "Name": "Hitting a Season",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4707
     },
     {
       "ID": "achievement_0017",
@@ -11797,7 +11802,7 @@
       "Name": "Team Orders",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12126
+      "UsersEstimate": 12128
     },
     {
       "ID": "achievement_0022",
@@ -11813,7 +11818,7 @@
       "Name": "Sharing the Love",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5972
+      "UsersEstimate": 5974
     },
     {
       "ID": "achievement_0024",
@@ -11893,7 +11898,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8144
+      "UsersEstimate": 8146
     },
     {
       "ID": "achievement_0034",
@@ -11973,7 +11978,7 @@
       "Name": "Familiar Faces",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7420
+      "UsersEstimate": 7422
     },
     {
       "ID": "achievement_0044",
@@ -11981,7 +11986,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6334
+      "UsersEstimate": 6336
     },
     {
       "ID": "achievement_0045",
@@ -11989,7 +11994,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4524
+      "UsersEstimate": 4526
     },
     {
       "ID": "achievement_0046",
@@ -12028,7 +12033,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18098,
+      "Progressed": 18102,
       "Completed": 0
     }
   ],
@@ -12036,8 +12041,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-13T11:59:21.1549245+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:05:12.5787502+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:03:57.5274741+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:00:07.8339217+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:05:12.5788282+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:47.2412684+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:03:57.5275422+00:00"
 }

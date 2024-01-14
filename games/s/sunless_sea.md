@@ -10,7 +10,7 @@ Number of Ratings: 401  (23.09.2022)
 | Sweet Sorrow | 18.00% | ~7,958 |
 | Rules the Waves | 17.00% | ~7,516 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,632 |
-| Rival | 14.00% | ~6,189 |
+| Rival | 14.00% | ~6,190 |
 | Correspondent | 12.00% | ~5,305 |
 | Lose Your Mind | 12.00% | ~5,305 |
 | Sound Mind? | 12.00% | ~5,305 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | Open Your Ears | 7.00% | ~3,095 |
 | The Ascent of Man | 7.00% | ~3,095 |
 | Salvager | 6.00% | ~2,653 |
-| Zee Fever | 5.00% | ~2,210 |
+| Zee Fever | 5.00% | ~2,211 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,768 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,768 |
 | Storm's Curse | 3.00% | ~1,326 |
@@ -35,7 +35,6 @@ Number of Ratings: 401  (23.09.2022)
 | Frightful, sheer, no-man-fathomed | 1.00% | ~442 |
 | The Bell Tolls | 1.00% | ~442 |
 | Knife, Cup and Bone | 1.00% | ~442 |
-| Rosewater sailor | 1.00% | ~442 |
 | A current under zee | 1.00% | ~442 |
 | Never Stop Sinking... | 0.90% | ~398 |
 | His bones in whispers | 0.90% | ~398 |
@@ -44,6 +43,7 @@ Number of Ratings: 401  (23.09.2022)
 | Thanks for all the fish | 0.90% | ~398 |
 | Those are pearls that were his eyes | 0.90% | ~398 |
 | No regrets | 0.90% | ~398 |
+| Rosewater sailor | 0.90% | ~398 |
 | Under the zee | 0.90% | ~398 |
 | Depth charge | 0.90% | ~398 |
 | A zee-change | 0.80% | ~354 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,210 (Ranked 131)  
+Progressed: 44,212 (Ranked 131)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-11 | 44,060 | 4 |
 | 2024-01-12 | 44,117 | 4 |
 | 2024-01-13 | 44,187 | 4 |
-| 2024-01-14 | 44,210 | 4 |
+| 2024-01-14 | 44,212 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 377)  

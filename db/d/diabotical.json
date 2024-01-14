@@ -2,13 +2,13 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
-  "Ranking_Rating": 183,
+  "Ranking_Rating": 195,
   "Ranking_Popularity": 263,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-03T13:00:00+00:00",
     "PcReleaseDate": "2020-09-03T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 572,
   "RatingHistory": [
     {
@@ -1791,6 +1791,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 2717,
       "NumberOfAwardsMax": 298
+    },
+    {
+      "Time": "2024-01-14T09:02:47.6023666+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 298
     }
   ],
   "ReviewsDisabled": false,
@@ -1882,8 +1888,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2024-01-08T15:59:15.9441479+00:00",
+  "LastChanged": "2024-01-14T09:02:47.6023664+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.6754343+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:03:35.7066595+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:05:59.1185518+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:02:47.6023669+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:04:29.8281862+00:00"
 }

@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1001,
+  "EOS_Progressed": 1004,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -2723,6 +2723,11 @@
       "Time": "2024-01-14T06:05:20.226345+00:00",
       "NumProgressed": 1001,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T09:05:27.9211699+00:00",
+      "NumProgressed": 1004,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2807,7 +2812,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2815,7 +2820,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2855,7 +2860,7 @@
       "Name": "Sweet Victory",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -2935,7 +2940,7 @@
       "Name": "Sock Getter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -2943,7 +2948,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -2951,7 +2956,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -2983,22 +2988,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1001,
+      "Progressed": 1004,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:07:22.6616296+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:05:27.9211695+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:00:50.0064472+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:07:22.6616659+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:59:17.5904984+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:05:27.9212038+00:00"
 }

@@ -33,8 +33,8 @@
 | Team Hunter | 20.00% | ~272 |
 | Artful Assister | 20.00% | ~272 |
 | Reincarnation Cycle Stopper | 19.00% | ~259 |
+| Human Believer | 17.00% | ~231 |
 | Left Arm Leverager | 16.00% | ~218 |
-| Human Believer | 16.00% | ~218 |
 | Style Seeker | 15.00% | ~204 |
 | Unrivaled in Arms | 15.00% | ~204 |
 | Quintessence of Form | 15.00% | ~204 |

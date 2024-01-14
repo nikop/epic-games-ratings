@@ -4,11 +4,11 @@
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 640,
   "Ranking_Popularity": 168,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
     "PcReleaseDate": "2017-05-30T15:00:00+00:00",
@@ -9166,10 +9166,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 8397,
       "NumberOfAwardsMax": 961
+    },
+    {
+      "Time": "2024-01-14T09:02:42.1154109+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 8399,
+      "NumberOfAwardsMax": 961
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8397,
+  "NumberOfAwards": 8399,
   "NumberOfAwardsMax": 961,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9183,7 +9189,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 927
+      "Count": 929
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9257,8 +9263,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-01-13T23:03:35.187592+00:00",
+  "LastChanged": "2024-01-14T09:02:42.1154107+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:40.6401821+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:03:26.2617349+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:07:51.3219459+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:02:42.1154113+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:05:47.9524844+00:00"
 }

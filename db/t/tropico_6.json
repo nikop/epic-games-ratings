@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1593,7 +1593,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7132,
+  "EOS_Progressed": 7133,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -16738,6 +16738,11 @@
       "Time": "2024-01-14T08:06:30.7013332+00:00",
       "NumProgressed": 7132,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T09:04:51.6121228+00:00",
+      "NumProgressed": 7133,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16869,7 +16874,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -16909,7 +16914,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17005,7 +17010,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17021,7 +17026,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17068,15 +17073,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7132,
+      "Progressed": 7133,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-13T19:58:43.4789287+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:06:30.7013329+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:04:51.6121225+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:59:46.6794012+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:06:30.7014146+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:33.9862798+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:04:51.6121986+00:00"
 }

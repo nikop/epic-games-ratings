@@ -6,13 +6,13 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,691 |
-| Overkill | 33.00% | ~11,021 |
-| Vaccine Incoming | 31.00% | ~10,353 |
-| A normal day in Gloomhaven | 29.00% | ~9,685 |
-| Spread the plague | 26.00% | ~8,683 |
-| Get over here! | 24.00% | ~8,015 |
-| Just when I thought I was out... | 19.00% | ~6,345 |
+| I'm not dead yet | 38.00% | ~12,692 |
+| Overkill | 33.00% | ~11,022 |
+| Vaccine Incoming | 31.00% | ~10,354 |
+| A normal day in Gloomhaven | 29.00% | ~9,686 |
+| Spread the plague | 26.00% | ~8,684 |
+| Get over here! | 24.00% | ~8,016 |
+| Just when I thought I was out... | 19.00% | ~6,346 |
 | Precious! | 16.00% | ~5,344 |
 | Mine... All Mine... | 16.00% | ~5,344 |
 | Grizzled veteran | 15.00% | ~5,010 |
@@ -28,10 +28,10 @@ Number of Ratings: 68  (23.09.2022)
 | Pack leader | 7.00% | ~2,338 |
 | Black death | 7.00% | ~2,338 |
 | Play it again, Sam | 7.00% | ~2,338 |
+| Caught off guard | 6.00% | ~2,004 |
 | Quad damage | 6.00% | ~2,004 |
 | Power Up! | 5.00% | ~1,670 |
 | Merchant of doom | 5.00% | ~1,670 |
-| Caught off guard | 5.00% | ~1,670 |
 | Now you see me... | 5.00% | ~1,670 |
 | The Pro from Dover | 4.00% | ~1,336 |
 | Pretty lights! | 4.00% | ~1,336 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,397 (Ranked 140)  
+Progressed: 33,400 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-11 | 32,855 | 1 |
 | 2024-01-12 | 33,039 | 1 |
 | 2024-01-13 | 33,304 | 1 |
-| 2024-01-14 | 33,397 | 1 |
+| 2024-01-14 | 33,400 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
 Sum: 8,484 (Ranked 108)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1817,17 +1817,17 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 188
+      "UsersEstimate": 191
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -2096,8 +2096,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-14T08:06:43.9628979+00:00",
+  "LastChanged_Achievements": "2024-01-14T09:05:01.0309466+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:59:21.6126529+00:00",
-  "LastUpdate_Achievements": "2024-01-14T08:06:43.9629851+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:58:15.8559699+00:00",
+  "LastUpdate_Achievements": "2024-01-14T09:05:01.0310279+00:00"
 }

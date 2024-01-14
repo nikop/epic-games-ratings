@@ -8,7 +8,7 @@ Rating: 4.55 (Ranked 528)
 | This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,941 |
 | Keep 'Em Coming | 65.00% | ~4,171 |
 | Snatched Out | 64.00% | ~4,107 |
-| Cleaning Lethe, One Nest At A Time | 57.00% | ~3,658 |
+| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,722 |
 | Call Me Snake | 54.00% | ~3,465 |
 | Something Lurks Under The Hills | 52.00% | ~3,337 |
 | This Was No Papercut | 50.00% | ~3,208 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 528)
 | The More The Merrier | 28.00% | ~1,797 |
 | Omelette Du Fromage | 26.00% | ~1,668 |
 | The Darwin Era Was Here | 25.00% | ~1,604 |
-| Deep Into Insanity | 23.00% | ~1,476 |
+| Deep Into Insanity | 24.00% | ~1,540 |
 | The Passenger | 23.00% | ~1,476 |
 | Come on, You Wanna Live Forever? | 22.00% | ~1,412 |
 | The Spire | 21.00% | ~1,348 |
