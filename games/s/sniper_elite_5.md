@@ -8,10 +8,10 @@ Rating: 4.47 (Ranked 665)
 | Meeting Resistance | 47.00% | ~2,011 |
 | Confirming Suspicions | 42.00% | ~1,797 |
 | The Kraken Wakes | 38.00% | ~1,626 |
-| It's Starting to Crack | 35.00% | ~1,497 |
+| It's Starting to Crack | 35.00% | ~1,498 |
 | Change the Channel | 32.00% | ~1,369 |
 | Lord of War | 31.00% | ~1,326 |
-| Taking it back | 30.00% | ~1,283 |
+| Taking it back | 30.00% | ~1,284 |
 | Resourceful | 28.00% | ~1,198 |
 | Target America | 28.00% | ~1,198 |
 | The Kraken Sleeps | 25.00% | ~1,070 |
@@ -24,10 +24,10 @@ Rating: 4.47 (Ranked 665)
 | Climbing the Ladder | 17.00% | ~727 |
 | Just a Flesh Wound | 17.00% | ~727 |
 | Der Geist | 17.00% | ~727 |
-| Skirmisher | 16.00% | ~684 |
-| Close Quarters | 16.00% | ~684 |
-| Snake in the Grass | 16.00% | ~684 |
-| Brains of the Operation | 16.00% | ~684 |
+| Skirmisher | 16.00% | ~685 |
+| Close Quarters | 16.00% | ~685 |
+| Snake in the Grass | 16.00% | ~685 |
+| Brains of the Operation | 16.00% | ~685 |
 | No Stone Unturned | 15.00% | ~642 |
 | Die Nussknacker Sweet! | 15.00% | ~642 |
 | Opposing Force | 14.00% | ~599 |
@@ -45,9 +45,9 @@ Rating: 4.47 (Ranked 665)
 | It'll Buff Right Out | 5.00% | ~214 |
 | Road Rage | 5.00% | ~214 |
 | Don't hold your breath | 5.00% | ~214 |
-| Last Resort | 5.00% | ~211 |
-| Siegebreaker | 5.00% | ~211 |
-| Ghost of Falaise | 5.00% | ~211 |
+| Last Resort | 5.00% | ~212 |
+| Siegebreaker | 5.00% | ~212 |
+| Ghost of Falaise | 5.00% | ~212 |
 | Locomotion Commotion | 4.00% | ~171 |
 | From Paris with Love | 3.00% | ~128 |
 | Burn after reading | 3.00% | ~128 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 665)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,278 (Ranked 213)  
+Progressed: 4,279 (Ranked 213)  
 Completed: 11 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 11 (0.26%) (Ranked 268)
 | 2024-01-11 | 4,268 | 11 |
 | 2024-01-12 | 4,273 | 11 |
 | 2024-01-13 | 4,276 | 11 |
-| 2024-01-14 | 4,278 | 11 |
+| 2024-01-14 | 4,279 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 549)  

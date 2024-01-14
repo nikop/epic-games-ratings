@@ -2,13 +2,13 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -4869,10 +4869,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 9263,
       "NumberOfAwardsMax": 4936
+    },
+    {
+      "Time": "2024-01-14T08:04:01.1075985+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 9264,
+      "NumberOfAwardsMax": 4936
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9263,
+  "NumberOfAwards": 9264,
   "NumberOfAwardsMax": 4936,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4910,7 +4916,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 186
+      "Count": 187
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4978,8 +4984,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-01-14T02:00:13.4559724+00:00",
+  "LastChanged": "2024-01-14T08:04:01.1075984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:14.3116631+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:03:07.7522267+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:04:13.5640752+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:04:01.1075989+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:05:40.0182369+00:00"
 }

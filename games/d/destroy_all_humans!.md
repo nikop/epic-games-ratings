@@ -8,10 +8,10 @@ Number of Ratings: 85  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~371 |
 | Kaijuiced | 72.00% | ~347 |
-| Lie Back and Think of Albion | 66.00% | ~318 |
+| Lie Back and Think of Albion | 67.00% | ~323 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~313 |
 | I Look Up As I Walk to Takoshima | 61.00% | ~294 |
-| Yettisoned | 59.00% | ~284 |
+| Yettisoned | 60.00% | ~289 |
 | Pimp My Raid | 57.00% | ~275 |
 | Perfect Probulator | 57.00% | ~275 |
 | Lobster Blisque | 52.00% | ~251 |
@@ -19,8 +19,8 @@ Number of Ratings: 85  (23.09.2022)
 | Earthly Pleasures | 49.00% | ~236 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~227 |
 | Bodied Sattva | 38.00% | ~183 |
+| Freshly Squeezed | 37.00% | ~178 |
 | Forbidden Donut | 36.00% | ~174 |
-| Freshly Squeezed | 36.00% | ~174 |
 | Upgreatest | 36.00% | ~174 |
 | Furon Fashion | 30.00% | ~145 |
 | Deincarnated | 29.00% | ~140 |

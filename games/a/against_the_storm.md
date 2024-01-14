@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Real Expedition | 9.00% | ~1,869 |
 | Taking Action | 9.00% | ~1,869 |
 | No Deaths | 9.00% | ~1,869 |
 | Abandoned Settlement | 9.00% | ~1,869 |
 | Overgrown Library | 9.00% | ~1,869 |
-| First Real Expedition | 8.00% | ~1,662 |
 | The Marshlands | 8.00% | ~1,662 |
 | Petrified Necropolis | 8.00% | ~1,662 |
 | Overcoming Difficulty | 7.00% | ~1,454 |

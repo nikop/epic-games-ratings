@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8173,9 +8173,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151099,
+  "EOS_Progressed": 151103,
   "EOS_Completed": 352,
-  "EOS_NewPlayers": 1055,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36638,6 +36638,11 @@
       "Time": "2024-01-14T07:09:10.8367076+00:00",
       "NumProgressed": 151099,
       "NumCompleted": 352
+    },
+    {
+      "Time": "2024-01-14T08:09:51.3588066+00:00",
+      "NumProgressed": 151103,
+      "NumCompleted": 352
     }
   ],
   "TotalAchievements": 112,
@@ -36945,7 +36950,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "damage01",
@@ -37257,7 +37262,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "lilu_a",
@@ -37544,15 +37549,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151099,
+      "Progressed": 151103,
       "Completed": 352
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-13T23:04:26.7603651+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:09:10.8367074+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:09:51.3588064+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:03:17.2683619+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:09:10.8369421+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:04:16.2560842+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:09:51.3590467+00:00"
 }

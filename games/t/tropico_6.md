@@ -6,12 +6,12 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,205 |
-| Un-Lonely Island | 44.00% | ~3,137 |
-| The Beginning of a Servantship | 43.00% | ~3,066 |
+| Just One...More...Term... | 73.00% | ~5,206 |
+| Un-Lonely Island | 44.00% | ~3,138 |
+| The Beginning of a Servantship | 43.00% | ~3,067 |
 | Trade Is My Trait | 35.00% | ~2,496 |
 | Number 18 | 23.00% | ~1,640 |
-| We Don't Have Time For That | 18.00% | ~1,283 |
+| We Don't Have Time For That | 18.00% | ~1,284 |
 | The Legend of Langostino | 16.00% | ~1,141 |
 | The Governator | 16.00% | ~1,141 |
 | Caribbean Comrade | 15.00% | ~1,070 |
@@ -21,17 +21,17 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 10.00% | ~713 |
 | Of Seals And Men | 9.00% | ~642 |
 | Shackadelic | 9.00% | ~642 |
-| Double Trouble | 8.00% | ~570 |
+| Double Trouble | 8.00% | ~571 |
 | Firestarter | 7.00% | ~499 |
 | Make Tropico Great Again! | 7.00% | ~499 |
 | French Connection | 7.00% | ~499 |
 | Don't Panic! | 6.00% | ~428 |
 | I Owe You Nothing | 6.00% | ~428 |
-| Viva Tropico! | 5.00% | ~356 |
-| Computer Says "No" | 5.00% | ~356 |
-| Beware The Betman | 5.00% | ~356 |
-| Watch The World Burn | 5.00% | ~356 |
-| Fairy Tale Come True | 5.00% | ~356 |
+| Viva Tropico! | 5.00% | ~357 |
+| Computer Says "No" | 5.00% | ~357 |
+| Beware The Betman | 5.00% | ~357 |
+| Watch The World Burn | 5.00% | ~357 |
+| Fairy Tale Come True | 5.00% | ~357 |
 | Been there, Done That | 3.00% | ~214 |
 | Apocalypso | 3.00% | ~214 |
 | Narcissist | 3.00% | ~214 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,130 (Ranked 198)  
+Progressed: 7,132 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 2 (0.03%) (Ranked 358)
 | 2024-01-11 | 7,083 | 2 |
 | 2024-01-12 | 7,100 | 2 |
 | 2024-01-13 | 7,124 | 2 |
-| 2024-01-14 | 7,130 | 2 |
+| 2024-01-14 | 7,132 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 372)  
 Sum: 765 (Ranked 302)  

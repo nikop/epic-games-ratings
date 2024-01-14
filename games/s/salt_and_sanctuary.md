@@ -6,17 +6,17 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~451,757 |
-| The Three | 64.00% | ~348,343 |
-| The Banquet | 40.00% | ~217,714 |
-| Devara's Light | 31.00% | ~168,729 |
-| The Iron Ones | 19.00% | ~103,414 |
+| Find Sanctuary | 83.00% | ~451,760 |
+| The Three | 64.00% | ~348,345 |
+| The Banquet | 40.00% | ~217,716 |
+| Devara's Light | 31.00% | ~168,730 |
+| The Iron Ones | 19.00% | ~103,415 |
 | The Village | 17.00% | ~92,529 |
 | The Forest | 15.00% | ~81,643 |
 | Branded | 14.00% | ~76,200 |
 | The Imposter | 14.00% | ~76,200 |
 | The Keep | 14.00% | ~76,200 |
-| The Castle | 11.00% | ~59,871 |
+| The Castle | 11.00% | ~59,872 |
 | The Dome | 9.00% | ~48,986 |
 | The Red Hall | 9.00% | ~48,986 |
 | The Sacrifice | 9.00% | ~48,986 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,657 |
 | The Alkymancery | 5.00% | ~27,214 |
 | The Pitchwoods | 5.00% | ~27,214 |
-| Honed | 4.00% | ~21,771 |
-| The House of Splendor | 4.00% | ~21,771 |
-| The Crypt | 4.00% | ~21,771 |
-| The Palace | 4.00% | ~21,771 |
+| Honed | 4.00% | ~21,772 |
+| The House of Splendor | 4.00% | ~21,772 |
+| The Crypt | 4.00% | ~21,772 |
+| The Palace | 4.00% | ~21,772 |
 | Coastrock | 3.00% | ~16,329 |
 | Find Salvation | 3.00% | ~16,329 |
 | The Unspeakable Deep | 3.00% | ~16,329 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,886 |
 | Fading Fast | 1.00% | ~5,443 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,286 (Ranked 36)  
+Progressed: 544,289 (Ranked 36)  
 Completed: 1,682 (0.31%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 1,682 (0.31%) (Ranked 257)
 | 2024-01-11 | 544,055 | 1,679 |
 | 2024-01-12 | 544,136 | 1,681 |
 | 2024-01-13 | 544,258 | 1,682 |
-| 2024-01-14 | 544,286 | 1,682 |
+| 2024-01-14 | 544,289 | 1,682 |
 ## Awards
 Max (Challenging Combat): 298  (Ranked 263)  
 Sum: 2,036 (Ranked 220)  

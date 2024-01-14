@@ -6,29 +6,29 @@ Rating: 4.53 (Ranked 566)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 47.00% | ~7,700 |
-| Greasy Palms | 43.00% | ~7,044 |
-| South American Connection | 26.00% | ~4,259 |
-| Life of the Party | 21.00% | ~3,440 |
+| Greasy Palms | 43.00% | ~7,045 |
+| South American Connection | 26.00% | ~4,260 |
+| Life of the Party | 21.00% | ~3,441 |
 | Tommy Two-Wheels | 16.00% | ~2,621 |
-| Big Heat from Little Havana | 15.00% | ~2,457 |
-| Chauffeur | 15.00% | ~2,457 |
+| Big Heat from Little Havana | 15.00% | ~2,458 |
+| Chauffeur | 15.00% | ~2,458 |
 | Salutations My Little Friend | 12.00% | ~1,966 |
 | Iron-y | 10.00% | ~1,638 |
-| Gun for Hire | 9.00% | ~1,474 |
-| Mischief Managed | 9.00% | ~1,474 |
+| Gun for Hire | 9.00% | ~1,475 |
+| Mischief Managed | 9.00% | ~1,475 |
 | Vice City Mogul | 7.00% | ~1,147 |
 | Catch Me if You Can | 6.00% | ~983 |
 | Bloodstained Hands | 6.00% | ~983 |
 | Not my First Time | 5.00% | ~819 |
 | Grand Theft Auto | 5.00% | ~819 |
 | Pie Guy | 4.00% | ~655 |
-| Running Rampant | 3.00% | ~491 |
-| Point A to Point B | 3.00% | ~491 |
-| High Quality H2O | 3.00% | ~491 |
-| Bull in a China Shop | 3.00% | ~491 |
-| Somebody Call the Wambulance? | 3.00% | ~491 |
-| Just Like the Real Thing | 3.00% | ~491 |
-| Don't Need Roads | 3.00% | ~491 |
+| Running Rampant | 3.00% | ~492 |
+| Point A to Point B | 3.00% | ~492 |
+| High Quality H2O | 3.00% | ~492 |
+| Bull in a China Shop | 3.00% | ~492 |
+| Somebody Call the Wambulance? | 3.00% | ~492 |
+| Just Like the Real Thing | 3.00% | ~492 |
+| Don't Need Roads | 3.00% | ~492 |
 | One is Better Than Two | 2.00% | ~328 |
 | Take the Cannoli | 2.00% | ~328 |
 | Chopper’d Up | 2.00% | ~328 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 566)
 | Done it All | 1.00% | ~164 |
 | Kingpin | 0.60% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,382 (Ranked 171)  
+Progressed: 16,384 (Ranked 171)  
 Completed: 98 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 98 (0.60%) (Ranked 211)
 | 2024-01-11 | 16,263 | 96 |
 | 2024-01-12 | 16,316 | 98 |
 | 2024-01-13 | 16,366 | 98 |
-| 2024-01-14 | 16,382 | 98 |
+| 2024-01-14 | 16,384 | 98 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

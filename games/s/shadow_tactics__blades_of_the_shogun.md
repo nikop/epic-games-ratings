@@ -6,30 +6,30 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,102 |
-| A thief's beginning | 11.00% | ~24,844 |
-| Thorough | 11.00% | ~24,844 |
-| Disguised | 9.00% | ~20,327 |
-| Rescue Takuma | 9.00% | ~20,327 |
-| Rollin' | 9.00% | ~20,327 |
-| Tanuki Time | 9.00% | ~20,327 |
-| Ice Ice Yuki | 8.00% | ~18,068 |
-| Jonin | 8.00% | ~18,068 |
-| Stoned Ox | 8.00% | ~18,068 |
-| Yabu | 8.00% | ~18,068 |
+| Genin | 12.00% | ~27,104 |
+| A thief's beginning | 11.00% | ~24,845 |
+| Thorough | 11.00% | ~24,845 |
+| Disguised | 9.00% | ~20,328 |
+| Rescue Takuma | 9.00% | ~20,328 |
+| Rollin' | 9.00% | ~20,328 |
+| Tanuki Time | 9.00% | ~20,328 |
+| Ice Ice Yuki | 8.00% | ~18,069 |
+| Jonin | 8.00% | ~18,069 |
+| Stoned Ox | 8.00% | ~18,069 |
+| Yabu | 8.00% | ~18,069 |
 | Happy Planning | 7.00% | ~15,810 |
 | Mugen Unchained | 7.00% | ~15,810 |
-| Chunin | 6.00% | ~13,551 |
-| Flying Rocks | 6.00% | ~13,551 |
-| Warzone | 6.00% | ~13,551 |
+| Chunin | 6.00% | ~13,552 |
+| Flying Rocks | 6.00% | ~13,552 |
+| Warzone | 6.00% | ~13,552 |
 | Happy little accidents | 5.00% | ~11,293 |
 | Okkoto | 5.00% | ~11,293 |
 | Prisoners | 5.00% | ~11,293 |
 | Too Early | 5.00% | ~11,293 |
-| Gear up | 4.00% | ~9,034 |
-| Noboru | 4.00% | ~9,034 |
-| Still Rollin' | 4.00% | ~9,034 |
-| Stoned | 4.00% | ~9,034 |
+| Gear up | 4.00% | ~9,035 |
+| Noboru | 4.00% | ~9,035 |
+| Still Rollin' | 4.00% | ~9,035 |
+| Stoned | 4.00% | ~9,035 |
 | It's raining men | 3.00% | ~6,776 |
 | The Old Way | 3.00% | ~6,776 |
 | Atheist Ox | 2.00% | ~4,517 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,851 (Ranked 79)  
+Progressed: 225,863 (Ranked 79)  
 Completed: 107 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,14 +320,14 @@ Completed: 107 (0.05%) (Ranked 341)
 | 2024-01-11 | 225,398 | 107 |
 | 2024-01-12 | 225,573 | 107 |
 | 2024-01-13 | 225,798 | 107 |
-| 2024-01-14 | 225,851 | 107 |
+| 2024-01-14 | 225,863 | 107 |
 ## Awards
-Max (Great for Beginners): 593  (Ranked 212)  
-Sum: 4,957 (Ranked 151)  
+Max (Great for Beginners): 594  (Ranked 212)  
+Sum: 4,958 (Ranked 151)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 593 |
+| This game is Great for Beginners | 594 |
 | This game has Diverse Characters | 552 |
 | This game is Extremely Fun | 545 |
 | This game has Amazing Storytelling | 524 |
@@ -596,3 +596,4 @@ Diff (max vs sum): 61
 | 2024-01-09 | 4.66 | - | 592 | 4,954 |
 | 2024-01-10 | 4.66 | - | 593 | 4,955 |
 | 2024-01-12 | 4.67 | - | 593 | 4,957 |
+| 2024-01-14 | 4.67 | - | 594 | 4,958 |

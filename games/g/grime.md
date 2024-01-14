@@ -16,7 +16,7 @@ Number of Ratings: 46  (23.09.2022)
 | Devourer | 1.00% | ~1,681 |
 | Yank | 0.90% | ~1,513 |
 | Sharpened Vessel | 0.90% | ~1,513 |
-| Scion | 0.80% | ~1,341 |
+| Scion | 0.80% | ~1,342 |
 | Jawcrab | 0.80% | ~1,345 |
 | Jawstag | 0.80% | ~1,345 |
 | Feast | 0.80% | ~1,345 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,102 (Ranked 84)  
+Progressed: 168,107 (Ranked 84)  
 Completed: 457 (0.27%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,11 +299,11 @@ Completed: 457 (0.27%) (Ranked 265)
 | 2024-01-11 | 167,713 | 455 |
 | 2024-01-12 | 167,856 | 456 |
 | 2024-01-13 | 168,053 | 457 |
-| 2024-01-14 | 168,102 | 457 |
+| 2024-01-14 | 168,107 | 457 |
 ## Awards
-Max (Highly Recommended): 63  (Ranked 429)  
+Max (Highly Recommended): 63  (Ranked 430)  
 Sum: 461 (Ranked 342)  
-Diff (max vs sum): 87  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 63 |

@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~280 |
+| Something important | 87.00% | ~284 |
 | A piece of the story | 65.00% | ~212 |
 | It's covered up for a reason | 59.00% | ~192 |
 | Wanderer | 54.00% | ~176 |
-| Scraps of love | 51.00% | ~166 |
+| Scraps of love | 52.00% | ~170 |
 | The artist’s impression | 49.00% | ~160 |
 | Do what you have to | 44.00% | ~143 |
 | Sign of weakness | 41.00% | ~134 |

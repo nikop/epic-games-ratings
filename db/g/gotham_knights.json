@@ -5261,9 +5261,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82715,
+  "EOS_Progressed": 82717,
   "EOS_Completed": 134,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30166,6 +30166,11 @@
       "Time": "2024-01-14T07:08:29.5198031+00:00",
       "NumProgressed": 82715,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2024-01-14T08:08:52.8124092+00:00",
+      "NumProgressed": 82717,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 61,
@@ -30225,7 +30230,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18197
+      "UsersEstimate": 18198
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30265,7 +30270,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12407
+      "UsersEstimate": 12408
     },
     {
       "ID": "CHALLENGES_1",
@@ -30273,7 +30278,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13234
+      "UsersEstimate": 13235
     },
     {
       "ID": "CLAYFACE_1",
@@ -30361,7 +30366,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -30393,7 +30398,7 @@
       "Name": "Drone You Out",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7444
+      "UsersEstimate": 7445
     },
     {
       "ID": "FREEZE_1",
@@ -30401,7 +30406,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22333
+      "UsersEstimate": 22334
     },
     {
       "ID": "FREEZE_1_5",
@@ -30481,7 +30486,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28123
+      "UsersEstimate": 28124
     },
     {
       "ID": "HARLEY_2",
@@ -30505,7 +30510,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12407
+      "UsersEstimate": 12408
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -30537,7 +30542,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -30569,7 +30574,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27296
+      "UsersEstimate": 27297
     },
     {
       "ID": "MYSTERY_02",
@@ -30585,7 +30590,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18197
+      "UsersEstimate": 18198
     },
     {
       "ID": "MYSTERY_04",
@@ -30657,20 +30662,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82715,
+      "Progressed": 82717,
       "Completed": 134
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 52995,
+      "Progressed": 52997,
       "Completed": 2679
     }
   ],
@@ -30678,8 +30683,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-14T06:58:11.0228905+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:08:29.5198029+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:08:52.8124089+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:58:11.0228911+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:08:29.5199597+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:59:07.7039522+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:08:52.8125542+00:00"
 }

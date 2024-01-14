@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2287,9 +2287,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "4n84pon",
       "Name": "Shop Til They Drop",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2312,8 +2312,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:09:37.9136947+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:10:29.98043+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:00:06.7524749+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:09:37.9137262+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:02:09.6049674+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:10:29.9804628+00:00"
 }

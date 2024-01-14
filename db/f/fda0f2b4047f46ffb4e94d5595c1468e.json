@@ -5127,9 +5127,9 @@
       "Count": 613
     }
   ],
-  "EOS_Progressed": 23792,
+  "EOS_Progressed": 23796,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1739,
+  "EOS_NewPlayers": 1722,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16397,6 +16397,11 @@
       "Time": "2024-01-14T07:09:00.8481023+00:00",
       "NumProgressed": 23792,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T08:09:36.8391151+00:00",
+      "NumProgressed": 23796,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16409,7 +16414,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8089
+      "UsersEstimate": 8091
     },
     {
       "ID": "ach02",
@@ -16417,7 +16422,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "ach03",
@@ -16425,7 +16430,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10468
+      "UsersEstimate": 10470
     },
     {
       "ID": "ach04",
@@ -16433,7 +16438,7 @@
       "Name": "What Just Happened??",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 7138
+      "UsersEstimate": 7139
     },
     {
       "ID": "ach05",
@@ -16449,7 +16454,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15941
+      "UsersEstimate": 15943
     },
     {
       "ID": "ach07",
@@ -16457,7 +16462,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10706
+      "UsersEstimate": 10708
     },
     {
       "ID": "ach08",
@@ -16465,7 +16470,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7376
+      "UsersEstimate": 7377
     },
     {
       "ID": "ach09",
@@ -16473,7 +16478,7 @@
       "Name": "Kontender",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "ach10",
@@ -16489,7 +16494,7 @@
       "Name": "Karnage",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ach12",
@@ -16529,7 +16534,7 @@
       "Name": "Test Your Might",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ach17",
@@ -16537,7 +16542,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9517
+      "UsersEstimate": 9518
     },
     {
       "ID": "ach18",
@@ -16545,7 +16550,7 @@
       "Name": "Adventure Time",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "ach19",
@@ -16577,7 +16582,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "ach23",
@@ -16585,7 +16590,7 @@
       "Name": "Take And Deny",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4758
+      "UsersEstimate": 4759
     },
     {
       "ID": "ach24",
@@ -16593,7 +16598,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6900
+      "UsersEstimate": 6901
     },
     {
       "ID": "ach25",
@@ -16609,7 +16614,7 @@
       "Name": "Running On Empty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ach27",
@@ -16617,7 +16622,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5948
+      "UsersEstimate": 5949
     },
     {
       "ID": "ach28",
@@ -16625,7 +16630,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "ach29",
@@ -16641,7 +16646,7 @@
       "Name": "Juggernaut",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "ach31",
@@ -16649,7 +16654,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5234
+      "UsersEstimate": 5235
     },
     {
       "ID": "ach32",
@@ -16657,7 +16662,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "ach33",
@@ -16673,7 +16678,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "ach35",
@@ -16681,7 +16686,7 @@
       "Name": "Kollector",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ach36",
@@ -16697,7 +16702,7 @@
       "Name": "ABACABB",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10944
+      "UsersEstimate": 10946
     },
     {
       "ID": "ach38",
@@ -16705,7 +16710,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7851
+      "UsersEstimate": 7853
     },
     {
       "ID": "ach39",
@@ -16713,7 +16718,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7613
+      "UsersEstimate": 7615
     },
     {
       "ID": "ach40",
@@ -16729,7 +16734,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5710
+      "UsersEstimate": 5711
     },
     {
       "ID": "ach42",
@@ -16737,7 +16742,7 @@
       "Name": "Quest Master",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7376
+      "UsersEstimate": 7377
     },
     {
       "ID": "ach43",
@@ -16745,7 +16750,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7613
+      "UsersEstimate": 7615
     },
     {
       "ID": "ach44",
@@ -16761,7 +16766,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2141
+      "UsersEstimate": 2142
     },
     {
       "ID": "ach46",
@@ -16801,14 +16806,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7138
+      "UsersEstimate": 7139
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23792,
+      "Progressed": 23796,
       "Completed": 2
     }
   ],
@@ -16816,8 +16821,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-14T04:03:48.2761431+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:09:00.8481019+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:09:36.8391146+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:02:56.6844148+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:09:00.8481878+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:03:45.5842373+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:09:36.8392124+00:00"
 }

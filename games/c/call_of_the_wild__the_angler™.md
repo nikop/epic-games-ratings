@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 20.00% | ~1,662 |
+| Fish Just Got Reel | 20.00% | ~1,663 |
 | Hey Good Hookin | 17.00% | ~1,413 |
 | More Fish in the Sea | 17.00% | ~1,413 |
 | Can you smell what the Rod is Hooking | 15.00% | ~1,247 |
@@ -17,19 +17,19 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 8.00% | ~665 |
 | Goldfish? | 6.00% | ~499 |
 | Going for Gold | 6.00% | ~499 |
-| License to Gill | 4.00% | ~332 |
-| School's Out for Summer | 4.00% | ~332 |
+| License to Gill | 4.00% | ~333 |
+| School's Out for Summer | 4.00% | ~333 |
 | I'm Hooked! | 3.00% | ~249 |
 | Diamond in the Rough | 2.00% | ~166 |
 | I'm the Captain Now | 1.00% | ~83 |
 | Marathon | 1.00% | ~83 |
 | More than a Tourist | 0.90% | ~75 |
 | Hook, Line and Sinker | 0.90% | ~75 |
-| Gonna Need a Bigger Boat | 0.80% | ~66 |
+| Gonna Need a Bigger Boat | 0.80% | ~67 |
 | No Fin left to give | 0.60% | ~50 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~38 |
+| Aguas Claras Conquistador | 0.50% | ~38 |
 | The Beetles | 0.40% | ~33 |
-| Aguas Claras Conquistador | 0.40% | ~31 |
 | Lake Me up Before You Go Go | 0.30% | ~25 |
 | Taylor Made | 0.30% | ~25 |
 | Rod and Troll | 0.30% | ~23 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,312 (Ranked 191)  
+Progressed: 8,313 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 8,274 | 0 |
 | 2024-01-12 | 8,296 | 0 |
 | 2024-01-13 | 8,309 | 0 |
-| 2024-01-14 | 8,312 | 0 |
+| 2024-01-14 | 8,313 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 213 (Ranked 413)  

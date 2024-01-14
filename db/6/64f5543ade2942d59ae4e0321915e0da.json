@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 356,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Completed": 216,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.59,
+  "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -1984,6 +1984,11 @@
       "Time": "2024-01-14T05:07:21.2523923+00:00",
       "NumProgressed": 512,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T08:08:22.2842305+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2028,7 +2033,7 @@
       "Name": "Gift",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -2052,7 +2057,7 @@
       "Name": "Gambler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2068,7 +2073,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "AC_BOSS_01",
@@ -2116,7 +2121,7 @@
       "Name": "Flock",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_COMBO_3",
@@ -2140,7 +2145,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "AC_DEATH_2",
@@ -2162,9 +2167,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 256
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2188,7 +2193,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2196,7 +2201,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2204,7 +2209,7 @@
       "Name": "Voyage",
       "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2228,7 +2233,7 @@
       "Name": "Demise",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2316,7 +2321,7 @@
       "Name": "Crosshair",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2331,14 +2336,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:06:06.8326233+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:08:22.2842299+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:57:57.4812303+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:06:06.8326675+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:58:46.0599815+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:08:22.2842726+00:00"
 }

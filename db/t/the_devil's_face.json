@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -2937,9 +2937,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 169
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -2992,8 +2992,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:04:41.0184977+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:06:18.9082336+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.7712536+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:58:55.9543088+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:04:41.0185373+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:00:16.5539199+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:06:18.9082564+00:00"
 }

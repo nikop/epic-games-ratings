@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4770,
+  "EOS_Progressed": 4771,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8354,6 +8354,11 @@
       "Time": "2024-01-13T20:08:23.7331532+00:00",
       "NumProgressed": 4770,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T08:09:06.0974883+00:00",
+      "NumProgressed": 4771,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8397,7 +8402,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CordonBleu_28",
@@ -8429,7 +8434,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8645,7 +8650,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -8685,7 +8690,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3434
+      "UsersEstimate": 3435
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8700,15 +8705,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4770,
+      "Progressed": 4771,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:08:38.9650253+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:09:06.097488+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:03:06.6302712+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:08:38.9650985+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:03:59.4227125+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:09:06.0975454+00:00"
 }

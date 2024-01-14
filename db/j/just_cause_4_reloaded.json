@@ -2,13 +2,13 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 94,
   "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.27,
+  "Rating": 4.26,
   "NumberOfRatings": 5442,
   "RatingHistory": [
     {
@@ -5321,10 +5321,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 7518,
       "NumberOfAwardsMax": 3954
+    },
+    {
+      "Time": "2024-01-14T07:59:53.0725945+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 7519,
+      "NumberOfAwardsMax": 3954
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7518,
+  "NumberOfAwards": 7519,
   "NumberOfAwardsMax": 3954,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5362,7 +5368,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5394,8 +5400,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2024-01-13T16:58:44.3595255+00:00",
+  "LastChanged": "2024-01-14T07:59:53.0725944+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:56.9268893+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:58:40.8408317+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:03:53.9672375+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:59:53.0725949+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:05:12.0695769+00:00"
 }

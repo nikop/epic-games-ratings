@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 117,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2024-01-14T06:04:22.4814714+00:00",
       "NumProgressed": 115,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T08:05:59.7903569+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -487,7 +492,7 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -545,7 +550,7 @@
       "Name": "Vanguard",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_DAVID",
@@ -559,15 +564,15 @@
       "ID": "A_DNA",
       "SetID": "324h56e",
       "Name": "Evolution",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 11
     },
     {
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 49
     },
@@ -583,9 +588,9 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -623,7 +628,7 @@
       "ID": "A_LEGENDARY",
       "SetID": "324h56e",
       "Name": "Loot of Legends",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -633,7 +638,7 @@
       "Name": "We Are All You Need",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_LEVEL",
@@ -649,7 +654,7 @@
       "Name": "Fresh Meat!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -657,13 +662,13 @@
       "Name": "Always Blame the Healer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 54
     },
@@ -681,7 +686,7 @@
       "Name": "Orb of Wisdom",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "A_POPULATION",
@@ -737,7 +742,7 @@
       "Name": "The Age of Discovery",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_SUNKEN",
@@ -751,9 +756,9 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "A_TURTLES",
@@ -769,15 +774,15 @@
       "Name": "Splat",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "A_WRAITH",
@@ -792,14 +797,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:04:27.8746503+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:05:59.7903565+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:57:26.3479402+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:04:27.8746809+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:58:00.3287965+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:05:59.7903888+00:00"
 }

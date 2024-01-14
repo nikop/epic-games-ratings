@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.21 (Ranked 959)  
+Rating: 4.20 (Ranked 967)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,9 +21,9 @@ Rating: 4.21 (Ranked 959)
 | The Means to Save It | 19.00% | ~650 |
 | Resilience to Sin | 17.00% | ~582 |
 | A Familiar Nest | 17.00% | ~582 |
+| Geas Aristeya | 16.00% | ~547 |
 | Periapt Alizarin | 16.00% | ~547 |
-| Geas Aristeya | 15.00% | ~513 |
-| A Perfect Cycle | 14.00% | ~479 |
+| A Perfect Cycle | 15.00% | ~513 |
 | Recruit | 14.00% | ~479 |
 | Armsman | 12.00% | ~411 |
 | Lights Army | 10.00% | ~342 |
@@ -222,3 +222,4 @@ Diff (max vs sum): -2
 | 2024-01-11 | 4.19 | 20 | 20 |
 | 2024-01-12 | 4.19 | 20 | 20 |
 | 2024-01-13 | 4.21 | 21 | 21 |
+| 2024-01-14 | 4.20 | 21 | 21 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3449,
+  "EOS_Progressed": 3450,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -6496,6 +6496,11 @@
       "Time": "2024-01-14T07:04:08.6513817+00:00",
       "NumProgressed": 3449,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T08:05:32.8525813+00:00",
+      "NumProgressed": 3450,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 53,
@@ -6531,7 +6536,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6547,7 +6552,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6563,7 +6568,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6571,7 +6576,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6595,7 +6600,7 @@
       "Name": "I smell fear",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -6675,7 +6680,7 @@
       "Name": "Chains master",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -6683,7 +6688,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6691,7 +6696,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6723,7 +6728,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6755,7 +6760,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6779,7 +6784,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6811,7 +6816,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6819,7 +6824,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "STB_PLATINUM",
@@ -6843,7 +6848,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6851,7 +6856,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6859,7 +6864,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6867,7 +6872,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6930,7 +6935,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3449,
+      "Progressed": 3450,
       "Completed": 27
     }
   ],
@@ -6938,8 +6943,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:04:08.6513814+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:05:32.8525807+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:02:38.0083434+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:04:08.6514542+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:02:37.168248+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:05:32.8526593+00:00"
 }

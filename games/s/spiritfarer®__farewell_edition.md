@@ -1,7 +1,7 @@
 # Spiritfarer®: Farewell Edition
 [Store](https://store.epicgames.com/en-US/p/spiritfarer)  
 [View Rawdata](../../db/s/spiritfarer®__farewell_edition.json)  
-Rating: 4.88 (Ranked 18)  
+Rating: 4.87 (Ranked 23)  
 Number of Ratings: 178  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 23  (Ranked 561)  
@@ -78,3 +78,4 @@ Diff (max vs sum): 79
 | 2023-12-23 | 4.87 | - | 23 | 63 |
 | 2023-12-26 | 4.88 | - | 23 | 64 |
 | 2024-01-12 | 4.88 | - | 23 | 84 |
+| 2024-01-14 | 4.87 | - | 23 | 84 |

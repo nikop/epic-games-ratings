@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25135,
+  "EOS_Progressed": 25138,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9161,6 +9161,11 @@
       "Time": "2024-01-14T04:10:19.371787+00:00",
       "NumProgressed": 25135,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-14T08:09:46.7120705+00:00",
+      "NumProgressed": 25138,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9212,7 +9217,7 @@
       "Name": "Creature Feature",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_GET_GUS",
@@ -9252,7 +9257,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -9324,7 +9329,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -9348,7 +9353,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -9356,7 +9361,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -9523,13 +9528,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25135,
+      "Progressed": 25138,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2428,
+      "Progressed": 2431,
       "Completed": 1376
     }
   ],
@@ -9537,8 +9542,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:09:07.7057462+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:09:46.7120702+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:12.7460133+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:57:35.3204898+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:09:07.7058042+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:58:14.1108666+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:09:46.7121289+00:00"
 }

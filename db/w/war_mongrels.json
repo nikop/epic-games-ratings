@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 777,
+  "EOS_Progressed": 778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2795,6 +2795,11 @@
       "Time": "2024-01-13T23:11:45.9438171+00:00",
       "NumProgressed": 777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T08:11:32.7424695+00:00",
+      "NumProgressed": 778,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2910,15 +2915,15 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 303
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -3012,9 +3017,9 @@
       "ID": "ACH_COLL_CH11",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter XI",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -3030,7 +3035,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -3044,9 +3049,9 @@
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -3054,7 +3059,7 @@
       "Name": "Heroism",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -3094,7 +3099,7 @@
       "Name": "Vengeance",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -3214,7 +3219,7 @@
       "Name": "Eat Lead!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -3230,15 +3235,15 @@
       "Name": "Sniper Wolf",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 233
     },
     {
       "ID": "ACH_NEST1",
@@ -3262,7 +3267,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_NOMOON",
@@ -3277,15 +3282,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 777,
+      "Progressed": 778,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:10:23.4381849+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:11:32.7424692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.4915976+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:57:47.5477922+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:10:23.4382294+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:58:31.7705594+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:11:32.742523+00:00"
 }

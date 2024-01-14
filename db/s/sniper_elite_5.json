@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4278,
+  "EOS_Progressed": 4279,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9682,6 +9682,11 @@
       "Time": "2024-01-14T07:09:55.759679+00:00",
       "NumProgressed": 4278,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T08:10:55.7571608+00:00",
+      "NumProgressed": 4279,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9821,7 +9826,7 @@
       "Name": "Skirmisher",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -9949,7 +9954,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9957,7 +9962,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -10005,7 +10010,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10061,7 +10066,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10069,7 +10074,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -10181,7 +10186,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -10189,7 +10194,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -10197,7 +10202,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -10260,13 +10265,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4229,
+      "Progressed": 4230,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4278,
+      "Progressed": 4279,
       "Completed": 11
     }
   ],
@@ -10274,8 +10279,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:09:55.7596788+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:10:55.7571603+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:00:12.7441689+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:09:55.7597756+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:02:17.1881137+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:10:55.7572787+00:00"
 }

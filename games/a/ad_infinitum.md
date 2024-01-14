@@ -11,7 +11,7 @@
 | Awaken | 43.00% | ~91 |
 | Path of Corruption | 36.00% | ~76 |
 | Hope | 32.00% | ~68 |
-| Rage | 30.00% | ~63 |
+| Rage | 31.00% | ~65 |
 | Path of Pain | 24.00% | ~51 |
 | Mayhem | 19.00% | ~40 |
 | Reflections | 19.00% | ~40 |

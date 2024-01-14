@@ -14,8 +14,8 @@ Rating: 4.29 (Ranked 883)
 | Down Boy! | 2.00% | ~883 |
 | A Snowball's Chance in Hell | 2.00% | ~883 |
 | Enjoy The Silence | 1.00% | ~442 |
-| Sure Footed As A Goat | 0.90% | ~397 |
-| Backdoor Man | 0.90% | ~397 |
+| Sure Footed As A Goat | 0.90% | ~398 |
+| Backdoor Man | 0.90% | ~398 |
 | Thorn in My Herbicide | 0.80% | ~353 |
 | Red In Tooth And Claw | 0.80% | ~353 |
 | Death Becomes Her | 0.80% | ~353 |
@@ -28,14 +28,14 @@ Rating: 4.29 (Ranked 883)
 | Oh God, Mother! Blood! Blood! | 0.50% | ~221 |
 | Ice To See You | 0.50% | ~221 |
 | Smack My Imp Up | 0.50% | ~221 |
-| Vroll With It | 0.30% | ~132 |
-| Swift of Foot, Keen of Blade | 0.30% | ~132 |
+| Vroll With It | 0.30% | ~133 |
+| Swift of Foot, Keen of Blade | 0.30% | ~133 |
 | Flame Retardant | 0.20% | ~88 |
 | Too Metal For Magic | 0.10% | ~44 |
 | Heart Of Steel | 0.10% | ~44 |
 | Death or Glory | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,165 (Ranked 132)  
+Progressed: 44,167 (Ranked 132)  
 Completed: 30 (0.07%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 30 (0.07%) (Ranked 333)
 | 2024-01-11 | 43,996 | 30 |
 | 2024-01-12 | 44,053 | 30 |
 | 2024-01-13 | 44,144 | 30 |
-| 2024-01-14 | 44,165 | 30 |
+| 2024-01-14 | 44,167 | 30 |
 ## Awards
 Max (Great Boss Battles): 129  (Ranked 351)  
 Sum: 129 (Ranked 454)  

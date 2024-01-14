@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253448,
+  "EOS_Progressed": 253449,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24072,6 +24072,11 @@
       "Time": "2024-01-14T07:10:12.4573364+00:00",
       "NumProgressed": 253448,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T08:11:18.72081+00:00",
+      "NumProgressed": 253449,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24259,7 +24264,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134327
+      "UsersEstimate": 134328
     },
     {
       "ID": "indegestible",
@@ -24283,7 +24288,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65896
+      "UsersEstimate": 65897
     },
     {
       "ID": "justABit",
@@ -24450,7 +24455,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253448,
+      "Progressed": 253449,
       "Completed": 6
     }
   ],
@@ -24458,8 +24463,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:10:12.4573362+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:11:18.7208096+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:02:37.9102519+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:10:12.4574879+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:02:36.9830323+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:11:18.7209569+00:00"
 }

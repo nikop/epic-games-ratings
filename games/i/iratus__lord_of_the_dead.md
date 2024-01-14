@@ -6,54 +6,54 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~41,929 |
-| Blood Moon | 73.00% | ~36,009 |
-| Path of the Necromancer | 65.00% | ~32,063 |
-| Chainbreaker - I | 60.00% | ~29,597 |
-| Cursed Creature | 57.00% | ~28,117 |
-| Extraction | 57.00% | ~28,117 |
-| Chainbreaker - II | 54.00% | ~26,637 |
-| Necromancer's Apprentice | 50.00% | ~24,664 |
-| Keeper of Keys | 47.00% | ~23,184 |
-| Distillation | 43.00% | ~21,211 |
-| Transmutation | 42.00% | ~20,718 |
-| Mountain King - I | 41.00% | ~20,224 |
-| Prepared Necromancer | 40.00% | ~19,731 |
-| Mountain King - II | 39.00% | ~19,238 |
+| Improvement | 85.00% | ~41,930 |
+| Blood Moon | 73.00% | ~36,011 |
+| Path of the Necromancer | 65.00% | ~32,064 |
+| Chainbreaker - I | 60.00% | ~29,598 |
+| Cursed Creature | 57.00% | ~28,118 |
+| Extraction | 57.00% | ~28,118 |
+| Chainbreaker - II | 54.00% | ~26,638 |
+| Necromancer's Apprentice | 50.00% | ~24,665 |
+| Keeper of Keys | 47.00% | ~23,185 |
+| Distillation | 43.00% | ~21,212 |
+| Transmutation | 42.00% | ~20,719 |
+| Mountain King - I | 41.00% | ~20,225 |
+| Prepared Necromancer | 40.00% | ~19,732 |
+| Mountain King - II | 39.00% | ~19,239 |
 | Blind Rage | 38.00% | ~18,745 |
-| Mad Genius | 35.00% | ~17,265 |
+| Mad Genius | 35.00% | ~17,266 |
 | Cannon Fodder - I | 34.00% | ~16,772 |
 | Soul of Lies | 34.00% | ~16,772 |
-| Bane of Mercenaries - I | 32.00% | ~15,785 |
+| Bane of Mercenaries - I | 32.00% | ~15,786 |
 | Bane of Mercenaries - II | 31.00% | ~15,292 |
-| Cannon Fodder - II | 29.00% | ~14,305 |
-| Shadow Between Worlds | 29.00% | ~14,305 |
+| Cannon Fodder - II | 29.00% | ~14,306 |
+| Shadow Between Worlds | 29.00% | ~14,306 |
 | Bane of Monsters | 28.00% | ~13,812 |
 | Chainbreaker - III | 28.00% | ~13,812 |
-| Revealed Secrets - I | 26.00% | ~12,825 |
+| Revealed Secrets - I | 26.00% | ~12,826 |
 | Revealed Secrets - II | 25.00% | ~12,332 |
-| Unholy Bones | 23.00% | ~11,345 |
-| Blood Elemental | 23.00% | ~11,345 |
-| Lord of Fire | 22.00% | ~10,852 |
-| Cannon Fodder - III | 22.00% | ~10,852 |
-| Spiritual Attraction | 22.00% | ~10,852 |
-| Uncommon Warrior | 22.00% | ~10,852 |
-| Nightmare of the Humanity - I | 22.00% | ~10,852 |
+| Unholy Bones | 23.00% | ~11,346 |
+| Blood Elemental | 23.00% | ~11,346 |
+| Lord of Fire | 22.00% | ~10,853 |
+| Cannon Fodder - III | 22.00% | ~10,853 |
+| Spiritual Attraction | 22.00% | ~10,853 |
+| Uncommon Warrior | 22.00% | ~10,853 |
+| Nightmare of the Humanity - I | 22.00% | ~10,853 |
 | Nightmare of the Humanity - II | 21.00% | ~10,359 |
 | That Was Easy! | 20.00% | ~9,866 |
 | Silent Waters | 20.00% | ~9,866 |
 | Head of Order | 20.00% | ~9,866 |
-| Calcination | 19.00% | ~9,372 |
+| Calcination | 19.00% | ~9,373 |
 | Blood Mage | 17.00% | ~8,386 |
-| Wild Hunger | 16.00% | ~7,892 |
-| Rage Concentrated | 16.00% | ~7,892 |
-| Mountain King - III | 15.00% | ~7,399 |
-| Rare Warrior | 15.00% | ~7,399 |
+| Wild Hunger | 16.00% | ~7,893 |
+| Rage Concentrated | 16.00% | ~7,893 |
+| Mountain King - III | 15.00% | ~7,400 |
+| Rare Warrior | 15.00% | ~7,400 |
 | Grand Arena | 14.00% | ~6,906 |
 | Blood Madness | 13.00% | ~6,413 |
 | First Sacrifice | 13.00% | ~6,413 |
 | Master of Alchemy | 13.00% | ~6,413 |
-| Legendary Warrior | 12.00% | ~5,919 |
+| Legendary Warrior | 12.00% | ~5,920 |
 | Bane of Mercenaries - III | 10.00% | ~4,933 |
 | Ancient Burial | 10.00% | ~4,933 |
 | More Mortal Suffering! | 9.00% | ~4,440 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~247 |
 | Renowned Researcher | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,328 (Ranked 125)  
+Progressed: 49,330 (Ranked 125)  
 Completed: 26 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 26 (0.05%) (Ranked 341)
 | 2024-01-11 | 49,175 | 26 |
 | 2024-01-12 | 49,234 | 26 |
 | 2024-01-13 | 49,316 | 26 |
-| 2024-01-14 | 49,328 | 26 |
+| 2024-01-14 | 49,330 | 26 |
 ## Awards
 Max (Character Customization): 2,167  (Ranked 116)  
 Sum: 4,228 (Ranked 163)  

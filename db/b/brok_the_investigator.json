@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 460,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -285,9 +285,9 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CHAPTER3",
@@ -486,8 +486,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:04:53.6371656+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:06:37.1773072+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.4705583+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:59:49.5618011+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:04:53.6371879+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:01:40.2104074+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:06:37.1773271+00:00"
 }

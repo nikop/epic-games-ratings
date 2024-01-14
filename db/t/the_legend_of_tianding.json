@@ -615,17 +615,17 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "OmamoriExpert",
@@ -712,8 +712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:04:36.9123559+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:06:12.9364782+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.2162952+00:00",
-  "LastUpdate_Ratings": "2024-01-14T07:00:14.61531+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:04:36.9123776+00:00"
+  "LastUpdate_Ratings": "2024-01-14T08:02:20.2415332+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:06:12.9364957+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 88.00% | ~127 |
-| Enough rooms to swing a cat | 77.00% | ~111 |
-| First to the post | 77.00% | ~111 |
+| Enough rooms to swing a cat | 78.00% | ~112 |
+| First to the post | 78.00% | ~112 |
 | A kind of Magic | 68.00% | ~98 |
 | Connected | 58.00% | ~84 |
 | Expansion | 56.00% | ~81 |
@@ -47,10 +47,10 @@
 | A Monopoly of Might | 8.00% | ~12 |
 | Friend of Uram Gor | 8.00% | ~12 |
 | A Joke | 8.00% | ~12 |
+| Defeat Hokan | 7.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |
 | Get to the Airship! | 6.00% | ~9 |
-| Defeat Hokan | 6.00% | ~9 |
 | Defeat Ianna | 6.00% | ~9 |
 | Defeat Raith | 6.00% | ~9 |
 | Defeat Undergast | 6.00% | ~9 |

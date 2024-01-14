@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
+| Kushite Pyramids | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
 | Invincible | 0.50% | ~84 |
@@ -126,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
-| Kushite Pyramids | 0.50% | ~84 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,744 (Ranked 169)  
+Progressed: 16,746 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,744 | 5 |
+| 2024-01-14 | 16,746 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

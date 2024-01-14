@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 308,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
@@ -1440,9 +1440,9 @@
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     }
   ],
   "AchievementSets": [
@@ -1455,8 +1455,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:10:11.0154882+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:11:16.764674+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:57.0912092+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:58:11.920599+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:10:11.0155017+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:59:09.0323508+00:00",
+  "LastUpdate_Achievements": "2024-01-14T08:11:16.7647087+00:00"
 }

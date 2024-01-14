@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -353,9 +353,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11373,
+  "EOS_Progressed": 11378,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 862,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4828,6 +4828,11 @@
       "Time": "2024-01-14T07:10:16.9786216+00:00",
       "NumProgressed": 11373,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T08:11:24.5890141+00:00",
+      "NumProgressed": 11378,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4840,7 +4845,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2276
     },
     {
       "ID": "03_TheStolenStar",
@@ -4848,7 +4853,7 @@
       "Name": "Stolen Star",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -4864,7 +4869,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4944,7 +4949,7 @@
       "Name": "Pentakill",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "16_TheRise",
@@ -4952,7 +4957,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "17_TheExemplar",
@@ -4960,7 +4965,7 @@
       "Name": "Exemplar",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -4968,7 +4973,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "19_TheVoidWolf",
@@ -4984,7 +4989,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "21_PreciseDefense",
@@ -5040,7 +5045,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -5072,7 +5077,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "32_AviationSaviour",
@@ -5088,7 +5093,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5112,7 +5117,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -5120,7 +5125,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -5152,7 +5157,7 @@
       "Name": "Jungle Heat",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5192,7 +5197,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "47_AFlame",
@@ -5216,7 +5221,7 @@
       "Name": "How Did It All End?",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "50_Whodunit",
@@ -5224,7 +5229,7 @@
       "Name": "Whodunit?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -5256,7 +5261,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -5264,7 +5269,7 @@
       "Name": "Returning the Boots",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -5272,7 +5277,7 @@
       "Name": "Thorough Investigation",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -5280,7 +5285,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -5296,7 +5301,7 @@
       "Name": "The Possessed Ship",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -5359,7 +5364,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11373,
+      "Progressed": 11378,
       "Completed": 1
     }
   ],
@@ -5367,8 +5372,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T20:00:45.2874377+00:00",
-  "LastChanged_Achievements": "2024-01-14T07:10:16.9786214+00:00",
+  "LastChanged_Achievements": "2024-01-14T08:11:24.5890138+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
   "LastUpdate_Ratings": "2024-01-14T07:02:42.335735+00:00",
-  "LastUpdate_Achievements": "2024-01-14T07:10:16.9787045+00:00"
+  "LastUpdate_Achievements": "2024-01-14T08:11:24.5890972+00:00"
 }

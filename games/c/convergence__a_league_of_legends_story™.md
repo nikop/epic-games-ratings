@@ -30,7 +30,7 @@ Rating: 4.70 (Ranked 220)
 | Street Style | 19.00% | ~251 |
 | The Man Who Shattered Time | 18.00% | ~238 |
 | The Family Fortune | 18.00% | ~238 |
-| Whiz Kid | 15.00% | ~198 |
+| Whiz Kid | 16.00% | ~211 |
 | Good Neighbor | 15.00% | ~198 |
 | Family Memories | 14.00% | ~185 |
 | Chaincrawler Explorer | 13.00% | ~172 |
