@@ -32,43 +32,43 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,605 |
 | Project Arena | 1.00% | ~698 |
 | Fight the way you practice | 0.80% | ~558 |
-| Muk Yan Master | 0.70% | ~5,323 |
-| Tiger on Fire | 0.70% | ~5,323 |
-| Detective Story | 0.70% | ~5,323 |
+| Muk Yan Master | 0.70% | ~5,324 |
+| Tiger on Fire | 0.70% | ~5,324 |
+| Detective Story | 0.70% | ~5,324 |
 | Source of Flying Daggers | 0.60% | ~4,563 |
 | Iron Money | 0.60% | ~4,563 |
 | Sword Stained With Blood | 0.60% | ~4,563 |
 | Bloody Sport | 0.60% | ~419 |
 | Martial Hub | 0.60% | ~419 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,802 |
-| Prodigal Child | 0.50% | ~3,802 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,802 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,803 |
+| Prodigal Child | 0.50% | ~3,803 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,803 |
 | The Pit Protector | 0.40% | ~3,042 |
 | Come Snap With Me | 0.40% | ~3,042 |
 | The best strikes are the ones we avoid | 0.40% | ~279 |
-| Drunken Fighter | 0.30% | ~2,281 |
-| Martial Artist | 0.30% | ~2,281 |
-| Knowledge Greed | 0.30% | ~2,281 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,281 |
+| Drunken Fighter | 0.30% | ~2,282 |
+| Martial Artist | 0.30% | ~2,282 |
+| Knowledge Greed | 0.30% | ~2,282 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,282 |
+| Be like water my friend | 0.30% | ~2,282 |
 | Deadly Venom | 0.30% | ~209 |
 | A Touch of Acumen | 0.30% | ~209 |
 | Healing Memory | 0.20% | ~1,521 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,521 |
-| Be like water my friend | 0.20% | ~1,521 |
 | Secure, Protect, Leave | 0.20% | ~140 |
 | Crouching Tiger | 0.20% | ~140 |
 | Skill and an even stronger will | 0.20% | ~140 |
 | Master of the Flying Assassins | 0.20% | ~140 |
 | Beatmaker | 0.20% | ~140 |
-| Warriors from the Mountain | 0.10% | ~760 |
+| Warriors from the Mountain | 0.10% | ~761 |
 | Hidden Dragon | 0.10% | ~70 |
 | Here Cometh the Iceman | 0.10% | ~70 |
 | Fighter in the Pond | 0.10% | ~70 |
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,493 (Ranked 26)  
-Completed: 12,986 (1.71%) (Ranked 146)  
+Progressed: 760,506 (Ranked 26)  
+Completed: 12,987 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 12,986 (1.71%) (Ranked 146)
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
-| 2024-01-14 | 760,493 | 12,986 |
+| 2024-01-14 | 760,506 | 12,987 |
 ## Awards
 Max (Great Boss Battles): 7,194  (Ranked 57)  
 Sum: 12,733 (Ranked 85)  

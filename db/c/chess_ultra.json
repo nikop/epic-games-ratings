@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-23T15:00:00+00:00",
     "PcReleaseDate": "2017-06-21T00:00:00+00:00",
@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 227678,
+  "EOS_Progressed": 227679,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1203,
+  "EOS_NewPlayers": 1193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31266,6 +31266,11 @@
       "Time": "2024-01-14T05:06:53.959748+00:00",
       "NumProgressed": 227678,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T06:05:34.0228553+00:00",
+      "NumProgressed": 227679,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -31333,7 +31338,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68303
+      "UsersEstimate": 68304
     },
     {
       "ID": "ChessChampion",
@@ -31349,7 +31354,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 161651
+      "UsersEstimate": 161652
     },
     {
       "ID": "DoubleCheck",
@@ -31357,7 +31362,7 @@
       "Name": "Double Check",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15937
+      "UsersEstimate": 15938
     },
     {
       "ID": "DoubledPawn",
@@ -31365,7 +31370,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 129776
+      "UsersEstimate": 129777
     },
     {
       "ID": "Elo",
@@ -31517,7 +31522,7 @@
       "Name": "Spanish Bishop",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 47812
+      "UsersEstimate": 47813
     },
     {
       "ID": "Stalemate",
@@ -31580,7 +31585,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 227678,
+      "Progressed": 227679,
       "Completed": 2
     }
   ],
@@ -31588,8 +31593,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:06:53.9597478+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:05:34.022855+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:16.5488117+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:00:52.9455919+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:06:53.9598865+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:59:41.7567433+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:05:34.0230406+00:00"
 }

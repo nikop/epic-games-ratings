@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7780,
+  "EOS_Progressed": 7781,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -6943,6 +6943,11 @@
       "Time": "2024-01-13T23:05:53.9438704+00:00",
       "NumProgressed": 7780,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-14T06:04:15.7450991+00:00",
+      "NumProgressed": 7781,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -6986,7 +6991,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -6994,7 +6999,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -7042,7 +7047,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "AK_ON_TOWN",
@@ -7050,7 +7055,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7066,7 +7071,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -7074,7 +7079,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -7122,7 +7127,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7130,7 +7135,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -7169,15 +7174,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7780,
+      "Progressed": 7781,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:05:37.5721395+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:04:15.7450985+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:04:42.7582863+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:05:37.5721909+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:03:18.0491878+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:04:15.7451425+00:00"
 }

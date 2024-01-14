@@ -5,7 +5,7 @@ Rating: 3.75 (Ranked 1,094)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~385 |
+| I can do a thing or two | 60.00% | ~386 |
 | Buckle up | 59.00% | ~379 |
 | Quick charge | 59.00% | ~379 |
 | Hands up! | 52.00% | ~334 |
@@ -30,7 +30,7 @@ Rating: 3.75 (Ranked 1,094)
 | Please oh pleeease! | 16.00% | ~103 |
 | That's much better! | 16.00% | ~103 |
 | Hipster | 15.00% | ~96 |
-| Not as clumsy or random | 13.00% | ~83 |
+| Not as clumsy or random | 13.00% | ~84 |
 | Blade Runner | 10.00% | ~64 |
 | Perfect hearing | 9.00% | ~58 |
 | Meticulous | 7.00% | ~45 |
@@ -38,8 +38,8 @@ Rating: 3.75 (Ranked 1,094)
 | Accurate | 5.00% | ~32 |
 | Silent | 4.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 340)  
-Completed: 19 (2.96%) (Ranked 112)  
+Progressed: 643 (Ranked 340)  
+Completed: 19 (2.95%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -188,7 +188,7 @@ Completed: 19 (2.96%) (Ranked 112)
 | 2024-01-10 | 638 | 19 |
 | 2024-01-12 | 639 | 19 |
 | 2024-01-13 | 641 | 19 |
-| 2024-01-14 | 642 | 19 |
+| 2024-01-14 | 643 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

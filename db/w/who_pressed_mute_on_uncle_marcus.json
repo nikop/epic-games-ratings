@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.84,
+  "EOS_Completed_Percentage": 9.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -875,6 +875,11 @@
       "Time": "2024-01-13T20:09:46.9275+00:00",
       "NumProgressed": 305,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-14T06:09:50.5556886+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 17,
@@ -884,9 +889,9 @@
       "ID": "and_away_we_go",
       "SetID": "202dmm8",
       "Name": "And away we go!",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 269
     },
     {
       "ID": "bless_the_rain",
@@ -910,7 +915,7 @@
       "Name": "Brown nosing",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "cheat",
@@ -918,7 +923,7 @@
       "Name": "Cheat",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "delusions",
@@ -926,7 +931,7 @@
       "Name": "Delusions",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -948,9 +953,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "just_like_me",
@@ -982,7 +987,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "the_truth",
@@ -1006,7 +1011,7 @@
       "Name": "Toby foolery",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "you_are_carol_vorderman",
@@ -1021,7 +1026,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 30
     }
   ],
@@ -1029,8 +1034,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:11:08.8839157+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:50.5556881+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:32.1176252+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:02:38.8639688+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:11:08.8839298+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:57:07.2545884+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:50.5557102+00:00"
 }

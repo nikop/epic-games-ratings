@@ -8,11 +8,11 @@ Rating: 4.64 (Ranked 343)
 | Azoria Beckons | 5.00% | ~452 |
 | A Thorny Situation | 5.00% | ~452 |
 | ... And Spit Back Out | 4.00% | ~362 |
-| Calm Sailing | 3.00% | ~271 |
-| Miner 49er | 3.00% | ~271 |
-| Break-Net Speed | 3.00% | ~271 |
-| Humble Collector | 3.00% | ~271 |
-| Bramble Breaker | 3.00% | ~271 |
+| Calm Sailing | 3.00% | ~272 |
+| Miner 49er | 3.00% | ~272 |
+| Break-Net Speed | 3.00% | ~272 |
+| Humble Collector | 3.00% | ~272 |
+| Bramble Breaker | 3.00% | ~272 |
 | Open the Gate! | 2.00% | ~181 |
 | Clear the Air | 2.00% | ~181 |
 | Lumberjack | 2.00% | ~181 |
@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 343)
 | Azorian Anniversary | 1.00% | ~90 |
 | Skilled | 1.00% | ~90 |
 | Flaming Hot Completos | 0.90% | ~81 |
+| Got to Catch Them All | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
-| Got to Catch Them All | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.70% | ~63 |
 | Rumble in the Jumble | 0.70% | ~63 |
 | Fanatical Farmer | 0.70% | ~63 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,049 (Ranked 186)  
+Progressed: 9,050 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
-| 2024-01-14 | 9,049 | 1 |
+| 2024-01-14 | 9,050 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

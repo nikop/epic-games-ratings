@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8991,10 +8991,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760493,
-  "EOS_Completed": 12986,
-  "EOS_NewPlayers": 4417,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 760506,
+  "EOS_Completed": 12987,
+  "EOS_NewPlayers": 4392,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -33706,6 +33706,11 @@
       "Time": "2024-01-14T05:10:48.7717181+00:00",
       "NumProgressed": 760493,
       "NumCompleted": 12986
+    },
+    {
+      "Time": "2024-01-14T06:09:30.17407+00:00",
+      "NumProgressed": 760506,
+      "NumCompleted": 12987
     }
   ],
   "TotalAchievements": 60,
@@ -33765,7 +33770,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "08_Wude_H2",
@@ -33773,7 +33778,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "09_Wude_H3",
@@ -33797,7 +33802,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "12_MidAge",
@@ -33813,7 +33818,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -33829,7 +33834,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5323
+      "UsersEstimate": 5324
     },
     {
       "ID": "16_Detective_H2",
@@ -33837,7 +33842,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "17_Detective_H3",
@@ -33845,7 +33850,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "18_Detective_H4",
@@ -33853,7 +33858,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "19_Detective_H5",
@@ -33933,7 +33938,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3802
+      "UsersEstimate": 3803
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -33957,7 +33962,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "32_ReachMaxAge",
@@ -34019,9 +34024,9 @@
       "ID": "39_CustomTrophy_H3",
       "SetID": "adcm20g",
       "Name": "Be like water my friend",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1521
+      "UsersEstimate": 2282
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -34037,7 +34042,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -34196,21 +34201,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 69794,
-      "Completed": 10808
+      "Progressed": 69807,
+      "Completed": 10809
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760493,
-      "Completed": 12986
+      "Progressed": 760506,
+      "Completed": 12987
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-14T02:00:16.5554053+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:10:48.7717177+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:30.1740696+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:04:31.6935248+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:10:48.7718595+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:03:06.2926607+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:30.1742619+00:00"
 }

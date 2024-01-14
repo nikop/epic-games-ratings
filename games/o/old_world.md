@@ -64,15 +64,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~167 |
 | Musaeum | 1.00% | ~167 |
 | Necropolis | 1.00% | ~167 |
+| Learn to Play 3 | 1.00% | ~167 |
 | Manichaeism | 1.00% | ~167 |
 | Carthaginian Paganism | 1.00% | ~167 |
 | Egyptian Paganism | 1.00% | ~167 |
+| Building Wonders | 1.00% | ~167 |
 | Mythology | 1.00% | ~167 |
 | Champions | 0.90% | ~151 |
 | Sages | 0.90% | ~151 |
-| Learn to Play 3 | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
-| Building Wonders | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
 | Mighty | 0.80% | ~134 |
 | Good Difficulty | 0.80% | ~134 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.70% | ~117 |
 | The Clergy | 0.70% | ~117 |
 | Kushite Paganism | 0.70% | ~117 |
+| Capable | 0.60% | ~100 |
 | Conqueror | 0.60% | ~100 |
 | Ready | 0.60% | ~100 |
 | Subjugator | 0.60% | ~100 |
@@ -108,7 +109,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~84 |
-| Capable | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
 | Invincible | 0.50% | ~84 |
 | Lion | 0.50% | ~84 |
@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.20% | ~33 |
 | Glorious Difficulty | 0.20% | ~33 |
 | The Eternal Treaty | 0.20% | ~33 |
+| Run, Pheidippides, Run! | 0.20% | ~33 |
 | Pyramids in Menefer | 0.20% | ~33 |
 | Assyria | 0.20% | ~33 |
 | Persia | 0.20% | ~33 |
@@ -216,7 +217,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.10% | ~17 |
 | Game of the Week | 0.10% | ~17 |
 | Defend Where? | 0.10% | ~17 |
-| Run, Pheidippides, Run! | 0.10% | ~17 |
 | Nenikekamen | 0.10% | ~17 |
 | Get the Hellas Out | 0.10% | ~17 |
 | Not a Chance | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,740 (Ranked 169)  
+Progressed: 16,743 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,740 | 5 |
+| 2024-01-14 | 16,743 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

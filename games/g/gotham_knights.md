@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,355 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,121 |
-| Loose Ends | 33.00% | ~27,294 |
+| First Step Into the Knight | 50.00% | ~41,356 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,122 |
+| Loose Ends | 33.00% | ~27,295 |
 | To the Victor Go the Spoils | 27.00% | ~22,332 |
 | Knighthood | 26.00% | ~21,505 |
-| Get ReQ'd | 24.00% | ~19,850 |
-| Whispered Words | 24.00% | ~19,850 |
+| Get ReQ'd | 24.00% | ~19,851 |
+| Whispered Words | 24.00% | ~19,851 |
 | The Batman Family | 22.00% | ~18,196 |
 | Lock and Key | 22.00% | ~18,196 |
 | Something in the Clay | 20.00% | ~16,542 |
@@ -23,11 +23,11 @@ Rating: 4.19 (Ranked 977)
 | The Show Mud Go On | 17.00% | ~14,061 |
 | From Inside Gotham's Walls | 17.00% | ~14,061 |
 | Protector of Gotham | 16.00% | ~13,234 |
-| In Your Element | 15.00% | ~12,406 |
-| Universal Health Scare | 15.00% | ~12,406 |
-| Rock and a Hard Place | 14.00% | ~11,579 |
-| Cooldown | 14.00% | ~11,579 |
-| Voiceless | 14.00% | ~11,579 |
+| In Your Element | 15.00% | ~12,407 |
+| Universal Health Scare | 15.00% | ~12,407 |
+| Rock and a Hard Place | 14.00% | ~11,580 |
+| Cooldown | 14.00% | ~11,580 |
+| Voiceless | 14.00% | ~11,580 |
 | Shock Til They Drop | 13.00% | ~10,752 |
 | Seeking Asylum | 13.00% | ~10,752 |
 | End of an Era | 12.00% | ~9,925 |
@@ -67,8 +67,8 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,710 (Ranked 110)  
-Completed: 133 (0.16%) (Ranked 289)  
+Progressed: 82,711 (Ranked 110)  
+Completed: 134 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 133 (0.16%) (Ranked 289)
 | 2024-01-11 | 82,506 | 133 |
 | 2024-01-12 | 82,606 | 133 |
 | 2024-01-13 | 82,688 | 133 |
-| 2024-01-14 | 82,710 | 133 |
+| 2024-01-14 | 82,711 | 134 |
 ## Awards
 Max (Great Boss Battles): 3,191  (Ranked 101)  
 Sum: 5,457 (Ranked 142)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473832,
+  "EOS_Progressed": 473834,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28474,6 +28474,11 @@
       "Time": "2024-01-14T05:11:29.3632875+00:00",
       "NumProgressed": 473832,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-14T06:10:11.199153+00:00",
+      "NumProgressed": 473834,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28573,7 +28578,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312729
+      "UsersEstimate": 312730
     },
     {
       "ID": "achievement_story_landa",
@@ -28661,7 +28666,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94766
+      "UsersEstimate": 94767
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -28669,7 +28674,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161103
+      "UsersEstimate": 161104
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28893,7 +28898,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -28909,7 +28914,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208486
+      "UsersEstimate": 208487
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28941,7 +28946,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184794
+      "UsersEstimate": 184795
     },
     {
       "ID": "achievement_win_run_hard",
@@ -29116,21 +29121,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17766,
+      "Progressed": 17768,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473832,
+      "Progressed": 473834,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:11:29.3632872+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:10:11.1991528+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:00:01.2527689+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:11:29.3634659+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:58:50.6181974+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:10:11.1993139+00:00"
 }

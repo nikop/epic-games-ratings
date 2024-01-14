@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4276,
+  "EOS_Progressed": 4277,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9672,6 +9672,11 @@
       "Time": "2024-01-13T20:09:39.1360777+00:00",
       "NumProgressed": 4276,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T06:09:43.039166+00:00",
+      "NumProgressed": 4277,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9707,7 +9712,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -9819,7 +9824,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9883,7 +9888,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -9899,7 +9904,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -9907,7 +9912,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -10019,7 +10024,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10075,7 +10080,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -10250,13 +10255,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4227,
+      "Progressed": 4228,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4276,
+      "Progressed": 4277,
       "Completed": 11
     }
   ],
@@ -10264,8 +10269,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:11:01.3548366+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:43.0391653+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:01:24.8627498+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:11:01.3549487+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:00:16.886129+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:43.0392884+00:00"
 }

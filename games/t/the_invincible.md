@@ -25,7 +25,7 @@ Rating: 4.55 (Ranked 528)
 | Another giant | 14.00% | ~236 |
 | I remember everything! | 13.00% | ~219 |
 | Violent solution | 10.00% | ~168 |
-| I leave no man behind | 9.00% | ~151 |
+| I leave no man behind | 10.00% | ~168 |
 | Innate curiosity | 7.00% | ~118 |
 | Ubiquitous holes | 6.00% | ~101 |
 | The Invincible | 6.00% | ~101 |

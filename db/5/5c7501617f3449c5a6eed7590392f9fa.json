@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1320,9 +1320,9 @@
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -1655,8 +1655,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:10:34.5176197+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:15.5874294+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:59:49.8714798+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:10:34.5176667+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:58:39.9008406+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:15.5874785+00:00"
 }

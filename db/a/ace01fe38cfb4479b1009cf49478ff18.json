@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3109,6 +3109,11 @@
       "Time": "2024-01-14T03:09:46.442328+00:00",
       "NumProgressed": 946,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T06:08:47.5131177+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3175,9 +3180,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 104
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -3185,7 +3190,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3216,14 +3221,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:10:07.5211215+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:08:47.5131173+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:55.7118105+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:04:13.0318904+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:10:07.5211463+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:02:44.4160287+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:08:47.5131633+00:00"
 }

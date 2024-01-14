@@ -5,19 +5,19 @@ Rating: 4.11 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,161 |
+| Victor | 93.00% | ~4,162 |
 | World Map | 78.00% | ~3,490 |
-| Temple of Eternals | 56.00% | ~2,505 |
-| Prestigious | 52.00% | ~2,326 |
-| Fellowship Power | 41.00% | ~1,834 |
-| Full Party | 29.00% | ~1,297 |
+| Temple of Eternals | 56.00% | ~2,506 |
+| Prestigious | 52.00% | ~2,327 |
+| Fellowship Power | 41.00% | ~1,835 |
+| Full Party | 29.00% | ~1,298 |
 | Guild Power | 23.00% | ~1,029 |
 | Prestigious x10 | 20.00% | ~895 |
-| The game is on | 18.00% | ~805 |
+| The game is on | 18.00% | ~806 |
 | Exotic Merchant | 16.00% | ~716 |
 | Dragon Clicker | 15.00% | ~671 |
 | Miner Clicker | 15.00% | ~671 |
-| Inspection | 14.00% | ~626 |
+| Inspection | 14.00% | ~627 |
 | Dragon Master | 13.00% | ~582 |
 | Enlightenment | 13.00% | ~582 |
 | Hero inspection | 13.00% | ~582 |
@@ -26,7 +26,7 @@ Rating: 4.11 (Ranked 1,022)
 | Natural Talent | 11.00% | ~492 |
 | Superior | 11.00% | ~492 |
 | The Unstoppable | 11.00% | ~492 |
-| Milestone collector | 10.00% | ~447 |
+| Milestone collector | 10.00% | ~448 |
 | Doing My Part | 9.00% | ~403 |
 | Scientist | 9.00% | ~403 |
 | The power of Awakening | 9.00% | ~403 |
@@ -62,18 +62,18 @@ Rating: 4.11 (Ranked 1,022)
 | Arena Challenger | 3.00% | ~134 |
 | Ebony Jungle Liberator | 3.00% | ~134 |
 | Mythic Power | 3.00% | ~134 |
-| Enchanting skill x5 | 2.00% | ~89 |
-| Gear Enchanting | 2.00% | ~89 |
-| Guardian Master | 2.00% | ~89 |
-| Pokerface | 2.00% | ~89 |
-| What lies behind the bush | 2.00% | ~89 |
+| Enchanting skill x5 | 2.00% | ~90 |
+| Gear Enchanting | 2.00% | ~90 |
+| Guardian Master | 2.00% | ~90 |
+| Pokerface | 2.00% | ~90 |
+| What lies behind the bush | 2.00% | ~90 |
 | Cauldron Liberator | 1.00% | ~45 |
 | Conqueror | 1.00% | ~45 |
 | Titan Power | 1.00% | ~45 |
 | Transmute | 1.00% | ~45 |
 | Tree of Life | 1.00% | ~45 |
+| Angel Power | 0.90% | ~40 |
 | Enhanced War Machines | 0.90% | ~40 |
-| Angel Power | 0.80% | ~36 |
 | Silverwood liberator | 0.80% | ~36 |
 | Training makes a Pro player | 0.80% | ~36 |
 | Beast War Machines | 0.70% | ~31 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,022)
 | Jewel Enchanting | 0.10% | ~4 |
 | War Machines Army | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,474 (Ranked 209)  
+Progressed: 4,475 (Ranked 209)  
 Completed: 2 (0.04%) (Ranked 352)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 2 (0.04%) (Ranked 352)
 | 2024-01-11 | 4,414 | 2 |
 | 2024-01-12 | 4,441 | 2 |
 | 2024-01-13 | 4,472 | 2 |
-| 2024-01-14 | 4,474 | 2 |
+| 2024-01-14 | 4,475 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 481)  
 Sum: 161 (Ranked 440)  

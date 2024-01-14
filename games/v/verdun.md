@@ -1,23 +1,23 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 565)  
+Rating: 4.53 (Ranked 566)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,167 |
-| Worth it | 63.00% | ~43,750 |
-| Eagle Eye | 55.00% | ~38,195 |
-| Corpseman I | 39.00% | ~27,084 |
-| Blast fishing | 37.00% | ~25,695 |
-| Not alone | 32.00% | ~22,222 |
+| Setting an example | 78.00% | ~54,169 |
+| Worth it | 63.00% | ~43,752 |
+| Eagle Eye | 55.00% | ~38,196 |
+| Corpseman I | 39.00% | ~27,085 |
+| Blast fishing | 37.00% | ~25,696 |
+| Not alone | 32.00% | ~22,223 |
 | Headhunter I | 26.00% | ~18,056 |
-| Developers, Developers, Developers | 24.00% | ~16,667 |
-| Manual Labour I | 24.00% | ~16,667 |
-| Basic Training | 23.00% | ~15,972 |
+| Developers, Developers, Developers | 24.00% | ~16,668 |
+| Manual Labour I | 24.00% | ~16,668 |
+| Basic Training | 23.00% | ~15,973 |
 | Furchtlos und Treu | 13.00% | ~9,028 |
-| Gott Mit Uns | 12.00% | ~8,333 |
+| Gott Mit Uns | 12.00% | ~8,334 |
 | This We'll Defend! | 9.00% | ~6,250 |
 | Providentiea Memor | 9.00% | ~6,250 |
 | For King and Country | 9.00% | ~6,250 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~69 |
 | Blood Brother | 0.10% | ~69 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,445 (Ranked 116)  
+Progressed: 69,448 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-11 | 69,213 | 4 |
 | 2024-01-12 | 69,294 | 4 |
 | 2024-01-13 | 69,417 | 4 |
-| 2024-01-14 | 69,445 | 4 |
+| 2024-01-14 | 69,448 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 837 (Ranked 290)  

@@ -6,7 +6,7 @@ Rating: 4.37 (Ranked 812)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~2,097 |
-| A new Journey | 75.00% | ~2,043 |
+| A new Journey | 76.00% | ~2,070 |
 | From X to Y | 74.00% | ~2,016 |
 | Departure | 74.00% | ~2,016 |
 | Way of Iron | 72.00% | ~1,961 |

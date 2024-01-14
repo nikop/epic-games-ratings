@@ -1535,9 +1535,9 @@
       "Count": 154
     }
   ],
-  "EOS_Progressed": 14697,
+  "EOS_Progressed": 14698,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9935,6 +9935,11 @@
       "Time": "2024-01-14T05:10:38.1358754+00:00",
       "NumProgressed": 14697,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-14T06:09:19.1811084+00:00",
+      "NumProgressed": 14698,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -9946,7 +9951,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "Chatterbox",
@@ -9970,7 +9975,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8818
+      "UsersEstimate": 8819
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10008,9 +10013,9 @@
       "ID": "FirstHeroLastBattle",
       "SetID": "97dk767",
       "Name": "The Final Battle of the First Hero",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3968
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -10066,7 +10071,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "SavedElderEnt",
@@ -10074,7 +10079,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8818
+      "UsersEstimate": 8819
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10106,7 +10111,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13668
+      "UsersEstimate": 13669
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10137,15 +10142,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14697,
+      "Progressed": 14698,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-13T20:58:12.0230932+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:10:38.135875+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:19.1811079+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:59:40.11228+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:10:38.1359358+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:58:30.6268143+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:19.181172+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,066 |
-| Lost and Found | 9.00% | ~685 |
+| Malpractice Assurance | 14.00% | ~1,067 |
+| Lost and Found | 9.00% | ~686 |
 | Autodidact | 8.00% | ~10,620 |
-| This Belongs in a Museum | 7.00% | ~9,292 |
+| This Belongs in a Museum | 7.00% | ~9,293 |
 | This guy... again? | 7.00% | ~533 |
 | Serenity Now! | 6.00% | ~7,965 |
 | Creep and Sleep | 6.00% | ~7,965 |
@@ -17,17 +17,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~7,965 |
 | Ploughshares to Swords | 6.00% | ~457 |
 | Bloody Graduation | 6.00% | ~457 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,637 |
-| It Rings a Bell | 5.00% | ~6,637 |
-| Not Today! | 5.00% | ~6,637 |
-| Meat and Greet | 5.00% | ~6,637 |
-| Catch and Decease | 5.00% | ~6,637 |
-| It Happens | 5.00% | ~6,637 |
-| Rush Hour | 5.00% | ~6,637 |
-| Merry Time | 5.00% | ~6,637 |
-| To Grandmother's House | 5.00% | ~6,637 |
-| A Place to Lay Your Head | 5.00% | ~6,637 |
-| FNG | 5.00% | ~6,637 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,638 |
+| It Rings a Bell | 5.00% | ~6,638 |
+| Not Today! | 5.00% | ~6,638 |
+| Meat and Greet | 5.00% | ~6,638 |
+| Catch and Decease | 5.00% | ~6,638 |
+| It Happens | 5.00% | ~6,638 |
+| Rush Hour | 5.00% | ~6,638 |
+| Merry Time | 5.00% | ~6,638 |
+| To Grandmother's House | 5.00% | ~6,638 |
+| A Place to Lay Your Head | 5.00% | ~6,638 |
+| FNG | 5.00% | ~6,638 |
 | Unleash Hell | 4.00% | ~5,310 |
 | Unfulfilled Desires | 4.00% | ~5,310 |
 | Dissector | 4.00% | ~5,310 |
@@ -40,19 +40,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 4.00% | ~5,310 |
 | Unshackled | 4.00% | ~5,310 |
 | Friends 'Til the End | 4.00% | ~305 |
-| Resurrection | 3.00% | ~3,982 |
-| Funny Guy | 3.00% | ~3,982 |
-| Long Live the King | 3.00% | ~3,982 |
-| Wyrdly Reconstructed | 3.00% | ~3,982 |
-| Boxcar Kid | 3.00% | ~3,982 |
-| Hope Rekindled | 3.00% | ~3,982 |
-| Predator | 3.00% | ~3,982 |
-| Deprogramming | 3.00% | ~3,982 |
-| Reverse Banditry | 3.00% | ~3,982 |
-| A Clear Conscience | 3.00% | ~3,982 |
-| When You Want Something Done Right | 3.00% | ~3,982 |
-| Utopia | 3.00% | ~3,982 |
-| Road Trip | 3.00% | ~3,982 |
+| Resurrection | 3.00% | ~3,983 |
+| Funny Guy | 3.00% | ~3,983 |
+| Long Live the King | 3.00% | ~3,983 |
+| Wyrdly Reconstructed | 3.00% | ~3,983 |
+| Boxcar Kid | 3.00% | ~3,983 |
+| Hope Rekindled | 3.00% | ~3,983 |
+| Predator | 3.00% | ~3,983 |
+| Deprogramming | 3.00% | ~3,983 |
+| Reverse Banditry | 3.00% | ~3,983 |
+| A Clear Conscience | 3.00% | ~3,983 |
+| When You Want Something Done Right | 3.00% | ~3,983 |
+| Utopia | 3.00% | ~3,983 |
+| Road Trip | 3.00% | ~3,983 |
 | This Looks Familiar | 2.00% | ~2,655 |
 | Ichthyophobic | 2.00% | ~2,655 |
 | No More Mouths to Feed | 2.00% | ~2,655 |
@@ -60,33 +60,33 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hot Air | 2.00% | ~2,655 |
 | Eyes Up | 2.00% | ~2,655 |
 | Handled | 2.00% | ~2,655 |
-| Clearing the Ledger | 1.00% | ~1,327 |
-| Hat Trick | 1.00% | ~1,327 |
-| Shrine of Reflection | 1.00% | ~1,327 |
-| Triage | 1.00% | ~1,327 |
-| Body of Work | 1.00% | ~1,327 |
+| Clearing the Ledger | 1.00% | ~1,328 |
+| Hat Trick | 1.00% | ~1,328 |
+| Shrine of Reflection | 1.00% | ~1,328 |
+| Triage | 1.00% | ~1,328 |
+| Body of Work | 1.00% | ~1,328 |
 | No Mercy | 1.00% | ~76 |
 | Slap on the Wrist | 1.00% | ~76 |
 | For Old Time' Sake | 1.00% | ~76 |
 | Et Tu, Riposte? | 0.90% | ~69 |
 | The World As It Was | 0.70% | ~929 |
-| A Life Well Lived | 0.60% | ~796 |
-| Bacon Bits | 0.60% | ~796 |
+| A Life Well Lived | 0.60% | ~797 |
+| Bacon Bits | 0.60% | ~797 |
 | On This Long Road, We Found Redemption | 0.60% | ~46 |
 | Eidetic | 0.50% | ~664 |
 | Tears in the Rain | 0.40% | ~531 |
 | Battle Hardened | 0.40% | ~30 |
 | Maître De La Lame | 0.40% | ~30 |
 | Grand Slam | 0.30% | ~398 |
-| Circle of Life | 0.20% | ~265 |
-| 20,000 Leagues Above the Sea | 0.20% | ~265 |
+| Circle of Life | 0.20% | ~266 |
+| 20,000 Leagues Above the Sea | 0.20% | ~266 |
 | These Boots Are Made For Kickin' | 0.20% | ~15 |
 | Loop Year | 0.10% | ~133 |
 | No Gravestone Left Unturned | 0.10% | ~133 |
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,745 (Ranked 92)  
+Progressed: 132,751 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,745 | 4 |
+| 2024-01-14 | 132,751 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,637 (Ranked 58)  

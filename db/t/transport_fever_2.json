@@ -2,13 +2,13 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 283,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -899,7 +899,7 @@
   ],
   "EOS_Progressed": 2474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7240,9 +7240,9 @@
       "ID": "achFirstShipArrived",
       "SetID": "dgl390n",
       "Name": "First ship arrived",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1039
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -7472,8 +7472,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:10:37.422531+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:18.5230806+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:40.3828724+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:04:26.1058559+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:10:37.4225931+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:03:00.2652327+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:18.5231584+00:00"
 }

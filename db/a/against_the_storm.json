@@ -3947,9 +3947,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20768,
+  "EOS_Progressed": 20769,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19577,6 +19577,11 @@
       "Time": "2024-01-14T05:07:38.6991681+00:00",
       "NumProgressed": 20768,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T06:06:19.8455199+00:00",
+      "NumProgressed": 20769,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19677,7 +19682,7 @@
       "Name": "First Real Expedition",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "WinHard",
@@ -19869,7 +19874,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "WinOnMoorlands",
@@ -20021,7 +20026,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "WinNearPresence",
@@ -20060,15 +20065,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20768,
+      "Progressed": 20769,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:07:38.6991678+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:06:19.8455195+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:01:29.7687265+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:07:38.6992955+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:00:23.5263603+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:06:19.8456188+00:00"
 }

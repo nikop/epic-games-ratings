@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2385,
+  "EOS_Progressed": 2386,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4507,6 +4507,11 @@
       "Time": "2024-01-14T02:01:26.1584398+00:00",
       "NumProgressed": 2385,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T06:03:55.9480529+00:00",
+      "NumProgressed": 2386,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4542,7 +4547,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Achievement_006",
@@ -4612,9 +4617,9 @@
       "ID": "Achievement_014",
       "SetID": "6b34g18",
       "Name": "Monster Hunters Club",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_015",
@@ -4822,7 +4827,7 @@
       "Name": "Heart Attack",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Achievement_041",
@@ -5045,7 +5050,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2385,
+      "Progressed": 2386,
       "Completed": 0
     }
   ],
@@ -5053,8 +5058,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:05:17.9323179+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:03:55.9480525+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:00:02.3541259+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:05:17.9324085+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:58:51.8271285+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:03:55.9481206+00:00"
 }

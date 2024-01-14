@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1985,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3664,6 +3664,11 @@
       "Time": "2024-01-13T23:08:01.8890283+00:00",
       "NumProgressed": 1985,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T06:05:45.313511+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3699,7 +3704,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "13",
@@ -3723,7 +3728,7 @@
       "Name": "Back to rust",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "16",
@@ -3763,7 +3768,7 @@
       "Name": "Flower Powered",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "20",
@@ -3771,7 +3776,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "21",
@@ -3883,7 +3888,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "7",
@@ -3914,15 +3919,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1985,
+      "Progressed": 1986,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:07:04.9016791+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:05:45.3135106+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:58:40.0313277+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:07:04.9017195+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:57:26.3982706+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:05:45.313544+00:00"
 }

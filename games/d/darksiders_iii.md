@@ -15,7 +15,7 @@ Number of Ratings: 116  (23.09.2022)
 | Just the start | 50.00% | ~294 |
 | Perfect Storm | 47.00% | ~276 |
 | All That Glitters | 46.00% | ~270 |
-| Enhance! | 42.00% | ~247 |
+| Enhance! | 43.00% | ~252 |
 | One Of the Chosen | 41.00% | ~241 |
 | Throne Potato | 40.00% | ~235 |
 | Five's a Crowd | 40.00% | ~235 |

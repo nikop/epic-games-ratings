@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16740,
+  "EOS_Progressed": 16743,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 570,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19940,6 +19940,11 @@
       "Time": "2024-01-14T05:11:32.3470507+00:00",
       "NumProgressed": 16740,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T06:10:14.6178707+00:00",
+      "NumProgressed": 16743,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20341,9 +20346,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -20925,9 +20930,9 @@
       "ID": "ACHIEVEMENT_GREECE1_RUN",
       "SetID": "9201eeb",
       "Name": "Run, Pheidippides, Run!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -21485,9 +21490,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -21853,9 +21858,9 @@
       "ID": "ACHIEVEMENT_STAT_SEVEN_WONDERS",
       "SetID": "9201eeb",
       "Name": "Building Wonders",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -22814,21 +22819,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16740,
+      "Progressed": 16743,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16740,
+      "Progressed": 16743,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:11:32.3470503+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:10:14.6178702+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:00:39.1596901+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:11:32.3480455+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:59:28.7268851+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:10:14.618825+00:00"
 }

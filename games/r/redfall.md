@@ -17,8 +17,8 @@ Rating: 3.68 (Ranked 1,097)
 | Sucks To Be You | 12.00% | ~286 |
 | Welcome to the Neighborhood | 11.00% | ~262 |
 | Throw The First Stone | 11.00% | ~262 |
-| Enter of Your Own Free Will | 10.00% | ~238 |
-| Heart Attack | 10.00% | ~238 |
+| Enter of Your Own Free Will | 10.00% | ~239 |
+| Heart Attack | 10.00% | ~239 |
 | Skin of Their Teeth | 9.00% | ~215 |
 | Grounded | 8.00% | ~191 |
 | Bad Wiring | 7.00% | ~167 |
@@ -51,8 +51,8 @@ Rating: 3.68 (Ranked 1,097)
 | Good Samaritan | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
 | Sisterhood | 0.70% | ~17 |
+| Monster Hunters Club | 0.60% | ~14 |
 | Under a Bushel | 0.60% | ~14 |
-| Monster Hunters Club | 0.50% | ~12 |
 | Friendgineering | 0.50% | ~12 |
 | Enemy of My Enemy | 0.50% | ~12 |
 | So Anyway I Started Blasting | 0.40% | ~10 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,097)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,385 (Ranked 243)  
+Progressed: 2,386 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 2,366 | 0 |
 | 2024-01-12 | 2,372 | 0 |
 | 2024-01-13 | 2,384 | 0 |
-| 2024-01-14 | 2,385 | 0 |
+| 2024-01-14 | 2,386 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 552)  
 Sum: 25 (Ranked 562)  

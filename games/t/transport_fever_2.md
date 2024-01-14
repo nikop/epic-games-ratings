@@ -1,7 +1,7 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.67 (Ranked 283)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,8 +23,8 @@ Number of Ratings: 180  (23.09.2022)
 | Sculpturer | 45.00% | ~1,113 |
 | Settled down | 44.00% | ~1,089 |
 | First electric train arrived | 43.00% | ~1,064 |
+| First ship arrived | 42.00% | ~1,039 |
 | Now what? | 42.00% | ~1,039 |
-| First ship arrived | 41.00% | ~1,014 |
 | Exemplary student | 41.00% | ~1,014 |
 | High speed | 39.00% | ~965 |
 | First aircraft arrived | 38.00% | ~940 |

@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 863,
-  "EOS_Completed": 146,
+  "EOS_Completed": 147,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.92,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 17.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3731,6 +3731,11 @@
       "Time": "2024-01-14T03:04:57.4129926+00:00",
       "NumProgressed": 863,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2024-01-14T06:03:38.684178+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 22,
@@ -3892,9 +3897,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_021",
@@ -3918,15 +3923,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 863,
-      "Completed": 146
+      "Completed": 147
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:05:01.2875781+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:03:38.6841775+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:01:30.2793762+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:05:01.2876079+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:00:24.0513672+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:03:38.684208+00:00"
 }

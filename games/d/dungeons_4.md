@@ -31,7 +31,7 @@ Rating: 4.76 (Ranked 134)
 | Tanos' Crusade Against Thalya | 48.00% | ~366 |
 | Pure Dynamite! | 46.00% | ~351 |
 | Dungeonlord Gorgu | 46.00% | ~351 |
-| All’s Well That Ends Evil | 43.00% | ~328 |
+| All’s Well That Ends Evil | 44.00% | ~336 |
 | Mana Cannon | 42.00% | ~320 |
 | The Duel | 40.00% | ~305 |
 | If Looks Could Kill | 38.00% | ~290 |
@@ -63,7 +63,7 @@ Rating: 4.76 (Ranked 134)
 | Untouchable | 17.00% | ~130 |
 | Hands Off My Stones | 15.00% | ~114 |
 | Laser Eyes Are So Useless | 14.00% | ~107 |
-| Gorgu is in the Best of Health | 12.00% | ~92 |
+| Gorgu is in the Best of Health | 13.00% | ~99 |
 | No Mana, No Cry | 11.00% | ~84 |
 | I Don't Need Any Help | 11.00% | ~84 |
 ## Popularity (Based on EOS Achievements)

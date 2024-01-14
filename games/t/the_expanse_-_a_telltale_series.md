@@ -1,13 +1,13 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.53 (Ranked 565)  
+Rating: 4.54 (Ranked 552)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,417 |
-| Captain Drummer | 16.00% | ~3,037 |
-| Celebrations are in Order | 15.00% | ~2,847 |
+| Captain Drummer | 16.00% | ~3,038 |
+| Celebrations are in Order | 15.00% | ~2,848 |
 | Martian Music | 14.00% | ~2,658 |
 | Bosmang | 14.00% | ~2,658 |
 | Impossible Objects | 14.00% | ~2,658 |
@@ -18,8 +18,8 @@ Rating: 4.53 (Ranked 565)
 | Call it Even | 10.00% | ~1,898 |
 | Safe Cracker | 10.00% | ~494 |
 | Zen Master | 10.00% | ~494 |
-| Heal Thy Medic | 9.00% | ~1,708 |
-| Madame Undersecretary | 9.00% | ~444 |
+| Heal Thy Medic | 9.00% | ~1,709 |
+| Madame Undersecretary | 9.00% | ~445 |
 | Data Archivist | 8.00% | ~1,519 |
 | Keep Arjun in Check | 8.00% | ~395 |
 | Drug Gifter | 7.00% | ~1,329 |
@@ -30,7 +30,7 @@ Rating: 4.53 (Ranked 565)
 | Master Negotiator | 6.00% | ~296 |
 | Data Logger | 5.00% | ~949 |
 | Miraculous Maya | 5.00% | ~949 |
-| Data Master | 3.00% | ~569 |
+| Data Master | 3.00% | ~570 |
 | Brother's Reaper | 2.00% | ~380 |
 | No Belter Left Behind | 2.00% | ~380 |
 | Debris Spree | 2.00% | ~380 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 565)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,983 (Ranked 159)  
+Progressed: 18,985 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 18,983 | 64 |
+| 2024-01-14 | 18,985 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -272,3 +272,4 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-06 | 4.53 | 0 | 0 |
 | 2024-01-08 | 4.52 | 0 | 0 |
 | 2024-01-11 | 4.53 | 0 | 0 |
+| 2024-01-14 | 4.54 | 0 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2314,
+  "EOS_Progressed": 2315,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4502,6 +4502,11 @@
       "Time": "2024-01-14T05:11:23.4852554+00:00",
       "NumProgressed": 2314,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T06:10:05.5454669+00:00",
+      "NumProgressed": 2315,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4513,7 +4518,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ACH_02",
@@ -4537,7 +4542,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_05",
@@ -4609,7 +4614,7 @@
       "Name": "Adventurer",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_14",
@@ -4649,7 +4654,7 @@
       "Name": "Shatter Them All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_19",
@@ -4671,9 +4676,9 @@
       "ID": "ACH_21",
       "SetID": "efe2lj",
       "Name": "Big Bazar",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 324
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_22",
@@ -4689,7 +4694,7 @@
       "Name": "Geared Up",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_24",
@@ -4713,7 +4718,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_27",
@@ -4729,7 +4734,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACH_29",
@@ -4767,9 +4772,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_35",
@@ -4800,7 +4805,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2314,
+      "Progressed": 2315,
       "Completed": 3
     }
   ],
@@ -4808,8 +4813,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-13T14:58:03.8260489+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:11:23.4852549+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:10:05.5454666+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:59:39.7535196+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:11:23.4853041+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:58:30.2427159+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:10:05.5455059+00:00"
 }

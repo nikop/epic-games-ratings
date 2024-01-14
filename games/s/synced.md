@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.13 (Ranked 1,016)  
+Rating: 4.13 (Ranked 1,017)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 46.00% | ~40,084 |
-| More Power to You | 24.00% | ~20,914 |
-| As Far Away As Possible | 21.00% | ~18,299 |
-| A Most Unstable Organism | 14.00% | ~12,200 |
-| No Time to Follow Protocol | 9.00% | ~7,843 |
-| Nano Connoisseur | 7.00% | ~6,100 |
-| Float Like a Butterfly... | 7.00% | ~6,100 |
-| In Two Places At Once | 6.00% | ~5,228 |
-| Pulling Your Weight | 3.00% | ~2,614 |
-| Reaping Rivals | 3.00% | ~2,614 |
-| fifteenth Time's the Charm | 1.00% | ~871 |
-| Gone Rogue | 1.00% | ~871 |
+| Your Lucky Day | 46.00% | ~40,093 |
+| More Power to You | 24.00% | ~20,918 |
+| As Far Away As Possible | 21.00% | ~18,303 |
+| A Most Unstable Organism | 14.00% | ~12,202 |
+| No Time to Follow Protocol | 9.00% | ~7,844 |
+| Nano Connoisseur | 7.00% | ~6,101 |
+| Float Like a Butterfly... | 7.00% | ~6,101 |
+| In Two Places At Once | 6.00% | ~5,229 |
+| Pulling Your Weight | 3.00% | ~2,615 |
+| Reaping Rivals | 3.00% | ~2,615 |
+| fifteenth Time's the Charm | 1.00% | ~872 |
+| Gone Rogue | 1.00% | ~872 |
 | Completely Customizable | 0.50% | ~436 |
 | Memory Keeper | 0.40% | ~349 |
 | Runs for Your Money | 0.30% | ~261 |
 | Past Master | 0.30% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,140 (Ranked 108)  
+Progressed: 87,158 (Ranked 108)  
 Completed: 71 (0.08%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 71 (0.08%) (Ranked 328)
 | 2024-01-11 | 86,392 | 67 |
 | 2024-01-12 | 86,671 | 68 |
 | 2024-01-13 | 87,075 | 71 |
-| 2024-01-14 | 87,140 | 71 |
+| 2024-01-14 | 87,158 | 71 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 342)  
 Sum: 586 (Ranked 328)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2739,9 +2739,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 328
+      "UsersEstimate": 336
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2771,9 +2771,9 @@
       "ID": "ach_main13tanos_dungeonlord",
       "SetID": "4hg22ll",
       "Name": "Gorgu is in the Best of Health",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_main13tanos_evilbosses",
@@ -2964,8 +2964,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:10:42.9409116+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:09:24.2900367+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:58:55.0045597+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:10:42.9409623+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:57:39.3959484+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:09:24.2901057+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,7 +777,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7231,
+  "EOS_Progressed": 7232,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
@@ -11197,6 +11197,11 @@
       "Time": "2024-01-14T03:06:16.4035994+00:00",
       "NumProgressed": 7231,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T06:04:33.7751878+00:00",
+      "NumProgressed": 7232,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11224,7 +11229,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "12",
@@ -11352,7 +11357,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "27",
@@ -11376,7 +11381,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "3",
@@ -11416,7 +11421,7 @@
       "Name": "Seat of Power",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "34",
@@ -11687,13 +11692,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7231,
+      "Progressed": 7232,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7231,
+      "Progressed": 7232,
       "Completed": 8
     }
   ],
@@ -11701,8 +11706,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:05:54.7896453+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:04:33.7751875+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:00:55.1995983+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:05:54.7897265+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:59:44.0696524+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:04:33.775279+00:00"
 }

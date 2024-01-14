@@ -4,7 +4,7 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 512,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 363,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "FinishTheGame",
@@ -707,8 +707,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:05:52.6519924+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:04:31.5500859+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.2162952+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:01:26.6290726+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:05:52.6520176+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:00:18.7305719+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:04:31.5501089+00:00"
 }

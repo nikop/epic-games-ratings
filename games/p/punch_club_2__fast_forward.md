@@ -43,9 +43,9 @@
 | No blades in the gym | 37.00% | ~216 |
 | Champion – no way back | 36.00% | ~210 |
 | Responsible approach | 36.00% | ~210 |
+| Underground dwellers | 35.00% | ~204 |
 | Deal with life | 34.00% | ~198 |
 | GYM professional | 34.00% | ~198 |
-| Underground dwellers | 34.00% | ~198 |
 | Mom got better | 33.00% | ~192 |
 | The die is cast | 33.00% | ~192 |
 | Poisoned fighter | 32.00% | ~187 |

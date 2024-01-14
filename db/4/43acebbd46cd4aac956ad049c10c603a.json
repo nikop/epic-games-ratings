@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4242,9 +4242,9 @@
       "ID": "JustOneLap",
       "SetID": "1n308hc",
       "Name": "Just One Lap",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 181
     },
     {
       "ID": "LordOfTheFiles",
@@ -4547,8 +4547,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-14T05:05:40.5403565+00:00",
+  "LastChanged_Achievements": "2024-01-14T06:04:18.7709877+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:58:38.8373063+00:00",
-  "LastUpdate_Achievements": "2024-01-14T05:05:40.5404314+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:57:25.0776219+00:00",
+  "LastUpdate_Achievements": "2024-01-14T06:04:18.7710422+00:00"
 }
