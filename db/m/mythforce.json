@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -860,9 +860,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6333,
+  "EOS_Progressed": 6335,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 161,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13215,6 +13215,11 @@
       "Time": "2024-01-14T15:04:48.5344191+00:00",
       "NumProgressed": 6333,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T16:04:58.7942532+00:00",
+      "NumProgressed": 6335,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13259,7 +13264,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13283,7 +13288,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13379,7 +13384,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13387,7 +13392,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13410,15 +13415,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6333,
+      "Progressed": 6335,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T01:56:35.1882599+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:04:48.5344188+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:04:58.7942529+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:04.6705573+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:04:48.5344771+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:03.6773179+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:04:58.7943289+00:00"
 }

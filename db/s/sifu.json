@@ -9009,9 +9009,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760706,
+  "EOS_Progressed": 760725,
   "EOS_Completed": 12988,
-  "EOS_NewPlayers": 4135,
+  "EOS_NewPlayers": 4104,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33774,6 +33774,11 @@
       "Time": "2024-01-14T15:09:25.3993893+00:00",
       "NumProgressed": 760706,
       "NumCompleted": 12988
+    },
+    {
+      "Time": "2024-01-14T16:09:33.947243+00:00",
+      "NumProgressed": 760725,
+      "NumCompleted": 12988
     }
   ],
   "TotalAchievements": 60,
@@ -33785,7 +33790,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45642
+      "UsersEstimate": 45644
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33793,7 +33798,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30428
+      "UsersEstimate": 30429
     },
     {
       "ID": "03_Vengeance_H2",
@@ -33801,7 +33806,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22822
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33937,7 +33942,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22822
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33953,7 +33958,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22822
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33961,7 +33966,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38035
+      "UsersEstimate": 38036
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33969,7 +33974,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22822
     },
     {
       "ID": "25_ShrineMind",
@@ -33993,7 +33998,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22822
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -34033,7 +34038,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22821
+      "UsersEstimate": 22822
     },
     {
       "ID": "33_BladeOneShot",
@@ -34049,7 +34054,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38035
+      "UsersEstimate": 38036
     },
     {
       "ID": "35_WideStrike",
@@ -34129,7 +34134,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -34143,9 +34148,9 @@
       "ID": "46_Arena_45Challenges",
       "SetID": "14c2oii",
       "Name": "Martial Hub",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 420
+      "UsersEstimate": 490
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -34264,21 +34269,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70007,
+      "Progressed": 70026,
       "Completed": 10810
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760706,
+      "Progressed": 760725,
       "Completed": 12988
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-14T15:03:05.9264511+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:25.3993891+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:33.9472427+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:03:05.9264516+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:25.3995221+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:03:15.6683701+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:33.9473977+00:00"
 }

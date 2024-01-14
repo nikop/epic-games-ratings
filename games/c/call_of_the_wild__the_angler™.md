@@ -1,17 +1,17 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.21 (Ranked 959)  
+Rating: 4.21 (Ranked 960)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 20.00% | ~1,663 |
+| Fish Just Got Reel | 20.00% | ~1,664 |
 | Hey Good Hookin | 17.00% | ~1,414 |
 | More Fish in the Sea | 17.00% | ~1,414 |
-| Can you smell what the Rod is Hooking | 15.00% | ~1,247 |
-| Scaling up | 15.00% | ~1,247 |
-| I'm on a Boat! | 14.00% | ~1,164 |
+| Can you smell what the Rod is Hooking | 15.00% | ~1,248 |
+| Scaling up | 15.00% | ~1,248 |
+| I'm on a Boat! | 14.00% | ~1,165 |
 | Ready to Rod and Roll | 11.00% | ~915 |
 | Fish Out of Water | 8.00% | ~665 |
 | Things that go Splash in the Night | 8.00% | ~665 |
@@ -19,7 +19,7 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 6.00% | ~499 |
 | License to Gill | 4.00% | ~333 |
 | School's Out for Summer | 4.00% | ~333 |
-| I'm Hooked! | 3.00% | ~249 |
+| I'm Hooked! | 3.00% | ~250 |
 | Diamond in the Rough | 2.00% | ~166 |
 | More than a Tourist | 1.00% | ~83 |
 | I'm the Captain Now | 1.00% | ~83 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,316 (Ranked 191)  
+Progressed: 8,318 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 8,274 | 0 |
 | 2024-01-12 | 8,296 | 0 |
 | 2024-01-13 | 8,309 | 0 |
-| 2024-01-14 | 8,316 | 0 |
+| 2024-01-14 | 8,318 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 213 (Ranked 413)  

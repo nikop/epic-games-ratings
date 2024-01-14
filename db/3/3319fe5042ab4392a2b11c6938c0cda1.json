@@ -2,10 +2,10 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 447,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2024-01-14T11:06:40.9432926+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T16:08:20.9616447+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -816,7 +821,7 @@
       "Name": "Child of the Shadows",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -856,7 +861,7 @@
       "Name": "Happy Birthday",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -926,9 +931,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "ae95dh3",
       "Name": "Two Faced",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -936,15 +941,15 @@
       "Name": "The Drop",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -1038,9 +1043,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "ae95dh3",
       "Name": "A Man Apart",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -1071,14 +1076,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:06:30.8583933+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:20.9616445+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.492546+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:55.9015845+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:06:30.8584242+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:55.1707849+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:20.9616725+00:00"
 }

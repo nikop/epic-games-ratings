@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 123,
+  "EOS_Progressed": 124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2024-01-13T01:58:25.7956499+00:00",
       "NumProgressed": 123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T16:10:05.6834584+00:00",
+      "NumProgressed": 124,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -647,17 +652,17 @@
       "ID": "christ_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Christ the Saviour",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 88
     },
     {
       "ID": "cold_feet",
       "SetID": "7i36ba9",
       "Name": "Cold Feet",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "cultipedia",
@@ -687,9 +692,9 @@
       "ID": "if_the_suit_fits",
       "SetID": "7i36ba9",
       "Name": "If The Suit Fits",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "join_the_legal_team",
@@ -729,7 +734,7 @@
       "Name": "Passive Fist",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "poor_gracie_ray",
@@ -791,9 +796,9 @@
       "ID": "the_martyr",
       "SetID": "7i36ba9",
       "Name": "The Martyr",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 95,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "the_pageant",
@@ -817,7 +822,7 @@
       "Name": "The Price is Right",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "the_swell_celebration",
@@ -848,14 +853,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 123,
+      "Progressed": 124,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:59.6367562+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:05.6834582+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9806702+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:02:37.4182513+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:59.636773+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:46.3329141+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:05.6834931+00:00"
 }

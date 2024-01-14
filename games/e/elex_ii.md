@@ -8,7 +8,7 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~107 |
 | Best Buddy | 37.00% | ~90 |
-| Civilian | 35.00% | ~85 |
+| Civilian | 36.00% | ~87 |
 | Role Model | 33.00% | ~80 |
 | Creator | 31.00% | ~75 |
 | Military Leader | 28.00% | ~68 |
@@ -42,9 +42,9 @@ Number of Ratings: 124  (23.09.2022)
 | Legendary | 3.00% | ~7 |
 | Idealist | 2.00% | ~5 |
 | Toy Time | 2.00% | ~5 |
+| Defector | 2.00% | ~5 |
 | Destroyer | 2.00% | ~5 |
 | Pack Rat | 1.00% | ~2 |
-| Defector | 1.00% | ~2 |
 | Outlaw | 1.00% | ~2 |
 | Ruthless | 0.80% | ~2 |
 | Drinker | 0.00% | ~0 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -105,7 +105,7 @@
   "Tags": [],
   "EOS_Progressed": 2322,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 343,
+  "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4603,9 +4603,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 604
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_09",
@@ -4643,9 +4643,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_14",
@@ -4844,8 +4844,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:10:03.4761763+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:09.372001+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:40.916918+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:10:03.4762313+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:37.4011882+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:09.3720751+00:00"
 }

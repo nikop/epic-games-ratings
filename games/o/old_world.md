@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~671 |
-| Settler | 4.00% | ~671 |
-| Play a Single Player Game | 4.00% | ~671 |
+| Explorer | 4.00% | ~672 |
+| Settler | 4.00% | ~672 |
+| Play a Single Player Game | 4.00% | ~672 |
 | Able | 3.00% | ~504 |
 | Architect | 3.00% | ~504 |
 | Good | 3.00% | ~504 |
@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 3.00% | ~504 |
 | Hanging Gardens | 3.00% | ~504 |
 | Oracle | 3.00% | ~504 |
+| Judaism | 3.00% | ~504 |
 | Ambitious | 2.00% | ~336 |
 | Brilliant | 2.00% | ~336 |
 | Enlightened | 2.00% | ~336 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 2.00% | ~336 |
 | Learn to Play 2 | 2.00% | ~336 |
 | Christianity | 2.00% | ~336 |
-| Judaism | 2.00% | ~336 |
 | Babylonian Paganism | 2.00% | ~336 |
 | Carthaginian Paganism | 2.00% | ~336 |
 | Greek Paganism | 2.00% | ~336 |
@@ -83,24 +83,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
 | Win a Single Player Game | 0.80% | ~134 |
-| Victorious | 0.70% | ~117 |
-| Landowners | 0.70% | ~117 |
-| Riders | 0.70% | ~117 |
-| Traders | 0.70% | ~117 |
-| Hittite Iron | 0.70% | ~117 |
-| Circus Maximus | 0.70% | ~117 |
-| Hagia Sophia | 0.70% | ~117 |
-| Via Recta Souk | 0.70% | ~117 |
-| Economic Reform | 0.70% | ~117 |
-| Military Prestige | 0.70% | ~117 |
-| Dualism | 0.70% | ~117 |
-| Legionary | 0.70% | ~117 |
-| Double Victory | 0.70% | ~117 |
-| The Clergy | 0.70% | ~117 |
-| Kushite Paganism | 0.70% | ~117 |
+| Victorious | 0.70% | ~118 |
+| Landowners | 0.70% | ~118 |
+| Riders | 0.70% | ~118 |
+| Traders | 0.70% | ~118 |
+| Hittite Iron | 0.70% | ~118 |
+| Circus Maximus | 0.70% | ~118 |
+| Hagia Sophia | 0.70% | ~118 |
+| Via Recta Souk | 0.70% | ~118 |
+| Economic Reform | 0.70% | ~118 |
+| Military Prestige | 0.70% | ~118 |
+| Dualism | 0.70% | ~118 |
+| Legionary | 0.70% | ~118 |
+| Double Victory | 0.70% | ~118 |
+| The Clergy | 0.70% | ~118 |
+| Kushite Paganism | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
 | Conqueror | 0.60% | ~101 |
+| Invincible | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
 | Pantheon | 0.60% | ~101 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
 | Devout | 0.50% | ~84 |
-| Invincible | 0.50% | ~84 |
 | Lion | 0.50% | ~84 |
 | Peacemaker | 0.50% | ~84 |
 | Strong Difficulty | 0.50% | ~84 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,785 (Ranked 169)  
+Progressed: 16,788 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,785 | 5 |
+| 2024-01-14 | 16,788 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,928 (Ranked 223)  

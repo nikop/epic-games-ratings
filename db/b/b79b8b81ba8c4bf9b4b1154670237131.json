@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16674,
+  "EOS_Progressed": 16675,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6626,6 +6626,11 @@
       "Time": "2024-01-14T14:09:12.9462929+00:00",
       "NumProgressed": 16674,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-14T16:09:40.7400136+00:00",
+      "NumProgressed": 16675,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6734,7 +6739,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "ACH_AE_21",
@@ -6742,7 +6747,7 @@
       "Name": "Foodie",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_AE_22",
@@ -6774,7 +6779,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "ACH_AE_26",
@@ -6790,7 +6795,7 @@
       "Name": "Trust Fall",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_AE_28",
@@ -6822,7 +6827,7 @@
       "Name": "Just Friends",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_AE_31",
@@ -6830,7 +6835,7 @@
       "Name": "Jailbreaker",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_AE_32",
@@ -6854,7 +6859,7 @@
       "Name": "People Person",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_AE_35",
@@ -6862,7 +6867,7 @@
       "Name": "Invincible",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_AE_4",
@@ -6894,7 +6899,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "ACH_AE_8",
@@ -6902,7 +6907,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1667
+      "UsersEstimate": 1668
     },
     {
       "ID": "ACH_AE_9",
@@ -6917,7 +6922,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16674,
+      "Progressed": 16675,
       "Completed": 15
     }
   ],
@@ -6925,8 +6930,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:34.4445586+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:40.7400133+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:57:32.8376471+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:34.4446235+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:57:29.3924307+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:40.7400683+00:00"
 }

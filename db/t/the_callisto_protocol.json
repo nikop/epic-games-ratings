@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2225,9 +2225,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22358,
+  "EOS_Progressed": 22362,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 852,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13870,6 +13870,11 @@
       "Time": "2024-01-14T15:09:42.2249531+00:00",
       "NumProgressed": 22358,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T16:09:48.6774334+00:00",
+      "NumProgressed": 22362,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13905,7 +13910,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "DISARM_ENEMY",
@@ -13913,7 +13918,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13985,7 +13990,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14009,7 +14014,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "KILL_ROBOT",
@@ -14017,7 +14022,7 @@
       "Name": "Terminated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14025,7 +14030,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3802
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14033,7 +14038,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1341
+      "UsersEstimate": 1342
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14041,7 +14046,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4024
+      "UsersEstimate": 4025
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14049,7 +14054,7 @@
       "Name": "Reforged",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14057,7 +14062,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14073,7 +14078,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14081,7 +14086,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3801
+      "UsersEstimate": 3802
     },
     {
       "ID": "STORY_HABITAT",
@@ -14256,13 +14261,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22358,
+      "Progressed": 22362,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10284,
+      "Progressed": 10288,
       "Completed": 29
     }
   ],
@@ -14270,8 +14275,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-14T11:03:14.9181782+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:42.2249529+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:48.6774331+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:03:16.498056+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:42.2250417+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:03:26.4657429+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:48.6775126+00:00"
 }

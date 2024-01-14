@@ -6,9 +6,9 @@
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1534,10 +1534,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1565,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-01-14T15:59:46.5591297+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1566,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1565,
+  "NumberOfAwards": 1566,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1557,7 +1563,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1602,9 +1608,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28329,
+  "EOS_Progressed": 28332,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14107,6 +14113,11 @@
       "Time": "2024-01-14T15:09:57.7041583+00:00",
       "NumProgressed": 28329,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T16:10:03.6579745+00:00",
+      "NumProgressed": 28332,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14182,7 +14193,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -14310,7 +14321,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "EndTimerFail",
@@ -14429,21 +14440,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28329,
+      "Progressed": 28332,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7259,
+      "Progressed": 7262,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-01-13T04:59:20.2152369+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:57.7041581+00:00",
+  "LastChanged": "2024-01-14T15:59:46.5591295+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:03.6579743+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:46.9398726+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:57.7042567+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:46.5591299+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:03.6580656+00:00"
 }

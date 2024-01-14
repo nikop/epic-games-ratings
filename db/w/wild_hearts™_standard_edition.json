@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1364,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4533,9 +4533,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 450
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_2",
@@ -4749,9 +4749,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 286
     },
     {
       "ID": "achievement_44",
@@ -4843,8 +4843,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:36.4838036+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:42.8932977+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:04.0915465+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:36.4838508+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:03.3622528+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:42.8933491+00:00"
 }

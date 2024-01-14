@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253456,
+  "EOS_Progressed": 253459,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24102,6 +24102,11 @@
       "Time": "2024-01-14T14:09:35.6659128+00:00",
       "NumProgressed": 253456,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T16:10:03.5186312+00:00",
+      "NumProgressed": 253459,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24161,7 +24166,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15207
+      "UsersEstimate": 15208
     },
     {
       "ID": "canYouDigIt",
@@ -24185,7 +24190,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38018
+      "UsersEstimate": 38019
     },
     {
       "ID": "clearCut",
@@ -24209,7 +24214,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45622
+      "UsersEstimate": 45623
     },
     {
       "ID": "curator",
@@ -24217,7 +24222,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50691
+      "UsersEstimate": 50692
     },
     {
       "ID": "didYourTime",
@@ -24289,7 +24294,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134332
+      "UsersEstimate": 134333
     },
     {
       "ID": "indegestible",
@@ -24329,7 +24334,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20276
+      "UsersEstimate": 20277
     },
     {
       "ID": "lockupLockdown",
@@ -24353,7 +24358,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126728
+      "UsersEstimate": 126730
     },
     {
       "ID": "notScared",
@@ -24383,9 +24388,9 @@
       "ID": "readyFight",
       "SetID": "d7im63i",
       "Name": "Ready? Fight!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17742
+      "UsersEstimate": 20277
     },
     {
       "ID": "rideTheWave",
@@ -24417,7 +24422,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58295
+      "UsersEstimate": 58296
     },
     {
       "ID": "thunderstruck",
@@ -24433,7 +24438,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32949
+      "UsersEstimate": 32950
     },
     {
       "ID": "treeMedalist",
@@ -24480,7 +24485,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253456,
+      "Progressed": 253459,
       "Completed": 6
     }
   ],
@@ -24488,8 +24493,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:57.6351117+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:03.518631+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:02:38.9078253+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:57.6352328+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:47.8095498+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:03.51876+00:00"
 }

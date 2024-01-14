@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,071 |
+| Malpractice Assurance | 14.00% | ~1,072 |
 | Lost and Found | 9.00% | ~689 |
 | Autodidact | 8.00% | ~10,623 |
 | This Belongs in a Museum | 7.00% | ~9,295 |
@@ -15,34 +15,34 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 6.00% | ~7,967 |
 | Overdue Notice | 6.00% | ~7,967 |
 | Escape from the Black Hole | 6.00% | ~7,967 |
-| Ploughshares to Swords | 6.00% | ~459 |
-| Bloody Graduation | 6.00% | ~459 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,639 |
-| It Rings a Bell | 5.00% | ~6,639 |
-| Not Today! | 5.00% | ~6,639 |
-| Meat and Greet | 5.00% | ~6,639 |
-| Catch and Decease | 5.00% | ~6,639 |
-| It Happens | 5.00% | ~6,639 |
-| Rush Hour | 5.00% | ~6,639 |
-| Merry Time | 5.00% | ~6,639 |
-| To Grandmother's House | 5.00% | ~6,639 |
-| A Place to Lay Your Head | 5.00% | ~6,639 |
-| FNG | 5.00% | ~6,639 |
-| Unleash Hell | 4.00% | ~5,311 |
-| Long Live the King | 4.00% | ~5,311 |
-| Unfulfilled Desires | 4.00% | ~5,311 |
-| Dissector | 4.00% | ~5,311 |
-| Banishment | 4.00% | ~5,311 |
-| Now Stay Dead | 4.00% | ~5,311 |
-| Spelunker | 4.00% | ~5,311 |
-| Harvest Festival | 4.00% | ~5,311 |
-| Ramble On | 4.00% | ~5,311 |
-| Whale | 4.00% | ~5,311 |
-| Nope | 4.00% | ~5,311 |
-| Unshackled | 4.00% | ~5,311 |
+| Ploughshares to Swords | 6.00% | ~460 |
+| Bloody Graduation | 6.00% | ~460 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,640 |
+| It Rings a Bell | 5.00% | ~6,640 |
+| Not Today! | 5.00% | ~6,640 |
+| Meat and Greet | 5.00% | ~6,640 |
+| Catch and Decease | 5.00% | ~6,640 |
+| It Happens | 5.00% | ~6,640 |
+| Rush Hour | 5.00% | ~6,640 |
+| Merry Time | 5.00% | ~6,640 |
+| To Grandmother's House | 5.00% | ~6,640 |
+| A Place to Lay Your Head | 5.00% | ~6,640 |
+| FNG | 5.00% | ~6,640 |
+| Unleash Hell | 4.00% | ~5,312 |
+| Funny Guy | 4.00% | ~5,312 |
+| Long Live the King | 4.00% | ~5,312 |
+| Unfulfilled Desires | 4.00% | ~5,312 |
+| Dissector | 4.00% | ~5,312 |
+| Banishment | 4.00% | ~5,312 |
+| Now Stay Dead | 4.00% | ~5,312 |
+| Spelunker | 4.00% | ~5,312 |
+| Harvest Festival | 4.00% | ~5,312 |
+| Ramble On | 4.00% | ~5,312 |
+| Whale | 4.00% | ~5,312 |
+| Nope | 4.00% | ~5,312 |
+| Unshackled | 4.00% | ~5,312 |
 | Friends 'Til the End | 4.00% | ~306 |
 | Resurrection | 3.00% | ~3,984 |
-| Funny Guy | 3.00% | ~3,984 |
 | Wyrdly Reconstructed | 3.00% | ~3,984 |
 | Boxcar Kid | 3.00% | ~3,984 |
 | Hope Rekindled | 3.00% | ~3,984 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~77 |
 | For Old Time' Sake | 1.00% | ~77 |
 | Et Tu, Riposte? | 0.90% | ~69 |
-| The World As It Was | 0.70% | ~929 |
+| The World As It Was | 0.70% | ~930 |
 | A Life Well Lived | 0.60% | ~797 |
 | Bacon Bits | 0.60% | ~797 |
 | On This Long Road, We Found Redemption | 0.60% | ~46 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,784 (Ranked 92)  
+Progressed: 132,790 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,784 | 4 |
+| 2024-01-14 | 132,790 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,642 (Ranked 58)  
+Sum: 21,644 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -359,7 +359,7 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,533 |
 | This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,470 |
-| This game has Amazing Storytelling | 1,446 |
+| This game has Amazing Storytelling | 1,448 |
 | This game has Quickly Understood Controls | 1,417 |
 | This game has a Creative Community | 1,095 |
 | This game has Obsessive Gameplay | 585 |
@@ -718,4 +718,4 @@ Diff (max vs sum): -7
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
-| 2024-01-14 | 4.68 | - | 8,016 | 21,642 |
+| 2024-01-14 | 4.68 | - | 8,016 | 21,644 |

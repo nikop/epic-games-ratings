@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 101,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4066,
+  "EOS_Progressed": 4067,
   "EOS_Completed": 144,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.54,
   "EosHistory": [
@@ -7367,6 +7367,11 @@
       "Time": "2024-01-14T15:05:52.1302475+00:00",
       "NumProgressed": 4066,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-14T16:06:02.361605+00:00",
+      "NumProgressed": 4067,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7426,7 +7431,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7482,14 +7487,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4066,
+      "Progressed": 4067,
       "Completed": 144
     }
   ],
@@ -7497,8 +7502,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:05:52.1302472+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:06:02.3616048+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:45.2615537+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:05:52.1302935+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:42.8153819+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:06:02.3616472+00:00"
 }

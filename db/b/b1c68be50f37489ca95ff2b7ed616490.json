@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 333,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1419,6 +1419,11 @@
       "Time": "2024-01-14T14:05:19.0478052+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T16:05:38.325554+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1429,9 +1434,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 206
     },
     {
       "ID": "10",
@@ -1439,7 +1444,7 @@
       "Name": "Masquerade",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "11",
@@ -1447,7 +1452,7 @@
       "Name": "Final questions",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "12",
@@ -1519,7 +1524,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "20",
@@ -1583,7 +1588,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "3",
@@ -1599,7 +1604,7 @@
       "Name": "A simple mistake leads to grave consequences",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "5",
@@ -1623,15 +1628,15 @@
       "Name": "It\u0027s all coming together",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "8",
       "SetID": "6bgoh8g",
       "Name": "You\u0027re probably wondering how I got here...",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "9",
@@ -1646,14 +1651,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 333,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:05:27.9747751+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:05:38.32555+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:13.0818555+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:03:07.6796124+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:05:27.9748016+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:03:18.0320776+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:05:38.3255719+00:00"
 }

@@ -3953,9 +3953,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20774,
+  "EOS_Progressed": 20776,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19613,6 +19613,11 @@
       "Time": "2024-01-14T15:06:28.5998528+00:00",
       "NumProgressed": 20774,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T16:08:18.7798639+00:00",
+      "NumProgressed": 20776,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19625,7 +19630,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "AllFood",
@@ -19697,7 +19702,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "Win5Years",
@@ -19729,7 +19734,7 @@
       "Name": "Against All Odds",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "WinNearArmory",
@@ -19793,7 +19798,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "WinNearForbidden",
@@ -19969,7 +19974,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "WinWithRuins",
@@ -20009,7 +20014,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "Year1Dangerous",
@@ -20017,7 +20022,7 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "WinNearAbandoned",
@@ -20033,7 +20038,7 @@
       "Name": "Frosts",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "WinNearGreed",
@@ -20065,7 +20070,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "WinNearStorms",
@@ -20096,15 +20101,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20774,
+      "Progressed": 20776,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-14T13:05:03.209634+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:06:28.5998527+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:18.7798636+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:00:33.5710705+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:06:28.599965+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:43.2877997+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:18.7799636+00:00"
 }

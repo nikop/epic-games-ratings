@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 550)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,8 +29,8 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 9.00% | ~39 |
 | Lobster Blisque | 7.00% | ~30 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~30 |
+| Yettisoned | 6.00% | ~26 |
 | Ultimate Smoothie | 5.00% | ~21 |
-| Yettisoned | 5.00% | ~21 |
 | Arkvoodle Doodle | 4.00% | ~17 |
 | Deincarnated | 3.00% | ~13 |
 | Forbidden Donut | 2.00% | ~9 |

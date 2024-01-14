@@ -16,10 +16,10 @@
 | Is this the end? | 24.00% | ~72 |
 | You sssaved me | 23.00% | ~69 |
 | Say hello to my little friends | 20.00% | ~60 |
-| Heal thyself | 19.00% | ~57 |
+| Heal thyself | 20.00% | ~60 |
 | Gotcha | 18.00% | ~54 |
+| Double trouble | 16.00% | ~48 |
 | It's not cheating | 16.00% | ~48 |
-| Double trouble | 15.00% | ~45 |
 | Stronk | 15.00% | ~45 |
 | Super Moth Boy | 13.00% | ~39 |
 | Welcome to Forte Ailes | 13.00% | ~39 |

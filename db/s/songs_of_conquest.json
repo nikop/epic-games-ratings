@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1188,
+  "EOS_Progressed": 1191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4112,6 +4112,11 @@
       "Time": "2024-01-14T15:09:20.8108582+00:00",
       "NumProgressed": 1188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T16:09:29.1907576+00:00",
+      "NumProgressed": 1191,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4138,9 +4143,9 @@
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ArtifactsEquipped",
@@ -4148,7 +4153,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AttackCount",
@@ -4228,7 +4233,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "Deepstrike",
@@ -4268,7 +4273,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4452,7 +4457,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 548
     },
     {
       "ID": "WielderLevel2",
@@ -4460,7 +4465,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "WielderLevel3",
@@ -4555,15 +4560,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1188,
+      "Progressed": 1191,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:20.810858+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:29.1907573+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:41.1702629+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:20.8109224+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:40.767897+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:29.1908045+00:00"
 }

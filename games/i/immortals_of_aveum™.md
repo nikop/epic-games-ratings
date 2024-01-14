@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 967)  
+Rating: 4.21 (Ranked 960)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -54,7 +54,7 @@ Rating: 4.20 (Ranked 967)
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,430 (Ranked 229)  
-Completed: 4 (0.12%) (Ranked 306)  
+Completed: 5 (0.15%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -161,7 +161,7 @@ Completed: 4 (0.12%) (Ranked 306)
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
-| 2024-01-14 | 3,430 | 4 |
+| 2024-01-14 | 3,430 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  
@@ -222,4 +222,4 @@ Diff (max vs sum): -2
 | 2024-01-11 | 4.19 | 20 | 20 |
 | 2024-01-12 | 4.19 | 20 | 20 |
 | 2024-01-13 | 4.21 | 21 | 21 |
-| 2024-01-14 | 4.20 | 21 | 21 |
+| 2024-01-14 | 4.21 | 21 | 21 |

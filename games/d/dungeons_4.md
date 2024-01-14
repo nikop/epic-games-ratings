@@ -55,8 +55,8 @@ Rating: 4.76 (Ranked 135)
 | Lavalumps on Ice! | 21.00% | ~160 |
 | To the Max! | 20.00% | ~153 |
 | To Infinity And Beyond! | 20.00% | ~153 |
+| Evilification | 20.00% | ~153 |
 | My Little Torture Chamber | 19.00% | ~145 |
-| Evilification | 19.00% | ~145 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~137 |
 | Mirror, Mirror | 18.00% | ~137 |
 | Heal Heal Blessing | 18.00% | ~137 |

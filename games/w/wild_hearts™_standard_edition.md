@@ -20,7 +20,7 @@
 | Flawless Crystal | 38.00% | ~518 |
 | Bonds of Enmity | 38.00% | ~518 |
 | Distance Devourer | 36.00% | ~491 |
-| Counter Specialist | 33.00% | ~450 |
+| Counter Specialist | 34.00% | ~464 |
 | Master of the Skies | 31.00% | ~423 |
 | Axer of Auspice | 28.00% | ~382 |
 | Fair Means or Foul | 27.00% | ~368 |
@@ -29,8 +29,8 @@
 | Single Minded | 25.00% | ~341 |
 | Snare Specialist | 24.00% | ~327 |
 | Karakuri Trail | 23.00% | ~314 |
+| Team Hunter | 21.00% | ~286 |
 | Karakuri Isle | 20.00% | ~273 |
-| Team Hunter | 20.00% | ~273 |
 | Artful Assister | 20.00% | ~273 |
 | Reincarnation Cycle Stopper | 19.00% | ~259 |
 | Human Believer | 17.00% | ~232 |

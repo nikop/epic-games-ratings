@@ -2,13 +2,13 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 580,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -5919,10 +5919,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 4373,
       "NumberOfAwardsMax": 1947
+    },
+    {
+      "Time": "2024-01-14T16:02:58.5978477+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 4382,
+      "NumberOfAwardsMax": 1947
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4373,
+  "NumberOfAwards": 4382,
   "NumberOfAwardsMax": 1947,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5936,7 +5942,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 299
+      "Count": 305
     },
     {
       "Text": "This game is Relaxing",
@@ -5948,7 +5954,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 276
+      "Count": 279
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6005,8 +6011,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-01-14T13:06:07.6183676+00:00",
+  "LastChanged": "2024-01-14T16:02:58.5978475+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.2074565+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:02:49.3580522+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:08:32.7168953+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:58.597848+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:41.1273876+00:00"
 }

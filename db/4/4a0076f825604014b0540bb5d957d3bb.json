@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -771,9 +771,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -883,9 +883,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:57.1235587+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:03.0985295+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:00.1720267+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:57.1235709+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:59.4497781+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:03.0985463+00:00"
 }

@@ -5,15 +5,15 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~180 |
-| Map reader | 64.00% | ~128 |
-| Adventurer | 63.00% | ~126 |
-| Philanthropist | 60.00% | ~120 |
+| Beginner | 90.00% | ~181 |
+| Map reader | 64.00% | ~129 |
+| Adventurer | 63.00% | ~127 |
+| Philanthropist | 60.00% | ~121 |
 | Archer | 40.00% | ~80 |
 | The brave little tailor | 39.00% | ~78 |
 | Field hand | 36.00% | ~72 |
 | Well-to-do | 32.00% | ~64 |
-| Samaritan | 28.00% | ~56 |
+| Samaritan | 29.00% | ~58 |
 | Ladies' man | 28.00% | ~56 |
 | The merciful one | 27.00% | ~54 |
 | Idiot | 23.00% | ~46 |
@@ -24,22 +24,22 @@ Rating: 4.56 (Ranked 510)
 | Archaeologist | 18.00% | ~36 |
 | Family man | 17.00% | ~34 |
 | Little hero | 17.00% | ~34 |
-| The fourth triplet | 17.00% | ~34 |
 | Sidelined | 17.00% | ~34 |
+| The fourth triplet | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
 | Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
 | Ghost hunter | 14.00% | ~28 |
 | Master detective | 14.00% | ~28 |
-| Defender | 12.00% | ~24 |
 | Peacekeeper | 12.00% | ~24 |
+| Defender | 11.00% | ~22 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
-| Titan Lord | 10.00% | ~20 |
-| Safecracker | 10.00% | ~20 |
-| Master thief | 9.00% | ~18 |
+| Titan Lord | 9.00% | ~18 |
+| Safecracker | 9.00% | ~18 |
 | Freedom fighter | 8.00% | ~16 |
+| Master thief | 8.00% | ~16 |
 | Expert | 7.00% | ~14 |
 | King of the handymen | 7.00% | ~14 |
 | Terror of the hens | 6.00% | ~12 |
@@ -47,16 +47,16 @@ Rating: 4.56 (Ranked 510)
 | Moneybags | 5.00% | ~10 |
 | King Midas | 4.00% | ~8 |
 | Rune master | 3.00% | ~6 |
-| Jester | 3.00% | ~6 |
 | Big game hunter | 2.00% | ~4 |
-| Mage | 2.00% | ~4 |
-| Sharpshooter | 2.00% | ~4 |
 | Fervent swimmer | 2.00% | ~4 |
+| Jester | 2.00% | ~4 |
+| Mage | 1.00% | ~2 |
+| Sharpshooter | 1.00% | ~2 |
 | Gladiator | 0.50% | ~1 |
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 433)  
+Progressed: 201 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 191 | 0 |
 | 2024-01-12 | 193 | 0 |
 | 2024-01-13 | 200 | 0 |
+| 2024-01-14 | 201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

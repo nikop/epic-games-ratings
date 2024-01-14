@@ -1,26 +1,26 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 959)  
+Rating: 4.21 (Ranked 960)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,363 |
-| Battering Crew | 19.00% | ~6,347 |
-| The Kingsroad | 17.00% | ~5,679 |
+| Conqueror | 40.00% | ~13,364 |
+| Battering Crew | 19.00% | ~6,348 |
+| The Kingsroad | 17.00% | ~5,680 |
 | Well Stocked | 13.00% | ~4,343 |
 | Royal Fleet | 12.00% | ~4,009 |
 | The Kraken’s Grasp | 9.00% | ~3,007 |
 | Daggers in the Dark | 8.00% | ~2,673 |
 | Alliance | 8.00% | ~2,673 |
-| Winter is Coming | 7.00% | ~2,338 |
-| Oathkeeper | 7.00% | ~2,338 |
-| Influential | 7.00% | ~2,338 |
-| A Long Journey | 7.00% | ~2,338 |
-| Ours is the Fury | 6.00% | ~2,004 |
-| We Do Not Sow | 6.00% | ~2,004 |
-| Defender of the Wall | 6.00% | ~2,004 |
+| Winter is Coming | 7.00% | ~2,339 |
+| Oathkeeper | 7.00% | ~2,339 |
+| Influential | 7.00% | ~2,339 |
+| A Long Journey | 7.00% | ~2,339 |
+| Ours is the Fury | 6.00% | ~2,005 |
+| We Do Not Sow | 6.00% | ~2,005 |
+| Defender of the Wall | 6.00% | ~2,005 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,670 |
 | Growing Strong | 5.00% | ~1,670 |
 | Hear me Roar! | 5.00% | ~1,670 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~668 |
 | War of the Five Kings | 1.00% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,407 (Ranked 141)  
+Progressed: 33,410 (Ranked 141)  
 Completed: 87 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,16 +298,16 @@ Completed: 87 (0.26%) (Ranked 268)
 | 2024-01-11 | 33,170 | 86 |
 | 2024-01-12 | 33,251 | 87 |
 | 2024-01-13 | 33,357 | 87 |
-| 2024-01-14 | 33,407 | 87 |
+| 2024-01-14 | 33,410 | 87 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 351)  
-Sum: 812 (Ranked 292)  
+Sum: 813 (Ranked 292)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |
 | This game is Extremely Fun | 113 |
-| This game is Highly Recommended | 112 |
+| This game is Highly Recommended | 113 |
 | This game has Competitive Players | 101 |
 | This game is Relaxing | 99 |
 | This game has Amazing Storytelling | 95 |
@@ -422,3 +422,4 @@ Diff (max vs sum): 59
 | 2024-01-09 | 4.21 | - | 128 | 810 |
 | 2024-01-11 | 4.21 | - | 129 | 811 |
 | 2024-01-12 | 4.21 | - | 129 | 812 |
+| 2024-01-14 | 4.21 | - | 129 | 813 |

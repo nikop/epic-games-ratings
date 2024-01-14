@@ -11,7 +11,7 @@
 | Awaken | 44.00% | ~93 |
 | Path of Corruption | 36.00% | ~76 |
 | Hope | 32.00% | ~68 |
-| Rage | 31.00% | ~65 |
+| Rage | 32.00% | ~68 |
 | Path of Pain | 25.00% | ~53 |
 | Mayhem | 19.00% | ~40 |
 | Reflections | 19.00% | ~40 |
@@ -19,7 +19,7 @@
 | Clarity | 18.00% | ~38 |
 | Health | 16.00% | ~34 |
 | Awaiting orders | 14.00% | ~30 |
-| Art critic | 11.00% | ~23 |
+| Art critic | 12.00% | ~25 |
 | Jigsaw | 11.00% | ~23 |
 | Peace | 11.00% | ~23 |
 | Lost | 9.00% | ~19 |

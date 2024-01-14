@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~305 |
-| First Blood | 64.00% | ~241 |
-| Triple Kill | 63.00% | ~238 |
-| Aspairagus | 59.00% | ~193 |
+| Seeds of War | 81.00% | ~306 |
+| First Blood | 64.00% | ~242 |
+| Triple Kill | 62.00% | ~234 |
+| Aspairagus | 59.00% | ~194 |
 | No Asperascope | 58.00% | ~219 |
-| Survivor | 55.00% | ~180 |
-| Cornivore | 54.00% | ~204 |
-| I Believe I Can Fly | 50.00% | ~188 |
+| Survivor | 56.00% | ~184 |
+| Cornivore | 53.00% | ~200 |
+| I Believe I Can Fly | 49.00% | ~185 |
 | No Diggity | 44.00% | ~144 |
 | Early Survivor | 39.00% | ~128 |
-| Bouncemato | 31.00% | ~101 |
-| 10K | 29.00% | ~109 |
+| Bouncemato | 31.00% | ~102 |
+| 10K | 29.00% | ~110 |
 | Amateur Survivor | 28.00% | ~92 |
 | 15K | 26.00% | ~98 |
 | Grave Digger | 23.00% | ~75 |
 | Drinking Problem | 22.00% | ~83 |
 | Quick-Draw Pod | 21.00% | ~69 |
-| Pork Chop Express | 20.00% | ~75 |
+| Pork Chop Express | 20.00% | ~76 |
 | Professional Survivor | 19.00% | ~62 |
 | Carrocketeer | 17.00% | ~64 |
 | Getting Started | 16.00% | ~60 |
@@ -29,14 +29,14 @@
 | This Is My Boomstick | 16.00% | ~52 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
-| Perfect | 14.00% | ~46 |
-| Quit Horsin' Around | 11.00% | ~41 |
+| Perfect | 13.00% | ~43 |
+| Quit Horsin' Around | 11.00% | ~42 |
 | Summers Here | 11.00% | ~36 |
 | Fresh Pancake | 10.00% | ~38 |
 | Quadsparagus | 10.00% | ~33 |
 | Bring Home The Bacon | 9.00% | ~34 |
 | Expert Survivor | 8.00% | ~26 |
-| Early Bird | 6.00% | ~23 |
+| Early Bird | 7.00% | ~26 |
 | Chick Magnet | 5.00% | ~19 |
 | I Have The High Ground | 5.00% | ~19 |
 | Pyromaniac | 5.00% | ~16 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 377 (Ranked 377)  
+Progressed: 378 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-06 | 374 | 0 |
 | 2024-01-09 | 375 | 0 |
 | 2024-01-13 | 376 | 0 |
-| 2024-01-14 | 377 | 0 |
+| 2024-01-14 | 378 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

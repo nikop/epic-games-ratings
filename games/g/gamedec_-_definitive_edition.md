@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 899)  
+Rating: 4.28 (Ranked 900)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,770 |
-| Powergamer | 27.00% | ~69,613 |
-| Write that down | 25.00% | ~64,456 |
-| Barely scratched the surface | 25.00% | ~64,456 |
-| Guns, lots of guns | 13.00% | ~33,517 |
-| Collector | 12.00% | ~30,939 |
-| Elementary! | 9.00% | ~23,204 |
+| I will finish what you started | 29.00% | ~74,771 |
+| Powergamer | 27.00% | ~69,614 |
+| Write that down | 25.00% | ~64,458 |
+| Barely scratched the surface | 25.00% | ~64,458 |
+| Guns, lots of guns | 13.00% | ~33,518 |
+| Collector | 12.00% | ~30,940 |
+| Elementary! | 9.00% | ~23,205 |
 | Griever | 8.00% | ~20,626 |
 | Pumpkin Jack | 8.00% | ~20,626 |
 | Wake up! | 8.00% | ~20,626 |
@@ -20,7 +20,7 @@ Number of Ratings: 33  (23.09.2022)
 | Me smart | 6.00% | ~15,470 |
 | Trash compactor | 6.00% | ~15,470 |
 | Valedictorian | 6.00% | ~15,470 |
-| Good listener | 5.00% | ~12,891 |
+| Good listener | 5.00% | ~12,892 |
 | BOY! | 4.00% | ~10,313 |
 | Ka-ching! | 4.00% | ~10,313 |
 | So you like to read? | 4.00% | ~10,313 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~516 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,826 (Ranked 69)  
+Progressed: 257,831 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,11 +328,11 @@ Completed: 8 (0.00%) (Ranked 400)
 | 2024-01-11 | 257,575 | 8 |
 | 2024-01-12 | 257,650 | 8 |
 | 2024-01-13 | 257,769 | 8 |
-| 2024-01-14 | 257,826 | 8 |
+| 2024-01-14 | 257,831 | 8 |
 ## Awards
 Max (Character Customization): 98  (Ranked 385)  
-Sum: 98 (Ranked 473)  
-Diff (max vs sum): -88  
+Sum: 98 (Ranked 474)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 98 |

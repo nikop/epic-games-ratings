@@ -3,12 +3,12 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 453,
-  "Ranking_Popularity": 430,
+  "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1891,10 +1891,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168161,
-  "EOS_Completed": 457,
-  "EOS_NewPlayers": 1103,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 168174,
+  "EOS_Completed": 458,
+  "EOS_NewPlayers": 1104,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -23066,6 +23066,11 @@
       "Time": "2024-01-14T15:06:17.3913726+00:00",
       "NumProgressed": 168161,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-14T16:06:28.1818007+00:00",
+      "NumProgressed": 168174,
+      "NumCompleted": 458
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23118,7 +23123,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -23134,7 +23139,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -23142,7 +23147,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6726
+      "UsersEstimate": 6727
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23190,7 +23195,7 @@
       "Name": "Glare",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -23206,7 +23211,7 @@
       "Name": "Hush",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -23294,7 +23299,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6726
+      "UsersEstimate": 6727
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23334,7 +23339,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -23342,7 +23347,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -23358,7 +23363,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -23366,7 +23371,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "QUEST_CHILD",
@@ -23390,7 +23395,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "QUEST_LISTENER",
@@ -23398,7 +23403,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "QUEST_YON",
@@ -23445,21 +23450,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167744,
-      "Completed": 1265
+      "Progressed": 167757,
+      "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168161,
-      "Completed": 457
+      "Progressed": 168174,
+      "Completed": 458
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:06:17.3913724+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:06:28.1818004+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:07.7319813+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:06:17.3914932+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:04.958937+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:06:28.1819169+00:00"
 }

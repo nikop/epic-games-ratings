@@ -45,10 +45,10 @@ Rating: 3.68 (Ranked 1,097)
 | Neighborhood Watch | 1.00% | ~24 |
 | Blood Brother | 1.00% | ~24 |
 | Bloody Initiate | 1.00% | ~24 |
+| Good Samaritan | 0.90% | ~21 |
 | What Lies Below | 0.80% | ~19 |
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
-| Good Samaritan | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
 | Sisterhood | 0.70% | ~17 |
 | Monster Hunters Club | 0.60% | ~14 |

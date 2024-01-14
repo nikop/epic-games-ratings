@@ -8,11 +8,11 @@ Rating: 4.13 (Ranked 1,016)
 | Break Out | 64.00% | ~1,486 |
 | Trinity | 34.00% | ~789 |
 | The Collector | 28.00% | ~650 |
+| A Taste of Wrath | 27.00% | ~627 |
 | Find Allies | 26.00% | ~604 |
-| A Taste of Wrath | 26.00% | ~604 |
+| Adventurer | 25.00% | ~580 |
 | Shatter Them All | 25.00% | ~580 |
 | Geared Up | 25.00% | ~580 |
-| Adventurer | 24.00% | ~557 |
 | Scholar | 24.00% | ~557 |
 | I Found It | 24.00% | ~557 |
 | Fashion Victim | 23.00% | ~534 |
@@ -43,7 +43,7 @@ Rating: 4.13 (Ranked 1,016)
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,322 (Ranked 246)  
-Completed: 3 (0.13%) (Ranked 301)  
+Completed: 3 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

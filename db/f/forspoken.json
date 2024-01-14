@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47248,
+  "EOS_Progressed": 47253,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18801,6 +18801,11 @@
       "Time": "2024-01-14T15:08:20.5173656+00:00",
       "NumProgressed": 47248,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T16:08:28.8360998+00:00",
+      "NumProgressed": 47253,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18828,7 +18833,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -18844,7 +18849,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -18860,7 +18865,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6142
+      "UsersEstimate": 6143
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -18868,7 +18873,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -18900,7 +18905,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -18916,7 +18921,7 @@
       "Name": "The Truth Will Out",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -18932,7 +18937,7 @@
       "Name": "None the Wiser",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "CHAPTER_11_CLEAR",
@@ -18940,7 +18945,7 @@
       "Name": "Forspoken",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -18964,7 +18969,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4252
+      "UsersEstimate": 4253
     },
     {
       "ID": "CUFF_ATTACK",
@@ -18988,7 +18993,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "JUSTCOUNTER",
@@ -19020,7 +19025,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "LOCATION_TEN",
@@ -19044,7 +19049,7 @@
       "Name": "Paragon",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MAGIC_BREAK",
@@ -19092,7 +19097,7 @@
       "Name": "Pilgrimage: Adept",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MONUMENT_FIRST",
@@ -19108,7 +19113,7 @@
       "Name": "Pilgrimage: Novice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "PARKOUR_DISTANCE",
@@ -19116,7 +19121,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "PARKOUR_TIME",
@@ -19156,7 +19161,7 @@
       "Name": "Call of the Fount: Beatified",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "SPRING_FIRST",
@@ -19164,7 +19169,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "STAYING_AIR",
@@ -19172,7 +19177,7 @@
       "Name": "I Can Fly!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "STEALTH",
@@ -19235,22 +19240,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47248,
+      "Progressed": 47253,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12085,
-      "Completed": 12085
+      "Progressed": 12090,
+      "Completed": 12090
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T02:00:05.3422246+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:08:20.5173654+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:28.8360996+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:02:58.237672+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:08:20.5174702+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:03:09.6762464+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:28.8362033+00:00"
 }

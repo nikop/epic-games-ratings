@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4123,
+  "EOS_Progressed": 4126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4954,6 +4954,11 @@
       "Time": "2024-01-14T15:06:27.6338929+00:00",
       "NumProgressed": 4123,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T16:08:17.6843985+00:00",
+      "NumProgressed": 4126,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -4990,7 +4995,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5038,7 +5043,7 @@
       "Name": "Dark Prizes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -5134,7 +5139,7 @@
       "Name": "Competitor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -5150,7 +5155,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5166,7 +5171,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1857
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5341,14 +5346,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4123,
+      "Progressed": 4126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:06:27.6338926+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:17.6843982+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:40.173711+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:06:27.6339409+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:36.6709424+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:17.6844654+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2286,9 +2286,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16785,
+  "EOS_Progressed": 16788,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19991,6 +19991,11 @@
       "Time": "2024-01-14T15:10:12.7021955+00:00",
       "NumProgressed": 16785,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T16:10:18.7657848+00:00",
+      "NumProgressed": 16788,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20434,7 +20439,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20496,9 +20501,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -20626,7 +20631,7 @@
       "Name": "Settler",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -20658,7 +20663,7 @@
       "Name": "Victorious",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -20866,7 +20871,7 @@
       "Name": "Landowners",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -20882,7 +20887,7 @@
       "Name": "Riders",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -20906,7 +20911,7 @@
       "Name": "Traders",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -21314,7 +21319,7 @@
       "Name": "Hittite Iron",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -21338,7 +21343,7 @@
       "Name": "Circus Maximus",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -21362,7 +21367,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -21474,7 +21479,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -21754,7 +21759,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -21784,9 +21789,9 @@
       "ID": "ACHIEVEMENT_RELIGION_JUDAISM",
       "SetID": "7l38kb8",
       "Name": "Judaism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_MANICHAEISM",
@@ -21938,7 +21943,7 @@
       "Name": "Economic Reform",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -21954,7 +21959,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -21962,7 +21967,7 @@
       "Name": "Dualism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -22074,7 +22079,7 @@
       "Name": "Legionary",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -22138,7 +22143,7 @@
       "Name": "Double Victory",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -22282,7 +22287,7 @@
       "Name": "The Clergy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -22722,7 +22727,7 @@
       "Name": "Kushite Paganism",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -22865,21 +22870,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16785,
+      "Progressed": 16788,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16785,
+      "Progressed": 16788,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T13:59:32.1092112+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:10:12.7021953+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:18.7657846+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:41.5416967+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:10:12.7033004+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:41.1343701+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:18.7668394+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19001,
+  "EOS_Progressed": 19003,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17354,6 +17354,11 @@
       "Time": "2024-01-14T15:04:28.3533129+00:00",
       "NumProgressed": 19001,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-14T16:04:38.5919932+00:00",
+      "NumProgressed": 19003,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17398,7 +17403,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "14",
@@ -17606,7 +17611,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "32",
@@ -17645,13 +17650,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19001,
+      "Progressed": 19003,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4955,
+      "Progressed": 4957,
       "Completed": 1318
     }
   ],
@@ -17659,8 +17664,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:04:28.3533128+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:04:38.5919926+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:06.6241429+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:04:28.3533924+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:03.8371423+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:04:38.5920782+00:00"
 }

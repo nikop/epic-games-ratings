@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-3",
   "Ranking_Rating": 204,
   "Ranking_Popularity": 222,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 580,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2013-01-15T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -1836,10 +1836,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 786,
       "NumberOfAwardsMax": 524
+    },
+    {
+      "Time": "2024-01-14T15:58:20.8585409+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 787,
+      "NumberOfAwardsMax": 524
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 786,
+  "NumberOfAwards": 787,
   "NumberOfAwardsMax": 524,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1865,7 +1871,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1915,8 +1921,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:43.0306746+00:00",
-  "LastChanged": "2024-01-13T20:57:53.4009417+00:00",
+  "LastChanged": "2024-01-14T15:58:20.8585407+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:26.4312395+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:24.0207314+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:04.2339389+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:20.8585412+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:12.1505203+00:00"
 }

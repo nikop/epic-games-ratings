@@ -6,42 +6,42 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~126,119 |
-| The Fool | 11.00% | ~115,609 |
-| Right Back At Ya | 10.00% | ~105,099 |
-| Gun Fu | 9.00% | ~94,589 |
-| The Lovers | 9.00% | ~94,589 |
-| Full Body Conversion | 7.00% | ~73,569 |
-| Christmas Tree Attack | 6.00% | ~63,059 |
-| Stanislavski's Method | 6.00% | ~63,059 |
-| The Hermit | 6.00% | ~63,059 |
-| The Wheel of Fortune | 6.00% | ~63,059 |
-| True Soldier | 6.00% | ~63,059 |
-| All the President's Men | 6.00% | ~10,777 |
-| Arachnophobia | 6.00% | ~10,777 |
-| The High Priestess | 5.00% | ~52,550 |
-| Legend of The Afterlife | 5.00% | ~52,550 |
-| Master Crafter | 4.00% | ~42,040 |
-| The Quick and the Dead | 4.00% | ~42,040 |
-| Life of the Road | 4.00% | ~42,040 |
-| True Warrior | 4.00% | ~42,040 |
-| Bushido and Chill | 3.00% | ~31,530 |
-| To Protect and Serve | 3.00% | ~31,530 |
-| I Am The Law | 3.00% | ~31,530 |
-| The World | 3.00% | ~31,530 |
-| Two Heads, One Bullet | 3.00% | ~31,530 |
-| Judy vs Night City | 3.00% | ~31,530 |
-| Relic Ruler | 3.00% | ~5,388 |
-| The Wandering Fool | 2.00% | ~21,020 |
-| The Sun | 2.00% | ~21,020 |
-| Spin Doctor | 2.00% | ~3,592 |
-| King of Wands | 2.00% | ~3,592 |
-| Easy Come, Easy Go | 2.00% | ~3,592 |
+| V for Vendetta | 12.00% | ~126,126 |
+| The Fool | 11.00% | ~115,615 |
+| Right Back At Ya | 10.00% | ~105,105 |
+| Gun Fu | 9.00% | ~94,594 |
+| The Lovers | 9.00% | ~94,594 |
+| Full Body Conversion | 7.00% | ~73,573 |
+| Christmas Tree Attack | 6.00% | ~63,063 |
+| Stanislavski's Method | 6.00% | ~63,063 |
+| The Hermit | 6.00% | ~63,063 |
+| The Wheel of Fortune | 6.00% | ~63,063 |
+| True Soldier | 6.00% | ~63,063 |
+| All the President's Men | 6.00% | ~10,780 |
+| Arachnophobia | 6.00% | ~10,780 |
+| The High Priestess | 5.00% | ~52,552 |
+| Legend of The Afterlife | 5.00% | ~52,552 |
+| Master Crafter | 4.00% | ~42,042 |
+| The Quick and the Dead | 4.00% | ~42,042 |
+| Life of the Road | 4.00% | ~42,042 |
+| True Warrior | 4.00% | ~42,042 |
+| Bushido and Chill | 3.00% | ~31,531 |
+| To Protect and Serve | 3.00% | ~31,531 |
+| I Am The Law | 3.00% | ~31,531 |
+| The World | 3.00% | ~31,531 |
+| Two Heads, One Bullet | 3.00% | ~31,531 |
+| Judy vs Night City | 3.00% | ~31,531 |
+| Relic Ruler | 3.00% | ~5,390 |
+| The Wandering Fool | 2.00% | ~21,021 |
+| The Sun | 2.00% | ~21,021 |
+| Spin Doctor | 2.00% | ~3,593 |
+| King of Wands | 2.00% | ~3,593 |
+| Easy Come, Easy Go | 2.00% | ~3,593 |
 | To Bad Decisions! | 1.00% | ~10,510 |
 | Breathtaking | 1.00% | ~10,510 |
 | Ten out of Ten | 1.00% | ~10,510 |
 | The Star | 1.00% | ~10,510 |
-| Dirty Deeds | 1.00% | ~1,796 |
+| Dirty Deeds | 1.00% | ~1,797 |
 | Autojock | 0.90% | ~9,459 |
 | The APB is Not Enough | 0.90% | ~1,617 |
 | Judgement Day | 0.90% | ~1,617 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,050,991 (Ranked 17)  
-Completed: 3,092 (0.29%) (Ranked 263)  
+Progressed: 1,051,046 (Ranked 17)  
+Completed: 3,093 (0.29%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,10 +343,10 @@ Completed: 3,092 (0.29%) (Ranked 263)
 | 2024-01-11 | 1,046,687 | 3,071 |
 | 2024-01-12 | 1,048,338 | 3,079 |
 | 2024-01-13 | 1,050,029 | 3,086 |
-| 2024-01-14 | 1,050,991 | 3,092 |
+| 2024-01-14 | 1,051,046 | 3,093 |
 ## Awards
 Max (Character Customization): 139,040  (Ranked 8)  
-Sum: 492,059 (Ranked 8)  
+Sum: 492,267 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -358,8 +358,8 @@ Diff (max vs sum): 0
 | This game has Amazing Storytelling | 28,723 |
 | This game is Extremely Fun | 28,408 |
 | This game has Amazing Characters | 28,118 |
+| This game has Quickly Understood Controls | 27,258 |
 | This game is Relaxing | 27,250 |
-| This game has Quickly Understood Controls | 27,050 |
 | This game has a Creative Community | 18,856 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -724,4 +724,4 @@ Diff (max vs sum): 0
 | 2024-01-11 | 4.67 | - | 137,500 | 484,717 |
 | 2024-01-12 | 4.67 | - | 138,203 | 487,257 |
 | 2024-01-13 | 4.67 | - | 139,040 | 490,370 |
-| 2024-01-14 | 4.67 | - | 139,040 | 492,059 |
+| 2024-01-14 | 4.67 | - | 139,040 | 492,267 |

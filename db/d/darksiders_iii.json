@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 657,
   "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -492,9 +492,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 591,
+  "EOS_Progressed": 593,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2202,6 +2202,11 @@
       "Time": "2024-01-14T13:10:48.0858054+00:00",
       "NumProgressed": 591,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T16:03:34.4018796+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2262,7 +2267,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2270,15 +2275,15 @@
       "Name": "Increased Capacity",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 130
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2286,7 +2291,7 @@
       "Name": "Increased Vigor",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2294,15 +2299,15 @@
       "Name": "Maximum Vigor",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Collect_Hollow_Flame",
       "SetID": "7a5k76n",
       "Name": "Fight Fire with Fire",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 350
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2310,7 +2315,7 @@
       "Name": "I Wanna Rock",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2318,7 +2323,7 @@
       "Name": "Freeze Frame",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -2326,7 +2331,7 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2390,7 +2395,7 @@
       "Name": "Enhance!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2404,9 +2409,9 @@
       "ID": "Crucible_Meet_Targon",
       "SetID": "7a5k76n",
       "Name": "My Evil Twin",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 36
     },
     {
       "ID": "Crucible_Wave_100",
@@ -2446,7 +2451,7 @@
       "Name": "Protector of Humanity",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -2484,9 +2489,9 @@
       "ID": "Keeper_Kill_Flame",
       "SetID": "7a5k76n",
       "Name": "Keeper of the Bonfire",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "Keeper_Kill_Force",
@@ -2508,9 +2513,9 @@
       "ID": "Keeper_Kill_Storm",
       "SetID": "7a5k76n",
       "Name": "Keeper of the Sky",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "Kill_Demon_Abraxis",
@@ -2526,7 +2531,7 @@
       "Name": "Love Tap",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2534,7 +2539,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2550,7 +2555,7 @@
       "Name": "All That Glitters",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2558,7 +2563,7 @@
       "Name": "Everybody Wants to Rule the World",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -2566,7 +2571,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 457
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2574,7 +2579,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -2582,15 +2587,15 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 130
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2598,7 +2603,7 @@
       "Name": "Throne Potato",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2622,7 +2627,7 @@
       "Name": "Helping Hand",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 378
+      "UsersEstimate": 380
     },
     {
       "ID": "Save_Humans_10",
@@ -2654,7 +2659,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2662,7 +2667,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -2670,7 +2675,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2678,7 +2683,7 @@
       "Name": "25 to Life",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2702,7 +2707,7 @@
       "Name": "Made of Sterner Stuff",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Upgrade_Weapon_First",
@@ -2725,15 +2730,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 591,
+      "Progressed": 593,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:03:23.3064011+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:03:34.4018792+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:00:10.2455708+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:03:23.3081221+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:00:11.8520235+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:03:34.4019526+00:00"
 }

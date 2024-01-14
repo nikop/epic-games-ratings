@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -3553,9 +3553,9 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 104
     },
     {
       "ID": "CompleteChapter2",
@@ -3720,8 +3720,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:05:56.1450653+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:06:06.342447+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:57:55.2047426+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:05:56.1451097+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:57:52.2355127+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:06:06.3424818+00:00"
 }

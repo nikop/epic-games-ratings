@@ -1,7 +1,7 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.22 (Ranked 953)  
+Rating: 4.22 (Ranked 954)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,8 +10,8 @@ Rating: 4.22 (Ranked 953)
 | Resignation Reprise | 2.00% | ~34 |
 | War of the worlds | 1.00% | ~17 |
 | Admiring the view | 1.00% | ~17 |
+| Blues Jam | 0.90% | ~15 |
 | Resignation | 0.90% | ~15 |
-| Blues Jam | 0.80% | ~14 |
 | Understanding | 0.80% | ~14 |
 | Family First | 0.70% | ~12 |
 | “Here boy…“ | 0.60% | ~10 |

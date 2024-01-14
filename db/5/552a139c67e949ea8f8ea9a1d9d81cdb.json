@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5027,6 +5027,11 @@
       "Time": "2024-01-14T12:08:02.2761888+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T16:08:30.3969787+00:00",
+      "NumProgressed": 1959,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5119,7 +5124,7 @@
       "Name": "It\u0027s me you have to beat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -5311,7 +5316,7 @@
       "Name": "Extra gear",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -5319,7 +5324,7 @@
       "Name": "Perfectionist",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5406,20 +5411,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1959,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1626,
+      "Progressed": 1627,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:08:22.0319274+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:30.3969783+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:02:40.4473301+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:08:22.031976+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:49.3734167+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:30.3970369+00:00"
 }

@@ -18,12 +18,12 @@
 | Everything matters | 44.00% | ~50 |
 | An expert mediator | 43.00% | ~49 |
 | DI Hardwicke | 43.00% | ~49 |
+| Betty Allen | 39.00% | ~44 |
 | Order and method | 38.00% | ~43 |
-| Betty Allen | 38.00% | ~43 |
-| The Investigation Begins | 36.00% | ~41 |
-| Irene Court-Smyth | 34.00% | ~38 |
-| Ms. Camilla B. Culsham | 33.00% | ~37 |
-| An odd series of events | 32.00% | ~36 |
+| The Investigation Begins | 37.00% | ~42 |
+| Irene Court-Smyth | 35.00% | ~40 |
+| Ms. Camilla B. Culsham | 34.00% | ~38 |
+| An odd series of events | 33.00% | ~37 |
 | The Apartment | 32.00% | ~36 |
 | Nathaniel Dryden | 30.00% | ~34 |
 | A rude awakening | 29.00% | ~33 |
@@ -36,11 +36,11 @@
 | A curious phrase | 21.00% | ~24 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~24 |
 | The Suspects | 21.00% | ~24 |
+| Horace Mountjoy | 20.00% | ~23 |
+| The Secrets | 20.00% | ~23 |
 | A peculiar fellow | 19.00% | ~21 |
-| Horace Mountjoy | 19.00% | ~21 |
 | Johan Kristiansen | 19.00% | ~21 |
 | Mortimer Ailsworth | 19.00% | ~21 |
-| The Secrets | 19.00% | ~21 |
 | Well-travelled | 18.00% | ~20 |
 | Florence Farquhar | 17.00% | ~19 |
 | The Investigation Starts Anew | 17.00% | ~19 |
@@ -48,7 +48,7 @@
 | The Penitent Magdalene | 14.00% | ~16 |
 | A true performance | 14.00% | ~16 |
 | The Denouement | 12.00% | ~14 |
-| A perilous journey | 11.00% | ~12 |
+| A perilous journey | 12.00% | ~14 |
 | Perkins | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 113 (Ranked 489)  

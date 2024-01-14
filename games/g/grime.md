@@ -6,23 +6,23 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,726 |
-| Imprint | 4.00% | ~6,726 |
+| Taste | 4.00% | ~6,727 |
+| Imprint | 4.00% | ~6,727 |
 | The Hunt | 3.00% | ~5,045 |
 | Ravenous | 3.00% | ~5,045 |
 | Weeper | 2.00% | ~3,363 |
 | Harmless | 1.00% | ~1,682 |
 | Silenced Whispers | 1.00% | ~1,682 |
 | Devourer | 1.00% | ~1,682 |
-| Yank | 0.90% | ~1,513 |
-| Sharpened Vessel | 0.90% | ~1,513 |
+| Yank | 0.90% | ~1,514 |
+| Sharpened Vessel | 0.90% | ~1,514 |
 | Scion | 0.80% | ~1,342 |
 | Jawcrab | 0.80% | ~1,345 |
 | Jawstag | 0.80% | ~1,345 |
 | Feast | 0.80% | ~1,345 |
 | Watcher | 0.70% | ~1,177 |
 | Shapely | 0.60% | ~1,009 |
-| Glare | 0.60% | ~1,006 |
+| Glare | 0.60% | ~1,007 |
 | Predator | 0.60% | ~1,009 |
 | Assimilation | 0.50% | ~841 |
 | Host | 0.50% | ~839 |
@@ -33,15 +33,15 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.40% | ~673 |
 | Breathsmith | 0.40% | ~673 |
 | Dream | 0.40% | ~671 |
-| Breath | 0.30% | ~504 |
-| Hush | 0.30% | ~504 |
-| Unwrap the Gift | 0.30% | ~504 |
-| Passage | 0.30% | ~504 |
+| Breath | 0.30% | ~505 |
+| Hush | 0.30% | ~505 |
+| Unwrap the Gift | 0.30% | ~505 |
+| Passage | 0.30% | ~505 |
 | Bloodhunter | 0.20% | ~336 |
-| Zygote | 0.20% | ~335 |
+| Zygote | 0.20% | ~336 |
 | Kinship | 0.20% | ~336 |
-| Kin | 0.20% | ~335 |
-| Listen | 0.20% | ~335 |
+| Kin | 0.20% | ~336 |
+| Listen | 0.20% | ~336 |
 | Proportions | 0.20% | ~336 |
 | Spiral Heart | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~168 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,161 (Ranked 85)  
-Completed: 457 (0.27%) (Ranked 265)  
+Progressed: 168,174 (Ranked 85)  
+Completed: 458 (0.27%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -299,11 +299,11 @@ Completed: 457 (0.27%) (Ranked 265)
 | 2024-01-11 | 167,713 | 455 |
 | 2024-01-12 | 167,856 | 456 |
 | 2024-01-13 | 168,053 | 457 |
-| 2024-01-14 | 168,161 | 457 |
+| 2024-01-14 | 168,174 | 458 |
 ## Awards
-Max (Highly Recommended): 63  (Ranked 430)  
+Max (Highly Recommended): 63  (Ranked 431)  
 Sum: 461 (Ranked 342)  
-Diff (max vs sum): 88  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 63 |

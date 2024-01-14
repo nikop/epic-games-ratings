@@ -2,13 +2,13 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 306,
+  "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -469,6 +469,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-01-14T16:02:41.6394148+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -484,10 +490,10 @@
     }
   ],
   "EOS_Progressed": 3430,
-  "EOS_Completed": 4,
-  "EOS_NewPlayers": 439,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 433,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -5528,6 +5534,11 @@
       "Time": "2024-01-14T15:09:59.4530445+00:00",
       "NumProgressed": 3430,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T16:10:05.4906493+00:00",
+      "NumProgressed": 3430,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5916,15 +5927,15 @@
       "ID": "18al4io",
       "IsBase": true,
       "Progressed": 3430,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-01-14T08:02:20.8001469+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:59.4530443+00:00",
+  "LastChanged": "2024-01-14T16:02:41.6394146+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:05.490649+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:00:31.4127647+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:59.4530952+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:41.6394153+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:05.4906989+00:00"
 }

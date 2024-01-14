@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 355,
+  "Ranking_Rating": 356,
   "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 197,
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7236,
+  "EOS_Progressed": 7237,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11212,6 +11212,11 @@
       "Time": "2024-01-14T10:06:00.9520551+00:00",
       "NumProgressed": 7236,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T16:04:56.4637302+00:00",
+      "NumProgressed": 7237,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11343,7 +11348,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "24",
@@ -11702,13 +11707,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7236,
+      "Progressed": 7237,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7236,
+      "Progressed": 7237,
       "Completed": 8
     }
   ],
@@ -11716,8 +11721,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:04:46.193539+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:04:56.4637299+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:56.6768198+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:04:46.1936334+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:57.4561549+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:04:56.4638312+00:00"
 }

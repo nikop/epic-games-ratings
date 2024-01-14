@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1089,
+  "EOS_Progressed": 1090,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -3055,6 +3055,11 @@
       "Time": "2024-01-14T14:09:17.3686877+00:00",
       "NumProgressed": 1089,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-14T16:09:45.0899388+00:00",
+      "NumProgressed": 1090,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3066,7 +3071,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3098,7 +3103,7 @@
       "Name": "The Ploy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ENDING_4",
@@ -3114,7 +3119,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ENDING_6",
@@ -3122,7 +3127,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ENDING_7",
@@ -3138,7 +3143,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3170,7 +3175,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3210,7 +3215,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -3225,7 +3230,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1089,
+      "Progressed": 1090,
       "Completed": 13
     }
   ],
@@ -3233,8 +3238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:09:38.7316149+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:45.0899384+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:41.2959709+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:09:38.7316453+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:40.8855031+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:45.0899634+00:00"
 }

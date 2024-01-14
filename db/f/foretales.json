@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "doubleTrouble",
       "SetID": "5bkacmp",
       "Name": "Double trouble",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "familyReunion",
@@ -547,9 +547,9 @@
       "ID": "theHealer",
       "SetID": "5bkacmp",
       "Name": "Heal thyself",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "theMediumPlace",
@@ -636,8 +636,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:06:26.356439+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:16.3420144+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.1478942+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:34.4267613+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:06:26.3564712+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:34.0194076+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:16.3420552+00:00"
 }

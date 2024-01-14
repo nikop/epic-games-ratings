@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -811,9 +811,9 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SHOP_LEVEL_UP_COMBO_MAX",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:08:22.9528629+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:08:31.4504071+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:02:43.7976761+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:08:22.9529155+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:02:52.9283217+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:31.4504623+00:00"
 }

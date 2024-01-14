@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1324,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4025,6 +4025,11 @@
       "Time": "2024-01-14T13:13:50.3056579+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T16:10:14.9916868+00:00",
+      "NumProgressed": 1324,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4068,7 +4073,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4108,7 +4113,7 @@
       "Name": "Street Style",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "CultivairChests1",
@@ -4138,9 +4143,9 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 132
     },
     {
       "ID": "FairgroundsChests1",
@@ -4188,7 +4193,7 @@
       "Name": "Whiz Kid",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "GrindingTime1",
@@ -4300,7 +4305,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4308,7 +4313,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "PidgeDefeated",
@@ -4330,9 +4335,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 357
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4436,7 +4441,7 @@
       "Name": "Good Neighbor",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4459,7 +4464,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1324,
       "Completed": 8
     }
   ],
@@ -4467,8 +4472,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:10:08.9438693+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:10:14.9916865+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:30.7531924+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:10:08.9439216+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:58:27.6984402+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:10:14.9917317+00:00"
 }

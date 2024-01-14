@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 953,
+  "Ranking_Rating": 954,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 179,
@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12315,
+  "EOS_Progressed": 12316,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15764,6 +15764,11 @@
       "Time": "2024-01-14T15:05:03.955068+00:00",
       "NumProgressed": 12315,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-14T16:05:14.2263037+00:00",
+      "NumProgressed": 12316,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15775,7 +15780,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10221
+      "UsersEstimate": 10222
     },
     {
       "ID": "ACH02",
@@ -15783,7 +15788,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4310
+      "UsersEstimate": 4311
     },
     {
       "ID": "ACH03",
@@ -15847,7 +15852,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "ACH11",
@@ -16006,7 +16011,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12315,
+      "Progressed": 12316,
       "Completed": 91
     }
   ],
@@ -16014,8 +16019,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:05:03.9550678+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:05:14.2263036+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:59:44.7091404+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:05:03.9551704+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:59:44.2814949+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:05:14.2263905+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 393,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 3838,
   "Ranking_EOS_NewCompleters": 3839,
   "Store": {
@@ -635,7 +635,7 @@
   ],
   "EOS_Progressed": 17782,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": -113,
+  "EOS_NewPlayers": -111,
   "EOS_NewCompleters": -3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -12597,8 +12597,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2024-01-07T17:58:05.1810592+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:08:53.1145857+00:00",
+  "LastChanged_Achievements": "2024-01-14T16:09:00.8750053+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.6590484+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:58:02.9621485+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:08:53.1146485+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:57:59.3903825+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:09:00.8750871+00:00"
 }

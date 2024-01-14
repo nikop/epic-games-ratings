@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 580,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-07-20T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -12753,11 +12753,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 55390,
       "NumberOfAwardsMax": 8594
+    },
+    {
+      "Time": "2024-01-14T15:57:26.8733502+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 55412,
+      "NumberOfAwardsMax": 8605
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55390,
-  "NumberOfAwardsMax": 8594,
+  "NumberOfAwards": 55412,
+  "NumberOfAwardsMax": 8605,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12770,13 +12776,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 8594
+      "Count": 8605
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 6385
+      "Count": 6391
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12794,7 +12800,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5808
+      "Count": 5813
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12838,8 +12844,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2024-01-14T14:57:30.1362036+00:00",
+  "LastChanged": "2024-01-14T15:57:26.87335+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:31.4476854+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:57:30.1362041+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:08:22.5659842+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:57:26.8733505+00:00",
+  "LastUpdate_Achievements": "2024-01-14T16:08:30.8858404+00:00"
 }

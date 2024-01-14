@@ -1,40 +1,40 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.53 (Ranked 565)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,946 |
-| Keep 'Em Coming | 65.00% | ~4,176 |
-| Snatched Out | 64.00% | ~4,111 |
-| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,726 |
-| Call Me Snake | 54.00% | ~3,469 |
-| Something Lurks Under The Hills | 52.00% | ~3,340 |
-| This Was No Papercut | 50.00% | ~3,212 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~4,948 |
+| Keep 'Em Coming | 65.00% | ~4,177 |
+| Snatched Out | 64.00% | ~4,113 |
+| Cleaning Lethe, One Nest At A Time | 58.00% | ~3,727 |
+| Call Me Snake | 54.00% | ~3,470 |
+| Something Lurks Under The Hills | 52.00% | ~3,342 |
+| This Was No Papercut | 50.00% | ~3,213 |
 | The Shrink Hates Me | 48.00% | ~3,084 |
-| People Person | 47.00% | ~3,019 |
+| People Person | 47.00% | ~3,020 |
 | Use The Bumper, That's What It's For | 44.00% | ~2,827 |
 | First Steps Into Madness | 44.00% | ~2,827 |
-| Colonial Barrels | 42.00% | ~2,698 |
-| Harper's Hell | 38.00% | ~2,441 |
-| Making a Stand | 37.00% | ~2,377 |
-| Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,248 |
-| Where It All Begun | 33.00% | ~2,120 |
+| Colonial Barrels | 42.00% | ~2,699 |
+| Harper's Hell | 38.00% | ~2,442 |
+| Making a Stand | 37.00% | ~2,378 |
+| Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,249 |
+| Where It All Begun | 33.00% | ~2,121 |
 | Recouped Investment | 32.00% | ~2,056 |
 | Living Nightmare | 28.00% | ~1,799 |
 | The More The Merrier | 28.00% | ~1,799 |
-| Omelette Du Fromage | 26.00% | ~1,670 |
+| Omelette Du Fromage | 26.00% | ~1,671 |
 | The Darwin Era Was Here | 25.00% | ~1,606 |
 | Deep Into Insanity | 24.00% | ~1,542 |
 | The Passenger | 23.00% | ~1,478 |
-| Come on, You Wanna Live Forever? | 22.00% | ~1,413 |
+| Come on, You Wanna Live Forever? | 22.00% | ~1,414 |
 | The Spire | 21.00% | ~1,349 |
 | El Riesgo Siempre Vive | 20.00% | ~1,285 |
 | Stuff Of Nightmares | 19.00% | ~1,221 |
-| Frontliner | 18.00% | ~1,156 |
-| Excavating The Truth | 18.00% | ~1,156 |
-| Abysmal Horrors | 18.00% | ~1,156 |
+| Frontliner | 18.00% | ~1,157 |
+| Excavating The Truth | 18.00% | ~1,157 |
+| Abysmal Horrors | 18.00% | ~1,157 |
 | One For Every Occasion | 17.00% | ~1,092 |
 | The Cable Guy | 17.00% | ~1,092 |
 | Bandage Lover | 16.00% | ~1,028 |
@@ -43,15 +43,15 @@ Rating: 4.55 (Ranked 529)
 | Flawless Victory | 11.00% | ~707 |
 | Heavy Steps | 11.00% | ~707 |
 | Perfect Enhancements | 8.00% | ~514 |
-| Hardened In The Heat Of Battle | 6.00% | ~385 |
+| Hardened In The Heat Of Battle | 6.00% | ~386 |
 | The True Experience | 5.00% | ~321 |
-| Archivist | 2.00% | ~128 |
-| Fair And Square | 2.00% | ~128 |
+| Archivist | 2.00% | ~129 |
+| Fair And Square | 2.00% | ~129 |
 | Perfect Organism | 0.70% | ~45 |
 | Chalk It Up To Experience | 0.70% | ~45 |
 | This Ain't No Picnic | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,424 (Ranked 200)  
+Progressed: 6,426 (Ranked 200)  
 Completed: 3 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,14 +253,14 @@ Completed: 3 (0.05%) (Ranked 341)
 | 2024-01-11 | 6,354 | 3 |
 | 2024-01-12 | 6,384 | 3 |
 | 2024-01-13 | 6,415 | 3 |
-| 2024-01-14 | 6,424 | 3 |
+| 2024-01-14 | 6,426 | 3 |
 ## Awards
-Max (Great Boss Battles): 63  (Ranked 430)  
-Sum: 63 (Ranked 500)  
-Diff (max vs sum): -70  
+Max (Great Boss Battles): 66  (Ranked 423)  
+Sum: 66 (Ranked 497)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 63 |
+| This game has Great Boss Battles | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -346,3 +346,4 @@ Diff (max vs sum): -70
 | 2024-01-10 | 4.55 | 63 | 63 |
 | 2024-01-11 | 4.54 | 63 | 63 |
 | 2024-01-12 | 4.55 | 63 | 63 |
+| 2024-01-14 | 4.53 | 66 | 66 |
