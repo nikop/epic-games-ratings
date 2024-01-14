@@ -19,9 +19,9 @@ Number of Ratings: 38  (23.09.2022)
 | Like new! | 12.00% | ~239 |
 | Head in the clouds | 12.00% | ~239 |
 | Heartstrings | 11.00% | ~219 |
-| Back to rust | 10.00% | ~199 |
-| Flower Powered | 10.00% | ~199 |
-| Don't look back | 10.00% | ~199 |
+| Back to rust | 10.00% | ~200 |
+| Flower Powered | 10.00% | ~200 |
+| Don't look back | 10.00% | ~200 |
 | Perfect timing | 8.00% | ~160 |
 | Unstoppable | 8.00% | ~160 |
 | Ain't no mountain high enough | 7.00% | ~140 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~40 |
 | À la carte | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,994 (Ranked 253)  
+Progressed: 1,995 (Ranked 253)  
 Completed: 10 (0.50%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 10 (0.50%) (Ranked 224)
 | 2024-01-11 | 1,963 | 10 |
 | 2024-01-12 | 1,976 | 10 |
 | 2024-01-13 | 1,985 | 10 |
-| 2024-01-14 | 1,994 | 10 |
+| 2024-01-14 | 1,995 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

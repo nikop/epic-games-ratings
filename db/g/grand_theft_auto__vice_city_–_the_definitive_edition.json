@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16414,
+  "EOS_Progressed": 16415,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18157,6 +18157,11 @@
       "Time": "2024-01-14T20:10:25.4076355+00:00",
       "NumProgressed": 16414,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-14T21:10:02.4113156+00:00",
+      "NumProgressed": 16415,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18184,7 +18189,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH04",
@@ -18342,9 +18347,9 @@
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4432
     },
     {
       "ID": "ACH24",
@@ -18439,7 +18444,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16414,
+      "Progressed": 16415,
       "Completed": 100
     }
   ],
@@ -18447,8 +18452,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:25.407635+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:02.4113153+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:01:00.5328144+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:25.4077168+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:00:00.5697538+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:02.4114684+00:00"
 }

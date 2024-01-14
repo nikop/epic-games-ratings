@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17153,
+  "EOS_Progressed": 17155,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12233,6 +12233,11 @@
       "Time": "2024-01-14T20:05:44.4837629+00:00",
       "NumProgressed": 17153,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T21:04:57.9908388+00:00",
+      "NumProgressed": 17155,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12244,7 +12249,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9434
+      "UsersEstimate": 9435
     },
     {
       "ID": "Ach002",
@@ -12252,7 +12257,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "Ach003",
@@ -12268,7 +12273,7 @@
       "Name": "The Negotiator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2745
     },
     {
       "ID": "Ach005",
@@ -12284,7 +12289,7 @@
       "Name": "Time to pay up!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "Ach007",
@@ -12292,7 +12297,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "Ach008",
@@ -12420,7 +12425,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9434
+      "UsersEstimate": 9435
     },
     {
       "ID": "Ach024",
@@ -12452,7 +12457,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3602
+      "UsersEstimate": 3603
     },
     {
       "ID": "Ach028",
@@ -12468,7 +12473,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "Ach030",
@@ -12492,7 +12497,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "Ach033",
@@ -12612,7 +12617,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7033
+      "UsersEstimate": 7034
     },
     {
       "ID": "Ach048",
@@ -12644,7 +12649,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8576
+      "UsersEstimate": 8578
     },
     {
       "ID": "Ach052",
@@ -12740,7 +12745,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "Ach064",
@@ -12811,13 +12816,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17153,
+      "Progressed": 17155,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15674,
+      "Progressed": 15676,
       "Completed": 1931
     }
   ],
@@ -12825,8 +12830,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:05:44.4837625+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:04:57.9908381+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:00:07.658012+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:05:44.4838698+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:20.8549253+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:04:57.9909446+00:00"
 }

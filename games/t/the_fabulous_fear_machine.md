@@ -28,7 +28,7 @@
 | Hate is... addictive | 16.00% | ~15 |
 | Kirlian's best disciple | 16.00% | ~15 |
 | Blessed antennas | 15.00% | ~14 |
-| The bully | 14.00% | ~13 |
+| The bully | 15.00% | ~14 |
 | Pulp! The Beyond | 14.00% | ~13 |
 | The beast in the Oval Office | 12.00% | ~11 |
 | Blood Red Island | 12.00% | ~11 |

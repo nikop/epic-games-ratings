@@ -10,7 +10,7 @@ Rating: 4.11 (Ranked 1,022)
 | Temple of Eternals | 56.00% | ~2,519 |
 | Prestigious | 52.00% | ~2,339 |
 | Fellowship Power | 42.00% | ~1,890 |
-| Full Party | 29.00% | ~1,305 |
+| Full Party | 30.00% | ~1,350 |
 | Guild Power | 22.00% | ~990 |
 | Prestigious x10 | 20.00% | ~900 |
 | The game is on | 18.00% | ~810 |

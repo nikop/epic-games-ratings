@@ -7,7 +7,7 @@ Rating: 4.54 (Ranked 550)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,423 |
 | Captain Drummer | 16.00% | ~3,043 |
-| Celebrations are in Order | 15.00% | ~2,852 |
+| Celebrations are in Order | 15.00% | ~2,853 |
 | Martian Music | 14.00% | ~2,662 |
 | Bosmang | 14.00% | ~2,662 |
 | Impossible Objects | 14.00% | ~2,662 |
@@ -18,7 +18,7 @@ Rating: 4.54 (Ranked 550)
 | Zen Master | 11.00% | ~547 |
 | Call it Even | 10.00% | ~1,902 |
 | Safe Cracker | 10.00% | ~497 |
-| Heal Thy Medic | 9.00% | ~1,711 |
+| Heal Thy Medic | 9.00% | ~1,712 |
 | Madame Undersecretary | 9.00% | ~447 |
 | Data Archivist | 8.00% | ~1,521 |
 | Keep Arjun in Check | 8.00% | ~398 |
@@ -31,7 +31,7 @@ Rating: 4.54 (Ranked 550)
 | Data Logger | 5.00% | ~951 |
 | Miraculous Maya | 5.00% | ~951 |
 | Data Master | 4.00% | ~761 |
-| No Belter Left Behind | 3.00% | ~570 |
+| No Belter Left Behind | 3.00% | ~571 |
 | Brother's Reaper | 2.00% | ~380 |
 | Debris Spree | 2.00% | ~380 |
 | Data Recoverer | 2.00% | ~380 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,016 (Ranked 159)  
+Progressed: 19,017 (Ranked 159)  
 Completed: 65 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 65 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 19,016 | 65 |
+| 2024-01-14 | 19,017 | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

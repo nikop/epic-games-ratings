@@ -38,11 +38,11 @@
 | Stardust | 36.00% | ~427 |
 | Heartbreaker | 36.00% | ~427 |
 | Kidnapped! | 36.00% | ~427 |
+| All Heart | 35.00% | ~415 |
 | Trick Question! | 35.00% | ~415 |
 | Pull the Plug | 34.00% | ~403 |
 | Soul Slayer | 34.00% | ~403 |
 | The Downfall | 34.00% | ~403 |
-| All Heart | 34.00% | ~403 |
 | Final Showdown | 34.00% | ~403 |
 | Spot of Tea? | 34.00% | ~403 |
 | Going Home | 34.00% | ~403 |

@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 523,
+  "Ranking_EOS_NewPlayers": 500,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -291,6 +291,11 @@
       "Time": "2024-01-11T13:11:07.1273528+00:00",
       "NumProgressed": 125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T21:06:25.9936126+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -310,7 +315,7 @@
       "Name": "Veggie Master",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CASTLE",
@@ -318,7 +323,7 @@
       "Name": "Homecoming",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "COSMETICS",
@@ -332,9 +337,9 @@
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "FISH",
@@ -374,15 +379,15 @@
       "Name": "So it begins",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "HUNTING",
       "SetID": "3c20ib3",
       "Name": "Peaceful skies",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "HUNTSMAN",
@@ -422,15 +427,15 @@
       "Name": "Free Spirit",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_GROVE",
       "SetID": "3c20ib3",
       "Name": "I am Root!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "KILL_HOGRIDER",
@@ -438,7 +443,7 @@
       "Name": "Yeehaw!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_SANDRHINO",
@@ -446,7 +451,7 @@
       "Name": "Tururururu!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "KILL_SKULLY",
@@ -524,9 +529,9 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "UNLOCK_WELL",
@@ -534,7 +539,7 @@
       "Name": "Irrigation not irritation",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "V_VEGAN",
@@ -549,7 +554,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
@@ -557,8 +562,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:07:39.7350159+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:06:25.9936123+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:27.161863+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:00:16.5715241+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:07:39.7350411+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:27.3814452+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:06:25.9936361+00:00"
 }

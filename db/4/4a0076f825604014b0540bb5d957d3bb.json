@@ -771,9 +771,9 @@
       "ID": "CgkInO_K3eIdEAIQBA",
       "SetID": "6bj96in",
       "Name": "TRAINING DAY",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "CgkInO_K3eIdEAIQBQ",
@@ -843,9 +843,9 @@
       "ID": "CgkInO_K3eIdEAIQDQ",
       "SetID": "6bj96in",
       "Name": "TEMPORAL ARCHITECT",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "CgkInO_K3eIdEAIQDg",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:33.3829825+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:09.0194411+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:53.961333+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:33.3830168+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:11.0815235+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:09.0194637+00:00"
 }

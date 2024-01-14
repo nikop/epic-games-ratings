@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5163,9 +5163,9 @@
       "Count": 613
     }
   ],
-  "EOS_Progressed": 23832,
+  "EOS_Progressed": 23833,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1551,
+  "EOS_NewPlayers": 1525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16498,6 +16498,11 @@
       "Time": "2024-01-14T20:08:52.8584248+00:00",
       "NumProgressed": 23832,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T21:08:51.0783835+00:00",
+      "NumProgressed": 23833,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16526,7 +16531,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10486
+      "UsersEstimate": 10487
     },
     {
       "ID": "ach04",
@@ -16550,7 +16555,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15967
+      "UsersEstimate": 15968
     },
     {
       "ID": "ach07",
@@ -16558,7 +16563,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10724
+      "UsersEstimate": 10725
     },
     {
       "ID": "ach08",
@@ -16566,7 +16571,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7626
+      "UsersEstimate": 7627
     },
     {
       "ID": "ach09",
@@ -16638,7 +16643,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9771
+      "UsersEstimate": 9772
     },
     {
       "ID": "ach18",
@@ -16686,7 +16691,7 @@
       "Name": "Take And Deny",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "ach24",
@@ -16694,7 +16699,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6911
+      "UsersEstimate": 6912
     },
     {
       "ID": "ach25",
@@ -16814,7 +16819,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7626
+      "UsersEstimate": 7627
     },
     {
       "ID": "ach40",
@@ -16822,7 +16827,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "ach41",
@@ -16846,7 +16851,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7626
+      "UsersEstimate": 7627
     },
     {
       "ID": "ach44",
@@ -16878,7 +16883,7 @@
       "Name": "Big Spender",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "ach48",
@@ -16909,7 +16914,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23832,
+      "Progressed": 23833,
       "Completed": 2
     }
   ],
@@ -16917,8 +16922,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-14T20:02:59.0770458+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:08:52.8584243+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:08:51.0783833+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:02:59.0770463+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:08:52.8584978+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:02:53.9763775+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:08:51.0784742+00:00"
 }

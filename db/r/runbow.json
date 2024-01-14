@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253469,
+  "EOS_Progressed": 253471,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24122,6 +24122,11 @@
       "Time": "2024-01-14T20:10:33.9795704+00:00",
       "NumProgressed": 253469,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T21:10:09.7781016+00:00",
+      "NumProgressed": 253471,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24157,7 +24162,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53228
+      "UsersEstimate": 53229
     },
     {
       "ID": "blotbuster",
@@ -24205,7 +24210,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38020
+      "UsersEstimate": 38021
     },
     {
       "ID": "clearCut",
@@ -24229,7 +24234,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45624
+      "UsersEstimate": 45625
     },
     {
       "ID": "curator",
@@ -24309,7 +24314,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134339
+      "UsersEstimate": 134340
     },
     {
       "ID": "indegestible",
@@ -24373,7 +24378,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126734
+      "UsersEstimate": 126736
     },
     {
       "ID": "notScared",
@@ -24500,7 +24505,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253469,
+      "Progressed": 253471,
       "Completed": 6
     }
   ],
@@ -24508,8 +24513,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:33.9795701+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:09.7781014+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:02:40.1722468+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:33.9796829+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:02:39.5824666+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:09.778249+00:00"
 }

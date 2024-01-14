@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1891,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168209,
+  "EOS_Progressed": 168214,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23091,6 +23091,11 @@
       "Time": "2024-01-14T20:07:56.2276745+00:00",
       "NumProgressed": 168209,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2024-01-14T21:06:38.4846207+00:00",
+      "NumProgressed": 168214,
+      "NumCompleted": 458
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23167,7 +23172,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6728
+      "UsersEstimate": 6729
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23319,7 +23324,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6728
+      "UsersEstimate": 6729
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23470,21 +23475,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167792,
+      "Progressed": 167797,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168209,
+      "Progressed": 168214,
       "Completed": 458
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:07:56.2276741+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:06:38.4846204+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:58:36.9018448+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:07:56.2277795+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:58:14.2970448+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:06:38.4847466+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,458 |
-| Student | 22.00% | ~14,762 |
-| Knower | 16.00% | ~10,736 |
-| Listener | 15.00% | ~10,065 |
-| Aspen Tree | 14.00% | ~9,394 |
-| Healer | 14.00% | ~9,394 |
-| Scientist | 12.00% | ~8,052 |
-| Soldier | 12.00% | ~8,052 |
-| Cow Level | 11.00% | ~7,381 |
-| Old Friend | 10.00% | ~6,710 |
-| Herbalist | 10.00% | ~6,710 |
-| Water | 10.00% | ~6,710 |
-| New Spirits | 9.00% | ~6,039 |
-| Voipel | 9.00% | ~6,039 |
-| Collector | 9.00% | ~6,039 |
-| Wolf | 9.00% | ~6,039 |
-| Black Mage | 9.00% | ~6,039 |
-| Card Player | 8.00% | ~5,368 |
-| Dead Friend | 8.00% | ~5,368 |
-| Pine Tree | 8.00% | ~5,368 |
+| Initiation | 29.00% | ~19,461 |
+| Student | 22.00% | ~14,764 |
+| Knower | 16.00% | ~10,737 |
+| Listener | 15.00% | ~10,066 |
+| Aspen Tree | 14.00% | ~9,395 |
+| Healer | 14.00% | ~9,395 |
+| Scientist | 12.00% | ~8,053 |
+| Soldier | 12.00% | ~8,053 |
+| Cow Level | 11.00% | ~7,382 |
+| Old Friend | 10.00% | ~6,711 |
+| Herbalist | 10.00% | ~6,711 |
+| Water | 10.00% | ~6,711 |
+| New Spirits | 9.00% | ~6,040 |
+| Voipel | 9.00% | ~6,040 |
+| Collector | 9.00% | ~6,040 |
+| Wolf | 9.00% | ~6,040 |
+| Black Mage | 9.00% | ~6,040 |
+| Card Player | 8.00% | ~5,369 |
+| Dead Friend | 8.00% | ~5,369 |
+| Pine Tree | 8.00% | ~5,369 |
 | Worthy | 7.00% | ~4,697 |
 | Black Book | 7.00% | ~4,697 |
 | Black Sorcerer | 7.00% | ~4,697 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,342 |
 | Word Master | 0.20% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,098 (Ranked 118)  
+Progressed: 67,107 (Ranked 118)  
 Completed: 73 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 73 (0.11%) (Ranked 309)
 | 2024-01-11 | 66,474 | 69 |
 | 2024-01-12 | 66,634 | 72 |
 | 2024-01-13 | 66,870 | 72 |
-| 2024-01-14 | 67,098 | 73 |
+| 2024-01-14 | 67,107 | 73 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

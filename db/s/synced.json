@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1785,10 +1785,10 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 87443,
+  "EOS_Progressed": 87461,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 2562,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 2548,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
@@ -16735,6 +16735,11 @@
       "Time": "2024-01-14T20:05:48.3114636+00:00",
       "NumProgressed": 87443,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-14T21:05:00.8823312+00:00",
+      "NumProgressed": 87461,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16747,7 +16752,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 40224
+      "UsersEstimate": 40232
     },
     {
       "ID": "10",
@@ -16755,7 +16760,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "11",
@@ -16763,7 +16768,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "12",
@@ -16771,7 +16776,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "13",
@@ -16787,7 +16792,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 6995
+      "UsersEstimate": 6997
     },
     {
       "ID": "15",
@@ -16795,7 +16800,7 @@
       "Name": "Gone Rogue",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "16",
@@ -16811,7 +16816,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18363
+      "UsersEstimate": 18367
     },
     {
       "ID": "3",
@@ -16819,7 +16824,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12242
+      "UsersEstimate": 12245
     },
     {
       "ID": "4",
@@ -16827,7 +16832,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7870
+      "UsersEstimate": 7871
     },
     {
       "ID": "5",
@@ -16835,7 +16840,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6121
+      "UsersEstimate": 6122
     },
     {
       "ID": "6",
@@ -16843,7 +16848,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5247
+      "UsersEstimate": 5248
     },
     {
       "ID": "7",
@@ -16851,7 +16856,7 @@
       "Name": "More Power to You",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 20986
+      "UsersEstimate": 20991
     },
     {
       "ID": "8",
@@ -16874,7 +16879,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 87443,
+      "Progressed": 87461,
       "Completed": 71
     }
   ],
@@ -16882,8 +16887,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-13T16:00:57.4348611+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:05:48.3114632+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:05:00.8823308+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:17.7168256+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:01:31.6421658+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:05:48.3115231+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:00:22.8578763+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:05:00.8824101+00:00"
 }

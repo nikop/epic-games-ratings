@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,097 |
-| I'll Be Back | 84.00% | ~4,554 |
+| On My Own Two Feet | 94.00% | ~5,098 |
+| I'll Be Back | 84.00% | ~4,555 |
 | Sorry, I Dropped This | 76.00% | ~4,121 |
 | First Day on the Job | 76.00% | ~4,121 |
 | Butcher's Bill | 54.00% | ~2,928 |
 | P.A.X | 36.00% | ~1,952 |
 | Hey Listen | 36.00% | ~1,952 |
 | OPERATOR | 35.00% | ~1,898 |
-| It's Blue Light | 33.00% | ~1,789 |
+| It's Blue Light | 33.00% | ~1,790 |
 | Most Wanted | 26.00% | ~1,410 |
 | Infidel | 23.00% | ~1,247 |
-| Firebug | 20.00% | ~1,084 |
-| GOLIATH | 20.00% | ~1,084 |
+| Firebug | 20.00% | ~1,085 |
+| GOLIATH | 20.00% | ~1,085 |
 | I Choose You | 17.00% | ~922 |
 | Nothing to Lose | 17.00% | ~922 |
 | Big Sister | 15.00% | ~813 |
@@ -27,9 +27,9 @@ Number of Ratings: 62  (23.09.2022)
 | The Black Cerberus | 12.00% | ~651 |
 | Watchman | 12.00% | ~651 |
 | Core Power | 12.00% | ~651 |
-| CREO Killed the Video Star | 11.00% | ~596 |
-| Who's in Charge Here? | 11.00% | ~596 |
-| Shall Not Pass | 11.00% | ~596 |
+| CREO Killed the Video Star | 11.00% | ~597 |
+| Who's in Charge Here? | 11.00% | ~597 |
+| Shall Not Pass | 11.00% | ~597 |
 | Right Tool for the Job | 10.00% | ~542 |
 | Raging Drones | 9.00% | ~488 |
 | Overconfident | 9.00% | ~488 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,422 (Ranked 204)  
-Completed: 18 (0.33%) (Ranked 255)  
+Progressed: 5,423 (Ranked 204)  
+Completed: 18 (0.33%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,7 +300,7 @@ Completed: 18 (0.33%) (Ranked 255)
 | 2024-01-11 | 5,391 | 18 |
 | 2024-01-12 | 5,404 | 18 |
 | 2024-01-13 | 5,415 | 18 |
-| 2024-01-14 | 5,422 | 18 |
+| 2024-01-14 | 5,423 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 526)  
 Sum: 30 (Ranked 548)  

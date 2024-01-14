@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 83.00% | ~104 |
-| Good to grow | 59.00% | ~74 |
+| So it begins | 83.00% | ~105 |
+| Good to grow | 60.00% | ~76 |
 | Fashionista | 36.00% | ~45 |
-| Irrigation not irritation | 34.00% | ~42 |
-| Graduated | 32.00% | ~40 |
+| Irrigation not irritation | 34.00% | ~43 |
+| Graduated | 33.00% | ~42 |
 | Ay ay yarrr! | 23.00% | ~29 |
 | Shine bright | 21.00% | ~26 |
 | Night Shift | 21.00% | ~26 |
-| Peaceful skies | 12.00% | ~15 |
+| Peaceful skies | 13.00% | ~16 |
 | C'who? | 11.00% | ~14 |
 | It's about the journey | 11.00% | ~14 |
 | There be sand in me shorts | 11.00% | ~14 |
@@ -24,19 +24,19 @@
 | It's a bug's life | 5.00% | ~6 |
 | V is for Vegan | 4.00% | ~5 |
 | Groovy! | 3.00% | ~4 |
+| I am Root! | 3.00% | ~4 |
 | Zap! | 3.00% | ~4 |
-| Veggie Master | 2.00% | ~2 |
-| Homecoming | 2.00% | ~2 |
-| Free Spirit | 2.00% | ~2 |
-| I am Root! | 2.00% | ~2 |
-| Yeehaw! | 2.00% | ~2 |
-| Tururururu! | 2.00% | ~2 |
+| Veggie Master | 2.00% | ~3 |
+| Homecoming | 2.00% | ~3 |
+| Free Spirit | 2.00% | ~3 |
+| Yeehaw! | 2.00% | ~3 |
+| Tururururu! | 2.00% | ~3 |
 | Daddy Issues | 0.80% | ~1 |
 | Yeetus Deletus | 0.80% | ~1 |
 | Best in the field | 0.80% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 482)  
+Progressed: 126 (Ranked 482)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-02 | 123 | 0 |
 | 2024-01-05 | 124 | 0 |
 | 2024-01-11 | 125 | 0 |
+| 2024-01-14 | 126 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

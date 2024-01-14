@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 428,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -977,9 +977,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:09:21.7366134+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:09:12.7882806+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:09.3841485+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:01:52.9140987+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:09:21.7366317+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:00:37.7587017+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:09:12.7882957+00:00"
 }

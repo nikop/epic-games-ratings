@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3439,
+  "EOS_Progressed": 3441,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 408,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -5559,6 +5559,11 @@
       "Time": "2024-01-14T20:10:36.4776333+00:00",
       "NumProgressed": 3439,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T21:10:11.7047602+00:00",
+      "NumProgressed": 3441,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5571,7 +5576,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "achievement_10",
@@ -5579,7 +5584,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "achievement_11",
@@ -5587,7 +5592,7 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "achievement_12",
@@ -5611,7 +5616,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_15",
@@ -5627,7 +5632,7 @@
       "Name": "Recruit",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "achievement_17",
@@ -5659,7 +5664,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "achievement_20",
@@ -5715,7 +5720,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2409
     },
     {
       "ID": "achievement_36",
@@ -5747,7 +5752,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "achievement_41",
@@ -5787,7 +5792,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "achievement_46",
@@ -5803,7 +5808,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2581
     },
     {
       "ID": "achievement_49",
@@ -5825,9 +5830,9 @@
       "ID": "achievement_50",
       "SetID": "18al4io",
       "Name": "Veteran",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_54",
@@ -5867,7 +5872,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "achievement_60",
@@ -5946,7 +5951,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3439,
+      "Progressed": 3441,
       "Completed": 5
     }
   ],
@@ -5954,8 +5959,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-14T16:02:41.6394146+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:36.4776328+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:11.7047599+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
   "LastUpdate_Ratings": "2024-01-14T20:02:01.7507623+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:36.477681+00:00"
+  "LastUpdate_Achievements": "2024-01-14T21:10:11.7048243+00:00"
 }

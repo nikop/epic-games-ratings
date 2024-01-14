@@ -12,7 +12,7 @@
 | Risky Rescue | 52.00% | ~33 |
 | Carlos Is Tangled | 51.00% | ~32 |
 | Mandy Family | 44.00% | ~28 |
-| Clear the Road | 41.00% | ~26 |
+| Clear the Road | 43.00% | ~27 |
 | Paw patrol member | 41.00% | ~26 |
 | Robot Out of Control | 41.00% | ~26 |
 | Break Time | 37.00% | ~23 |

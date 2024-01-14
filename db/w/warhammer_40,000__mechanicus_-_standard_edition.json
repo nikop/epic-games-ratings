@@ -1110,9 +1110,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232254,
+  "EOS_Progressed": 232259,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30715,6 +30715,11 @@
       "Time": "2024-01-14T20:10:36.1806862+00:00",
       "NumProgressed": 232254,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T21:10:11.4110843+00:00",
+      "NumProgressed": 232259,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30726,7 +30731,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46451
+      "UsersEstimate": 46452
     },
     {
       "ID": "ACH_BASE_10",
@@ -30734,7 +30739,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60386
+      "UsersEstimate": 60387
     },
     {
       "ID": "ACH_BASE_11",
@@ -30766,7 +30771,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23225
+      "UsersEstimate": 23226
     },
     {
       "ID": "ACH_BASE_16",
@@ -30774,7 +30779,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23225
+      "UsersEstimate": 23226
     },
     {
       "ID": "ACH_BASE_17",
@@ -30790,7 +30795,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23225
+      "UsersEstimate": 23226
     },
     {
       "ID": "ACH_BASE_19",
@@ -30806,7 +30811,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13935
+      "UsersEstimate": 13936
     },
     {
       "ID": "ACH_BASE_20",
@@ -30974,7 +30979,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30193
+      "UsersEstimate": 30194
     },
     {
       "ID": "ACH_BASE_8",
@@ -30997,7 +31002,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232254,
+      "Progressed": 232259,
       "Completed": 5
     }
   ],
@@ -31005,8 +31010,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-12T02:58:09.1289031+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:36.1806859+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:11.4110842+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:00:42.2844968+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:36.1809234+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:46.0034004+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:11.41125+00:00"
 }

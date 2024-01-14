@@ -17,8 +17,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 7.00% | ~929 |
 | Path of the Angel | 7.00% | ~929 |
 | Demonic and Divine | 7.00% | ~929 |
-| Great Upstart | 6.00% | ~796 |
-| All Paths Open | 6.00% | ~796 |
+| Great Upstart | 6.00% | ~797 |
+| All Paths Open | 6.00% | ~797 |
 | Path of the Azata | 5.00% | ~664 |
 | Transformation | 5.00% | ~664 |
 | The Legacy | 5.00% | ~664 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,275 (Ranked 178)  
+Progressed: 13,276 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,10 +392,10 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 13,243 | 0 |
 | 2024-01-12 | 13,249 | 0 |
 | 2024-01-13 | 13,262 | 0 |
-| 2024-01-14 | 13,275 | 0 |
+| 2024-01-14 | 13,276 | 0 |
 ## Awards
 Max (Character Customization): 1,785  (Ranked 131)  
-Sum: 7,230 (Ranked 127)  
+Sum: 7,232 (Ranked 127)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -408,7 +408,7 @@ Diff (max vs sum): 4
 | This game has Challenging Combat | 605 |
 | This game has Quickly Understood Controls | 589 |
 | This game is Relaxing | 567 |
-| This game has a Creative Community | 407 |
+| This game has a Creative Community | 409 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -731,4 +731,4 @@ Diff (max vs sum): 4
 | 2024-01-11 | 4.76 | - | 1,781 | 7,217 |
 | 2024-01-12 | 4.76 | - | 1,784 | 7,222 |
 | 2024-01-13 | 4.76 | - | 1,784 | 7,227 |
-| 2024-01-14 | 4.76 | - | 1,785 | 7,230 |
+| 2024-01-14 | 4.76 | - | 1,785 | 7,232 |

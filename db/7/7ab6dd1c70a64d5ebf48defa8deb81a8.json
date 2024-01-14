@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2329,
+  "EOS_Progressed": 2331,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4558,6 +4558,11 @@
       "Time": "2024-01-14T20:10:41.7228711+00:00",
       "NumProgressed": 2329,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T21:10:15.9683664+00:00",
+      "NumProgressed": 2331,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4569,7 +4574,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH_02",
@@ -4585,7 +4590,7 @@
       "Name": "Powerful Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_04",
@@ -4617,7 +4622,7 @@
       "Name": "Clear Sight",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_08",
@@ -4633,7 +4638,7 @@
       "Name": "The Mentor",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_10",
@@ -4641,7 +4646,7 @@
       "Name": "Trinity",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH_11",
@@ -4665,7 +4670,7 @@
       "Name": "Adventurer",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_14",
@@ -4681,7 +4686,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_16",
@@ -4697,7 +4702,7 @@
       "Name": "Shatterer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_18",
@@ -4705,7 +4710,7 @@
       "Name": "Shatter Them All",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_19",
@@ -4729,7 +4734,7 @@
       "Name": "Big Bazar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_22",
@@ -4737,7 +4742,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_23",
@@ -4745,7 +4750,7 @@
       "Name": "Geared Up",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_24",
@@ -4785,7 +4790,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_29",
@@ -4809,7 +4814,7 @@
       "Name": "Stone Collection",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_33",
@@ -4825,7 +4830,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_35",
@@ -4856,7 +4861,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2329,
+      "Progressed": 2331,
       "Completed": 3
     }
   ],
@@ -4864,8 +4869,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:41.7228706+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:15.9683661+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:24.7726802+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:41.7229171+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:58:50.6786004+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:15.9684258+00:00"
 }

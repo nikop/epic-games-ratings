@@ -32,8 +32,8 @@ Rating: 4.77 (Ranked 120)
 | Capelworth | 24.00% | ~829 |
 | Full equipped | 24.00% | ~829 |
 | Iffighain Headquarters | 23.00% | ~795 |
+| No more holding back | 20.00% | ~691 |
 | Whispers in the Woods II | 19.00% | ~657 |
-| No more holding back | 19.00% | ~657 |
 | Terbisia | 19.00% | ~657 |
 | Quickmoore Headquarters | 19.00% | ~657 |
 | Friendly fire | 18.00% | ~622 |

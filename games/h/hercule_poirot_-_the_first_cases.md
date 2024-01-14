@@ -8,7 +8,7 @@ Rating: 4.38 (Ranked 797)
 | It Wasn’t a Burglary | 88.00% | ~444 |
 | Luc Piette | 74.00% | ~373 |
 | Angeline Van den Bosch | 72.00% | ~363 |
-| Elizabeth Padget | 68.00% | ~343 |
+| Elizabeth Padget | 69.00% | ~348 |
 | Little Grey Cells | 67.00% | ~338 |
 | The Bracelet | 64.00% | ~323 |
 | Florette Duval | 54.00% | ~272 |

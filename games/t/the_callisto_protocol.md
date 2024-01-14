@@ -5,26 +5,26 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,040 |
-| The Outer Way | 27.00% | ~6,040 |
-| Desperate Times | 25.00% | ~5,593 |
-| Paper Jams | 23.00% | ~5,145 |
+| Flesh Wound | 27.00% | ~6,041 |
+| The Outer Way | 27.00% | ~6,041 |
+| Desperate Times | 25.00% | ~5,594 |
+| Paper Jams | 23.00% | ~5,146 |
 | Get a Grip | 22.00% | ~4,922 |
-| Chew 'Em Up | 21.00% | ~4,698 |
-| Reforged | 20.00% | ~4,474 |
+| Chew 'Em Up | 21.00% | ~4,699 |
+| Reforged | 20.00% | ~4,475 |
 | Float Like A Butterfly | 18.00% | ~4,027 |
-| Workplace Hazard | 17.00% | ~3,803 |
-| If the SHU Fits... | 17.00% | ~3,803 |
+| Workplace Hazard | 17.00% | ~3,804 |
+| If the SHU Fits... | 17.00% | ~3,804 |
 | Without A Paddle | 15.00% | ~3,356 |
-| In the Pipe, Five by Five | 13.00% | ~2,908 |
-| Crash Site | 13.00% | ~2,908 |
+| In the Pipe, Five by Five | 13.00% | ~2,909 |
+| Crash Site | 13.00% | ~2,909 |
 | Two Heads Are Better Than One | 12.00% | ~2,685 |
 | Power Up | 12.00% | ~2,685 |
 | Terminated | 11.00% | ~2,461 |
 | What Lies Beneath | 11.00% | ~2,461 |
 | Full Circle | 11.00% | ~2,461 |
 | Giving Back | 10.00% | ~2,237 |
-| You Need a Gun | 9.00% | ~2,013 |
+| You Need a Gun | 9.00% | ~2,014 |
 | I Do Belong Here | 8.00% | ~1,790 |
 | Keep Fighting | 8.00% | ~824 |
 | The Commonality | 6.00% | ~1,342 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,371 (Ranked 151)  
+Progressed: 22,374 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,14 +314,14 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
-| 2024-01-14 | 22,371 | 82 |
+| 2024-01-14 | 22,374 | 82 |
 ## Awards
-Max (Amazing Characters): 134  (Ranked 344)  
-Sum: 651 (Ranked 319)  
-Diff (max vs sum): 25  
+Max (Amazing Characters): 135  (Ranked 342)  
+Sum: 652 (Ranked 319)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 134 |
+| This game has Amazing Characters | 135 |
 | This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 116 |
 | This game has Quickly Understood Controls | 113 |
@@ -532,4 +532,4 @@ Diff (max vs sum): 25
 | 2024-01-11 | 4.22 | 131 | 634 |
 | 2024-01-12 | 4.22 | 131 | 641 |
 | 2024-01-13 | 4.22 | 134 | 649 |
-| 2024-01-14 | 4.22 | 134 | 651 |
+| 2024-01-14 | 4.22 | 135 | 652 |

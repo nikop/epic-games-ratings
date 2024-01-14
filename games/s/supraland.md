@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,885 |
-| The Blues | 85.00% | ~629,245 |
-| Fast | 66.00% | ~488,590 |
-| Healthbar | 55.00% | ~407,158 |
-| Force Cube | 53.00% | ~392,353 |
-| Double Jump | 48.00% | ~355,338 |
-| Regeneration | 47.00% | ~347,935 |
-| Triple Jump | 43.00% | ~318,324 |
-| Climb the hill | 42.00% | ~310,921 |
-| Through the fire pipe | 39.00% | ~288,712 |
-| MacGuffin | 38.00% | ~281,309 |
-| Just once | 37.00% | ~273,907 |
-| Armor | 30.00% | ~222,086 |
+| Out of bed | 99.00% | ~732,888 |
+| The Blues | 85.00% | ~629,247 |
+| Fast | 66.00% | ~488,592 |
+| Healthbar | 55.00% | ~407,160 |
+| Force Cube | 53.00% | ~392,354 |
+| Double Jump | 48.00% | ~355,340 |
+| Regeneration | 47.00% | ~347,937 |
+| Triple Jump | 43.00% | ~318,325 |
+| Climb the hill | 42.00% | ~310,922 |
+| Through the fire pipe | 39.00% | ~288,713 |
+| MacGuffin | 38.00% | ~281,311 |
+| Just once | 37.00% | ~273,908 |
+| Armor | 30.00% | ~222,087 |
 | True holy spirit | 28.00% | ~207,281 |
-| That's how electronics work obviously | 27.00% | ~199,878 |
-| Force Cube Catapult | 25.00% | ~185,072 |
-| Holy Sword | 23.00% | ~170,266 |
-| Telefrag | 23.00% | ~170,266 |
-| Freed from prison | 22.00% | ~162,863 |
-| Stomp | 21.00% | ~155,460 |
+| That's how electronics work obviously | 27.00% | ~199,879 |
+| Force Cube Catapult | 25.00% | ~185,073 |
+| Holy Sword | 23.00% | ~170,267 |
+| Telefrag | 23.00% | ~170,267 |
+| Freed from prison | 22.00% | ~162,864 |
+| Stomp | 21.00% | ~155,461 |
 | Double Health | 19.00% | ~140,655 |
 | Buckle | 18.00% | ~133,252 |
 | Green Keycard | 18.00% | ~133,252 |
-| Rattle Hag | 16.00% | ~118,446 |
-| All Shells | 15.00% | ~111,043 |
-| Beam | 14.00% | ~103,640 |
-| 9 | 14.00% | ~103,640 |
-| Supraball Noob | 14.00% | ~103,640 |
-| Health Drink | 13.00% | ~96,237 |
-| Helped a star | 13.00% | ~96,237 |
-| Purple Cube | 13.00% | ~96,237 |
+| Rattle Hag | 16.00% | ~118,447 |
+| All Shells | 15.00% | ~111,044 |
+| Beam | 14.00% | ~103,641 |
+| 9 | 14.00% | ~103,641 |
+| Supraball Noob | 14.00% | ~103,641 |
+| Health Drink | 13.00% | ~96,238 |
+| Helped a star | 13.00% | ~96,238 |
+| Purple Cube | 13.00% | ~96,238 |
 | Strong | 12.00% | ~88,835 |
 | Blue King's lair | 11.00% | ~81,432 |
 | Payback | 11.00% | ~81,432 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,288 (Ranked 27)  
+Progressed: 740,291 (Ranked 27)  
 Completed: 782 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,7 +374,7 @@ Completed: 782 (0.11%) (Ranked 309)
 | 2024-01-11 | 739,888 | 781 |
 | 2024-01-12 | 739,997 | 782 |
 | 2024-01-13 | 740,152 | 782 |
-| 2024-01-14 | 740,288 | 782 |
+| 2024-01-14 | 740,291 | 782 |
 ## Awards
 Max (Challenging Puzzles): 7,779  (Ranked 54)  
 Sum: 10,159 (Ranked 94)  

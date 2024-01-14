@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2308,
+  "EOS_Progressed": 2309,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4390,6 +4390,11 @@
       "Time": "2024-01-14T20:10:31.620852+00:00",
       "NumProgressed": 2308,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-14T21:10:07.2689035+00:00",
+      "NumProgressed": 2309,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4401,7 +4406,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "booty_call",
@@ -4425,7 +4430,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2216
+      "UsersEstimate": 2217
     },
     {
       "ID": "hold_my_beer",
@@ -4473,7 +4478,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4497,7 +4502,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "sore_loser",
@@ -4520,7 +4525,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2308,
+      "Progressed": 2309,
       "Completed": 12
     }
   ],
@@ -4528,8 +4533,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:31.6208518+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:07.2689033+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.1751476+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:19.2703222+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:31.6208732+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:58:46.6590926+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:07.2689437+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "The Drone Racing League\u00AE",
   "ProductSlug": "the-drone-racing-league-simulator",
   "Ranking_Rating": 595,
-  "Ranking_Popularity": 420,
+  "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 581,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-04T17:00:00+00:00",
@@ -810,18 +810,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 554,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-01-14T21:00:40.1347998+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 555,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 554,
-  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 555,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game is Educational",
@@ -902,8 +908,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2024-01-14T17:02:35.6283172+00:00",
+  "LastChanged": "2024-01-14T21:00:40.1347996+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:20.522312+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:01:56.1173014+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:04:35.0350107+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:00:40.1348004+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:04:04.9177977+00:00"
 }

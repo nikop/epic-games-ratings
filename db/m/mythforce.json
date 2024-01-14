@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6338,
+  "EOS_Progressed": 6340,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13241,6 +13241,11 @@
       "Time": "2024-01-14T19:04:44.0551502+00:00",
       "NumProgressed": 6338,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T21:05:04.1250228+00:00",
+      "NumProgressed": 6340,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13285,7 +13290,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13301,7 +13306,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1712
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13309,7 +13314,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13405,7 +13410,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13421,7 +13426,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13436,15 +13441,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6338,
+      "Progressed": 6340,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:05:52.331407+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:05:04.1250222+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:00:00.2764466+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:05:52.3314835+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:15.6653445+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:05:04.1250891+00:00"
 }

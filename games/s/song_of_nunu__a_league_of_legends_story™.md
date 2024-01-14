@@ -15,8 +15,8 @@ Rating: 4.61 (Ranked 399)
 | Krugmazing | 64.00% | ~993 |
 | The Fire Below the Mountain | 61.00% | ~946 |
 | Moneyball | 60.00% | ~931 |
+| No Bites | 55.00% | ~853 |
 | Iceborn | 55.00% | ~853 |
-| No Bites | 54.00% | ~838 |
 | Boom Things | 53.00% | ~822 |
 | Tear of Freedom | 52.00% | ~807 |
 | My Darkest Day | 49.00% | ~760 |
@@ -27,9 +27,9 @@ Rating: 4.61 (Ranked 399)
 | So Close | 42.00% | ~651 |
 | The Finisher | 42.00% | ~651 |
 | You Get Used To It | 41.00% | ~636 |
-| Family | 39.00% | ~605 |
+| Family | 40.00% | ~620 |
+| Boosted! | 40.00% | ~620 |
 | Biggest Snowball Ever | 39.00% | ~605 |
-| Boosted! | 39.00% | ~605 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~605 |
 | Freeze The Ice Witch | 38.00% | ~589 |
 | True Legends | 38.00% | ~589 |

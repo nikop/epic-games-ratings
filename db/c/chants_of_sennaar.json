@@ -133,11 +133,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2771,
-  "EOS_Completed": 207,
-  "EOS_NewPlayers": 252,
-  "EOS_NewCompleters": 31,
-  "EOS_Completed_Percentage": 7.47,
+  "EOS_Progressed": 2772,
+  "EOS_Completed": 208,
+  "EOS_NewPlayers": 249,
+  "EOS_NewCompleters": 32,
+  "EOS_Completed_Percentage": 7.5,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7318,6 +7318,11 @@
       "Time": "2024-01-14T19:05:26.173461+00:00",
       "NumProgressed": 2771,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2024-01-14T21:05:49.2972244+00:00",
+      "NumProgressed": 2772,
+      "NumCompleted": 208
     }
   ],
   "TotalAchievements": 25,
@@ -7337,7 +7342,7 @@
       "Name": "In this together",
       "Percentage": 26,
       "XP": 200,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "META_ALL_LINK",
@@ -7377,15 +7382,15 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 554
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7449,7 +7454,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7465,7 +7470,7 @@
       "Name": "Champollion",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7473,7 +7478,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7481,7 +7486,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "PROGRESS_N1",
@@ -7489,7 +7494,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "PROGRESS_N2",
@@ -7528,16 +7533,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2771,
-      "Completed": 207
+      "Progressed": 2772,
+      "Completed": 208
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:06:51.6856733+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:05:49.2972238+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:02.8637816+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:06:51.6857271+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:58:33.2081814+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:05:49.2972898+00:00"
 }

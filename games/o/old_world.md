@@ -6,14 +6,16 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~672 |
-| Settler | 4.00% | ~672 |
-| Friendly Family | 4.00% | ~672 |
-| Play a Single Player Game | 4.00% | ~672 |
+| Explorer | 4.00% | ~673 |
+| Settler | 4.00% | ~673 |
+| Friendly Family | 4.00% | ~673 |
+| Play a Single Player Game | 4.00% | ~673 |
 | Able | 3.00% | ~504 |
 | Architect | 3.00% | ~504 |
 | Good | 3.00% | ~504 |
 | Intrepid | 3.00% | ~504 |
+| Just | 3.00% | ~504 |
+| Learned | 3.00% | ~504 |
 | Mason | 3.00% | ~504 |
 | Noble | 3.00% | ~504 |
 | Strong | 3.00% | ~504 |
@@ -26,9 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~336 |
 | Glorious | 2.00% | ~336 |
 | Great | 2.00% | ~336 |
-| Just | 2.00% | ~336 |
 | Keystone | 2.00% | ~336 |
-| Learned | 2.00% | ~336 |
 | Magnificent | 2.00% | ~336 |
 | Pioneer | 2.00% | ~336 |
 | Warrior | 2.00% | ~336 |
@@ -36,9 +36,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 2.00% | ~336 |
 | Able Difficulty | 2.00% | ~336 |
 | Furious Family | 2.00% | ~336 |
+| Apadana | 2.00% | ~336 |
 | Great Ziggurat | 2.00% | ~336 |
 | Ishtar Gate | 2.00% | ~336 |
 | Lighthouse | 2.00% | ~336 |
+| Necropolis | 2.00% | ~336 |
 | Pyramids | 2.00% | ~336 |
 | Learn to Play 1 | 2.00% | ~336 |
 | Learn to Play 2 | 2.00% | ~336 |
@@ -62,11 +64,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 1.00% | ~168 |
 | Sages | 1.00% | ~168 |
 | Acropolis | 1.00% | ~168 |
-| Apadana | 1.00% | ~168 |
 | Colossus | 1.00% | ~168 |
 | Mausoleum | 1.00% | ~168 |
 | Musaeum | 1.00% | ~168 |
-| Necropolis | 1.00% | ~168 |
 | Learn to Play 3 | 1.00% | ~168 |
 | Manichaeism | 1.00% | ~168 |
 | Building Wonders | 1.00% | ~168 |
@@ -77,13 +77,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
 | Points Victory | 0.90% | ~151 |
-| Beloved | 0.80% | ~134 |
-| Patrons | 0.80% | ~134 |
-| Statesmen | 0.80% | ~134 |
-| Greece | 0.80% | ~134 |
-| Power to the People | 0.80% | ~134 |
-| Win a Single Player Game | 0.80% | ~134 |
-| Kushite Paganism | 0.80% | ~134 |
+| Beloved | 0.80% | ~135 |
+| Patrons | 0.80% | ~135 |
+| Statesmen | 0.80% | ~135 |
+| Greece | 0.80% | ~135 |
+| Power to the People | 0.80% | ~135 |
+| Win a Single Player Game | 0.80% | ~135 |
+| Kushite Paganism | 0.80% | ~135 |
+| Conqueror | 0.70% | ~118 |
 | Victorious | 0.70% | ~118 |
 | Landowners | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
@@ -102,14 +103,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
-| Conqueror | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
 | Strong Difficulty | 0.60% | ~101 |
+| Hunters | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
+| Enlightenment | 0.60% | ~101 |
 | Redemption | 0.60% | ~101 |
 | Cimmerian Archer | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
@@ -118,13 +120,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.50% | ~84 |
 | Peacemaker | 0.50% | ~84 |
 | Clerics | 0.50% | ~84 |
-| Hunters | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
 | Babylonia | 0.50% | ~84 |
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
 | Hittite Paganism | 0.50% | ~84 |
-| Enlightenment | 0.50% | ~84 |
 | Gnosticism | 0.50% | ~84 |
 | Revelation | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
+| Pantheon of Gods | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
@@ -157,10 +158,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious Difficulty | 0.20% | ~34 |
 | The Eternal Treaty | 0.20% | ~34 |
 | Run, Pheidippides, Run! | 0.20% | ~34 |
+| Nenikekamen | 0.20% | ~34 |
 | Pyramids in Menefer | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
 | Persia | 0.20% | ~34 |
-| Pantheon of Gods | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
 | Play a Network Game | 0.20% | ~34 |
@@ -168,6 +169,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Beja Archer | 0.20% | ~34 |
+| Al Khazneh | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -217,7 +219,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Five Routs | 0.10% | ~17 |
 | Game of the Week | 0.10% | ~17 |
 | Defend Where? | 0.10% | ~17 |
-| Nenikekamen | 0.10% | ~17 |
 | Get the Hellas Out | 0.10% | ~17 |
 | Not a Chance | 0.10% | ~17 |
 | The Turning Point | 0.10% | ~17 |
@@ -309,7 +310,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.10% | ~17 |
 | Cothon in Carthago | 0.10% | ~17 |
 | Yazilikaya in Hattusa | 0.10% | ~17 |
-| Al Khazneh | 0.10% | ~17 |
 | Colosseum | 0.10% | ~17 |
 | Cothon | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,809 (Ranked 169)  
+Progressed: 16,815 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,809 | 5 |
+| 2024-01-14 | 16,815 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,930 (Ranked 223)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2389,
+  "EOS_Progressed": 2390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4522,6 +4522,11 @@
       "Time": "2024-01-14T18:05:58.1264494+00:00",
       "NumProgressed": 2389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T21:04:20.3021169+00:00",
+      "NumProgressed": 2390,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4555,9 +4560,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_006",
@@ -4587,9 +4592,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 335
     },
     {
       "ID": "Achievement_010",
@@ -4669,7 +4674,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "Achievement_020",
@@ -4947,9 +4952,9 @@
       "ID": "Achievement_057",
       "SetID": "6b34g18",
       "Name": "Under a Bushel",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement_058",
@@ -5003,9 +5008,9 @@
       "ID": "Achievement_064",
       "SetID": "6b34g18",
       "Name": "Good Samaritan",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_065",
@@ -5053,14 +5058,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2389,
+      "Progressed": 2390,
       "Completed": 0
     }
   ],
@@ -5068,8 +5073,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:04:55.6021347+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:04:20.3021165+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:58.535038+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:04:55.6022029+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:14.3528796+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:04:20.3022065+00:00"
 }

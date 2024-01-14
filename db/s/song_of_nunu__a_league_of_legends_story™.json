@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -101,7 +101,7 @@
   "Tags": [],
   "EOS_Progressed": 1551,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4253,9 +4253,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 853
     },
     {
       "ID": "EV_ACH05",
@@ -4301,9 +4301,9 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 620
     },
     {
       "ID": "EV_ACH11",
@@ -4533,9 +4533,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 620
     },
     {
       "ID": "EV_ACH40",
@@ -4590,8 +4590,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-14T13:02:41.6102698+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:45.9295843+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:19.5032691+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:41.9299011+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:45.9296343+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:02.3593996+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:19.5033115+00:00"
 }

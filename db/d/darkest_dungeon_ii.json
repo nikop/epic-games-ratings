@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10872,9 +10872,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132818,
+  "EOS_Progressed": 132825,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39877,6 +39877,11 @@
       "Time": "2024-01-14T20:10:30.6042767+00:00",
       "NumProgressed": 132818,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T21:10:06.498463+00:00",
+      "NumProgressed": 132825,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39896,7 +39901,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40016,7 +40021,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9297
+      "UsersEstimate": 9298
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40048,7 +40053,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40112,7 +40117,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40128,7 +40133,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7969
+      "UsersEstimate": 7970
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40240,7 +40245,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10625
+      "UsersEstimate": 10626
     },
     {
       "ID": "hero_story_complete_all",
@@ -40424,7 +40429,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "combat_kill_collector",
@@ -40432,7 +40437,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40472,7 +40477,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40480,7 +40485,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "quest_complete_crusader",
@@ -40496,7 +40501,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40519,21 +40524,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132818,
+      "Progressed": 132825,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7687,
+      "Progressed": 7694,
       "Completed": 826
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T17:58:44.8735794+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:30.6042765+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:06.4984627+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:58:08.8193753+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:30.6044549+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:57:54.7786366+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:06.4987203+00:00"
 }

@@ -9553,9 +9553,9 @@
       "Count": 3639
     }
   ],
-  "EOS_Progressed": 253939,
+  "EOS_Progressed": 253947,
   "EOS_Completed": 2617,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40103,6 +40103,11 @@
       "Time": "2024-01-14T20:10:54.3634306+00:00",
       "NumProgressed": 253939,
       "NumCompleted": 2617
+    },
+    {
+      "Time": "2024-01-14T21:10:26.9587597+00:00",
+      "NumProgressed": 253947,
+      "NumCompleted": 2617
     }
   ],
   "TotalAchievements": 546,
@@ -41978,7 +41983,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "objective_completed_40",
@@ -44418,7 +44423,7 @@
       "Name": "Fast Food",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "objective_completed_1563",
@@ -44481,21 +44486,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220213,
+      "Progressed": 220221,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253939,
+      "Progressed": 253947,
       "Completed": 2617
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-14T16:57:06.8682349+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:54.36343+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:10:26.9587592+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:57:06.2750321+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:54.3658217+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:57:08.6809973+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:10:26.961283+00:00"
 }

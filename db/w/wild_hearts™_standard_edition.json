@@ -4519,9 +4519,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 505
     },
     {
       "ID": "achievement_17",
@@ -4567,9 +4567,9 @@
       "ID": "achievement_21",
       "SetID": "2cpn27e",
       "Name": "Left Arm Leverager",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_22",
@@ -4853,8 +4853,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:10:05.3924398+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:09:46.8537637+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:59.9053333+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:10:05.3925342+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:15.3777936+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:09:46.8538239+00:00"
 }

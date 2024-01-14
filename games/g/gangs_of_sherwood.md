@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 86.00% | ~107 |
-| Air Fighter | 72.00% | ~89 |
-| Oo-De-Lally | 71.00% | ~88 |
-| Treasure Hunter | 64.00% | ~79 |
-| The Altruist | 63.00% | ~78 |
-| Watch your Step! | 52.00% | ~64 |
+| Act of Kindness | 88.00% | ~109 |
+| Air Fighter | 73.00% | ~91 |
+| Oo-De-Lally | 73.00% | ~91 |
+| Treasure Hunter | 65.00% | ~81 |
+| The Altruist | 65.00% | ~81 |
+| Watch your Step! | 54.00% | ~67 |
 | MAX LEVEL | 52.00% | ~64 |
 | Tap Dancing | 51.00% | ~63 |
-| Right between the eyes | 39.00% | ~48 |
-| Starry Night | 37.00% | ~46 |
+| Right between the eyes | 40.00% | ~50 |
+| Starry Night | 38.00% | ~47 |
 | Spring Board | 37.00% | ~46 |
 | Locksley's Tears | 34.00% | ~42 |
+| Merry Co-operation | 32.00% | ~40 |
 | Rebel Unleashed | 32.00% | ~40 |
-| Merry Co-operation | 31.00% | ~38 |
 | Assault on the Ram | 23.00% | ~29 |
 | Finish Him! | 22.00% | ~27 |
 | First Aid | 21.00% | ~26 |

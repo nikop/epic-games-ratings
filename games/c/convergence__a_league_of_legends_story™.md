@@ -39,10 +39,10 @@ Rating: 4.68 (Ranked 261)
 | Treasure Trove | 12.00% | ~159 |
 | Cartographer | 12.00% | ~159 |
 | Sump Explorer | 12.00% | ~159 |
+| Cultivair Explorer | 10.00% | ~132 |
 | Factorywood Explorer | 10.00% | ~132 |
 | Fairgrounds Explorer | 10.00% | ~132 |
 | Theater Explorer | 10.00% | ~132 |
-| Cultivair Explorer | 9.00% | ~119 |
 | Entresol Explorer | 9.00% | ~119 |
 | Corin Goes Home | 8.00% | ~106 |
 | Sartorialist | 8.00% | ~106 |

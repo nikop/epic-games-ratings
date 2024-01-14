@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 883)  
+Rating: 4.29 (Ranked 884)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,586 |
-| Copacetic Coordination | 16.00% | ~57,943 |
-| Fronting the Money | 15.00% | ~54,321 |
-| The Dawn of Automation | 14.00% | ~50,700 |
-| Extraordinary Logistics | 14.00% | ~50,700 |
+| Corner Clout | 46.00% | ~166,588 |
+| Copacetic Coordination | 16.00% | ~57,944 |
+| Fronting the Money | 15.00% | ~54,322 |
+| The Dawn of Automation | 14.00% | ~50,701 |
+| Extraordinary Logistics | 14.00% | ~50,701 |
 | Dirty Money | 13.00% | ~47,079 |
 | Family First | 13.00% | ~47,079 |
-| Cleaning House | 12.00% | ~43,457 |
-| Room in the Back | 12.00% | ~43,457 |
+| Cleaning House | 12.00% | ~43,458 |
+| Room in the Back | 12.00% | ~43,458 |
 | Beating the Heat | 11.00% | ~39,836 |
 | Booze Baron | 11.00% | ~39,836 |
-| Friends on the Force | 10.00% | ~36,214 |
-| Neighborhood Watch | 10.00% | ~36,214 |
-| Core Corps | 8.00% | ~28,971 |
-| Sizeable Stash | 8.00% | ~28,971 |
+| Friends on the Force | 10.00% | ~36,215 |
+| Neighborhood Watch | 10.00% | ~36,215 |
+| Core Corps | 8.00% | ~28,972 |
+| Sizeable Stash | 8.00% | ~28,972 |
 | Street Fighter | 7.00% | ~25,350 |
 | Friendly Gestures | 7.00% | ~25,350 |
 | People Person | 7.00% | ~25,350 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 883)
 | High Pillow | 0.10% | ~362 |
 | Station Master | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,143 (Ranked 58)  
+Progressed: 362,148 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -355,7 +355,7 @@ Completed: 7 (0.00%) (Ranked 400)
 | 2024-01-11 | 361,608 | 7 |
 | 2024-01-12 | 361,782 | 7 |
 | 2024-01-13 | 361,967 | 7 |
-| 2024-01-14 | 362,143 | 7 |
+| 2024-01-14 | 362,148 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 438)  
 Sum: 273 (Ranked 395)  

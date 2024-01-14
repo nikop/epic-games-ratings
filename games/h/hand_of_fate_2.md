@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,508 |
-| Apprentice | 58.00% | ~387,076 |
-| Close Shave | 25.00% | ~166,843 |
+| The Fool | 72.00% | ~480,510 |
+| Apprentice | 58.00% | ~387,078 |
+| Close Shave | 25.00% | ~166,844 |
 | Mercenary | 23.00% | ~153,496 |
 | Ninja | 23.00% | ~153,496 |
-| Northern Scourge | 17.00% | ~113,453 |
-| Thief Bane | 14.00% | ~93,432 |
+| Northern Scourge | 17.00% | ~113,454 |
+| Thief Bane | 14.00% | ~93,433 |
 | Master of Arms | 12.00% | ~80,085 |
-| Gambler | 10.00% | ~66,737 |
-| Dice Master | 10.00% | ~66,737 |
-| Swordsman | 9.00% | ~60,063 |
+| Gambler | 10.00% | ~66,738 |
+| Dice Master | 10.00% | ~66,738 |
+| Swordsman | 9.00% | ~60,064 |
 | Knight | 8.00% | ~53,390 |
 | Cure for Corruption | 8.00% | ~53,390 |
 | Focused | 8.00% | ~53,390 |
@@ -31,9 +31,9 @@ Number of Ratings: 780  (23.09.2022)
 | Leap of Faith | 3.00% | ~20,021 |
 | Combat Ready | 3.00% | ~20,021 |
 | Stuffed Potato | 3.00% | ~20,021 |
-| Card Sharp | 2.00% | ~13,347 |
-| Magician | 2.00% | ~13,347 |
-| Draknar's Bane | 2.00% | ~13,347 |
+| Card Sharp | 2.00% | ~13,348 |
+| Magician | 2.00% | ~13,348 |
+| Draknar's Bane | 2.00% | ~13,348 |
 | Protector of the Realm | 1.00% | ~6,674 |
 | Purgatorium | 1.00% | ~6,674 |
 | Cursed Soul | 1.00% | ~6,674 |
@@ -45,8 +45,8 @@ Number of Ratings: 780  (23.09.2022)
 | Hero | 0.60% | ~4,004 |
 | Rebel | 0.60% | ~4,004 |
 | Dungeon Master | 0.50% | ~3,337 |
-| Pilgrim | 0.40% | ~2,669 |
-| Smiths Honour | 0.40% | ~2,669 |
+| Pilgrim | 0.40% | ~2,670 |
+| Smiths Honour | 0.40% | ~2,670 |
 | Peaceful Coast | 0.30% | ~2,002 |
 | Money Bags | 0.20% | ~1,335 |
 | Grifter | 0.10% | ~667 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,372 (Ranked 31)  
+Progressed: 667,375 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 174 (0.03%) (Ranked 358)
 | 2024-01-11 | 667,218 | 174 |
 | 2024-01-12 | 667,270 | 174 |
 | 2024-01-13 | 667,323 | 174 |
-| 2024-01-14 | 667,372 | 174 |
+| 2024-01-14 | 667,375 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 501)  
 Sum: 196 (Ranked 419)  

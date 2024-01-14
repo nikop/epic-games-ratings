@@ -51,8 +51,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 1.00% | ~208 |
 | Forbidden Lands | 1.00% | ~208 |
 | Forsaken Gods Temple | 1.00% | ~208 |
+| Feeding The People | 0.90% | ~187 |
 | Like a Machine | 0.90% | ~187 |
-| Feeding The People | 0.80% | ~166 |
 | Prestigious Expedition | 0.50% | ~104 |
 | Blood Flower Farmer | 0.50% | ~104 |
 | Fox Utopia | 0.50% | ~104 |

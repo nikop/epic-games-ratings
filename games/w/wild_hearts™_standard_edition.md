@@ -19,7 +19,7 @@
 | Helpful Heart | 40.00% | ~546 |
 | Flawless Crystal | 38.00% | ~519 |
 | Bonds of Enmity | 38.00% | ~519 |
-| Distance Devourer | 36.00% | ~492 |
+| Distance Devourer | 37.00% | ~505 |
 | Counter Specialist | 34.00% | ~464 |
 | Master of the Skies | 31.00% | ~423 |
 | Axer of Auspice | 28.00% | ~382 |
@@ -33,8 +33,8 @@
 | Karakuri Isle | 20.00% | ~273 |
 | Artful Assister | 20.00% | ~273 |
 | Reincarnation Cycle Stopper | 19.00% | ~260 |
+| Left Arm Leverager | 17.00% | ~232 |
 | Human Believer | 17.00% | ~232 |
-| Left Arm Leverager | 16.00% | ~219 |
 | Quintessence of Form | 16.00% | ~219 |
 | Style Seeker | 15.00% | ~205 |
 | Unrivaled in Arms | 15.00% | ~205 |

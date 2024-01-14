@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75243,
+  "EOS_Progressed": 75256,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 1373,
+  "EOS_NewPlayers": 1372,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7315,6 +7315,11 @@
       "Time": "2024-01-14T20:08:48.3786305+00:00",
       "NumProgressed": 75243,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2024-01-14T21:08:47.1746394+00:00",
+      "NumProgressed": 75256,
+      "NumCompleted": 122
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7327,7 +7332,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27840
+      "UsersEstimate": 27845
     },
     {
       "ID": "Achievement_10",
@@ -7335,7 +7340,7 @@
       "Name": "Inside Ma\u00E1to\u0027s Mind",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Achievement_11",
@@ -7343,7 +7348,7 @@
       "Name": "Owls of the Nest",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Achievement_12",
@@ -7383,7 +7388,7 @@
       "Name": "Diligent Hogbunny",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Achievement_17",
@@ -7407,7 +7412,7 @@
       "Name": "Fearless in Karba",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "Achievement_2",
@@ -7415,7 +7420,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21068
+      "UsersEstimate": 21072
     },
     {
       "ID": "Achievement_20",
@@ -7431,7 +7436,7 @@
       "Name": "Heroic Hoarder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Achievement_22",
@@ -7463,7 +7468,7 @@
       "Name": "Konkylian Custodian",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "Achievement_26",
@@ -7471,7 +7476,7 @@
       "Name": "Fruits of Labour",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Achievement_27",
@@ -7503,7 +7508,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9029
+      "UsersEstimate": 9031
     },
     {
       "ID": "Achievement_30",
@@ -7519,7 +7524,7 @@
       "Name": "Well Traveled",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Achievement_32",
@@ -7535,7 +7540,7 @@
       "Name": "Family Ties",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "Achievement_34",
@@ -7543,7 +7548,7 @@
       "Name": "Warden",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "Achievement_4",
@@ -7551,7 +7556,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6772
+      "UsersEstimate": 6773
     },
     {
       "ID": "Achievement_5",
@@ -7559,7 +7564,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "Achievement_6",
@@ -7575,7 +7580,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "Achievement_8",
@@ -7583,7 +7588,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "Achievement_9",
@@ -7591,14 +7596,14 @@
       "Name": "Shielded by L\u00FFs",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     }
   ],
   "AchievementSets": [
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75243,
+      "Progressed": 75256,
       "Completed": 122
     }
   ],
@@ -7606,8 +7611,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-14T17:58:20.5473413+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:08:48.3786299+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:08:47.1746388+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:57:44.8849924+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:08:48.3786791+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:57:36.1470112+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:08:47.1746928+00:00"
 }

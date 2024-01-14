@@ -961,9 +961,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667372,
+  "EOS_Progressed": 667375,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -26661,6 +26661,11 @@
       "Time": "2024-01-14T20:09:56.9986784+00:00",
       "NumProgressed": 667372,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-14T21:09:40.1251239+00:00",
+      "NumProgressed": 667375,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26672,7 +26677,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480508
+      "UsersEstimate": 480510
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26680,7 +26685,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387076
+      "UsersEstimate": 387078
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26728,7 +26733,7 @@
       "Name": "Card Sharp",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13347
+      "UsersEstimate": 13348
     },
     {
       "ID": "Achievement_09_Gambler",
@@ -26736,7 +26741,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66737
+      "UsersEstimate": 66738
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -26768,7 +26773,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66737
+      "UsersEstimate": 66738
     },
     {
       "ID": "Achievement_14_Magician",
@@ -26776,7 +26781,7 @@
       "Name": "Magician",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13347
+      "UsersEstimate": 13348
     },
     {
       "ID": "Achievement_15_Hero",
@@ -26816,7 +26821,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93432
+      "UsersEstimate": 93433
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -26824,7 +26829,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113453
+      "UsersEstimate": 113454
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -26936,7 +26941,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166843
+      "UsersEstimate": 166844
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -26952,7 +26957,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60063
+      "UsersEstimate": 60064
     },
     {
       "ID": "Achievement_37_Champion",
@@ -26992,7 +26997,7 @@
       "Name": "Draknar\u0027s Bane",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13347
+      "UsersEstimate": 13348
     },
     {
       "ID": "Achievement_42_Thomas_Bane",
@@ -27032,7 +27037,7 @@
       "Name": "Pilgrim",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "Achievement_47_Smiths_Honour",
@@ -27040,7 +27045,7 @@
       "Name": "Smiths Honour",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "Achievement_48_Blood_Pact",
@@ -27055,15 +27060,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667372,
+      "Progressed": 667375,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:09:56.9986775+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:09:40.1251233+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:00:51.6161631+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:09:56.998799+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:53.396382+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:09:40.1253219+00:00"
 }

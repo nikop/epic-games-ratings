@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Augmented | 38.00% | ~363 |
 | Challenge Accepted | 31.00% | ~296 |
-| Terminated I | 30.00% | ~286 |
+| Terminated I | 31.00% | ~296 |
 | Nanonic I | 29.00% | ~277 |
 | Unlocked and Loaded | 28.00% | ~267 |
 | Terminated II | 24.00% | ~229 |
@@ -34,7 +34,7 @@
 | Cyborg | 0.20% | ~2 |
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 955 (Ranked 302)  
+Progressed: 955 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 595)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,095 |
-| FIRST BLOOD | 40.00% | ~160,973 |
-| KEVIN! | 30.00% | ~120,730 |
-| JACK OF ALL TRADES | 23.00% | ~92,560 |
-| CRIMINAL | 20.00% | ~80,487 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,292 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,243 |
-| HONORS STUDENT | 8.00% | ~32,195 |
-| BUTCHER | 6.00% | ~24,146 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,122 |
-| RAMBO | 5.00% | ~20,122 |
-| HELL'S KITCHEN | 4.00% | ~16,097 |
-| CELEBRITY | 3.00% | ~12,073 |
-| MARTYR | 3.00% | ~12,073 |
+| MASTER CHEF | 45.00% | ~181,104 |
+| FIRST BLOOD | 40.00% | ~160,981 |
+| KEVIN! | 30.00% | ~120,736 |
+| JACK OF ALL TRADES | 23.00% | ~92,564 |
+| CRIMINAL | 20.00% | ~80,491 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,294 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,245 |
+| HONORS STUDENT | 8.00% | ~32,196 |
+| BUTCHER | 6.00% | ~24,147 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,123 |
+| RAMBO | 5.00% | ~20,123 |
+| HELL'S KITCHEN | 4.00% | ~16,098 |
+| CELEBRITY | 3.00% | ~12,074 |
+| MARTYR | 3.00% | ~12,074 |
 | GRATITUDE | 2.00% | ~8,049 |
 | PATTY-KILLER | 2.00% | ~8,049 |
-| EXPERIMENTALIST | 1.00% | ~4,024 |
-| GOURMET | 1.00% | ~4,024 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,024 |
-| PRUDENT | 1.00% | ~4,024 |
-| SCATTERBRAIN | 0.80% | ~3,219 |
+| EXPERIMENTALIST | 1.00% | ~4,025 |
+| GOURMET | 1.00% | ~4,025 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,025 |
+| PRUDENT | 1.00% | ~4,025 |
+| SCATTERBRAIN | 0.80% | ~3,220 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,817 |
 | TASTE UNTASTY | 0.60% | ~2,415 |
 | DEBTOR | 0.20% | ~805 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 595)
 | MISTER ALL THUMBS | 0.10% | ~402 |
 | TRAVELER | 0.10% | ~402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,433 (Ranked 50)  
+Progressed: 402,453 (Ranked 50)  
 Completed: 59 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 59 (0.01%) (Ranked 376)
 | 2024-01-11 | 400,956 | 58 |
 | 2024-01-12 | 401,406 | 59 |
 | 2024-01-13 | 401,958 | 59 |
-| 2024-01-14 | 402,433 | 59 |
+| 2024-01-14 | 402,453 | 59 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

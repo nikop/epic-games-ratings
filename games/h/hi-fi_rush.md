@@ -5,11 +5,11 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 55.00% | ~9,434 |
-| Feeling the beat! | 55.00% | ~9,434 |
-| You can pet the cat! | 50.00% | ~8,576 |
-| Who put gears in there? | 41.00% | ~7,033 |
-| Cream of the Crop | 36.00% | ~6,175 |
+| Start with a bang! | 55.00% | ~9,435 |
+| Feeling the beat! | 55.00% | ~9,435 |
+| You can pet the cat! | 50.00% | ~8,578 |
+| Who put gears in there? | 41.00% | ~7,034 |
+| Cream of the Crop | 36.00% | ~6,176 |
 | Thanks for the free chip, Peppermint! | 35.00% | ~6,004 |
 | You got this, Peppermint? | 30.00% | ~5,146 |
 | Perfect Parry | 28.00% | ~4,803 |
@@ -17,18 +17,18 @@ Rating: 4.86 (Ranked 33)
 | I play my own way! | 24.00% | ~4,117 |
 | This will cost you big time | 22.00% | ~3,774 |
 | Uh, they were broken when I got here | 22.00% | ~3,774 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,602 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,603 |
 | Kissing the sky! | 20.00% | ~3,431 |
 | Whoa! There's ANOTHER health bar!? | 17.00% | ~2,916 |
 | Does that say weakpoint? | 17.00% | ~2,916 |
-| The Negotiator | 16.00% | ~2,744 |
+| The Negotiator | 16.00% | ~2,745 |
 | You must like calling me in, Chai | 15.00% | ~2,573 |
-| Out in a puff of smoke | 14.00% | ~2,401 |
+| Out in a puff of smoke | 14.00% | ~2,402 |
 | Headliner | 13.00% | ~2,230 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,230 |
-| Time to pay up! | 12.00% | ~2,058 |
-| Who's the boss now? | 12.00% | ~2,058 |
-| Perfecter Parry-er! | 12.00% | ~2,058 |
+| Time to pay up! | 12.00% | ~2,059 |
+| Who's the boss now? | 12.00% | ~2,059 |
+| Perfecter Parry-er! | 12.00% | ~2,059 |
 | I have to read these things? | 11.00% | ~1,887 |
 | NOW we got a kickass hideout! | 9.00% | ~1,411 |
 | There's such a thing as TOO helpful | 8.00% | ~1,372 |
@@ -46,7 +46,7 @@ Rating: 4.86 (Ranked 33)
 | First we parry, then we counter | 2.00% | ~343 |
 | I hit things with a guitar really well. | 2.00% | ~343 |
 | You ever parry a volcano? | 2.00% | ~343 |
-| Call me Turbo Chai | 2.00% | ~313 |
+| Call me Turbo Chai | 2.00% | ~314 |
 | Easy Listening | 1.00% | ~172 |
 | This is a breeze! | 1.00% | ~172 |
 | OK, well THEY came after ME! | 0.80% | ~137 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,153 (Ranked 168)  
+Progressed: 17,155 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-11 | 16,805 | 8 |
 | 2024-01-12 | 16,910 | 8 |
 | 2024-01-13 | 17,049 | 8 |
-| 2024-01-14 | 17,153 | 8 |
+| 2024-01-14 | 17,155 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

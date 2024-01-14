@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,076 |
+| Malpractice Assurance | 14.00% | ~1,077 |
 | Lost and Found | 9.00% | ~692 |
-| Autodidact | 8.00% | ~10,625 |
-| This Belongs in a Museum | 7.00% | ~9,297 |
-| This guy... again? | 7.00% | ~538 |
-| Serenity Now! | 6.00% | ~7,969 |
-| Creep and Sleep | 6.00% | ~7,969 |
-| Overdue Notice | 6.00% | ~7,969 |
-| Escape from the Black Hole | 6.00% | ~7,969 |
-| Ploughshares to Swords | 6.00% | ~461 |
-| Bloody Graduation | 6.00% | ~461 |
+| Autodidact | 8.00% | ~10,626 |
+| This Belongs in a Museum | 7.00% | ~9,298 |
+| This guy... again? | 7.00% | ~539 |
+| Serenity Now! | 6.00% | ~7,970 |
+| Creep and Sleep | 6.00% | ~7,970 |
+| Overdue Notice | 6.00% | ~7,970 |
+| Escape from the Black Hole | 6.00% | ~7,970 |
+| Ploughshares to Swords | 6.00% | ~462 |
+| Bloody Graduation | 6.00% | ~462 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,641 |
 | It Rings a Bell | 5.00% | ~6,641 |
 | Not Today! | 5.00% | ~6,641 |
@@ -41,7 +41,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,313 |
 | Whale | 4.00% | ~5,313 |
 | Unshackled | 4.00% | ~5,313 |
-| Friends 'Til the End | 4.00% | ~307 |
+| Friends 'Til the End | 4.00% | ~308 |
 | Resurrection | 3.00% | ~3,985 |
 | Wyrdly Reconstructed | 3.00% | ~3,985 |
 | Boxcar Kid | 3.00% | ~3,985 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,818 (Ranked 92)  
+Progressed: 132,825 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,818 | 4 |
+| 2024-01-14 | 132,825 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,652 (Ranked 58)  

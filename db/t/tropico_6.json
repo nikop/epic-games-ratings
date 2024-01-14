@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 343,
   "Ranking_Popularity": 372,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "NumberOfRatings": 398,
   "RatingHistory": [
     {
@@ -1519,10 +1519,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 765,
       "NumberOfAwardsMax": 107
+    },
+    {
+      "Time": "2024-01-14T20:59:02.4962916+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 766,
+      "NumberOfAwardsMax": 107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 765,
+  "NumberOfAwards": 766,
   "NumberOfAwardsMax": 107,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1566,7 +1572,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has a Creative Community",
@@ -1595,7 +1601,7 @@
   ],
   "EOS_Progressed": 7146,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17114,9 +17120,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-01-13T19:58:43.4789287+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:06:04.3617346+00:00",
+  "LastChanged": "2024-01-14T20:59:02.4962913+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:05:13.2778414+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:59:41.9801957+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:06:04.3618124+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:59:02.4962919+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:05:13.2779449+00:00"
 }

@@ -24,8 +24,8 @@
 | Spirit of the past | 58.00% | ~339 |
 | Employee of the month | 57.00% | ~333 |
 | Law student | 55.00% | ~321 |
+| Workout professional | 53.00% | ~310 |
 | Handyman | 53.00% | ~310 |
-| Workout professional | 52.00% | ~304 |
 | Fight for life | 52.00% | ~304 |
 | Little hacker | 52.00% | ~304 |
 | Champion – starter pack | 52.00% | ~304 |
@@ -67,9 +67,9 @@
 | The heart of the Resistance | 27.00% | ~158 |
 | The last bell ring | 26.00% | ~152 |
 | Your own way | 26.00% | ~152 |
+| Better cooking at home | 25.00% | ~146 |
 | The only right decision | 25.00% | ~146 |
 | Silver’s past | 24.00% | ~140 |
-| Better cooking at home | 24.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 584 (Ranked 345)  
 Completed: 9 (1.54%) (Ranked 150)  

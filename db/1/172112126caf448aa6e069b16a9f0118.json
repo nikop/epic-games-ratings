@@ -243,9 +243,9 @@
       "ID": "6",
       "SetID": "36pe9e2",
       "Name": "Aligned Hovercams",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "7",
@@ -267,9 +267,9 @@
       "ID": "9",
       "SetID": "36pe9e2",
       "Name": "Submit your Case Report",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-12-05T14:57:21.3417959+00:00",
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2024-01-14T20:09:03.8921598+00:00",
+  "LastChanged_Achievements": "2024-01-14T21:08:59.481942+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:57.3456515+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:01:55.1414983+00:00",
-  "LastUpdate_Achievements": "2024-01-14T20:09:03.8921677+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:00:39.4468408+00:00",
+  "LastUpdate_Achievements": "2024-01-14T21:08:59.4819567+00:00"
 }

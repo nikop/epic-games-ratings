@@ -5,26 +5,26 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~182 |
-| Map reader | 64.00% | ~129 |
-| Adventurer | 63.00% | ~127 |
-| Philanthropist | 60.00% | ~121 |
+| Beginner | 90.00% | ~183 |
+| Map reader | 65.00% | ~132 |
+| Adventurer | 64.00% | ~130 |
+| Philanthropist | 61.00% | ~124 |
 | Archer | 40.00% | ~81 |
 | The brave little tailor | 39.00% | ~79 |
 | Field hand | 36.00% | ~73 |
-| Well-to-do | 32.00% | ~65 |
+| Well-to-do | 33.00% | ~67 |
 | Samaritan | 29.00% | ~59 |
+| The merciful one | 28.00% | ~57 |
 | Ladies' man | 28.00% | ~57 |
-| The merciful one | 27.00% | ~55 |
-| Ferocious wild boars | 23.00% | ~46 |
-| Idiot | 23.00% | ~46 |
-| Beast slayer | 21.00% | ~42 |
-| Death of a legend | 19.00% | ~38 |
-| Ogre friend | 19.00% | ~38 |
-| Archaeologist | 18.00% | ~36 |
-| Family man | 17.00% | ~34 |
-| Little hero | 17.00% | ~34 |
-| Sidelined | 17.00% | ~34 |
+| Ferocious wild boars | 23.00% | ~47 |
+| Idiot | 23.00% | ~47 |
+| Beast slayer | 21.00% | ~43 |
+| Death of a legend | 19.00% | ~39 |
+| Ogre friend | 19.00% | ~39 |
+| Archaeologist | 18.00% | ~37 |
+| Family man | 17.00% | ~35 |
+| Little hero | 17.00% | ~35 |
+| Sidelined | 17.00% | ~35 |
 | The fourth triplet | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
@@ -56,7 +56,7 @@ Rating: 4.56 (Ranked 510)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 433)  
+Progressed: 203 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,7 +133,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 191 | 0 |
 | 2024-01-12 | 193 | 0 |
 | 2024-01-13 | 200 | 0 |
-| 2024-01-14 | 202 | 0 |
+| 2024-01-14 | 203 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
