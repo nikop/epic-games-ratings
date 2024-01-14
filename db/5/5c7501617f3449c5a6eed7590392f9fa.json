@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -1214,6 +1214,11 @@
       "Time": "2024-01-13T13:12:07.478313+00:00",
       "NumProgressed": 286,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T10:09:59.4126571+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.6097562+00:00",
@@ -1232,9 +1237,9 @@
       "ID": "Ach-01-brambora",
       "SetID": "2pjo9pi",
       "Name": "Brambora",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 215
     },
     {
       "ID": "Ach-01-bzukavec",
@@ -1258,7 +1263,7 @@
       "Name": "Soukac",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Ach-01-ulita",
@@ -1272,9 +1277,9 @@
       "ID": "Ach-02-brouk",
       "SetID": "2pjo9pi",
       "Name": "Brouk",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "Ach-02-dzin",
@@ -1320,9 +1325,9 @@
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 155
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -1336,17 +1341,17 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "Ach-03-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach-03-pidalka",
@@ -1458,7 +1463,7 @@
       "Name": "Zaba",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach-04-zarovka",
@@ -1496,9 +1501,9 @@
       "ID": "Ach-05-hlavouni",
       "SetID": "2pjo9pi",
       "Name": "Hlavouni",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach-05-hrouda",
@@ -1506,7 +1511,7 @@
       "Name": "Hrouda",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach-05-jelen",
@@ -1554,7 +1559,7 @@
       "Name": "Nosatec",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach-05-vesmir",
@@ -1592,17 +1597,17 @@
       "ID": "Ach-level-1",
       "SetID": "2pjo9pi",
       "Name": "Level 1",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 215
     },
     {
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "Ach-level-3",
@@ -1610,15 +1615,15 @@
       "Name": "Level 3",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Ach-level-4",
       "SetID": "2pjo9pi",
       "Name": "Level 4",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "Ach-level-5",
@@ -1642,21 +1647,21 @@
       "Name": "Mythology",
       "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "2pjo9pi",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:09:19.6365117+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:09:59.412657+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:58:32.6215326+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:09:19.6365657+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:59:33.0816456+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:09:59.4126914+00:00"
 }

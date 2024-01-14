@@ -1,7 +1,7 @@
 # R-Type Final 2
 [Store](https://store.epicgames.com/en-US/p/r-type-final-2)  
 [View Rawdata](../../db/r/r-type_final_2.json)  
-Rating: 4.26 (Ranked 916)  
+Rating: 4.26 (Ranked 917)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

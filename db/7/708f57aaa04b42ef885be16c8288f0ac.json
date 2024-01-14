@@ -425,9 +425,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 14844,
+  "EOS_Progressed": 14849,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10330,6 +10330,11 @@
       "Time": "2024-01-14T09:10:07.7244626+00:00",
       "NumProgressed": 14844,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T10:11:06.5016539+00:00",
+      "NumProgressed": 14849,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10350,7 +10355,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6086
+      "UsersEstimate": 6088
     },
     {
       "ID": "BeLikeWater",
@@ -10382,7 +10387,7 @@
       "Name": "Connection Lost",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3414
+      "UsersEstimate": 3415
     },
     {
       "ID": "Eavesdropper",
@@ -10398,7 +10403,7 @@
       "Name": "Explosive Personality",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "FasterThanLight",
@@ -10414,7 +10419,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8164
+      "UsersEstimate": 8167
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10446,7 +10451,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10486,7 +10491,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4305
+      "UsersEstimate": 4306
     },
     {
       "ID": "NoMoreTotems",
@@ -10534,7 +10539,7 @@
       "Name": "The Old-School Way",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3711
+      "UsersEstimate": 3712
     },
     {
       "ID": "TheQuarterback",
@@ -10542,7 +10547,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6385
     },
     {
       "ID": "ThisIsDharma",
@@ -10550,7 +10555,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10558,7 +10563,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "UnResurrected",
@@ -10574,7 +10579,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10582,7 +10587,7 @@
       "Name": "Digestive Issues",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -10598,7 +10603,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "k01101110",
@@ -10606,14 +10611,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14844,
+      "Progressed": 14849,
       "Completed": 27
     }
   ],
@@ -10621,8 +10626,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-13T11:58:52.3774127+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:07.7244623+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:06.5016537+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:58:27.8189717+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:07.7245361+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:59:25.1130597+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:11:06.5017167+00:00"
 }

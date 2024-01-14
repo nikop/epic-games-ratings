@@ -2461,9 +2461,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19537,
+  "EOS_Progressed": 19538,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 767,
+  "EOS_NewPlayers": 762,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20346,6 +20346,11 @@
       "Time": "2024-01-14T09:10:06.8628138+00:00",
       "NumProgressed": 19537,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T10:11:05.4031758+00:00",
+      "NumProgressed": 19538,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20357,7 +20362,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15825
+      "UsersEstimate": 15826
     },
     {
       "ID": "ACH02",
@@ -20413,7 +20418,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9768
+      "UsersEstimate": 9769
     },
     {
       "ID": "ACH09",
@@ -20549,7 +20554,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH26",
@@ -20611,9 +20616,9 @@
       "ID": "ACH33",
       "SetID": "4ck5mbe",
       "Name": "Remastered",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH34",
@@ -20636,7 +20641,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19537,
+      "Progressed": 19538,
       "Completed": 77
     }
   ],
@@ -20644,8 +20649,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-14T05:04:16.3793798+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:06.8628136+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:05.4031756+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:02:50.6931956+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:06.8629097+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:03:22.3184438+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:11:05.4032819+00:00"
 }

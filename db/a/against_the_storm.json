@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3947,9 +3947,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20770,
+  "EOS_Progressed": 20771,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19587,6 +19587,11 @@
       "Time": "2024-01-14T07:08:24.1059421+00:00",
       "NumProgressed": 20770,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T10:08:27.4097051+00:00",
+      "NumProgressed": 20771,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19621,9 +19626,9 @@
       "ID": "AllServices",
       "SetID": "cfbk359",
       "Name": "Higher Needs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 42
     },
     {
       "ID": "BeaverUtopia",
@@ -19815,7 +19820,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "WinNearRuins",
@@ -19855,7 +19860,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "WinOnCoral",
@@ -20015,7 +20020,7 @@
       "Name": "Land of Greed",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "WinNearLibrary",
@@ -20070,15 +20075,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20770,
+      "Progressed": 20771,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:08:15.4133125+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:08:27.4097048+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:00:17.9057755+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:08:15.4134264+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:02:12.2506233+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:08:27.4098285+00:00"
 }

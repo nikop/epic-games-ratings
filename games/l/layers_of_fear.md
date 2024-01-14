@@ -12,7 +12,7 @@
 | The artist’s impression | 49.00% | ~160 |
 | Do what you have to | 44.00% | ~143 |
 | Sign of weakness | 41.00% | ~134 |
-| Refuse to look | 36.00% | ~117 |
+| Refuse to look | 37.00% | ~121 |
 | Face your fears | 31.00% | ~101 |
 | Finished it | 26.00% | ~85 |
 | Whispers long forgotten | 18.00% | ~59 |
@@ -22,12 +22,12 @@
 | The art of movement | 13.00% | ~42 |
 | Another perspective | 12.00% | ~39 |
 | Lights! Camera! Action! | 12.00% | ~39 |
+| First steps | 10.00% | ~33 |
 | Playtime | 10.00% | ~33 |
 | Tough conversation | 10.00% | ~33 |
 | A new way | 9.00% | ~29 |
-| First steps | 9.00% | ~29 |
+| Breaking free | 9.00% | ~29 |
 | The tragedy unfolds | 9.00% | ~29 |
-| Breaking free | 8.00% | ~26 |
 | True Reflection | 8.00% | ~26 |
 | Casting Finished | 7.00% | ~23 |
 | Heavy Burden | 7.00% | ~23 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 393)  
+Progressed: 326 (Ranked 394)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |

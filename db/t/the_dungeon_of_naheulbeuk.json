@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248054,
+  "EOS_Progressed": 248056,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1041,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26128,6 +26128,11 @@
       "Time": "2024-01-14T09:10:16.0612092+00:00",
       "NumProgressed": 248054,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-14T10:11:17.3371693+00:00",
+      "NumProgressed": 248056,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26587,7 +26592,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91780
+      "UsersEstimate": 91781
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26675,7 +26680,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2232
+      "UsersEstimate": 2233
     },
     {
       "ID": "MinistrelEpic",
@@ -26842,21 +26847,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248054,
+      "Progressed": 248056,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248054,
+      "Progressed": 248056,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:16.061209+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:17.3371692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:58:26.3260783+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:16.0613702+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:59:22.8454364+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:11:17.3373359+00:00"
 }

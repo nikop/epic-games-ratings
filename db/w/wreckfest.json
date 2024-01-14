@@ -5,7 +5,7 @@
   "Ranking_Rating": 936,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 153,
@@ -361,7 +361,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1141,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
@@ -2846,6 +2846,11 @@
       "Time": "2024-01-14T09:09:03.8111689+00:00",
       "NumProgressed": 1141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T10:09:36.9314042+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2858,7 +2863,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "CareerAllChallenges",
@@ -2866,7 +2871,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "CareerChamp1",
@@ -2882,7 +2887,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "CareerChamp3",
@@ -2898,7 +2903,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CareerComplete",
@@ -2914,7 +2919,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "CollectVehiclesA",
@@ -2922,7 +2927,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "CollectVehiclesB",
@@ -3017,7 +3022,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1141,
+      "Progressed": 1143,
       "Completed": 0
     }
   ],
@@ -3025,8 +3030,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:09:03.8111687+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:09:36.9314038+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:58:44.7168921+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:09:03.811193+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:59:53.0442752+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:09:36.9314363+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "noch-fc0c87",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1277,6 +1277,11 @@
       "Time": "2024-01-14T08:08:04.1609711+00:00",
       "NumProgressed": 418,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T10:07:48.9370417+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-30T11:04:51.7555218+00:00",
@@ -1640,13 +1645,13 @@
     {
       "ID": "462g97k",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 420,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-16T10:03:14.4696279+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:05:57.1502992+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:07:48.9370415+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.8107961+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:59:27.7647267+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:05:57.1503296+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:00:55.6884691+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:07:48.9370765+00:00"
 }

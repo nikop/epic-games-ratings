@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~289 |
+| In the Black | 55.00% | ~290 |
 | Starting Skyward | 49.00% | ~258 |
 | Grime is Not Good | 41.00% | ~216 |
-| Floor Galore | 36.00% | ~189 |
-| Campaign Launch | 36.00% | ~189 |
-| Dinner Dash | 36.00% | ~189 |
+| Floor Galore | 36.00% | ~190 |
+| Campaign Launch | 35.00% | ~184 |
+| Dinner Dash | 35.00% | ~184 |
 | Need a Consult | 33.00% | ~174 |
-| Upgrade Unlock | 33.00% | ~174 |
-| It's Technical | 32.00% | ~168 |
-| Proper Walls | 29.00% | ~153 |
-| Delegate Maintenance | 28.00% | ~147 |
-| Destination Destiny | 28.00% | ~147 |
+| Upgrade Unlock | 32.00% | ~169 |
+| It's Technical | 32.00% | ~169 |
+| Proper Walls | 28.00% | ~148 |
+| Delegate Maintenance | 28.00% | ~148 |
+| Destination Destiny | 28.00% | ~148 |
 | Happy Tenants | 23.00% | ~121 |
 | Your Prestige is Rising | 22.00% | ~116 |
 | Potent Potables | 22.00% | ~116 |
 | Smooth Service | 22.00% | ~116 |
-| Retail Revenue | 21.00% | ~110 |
+| Retail Revenue | 21.00% | ~111 |
 | Don't Feel a Loan | 20.00% | ~105 |
 | Artfully Done | 18.00% | ~95 |
 | People Mover | 18.00% | ~95 |
 | Leveled Up Shops | 18.00% | ~95 |
 | We Don't Need No Education | 18.00% | ~95 |
-| Lux Living | 17.00% | ~89 |
-| Emporium Empire | 17.00% | ~89 |
-| Get Electrified | 17.00% | ~89 |
+| Lux Living | 17.00% | ~90 |
+| Emporium Empire | 17.00% | ~90 |
+| Get Electrified | 17.00% | ~90 |
 | Tasty Profits | 16.00% | ~84 |
 | Rehab Expert | 15.00% | ~79 |
 | Established Fame | 15.00% | ~79 |
-| Under One Roof | 13.00% | ~68 |
-| Starred Dining | 13.00% | ~68 |
-| Cashflow Chief | 13.00% | ~68 |
+| Under One Roof | 13.00% | ~69 |
+| Starred Dining | 13.00% | ~69 |
+| Cashflow Chief | 13.00% | ~69 |
 | Smooth Operator | 11.00% | ~58 |
 | Boutique Benefits | 11.00% | ~58 |
 | Thrilled Tenants | 11.00% | ~58 |
@@ -80,7 +80,7 @@
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
 | Such Great Heights | 1.00% | ~5 |
-| Lofty Landlord | 1.00% | ~5 |
+| Lofty Landlord | 0.90% | ~5 |
 | High Hand | 0.80% | ~4 |
 | Double Down | 0.80% | ~4 |
 | Artistic Largesse | 0.60% | ~3 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526 (Ranked 352)  
+Progressed: 527 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,6 +225,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 519 | 0 |
 | 2024-01-12 | 523 | 0 |
 | 2024-01-13 | 526 | 0 |
+| 2024-01-14 | 527 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

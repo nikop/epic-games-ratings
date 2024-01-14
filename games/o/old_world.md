@@ -9,14 +9,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 4.00% | ~670 |
 | Settler | 4.00% | ~670 |
 | Play a Single Player Game | 4.00% | ~670 |
-| Able | 3.00% | ~502 |
-| Architect | 3.00% | ~502 |
-| Intrepid | 3.00% | ~502 |
-| Mason | 3.00% | ~502 |
-| Strong | 3.00% | ~502 |
-| Friendly Family | 3.00% | ~502 |
-| Hanging Gardens | 3.00% | ~502 |
-| Oracle | 3.00% | ~502 |
+| Able | 3.00% | ~503 |
+| Architect | 3.00% | ~503 |
+| Intrepid | 3.00% | ~503 |
+| Mason | 3.00% | ~503 |
+| Strong | 3.00% | ~503 |
+| Friendly Family | 3.00% | ~503 |
+| Hanging Gardens | 3.00% | ~503 |
+| Oracle | 3.00% | ~503 |
 | Ambitious | 2.00% | ~335 |
 | Brilliant | 2.00% | ~335 |
 | Enlightened | 2.00% | ~335 |
@@ -41,35 +41,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 2.00% | ~335 |
 | Judaism | 2.00% | ~335 |
 | Babylonian Paganism | 2.00% | ~335 |
+| Carthaginian Paganism | 2.00% | ~335 |
 | Greek Paganism | 2.00% | ~335 |
 | Roman Paganism | 2.00% | ~335 |
 | Zoroastrianism | 2.00% | ~335 |
 | Naming Landmarks | 2.00% | ~335 |
 | Trade Caravan | 2.00% | ~335 |
-| Regicide | 1.00% | ~167 |
-| Hanging Gardens in Babylon | 1.00% | ~167 |
-| Drillmaster | 1.00% | ~167 |
-| Great | 1.00% | ~167 |
-| Intercessor | 1.00% | ~167 |
-| Valiant | 1.00% | ~167 |
-| Wise | 1.00% | ~167 |
-| Legendary Cities | 1.00% | ~167 |
-| Able Difficulty | 1.00% | ~167 |
-| Just Difficulty | 1.00% | ~167 |
-| Artisans | 1.00% | ~167 |
-| Furious Family | 1.00% | ~167 |
-| Acropolis | 1.00% | ~167 |
-| Apadana | 1.00% | ~167 |
-| Colossus | 1.00% | ~167 |
-| Mausoleum | 1.00% | ~167 |
-| Musaeum | 1.00% | ~167 |
-| Necropolis | 1.00% | ~167 |
-| Learn to Play 3 | 1.00% | ~167 |
-| Manichaeism | 1.00% | ~167 |
-| Carthaginian Paganism | 1.00% | ~167 |
-| Egyptian Paganism | 1.00% | ~167 |
-| Building Wonders | 1.00% | ~167 |
-| Mythology | 1.00% | ~167 |
+| Regicide | 1.00% | ~168 |
+| Hanging Gardens in Babylon | 1.00% | ~168 |
+| Drillmaster | 1.00% | ~168 |
+| Great | 1.00% | ~168 |
+| Intercessor | 1.00% | ~168 |
+| Valiant | 1.00% | ~168 |
+| Wise | 1.00% | ~168 |
+| Legendary Cities | 1.00% | ~168 |
+| Able Difficulty | 1.00% | ~168 |
+| Just Difficulty | 1.00% | ~168 |
+| Artisans | 1.00% | ~168 |
+| Furious Family | 1.00% | ~168 |
+| Acropolis | 1.00% | ~168 |
+| Apadana | 1.00% | ~168 |
+| Colossus | 1.00% | ~168 |
+| Mausoleum | 1.00% | ~168 |
+| Musaeum | 1.00% | ~168 |
+| Necropolis | 1.00% | ~168 |
+| Learn to Play 3 | 1.00% | ~168 |
+| Manichaeism | 1.00% | ~168 |
+| Egyptian Paganism | 1.00% | ~168 |
+| Building Wonders | 1.00% | ~168 |
+| Mythology | 1.00% | ~168 |
 | Champions | 0.90% | ~151 |
 | Sages | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
@@ -95,21 +95,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.70% | ~117 |
 | The Clergy | 0.70% | ~117 |
 | Kushite Paganism | 0.70% | ~117 |
-| Capable | 0.60% | ~100 |
-| Conqueror | 0.60% | ~100 |
-| Ready | 0.60% | ~100 |
-| Subjugator | 0.60% | ~100 |
-| Riders | 0.60% | ~100 |
-| Circus Maximus | 0.60% | ~100 |
-| Pantheon | 0.60% | ~100 |
-| Via Recta Souk | 0.60% | ~100 |
-| Learn to Play 4 | 0.60% | ~100 |
-| Assyrian Paganism | 0.60% | ~100 |
-| Industrial Progress | 0.60% | ~100 |
-| Legalism | 0.60% | ~100 |
-| Cimmerian Archer | 0.60% | ~100 |
-| Ambition Victory | 0.60% | ~100 |
-| Kushite Pyramids | 0.60% | ~100 |
+| Capable | 0.60% | ~101 |
+| Conqueror | 0.60% | ~101 |
+| Ready | 0.60% | ~101 |
+| Subjugator | 0.60% | ~101 |
+| Riders | 0.60% | ~101 |
+| Circus Maximus | 0.60% | ~101 |
+| Pantheon | 0.60% | ~101 |
+| Via Recta Souk | 0.60% | ~101 |
+| Learn to Play 4 | 0.60% | ~101 |
+| Assyrian Paganism | 0.60% | ~101 |
+| Industrial Progress | 0.60% | ~101 |
+| Legalism | 0.60% | ~101 |
+| Cimmerian Archer | 0.60% | ~101 |
+| Ambition Victory | 0.60% | ~101 |
+| Kushite Pyramids | 0.60% | ~101 |
 | Bad Heir Day | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
 | Invincible | 0.50% | ~84 |
@@ -151,23 +151,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.30% | ~50 |
 | Royal Library | 0.30% | ~50 |
 | Yazilikaya | 0.30% | ~50 |
-| Carthage - Riches and Influence | 0.20% | ~33 |
-| Ancient | 0.20% | ~33 |
-| Glorious Difficulty | 0.20% | ~33 |
-| The Eternal Treaty | 0.20% | ~33 |
-| Run, Pheidippides, Run! | 0.20% | ~33 |
-| Pyramids in Menefer | 0.20% | ~33 |
-| Assyria | 0.20% | ~33 |
-| Persia | 0.20% | ~33 |
-| Pantheon of Gods | 0.20% | ~33 |
-| Apadana in Parsa | 0.20% | ~33 |
-| Play a Free-For-All Game (>2 Players) | 0.20% | ~33 |
-| Play a Network Game | 0.20% | ~33 |
-| Capturing Cities | 0.20% | ~33 |
-| Three Man Chariot | 0.20% | ~33 |
-| Conquest Victory | 0.20% | ~33 |
-| Beja Archer | 0.20% | ~33 |
-| Jebel Barkal | 0.20% | ~33 |
+| Carthage - Riches and Influence | 0.20% | ~34 |
+| Ancient | 0.20% | ~34 |
+| Glorious Difficulty | 0.20% | ~34 |
+| The Eternal Treaty | 0.20% | ~34 |
+| Run, Pheidippides, Run! | 0.20% | ~34 |
+| Pyramids in Menefer | 0.20% | ~34 |
+| Assyria | 0.20% | ~34 |
+| Persia | 0.20% | ~34 |
+| Pantheon of Gods | 0.20% | ~34 |
+| Apadana in Parsa | 0.20% | ~34 |
+| Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
+| Play a Network Game | 0.20% | ~34 |
+| Capturing Cities | 0.20% | ~34 |
+| Three Man Chariot | 0.20% | ~34 |
+| Conquest Victory | 0.20% | ~34 |
+| Beja Archer | 0.20% | ~34 |
+| Jebel Barkal | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,748 (Ranked 169)  
+Progressed: 16,755 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,748 | 5 |
+| 2024-01-14 | 16,755 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

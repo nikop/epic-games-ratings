@@ -1,29 +1,29 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 705)  
+Rating: 4.44 (Ranked 706)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,092 |
-| I'll Be Back | 84.00% | ~4,550 |
-| Sorry, I Dropped This | 76.00% | ~4,117 |
-| First Day on the Job | 76.00% | ~4,117 |
-| Butcher's Bill | 54.00% | ~2,925 |
+| On My Own Two Feet | 94.00% | ~5,093 |
+| I'll Be Back | 84.00% | ~4,551 |
+| Sorry, I Dropped This | 76.00% | ~4,118 |
+| First Day on the Job | 76.00% | ~4,118 |
+| Butcher's Bill | 54.00% | ~2,926 |
 | P.A.X | 36.00% | ~1,950 |
-| Hey Listen | 35.00% | ~1,896 |
+| Hey Listen | 36.00% | ~1,950 |
 | OPERATOR | 35.00% | ~1,896 |
 | It's Blue Light | 33.00% | ~1,788 |
-| Most Wanted | 26.00% | ~1,408 |
+| Most Wanted | 26.00% | ~1,409 |
 | Infidel | 23.00% | ~1,246 |
-| Firebug | 20.00% | ~1,083 |
-| GOLIATH | 20.00% | ~1,083 |
+| Firebug | 20.00% | ~1,084 |
+| GOLIATH | 20.00% | ~1,084 |
 | I Choose You | 17.00% | ~921 |
 | Nothing to Lose | 17.00% | ~921 |
 | Big Sister | 15.00% | ~813 |
 | SENTINEL | 15.00% | ~813 |
-| Gear Up | 14.00% | ~758 |
+| Gear Up | 14.00% | ~759 |
 | The Black Cerberus | 12.00% | ~650 |
 | Watchman | 12.00% | ~650 |
 | Core Power | 12.00% | ~650 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,417 (Ranked 204)  
-Completed: 18 (0.33%) (Ranked 254)  
+Progressed: 5,418 (Ranked 204)  
+Completed: 18 (0.33%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,7 +300,7 @@ Completed: 18 (0.33%) (Ranked 254)
 | 2024-01-11 | 5,391 | 18 |
 | 2024-01-12 | 5,404 | 18 |
 | 2024-01-13 | 5,415 | 18 |
-| 2024-01-14 | 5,417 | 18 |
+| 2024-01-14 | 5,418 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 525)  
 Sum: 30 (Ranked 547)  

@@ -48,8 +48,8 @@ Rating: 4.76 (Ranked 134)
 | Stop Tanos! | 28.00% | ~214 |
 | Raiders of the Lost Stone | 28.00% | ~214 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~214 |
+| Bonus Evilness | 27.00% | ~206 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~206 |
-| Bonus Evilness | 26.00% | ~198 |
 | The Last Stand - This Time For Real! | 25.00% | ~191 |
 | Rubble and Ashes | 23.00% | ~175 |
 | Lavalumps on Ice! | 21.00% | ~160 |

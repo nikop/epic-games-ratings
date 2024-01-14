@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119976,
+  "EOS_Progressed": 119977,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24817,6 +24817,11 @@
       "Time": "2024-01-14T09:10:09.4666217+00:00",
       "NumProgressed": 119976,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-14T10:11:08.8915131+00:00",
+      "NumProgressed": 119977,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 49,
@@ -24860,7 +24865,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17996
+      "UsersEstimate": 17997
     },
     {
       "ID": "EAwards_13",
@@ -24924,7 +24929,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58788
+      "UsersEstimate": 58789
     },
     {
       "ID": "EAwards_20",
@@ -25219,7 +25224,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 119976,
+      "Progressed": 119977,
       "Completed": 60
     }
   ],
@@ -25227,8 +25232,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:09.4666215+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:08.8915129+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:00:19.375832+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:09.4667514+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:02:14.5498485+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:11:08.8916282+00:00"
 }

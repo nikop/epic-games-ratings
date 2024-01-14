@@ -1,40 +1,40 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.64 (Ranked 343)  
+Rating: 4.63 (Ranked 355)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~334,005 |
-| good drivers have dead flies on the side windows | 32.00% | ~133,602 |
-| keep it tidy | 26.00% | ~108,552 |
-| brail | 26.00% | ~108,552 |
-| car wash | 23.00% | ~96,026 |
-| the artist | 23.00% | ~96,026 |
-| podium | 20.00% | ~83,501 |
-| medium attack | 17.00% | ~70,976 |
-| bicycle race | 6.00% | ~25,050 |
-| grocery-getter | 5.00% | ~20,875 |
-| autopilot | 4.00% | ~16,700 |
-| rwd only | 3.00% | ~12,525 |
-| where is the stage? | 3.00% | ~12,525 |
-| night ride | 3.00% | ~12,525 |
-| snorkel | 3.00% | ~12,525 |
-| food tour: pasta | 3.00% | ~12,525 |
-| to finish first, first you must finish | 2.00% | ~8,350 |
-| perkele | 2.00% | ~8,350 |
-| turbo | 2.00% | ~8,350 |
-| if in doubt, flat out! | 2.00% | ~8,350 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,350 |
-| mittens | 2.00% | ~8,350 |
-| food tour: pretzel | 2.00% | ~8,350 |
-| espresso | 1.00% | ~4,175 |
-| monster | 1.00% | ~4,175 |
-| in like a lamb, out like a lion | 1.00% | ~4,175 |
-| eurobeat | 0.60% | ~2,505 |
-| viking | 0.60% | ~2,505 |
-| parallel universe | 0.60% | ~2,505 |
+| light attack | 80.00% | ~334,084 |
+| good drivers have dead flies on the side windows | 32.00% | ~133,634 |
+| keep it tidy | 26.00% | ~108,577 |
+| brail | 26.00% | ~108,577 |
+| car wash | 23.00% | ~96,049 |
+| the artist | 23.00% | ~96,049 |
+| podium | 20.00% | ~83,521 |
+| medium attack | 17.00% | ~70,993 |
+| bicycle race | 6.00% | ~25,056 |
+| grocery-getter | 5.00% | ~20,880 |
+| autopilot | 4.00% | ~16,704 |
+| rwd only | 3.00% | ~12,528 |
+| where is the stage? | 3.00% | ~12,528 |
+| night ride | 3.00% | ~12,528 |
+| snorkel | 3.00% | ~12,528 |
+| food tour: pasta | 3.00% | ~12,528 |
+| to finish first, first you must finish | 2.00% | ~8,352 |
+| perkele | 2.00% | ~8,352 |
+| turbo | 2.00% | ~8,352 |
+| if in doubt, flat out! | 2.00% | ~8,352 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,352 |
+| mittens | 2.00% | ~8,352 |
+| food tour: pretzel | 2.00% | ~8,352 |
+| espresso | 1.00% | ~4,176 |
+| monster | 1.00% | ~4,176 |
+| in like a lamb, out like a lion | 1.00% | ~4,176 |
+| eurobeat | 0.60% | ~2,506 |
+| viking | 0.60% | ~2,506 |
+| parallel universe | 0.60% | ~2,506 |
 | oktoberfest | 0.50% | ~2,088 |
 | group b | 0.50% | ~2,088 |
 | maximum attack | 0.50% | ~2,088 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~418 |
 | you're here for a good time, not a long time | 0.10% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,506 (Ranked 49)  
+Progressed: 417,605 (Ranked 49)  
 Completed: 22 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,11 +249,11 @@ Completed: 22 (0.01%) (Ranked 376)
 | 2024-01-11 | 411,723 | 22 |
 | 2024-01-12 | 413,988 | 22 |
 | 2024-01-13 | 416,658 | 22 |
-| 2024-01-14 | 417,506 | 22 |
+| 2024-01-14 | 417,605 | 22 |
 ## Awards
 Max (Quickly Understood Controls): 41  (Ranked 483)  
-Sum: 243 (Ranked 405)  
-Diff (max vs sum): 78  
+Sum: 244 (Ranked 404)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 41 |
@@ -264,7 +264,7 @@ Diff (max vs sum): 78
 | This game has Amazing Storytelling | 28 |
 | This game is Extremely Fun | 26 |
 | This game has Amazing Characters | 25 |
-| This game has Competitive Players | 22 |
+| This game has Competitive Players | 23 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -327,4 +327,4 @@ Diff (max vs sum): 78
 | 2024-01-11 | 4.65 | - | 40 | 233 |
 | 2024-01-12 | 4.65 | - | 40 | 236 |
 | 2024-01-13 | 4.64 | - | 41 | 239 |
-| 2024-01-14 | 4.64 | - | 41 | 243 |
+| 2024-01-14 | 4.64 | - | 41 | 244 |

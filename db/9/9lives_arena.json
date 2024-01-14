@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3874,
+  "EOS_Progressed": 3882,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 0,
@@ -2323,6 +2323,11 @@
       "Time": "2024-01-14T09:04:02.096773+00:00",
       "NumProgressed": 3874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T10:05:04.618215+00:00",
+      "NumProgressed": 3882,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -2335,7 +2340,7 @@
       "Name": "Bronze Angler Trophy",
       "Percentage": 0.4,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FishingSmallGold",
@@ -2374,7 +2379,7 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 3874,
+      "Progressed": 3882,
       "Completed": 0
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
   "LastChanged": "2024-01-13T00:01:19.1579257+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:04:02.0967727+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:05:04.6182147+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:34.8274974+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:02:36.4097619+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:04:02.0967983+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:57:11.3755239+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:05:04.6182368+00:00"
 }

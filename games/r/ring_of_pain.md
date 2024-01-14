@@ -32,6 +32,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.90% | ~2,186 |
 | Sneaky | 0.90% | ~2,186 |
 | Dig Your Own Grave | 0.80% | ~1,943 |
+| Who To Trust? | 0.80% | ~1,943 |
 | Walk It Off | 0.80% | ~1,943 |
 | Cold Hearted | 0.80% | ~1,943 |
 | I Am Overburdened | 0.80% | ~1,943 |
@@ -40,11 +41,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Toxic | 0.80% | ~1,943 |
 | Shadow Walker | 0.80% | ~1,943 |
 | Flesh Wound | 0.80% | ~1,943 |
-| Consecutive Curses | 0.70% | ~1,700 |
-| Who To Trust? | 0.70% | ~1,700 |
-| Destroy Your Fears | 0.70% | ~1,700 |
-| New Perspectives | 0.70% | ~1,700 |
-| Shapeshifting | 0.70% | ~1,700 |
+| Consecutive Curses | 0.70% | ~1,701 |
+| Destroy Your Fears | 0.70% | ~1,701 |
+| New Perspectives | 0.70% | ~1,701 |
+| Shapeshifting | 0.70% | ~1,701 |
 | What Doesn't Kill You | 0.70% | ~31 |
 | To The Death! | 0.60% | ~1,458 |
 | Well Prepared | 0.60% | ~1,458 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,928 (Ranked 74)  
+Progressed: 242,929 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 306 (0.13%) (Ranked 301)
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
-| 2024-01-14 | 242,928 | 306 |
+| 2024-01-14 | 242,929 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,796 (Ranked 89)  

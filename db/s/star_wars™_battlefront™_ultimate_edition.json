@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2945,
+  "EOS_Progressed": 2946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7979,6 +7979,11 @@
       "Time": "2024-01-14T06:10:11.7812213+00:00",
       "NumProgressed": 2945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T10:11:16.8298176+00:00",
+      "NumProgressed": 2946,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8063,7 +8068,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_19",
@@ -8135,7 +8140,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_27",
@@ -8215,7 +8220,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "achievement_36",
@@ -8231,7 +8236,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "achievement_38",
@@ -8263,7 +8268,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "achievement_41",
@@ -8343,7 +8348,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "achievement_50",
@@ -8494,13 +8499,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2945,
+      "Progressed": 2946,
       "Completed": 1
     }
   ],
@@ -8508,8 +8513,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:15.7235109+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:16.8298173+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
   "LastUpdate_Ratings": "2024-01-14T09:02:44.6377875+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:15.7235881+00:00"
+  "LastUpdate_Achievements": "2024-01-14T10:11:16.8298984+00:00"
 }

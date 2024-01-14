@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16387,
+  "EOS_Progressed": 16388,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -18102,6 +18102,11 @@
       "Time": "2024-01-14T09:09:57.4140394+00:00",
       "NumProgressed": 16387,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2024-01-14T10:10:52.1253352+00:00",
+      "NumProgressed": 16388,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 34,
@@ -18169,7 +18174,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH09",
@@ -18193,7 +18198,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "ACH12",
@@ -18217,7 +18222,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7046
+      "UsersEstimate": 7047
     },
     {
       "ID": "ACH15",
@@ -18384,7 +18389,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16387,
+      "Progressed": 16388,
       "Completed": 98
     }
   ],
@@ -18392,8 +18397,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:09:57.4140391+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:10:52.125335+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:59:28.3755978+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:09:57.4141518+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:00:56.7608282+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:10:52.1254358+00:00"
 }

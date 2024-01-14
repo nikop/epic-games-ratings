@@ -19,9 +19,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Gathering Storm | 7.00% | ~1,454 |
 | Frosts | 6.00% | ~1,246 |
 | Ominous Presence | 6.00% | ~1,246 |
-| Royal Outpost | 5.00% | ~1,038 |
-| Watchtower | 5.00% | ~1,038 |
-| Land of Greed | 5.00% | ~1,038 |
+| Royal Outpost | 5.00% | ~1,039 |
+| Watchtower | 5.00% | ~1,039 |
+| Land of Greed | 5.00% | ~1,039 |
 | Homesick | 4.00% | ~831 |
 | Ruined Armory | 4.00% | ~831 |
 | Fertile Meadows | 4.00% | ~831 |
@@ -59,14 +59,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Human Utopia | 0.40% | ~83 |
 | Beaver Utopia | 0.30% | ~62 |
 | Lizard Utopia | 0.30% | ~62 |
+| Higher Needs | 0.20% | ~42 |
 | Harpy Utopia | 0.20% | ~42 |
 | Paradise | 0.10% | ~21 |
-| Higher Needs | 0.10% | ~21 |
 | The Queen's Chosen | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,770 (Ranked 155)  
+Progressed: 20,771 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
 | 2024-01-13 | 20,758 | 35 |
-| 2024-01-14 | 20,770 | 35 |
+| 2024-01-14 | 20,771 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,380 (Ranked 178)  

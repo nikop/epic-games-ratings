@@ -51,7 +51,7 @@ Rating: 4.20 (Ranked 967)
 | Master of Malachite | 0.60% | ~21 |
 | Treasure Hunter | 0.40% | ~14 |
 | Out of Time | 0.30% | ~10 |
-| Fowl Play | 0.20% | ~7 |
+| Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,421 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 306)  

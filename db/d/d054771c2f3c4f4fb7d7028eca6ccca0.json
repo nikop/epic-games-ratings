@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4106,
+  "EOS_Progressed": 4107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4924,6 +4924,11 @@
       "Time": "2024-01-14T09:06:23.3998356+00:00",
       "NumProgressed": 4106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T10:08:26.3020652+00:00",
+      "NumProgressed": 4107,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5120,7 +5125,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5311,14 +5316,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4106,
+      "Progressed": 4107,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:06:23.3998352+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:08:26.3020649+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:58:20.977034+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:06:23.3999015+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:59:16.4287722+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:08:26.3021085+00:00"
 }

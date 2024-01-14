@@ -6,33 +6,33 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,692 |
-| Overkill | 33.00% | ~11,022 |
-| Vaccine Incoming | 31.00% | ~10,354 |
-| A normal day in Gloomhaven | 29.00% | ~9,686 |
-| Spread the plague | 26.00% | ~8,684 |
-| Get over here! | 24.00% | ~8,016 |
-| Just when I thought I was out... | 19.00% | ~6,346 |
-| Precious! | 16.00% | ~5,344 |
-| Mine... All Mine... | 16.00% | ~5,344 |
-| Grizzled veteran | 15.00% | ~5,010 |
-| Anatomy Lesson | 14.00% | ~4,676 |
-| Who's the Boss? | 12.00% | ~4,008 |
-| You activated my trap card! | 12.00% | ~4,008 |
-| Obstacle race | 12.00% | ~4,008 |
-| Light of my life | 12.00% | ~4,008 |
-| Augmented rat | 10.00% | ~3,340 |
-| Doom and gloom | 10.00% | ~3,340 |
-| Dungeon Veteran | 8.00% | ~2,672 |
-| Pain is your friend | 8.00% | ~2,672 |
-| Pack leader | 7.00% | ~2,338 |
-| Black death | 7.00% | ~2,338 |
-| Play it again, Sam | 7.00% | ~2,338 |
-| Caught off guard | 6.00% | ~2,004 |
-| Quad damage | 6.00% | ~2,004 |
-| Power Up! | 5.00% | ~1,670 |
-| Merchant of doom | 5.00% | ~1,670 |
-| Now you see me... | 5.00% | ~1,670 |
+| I'm not dead yet | 38.00% | ~12,697 |
+| Overkill | 33.00% | ~11,026 |
+| Vaccine Incoming | 31.00% | ~10,358 |
+| A normal day in Gloomhaven | 29.00% | ~9,689 |
+| Spread the plague | 26.00% | ~8,687 |
+| Get over here! | 24.00% | ~8,019 |
+| Just when I thought I was out... | 19.00% | ~6,348 |
+| Precious! | 16.00% | ~5,346 |
+| Mine... All Mine... | 16.00% | ~5,346 |
+| Grizzled veteran | 15.00% | ~5,012 |
+| Anatomy Lesson | 14.00% | ~4,678 |
+| Who's the Boss? | 12.00% | ~4,009 |
+| You activated my trap card! | 12.00% | ~4,009 |
+| Obstacle race | 12.00% | ~4,009 |
+| Light of my life | 12.00% | ~4,009 |
+| Augmented rat | 10.00% | ~3,341 |
+| Doom and gloom | 10.00% | ~3,341 |
+| Dungeon Veteran | 8.00% | ~2,673 |
+| Pain is your friend | 8.00% | ~2,673 |
+| Pack leader | 7.00% | ~2,339 |
+| Black death | 7.00% | ~2,339 |
+| Play it again, Sam | 7.00% | ~2,339 |
+| Caught off guard | 6.00% | ~2,005 |
+| Quad damage | 6.00% | ~2,005 |
+| Power Up! | 5.00% | ~1,671 |
+| Merchant of doom | 5.00% | ~1,671 |
+| Now you see me... | 5.00% | ~1,671 |
 | The Pro from Dover | 4.00% | ~1,336 |
 | Pretty lights! | 4.00% | ~1,336 |
 | I hate portals | 3.00% | ~1,002 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,400 (Ranked 140)  
+Progressed: 33,412 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-11 | 32,855 | 1 |
 | 2024-01-12 | 33,039 | 1 |
 | 2024-01-13 | 33,304 | 1 |
-| 2024-01-14 | 33,400 | 1 |
+| 2024-01-14 | 33,412 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
 Sum: 8,484 (Ranked 108)  

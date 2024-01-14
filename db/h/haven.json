@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,7 +189,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1986,
+  "EOS_Progressed": 1987,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -3669,6 +3669,11 @@
       "Time": "2024-01-14T06:05:45.313511+00:00",
       "NumProgressed": 1986,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T10:07:43.3327932+00:00",
+      "NumProgressed": 1987,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3680,7 +3685,7 @@
       "Name": "Lovebirds",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "10",
@@ -3744,7 +3749,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "18",
@@ -3816,7 +3821,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "27",
@@ -3904,7 +3909,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "9",
@@ -3919,15 +3924,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1986,
+      "Progressed": 1987,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:05:53.1459623+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:07:43.332793+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:57:19.4380776+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:05:53.1459926+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:57:46.727573+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:07:43.3328194+00:00"
 }

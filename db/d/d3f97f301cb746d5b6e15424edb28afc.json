@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1703,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5012,9 +5012,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1345
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -5244,9 +5244,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1328
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -5428,9 +5428,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1413
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -5613,8 +5613,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:03:41.5166973+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:04:36.1702573+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:00:23.5323188+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:03:41.5167986+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:02:20.759025+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:04:36.1703692+00:00"
 }

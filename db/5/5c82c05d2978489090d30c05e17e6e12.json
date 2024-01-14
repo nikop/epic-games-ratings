@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,10 +269,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75113,
-  "EOS_Completed": 121,
-  "EOS_NewPlayers": 1382,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 75120,
+  "EOS_Completed": 122,
+  "EOS_NewPlayers": 1384,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -7254,6 +7254,11 @@
       "Time": "2024-01-14T09:08:48.642622+00:00",
       "NumProgressed": 75113,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-14T10:09:14.5864681+00:00",
+      "NumProgressed": 75120,
+      "NumCompleted": 122
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7266,7 +7271,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27792
+      "UsersEstimate": 27794
     },
     {
       "ID": "Achievement_10",
@@ -7354,7 +7359,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21032
+      "UsersEstimate": 21034
     },
     {
       "ID": "Achievement_20",
@@ -7490,7 +7495,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6760
+      "UsersEstimate": 6761
     },
     {
       "ID": "Achievement_5",
@@ -7514,7 +7519,7 @@
       "Name": "Ancient Sentient Support",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Achievement_8",
@@ -7522,7 +7527,7 @@
       "Name": "House In Order",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "Achievement_9",
@@ -7537,16 +7542,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75113,
-      "Completed": 121
+      "Progressed": 75120,
+      "Completed": 122
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:08:48.6426217+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:09:14.5864679+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:57:11.7415747+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:08:48.6426799+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:57:36.5286187+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:09:14.5865098+00:00"
 }

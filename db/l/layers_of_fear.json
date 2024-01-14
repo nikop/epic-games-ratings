@@ -2,7 +2,7 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 393,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 153,
@@ -1488,9 +1488,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "casting_finished",
@@ -1568,9 +1568,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "do_what_you_have_to",
@@ -1656,9 +1656,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1887,8 +1887,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:09:04.1867601+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:09:37.5277902+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:00:07.0045484+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:09:04.1868014+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:01:56.777771+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:09:37.5278243+00:00"
 }

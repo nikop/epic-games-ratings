@@ -9,11 +9,11 @@ Rating: 4.64 (Ranked 343)
 | A Thorny Situation | 5.00% | ~452 |
 | ... And Spit Back Out | 4.00% | ~362 |
 | Calm Sailing | 3.00% | ~272 |
+| Open the Gate! | 3.00% | ~272 |
 | Miner 49er | 3.00% | ~272 |
 | Break-Net Speed | 3.00% | ~272 |
 | Humble Collector | 3.00% | ~272 |
 | Bramble Breaker | 3.00% | ~272 |
-| Open the Gate! | 2.00% | ~181 |
 | Clear the Air | 2.00% | ~181 |
 | Lumberjack | 2.00% | ~181 |
 | Mist Walker | 2.00% | ~181 |
@@ -32,8 +32,8 @@ Rating: 4.64 (Ranked 343)
 | Rumble in the Jumble | 0.70% | ~63 |
 | Fanatical Farmer | 0.70% | ~63 |
 | Azorian Hat Dance | 0.60% | ~10 |
+| I Now Pronounce You... | 0.50% | ~45 |
 | Chatty Neighbor | 0.50% | ~45 |
-| I Now Pronounce You... | 0.40% | ~36 |
 | Right Tool For the Job | 0.40% | ~36 |
 | House Proud | 0.40% | ~36 |
 | Going Down | 0.40% | ~7 |

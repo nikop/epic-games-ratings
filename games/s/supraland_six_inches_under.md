@@ -50,7 +50,7 @@ Number of Ratings: 209  (23.09.2022)
 | Plumbster | 60.00% | ~1,465 |
 | Faster | 59.00% | ~1,440 |
 | Much Magic | 58.00% | ~1,416 |
-| Chest Detector | 55.00% | ~1,343 |
+| Chest Detector | 56.00% | ~1,367 |
 | Flames | 53.00% | ~1,294 |
 | Momentum | 46.00% | ~1,123 |
 | You're unsure if you broke the game or not | 43.00% | ~1,050 |

@@ -18,7 +18,7 @@ Rating: 4.70 (Ranked 220)
 | Honest Mistake | 26.00% | ~343 |
 | Fast Learner | 26.00% | ~343 |
 | Immaculate Aim | 26.00% | ~343 |
-| The Steel Shadow | 24.00% | ~317 |
+| The Steel Shadow | 25.00% | ~330 |
 | Right On Time | 23.00% | ~304 |
 | Breaking Down Barriers | 23.00% | ~304 |
 | The Wicked Twins | 23.00% | ~304 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1843,
+  "EOS_Progressed": 1844,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.18,
   "EosHistory": [
@@ -4288,6 +4288,11 @@
       "Time": "2024-01-14T02:03:12.7453005+00:00",
       "NumProgressed": 1843,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T10:06:52.2246986+00:00",
+      "NumProgressed": 1844,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 11,
@@ -4307,7 +4312,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4347,7 +4352,7 @@
       "Name": "All together, again",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -4371,7 +4376,7 @@
       "Name": "Someone was here",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -4379,22 +4384,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1843,
+      "Progressed": 1844,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:05:17.3167226+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:06:52.224698+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:38.1764581+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:02:56.5595432+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:05:17.3167487+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:03:30.0548367+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:06:52.2247235+00:00"
 }

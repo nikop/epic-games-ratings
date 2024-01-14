@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 59.00% | ~196 |
+| Fright ✔ | 59.00% | ~197 |
 | Inventory ✔ | 54.00% | ~180 |
 | Chest ✔ | 54.00% | ~180 |
-| Police officers ✔ | 29.00% | ~97 |
+| Police officers ✔ | 28.00% | ~94 |
 | Mutation ✔ | 26.00% | ~87 |
 | Doberman ✔ | 15.00% | ~50 |
 | Weapon ✔ | 11.00% | ~37 |
 | Chess ✔ | 10.00% | ~33 |
 | Master of Unlocking ✔ | 9.00% | ~30 |
 | Survival ✔ | 8.00% | ~27 |
-| Hospital ✔ | 8.00% | ~27 |
 | Thirst ✔ | 8.00% | ~27 |
 | City ✔ | 7.00% | ~23 |
+| Hospital ✔ | 7.00% | ~23 |
 | Fraternal help ✔ | 7.00% | ~23 |
 | Antivirus ✔ | 6.00% | ~20 |
 | Betty ✔ | 6.00% | ~20 |
 | Cheats ✔ | 6.00% | ~20 |
 | King of survival ✔ | 6.00% | ~20 |
-| Boss 1 ✔ | 5.00% | ~17 |
 | Alice ✔ | 5.00% | ~17 |
 | Brain ✔ | 5.00% | ~17 |
 | Eva ✔ | 5.00% | ~17 |
 | Food ✔ | 5.00% | ~17 |
 | All secrets revealed ✔ | 5.00% | ~17 |
+| Boss 1 ✔ | 4.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~13 |
 | Mutant fight ✔ | 4.00% | ~13 |
 | Mutant run ✔ | 4.00% | ~13 |
@@ -46,16 +46,16 @@
 | Car ✔ | 2.00% | ~7 |
 | Seeker One ✔ | 2.00% | ~7 |
 | Seeker Three ✔ | 2.00% | ~7 |
-| Crocodile Escape ✔ | 2.00% | ~7 |
-| Exterminate pests ✔ | 2.00% | ~7 |
 | The escape ✔ | 2.00% | ~7 |
-| VIP ✔ | 2.00% | ~7 |
+| Crocodile Escape ✔ | 1.00% | ~3 |
+| Exterminate pests ✔ | 1.00% | ~3 |
+| VIP ✔ | 1.00% | ~3 |
 | Speedrun ✔ | 0.90% | ~3 |
 | Hardcore ✔ | 0.60% | ~2 |
 | Seeker Two ✔ | 0.30% | ~1 |
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 388)  
+Progressed: 334 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 331 | 0 |
 | 2024-01-12 | 332 | 0 |
 | 2024-01-13 | 333 | 0 |
+| 2024-01-14 | 334 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

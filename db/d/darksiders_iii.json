@@ -2,7 +2,7 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 344,
@@ -2522,9 +2522,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 235
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2642,9 +2642,9 @@
       "ID": "Save_Humans_5",
       "SetID": "7a5k76n",
       "Name": "Five\u0027s a Crowd",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 241
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2722,8 +2722,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:06:17.3633051+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:08:18.0204095+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:59:53.7864316+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:06:17.363359+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:01:37.4842362+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:08:18.0204537+00:00"
 }

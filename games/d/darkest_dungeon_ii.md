@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,068 |
-| Lost and Found | 9.00% | ~686 |
+| Malpractice Assurance | 14.00% | ~1,069 |
+| Lost and Found | 9.00% | ~687 |
 | Autodidact | 8.00% | ~10,621 |
-| This Belongs in a Museum | 7.00% | ~9,293 |
-| This guy... again? | 7.00% | ~534 |
-| Serenity Now! | 6.00% | ~7,965 |
-| Creep and Sleep | 6.00% | ~7,965 |
-| Overdue Notice | 6.00% | ~7,965 |
-| Escape from the Black Hole | 6.00% | ~7,965 |
+| This Belongs in a Museum | 7.00% | ~9,294 |
+| This guy... again? | 7.00% | ~535 |
+| Serenity Now! | 6.00% | ~7,966 |
+| Creep and Sleep | 6.00% | ~7,966 |
+| Overdue Notice | 6.00% | ~7,966 |
+| Escape from the Black Hole | 6.00% | ~7,966 |
 | Ploughshares to Swords | 6.00% | ~458 |
 | Bloody Graduation | 6.00% | ~458 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,638 |
@@ -28,17 +28,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,638 |
 | A Place to Lay Your Head | 5.00% | ~6,638 |
 | FNG | 5.00% | ~6,638 |
-| Unleash Hell | 4.00% | ~5,310 |
-| Unfulfilled Desires | 4.00% | ~5,310 |
-| Dissector | 4.00% | ~5,310 |
-| Banishment | 4.00% | ~5,310 |
-| Now Stay Dead | 4.00% | ~5,310 |
-| Spelunker | 4.00% | ~5,310 |
-| Harvest Festival | 4.00% | ~5,310 |
-| Ramble On | 4.00% | ~5,310 |
-| Whale | 4.00% | ~5,310 |
-| Nope | 4.00% | ~5,310 |
-| Unshackled | 4.00% | ~5,310 |
+| Unleash Hell | 4.00% | ~5,311 |
+| Unfulfilled Desires | 4.00% | ~5,311 |
+| Dissector | 4.00% | ~5,311 |
+| Banishment | 4.00% | ~5,311 |
+| Now Stay Dead | 4.00% | ~5,311 |
+| Spelunker | 4.00% | ~5,311 |
+| Harvest Festival | 4.00% | ~5,311 |
+| Ramble On | 4.00% | ~5,311 |
+| Whale | 4.00% | ~5,311 |
+| Nope | 4.00% | ~5,311 |
+| Unshackled | 4.00% | ~5,311 |
 | Friends 'Til the End | 4.00% | ~305 |
 | Resurrection | 3.00% | ~3,983 |
 | Funny Guy | 3.00% | ~3,983 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,758 (Ranked 92)  
+Progressed: 132,767 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,758 | 4 |
+| 2024-01-14 | 132,767 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,638 (Ranked 58)  

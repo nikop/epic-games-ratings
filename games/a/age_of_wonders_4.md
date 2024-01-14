@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 355)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,9 +16,9 @@ Rating: 4.63 (Ranked 356)
 | There Can Only Be One! | 8.00% | ~579 |
 | Stronger Together | 8.00% | ~579 |
 | Seat of Power | 8.00% | ~579 |
-| Valley of Wonders | 7.00% | ~506 |
-| In a Liege of Your Own | 7.00% | ~506 |
-| Intimidation Tactics | 7.00% | ~506 |
+| Valley of Wonders | 7.00% | ~507 |
+| In a Liege of Your Own | 7.00% | ~507 |
+| Intimidation Tactics | 7.00% | ~507 |
 | But this one is mine | 6.00% | ~434 |
 | Return of the Wizard King | 5.00% | ~362 |
 | Enchanted Archipelago | 5.00% | ~362 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,235 (Ranked 197)  
+Progressed: 7,236 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
-| 2024-01-14 | 7,235 | 8 |
+| 2024-01-14 | 7,236 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 238 (Ranked 407)  

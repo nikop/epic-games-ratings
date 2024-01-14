@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242928,
+  "EOS_Progressed": 242929,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31776,6 +31776,11 @@
       "Time": "2024-01-14T09:10:17.9359349+00:00",
       "NumProgressed": 242928,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T10:11:19.3610005+00:00",
+      "NumProgressed": 242929,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31835,7 +31840,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "DAILY7",
@@ -32001,9 +32006,9 @@
       "ID": "ENDINGCHOICE",
       "SetID": "5l8oe0h",
       "Name": "Who To Trust?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1943
     },
     {
       "ID": "ENDWOUNDED",
@@ -32195,7 +32200,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "KILL10000",
@@ -32515,7 +32520,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "SNAKESTEALTH",
@@ -32587,7 +32592,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -32890,13 +32895,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242928,
+      "Progressed": 242929,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4408,
+      "Progressed": 4409,
       "Completed": 425
     }
   ],
@@ -32904,8 +32909,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:17.9359345+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:19.3610003+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:59:56.4863363+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:17.9361896+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:01:40.6332816+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:11:19.3613156+00:00"
 }

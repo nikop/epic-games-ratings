@@ -1891,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168114,
+  "EOS_Progressed": 168122,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23036,6 +23036,11 @@
       "Time": "2024-01-14T09:06:11.6442308+00:00",
       "NumProgressed": 168114,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-14T10:08:09.7954651+00:00",
+      "NumProgressed": 168122,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23096,7 +23101,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -23168,7 +23173,7 @@
       "Name": "Host",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -23320,7 +23325,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5043
+      "UsersEstimate": 5044
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -23415,21 +23420,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167697,
+      "Progressed": 167705,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168114,
+      "Progressed": 168122,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:06:11.6442306+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:08:09.7954648+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:57:47.2443027+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:06:11.6443323+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:58:28.1504507+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:08:09.7955897+00:00"
 }

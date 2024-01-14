@@ -7,8 +7,8 @@
 | Hero Arrives | 91.00% | ~79 |
 | Eat the Rich | 61.00% | ~53 |
 | Killing Machine | 46.00% | ~40 |
+| Phantom Kunoichi | 43.00% | ~37 |
 | Death Battle | 41.00% | ~36 |
-| Phantom Kunoichi | 41.00% | ~36 |
 | Divine Retribution | 40.00% | ~35 |
 | Captain Mustache | 39.00% | ~34 |
 | Final Showdown | 36.00% | ~31 |
@@ -32,7 +32,7 @@
 | The Legend | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 510)  
-Completed: 6 (6.90%) (Ranked 61)  
+Completed: 6 (6.90%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

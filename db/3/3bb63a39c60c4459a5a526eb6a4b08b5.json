@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4449,6 +4449,11 @@
       "Time": "2024-01-14T08:11:28.1022253+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T10:11:11.220979+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4484,7 +4489,7 @@
       "Name": "Expensive Plane",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "BudgetFlight",
@@ -4578,9 +4583,9 @@
       "ID": "Incredible",
       "SetID": "1e89b4i",
       "Name": "Incredible!",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "LackOfTime",
@@ -4588,7 +4593,7 @@
       "Name": "Lack of Time",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LargeAirport",
@@ -4620,7 +4625,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "LongDistance",
@@ -4628,7 +4633,7 @@
       "Name": "Long Distances",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ManagementMaster",
@@ -4676,7 +4681,7 @@
       "Name": "No Way Back",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "NotPlanned",
@@ -4690,17 +4695,17 @@
       "ID": "Ownway",
       "SetID": "1e89b4i",
       "Name": "Own Way",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "PublicFigure",
       "SetID": "1e89b4i",
       "Name": "Public Figure",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "RacingAgainstTime",
@@ -4724,7 +4729,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ResourceEconomy",
@@ -4740,7 +4745,7 @@
       "Name": "Restructuring",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "Reviewer",
@@ -4772,7 +4777,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "TimeForManagement",
@@ -4795,14 +4800,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1143,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:10:11.230513+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:11:11.2209788+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.6507211+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:58:18.2368042+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:10:11.2305635+00:00"
+  "LastUpdate_Ratings": "2024-01-14T09:59:12.7269776+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:11:11.2210269+00:00"
 }

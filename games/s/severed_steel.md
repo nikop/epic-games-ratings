@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~213,863 |
-| 50 HEADSHOTS | 31.00% | ~200,901 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,421 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,940 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,094 |
-| 200 HEADSHOTS | 19.00% | ~123,133 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,652 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,210 |
-| FINISH CHAPTER 5 | 13.00% | ~84,249 |
-| FINISH CHAPTER 6 | 11.00% | ~71,288 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,288 |
-| 1000 KILLS | 10.00% | ~64,807 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,923 |
+| 100 KILLS | 33.00% | ~213,856 |
+| 50 HEADSHOTS | 31.00% | ~200,895 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,414 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,934 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,090 |
+| 200 HEADSHOTS | 19.00% | ~123,129 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,648 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,207 |
+| FINISH CHAPTER 5 | 13.00% | ~84,246 |
+| FINISH CHAPTER 6 | 11.00% | ~71,285 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,285 |
+| 1000 KILLS | 10.00% | ~64,805 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,922 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,961 |
 | FIRST BLOOD | 2.00% | ~12,961 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,481 |
-| OUT OF ORDER | 1.00% | ~6,481 |
-| PACEMAKER | 1.00% | ~6,481 |
-| TIME PARADOX | 1.00% | ~6,481 |
-| PARTYHARD | 0.80% | ~5,185 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,480 |
+| OUT OF ORDER | 1.00% | ~6,480 |
+| PACEMAKER | 1.00% | ~6,480 |
+| TIME PARADOX | 1.00% | ~6,480 |
+| PARTYHARD | 0.80% | ~5,184 |
 | NEW GAME PLUS | 0.70% | ~4,536 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,888 |
 | CHURCH | 0.40% | ~2,592 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 240)
 | THE GAMBLER | 0.10% | ~648 |
 | WARRIOR IN A GARDEN | 0.10% | ~648 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648,069 (Ranked 32)  
+Progressed: 648,047 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |

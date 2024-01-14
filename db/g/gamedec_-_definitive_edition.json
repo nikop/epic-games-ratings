@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257795,
+  "EOS_Progressed": 257799,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 646,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30696,6 +30696,11 @@
       "Time": "2024-01-14T09:05:12.8202575+00:00",
       "NumProgressed": 257795,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T10:06:45.8787479+00:00",
+      "NumProgressed": 257799,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30707,7 +30712,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69605
+      "UsersEstimate": 69606
     },
     {
       "ID": "ACH_AON",
@@ -30747,7 +30752,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30935
+      "UsersEstimate": 30936
     },
     {
       "ID": "ACH_ENJOY",
@@ -30771,7 +30776,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33513
+      "UsersEstimate": 33514
     },
     {
       "ID": "ACH_HATTRICK",
@@ -30851,7 +30856,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74761
+      "UsersEstimate": 74762
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -30923,7 +30928,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64449
+      "UsersEstimate": 64450
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31027,7 +31032,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64449
+      "UsersEstimate": 64450
     },
     {
       "ID": "ACH_SOREAD",
@@ -31122,7 +31127,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257795,
+      "Progressed": 257799,
       "Completed": 8
     }
   ],
@@ -31130,8 +31135,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-14T09:05:12.8202572+00:00",
+  "LastChanged_Achievements": "2024-01-14T10:06:45.8787476+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-14T08:59:41.8504776+00:00",
-  "LastUpdate_Achievements": "2024-01-14T09:05:12.8203984+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:01:16.8642903+00:00",
+  "LastUpdate_Achievements": "2024-01-14T10:06:45.8789037+00:00"
 }
