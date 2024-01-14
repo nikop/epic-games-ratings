@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -447,7 +447,7 @@
   ],
   "EOS_Progressed": 656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2330,17 +2330,17 @@
       "ID": "ABulletforAllSeasons",
       "SetID": "329ak73",
       "Name": "A Bullet for All Seasons",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AreYouNotEntertained",
       "SetID": "329ak73",
       "Name": "Are You Not Entertained?",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Astarte",
@@ -2378,9 +2378,9 @@
       "ID": "Collector",
       "SetID": "329ak73",
       "Name": "Collector",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Dagon",
@@ -2402,17 +2402,17 @@
       "ID": "FullofHell",
       "SetID": "329ak73",
       "Name": "Full of Hell",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GoodDeeds",
@@ -2482,9 +2482,9 @@
       "ID": "MintIII",
       "SetID": "329ak73",
       "Name": "Mint III",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Moloch",
@@ -2538,17 +2538,17 @@
       "ID": "ThePromisedEnd",
       "SetID": "329ak73",
       "Name": "The Promised End",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WalkingArmory",
       "SetID": "329ak73",
       "Name": "Walking Armory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WhydItHavetoBeSnakes",
@@ -2562,9 +2562,9 @@
       "ID": "WickedKillington",
       "SetID": "329ak73",
       "Name": "Wicked Killington",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -2578,8 +2578,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:54.3919521+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:32.8721913+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:28.2193344+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:25.580947+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:54.3919776+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:33.486199+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:32.8722155+00:00"
 }

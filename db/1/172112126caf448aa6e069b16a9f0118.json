@@ -4,8 +4,8 @@
   "ProductSlug": "forest-grove-6b05cf",
   "Ranking_EOS_Progress": 587,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-28T13:00:00+00:00",
     "PcReleaseDate": "2023-11-28T13:00:00+00:00",
@@ -219,9 +219,9 @@
       "ID": "3",
       "SetID": "36pe9e2",
       "Name": "Found Secret Room",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "4",
@@ -251,9 +251,9 @@
       "ID": "7",
       "SetID": "36pe9e2",
       "Name": "Listened to Audio Fragments",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "8",
@@ -282,8 +282,8 @@
   ],
   "FirstSeen": "2023-12-05T14:57:21.3417959+00:00",
   "FirstSeenAchievements": "2023-10-10T13:09:13.1022391+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:08:51.41087+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:09:03.8921598+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:57.3456515+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:00:21.7217574+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:08:51.4108774+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:01:55.1414983+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:09:03.8921677+00:00"
 }

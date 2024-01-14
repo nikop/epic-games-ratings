@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -661,9 +661,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47261,
+  "EOS_Progressed": 47263,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18821,6 +18821,11 @@
       "Time": "2024-01-14T19:08:21.2555654+00:00",
       "NumProgressed": 47261,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T20:08:21.5254129+00:00",
+      "NumProgressed": 47263,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18896,7 +18901,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -18984,7 +18989,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4253
+      "UsersEstimate": 4254
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19168,7 +19173,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "SPRING_ALL",
@@ -19255,22 +19260,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47261,
+      "Progressed": 47263,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12098,
-      "Completed": 12098
+      "Progressed": 12100,
+      "Completed": 12100
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T02:00:05.3422246+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:08:21.2555651+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:08:21.5254124+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:02:51.3732632+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:08:21.255687+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:03:07.9740743+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:08:21.5255152+00:00"
 }

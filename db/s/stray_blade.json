@@ -4,8 +4,8 @@
   "ProductSlug": "stray-blade",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -809,6 +809,11 @@
       "Time": "2024-01-14T15:10:03.3808525+00:00",
       "NumProgressed": 165,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T20:10:41.4878705+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -860,7 +865,7 @@
       "Name": "Tinkerer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -1066,9 +1071,9 @@
       "ID": "ACH_FIND_WOODEN_CLUB",
       "SetID": "7i20me3",
       "Name": "Welcome to the Club",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_FINISH_GAME",
@@ -1084,7 +1089,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_OPEN_TEMPLE_GATE",
@@ -1235,13 +1240,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 117
     }
   ],
@@ -1249,8 +1254,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:10:00.9131034+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:41.4878703+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:36.1035402+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:00:33.6156277+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:10:00.9131444+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:02:42.9070352+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:41.4879068+00:00"
 }

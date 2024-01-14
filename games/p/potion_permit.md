@@ -5,46 +5,46 @@ Rating: 3.85 (Ranked 1,080)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,910 |
+| Welcome to Moonbury | 98.00% | ~1,911 |
 | The First Step | 87.00% | ~1,696 |
-| Moonbury Traveller | 62.00% | ~1,208 |
-| Rookie Chemist | 60.00% | ~1,169 |
-| Great Doctor | 50.00% | ~974 |
+| Moonbury Traveller | 62.00% | ~1,209 |
+| Rookie Chemist | 60.00% | ~1,170 |
+| Great Doctor | 49.00% | ~956 |
 | Dog Whisperer | 47.00% | ~916 |
 | Friendly | 46.00% | ~897 |
 | The Capitalist | 43.00% | ~838 |
 | K.O.! | 42.00% | ~819 |
 | Intermediate Chemist | 39.00% | ~760 |
-| Decorative Mind | 33.00% | ~643 |
+| Decorative Mind | 33.00% | ~644 |
 | Lumber Specialist | 31.00% | ~604 |
-| Kind-hearted | 25.00% | ~487 |
-| Catch of the Day | 25.00% | ~487 |
+| Kind-hearted | 25.00% | ~488 |
+| Catch of the Day | 25.00% | ~488 |
 | Amateur Chef | 22.00% | ~429 |
 | Fishing Guru | 20.00% | ~390 |
 | Spark of Love | 18.00% | ~351 |
 | Community Helper | 16.00% | ~312 |
 | Expert Chemist | 14.00% | ~273 |
 | Stone Specialist | 14.00% | ~273 |
-| Line Cook | 13.00% | ~253 |
+| Line Cook | 13.00% | ~254 |
 | Sociable | 12.00% | ~234 |
 | Ablutomaniac | 12.00% | ~234 |
 | Production Sorter | 11.00% | ~214 |
 | Good Samaritan | 10.00% | ~195 |
-| Acrobatic Adventurer | 9.00% | ~175 |
-| Animal Exterminator | 9.00% | ~175 |
+| Acrobatic Adventurer | 9.00% | ~176 |
+| Animal Exterminator | 9.00% | ~176 |
 | Adolescent Love | 6.00% | ~117 |
 | Mail Carrier | 6.00% | ~117 |
-| Plantation Exterminator | 5.00% | ~97 |
+| Plantation Exterminator | 5.00% | ~98 |
 | Sous Chef | 4.00% | ~78 |
 | Grape Supplier | 4.00% | ~78 |
 | Being forgetful... | 2.00% | ~39 |
 | Community Advisor | 2.00% | ~39 |
 | Rock Exterminator | 2.00% | ~39 |
 | Tree Exterminator | 2.00% | ~39 |
-| Moonbury Navigator | 1.00% | ~19 |
+| Moonbury Navigator | 1.00% | ~20 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,949 (Ranked 256)  
+Progressed: 1,950 (Ranked 256)  
 Completed: 11 (0.56%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 11 (0.56%) (Ranked 218)
 | 2024-01-11 | 1,940 | 11 |
 | 2024-01-12 | 1,942 | 11 |
 | 2024-01-13 | 1,947 | 11 |
-| 2024-01-14 | 1,949 | 11 |
+| 2024-01-14 | 1,950 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 419)  
 Sum: 70 (Ranked 494)  

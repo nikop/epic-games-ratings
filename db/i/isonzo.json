@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1081,9 +1081,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9940,
+  "EOS_Progressed": 9941,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11151,6 +11151,11 @@
       "Time": "2024-01-14T19:09:26.1789546+00:00",
       "NumProgressed": 9940,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T20:09:52.854944+00:00",
+      "NumProgressed": 9941,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11210,7 +11215,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11306,7 +11311,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11314,7 +11319,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11514,14 +11519,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9940,
+      "Progressed": 9941,
       "Completed": 10
     }
   ],
@@ -11529,8 +11534,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-13T17:58:42.7349748+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:26.1789543+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:09:52.8549436+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:23.2669467+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:26.1790419+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:58:59.4093819+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:09:52.8550364+00:00"
 }

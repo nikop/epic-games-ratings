@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 398)  
+Rating: 4.61 (Ranked 399)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,239 |
-| Wallbanger | 5.00% | ~26,239 |
-| Exploitative | 4.00% | ~20,991 |
-| High Speed Low Drag | 4.00% | ~20,991 |
-| Wet Feet | 4.00% | ~20,991 |
-| Checkpoint Victory | 3.00% | ~15,743 |
-| Lucky | 3.00% | ~15,743 |
-| Stylin' | 3.00% | ~15,743 |
-| Turf War | 3.00% | ~15,743 |
+| Point Shooting | 5.00% | ~26,240 |
+| Wallbanger | 5.00% | ~26,240 |
+| Exploitative | 4.00% | ~20,992 |
+| High Speed Low Drag | 4.00% | ~20,992 |
+| Wet Feet | 4.00% | ~20,992 |
+| Checkpoint Victory | 3.00% | ~15,744 |
+| Lucky | 3.00% | ~15,744 |
+| Stylin' | 3.00% | ~15,744 |
+| Turf War | 3.00% | ~15,744 |
 | Banged | 2.00% | ~10,496 |
 | First Blood | 2.00% | ~10,496 |
 | Flaccid Paralysis | 2.00% | ~10,496 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,723 |
 | Grounded | 0.80% | ~4,198 |
 | Play to Win | 0.80% | ~4,198 |
-| Special Delivery | 0.70% | ~3,673 |
+| Special Delivery | 0.70% | ~3,674 |
 | Firefight Victory | 0.60% | ~3,149 |
 | #1 | 0.60% | ~3,149 |
 | Cinematic | 0.50% | ~2,624 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~525 |
 | Road Hazard | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524,783 (Ranked 40)  
+Progressed: 524,803 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 2 (0.00%) (Ranked 400)
 | 2024-01-11 | 523,343 | 2 |
 | 2024-01-12 | 523,767 | 2 |
 | 2024-01-13 | 524,351 | 2 |
-| 2024-01-14 | 524,783 | 2 |
+| 2024-01-14 | 524,803 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 419  (Ranked 237)  
-Sum: 3,373 (Ranked 179)  
+Sum: 3,374 (Ranked 179)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -325,7 +325,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 376 |
 | This game has Realistic Visuals | 369 |
 | This game has Amazing Characters | 355 |
-| This game has Amazing Storytelling | 347 |
+| This game has Amazing Storytelling | 348 |
 | This game has a Competitive Community | 319 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -670,4 +670,4 @@ Diff (max vs sum): 58
 | 2024-01-11 | 4.61 | - | 418 | 3,358 |
 | 2024-01-12 | 4.61 | - | 419 | 3,365 |
 | 2024-01-13 | 4.61 | - | 419 | 3,372 |
-| 2024-01-14 | 4.61 | - | 419 | 3,373 |
+| 2024-01-14 | 4.61 | - | 419 | 3,374 |

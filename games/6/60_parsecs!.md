@@ -25,7 +25,7 @@
 | Hands Full | 13.00% | ~108 |
 | Gold Medalist | 12.00% | ~99 |
 | Non-Fiction | 12.00% | ~99 |
-| No Man Left Behind | 9.00% | ~75 |
+| No Man Left Behind | 10.00% | ~83 |
 | First of April | 8.00% | ~66 |
 | Fix-It Felix | 8.00% | ~66 |
 | Intergalactic Breakup | 8.00% | ~66 |

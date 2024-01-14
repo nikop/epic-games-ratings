@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 321)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 2.00% | ~336 |
 | Developing Cities | 2.00% | ~336 |
 | Strong Cities | 2.00% | ~336 |
+| Able Difficulty | 2.00% | ~336 |
 | Furious Family | 2.00% | ~336 |
 | Great Ziggurat | 2.00% | ~336 |
 | Ishtar Gate | 2.00% | ~336 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 1.00% | ~168 |
 | Wise | 1.00% | ~168 |
 | Legendary Cities | 1.00% | ~168 |
-| Able Difficulty | 1.00% | ~168 |
 | Just Difficulty | 1.00% | ~168 |
 | Artisans | 1.00% | ~168 |
 | Sages | 1.00% | ~168 |
@@ -72,17 +72,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
 | Mighty | 0.90% | ~151 |
+| Good Difficulty | 0.90% | ~151 |
 | Champions | 0.90% | ~151 |
 | Temple of Solomon | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
 | Points Victory | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
-| Good Difficulty | 0.80% | ~134 |
 | Patrons | 0.80% | ~134 |
 | Statesmen | 0.80% | ~134 |
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
 | Win a Single Player Game | 0.80% | ~134 |
+| Kushite Paganism | 0.80% | ~134 |
 | Victorious | 0.70% | ~118 |
 | Landowners | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
@@ -99,13 +100,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.70% | ~118 |
 | Double Victory | 0.70% | ~118 |
 | The Clergy | 0.70% | ~118 |
-| Kushite Paganism | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
 | Conqueror | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
+| Strong Difficulty | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
@@ -116,7 +117,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.50% | ~84 |
 | Lion | 0.50% | ~84 |
 | Peacemaker | 0.50% | ~84 |
-| Strong Difficulty | 0.50% | ~84 |
 | Clerics | 0.50% | ~84 |
 | Hunters | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
@@ -137,6 +137,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Learn to Play 5 | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
+| One True Faith | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
 | No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
@@ -145,7 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
-| One True Faith | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,803 (Ranked 169)  
+Progressed: 16,809 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,803 | 5 |
+| 2024-01-14 | 16,809 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,930 (Ranked 223)  

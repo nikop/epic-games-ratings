@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~307 |
+| Seeds of War | 81.00% | ~308 |
 | First Blood | 64.00% | ~243 |
 | Triple Kill | 63.00% | ~239 |
-| Aspairagus | 59.00% | ~194 |
-| No Asperascope | 58.00% | ~220 |
-| Survivor | 56.00% | ~184 |
+| Aspairagus | 59.00% | ~195 |
+| No Asperascope | 57.00% | ~217 |
+| Survivor | 56.00% | ~185 |
 | Cornivore | 53.00% | ~201 |
 | I Believe I Can Fly | 49.00% | ~186 |
 | No Diggity | 44.00% | ~145 |
-| Early Survivor | 39.00% | ~128 |
+| Early Survivor | 39.00% | ~129 |
 | Bouncemato | 31.00% | ~102 |
 | 10K | 28.00% | ~106 |
 | Amateur Survivor | 28.00% | ~92 |
 | 15K | 26.00% | ~99 |
 | Grave Digger | 23.00% | ~76 |
-| Drinking Problem | 22.00% | ~83 |
+| Drinking Problem | 22.00% | ~84 |
 | Quick-Draw Pod | 21.00% | ~69 |
 | Pork Chop Express | 20.00% | ~76 |
 | Professional Survivor | 19.00% | ~63 |
-| Carrocketeer | 17.00% | ~64 |
+| Carrocketeer | 17.00% | ~65 |
 | Getting Started | 16.00% | ~61 |
 | Skin Of Your Teeth | 16.00% | ~61 |
 | This Is My Boomstick | 16.00% | ~53 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
 | Perfect | 13.00% | ~43 |
+| Summers Here | 12.00% | ~40 |
 | Quit Horsin' Around | 11.00% | ~42 |
-| Summers Here | 11.00% | ~36 |
 | Fresh Pancake | 10.00% | ~38 |
 | Quadsparagus | 10.00% | ~33 |
 | Bring Home The Bacon | 9.00% | ~34 |
@@ -50,13 +50,13 @@
 | King of the Crow | 0.80% | ~3 |
 | Forestside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |
+| Pro Carrocketeer | 0.50% | ~2 |
 | Pro Sniperagus | 0.50% | ~2 |
 | Unstoppable | 0.50% | ~2 |
 | Death From Above | 0.50% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Darkside Survivor | 0.30% | ~1 |
 | Graveside Survivor | 0.30% | ~1 |
-| Pro Carrocketeer | 0.30% | ~1 |
 | Berry Loved | 0.30% | ~1 |
 | Carrocket From Above | 0.30% | ~1 |
 | Heal Me Peas | 0.30% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379 (Ranked 377)  
+Progressed: 380 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-06 | 374 | 0 |
 | 2024-01-09 | 375 | 0 |
 | 2024-01-13 | 376 | 0 |
-| 2024-01-14 | 379 | 0 |
+| 2024-01-14 | 380 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

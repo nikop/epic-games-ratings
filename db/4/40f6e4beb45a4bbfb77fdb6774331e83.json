@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 705,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-23T18:00:00+00:00",
@@ -52,17 +52,17 @@
       "ID": "AroundTheWorld",
       "SetID": "8ohdpka",
       "Name": "Around the World",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BounceBack",
       "SetID": "8ohdpka",
       "Name": "Bounce Back",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Completionist",
@@ -84,9 +84,9 @@
       "ID": "GettingGood!",
       "SetID": "8ohdpka",
       "Name": "Getting Good!",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GhostBuster",
@@ -100,17 +100,17 @@
       "ID": "LevellingUp",
       "SetID": "8ohdpka",
       "Name": "Levelling Up",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NiceShot",
       "SetID": "8ohdpka",
       "Name": "Nice Shot",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Pathfinder",
@@ -140,17 +140,17 @@
       "ID": "Seasonal",
       "SetID": "8ohdpka",
       "Name": "Seasonal",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TeeTime",
       "SetID": "8ohdpka",
       "Name": "Tee Time",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Turkey",
@@ -170,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:06:12.4805031+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:07:56.4543489+00:00",
   "LastUpdate_AppInfo": "2024-01-11T13:03:08.6437808+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:59:00.3126201+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:06:12.4805102+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:59:54.5689483+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:07:56.4543591+00:00"
 }

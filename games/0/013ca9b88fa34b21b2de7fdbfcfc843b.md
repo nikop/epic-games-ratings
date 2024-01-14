@@ -8,7 +8,7 @@ Rating: 4.64 (Ranked 344)
 | Azoria Beckons | 5.00% | ~453 |
 | A Thorny Situation | 5.00% | ~453 |
 | ... And Spit Back Out | 5.00% | ~453 |
-| Break-Net Speed | 4.00% | ~362 |
+| Break-Net Speed | 4.00% | ~363 |
 | Calm Sailing | 3.00% | ~272 |
 | Open the Gate! | 3.00% | ~272 |
 | Miner 49er | 3.00% | ~272 |
@@ -26,9 +26,9 @@ Rating: 4.64 (Ranked 344)
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
 | Flaming Hot Completos | 0.90% | ~82 |
-| Fae Farmer | 0.80% | ~72 |
-| Got to Catch Them All | 0.80% | ~72 |
-| Fanatical Farmer | 0.80% | ~72 |
+| Fae Farmer | 0.80% | ~73 |
+| Got to Catch Them All | 0.80% | ~73 |
+| Fanatical Farmer | 0.80% | ~73 |
 | Scattered Scroll Scrounger | 0.70% | ~63 |
 | Rumble in the Jumble | 0.70% | ~63 |
 | Azorian Hat Dance | 0.70% | ~12 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 344)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,061 (Ranked 186)  
+Progressed: 9,064 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
-| 2024-01-14 | 9,061 | 1 |
+| 2024-01-14 | 9,064 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -359,9 +359,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 11449,
+  "EOS_Progressed": 11453,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 828,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4894,6 +4894,11 @@
       "Time": "2024-01-14T19:09:59.7968584+00:00",
       "NumProgressed": 11449,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T20:10:40.0787527+00:00",
+      "NumProgressed": 11453,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4906,7 +4911,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "03_TheStolenStar",
@@ -4930,7 +4935,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -4938,7 +4943,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "07_TheGrandFinale",
@@ -4994,7 +4999,7 @@
       "Name": "Doom Trader",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -5002,7 +5007,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "15_Pentakill",
@@ -5048,9 +5053,9 @@
       "ID": "20_PurgeTheUnclean",
       "SetID": "37a94m8",
       "Name": "Purge the Unclean",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 344
     },
     {
       "ID": "21_PreciseDefense",
@@ -5082,7 +5087,7 @@
       "Name": "Highrise",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "25_DynastyProspers",
@@ -5090,7 +5095,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -5122,7 +5127,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "30_The GreatestExploration",
@@ -5130,7 +5135,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "31_DontTouchThis",
@@ -5146,7 +5151,7 @@
       "Name": "Aviation Saviour",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -5218,7 +5223,7 @@
       "Name": "Jungle Heat",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5226,7 +5231,7 @@
       "Name": "Iron Judgement",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5280,9 +5285,9 @@
       "ID": "49_HowDidItAllEnd",
       "SetID": "37a94m8",
       "Name": "How Did It All End?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 46
     },
     {
       "ID": "50_Whodunit",
@@ -5314,7 +5319,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -5386,7 +5391,7 @@
       "Name": "Invisible Bureaucracy",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "63_YouShouldGoToAnotherWindow",
@@ -5425,7 +5430,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11449,
+      "Progressed": 11453,
       "Completed": 1
     }
   ],
@@ -5433,8 +5438,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-14T13:00:27.0890359+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:59.7968583+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:40.078752+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:16.9520274+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:59.7969234+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:21.1000338+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:40.0788201+00:00"
 }

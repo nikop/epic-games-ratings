@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -2039,9 +2039,9 @@
       "ID": "CULTURE_3",
       "SetID": "44dlcg0",
       "Name": "Read! Everyone should read!",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DESIERTO3_1",
@@ -2520,8 +2520,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:10:04.9212783+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:46.6168276+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.3885201+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:07.5578917+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:10:04.9213419+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:58:35.8178582+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:46.6169034+00:00"
 }

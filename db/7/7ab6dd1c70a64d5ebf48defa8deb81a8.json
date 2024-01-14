@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2327,
+  "EOS_Progressed": 2329,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4553,6 +4553,11 @@
       "Time": "2024-01-14T19:10:00.9965062+00:00",
       "NumProgressed": 2327,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T20:10:41.7228711+00:00",
+      "NumProgressed": 2329,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4564,7 +4569,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_02",
@@ -4572,7 +4577,7 @@
       "Name": "Find Allies",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_03",
@@ -4620,15 +4625,15 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 279
     },
     {
       "ID": "ACH_10",
@@ -4636,7 +4641,7 @@
       "Name": "Trinity",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_11",
@@ -4756,7 +4761,7 @@
       "Name": "Fashion Victim",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ACH_26",
@@ -4764,7 +4769,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH_27",
@@ -4851,7 +4856,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2327,
+      "Progressed": 2329,
       "Completed": 3
     }
   ],
@@ -4859,8 +4864,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:10:00.996506+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:41.7228706+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:40.7552115+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:10:00.996558+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:59:24.7726802+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:41.7229171+00:00"
 }

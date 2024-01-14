@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,7 +777,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7242,
+  "EOS_Progressed": 7245,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
@@ -11232,6 +11232,11 @@
       "Time": "2024-01-14T19:04:41.83492+00:00",
       "NumProgressed": 7242,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T20:05:49.2691415+00:00",
+      "NumProgressed": 7245,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11259,7 +11264,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "12",
@@ -11363,7 +11368,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "24",
@@ -11401,9 +11406,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 942
     },
     {
       "ID": "29",
@@ -11411,7 +11416,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "3",
@@ -11451,7 +11456,7 @@
       "Name": "Seat of Power",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "34",
@@ -11722,13 +11727,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7242,
+      "Progressed": 7245,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7242,
+      "Progressed": 7245,
       "Completed": 8
     }
   ],
@@ -11736,8 +11741,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:04:41.8349198+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:05:49.2691412+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:59:55.6059197+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:04:41.8350059+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:01:17.6214635+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:05:49.2692205+00:00"
 }

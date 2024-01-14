@@ -5,28 +5,28 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,202 |
-| The Teleprobe | 57.00% | ~965 |
-| The City | 52.00% | ~880 |
-| The field base | 47.00% | ~796 |
-| The Alliance | 44.00% | ~745 |
-| Survivors | 41.00% | ~694 |
-| The Condor | 39.00% | ~660 |
-| The End | 38.00% | ~643 |
+| The Camp | 71.00% | ~1,203 |
+| The Teleprobe | 57.00% | ~966 |
+| The City | 52.00% | ~881 |
+| The field base | 47.00% | ~797 |
+| The Alliance | 44.00% | ~746 |
+| Survivors | 41.00% | ~695 |
+| The Condor | 39.00% | ~661 |
+| The End | 38.00% | ~644 |
 | The Necroevolution | 31.00% | ~525 |
-| Krauta is alive | 29.00% | ~491 |
-| On her own | 23.00% | ~389 |
-| Peacemaker | 23.00% | ~389 |
-| Volcanologist | 23.00% | ~389 |
-| Fierce fight | 22.00% | ~372 |
+| Krauta is alive | 29.00% | ~492 |
+| On her own | 23.00% | ~390 |
+| Peacemaker | 23.00% | ~390 |
+| Volcanologist | 23.00% | ~390 |
+| Fierce fight | 22.00% | ~373 |
 | Evacuation | 21.00% | ~356 |
 | Beyond divisions | 18.00% | ~305 |
 | Flying Objects Operator | 17.00% | ~288 |
 | I remember everything! | 14.00% | ~237 |
 | Another giant | 14.00% | ~237 |
-| Violent solution | 10.00% | ~169 |
-| I leave no man behind | 10.00% | ~169 |
-| Innate curiosity | 8.00% | ~135 |
+| Violent solution | 10.00% | ~170 |
+| I leave no man behind | 10.00% | ~170 |
+| Innate curiosity | 8.00% | ~136 |
 | Strong objection | 7.00% | ~119 |
 | Ubiquitous holes | 6.00% | ~102 |
 | The Invincible | 6.00% | ~102 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 510)
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,693 (Ranked 265)  
+Progressed: 1,695 (Ranked 265)  
 Completed: 1 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.06%) (Ranked 334)
 | 2024-01-11 | 1,635 | 1 |
 | 2024-01-12 | 1,649 | 1 |
 | 2024-01-13 | 1,674 | 1 |
-| 2024-01-14 | 1,693 | 1 |
+| 2024-01-14 | 1,695 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

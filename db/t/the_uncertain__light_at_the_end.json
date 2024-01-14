@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 672,
+  "EOS_Progressed": 673,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2024-01-14T15:05:41.4599869+00:00",
       "NumProgressed": 672,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T20:07:08.1352364+00:00",
+      "NumProgressed": 673,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1513,7 +1518,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Hitman",
@@ -1647,16 +1652,16 @@
       "ID": "Unforeseen_Consequences",
       "SetID": "ek310c",
       "Name": "Unexpected Consequences",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 672,
+      "Progressed": 673,
       "Completed": 6
     }
   ],
@@ -1664,8 +1669,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:05:38.0113275+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:07:08.135236+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:03:11.7775552+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:05:38.0113719+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:03:39.256578+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:07:08.1352618+00:00"
 }

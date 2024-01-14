@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 408,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2325,
+  "EOS_Progressed": 2327,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4382,6 +4382,11 @@
       "Time": "2024-01-13T14:03:56.2860944+00:00",
       "NumProgressed": 2325,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-14T20:04:39.1272498+00:00",
+      "NumProgressed": 2327,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4393,7 +4398,7 @@
       "Name": "Become King",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Collect20Gold",
@@ -4401,7 +4406,7 @@
       "Name": "Collect Gold",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Collect20Iron",
@@ -4409,7 +4414,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Collect50MonsterParts",
@@ -4417,7 +4422,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CollectAllStatues",
@@ -4537,7 +4542,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "GetTHWeapon",
@@ -4545,7 +4550,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Kill25Bugs",
@@ -4553,7 +4558,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Kill25Frogs",
@@ -4561,7 +4566,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Kill25Mozi",
@@ -4569,7 +4574,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MeetTheMoles",
@@ -4577,7 +4582,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4593,7 +4598,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RepairSmith",
@@ -4601,7 +4606,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "RepairThroneRoom",
@@ -4617,7 +4622,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ReturnPowerInMines",
@@ -4625,7 +4630,7 @@
       "Name": "Return Power To The Depths",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4680,13 +4685,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2325,
+      "Progressed": 2327,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 966,
+      "Progressed": 968,
       "Completed": 921
     }
   ],
@@ -4694,8 +4699,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:03:52.6485435+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:04:39.1272495+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:14.025028+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:03:52.6485821+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:58:45.5897635+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:04:39.1272848+00:00"
 }

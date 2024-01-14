@@ -12,7 +12,7 @@ Rating: 4.76 (Ranked 135)
 | The Hellwoods | 77.00% | ~589 |
 | The Plains of Strothalm | 73.00% | ~558 |
 | Experienced Thalya | 72.00% | ~551 |
-| Bad Elves Go Everywhere | 69.00% | ~528 |
+| Bad Elves Go Everywhere | 70.00% | ~536 |
 | Thalya's Concentrated Fury | 68.00% | ~520 |
 | Heroes’ Gorge | 66.00% | ~505 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~482 |
@@ -20,10 +20,10 @@ Rating: 4.76 (Ranked 135)
 | The Ascent | 61.00% | ~467 |
 | It's Warm and Cozy at Home | 61.00% | ~467 |
 | Magic Accidents | 59.00% | ~451 |
+| Trap Master | 56.00% | ~428 |
 | Minions, Minions! | 56.00% | ~428 |
 | Hard Work | 56.00% | ~428 |
 | The Big Eaty | 56.00% | ~428 |
-| Trap Master | 55.00% | ~421 |
 | “… like son” | 54.00% | ~413 |
 | YOU SHALL NOT PASS! | 51.00% | ~390 |
 | The Cathedral of Light | 49.00% | ~375 |
@@ -35,7 +35,7 @@ Rating: 4.76 (Ranked 135)
 | Mana Cannon | 42.00% | ~321 |
 | The Duel | 41.00% | ~314 |
 | If Looks Could Kill | 38.00% | ~291 |
-| Unstoppable Horde | 36.00% | ~275 |
+| Unstoppable Horde | 37.00% | ~283 |
 | Master of the Undead | 36.00% | ~275 |
 | The Finitude Drill | 36.00% | ~275 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~245 |
@@ -68,7 +68,7 @@ Rating: 4.76 (Ranked 135)
 | I Don't Need Any Help | 11.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 765 (Ranked 319)  
-Completed: 32 (4.18%) (Ranked 89)  
+Completed: 33 (4.31%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,7 +137,7 @@ Completed: 32 (4.18%) (Ranked 89)
 | 2024-01-11 | 759 | 31 |
 | 2024-01-12 | 761 | 31 |
 | 2024-01-13 | 763 | 31 |
-| 2024-01-14 | 765 | 32 |
+| 2024-01-14 | 765 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

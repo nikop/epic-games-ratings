@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1993,
+  "EOS_Progressed": 1994,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2024-01-14T19:05:54.9714514+00:00",
       "NumProgressed": 1993,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T20:07:31.6624626+00:00",
+      "NumProgressed": 1994,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3710,7 +3715,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "10",
@@ -3718,7 +3723,7 @@
       "Name": "Perfect timing",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "11",
@@ -3742,7 +3747,7 @@
       "Name": "Unstoppable",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "14",
@@ -3774,7 +3779,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "18",
@@ -3870,7 +3875,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "30",
@@ -3918,7 +3923,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "7",
@@ -3949,15 +3954,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1993,
+      "Progressed": 1994,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:05:54.9714512+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:07:31.6624622+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:40.8223409+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:05:54.9715018+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:55.3136795+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:07:31.6625016+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 123,
   "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -556,9 +556,9 @@
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -644,9 +644,9 @@
       "ID": "ACH_PROFESSIONAL_TEAM",
       "SetID": "1p69hf1",
       "Name": "Professional team!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:08:32.0269554+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:08:36.7667709+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:19.2638096+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:15.2290268+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:08:32.0269684+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:58:47.1677272+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:08:36.7667844+00:00"
 }

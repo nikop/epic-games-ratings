@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -78,10 +78,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 765,
-  "EOS_Completed": 32,
-  "EOS_NewPlayers": 23,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.18,
+  "EOS_Completed": 33,
+  "EOS_NewPlayers": 22,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 4.31,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2467,6 +2467,11 @@
       "Time": "2024-01-14T19:09:20.5171158+00:00",
       "NumProgressed": 765,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2024-01-14T20:09:44.962371+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2517,9 +2522,9 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 428
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2573,9 +2578,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 536
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2709,9 +2714,9 @@
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 283
     },
     {
       "ID": "ach_main10fire_naga",
@@ -2967,15 +2972,15 @@
       "ID": "4hg22ll",
       "IsBase": true,
       "Progressed": 765,
-      "Completed": 32
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:20.5171155+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:09:44.9623704+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:54.0228879+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:20.5171682+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:58:15.5991683+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:09:44.9624362+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -1083,9 +1083,9 @@
       "ID": "ACH_AWAITINGORDERS",
       "SetID": "88d7anj",
       "Name": "Awaiting orders",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_AWAKEN",
@@ -1123,9 +1123,9 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_HOPE",
@@ -1147,9 +1147,9 @@
       "ID": "ACH_JIGSAW",
       "SetID": "88d7anj",
       "Name": "Jigsaw",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_LOST",
@@ -1227,9 +1227,9 @@
       "ID": "ACH_PEACE",
       "SetID": "88d7anj",
       "Name": "Peace",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_RAGE",
@@ -1243,9 +1243,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -1274,8 +1274,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:08:34.2349087+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:08:40.2851646+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.6210321+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:43.7104211+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:08:34.2349352+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:59.6255855+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:08:40.2852162+00:00"
 }

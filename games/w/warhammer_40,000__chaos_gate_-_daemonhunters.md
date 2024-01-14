@@ -45,8 +45,8 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.80% | ~31 |
 | True Mastery | 0.80% | ~31 |
 | Hands-On Research | 0.70% | ~27 |
+| Exercise in Restraint | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
-| Exercise in Restraint | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.50% | ~19 |
 | Deadshot | 0.40% | ~16 |

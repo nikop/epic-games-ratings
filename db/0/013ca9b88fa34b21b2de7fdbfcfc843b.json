@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9061,
+  "EOS_Progressed": 9064,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10228,6 +10228,11 @@
       "Time": "2024-01-14T19:10:02.1156228+00:00",
       "NumProgressed": 9061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T20:10:43.1760688+00:00",
+      "NumProgressed": 9064,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10296,7 +10301,7 @@
       "Name": "Fae Farmer",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -10312,7 +10317,7 @@
       "Name": "Got to Catch Them All",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "COLLECT_FISH",
@@ -10344,7 +10349,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -10432,7 +10437,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "HAVE_WEDDING",
@@ -10583,13 +10588,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9061,
+      "Progressed": 9064,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1678,
+      "Progressed": 1681,
       "Completed": 1050
     }
   ],
@@ -10597,8 +10602,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:10:02.1156225+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:43.1760685+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:03:08.8628832+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:10:02.11571+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:03:34.131881+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:43.1761728+00:00"
 }

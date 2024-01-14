@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4429,6 +4429,11 @@
       "Time": "2024-01-14T14:09:26.047075+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T20:10:21.0367608+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4616,7 +4621,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "Packing20",
@@ -4640,7 +4645,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "RecipeDifferent30",
@@ -4696,7 +4701,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "TrattoriaSet",
@@ -4759,7 +4764,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 0
     }
   ],
@@ -4767,8 +4772,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:45.8231323+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:21.0367603+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.839172+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:59:36.8013802+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:45.8231727+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:00:50.0751315+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:21.0368016+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 380,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1676,6 +1676,11 @@
       "Time": "2024-01-14T18:09:47.2683281+00:00",
       "NumProgressed": 379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T20:08:39.6130869+00:00",
+      "NumProgressed": 380,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1743,7 +1748,7 @@
       "Name": "Seeds of War",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -1759,7 +1764,7 @@
       "Name": "Drinking Problem",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -1925,9 +1930,9 @@
       "ID": "ach_pro_rocket_kills",
       "SetID": "cmg602e",
       "Name": "Pro Carrocketeer",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_pro_shotgun_kills",
@@ -1973,9 +1978,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 217
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -2023,7 +2028,7 @@
       "Name": "Carrocketeer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_x_victims_using_shotgun",
@@ -2143,7 +2148,7 @@
       "Name": "Survivor",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_waves_10",
@@ -2151,7 +2156,7 @@
       "Name": "Early Survivor",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_waves_20",
@@ -2191,7 +2196,7 @@
       "Name": "Aspairagus",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2245,9 +2250,9 @@
       "ID": "ach_x_victims_using_lmg",
       "SetID": "bf10c8p",
       "Name": "Summers Here",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -2278,13 +2283,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 380,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 329,
+      "Progressed": 330,
       "Completed": 2
     }
   ],
@@ -2292,8 +2297,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:08:33.7277701+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:08:39.6130863+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.5124585+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:41.0726957+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:08:33.7278497+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:55.6826736+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:08:39.6131705+00:00"
 }

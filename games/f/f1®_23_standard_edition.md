@@ -5,37 +5,37 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,528 |
-| On the Top Step | 82.00% | ~14,894 |
-| Setting up for Success | 69.00% | ~12,532 |
-| Team Orders | 68.00% | ~12,351 |
-| Engineer | 45.00% | ~8,173 |
-| Familiar Faces | 41.00% | ~7,447 |
-| Going the Extra Mile | 35.00% | ~6,357 |
-| Sharing the Love | 33.00% | ~5,994 |
-| Hitting a Season | 27.00% | ~4,904 |
-| Making History | 25.00% | ~4,541 |
-| A Dozen Pieces | 24.00% | ~4,359 |
-| Network Success | 23.00% | ~4,177 |
-| Challenge Yourself | 23.00% | ~4,177 |
-| Writing a new Chapter | 19.00% | ~3,451 |
-| Spring Cleaning | 18.00% | ~3,269 |
-| Reduce | 14.00% | ~2,543 |
-| Ups and Downs | 14.00% | ~2,543 |
-| Crucial Combo | 13.00% | ~2,361 |
-| Reuse | 12.00% | ~2,180 |
-| Proving Them Wrong | 12.00% | ~2,180 |
-| Gathering Dust | 11.00% | ~1,998 |
-| Friendly Competition | 10.00% | ~1,816 |
-| Switcheroo | 10.00% | ~1,816 |
-| One for the Book | 10.00% | ~1,816 |
+| Getting on the Step | 91.00% | ~16,536 |
+| On the Top Step | 82.00% | ~14,900 |
+| Setting up for Success | 69.00% | ~12,538 |
+| Team Orders | 68.00% | ~12,356 |
+| Engineer | 45.00% | ~8,177 |
+| Familiar Faces | 41.00% | ~7,450 |
+| Going the Extra Mile | 35.00% | ~6,360 |
+| Sharing the Love | 33.00% | ~5,996 |
+| Hitting a Season | 27.00% | ~4,906 |
+| Making History | 25.00% | ~4,543 |
+| A Dozen Pieces | 24.00% | ~4,361 |
+| Network Success | 23.00% | ~4,179 |
+| Challenge Yourself | 23.00% | ~4,179 |
+| Writing a new Chapter | 19.00% | ~3,452 |
+| Spring Cleaning | 18.00% | ~3,271 |
+| Reduce | 14.00% | ~2,544 |
+| Ups and Downs | 14.00% | ~2,544 |
+| Crucial Combo | 13.00% | ~2,362 |
+| Reuse | 12.00% | ~2,181 |
+| Proving Them Wrong | 12.00% | ~2,181 |
+| Gathering Dust | 11.00% | ~1,999 |
+| Friendly Competition | 10.00% | ~1,817 |
+| Switcheroo | 10.00% | ~1,817 |
+| One for the Book | 10.00% | ~1,817 |
 | Eagle Eye | 9.00% | ~1,635 |
 | All in a Weekend's Work | 9.00% | ~1,635 |
 | Oil and Water | 9.00% | ~1,635 |
 | Hitting a Bullseye | 9.00% | ~1,635 |
 | Spinning Around | 9.00% | ~1,635 |
-| Lightning Round the World | 8.00% | ~1,453 |
-| Recycle | 7.00% | ~1,271 |
+| Lightning Round the World | 8.00% | ~1,454 |
+| Recycle | 7.00% | ~1,272 |
 | Undisputed Winner | 6.00% | ~1,090 |
 | Tinkerer | 6.00% | ~1,090 |
 | For all Those Back at the Factory | 4.00% | ~727 |
@@ -48,14 +48,14 @@ Rating: 4.64 (Ranked 344)
 | Wait, I know you? | 2.00% | ~363 |
 | Filling in the Gaps | 1.00% | ~182 |
 | Media Darling | 1.00% | ~182 |
-| Saturday Night Drama | 0.90% | ~163 |
+| Saturday Night Drama | 0.90% | ~164 |
 | Under the Microscope | 0.60% | ~109 |
-| Ultimate Collector | 0.30% | ~54 |
+| Ultimate Collector | 0.30% | ~55 |
 | Golden Touch | 0.20% | ~36 |
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,163 (Ranked 163)  
+Progressed: 18,171 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,19 +178,19 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 17,785 | 0 |
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
-| 2024-01-14 | 18,163 | 0 |
+| 2024-01-14 | 18,171 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 425)  
-Sum: 433 (Ranked 349)  
+Sum: 438 (Ranked 349)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 65 |
 | This game has a Competitive Community | 50 |
 | This game has Amazing Characters | 48 |
-| This game is Highly Recommended | 46 |
+| This game is Highly Recommended | 47 |
+| This game is Extremely Fun | 43 |
 | This game has Quickly Understood Controls | 41 |
-| This game is Extremely Fun | 39 |
 | This game has Challenging Combat | 39 |
 | This game is Great for Beginners | 36 |
 | This game has Amazing Storytelling | 36 |
@@ -323,4 +323,4 @@ Diff (max vs sum): 76
 | 2024-01-11 | 4.63 | 64 | 421 |
 | 2024-01-12 | 4.64 | 65 | 423 |
 | 2024-01-13 | 4.64 | 65 | 429 |
-| 2024-01-14 | 4.64 | 65 | 433 |
+| 2024-01-14 | 4.64 | 65 | 438 |

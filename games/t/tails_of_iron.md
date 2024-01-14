@@ -6,20 +6,20 @@ Rating: 4.57 (Ranked 495)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 3.00% | ~70 |
-| Become King | 2.00% | ~46 |
-| Collect Gold | 2.00% | ~46 |
-| Collect Iron Ore | 2.00% | ~46 |
-| Collect Monster Parts | 2.00% | ~46 |
-| Ranged Weapon | 2.00% | ~46 |
-| Two Handed Weapon | 2.00% | ~46 |
-| Defeat 25 Grubs | 2.00% | ~46 |
-| Defeat 25 Frogs | 2.00% | ~46 |
-| Defeat 25 Mozis | 2.00% | ~46 |
-| Meet the Creatures from the Deep | 2.00% | ~46 |
-| Kitchen Ready To Cook | 2.00% | ~46 |
-| Smithy Ready to Craft | 2.00% | ~46 |
-| Rescue Redgi's Brothers | 2.00% | ~46 |
-| Return Power To The Depths | 2.00% | ~46 |
+| Become King | 2.00% | ~47 |
+| Collect Gold | 2.00% | ~47 |
+| Collect Iron Ore | 2.00% | ~47 |
+| Collect Monster Parts | 2.00% | ~47 |
+| Ranged Weapon | 2.00% | ~47 |
+| Two Handed Weapon | 2.00% | ~47 |
+| Defeat 25 Grubs | 2.00% | ~47 |
+| Defeat 25 Frogs | 2.00% | ~47 |
+| Defeat 25 Mozis | 2.00% | ~47 |
+| Meet the Creatures from the Deep | 2.00% | ~47 |
+| Kitchen Ready To Cook | 2.00% | ~47 |
+| Smithy Ready to Craft | 2.00% | ~47 |
+| Rescue Redgi's Brothers | 2.00% | ~47 |
+| Return Power To The Depths | 2.00% | ~47 |
 | Defeat Croakhis Khan | 2.00% | ~19 |
 | Shield Maiden Yellow Tongue | 2.00% | ~19 |
 | I Remember My First Beer | 2.00% | ~19 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 495)
 | Complete Ranger Faction | 0.60% | ~14 |
 | A new Warchief rises | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,325 (Ranked 246)  
+Progressed: 2,327 (Ranked 246)  
 Completed: 12 (0.52%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 12 (0.52%) (Ranked 222)
 | 2024-01-09 | 2,320 | 12 |
 | 2024-01-11 | 2,323 | 12 |
 | 2024-01-13 | 2,325 | 12 |
+| 2024-01-14 | 2,327 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9009,9 +9009,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760756,
+  "EOS_Progressed": 760768,
   "EOS_Completed": 12988,
-  "EOS_NewPlayers": 4029,
+  "EOS_NewPlayers": 4021,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33794,6 +33794,11 @@
       "Time": "2024-01-14T19:09:26.3132906+00:00",
       "NumProgressed": 760756,
       "NumCompleted": 12988
+    },
+    {
+      "Time": "2024-01-14T20:09:53.022545+00:00",
+      "NumProgressed": 760768,
+      "NumCompleted": 12988
     }
   ],
   "TotalAchievements": 60,
@@ -33805,7 +33810,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45645
+      "UsersEstimate": 45646
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33813,7 +33818,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30430
+      "UsersEstimate": 30431
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34269,7 +34274,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -34284,21 +34289,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70057,
+      "Progressed": 70069,
       "Completed": 10810
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760756,
+      "Progressed": 760768,
       "Completed": 12988
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-14T15:03:05.9264511+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:26.3132904+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:09:53.0225448+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:02:57.8110164+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:26.3134354+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:03:17.2385493+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:09:53.0226849+00:00"
 }

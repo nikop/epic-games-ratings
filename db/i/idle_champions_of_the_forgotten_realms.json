@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9553,10 +9553,10 @@
       "Count": 3639
     }
   ],
-  "EOS_Progressed": 253929,
-  "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1471,
-  "EOS_NewCompleters": 17,
+  "EOS_Progressed": 253939,
+  "EOS_Completed": 2617,
+  "EOS_NewPlayers": 1469,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40098,6 +40098,11 @@
       "Time": "2024-01-14T19:10:11.0452234+00:00",
       "NumProgressed": 253929,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-14T20:10:54.3634306+00:00",
+      "NumProgressed": 253939,
+      "NumCompleted": 2617
     }
   ],
   "TotalAchievements": 546,
@@ -40109,7 +40114,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10157
+      "UsersEstimate": 10158
     },
     {
       "ID": "objective_completed_10",
@@ -40973,7 +40978,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "objective_completed_1203",
@@ -44476,21 +44481,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220203,
+      "Progressed": 220213,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253929,
-      "Completed": 2616
+      "Progressed": 253939,
+      "Completed": 2617
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-14T16:57:06.8682349+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:10:11.0452231+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:54.36343+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:07.5300072+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:10:11.047609+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:06.2750321+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:54.3658217+00:00"
 }

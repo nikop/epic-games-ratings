@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -1561,6 +1561,11 @@
       "Time": "2024-01-14T19:04:50.288489+00:00",
       "NumProgressed": 247,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T20:06:01.335796+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1611,9 +1616,9 @@
       "ID": "10MAPPARTS",
       "SetID": "a1angca",
       "Name": "Treasure Hunter",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "20AUDIOLOGS",
@@ -1843,9 +1848,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "FINDCITY",
@@ -1853,7 +1858,7 @@
       "Name": "Civilian",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "FINDCRONY",
@@ -1861,7 +1866,7 @@
       "Name": "Best Buddy",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "FINDMAP",
@@ -1885,15 +1890,15 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "HELPTHORHILD",
@@ -1915,9 +1920,9 @@
       "ID": "KILL20MONSTER",
       "SetID": "a1angca",
       "Name": "Hunter",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1972,15 +1977,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:04:50.2884887+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:06:01.3357957+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:55.187322+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:04:50.2885386+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:59:46.8746776+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:06:01.3358383+00:00"
 }

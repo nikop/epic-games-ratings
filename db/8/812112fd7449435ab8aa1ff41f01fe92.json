@@ -4,8 +4,8 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 561,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -264,6 +264,11 @@
       "Time": "2024-01-13T12:09:05.167372+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T20:08:42.1658289+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -282,7 +287,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -324,7 +329,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 92,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -348,7 +353,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "OWN_SKINS",
@@ -378,7 +383,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 25,
       "UsersEstimate": 28
     },
@@ -419,14 +424,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:08:35.4899099+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:08:42.1658284+00:00",
   "LastUpdate_AppInfo": "2024-01-08T18:57:16.4412882+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:59:44.0638025+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:08:35.4899293+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:00:59.9461131+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:08:42.1658423+00:00"
 }

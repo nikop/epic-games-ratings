@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -563,7 +563,7 @@
   ],
   "EOS_Progressed": 6432,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9862,9 +9862,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2830
+      "UsersEstimate": 2894
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10102,9 +10102,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10199,8 +10199,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:04:33.2551397+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:05:36.8896206+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:57:27.9668118+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:04:33.2552046+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:57:37.3062652+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:05:36.8896945+00:00"
 }

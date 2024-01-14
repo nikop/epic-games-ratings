@@ -6,9 +6,9 @@
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2479,11 +2479,11 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19562,
-  "EOS_Completed": 77,
-  "EOS_NewPlayers": 711,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Progressed": 19564,
+  "EOS_Completed": 78,
+  "EOS_NewPlayers": 707,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -20409,6 +20409,11 @@
       "Time": "2024-01-14T19:09:58.0975052+00:00",
       "NumProgressed": 19562,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T20:10:37.824004+00:00",
+      "NumProgressed": 19564,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 35,
@@ -20420,7 +20425,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15845
+      "UsersEstimate": 15847
     },
     {
       "ID": "ACH02",
@@ -20476,7 +20481,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9781
+      "UsersEstimate": 9782
     },
     {
       "ID": "ACH09",
@@ -20516,7 +20521,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "ACH14",
@@ -20596,7 +20601,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4890
+      "UsersEstimate": 4891
     },
     {
       "ID": "ACH24",
@@ -20612,7 +20617,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACH26",
@@ -20644,7 +20649,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2934
+      "UsersEstimate": 2935
     },
     {
       "ID": "ACH30",
@@ -20676,7 +20681,7 @@
       "Name": "Remastered",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH34",
@@ -20699,16 +20704,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19562,
-      "Completed": 77
+      "Progressed": 19564,
+      "Completed": 78
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-14T19:02:41.3641629+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:58.097505+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:37.8240037+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:02:41.3641634+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:58.0975929+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:02:53.0280452+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:37.8241073+00:00"
 }

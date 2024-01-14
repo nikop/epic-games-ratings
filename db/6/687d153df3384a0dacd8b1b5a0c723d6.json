@@ -2,9 +2,9 @@
   "ID": "687d153df3384a0dacd8b1b5a0c723d6",
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
-  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 19.35,
+  "EOS_Completed_Percentage": 18.75,
   "EosHistory": [
     {
       "Time": "2024-01-10T19:04:16.2058384+00:00",
@@ -147,6 +147,11 @@
       "Time": "2024-01-14T05:06:57.0279798+00:00",
       "NumProgressed": 31,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T20:07:20.2600863+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-01-08T21:03:53.9988835+00:00",
@@ -159,13 +164,13 @@
       "Name": "Double Up Decisions",
       "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "DYNAMIC_DOZEN_DECISIONIST",
       "SetID": "44h0e32",
       "Name": "Dynamic Dozen Decisionist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -173,7 +178,7 @@
       "ID": "EPIC_EIGHT_EXPLORER",
       "SetID": "44h0e32",
       "Name": "Epic Eight Explorer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
       "UsersEstimate": 13
     },
@@ -183,7 +188,7 @@
       "Name": "Fantastic Four Choices",
       "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "FOURTEENSTAR_STRATEGIST",
@@ -197,7 +202,7 @@
       "ID": "HIGH_FIVE_DECISION_MAKER",
       "SetID": "44h0e32",
       "Name": "High Five Decision Maker",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -205,7 +210,7 @@
       "ID": "LUCKY_SEVEN_NAVIGATOR",
       "SetID": "44h0e32",
       "Name": "Lucky Seven Navigator",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -213,7 +218,7 @@
       "ID": "MASTERFUL_ELEVEN",
       "SetID": "44h0e32",
       "Name": "Masterful Eleven",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -221,7 +226,7 @@
       "ID": "NINTH_WONDER_DECISIONMAKER",
       "SetID": "44h0e32",
       "Name": "Ninth Wonder Decision-Maker",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -229,7 +234,7 @@
       "ID": "PERFECT_TEN_CHOICES",
       "SetID": "44h0e32",
       "Name": "Perfect Ten Choices",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -237,7 +242,7 @@
       "ID": "SIXTH_SENSE_STRATEGIES",
       "SetID": "44h0e32",
       "Name": "Sixth Sense Strategies",
-      "Percentage": 65,
+      "Percentage": 63,
       "XP": 50,
       "UsersEstimate": 20
     },
@@ -247,7 +252,7 @@
       "Name": "Starter Score",
       "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TRAILBLAZING_THIRTEEN",
@@ -263,20 +268,20 @@
       "Name": "Triple Threat Choices",
       "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "44h0e32",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 6
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:05:46.5988286+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:07:20.2600857+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.0574061+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:59:55.0076802+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:05:46.5988595+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:01:16.6579366+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:07:20.2601003+00:00"
 }

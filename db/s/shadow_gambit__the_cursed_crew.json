@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1535,
+  "EOS_Progressed": 1536,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -5316,6 +5316,11 @@
       "Time": "2024-01-14T04:06:06.8392004+00:00",
       "NumProgressed": 1535,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-14T20:05:45.1375163+00:00",
+      "NumProgressed": 1536,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5336,7 +5341,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "_03_FinishAct1",
@@ -5360,7 +5365,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5400,7 +5405,7 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "_11_Completion_40",
@@ -5448,7 +5453,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5464,7 +5469,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -5535,7 +5540,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1535,
+      "Progressed": 1536,
       "Completed": 37
     }
   ],
@@ -5543,8 +5548,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:04:38.8988774+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:05:45.1375159+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:58:21.2863271+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:04:38.8989255+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:58:56.3110109+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:05:45.1375732+00:00"
 }

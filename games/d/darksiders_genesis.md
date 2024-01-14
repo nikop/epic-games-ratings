@@ -15,23 +15,23 @@ Number of Ratings: 67  (23.09.2022)
 | Master of War | 2.00% | ~13 |
 | Mint II | 2.00% | ~13 |
 | The Dead Court | 2.00% | ~13 |
+| A Bullet for All Seasons | 1.00% | ~7 |
 | Demolition Derby | 1.00% | ~7 |
 | Good Deeds | 1.00% | ~7 |
 | Hell's Forge | 1.00% | ~7 |
 | Infested | 1.00% | ~7 |
-| A Bullet for All Seasons | 0.90% | ~6 |
-| Mint III | 0.90% | ~6 |
-| Walking Armory | 0.90% | ~6 |
+| Mint III | 1.00% | ~7 |
+| Walking Armory | 1.00% | ~7 |
 | Why'd It Have to Be Snakes? | 0.90% | ~6 |
-| Gatekeeper | 0.60% | ~4 |
+| Gatekeeper | 0.80% | ~5 |
+| Wicked Killington | 0.60% | ~4 |
+| Are You Not Entertained? | 0.50% | ~3 |
+| Collector | 0.50% | ~3 |
+| Full of Hell | 0.50% | ~3 |
 | Ready to Blow | 0.50% | ~3 |
-| Wicked Killington | 0.50% | ~3 |
-| Are You Not Entertained? | 0.30% | ~2 |
-| Collector | 0.30% | ~2 |
-| Full of Hell | 0.30% | ~2 |
+| The Promised End | 0.30% | ~2 |
 | Blademaster | 0.20% | ~1 |
 | Respect For Animals | 0.20% | ~1 |
-| The Promised End | 0.20% | ~1 |
 | Belial | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |

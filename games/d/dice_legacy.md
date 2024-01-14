@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 883)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,339 (Ranked 279)  
+Progressed: 1,340 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,6 +272,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 1,335 | 0 |
 | 2024-01-12 | 1,337 | 0 |
 | 2024-01-13 | 1,339 | 0 |
+| 2024-01-14 | 1,340 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "bd9fd28ca1214868922f2ab41d6d3b65",
   "Name": "Beyond Blue",
   "ProductSlug": "beyond-blue",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-06-11T04:00:00+00:00",
     "PcReleaseDate": "2020-06-11T04:00:00+00:00",
@@ -353,6 +353,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.0323242+00:00",
   "LastChanged": "2023-12-27T04:59:21.7820371+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:42.690483+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:02:37.0487231+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:09:04.3369757+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:02:46.2331827+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:03:43.1970882+00:00"
 }

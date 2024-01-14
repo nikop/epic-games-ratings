@@ -25,9 +25,9 @@
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | Metropolurbek | 1.00% | ~5 |
 | Banking city | 0.80% | ~4 |
+| Read! Everyone should read! | 0.60% | ~3 |
 | Oh, I love parks, listening to birds! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |
-| Read! Everyone should read! | 0.40% | ~2 |
 | Oh, life is too awesome! Thank you! | 0.40% | ~2 |
 | ¡Muy feliz! | 0.40% | ~2 |
 | Little Mayor | 0.40% | ~2 |

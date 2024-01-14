@@ -1,59 +1,59 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.44 (Ranked 706)  
+Rating: 4.41 (Ranked 755)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~122,651 |
-| Wind Master | 53.00% | ~98,493 |
-| Hook, Line and Stinker | 19.00% | ~35,309 |
-| Davy Jones | 17.00% | ~31,592 |
-| Gateway Slug | 5.00% | ~9,292 |
-| Race In Yo Face | 4.00% | ~7,433 |
-| Nice Shootin' Duds | 4.00% | ~7,433 |
-| Baby's First Thingamabob | 3.00% | ~5,575 |
-| Boarding Party | 3.00% | ~5,575 |
-| By The Power Of Underskull | 2.00% | ~3,717 |
-| Great Balls Of Fire | 2.00% | ~3,717 |
-| Light Up the Night | 2.00% | ~3,717 |
-| I Don't Like The Slugs | 2.00% | ~3,717 |
-| This Is Fine | 1.00% | ~1,858 |
-| Pengy Fun | 1.00% | ~1,858 |
-| Enter The Croakers | 0.70% | ~1,301 |
-| But The Slugs Like Me | 0.70% | ~1,301 |
-| Snapping Turtle | 0.50% | ~929 |
-| Fish Kabob | 0.50% | ~929 |
-| Polar Pontification | 0.30% | ~558 |
-| Aggro Kreb | 0.30% | ~558 |
-| No More Splosions | 0.30% | ~558 |
-| Crovert Ops | 0.30% | ~558 |
-| Blowfish Me Down | 0.20% | ~372 |
-| Tekk Savvy | 0.20% | ~372 |
-| Fish And Tips | 0.20% | ~372 |
-| What's Krakalackin? | 0.10% | ~186 |
-| Total Eclipse of the Eel | 0.10% | ~186 |
-| All Good Things... | 0.10% | ~186 |
-| Lights Out | 0.10% | ~186 |
-| Built For Speed | 0.10% | ~186 |
-| Crackshot | 0.10% | ~186 |
-| Whosits And Whatsits Galore | 0.10% | ~186 |
-| Sweeter Than Honey | 0.10% | ~186 |
-| Croaker Command's Most Wanted | 0.10% | ~186 |
-| In Service Of Glory And Valor | 0.10% | ~186 |
-| Getting Hooked | 0.10% | ~186 |
-| Sail Forth! | 0.10% | ~186 |
-| Over The Moon | 0.10% | ~186 |
-| Shooting Star | 0.10% | ~186 |
-| Crushed Ice | 0.10% | ~186 |
-| This Magik Moment | 0.10% | ~186 |
-| Fish On | 0.10% | ~186 |
-| 1.21 Ribbitwatts | 0.10% | ~186 |
-| Guiding Light | 0.10% | ~186 |
-| For Whom The Bells Toll | 0.10% | ~186 |
-| Don't I Know You? | 0.10% | ~186 |
+| Tootorial | 66.00% | ~123,972 |
+| Wind Master | 53.00% | ~99,554 |
+| Hook, Line and Stinker | 20.00% | ~37,567 |
+| Davy Jones | 17.00% | ~31,932 |
+| Gateway Slug | 5.00% | ~9,392 |
+| Race In Yo Face | 4.00% | ~7,513 |
+| Nice Shootin' Duds | 4.00% | ~7,513 |
+| Baby's First Thingamabob | 3.00% | ~5,635 |
+| Boarding Party | 3.00% | ~5,635 |
+| By The Power Of Underskull | 2.00% | ~3,757 |
+| Great Balls Of Fire | 2.00% | ~3,757 |
+| Light Up the Night | 2.00% | ~3,757 |
+| I Don't Like The Slugs | 2.00% | ~3,757 |
+| This Is Fine | 1.00% | ~1,878 |
+| Pengy Fun | 1.00% | ~1,878 |
+| Enter The Croakers | 0.80% | ~1,503 |
+| But The Slugs Like Me | 0.80% | ~1,503 |
+| Snapping Turtle | 0.50% | ~939 |
+| Fish Kabob | 0.50% | ~939 |
+| Polar Pontification | 0.30% | ~564 |
+| Aggro Kreb | 0.30% | ~564 |
+| No More Splosions | 0.30% | ~564 |
+| Crovert Ops | 0.30% | ~564 |
+| Blowfish Me Down | 0.20% | ~376 |
+| Tekk Savvy | 0.20% | ~376 |
+| Fish And Tips | 0.20% | ~376 |
+| What's Krakalackin? | 0.10% | ~188 |
+| Total Eclipse of the Eel | 0.10% | ~188 |
+| All Good Things... | 0.10% | ~188 |
+| Lights Out | 0.10% | ~188 |
+| Built For Speed | 0.10% | ~188 |
+| Crackshot | 0.10% | ~188 |
+| Whosits And Whatsits Galore | 0.10% | ~188 |
+| Sweeter Than Honey | 0.10% | ~188 |
+| Croaker Command's Most Wanted | 0.10% | ~188 |
+| In Service Of Glory And Valor | 0.10% | ~188 |
+| Getting Hooked | 0.10% | ~188 |
+| Sail Forth! | 0.10% | ~188 |
+| Over The Moon | 0.10% | ~188 |
+| Shooting Star | 0.10% | ~188 |
+| Crushed Ice | 0.10% | ~188 |
+| This Magik Moment | 0.10% | ~188 |
+| Fish On | 0.10% | ~188 |
+| 1.21 Ribbitwatts | 0.10% | ~188 |
+| Guiding Light | 0.10% | ~188 |
+| For Whom The Bells Toll | 0.10% | ~188 |
+| Don't I Know You? | 0.10% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185,835 (Ranked 84)  
+Progressed: 187,837 (Ranked 84)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 21,760 | 0 |
 | 2024-01-12 | 90,065 | 0 |
 | 2024-01-13 | 148,534 | 0 |
-| 2024-01-14 | 185,835 | 0 |
+| 2024-01-14 | 187,837 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

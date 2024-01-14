@@ -14,7 +14,7 @@ Rating: 4.53 (Ranked 565)
 | This Was No Papercut | 50.00% | ~3,216 |
 | The Shrink Hates Me | 48.00% | ~3,087 |
 | People Person | 47.00% | ~3,023 |
-| Use The Bumper, That's What It's For | 44.00% | ~2,830 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,894 |
 | First Steps Into Madness | 44.00% | ~2,830 |
 | Colonial Barrels | 43.00% | ~2,766 |
 | Harper's Hell | 38.00% | ~2,444 |
@@ -32,8 +32,8 @@ Rating: 4.53 (Ranked 565)
 | The Spire | 21.00% | ~1,351 |
 | El Riesgo Siempre Vive | 20.00% | ~1,286 |
 | Stuff Of Nightmares | 19.00% | ~1,222 |
+| Excavating The Truth | 19.00% | ~1,222 |
 | Frontliner | 18.00% | ~1,158 |
-| Excavating The Truth | 18.00% | ~1,158 |
 | Abysmal Horrors | 18.00% | ~1,158 |
 | One For Every Occasion | 17.00% | ~1,093 |
 | The Cable Guy | 17.00% | ~1,093 |

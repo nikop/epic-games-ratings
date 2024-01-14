@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 79.00% | ~106 |
+| My Papyrus! | 79.00% | ~107 |
 | A Loyal Friend | 43.00% | ~58 |
-| Abandon Ship! | 33.00% | ~44 |
+| Abandon Ship! | 33.00% | ~45 |
 | The Tomb of Kih-Oskh | 29.00% | ~39 |
 | The Weighing of the Soul | 27.00% | ~36 |
 | The Curse of Kih-Oskh | 21.00% | ~28 |
@@ -14,21 +14,21 @@
 | Cat Lover | 15.00% | ~20 |
 | Dynamite, Treason and Coconuts | 15.00% | ~20 |
 | Save a Friend | 14.00% | ~19 |
-| In the Name of the Law | 13.00% | ~17 |
-| Au Revoir, Abudin | 13.00% | ~17 |
+| In the Name of the Law | 13.00% | ~18 |
+| Au Revoir, Abudin | 13.00% | ~18 |
 | Mysterious Bungalow | 12.00% | ~16 |
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
-| Keep the Doctor Away | 10.00% | ~13 |
-| Just a Palm Tree | 10.00% | ~13 |
-| Eyes Shut | 10.00% | ~13 |
+| Keep the Doctor Away | 10.00% | ~14 |
+| Just a Palm Tree | 10.00% | ~14 |
+| Eyes Shut | 10.00% | ~14 |
 | Under the Hood | 9.00% | ~12 |
 | Barking Dog | 9.00% | ~12 |
-| Long Live Gaipajama! | 7.00% | ~9 |
+| Long Live Gaipajama! | 8.00% | ~11 |
 | Tintin, Reporter | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
 | Subtlety | 7.00% | ~9 |
-| Mountain Runner | 4.00% | ~5 |
+| Mountain Runner | 5.00% | ~7 |
 | A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Jungle Runner | 2.00% | ~3 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134 (Ranked 478)  
+Progressed: 135 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,3 +96,4 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 131 | 0 |
 | 2024-01-11 | 133 | 0 |
 | 2024-01-13 | 134 | 0 |
+| 2024-01-14 | 135 | 0 |

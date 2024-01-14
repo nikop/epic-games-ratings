@@ -10,24 +10,24 @@
 | The battle of Great Britain | 39.00% | ~36 |
 | Pulp! Where Monsters Dwell | 32.00% | ~29 |
 | A continent with chemistry | 30.00% | ~28 |
+| Giant | 27.00% | ~25 |
 | The happy farmer girl | 27.00% | ~25 |
-| Giant | 26.00% | ~24 |
 | A rival with no options | 26.00% | ~24 |
 | Pulp! Terror Tales in the Night | 26.00% | ~24 |
+| The artist | 24.00% | ~22 |
 | Pulp! Out of this World | 24.00% | ~22 |
 | Diagnosis: fear | 24.00% | ~22 |
 | Ambition is... blind | 24.00% | ~22 |
-| The artist | 23.00% | ~21 |
+| You have two wishes left | 22.00% | ~20 |
+| Et in arcadia ego | 21.00% | ~19 |
 | Pulp! Adventures into the Unknown | 21.00% | ~19 |
-| You have two wishes left | 21.00% | ~19 |
-| Et in arcadia ego | 20.00% | ~18 |
 | The seer | 18.00% | ~17 |
+| Welcome to Hellville | 18.00% | ~17 |
 | You had one wish left | 17.00% | ~16 |
-| Welcome to Hellville | 17.00% | ~16 |
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |
+| Kirlian's best disciple | 16.00% | ~15 |
 | Blessed antennas | 15.00% | ~14 |
-| Kirlian's best disciple | 15.00% | ~14 |
 | The bully | 14.00% | ~13 |
 | Pulp! The Beyond | 14.00% | ~13 |
 | The beast in the Oval Office | 12.00% | ~11 |

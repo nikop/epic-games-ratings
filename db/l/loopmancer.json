@@ -2,10 +2,10 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 491,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 500,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -592,6 +592,11 @@
       "Time": "2024-01-14T19:09:40.0168176+00:00",
       "NumProgressed": 107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T20:10:12.8208685+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -601,9 +606,9 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 107,
+      "Percentage": 109,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
@@ -617,15 +622,15 @@
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 112,
+      "Percentage": 114,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_DEFEAT_OGATA",
       "SetID": "6d82akp",
       "Name": "Best in Dragon City",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -699,7 +704,7 @@
       "Name": "Calamity",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENDING_PRISON",
@@ -737,7 +742,7 @@
       "ID": "ACH_ENDING_WIFE_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Walking into a Trap",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 24
     },
@@ -761,15 +766,15 @@
       "ID": "ACH_FULLY_UPGRADED_MANY_ARMS",
       "SetID": "6d82akp",
       "Name": "Achieving Excellence",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_GET_STORY_TRUTH",
       "SetID": "6d82akp",
       "Name": "Targeting the Enemy",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -801,9 +806,9 @@
       "ID": "ACH_KILL_MANY_SICKGUY",
       "SetID": "6d82akp",
       "Name": "Rest in peace",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_KILL_XFGZ_SEABASE",
@@ -873,7 +878,7 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 71
     },
@@ -881,7 +886,7 @@
       "ID": "ACH_SAVE_LISBETH_TIMEOUT",
       "SetID": "6d82akp",
       "Name": "Unsalvageable",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -905,7 +910,7 @@
       "ID": "ACH_SAVE_WIFE",
       "SetID": "6d82akp",
       "Name": "Reunion",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 43
     },
@@ -1001,9 +1006,9 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 101,
+      "Percentage": 103,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_UNLOCK_MANY_CARDS",
@@ -1017,7 +1022,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 92
     },
@@ -1041,7 +1046,7 @@
       "ID": "ACH_WEILONG_NANOKILL",
       "SetID": "6d82akp",
       "Name": "Neutralize",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -1058,7 +1063,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -1066,8 +1071,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2024-01-14T19:09:40.0168174+00:00",
+  "LastChanged_Achievements": "2024-01-14T20:10:12.8208679+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.0139311+00:00",
-  "LastUpdate_Ratings": "2024-01-14T19:00:32.9041165+00:00",
-  "LastUpdate_Achievements": "2024-01-14T19:09:40.0168703+00:00"
+  "LastUpdate_Ratings": "2024-01-14T20:02:41.8548831+00:00",
+  "LastUpdate_Achievements": "2024-01-14T20:10:12.8209501+00:00"
 }
