@@ -28,7 +28,7 @@
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.67% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.66% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.71% |
@@ -37,7 +37,7 @@
 | 35 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 13.33% |
 | 36 | [Remains](games/r/remains.md) | 12.70% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.12% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.11% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 39 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 11.11% |
 | 41 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
@@ -54,11 +54,11 @@
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 53 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.59% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.59% |
-| 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
+| 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.48% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.44% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
-| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.00% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.99% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.90% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 62 | [Scorn](games/s/scorn.md) | 6.89% |
@@ -76,7 +76,7 @@
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.94% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.86% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.84% |
 | 78 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.76% |
 | 80 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
@@ -165,8 +165,8 @@
 | 163 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.16% |
 | 163 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.16% |
 | 163 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 163 | [Ten Dates](games/t/ten_dates.md) | 1.16% |
-| 167 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
+| 166 | [Iron Danger](games/i/iron_danger.md) | 1.15% |
+| 166 | [Ten Dates](games/t/ten_dates.md) | 1.15% |
 | 168 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.14% |
 | 169 | [Adios](games/a/adios.md) | 1.12% |
 | 169 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
@@ -188,7 +188,7 @@
 | 186 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.90% |
 | 186 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
 | 186 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.90% |
-| 186 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.90% |
+| 189 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.89% |
 | 190 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 190 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.88% |
 | 192 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.81% |
@@ -202,8 +202,8 @@
 | 199 | [Infindustry](games/i/infindustry.md) | 0.74% |
 | 201 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
 | 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.71% |
-| 203 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.70% |
 | 203 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
+| 204 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.69% |
 | 205 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.63% |
 | 205 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.63% |
 | 205 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.63% |
@@ -260,10 +260,10 @@
 | 257 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 259 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.30% |
 | 259 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
+| 259 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.30% |
 | 259 | [Train Valley](games/t/train_valley.md) | 0.30% |
-| 262 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
-| 262 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
-| 262 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.29% |
+| 263 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
+| 263 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
 | 265 | [Filament](games/f/filament.md) | 0.27% |
 | 265 | [GRIME](games/g/grime.md) | 0.27% |
 | 265 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
