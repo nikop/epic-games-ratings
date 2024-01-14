@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2643,6 +2643,11 @@
       "Time": "2024-01-14T05:10:50.0759343+00:00",
       "NumProgressed": 750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T12:09:07.2370639+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2662,7 +2667,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2686,7 +2691,7 @@
       "Name": "Flying Kobold Killer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -2694,7 +2699,7 @@
       "Name": "Youth Magnet",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2734,7 +2739,7 @@
       "Name": "Mermaid Killer",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -2742,7 +2747,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2750,7 +2755,7 @@
       "Name": "Cave Master",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -2758,7 +2763,7 @@
       "Name": "Face Slapper",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -2846,7 +2851,7 @@
       "Name": "Boss challenge",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2854,7 +2859,7 @@
       "Name": "Blade Mantis Challenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -2870,7 +2875,7 @@
       "Name": "Flying Kobold Challenge",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -2886,7 +2891,7 @@
       "Name": "Furious Scorpion Challenge",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -2902,7 +2907,7 @@
       "Name": "Giant Lizard Challenge",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -2910,7 +2915,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -2918,7 +2923,7 @@
       "Name": "Mermaid Challenge",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -2926,7 +2931,7 @@
       "Name": "Berserker Slayer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -2934,7 +2939,7 @@
       "Name": "Giantess Slayer",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -2990,7 +2995,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -3013,7 +3018,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 3
     }
   ],
@@ -3021,8 +3026,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:35.5707258+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:07.2370635+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.6411785+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:50.5409305+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:35.570772+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:40.3287628+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:07.2371151+00:00"
 }

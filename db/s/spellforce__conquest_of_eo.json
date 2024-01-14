@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 144,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -763,9 +763,9 @@
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "Capture_Own_Tower",
@@ -795,9 +795,9 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "Craft_First_Potion",
@@ -1308,8 +1308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:50.0605494+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:20.5231156+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:00.342329+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:50.060623+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:59:45.8936199+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:20.5231755+00:00"
 }

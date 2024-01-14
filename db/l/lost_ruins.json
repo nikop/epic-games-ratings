@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -2138,9 +2138,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 246
     },
     {
       "ID": "Librarian",
@@ -2347,8 +2347,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:12.9822529+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:41.5437219+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.8441104+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:59:44.2931586+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:12.9822867+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:59:31.0429005+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:41.5437686+00:00"
 }

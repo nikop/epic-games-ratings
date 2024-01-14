@@ -8,8 +8,8 @@ Number of Ratings: 1,023  (23.09.2022)
 | ---- | ---------- | ----- |
 | First money | 95.00% | ~21,033 |
 | Strongman | 31.00% | ~6,863 |
+| Just Enough | 20.00% | ~4,428 |
 | Alpha Male | 20.00% | ~4,428 |
-| Just Enough | 19.00% | ~4,207 |
 | Pro-creative | 19.00% | ~4,207 |
 | Worth Every Penny | 14.00% | ~3,100 |
 | Family man | 13.00% | ~2,878 |

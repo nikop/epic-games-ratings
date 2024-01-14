@@ -667,9 +667,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4279,
+  "EOS_Progressed": 4280,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9687,6 +9687,11 @@
       "Time": "2024-01-14T08:10:55.7571608+00:00",
       "NumProgressed": 4279,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T12:09:19.3376878+00:00",
+      "NumProgressed": 4280,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9698,7 +9703,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -9754,7 +9759,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -9778,7 +9783,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9866,7 +9871,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9906,7 +9911,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9930,7 +9935,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -10034,7 +10039,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10265,13 +10270,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4230,
+      "Progressed": 4231,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4279,
+      "Progressed": 4280,
       "Completed": 11
     }
   ],
@@ -10279,8 +10284,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:48.748921+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:19.3376875+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:38.1671379+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:48.7490353+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:18.4248826+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:19.3377737+00:00"
 }

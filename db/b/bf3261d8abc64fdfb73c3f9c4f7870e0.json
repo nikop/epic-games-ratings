@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -743,9 +743,9 @@
       "ID": "achievement_blance_is_my_choise",
       "SetID": "bngbnfb",
       "Name": "My name is Blance",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_bran_happy",
@@ -991,7 +991,7 @@
       "ID": "achievement_the_baptism",
       "SetID": "bngbnfb",
       "Name": "The Baptism of the Triune",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -999,7 +999,7 @@
       "ID": "achievement_the_most_difficult_decision",
       "SetID": "bngbnfb",
       "Name": "The hardest choice",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1071,9 +1071,9 @@
       "ID": "achievement_wrong_choice",
       "SetID": "bngbnfb",
       "Name": "Wrong choice",
-      "Percentage": 0,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -1086,8 +1086,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:34.7475112+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:06.1737907+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.9159831+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:59.2058105+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:34.7475527+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:48.478337+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:06.1738225+00:00"
 }

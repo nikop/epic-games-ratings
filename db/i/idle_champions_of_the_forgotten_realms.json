@@ -9547,9 +9547,9 @@
       "Count": 3639
     }
   ],
-  "EOS_Progressed": 253870,
+  "EOS_Progressed": 253878,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1568,
+  "EOS_NewPlayers": 1565,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40052,6 +40052,11 @@
       "Time": "2024-01-14T11:10:23.6065818+00:00",
       "NumProgressed": 253870,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-14T12:09:51.3910912+00:00",
+      "NumProgressed": 253878,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -40431,7 +40436,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "objective_completed_110",
@@ -41167,7 +41172,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "objective_completed_149",
@@ -41255,7 +41260,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "objective_completed_165",
@@ -41735,7 +41740,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5077
+      "UsersEstimate": 5078
     },
     {
       "ID": "objective_completed_34",
@@ -41935,7 +41940,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "objective_completed_400",
@@ -42207,7 +42212,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "objective_completed_540",
@@ -43135,7 +43140,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "objective_completed_690",
@@ -44430,21 +44435,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220144,
+      "Progressed": 220152,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253870,
+      "Progressed": 253878,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-14T01:58:30.3265751+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:23.6065814+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:51.3910908+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:32.5785509+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:23.6089241+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:13.4287329+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:51.3936785+00:00"
 }

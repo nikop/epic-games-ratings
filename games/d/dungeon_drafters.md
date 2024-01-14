@@ -26,8 +26,8 @@
 | Oracle Mastery | 5.00% | ~7 |
 | Traveler Mastery | 4.00% | ~6 |
 | Warden Mastery | 4.00% | ~6 |
+| The Plot Thickens | 4.00% | ~6 |
 | Raider Mastery | 3.00% | ~4 |
-| The Plot Thickens | 3.00% | ~4 |
 | Best Pupil | 2.00% | ~3 |
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |

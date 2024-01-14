@@ -8,12 +8,12 @@
 | Little ideas | 73.00% | ~82 |
 | The Ship | 70.00% | ~79 |
 | Seeking the truth | 58.00% | ~66 |
-| An old friend | 54.00% | ~61 |
-| The Gala | 53.00% | ~60 |
+| An old friend | 55.00% | ~62 |
+| The Gala | 54.00% | ~61 |
+| A curious gathering | 51.00% | ~58 |
 | Little grey cells | 50.00% | ~56 |
-| A curious gathering | 50.00% | ~56 |
+| Arthur Hastings | 50.00% | ~56 |
 | Impossible is possible | 49.00% | ~55 |
-| Arthur Hastings | 49.00% | ~55 |
 | The Missing Magdalene | 48.00% | ~54 |
 | Everything matters | 43.00% | ~49 |
 | An expert mediator | 42.00% | ~47 |

@@ -20,8 +20,8 @@ Number of Ratings: 180  (23.09.2022)
 | Transport millionaire | 51.00% | ~1,262 |
 | Transport master | 49.00% | ~1,212 |
 | Cargo hub | 49.00% | ~1,212 |
+| Settled down | 45.00% | ~1,113 |
 | Sculpturer | 45.00% | ~1,113 |
-| Settled down | 44.00% | ~1,089 |
 | First electric train arrived | 43.00% | ~1,064 |
 | Now what? | 43.00% | ~1,064 |
 | First ship arrived | 42.00% | ~1,039 |

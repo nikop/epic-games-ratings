@@ -13,12 +13,12 @@
 | Telekinesis | 26.00% | ~40 |
 | Sapper | 21.00% | ~33 |
 | Tough Decision | 19.00% | ~29 |
+| The Neuro-connector | 18.00% | ~28 |
+| Unstoppable | 17.00% | ~26 |
 | Veteran Sniper | 17.00% | ~26 |
-| The Neuro-connector | 17.00% | ~26 |
 | Flatline | 17.00% | ~26 |
-| Unstoppable | 16.00% | ~25 |
-| Mind Over Matter | 16.00% | ~25 |
-| Full and Final Settlement | 15.00% | ~23 |
+| Mind Over Matter | 17.00% | ~26 |
+| Full and Final Settlement | 16.00% | ~25 |
 | One Click Away | 15.00% | ~23 |
 | Cyborg | 11.00% | ~17 |
 | Lifter | 8.00% | ~12 |

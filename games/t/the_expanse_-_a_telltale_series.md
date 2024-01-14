@@ -15,10 +15,10 @@ Rating: 4.54 (Ranked 552)
 | Drone Dodger | 13.00% | ~2,469 |
 | Spore Taste | 12.00% | ~2,279 |
 | Stogie for Fogey | 11.00% | ~2,089 |
-| Call it Even | 10.00% | ~1,899 |
+| Call it Even | 10.00% | ~1,900 |
 | Safe Cracker | 10.00% | ~495 |
 | Zen Master | 10.00% | ~495 |
-| Heal Thy Medic | 9.00% | ~1,709 |
+| Heal Thy Medic | 9.00% | ~1,710 |
 | Madame Undersecretary | 9.00% | ~445 |
 | Data Archivist | 8.00% | ~1,520 |
 | Keep Arjun in Check | 8.00% | ~396 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 552)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,994 (Ranked 159)  
+Progressed: 18,995 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 18,994 | 64 |
+| 2024-01-14 | 18,995 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

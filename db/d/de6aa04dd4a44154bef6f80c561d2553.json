@@ -4,7 +4,7 @@
   "ProductSlug": "xuan-yuan-sword-7-22c442",
   "Ranking_EOS_Progress": 577,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 472,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
@@ -307,17 +307,17 @@
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -459,9 +459,9 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "GoodCompany",
@@ -475,9 +475,9 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Marker",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:14.9234612+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:43.473725+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:37.7649315+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:14.9235146+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:29.5857367+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:43.4737562+00:00"
 }

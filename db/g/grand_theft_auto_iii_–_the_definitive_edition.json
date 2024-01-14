@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12303,
+  "EOS_Progressed": 12304,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15744,6 +15744,11 @@
       "Time": "2024-01-14T11:05:04.2629201+00:00",
       "NumProgressed": 12303,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-14T12:04:41.5309285+00:00",
+      "NumProgressed": 12304,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15755,7 +15760,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10211
+      "UsersEstimate": 10212
     },
     {
       "ID": "ACH02",
@@ -15779,7 +15784,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4798
+      "UsersEstimate": 4799
     },
     {
       "ID": "ACH05",
@@ -15883,7 +15888,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "ACH18",
@@ -15939,7 +15944,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ACH25",
@@ -15986,7 +15991,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12303,
+      "Progressed": 12304,
       "Completed": 91
     }
   ],
@@ -15994,8 +15999,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:05:04.2629196+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:04:41.5309282+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:59:48.8937095+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:05:04.2630357+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:59:34.9483429+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:04:41.5310065+00:00"
 }

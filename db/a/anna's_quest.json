@@ -4,7 +4,7 @@
   "ProductSlug": "annas-quest-fbefa2",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 530,
+  "Ranking_EOS_NewPlayers": 529,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-01T16:00:00+00:00",
@@ -649,9 +649,9 @@
       "ID": "aq_achievement_35",
       "SetID": "7jh86ne",
       "Name": "Ooh, it\u0027s shiny!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "aq_achievement_36",
@@ -746,8 +746,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0099942+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.5540856+00:00",
   "LastChanged": "2023-03-31T05:58:28.0099943+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:03:46.54013+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:03:29.6859795+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.085205+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:02:40.3702533+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:03:46.5401558+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:02:27.8393521+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:03:29.6859998+00:00"
 }

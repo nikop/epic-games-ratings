@@ -1743,9 +1743,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248059,
+  "EOS_Progressed": 248067,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26138,6 +26138,11 @@
       "Time": "2024-01-14T11:10:19.3117177+00:00",
       "NumProgressed": 248059,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-14T12:09:47.5406461+00:00",
+      "NumProgressed": 248067,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26181,7 +26186,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9922
+      "UsersEstimate": 9923
     },
     {
       "ID": "BookCollection",
@@ -26213,7 +26218,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9922
+      "UsersEstimate": 9923
     },
     {
       "ID": "Chapter4",
@@ -26549,7 +26554,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22325
+      "UsersEstimate": 22326
     },
     {
       "ID": "DwarfElf15Support",
@@ -26597,7 +26602,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91782
+      "UsersEstimate": 91785
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26645,7 +26650,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27286
+      "UsersEstimate": 27287
     },
     {
       "ID": "FollowBraztok",
@@ -26661,7 +26666,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "InsultLoose",
@@ -26845,28 +26850,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9922
+      "UsersEstimate": 9923
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248059,
+      "Progressed": 248067,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248059,
+      "Progressed": 248067,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:19.3117173+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:47.5406458+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:43.1676984+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:19.3119041+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:34.4919446+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:47.5408166+00:00"
 }

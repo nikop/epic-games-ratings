@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 595,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 155,
+  "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -3323,10 +3323,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 4820,
       "NumberOfAwardsMax": 1764
+    },
+    {
+      "Time": "2024-01-14T11:59:06.0764417+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4838,
+      "NumberOfAwardsMax": 1764
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4820,
+  "NumberOfAwards": 4838,
   "NumberOfAwardsMax": 1764,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3358,7 +3364,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 331
+      "Count": 337
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3370,7 +3376,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 310
+      "Count": 316
     },
     {
       "Text": "This game has a Kind Community",
@@ -3394,7 +3400,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 298
+      "Count": 304
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3415,8 +3421,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-14T01:56:50.8143799+00:00",
+  "LastChanged": "2024-01-14T11:59:06.0764416+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8695332+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:59:17.546685+00:00",
+  "LastUpdate_Ratings": "2024-01-14T11:59:06.0764422+00:00",
   "LastUpdate_Achievements": "2024-01-14T11:08:17.460448+00:00"
 }

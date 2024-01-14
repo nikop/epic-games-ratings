@@ -6,7 +6,7 @@ Rating: 4.85 (Ranked 39)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 61.00% | ~1,682 |
-| Welcome to the Tower | 54.00% | ~1,489 |
+| Welcome to the Tower | 55.00% | ~1,516 |
 | The great escape | 46.00% | ~1,268 |
 | The Preacher's fate | 44.00% | ~1,213 |
 | A new dawn | 38.00% | ~1,048 |

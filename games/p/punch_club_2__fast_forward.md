@@ -36,9 +36,9 @@
 | Legal courier | 47.00% | ~274 |
 | Extreme neuropower! | 47.00% | ~274 |
 | Escaped from a big trouble | 45.00% | ~262 |
+| Now you are worthy | 40.00% | ~233 |
 | Fight is life | 40.00% | ~233 |
 | Guiding on the right path | 40.00% | ~233 |
-| Now you are worthy | 39.00% | ~227 |
 | Mysterious voice | 39.00% | ~227 |
 | No blades in the gym | 37.00% | ~216 |
 | Champion – no way back | 36.00% | ~210 |
@@ -51,10 +51,10 @@
 | Poisoned fighter | 32.00% | ~187 |
 | Get out of my apartment! | 31.00% | ~181 |
 | Gang wrangler | 30.00% | ~175 |
+| Seashell hunter | 30.00% | ~175 |
 | Undercover robot | 30.00% | ~175 |
 | Problems of cyborgs | 29.00% | ~169 |
 | Absolute Champion! | 29.00% | ~169 |
-| Seashell hunter | 29.00% | ~169 |
 | Not little hacker | 28.00% | ~163 |
 | Trap disarmed | 27.00% | ~157 |
 | Another world | 27.00% | ~157 |

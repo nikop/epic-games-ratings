@@ -3,8 +3,8 @@
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 520,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1546,6 +1546,11 @@
       "Time": "2024-01-13T20:09:42.2808587+00:00",
       "NumProgressed": 519,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T12:09:21.8163564+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 19,
@@ -1597,7 +1602,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ryan_date2_all",
@@ -1708,7 +1713,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 520,
       "Completed": 6
     }
   ],
@@ -1716,8 +1721,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:51.4587026+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:21.8163562+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:18.7829189+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:57:38.4549104+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:51.4587229+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:57:36.8720873+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:21.8163694+00:00"
 }

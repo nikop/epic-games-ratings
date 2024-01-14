@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_Completed": 189,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,11 +89,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.9,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1404,6 +1404,11 @@
       "Time": "2024-01-13T15:05:23.3166933+00:00",
       "NumProgressed": 670,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T12:05:19.0626578+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1503,7 +1508,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "Hitman",
@@ -1551,7 +1556,7 @@
       "Name": "Does Not Compute",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Misanthrope",
@@ -1646,7 +1651,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 6
     }
   ],
@@ -1654,8 +1659,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:05:45.4881498+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:05:19.0626576+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:03:18.5020274+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:05:45.4881723+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:03:01.9417358+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:05:19.0626805+00:00"
 }

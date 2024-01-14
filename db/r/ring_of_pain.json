@@ -3916,7 +3916,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242933,
+  "EOS_Progressed": 242941,
   "EOS_Completed": 306,
   "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 2,
@@ -31786,6 +31786,11 @@
       "Time": "2024-01-14T11:10:21.2153725+00:00",
       "NumProgressed": 242933,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T12:09:49.3440202+00:00",
+      "NumProgressed": 242941,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31989,7 +31994,7 @@
       "Name": "Dig Your Own Grave",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "DONTATTACKRATSDEPTH10",
@@ -32013,7 +32018,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "ENDWOUNDED",
@@ -32029,7 +32034,7 @@
       "Name": "Walk It Off",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "FIREBEAD20EXPLOSIONS",
@@ -32061,7 +32066,7 @@
       "Name": "Cold Hearted",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "FULLINVENTORY",
@@ -32069,7 +32074,7 @@
       "Name": "I Am Overburdened",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -32333,7 +32338,7 @@
       "Name": "Shootout",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -32453,7 +32458,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "PLAY10HOURS",
@@ -32477,7 +32482,7 @@
       "Name": "Toxic",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -32573,7 +32578,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "SURVIVEON1",
@@ -32581,7 +32586,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -32877,7 +32882,7 @@
       "Name": "Expensive Look",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -32900,13 +32905,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242933,
+      "Progressed": 242941,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4413,
+      "Progressed": 4421,
       "Completed": 425
     }
   ],
@@ -32914,8 +32919,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:21.2153722+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:49.3440199+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:20.716737+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:21.215641+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:03.1207372+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:49.3442895+00:00"
 }

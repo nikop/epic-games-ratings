@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10443,
+  "EOS_Progressed": 10446,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
@@ -16949,6 +16949,11 @@
       "Time": "2024-01-14T11:03:25.4678069+00:00",
       "NumProgressed": 10443,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T12:03:09.9057633+00:00",
+      "NumProgressed": 10446,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -16960,7 +16965,7 @@
       "Name": "First Step",
       "Percentage": 36,
       "XP": 45,
-      "UsersEstimate": 3759
+      "UsersEstimate": 3761
     },
     {
       "ID": "10",
@@ -16976,7 +16981,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "12",
@@ -17016,7 +17021,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "3",
@@ -17024,7 +17029,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "4",
@@ -17032,7 +17037,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "5",
@@ -17040,7 +17045,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "6",
@@ -17079,7 +17084,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10443,
+      "Progressed": 10446,
       "Completed": 0
     }
   ],
@@ -17087,8 +17092,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:03:25.4678066+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:03:09.9057628+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:57:11.4630402+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:03:25.4679213+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:57:11.5681777+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:03:09.905854+00:00"
 }

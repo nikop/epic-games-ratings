@@ -5,7 +5,7 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 34.00% | ~239 |
+| Inquisitor | 35.00% | ~246 |
 | Goblin Tales | 28.00% | ~197 |
 | Bug Hunter | 23.00% | ~161 |
 | Boss Killer | 22.00% | ~154 |

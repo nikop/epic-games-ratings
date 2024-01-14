@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 471,
+  "Ranking_EOS_NewPlayers": 472,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "29",
       "SetID": "38ide56",
       "Name": "Paw patrol member",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 200,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "3",
@@ -550,17 +550,17 @@
       "ID": "5",
       "SetID": "38ide56",
       "Name": "Mandy Family",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "6",
       "SetID": "38ide56",
       "Name": "Robot Out of Control",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "7",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:04:24.0638775+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:04:04.0855959+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9792755+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:59:03.5512011+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:04:24.0639027+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:52.5416167+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:04:04.0856204+00:00"
 }

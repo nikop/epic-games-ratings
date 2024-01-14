@@ -527,9 +527,9 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "BeatBossWang",
@@ -551,9 +551,9 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Collector",
@@ -639,17 +639,17 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "SaveMatsumoto",
       "SetID": "123m9l1",
       "Name": "Captain Mustache",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SewerExplorer",
@@ -679,9 +679,9 @@
       "ID": "ThreatenLiHong",
       "SetID": "123m9l1",
       "Name": "Coward",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TombExplorer",
@@ -695,9 +695,9 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
@@ -712,8 +712,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:04:42.8326514+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:04:21.2511863+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.2162952+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:40.1414041+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:04:42.8326701+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:20.1903748+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:04:21.2512157+00:00"
 }

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,887 |
+| Distinguished Service Medal | 90.00% | ~3,888 |
 | Spectre Inductee | 66.00% | ~2,851 |
-| Medal of Exploration I | 55.00% | ~2,375 |
+| Medal of Exploration I | 55.00% | ~2,376 |
 | Recruit | 52.00% | ~2,246 |
 | Search and Rescue | 51.00% | ~2,203 |
-| Quarian Ally | 48.00% | ~2,073 |
-| Medal of Heroism | 43.00% | ~1,857 |
-| Honorarium of Corporate Service | 43.00% | ~1,857 |
+| Quarian Ally | 48.00% | ~2,074 |
+| Medal of Heroism | 43.00% | ~1,858 |
+| Honorarium of Corporate Service | 43.00% | ~1,858 |
 | Turian Ally | 40.00% | ~1,728 |
-| Medal of Exploration II | 38.00% | ~1,641 |
-| Council Legion of Merit | 38.00% | ~1,641 |
+| Medal of Exploration II | 38.00% | ~1,642 |
+| Council Legion of Merit | 38.00% | ~1,642 |
 | Missing in Action | 36.00% | ~1,555 |
 | Medal of Honor | 35.00% | ~1,512 |
+| Soldier | 35.00% | ~1,512 |
 | Meritorious Service Medal | 35.00% | ~1,512 |
 | Soldier Ally | 35.00% | ~1,512 |
 | Charismatic | 35.00% | ~1,512 |
-| Soldier | 34.00% | ~1,468 |
-| Asari Ally | 33.00% | ~1,425 |
-| Very Elusive | 33.00% | ~1,425 |
+| Asari Ally | 33.00% | ~1,426 |
+| Very Elusive | 33.00% | ~1,426 |
 | Colonial Savior | 32.00% | ~1,382 |
 | Medal of Exploration III | 31.00% | ~1,339 |
 | Principled | 31.00% | ~1,339 |
@@ -43,10 +43,10 @@
 | Broke, Blind, and Bedlam | 25.00% | ~1,080 |
 | Veteran | 24.00% | ~1,037 |
 | Driven | 24.00% | ~1,037 |
-| Ghost Ship | 23.00% | ~993 |
-| The Assassin | 23.00% | ~993 |
-| The Justicar | 23.00% | ~993 |
-| The Quarian | 23.00% | ~993 |
+| Ghost Ship | 23.00% | ~994 |
+| The Assassin | 23.00% | ~994 |
+| The Justicar | 23.00% | ~994 |
+| The Quarian | 23.00% | ~994 |
 | A Personal Touch | 22.00% | ~950 |
 | Ghost of the Father | 22.00% | ~950 |
 | The Prodigal | 22.00% | ~950 |
@@ -74,11 +74,11 @@
 | Suicide Mission | 19.00% | ~821 |
 | Against All Odds | 19.00% | ~821 |
 | Agent | 19.00% | ~821 |
-| Eye of the Hurricane | 18.00% | ~777 |
-| Giant Killer | 18.00% | ~777 |
-| First Aid Specialist | 18.00% | ~777 |
-| A House Divided | 18.00% | ~777 |
-| World Shaker | 18.00% | ~777 |
+| Eye of the Hurricane | 18.00% | ~778 |
+| Giant Killer | 18.00% | ~778 |
+| First Aid Specialist | 18.00% | ~778 |
+| A House Divided | 18.00% | ~778 |
+| World Shaker | 18.00% | ~778 |
 | Pathfinder | 17.00% | ~734 |
 | Tunnel Rat | 17.00% | ~734 |
 | Liberator | 17.00% | ~734 |
@@ -92,12 +92,12 @@
 | Hard Target | 14.00% | ~605 |
 | Fact Finder | 14.00% | ~605 |
 | Problem Solver | 14.00% | ~605 |
-| Pyromaniac | 13.00% | ~561 |
-| Last Resort | 13.00% | ~561 |
-| No One Left Behind | 13.00% | ~561 |
-| Saboteur | 13.00% | ~561 |
-| Last Witness | 13.00% | ~561 |
-| Well Connected | 13.00% | ~561 |
+| Pyromaniac | 13.00% | ~562 |
+| Last Resort | 13.00% | ~562 |
+| No One Left Behind | 13.00% | ~562 |
+| Saboteur | 13.00% | ~562 |
+| Last Witness | 13.00% | ~562 |
+| Well Connected | 13.00% | ~562 |
 | Executioner | 12.00% | ~518 |
 | Patriot | 12.00% | ~518 |
 | Master and Commander | 12.00% | ~518 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~39 |
 | The One and Only | 0.50% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,319 (Ranked 212)  
+Progressed: 4,320 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,4 +253,4 @@ Completed: 13 (0.30%) (Ranked 259)
 | 2024-01-11 | 4,190 | 13 |
 | 2024-01-12 | 4,237 | 13 |
 | 2024-01-13 | 4,295 | 13 |
-| 2024-01-14 | 4,319 | 13 |
+| 2024-01-14 | 4,320 | 13 |

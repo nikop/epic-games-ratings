@@ -23,10 +23,10 @@
 | Counter Specialist | 33.00% | ~450 |
 | Master of the Skies | 31.00% | ~423 |
 | Axer of Auspice | 28.00% | ~382 |
+| Fair Means or Foul | 27.00% | ~368 |
 | Kemono at Heart | 27.00% | ~368 |
 | Mighty Marmelizer | 26.00% | ~354 |
-| Fair Means or Foul | 26.00% | ~354 |
-| Single Minded | 24.00% | ~327 |
+| Single Minded | 25.00% | ~341 |
 | Snare Specialist | 24.00% | ~327 |
 | Karakuri Trail | 23.00% | ~313 |
 | Karakuri Isle | 20.00% | ~273 |

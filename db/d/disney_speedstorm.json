@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 740,
   "Ranking_Popularity": 312,
-  "Ranking_PopularitySum": 264,
+  "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 27,
@@ -2785,10 +2785,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1195,
       "NumberOfAwardsMax": 181
+    },
+    {
+      "Time": "2024-01-14T12:00:04.1069605+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1198,
+      "NumberOfAwardsMax": 181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1195,
+  "NumberOfAwards": 1198,
   "NumberOfAwardsMax": 181,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2796,7 +2802,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 129
+      "Count": 132
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2865,9 +2871,9 @@
       "Count": 62
     }
   ],
-  "EOS_Progressed": 397385,
+  "EOS_Progressed": 397417,
   "EOS_Completed": 1604,
-  "EOS_NewPlayers": 7878,
+  "EOS_NewPlayers": 7844,
   "EOS_NewCompleters": 102,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20935,6 +20941,11 @@
       "Time": "2024-01-14T11:08:41.1523025+00:00",
       "NumProgressed": 397385,
       "NumCompleted": 1604
+    },
+    {
+      "Time": "2024-01-14T12:08:16.1268987+00:00",
+      "NumProgressed": 397417,
+      "NumCompleted": 1604
     }
   ],
   "TotalAchievements": 24,
@@ -20954,7 +20965,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23843
+      "UsersEstimate": 23845
     },
     {
       "ID": "11",
@@ -20962,7 +20973,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "12",
@@ -20978,7 +20989,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3577
     },
     {
       "ID": "14",
@@ -20986,7 +20997,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 35765
+      "UsersEstimate": 35768
     },
     {
       "ID": "15",
@@ -21042,7 +21053,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19869
+      "UsersEstimate": 19871
     },
     {
       "ID": "21",
@@ -21074,7 +21085,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15895
+      "UsersEstimate": 15897
     },
     {
       "ID": "3",
@@ -21090,7 +21101,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 11922
+      "UsersEstimate": 11923
     },
     {
       "ID": "5",
@@ -21098,7 +21109,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 51660
+      "UsersEstimate": 51664
     },
     {
       "ID": "6",
@@ -21106,7 +21117,7 @@
       "Name": "PRO",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15895
+      "UsersEstimate": 15897
     },
     {
       "ID": "7",
@@ -21137,16 +21148,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 397385,
+      "Progressed": 397417,
       "Completed": 1604
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-01-13T18:01:36.3188778+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:08:41.1523021+00:00",
+  "LastChanged": "2024-01-14T12:00:04.1069602+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:08:16.1268981+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.8696408+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:22.1378894+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:08:41.1524053+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:04.106961+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:08:16.1269988+00:00"
 }

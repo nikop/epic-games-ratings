@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1321,
+  "EOS_Progressed": 1322,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -4009,6 +4009,11 @@
       "Time": "2024-01-14T02:07:46.508505+00:00",
       "NumProgressed": 1321,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T12:09:46.743448+00:00",
+      "NumProgressed": 1322,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4140,7 +4145,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4172,7 +4177,7 @@
       "Name": "Whiz Kid",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "GrindingTime1",
@@ -4180,7 +4185,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "HexlockGift",
@@ -4212,7 +4217,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "MapCompletion1",
@@ -4268,7 +4273,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ParryRepeated1",
@@ -4316,7 +4321,7 @@
       "Name": "Honest Mistake",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4324,7 +4329,7 @@
       "Name": "Golem Hunter",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ScrambotProgress1",
@@ -4346,9 +4351,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 330
     },
     {
       "ID": "SpeedRun",
@@ -4396,7 +4401,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "WarwickDefeated",
@@ -4404,7 +4409,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "WatcherFought",
@@ -4443,7 +4448,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1321,
+      "Progressed": 1322,
       "Completed": 8
     }
   ],
@@ -4451,8 +4456,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:18.4082671+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:46.7434476+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:27.0997517+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:18.4083356+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:20.3760627+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:46.7435203+00:00"
 }

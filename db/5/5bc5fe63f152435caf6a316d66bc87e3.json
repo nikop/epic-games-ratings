@@ -4,7 +4,7 @@
   "ProductSlug": "black-academy-ed8e11",
   "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-01T10:00:00+00:00",
@@ -288,8 +288,8 @@
   ],
   "FirstSeen": "2023-12-12T10:01:50.3016386+00:00",
   "FirstSeenAchievements": "2023-11-30T01:50:14.7217519+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:06:04.9048673+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:05:36.8643036+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:11.8303883+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:43.9131384+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:06:04.9048932+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:35.1085817+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:05:36.864325+00:00"
 }

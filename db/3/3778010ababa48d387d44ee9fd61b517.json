@@ -2,7 +2,7 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 152,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2024-01-14T09:04:30.312726+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T12:04:12.1413685+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -497,7 +502,7 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -593,7 +598,7 @@
       "ID": "A_HUNT hunt (0-1)",
       "SetID": "324h56e",
       "Name": "Big Game Hunter",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 54
     },
@@ -673,7 +678,7 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -683,7 +688,7 @@
       "Name": "Fish Lover",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A_ORB",
@@ -739,7 +744,7 @@
       "Name": "Silencer",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "A_SUN",
@@ -802,14 +807,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:04:32.8249493+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:04:12.1413682+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:57:33.7900802+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:04:32.8249833+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:57:32.4735606+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:04:12.141394+00:00"
 }

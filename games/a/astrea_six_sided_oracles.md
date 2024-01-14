@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 85.00% | ~322 |
-| Purification Pioneer | 80.00% | ~303 |
-| Mechanical Buddy | 74.00% | ~280 |
-| Dicesmithing Time! | 64.00% | ~243 |
-| Sanctuary Guardian | 55.00% | ~208 |
-| Endless Tricks | 51.00% | ~193 |
-| Wild's Keeper | 49.00% | ~186 |
-| Mind Illuminator | 45.00% | ~171 |
-| Stellar Dismantler | 39.00% | ~148 |
-| Noctuan Champion | 36.00% | ~136 |
+| Meissa's Savior | 85.00% | ~324 |
+| Purification Pioneer | 80.00% | ~305 |
+| Mechanical Buddy | 74.00% | ~282 |
+| Dicesmithing Time! | 64.00% | ~244 |
+| Sanctuary Guardian | 55.00% | ~210 |
+| Endless Tricks | 51.00% | ~194 |
+| Wild's Keeper | 49.00% | ~187 |
+| Mind Illuminator | 44.00% | ~168 |
+| Stellar Dismantler | 39.00% | ~149 |
 | Astral Adventurer | 35.00% | ~133 |
-| Anomaly Destroyer | 32.00% | ~121 |
-| Star Killer | 31.00% | ~117 |
-| Eridanian Champion | 26.00% | ~99 |
-| Loyal Partner | 22.00% | ~83 |
-| Lacertian Champion | 22.00% | ~83 |
+| Noctuan Champion | 35.00% | ~133 |
+| Anomaly Destroyer | 31.00% | ~118 |
+| Star Killer | 31.00% | ~118 |
+| Eridanian Champion | 25.00% | ~95 |
+| Loyal Partner | 22.00% | ~84 |
+| Lacertian Champion | 22.00% | ~84 |
 | Apian Champion | 19.00% | ~72 |
-| Shard Spender | 18.00% | ~68 |
-| Unbeatable | 18.00% | ~68 |
+| Shard Spender | 18.00% | ~69 |
+| Unbeatable | 18.00% | ~69 |
 | Sadistic Plan | 16.00% | ~61 |
-| Behenian Champion | 15.00% | ~57 |
-| Heavy Purger | 12.00% | ~45 |
+| Behenian Champion | 14.00% | ~53 |
+| Heavy Purger | 12.00% | ~46 |
 | Wave Bender | 10.00% | ~38 |
 | Astral Seeker | 9.00% | ~34 |
 | Aquarian Champion | 9.00% | ~34 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 379 (Ranked 376)  
+Progressed: 381 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,3 +183,4 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 375 | 0 |
 | 2024-01-12 | 378 | 0 |
 | 2024-01-13 | 379 | 0 |
+| 2024-01-14 | 381 | 0 |

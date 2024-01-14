@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 740)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,660 |
-| IT MAKES BOOM! | 9.00% | ~35,765 |
-| EXTRA BOOST | 6.00% | ~23,843 |
-| PROTECTED | 5.00% | ~19,869 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,895 |
-| PRO | 4.00% | ~15,895 |
-| AGGRESSIVE RACER | 3.00% | ~11,922 |
+| ROOKIE | 13.00% | ~51,664 |
+| IT MAKES BOOM! | 9.00% | ~35,768 |
+| EXTRA BOOST | 6.00% | ~23,845 |
+| PROTECTED | 5.00% | ~19,871 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,897 |
+| PRO | 4.00% | ~15,897 |
+| AGGRESSIVE RACER | 3.00% | ~11,923 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~7,948 |
 | TRAINING HARD | 2.00% | ~7,948 |
 | BE OUR GUEST | 2.00% | ~7,948 |
@@ -25,12 +25,12 @@ Rating: 4.42 (Ranked 740)
 | FRIENDLY | 1.00% | ~3,974 |
 | MASTER | 1.00% | ~3,974 |
 | LEGENDARY HERO | 1.00% | ~3,974 |
-| EXPERIENCED CREW | 0.90% | ~3,576 |
+| EXPERIENCED CREW | 0.90% | ~3,577 |
 | FRAMED! | 0.70% | ~2,782 |
 | ACE TRICKSTER | 0.70% | ~2,782 |
-| PERFECTLY POISED | 0.60% | ~2,384 |
+| PERFECTLY POISED | 0.60% | ~2,385 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 397,385 (Ranked 52)  
+Progressed: 397,417 (Ranked 52)  
 Completed: 1,604 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -295,16 +295,16 @@ Completed: 1,604 (0.40%) (Ranked 241)
 | 2024-01-11 | 394,848 | 1,570 |
 | 2024-01-12 | 395,787 | 1,582 |
 | 2024-01-13 | 396,918 | 1,599 |
-| 2024-01-14 | 397,385 | 1,604 |
+| 2024-01-14 | 397,417 | 1,604 |
 ## Awards
 Max (Great for Beginners): 181  (Ranked 312)  
-Sum: 1,195 (Ranked 264)  
-Diff (max vs sum): 48  
+Sum: 1,198 (Ranked 263)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 181 |
 | This game is Great for Quick Sessions | 167 |
-| This game has Diverse Characters | 129 |
+| This game has Diverse Characters | 132 |
 | This game has a Competitive Community | 104 |
 | This game has Playful Visuals | 100 |
 | This game has Amazing Characters | 90 |
@@ -422,3 +422,4 @@ Diff (max vs sum): 48
 | 2024-01-11 | 4.42 | 179 | 1,181 |
 | 2024-01-12 | 4.42 | 179 | 1,187 |
 | 2024-01-13 | 4.42 | 181 | 1,195 |
+| 2024-01-14 | 4.42 | 181 | 1,198 |

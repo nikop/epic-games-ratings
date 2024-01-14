@@ -10848,9 +10848,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132773,
+  "EOS_Progressed": 132775,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39808,6 +39808,11 @@
       "Time": "2024-01-14T11:10:03.2837611+00:00",
       "NumProgressed": 132773,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T12:09:32.5314186+00:00",
+      "NumProgressed": 132775,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39873,9 +39878,9 @@
       "ID": "altar_of_hope_unlock_hero_leper",
       "SetID": "64l4lke",
       "Name": "Long Live the King",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 5311
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -39915,7 +39920,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -39995,7 +40000,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "combat_kill_gaunts",
@@ -40011,7 +40016,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -40235,7 +40240,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -40283,7 +40288,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "run_victory_act03",
@@ -40291,7 +40296,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "run_victory_act04",
@@ -40299,7 +40304,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "run_victory_act05",
@@ -40450,21 +40455,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132773,
+      "Progressed": 132775,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7642,
+      "Progressed": 7644,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T06:57:33.4610936+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:03.2837608+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:32.5314184+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:57:41.1959947+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:03.2839531+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:57:39.2613257+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:32.5315833+00:00"
 }

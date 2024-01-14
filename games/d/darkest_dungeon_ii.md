@@ -29,6 +29,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,639 |
 | FNG | 5.00% | ~6,639 |
 | Unleash Hell | 4.00% | ~5,311 |
+| Long Live the King | 4.00% | ~5,311 |
 | Unfulfilled Desires | 4.00% | ~5,311 |
 | Dissector | 4.00% | ~5,311 |
 | Banishment | 4.00% | ~5,311 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Friends 'Til the End | 4.00% | ~306 |
 | Resurrection | 3.00% | ~3,983 |
 | Funny Guy | 3.00% | ~3,983 |
-| Long Live the King | 3.00% | ~3,983 |
 | Wyrdly Reconstructed | 3.00% | ~3,983 |
 | Boxcar Kid | 3.00% | ~3,983 |
 | Hope Rekindled | 3.00% | ~3,983 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,983 |
 | Utopia | 3.00% | ~3,983 |
 | Road Trip | 3.00% | ~3,983 |
-| This Looks Familiar | 2.00% | ~2,655 |
-| Ichthyophobic | 2.00% | ~2,655 |
-| No More Mouths to Feed | 2.00% | ~2,655 |
-| Worldly Traveller | 2.00% | ~2,655 |
-| Hot Air | 2.00% | ~2,655 |
-| Eyes Up | 2.00% | ~2,655 |
-| Handled | 2.00% | ~2,655 |
+| This Looks Familiar | 2.00% | ~2,656 |
+| Ichthyophobic | 2.00% | ~2,656 |
+| No More Mouths to Feed | 2.00% | ~2,656 |
+| Worldly Traveller | 2.00% | ~2,656 |
+| Hot Air | 2.00% | ~2,656 |
+| Eyes Up | 2.00% | ~2,656 |
+| Handled | 2.00% | ~2,656 |
 | Clearing the Ledger | 1.00% | ~1,328 |
 | Hat Trick | 1.00% | ~1,328 |
 | Shrine of Reflection | 1.00% | ~1,328 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,773 (Ranked 92)  
+Progressed: 132,775 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,773 | 4 |
+| 2024-01-14 | 132,775 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,638 (Ranked 58)  

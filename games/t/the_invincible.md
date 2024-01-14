@@ -6,10 +6,10 @@ Rating: 4.55 (Ranked 528)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 71.00% | ~1,199 |
-| The Teleprobe | 56.00% | ~946 |
+| The Teleprobe | 57.00% | ~963 |
 | The City | 51.00% | ~861 |
 | The field base | 46.00% | ~777 |
-| The Alliance | 43.00% | ~726 |
+| The Alliance | 44.00% | ~743 |
 | Survivors | 41.00% | ~692 |
 | The Condor | 38.00% | ~642 |
 | The End | 38.00% | ~642 |

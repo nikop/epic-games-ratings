@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1957,
+  "EOS_Progressed": 1958,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5022,6 +5022,11 @@
       "Time": "2024-01-14T00:08:37.3246932+00:00",
       "NumProgressed": 1957,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T12:08:02.2761888+00:00",
+      "NumProgressed": 1958,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5288,9 +5293,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 176
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5378,7 +5383,7 @@
       "Name": "Ignition",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -5386,7 +5391,7 @@
       "Name": "The Speed of Silence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5401,20 +5406,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1957,
+      "Progressed": 1958,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1625,
+      "Progressed": 1626,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:08:25.6050425+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:08:02.2761883+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:52.2075294+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:08:25.6051144+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:31.8443259+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:08:02.2762668+00:00"
 }

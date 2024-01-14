@@ -86,7 +86,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |
 | Hittite Iron | 0.70% | ~117 |
+| Circus Maximus | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
+| Pantheon | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
 | Military Prestige | 0.70% | ~117 |
 | Dualism | 0.70% | ~117 |
@@ -100,8 +102,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
 | Riders | 0.60% | ~101 |
-| Circus Maximus | 0.60% | ~101 |
-| Pantheon | 0.60% | ~101 |
 | Via Recta Souk | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
@@ -121,16 +121,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.50% | ~84 |
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
+| Hittite Paganism | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
 | Gnosticism | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
+| Old | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
-| Hittite Paganism | 0.40% | ~67 |
 | Revelation | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
 | Turreted Elephant | 0.40% | ~67 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.40% | ~67 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.30% | ~50 |
-| Old | 0.30% | ~50 |
 | Noble Difficulty | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
 | Learn to Play 5 | 0.30% | ~50 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,755 (Ranked 169)  
+Progressed: 16,762 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,755 | 5 |
+| 2024-01-14 | 16,762 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

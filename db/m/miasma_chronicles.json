@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1717,
+  "EOS_Progressed": 1718,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4450,6 +4450,11 @@
       "Time": "2024-01-13T18:11:06.78953+00:00",
       "NumProgressed": 1717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T12:09:44.9155549+00:00",
+      "NumProgressed": 1718,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4541,7 +4546,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "CRUELTY",
@@ -4573,7 +4578,7 @@
       "Name": "Limp Richard",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4621,7 +4626,7 @@
       "Name": "Exorcist",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "EXPERIENCED",
@@ -4637,7 +4642,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4645,7 +4650,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4669,7 +4674,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "GIANT_KILLER",
@@ -4725,7 +4730,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4765,7 +4770,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "RECYCLER",
@@ -4781,7 +4786,7 @@
       "Name": "Ruthless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "SAVIOR",
@@ -4797,7 +4802,7 @@
       "Name": "Sensei",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "SHADOW_BOXING",
@@ -4837,7 +4842,7 @@
       "Name": "There Can Be Only One!",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -4845,7 +4850,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "THE_WATCHERS",
@@ -4868,7 +4873,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1717,
+      "Progressed": 1718,
       "Completed": 0
     }
   ],
@@ -4876,8 +4881,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:16.4266171+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:44.9155545+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.6324876+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:03:04.8969705+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:16.4266685+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:02:48.7028251+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:44.9156002+00:00"
 }

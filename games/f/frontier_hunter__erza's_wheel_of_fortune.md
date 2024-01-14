@@ -6,44 +6,44 @@ Rating: 4.38 (Ranked 797)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Travel Streamer | 93.00% | ~698 |
-| Training Simulation | 79.00% | ~592 |
+| Training Simulation | 79.00% | ~593 |
 | Kuku Bird Hunter | 65.00% | ~488 |
-| Storm Traveller | 60.00% | ~450 |
+| Storm Traveller | 60.00% | ~451 |
 | Wolf King Killer | 55.00% | ~413 |
 | Fashion Connoisseur | 53.00% | ~398 |
 | Arms Mechanic | 49.00% | ~368 |
 | Flower Thief | 44.00% | ~330 |
-| Apostle of Flame | 39.00% | ~292 |
+| Apostle of Flame | 39.00% | ~293 |
 | Beginner Artificer | 38.00% | ~285 |
 | Beginner Cook | 37.00% | ~278 |
 | Seal Breaker | 32.00% | ~240 |
 | Handyman | 28.00% | ~210 |
-| Giant Lizard Killer | 27.00% | ~202 |
+| Giant Lizard Killer | 27.00% | ~203 |
 | Guardian | 25.00% | ~188 |
 | Nosebleeder | 25.00% | ~188 |
 | Trader | 22.00% | ~165 |
 | Weapon Boost | 21.00% | ~158 |
-| Flying Kobold Killer | 19.00% | ~142 |
-| Youth Magnet | 19.00% | ~142 |
+| Flying Kobold Killer | 19.00% | ~143 |
+| Youth Magnet | 19.00% | ~143 |
 | Furious Scorpion Killer | 17.00% | ~128 |
 | Lethal Blade Mantis Killer | 17.00% | ~128 |
 | Squeaky Clean | 17.00% | ~128 |
 | Master Artificer | 17.00% | ~128 |
 | Kind Adventurer | 16.00% | ~120 |
-| Mermaid Killer | 15.00% | ~112 |
-| Cave Master | 15.00% | ~112 |
-| Face Slapper | 15.00% | ~112 |
-| Boss challenge | 11.00% | ~82 |
-| Berserker Slayer | 11.00% | ~82 |
-| Giantess Slayer | 11.00% | ~82 |
+| Mermaid Killer | 15.00% | ~113 |
+| Cave Master | 15.00% | ~113 |
+| Face Slapper | 15.00% | ~113 |
+| Boss challenge | 11.00% | ~83 |
+| Berserker Slayer | 11.00% | ~83 |
+| Giantess Slayer | 11.00% | ~83 |
 | Warden Slayer | 10.00% | ~75 |
 | Master Cook | 9.00% | ~68 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |
-| Blade Mantis Challenge | 3.00% | ~22 |
-| Flying Kobold Challenge | 3.00% | ~22 |
-| Furious Scorpion Challenge | 3.00% | ~22 |
-| Giant Lizard Challenge | 3.00% | ~22 |
-| Mermaid Challenge | 3.00% | ~22 |
+| Blade Mantis Challenge | 3.00% | ~23 |
+| Flying Kobold Challenge | 3.00% | ~23 |
+| Furious Scorpion Challenge | 3.00% | ~23 |
+| Giant Lizard Challenge | 3.00% | ~23 |
+| Mermaid Challenge | 3.00% | ~23 |
 | Rebellious | 2.00% | ~15 |
 | Big Face Goalkeeper Challenge | 2.00% | ~15 |
 | Giant Claw Spider Challenge | 2.00% | ~15 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 797)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750 (Ranked 322)  
+Progressed: 751 (Ranked 322)  
 Completed: 3 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 3 (0.40%) (Ranked 241)
 | 2024-01-10 | 744 | 3 |
 | 2024-01-11 | 748 | 3 |
 | 2024-01-13 | 749 | 3 |
-| 2024-01-14 | 750 | 3 |
+| 2024-01-14 | 751 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

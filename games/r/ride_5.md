@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,794 |
-| First Love | 46.00% | ~1,650 |
-| Clean Race | 45.00% | ~1,615 |
-| Hear That Roar! | 43.00% | ~1,543 |
-| Bitter Rivalry | 31.00% | ~1,112 |
-| Rivals to the End | 31.00% | ~1,112 |
-| Champagne Spray | 30.00% | ~1,076 |
+| Eat My Dust | 50.00% | ~1,795 |
+| First Love | 46.00% | ~1,651 |
+| Clean Race | 45.00% | ~1,616 |
+| Hear That Roar! | 43.00% | ~1,544 |
+| Bitter Rivalry | 31.00% | ~1,113 |
+| Rivals to the End | 31.00% | ~1,113 |
+| Champagne Spray | 30.00% | ~1,077 |
 | We're Going to Need a Bigger Garage | 27.00% | ~969 |
-| Quick Pit Stop | 23.00% | ~825 |
-| I Want One Too! | 21.00% | ~753 |
+| Quick Pit Stop | 23.00% | ~826 |
+| I Want One Too! | 21.00% | ~754 |
 | Restored and Ready | 20.00% | ~718 |
 | Legendary!!! | 20.00% | ~718 |
 | Go-Faster Stripes | 17.00% | ~610 |
@@ -23,9 +23,9 @@ Rating: 4.55 (Ranked 528)
 | Is It the Right Size? | 10.00% | ~359 |
 | Stamina Star | 8.00% | ~287 |
 | Evangelist | 7.00% | ~251 |
-| Make It Your Own! | 5.00% | ~179 |
-| Cherry Blossom and Temples | 5.00% | ~179 |
-| The Road to Liberty | 5.00% | ~179 |
+| Make It Your Own! | 5.00% | ~180 |
+| Cherry Blossom and Temples | 5.00% | ~180 |
+| The Road to Liberty | 5.00% | ~180 |
 | Romantic Races | 4.00% | ~144 |
 | My Work Here Is Done | 4.00% | ~144 |
 | Spoilt for Choice | 3.00% | ~108 |
@@ -55,7 +55,7 @@ Rating: 4.55 (Ranked 528)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,588 (Ranked 226)  
+Progressed: 3,590 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 3,552 | 0 |
 | 2024-01-12 | 3,570 | 0 |
 | 2024-01-13 | 3,582 | 0 |
-| 2024-01-14 | 3,588 | 0 |
+| 2024-01-14 | 3,590 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

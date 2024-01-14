@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 590,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2271,9 +2271,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 136
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2727,8 +2727,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:06:30.888959+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:06:01.0966993+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:18.3763742+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:06:30.8890512+00:00"
+  "LastUpdate_Ratings": "2024-01-14T12:00:01.1417496+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:06:01.0967638+00:00"
 }

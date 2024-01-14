@@ -5,9 +5,9 @@
   "Ranking_Rating": 990,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 313,
-  "Ranking_EOS_Progress": 194,
+  "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1011,9 +1011,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7552,
+  "EOS_Progressed": 7553,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9801,6 +9801,11 @@
       "Time": "2024-01-14T05:11:24.6445304+00:00",
       "NumProgressed": 7552,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T12:09:42.2686229+00:00",
+      "NumProgressed": 7553,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9852,7 +9857,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "Control_All_Relics",
@@ -9916,7 +9921,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5815
+      "UsersEstimate": 5816
     },
     {
       "ID": "First_Race_Met",
@@ -9924,7 +9929,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5437
+      "UsersEstimate": 5438
     },
     {
       "ID": "First_Ship_Designed",
@@ -10116,7 +10121,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -10132,7 +10137,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10387,15 +10392,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7552,
+      "Progressed": 7553,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-12T16:57:40.5503057+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:13.646245+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:42.2686227+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:29.1278765+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:13.6463542+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:22.3377037+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:42.2687087+00:00"
 }

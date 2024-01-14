@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16755,
+  "EOS_Progressed": 16762,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19965,6 +19965,11 @@
       "Time": "2024-01-14T10:11:20.9073169+00:00",
       "NumProgressed": 16755,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T12:09:50.304396+00:00",
+      "NumProgressed": 16762,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20550,9 +20555,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_OLD",
       "SetID": "9201eeb",
       "Name": "Old",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_PEACEMAKER",
@@ -21310,9 +21315,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -21430,9 +21435,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -21814,9 +21819,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hittite Paganism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -22839,21 +22844,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16755,
+      "Progressed": 16762,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16755,
+      "Progressed": 16762,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:10:22.2463561+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:50.3043956+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:59:45.0879914+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:10:22.2473628+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:59:31.6750255+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:50.3054487+00:00"
 }

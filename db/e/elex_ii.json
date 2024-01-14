@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -573,7 +573,7 @@
   ],
   "EOS_Progressed": 242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1727,9 +1727,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "BRINGTOYS",
@@ -1775,9 +1775,9 @@
       "ID": "CHOSEMOR",
       "SetID": "a1angca",
       "Name": "Morkon",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CHOSEOUT",
@@ -1823,9 +1823,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "FINDCITY",
@@ -1959,8 +1959,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:04:53.9257553+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:04:31.7694768+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:58:56.457213+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:04:53.925797+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:58:45.3474009+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:04:31.7695116+00:00"
 }

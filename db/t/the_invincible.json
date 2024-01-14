@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -4469,9 +4469,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 963
     },
     {
       "ID": "AchvAllMemories",
@@ -4533,9 +4533,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 743
     },
     {
       "ID": "AchvDoom",
@@ -4710,8 +4710,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:47.1028747+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:09:17.7366213+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:00:14.4232407+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:47.1029088+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:59:58.6564209+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:09:17.7366641+00:00"
 }

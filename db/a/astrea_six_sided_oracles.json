@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1589,6 +1589,11 @@
       "Time": "2024-01-13T21:09:01.7638581+00:00",
       "NumProgressed": 379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T12:08:37.3128939+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1607,9 +1612,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 118
     },
     {
       "ID": "AnomalyMaster",
@@ -1825,7 +1830,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "EndlessTricks",
@@ -1833,7 +1838,7 @@
       "Name": "Endless Tricks",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1889,7 +1894,7 @@
       "Name": "Heavy Purger",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "IfIHadFailed",
@@ -1929,7 +1934,7 @@
       "Name": "Loyal Partner",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "MechanicIntegration",
@@ -1945,7 +1950,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 282
     },
     {
       "ID": "MeissasSavior",
@@ -1953,15 +1958,15 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 324
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 168
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2025,7 +2030,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 305
     },
     {
       "ID": "ReflexiveMind",
@@ -2057,7 +2062,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 210
     },
     {
       "ID": "Sentinelphobic",
@@ -2073,7 +2078,7 @@
       "Name": "Shard Spender",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "SixSidedMastery",
@@ -2097,7 +2102,7 @@
       "Name": "Star Killer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "StellarDismantler",
@@ -2105,7 +2110,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "StellarHaste",
@@ -2201,7 +2206,7 @@
       "Name": "Unbeatable",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "UnepicHero",
@@ -2233,7 +2238,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ApianChampion",
@@ -2287,9 +2292,9 @@
       "ID": "BehenianChampion",
       "SetID": "1jeo1g7",
       "Name": "Behenian Champion",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "BehenianHero",
@@ -2311,9 +2316,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "EridanianHero",
@@ -2337,7 +2342,7 @@
       "Name": "Lacertian Champion",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LacertianHero",
@@ -2359,9 +2364,9 @@
       "ID": "NoctuanChampion",
       "SetID": "1jeo1g7",
       "Name": "Noctuan Champion",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 133
     },
     {
       "ID": "NoctuanHero",
@@ -2384,14 +2389,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 381,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-14T11:09:04.27229+00:00",
+  "LastChanged_Achievements": "2024-01-14T12:08:37.3128936+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:57:17.8730996+00:00",
-  "LastUpdate_Achievements": "2024-01-14T11:09:04.2724083+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:57:18.5083546+00:00",
+  "LastUpdate_Achievements": "2024-01-14T12:08:37.3130488+00:00"
 }
