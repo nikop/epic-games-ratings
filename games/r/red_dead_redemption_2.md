@@ -5,7 +5,7 @@ Rating: 4.88 (Ranked 17)
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 249,525  (Ranked 5)  
-Sum: 650,101 (Ranked 7)  
+Sum: 650,295 (Ranked 7)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): -2
 | This game is Great for Beginners | 28,683 |
 | This game has Diverse Characters | 27,893 |
 | This game is Highly Recommended | 27,074 |
+| This game has Amazing Storytelling | 26,722 |
 | This game is Extremely Fun | 26,656 |
-| This game has Amazing Storytelling | 26,528 |
 | This game has Amazing Characters | 26,429 |
 | This game is Relaxing | 26,416 |
 | This game is Educational | 26,350 |
@@ -381,4 +381,4 @@ Diff (max vs sum): -2
 | 2024-01-11 | 4.88 | - | 246,778 | 640,471 |
 | 2024-01-12 | 4.88 | - | 248,058 | 643,986 |
 | 2024-01-13 | 4.88 | - | 249,525 | 647,923 |
-| 2024-01-14 | 4.88 | - | 249,525 | 650,101 |
+| 2024-01-14 | 4.88 | - | 249,525 | 650,295 |

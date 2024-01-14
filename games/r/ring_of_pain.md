@@ -7,20 +7,21 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 2.00% | ~4,859 |
-| Nothing To Lose | 1.00% | ~2,429 |
-| Heavy Hitter | 1.00% | ~2,429 |
-| Getting A Glimpse | 1.00% | ~2,429 |
-| That Was Quick | 1.00% | ~2,429 |
-| Colorful Corpse | 1.00% | ~2,429 |
-| Defeat The Dark | 1.00% | ~2,429 |
-| Goodbye, Frog Friend | 1.00% | ~2,429 |
-| Heartless | 1.00% | ~2,429 |
-| A Donation | 1.00% | ~2,429 |
-| Deflection | 1.00% | ~2,429 |
-| A Quick Escape | 1.00% | ~2,429 |
-| Uncharted Territory | 1.00% | ~2,429 |
-| Explorer | 1.00% | ~2,429 |
-| An Offering | 1.00% | ~2,429 |
+| Nothing To Lose | 1.00% | ~2,430 |
+| Heavy Hitter | 1.00% | ~2,430 |
+| Getting A Glimpse | 1.00% | ~2,430 |
+| That Was Quick | 1.00% | ~2,430 |
+| Colorful Corpse | 1.00% | ~2,430 |
+| Defeat The Dark | 1.00% | ~2,430 |
+| Goodbye, Frog Friend | 1.00% | ~2,430 |
+| Heartless | 1.00% | ~2,430 |
+| Spine Breaker | 1.00% | ~2,430 |
+| A Donation | 1.00% | ~2,430 |
+| Deflection | 1.00% | ~2,430 |
+| A Quick Escape | 1.00% | ~2,430 |
+| Uncharted Territory | 1.00% | ~2,430 |
+| Explorer | 1.00% | ~2,430 |
+| An Offering | 1.00% | ~2,430 |
 | Not Touching You | 1.00% | ~44 |
 | Matching | 1.00% | ~44 |
 | Ambitious Intent | 0.90% | ~2,187 |
@@ -28,7 +29,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.90% | ~2,187 |
 | The Bestiary | 0.90% | ~2,187 |
 | What's Yours Is Mine | 0.90% | ~2,187 |
-| Spine Breaker | 0.90% | ~2,187 |
 | C-C-Combo | 0.90% | ~2,187 |
 | Sneaky | 0.90% | ~2,187 |
 | Dig Your Own Grave | 0.80% | ~1,944 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,949 (Ranked 74)  
+Progressed: 242,950 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 306 (0.13%) (Ranked 301)
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
-| 2024-01-14 | 242,949 | 306 |
+| 2024-01-14 | 242,950 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,796 (Ranked 89)  

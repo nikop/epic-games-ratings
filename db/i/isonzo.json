@@ -1081,9 +1081,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9936,
+  "EOS_Progressed": 9937,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11136,6 +11136,11 @@
       "Time": "2024-01-14T14:09:06.6378043+00:00",
       "NumProgressed": 9936,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T15:09:25.6149163+00:00",
+      "NumProgressed": 9937,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11339,7 +11344,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11499,14 +11504,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5067
+      "UsersEstimate": 5068
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9936,
+      "Progressed": 9937,
       "Completed": 10
     }
   ],
@@ -11514,8 +11519,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-13T17:58:42.7349748+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:06.6378039+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:25.6149114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:13.2276273+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:06.6379185+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:23.5308661+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:25.6149815+00:00"
 }

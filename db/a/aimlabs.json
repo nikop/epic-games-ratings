@@ -4,10 +4,10 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 428,
   "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2179,10 +2179,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 609,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-01-14T15:02:50.8887581+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 612,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 609,
+  "NumberOfAwards": 612,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2214,7 +2220,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 57
+      "Count": 59
     },
     {
       "Text": "This game is Educational",
@@ -2238,7 +2244,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2271,8 +2277,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-01-14T09:02:52.9016764+00:00",
+  "LastChanged": "2024-01-14T15:02:50.8887579+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:37.163895+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:02:45.3288372+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:27.1623685+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:02:50.8887584+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:04:36.1013027+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.26 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,017 |
+| Rigged And Ready | 78.00% | ~2,018 |
 | Don't I Know You...? | 75.00% | ~1,940 |
-| Jailbreak | 64.00% | ~1,655 |
+| Jailbreak | 64.00% | ~1,656 |
 | HEADSHOT! | 37.00% | ~957 |
 | Suited and Booted | 37.00% | ~957 |
-| Sleeping With The Fishes | 34.00% | ~879 |
+| Sleeping With The Fishes | 34.00% | ~880 |
 | High Performance | 30.00% | ~776 |
 | Overheated | 29.00% | ~750 |
 | Powered Up | 27.00% | ~698 |
@@ -21,9 +21,9 @@ Rating: 4.26 (Ranked 917)
 | It's a Trap | 21.00% | ~543 |
 | Offensive Defense | 20.00% | ~517 |
 | Shocking | 20.00% | ~517 |
-| Unforeseeable Consequences | 19.00% | ~491 |
-| Court Martial | 18.00% | ~465 |
-| Clean Cut | 18.00% | ~465 |
+| Unforeseeable Consequences | 19.00% | ~492 |
+| Court Martial | 18.00% | ~466 |
+| Clean Cut | 18.00% | ~466 |
 | Dead Again | 17.00% | ~440 |
 | Full Arsenal | 17.00% | ~440 |
 | Can't Trust Banks | 15.00% | ~388 |
@@ -33,8 +33,8 @@ Rating: 4.26 (Ranked 917)
 | Risk Tolerant | 13.00% | ~336 |
 | What A Catchy Song | 13.00% | ~336 |
 | Sorry, Didn't See You There | 12.00% | ~310 |
-| Corrupted Beauty | 11.00% | ~284 |
-| Marked For Success | 11.00% | ~284 |
+| Corrupted Beauty | 11.00% | ~285 |
+| Marked For Success | 11.00% | ~285 |
 | Stimulating The Local Economy | 10.00% | ~259 |
 | Triplets | 10.00% | ~259 |
 | Denying Prophecy | 9.00% | ~233 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 917)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,586 (Ranked 238)  
+Progressed: 2,587 (Ranked 238)  
 Completed: 13 (0.50%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 13 (0.50%) (Ranked 224)
 | 2024-01-11 | 2,570 | 13 |
 | 2024-01-12 | 2,577 | 13 |
 | 2024-01-13 | 2,585 | 13 |
-| 2024-01-14 | 2,586 | 13 |
+| 2024-01-14 | 2,587 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

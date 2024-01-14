@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24931,
+  "EOS_Progressed": 24932,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23393,6 +23393,11 @@
       "Time": "2024-01-14T14:05:18.8458886+00:00",
       "NumProgressed": 24931,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-14T15:05:27.7669723+00:00",
+      "NumProgressed": 24932,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23404,7 +23409,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19197
+      "UsersEstimate": 19198
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23468,7 +23473,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -23515,15 +23520,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24931,
+      "Progressed": 24932,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:05:18.8458881+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:27.766972+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:51.5942954+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:05:18.8460152+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:01.4647373+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:27.7670915+00:00"
 }

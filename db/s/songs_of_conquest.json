@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1186,
+  "EOS_Progressed": 1188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4107,6 +4107,11 @@
       "Time": "2024-01-14T13:12:31.5331723+00:00",
       "NumProgressed": 1186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T15:09:20.8108582+00:00",
+      "NumProgressed": 1188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4191,7 +4196,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ChainLightningKills",
@@ -4263,7 +4268,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4431,7 +4436,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "UltraKill",
@@ -4495,7 +4500,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -4503,7 +4508,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4550,15 +4555,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1186,
+      "Progressed": 1188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:01.7272611+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:20.810858+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:31.7064986+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:01.7273525+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:41.1702629+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:20.8109224+00:00"
 }

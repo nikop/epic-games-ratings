@@ -2,12 +2,12 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 509,
+  "Ranking_Rating": 510,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": null,
@@ -11410,8 +11410,8 @@
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
   "LastChanged": "2024-01-14T00:01:18.2412929+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:27.815598+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:04:36.7129719+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9474548+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:05:00.7210507+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:27.8156422+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:10.4467085+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:04:36.7130258+00:00"
 }

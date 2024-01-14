@@ -8,7 +8,7 @@
 | Chapter 1 | 43.00% | ~20 |
 | Chapter 2 | 38.00% | ~18 |
 | It's In My Nature | 38.00% | ~18 |
-| Chapter 3 | 34.00% | ~16 |
+| Chapter 3 | 36.00% | ~17 |
 | Your Days Are Numbered | 34.00% | ~16 |
 | Chapter 4 | 32.00% | ~15 |
 | All Materials | 32.00% | ~15 |
@@ -17,21 +17,21 @@
 | Best Student | 15.00% | ~7 |
 | Food Thief | 13.00% | ~6 |
 | Ads Fan | 11.00% | ~5 |
+| Highway Survival | 11.00% | ~5 |
 | Sugar Pills Lover | 11.00% | ~5 |
 | Hard To Wake Up | 11.00% | ~5 |
-| Highway Survival | 9.00% | ~4 |
+| Chipmunk | 9.00% | ~4 |
 | Tramp Saver | 9.00% | ~4 |
 | Bear Cop | 6.00% | ~3 |
-| Chipmunk | 6.00% | ~3 |
 | Secret Locker | 6.00% | ~3 |
 | Paw Music | 6.00% | ~3 |
+| Master of Mattresses | 2.00% | ~1 |
 | Main Endings | 2.00% | ~1 |
+| Pushy, pushy | 2.00% | ~1 |
 | Summary Filled | 2.00% | ~1 |
+| The World Is My Doormat | 2.00% | ~1 |
 | Toilets Tormentor | 2.00% | ~1 |
-| Master of Mattresses | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
-| Pushy, pushy | 0.00% | ~0 |
-| The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 47 (Ranked 570)  

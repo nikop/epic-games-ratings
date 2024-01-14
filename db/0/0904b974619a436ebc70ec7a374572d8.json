@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach_picklock16",
@@ -643,8 +643,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:36.041105+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:57.9939725+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:41.0007701+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:51.7128962+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:36.0411211+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:01.0969282+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:57.9939945+00:00"
 }

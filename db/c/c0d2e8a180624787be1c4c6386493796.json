@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 320,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1542,9 +1542,9 @@
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
       "SetID": "caeik3h",
       "Name": "Gotta Go Fast",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 291
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
@@ -1830,9 +1830,9 @@
       "ID": "KR4_ACHIEVEMENT_LINIREA",
       "SetID": "caeik3h",
       "Name": "Rightful Owner",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
@@ -2101,8 +2101,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:56.6596858+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:05.8269558+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:24.5340916+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:56.6597654+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:35.4010973+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:05.827024+00:00"
 }

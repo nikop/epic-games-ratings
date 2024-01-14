@@ -5,35 +5,35 @@ Rating: 4.20 (Ranked 967)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,050 |
-| Battlefields Have Memories | 81.00% | ~2,776 |
-| Enlisted | 75.00% | ~2,570 |
-| Maybe Engage a Little | 70.00% | ~2,399 |
-| No More Names | 53.00% | ~1,816 |
-| Initiate | 40.00% | ~1,371 |
-| Thrada-Kul | 36.00% | ~1,234 |
-| Gravity-Challenged Rocks | 30.00% | ~1,028 |
-| Socialite | 25.00% | ~857 |
-| Soldier | 25.00% | ~857 |
-| All the Major Food Groups | 25.00% | ~857 |
-| Beggars Would Ride | 23.00% | ~788 |
+| Unforeseen | 89.00% | ~3,053 |
+| Battlefields Have Memories | 81.00% | ~2,778 |
+| Enlisted | 75.00% | ~2,572 |
+| Maybe Engage a Little | 70.00% | ~2,401 |
+| No More Names | 53.00% | ~1,818 |
+| Initiate | 40.00% | ~1,372 |
+| Thrada-Kul | 36.00% | ~1,235 |
+| Gravity-Challenged Rocks | 30.00% | ~1,029 |
+| Socialite | 25.00% | ~858 |
+| Soldier | 25.00% | ~858 |
+| All the Major Food Groups | 25.00% | ~858 |
+| Beggars Would Ride | 23.00% | ~789 |
 | Control is an Illusion | 21.00% | ~720 |
-| The Means to Save It | 19.00% | ~651 |
+| The Means to Save It | 19.00% | ~652 |
 | Resilience to Sin | 17.00% | ~583 |
 | A Familiar Nest | 17.00% | ~583 |
 | Periapt Alizarin | 17.00% | ~583 |
-| Geas Aristeya | 16.00% | ~548 |
+| Geas Aristeya | 16.00% | ~549 |
 | A Perfect Cycle | 15.00% | ~514 |
 | Recruit | 14.00% | ~480 |
-| Armsman | 12.00% | ~411 |
+| Armsman | 12.00% | ~412 |
 | Lights Army | 10.00% | ~343 |
-| Periapt Cerulean | 9.00% | ~308 |
+| Periapt Cerulean | 9.00% | ~309 |
 | Good Boy | 8.00% | ~274 |
 | Periapt Viridian | 7.00% | ~240 |
 | Best Dressed | 6.00% | ~206 |
 | Shroudfane Explorer | 6.00% | ~206 |
-| Kitted Out | 5.00% | ~171 |
-| Armaments Gules | 5.00% | ~171 |
+| Kitted Out | 5.00% | ~172 |
+| Armaments Gules | 5.00% | ~172 |
 | Scholar | 4.00% | ~137 |
 | Armaments Azure | 4.00% | ~137 |
 | Armaments Vert | 4.00% | ~137 |
@@ -49,11 +49,11 @@ Rating: 4.20 (Ranked 967)
 | Diplomat | 0.60% | ~21 |
 | Petite Bourgeoisie | 0.60% | ~21 |
 | Master of Malachite | 0.60% | ~21 |
-| Treasure Hunter | 0.40% | ~14 |
+| Treasure Hunter | 0.50% | ~17 |
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,427 (Ranked 229)  
+Progressed: 3,430 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 4 (0.12%) (Ranked 306)
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
-| 2024-01-14 | 3,427 | 4 |
+| 2024-01-14 | 3,430 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

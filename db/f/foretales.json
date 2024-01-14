@@ -459,9 +459,9 @@
       "ID": "objection",
       "SetID": "5bkacmp",
       "Name": "The pelican brief",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "oneShotBlade",
@@ -571,9 +571,9 @@
       "ID": "thePirate",
       "SetID": "5bkacmp",
       "Name": "Pieces of eight!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "thePolitician",
@@ -636,8 +636,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:07:47.9750074+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:06:26.356439+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.1478942+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:24.3924704+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:07:47.9750419+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:34.4267613+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:06:26.3564712+00:00"
 }

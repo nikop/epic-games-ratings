@@ -4,7 +4,7 @@
   "ProductSlug": "dizzy-fight-7bbfe7",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -82,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-06T19:06:36.7126557+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:08:21.3617948+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:08:39.693174+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.3592653+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:10.3609912+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:08:21.361801+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:20.6146264+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:08:39.693178+00:00"
 }

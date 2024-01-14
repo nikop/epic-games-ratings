@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,071 |
-| Lost and Found | 9.00% | ~688 |
-| Autodidact | 8.00% | ~10,622 |
+| Lost and Found | 9.00% | ~689 |
+| Autodidact | 8.00% | ~10,623 |
 | This Belongs in a Museum | 7.00% | ~9,295 |
 | This guy... again? | 7.00% | ~536 |
 | Serenity Now! | 6.00% | ~7,967 |
@@ -41,18 +41,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Nope | 4.00% | ~5,311 |
 | Unshackled | 4.00% | ~5,311 |
 | Friends 'Til the End | 4.00% | ~306 |
-| Resurrection | 3.00% | ~3,983 |
-| Funny Guy | 3.00% | ~3,983 |
-| Wyrdly Reconstructed | 3.00% | ~3,983 |
-| Boxcar Kid | 3.00% | ~3,983 |
-| Hope Rekindled | 3.00% | ~3,983 |
-| Predator | 3.00% | ~3,983 |
-| Deprogramming | 3.00% | ~3,983 |
-| Reverse Banditry | 3.00% | ~3,983 |
-| A Clear Conscience | 3.00% | ~3,983 |
-| When You Want Something Done Right | 3.00% | ~3,983 |
-| Utopia | 3.00% | ~3,983 |
-| Road Trip | 3.00% | ~3,983 |
+| Resurrection | 3.00% | ~3,984 |
+| Funny Guy | 3.00% | ~3,984 |
+| Wyrdly Reconstructed | 3.00% | ~3,984 |
+| Boxcar Kid | 3.00% | ~3,984 |
+| Hope Rekindled | 3.00% | ~3,984 |
+| Predator | 3.00% | ~3,984 |
+| Deprogramming | 3.00% | ~3,984 |
+| Reverse Banditry | 3.00% | ~3,984 |
+| A Clear Conscience | 3.00% | ~3,984 |
+| When You Want Something Done Right | 3.00% | ~3,984 |
+| Utopia | 3.00% | ~3,984 |
+| Road Trip | 3.00% | ~3,984 |
 | This Looks Familiar | 2.00% | ~2,656 |
 | Ichthyophobic | 2.00% | ~2,656 |
 | No More Mouths to Feed | 2.00% | ~2,656 |
@@ -65,9 +65,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,328 |
 | Triage | 1.00% | ~1,328 |
 | Body of Work | 1.00% | ~1,328 |
-| No Mercy | 1.00% | ~76 |
-| Slap on the Wrist | 1.00% | ~76 |
-| For Old Time' Sake | 1.00% | ~76 |
+| No Mercy | 1.00% | ~77 |
+| Slap on the Wrist | 1.00% | ~77 |
+| For Old Time' Sake | 1.00% | ~77 |
 | Et Tu, Riposte? | 0.90% | ~69 |
 | The World As It Was | 0.70% | ~929 |
 | A Life Well Lived | 0.60% | ~797 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,781 (Ranked 92)  
+Progressed: 132,784 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,781 | 4 |
+| 2024-01-14 | 132,784 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,642 (Ranked 58)  

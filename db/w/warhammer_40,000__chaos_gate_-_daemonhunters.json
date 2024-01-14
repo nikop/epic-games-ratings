@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -851,7 +851,7 @@
   ],
   "EOS_Progressed": 3894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6183,9 +6183,9 @@
       "ID": "Kills_Exterminator",
       "SetID": "3jha1np",
       "Name": "Exterminator",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 78
     },
     {
       "ID": "Kills_FriendlyFire",
@@ -6541,8 +6541,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-13T23:04:24.9457302+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:03:47.7561051+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:03:56.8800459+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:03:05.8242359+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:03:47.7561667+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:03:12.5224311+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:03:56.8801144+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "2f0ada8893114e90910b83b554e5e9e7",
   "Name": "LOOPMANCER",
   "ProductSlug": "loopmancer",
-  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 527,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -582,6 +582,11 @@
       "Time": "2024-01-14T14:09:20.3876823+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T15:09:41.8298913+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -591,23 +596,23 @@
       "ID": "ACH_AVOID_BIGGUY",
       "SetID": "6d82akp",
       "Name": "Break no Sweat",
-      "Percentage": 110,
+      "Percentage": 108,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_AVOID_PLAZA_ATTACK",
       "SetID": "6d82akp",
       "Name": "Excellent Driving Skills",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_AVOID_SNIPER",
       "SetID": "6d82akp",
       "Name": "Black Cat\u0027s Warning",
-      "Percentage": 114,
+      "Percentage": 113,
       "XP": 5,
       "UsersEstimate": 120
     },
@@ -639,7 +644,7 @@
       "ID": "ACH_DEFEAT_TIANWU_TPSN",
       "SetID": "6d82akp",
       "Name": "Defeat the AI",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -663,7 +668,7 @@
       "ID": "ACH_DIE_FOR_LIGHTING",
       "SetID": "6d82akp",
       "Name": "Terrible Weather",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -687,9 +692,9 @@
       "ID": "ACH_ENDING_MILLIONS_PEOPLE",
       "SetID": "6d82akp",
       "Name": "Calamity",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENDING_PRISON",
@@ -743,7 +748,7 @@
       "ID": "ACH_FLAPPYSEDAN_SCORE",
       "SetID": "6d82akp",
       "Name": "Pro Gamer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -783,7 +788,7 @@
       "ID": "ACH_KILL_MANY_LONGXIGUY",
       "SetID": "6d82akp",
       "Name": "King of the Streets",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -815,7 +820,7 @@
       "ID": "ACH_LISTEN_TO_CLASSIC_MUSIC",
       "SetID": "6d82akp",
       "Name": "Heavenly Music",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -831,7 +836,7 @@
       "ID": "ACH_MEOW_MANY_TIMES",
       "SetID": "6d82akp",
       "Name": "Cat Lover",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -863,7 +868,7 @@
       "ID": "ACH_PASS_PREFACE_ON_ROOF",
       "SetID": "6d82akp",
       "Name": "Unavoidable",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 71
     },
@@ -879,7 +884,7 @@
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -887,7 +892,7 @@
       "ID": "ACH_SAVE_LIZBETH_WIFE",
       "SetID": "6d82akp",
       "Name": "Invincible",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -911,7 +916,7 @@
       "ID": "ACH_UNLOCK_ALL_ANECDOTES",
       "SetID": "6d82akp",
       "Name": "Story King",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -919,7 +924,7 @@
       "ID": "ACH_UNLOCK_ALL_CHIPSKILL",
       "SetID": "6d82akp",
       "Name": "Omni-compatibility",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -935,7 +940,7 @@
       "ID": "ACH_UNLOCK_ALL_GUN",
       "SetID": "6d82akp",
       "Name": "Arms Expert",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -959,7 +964,7 @@
       "ID": "ACH_UNLOCK_ALL_MELEEWEAPON",
       "SetID": "6d82akp",
       "Name": "Weapon Expert",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -967,7 +972,7 @@
       "ID": "ACH_UNLOCK_ALL_SKILL",
       "SetID": "6d82akp",
       "Name": "Survival Expert",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -975,7 +980,7 @@
       "ID": "ACH_UNLOCK_ALL_TECHGEAR",
       "SetID": "6d82akp",
       "Name": "Win by Surprise",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -983,7 +988,7 @@
       "ID": "ACH_UNLOCK_ALL_XZX_DIRAY",
       "SetID": "6d82akp",
       "Name": "Thoughts",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -991,7 +996,7 @@
       "ID": "ACH_UNLOCK_CHARGE_ACTOR",
       "SetID": "6d82akp",
       "Name": "Every little bit counts",
-      "Percentage": 103,
+      "Percentage": 102,
       "XP": 5,
       "UsersEstimate": 108
     },
@@ -999,7 +1004,7 @@
       "ID": "ACH_UNLOCK_MANY_CARDS",
       "SetID": "6d82akp",
       "Name": "Memento",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -1007,7 +1012,7 @@
       "ID": "ACH_UNLOCK_SKILL",
       "SetID": "6d82akp",
       "Name": "Growth",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
       "UsersEstimate": 91
     },
@@ -1015,7 +1020,7 @@
       "ID": "ACH_UNPLUG_EBRAIN",
       "SetID": "6d82akp",
       "Name": "Revenge",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
       "UsersEstimate": 67
     },
@@ -1048,7 +1053,7 @@
     {
       "ID": "6d82akp",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -1056,8 +1061,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:20.3876818+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:41.8298912+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.0139311+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:02:33.9400905+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:20.3877277+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:02:40.0851022+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:41.8299288+00:00"
 }

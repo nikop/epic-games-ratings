@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1010,
   "Ranking_Popularity": 393,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 181,
@@ -1689,9 +1689,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 10579,
+  "EOS_Progressed": 10580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1413,
+  "EOS_NewPlayers": 1407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11414,6 +11414,11 @@
       "Time": "2024-01-14T14:04:40.3311321+00:00",
       "NumProgressed": 10579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T15:04:49.4089784+00:00",
+      "NumProgressed": 10580,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11434,7 +11439,7 @@
       "Name": "Stud Finder",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "achievement_11",
@@ -11466,7 +11471,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "achievement_15",
@@ -11593,7 +11598,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10579,
+      "Progressed": 10580,
       "Completed": 0
     }
   ],
@@ -11601,8 +11606,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-14T13:59:48.2128711+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:40.3311318+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:04:49.408978+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:48.2128716+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:40.3312069+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:54.3306171+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:04:49.4090217+00:00"
 }

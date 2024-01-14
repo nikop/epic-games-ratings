@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2950,
+  "EOS_Progressed": 2952,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7994,6 +7994,11 @@
       "Time": "2024-01-14T14:09:48.0831582+00:00",
       "NumProgressed": 2950,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T15:10:09.5015298+00:00",
+      "NumProgressed": 2952,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8102,7 +8107,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_21",
@@ -8214,7 +8219,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_34",
@@ -8230,7 +8235,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2539
     },
     {
       "ID": "achievement_36",
@@ -8246,7 +8251,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "achievement_38",
@@ -8278,7 +8283,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "achievement_41",
@@ -8326,7 +8331,7 @@
       "Name": "Patience you must have",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_47",
@@ -8446,7 +8451,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "achievement_60",
@@ -8509,13 +8514,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2950,
+      "Progressed": 2952,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2950,
+      "Progressed": 2952,
       "Completed": 1
     }
   ],
@@ -8523,8 +8528,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:48.0831579+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:10:09.5015296+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:05.9478456+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:48.0832557+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:14.0775468+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:10:09.5016081+00:00"
 }

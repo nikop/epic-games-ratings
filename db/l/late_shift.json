@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 1089,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
@@ -3160,9 +3160,9 @@
       "ID": "GOOD_KARMA",
       "SetID": "8eejhlh",
       "Name": "Good Karma",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 305
+      "UsersEstimate": 316
     },
     {
       "ID": "INTERROGATION",
@@ -3233,8 +3233,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:17.3686871+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:38.7316149+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:31.8680119+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:17.3687152+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:41.2959709+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:38.7316453+00:00"
 }

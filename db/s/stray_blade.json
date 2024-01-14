@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -804,6 +804,11 @@
       "Time": "2024-01-13T16:10:44.7229346+00:00",
       "NumProgressed": 164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T15:10:03.3808525+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -853,9 +858,9 @@
       "ID": "ACH_CRAFT_FIRST_WEAPON",
       "SetID": "7i20me3",
       "Name": "Tinkerer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_DEFEAT_BOSS_INGLA",
@@ -893,17 +898,17 @@
       "ID": "ACH_DEFEAT_FIRST_ENEMY",
       "SetID": "7i20me3",
       "Name": "Self-Defence",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_ENTER_REGION_BEAR",
       "SetID": "7i20me3",
       "Name": "Freezing Cold",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_ENTER_REGION_LIZARD",
@@ -925,9 +930,9 @@
       "ID": "ACH_EQUIP_MAX_RUNES_AT_ONCE",
       "SetID": "7i20me3",
       "Name": "Locked and Loaded",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
@@ -1135,7 +1140,7 @@
       "Name": "Apprentice",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_SKILLTREE_PROGRESSION_100",
@@ -1230,13 +1235,13 @@
     {
       "ID": "7i20me3",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 0
     },
     {
       "ID": "doc1i1",
       "IsBase": false,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 117
     }
   ],
@@ -1244,8 +1249,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:41.8854192+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:10:03.3808523+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:36.1035402+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:02:34.6427322+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:41.8854553+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:02:40.8058927+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:10:03.3808891+00:00"
 }

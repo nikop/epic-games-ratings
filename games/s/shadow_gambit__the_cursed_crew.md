@@ -15,7 +15,7 @@ Rating: 4.81 (Ranked 83)
 | Mirror Mirror on the Wall | 26.00% | ~399 |
 | Powder Monkey | 26.00% | ~399 |
 | Pirates Assemble! | 24.00% | ~368 |
-| Buccaneer | 20.00% | ~307 |
+| Buccaneer | 21.00% | ~322 |
 | Fishy Fish | 20.00% | ~307 |
 | All Good Things | 18.00% | ~276 |
 | Persistent Parasite | 17.00% | ~261 |

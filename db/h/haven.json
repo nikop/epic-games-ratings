@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1990,
+  "EOS_Progressed": 1991,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3689,6 +3689,11 @@
       "Time": "2024-01-14T14:05:48.918165+00:00",
       "NumProgressed": 1990,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T15:05:58.5537231+00:00",
+      "NumProgressed": 1991,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3698,9 +3703,9 @@
       "ID": "1",
       "SetID": "n50no0",
       "Name": "Lovebirds",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 816
     },
     {
       "ID": "10",
@@ -3716,7 +3721,7 @@
       "Name": "Strike!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "12",
@@ -3756,7 +3761,7 @@
       "Name": "My little pony",
       "Percentage": 16,
       "XP": 70,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "17",
@@ -3764,7 +3769,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "18",
@@ -3852,7 +3857,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "3",
@@ -3860,7 +3865,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "30",
@@ -3908,7 +3913,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "7",
@@ -3939,15 +3944,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1990,
+      "Progressed": 1991,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:05:48.9181647+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:58.5537228+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:30.4358684+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:05:48.9181994+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:39.6045946+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:58.5537637+00:00"
 }

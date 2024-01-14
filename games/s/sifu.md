@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,640 |
-| Life is your teacher | 5.00% | ~38,034 |
-| Lightning Hands | 5.00% | ~38,034 |
-| The Assault | 4.00% | ~30,427 |
-| The Hateful Pole Fighter | 3.00% | ~22,820 |
-| Stuntmaster | 3.00% | ~22,820 |
-| Street Fighting | 3.00% | ~22,820 |
-| State of constant learning | 3.00% | ~22,820 |
-| Qi Gong: Essence | 3.00% | ~22,820 |
-| Old Child | 3.00% | ~22,820 |
+| The Old Grandmaster | 6.00% | ~45,642 |
+| Life is your teacher | 5.00% | ~38,035 |
+| Lightning Hands | 5.00% | ~38,035 |
+| The Assault | 4.00% | ~30,428 |
+| The Hateful Pole Fighter | 3.00% | ~22,821 |
+| Stuntmaster | 3.00% | ~22,821 |
+| Street Fighting | 3.00% | ~22,821 |
+| State of constant learning | 3.00% | ~22,821 |
+| Qi Gong: Essence | 3.00% | ~22,821 |
+| Old Child | 3.00% | ~22,821 |
 | A Lady's Blood in the Snow | 2.00% | ~15,214 |
 | Lady Wing Chun | 2.00% | ~15,214 |
 | Furious Fists | 2.00% | ~15,214 |
@@ -40,9 +40,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.60% | ~4,564 |
 | Bloody Sport | 0.60% | ~420 |
 | Martial Hub | 0.60% | ~420 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,803 |
-| Prodigal Child | 0.50% | ~3,803 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,803 |
+| Legendary Talismans of Wuxing | 0.50% | ~3,804 |
+| Prodigal Child | 0.50% | ~3,804 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,804 |
 | The Pit Protector | 0.40% | ~3,043 |
 | Come Snap With Me | 0.40% | ~3,043 |
 | The best strikes are the ones we avoid | 0.40% | ~280 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,675 (Ranked 26)  
+Progressed: 760,706 (Ranked 26)  
 Completed: 12,988 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,14 +336,14 @@ Completed: 12,988 (1.71%) (Ranked 146)
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
-| 2024-01-14 | 760,675 | 12,988 |
+| 2024-01-14 | 760,706 | 12,988 |
 ## Awards
-Max (Great Boss Battles): 7,194  (Ranked 57)  
-Sum: 12,737 (Ranked 85)  
+Max (Great Boss Battles): 7,205  (Ranked 57)  
+Sum: 12,749 (Ranked 85)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,194 |
+| This game has Great Boss Battles | 7,205 |
 | This game has Diverse Characters | 702 |
 | This game has Challenging Combat | 648 |
 | This game has Amazing Storytelling | 622 |
@@ -352,7 +352,7 @@ Diff (max vs sum): -28
 | This game has Quickly Understood Controls | 601 |
 | This game is Extremely Fun | 590 |
 | This game has Unique Visuals | 588 |
-| This game is Relaxing | 564 |
+| This game is Relaxing | 565 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
@@ -719,4 +719,4 @@ Diff (max vs sum): -28
 | 2024-01-11 | 4.82 | - | 7,171 | 12,693 |
 | 2024-01-12 | 4.82 | - | 7,179 | 12,710 |
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
-| 2024-01-14 | 4.82 | - | 7,194 | 12,737 |
+| 2024-01-14 | 4.82 | - | 7,205 | 12,749 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 516,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
@@ -1994,6 +1994,11 @@
       "Time": "2024-01-14T09:06:09.7367595+00:00",
       "NumProgressed": 514,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T15:06:15.3237673+00:00",
+      "NumProgressed": 516,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2078,7 +2083,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "AC_BOSS_01",
@@ -2086,7 +2091,7 @@
       "Name": "Misery",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AC_BOSS_02",
@@ -2094,7 +2099,7 @@
       "Name": "Downfall",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "AC_BOSS_03",
@@ -2110,7 +2115,7 @@
       "Name": "Heresy",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "AC_COMBO_1",
@@ -2118,7 +2123,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "AC_COMBO_2",
@@ -2148,9 +2153,9 @@
       "ID": "AC_DEATH_1",
       "SetID": "16i2akc",
       "Name": "Corpse",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 181
     },
     {
       "ID": "AC_DEATH_2",
@@ -2172,9 +2177,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 258
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2182,7 +2187,7 @@
       "Name": "Psycopath",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2198,7 +2203,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 408
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2206,7 +2211,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2214,7 +2219,7 @@
       "Name": "Voyage",
       "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2222,7 +2227,7 @@
       "Name": "Player",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2230,7 +2235,7 @@
       "Name": "Creation",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2292,9 +2297,9 @@
       "ID": "AC_RECIPES_DONE_2",
       "SetID": "16i2akc",
       "Name": "Cheff",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -2324,9 +2329,9 @@
       "ID": "AC_SNIPER_MAX",
       "SetID": "16i2akc",
       "Name": "Crosshair",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 15
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2341,14 +2346,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 516,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:06:05.9795347+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:06:15.3237671+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:02.6184471+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:06:05.9795698+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:12.8122899+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:06:15.3238018+00:00"
 }

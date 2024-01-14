@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235379,
+  "EOS_Progressed": 235380,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27725,6 +27725,11 @@
       "Time": "2024-01-14T14:09:08.3850299+00:00",
       "NumProgressed": 235379,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T15:09:28.4178444+00:00",
+      "NumProgressed": 235380,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -27800,7 +27805,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84736
+      "UsersEstimate": 84737
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -27944,7 +27949,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40014
+      "UsersEstimate": 40015
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -27959,7 +27964,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235379,
+      "Progressed": 235380,
       "Completed": 6
     }
   ],
@@ -27967,8 +27972,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:08.3850297+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:28.4178442+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:30.3118718+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:08.3851814+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:39.4726212+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:28.4179971+00:00"
 }

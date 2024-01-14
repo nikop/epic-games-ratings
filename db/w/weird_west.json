@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2065,
+  "EOS_Progressed": 2066,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -3067,6 +3067,11 @@
       "Time": "2024-01-13T21:04:46.1015314+00:00",
       "NumProgressed": 2065,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-14T15:05:08.3734307+00:00",
+      "NumProgressed": 2066,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -3110,7 +3115,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -3142,7 +3147,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -3150,7 +3155,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -3198,7 +3203,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -3230,7 +3235,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -3318,7 +3323,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_PERKY",
@@ -3326,7 +3331,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3374,7 +3379,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3390,7 +3395,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -3422,7 +3427,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -3446,7 +3451,7 @@
       "Name": "Turning the Tables",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -3454,7 +3459,7 @@
       "Name": "Unforgiven",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3462,7 +3467,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3486,7 +3491,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -3494,22 +3499,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 2065,
+      "Progressed": 2066,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:59.471213+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:08.3734305+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:39.6582553+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:40.8886874+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:59.4712635+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:50.4614655+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:08.3734925+00:00"
 }

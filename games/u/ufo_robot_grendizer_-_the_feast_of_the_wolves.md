@@ -10,7 +10,7 @@
 | Strength in Defeat | 49.00% | ~40 |
 | Escape from Fleed | 43.00% | ~35 |
 | First Contact | 39.00% | ~32 |
-| The Exterminator | 23.00% | ~19 |
+| The Exterminator | 24.00% | ~20 |
 | Earth's Savior | 20.00% | ~16 |
 | Technology first! | 18.00% | ~15 |
 | The Keeper of Fleed | 10.00% | ~8 |

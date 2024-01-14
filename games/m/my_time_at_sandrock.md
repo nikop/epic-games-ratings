@@ -8,7 +8,7 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 211.00% | ~1,910 |
 | Super Spelunker | 155.00% | ~1,403 |
-| Iron Chef | 144.00% | ~1,303 |
+| Iron Chef | 145.00% | ~1,312 |
 | Officially Official | 127.00% | ~1,149 |
 | The Little Wood that Could | 123.00% | ~1,113 |
 | On that Grindset | 119.00% | ~1,077 |
@@ -20,7 +20,7 @@ Number of Ratings: 892  (23.09.2022)
 | Pack Mule | 96.00% | ~869 |
 | Diamonds are Forever | 96.00% | ~869 |
 | Mole Masher | 95.00% | ~860 |
-| Financially Secure | 93.00% | ~842 |
+| Financially Secure | 94.00% | ~851 |
 | Your Especially Earned Trajectory | 93.00% | ~842 |
 | Big Game Hunter | 89.00% | ~805 |
 | Unboxing | 87.00% | ~787 |
@@ -28,22 +28,22 @@ Number of Ratings: 892  (23.09.2022)
 | Yakmel Whisperer | 83.00% | ~751 |
 | Panda-kin | 82.00% | ~742 |
 | Chatterbox | 81.00% | ~733 |
+| No Mountain Wide Enough | 79.00% | ~715 |
 | First Love | 79.00% | ~715 |
 | I Do! | 79.00% | ~715 |
-| No Mountain Wide Enough | 78.00% | ~706 |
 | Builder of the Month | 76.00% | ~688 |
 | Can We Keep It? | 75.00% | ~679 |
-| Bridging the Gap | 73.00% | ~661 |
+| Bridging the Gap | 74.00% | ~670 |
 | Waste Not Want Not | 71.00% | ~643 |
 | Commissions, commissions...! | 69.00% | ~624 |
 | Elementary, My Dear | 69.00% | ~624 |
 | Got the Flow Back | 69.00% | ~624 |
 | Lifeline Pipeline | 64.00% | ~579 |
 | Sepia Toned Memories | 60.00% | ~543 |
+| Who Ya Gonna Call...? | 60.00% | ~543 |
 | Martle's Dream | 59.00% | ~534 |
 | Anti-Santa | 59.00% | ~534 |
-| Who Ya Gonna Call...? | 59.00% | ~534 |
-| You Don't Win Friends With Salad | 58.00% | ~525 |
+| You Don't Win Friends With Salad | 59.00% | ~534 |
 | Happier-est Place on Earth | 57.00% | ~516 |
 | Time Flies | 56.00% | ~507 |
 | Call Me Fishmael | 55.00% | ~498 |
@@ -55,8 +55,8 @@ Number of Ratings: 892  (23.09.2022)
 | Santa In Training | 44.00% | ~398 |
 | My Time Mansion | 42.00% | ~380 |
 | He Can Spin A Yarn... | 41.00% | ~371 |
-| Do Your Part | 39.00% | ~353 |
-| It Belongs in a Museum! | 38.00% | ~344 |
+| Do Your Part | 40.00% | ~362 |
+| It Belongs in a Museum! | 39.00% | ~353 |
 | Newton | 37.00% | ~335 |
 | Pro Gamer | 35.00% | ~317 |
 | Cardistry | 29.00% | ~262 |

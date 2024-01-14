@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242949,
+  "EOS_Progressed": 242950,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 399,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31801,6 +31801,11 @@
       "Time": "2024-01-14T14:09:50.4559431+00:00",
       "NumProgressed": 242949,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T15:10:11.8888727+00:00",
+      "NumProgressed": 242950,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31852,7 +31857,7 @@
       "Name": "Nothing To Lose",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "CURSEDPOTIONS",
@@ -31892,7 +31897,7 @@
       "Name": "Heavy Hitter",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "DEAL99DAMAGE",
@@ -31932,7 +31937,7 @@
       "Name": "Getting A Glimpse",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "DEPTH6NOPOTIONS",
@@ -31988,7 +31993,7 @@
       "Name": "That Was Quick",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "DIERAINBOWSOCKS",
@@ -31996,7 +32001,7 @@
       "Name": "Colorful Corpse",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -32212,7 +32217,7 @@
       "Name": "Defeat The Dark",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "KILL1000",
@@ -32300,7 +32305,7 @@
       "Name": "Goodbye, Frog Friend",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "KILLNICEDOG",
@@ -32308,7 +32313,7 @@
       "Name": "Heartless",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "KILLPARANOIA",
@@ -32338,9 +32343,9 @@
       "ID": "KILLSPINEDSPINEBACK",
       "SetID": "5l8oe0h",
       "Name": "Spine Breaker",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2430
     },
     {
       "ID": "KILLSPITTER",
@@ -32396,7 +32401,7 @@
       "Name": "A Donation",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "MULTEXPLOSIONS",
@@ -32444,7 +32449,7 @@
       "Name": "Deflection",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "PASSIVEDEPTH6",
@@ -32460,7 +32465,7 @@
       "Name": "A Quick Escape",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "PETRIFY50",
@@ -32556,7 +32561,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "SPECIALROOMS10",
@@ -32564,7 +32569,7 @@
       "Name": "Explorer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "SPEEDRUN10",
@@ -32628,7 +32633,7 @@
       "Name": "An Offering",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "VISIT35DUNGEONS",
@@ -32915,13 +32920,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242949,
+      "Progressed": 242950,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4429,
+      "Progressed": 4430,
       "Completed": 425
     }
   ],
@@ -32929,8 +32934,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:50.4559427+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:10:11.8888725+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:00:06.0029645+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:50.4563653+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:00:13.2287043+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:10:11.8891244+00:00"
 }

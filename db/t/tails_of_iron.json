@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 493,
+  "Ranking_Rating": 494,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 411,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4455,9 +4455,9 @@
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "CompleteElderFaction",
@@ -4575,9 +4575,9 @@
       "ID": "MeetTheMoles",
       "SetID": "9lj35g4",
       "Name": "Meet the Creatures from the Deep",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "MysteryKingsChamber",
@@ -4623,9 +4623,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 46
     },
     {
       "ID": "DefeatCroakhisKhan",
@@ -4694,8 +4694,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:03:47.2323918+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:03:56.4688109+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:04.2510179+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:03:47.2324341+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:14.5586037+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:03:56.468846+00:00"
 }

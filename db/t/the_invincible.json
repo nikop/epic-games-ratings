@@ -2,7 +2,7 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 528,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 265,
@@ -111,7 +111,7 @@
   "Tags": [],
   "EOS_Progressed": 1692,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4671,9 +4671,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 660
     },
     {
       "ID": "AchvSurvivors",
@@ -4720,8 +4720,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-12T16:59:53.3564711+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:18.1539468+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:39.6091356+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:00:01.5531489+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:18.1539888+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:00:07.663443+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:39.609183+00:00"
 }

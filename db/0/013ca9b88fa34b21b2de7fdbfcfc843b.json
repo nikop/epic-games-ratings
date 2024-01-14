@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9057,
+  "EOS_Progressed": 9058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10213,6 +10213,11 @@
       "Time": "2024-01-14T14:09:43.239274+00:00",
       "NumProgressed": 9057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T15:10:04.7258607+00:00",
+      "NumProgressed": 9058,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10375,9 +10380,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 453
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -10561,20 +10566,20 @@
       "Name": "Exit Through The Gift Shop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9057,
+      "Progressed": 9058,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1674,
+      "Progressed": 1675,
       "Completed": 1050
     }
   ],
@@ -10582,8 +10587,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:43.2392736+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:10:04.7258605+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:03:09.9693584+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:43.2393568+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:03:16.8513833+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:10:04.7259655+00:00"
 }

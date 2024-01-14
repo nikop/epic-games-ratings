@@ -13,11 +13,11 @@ Number of Ratings: 76  (23.09.2022)
 | Sweet Victory | 13.00% | ~132 |
 | Sock Getter | 13.00% | ~132 |
 | Time For Tutorial | 13.00% | ~132 |
-| Super Spatula Seeker | 12.00% | ~121 |
-| Star Smasher | 12.00% | ~121 |
-| Uptown and Downtown | 11.00% | ~111 |
-| Squirrel Smasher | 11.00% | ~111 |
-| Surf's Up! | 11.00% | ~111 |
+| Super Spatula Seeker | 12.00% | ~122 |
+| Star Smasher | 12.00% | ~122 |
+| Surf's Up! | 12.00% | ~122 |
+| Uptown and Downtown | 11.00% | ~112 |
+| Squirrel Smasher | 11.00% | ~112 |
 | Life's as extreme as you wanna make it! | 9.00% | ~91 |
 | Toxic Terror | 9.00% | ~91 |
 | Shrimp Catcher | 8.00% | ~81 |
@@ -27,19 +27,19 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 7.00% | ~71 |
 | Ultra Spatula Seeker | 7.00% | ~71 |
 | Robot encyclopedia | 6.00% | ~61 |
+| The Small Does Not Rule | 5.00% | ~51 |
 | Ship Shape | 5.00% | ~51 |
 | Shanghaied | 5.00% | ~51 |
 | Kelp Forest of Fear | 5.00% | ~51 |
-| The Small Does Not Rule | 4.00% | ~40 |
-| SpongeBob vs SpongeBob! | 4.00% | ~40 |
-| Sleepy Time | 4.00% | ~40 |
-| Sock Concert | 4.00% | ~40 |
-| Mega Spatula Seeker | 4.00% | ~40 |
+| SpongeBob vs SpongeBob! | 5.00% | ~51 |
+| Sleepy Time | 4.00% | ~41 |
+| Sock Concert | 4.00% | ~41 |
+| Mega Spatula Seeker | 4.00% | ~41 |
 | 100% SpongeBob | 1.00% | ~10 |
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,012 (Ranked 297)  
+Progressed: 1,014 (Ranked 297)  
 Completed: 8 (0.79%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 8 (0.79%) (Ranked 194)
 | 2024-01-11 | 954 | 8 |
 | 2024-01-12 | 970 | 8 |
 | 2024-01-13 | 992 | 8 |
-| 2024-01-14 | 1,012 | 8 |
+| 2024-01-14 | 1,014 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

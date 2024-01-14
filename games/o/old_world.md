@@ -9,15 +9,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 4.00% | ~671 |
 | Settler | 4.00% | ~671 |
 | Play a Single Player Game | 4.00% | ~671 |
-| Able | 3.00% | ~503 |
-| Architect | 3.00% | ~503 |
-| Good | 3.00% | ~503 |
-| Intrepid | 3.00% | ~503 |
-| Mason | 3.00% | ~503 |
-| Strong | 3.00% | ~503 |
-| Friendly Family | 3.00% | ~503 |
-| Hanging Gardens | 3.00% | ~503 |
-| Oracle | 3.00% | ~503 |
+| Able | 3.00% | ~504 |
+| Architect | 3.00% | ~504 |
+| Good | 3.00% | ~504 |
+| Intrepid | 3.00% | ~504 |
+| Mason | 3.00% | ~504 |
+| Strong | 3.00% | ~504 |
+| Friendly Family | 3.00% | ~504 |
+| Hanging Gardens | 3.00% | ~504 |
+| Oracle | 3.00% | ~504 |
 | Ambitious | 2.00% | ~336 |
 | Brilliant | 2.00% | ~336 |
 | Enlightened | 2.00% | ~336 |
@@ -85,10 +85,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 0.80% | ~134 |
 | Victorious | 0.70% | ~117 |
 | Landowners | 0.70% | ~117 |
+| Riders | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |
 | Hittite Iron | 0.70% | ~117 |
 | Circus Maximus | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
+| Via Recta Souk | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
 | Military Prestige | 0.70% | ~117 |
 | Dualism | 0.70% | ~117 |
@@ -96,13 +98,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.70% | ~117 |
 | The Clergy | 0.70% | ~117 |
 | Kushite Paganism | 0.70% | ~117 |
+| Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
 | Conqueror | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
-| Riders | 0.60% | ~101 |
 | Pantheon | 0.60% | ~101 |
-| Via Recta Souk | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
-| Bad Heir Day | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
 | Invincible | 0.50% | ~84 |
 | Lion | 0.50% | ~84 |
@@ -125,6 +125,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightenment | 0.50% | ~84 |
 | Gnosticism | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
+| Revelation | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Learn to Play 5 | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
-| Revelation | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
 | Turreted Elephant | 0.40% | ~67 |
 | All Nations | 0.40% | ~67 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,778 (Ranked 169)  
+Progressed: 16,785 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,778 | 5 |
+| 2024-01-14 | 16,785 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,928 (Ranked 223)  

@@ -2,9 +2,9 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 373,
+  "Ranking_EOS_NewPlayers": 372,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -1840,9 +1840,9 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:08:19.1504973+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:08:37.1115411+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:24.5310493+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:08:19.1505301+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:34.544803+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:08:37.1115708+00:00"
 }

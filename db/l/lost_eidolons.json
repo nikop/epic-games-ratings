@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 3835,
+  "Ranking_EOS_NewPlayers": 528,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2822,6 +2822,11 @@
       "Time": "2024-01-14T14:04:54.5961799+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T15:05:03.7273108+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2863,9 +2868,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 831
     },
     {
       "ID": "06",
@@ -2897,7 +2902,7 @@
       "Name": "Awakening",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "10",
@@ -2905,7 +2910,7 @@
       "Name": "Huntmaster",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "11",
@@ -2961,7 +2966,7 @@
       "Name": "Ready to Learn",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "18",
@@ -2969,7 +2974,7 @@
       "Name": "Earning Trust",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "19",
@@ -3009,14 +3014,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1123,
       "Completed": 1
     }
   ],
@@ -3024,8 +3029,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:54.5961795+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:03.7273107+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.3397253+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:02:51.2318803+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:54.5962071+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:02:57.001353+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:03.7273321+00:00"
 }

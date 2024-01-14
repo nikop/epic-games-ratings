@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1063,
   "Ranking_Popularity": 210,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5565,9 +5565,9 @@
       "Count": 540
     }
   ],
-  "EOS_Progressed": 93464,
+  "EOS_Progressed": 93466,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31430,6 +31430,11 @@
       "Time": "2024-01-14T14:06:08.9122967+00:00",
       "NumProgressed": 93464,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-14T15:06:18.2606531+00:00",
+      "NumProgressed": 93466,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31768,13 +31773,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93464,
+      "Progressed": 93466,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21811,
+      "Progressed": 21813,
       "Completed": 15601
     }
   ],
@@ -31782,8 +31787,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-14T11:58:39.3832058+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:06:08.9122961+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:06:18.260653+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:38.5552853+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:06:08.912434+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:49.6749141+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:06:18.2607929+00:00"
 }

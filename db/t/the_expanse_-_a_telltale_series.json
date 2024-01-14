@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18998,
+  "EOS_Progressed": 19001,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17349,6 +17349,11 @@
       "Time": "2024-01-14T14:04:19.0758813+00:00",
       "NumProgressed": 18998,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-14T15:04:28.3533129+00:00",
+      "NumProgressed": 19001,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17519,9 +17524,9 @@
       "ID": "28",
       "SetID": "458bbdk",
       "Name": "Scavenger Star",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 76
     },
     {
       "ID": "29",
@@ -17559,9 +17564,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 570
+      "UsersEstimate": 760
     },
     {
       "ID": "6",
@@ -17609,7 +17614,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "33",
@@ -17617,7 +17622,7 @@
       "Name": "Zen Master",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "34",
@@ -17640,22 +17645,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18998,
+      "Progressed": 19001,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4952,
-      "Completed": 1317
+      "Progressed": 4955,
+      "Completed": 1318
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:19.075881+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:04:28.3533128+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:56.949429+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:19.0760048+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:06.6241429+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:04:28.3533924+00:00"
 }

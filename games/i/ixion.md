@@ -5,14 +5,14 @@ Rating: 4.59 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,425 |
-| Sputnik 2049 | 30.00% | ~1,257 |
-| Infinite Growth... | 28.00% | ~1,173 |
+| Wakey Wakey | 34.00% | ~1,426 |
+| Sputnik 2049 | 30.00% | ~1,258 |
+| Infinite Growth... | 28.00% | ~1,174 |
 | Without Breaking Some Eggs... | 27.00% | ~1,132 |
-| Ready for a New World | 20.00% | ~838 |
-| Space Society | 19.00% | ~796 |
-| A Thousand Strong | 19.00% | ~796 |
-| Permanent Redesigns | 17.00% | ~712 |
+| Ready for a New World | 20.00% | ~839 |
+| Space Society | 19.00% | ~797 |
+| A Thousand Strong | 19.00% | ~797 |
+| Permanent Redesigns | 17.00% | ~713 |
 | Guy de Borderlands | 15.00% | ~629 |
 | Fully Recycled | 15.00% | ~629 |
 | Ain't Nobody Got Time for That | 15.00% | ~629 |
@@ -27,10 +27,10 @@ Rating: 4.59 (Ranked 453)
 | Sightseeing | 8.00% | ~335 |
 | Necessary Enhancement | 8.00% | ~335 |
 | Convenient Transport | 8.00% | ~335 |
-| Access Granted | 7.00% | ~293 |
-| Drill-dozer | 7.00% | ~293 |
-| From the Past | 7.00% | ~293 |
-| All in Good Health | 6.00% | ~251 |
+| Access Granted | 7.00% | ~294 |
+| Drill-dozer | 7.00% | ~294 |
+| From the Past | 7.00% | ~294 |
+| All in Good Health | 6.00% | ~252 |
 | Oats | 5.00% | ~210 |
 | What They Hide From Us | 5.00% | ~210 |
 | ...  in a finite world | 5.00% | ~210 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 453)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,191 (Ranked 214)  
+Progressed: 4,193 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 4,156 | 0 |
 | 2024-01-12 | 4,168 | 0 |
 | 2024-01-13 | 4,180 | 0 |
-| 2024-01-14 | 4,191 | 0 |
+| 2024-01-14 | 4,193 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

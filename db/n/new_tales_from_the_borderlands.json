@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3822,
+  "EOS_Progressed": 3823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2024-01-13T10:04:12.6629729+00:00",
       "NumProgressed": 3822,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T15:03:56.2135765+00:00",
+      "NumProgressed": 3823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2405,7 +2410,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2413,7 +2418,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2421,7 +2426,7 @@
       "Name": "From Zeroes...",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "FINISH_EPISODE_2",
@@ -2445,7 +2450,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2485,7 +2490,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2493,7 +2498,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2509,7 +2514,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2580,7 +2585,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3822,
+      "Progressed": 3823,
       "Completed": 0
     }
   ],
@@ -2588,8 +2593,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:03:47.0552557+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:03:56.2135761+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:03.1321496+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:00:06.8433022+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:03:47.0552846+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:00:14.0663535+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:03:56.2136002+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
@@ -406,25 +406,25 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "16",
       "SetID": "38ide56",
       "Name": "Break Time",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "17",
       "SetID": "38ide56",
       "Name": "Master of the Rope",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "18",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:17.2426719+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:04:26.6249691+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9792755+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:52.4824393+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:17.242691+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:02.2580583+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:04:26.6249927+00:00"
 }

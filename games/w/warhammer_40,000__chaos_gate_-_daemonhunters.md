@@ -26,6 +26,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 3.00% | ~117 |
 | Daemonkeeper | 2.00% | ~78 |
 | Corruption Cleanser | 2.00% | ~78 |
+| Exterminator | 2.00% | ~78 |
 | Mind Like a Fortress | 2.00% | ~78 |
 | Efficient Killer | 2.00% | ~78 |
 | Only in Death | 2.00% | ~78 |
@@ -34,7 +35,6 @@ Number of Ratings: 371  (23.09.2022)
 | Patron of Deimos | 1.00% | ~39 |
 | Fleetmaster | 1.00% | ~39 |
 | For the Machine God | 1.00% | ~39 |
-| Exterminator | 1.00% | ~39 |
 | Preservationist | 1.00% | ~39 |
 | Junk Banishment | 1.00% | ~39 |
 | Long Distance Call | 1.00% | ~39 |

@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Lost forever | 13.00% | ~44 |
 | Silver Hat | 8.00% | ~27 |
+| Golden Carrot | 7.00% | ~24 |
 | Naughty list | 7.00% | ~24 |
-| Golden Carrot | 6.00% | ~20 |
 | Silver Button | 5.00% | ~17 |
 | Silver Carrot | 5.00% | ~17 |
 | Golden Hat | 4.00% | ~13 |

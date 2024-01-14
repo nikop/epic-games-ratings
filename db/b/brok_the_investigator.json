@@ -266,9 +266,9 @@
       "ID": "BEDS",
       "SetID": "bb2dp",
       "Name": "Master of Mattresses",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BESTSTUDENT",
@@ -298,9 +298,9 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CHAPTER4",
@@ -330,9 +330,9 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FOODTHIEF",
@@ -354,9 +354,9 @@
       "ID": "HIGHWAYSURVIVE",
       "SetID": "bb2dp",
       "Name": "Highway Survival",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "INTRO",
@@ -418,9 +418,9 @@
       "ID": "PUSHY",
       "SetID": "bb2dp",
       "Name": "Pushy, pushy",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SUMMARYFULL",
@@ -442,9 +442,9 @@
       "ID": "TABLES",
       "SetID": "bb2dp",
       "Name": "The World Is My Doormat",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TOILETSMAN",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:04:51.890472+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:01.1208993+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.4705583+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:59.7381327+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:51.8904911+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:00:05.9107688+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:01.1209168+00:00"
 }

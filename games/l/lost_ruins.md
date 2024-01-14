@@ -7,11 +7,11 @@ Rating: 4.85 (Ranked 39)
 | ---- | ---------- | ----- |
 | Inquisitor | 35.00% | ~246 |
 | Goblin Tales | 28.00% | ~197 |
-| Bug Hunter | 23.00% | ~161 |
-| Boss Killer | 22.00% | ~154 |
-| The Fallen | 20.00% | ~140 |
-| Artifact Collector | 18.00% | ~126 |
-| Trap Master | 18.00% | ~126 |
+| Bug Hunter | 23.00% | ~162 |
+| Boss Killer | 22.00% | ~155 |
+| The Fallen | 20.00% | ~141 |
+| Artifact Collector | 18.00% | ~127 |
+| Trap Master | 18.00% | ~127 |
 | Ghost Buster | 14.00% | ~98 |
 | Iconoclasm | 14.00% | ~98 |
 | Reincarnation | 14.00% | ~98 |
@@ -46,7 +46,7 @@ Rating: 4.85 (Ranked 39)
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 328)  
+Progressed: 703 (Ranked 328)  
 Completed: 1 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,6 +190,7 @@ Completed: 1 (0.14%) (Ranked 298)
 | 2024-01-11 | 695 | 1 |
 | 2024-01-12 | 698 | 1 |
 | 2024-01-13 | 702 | 1 |
+| 2024-01-14 | 703 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.44,
+  "EOS_Completed_Percentage": 9.43,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2524,6 +2524,11 @@
       "Time": "2024-01-14T14:08:45.6483506+00:00",
       "NumProgressed": 540,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-14T15:09:04.676503+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 6,
@@ -2533,17 +2538,17 @@
       "ID": "CgkIgaGB2J0LEAIQAA",
       "SetID": "4ocea6d",
       "Name": "Printing Press",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 175,
-      "UsersEstimate": 319
+      "UsersEstimate": 325
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAQ",
       "SetID": "4ocea6d",
       "Name": "File-cutter",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 165,
-      "UsersEstimate": 346
+      "UsersEstimate": 352
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2551,7 +2556,7 @@
       "Name": "Viola Organista",
       "Percentage": 48,
       "XP": 165,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAw",
@@ -2559,7 +2564,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2575,21 +2580,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:08:45.6483499+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:04.6765028+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9161554+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:34.1429862+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:08:45.6483706+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:43.550413+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:04.6765237+00:00"
 }

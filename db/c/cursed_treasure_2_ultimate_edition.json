@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 498,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -341,9 +341,9 @@
       "ID": "BADGE_BOSS_4_KILL",
       "SetID": "ak6pfjk",
       "Name": "Avada Kedavra",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "BADGE_BOSS_5_KILL",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:06:05.5474941+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:06:14.8829735+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.2964784+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:03:01.8750829+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:06:05.54753+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:03:08.5554564+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:06:14.8830063+00:00"
 }

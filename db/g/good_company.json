@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5837,
+  "EOS_Progressed": 5838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5404,6 +5404,11 @@
       "Time": "2024-01-14T04:08:18.2385497+00:00",
       "NumProgressed": 5837,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T15:06:16.9014029+00:00",
+      "NumProgressed": 5838,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5527,7 +5532,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5671,7 +5676,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_campaign_special6",
@@ -5759,7 +5764,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_frp_high_networth",
@@ -5775,7 +5780,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -6022,15 +6027,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5837,
+      "Progressed": 5838,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:06:07.498548+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:06:16.9014027+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.4885671+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:09.0449431+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:06:07.4986472+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:19.2734177+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:06:16.901485+00:00"
 }

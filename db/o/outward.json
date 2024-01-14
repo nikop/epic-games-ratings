@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -561,7 +561,7 @@
   ],
   "EOS_Progressed": 4778,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8599,9 +8599,9 @@
       "ID": "StrangeAmalgams_53",
       "SetID": "c4hee28",
       "Name": "Strange amalgams",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 478
+      "UsersEstimate": 526
     },
     {
       "ID": "Tapped_22",
@@ -8727,8 +8727,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:08:01.9773076+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:08:20.5013596+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:02:55.7956155+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:08:01.9773838+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:03:01.9314929+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:08:20.5014147+00:00"
 }

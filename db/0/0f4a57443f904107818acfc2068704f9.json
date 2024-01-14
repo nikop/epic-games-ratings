@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1301,
+  "EOS_Progressed": 1302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3402,6 +3402,11 @@
       "Time": "2024-01-14T11:06:01.3610686+00:00",
       "NumProgressed": 1301,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T15:05:56.1450655+00:00",
+      "NumProgressed": 1302,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3470,7 +3475,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "CompleteChapter10",
@@ -3566,7 +3571,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "CompleteChapter4",
@@ -3574,7 +3579,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "CompleteChapter5",
@@ -3582,7 +3587,7 @@
       "Name": "Breathing Easy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "CompleteChapter6",
@@ -3662,7 +3667,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3709,14 +3714,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1301,
+      "Progressed": 1302,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:05:46.4462095+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:56.1450653+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:45.8298559+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:05:46.4462486+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:55.2047426+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:56.1451097+00:00"
 }

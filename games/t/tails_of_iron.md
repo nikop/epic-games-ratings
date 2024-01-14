@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 493)  
+Rating: 4.57 (Ranked 494)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,25 +15,25 @@ Rating: 4.57 (Ranked 493)
 | Defeat 25 Grubs | 2.00% | ~46 |
 | Defeat 25 Frogs | 2.00% | ~46 |
 | Defeat 25 Mozis | 2.00% | ~46 |
+| Meet the Creatures from the Deep | 2.00% | ~46 |
 | Kitchen Ready To Cook | 2.00% | ~46 |
 | Smithy Ready to Craft | 2.00% | ~46 |
 | Rescue Redgi's Brothers | 2.00% | ~46 |
+| Return Power To The Depths | 2.00% | ~46 |
 | Defeat Croakhis Khan | 2.00% | ~19 |
 | Shield Maiden Yellow Tongue | 2.00% | ~19 |
 | I Remember My First Beer | 2.00% | ~19 |
 | The Bright Fir | 2.00% | ~19 |
 | Return the Statues | 1.00% | ~23 |
+| Complete the Chefs Book | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
 | End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
-| Meet the Creatures from the Deep | 1.00% | ~23 |
 | Throne Room Fit For A King | 1.00% | ~23 |
-| Return Power To The Depths | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
-| Complete the Chefs Book | 0.90% | ~21 |
 | Defeat Avor Warden of the Northern Wastes | 0.90% | ~21 |
 | Discover the mystery of the Kings Chambers | 0.80% | ~19 |
 | Complete Arena Faction | 0.70% | ~16 |

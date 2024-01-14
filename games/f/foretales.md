@@ -7,7 +7,7 @@
 | Caged tiger | 63.00% | ~189 |
 | Gorilla warfare | 58.00% | ~174 |
 | Isenburg's fall | 48.00% | ~144 |
-| Pieces of eight! | 41.00% | ~123 |
+| Pieces of eight! | 42.00% | ~126 |
 | Elephant in the room | 31.00% | ~93 |
 | Aboard the Sea Bird | 30.00% | ~90 |
 | Dark and stinky | 29.00% | ~87 |
@@ -26,8 +26,8 @@
 | The Bad Place | 10.00% | ~30 |
 | Pacifist fanatic | 9.00% | ~27 |
 | Meet your maker | 8.00% | ~24 |
+| The pelican brief | 8.00% | ~24 |
 | A grave matter | 7.00% | ~21 |
-| The pelican brief | 7.00% | ~21 |
 | The Good Place | 7.00% | ~21 |
 | Trial by combat | 7.00% | ~21 |
 | A bard day's night | 6.00% | ~18 |

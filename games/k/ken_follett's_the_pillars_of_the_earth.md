@@ -8,14 +8,14 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~6,962 |
 | Man of politics | 34.00% | ~6,069 |
-| Yet another secret | 33.00% | ~5,890 |
+| Yet another secret | 33.00% | ~5,891 |
 | Friends of sorts | 32.00% | ~5,712 |
 | Let there be darkness | 31.00% | ~5,534 |
-| End of Book One | 29.00% | ~5,176 |
+| End of Book One | 29.00% | ~5,177 |
 | Wannabe knight | 23.00% | ~4,106 |
 | Garden of Eden | 23.00% | ~4,106 |
 | Full house | 23.00% | ~4,106 |
-| Help an old friend | 21.00% | ~3,748 |
+| Help an old friend | 21.00% | ~3,749 |
 | Two of us | 20.00% | ~3,570 |
 | Negotiation skills | 18.00% | ~3,213 |
 | Workers' union | 18.00% | ~3,213 |
@@ -23,24 +23,24 @@ Number of Ratings: 368  (23.09.2022)
 | Everything's in order | 16.00% | ~2,856 |
 | Twist of Fate | 14.00% | ~2,499 |
 | Jack was here! | 14.00% | ~2,499 |
-| Exterminator | 13.00% | ~2,320 |
+| Exterminator | 13.00% | ~2,321 |
 | Whodunnit | 12.00% | ~2,142 |
 | Good midwife | 10.00% | ~1,785 |
 | Friar Tuck | 10.00% | ~1,785 |
 | First profit | 10.00% | ~1,785 |
 | Team player | 10.00% | ~1,785 |
-| Skilled merchant | 9.00% | ~1,606 |
-| Brother Marcus | 9.00% | ~1,606 |
-| The oath | 9.00% | ~1,606 |
-| The truth revealed | 9.00% | ~1,606 |
-| The End. | 9.00% | ~1,606 |
+| Skilled merchant | 9.00% | ~1,607 |
+| Brother Marcus | 9.00% | ~1,607 |
+| The oath | 9.00% | ~1,607 |
+| The truth revealed | 9.00% | ~1,607 |
+| The End. | 9.00% | ~1,607 |
 | Nothing but make-believe | 8.00% | ~1,428 |
 | A cry for help | 7.00% | ~1,250 |
 | Silentium est aureum | 7.00% | ~1,250 |
 | Rebel without a cause | 6.00% | ~1,071 |
-| Staring contest champion | 5.00% | ~892 |
-| Lone wolf | 5.00% | ~892 |
-| Vox Populi | 5.00% | ~892 |
+| Staring contest champion | 5.00% | ~893 |
+| Lone wolf | 5.00% | ~893 |
+| Vox Populi | 5.00% | ~893 |
 | Revenge | 4.00% | ~714 |
 | Countess Aliena | 4.00% | ~714 |
 | Care, like a brother cares | 3.00% | ~536 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~536 |
 | Boy of mystery | 2.00% | ~357 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,850 (Ranked 164)  
+Progressed: 17,851 (Ranked 164)  
 Completed: 125 (0.70%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 125 (0.70%) (Ranked 203)
 | 2024-01-11 | 17,794 | 125 |
 | 2024-01-12 | 17,816 | 125 |
 | 2024-01-13 | 17,839 | 125 |
-| 2024-01-14 | 17,850 | 125 |
+| 2024-01-14 | 17,851 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 328)  
 Sum: 200 (Ranked 418)  

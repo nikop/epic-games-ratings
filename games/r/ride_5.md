@@ -1,27 +1,27 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.55 (Ranked 528)  
+Rating: 4.58 (Ranked 469)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,796 |
-| First Love | 46.00% | ~1,653 |
-| Clean Race | 45.00% | ~1,617 |
-| Hear That Roar! | 43.00% | ~1,545 |
+| Eat My Dust | 50.00% | ~1,798 |
+| First Love | 46.00% | ~1,654 |
+| Clean Race | 45.00% | ~1,618 |
+| Hear That Roar! | 43.00% | ~1,546 |
 | Bitter Rivalry | 31.00% | ~1,114 |
 | Rivals to the End | 31.00% | ~1,114 |
 | Champagne Spray | 30.00% | ~1,078 |
-| We're Going to Need a Bigger Garage | 27.00% | ~970 |
-| Quick Pit Stop | 23.00% | ~826 |
+| We're Going to Need a Bigger Garage | 27.00% | ~971 |
+| Quick Pit Stop | 23.00% | ~827 |
 | I Want One Too! | 21.00% | ~755 |
 | Restored and Ready | 20.00% | ~719 |
 | Legendary!!! | 20.00% | ~719 |
 | Go-Faster Stripes | 17.00% | ~611 |
 | I'm Here Too! | 15.00% | ~539 |
 | We've Just Begun | 15.00% | ~539 |
-| Is It the Right Size? | 10.00% | ~359 |
-| Stamina Star | 8.00% | ~287 |
+| Is It the Right Size? | 10.00% | ~360 |
+| Stamina Star | 9.00% | ~324 |
 | Evangelist | 7.00% | ~252 |
 | Make It Your Own! | 5.00% | ~180 |
 | Cherry Blossom and Temples | 5.00% | ~180 |
@@ -55,7 +55,7 @@ Rating: 4.55 (Ranked 528)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,593 (Ranked 226)  
+Progressed: 3,595 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 3,552 | 0 |
 | 2024-01-12 | 3,570 | 0 |
 | 2024-01-13 | 3,582 | 0 |
-| 2024-01-14 | 3,593 | 0 |
+| 2024-01-14 | 3,595 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -200,3 +200,4 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-09 | 4.50 | 0 | 0 |
 | 2024-01-11 | 4.54 | 0 | 0 |
 | 2024-01-13 | 4.55 | 0 | 0 |
+| 2024-01-14 | 4.58 | 0 | 0 |

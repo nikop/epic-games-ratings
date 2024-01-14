@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewPlayers": 386,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "ACH_LOST_BY_40",
       "SetID": "1lnhagg",
       "Name": "If Only I Had Known",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_MANAGERS_FAN",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:08:27.5904628+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:08:46.2825975+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:57.9514992+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:08:27.5904897+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:08.0590944+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:08:46.2826156+00:00"
 }

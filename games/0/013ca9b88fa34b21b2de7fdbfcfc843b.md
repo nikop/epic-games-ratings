@@ -7,7 +7,7 @@ Rating: 4.64 (Ranked 344)
 | ---- | ---------- | ----- |
 | Azoria Beckons | 5.00% | ~453 |
 | A Thorny Situation | 5.00% | ~453 |
-| ... And Spit Back Out | 4.00% | ~362 |
+| ... And Spit Back Out | 5.00% | ~453 |
 | Calm Sailing | 3.00% | ~272 |
 | Open the Gate! | 3.00% | ~272 |
 | Miner 49er | 3.00% | ~272 |
@@ -18,7 +18,7 @@ Rating: 4.64 (Ranked 344)
 | Lumberjack | 2.00% | ~181 |
 | Mist Walker | 2.00% | ~181 |
 | Oui, Chef! | 2.00% | ~181 |
-| Exit Through The Gift Shop | 2.00% | ~33 |
+| Exit Through The Gift Shop | 2.00% | ~34 |
 | Search for the Hairy Grell | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
 | Higher Tax Bracket | 1.00% | ~91 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 344)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,057 (Ranked 186)  
+Progressed: 9,058 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
-| 2024-01-14 | 9,057 | 1 |
+| 2024-01-14 | 9,058 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

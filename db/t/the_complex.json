@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 838,
+  "EOS_Progressed": 839,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1885,6 +1885,11 @@
       "Time": "2024-01-14T00:10:17.839741+00:00",
       "NumProgressed": 838,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-14T15:09:40.7620169+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1904,7 +1909,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "deadly_secret",
@@ -1936,7 +1941,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ending_4",
@@ -1992,7 +1997,7 @@
       "Name": "Free Champagne",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "kamikaze",
@@ -2008,7 +2013,7 @@
       "Name": "Kindar Surprise",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "not_a_people_person",
@@ -2032,7 +2037,7 @@
       "Name": "Storage Hunter",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -2040,7 +2045,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "tough_decision",
@@ -2055,7 +2060,7 @@
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 838,
+      "Progressed": 839,
       "Completed": 22
     }
   ],
@@ -2063,8 +2068,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:19.3406124+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:40.7620167+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.2781267+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:02:47.6464145+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:19.3406304+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:02:53.1586838+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:40.7620381+00:00"
 }

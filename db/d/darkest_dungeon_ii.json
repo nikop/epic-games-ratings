@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10854,9 +10854,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132781,
+  "EOS_Progressed": 132784,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39829,6 +39829,11 @@
       "Time": "2024-01-14T14:09:32.9443563+00:00",
       "NumProgressed": 132781,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T15:09:54.9274479+00:00",
+      "NumProgressed": 132784,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39872,7 +39877,7 @@
       "Name": "Resurrection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -39888,7 +39893,7 @@
       "Name": "Funny Guy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -39904,7 +39909,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -39912,7 +39917,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -39944,7 +39949,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -39960,7 +39965,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -40008,7 +40013,7 @@
       "Name": "Deprogramming",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -40072,7 +40077,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "combat_kill_shambler",
@@ -40192,7 +40197,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10622
+      "UsersEstimate": 10623
     },
     {
       "ID": "hero_story_complete_all",
@@ -40208,7 +40213,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -40240,7 +40245,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -40272,7 +40277,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -40352,7 +40357,7 @@
       "Name": "Road Trip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -40400,7 +40405,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -40408,7 +40413,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -40440,7 +40445,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40456,7 +40461,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -40471,21 +40476,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132781,
+      "Progressed": 132784,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7650,
+      "Progressed": 7653,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T13:57:39.8108617+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:32.9443558+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:09:54.9274477+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:39.8108623+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:32.944552+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:49.3940715+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:09:54.9276218+00:00"
 }

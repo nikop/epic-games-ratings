@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 114.00% | ~120 |
-| Break no Sweat | 110.00% | ~116 |
-| Every little bit counts | 103.00% | ~108 |
-| Growth | 87.00% | ~91 |
+| Black Cat's Warning | 113.00% | ~120 |
+| Break no Sweat | 108.00% | ~114 |
+| Every little bit counts | 102.00% | ~108 |
+| Growth | 86.00% | ~91 |
 | Targeting the Enemy | 71.00% | ~75 |
-| Unavoidable | 68.00% | ~71 |
-| Revenge | 64.00% | ~67 |
+| Unavoidable | 67.00% | ~71 |
+| Revenge | 63.00% | ~67 |
 | Reunion | 41.00% | ~43 |
 | Fluke | 35.00% | ~37 |
 | Elimination | 33.00% | ~35 |
 | Victor's Prejudice | 32.00% | ~34 |
-| Excellent Driving Skills | 30.00% | ~32 |
+| Excellent Driving Skills | 31.00% | ~33 |
 | Once Bitten, Twice Shy | 30.00% | ~32 |
-| Memento | 29.00% | ~30 |
-| Fleet-footed | 28.00% | ~29 |
-| Defeat the AI | 27.00% | ~28 |
-| Invincible | 27.00% | ~28 |
+| Memento | 28.00% | ~30 |
+| Fleet-footed | 27.00% | ~29 |
+| Defeat the AI | 26.00% | ~28 |
+| Invincible | 26.00% | ~28 |
 | Best in Dragon City | 23.00% | ~24 |
 | Walking into a Trap | 23.00% | ~24 |
 | Unsalvageable | 23.00% | ~24 |
@@ -30,9 +30,9 @@
 | Brain in a Vat | 18.00% | ~19 |
 | Outsider's Profit | 18.00% | ~19 |
 | Reappearance | 16.00% | ~17 |
-| King of the Streets | 10.00% | ~10 |
-| Survival Expert | 10.00% | ~10 |
-| Calamity | 9.00% | ~9 |
+| King of the Streets | 9.00% | ~10 |
+| Survival Expert | 9.00% | ~10 |
+| Calamity | 8.00% | ~8 |
 | Achieving Excellence | 8.00% | ~8 |
 | Rest in peace | 8.00% | ~8 |
 | Still A Chance | 7.00% | ~7 |
@@ -49,20 +49,20 @@
 | Escape Master | 2.00% | ~2 |
 | Clairvoyance | 2.00% | ~2 |
 | Encore | 2.00% | ~2 |
-| Terrible Weather | 1.00% | ~1 |
-| Pro Gamer | 1.00% | ~1 |
-| Heavenly Music | 1.00% | ~1 |
-| Cat Lover | 1.00% | ~1 |
-| Story King | 1.00% | ~1 |
-| Omni-compatibility | 1.00% | ~1 |
-| Arms Expert | 1.00% | ~1 |
-| Weapon Expert | 1.00% | ~1 |
-| Win by Surprise | 1.00% | ~1 |
-| Thoughts | 1.00% | ~1 |
+| Terrible Weather | 0.90% | ~1 |
+| Pro Gamer | 0.90% | ~1 |
+| Heavenly Music | 0.90% | ~1 |
+| Cat Lover | 0.90% | ~1 |
+| Story King | 0.90% | ~1 |
+| Omni-compatibility | 0.90% | ~1 |
+| Arms Expert | 0.90% | ~1 |
+| Weapon Expert | 0.90% | ~1 |
+| Win by Surprise | 0.90% | ~1 |
+| Thoughts | 0.90% | ~1 |
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 493)  
+Progressed: 106 (Ranked 492)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 107 | 0 |
 | 2024-01-11 | 107 | 0 |
 | 2024-01-13 | 106 | 0 |
-| 2024-01-14 | 105 | 0 |
+| 2024-01-14 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

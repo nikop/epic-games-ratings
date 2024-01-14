@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 591,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2532,9 +2532,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 236
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2732,8 +2732,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:10:48.0858052+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:03:23.3064011+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:00:03.9934085+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:10:48.085867+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:00:10.2455708+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:03:23.3081221+00:00"
 }

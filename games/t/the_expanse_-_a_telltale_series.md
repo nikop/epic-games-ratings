@@ -16,8 +16,8 @@ Rating: 4.54 (Ranked 552)
 | Spore Taste | 12.00% | ~2,280 |
 | Stogie for Fogey | 11.00% | ~2,090 |
 | Call it Even | 10.00% | ~1,900 |
-| Safe Cracker | 10.00% | ~495 |
-| Zen Master | 10.00% | ~495 |
+| Safe Cracker | 10.00% | ~496 |
+| Zen Master | 10.00% | ~496 |
 | Heal Thy Medic | 9.00% | ~1,710 |
 | Madame Undersecretary | 9.00% | ~446 |
 | Data Archivist | 8.00% | ~1,520 |
@@ -30,7 +30,7 @@ Rating: 4.54 (Ranked 552)
 | Master Negotiator | 6.00% | ~297 |
 | Data Logger | 5.00% | ~950 |
 | Miraculous Maya | 5.00% | ~950 |
-| Data Master | 3.00% | ~570 |
+| Data Master | 4.00% | ~760 |
 | Brother's Reaper | 2.00% | ~380 |
 | No Belter Left Behind | 2.00% | ~380 |
 | Debris Spree | 2.00% | ~380 |
@@ -38,10 +38,10 @@ Rating: 4.54 (Ranked 552)
 | Urshanabi Hoarder | 1.00% | ~190 |
 | Grave Robber | 0.80% | ~152 |
 | Data Miner | 0.70% | ~133 |
-| Scavenger Star | 0.30% | ~57 |
+| Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,998 (Ranked 159)  
+Progressed: 19,001 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 18,998 | 64 |
+| 2024-01-14 | 19,001 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

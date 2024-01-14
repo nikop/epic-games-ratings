@@ -2,12 +2,12 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 990,
+  "Ranking_Rating": 1016,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -91,15 +91,21 @@
       "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-14T14:58:40.9169178+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2320,
+  "EOS_Progressed": 2322,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4527,6 +4533,11 @@
       "Time": "2024-01-14T14:09:41.9109344+00:00",
       "NumProgressed": 2320,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T15:10:03.4761764+00:00",
+      "NumProgressed": 2322,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4538,7 +4549,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACH_02",
@@ -4546,7 +4557,7 @@
       "Name": "Find Allies",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_03",
@@ -4584,9 +4595,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_08",
@@ -4594,7 +4605,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACH_09",
@@ -4650,15 +4661,15 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_17",
@@ -4778,7 +4789,7 @@
       "Name": "Stone Collection",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH_33",
@@ -4825,16 +4836,16 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2320,
+      "Progressed": 2322,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-01-13T14:58:03.8260489+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:41.9109341+00:00",
+  "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:10:03.4761763+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:58:29.9754144+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:41.9109866+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:58:40.916918+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:10:03.4762313+00:00"
 }

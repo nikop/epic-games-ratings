@@ -4,7 +4,7 @@
   "ProductSlug": "another-world-b86b7e",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 579,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-11T05:57:10.1776469+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:57:49.7711671+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:04:21.34489+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:57:59.0356448+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:04:30.5357377+00:00"
 }

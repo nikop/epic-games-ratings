@@ -2286,9 +2286,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16778,
+  "EOS_Progressed": 16785,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 595,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19986,6 +19986,11 @@
       "Time": "2024-01-14T14:09:51.3969395+00:00",
       "NumProgressed": 16778,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T15:10:12.7021955+00:00",
+      "NumProgressed": 16785,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20051,9 +20056,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -20325,7 +20330,7 @@
       "Name": "Able",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -20349,7 +20354,7 @@
       "Name": "Architect",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -20453,7 +20458,7 @@
       "Name": "Good",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
@@ -20485,7 +20490,7 @@
       "Name": "Intrepid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20549,7 +20554,7 @@
       "Name": "Mason",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -20629,7 +20634,7 @@
       "Name": "Strong",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -20875,9 +20880,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -20909,7 +20914,7 @@
       "Name": "Friendly Family",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -21365,7 +21370,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -21445,7 +21450,7 @@
       "Name": "Oracle",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -21467,9 +21472,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -22003,9 +22008,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -22860,21 +22865,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16778,
+      "Progressed": 16785,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16778,
+      "Progressed": 16785,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T13:59:32.1092112+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:09:51.3969392+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:10:12.7021953+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:59:32.1092116+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:09:51.3979421+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:59:41.5416967+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:10:12.7033004+00:00"
 }

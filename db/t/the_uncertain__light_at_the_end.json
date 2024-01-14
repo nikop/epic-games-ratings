@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -1409,6 +1409,11 @@
       "Time": "2024-01-14T12:05:19.0626578+00:00",
       "NumProgressed": 671,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T15:05:41.4599869+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1444,7 +1449,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "Doors_Closing",
@@ -1540,7 +1545,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Leisurely_Strol",
@@ -1636,7 +1641,7 @@
       "Name": "Beat the Heat",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1651,7 +1656,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 6
     }
   ],
@@ -1659,8 +1664,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-14T14:05:32.2913169+00:00",
+  "LastChanged_Achievements": "2024-01-14T15:05:41.4599867+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-14T14:03:12.9980981+00:00",
-  "LastUpdate_Achievements": "2024-01-14T14:05:32.2913455+00:00"
+  "LastUpdate_Ratings": "2024-01-14T15:03:20.6406781+00:00",
+  "LastUpdate_Achievements": "2024-01-14T15:05:41.4600037+00:00"
 }
