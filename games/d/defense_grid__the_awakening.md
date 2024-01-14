@@ -7,32 +7,32 @@ Number of Ratings: 1,225  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~400,189 |
-| Happy Returns | 78.00% | ~385,367 |
-| Hey! That's mine! | 78.00% | ~385,367 |
-| Field Promotion | 74.00% | ~365,604 |
+| Happy Returns | 78.00% | ~385,368 |
+| Hey! That's mine! | 78.00% | ~385,368 |
+| Field Promotion | 74.00% | ~365,605 |
 | Leadhead | 71.00% | ~350,783 |
 | Eradicator | 68.00% | ~335,961 |
 | Surplus | 66.00% | ~326,080 |
-| I Spy | 64.00% | ~316,198 |
-| Burn Baby Burn | 59.00% | ~291,495 |
+| I Spy | 64.00% | ~316,199 |
+| Burn Baby Burn | 59.00% | ~291,496 |
 | Yellow Beats Green | 56.00% | ~276,674 |
 | Salvage Rights | 53.00% | ~261,852 |
 | What IS that? | 51.00% | ~251,971 |
 | Close Call | 50.00% | ~247,030 |
 | Pew Pew | 50.00% | ~247,030 |
-| Penny Pincher | 49.00% | ~242,089 |
+| Penny Pincher | 49.00% | ~242,090 |
 | Arsenal | 46.00% | ~227,268 |
 | Boot Camp | 46.00% | ~227,268 |
-| Flawless Victory | 42.00% | ~207,505 |
+| Flawless Victory | 42.00% | ~207,506 |
 | Confident | 41.00% | ~202,565 |
 | Exterminator | 36.00% | ~177,862 |
-| Sharpshooter | 34.00% | ~167,980 |
+| Sharpshooter | 34.00% | ~167,981 |
 | Not So Fast | 33.00% | ~163,040 |
-| Great Ball of Fire | 32.00% | ~158,099 |
+| Great Ball of Fire | 32.00% | ~158,100 |
 | No Sale | 31.00% | ~153,159 |
 | Kaboom! | 30.00% | ~148,218 |
-| Liquidator | 29.00% | ~143,277 |
-| High Voltage | 24.00% | ~118,574 |
+| Liquidator | 29.00% | ~143,278 |
+| High Voltage | 24.00% | ~118,575 |
 | Filthy Rich | 20.00% | ~98,812 |
 | Pyrrhic Victory | 18.00% | ~88,931 |
 | The Not-So-Friendly Skies | 18.00% | ~88,931 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,060 (Ranked 43)  
+Progressed: 494,061 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 5 (0.00%) (Ranked 400)
 | 2024-01-11 | 493,876 | 5 |
 | 2024-01-12 | 493,956 | 5 |
 | 2024-01-13 | 494,049 | 5 |
-| 2024-01-14 | 494,060 | 5 |
+| 2024-01-14 | 494,061 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 280)  
 Sum: 1,747 (Ranked 227)  

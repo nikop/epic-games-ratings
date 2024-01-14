@@ -64,13 +64,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~167 |
 | Musaeum | 1.00% | ~167 |
 | Necropolis | 1.00% | ~167 |
-| Learn to Play 3 | 1.00% | ~167 |
 | Manichaeism | 1.00% | ~167 |
 | Carthaginian Paganism | 1.00% | ~167 |
 | Egyptian Paganism | 1.00% | ~167 |
 | Mythology | 1.00% | ~167 |
 | Champions | 0.90% | ~151 |
 | Sages | 0.90% | ~151 |
+| Learn to Play 3 | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
 | Building Wonders | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
 | Learn to Play 4 | 0.60% | ~100 |
+| Industrial Progress | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
@@ -119,8 +120,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
 | Assyrian Paganism | 0.50% | ~84 |
-| Industrial Progress | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
+| Gnosticism | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
@@ -129,12 +130,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
 | Hittite Paganism | 0.40% | ~67 |
-| Gnosticism | 0.40% | ~67 |
 | Revelation | 0.40% | ~67 |
 | Veneration | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
 | Turreted Elephant | 0.40% | ~67 |
 | All Nations | 0.40% | ~67 |
+| No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
 | Jerwan Aqueduct | 0.40% | ~67 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
@@ -147,8 +148,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
-| No Undo | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
+| Yazilikaya | 0.30% | ~50 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
 | Ancient | 0.20% | ~33 |
 | Glorious Difficulty | 0.20% | ~33 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.20% | ~33 |
 | Jebel Barkal | 0.20% | ~33 |
 | Royal Library | 0.20% | ~33 |
-| Yazilikaya | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,732 (Ranked 169)  
+Progressed: 16,737 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,732 | 5 |
+| 2024-01-14 | 16,737 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

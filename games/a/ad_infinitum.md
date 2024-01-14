@@ -9,8 +9,8 @@
 | Not alone | 61.00% | ~129 |
 | Hunger | 51.00% | ~108 |
 | Awaken | 43.00% | ~91 |
-| Path of Corruption | 35.00% | ~74 |
-| Hope | 31.00% | ~65 |
+| Path of Corruption | 36.00% | ~76 |
+| Hope | 32.00% | ~68 |
 | Rage | 30.00% | ~63 |
 | Path of Pain | 24.00% | ~51 |
 | Mayhem | 19.00% | ~40 |
@@ -21,7 +21,7 @@
 | Awaiting orders | 14.00% | ~30 |
 | Art critic | 11.00% | ~23 |
 | Jigsaw | 11.00% | ~23 |
-| Peace | 10.00% | ~21 |
+| Peace | 11.00% | ~23 |
 | Lost | 9.00% | ~19 |
 | An act of courage | 7.00% | ~15 |
 | All knowing | 7.00% | ~15 |

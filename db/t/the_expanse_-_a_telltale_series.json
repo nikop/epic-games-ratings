@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18977,
+  "EOS_Progressed": 18980,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17298,6 +17298,11 @@
       "Time": "2024-01-14T03:05:51.3791598+00:00",
       "NumProgressed": 18977,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-14T04:05:45.2186606+00:00",
+      "NumProgressed": 18980,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17358,7 +17363,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "16",
@@ -17366,7 +17371,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "17",
@@ -17374,7 +17379,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "18",
@@ -17406,7 +17411,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "21",
@@ -17446,7 +17451,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "26",
@@ -17486,7 +17491,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3036
+      "UsersEstimate": 3037
     },
     {
       "ID": "30",
@@ -17550,7 +17555,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "32",
@@ -17589,13 +17594,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18977,
+      "Progressed": 18980,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4931,
+      "Progressed": 4934,
       "Completed": 1314
     }
   ],
@@ -17603,8 +17608,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-11T01:50:11.8166633+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:05:51.3791593+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T02:57:13.8581374+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:58:48.9467766+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:05:51.3792975+00:00"
+  "LastChanged_Achievements": "2024-01-14T04:05:45.2186603+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
+  "LastUpdate_Ratings": "2024-01-14T03:58:49.5612337+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:05:45.2187468+00:00"
 }

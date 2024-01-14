@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2600,9 +2600,9 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 199
     },
     {
       "ID": "Remake_008",
@@ -2735,8 +2735,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:07:35.5574052+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:07:28.9787803+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:02:05.318044+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:07:35.5574312+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:02:03.5480828+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:07:28.9788158+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2258,7 +2258,7 @@
   ],
   "EOS_Progressed": 890,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10296,9 +10296,9 @@
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 685
     },
     {
       "ID": "M_HOME_STAR",
@@ -10384,9 +10384,9 @@
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 128,
+      "Percentage": 129,
       "XP": 10,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1148
     },
     {
       "ID": "P_OWENSTORY",
@@ -10440,9 +10440,9 @@
       "ID": "P_WATERPIPELINE",
       "SetID": "80dcan0",
       "Name": "Lifeline Pipeline",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 578
     },
     {
       "ID": "P_WATERTOWER",
@@ -10664,8 +10664,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-13T22:58:36.4060138+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:10:07.4498908+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:10:31.0275229+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.134628+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:58:47.3725982+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:10:07.4499593+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:58:47.510956+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:10:31.0276301+00:00"
 }

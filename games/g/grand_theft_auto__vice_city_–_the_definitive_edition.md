@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,695 |
-| Greasy Palms | 43.00% | ~7,040 |
-| South American Connection | 26.00% | ~4,257 |
-| Life of the Party | 21.00% | ~3,438 |
+| Legal Counsel | 47.00% | ~7,697 |
+| Greasy Palms | 43.00% | ~7,042 |
+| South American Connection | 26.00% | ~4,258 |
+| Life of the Party | 21.00% | ~3,439 |
 | Tommy Two-Wheels | 16.00% | ~2,620 |
 | Big Heat from Little Havana | 15.00% | ~2,456 |
 | Chauffeur | 15.00% | ~2,456 |
 | Salutations My Little Friend | 12.00% | ~1,965 |
-| Iron-y | 10.00% | ~1,637 |
-| Gun for Hire | 9.00% | ~1,473 |
-| Mischief Managed | 9.00% | ~1,473 |
+| Iron-y | 10.00% | ~1,638 |
+| Gun for Hire | 9.00% | ~1,474 |
+| Mischief Managed | 9.00% | ~1,474 |
 | Vice City Mogul | 7.00% | ~1,146 |
-| Catch Me if You Can | 6.00% | ~982 |
-| Bloodstained Hands | 6.00% | ~982 |
+| Catch Me if You Can | 6.00% | ~983 |
+| Bloodstained Hands | 6.00% | ~983 |
 | Not my First Time | 5.00% | ~819 |
 | Grand Theft Auto | 5.00% | ~819 |
 | Pie Guy | 4.00% | ~655 |
@@ -29,10 +29,10 @@ Rating: 4.53 (Ranked 565)
 | Somebody Call the Wambulance? | 3.00% | ~491 |
 | Just Like the Real Thing | 3.00% | ~491 |
 | Don't Need Roads | 3.00% | ~491 |
-| One is Better Than Two | 2.00% | ~327 |
-| Take the Cannoli | 2.00% | ~327 |
-| Chopper’d Up | 2.00% | ~327 |
-| City Sleuth | 2.00% | ~327 |
+| One is Better Than Two | 2.00% | ~328 |
+| Take the Cannoli | 2.00% | ~328 |
+| Chopper’d Up | 2.00% | ~328 |
+| City Sleuth | 2.00% | ~328 |
 | Born in the 80’s | 1.00% | ~164 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~164 |
 | I'm Famous! | 1.00% | ~164 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 565)
 | Done it All | 1.00% | ~164 |
 | Kingpin | 0.60% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,372 (Ranked 171)  
+Progressed: 16,376 (Ranked 171)  
 Completed: 98 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 98 (0.60%) (Ranked 211)
 | 2024-01-11 | 16,263 | 96 |
 | 2024-01-12 | 16,316 | 98 |
 | 2024-01-13 | 16,366 | 98 |
-| 2024-01-14 | 16,372 | 98 |
+| 2024-01-14 | 16,376 | 98 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

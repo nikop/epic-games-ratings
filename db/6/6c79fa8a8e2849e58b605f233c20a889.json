@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3223,
+  "EOS_Progressed": 3225,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8849,6 +8849,11 @@
       "Time": "2024-01-14T02:07:29.0095372+00:00",
       "NumProgressed": 3223,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T04:11:47.7168944+00:00",
+      "NumProgressed": 3225,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -8892,7 +8897,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -8940,15 +8945,15 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 97
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -8964,7 +8969,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "GUARD_MAKER",
@@ -9035,14 +9040,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3223,
+      "Progressed": 3225,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:25.4274478+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:47.7168942+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:40.6079481+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:03:40.9194763+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:25.427497+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:03:35.9811806+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:47.7169542+00:00"
 }

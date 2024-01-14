@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4082,6 +4082,11 @@
       "Time": "2024-01-14T00:09:52.9622771+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T04:11:02.0054543+00:00",
+      "NumProgressed": 1178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4118,7 +4123,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "AttackCount",
@@ -4164,9 +4169,9 @@
       "ID": "CastEachSpell",
       "SetID": "71c0n9i",
       "Name": "Versatile Wielder",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ChainLightningKills",
@@ -4198,7 +4203,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Deepstrike",
@@ -4238,7 +4243,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4404,9 +4409,9 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 47
     },
     {
       "ID": "UltraKill",
@@ -4422,7 +4427,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "WielderLevel2",
@@ -4430,7 +4435,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "WielderLevel3",
@@ -4478,7 +4483,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4525,15 +4530,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:10:38.5013751+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:02.0054541+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:01:14.1569576+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:10:38.5014545+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:01:12.408061+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:02.0055197+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.21 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,038 |
-| Battlefields Have Memories | 81.00% | ~2,765 |
-| Enlisted | 75.00% | ~2,560 |
-| Maybe Engage a Little | 70.00% | ~2,390 |
-| No More Names | 53.00% | ~1,809 |
+| Unforeseen | 89.00% | ~3,040 |
+| Battlefields Have Memories | 81.00% | ~2,767 |
+| Enlisted | 75.00% | ~2,562 |
+| Maybe Engage a Little | 70.00% | ~2,391 |
+| No More Names | 53.00% | ~1,810 |
 | Initiate | 40.00% | ~1,366 |
-| Thrada-Kul | 36.00% | ~1,229 |
-| Gravity-Challenged Rocks | 29.00% | ~990 |
+| Thrada-Kul | 36.00% | ~1,230 |
+| Gravity-Challenged Rocks | 29.00% | ~991 |
 | Socialite | 25.00% | ~854 |
 | Soldier | 25.00% | ~854 |
 | All the Major Food Groups | 25.00% | ~854 |
-| Beggars Would Ride | 23.00% | ~785 |
+| Beggars Would Ride | 23.00% | ~786 |
 | Control is an Illusion | 21.00% | ~717 |
 | The Means to Save It | 19.00% | ~649 |
-| Resilience to Sin | 17.00% | ~580 |
-| A Familiar Nest | 17.00% | ~580 |
-| Periapt Alizarin | 16.00% | ~546 |
+| Resilience to Sin | 17.00% | ~581 |
+| A Familiar Nest | 17.00% | ~581 |
+| Periapt Alizarin | 16.00% | ~547 |
 | Geas Aristeya | 15.00% | ~512 |
 | A Perfect Cycle | 14.00% | ~478 |
 | Recruit | 14.00% | ~478 |
 | Armsman | 12.00% | ~410 |
-| Lights Army | 10.00% | ~341 |
+| Lights Army | 10.00% | ~342 |
 | Periapt Cerulean | 9.00% | ~307 |
 | Good Boy | 8.00% | ~273 |
 | Periapt Viridian | 7.00% | ~239 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 958)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,414 (Ranked 229)  
+Progressed: 3,416 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 4 (0.12%) (Ranked 306)
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
-| 2024-01-14 | 3,414 | 4 |
+| 2024-01-14 | 3,416 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

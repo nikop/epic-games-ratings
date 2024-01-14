@@ -4,7 +4,7 @@
   "ProductSlug": "steel-rats-445306",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
+  "Ranking_EOS_NewPlayers": 575,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.8267684+00:00",
   "LastChanged": "2023-03-31T05:57:34.8267684+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:37.8891104+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:03:29.9880356+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:13.7806125+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:03:25.1401284+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:36.0174397+00:00"
 }

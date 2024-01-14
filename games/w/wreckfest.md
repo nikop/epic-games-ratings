@@ -1,7 +1,7 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.24 (Ranked 934)  
+Rating: 4.24 (Ranked 935)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,7 +22,7 @@ Rating: 4.24 (Ranked 934)
 | World Masters Champion | 2.00% | ~23 |
 | Showing Some Dedication | 2.00% | ~23 |
 | Garden Variety | 1.00% | ~11 |
-| Glutton For Punishment | 0.50% | ~6 |
+| Glutton For Punishment | 0.60% | ~7 |
 | Human Lover | 0.50% | ~6 |
 | Rocketeer | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)

@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1534,
+  "EOS_Progressed": 1535,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -5311,6 +5311,11 @@
       "Time": "2024-01-13T20:04:43.3932838+00:00",
       "NumProgressed": 1534,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-14T04:06:06.8392004+00:00",
+      "NumProgressed": 1535,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5331,7 +5336,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "_03_FinishAct1",
@@ -5347,7 +5352,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "_05_FinishAct2",
@@ -5379,7 +5384,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "_09_Completion_20",
@@ -5451,7 +5456,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5467,7 +5472,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5491,7 +5496,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5530,7 +5535,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1534,
+      "Progressed": 1535,
       "Completed": 37
     }
   ],
@@ -5538,8 +5543,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:06:12.8176407+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:06:06.8391999+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.9098347+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:59:11.4959994+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:06:12.8176873+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:59:12.2022701+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:06:06.8392533+00:00"
 }

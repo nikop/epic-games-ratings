@@ -97,7 +97,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2312,
+  "EOS_Progressed": 2313,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
@@ -4492,6 +4492,11 @@
       "Time": "2024-01-14T02:07:39.3479213+00:00",
       "NumProgressed": 2312,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T04:11:58.3507268+00:00",
+      "NumProgressed": 2313,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4519,7 +4524,7 @@
       "Name": "Powerful Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_04",
@@ -4551,7 +4556,7 @@
       "Name": "Clear Sight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_08",
@@ -4671,7 +4676,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_23",
@@ -4757,9 +4762,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_35",
@@ -4790,7 +4795,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2312,
+      "Progressed": 2313,
       "Completed": 3
     }
   ],
@@ -4798,8 +4803,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-13T14:58:03.8260489+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:36.021168+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:58.3507265+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:59:40.2309902+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:36.0212078+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:59:41.5283484+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:58.3507921+00:00"
 }

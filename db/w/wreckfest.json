@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 935,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 290,
@@ -2939,9 +2939,9 @@
       "ID": "GetWreckedA",
       "SetID": "5hd282c",
       "Name": "Glutton For Punishment",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LawnMowerTime",
@@ -3020,8 +3020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:10:03.4912967+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:10:27.1213014+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:00:16.3035187+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:10:03.4913176+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:00:16.2477613+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:10:27.1213237+00:00"
 }

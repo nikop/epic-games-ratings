@@ -4667,9 +4667,9 @@
       "ID": "achievement_35",
       "SetID": "2cpn27e",
       "Name": "Unrivaled in Arms",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_36",
@@ -4833,8 +4833,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:10:58.0426806+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:21.3409132+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:00:17.1402692+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:10:58.0427358+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:00:17.1416843+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:21.3409603+00:00"
 }

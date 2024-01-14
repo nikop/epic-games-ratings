@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16732,
+  "EOS_Progressed": 16737,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19930,6 +19930,11 @@
       "Time": "2024-01-14T03:11:46.9513653+00:00",
       "NumProgressed": 16732,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T04:12:09.7723411+00:00",
+      "NumProgressed": 16737,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21475,9 +21480,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -21883,9 +21888,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -21915,9 +21920,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -22091,9 +22096,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -22755,9 +22760,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
       "SetID": "9201eeb",
       "Name": "Yazilikaya",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -22804,21 +22809,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16732,
+      "Progressed": 16737,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16732,
+      "Progressed": 16737,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:46.9513649+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:12:09.7723409+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:01:14.9068663+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:46.9523437+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:01:12.9678985+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:12:09.773302+00:00"
 }

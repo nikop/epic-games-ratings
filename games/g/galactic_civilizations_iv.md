@@ -6,36 +6,36 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,813 |
-| Worker Specialization | 76.00% | ~5,737 |
-| First Contact | 72.00% | ~5,435 |
-| Win a Battle | 65.00% | ~4,907 |
-| Anomaly Researcher | 60.00% | ~4,529 |
-| Unleash My Power | 60.00% | ~4,529 |
+| Colonize a Planet | 77.00% | ~5,814 |
+| Worker Specialization | 76.00% | ~5,739 |
+| First Contact | 72.00% | ~5,437 |
+| Win a Battle | 65.00% | ~4,908 |
+| Anomaly Researcher | 60.00% | ~4,531 |
+| Unleash My Power | 60.00% | ~4,531 |
 | Own 30 Planets | 32.00% | ~2,416 |
-| Xenocide | 31.00% | ~2,340 |
-| Design a Civilization | 31.00% | ~2,340 |
-| Commodity Trader | 29.00% | ~2,189 |
-| Design a Ship | 27.00% | ~2,038 |
+| Xenocide | 31.00% | ~2,341 |
+| Design a Civilization | 31.00% | ~2,341 |
+| Commodity Trader | 29.00% | ~2,190 |
+| Design a Ship | 27.00% | ~2,039 |
 | Commodity Seller | 24.00% | ~1,812 |
-| Prestige Victory! | 13.00% | ~981 |
+| Prestige Victory! | 13.00% | ~982 |
 | Galactic War | 10.00% | ~755 |
 | Trading Partner | 8.00% | ~604 |
 | Fleet Victory | 8.00% | ~604 |
 | Gain an Ally | 6.00% | ~453 |
 | Win as Terrans | 6.00% | ~453 |
 | Win with a Custom Faction | 6.00% | ~453 |
-| War with the Unknown | 5.00% | ~377 |
+| War with the Unknown | 5.00% | ~378 |
 | Conquest Victory! | 4.00% | ~302 |
 | Win Quickly | 4.00% | ~302 |
-| Pirate Cleansing | 3.00% | ~226 |
-| Win an Immense Game | 3.00% | ~226 |
+| Pirate Cleansing | 3.00% | ~227 |
+| Win an Immense Game | 3.00% | ~227 |
 | Artifact Mastery | 2.00% | ~151 |
 | Win as Altarians | 2.00% | ~151 |
 | Win as the Yor | 2.00% | ~151 |
 | Influence Victory! | 2.00% | ~151 |
-| Win as the Baratak | 1.00% | ~75 |
-| Win as the Mimot | 1.00% | ~75 |
+| Win as the Baratak | 1.00% | ~76 |
+| Win as the Mimot | 1.00% | ~76 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,549 (Ranked 194)  
+Progressed: 7,551 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,6 +347,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 7,538 | 0 |
 | 2024-01-12 | 7,540 | 0 |
 | 2024-01-13 | 7,549 | 0 |
+| 2024-01-14 | 7,551 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 382)  
 Sum: 701 (Ranked 313)  

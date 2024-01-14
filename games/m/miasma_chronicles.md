@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 789)
 | Dr Jones | 16.00% | ~275 |
 | Newtonian Knockout | 16.00% | ~275 |
 | Ruthless | 14.00% | ~240 |
-| Side Order | 10.00% | ~172 |
+| Side Order | 11.00% | ~189 |
 | Bot Whisperer | 9.00% | ~155 |
 | Chain Reaction | 9.00% | ~155 |
 | Curveball | 8.00% | ~137 |

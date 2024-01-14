@@ -13590,9 +13590,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62553,
+  "EOS_Progressed": 62554,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1218,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39175,6 +39175,11 @@
       "Time": "2024-01-14T03:08:05.3306464+00:00",
       "NumProgressed": 62553,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T04:07:58.6598311+00:00",
+      "NumProgressed": 62554,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -39186,7 +39191,7 @@
       "Name": "Clucky Streak",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "BreedCows",
@@ -39266,7 +39271,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36906
+      "UsersEstimate": 36907
     },
     {
       "ID": "CutTree",
@@ -39314,7 +39319,7 @@
       "Name": "The plot thickens",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "FertilizeFirst",
@@ -39330,7 +39335,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "HarvestedFirst",
@@ -39490,7 +39495,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25021
+      "UsersEstimate": 25022
     },
     {
       "ID": "TruckDriving",
@@ -39498,7 +39503,7 @@
       "Name": "Long haul",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8757
+      "UsersEstimate": 8758
     },
     {
       "ID": "VehicleRepaint",
@@ -39529,15 +39534,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62553,
+      "Progressed": 62554,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-13T21:00:18.3641534+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:08:05.3306457+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:07:58.6598305+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:33.2343402+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:02:50.0219823+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:08:05.3308035+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:02:45.8921028+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:07:58.659989+00:00"
 }

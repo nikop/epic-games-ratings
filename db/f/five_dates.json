@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2288,
+  "EOS_Progressed": 2289,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -4330,6 +4330,11 @@
       "Time": "2024-01-13T23:11:29.6001696+00:00",
       "NumProgressed": 2288,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-14T04:11:48.3409482+00:00",
+      "NumProgressed": 2289,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4341,7 +4346,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "booty_call",
@@ -4349,7 +4354,7 @@
       "Name": "Booty Call",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "crash_and_burn",
@@ -4365,7 +4370,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "hold_my_beer",
@@ -4381,7 +4386,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "interrogation",
@@ -4405,7 +4410,7 @@
       "Name": "Not Alone",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "nueva_beginnings",
@@ -4460,7 +4465,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2288,
+      "Progressed": 2289,
       "Completed": 12
     }
   ],
@@ -4468,8 +4473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:25.9994113+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:48.3409479+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:20.6091046+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:59:34.9363308+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:25.9994377+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:59:36.293349+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:48.3409779+00:00"
 }

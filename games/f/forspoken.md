@@ -13,9 +13,9 @@ Rating: 4.15 (Ranked 1,002)
 | Pilgrimage: Initiate | 8.00% | ~3,778 |
 | Hell of a Run | 8.00% | ~3,778 |
 | Call of the Fount: Baptized | 7.00% | ~3,306 |
-| No Mercy | 6.00% | ~2,833 |
-| Explorer: Seeker | 6.00% | ~2,833 |
-| Help Me Out Here | 6.00% | ~2,833 |
+| No Mercy | 6.00% | ~2,834 |
+| Explorer: Seeker | 6.00% | ~2,834 |
+| Help Me Out Here | 6.00% | ~2,834 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,361 |
 | Stuck | 5.00% | ~2,361 |
 | The Interloper | 4.00% | ~1,889 |
@@ -23,13 +23,13 @@ Rating: 4.15 (Ranked 1,002)
 | Damned If You Do... | 3.00% | ~1,417 |
 | Hop, Step, Jump | 3.00% | ~1,417 |
 | Endless Runner | 3.00% | ~1,417 |
-| What Must Be Done | 2.00% | ~944 |
-| Might and Main | 2.00% | ~944 |
-| The Hue of Blue | 2.00% | ~944 |
-| Breaking Point | 2.00% | ~944 |
-| Explorer: Pathfinder | 2.00% | ~944 |
-| Shocker | 2.00% | ~944 |
-| From Every Angle | 2.00% | ~944 |
+| What Must Be Done | 2.00% | ~945 |
+| Might and Main | 2.00% | ~945 |
+| The Hue of Blue | 2.00% | ~945 |
+| Breaking Point | 2.00% | ~945 |
+| Explorer: Pathfinder | 2.00% | ~945 |
+| Shocker | 2.00% | ~945 |
+| From Every Angle | 2.00% | ~945 |
 | The Truth Will Out | 1.00% | ~472 |
 | None the Wiser | 1.00% | ~472 |
 | Forspoken | 1.00% | ~472 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,002)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,224 (Ranked 127)  
+Progressed: 47,226 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-11 | 47,103 | 4 |
 | 2024-01-12 | 47,151 | 4 |
 | 2024-01-13 | 47,215 | 4 |
-| 2024-01-14 | 47,224 | 4 |
+| 2024-01-14 | 47,226 | 4 |
 ## Awards
 Max (Character Customization): 51  (Ranked 456)  
 Sum: 77 (Ranked 488)  

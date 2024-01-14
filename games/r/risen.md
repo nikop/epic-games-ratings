@@ -19,8 +19,8 @@ Rating: 4.56 (Ranked 509)
 | Idiot | 23.00% | ~46 |
 | Ferocious wild boars | 22.00% | ~44 |
 | Beast slayer | 21.00% | ~42 |
+| Death of a legend | 19.00% | ~38 |
 | Ogre friend | 19.00% | ~38 |
-| Death of a legend | 18.00% | ~36 |
 | Archaeologist | 18.00% | ~36 |
 | Family man | 17.00% | ~34 |
 | Little hero | 17.00% | ~34 |

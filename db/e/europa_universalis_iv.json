@@ -14317,10 +14317,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64552,
       "NumberOfAwardsMax": 7836
+    },
+    {
+      "Time": "2024-01-14T04:01:01.6823367+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64571,
+      "NumberOfAwardsMax": 7836
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64552,
+  "NumberOfAwards": 64571,
   "NumberOfAwardsMax": 7836,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14334,7 +14340,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7454
+      "Count": 7463
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14382,7 +14388,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6026
+      "Count": 6036
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14391,9 +14397,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 498461,
+  "EOS_Progressed": 498486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4540,
+  "EOS_NewPlayers": 4546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45396,6 +45402,11 @@
       "Time": "2024-01-14T03:11:47.8353114+00:00",
       "NumProgressed": 498461,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T04:12:10.5143444+00:00",
+      "NumProgressed": 498486,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -48310,21 +48321,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 498461,
+      "Progressed": 498486,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 498461,
+      "Progressed": 498486,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-14T01:57:17.2483468+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:47.8353109+00:00",
+  "LastChanged": "2024-01-14T04:01:01.6823365+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:12:10.5143442+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:01:03.5077353+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:47.8363341+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:01:01.6823372+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:12:10.5153658+00:00"
 }

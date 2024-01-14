@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Mamma Mia! | 35.00% | ~3,476 |
 | Gabriele D'Annunzio | 32.00% | ~3,178 |
 | Conrad von Hotzensocks | 31.00% | ~3,079 |
-| Silver Lining | 27.00% | ~2,681 |
+| Silver Lining | 27.00% | ~2,682 |
 | Aurelio Baruzzi | 20.00% | ~1,986 |
 | Decimation | 20.00% | ~1,986 |
 | Donatello | 19.00% | ~1,887 |
@@ -27,14 +27,14 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 12.00% | ~1,192 |
 | Dirty Dozen | 12.00% | ~1,192 |
 | Shaken, Not Stirred | 12.00% | ~1,192 |
-| Machiavelli | 11.00% | ~1,092 |
+| Machiavelli | 11.00% | ~1,093 |
 | The Devil's Paintbrush | 10.00% | ~993 |
 | Thus With A Kiss | 10.00% | ~993 |
 | Dante's Inferno | 9.00% | ~894 |
 | I Have the High Ground | 9.00% | ~894 |
 | Millenial | 9.00% | ~894 |
-| The Show Must Go On | 8.00% | ~794 |
-| Tosca | 8.00% | ~794 |
+| The Show Must Go On | 8.00% | ~795 |
+| Tosca | 8.00% | ~795 |
 | 12th Bottle of the Isonzo | 6.00% | ~596 |
 | The Enlightment | 6.00% | ~596 |
 | Cercatore d'Oro | 5.00% | ~497 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,931 (Ranked 184)  
+Progressed: 9,932 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 10 (0.10%) (Ranked 315)
 | 2024-01-11 | 9,904 | 10 |
 | 2024-01-12 | 9,913 | 10 |
 | 2024-01-13 | 9,929 | 10 |
-| 2024-01-14 | 9,931 | 10 |
+| 2024-01-14 | 9,932 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 479)  
 Sum: 341 (Ranked 372)  

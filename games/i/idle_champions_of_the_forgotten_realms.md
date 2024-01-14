@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,153 |
-| Beast Intentions | 2.00% | ~5,076 |
-| The Cursed Farmer | 2.00% | ~5,076 |
+| Beast Intentions | 2.00% | ~5,077 |
+| The Cursed Farmer | 2.00% | ~5,077 |
 | The Ring of Regeneration | 1.00% | ~2,538 |
 | The Mad Wizard | 1.00% | ~2,538 |
 | Are Ya Chicken? | 0.90% | ~2,284 |
@@ -25,10 +25,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.50% | ~1,269 |
 | The Crumbling Temple | 0.50% | ~1,269 |
 | The Contagious Curse | 0.50% | ~1,269 |
-| The Overgrown Grove | 0.50% | ~1,100 |
-| Flames of Avernus | 0.50% | ~1,100 |
-| Mental Gymnastics | 0.50% | ~1,100 |
-| Don't Lose Your Head | 0.50% | ~1,100 |
+| The Overgrown Grove | 0.50% | ~1,101 |
+| Flames of Avernus | 0.50% | ~1,101 |
+| Mental Gymnastics | 0.50% | ~1,101 |
+| Don't Lose Your Head | 0.50% | ~1,101 |
 | Beast Mode | 0.40% | ~1,015 |
 | A Mysterious Summons | 0.40% | ~1,015 |
 | Useless Allies | 0.40% | ~1,015 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,825 (Ranked 70)  
+Progressed: 253,832 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -822,7 +822,7 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
-| 2024-01-14 | 253,825 | 2,616 |
+| 2024-01-14 | 253,832 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,777  (Ranked 74)  
 Sum: 33,481 (Ranked 41)  

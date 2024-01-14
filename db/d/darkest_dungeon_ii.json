@@ -10842,9 +10842,9 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132733,
+  "EOS_Progressed": 132736,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39762,6 +39762,11 @@
       "Time": "2024-01-14T03:11:23.8296742+00:00",
       "NumProgressed": 132733,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T04:11:46.1566056+00:00",
+      "NumProgressed": 132736,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39901,7 +39906,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9291
+      "UsersEstimate": 9292
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40309,7 +40314,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "combat_kill_collector",
@@ -40404,21 +40409,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132733,
+      "Progressed": 132736,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7602,
+      "Progressed": 7605,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T01:54:40.5230035+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:23.8296738+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:46.1566053+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:58:22.076909+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:23.829868+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:58:22.9346463+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:46.1567859+00:00"
 }

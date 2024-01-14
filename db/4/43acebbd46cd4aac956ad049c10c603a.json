@@ -4,7 +4,7 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 18,
   "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 464,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 232,
@@ -331,7 +331,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 1391,
+  "EOS_Progressed": 1392,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -4051,6 +4051,11 @@
       "Time": "2024-01-14T02:01:59.2897474+00:00",
       "NumProgressed": 1391,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T04:05:48.9501676+00:00",
+      "NumProgressed": 1392,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4063,7 +4068,7 @@
       "Name": "Ab Aeterno",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "AbInitio",
@@ -4127,7 +4132,7 @@
       "Name": "Chasing the Light",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Chicken",
@@ -4159,7 +4164,7 @@
       "Name": "Discovery",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "EasternWetlands",
@@ -4231,7 +4236,7 @@
       "Name": "Into the Machine",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "JustOneLap",
@@ -4247,7 +4252,7 @@
       "Name": "Lord of the Files",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "LostMarshes",
@@ -4279,7 +4284,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "MuseumVisitor",
@@ -4455,7 +4460,7 @@
       "Name": "The Spark",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "TheThiefOfFire",
@@ -4471,7 +4476,7 @@
       "Name": "The Word Endures",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "TouchGrass",
@@ -4534,7 +4539,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1391,
+      "Progressed": 1392,
       "Completed": 2
     }
   ],
@@ -4542,8 +4547,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:05:55.0575258+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:05:48.9501673+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:58:06.3771058+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:05:55.057586+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:58:06.3057592+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:05:48.9502202+00:00"
 }

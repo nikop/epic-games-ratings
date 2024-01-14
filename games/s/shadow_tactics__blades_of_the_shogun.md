@@ -19,9 +19,9 @@ Number of Ratings: 495  (23.09.2022)
 | Yabu | 8.00% | ~18,066 |
 | Happy Planning | 7.00% | ~15,808 |
 | Mugen Unchained | 7.00% | ~15,808 |
-| Chunin | 6.00% | ~13,549 |
-| Flying Rocks | 6.00% | ~13,549 |
-| Warzone | 6.00% | ~13,549 |
+| Chunin | 6.00% | ~13,550 |
+| Flying Rocks | 6.00% | ~13,550 |
+| Warzone | 6.00% | ~13,550 |
 | Happy little accidents | 5.00% | ~11,291 |
 | Okkoto | 5.00% | ~11,291 |
 | Prisoners | 5.00% | ~11,291 |
@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | Stoned | 4.00% | ~9,033 |
 | It's raining men | 3.00% | ~6,775 |
 | The Old Way | 3.00% | ~6,775 |
-| Atheist Ox | 2.00% | ~4,516 |
-| No Gimmicks | 2.00% | ~4,516 |
-| Old Man | 2.00% | ~4,516 |
-| The End | 2.00% | ~4,516 |
-| Winner Winner | 2.00% | ~4,516 |
+| Atheist Ox | 2.00% | ~4,517 |
+| No Gimmicks | 2.00% | ~4,517 |
+| Old Man | 2.00% | ~4,517 |
+| The End | 2.00% | ~4,517 |
+| Winner Winner | 2.00% | ~4,517 |
 | Meticulous | 1.00% | ~2,258 |
 | Undeserved Honor | 1.00% | ~2,258 |
 | When Cut Across the Neck | 1.00% | ~2,258 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225,824 (Ranked 79)  
+Progressed: 225,826 (Ranked 79)  
 Completed: 107 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 107 (0.05%) (Ranked 341)
 | 2024-01-11 | 225,398 | 107 |
 | 2024-01-12 | 225,573 | 107 |
 | 2024-01-13 | 225,798 | 107 |
-| 2024-01-14 | 225,824 | 107 |
+| 2024-01-14 | 225,826 | 107 |
 ## Awards
 Max (Great for Beginners): 593  (Ranked 212)  
 Sum: 4,957 (Ranked 151)  

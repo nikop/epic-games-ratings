@@ -2146,9 +2146,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 494060,
+  "EOS_Progressed": 494061,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 491,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30646,6 +30646,11 @@
       "Time": "2024-01-14T03:10:55.3192587+00:00",
       "NumProgressed": 494060,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T04:11:18.5621218+00:00",
+      "NumProgressed": 494061,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -30713,7 +30718,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 291495
+      "UsersEstimate": 291496
     },
     {
       "ID": "CHAS",
@@ -30825,7 +30830,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 365604
+      "UsersEstimate": 365605
     },
     {
       "ID": "FILTHYRICH",
@@ -30857,7 +30862,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 207505
+      "UsersEstimate": 207506
     },
     {
       "ID": "FLURRY",
@@ -30913,7 +30918,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 158099
+      "UsersEstimate": 158100
     },
     {
       "ID": "GUNCRAZY",
@@ -30929,7 +30934,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385367
+      "UsersEstimate": 385368
     },
     {
       "ID": "HEADTRAUMA",
@@ -30945,7 +30950,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385367
+      "UsersEstimate": 385368
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -30953,7 +30958,7 @@
       "Name": "High Voltage",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 118574
+      "UsersEstimate": 118575
     },
     {
       "ID": "INDECISIVE",
@@ -30969,7 +30974,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 316198
+      "UsersEstimate": 316199
     },
     {
       "ID": "KABOOM",
@@ -31001,7 +31006,7 @@
       "Name": "Liquidator",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 143277
+      "UsersEstimate": 143278
     },
     {
       "ID": "MAJESTICPONY",
@@ -31105,7 +31110,7 @@
       "Name": "Penny Pincher",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 242089
+      "UsersEstimate": 242090
     },
     {
       "ID": "PEWPEW",
@@ -31201,7 +31206,7 @@
       "Name": "Sharpshooter",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 167980
+      "UsersEstimate": 167981
     },
     {
       "ID": "SHELLSHOCKED",
@@ -31352,15 +31357,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 494060,
+      "Progressed": 494061,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2024-01-14T00:03:16.5226062+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:10:55.3192582+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:11:18.5621216+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:50.0654494+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:04:14.900962+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:10:55.3194585+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:04:09.1875927+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:11:18.5623125+00:00"
 }

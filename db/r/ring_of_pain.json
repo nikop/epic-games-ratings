@@ -3916,7 +3916,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242915,
+  "EOS_Progressed": 242918,
   "EOS_Completed": 306,
   "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 2,
@@ -31746,6 +31746,11 @@
       "Time": "2024-01-14T03:11:46.1992726+00:00",
       "NumProgressed": 242915,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T04:12:08.6700243+00:00",
+      "NumProgressed": 242918,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31917,7 +31922,7 @@
       "Name": "To The Death!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "DIEHARD",
@@ -31965,7 +31970,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "ENDINGCHOICE",
@@ -32013,7 +32018,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "FREEZE20TIMES",
@@ -32133,7 +32138,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "HUGESOULSPILL",
@@ -32269,7 +32274,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -32421,7 +32426,7 @@
       "Name": "Doing Time",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "POISON300",
@@ -32445,7 +32450,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "POISONSELF20",
@@ -32860,13 +32865,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242915,
+      "Progressed": 242918,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4395,
+      "Progressed": 4398,
       "Completed": 425
     }
   ],
@@ -32874,8 +32879,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:11:46.1992721+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:12:08.6700241+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:02:03.0971055+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:11:46.1995267+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:02:01.4485138+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:12:08.6702743+00:00"
 }

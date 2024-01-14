@@ -3947,9 +3947,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20764,
+  "EOS_Progressed": 20766,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19567,6 +19567,11 @@
       "Time": "2024-01-14T03:08:48.3812024+00:00",
       "NumProgressed": 20764,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T04:08:42.5090016+00:00",
+      "NumProgressed": 20766,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19675,7 +19680,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "WinImpossible",
@@ -19843,7 +19848,7 @@
       "Name": "Coral Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "WinOnCursed",
@@ -19859,7 +19864,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "WinOnMoorlands",
@@ -19867,7 +19872,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "WinPrestige10",
@@ -20027,7 +20032,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20050,15 +20055,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20764,
+      "Progressed": 20766,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:08:48.3812018+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:08:42.5090012+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:02:34.6611568+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:08:48.3813079+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:02:32.7393723+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:08:42.5091017+00:00"
 }

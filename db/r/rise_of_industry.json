@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 768408,
+  "EOS_Progressed": 768412,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1870,
+  "EOS_NewPlayers": 1859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31311,6 +31311,11 @@
       "Time": "2024-01-14T03:05:43.6143457+00:00",
       "NumProgressed": 768408,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T04:05:37.4543327+00:00",
+      "NumProgressed": 768412,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -31346,7 +31351,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 46104
+      "UsersEstimate": 46105
     },
     {
       "ID": "ach_build_bridge",
@@ -31386,7 +31391,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 284311
+      "UsersEstimate": 284312
     },
     {
       "ID": "ach_demolish_trees",
@@ -31394,7 +31399,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 130629
+      "UsersEstimate": 130630
     },
     {
       "ID": "ach_free_cam_mode",
@@ -31418,7 +31423,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 46104
+      "UsersEstimate": 46105
     },
     {
       "ID": "ach_max_truck_distance",
@@ -31450,7 +31455,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 368836
+      "UsersEstimate": 368838
     },
     {
       "ID": "ach_produced",
@@ -31458,7 +31463,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99893
+      "UsersEstimate": 99894
     },
     {
       "ID": "ach_products_moved",
@@ -31466,7 +31471,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 122945
+      "UsersEstimate": 122946
     },
     {
       "ID": "ach_raise_money",
@@ -31490,7 +31495,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 99893
+      "UsersEstimate": 99894
     },
     {
       "ID": "ach_setup_route_boat",
@@ -31537,7 +31542,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 768408,
+      "Progressed": 768412,
       "Completed": 4
     }
   ],
@@ -31545,8 +31550,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2024-01-07T11:01:40.5660673+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:05:43.6143448+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:05:37.4543322+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:34.1279614+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:02:05.8961277+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:05:43.6144966+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:02:04.1155485+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:05:37.4544978+00:00"
 }

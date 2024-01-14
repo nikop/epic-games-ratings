@@ -8,9 +8,9 @@
 | Decision Maker | 81.00% | ~295 |
 | Sneaky Sneak | 77.00% | ~280 |
 | DIY | 77.00% | ~280 |
-| Master Chef | 65.00% | ~237 |
+| Master Chef | 66.00% | ~240 |
 | Master of Cards | 58.00% | ~211 |
-| Over Nine Thousaaand | 56.00% | ~204 |
+| Over Nine Thousaaand | 57.00% | ~207 |
 | Getting the Hang Of This | 48.00% | ~175 |
 | Collector | 29.00% | ~106 |
 | That’s What Friends Are For | 22.00% | ~80 |

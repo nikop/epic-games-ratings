@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 213.00% | ~1,896 |
 | Super Spelunker | 156.00% | ~1,388 |
 | Iron Chef | 146.00% | ~1,299 |
-| Officially Official | 128.00% | ~1,139 |
+| Officially Official | 129.00% | ~1,148 |
 | The Little Wood that Could | 124.00% | ~1,104 |
 | On that Grindset | 120.00% | ~1,068 |
 | Greeno-B-Gone | 113.00% | ~1,006 |
@@ -31,14 +31,14 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 80.00% | ~712 |
 | I Do! | 80.00% | ~712 |
 | No Mountain Wide Enough | 79.00% | ~703 |
-| Builder of the Month | 76.00% | ~676 |
+| Builder of the Month | 77.00% | ~685 |
 | Can We Keep It? | 76.00% | ~676 |
 | Bridging the Gap | 74.00% | ~659 |
 | Waste Not Want Not | 72.00% | ~641 |
 | Commissions, commissions...! | 69.00% | ~614 |
 | Elementary, My Dear | 69.00% | ~614 |
 | Got the Flow Back | 68.00% | ~605 |
-| Lifeline Pipeline | 64.00% | ~570 |
+| Lifeline Pipeline | 65.00% | ~578 |
 | Sepia Toned Memories | 61.00% | ~543 |
 | Who Ya Gonna Call...? | 60.00% | ~534 |
 | Martle's Dream | 59.00% | ~525 |

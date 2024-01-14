@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2724,9 +2724,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44466,
+  "EOS_Progressed": 44467,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11234,6 +11234,11 @@
       "Time": "2024-01-14T02:01:19.3711771+00:00",
       "NumProgressed": 44466,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-14T04:05:09.5275226+00:00",
+      "NumProgressed": 44467,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11245,7 +11250,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27569
+      "UsersEstimate": 27570
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11301,7 +11306,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12451
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -11453,7 +11458,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11493,7 +11498,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21788
+      "UsersEstimate": 21789
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11509,7 +11514,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13785
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -11533,7 +11538,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16452
+      "UsersEstimate": 16453
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11565,7 +11570,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16452
+      "UsersEstimate": 16453
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11573,7 +11578,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31126
+      "UsersEstimate": 31127
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11589,7 +11594,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13784
+      "UsersEstimate": 13785
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -11645,7 +11650,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29792
+      "UsersEstimate": 29793
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11685,7 +11690,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15118
+      "UsersEstimate": 15119
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -11772,15 +11777,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44466,
+      "Progressed": 44467,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-13T07:57:48.1921674+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:05:15.3454899+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T02:57:16.5382429+00:00",
-  "LastUpdate_Ratings": "2024-01-14T02:58:58.7235332+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:05:15.345572+00:00"
+  "LastChanged_Achievements": "2024-01-14T04:05:09.5275221+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
+  "LastUpdate_Ratings": "2024-01-14T03:58:59.2539102+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:05:09.5276256+00:00"
 }

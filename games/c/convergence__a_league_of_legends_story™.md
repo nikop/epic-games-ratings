@@ -39,7 +39,7 @@ Rating: 4.70 (Ranked 220)
 | Treasure Trove | 12.00% | ~159 |
 | Cartographer | 12.00% | ~159 |
 | Sump Explorer | 12.00% | ~159 |
-| Factorywood Explorer | 10.00% | ~132 |
+| Factorywood Explorer | 11.00% | ~145 |
 | Fairgrounds Explorer | 10.00% | ~132 |
 | Theater Explorer | 10.00% | ~132 |
 | Cultivair Explorer | 9.00% | ~119 |

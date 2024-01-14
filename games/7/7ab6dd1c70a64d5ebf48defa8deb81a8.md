@@ -7,7 +7,7 @@ Rating: 4.17 (Ranked 990)
 | ---- | ---------- | ----- |
 | Break Out | 64.00% | ~1,480 |
 | Trinity | 34.00% | ~786 |
-| The Collector | 28.00% | ~647 |
+| The Collector | 27.00% | ~625 |
 | Find Allies | 26.00% | ~601 |
 | A Taste of Wrath | 26.00% | ~601 |
 | Geared Up | 25.00% | ~578 |
@@ -18,7 +18,7 @@ Rating: 4.17 (Ranked 990)
 | Fashion Victim | 23.00% | ~532 |
 | Tributes of Caladrias | 22.00% | ~509 |
 | Stone Collection | 22.00% | ~509 |
-| Powerful Allies | 20.00% | ~462 |
+| Powerful Allies | 20.00% | ~463 |
 | Big Bazar | 14.00% | ~324 |
 | Alchemist | 14.00% | ~324 |
 | Essence Blow | 13.00% | ~301 |
@@ -29,8 +29,8 @@ Rating: 4.17 (Ranked 990)
 | Airborne | 8.00% | ~185 |
 | Miner | 8.00% | ~185 |
 | Shatterer | 5.00% | ~116 |
-| Clear Sight | 4.00% | ~92 |
-| Fine Feathers Make Fine Birds | 4.00% | ~92 |
+| Clear Sight | 4.00% | ~93 |
+| Fine Feathers Make Fine Birds | 4.00% | ~93 |
 | Slayer | 3.00% | ~69 |
 | A Queen's Tale | 3.00% | ~69 |
 | Shardbearer | 2.00% | ~46 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 990)
 | All That Gold | 0.70% | ~16 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,312 (Ranked 246)  
+Progressed: 2,313 (Ranked 246)  
 Completed: 3 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,7 +136,7 @@ Completed: 3 (0.13%) (Ranked 301)
 | 2024-01-11 | 2,245 | 4 |
 | 2024-01-12 | 2,273 | 4 |
 | 2024-01-13 | 2,309 | 3 |
-| 2024-01-14 | 2,312 | 3 |
+| 2024-01-14 | 2,313 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

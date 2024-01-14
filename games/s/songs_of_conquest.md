@@ -6,12 +6,12 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~541 |
-| Double Kill | 40.00% | ~470 |
-| Critical Hit | 23.00% | ~270 |
-| Veteran | 23.00% | ~270 |
-| Dressed For Success | 15.00% | ~176 |
-| Veni, Vidi, Vici | 11.00% | ~129 |
+| Adept | 46.00% | ~542 |
+| Double Kill | 40.00% | ~471 |
+| Critical Hit | 23.00% | ~271 |
+| Veteran | 23.00% | ~271 |
+| Dressed For Success | 15.00% | ~177 |
+| Veni, Vidi, Vici | 11.00% | ~130 |
 | Humiliation | 10.00% | ~118 |
 | Multi Kill | 9.00% | ~106 |
 | Sorcerous Spree | 9.00% | ~106 |
@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | The Song of Stoutheart | 6.00% | ~71 |
 | Whoops! | 6.00% | ~71 |
 | Don't Touch My Stuff | 6.00% | ~71 |
-| Trojan Horse | 5.00% | ~59 |
+| Trojan Horse | 4.00% | ~47 |
 | Expert Essence Employment | 4.00% | ~47 |
 | Ultra Kill | 3.00% | ~35 |
 | This Spot's Taken | 2.00% | ~24 |
@@ -32,8 +32,8 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 1.00% | ~12 |
 | Such A Fungi | 1.00% | ~12 |
 | Grand Master | 1.00% | ~12 |
-| Versatile Wielder | 0.90% | ~11 |
 | Together For Her | 0.90% | ~11 |
+| Versatile Wielder | 0.80% | ~9 |
 | Unlimited Power! | 0.70% | ~8 |
 | Cleave | 0.70% | ~8 |
 | Killing Spree | 0.60% | ~7 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,176 (Ranked 288)  
+Progressed: 1,178 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 1,137 | 0 |
 | 2024-01-12 | 1,150 | 0 |
 | 2024-01-13 | 1,175 | 0 |
-| 2024-01-14 | 1,176 | 0 |
+| 2024-01-14 | 1,178 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 525)  
 Sum: 252 (Ranked 399)  

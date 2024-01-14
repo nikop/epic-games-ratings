@@ -25,7 +25,7 @@ Rating: 4.64 (Ranked 343)
 | Botanical Breakthrough | 1.00% | ~90 |
 | Azorian Anniversary | 1.00% | ~90 |
 | Skilled | 1.00% | ~90 |
-| Flaming Hot Completos | 0.80% | ~72 |
+| Flaming Hot Completos | 0.90% | ~81 |
 | Fae Farmer | 0.70% | ~63 |
 | Got to Catch Them All | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.70% | ~63 |

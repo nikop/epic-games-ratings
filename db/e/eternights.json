@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3349,6 +3349,11 @@
       "Time": "2024-01-14T03:10:26.7650306+00:00",
       "NumProgressed": 899,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T04:10:50.2291248+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3361,7 +3366,7 @@
       "Name": "New arm",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3441,7 +3446,7 @@
       "Name": "Shelter Escape",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3497,7 +3502,7 @@
       "Name": "The First Bond",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3505,7 +3510,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3560,7 +3565,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 2
     }
   ],
@@ -3568,8 +3573,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:10:26.7650303+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:10:50.2291245+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:01:50.1457897+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:10:26.7650594+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:01:47.1989895+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:10:50.229177+00:00"
 }

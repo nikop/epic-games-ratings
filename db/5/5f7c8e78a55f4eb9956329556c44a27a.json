@@ -2,9 +2,9 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -1144,6 +1144,11 @@
       "Time": "2024-01-14T00:06:51.6657099+00:00",
       "NumProgressed": 276,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T04:08:00.5123018+00:00",
+      "NumProgressed": 277,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1156,7 +1161,7 @@
       "Name": "Administrator",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1170,9 +1175,9 @@
       "ID": "TINGWD_BEATEM",
       "SetID": "c0imaa6",
       "Name": "This is not a Beat\u0027em up",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "TINGWD_BLUEMOON",
@@ -1186,9 +1191,9 @@
       "ID": "TINGWD_BUTTON_PLAY",
       "SetID": "c0imaa6",
       "Name": "I want to PLAY!!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
@@ -1218,9 +1223,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 219
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1228,15 +1233,15 @@
       "Name": "A soundly led quest",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -1260,7 +1265,7 @@
       "Name": "Home at last",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -1276,7 +1281,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1284,7 +1289,7 @@
       "Name": "Private Detective",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1332,7 +1337,7 @@
       "Name": "Have you no shame?",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1354,9 +1359,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1412,7 +1417,7 @@
       "Name": "It\u0027s a trap!",
       "Percentage": 41,
       "XP": 120,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1427,14 +1432,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:08:07.1476953+00:00",
+  "LastChanged_Achievements": "2024-01-14T04:08:00.5123013+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.2042305+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:03:42.2795088+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:08:07.1477262+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:03:37.2936089+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:08:00.5123333+00:00"
 }

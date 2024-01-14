@@ -2536,9 +2536,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 225824,
+  "EOS_Progressed": 225826,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1309,
+  "EOS_NewPlayers": 1304,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33471,6 +33471,11 @@
       "Time": "2024-01-14T03:07:32.3157161+00:00",
       "NumProgressed": 225824,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-14T04:07:25.8062728+00:00",
+      "NumProgressed": 225826,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33490,7 +33495,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "ChickenDinner",
@@ -33506,7 +33511,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13549
+      "UsersEstimate": 13550
     },
     {
       "ID": "CompleteMastery",
@@ -33538,7 +33543,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13549
+      "UsersEstimate": 13550
     },
     {
       "ID": "GearUp",
@@ -33642,7 +33647,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "Noboru",
@@ -33666,7 +33671,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "PraiseTheShogun",
@@ -33754,7 +33759,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "TheOldWay",
@@ -33802,7 +33807,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13549
+      "UsersEstimate": 13550
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -33818,7 +33823,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "Yabu",
@@ -33833,15 +33838,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 225824,
+      "Progressed": 225826,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-12T17:58:29.8634913+00:00",
-  "LastChanged_Achievements": "2024-01-14T03:07:32.3157156+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T02:57:34.88387+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:01:04.2595723+00:00",
-  "LastUpdate_Achievements": "2024-01-14T03:07:32.3158697+00:00"
+  "LastChanged_Achievements": "2024-01-14T04:07:25.8062722+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
+  "LastUpdate_Ratings": "2024-01-14T04:01:02.4317904+00:00",
+  "LastUpdate_Achievements": "2024-01-14T04:07:25.8065336+00:00"
 }
