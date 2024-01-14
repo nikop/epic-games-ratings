@@ -2,10 +2,10 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-28T09:00:00+00:00",
     "PcReleaseDate": "2021-08-31T00:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -750,6 +750,11 @@
       "Time": "2024-01-13T09:05:13.8528654+00:00",
       "NumProgressed": 177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T07:05:09.4854431+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T17:04:51.255408+00:00",
@@ -810,7 +815,7 @@
       "Name": "Practice Makes Postmasters",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "completeFall",
@@ -834,7 +839,7 @@
       "Name": "You\u0027re Hired",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "completeSummer",
@@ -842,7 +847,7 @@
       "Name": "Fun in the Bungalow Basin Sun",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "completeTheFirstWeek",
@@ -866,7 +871,7 @@
       "Name": "Working for the Kiweekend",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "goldOnAllLevels",
@@ -921,13 +926,13 @@
     {
       "ID": "cfe0fhi",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 0
     },
     {
       "ID": "cfj6lld",
       "IsBase": false,
-      "Progressed": 177,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
@@ -935,8 +940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:05:04.3967554+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:05:09.4854429+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:29.6241281+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:57:14.1559164+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:05:04.3967767+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:57:11.4226095+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:05:09.4854599+00:00"
 }

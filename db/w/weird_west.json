@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -3076,9 +3076,9 @@
       "ID": "ACH_CHAIN_REACTION",
       "SetID": "8j30i9k",
       "Name": "Chain Reaction",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -3508,8 +3508,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:04:55.9252296+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:05:01.0419589+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:39.6582553+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:57:36.4232328+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:04:55.9252749+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:57:34.5791443+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:05:01.0420305+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1496,9 +1496,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "collect_items_mother",
@@ -1848,9 +1848,9 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "view_most_of_photos",
@@ -1887,8 +1887,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:08:59.4485007+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:09:13.0288475+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:00:11.3414958+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:08:59.4485457+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:00:06.3607789+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:09:13.0288906+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16743,
+  "EOS_Progressed": 16744,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19945,6 +19945,11 @@
       "Time": "2024-01-14T06:10:14.6178707+00:00",
       "NumProgressed": 16743,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T07:10:27.5674043+00:00",
+      "NumProgressed": 16744,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20610,9 +20615,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
       "SetID": "9201eeb",
       "Name": "Victorious",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
@@ -21754,9 +21759,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 100
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -21970,9 +21975,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -22819,21 +22824,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16743,
+      "Progressed": 16744,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16743,
+      "Progressed": 16744,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:10:14.6178702+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:10:27.5674041+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:59:28.7268851+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:10:14.618825+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:59:24.4959914+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:10:27.5684258+00:00"
 }

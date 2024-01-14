@@ -1891,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168094,
+  "EOS_Progressed": 168102,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1108,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23021,6 +23021,11 @@
       "Time": "2024-01-14T06:06:03.464081+00:00",
       "NumProgressed": 168094,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-14T07:06:08.76637+00:00",
+      "NumProgressed": 168102,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23057,7 +23062,7 @@
       "Name": "Assimilation",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -23193,7 +23198,7 @@
       "Name": "Celebration",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -23400,21 +23405,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167677,
+      "Progressed": 167685,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168094,
+      "Progressed": 168102,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:06:03.4640806+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:06:08.7663698+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:57:53.100589+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:06:03.4642144+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:57:53.0367028+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:06:08.7664896+00:00"
 }

@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,751 (Ranked 92)  
+Progressed: 132,752 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,751 | 4 |
+| 2024-01-14 | 132,752 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,637 (Ranked 58)  
+Sum: 21,638 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -361,7 +361,7 @@ Diff (max vs sum): -7
 | This game has Unique Visuals | 1,470 |
 | This game has Amazing Storytelling | 1,446 |
 | This game has Quickly Understood Controls | 1,417 |
-| This game has a Creative Community | 1,094 |
+| This game has a Creative Community | 1,095 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -718,4 +718,4 @@ Diff (max vs sum): -7
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
-| 2024-01-14 | 4.68 | - | 8,016 | 21,637 |
+| 2024-01-14 | 4.68 | - | 8,016 | 21,638 |

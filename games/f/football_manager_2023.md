@@ -5,12 +5,12 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~256,311 |
-| The Player Whisperer | 68.00% | ~252,596 |
-| One of Us, One of Us! | 62.00% | ~230,308 |
+| Motivational Speaker | 69.00% | ~256,312 |
+| The Player Whisperer | 68.00% | ~252,597 |
+| One of Us, One of Us! | 62.00% | ~230,309 |
 | Clean Sheet | 55.00% | ~204,306 |
 | First Victory | 55.00% | ~204,306 |
-| #DoneDeal | 54.00% | ~200,591 |
+| #DoneDeal | 54.00% | ~200,592 |
 | Off the Books | 52.00% | ~193,162 |
 | Super-Sub | 52.00% | ~193,162 |
 | Hat-trick | 47.00% | ~174,589 |
@@ -19,7 +19,7 @@ Rating: 4.75 (Ranked 150)
 | Scoring Streak | 41.00% | ~152,301 |
 | Wheeler Dealer | 41.00% | ~152,301 |
 | Thumping | 40.00% | ~148,586 |
-| People Pleaser | 39.00% | ~144,871 |
+| People Pleaser | 39.00% | ~144,872 |
 | Unbeatable! | 38.00% | ~141,157 |
 | One Of Our Own | 37.00% | ~137,442 |
 | They're a Natural | 32.00% | ~118,869 |
@@ -43,7 +43,7 @@ Rating: 4.75 (Ranked 150)
 | The Special One | 24.00% | ~89,152 |
 | Shots For Days | 24.00% | ~89,152 |
 | What A Goal! | 23.00% | ~85,437 |
-| Goal Machine | 22.00% | ~81,722 |
+| Goal Machine | 22.00% | ~81,723 |
 | Immovable Object | 21.00% | ~78,008 |
 | Cup Glory! | 21.00% | ~78,008 |
 | Splashing the Cash | 20.00% | ~74,293 |
@@ -52,7 +52,7 @@ Rating: 4.75 (Ranked 150)
 | Cash to Burn | 17.00% | ~63,149 |
 | Window Shopping | 15.00% | ~55,720 |
 | Top Form | 14.00% | ~52,005 |
-| A Game of Two Halves | 13.00% | ~48,290 |
+| A Game of Two Halves | 13.00% | ~48,291 |
 | You're Up! | 12.00% | ~44,576 |
 | Money, Money, Money | 11.00% | ~40,861 |
 | Superb Strike | 9.00% | ~33,432 |
@@ -106,7 +106,7 @@ Rating: 4.75 (Ranked 150)
 | 200 Club | 0.10% | ~371 |
 | Draft Value | 0.10% | ~371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,465 (Ranked 57)  
+Progressed: 371,466 (Ranked 57)  
 Completed: 30 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,7 +375,7 @@ Completed: 30 (0.01%) (Ranked 376)
 | 2024-01-11 | 371,061 | 30 |
 | 2024-01-12 | 371,234 | 30 |
 | 2024-01-13 | 371,433 | 30 |
-| 2024-01-14 | 371,465 | 30 |
+| 2024-01-14 | 371,466 | 30 |
 ## Awards
 Max (Diverse Characters): 1,372  (Ranked 143)  
 Sum: 9,383 (Ranked 99)  

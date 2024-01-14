@@ -49,6 +49,7 @@ Number of Ratings: 371  (23.09.2022)
 | Exercise in Restraint | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.50% | ~19 |
+| Deadshot | 0.40% | ~16 |
 | Suffer Not the Mutant | 0.40% | ~16 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
@@ -56,7 +57,6 @@ Number of Ratings: 371  (23.09.2022)
 | Warp Flickers | 0.30% | ~12 |
 | Phalanx | 0.30% | ~12 |
 | Killing Rampage | 0.30% | ~12 |
-| Deadshot | 0.30% | ~12 |
 | The Flesh is Weak | 0.20% | ~8 |
 | Opportunist | 0.20% | ~8 |
 | Brothers in Arms | 0.20% | ~8 |

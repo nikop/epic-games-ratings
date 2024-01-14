@@ -162,6 +162,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Italian Ambition | 0.10% | ~499 |
 | It's All Greek To Me | 0.10% | ~499 |
 | Je maintiendrai | 0.10% | ~499 |
+| Jihad | 0.10% | ~499 |
 | Just a Little Patience | 0.10% | ~499 |
 | Just Resting In My Account | 0.10% | ~499 |
 | A Kaiser not just in name | 0.10% | ~499 |
@@ -268,6 +269,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sweet Harmony | 0.10% | ~499 |
 | Sweet Home Qaraqorum | 0.10% | ~499 |
 | Switzerlake | 0.10% | ~499 |
+| Sworn Fealty | 0.10% | ~499 |
 | Take that, von Habsburgs! | 0.10% | ~499 |
 | Tatarstan | 0.10% | ~499 |
 | Tear Down This Wall | 0.10% | ~499 |
@@ -347,7 +349,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Jihad | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
@@ -363,14 +364,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sailor Mon | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
-| Sworn Fealty | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,513 (Ranked 42)  
+Progressed: 498,529 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
-| 2024-01-14 | 498,513 | 1 |
+| 2024-01-14 | 498,529 | 1 |
 ## Awards
 Max (Educational): 7,836  (Ranked 52)  
 Sum: 64,571 (Ranked 24)  

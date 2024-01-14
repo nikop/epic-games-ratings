@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9547,9 +9547,9 @@
       "Count": 3639
     }
   ],
-  "EOS_Progressed": 253844,
+  "EOS_Progressed": 253853,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1604,
+  "EOS_NewPlayers": 1594,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40027,6 +40027,11 @@
       "Time": "2024-01-14T06:10:16.0035916+00:00",
       "NumProgressed": 253844,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-14T07:10:28.8550089+00:00",
+      "NumProgressed": 253853,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -41718,7 +41723,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "objective_completed_35",
@@ -43182,7 +43187,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "objective_completed_70",
@@ -44310,7 +44315,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "objective_completed_1352",
@@ -44318,7 +44323,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "objective_completed_1557",
@@ -44334,7 +44339,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "objective_completed_1562",
@@ -44350,7 +44355,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "objective_completed_598",
@@ -44366,7 +44371,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "objective_completed_678",
@@ -44398,28 +44403,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220118,
+      "Progressed": 220127,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253844,
+      "Progressed": 253853,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-14T01:58:30.3265751+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:10:16.0035912+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:10:28.8550086+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:00:12.0800468+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:10:16.0059688+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:00:06.504853+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:10:28.8574757+00:00"
 }

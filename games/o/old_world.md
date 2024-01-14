@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
 | Points Victory | 0.80% | ~134 |
+| Victorious | 0.70% | ~117 |
 | Landowners | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |
 | Hittite Iron | 0.70% | ~117 |
@@ -98,12 +99,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.60% | ~100 |
 | Ready | 0.60% | ~100 |
 | Subjugator | 0.60% | ~100 |
-| Victorious | 0.60% | ~100 |
 | Riders | 0.60% | ~100 |
 | Circus Maximus | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
 | Learn to Play 4 | 0.60% | ~100 |
+| Assyrian Paganism | 0.60% | ~100 |
 | Industrial Progress | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
@@ -119,10 +120,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.50% | ~84 |
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
-| Assyrian Paganism | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
 | Gnosticism | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
+| Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
 | Kushite Pyramids | 0.50% | ~84 |
@@ -131,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.40% | ~67 |
 | Hittite Paganism | 0.40% | ~67 |
 | Revelation | 0.40% | ~67 |
-| Veneration | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
 | Turreted Elephant | 0.40% | ~67 |
 | All Nations | 0.40% | ~67 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,743 (Ranked 169)  
+Progressed: 16,744 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,743 | 5 |
+| 2024-01-14 | 16,744 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

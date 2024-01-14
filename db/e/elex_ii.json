@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1679,9 +1679,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ALLCOMBAT",
@@ -1895,9 +1895,9 @@
       "ID": "KILL20MONSTER",
       "SetID": "a1angca",
       "Name": "Hunter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "KILL20SKYANDS",
@@ -1959,8 +1959,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:04:41.8205758+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:04:47.2734629+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:58:44.4229321+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:04:41.8206218+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:58:40.3024555+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:04:47.2734974+00:00"
 }

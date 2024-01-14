@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2889,
+  "EOS_Progressed": 2890,
   "EOS_Completed": 270,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 9.35,
+  "EOS_Completed_Percentage": 9.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8436,6 +8436,11 @@
       "Time": "2024-01-14T05:10:32.934746+00:00",
       "NumProgressed": 2889,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2024-01-14T07:09:27.2588451+00:00",
+      "NumProgressed": 2890,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 12,
@@ -8487,7 +8492,7 @@
       "Name": "Jakob",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Jude",
@@ -8495,7 +8500,7 @@
       "Name": "Jude",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Le Juif et la France",
@@ -8503,7 +8508,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Little Helper",
@@ -8511,7 +8516,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8542,7 +8547,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2889,
+      "Progressed": 2890,
       "Completed": 270
     }
   ],
@@ -8550,8 +8555,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:09:14.3892255+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:09:27.2588448+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:13.5521392+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:57:09.4530657+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:09:14.3892818+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:57:06.068123+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:09:27.258892+00:00"
 }

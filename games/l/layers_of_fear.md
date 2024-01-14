@@ -28,11 +28,11 @@
 | First steps | 9.00% | ~29 |
 | The tragedy unfolds | 9.00% | ~29 |
 | Breaking free | 8.00% | ~26 |
+| True Reflection | 8.00% | ~26 |
+| Casting Finished | 7.00% | ~23 |
 | Heavy Burden | 7.00% | ~23 |
 | Instinct of self-preservation | 7.00% | ~23 |
 | Fisherman | 7.00% | ~23 |
-| True Reflection | 7.00% | ~23 |
-| Casting Finished | 6.00% | ~20 |
 | I remember It Like Was Yesterday | 5.00% | ~16 |
 | Something to think about | 4.00% | ~13 |
 | We Are Not Alone | 3.00% | ~10 |

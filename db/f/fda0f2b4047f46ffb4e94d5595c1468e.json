@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5127,9 +5127,9 @@
       "Count": 613
     }
   ],
-  "EOS_Progressed": 23791,
+  "EOS_Progressed": 23792,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1747,
+  "EOS_NewPlayers": 1739,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16392,6 +16392,11 @@
       "Time": "2024-01-14T06:08:47.2653819+00:00",
       "NumProgressed": 23791,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T07:09:00.8481023+00:00",
+      "NumProgressed": 23792,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16428,7 +16433,7 @@
       "Name": "What Just Happened??",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "ach05",
@@ -16444,7 +16449,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15940
+      "UsersEstimate": 15941
     },
     {
       "ID": "ach07",
@@ -16460,7 +16465,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7376
     },
     {
       "ID": "ach09",
@@ -16516,7 +16521,7 @@
       "Name": "Give A Koin",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "ach16",
@@ -16532,7 +16537,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9516
+      "UsersEstimate": 9517
     },
     {
       "ID": "ach18",
@@ -16540,7 +16545,7 @@
       "Name": "Adventure Time",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "ach19",
@@ -16588,7 +16593,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6899
+      "UsersEstimate": 6900
     },
     {
       "ID": "ach25",
@@ -16716,7 +16721,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "ach41",
@@ -16732,7 +16737,7 @@
       "Name": "Quest Master",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7375
+      "UsersEstimate": 7376
     },
     {
       "ID": "ach43",
@@ -16796,14 +16801,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23791,
+      "Progressed": 23792,
       "Completed": 2
     }
   ],
@@ -16811,8 +16816,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-14T04:03:48.2761431+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:08:47.2653815+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:09:00.8481019+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:02:51.8443773+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:08:47.265471+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:02:56.6844148+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:09:00.8481878+00:00"
 }

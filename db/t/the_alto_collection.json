@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -976,9 +976,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 54775,
+  "EOS_Progressed": 54776,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 913,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31581,6 +31581,11 @@
       "Time": "2024-01-14T06:04:40.8855748+00:00",
       "NumProgressed": 54775,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T07:04:46.1965616+00:00",
+      "NumProgressed": 54776,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -31630,9 +31635,9 @@
       "ID": "goals10",
       "SetID": "2lgngib",
       "Name": "Rookie",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 14789
+      "UsersEstimate": 15337
     },
     {
       "ID": "goals180",
@@ -31903,15 +31908,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 54775,
+      "Progressed": 54776,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-12T14:57:17.4560047+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:04:40.8855745+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:04:46.1965614+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:58:05.1765195+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:04:40.885704+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:58:02.5373731+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:04:46.1967398+00:00"
 }

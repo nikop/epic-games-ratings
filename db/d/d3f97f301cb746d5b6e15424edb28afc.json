@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5242,9 +5242,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1208
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -5603,8 +5603,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:03:34.4449904+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:03:38.8605278+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:00:30.4556497+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:03:34.445133+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:02:35.8948521+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:03:38.8606246+00:00"
 }

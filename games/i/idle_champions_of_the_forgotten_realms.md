@@ -9,8 +9,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 4.00% | ~10,154 |
 | Beast Intentions | 2.00% | ~5,077 |
 | The Cursed Farmer | 2.00% | ~5,077 |
-| The Ring of Regeneration | 1.00% | ~2,538 |
-| The Mad Wizard | 1.00% | ~2,538 |
+| The Ring of Regeneration | 1.00% | ~2,539 |
+| The Mad Wizard | 1.00% | ~2,539 |
 | Are Ya Chicken? | 0.90% | ~2,285 |
 | Were-verpowered | 0.80% | ~2,031 |
 | Welcome to Sigil | 0.80% | ~1,761 |
@@ -34,12 +34,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.40% | ~1,015 |
 | Exploring Port Nyanzaru | 0.40% | ~1,015 |
 | Escort to Waterdeep | 0.40% | ~1,015 |
-| Arcane Suppression | 0.40% | ~880 |
-| Welcome to the Vrocks | 0.40% | ~880 |
-| Misaligned in Sigil | 0.40% | ~880 |
-| Chaos Theory | 0.40% | ~880 |
-| When Tentacles Attack | 0.40% | ~880 |
-| Mind Spike | 0.40% | ~880 |
+| Arcane Suppression | 0.40% | ~881 |
+| Welcome to the Vrocks | 0.40% | ~881 |
+| Misaligned in Sigil | 0.40% | ~881 |
+| Chaos Theory | 0.40% | ~881 |
+| When Tentacles Attack | 0.40% | ~881 |
+| Mind Spike | 0.40% | ~881 |
 | The Silken Swamp | 0.30% | ~762 |
 | Low Initiative | 0.30% | ~762 |
 | Building Trust | 0.30% | ~762 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,844 (Ranked 70)  
+Progressed: 253,853 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -822,7 +822,7 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
-| 2024-01-14 | 253,844 | 2,616 |
+| 2024-01-14 | 253,853 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,777  (Ranked 74)  
 Sum: 33,481 (Ranked 41)  

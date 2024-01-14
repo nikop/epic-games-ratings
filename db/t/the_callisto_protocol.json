@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2219,9 +2219,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22329,
+  "EOS_Progressed": 22330,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 892,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13824,6 +13824,11 @@
       "Time": "2024-01-14T06:09:44.2306964+00:00",
       "NumProgressed": 22329,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T07:09:56.9688622+00:00",
+      "NumProgressed": 22330,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13939,7 +13944,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4913
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -13955,7 +13960,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14043,7 +14048,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "STORY_HANGAR",
@@ -14091,7 +14096,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "DISMEMBER_100",
@@ -14210,13 +14215,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22329,
+      "Progressed": 22330,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10255,
+      "Progressed": 10256,
       "Completed": 29
     }
   ],
@@ -14224,8 +14229,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-13T23:04:32.3142416+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:09:44.2306961+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:09:56.968862+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:03:17.0370229+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:09:44.2307675+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:03:20.1181071+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:09:56.9689356+00:00"
 }

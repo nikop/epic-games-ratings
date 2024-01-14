@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18985,
+  "EOS_Progressed": 18989,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17319,6 +17319,11 @@
       "Time": "2024-01-14T06:04:15.9527151+00:00",
       "NumProgressed": 18985,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-14T07:04:20.9141379+00:00",
+      "NumProgressed": 18989,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17347,7 +17352,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "12",
@@ -17363,7 +17368,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "14",
@@ -17379,7 +17384,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "16",
@@ -17395,7 +17400,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "18",
@@ -17435,7 +17440,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "22",
@@ -17475,7 +17480,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "27",
@@ -17595,7 +17600,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "35",
@@ -17610,13 +17615,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18985,
+      "Progressed": 18989,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4939,
+      "Progressed": 4943,
       "Completed": 1314
     }
   ],
@@ -17624,8 +17629,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:04:15.9527146+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:04:20.9141377+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T05:57:52.0906028+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:04:15.9528149+00:00"
+  "LastUpdate_Ratings": "2024-01-14T06:57:51.869908+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:04:20.9142322+00:00"
 }

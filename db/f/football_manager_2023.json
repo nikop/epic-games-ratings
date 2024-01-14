@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -9529,9 +9529,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 371465,
+  "EOS_Progressed": 371466,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40024,6 +40024,11 @@
       "Time": "2024-01-14T06:10:12.8256606+00:00",
       "NumProgressed": 371465,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-14T07:10:25.7083436+00:00",
+      "NumProgressed": 371466,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 100,
@@ -40419,7 +40424,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 256311
+      "UsersEstimate": 256312
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -40443,7 +40448,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 230308
+      "UsersEstimate": 230309
     },
     {
       "ID": "achievement_people_pleaser",
@@ -40451,7 +40456,7 @@
       "Name": "People Pleaser",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 144871
+      "UsersEstimate": 144872
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -40555,7 +40560,7 @@
       "Name": "#DoneDeal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 200591
+      "UsersEstimate": 200592
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -40603,7 +40608,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 252596
+      "UsersEstimate": 252597
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -40619,7 +40624,7 @@
       "Name": "Goal Machine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 81722
+      "UsersEstimate": 81723
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -40691,7 +40696,7 @@
       "Name": "A Game of Two Halves",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 48290
+      "UsersEstimate": 48291
     },
     {
       "ID": "achievement_win_fantasy_draft",
@@ -40834,7 +40839,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 371465,
+      "Progressed": 371466,
       "Completed": 30
     }
   ],
@@ -40842,8 +40847,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2024-01-14T00:02:52.248349+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:10:12.8256602+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:10:25.7083433+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.8900575+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:02:47.9259359+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:10:12.8258482+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:02:53.0072075+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:10:25.708566+00:00"
 }

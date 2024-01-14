@@ -20,8 +20,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter I | 32.00% | ~249 |
 | Missing in Action | 32.00% | ~249 |
 | Consequences | 31.00% | ~241 |
+| King of Knives | 31.00% | ~241 |
 | Opportunities | 30.00% | ~233 |
-| King of Knives | 30.00% | ~233 |
 | The Horror | 28.00% | ~218 |
 | The Difference | 25.00% | ~194 |
 | It's Just an Accident | 25.00% | ~194 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3420,
+  "EOS_Progressed": 3421,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5502,6 +5502,11 @@
       "Time": "2024-01-14T06:10:01.0706412+00:00",
       "NumProgressed": 3420,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T07:10:13.9989501+00:00",
+      "NumProgressed": 3421,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5514,7 +5519,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     },
     {
       "ID": "achievement_10",
@@ -5538,7 +5543,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "achievement_13",
@@ -5546,7 +5551,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "achievement_14",
@@ -5602,7 +5607,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 2771
     },
     {
       "ID": "achievement_20",
@@ -5658,7 +5663,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "achievement_36",
@@ -5666,7 +5671,7 @@
       "Name": "Armsman",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_37",
@@ -5746,7 +5751,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2565
+      "UsersEstimate": 2566
     },
     {
       "ID": "achievement_49",
@@ -5810,7 +5815,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "achievement_60",
@@ -5889,7 +5894,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3420,
+      "Progressed": 3421,
       "Completed": 4
     }
   ],
@@ -5897,8 +5902,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-13T21:00:06.2512077+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:10:01.0706409+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:10:13.9989499+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:00:19.0911409+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:10:01.0707073+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:00:14.9728287+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:10:13.9990146+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 773,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1415,10 +1415,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-14T07:00:22.5269787+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 377,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 376,
+  "NumberOfAwards": 377,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1462,7 +1468,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Competitive Players",
@@ -1483,9 +1489,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260634,
+  "EOS_Progressed": 260639,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27173,6 +27179,11 @@
       "Time": "2024-01-14T05:05:30.3698772+00:00",
       "NumProgressed": 260634,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T07:04:12.9554077+00:00",
+      "NumProgressed": 260639,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27184,7 +27195,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18244
+      "UsersEstimate": 18245
     },
     {
       "ID": "Act2",
@@ -27192,7 +27203,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10425
+      "UsersEstimate": 10426
     },
     {
       "ID": "Act3",
@@ -27232,7 +27243,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80797
+      "UsersEstimate": 80798
     },
     {
       "ID": "BackHomeNTimes",
@@ -27248,7 +27259,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10425
+      "UsersEstimate": 10426
     },
     {
       "ID": "BreakNWindows",
@@ -27256,7 +27267,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10425
+      "UsersEstimate": 10426
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -27288,7 +27299,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26063
+      "UsersEstimate": 26064
     },
     {
       "ID": "CreditLevel2",
@@ -27472,7 +27483,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59946
+      "UsersEstimate": 59947
     },
     {
       "ID": "KillOthers2",
@@ -27552,7 +27563,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10425
+      "UsersEstimate": 10426
     },
     {
       "ID": "Patrimony2",
@@ -27576,7 +27587,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26063
+      "UsersEstimate": 26064
     },
     {
       "ID": "ReachNDays2",
@@ -27631,16 +27642,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260634,
+      "Progressed": 260639,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-13T23:02:28.3893068+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:04:08.1648526+00:00",
+  "LastChanged": "2024-01-14T07:00:22.5269785+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:04:12.9554072+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:00:26.8718975+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:04:08.1650548+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:00:22.5269789+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:04:12.9555457+00:00"
 }

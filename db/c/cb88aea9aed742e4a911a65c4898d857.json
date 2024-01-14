@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -353,9 +353,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11369,
+  "EOS_Progressed": 11373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 860,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4823,6 +4823,11 @@
       "Time": "2024-01-14T06:10:04.2421304+00:00",
       "NumProgressed": 11369,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T07:10:16.9786216+00:00",
+      "NumProgressed": 11373,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4835,7 +4840,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "03_TheStolenStar",
@@ -4971,7 +4976,7 @@
       "Name": "Void Wolf",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -4995,7 +5000,7 @@
       "Name": "Perfect Timing",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "23_DynastyRestored",
@@ -5011,7 +5016,7 @@
       "Name": "Highrise",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "25_DynastyProspers",
@@ -5043,7 +5048,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5091,7 +5096,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5145,9 +5150,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1251
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5155,7 +5160,7 @@
       "Name": "Iron Judgement",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5354,7 +5359,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11369,
+      "Progressed": 11373,
       "Completed": 1
     }
   ],
@@ -5362,8 +5367,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T20:00:45.2874377+00:00",
-  "LastChanged_Achievements": "2024-01-14T06:10:04.2421303+00:00",
+  "LastChanged_Achievements": "2024-01-14T07:10:16.9786214+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-14T06:02:38.1075767+00:00",
-  "LastUpdate_Achievements": "2024-01-14T06:10:04.2421913+00:00"
+  "LastUpdate_Ratings": "2024-01-14T07:02:42.335735+00:00",
+  "LastUpdate_Achievements": "2024-01-14T07:10:16.9787045+00:00"
 }

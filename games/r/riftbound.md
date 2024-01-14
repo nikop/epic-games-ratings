@@ -14,6 +14,8 @@
 | Ender Ender | 6.00% | ~3 |
 | Hold The Line | 6.00% | ~3 |
 | Tactical Spectacular | 4.00% | ~2 |
+| Catch 'em All | 2.00% | ~1 |
+| Challenger, Ready! | 2.00% | ~1 |
 | Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |
 | Undead Slayer | 2.00% | ~1 |
@@ -21,8 +23,6 @@
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
-| Catch 'em All | 0.00% | ~0 |
-| Challenger, Ready! | 0.00% | ~0 |
 | Expert Summoner | 0.00% | ~0 |
 | Fair Fight | 0.00% | ~0 |
 | Fries With That? | 0.00% | ~0 |
