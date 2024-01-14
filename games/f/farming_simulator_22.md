@@ -6,17 +6,17 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,507 |
+| Own use | 71.00% | ~44,508 |
 | I read Shakespeare and stuff | 59.00% | ~36,985 |
 | Just a sprinkle | 58.00% | ~36,358 |
-| I'm stumped | 56.00% | ~35,104 |
-| Plant get enough | 56.00% | ~35,104 |
-| This is just my weekend vehicle | 54.00% | ~33,850 |
-| It's just the beginning | 54.00% | ~33,850 |
-| Hard work pays off | 49.00% | ~30,716 |
+| I'm stumped | 56.00% | ~35,105 |
+| Plant get enough | 56.00% | ~35,105 |
+| This is just my weekend vehicle | 54.00% | ~33,851 |
+| It's just the beginning | 54.00% | ~33,851 |
+| Hard work pays off | 49.00% | ~30,717 |
 | It's never too late to farm | 45.00% | ~28,209 |
-| All out of Land | 41.00% | ~25,701 |
-| Field Trip | 40.00% | ~25,074 |
+| All out of Land | 41.00% | ~25,702 |
+| Field Trip | 40.00% | ~25,075 |
 | I like to switch it up | 37.00% | ~23,194 |
 | Help me to help you | 35.00% | ~21,940 |
 | Ultimutt Pawesomeness | 25.00% | ~15,672 |
@@ -29,7 +29,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Large-scale supplier | 14.00% | ~8,776 |
 | Long haul | 14.00% | ~8,776 |
 | That's a wrap | 13.00% | ~8,149 |
-| Fix me up | 11.00% | ~6,895 |
+| Fix me up | 11.00% | ~6,896 |
 | Highly cultivated | 10.00% | ~6,269 |
 | It's sow easy | 10.00% | ~6,269 |
 | Rock on | 10.00% | ~6,269 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~251 |
 | Raisin the stakes | 0.30% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,686 (Ranked 119)  
+Progressed: 62,687 (Ranked 119)  
 Completed: 6 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 6 (0.01%) (Ranked 376)
 | 2024-01-11 | 62,288 | 6 |
 | 2024-01-12 | 62,391 | 6 |
 | 2024-01-13 | 62,542 | 6 |
-| 2024-01-14 | 62,686 | 6 |
+| 2024-01-14 | 62,687 | 6 |
 ## Awards
 Max (Great for Beginners): 6,104  (Ranked 67)  
 Sum: 45,656 (Ranked 34)  

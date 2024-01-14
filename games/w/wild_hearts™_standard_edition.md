@@ -22,10 +22,10 @@
 | Distance Devourer | 37.00% | ~505 |
 | Counter Specialist | 34.00% | ~464 |
 | Master of the Skies | 31.00% | ~423 |
+| Kemono at Heart | 28.00% | ~382 |
 | Axer of Auspice | 28.00% | ~382 |
 | Mighty Marmelizer | 27.00% | ~369 |
 | Fair Means or Foul | 27.00% | ~369 |
-| Kemono at Heart | 27.00% | ~369 |
 | Single Minded | 25.00% | ~342 |
 | Snare Specialist | 24.00% | ~328 |
 | Karakuri Trail | 23.00% | ~314 |

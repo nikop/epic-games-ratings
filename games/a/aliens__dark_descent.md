@@ -32,8 +32,8 @@ Rating: 4.53 (Ranked 565)
 | The Spire | 21.00% | ~1,352 |
 | El Riesgo Siempre Vive | 20.00% | ~1,288 |
 | Stuff Of Nightmares | 19.00% | ~1,223 |
+| Excavating The Truth | 19.00% | ~1,223 |
 | Frontliner | 18.00% | ~1,159 |
-| Excavating The Truth | 18.00% | ~1,159 |
 | Abysmal Horrors | 18.00% | ~1,159 |
 | One For Every Occasion | 17.00% | ~1,094 |
 | The Cable Guy | 17.00% | ~1,094 |
@@ -255,9 +255,9 @@ Completed: 3 (0.05%) (Ranked 341)
 | 2024-01-13 | 6,415 | 3 |
 | 2024-01-14 | 6,438 | 3 |
 ## Awards
-Max (Great Boss Battles): 66  (Ranked 423)  
+Max (Great Boss Battles): 66  (Ranked 424)  
 Sum: 66 (Ranked 497)  
-Diff (max vs sum): -74  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 66 |

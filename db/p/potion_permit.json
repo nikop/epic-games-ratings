@@ -2,13 +2,13 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 1080,
+  "Ranking_Rating": 1081,
   "Ranking_Popularity": 419,
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -409,7 +409,7 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1950,
+  "EOS_Progressed": 1951,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -3679,6 +3679,11 @@
       "Time": "2024-01-14T20:03:48.3400519+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T23:03:34.1024022+00:00",
+      "NumProgressed": 1951,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3690,15 +3695,15 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 976
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3746,7 +3751,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3754,7 +3759,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3762,7 +3767,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3826,7 +3831,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3858,7 +3863,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3866,7 +3871,7 @@
       "Name": "Lumber Specialist",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACHIEVEMENTS_24",
@@ -3954,7 +3959,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -3962,7 +3967,7 @@
       "Name": "Production Sorter",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENTS_36",
@@ -3993,7 +3998,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1950,
+      "Progressed": 1951,
       "Completed": 11
     }
   ],
@@ -4001,8 +4006,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-11T09:59:14.3189006+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:03:32.6059912+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:03:34.1024019+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3466172+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:36.0652005+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:03:32.6060356+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:57:46.9991402+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:03:34.1024512+00:00"
 }

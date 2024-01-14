@@ -1,29 +1,29 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 954)  
+Rating: 4.22 (Ranked 955)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,042 |
-| The Outer Way | 27.00% | ~6,042 |
-| Desperate Times | 25.00% | ~5,594 |
+| Flesh Wound | 27.00% | ~6,043 |
+| The Outer Way | 27.00% | ~6,043 |
+| Desperate Times | 25.00% | ~5,595 |
 | Paper Jams | 23.00% | ~5,147 |
-| Get a Grip | 22.00% | ~4,923 |
-| Chew 'Em Up | 21.00% | ~4,699 |
-| Reforged | 20.00% | ~4,475 |
+| Get a Grip | 22.00% | ~4,924 |
+| Chew 'Em Up | 21.00% | ~4,700 |
+| Reforged | 20.00% | ~4,476 |
 | Float Like A Butterfly | 18.00% | ~4,028 |
-| Workplace Hazard | 17.00% | ~3,804 |
-| If the SHU Fits... | 17.00% | ~3,804 |
+| Workplace Hazard | 17.00% | ~3,805 |
+| If the SHU Fits... | 17.00% | ~3,805 |
 | Without A Paddle | 15.00% | ~3,357 |
 | In the Pipe, Five by Five | 13.00% | ~2,909 |
 | Crash Site | 13.00% | ~2,909 |
-| Two Heads Are Better Than One | 12.00% | ~2,685 |
-| Power Up | 12.00% | ~2,685 |
-| Giving Back | 11.00% | ~2,461 |
-| Terminated | 11.00% | ~2,461 |
-| What Lies Beneath | 11.00% | ~2,461 |
-| Full Circle | 11.00% | ~2,461 |
+| Two Heads Are Better Than One | 12.00% | ~2,686 |
+| Power Up | 12.00% | ~2,686 |
+| Giving Back | 11.00% | ~2,462 |
+| Terminated | 11.00% | ~2,462 |
+| What Lies Beneath | 11.00% | ~2,462 |
+| Full Circle | 11.00% | ~2,462 |
 | You Need a Gun | 9.00% | ~2,014 |
 | I Do Belong Here | 8.00% | ~1,790 |
 | Keep Fighting | 8.00% | ~824 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,377 (Ranked 151)  
+Progressed: 22,380 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
-| 2024-01-14 | 22,377 | 82 |
+| 2024-01-14 | 22,380 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
 Sum: 653 (Ranked 318)  

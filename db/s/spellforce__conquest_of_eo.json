@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -739,6 +739,11 @@
       "Time": "2024-01-14T20:10:13.5266925+00:00",
       "NumProgressed": 146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T23:09:55.1623764+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -757,9 +762,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "Build_First_Room",
@@ -767,7 +772,7 @@
       "Name": "Enough rooms to swing a cat",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -775,7 +780,7 @@
       "Name": "Redecorating",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Capture_Own_Tower",
@@ -783,7 +788,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Cast_First_Spell",
@@ -791,7 +796,7 @@
       "Name": "A kind of Magic",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Circle_Page",
@@ -799,7 +804,7 @@
       "Name": "The Circle",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Craft_First_Glyph",
@@ -807,15 +812,15 @@
       "Name": "Artificer\u0027s Apprentice",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Craft_First_Undead",
@@ -901,9 +906,9 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "First_LevelUp",
@@ -911,7 +916,7 @@
       "Name": "First to the post",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "First_Node_Meld",
@@ -973,9 +978,9 @@
       "ID": "Landmark_CastleMeldec",
       "SetID": "7b9f97e",
       "Name": "Castle Meldec",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -1029,9 +1034,9 @@
       "ID": "Landmark_TuscariPortal",
       "SetID": "7b9f97e",
       "Name": "Tuscari Sea Portal",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Landmark_UramGorForge",
@@ -1069,9 +1074,9 @@
       "ID": "MainCampaign_CirclePage_AllfireNodes",
       "SetID": "7b9f97e",
       "Name": "A Monopoly of Might",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "MainCampaign_CirclePage_Apprentices",
@@ -1141,9 +1146,9 @@
       "ID": "Max_Reputation_Alluvyan",
       "SetID": "7b9f97e",
       "Name": "Friend of Alluvyan",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Max_Reputation_Coldmark",
@@ -1159,7 +1164,7 @@
       "Name": "Friend of Gillyshire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1173,9 +1178,9 @@
       "ID": "Max_Reputation_MistyCoast",
       "SetID": "7b9f97e",
       "Name": "Friend of Orgash",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Max_Reputation_Sevenkeeps",
@@ -1205,9 +1210,9 @@
       "ID": "Max_Reputation_UramGor",
       "SetID": "7b9f97e",
       "Name": "Friend of Uram Gor",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "Max_Reputation_Westguard",
@@ -1237,9 +1242,9 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1279,7 +1284,7 @@
       "Name": "Get out of here!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "Start_Of_A_Joke",
@@ -1295,7 +1300,7 @@
       "Name": "Fly the friendly Sky",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1310,7 +1315,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
@@ -1318,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:43.3460286+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:55.1623758+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:00:11.7326749+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:43.346092+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:23.2179363+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:55.1624467+00:00"
 }

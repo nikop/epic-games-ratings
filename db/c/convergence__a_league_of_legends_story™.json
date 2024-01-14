@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -75,7 +75,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
@@ -4035,6 +4035,11 @@
       "Time": "2024-01-14T17:10:14.0536212+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T23:10:22.8809713+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4046,7 +4051,7 @@
       "Name": "Thinking Two Steps Ahead",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CamilleDefeated",
@@ -4054,7 +4059,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4126,7 +4131,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "EntresolChests1",
@@ -4150,7 +4155,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FairgroundsChests1",
@@ -4158,7 +4163,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -4182,7 +4187,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "GadgetCompletion1",
@@ -4222,7 +4227,7 @@
       "Name": "Fitting In",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "JinxDefeated",
@@ -4238,7 +4243,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "MapCompletion1",
@@ -4294,7 +4299,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ParryRepeated1",
@@ -4374,7 +4379,7 @@
       "Name": "Fast Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "SpeedRun",
@@ -4414,7 +4419,7 @@
       "Name": "Theater Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -4430,7 +4435,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "WatcherFought",
@@ -4454,7 +4459,7 @@
       "Name": "The Brass Boss",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4462,14 +4467,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1326,
       "Completed": 8
     }
   ],
@@ -4477,8 +4482,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:10:10.9329833+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:22.880971+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:58:38.9186921+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:10:10.9330331+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:58:50.283715+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:22.8810252+00:00"
 }

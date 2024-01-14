@@ -16,8 +16,8 @@ Rating: 4.56 (Ranked 510)
 | Samaritan | 29.00% | ~59 |
 | The merciful one | 28.00% | ~57 |
 | Ladies' man | 28.00% | ~57 |
+| Idiot | 24.00% | ~49 |
 | Ferocious wild boars | 23.00% | ~47 |
-| Idiot | 23.00% | ~47 |
 | Beast slayer | 21.00% | ~43 |
 | Death of a legend | 19.00% | ~39 |
 | Ogre friend | 19.00% | ~39 |

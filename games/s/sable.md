@@ -6,50 +6,50 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,690 |
-| Just The Two of Us | 32.00% | ~35,473 |
+| Simoon | 34.00% | ~37,692 |
+| Just The Two of Us | 32.00% | ~35,475 |
 | Up On High | 25.00% | ~27,714 |
 | Under The Hood | 25.00% | ~27,714 |
-| Got Your Nose | 24.00% | ~26,605 |
-| The Gift of Gab | 24.00% | ~26,605 |
-| Wrapping Up | 22.00% | ~24,388 |
+| Got Your Nose | 24.00% | ~26,606 |
+| The Gift of Gab | 24.00% | ~26,606 |
+| Wrapping Up | 22.00% | ~24,389 |
 | More Than A Box Of Sand | 18.00% | ~19,954 |
-| The Dunboyne | 17.00% | ~18,845 |
-| Badge Hobbyist | 17.00% | ~18,845 |
+| The Dunboyne | 17.00% | ~18,846 |
+| Badge Hobbyist | 17.00% | ~18,846 |
 | Chum Novice | 16.00% | ~17,737 |
 | Silver-Tongued Sable | 16.00% | ~17,737 |
 | Sticky Paws | 16.00% | ~17,737 |
 | Bubble Up | 16.00% | ~17,737 |
-| Thread The Needle | 15.00% | ~16,628 |
+| Thread The Needle | 15.00% | ~16,629 |
 | Power to the People | 14.00% | ~15,520 |
 | Nesting Giant | 14.00% | ~15,520 |
-| Take That! | 13.00% | ~14,411 |
-| Treasure Tracker | 13.00% | ~14,411 |
-| Big Spender | 13.00% | ~14,411 |
-| Badge Collector | 12.00% | ~13,302 |
-| Quite The Catch | 12.00% | ~13,302 |
+| Take That! | 13.00% | ~14,412 |
+| Treasure Tracker | 13.00% | ~14,412 |
+| Big Spender | 13.00% | ~14,412 |
+| Badge Collector | 12.00% | ~13,303 |
+| Quite The Catch | 12.00% | ~13,303 |
 | Rowleys Way | 11.00% | ~12,194 |
-| The Machinist Mask | 10.00% | ~11,085 |
-| The Cartographer Mask | 10.00% | ~11,085 |
-| Balfron Connection | 10.00% | ~11,085 |
-| Ceiling Of Stars | 10.00% | ~11,085 |
-| Playing Dress Up | 10.00% | ~11,085 |
+| The Machinist Mask | 10.00% | ~11,086 |
+| The Cartographer Mask | 10.00% | ~11,086 |
+| Balfron Connection | 10.00% | ~11,086 |
+| Ceiling Of Stars | 10.00% | ~11,086 |
+| Playing Dress Up | 10.00% | ~11,086 |
 | Many Different Faces | 9.00% | ~9,977 |
 | Trellick's Pillar | 9.00% | ~9,977 |
 | Centre Of Brunswick | 9.00% | ~9,977 |
 | Bike Collector | 9.00% | ~9,977 |
 | Not That Kind Of Gliding | 9.00% | ~9,977 |
-| The Scrapper Mask | 8.00% | ~8,868 |
-| Shadow Of Neave | 8.00% | ~8,868 |
-| Fragile Goods | 8.00% | ~8,868 |
-| Glider on the Storm | 8.00% | ~8,868 |
-| Squeeze One Out | 8.00% | ~8,868 |
-| Dune Rider | 8.00% | ~8,868 |
+| The Scrapper Mask | 8.00% | ~8,869 |
+| Shadow Of Neave | 8.00% | ~8,869 |
+| Fragile Goods | 8.00% | ~8,869 |
+| Glider on the Storm | 8.00% | ~8,869 |
+| Squeeze One Out | 8.00% | ~8,869 |
+| Dune Rider | 8.00% | ~8,869 |
+| Amateur Historian | 7.00% | ~7,760 |
 | The Beetle Mask | 7.00% | ~7,760 |
 | The Guard Mask | 7.00% | ~7,760 |
 | Smoked Out | 7.00% | ~7,760 |
 | A Hard Place | 7.00% | ~7,760 |
-| Amateur Historian | 6.00% | ~6,651 |
 | The Climber Mask | 6.00% | ~6,651 |
 | The Merchant Mask | 6.00% | ~6,651 |
 | Honorary Chum | 6.00% | ~6,651 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,326 |
 | Vivacious Vivarium | 2.00% | ~2,217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,854 (Ranked 98)  
+Progressed: 110,858 (Ranked 98)  
 Completed: 1,131 (1.02%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,16 +332,16 @@ Completed: 1,131 (1.02%) (Ranked 177)
 | 2024-01-11 | 110,350 | 1,124 |
 | 2024-01-12 | 110,489 | 1,125 |
 | 2024-01-13 | 110,672 | 1,130 |
-| 2024-01-14 | 110,854 | 1,131 |
+| 2024-01-14 | 110,858 | 1,131 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 526)  
-Sum: 151 (Ranked 443)  
+Sum: 152 (Ranked 443)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 30 |
 | This game has Quickly Understood Controls | 28 |
-| This game is Highly Recommended | 26 |
+| This game is Highly Recommended | 27 |
 | This game is Great for Beginners | 25 |
 | This game has Amazing Storytelling | 22 |
 | This game is Relaxing | 20 |
@@ -449,3 +449,4 @@ Diff (max vs sum): 83
 | 2024-01-09 | 4.53 | - | 30 | 148 |
 | 2024-01-10 | 4.53 | - | 30 | 150 |
 | 2024-01-11 | 4.53 | - | 30 | 151 |
+| 2024-01-14 | 4.53 | - | 30 | 152 |

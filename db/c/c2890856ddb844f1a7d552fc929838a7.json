@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2518,
+  "EOS_Progressed": 2519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6033,6 +6033,11 @@
       "Time": "2024-01-14T22:06:18.5619159+00:00",
       "NumProgressed": 2518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T23:06:21.9852865+00:00",
+      "NumProgressed": 2519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6053,7 +6058,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "AC02",
@@ -6085,7 +6090,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "AC06",
@@ -6093,7 +6098,7 @@
       "Name": "The Last Ascension",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "AC07",
@@ -6117,7 +6122,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "AC10",
@@ -6125,7 +6130,7 @@
       "Name": "The Wait is Over",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "AC11",
@@ -6149,7 +6154,7 @@
       "Name": "Second Psalm.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "AC14",
@@ -6189,7 +6194,7 @@
       "Name": "Acquired Taste",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "AC19",
@@ -6197,7 +6202,7 @@
       "Name": "Soledad",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "AC20",
@@ -6269,7 +6274,7 @@
       "Name": "The Punished One",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "AC29",
@@ -6365,7 +6370,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "AC41",
@@ -6412,7 +6417,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2518,
+      "Progressed": 2519,
       "Completed": 0
     }
   ],
@@ -6420,8 +6425,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:06:18.5619155+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:06:21.9852862+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:58:14.9546643+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:06:18.5619731+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:58:24.6085797+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:06:21.9853561+00:00"
 }

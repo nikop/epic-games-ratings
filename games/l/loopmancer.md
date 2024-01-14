@@ -10,12 +10,12 @@
 | Growth | 86.00% | ~92 |
 | Targeting the Enemy | 71.00% | ~76 |
 | Unavoidable | 66.00% | ~71 |
-| Revenge | 63.00% | ~67 |
-| Reunion | 40.00% | ~43 |
+| Revenge | 64.00% | ~68 |
+| Reunion | 41.00% | ~44 |
 | Fluke | 36.00% | ~39 |
 | Elimination | 33.00% | ~35 |
+| Victor's Prejudice | 33.00% | ~35 |
 | Excellent Driving Skills | 32.00% | ~34 |
-| Victor's Prejudice | 32.00% | ~34 |
 | Once Bitten, Twice Shy | 30.00% | ~32 |
 | Memento | 28.00% | ~30 |
 | Fleet-footed | 27.00% | ~29 |

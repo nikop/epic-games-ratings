@@ -2,13 +2,13 @@
   "ID": "de3677b7bac547128656ac18c5b2f298",
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 458,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1123,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2837,6 +2837,11 @@
       "Time": "2024-01-14T21:05:20.8158746+00:00",
       "NumProgressed": 1123,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T23:05:25.7142206+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -2878,9 +2883,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 842
     },
     {
       "ID": "06",
@@ -2912,7 +2917,7 @@
       "Name": "Awakening",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 280
     },
     {
       "ID": "10",
@@ -2920,7 +2925,7 @@
       "Name": "Huntmaster",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 269
     },
     {
       "ID": "11",
@@ -2976,7 +2981,7 @@
       "Name": "Ready to Learn",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 764
+      "UsersEstimate": 763
     },
     {
       "ID": "18",
@@ -2984,7 +2989,7 @@
       "Name": "Earning Trust",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 618
+      "UsersEstimate": 617
     },
     {
       "ID": "19",
@@ -3024,14 +3029,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 224
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1123,
+      "Progressed": 1122,
       "Completed": 1
     }
   ],
@@ -3039,8 +3044,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:05:23.181771+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:05:25.71422+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.3397253+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:02:59.5267085+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:05:23.181802+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:03:00.090771+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:05:25.7142572+00:00"
 }

@@ -1,35 +1,35 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 755)  
+Rating: 4.41 (Ranked 756)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~68,866 |
-| Initial Capital | 61.00% | ~56,011 |
-| Junior Supply Officer | 39.00% | ~35,810 |
-| Moneybags | 38.00% | ~34,892 |
-| Naval Warfare. Arson | 29.00% | ~26,628 |
-| Naval Warfare. Ramming | 28.00% | ~25,710 |
-| Amateur | 26.00% | ~23,873 |
-| Naval Warfare. Tactics | 26.00% | ~23,873 |
-| Naval Constructor | 25.00% | ~22,955 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~17,446 |
-| Naval Warfare. Lucky Shot | 17.00% | ~15,610 |
-| Naval Warfare. Flooding | 16.00% | ~14,691 |
-| Business Magnate | 13.00% | ~11,937 |
-| Battle Hero | 12.00% | ~11,019 |
-| Smooth Supply | 11.00% | ~10,100 |
-| Warrior | 10.00% | ~9,182 |
-| Supply Officer | 10.00% | ~9,182 |
-| Veteran | 5.00% | ~4,591 |
+| Junior Naval Designer | 75.00% | ~68,885 |
+| Initial Capital | 61.00% | ~56,027 |
+| Junior Supply Officer | 39.00% | ~35,820 |
+| Moneybags | 38.00% | ~34,902 |
+| Naval Warfare. Arson | 29.00% | ~26,636 |
+| Naval Warfare. Ramming | 28.00% | ~25,717 |
+| Amateur | 26.00% | ~23,880 |
+| Naval Warfare. Tactics | 26.00% | ~23,880 |
+| Naval Constructor | 25.00% | ~22,962 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~17,451 |
+| Naval Warfare. Flooding | 16.00% | ~14,696 |
+| Naval Warfare. Lucky Shot | 16.00% | ~14,696 |
+| Business Magnate | 13.00% | ~11,940 |
+| Battle Hero | 12.00% | ~11,022 |
+| Smooth Supply | 11.00% | ~10,103 |
+| Warrior | 10.00% | ~9,185 |
+| Supply Officer | 10.00% | ~9,185 |
+| Veteran | 5.00% | ~4,592 |
 | Legend of the Seas | 3.00% | ~2,755 |
 | Chief Naval Architect | 3.00% | ~2,755 |
 | Shield | 3.00% | ~2,755 |
-| Weather Beaten | 2.00% | ~1,836 |
-| Important Missions | 2.00% | ~1,836 |
-| Guardian | 2.00% | ~1,836 |
+| Weather Beaten | 2.00% | ~1,837 |
+| Important Missions | 2.00% | ~1,837 |
+| Guardian | 2.00% | ~1,837 |
 | Bane of the Oceans | 1.00% | ~918 |
 | Senior Supply Officer | 1.00% | ~918 |
 | "Science of Victory" | 1.00% | ~918 |
@@ -41,9 +41,9 @@ Number of Ratings: 4,733  (23.09.2022)
 | Secret Instructions | 0.50% | ~459 |
 | Raider | 0.50% | ~459 |
 | Experienced One | 0.40% | ~367 |
-| Ravager | 0.30% | ~275 |
-| "Yamamoto Isoroku" | 0.30% | ~275 |
-| "Yamamoto Isoroku" | 0.30% | ~275 |
+| Ravager | 0.30% | ~276 |
+| "Yamamoto Isoroku" | 0.30% | ~276 |
+| "Yamamoto Isoroku" | 0.30% | ~276 |
 | "Honorable Service" | 0.20% | ~184 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~184 |
 | "Science of Victory" with Honors | 0.10% | ~92 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~92 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,821 (Ranked 106)  
+Progressed: 91,847 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,10 +205,10 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 90,012 | 0 |
 | 2024-01-12 | 90,525 | 0 |
 | 2024-01-13 | 91,184 | 0 |
-| 2024-01-14 | 91,821 | 0 |
+| 2024-01-14 | 91,847 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,717  (Ranked 134)  
-Sum: 15,665 (Ranked 72)  
+Sum: 15,676 (Ranked 72)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -216,8 +216,8 @@ Diff (max vs sum): 62
 | This game is Relaxing | 1,716 |
 | This game has Challenging Combat | 1,693 |
 | This game is Extremely Fun | 1,669 |
+| This game is Highly Recommended | 1,659 |
 | This game has Competitive Players | 1,652 |
-| This game is Highly Recommended | 1,648 |
 | This game has Realistic Visuals | 1,511 |
 | This game has Amazing Storytelling | 1,429 |
 | This game has a Competitive Community | 1,359 |
@@ -592,4 +592,4 @@ Diff (max vs sum): 62
 | 2024-01-11 | 4.41 | - | 1,710 | 14,307 |
 | 2024-01-12 | 4.41 | - | 1,713 | 14,340 |
 | 2024-01-13 | 4.41 | - | 1,716 | 14,364 |
-| 2024-01-14 | 4.41 | - | 1,717 | 15,665 |
+| 2024-01-14 | 4.41 | - | 1,717 | 15,676 |

@@ -28,9 +28,9 @@ Rating: 4.76 (Ranked 135)
 | YOU SHALL NOT PASS! | 51.00% | ~391 |
 | The Cathedral of Light | 49.00% | ~376 |
 | Shame! Shame! Shame! | 49.00% | ~376 |
+| Dungeonlord Gorgu | 47.00% | ~360 |
 | Tanos' Crusade Against Thalya | 47.00% | ~360 |
 | Pure Dynamite! | 46.00% | ~353 |
-| Dungeonlord Gorgu | 46.00% | ~353 |
 | All’s Well That Ends Evil | 43.00% | ~330 |
 | Mana Cannon | 42.00% | ~322 |
 | The Duel | 40.00% | ~307 |

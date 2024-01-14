@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17860,
+  "EOS_Progressed": 17861,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18400,6 +18400,11 @@
       "Time": "2024-01-14T22:04:34.59019+00:00",
       "NumProgressed": 17860,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-14T23:04:35.9699535+00:00",
+      "NumProgressed": 17861,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18451,7 +18456,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5715
+      "UsersEstimate": 5716
     },
     {
       "ID": "tpote_achievement_15",
@@ -18467,7 +18472,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "tpote_achievement_17",
@@ -18515,7 +18520,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5179
+      "UsersEstimate": 5180
     },
     {
       "ID": "tpote_achievement_22",
@@ -18611,7 +18616,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "tpote_achievement_33",
@@ -18675,7 +18680,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6965
+      "UsersEstimate": 6966
     },
     {
       "ID": "tpote_achievement_40",
@@ -18731,22 +18736,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17860,
+      "Progressed": 17861,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:04:34.5901898+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:04:35.9699491+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:02:58.8458469+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:04:34.5902843+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:02:58.9905519+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:04:35.9700444+00:00"
 }

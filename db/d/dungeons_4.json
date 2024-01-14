@@ -2700,9 +2700,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 360
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2989,8 +2989,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:21.4817559+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:33.4220781+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:58.8501633+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:21.4818134+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:58:08.455463+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:33.4221535+00:00"
 }

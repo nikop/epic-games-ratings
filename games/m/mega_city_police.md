@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 27.00% | ~11 |
 | Licence To Kill | 17.00% | ~7 |
-| Vintage Collector | 12.00% | ~5 |
+| Vintage Collector | 15.00% | ~6 |
 | Overkill | 12.00% | ~5 |
 | Law and Order | 12.00% | ~5 |
-| Hammer Time | 10.00% | ~4 |
+| Hammer Time | 12.00% | ~5 |
+| The Hunt | 10.00% | ~4 |
 | Gibbing Love | 7.00% | ~3 |
 | Feel the Spark | 7.00% | ~3 |
-| The Hunt | 7.00% | ~3 |
 | Escape From M.C. | 5.00% | ~2 |
 | Head of the Snake | 2.00% | ~1 |
 | Barbecue Time | 2.00% | ~1 |

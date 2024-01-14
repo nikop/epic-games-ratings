@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 918)  
+Rating: 4.26 (Ranked 919)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~159,994 |
-| Dead-ball specialist | 61.00% | ~130,128 |
-| European Legend | 52.00% | ~110,929 |
-| Multitasking | 51.00% | ~108,796 |
-| Balanced Path | 49.00% | ~104,529 |
-| High Grades | 48.00% | ~102,396 |
-| A Moment of Your Time | 46.00% | ~98,130 |
-| Let the Games Begin | 46.00% | ~98,130 |
-| Aiming High | 46.00% | ~98,130 |
-| Tactical Tinkerer | 40.00% | ~85,330 |
-| Intuition and Execution | 39.00% | ~83,197 |
-| Squad Building Connoisseur | 38.00% | ~81,064 |
-| The Winning Formula | 36.00% | ~76,797 |
-| Parking the Bus | 27.00% | ~57,598 |
-| Safe House | 26.00% | ~55,464 |
-| Best of Five | 26.00% | ~55,464 |
-| Football is Everything | 24.00% | ~51,198 |
-| The Chosen One | 22.00% | ~46,932 |
-| Fresh Fit | 20.00% | ~42,665 |
-| Bring it on | 17.00% | ~36,265 |
-| Life-Like | 14.00% | ~29,866 |
-| Make the Grade | 12.00% | ~25,599 |
-| I Played Them All | 10.00% | ~21,332 |
-| Specialist | 10.00% | ~21,332 |
-| Teamwork works | 9.00% | ~19,199 |
-| First of Many | 9.00% | ~19,199 |
+| Power Shot | 75.00% | ~160,004 |
+| Dead-ball specialist | 61.00% | ~130,136 |
+| European Legend | 52.00% | ~110,936 |
+| Multitasking | 51.00% | ~108,802 |
+| Balanced Path | 49.00% | ~104,536 |
+| High Grades | 48.00% | ~102,402 |
+| A Moment of Your Time | 46.00% | ~98,135 |
+| Let the Games Begin | 46.00% | ~98,135 |
+| Aiming High | 46.00% | ~98,135 |
+| Tactical Tinkerer | 40.00% | ~85,335 |
+| Intuition and Execution | 39.00% | ~83,202 |
+| Squad Building Connoisseur | 38.00% | ~81,068 |
+| The Winning Formula | 36.00% | ~76,802 |
+| Parking the Bus | 27.00% | ~57,601 |
+| Safe House | 26.00% | ~55,468 |
+| Best of Five | 26.00% | ~55,468 |
+| Football is Everything | 24.00% | ~51,201 |
+| The Chosen One | 22.00% | ~46,934 |
+| Fresh Fit | 20.00% | ~42,668 |
+| Bring it on | 17.00% | ~36,267 |
+| Life-Like | 14.00% | ~29,867 |
+| Make the Grade | 12.00% | ~25,601 |
+| I Played Them All | 10.00% | ~21,334 |
+| Specialist | 10.00% | ~21,334 |
+| Teamwork works | 9.00% | ~19,200 |
+| First of Many | 9.00% | ~19,200 |
 | Momentous Achievement | 6.00% | ~12,800 |
-| Becoming Unplayable | 5.00% | ~10,666 |
-| Shop till you drop | 5.00% | ~10,666 |
-| On the way up | 5.00% | ~10,666 |
-| Volta's best | 4.00% | ~8,533 |
-| In Cahoots | 4.00% | ~8,533 |
-| Tune Your Club | 4.00% | ~8,533 |
-| Full-House | 4.00% | ~8,533 |
+| Becoming Unplayable | 5.00% | ~10,667 |
+| Shop till you drop | 5.00% | ~10,667 |
+| On the way up | 5.00% | ~10,667 |
+| Volta's best | 4.00% | ~8,534 |
+| In Cahoots | 4.00% | ~8,534 |
+| Tune Your Club | 4.00% | ~8,534 |
+| Full-House | 4.00% | ~8,534 |
 | Sharing is Caring | 3.00% | ~6,400 |
 | Full wardrobe | 0.50% | ~1,067 |
 | Girl Power | 0.40% | ~853 |
 | Training Addict | 0.10% | ~213 |
 | Dazzling Personality | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,325 (Ranked 81)  
+Progressed: 213,338 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,10 +167,10 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 212,372 | 0 |
 | 2024-01-12 | 212,656 | 0 |
 | 2024-01-13 | 213,012 | 0 |
-| 2024-01-14 | 213,325 | 0 |
+| 2024-01-14 | 213,338 | 0 |
 ## Awards
 Max (Diverse Characters): 22,251  (Ranked 21)  
-Sum: 110,443 (Ranked 17)  
+Sum: 110,450 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -178,7 +178,7 @@ Diff (max vs sum): 4
 | This game is Highly Recommended | 15,108 |
 | This game has a Competitive Community | 14,460 |
 | This game has Amazing Characters | 12,428 |
-| This game is Extremely Fun | 11,899 |
+| This game is Extremely Fun | 11,906 |
 | This game has Competitive Players | 11,856 |
 | This game has Amazing Storytelling | 11,677 |
 | This game has Quickly Understood Controls | 10,764 |
@@ -560,4 +560,4 @@ Diff (max vs sum): 4
 | 2024-01-11 | 4.26 | 22,218 | 110,283 |
 | 2024-01-12 | 4.26 | 22,234 | 110,349 |
 | 2024-01-13 | 4.26 | 22,234 | 110,395 |
-| 2024-01-14 | 4.26 | 22,251 | 110,443 |
+| 2024-01-14 | 4.26 | 22,251 | 110,450 |

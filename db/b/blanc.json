@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4108,
+  "EOS_Progressed": 4109,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7091,6 +7091,11 @@
       "Time": "2024-01-14T20:05:29.1347991+00:00",
       "NumProgressed": 4108,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T23:04:51.0380003+00:00",
+      "NumProgressed": 4109,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7182,7 +7187,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "TRANSMISSION",
@@ -7198,14 +7203,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4108,
+      "Progressed": 4109,
       "Completed": 6
     }
   ],
@@ -7213,8 +7218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:04:49.0460563+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:04:51.0379999+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:33.446333+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:58:17.2614699+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:04:49.0460904+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:58:27.1646764+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:04:51.0380488+00:00"
 }

@@ -1,17 +1,17 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.15 (Ranked 1,002)  
+Rating: 4.15 (Ranked 1,003)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 13.00% | ~6,145 |
 | Unlocked Potential | 12.00% | ~5,672 |
 | Tinkerer | 9.00% | ~4,254 |
-| Leapfrogger | 8.00% | ~3,781 |
-| Knock 'Em Dead | 8.00% | ~3,781 |
-| Pilgrimage: Initiate | 8.00% | ~3,781 |
-| Hell of a Run | 8.00% | ~3,781 |
+| Leapfrogger | 8.00% | ~3,782 |
+| Knock 'Em Dead | 8.00% | ~3,782 |
+| Pilgrimage: Initiate | 8.00% | ~3,782 |
+| Hell of a Run | 8.00% | ~3,782 |
 | Call of the Fount: Baptized | 7.00% | ~3,309 |
 | No Mercy | 6.00% | ~2,836 |
 | Explorer: Seeker | 6.00% | ~2,836 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,002)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,267 (Ranked 127)  
+Progressed: 47,269 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,14 +328,14 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-11 | 47,103 | 4 |
 | 2024-01-12 | 47,151 | 4 |
 | 2024-01-13 | 47,215 | 4 |
-| 2024-01-14 | 47,267 | 4 |
+| 2024-01-14 | 47,269 | 4 |
 ## Awards
-Max (Character Customization): 51  (Ranked 456)  
-Sum: 77 (Ranked 488)  
-Diff (max vs sum): -32  
+Max (Character Customization): 52  (Ranked 451)  
+Sum: 78 (Ranked 487)  
+Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 51 |
+| This game has Inclusive Character Customization | 52 |
 | This game has Great Boss Battles | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -443,4 +443,4 @@ Diff (max vs sum): -32
 | 2024-01-09 | 4.16 | 47 | 69 |
 | 2024-01-12 | 4.16 | 48 | 71 |
 | 2024-01-13 | 4.15 | 51 | 74 |
-| 2024-01-14 | 4.15 | 51 | 77 |
+| 2024-01-14 | 4.15 | 52 | 78 |

@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1002,
-  "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 488,
+  "Ranking_Rating": 1003,
+  "Ranking_Popularity": 451,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -641,18 +641,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 77,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2024-01-14T23:03:01.889673+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 78,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 77,
-  "NumberOfAwardsMax": 51,
+  "NumberOfAwards": 78,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -661,9 +667,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47267,
+  "EOS_Progressed": 47269,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18836,6 +18842,11 @@
       "Time": "2024-01-14T22:08:17.6079292+00:00",
       "NumProgressed": 47267,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T23:08:29.7166248+00:00",
+      "NumProgressed": 47269,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19039,7 +19050,7 @@
       "Name": "Leapfrogger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -19087,7 +19098,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -19135,7 +19146,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -19159,7 +19170,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -19270,22 +19281,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47267,
+      "Progressed": 47269,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12104,
-      "Completed": 12104
+      "Progressed": 12106,
+      "Completed": 12106
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-14T02:00:05.3422246+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:08:17.6079287+00:00",
+  "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:08:29.7166244+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:03:01.2631218+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:08:17.6080353+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:03:01.8896733+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:08:29.7167394+00:00"
 }

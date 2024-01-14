@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2548,9 +2548,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226025,
+  "EOS_Progressed": 226027,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1308,
+  "EOS_NewPlayers": 1304,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33578,6 +33578,11 @@
       "Time": "2024-01-14T22:06:01.4215993+00:00",
       "NumProgressed": 226025,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-14T23:06:04.8043444+00:00",
+      "NumProgressed": 226027,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33597,7 +33602,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "ChickenDinner",
@@ -33749,7 +33754,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "Noboru",
@@ -33773,7 +33778,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "PraiseTheShogun",
@@ -33861,7 +33866,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "TheOldWay",
@@ -33925,7 +33930,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "Yabu",
@@ -33940,15 +33945,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226025,
+      "Progressed": 226027,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-14T14:59:34.4621361+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:06:01.4215989+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:06:04.8043439+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:49.0340706+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:06:01.421753+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:00.0492574+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:06:04.8044938+00:00"
 }

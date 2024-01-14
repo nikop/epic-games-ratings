@@ -1,13 +1,13 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.68 (Ranked 1,097)  
+Rating: 3.68 (Ranked 1,098)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 23.00% | ~550 |
 | Catch and Release | 18.00% | ~430 |
-| Home Is Where the Heart Is | 16.00% | ~382 |
+| Home Is Where the Heart Is | 17.00% | ~406 |
 | Wounded Whispers | 16.00% | ~382 |
 | ICU | 15.00% | ~358 |
 | Ne Plus Ultra | 14.00% | ~335 |
@@ -50,9 +50,9 @@ Rating: 3.68 (Ranked 1,097)
 | Empty Nest Syndrome | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
+| Monster Hunters Club | 0.70% | ~17 |
 | Sisterhood | 0.70% | ~17 |
 | Under a Bushel | 0.70% | ~17 |
-| Monster Hunters Club | 0.60% | ~14 |
 | Friendgineering | 0.50% | ~12 |
 | Enemy of My Enemy | 0.50% | ~12 |
 | So Anyway I Started Blasting | 0.40% | ~10 |

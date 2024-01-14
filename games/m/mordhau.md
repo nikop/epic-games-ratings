@@ -1,27 +1,27 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 798)  
+Rating: 4.38 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~779,291 |
-| The ABCs | 43.00% | ~683,867 |
-| Home Run | 41.00% | ~652,059 |
-| Keeps Coming Off | 41.00% | ~652,059 |
-| Guts | 19.00% | ~302,174 |
-| Meat Grinder | 19.00% | ~302,174 |
-| Burning Man | 16.00% | ~254,462 |
-| Lived to Tell the Tale | 12.00% | ~190,847 |
-| Highlander | 10.00% | ~159,039 |
-| Unstoppable | 10.00% | ~159,039 |
-| Just a Scratch | 9.00% | ~143,135 |
-| Tough Nut to Crack | 6.00% | ~95,423 |
-| Yoink | 6.00% | ~95,423 |
-| Long List of Names | 4.00% | ~63,616 |
-| Pyromaniac | 4.00% | ~63,616 |
-| The Queen of Weapons | 4.00% | ~63,616 |
-| This isn’t Sparta | 3.00% | ~47,712 |
+| Justice from the Grave | 49.00% | ~779,305 |
+| The ABCs | 43.00% | ~683,880 |
+| Home Run | 41.00% | ~652,072 |
+| Keeps Coming Off | 41.00% | ~652,072 |
+| Guts | 19.00% | ~302,180 |
+| Meat Grinder | 19.00% | ~302,180 |
+| Burning Man | 16.00% | ~254,467 |
+| Lived to Tell the Tale | 12.00% | ~190,850 |
+| Highlander | 10.00% | ~159,042 |
+| Unstoppable | 10.00% | ~159,042 |
+| Just a Scratch | 9.00% | ~143,138 |
+| Tough Nut to Crack | 6.00% | ~95,425 |
+| Yoink | 6.00% | ~95,425 |
+| Long List of Names | 4.00% | ~63,617 |
+| Pyromaniac | 4.00% | ~63,617 |
+| The Queen of Weapons | 4.00% | ~63,617 |
+| This isn’t Sparta | 3.00% | ~47,713 |
 | Crybaby | 2.00% | ~31,808 |
 | Eagle Eye | 2.00% | ~31,808 |
 | I Know Kung Fu | 2.00% | ~31,808 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 798)
 | That’s No Ordinary Cold | 0.10% | ~1,590 |
 | Stairway to Hell | 0.10% | ~1,590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,590,389 (Ranked 7)  
+Progressed: 1,590,419 (Ranked 7)  
 Completed: 77 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 77 (0.00%) (Ranked 400)
 | 2024-01-11 | 1,588,733 | 77 |
 | 2024-01-12 | 1,589,214 | 77 |
 | 2024-01-13 | 1,589,830 | 77 |
-| 2024-01-14 | 1,590,389 | 77 |
+| 2024-01-14 | 1,590,419 | 77 |
 ## Awards
 Max (Diverse Characters): 1,223  (Ranked 149)  
-Sum: 6,311 (Ranked 136)  
+Sum: 6,314 (Ranked 136)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -324,7 +324,7 @@ Diff (max vs sum): 13
 | This game has Challenging Combat | 1,051 |
 | This game is Highly Recommended | 967 |
 | This game has Amazing Characters | 815 |
-| This game is Extremely Fun | 803 |
+| This game is Extremely Fun | 806 |
 | This game has Competitive Players | 779 |
 | This game has Amazing Storytelling | 673 |
 | This game has Quickly Understood Controls | 132 |
@@ -606,4 +606,4 @@ Diff (max vs sum): 13
 | 2024-01-11 | 4.38 | 1,211 | 6,256 |
 | 2024-01-12 | 4.38 | 1,211 | 6,273 |
 | 2024-01-13 | 4.38 | 1,218 | 6,298 |
-| 2024-01-14 | 4.38 | 1,223 | 6,311 |
+| 2024-01-14 | 4.38 | 1,223 | 6,314 |

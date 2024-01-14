@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -69,7 +69,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
@@ -8879,6 +8879,11 @@
       "Time": "2024-01-14T22:06:10.5571889+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T23:06:13.9262199+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9113,9 +9118,9 @@
       "ID": "ML_ACHIEVEMENT_29",
       "SetID": "c7hf6a4",
       "Name": "I Make the Rules!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 108
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -9282,7 +9287,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3601,
       "Completed": 0
     }
   ],
@@ -9290,8 +9295,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-14T15:00:07.729106+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:06:10.5571885+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:06:13.9262196+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:00:26.9363523+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:06:10.5572738+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:37.327559+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:06:13.9262933+00:00"
 }

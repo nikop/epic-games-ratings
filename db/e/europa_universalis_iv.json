@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14409,9 +14409,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499096,
+  "EOS_Progressed": 499117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4468,
+  "EOS_NewPlayers": 4467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45509,6 +45509,11 @@
       "Time": "2024-01-14T22:10:15.0491387+00:00",
       "NumProgressed": 499096,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T23:10:27.3636603+00:00",
+      "NumProgressed": 499117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47800,7 +47805,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48216,7 +48221,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -48423,21 +48428,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499096,
+      "Progressed": 499117,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499096,
+      "Progressed": 499117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-14T16:59:32.6179749+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:10:15.0491383+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:27.3636599+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:48.3779338+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:10:15.0501631+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:59:59.3529867+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:27.3647628+00:00"
 }

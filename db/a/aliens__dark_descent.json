@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 565,
-  "Ranking_Popularity": 423,
+  "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -563,7 +563,7 @@
   ],
   "EOS_Progressed": 6438,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10112,9 +10112,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10209,8 +10209,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:04:54.9387536+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:04:56.9668895+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:29.6338321+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:04:54.9388502+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:57:40.0540929+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:04:56.9669717+00:00"
 }

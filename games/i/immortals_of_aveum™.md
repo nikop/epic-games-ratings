@@ -1,23 +1,23 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.21 (Ranked 960)  
+Rating: 4.20 (Ranked 969)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,062 |
-| Battlefields Have Memories | 81.00% | ~2,787 |
-| Enlisted | 75.00% | ~2,581 |
-| Maybe Engage a Little | 70.00% | ~2,409 |
-| No More Names | 53.00% | ~1,824 |
-| Initiate | 40.00% | ~1,376 |
+| Unforeseen | 89.00% | ~3,064 |
+| Battlefields Have Memories | 81.00% | ~2,789 |
+| Enlisted | 75.00% | ~2,582 |
+| Maybe Engage a Little | 70.00% | ~2,410 |
+| No More Names | 53.00% | ~1,825 |
+| Initiate | 40.00% | ~1,377 |
 | Thrada-Kul | 36.00% | ~1,239 |
-| Gravity-Challenged Rocks | 30.00% | ~1,032 |
-| Socialite | 25.00% | ~860 |
-| Soldier | 25.00% | ~860 |
-| All the Major Food Groups | 25.00% | ~860 |
-| Beggars Would Ride | 23.00% | ~791 |
-| Control is an Illusion | 21.00% | ~723 |
+| Gravity-Challenged Rocks | 30.00% | ~1,033 |
+| Socialite | 25.00% | ~861 |
+| Soldier | 25.00% | ~861 |
+| All the Major Food Groups | 25.00% | ~861 |
+| Beggars Would Ride | 23.00% | ~792 |
+| Control is an Illusion | 22.00% | ~757 |
 | The Means to Save It | 19.00% | ~654 |
 | Resilience to Sin | 17.00% | ~585 |
 | A Familiar Nest | 17.00% | ~585 |
@@ -30,8 +30,8 @@ Rating: 4.21 (Ranked 960)
 | Periapt Cerulean | 9.00% | ~310 |
 | Good Boy | 8.00% | ~275 |
 | Periapt Viridian | 7.00% | ~241 |
-| Best Dressed | 6.00% | ~206 |
-| Shroudfane Explorer | 6.00% | ~206 |
+| Best Dressed | 6.00% | ~207 |
+| Shroudfane Explorer | 6.00% | ~207 |
 | Kitted Out | 5.00% | ~172 |
 | Armaments Gules | 5.00% | ~172 |
 | Scholar | 4.00% | ~138 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 960)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,441 (Ranked 229)  
+Progressed: 3,443 (Ranked 229)  
 Completed: 5 (0.15%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 5 (0.15%) (Ranked 293)
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
-| 2024-01-14 | 3,441 | 5 |
+| 2024-01-14 | 3,443 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2414,6 +2414,11 @@
       "Time": "2024-01-14T22:09:55.7445368+00:00",
       "NumProgressed": 751,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T23:10:07.6595258+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2488,9 +2493,9 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 150
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2522,7 +2527,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "TIME_ORWELL",
@@ -2538,7 +2543,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2585,14 +2590,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:55.7445361+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:07.6595253+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:48.2425501+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:18.5126547+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:55.7445619+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:57:28.8100518+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:07.6595493+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -5073,9 +5073,9 @@
       "ID": "ACH_ARTISTASSISTANT",
       "SetID": "7pam6gn",
       "Name": "Artist Assistant",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 276
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -5210,8 +5210,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:54.861136+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:06.7355572+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.0756455+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:12.9419533+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:54.8611669+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:59:24.4459737+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:06.735587+00:00"
 }

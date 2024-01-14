@@ -9009,9 +9009,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760781,
+  "EOS_Progressed": 760787,
   "EOS_Completed": 12988,
-  "EOS_NewPlayers": 3986,
+  "EOS_NewPlayers": 3974,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33809,6 +33809,11 @@
       "Time": "2024-01-14T22:09:27.4171439+00:00",
       "NumProgressed": 760781,
       "NumCompleted": 12988
+    },
+    {
+      "Time": "2024-01-14T23:09:39.3300005+00:00",
+      "NumProgressed": 760787,
+      "NumCompleted": 12988
     }
   ],
   "TotalAchievements": 60,
@@ -33836,7 +33841,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33868,7 +33873,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "08_Wude_H2",
@@ -33876,7 +33881,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "09_Wude_H3",
@@ -33932,7 +33937,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5325
+      "UsersEstimate": 5326
     },
     {
       "ID": "16_Detective_H2",
@@ -33972,7 +33977,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33988,7 +33993,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -34004,7 +34009,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "25_ShrineMind",
@@ -34028,7 +34033,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -34068,7 +34073,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "33_BladeOneShot",
@@ -34172,7 +34177,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -34299,21 +34304,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70082,
+      "Progressed": 70088,
       "Completed": 10810
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760781,
+      "Progressed": 760787,
       "Completed": 12988
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-14T15:03:05.9264511+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:27.4171434+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:39.3299999+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:03:08.1083224+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:27.417272+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:03:08.9808063+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:39.3301579+00:00"
 }

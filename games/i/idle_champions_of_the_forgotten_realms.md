@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,039)  
+Rating: 4.06 (Ranked 1,040)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,952 (Ranked 70)  
+Progressed: 253,961 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -822,15 +822,15 @@ Completed: 2,617 (1.03%) (Ranked 176)
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
-| 2024-01-14 | 253,952 | 2,617 |
+| 2024-01-14 | 253,961 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
-Sum: 33,490 (Ranked 41)  
+Sum: 33,493 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,782 |
-| This game has Diverse Characters | 5,720 |
+| This game has Diverse Characters | 5,723 |
 | This game has Quickly Understood Controls | 4,913 |
 | This game is Relaxing | 4,780 |
 | This game has Amazing Characters | 4,329 |
@@ -1192,4 +1192,4 @@ Diff (max vs sum): 33
 | 2024-01-11 | 4.06 | - | 5,770 | 33,451 |
 | 2024-01-12 | 4.06 | - | 5,774 | 33,467 |
 | 2024-01-13 | 4.06 | - | 5,777 | 33,477 |
-| 2024-01-14 | 4.06 | - | 5,782 | 33,490 |
+| 2024-01-14 | 4.06 | - | 5,782 | 33,493 |

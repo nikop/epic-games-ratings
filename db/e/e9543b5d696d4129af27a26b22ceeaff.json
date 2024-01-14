@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -378,9 +378,9 @@
       "ID": "ACH_50_WINS",
       "SetID": "1lnhagg",
       "Name": "Winning is Quite Alright",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_AMERICAN_CAREER",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:08:44.5658848+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:08:56.6991247+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:19.7445014+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:08:44.5659148+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:59:31.0157282+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:08:56.699151+00:00"
 }

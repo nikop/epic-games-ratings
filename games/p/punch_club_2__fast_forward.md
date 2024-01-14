@@ -65,10 +65,10 @@
 | Keep nature safe | 27.00% | ~158 |
 | Careerist | 27.00% | ~158 |
 | Anyone can resist | 27.00% | ~158 |
+| The only right decision | 26.00% | ~152 |
 | The last bell ring | 26.00% | ~152 |
 | Your own way | 26.00% | ~152 |
 | Better cooking at home | 25.00% | ~146 |
-| The only right decision | 25.00% | ~146 |
 | Silver’s past | 24.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 584 (Ranked 345)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -5062,9 +5062,9 @@
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 547
     },
     {
       "ID": "MoskitoBite",
@@ -5126,8 +5126,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:46.4210172+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:58.3477388+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.1126482+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:33.3916649+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:46.4210574+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:57:43.8043915+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:58.3477777+00:00"
 }

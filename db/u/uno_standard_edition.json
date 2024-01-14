@@ -2,13 +2,13 @@
   "ID": "ca93b6d41a4e41af864942d8f0a2a826",
   "Name": "UNO Standard Edition",
   "ProductSlug": "uno",
-  "Ranking_Rating": 725,
+  "Ranking_Rating": 727,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-03-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -318,6 +318,6 @@
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
   "LastChanged": "2023-11-08T03:00:45.7397028+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.0910584+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:02.9212873+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:27.7860372+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:59:14.3383149+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:39.6142996+00:00"
 }

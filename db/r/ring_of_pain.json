@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242973,
+  "EOS_Progressed": 242976,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31841,6 +31841,11 @@
       "Time": "2024-01-14T22:10:13.960338+00:00",
       "NumProgressed": 242973,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T23:10:25.9068604+00:00",
+      "NumProgressed": 242976,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31884,7 +31889,7 @@
       "Name": "First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "CURSE1HP",
@@ -32955,22 +32960,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242973,
+      "Progressed": 242976,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4453,
-      "Completed": 425
+      "Progressed": 4456,
+      "Completed": 426
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:10:13.9603375+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:25.9068599+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:00:31.8202271+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:10:13.9605846+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:42.6741626+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:25.9071405+00:00"
 }

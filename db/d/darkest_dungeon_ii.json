@@ -10872,9 +10872,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132832,
+  "EOS_Progressed": 132837,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39887,6 +39887,11 @@
       "Time": "2024-01-14T22:09:56.5070703+00:00",
       "NumProgressed": 132832,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T23:10:08.4743061+00:00",
+      "NumProgressed": 132837,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40026,7 +40031,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9298
+      "UsersEstimate": 9299
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40394,7 +40399,7 @@
       "Name": "Grand Slam",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -40434,7 +40439,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "combat_kill_collector",
@@ -40498,7 +40503,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40529,21 +40534,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132832,
+      "Progressed": 132837,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7701,
-      "Completed": 826
+      "Progressed": 7706,
+      "Completed": 827
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T17:58:44.8735794+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:56.5070699+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:08.4743057+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:52.9717075+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:56.5072657+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:58:03.8581626+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:08.4744786+00:00"
 }

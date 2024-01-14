@@ -2,10 +2,10 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 477,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
     "PcReleaseDate": "2022-05-03T23:00:00+00:00",
@@ -806,8 +806,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:04:39.2441381+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:04:40.7664393+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:51.0423583+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:03:00.9805704+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:04:39.2441483+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:03:01.6237214+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:04:40.7664513+00:00"
 }

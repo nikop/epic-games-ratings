@@ -6,10 +6,10 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,078 |
-| Lost and Found | 9.00% | ~693 |
+| Malpractice Assurance | 14.00% | ~1,079 |
+| Lost and Found | 9.00% | ~694 |
 | Autodidact | 8.00% | ~10,627 |
-| This Belongs in a Museum | 7.00% | ~9,298 |
+| This Belongs in a Museum | 7.00% | ~9,299 |
 | This guy... again? | 7.00% | ~539 |
 | Serenity Now! | 6.00% | ~7,970 |
 | Creep and Sleep | 6.00% | ~7,970 |
@@ -77,7 +77,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Tears in the Rain | 0.40% | ~531 |
 | Battle Hardened | 0.40% | ~31 |
 | Maître De La Lame | 0.40% | ~31 |
-| Grand Slam | 0.30% | ~398 |
+| Grand Slam | 0.30% | ~399 |
 | Circle of Life | 0.20% | ~266 |
 | 20,000 Leagues Above the Sea | 0.20% | ~266 |
 | These Boots Are Made For Kickin' | 0.20% | ~15 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,832 (Ranked 92)  
+Progressed: 132,837 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,832 | 4 |
+| 2024-01-14 | 132,837 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,652 (Ranked 58)  

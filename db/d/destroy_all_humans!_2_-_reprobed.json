@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1956,6 +1956,11 @@
       "Time": "2024-01-14T22:09:22.6659925+00:00",
       "NumProgressed": 431,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T23:09:34.5967989+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1968,7 +1973,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1982,9 +1987,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2038,9 +2043,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2080,7 +2085,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2104,7 +2109,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2112,7 +2117,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -2144,7 +2149,7 @@
       "Name": "Kaijuiced",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2214,9 +2219,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 147
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2256,7 +2261,7 @@
       "Name": "Dusted",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2304,7 +2309,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2319,7 +2324,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 2
     }
   ],
@@ -2327,8 +2332,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:22.6659921+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:34.5967984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:57:06.6123666+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:22.6660305+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:57:17.6175825+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:34.5968404+00:00"
 }

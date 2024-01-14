@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1698,
+  "EOS_Progressed": 1699,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4490,6 +4490,11 @@
       "Time": "2024-01-14T22:09:39.9696384+00:00",
       "NumProgressed": 1698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T23:09:51.7043301+00:00",
+      "NumProgressed": 1699,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4566,7 +4571,7 @@
       "Name": "The Alliance",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "AchvDoom",
@@ -4598,7 +4603,7 @@
       "Name": "Krauta is alive",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "AchvLava",
@@ -4630,7 +4635,7 @@
       "Name": "The Necroevolution",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "AchvNest",
@@ -4670,7 +4675,7 @@
       "Name": "The field base",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "AchvReachCamp",
@@ -4694,7 +4699,7 @@
       "Name": "The Condor",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "AchvSurvivors",
@@ -4702,7 +4707,7 @@
       "Name": "Survivors",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4718,7 +4723,7 @@
       "Name": "The End",
       "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "AchvUnity",
@@ -4733,7 +4738,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1698,
+      "Progressed": 1699,
       "Completed": 1
     }
   ],
@@ -4741,8 +4746,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:39.9696379+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:51.7043295+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:00:26.6577583+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:39.9696827+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:37.0558216+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:51.7043646+00:00"
 }

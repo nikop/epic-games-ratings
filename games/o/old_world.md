@@ -6,10 +6,10 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 5.00% | ~841 |
 | Explorer | 4.00% | ~673 |
 | Settler | 4.00% | ~673 |
 | Friendly Family | 4.00% | ~673 |
-| Play a Single Player Game | 4.00% | ~673 |
 | Able | 3.00% | ~505 |
 | Architect | 3.00% | ~505 |
 | Good | 3.00% | ~505 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,818 (Ranked 169)  
+Progressed: 16,823 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,16 +634,16 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,818 | 5 |
+| 2024-01-14 | 16,823 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,930 (Ranked 223)  
+Sum: 1,931 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
 | This game has Diverse Characters | 226 |
-| This game is Extremely Fun | 223 |
+| This game is Extremely Fun | 224 |
 | This game is Highly Recommended | 223 |
 | This game is Educational | 220 |
 | This game has Challenging Combat | 210 |
@@ -847,4 +847,4 @@ Diff (max vs sum): 64
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
 | 2024-01-13 | 4.65 | - | 230 | 1,927 |
-| 2024-01-14 | 4.65 | - | 230 | 1,930 |
+| 2024-01-14 | 4.65 | - | 230 | 1,931 |

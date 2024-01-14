@@ -4,8 +4,8 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 575,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2018-05-23T19:00:00+00:00",
@@ -754,9 +754,9 @@
       "ID": "57",
       "SetID": "5e3maia",
       "Name": "Inventor",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "58",
@@ -874,9 +874,9 @@
       "ID": "70",
       "SetID": "5e3maia",
       "Name": "Reveller",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "8",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:04:55.6358273+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:04:57.6784214+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9839533+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:02:38.1063726+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:04:55.6358967+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:02:37.7166614+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:04:57.6784776+00:00"
 }

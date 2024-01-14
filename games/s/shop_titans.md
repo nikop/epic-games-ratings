@@ -1,13 +1,13 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,051)  
+Rating: 4.00 (Ranked 1,052)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,630 |
-| Titan's First Steps | 11.00% | ~16,630 |
+| Sponsored by Argon | 11.00% | ~16,631 |
+| Titan's First Steps | 11.00% | ~16,631 |
 | Basic in Bulk | 10.00% | ~15,119 |
 | Tinkle of Coins | 10.00% | ~15,119 |
 | Disintermediation | 8.00% | ~12,095 |
@@ -22,15 +22,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 5.00% | ~7,559 |
 | One-Armed Bandit | 5.00% | ~7,559 |
 | Through Repetition, Perfection | 5.00% | ~7,559 |
-| Bounty Hunters | 4.00% | ~6,047 |
-| Demand for Supplies | 4.00% | ~6,047 |
-| Flooding the Market | 4.00% | ~6,047 |
-| Where it Hurts | 4.00% | ~6,047 |
-| Gild-Gotten Goods | 4.00% | ~6,047 |
-| Accomplished Merchant | 4.00% | ~6,047 |
-| Dungeon Imports | 4.00% | ~6,047 |
-| Did we pack lunch? | 4.00% | ~6,047 |
-| Arcane Industries | 4.00% | ~6,047 |
+| Bounty Hunters | 4.00% | ~6,048 |
+| Demand for Supplies | 4.00% | ~6,048 |
+| Flooding the Market | 4.00% | ~6,048 |
+| Where it Hurts | 4.00% | ~6,048 |
+| Gild-Gotten Goods | 4.00% | ~6,048 |
+| Accomplished Merchant | 4.00% | ~6,048 |
+| Dungeon Imports | 4.00% | ~6,048 |
+| Did we pack lunch? | 4.00% | ~6,048 |
+| Arcane Industries | 4.00% | ~6,048 |
 | On the Path to Greatness | 3.00% | ~4,536 |
 | Ascended | 3.00% | ~4,536 |
 | Tax not Included | 3.00% | ~4,536 |
@@ -108,8 +108,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,512 |
 | The Greatest Grind | 0.90% | ~1,361 |
 | Marvels from the World Over | 0.90% | ~1,361 |
-| Bane of Legends | 0.80% | ~1,209 |
-| Anything not Nailed Down | 0.80% | ~1,209 |
+| Bane of Legends | 0.80% | ~1,210 |
+| Anything not Nailed Down | 0.80% | ~1,210 |
 | Ultimate Collector | 0.70% | ~1,058 |
 | Unleashed Potential | 0.70% | ~1,058 |
 | JACKPOT!!! | 0.70% | ~1,058 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~605 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,186 (Ranked 87)  
+Progressed: 151,188 (Ranked 87)  
 Completed: 354 (0.23%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -388,7 +388,7 @@ Completed: 354 (0.23%) (Ranked 273)
 | 2024-01-11 | 150,768 | 349 |
 | 2024-01-12 | 150,896 | 350 |
 | 2024-01-13 | 151,062 | 352 |
-| 2024-01-14 | 151,186 | 354 |
+| 2024-01-14 | 151,188 | 354 |
 ## Awards
 Max (Great for Beginners): 4,959  (Ranked 80)  
 Sum: 27,994 (Ranked 52)  

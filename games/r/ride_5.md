@@ -27,10 +27,10 @@ Rating: 4.58 (Ranked 469)
 | Cherry Blossom and Temples | 5.00% | ~180 |
 | The Road to Liberty | 5.00% | ~180 |
 | Romantic Races | 4.00% | ~144 |
-| I Make the Rules! | 4.00% | ~144 |
 | My Work Here Is Done | 4.00% | ~144 |
 | Spoilt for Choice | 3.00% | ~108 |
 | La Dolce Vita | 3.00% | ~108 |
+| I Make the Rules! | 3.00% | ~108 |
 | Rounding Off | 3.00% | ~108 |
 | Iconic! | 2.00% | ~72 |
 | I'll Be the Best! | 2.00% | ~72 |
@@ -55,7 +55,7 @@ Rating: 4.58 (Ranked 469)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,600 (Ranked 225)  
+Progressed: 3,601 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 3,552 | 0 |
 | 2024-01-12 | 3,570 | 0 |
 | 2024-01-13 | 3,582 | 0 |
-| 2024-01-14 | 3,600 | 0 |
+| 2024-01-14 | 3,601 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

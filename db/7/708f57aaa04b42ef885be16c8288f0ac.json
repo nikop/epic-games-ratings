@@ -437,9 +437,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14878,
+  "EOS_Progressed": 14879,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 850,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10407,6 +10407,11 @@
       "Time": "2024-01-14T22:10:03.0310083+00:00",
       "NumProgressed": 14878,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T23:10:14.9494964+00:00",
+      "NumProgressed": 14879,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10475,7 +10480,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "FasterThanLight",
@@ -10523,7 +10528,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10609,9 +10614,9 @@
       "ID": "TheOldSchoolWay",
       "SetID": "acc6ea0",
       "Name": "The Old-School Way",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3720
     },
     {
       "ID": "TheQuarterback",
@@ -10627,7 +10632,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10651,7 +10656,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10659,7 +10664,7 @@
       "Name": "Digestive Issues",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -10690,7 +10695,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14878,
+      "Progressed": 14879,
       "Completed": 27
     }
   ],
@@ -10698,8 +10703,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-14T13:58:34.8799598+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:10:03.0310079+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:14.9494959+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:58:55.3936023+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:10:03.0310844+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:59:07.0802472+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:14.9495653+00:00"
 }

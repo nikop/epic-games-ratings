@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 798)  
+Rating: 4.38 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.38 (Ranked 798)
 | Fashion Connoisseur | 53.00% | ~400 |
 | Arms Mechanic | 49.00% | ~369 |
 | Flower Thief | 44.00% | ~332 |
-| Apostle of Flame | 39.00% | ~294 |
+| Apostle of Flame | 40.00% | ~302 |
 | Beginner Cook | 38.00% | ~287 |
 | Beginner Artificer | 38.00% | ~287 |
 | Seal Breaker | 32.00% | ~241 |

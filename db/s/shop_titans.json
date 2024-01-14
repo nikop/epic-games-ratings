@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1051,
+  "Ranking_Rating": 1052,
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151186,
+  "EOS_Progressed": 151188,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36719,6 +36719,11 @@
       "Time": "2024-01-14T22:08:53.5360807+00:00",
       "NumProgressed": 151186,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-14T23:09:05.4097286+00:00",
+      "NumProgressed": 151188,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36866,7 +36871,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "boss02",
@@ -36882,7 +36887,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "champions01",
@@ -36898,7 +36903,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16630
+      "UsersEstimate": 16631
     },
     {
       "ID": "chest02",
@@ -36970,7 +36975,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "commonres03",
@@ -37002,7 +37007,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "craft03",
@@ -37034,7 +37039,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "damage02",
@@ -37218,7 +37223,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "gold04",
@@ -37322,7 +37327,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "level03",
@@ -37354,7 +37359,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "loot02",
@@ -37378,7 +37383,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "master01",
@@ -37442,7 +37447,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "quest02",
@@ -37546,7 +37551,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16630
+      "UsersEstimate": 16631
     },
     {
       "ID": "twinenchant01",
@@ -37602,7 +37607,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6047
+      "UsersEstimate": 6048
     },
     {
       "ID": "workers03",
@@ -37625,15 +37630,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151186,
+      "Progressed": 151188,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:08:53.5360803+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:05.4097282+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:03:17.523605+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:08:53.5363265+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:03:17.7779785+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:05.4099435+00:00"
 }

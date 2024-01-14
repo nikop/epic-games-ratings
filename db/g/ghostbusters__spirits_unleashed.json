@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4023,9 +4023,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33659,
+  "EOS_Progressed": 33664,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25538,6 +25538,11 @@
       "Time": "2024-01-14T22:09:01.0077886+00:00",
       "NumProgressed": 33659,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-14T23:09:12.8202494+00:00",
+      "NumProgressed": 33664,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25613,7 +25618,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "Daily_Dose",
@@ -25621,7 +25626,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "Diabolical",
@@ -25661,7 +25666,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3029
+      "UsersEstimate": 3030
     },
     {
       "ID": "Escape_Artist",
@@ -25693,7 +25698,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "Ghost_Expert",
@@ -25797,7 +25802,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "Rivalry",
@@ -25853,7 +25858,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "Summoner",
@@ -25949,14 +25954,14 @@
       "Name": "Whoopsie",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33659,
+      "Progressed": 33664,
       "Completed": 71
     }
   ],
@@ -25964,8 +25969,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:09:01.0077882+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:09:12.820249+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:02:44.743423+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:09:01.0079415+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:02:44.3225733+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:09:12.8203606+00:00"
 }

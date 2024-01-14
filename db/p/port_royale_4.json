@@ -2,13 +2,13 @@
   "ID": "e89efaeec0cd408abee8bd4dd02c8d32",
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
-  "Ranking_Rating": 1046,
+  "Ranking_Rating": 1047,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1231,
+  "EOS_Progressed": 1232,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3581,6 +3581,11 @@
       "Time": "2024-01-14T20:06:24.3931761+00:00",
       "NumProgressed": 1231,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T23:05:33.2798434+00:00",
+      "NumProgressed": 1232,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3592,7 +3597,7 @@
       "Name": "Cabin boy",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "ACH001",
@@ -3680,7 +3685,7 @@
       "Name": "Intangible",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH012",
@@ -3696,7 +3701,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "ACH014",
@@ -3704,7 +3709,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH015",
@@ -3776,7 +3781,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH024",
@@ -3808,7 +3813,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH028",
@@ -3824,7 +3829,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH030",
@@ -3848,7 +3853,7 @@
       "Name": "Pirates!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH033",
@@ -3864,7 +3869,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH035",
@@ -3880,7 +3885,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ACH037",
@@ -3888,7 +3893,7 @@
       "Name": "Paths of Glory",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH038",
@@ -3991,15 +3996,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1231,
+      "Progressed": 1232,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:05:30.6140167+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:05:33.279843+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.317946+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:51.5876681+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:05:30.6140643+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:02.4564156+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:05:33.2798969+00:00"
 }

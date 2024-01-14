@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19019,
+  "EOS_Progressed": 19023,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17389,6 +17389,11 @@
       "Time": "2024-01-14T22:04:45.4062066+00:00",
       "NumProgressed": 19019,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-14T23:04:47.0602131+00:00",
+      "NumProgressed": 19023,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17417,7 +17422,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "12",
@@ -17433,7 +17438,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "14",
@@ -17449,7 +17454,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "16",
@@ -17457,7 +17462,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "17",
@@ -17465,7 +17470,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "18",
@@ -17497,7 +17502,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "21",
@@ -17505,7 +17510,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "22",
@@ -17537,7 +17542,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "26",
@@ -17577,7 +17582,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "30",
@@ -17649,7 +17654,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "33",
@@ -17665,7 +17670,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "35",
@@ -17680,22 +17685,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19019,
+      "Progressed": 19023,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4973,
-      "Completed": 1324
+      "Progressed": 4977,
+      "Completed": 1325
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:04:45.4062064+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:04:47.0602127+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:58:12.7896284+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:04:45.4062988+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:58:22.5387889+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:04:47.0603344+00:00"
 }

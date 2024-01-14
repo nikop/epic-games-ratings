@@ -9,16 +9,16 @@ Rating: 4.68 (Ranked 261)
 | Rail Rat | 36.00% | ~477 |
 | The Mysterious Stranger | 35.00% | ~464 |
 | Immaculate Aim | 30.00% | ~398 |
-| The Brass Boss | 29.00% | ~384 |
+| The Brass Boss | 29.00% | ~385 |
 | Time Flies | 27.00% | ~358 |
 | No, Thanks! | 27.00% | ~358 |
 | The Prince in Heels | 27.00% | ~358 |
 | Honest Mistake | 27.00% | ~358 |
-| Make Up For Lost Time | 26.00% | ~344 |
-| The Harder They Fall | 26.00% | ~344 |
-| Fast Learner | 26.00% | ~344 |
-| Immaculate Aim | 26.00% | ~344 |
-| The Steel Shadow | 25.00% | ~331 |
+| Make Up For Lost Time | 26.00% | ~345 |
+| The Harder They Fall | 26.00% | ~345 |
+| Fast Learner | 26.00% | ~345 |
+| Immaculate Aim | 26.00% | ~345 |
+| The Steel Shadow | 25.00% | ~332 |
 | Breaking Down Barriers | 24.00% | ~318 |
 | Right On Time | 23.00% | ~305 |
 | The Wicked Twins | 23.00% | ~305 |
@@ -28,8 +28,8 @@ Rating: 4.68 (Ranked 261)
 | The Loose Cannon | 20.00% | ~265 |
 | Check Your Pulse | 20.00% | ~265 |
 | Street Style | 19.00% | ~252 |
-| The Man Who Shattered Time | 18.00% | ~238 |
-| The Family Fortune | 18.00% | ~238 |
+| The Man Who Shattered Time | 18.00% | ~239 |
+| The Family Fortune | 18.00% | ~239 |
 | Whiz Kid | 15.00% | ~199 |
 | Good Neighbor | 15.00% | ~199 |
 | Family Memories | 14.00% | ~186 |
@@ -39,10 +39,10 @@ Rating: 4.68 (Ranked 261)
 | Treasure Trove | 12.00% | ~159 |
 | Cartographer | 12.00% | ~159 |
 | Sump Explorer | 12.00% | ~159 |
-| Cultivair Explorer | 10.00% | ~132 |
-| Factorywood Explorer | 10.00% | ~132 |
-| Fairgrounds Explorer | 10.00% | ~132 |
-| Theater Explorer | 10.00% | ~132 |
+| Cultivair Explorer | 10.00% | ~133 |
+| Factorywood Explorer | 10.00% | ~133 |
+| Fairgrounds Explorer | 10.00% | ~133 |
+| Theater Explorer | 10.00% | ~133 |
 | Entresol Explorer | 9.00% | ~119 |
 | Corin Goes Home | 8.00% | ~106 |
 | Sartorialist | 8.00% | ~106 |
@@ -51,15 +51,15 @@ Rating: 4.68 (Ranked 261)
 | Hexlock for Protection | 6.00% | ~80 |
 | Rungs Was Right | 5.00% | ~66 |
 | Wunderkind | 3.00% | ~40 |
-| Thinking Two Steps Ahead | 2.00% | ~26 |
-| Fitting In | 2.00% | ~26 |
+| Thinking Two Steps Ahead | 2.00% | ~27 |
+| Fitting In | 2.00% | ~27 |
 | No Time to Waste | 1.00% | ~13 |
 | A Lesson in Precision | 0.90% | ~12 |
 | Wildlife Protection | 0.80% | ~11 |
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,325 (Ranked 281)  
+Progressed: 1,326 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 8 (0.60%) (Ranked 211)
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
 | 2024-01-13 | 1,319 | 8 |
-| 2024-01-14 | 1,325 | 8 |
+| 2024-01-14 | 1,326 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

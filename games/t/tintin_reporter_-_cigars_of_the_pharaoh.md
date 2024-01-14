@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 79.00% | ~107 |
-| A Loyal Friend | 43.00% | ~58 |
-| Abandon Ship! | 33.00% | ~45 |
-| The Tomb of Kih-Oskh | 29.00% | ~39 |
-| The Weighing of the Soul | 27.00% | ~36 |
-| The Curse of Kih-Oskh | 21.00% | ~28 |
-| It's a Deal! | 18.00% | ~24 |
-| Cat Lover | 15.00% | ~20 |
-| Dynamite, Treason and Coconuts | 15.00% | ~20 |
+| My Papyrus! | 80.00% | ~110 |
+| A Loyal Friend | 42.00% | ~58 |
+| Abandon Ship! | 32.00% | ~44 |
+| The Tomb of Kih-Oskh | 28.00% | ~38 |
+| The Weighing of the Soul | 26.00% | ~36 |
+| The Curse of Kih-Oskh | 20.00% | ~27 |
+| It's a Deal! | 18.00% | ~25 |
+| Cat Lover | 15.00% | ~21 |
+| Dynamite, Treason and Coconuts | 15.00% | ~21 |
 | Save a Friend | 14.00% | ~19 |
-| In the Name of the Law | 13.00% | ~18 |
-| Au Revoir, Abudin | 13.00% | ~18 |
+| In the Name of the Law | 12.00% | ~16 |
+| Au Revoir, Abudin | 12.00% | ~16 |
 | Mysterious Bungalow | 12.00% | ~16 |
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
-| Keep the Doctor Away | 10.00% | ~14 |
-| Just a Palm Tree | 10.00% | ~14 |
-| Eyes Shut | 10.00% | ~14 |
+| Keep the Doctor Away | 9.00% | ~12 |
+| Just a Palm Tree | 9.00% | ~12 |
 | Under the Hood | 9.00% | ~12 |
+| Eyes Shut | 9.00% | ~12 |
 | Barking Dog | 9.00% | ~12 |
 | Long Live Gaipajama! | 8.00% | ~11 |
-| Tintin, Reporter | 7.00% | ~9 |
-| Mummy Nightmare | 7.00% | ~9 |
-| Subtlety | 7.00% | ~9 |
+| Tintin, Reporter | 7.00% | ~10 |
+| Mummy Nightmare | 7.00% | ~10 |
+| Subtlety | 7.00% | ~10 |
 | Mountain Runner | 5.00% | ~7 |
 | A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 135 (Ranked 477)  
+Progressed: 137 (Ranked 475)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,4 +96,4 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 131 | 0 |
 | 2024-01-11 | 133 | 0 |
 | 2024-01-13 | 134 | 0 |
-| 2024-01-14 | 135 | 0 |
+| 2024-01-14 | 137 | 0 |

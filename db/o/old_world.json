@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2212,10 +2212,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1930,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-14T23:00:07.4433012+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1931,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1930,
+  "NumberOfAwards": 1931,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2229,7 +2235,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2292,9 +2298,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16818,
+  "EOS_Progressed": 16823,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20032,6 +20038,11 @@
       "Time": "2024-01-14T22:10:14.7131412+00:00",
       "NumProgressed": 16818,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T23:10:26.7647179+00:00",
+      "NumProgressed": 16823,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21793,9 +21804,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 841
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -22906,21 +22917,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16818,
+      "Progressed": 16823,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16818,
+      "Progressed": 16823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-14T16:59:39.7043466+00:00",
-  "LastChanged_Achievements": "2024-01-14T22:10:14.7131408+00:00",
+  "LastChanged": "2024-01-14T23:00:07.443301+00:00",
+  "LastChanged_Achievements": "2024-01-14T23:10:26.7647175+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:59:56.4247285+00:00",
-  "LastUpdate_Achievements": "2024-01-14T22:10:14.7141419+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:00:07.4433014+00:00",
+  "LastUpdate_Achievements": "2024-01-14T23:10:26.7657911+00:00"
 }
