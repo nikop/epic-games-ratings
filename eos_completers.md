@@ -20,11 +20,11 @@
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.20% |
-| 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.80% |
-| 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.25% |
-| 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 19.35% |
-| 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.25% |
+| 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.80% |
+| 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 18.75% |
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
@@ -86,11 +86,11 @@
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.37% |
 | 86 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.35% |
-| 87 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
-| 88 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.21% |
-| 89 | [Dungeons 4](games/d/dungeons_4.md) | 4.18% |
-| 90 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.17% |
-| 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
+| 87 | [Dungeons 4](games/d/dungeons_4.md) | 4.31% |
+| 88 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
+| 89 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.23% |
+| 90 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.21% |
+| 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 92 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.91% |
 | 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.75% |
@@ -139,7 +139,7 @@
 | 137 | [Strange House](games/s/strange_house.md) | 2.04% |
 | 138 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
 | 139 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.96% |
-| 140 | [Somerville](games/s/somerville.md) | 1.95% |
+| 140 | [Somerville](games/s/somerville.md) | 1.94% |
 | 141 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 142 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 143 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
@@ -162,7 +162,7 @@
 | 160 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
 | 161 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.20% |
 | 162 | [Late Shift](games/l/late_shift.md) | 1.19% |
-| 163 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.18% |
+| 163 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.17% |
 | 164 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.16% |
 | 164 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.16% |
 | 164 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
@@ -173,13 +173,13 @@
 | 171 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.09% |
 | 172 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 172 | [The Devil's Face](games/t/the_devil's_face.md) | 1.08% |
-| 172 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.08% |
+| 174 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.07% |
 | 175 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 176 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 177 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.02% |
-| 177 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.02% |
 | 177 | [Lemon Cake](games/l/lemon_cake.md) | 1.02% |
 | 177 | [Sable](games/s/sable.md) | 1.02% |
+| 180 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.01% |
 | 181 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
 | 182 | [Trifox](games/t/trifox.md) | 0.95% |
 | 183 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
@@ -243,8 +243,8 @@
 | 241 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 241 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.40% |
 | 241 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
+| 241 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
 | 241 | [Tchia](games/t/tchia.md) | 0.40% |
-| 245 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
 | 246 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 246 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
 | 248 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
@@ -278,8 +278,8 @@
 | 276 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 276 | [Eternights](games/e/eternights.md) | 0.22% |
 | 276 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
-| 276 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.22% |
-| 280 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 279 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 279 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.21% |
 | 281 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 281 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 283 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.19% |
