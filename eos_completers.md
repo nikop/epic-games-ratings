@@ -25,9 +25,9 @@
 | 23 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.51% |
 | 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 19.35% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
+| 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.69% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.68% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -57,7 +57,7 @@
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.45% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.40% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 60 | [Sonic Origins](games/s/sonic_origins.md) | 6.91% |
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
@@ -93,7 +93,7 @@
 | 91 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 92 | [Dungeons 4](games/d/dungeons_4.md) | 4.06% |
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.91% |
-| 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.85% |
+| 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.80% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.68% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.61% |
@@ -145,9 +145,9 @@
 | 143 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 144 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.73% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.71% |
 | 146 | [Sifu](games/s/sifu.md) | 1.71% |
-| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.70% |
-| 147 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
+| 148 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 149 | [Frogun](games/f/frogun.md) | 1.67% |
 | 150 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.54% |
 | 151 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.47% |
@@ -183,9 +183,9 @@
 | 181 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 182 | [Trifox](games/t/trifox.md) | 0.95% |
 | 183 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
-| 184 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
-| 185 | [Hades](games/h/hades.md) | 0.91% |
-| 185 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.91% |
+| 184 | [Hades](games/h/hades.md) | 0.91% |
+| 184 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.91% |
+| 184 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.91% |
 | 187 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.90% |
 | 187 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
 | 187 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.90% |
@@ -213,10 +213,10 @@
 | 211 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.60% |
 | 211 | [Scrapnaut](games/s/scrapnaut.md) | 0.60% |
 | 213 | [Grindstone](games/g/grindstone.md) | 0.59% |
-| 213 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.59% |
 | 213 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
 | 213 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.59% |
-| 217 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.58% |
+| 216 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.58% |
+| 216 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.58% |
 | 218 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 219 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 220 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
