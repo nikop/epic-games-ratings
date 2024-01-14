@@ -32,17 +32,17 @@
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |
 | Masterpiece | 2.00% | ~3 |
+| Trinket Enthusiast | 2.00% | ~3 |
 | First time? | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
 | ACHOO! | 2.00% | ~3 |
 | Towards the Future | 1.00% | ~1 |
-| Trinket Enthusiast | 1.00% | ~1 |
 | The Usurper | 1.00% | ~1 |
 | Harmony | 1.00% | ~1 |
 | A New Tomorrow | 1.00% | ~1 |
+| Gladiator | 1.00% | ~1 |
 | The New Demon Lord | 0.70% | ~1 |
-| Gladiator | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 463)  

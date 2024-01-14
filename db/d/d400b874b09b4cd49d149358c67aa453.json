@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2694,6 +2694,11 @@
       "Time": "2024-01-14T02:01:31.2340968+00:00",
       "NumProgressed": 736,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T13:07:52.005457+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2760,9 +2765,9 @@
       "ID": "ACH_END_FIRST_TUTORIAL",
       "SetID": "al4k4nh",
       "Name": "Ready to go",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 662
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2786,7 +2791,7 @@
       "Name": "First shock",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -2834,7 +2839,7 @@
       "Name": "I like the risk",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -2850,7 +2855,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2874,7 +2879,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2904,7 +2909,7 @@
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
       "SetID": "al4k4nh",
       "Name": "Watch me",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
       "UsersEstimate": 7
     }
@@ -2913,14 +2918,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:03:48.3389602+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:07:52.0054566+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:07.9171581+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:22.3324028+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:03:48.3389853+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:05:01.3979634+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:07:52.0054866+00:00"
 }

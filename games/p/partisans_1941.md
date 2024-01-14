@@ -1,23 +1,23 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 379)  
+Rating: 4.62 (Ranked 378)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 46.00% | ~898 |
+| E1M1 | 46.00% | ~899 |
 | Grenadier | 45.00% | ~879 |
 | War Never Changes | 45.00% | ~879 |
 | Heroes Never Die | 41.00% | ~801 |
 | Mosquito bite | 37.00% | ~723 |
-| Spice It Up | 33.00% | ~644 |
-| Agent 47 | 27.00% | ~527 |
-| You're Gonna Go Far, Kid | 27.00% | ~527 |
-| Bomberman | 27.00% | ~527 |
+| Spice It Up | 33.00% | ~645 |
+| Agent 47 | 27.00% | ~528 |
+| You're Gonna Go Far, Kid | 27.00% | ~528 |
+| Bomberman | 27.00% | ~528 |
 | Death to the Oppressor! | 20.00% | ~391 |
 | The Gang's All Here | 17.00% | ~332 |
-| Your Answer | 16.00% | ~312 |
+| Your Answer | 16.00% | ~313 |
 | One by One | 15.00% | ~293 |
 | The Big Bertha | 13.00% | ~254 |
 | Game Over | 12.00% | ~234 |
@@ -30,14 +30,14 @@ Number of Ratings: 98  (23.09.2022)
 | Experienced Strategist | 1.00% | ~20 |
 | How?! | 0.90% | ~18 |
 | Tough as Nails | 0.50% | ~10 |
-| Commandos | 0.30% | ~6 |
+| Commandos | 0.40% | ~8 |
 | A Little Culture | 0.20% | ~4 |
 | We Weren't There | 0.20% | ~4 |
 | Inspector General | 0.10% | ~2 |
 | Defense of Steel | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,953 (Ranked 255)  
+Progressed: 1,954 (Ranked 255)  
 Completed: 2 (0.10%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 2 (0.10%) (Ranked 315)
 | 2024-01-11 | 1,946 | 2 |
 | 2024-01-12 | 1,949 | 2 |
 | 2024-01-13 | 1,953 | 2 |
+| 2024-01-14 | 1,954 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24929,
+  "EOS_Progressed": 24930,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 1,
@@ -23383,6 +23383,11 @@
       "Time": "2024-01-14T12:05:05.3914739+00:00",
       "NumProgressed": 24929,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-14T13:09:34.5533609+00:00",
+      "NumProgressed": 24930,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23394,7 +23399,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19195
+      "UsersEstimate": 19196
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23466,7 +23471,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2991
+      "UsersEstimate": 2992
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -23505,15 +23510,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24929,
+      "Progressed": 24930,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:05:05.3914734+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:09:34.5533604+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:57:50.7625996+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:05:05.3915839+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:01:29.2070166+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:09:34.5534721+00:00"
 }

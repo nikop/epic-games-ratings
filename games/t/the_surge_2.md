@@ -5,16 +5,16 @@ Rating: 4.26 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,016 |
-| Don't I Know You...? | 75.00% | ~1,939 |
-| Jailbreak | 64.00% | ~1,654 |
-| HEADSHOT! | 37.00% | ~956 |
-| Suited and Booted | 37.00% | ~956 |
+| Rigged And Ready | 78.00% | ~2,017 |
+| Don't I Know You...? | 75.00% | ~1,940 |
+| Jailbreak | 64.00% | ~1,655 |
+| HEADSHOT! | 37.00% | ~957 |
+| Suited and Booted | 37.00% | ~957 |
 | Sleeping With The Fishes | 34.00% | ~879 |
 | High Performance | 30.00% | ~776 |
 | Overheated | 29.00% | ~750 |
 | Powered Up | 27.00% | ~698 |
-| Studied The Blade | 24.00% | ~620 |
+| Studied The Blade | 24.00% | ~621 |
 | Home Invasion | 22.00% | ~569 |
 | Luminary | 22.00% | ~569 |
 | True Survivor | 21.00% | ~543 |
@@ -24,8 +24,8 @@ Rating: 4.26 (Ranked 917)
 | Unforeseeable Consequences | 19.00% | ~491 |
 | Court Martial | 18.00% | ~465 |
 | Clean Cut | 18.00% | ~465 |
-| Dead Again | 17.00% | ~439 |
-| Full Arsenal | 17.00% | ~439 |
+| Dead Again | 17.00% | ~440 |
+| Full Arsenal | 17.00% | ~440 |
 | Can't Trust Banks | 15.00% | ~388 |
 | Mommy Dearest | 13.00% | ~336 |
 | Bad Dog | 13.00% | ~336 |
@@ -35,13 +35,13 @@ Rating: 4.26 (Ranked 917)
 | Sorry, Didn't See You There | 12.00% | ~310 |
 | Corrupted Beauty | 11.00% | ~284 |
 | Marked For Success | 11.00% | ~284 |
-| Stimulating The Local Economy | 10.00% | ~258 |
-| Triplets | 10.00% | ~258 |
+| Stimulating The Local Economy | 10.00% | ~259 |
+| Triplets | 10.00% | ~259 |
 | Denying Prophecy | 9.00% | ~233 |
 | A Little Banged Up | 8.00% | ~207 |
 | Following In Their Footsteps | 8.00% | ~207 |
 | Defense in Depth | 8.00% | ~207 |
-| Reverse Engineering | 6.00% | ~155 |
+| Reverse Engineering | 7.00% | ~181 |
 | Remote Surgery | 6.00% | ~155 |
 | Turbo Booster | 6.00% | ~155 |
 | Squid Pro Quo | 6.00% | ~155 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 917)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,585 (Ranked 238)  
+Progressed: 2,586 (Ranked 238)  
 Completed: 13 (0.50%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 13 (0.50%) (Ranked 224)
 | 2024-01-11 | 2,570 | 13 |
 | 2024-01-12 | 2,577 | 13 |
 | 2024-01-13 | 2,585 | 13 |
+| 2024-01-14 | 2,586 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

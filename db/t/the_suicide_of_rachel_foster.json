@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1845,
+  "EOS_Progressed": 1846,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
@@ -4298,6 +4298,11 @@
       "Time": "2024-01-14T11:05:24.352349+00:00",
       "NumProgressed": 1845,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T13:09:27.0521139+00:00",
+      "NumProgressed": 1846,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 11,
@@ -4309,7 +4314,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4317,7 +4322,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4373,7 +4378,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4396,15 +4401,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1845,
+      "Progressed": 1846,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:04:59.8163947+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:09:27.0521133+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:38.1764581+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:02:36.5399422+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:04:59.816422+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:06:13.8301435+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:09:27.0521746+00:00"
 }

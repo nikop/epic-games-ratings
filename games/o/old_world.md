@@ -6,11 +6,12 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~670 |
-| Settler | 4.00% | ~670 |
-| Play a Single Player Game | 4.00% | ~670 |
+| Explorer | 4.00% | ~671 |
+| Settler | 4.00% | ~671 |
+| Play a Single Player Game | 4.00% | ~671 |
 | Able | 3.00% | ~503 |
 | Architect | 3.00% | ~503 |
+| Good | 3.00% | ~503 |
 | Intrepid | 3.00% | ~503 |
 | Mason | 3.00% | ~503 |
 | Strong | 3.00% | ~503 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~335 |
 | Fountainhead | 2.00% | ~335 |
 | Glorious | 2.00% | ~335 |
-| Good | 2.00% | ~335 |
 | Just | 2.00% | ~335 |
 | Keystone | 2.00% | ~335 |
 | Learned | 2.00% | ~335 |
@@ -82,6 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.80% | ~134 |
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
+| Win a Single Player Game | 0.80% | ~134 |
 | Victorious | 0.70% | ~117 |
 | Landowners | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |
@@ -94,7 +95,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.70% | ~117 |
 | Legionary | 0.70% | ~117 |
 | Double Victory | 0.70% | ~117 |
-| Win a Single Player Game | 0.70% | ~117 |
 | The Clergy | 0.70% | ~117 |
 | Kushite Paganism | 0.70% | ~117 |
 | Capable | 0.60% | ~101 |
@@ -128,6 +128,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
+| Ishtar Gate in Babylon | 0.40% | ~67 |
 | Old | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
 | Jerwan Aqueduct | 0.40% | ~67 |
-| Ishtar Gate in Babylon | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.30% | ~50 |
 | Noble Difficulty | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
+| Jebel Barkal | 0.30% | ~50 |
 | Royal Library | 0.30% | ~50 |
 | Yazilikaya | 0.30% | ~50 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Beja Archer | 0.20% | ~34 |
-| Jebel Barkal | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,762 (Ranked 169)  
+Progressed: 16,767 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,762 | 5 |
+| 2024-01-14 | 16,767 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 483,
+  "EOS_Progressed": 484,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1940,6 +1940,11 @@
       "Time": "2024-01-14T11:06:02.2452504+00:00",
       "NumProgressed": 483,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T13:10:13.273282+00:00",
+      "NumProgressed": 484,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1984,7 +1989,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
@@ -1992,7 +1997,7 @@
       "Name": "Yettisoned",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2024,7 +2029,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -2072,7 +2077,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -2110,9 +2115,9 @@
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2120,7 +2125,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2136,7 +2141,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -2152,7 +2157,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2160,7 +2165,7 @@
       "Name": "Arty Facts",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -2184,7 +2189,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2200,7 +2205,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2246,9 +2251,9 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2271,15 +2276,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 483,
+      "Progressed": 484,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:05:34.2305517+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:10:13.2732818+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:58:56.9619059+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:05:34.2305874+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:03:01.0710181+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:10:13.2733224+00:00"
 }

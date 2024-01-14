@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 689,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2028,6 +2028,11 @@
       "Time": "2024-01-14T10:04:18.4768044+00:00",
       "NumProgressed": 688,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T13:07:02.0703106+00:00",
+      "NumProgressed": 689,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2207,7 +2212,7 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Memories",
@@ -2326,14 +2331,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 689,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:03:10.3877997+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:07:02.0703102+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.4423488+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:57:48.6603892+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:03:10.3878371+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:01:26.220466+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:07:02.0703675+00:00"
 }

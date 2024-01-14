@@ -1489,9 +1489,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 260647,
+  "EOS_Progressed": 260650,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27204,6 +27204,11 @@
       "Time": "2024-01-14T11:04:17.0969035+00:00",
       "NumProgressed": 260647,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T13:08:04.4747037+00:00",
+      "NumProgressed": 260650,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27215,7 +27220,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18245
+      "UsersEstimate": 18246
     },
     {
       "ID": "Act2",
@@ -27263,7 +27268,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80801
+      "UsersEstimate": 80802
     },
     {
       "ID": "BackHomeNTimes",
@@ -27327,7 +27332,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "CreditLevel3",
@@ -27455,7 +27460,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -27487,7 +27492,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "KillOtherWithMine",
@@ -27503,7 +27508,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59949
+      "UsersEstimate": 59950
     },
     {
       "ID": "KillOthers2",
@@ -27511,7 +27516,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "KillOthers3",
@@ -27662,7 +27667,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260647,
+      "Progressed": 260650,
       "Completed": 3
     }
   ],
@@ -27670,8 +27675,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-14T07:00:22.5269785+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:03:57.4884797+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:08:04.4747032+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:27.0888109+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:03:57.4886071+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:05:08.025278+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:08:04.4748791+00:00"
 }

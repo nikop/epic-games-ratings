@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 71,
-  "Ranking_Popularity": 233,
+  "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 288,
@@ -3879,18 +3879,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 3380,
       "NumberOfAwardsMax": 452
+    },
+    {
+      "Time": "2024-01-14T13:05:03.2096342+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3381,
+      "NumberOfAwardsMax": 453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3380,
-  "NumberOfAwardsMax": 452,
+  "NumberOfAwards": 3381,
+  "NumberOfAwardsMax": 453,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 452
+      "Count": 453
     },
     {
       "Text": "This game is Relaxing",
@@ -3949,7 +3955,7 @@
   ],
   "EOS_Progressed": 20772,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20086,9 +20092,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:06:07.8564584+00:00",
+  "LastChanged": "2024-01-14T13:05:03.209634+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:10:56.9800148+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:23.8983362+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:06:07.856584+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:05:03.2096346+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:10:56.9801158+00:00"
 }

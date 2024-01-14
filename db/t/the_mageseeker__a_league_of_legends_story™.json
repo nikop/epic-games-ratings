@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3452,
+  "EOS_Progressed": 3453,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 5,
@@ -6506,6 +6506,11 @@
       "Time": "2024-01-14T11:04:12.4390951+00:00",
       "NumProgressed": 3452,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T13:07:58.7014727+00:00",
+      "NumProgressed": 3453,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 53,
@@ -6581,7 +6586,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3279
+      "UsersEstimate": 3280
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6597,7 +6602,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6613,7 +6618,7 @@
       "Name": "Friendly fire",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -6621,7 +6626,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6645,7 +6650,7 @@
       "Name": "Little light",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6693,7 +6698,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6701,7 +6706,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3107
+      "UsersEstimate": 3108
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6749,7 +6754,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6773,7 +6778,7 @@
       "Name": "Glyndemere",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6781,7 +6786,7 @@
       "Name": "Capelworth",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6797,7 +6802,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -6821,7 +6826,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6853,7 +6858,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6861,7 +6866,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6893,7 +6898,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6909,7 +6914,7 @@
       "Name": "Full equipped",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -6940,7 +6945,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3452,
+      "Progressed": 3453,
       "Completed": 27
     }
   ],
@@ -6948,8 +6953,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:03:53.3412733+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:07:58.7014724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:29.9051115+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:03:53.3413274+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:05:11.6567601+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:07:58.7015297+00:00"
 }

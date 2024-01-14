@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 954,
-  "Ranking_Popularity": 343,
+  "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
@@ -2225,9 +2225,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22345,
+  "EOS_Progressed": 22347,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 869,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13855,6 +13855,11 @@
       "Time": "2024-01-14T12:09:20.2998521+00:00",
       "NumProgressed": 22345,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T13:13:16.7219458+00:00",
+      "NumProgressed": 22347,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13882,7 +13887,7 @@
       "Name": "Giving Back",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13898,7 +13903,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13960,9 +13965,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 92
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -13986,7 +13991,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -13994,7 +13999,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4692
+      "UsersEstimate": 4693
     },
     {
       "ID": "KILL_ROBOT",
@@ -14042,7 +14047,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14058,7 +14063,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14090,7 +14095,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14098,7 +14103,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5586
+      "UsersEstimate": 5587
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14114,7 +14119,7 @@
       "Name": "Full Circle",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14122,7 +14127,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "DISMEMBER_100",
@@ -14241,13 +14246,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22345,
+      "Progressed": 22347,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10271,
+      "Progressed": 10273,
       "Completed": 29
     }
   ],
@@ -14255,8 +14260,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-14T11:03:14.9181782+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:20.2998518+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:13:16.7219454+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:02:58.0604476+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:20.2999848+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:06:43.7529763+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:13:16.7220261+00:00"
 }

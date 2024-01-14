@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -735,9 +735,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -1140,8 +1140,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:03:38.9102297+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:07:39.5419296+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.6884705+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:58:53.9832933+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:03:38.9102949+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:02:57.237323+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:07:39.5420082+00:00"
 }

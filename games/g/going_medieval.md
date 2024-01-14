@@ -1,34 +1,34 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 427)  
+Rating: 4.60 (Ranked 429)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~6,035 |
-| Having A Field Day | 76.00% | ~6,035 |
-| Reap What You Sow | 73.00% | ~5,797 |
+| Get A Room | 76.00% | ~6,036 |
+| Having A Field Day | 76.00% | ~6,036 |
+| Reap What You Sow | 73.00% | ~5,798 |
 | The First Day | 70.00% | ~5,559 |
-| Green Thumb | 68.00% | ~5,400 |
-| Novice Researcher | 68.00% | ~5,400 |
-| Home Cooked Meal | 62.00% | ~4,923 |
+| Green Thumb | 68.00% | ~5,401 |
+| Novice Researcher | 68.00% | ~5,401 |
+| Home Cooked Meal | 62.00% | ~4,924 |
 | Onward | 58.00% | ~4,606 |
-| The First Week | 56.00% | ~4,447 |
+| The First Week | 56.00% | ~4,448 |
 | Beam Me Up | 53.00% | ~4,209 |
 | Studious Researcher | 53.00% | ~4,209 |
-| Adept Researcher | 45.00% | ~3,573 |
+| Adept Researcher | 45.00% | ~3,574 |
 | Retribution | 43.00% | ~3,415 |
 | Putting Food on the Table | 43.00% | ~3,415 |
 | ...And Don’t Come Back! | 43.00% | ~3,415 |
 | Feast or Famine | 34.00% | ~2,700 |
 | Heating Up | 33.00% | ~2,621 |
-| Luminary Researcher | 30.00% | ~2,382 |
+| Luminary Researcher | 30.00% | ~2,383 |
 | Winter Is Coming | 29.00% | ~2,303 |
 | Fit For A King | 26.00% | ~2,065 |
 | Winter Is Here | 26.00% | ~2,065 |
-| Disassembled | 23.00% | ~1,826 |
-| Oh Deer! | 23.00% | ~1,826 |
+| Disassembled | 23.00% | ~1,827 |
+| Oh Deer! | 23.00% | ~1,827 |
 | A Party Now | 22.00% | ~1,747 |
 | All Year Round | 22.00% | ~1,747 |
 | Don't Cry Wolf | 14.00% | ~1,112 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~159 |
 | Wabbit Season | 0.50% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,941 (Ranked 192)  
+Progressed: 7,942 (Ranked 192)  
 Completed: 14 (0.18%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,11 +286,11 @@ Completed: 14 (0.18%) (Ranked 285)
 | 2024-01-11 | 7,897 | 14 |
 | 2024-01-12 | 7,912 | 14 |
 | 2024-01-13 | 7,931 | 14 |
-| 2024-01-14 | 7,941 | 14 |
+| 2024-01-14 | 7,942 | 14 |
 ## Awards
-Max (Great for Beginners): 133  (Ranked 344)  
+Max (Great for Beginners): 133  (Ranked 345)  
 Sum: 1,062 (Ranked 271)  
-Diff (max vs sum): 73  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 133 |

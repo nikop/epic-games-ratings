@@ -12,7 +12,7 @@
 | Deep Listener | 24.00% | ~509 |
 | Music for Cows | 18.00% | ~382 |
 | Emotional Baggage Handler | 16.00% | ~339 |
-| Dream Listener | 14.00% | ~297 |
+| Dream Listener | 15.00% | ~318 |
 | Artist Assistant | 13.00% | ~276 |
 | Tour de Tieng | 13.00% | ~276 |
 | Goodbye Tieng Valley | 11.00% | ~233 |
@@ -21,7 +21,7 @@
 | Love Uncoverer | 9.00% | ~191 |
 | Graffiti Artist | 8.00% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,120 (Ranked 250)  
+Progressed: 2,120 (Ranked 251)  
 Completed: 78 (3.68%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |

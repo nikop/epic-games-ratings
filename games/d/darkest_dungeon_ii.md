@@ -1,20 +1,20 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.68 (Ranked 261)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,070 |
+| Malpractice Assurance | 14.00% | ~1,071 |
 | Lost and Found | 9.00% | ~688 |
 | Autodidact | 8.00% | ~10,622 |
-| This Belongs in a Museum | 7.00% | ~9,294 |
+| This Belongs in a Museum | 7.00% | ~9,295 |
 | This guy... again? | 7.00% | ~535 |
-| Serenity Now! | 6.00% | ~7,966 |
-| Creep and Sleep | 6.00% | ~7,966 |
-| Overdue Notice | 6.00% | ~7,966 |
-| Escape from the Black Hole | 6.00% | ~7,966 |
+| Serenity Now! | 6.00% | ~7,967 |
+| Creep and Sleep | 6.00% | ~7,967 |
+| Overdue Notice | 6.00% | ~7,967 |
+| Escape from the Black Hole | 6.00% | ~7,967 |
 | Ploughshares to Swords | 6.00% | ~459 |
 | Bloody Graduation | 6.00% | ~459 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,639 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,775 (Ranked 92)  
+Progressed: 132,779 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,775 | 4 |
+| 2024-01-14 | 132,779 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,638 (Ranked 58)  

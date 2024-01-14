@@ -2,10 +2,10 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 262,
-  "Ranking_Popularity": 525,
+  "Ranking_Rating": 261,
+  "Ranking_Popularity": 526,
   "Ranking_PopularitySum": 399,
-  "Ranking_EOS_Progress": 288,
+  "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 152,
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1183,
+  "EOS_Progressed": 1186,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -4102,6 +4102,11 @@
       "Time": "2024-01-14T12:09:00.4803922+00:00",
       "NumProgressed": 1183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T13:12:31.5331723+00:00",
+      "NumProgressed": 1186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4138,7 +4143,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "AttackCount",
@@ -4218,7 +4223,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Deepstrike",
@@ -4258,7 +4263,7 @@
       "Name": "Double Kill",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4322,7 +4327,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "MultiplayerWins",
@@ -4394,7 +4399,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4434,7 +4439,7 @@
       "Name": "Ultra Kill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "WielderLevel1",
@@ -4442,7 +4447,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 546
     },
     {
       "ID": "WielderLevel2",
@@ -4450,7 +4455,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "WielderLevel3",
@@ -4474,7 +4479,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4545,15 +4550,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1183,
+      "Progressed": 1186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:00.4803917+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:12:31.533172+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:31.1813939+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:00.4804597+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:03:50.0809467+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:12:31.5332482+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,209 |
-| Un-Lonely Island | 44.00% | ~3,139 |
-| The Beginning of a Servantship | 43.00% | ~3,068 |
-| Trade Is My Trait | 35.00% | ~2,497 |
-| Number 18 | 23.00% | ~1,641 |
-| We Don't Have Time For That | 18.00% | ~1,284 |
+| Just One...More...Term... | 73.00% | ~5,211 |
+| Un-Lonely Island | 44.00% | ~3,141 |
+| The Beginning of a Servantship | 43.00% | ~3,069 |
+| Trade Is My Trait | 35.00% | ~2,498 |
+| Number 18 | 23.00% | ~1,642 |
+| We Don't Have Time For That | 18.00% | ~1,285 |
 | The Legend of Langostino | 16.00% | ~1,142 |
 | The Governator | 16.00% | ~1,142 |
-| Caribbean Comrade | 15.00% | ~1,070 |
-| The Dreamer of Dreams | 15.00% | ~1,070 |
+| Caribbean Comrade | 15.00% | ~1,071 |
+| The Dreamer of Dreams | 15.00% | ~1,071 |
 | Happy Ending? | 10.00% | ~714 |
 | Go Sovereigns! | 10.00% | ~714 |
 | For Science! | 10.00% | ~714 |
 | Of Seals And Men | 9.00% | ~642 |
 | Shackadelic | 9.00% | ~642 |
 | Double Trouble | 8.00% | ~571 |
-| Firestarter | 7.00% | ~499 |
-| Make Tropico Great Again! | 7.00% | ~499 |
-| French Connection | 7.00% | ~499 |
+| Firestarter | 7.00% | ~500 |
+| Make Tropico Great Again! | 7.00% | ~500 |
+| French Connection | 7.00% | ~500 |
 | Don't Panic! | 6.00% | ~428 |
 | I Owe You Nothing | 6.00% | ~428 |
 | Viva Tropico! | 5.00% | ~357 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,135 (Ranked 198)  
+Progressed: 7,138 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 2 (0.03%) (Ranked 358)
 | 2024-01-11 | 7,083 | 2 |
 | 2024-01-12 | 7,100 | 2 |
 | 2024-01-13 | 7,124 | 2 |
-| 2024-01-14 | 7,135 | 2 |
+| 2024-01-14 | 7,138 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 372)  
 Sum: 765 (Ranked 302)  

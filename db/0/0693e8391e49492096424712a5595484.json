@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -3524,9 +3524,9 @@
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 157
     },
     {
       "ID": "RogueRum",
@@ -3564,9 +3564,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 401
     },
     {
       "ID": "SwordMoneyBag",
@@ -3595,8 +3595,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:04:53.9731201+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:09:19.0217886+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:59.9836189+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:04:53.9731572+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:04:30.2268416+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:09:19.0218339+00:00"
 }

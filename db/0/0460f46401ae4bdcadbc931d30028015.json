@@ -1685,7 +1685,7 @@
   ],
   "EOS_Progressed": 10574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1412,
+  "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11421,9 +11421,9 @@
       "ID": "achievement_10",
       "SetID": "aiin7da",
       "Name": "Stud Finder",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3384
+      "UsersEstimate": 3489
     },
     {
       "ID": "achievement_11",
@@ -11590,8 +11590,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-14T10:01:11.4204345+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:04:26.8910408+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:08:43.4020705+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:45.2711133+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:04:26.8910842+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:04:09.0645465+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:08:43.402133+00:00"
 }

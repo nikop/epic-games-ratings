@@ -2391,9 +2391,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 1300949,
+  "EOS_Progressed": 1300950,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1315,
+  "EOS_NewPlayers": 1308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28986,6 +28986,11 @@
       "Time": "2024-01-14T12:07:56.8021517+00:00",
       "NumProgressed": 1300949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T13:11:07.1392075+00:00",
+      "NumProgressed": 1300950,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29245,7 +29250,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13009
+      "UsersEstimate": 13010
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -29301,7 +29306,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702512
+      "UsersEstimate": 702513
     },
     {
       "ID": "master_of_loadouts",
@@ -29332,7 +29337,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1300949,
+      "Progressed": 1300950,
       "Completed": 0
     }
   ],
@@ -29340,8 +29345,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-13T09:59:55.0766414+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:07:56.8021513+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:11:07.1392072+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.9954537+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:27.5175816+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:07:56.8023097+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:03:44.6000161+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:11:07.139338+00:00"
 }

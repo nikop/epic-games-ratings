@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
@@ -14403,9 +14403,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 498691,
+  "EOS_Progressed": 498746,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4534,
+  "EOS_NewPlayers": 4518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45453,6 +45453,11 @@
       "Time": "2024-01-14T12:09:50.644551+00:00",
       "NumProgressed": 498691,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T13:13:55.0117089+00:00",
+      "NumProgressed": 498746,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47744,7 +47749,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48160,7 +48165,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2493
+      "UsersEstimate": 2494
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -48367,21 +48372,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 498691,
+      "Progressed": 498746,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 498691,
+      "Progressed": 498746,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-14T08:59:16.5363021+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:50.6445507+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:13:55.0117085+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:23.6885001+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:50.6456476+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:03:40.347377+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:13:55.012806+00:00"
 }

@@ -5,12 +5,12 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,033 |
-| The Outer Way | 27.00% | ~6,033 |
-| Desperate Times | 25.00% | ~5,586 |
-| Paper Jams | 23.00% | ~5,139 |
+| Flesh Wound | 27.00% | ~6,034 |
+| The Outer Way | 27.00% | ~6,034 |
+| Desperate Times | 25.00% | ~5,587 |
+| Paper Jams | 23.00% | ~5,140 |
 | Get a Grip | 22.00% | ~4,916 |
-| Chew 'Em Up | 21.00% | ~4,692 |
+| Chew 'Em Up | 21.00% | ~4,693 |
 | Reforged | 19.00% | ~4,246 |
 | Float Like A Butterfly | 18.00% | ~4,022 |
 | Workplace Hazard | 17.00% | ~3,799 |
@@ -18,12 +18,12 @@ Rating: 4.22 (Ranked 954)
 | Without A Paddle | 15.00% | ~3,352 |
 | In the Pipe, Five by Five | 13.00% | ~2,905 |
 | Crash Site | 13.00% | ~2,905 |
-| Two Heads Are Better Than One | 12.00% | ~2,681 |
-| Power Up | 12.00% | ~2,681 |
+| Two Heads Are Better Than One | 12.00% | ~2,682 |
+| Power Up | 12.00% | ~2,682 |
 | Terminated | 11.00% | ~2,458 |
-| Giving Back | 10.00% | ~2,234 |
-| What Lies Beneath | 10.00% | ~2,234 |
-| Full Circle | 10.00% | ~2,234 |
+| Giving Back | 10.00% | ~2,235 |
+| What Lies Beneath | 10.00% | ~2,235 |
+| Full Circle | 10.00% | ~2,235 |
 | You Need a Gun | 9.00% | ~2,011 |
 | I Do Belong Here | 8.00% | ~1,788 |
 | Keep Fighting | 7.00% | ~719 |
@@ -38,7 +38,7 @@ Rating: 4.22 (Ranked 954)
 | Grim Reaper | 1.00% | ~223 |
 | Instigator | 1.00% | ~103 |
 | Information Overload | 1.00% | ~103 |
-| Parole Denied | 0.80% | ~82 |
+| Parole Denied | 0.90% | ~92 |
 | Quick Pick | 0.80% | ~82 |
 | Subject Alpha | 0.70% | ~72 |
 | The Protocol is About Life | 0.40% | ~89 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,345 (Ranked 151)  
+Progressed: 22,347 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,11 +314,11 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
-| 2024-01-14 | 22,345 | 82 |
+| 2024-01-14 | 22,347 | 82 |
 ## Awards
-Max (Amazing Characters): 134  (Ranked 343)  
+Max (Amazing Characters): 134  (Ranked 344)  
 Sum: 651 (Ranked 319)  
-Diff (max vs sum): 24  
+Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 134 |

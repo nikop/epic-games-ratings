@@ -10,8 +10,8 @@ Rating: 4.22 (Ranked 954)
 | Resignation Reprise | 2.00% | ~34 |
 | War of the worlds | 1.00% | ~17 |
 | Admiring the view | 1.00% | ~17 |
+| Resignation | 0.90% | ~15 |
 | Blues Jam | 0.80% | ~14 |
-| Resignation | 0.80% | ~14 |
 | Understanding | 0.80% | ~14 |
 | Family First | 0.70% | ~12 |
 | “Here boy…“ | 0.60% | ~10 |

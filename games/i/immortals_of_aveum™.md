@@ -12,7 +12,7 @@ Rating: 4.20 (Ranked 967)
 | No More Names | 53.00% | ~1,815 |
 | Initiate | 40.00% | ~1,370 |
 | Thrada-Kul | 36.00% | ~1,233 |
-| Gravity-Challenged Rocks | 29.00% | ~993 |
+| Gravity-Challenged Rocks | 30.00% | ~1,027 |
 | Socialite | 25.00% | ~856 |
 | Soldier | 25.00% | ~856 |
 | All the Major Food Groups | 25.00% | ~856 |
@@ -21,8 +21,8 @@ Rating: 4.20 (Ranked 967)
 | The Means to Save It | 19.00% | ~651 |
 | Resilience to Sin | 17.00% | ~582 |
 | A Familiar Nest | 17.00% | ~582 |
+| Periapt Alizarin | 17.00% | ~582 |
 | Geas Aristeya | 16.00% | ~548 |
-| Periapt Alizarin | 16.00% | ~548 |
 | A Perfect Cycle | 15.00% | ~514 |
 | Recruit | 14.00% | ~479 |
 | Armsman | 12.00% | ~411 |

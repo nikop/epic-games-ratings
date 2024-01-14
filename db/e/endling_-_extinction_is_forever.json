@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1184,6 +1184,11 @@
       "Time": "2024-01-13T09:10:33.9910652+00:00",
       "NumProgressed": 600,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T13:13:44.1296178+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1201,17 +1206,17 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 60
+      "UsersEstimate": 54
     },
     {
       "ID": "TROP002",
       "SetID": "9n0dl35",
       "Name": "Three Little Foxes",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 66
+      "UsersEstimate": 60
     },
     {
       "ID": "TROP003",
@@ -1233,9 +1238,9 @@
       "ID": "TROP005",
       "SetID": "9n0dl35",
       "Name": "A Friend in Need",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 361
     },
     {
       "ID": "TROP006",
@@ -1259,7 +1264,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "TROP009",
@@ -1289,9 +1294,9 @@
       "ID": "TROP012",
       "SetID": "9n0dl35",
       "Name": "Never Give Up",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 234
     },
     {
       "ID": "TROP013",
@@ -1305,17 +1310,17 @@
       "ID": "TROP014",
       "SetID": "9n0dl35",
       "Name": "Never Run Around",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 84
+      "UsersEstimate": 78
     },
     {
       "ID": "TROP015",
       "SetID": "9n0dl35",
       "Name": "For a Better Tomorrow",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 18
     },
     {
       "ID": "TROP016",
@@ -1329,9 +1334,9 @@
       "ID": "TROP017",
       "SetID": "9n0dl35",
       "Name": "Omnivore",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 6
     },
     {
       "ID": "TROP018",
@@ -1361,9 +1366,9 @@
       "ID": "TROP021",
       "SetID": "9n0dl35",
       "Name": "Tasty",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 216
     },
     {
       "ID": "TROP022",
@@ -1418,7 +1423,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 3
     }
   ],
@@ -1426,8 +1431,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:41.3391233+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:13:44.1296174+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:46.1111299+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:13.4336052+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:41.3391385+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:03:25.2242762+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:13:44.1296407+00:00"
 }

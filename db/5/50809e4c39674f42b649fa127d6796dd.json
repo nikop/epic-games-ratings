@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 386,
+  "Ranking_EOS_NewPlayers": 372,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2024-01-13T17:08:55.9885674+00:00",
       "NumProgressed": 527,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T13:11:34.3624526+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1605,7 +1610,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1621,7 +1626,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1637,7 +1642,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1645,7 +1650,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1653,7 +1658,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1701,7 +1706,7 @@
       "Name": "The Beginning",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1717,7 +1722,7 @@
       "Name": "Futile Resistance",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1787,9 +1792,9 @@
       "ID": "POWER_LEVEL_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Herculean Hedgehog",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "RING_LIMIT_REACH_NUM",
@@ -1868,14 +1873,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:08:17.1225975+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:11:34.3624523+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:24.3150835+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:08:17.122632+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:03:41.2110242+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:11:34.362491+00:00"
 }

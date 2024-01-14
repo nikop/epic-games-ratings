@@ -19,7 +19,7 @@
 | Flatline | 17.00% | ~26 |
 | Mind Over Matter | 17.00% | ~26 |
 | Full and Final Settlement | 16.00% | ~25 |
-| One Click Away | 15.00% | ~23 |
+| One Click Away | 16.00% | ~25 |
 | Cyborg | 11.00% | ~17 |
 | Lifter | 8.00% | ~12 |
 | Brain-hacker | 8.00% | ~12 |

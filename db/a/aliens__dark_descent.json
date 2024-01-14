@@ -555,9 +555,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6420,
+  "EOS_Progressed": 6421,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9780,6 +9780,11 @@
       "Time": "2024-01-14T11:04:34.795719+00:00",
       "NumProgressed": 6420,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T13:08:26.0474708+00:00",
+      "NumProgressed": 6421,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9807,7 +9812,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -9831,7 +9836,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9871,7 +9876,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -9887,7 +9892,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9967,7 +9972,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -9975,7 +9980,7 @@
       "Name": "The Cable Guy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_MISSION_01",
@@ -9983,7 +9988,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3338
+      "UsersEstimate": 3339
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10007,7 +10012,7 @@
       "Name": "Making a Stand",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2375
+      "UsersEstimate": 2376
     },
     {
       "ID": "ACH_MISSION_05",
@@ -10061,9 +10066,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10095,7 +10100,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4943
+      "UsersEstimate": 4944
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10111,7 +10116,7 @@
       "Name": "People Person",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10127,7 +10132,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2054
+      "UsersEstimate": 2055
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10150,7 +10155,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6420,
+      "Progressed": 6421,
       "Completed": 3
     }
   ],
@@ -10158,8 +10163,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:04:13.8291588+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:08:26.0474706+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:57:17.5381067+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:04:13.8292504+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:00:41.7772774+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:08:26.0475467+00:00"
 }

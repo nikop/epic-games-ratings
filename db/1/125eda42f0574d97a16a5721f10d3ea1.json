@@ -4,7 +4,7 @@
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 674,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 429,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
@@ -85,9 +85,9 @@
       "ID": "BULLET_DESTROY",
       "SetID": "5770k2f",
       "Name": "Mine\u0027s Bigger",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEMO_LEVEL_0",
@@ -141,9 +141,9 @@
       "ID": "EXPLODE",
       "SetID": "5770k2f",
       "Name": "Boom",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EXTRA_SUPERH",
@@ -307,8 +307,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:04:33.1145626+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:08:51.8759161+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:07.9830278+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:58:47.6023692+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:04:33.114583+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:02:49.3931349+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:08:51.8759323+00:00"
 }

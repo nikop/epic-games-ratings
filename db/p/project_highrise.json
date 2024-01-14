@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1755,6 +1755,11 @@
       "Time": "2024-01-14T10:08:28.0310583+00:00",
       "NumProgressed": 527,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T13:10:57.4776178+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1854,7 +1859,7 @@
       "Name": "Campaign Launch",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_campaigns_1",
@@ -1918,7 +1923,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_consultants_b",
@@ -2068,9 +2073,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 253
     },
     {
       "ID": "ach_floors_1",
@@ -2134,7 +2139,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_mod_1",
@@ -2238,7 +2243,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_profit_2",
@@ -2270,15 +2275,15 @@
       "Name": "Refined Palates",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_restaurants_2",
       "SetID": "b8gh1fi",
       "Name": "Tasty Profits",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_restaurants_3",
@@ -2286,7 +2291,7 @@
       "Name": "Dinner Dash",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ach_restaurants_4",
@@ -2348,9 +2353,9 @@
       "ID": "ach_revs_2",
       "SetID": "b8gh1fi",
       "Name": "Revenue Royalty",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_revs_3",
@@ -2469,7 +2474,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 0
     }
   ],
@@ -2477,8 +2482,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:06:08.3067938+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:10:57.4776175+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:27.1936079+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:20.6798637+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:06:08.3068765+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:04:59.0895285+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:10:57.477702+00:00"
 }

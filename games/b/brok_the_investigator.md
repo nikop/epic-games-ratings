@@ -17,9 +17,9 @@
 | Best Student | 15.00% | ~7 |
 | Food Thief | 13.00% | ~6 |
 | Ads Fan | 11.00% | ~5 |
+| Sugar Pills Lover | 11.00% | ~5 |
 | Hard To Wake Up | 11.00% | ~5 |
 | Highway Survival | 9.00% | ~4 |
-| Sugar Pills Lover | 9.00% | ~4 |
 | Tramp Saver | 9.00% | ~4 |
 | Chipmunk | 7.00% | ~3 |
 | Secret Locker | 7.00% | ~3 |

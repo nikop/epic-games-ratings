@@ -485,9 +485,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 345328,
+  "EOS_Progressed": 345355,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3009,
+  "EOS_NewPlayers": 3005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13335,6 +13335,11 @@
       "Time": "2024-01-14T12:08:35.6426387+00:00",
       "NumProgressed": 345328,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-14T13:11:58.795612+00:00",
+      "NumProgressed": 345355,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13347,7 +13352,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17266
+      "UsersEstimate": 17268
     },
     {
       "ID": "S02_BRDA",
@@ -13355,7 +13360,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10360
+      "UsersEstimate": 10361
     },
     {
       "ID": "S03_OTWA",
@@ -13363,7 +13368,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "S04_BRDC",
@@ -13371,7 +13376,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "S05_SWRA",
@@ -13483,7 +13488,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17266
+      "UsersEstimate": 17268
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13539,7 +13544,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "S26_CRTA",
@@ -13571,7 +13576,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "S30_DIAMOND",
@@ -13666,7 +13671,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345328,
+      "Progressed": 345355,
       "Completed": 7
     }
   ],
@@ -13674,8 +13679,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-14T05:58:39.4659138+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:08:35.6426383+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:11:58.7956118+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:58:40.2800836+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:08:35.6427305+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:02:39.3169391+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:11:58.795697+00:00"
 }

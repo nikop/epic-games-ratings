@@ -1,15 +1,15 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.70 (Ranked 220)  
+Rating: 4.68 (Ranked 261)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~621 |
+| Time Heals All Wounds | 47.00% | ~622 |
 | The Mysterious Stranger | 35.00% | ~463 |
 | Rail Rat | 35.00% | ~463 |
-| Immaculate Aim | 30.00% | ~397 |
-| The Brass Boss | 29.00% | ~383 |
+| Immaculate Aim | 29.00% | ~384 |
+| The Brass Boss | 29.00% | ~384 |
 | Time Flies | 27.00% | ~357 |
 | No, Thanks! | 27.00% | ~357 |
 | The Prince in Heels | 27.00% | ~357 |
@@ -17,20 +17,20 @@ Rating: 4.70 (Ranked 220)
 | The Harder They Fall | 26.00% | ~344 |
 | Honest Mistake | 26.00% | ~344 |
 | Immaculate Aim | 26.00% | ~344 |
-| The Steel Shadow | 25.00% | ~330 |
-| Fast Learner | 25.00% | ~330 |
+| Fast Learner | 25.00% | ~331 |
+| The Steel Shadow | 24.00% | ~318 |
 | Right On Time | 23.00% | ~304 |
 | Breaking Down Barriers | 23.00% | ~304 |
 | The Wicked Twins | 23.00% | ~304 |
 | Like Clockwork | 22.00% | ~291 |
 | The Betrayer | 22.00% | ~291 |
 | Golem Chaser | 22.00% | ~291 |
-| The Loose Cannon | 20.00% | ~264 |
-| Check Your Pulse | 20.00% | ~264 |
+| The Loose Cannon | 20.00% | ~265 |
+| Check Your Pulse | 20.00% | ~265 |
 | Street Style | 19.00% | ~251 |
 | The Man Who Shattered Time | 18.00% | ~238 |
 | The Family Fortune | 18.00% | ~238 |
-| Whiz Kid | 16.00% | ~212 |
+| Whiz Kid | 15.00% | ~198 |
 | Good Neighbor | 15.00% | ~198 |
 | Family Memories | 14.00% | ~185 |
 | Chaincrawler Explorer | 13.00% | ~172 |
@@ -39,7 +39,7 @@ Rating: 4.70 (Ranked 220)
 | Treasure Trove | 12.00% | ~159 |
 | Cartographer | 12.00% | ~159 |
 | Sump Explorer | 12.00% | ~159 |
-| Factorywood Explorer | 11.00% | ~145 |
+| Factorywood Explorer | 11.00% | ~146 |
 | Fairgrounds Explorer | 10.00% | ~132 |
 | Theater Explorer | 10.00% | ~132 |
 | Cultivair Explorer | 9.00% | ~119 |
@@ -59,8 +59,8 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,322 (Ranked 281)  
-Completed: 8 (0.61%) (Ranked 208)  
+Progressed: 1,323 (Ranked 281)  
+Completed: 8 (0.60%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,7 +234,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
 | 2024-01-13 | 1,319 | 8 |
-| 2024-01-14 | 1,322 | 8 |
+| 2024-01-14 | 1,323 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -245,3 +245,4 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-05 | 4.67 | 0 | 0 |
 | 2024-01-07 | 4.69 | 0 | 0 |
 | 2024-01-12 | 4.70 | 0 | 0 |
+| 2024-01-14 | 4.68 | 0 | 0 |

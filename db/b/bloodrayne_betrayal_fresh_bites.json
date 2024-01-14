@@ -207,9 +207,9 @@
       "ID": "DropIn",
       "SetID": "6jf74lf",
       "Name": "Drop In",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "EliteVamp",
@@ -231,9 +231,9 @@
       "ID": "FlightOfTheRaven",
       "SetID": "6jf74lf",
       "Name": "Flight of the Raven",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FootFace",
@@ -287,9 +287,9 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Skullector",
@@ -319,9 +319,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ToSunrise",
@@ -335,9 +335,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "WalkingOnAir",
@@ -360,8 +360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:38.1040977+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:13:39.852831+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:13.2838399+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:59:42.7446576+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:38.1041122+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:04:05.3642464+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:13:39.8528435+00:00"
 }

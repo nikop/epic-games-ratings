@@ -8,7 +8,7 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~106 |
 | Best Buddy | 38.00% | ~92 |
-| Civilian | 35.00% | ~85 |
+| Civilian | 36.00% | ~87 |
 | Role Model | 33.00% | ~80 |
 | Creator | 31.00% | ~75 |
 | Military Leader | 28.00% | ~68 |
@@ -22,14 +22,14 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 16.00% | ~39 |
 | Banker | 14.00% | ~34 |
 | Storyteller | 13.00% | ~31 |
+| Berserker | 13.00% | ~31 |
 | Alb | 12.00% | ~29 |
-| Berserker | 12.00% | ~29 |
 | Globetrotter | 11.00% | ~27 |
 | Hunter | 10.00% | ~24 |
 | Perfectionist | 9.00% | ~22 |
 | Lover | 9.00% | ~22 |
+| Beam Me Up | 8.00% | ~19 |
 | Treasure Hunter | 7.00% | ~17 |
-| Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
 | Free as a Bird | 7.00% | ~17 |
 | Detective | 7.00% | ~17 |

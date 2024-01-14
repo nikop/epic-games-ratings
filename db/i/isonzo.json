@@ -1081,7 +1081,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9933,
+  "EOS_Progressed": 9934,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -11126,6 +11126,11 @@
       "Time": "2024-01-14T09:09:34.694792+00:00",
       "NumProgressed": 9933,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T13:12:58.2325323+00:00",
+      "NumProgressed": 9934,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11185,7 +11190,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11465,7 +11470,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4966
+      "UsersEstimate": 4967
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11496,7 +11501,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9933,
+      "Progressed": 9934,
       "Completed": 10
     }
   ],
@@ -11504,8 +11509,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-13T17:58:42.7349748+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:05.9206075+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:12:58.2325318+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-14T11:58:12.9461248+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:05.9206701+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:02:00.3150577+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:12:58.232615+00:00"
 }

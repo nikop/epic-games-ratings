@@ -32,7 +32,7 @@ Rating: 4.76 (Ranked 135)
 | Pure Dynamite! | 46.00% | ~351 |
 | Dungeonlord Gorgu | 46.00% | ~351 |
 | All’s Well That Ends Evil | 44.00% | ~336 |
-| Mana Cannon | 42.00% | ~320 |
+| Mana Cannon | 43.00% | ~328 |
 | The Duel | 40.00% | ~305 |
 | If Looks Could Kill | 38.00% | ~290 |
 | Unstoppable Horde | 36.00% | ~275 |
@@ -53,9 +53,9 @@ Rating: 4.76 (Ranked 135)
 | The Last Stand - This Time For Real! | 25.00% | ~191 |
 | Rubble and Ashes | 23.00% | ~175 |
 | Lavalumps on Ice! | 21.00% | ~160 |
+| To the Max! | 20.00% | ~153 |
 | To Infinity And Beyond! | 20.00% | ~153 |
 | My Little Torture Chamber | 19.00% | ~145 |
-| To the Max! | 19.00% | ~145 |
 | Evilification | 19.00% | ~145 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~137 |
 | Mirror, Mirror | 18.00% | ~137 |

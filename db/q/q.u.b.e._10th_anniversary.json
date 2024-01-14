@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -348,11 +348,11 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 29474,
-  "EOS_Completed": 210,
-  "EOS_NewPlayers": 757,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 0.71,
+  "EOS_Progressed": 29476,
+  "EOS_Completed": 211,
+  "EOS_NewPlayers": 750,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -10523,6 +10523,11 @@
       "Time": "2024-01-14T12:09:33.0408063+00:00",
       "NumProgressed": 29474,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2024-01-14T13:13:33.6455741+00:00",
+      "NumProgressed": 29476,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 24,
@@ -10542,7 +10547,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_CrushEnemy",
@@ -10582,7 +10587,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -10590,7 +10595,7 @@
       "Name": "Master Of The Collectables",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8AllGold",
@@ -10598,7 +10603,7 @@
       "Name": "Gold Trophy",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8AllMasterRoom",
@@ -10606,7 +10611,7 @@
       "Name": "Hopefully that\u0027s all of them!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8AllPuzzleRooms",
@@ -10614,7 +10619,7 @@
       "Name": "Phew!",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -10630,7 +10635,7 @@
       "Name": "Silver Trophy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8Exit",
@@ -10638,7 +10643,7 @@
       "Name": "Completed It.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -10654,7 +10659,7 @@
       "Name": "Maxed Out",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACH_Sector1",
@@ -10662,7 +10667,7 @@
       "Name": "Sector 1",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "ACH_Sector2",
@@ -10670,7 +10675,7 @@
       "Name": "Sector 2",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 8547
+      "UsersEstimate": 8548
     },
     {
       "ID": "ACH_Sector3",
@@ -10725,16 +10730,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 29474,
-      "Completed": 210
+      "Progressed": 29476,
+      "Completed": 211
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:09:33.0408061+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:13:33.6455738+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:29.7811569+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:16.7118877+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:09:33.0408725+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:04:53.4247026+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:13:33.6456272+00:00"
 }

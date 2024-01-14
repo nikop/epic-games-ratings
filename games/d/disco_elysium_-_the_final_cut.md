@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~38,958 |
-| Biggest Communism Builder | 23.00% | ~32,001 |
-| The World's Most Laughable Centrist | 20.00% | ~27,827 |
-| Il Coppo Del'Arte! | 18.00% | ~25,044 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,262 |
-| Hyperstellar Law Official | 15.00% | ~20,870 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,479 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,479 |
+| Goodest Of The Good Cops | 28.00% | ~38,960 |
+| Biggest Communism Builder | 23.00% | ~32,003 |
+| The World's Most Laughable Centrist | 20.00% | ~27,828 |
+| Il Coppo Del'Arte! | 18.00% | ~25,046 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,263 |
+| Hyperstellar Law Official | 15.00% | ~20,871 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,480 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,480 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~18,088 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,305 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,522 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,306 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,523 |
 | Unbelievably Boring **** | 8.00% | ~11,131 |
 | Enemy Of The Physical Realm | 8.00% | ~11,131 |
-| Hardie's Heroes | 6.00% | ~8,348 |
-| The Lawbringer | 4.00% | ~5,565 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,565 |
+| Hardie's Heroes | 6.00% | ~8,349 |
+| The Lawbringer | 4.00% | ~5,566 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,566 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,174 |
 | Bother Kim After Hours | 3.00% | ~4,174 |
 | Baddest Of the Bad Cops | 2.00% | ~2,783 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,136 (Ranked 91)  
+Progressed: 139,142 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 29 (0.02%) (Ranked 366)
 | 2024-01-11 | 138,809 | 29 |
 | 2024-01-12 | 138,933 | 29 |
 | 2024-01-13 | 139,075 | 29 |
-| 2024-01-14 | 139,136 | 29 |
+| 2024-01-14 | 139,142 | 29 |
 ## Awards
 Max (Character Customization): 767  (Ranked 191)  
 Sum: 1,169 (Ranked 266)  

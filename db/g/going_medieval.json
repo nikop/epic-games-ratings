@@ -2,8 +2,8 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 427,
-  "Ranking_Popularity": 344,
+  "Ranking_Rating": 429,
+  "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
@@ -1697,9 +1697,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 7941,
+  "EOS_Progressed": 7942,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16787,6 +16787,11 @@
       "Time": "2024-01-14T10:04:45.6118899+00:00",
       "NumProgressed": 7941,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-14T13:07:27.5812509+00:00",
+      "NumProgressed": 7942,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16798,7 +16803,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6036
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -16814,7 +16819,7 @@
       "Name": "Disassembled",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -16830,7 +16835,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5400
+      "UsersEstimate": 5401
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -16838,7 +16843,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6035
+      "UsersEstimate": 6036
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -16846,7 +16851,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5797
+      "UsersEstimate": 5798
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -16870,7 +16875,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -16918,7 +16923,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 4923
+      "UsersEstimate": 4924
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -16998,7 +17003,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4447
+      "UsersEstimate": 4448
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -17006,7 +17011,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5400
+      "UsersEstimate": 5401
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17014,7 +17019,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -17022,7 +17027,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -17045,15 +17050,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7941,
+      "Progressed": 7942,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-14T12:00:22.1691049+00:00",
-  "LastChanged_Achievements": "2024-01-14T12:03:29.4823045+00:00",
+  "LastChanged_Achievements": "2024-01-14T13:07:27.5812505+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-14T12:00:22.1691055+00:00",
-  "LastUpdate_Achievements": "2024-01-14T12:03:29.4823864+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:05:01.0766161+00:00",
+  "LastUpdate_Achievements": "2024-01-14T13:07:27.5813401+00:00"
 }

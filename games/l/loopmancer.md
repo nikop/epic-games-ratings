@@ -8,11 +8,11 @@
 | Break no Sweat | 108.00% | ~114 |
 | Every little bit counts | 102.00% | ~108 |
 | Growth | 86.00% | ~91 |
-| Targeting the Enemy | 70.00% | ~74 |
+| Targeting the Enemy | 71.00% | ~75 |
 | Unavoidable | 67.00% | ~71 |
 | Revenge | 63.00% | ~67 |
 | Reunion | 41.00% | ~43 |
-| Fluke | 34.00% | ~36 |
+| Fluke | 35.00% | ~37 |
 | Elimination | 33.00% | ~35 |
 | Victor's Prejudice | 32.00% | ~34 |
 | Excellent Driving Skills | 30.00% | ~32 |
