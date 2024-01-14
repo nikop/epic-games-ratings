@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7534,
+  "EOS_Progressed": 7535,
   "EOS_Completed": 69,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.92,
   "EosHistory": [
@@ -8174,6 +8174,11 @@
       "Time": "2024-01-14T00:05:22.8571628+00:00",
       "NumProgressed": 7534,
       "NumCompleted": 69
+    },
+    {
+      "Time": "2024-01-14T02:02:36.0586275+00:00",
+      "NumProgressed": 7535,
+      "NumCompleted": 69
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -8202,7 +8207,7 @@
       "Name": "Collect the mask",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -8234,7 +8239,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -8242,7 +8247,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 5952
+      "UsersEstimate": 5953
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -8313,14 +8318,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7534,
+      "Progressed": 7535,
       "Completed": 69
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:05:22.8571624+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:02:36.0586273+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.0248408+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:57:15.5106832+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:05:22.8572052+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:54:18.2382314+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:02:36.0586739+00:00"
 }

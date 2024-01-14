@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,626 |
-| Life is your teacher | 5.00% | ~38,021 |
-| Lightning Hands | 5.00% | ~38,021 |
-| The Assault | 4.00% | ~30,417 |
+| The Old Grandmaster | 6.00% | ~45,627 |
+| Life is your teacher | 5.00% | ~38,022 |
+| Lightning Hands | 5.00% | ~38,022 |
+| The Assault | 4.00% | ~30,418 |
 | The Hateful Pole Fighter | 3.00% | ~22,813 |
 | Stuntmaster | 3.00% | ~22,813 |
 | Street Fighting | 3.00% | ~22,813 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,428 (Ranked 26)  
+Progressed: 760,447 (Ranked 26)  
 Completed: 12,986 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 12,986 (1.71%) (Ranked 146)
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
-| 2024-01-14 | 760,428 | 12,986 |
+| 2024-01-14 | 760,447 | 12,986 |
 ## Awards
 Max (Great Boss Battles): 7,194  (Ranked 57)  
-Sum: 12,731 (Ranked 85)  
+Sum: 12,733 (Ranked 85)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +351,7 @@ Diff (max vs sum): -28
 | This game is Highly Recommended | 610 |
 | This game has Quickly Understood Controls | 600 |
 | This game is Extremely Fun | 590 |
-| This game has Unique Visuals | 586 |
+| This game has Unique Visuals | 588 |
 | This game is Relaxing | 564 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
@@ -719,3 +719,4 @@ Diff (max vs sum): -28
 | 2024-01-11 | 4.82 | - | 7,171 | 12,693 |
 | 2024-01-12 | 4.82 | - | 7,179 | 12,710 |
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
+| 2024-01-14 | 4.82 | - | 7,194 | 12,733 |

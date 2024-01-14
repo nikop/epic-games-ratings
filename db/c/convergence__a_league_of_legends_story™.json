@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1320,
+  "EOS_Progressed": 1321,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -4004,6 +4004,11 @@
       "Time": "2024-01-14T00:10:52.9472689+00:00",
       "NumProgressed": 1320,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T02:07:46.508505+00:00",
+      "NumProgressed": 1321,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4039,7 +4044,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -4061,9 +4066,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 277
     },
     {
       "ID": "ClovemaryGift",
@@ -4143,7 +4148,7 @@
       "Name": "The Betrayer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4157,9 +4162,9 @@
       "ID": "GadgetCompletion1",
       "SetID": "a9e499d",
       "Name": "Wunderkind",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 26
     },
     {
       "ID": "GadgetProgress1",
@@ -4215,7 +4220,7 @@
       "Name": "Cartographer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "NoCritterSump",
@@ -4255,7 +4260,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ParryBoss",
@@ -4269,9 +4274,9 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 343
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4295,7 +4300,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "RewindDamage1",
@@ -4303,7 +4308,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "RewindParry",
@@ -4327,7 +4332,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "SkillCompletion1",
@@ -4341,9 +4346,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 330
+      "UsersEstimate": 343
     },
     {
       "ID": "SpeedRun",
@@ -4359,7 +4364,7 @@
       "Name": "Sump Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "SyronGift",
@@ -4438,7 +4443,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1320,
+      "Progressed": 1321,
       "Completed": 8
     }
   ],
@@ -4446,8 +4451,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:52.9472684+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:07:46.5085048+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:58:33.1013579+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:52.9473306+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:55:43.0256271+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:07:46.5085705+00:00"
 }

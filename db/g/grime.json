@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 342,
+  "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
@@ -1885,9 +1885,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168058,
+  "EOS_Progressed": 168072,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1128,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22990,6 +22990,11 @@
       "Time": "2024-01-14T00:07:09.1546018+00:00",
       "NumProgressed": 168058,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-14T02:04:30.0945458+00:00",
+      "NumProgressed": 168072,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23066,7 +23071,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6722
+      "UsersEstimate": 6723
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23146,7 +23151,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -23154,7 +23159,7 @@
       "Name": "Jawstag",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -23178,7 +23183,7 @@
       "Name": "Feast",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -23186,7 +23191,7 @@
       "Name": "Watcher",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -23218,7 +23223,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6722
+      "UsersEstimate": 6723
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23369,21 +23374,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167641,
+      "Progressed": 167655,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168058,
+      "Progressed": 168072,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:07:09.1546012+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T01:51:41.9376084+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:58:01.6886454+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:07:09.1547335+00:00"
+  "LastChanged_Achievements": "2024-01-14T02:04:30.0945456+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:55:08.5114399+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:04:30.0946805+00:00"
 }

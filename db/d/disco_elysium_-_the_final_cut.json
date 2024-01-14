@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1688,9 +1688,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139077,
+  "EOS_Progressed": 139083,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1207,
+  "EOS_NewPlayers": 1201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28458,6 +28458,11 @@
       "Time": "2024-01-14T00:09:07.0760639+00:00",
       "NumProgressed": 139077,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-14T02:05:53.1764279+00:00",
+      "NumProgressed": 139083,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28501,7 +28506,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25034
+      "UsersEstimate": 25035
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28517,7 +28522,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11126
+      "UsersEstimate": 11127
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -28525,7 +28530,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 31988
+      "UsersEstimate": 31989
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28533,7 +28538,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11126
+      "UsersEstimate": 11127
     },
     {
       "ID": "ACH_COP_DORK",
@@ -28549,7 +28554,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38942
+      "UsersEstimate": 38943
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28573,7 +28578,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22252
+      "UsersEstimate": 22253
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -28581,7 +28586,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27815
+      "UsersEstimate": 27817
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28597,7 +28602,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18080
+      "UsersEstimate": 18081
     },
     {
       "ID": "ACH_COP_STAR",
@@ -28613,7 +28618,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15298
+      "UsersEstimate": 15299
     },
     {
       "ID": "ACH_CUNO",
@@ -28685,7 +28690,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19471
+      "UsersEstimate": 19472
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -28749,7 +28754,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19471
+      "UsersEstimate": 19472
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -28788,15 +28793,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139077,
+      "Progressed": 139083,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-13T16:57:22.8198746+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:09:07.0760633+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T01:51:41.1301003+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:57:21.315068+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:09:07.0761957+00:00"
+  "LastChanged_Achievements": "2024-01-14T02:05:53.1764275+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:54:24.0017458+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:05:53.1766036+00:00"
 }

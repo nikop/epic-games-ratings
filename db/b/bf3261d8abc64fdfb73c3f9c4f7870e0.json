@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1081,8 +1081,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:00.4760216+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:06:50.7314031+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.9159831+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:11.4046981+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:00.4760637+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:56:25.9732657+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:06:50.731451+00:00"
 }

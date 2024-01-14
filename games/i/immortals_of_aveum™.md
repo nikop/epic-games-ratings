@@ -5,38 +5,38 @@ Rating: 4.21 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,035 |
-| Battlefields Have Memories | 81.00% | ~2,762 |
-| Enlisted | 75.00% | ~2,558 |
-| Maybe Engage a Little | 70.00% | ~2,387 |
-| No More Names | 53.00% | ~1,807 |
-| Initiate | 40.00% | ~1,364 |
-| Thrada-Kul | 36.00% | ~1,228 |
-| Gravity-Challenged Rocks | 29.00% | ~989 |
-| Soldier | 25.00% | ~852 |
-| All the Major Food Groups | 25.00% | ~852 |
-| Socialite | 24.00% | ~818 |
-| Beggars Would Ride | 23.00% | ~784 |
-| Control is an Illusion | 21.00% | ~716 |
+| Unforeseen | 89.00% | ~3,038 |
+| Battlefields Have Memories | 81.00% | ~2,765 |
+| Enlisted | 75.00% | ~2,560 |
+| Maybe Engage a Little | 70.00% | ~2,389 |
+| No More Names | 53.00% | ~1,809 |
+| Initiate | 40.00% | ~1,365 |
+| Thrada-Kul | 36.00% | ~1,229 |
+| Gravity-Challenged Rocks | 29.00% | ~990 |
+| Socialite | 25.00% | ~853 |
+| Soldier | 25.00% | ~853 |
+| All the Major Food Groups | 25.00% | ~853 |
+| Beggars Would Ride | 23.00% | ~785 |
+| Control is an Illusion | 21.00% | ~717 |
 | The Means to Save It | 19.00% | ~648 |
 | Resilience to Sin | 17.00% | ~580 |
 | A Familiar Nest | 17.00% | ~580 |
 | Periapt Alizarin | 16.00% | ~546 |
 | Geas Aristeya | 15.00% | ~512 |
-| A Perfect Cycle | 14.00% | ~477 |
-| Recruit | 14.00% | ~477 |
-| Armsman | 12.00% | ~409 |
+| A Perfect Cycle | 14.00% | ~478 |
+| Recruit | 14.00% | ~478 |
+| Armsman | 12.00% | ~410 |
 | Lights Army | 10.00% | ~341 |
 | Periapt Cerulean | 9.00% | ~307 |
 | Good Boy | 8.00% | ~273 |
 | Periapt Viridian | 7.00% | ~239 |
 | Best Dressed | 6.00% | ~205 |
 | Shroudfane Explorer | 6.00% | ~205 |
-| Kitted Out | 5.00% | ~170 |
-| Armaments Gules | 5.00% | ~170 |
-| Scholar | 4.00% | ~136 |
-| Armaments Azure | 4.00% | ~136 |
-| Armaments Vert | 4.00% | ~136 |
+| Kitted Out | 5.00% | ~171 |
+| Armaments Gules | 5.00% | ~171 |
+| Scholar | 4.00% | ~137 |
+| Armaments Azure | 4.00% | ~137 |
+| Armaments Vert | 4.00% | ~137 |
 | Grand Magnus | 2.00% | ~68 |
 | Veteran | 2.00% | ~68 |
 | Master of Carmine | 1.00% | ~34 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 958)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,410 (Ranked 229)  
+Progressed: 3,413 (Ranked 229)  
 Completed: 4 (0.12%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,6 +161,7 @@ Completed: 4 (0.12%) (Ranked 306)
 | 2024-01-11 | 3,340 | 4 |
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
+| 2024-01-14 | 3,413 | 4 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

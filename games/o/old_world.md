@@ -12,39 +12,40 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 3.00% | ~502 |
 | Architect | 3.00% | ~502 |
 | Intrepid | 3.00% | ~502 |
+| Strong | 3.00% | ~502 |
 | Friendly Family | 3.00% | ~502 |
 | Hanging Gardens | 3.00% | ~502 |
-| Ambitious | 2.00% | ~334 |
-| Brilliant | 2.00% | ~334 |
-| Enlightened | 2.00% | ~334 |
-| Fountainhead | 2.00% | ~334 |
-| Glorious | 2.00% | ~334 |
-| Good | 2.00% | ~334 |
-| Just | 2.00% | ~334 |
-| Keystone | 2.00% | ~334 |
-| Learned | 2.00% | ~334 |
-| Magnificent | 2.00% | ~334 |
-| Mason | 2.00% | ~334 |
-| Noble | 2.00% | ~334 |
-| Pioneer | 2.00% | ~334 |
-| Strong | 2.00% | ~334 |
-| Warrior | 2.00% | ~334 |
-| Developing Cities | 2.00% | ~334 |
-| Strong Cities | 2.00% | ~334 |
-| Great Ziggurat | 2.00% | ~334 |
-| Ishtar Gate | 2.00% | ~334 |
-| Lighthouse | 2.00% | ~334 |
-| Oracle | 2.00% | ~334 |
-| Pyramids | 2.00% | ~334 |
-| Learn to Play 1 | 2.00% | ~334 |
-| Christianity | 2.00% | ~334 |
-| Judaism | 2.00% | ~334 |
-| Babylonian Paganism | 2.00% | ~334 |
-| Greek Paganism | 2.00% | ~334 |
-| Roman Paganism | 2.00% | ~334 |
-| Zoroastrianism | 2.00% | ~334 |
-| Naming Landmarks | 2.00% | ~334 |
-| Trade Caravan | 2.00% | ~334 |
+| Oracle | 3.00% | ~502 |
+| Ambitious | 2.00% | ~335 |
+| Brilliant | 2.00% | ~335 |
+| Enlightened | 2.00% | ~335 |
+| Fountainhead | 2.00% | ~335 |
+| Glorious | 2.00% | ~335 |
+| Good | 2.00% | ~335 |
+| Just | 2.00% | ~335 |
+| Keystone | 2.00% | ~335 |
+| Learned | 2.00% | ~335 |
+| Magnificent | 2.00% | ~335 |
+| Mason | 2.00% | ~335 |
+| Noble | 2.00% | ~335 |
+| Pioneer | 2.00% | ~335 |
+| Warrior | 2.00% | ~335 |
+| Developing Cities | 2.00% | ~335 |
+| Strong Cities | 2.00% | ~335 |
+| Great Ziggurat | 2.00% | ~335 |
+| Ishtar Gate | 2.00% | ~335 |
+| Lighthouse | 2.00% | ~335 |
+| Pyramids | 2.00% | ~335 |
+| Learn to Play 1 | 2.00% | ~335 |
+| Learn to Play 2 | 2.00% | ~335 |
+| Christianity | 2.00% | ~335 |
+| Judaism | 2.00% | ~335 |
+| Babylonian Paganism | 2.00% | ~335 |
+| Greek Paganism | 2.00% | ~335 |
+| Roman Paganism | 2.00% | ~335 |
+| Zoroastrianism | 2.00% | ~335 |
+| Naming Landmarks | 2.00% | ~335 |
+| Trade Caravan | 2.00% | ~335 |
 | Regicide | 1.00% | ~167 |
 | Hanging Gardens in Babylon | 1.00% | ~167 |
 | Drillmaster | 1.00% | ~167 |
@@ -63,16 +64,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~167 |
 | Musaeum | 1.00% | ~167 |
 | Necropolis | 1.00% | ~167 |
-| Learn to Play 2 | 1.00% | ~167 |
 | Manichaeism | 1.00% | ~167 |
 | Carthaginian Paganism | 1.00% | ~167 |
 | Egyptian Paganism | 1.00% | ~167 |
 | Mythology | 1.00% | ~167 |
-| Champions | 0.90% | ~150 |
-| Sages | 0.90% | ~150 |
-| Learn to Play 3 | 0.90% | ~150 |
-| Persian Paganism | 0.90% | ~150 |
-| Building Wonders | 0.90% | ~150 |
+| Champions | 0.90% | ~151 |
+| Sages | 0.90% | ~151 |
+| Learn to Play 3 | 0.90% | ~151 |
+| Persian Paganism | 0.90% | ~151 |
+| Building Wonders | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
 | Mighty | 0.80% | ~134 |
 | Good Difficulty | 0.80% | ~134 |
@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.70% | ~117 |
 | Double Victory | 0.70% | ~117 |
 | Win a Single Player Game | 0.70% | ~117 |
+| The Clergy | 0.70% | ~117 |
 | Kushite Paganism | 0.70% | ~117 |
 | Conqueror | 0.60% | ~100 |
 | Ready | 0.60% | ~100 |
@@ -106,7 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
-| The Clergy | 0.60% | ~100 |
+| Kushite Pyramids | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~84 |
 | Capable | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
@@ -118,16 +119,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.50% | ~84 |
 | Babylonia | 0.50% | ~84 |
 | Carthage | 0.50% | ~84 |
+| Rome | 0.50% | ~84 |
 | Assyrian Paganism | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
-| Kushite Pyramids | 0.50% | ~84 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
-| Rome | 0.40% | ~67 |
 | Hittite Paganism | 0.40% | ~67 |
 | Gnosticism | 0.40% | ~67 |
 | Revelation | 0.40% | ~67 |
@@ -136,6 +136,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.40% | ~67 |
 | All Nations | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
+| Jerwan Aqueduct | 0.40% | ~67 |
 | Ishtar Gate in Babylon | 0.30% | ~50 |
 | Carthage - Ox Hide | 0.30% | ~50 |
 | Old | 0.30% | ~50 |
@@ -148,7 +149,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.30% | ~50 |
 | No Undo | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
-| Jerwan Aqueduct | 0.30% | ~50 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
 | Ancient | 0.20% | ~33 |
 | Glorious Difficulty | 0.20% | ~33 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,717 (Ranked 169)  
+Progressed: 16,727 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,717 | 5 |
+| 2024-01-14 | 16,727 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

@@ -5,14 +5,14 @@ Rating: 4.15 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,138 |
-| Unlocked Potential | 12.00% | ~5,666 |
+| Attachments | 13.00% | ~6,139 |
+| Unlocked Potential | 12.00% | ~5,667 |
 | Tinkerer | 9.00% | ~4,250 |
 | Leapfrogger | 8.00% | ~3,778 |
 | Knock 'Em Dead | 8.00% | ~3,778 |
 | Pilgrimage: Initiate | 8.00% | ~3,778 |
 | Hell of a Run | 8.00% | ~3,778 |
-| Call of the Fount: Baptized | 7.00% | ~3,305 |
+| Call of the Fount: Baptized | 7.00% | ~3,306 |
 | No Mercy | 6.00% | ~2,833 |
 | Explorer: Seeker | 6.00% | ~2,833 |
 | Help Me Out Here | 6.00% | ~2,833 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,002)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,219 (Ranked 127)  
+Progressed: 47,222 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,15 +328,15 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-11 | 47,103 | 4 |
 | 2024-01-12 | 47,151 | 4 |
 | 2024-01-13 | 47,215 | 4 |
-| 2024-01-14 | 47,219 | 4 |
+| 2024-01-14 | 47,222 | 4 |
 ## Awards
 Max (Character Customization): 51  (Ranked 456)  
-Sum: 74 (Ranked 488)  
+Sum: 77 (Ranked 488)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 51 |
-| This game has Great Boss Battles | 23 |
+| This game has Great Boss Battles | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -443,3 +443,4 @@ Diff (max vs sum): -32
 | 2024-01-09 | 4.16 | 47 | 69 |
 | 2024-01-12 | 4.16 | 48 | 71 |
 | 2024-01-13 | 4.15 | 51 | 74 |
+| 2024-01-14 | 4.15 | 51 | 77 |

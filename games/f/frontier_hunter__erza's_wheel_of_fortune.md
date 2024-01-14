@@ -29,7 +29,7 @@ Rating: 4.38 (Ranked 797)
 | Lethal Blade Mantis Killer | 17.00% | ~127 |
 | Squeaky Clean | 17.00% | ~127 |
 | Master Artificer | 17.00% | ~127 |
-| Kind Adventurer | 15.00% | ~112 |
+| Kind Adventurer | 16.00% | ~120 |
 | Mermaid Killer | 15.00% | ~112 |
 | Cave Master | 15.00% | ~112 |
 | Face Slapper | 15.00% | ~112 |

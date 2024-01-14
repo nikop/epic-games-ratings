@@ -63,15 +63,15 @@
 | Family comes first | 27.00% | ~157 |
 | Key memories | 27.00% | ~157 |
 | Careerist | 27.00% | ~157 |
+| Anyone can resist | 27.00% | ~157 |
 | The heart of the Resistance | 27.00% | ~157 |
 | The last bell ring | 26.00% | ~152 |
-| Anyone can resist | 26.00% | ~152 |
 | Your own way | 26.00% | ~152 |
 | The only right decision | 25.00% | ~146 |
 | Silver’s past | 24.00% | ~140 |
 | Better cooking at home | 24.00% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583 (Ranked 344)  
+Progressed: 583 (Ranked 345)  
 Completed: 9 (1.54%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |

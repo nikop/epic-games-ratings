@@ -331,7 +331,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 1390,
+  "EOS_Progressed": 1391,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -4046,6 +4046,11 @@
       "Time": "2024-01-13T17:04:17.6387849+00:00",
       "NumProgressed": 1390,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T02:01:59.2897474+00:00",
+      "NumProgressed": 1391,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4098,7 +4103,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "BreakTheLoop",
@@ -4114,7 +4119,7 @@
       "Name": "Bridge Builder",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ChasingTheLight",
@@ -4162,7 +4167,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "EcstaticTruth",
@@ -4256,9 +4261,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 292
     },
     {
       "ID": "Mnemosyne",
@@ -4282,7 +4287,7 @@
       "Name": "Museum Visitor",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "NewBeginning",
@@ -4514,7 +4519,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "YourBiggestFan",
@@ -4529,7 +4534,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1390,
+      "Progressed": 1391,
       "Completed": 2
     }
   ],
@@ -4537,8 +4542,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:04:49.4569509+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:01:59.2897472+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:57:21.6566685+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:04:49.4570184+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:54:24.4214159+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:01:59.2898195+00:00"
 }

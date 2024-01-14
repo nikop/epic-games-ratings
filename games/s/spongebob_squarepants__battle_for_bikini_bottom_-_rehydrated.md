@@ -6,26 +6,26 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 23.00% | ~228 |
-| Sponge Smasher | 23.00% | ~228 |
-| Jellyfish Jam | 22.00% | ~218 |
+| Spatula Seeker | 23.00% | ~229 |
+| Sponge Smasher | 23.00% | ~229 |
+| Jellyfish Jam | 22.00% | ~219 |
 | Jellyfishing | 17.00% | ~169 |
-| Time For Tutorial | 14.00% | ~139 |
 | Sweet Victory | 13.00% | ~129 |
 | Sock Getter | 13.00% | ~129 |
+| Time For Tutorial | 13.00% | ~129 |
 | Super Spatula Seeker | 12.00% | ~119 |
 | Star Smasher | 12.00% | ~119 |
 | Uptown and Downtown | 11.00% | ~109 |
 | Squirrel Smasher | 11.00% | ~109 |
 | Surf's Up! | 11.00% | ~109 |
-| Life's as extreme as you wanna make it! | 9.00% | ~89 |
-| Toxic Terror | 9.00% | ~89 |
-| Hit Rock Bottom | 9.00% | ~89 |
-| Shrimp Catcher | 8.00% | ~79 |
-| Are you ready now? | 7.00% | ~69 |
-| Hello, Bikini Bottom | 7.00% | ~69 |
-| Keep it Rolling | 7.00% | ~69 |
-| Ultra Spatula Seeker | 7.00% | ~69 |
+| Life's as extreme as you wanna make it! | 9.00% | ~90 |
+| Toxic Terror | 9.00% | ~90 |
+| Hit Rock Bottom | 9.00% | ~90 |
+| Shrimp Catcher | 8.00% | ~80 |
+| Are you ready now? | 7.00% | ~70 |
+| Hello, Bikini Bottom | 7.00% | ~70 |
+| Keep it Rolling | 7.00% | ~70 |
+| Ultra Spatula Seeker | 7.00% | ~70 |
 | Robot encyclopedia | 6.00% | ~60 |
 | The Small Does Not Rule | 5.00% | ~50 |
 | Ship Shape | 5.00% | ~50 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 992 (Ranked 297)  
-Completed: 8 (0.81%) (Ranked 192)  
+Progressed: 995 (Ranked 297)  
+Completed: 8 (0.80%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 8 (0.81%) (Ranked 192)
 | 2024-01-11 | 954 | 8 |
 | 2024-01-12 | 970 | 8 |
 | 2024-01-13 | 992 | 8 |
+| 2024-01-14 | 995 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

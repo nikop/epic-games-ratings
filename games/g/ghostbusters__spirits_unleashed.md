@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 617)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,698 |
-| Meticulously Efficient | 9.00% | ~3,025 |
-| Advancement | 8.00% | ~2,689 |
+| Meticulously Efficient | 9.00% | ~3,026 |
+| Advancement | 8.00% | ~2,690 |
 | Discovery | 6.00% | ~2,017 |
 | Solo Capture | 6.00% | ~2,017 |
 | Swift Rift Removers | 6.00% | ~2,017 |
@@ -22,17 +22,17 @@ Rating: 4.50 (Ranked 617)
 | Ghostbuster In Training | 4.00% | ~1,345 |
 | Right back at ya | 4.00% | ~1,345 |
 | Whoopsie | 4.00% | ~1,345 |
-| Animated | 3.00% | ~1,008 |
-| Back Off | 3.00% | ~1,008 |
-| We have the best insurance | 3.00% | ~1,008 |
-| Ectoplasmic Entity | 3.00% | ~1,008 |
-| Icing on the Cake | 3.00% | ~1,008 |
-| Legions | 3.00% | ~1,008 |
-| Pesky Jerks | 3.00% | ~1,008 |
-| Rift Destroyer | 3.00% | ~1,008 |
-| Seasoned | 3.00% | ~1,008 |
-| Side Hustle | 3.00% | ~1,008 |
-| Summoner | 3.00% | ~1,008 |
+| Animated | 3.00% | ~1,009 |
+| Back Off | 3.00% | ~1,009 |
+| We have the best insurance | 3.00% | ~1,009 |
+| Ectoplasmic Entity | 3.00% | ~1,009 |
+| Icing on the Cake | 3.00% | ~1,009 |
+| Legions | 3.00% | ~1,009 |
+| Pesky Jerks | 3.00% | ~1,009 |
+| Rift Destroyer | 3.00% | ~1,009 |
+| Seasoned | 3.00% | ~1,009 |
+| Side Hustle | 3.00% | ~1,009 |
+| Summoner | 3.00% | ~1,009 |
 | Collector | 2.00% | ~672 |
 | Escape Artist | 2.00% | ~672 |
 | Reckless | 2.00% | ~672 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,615 (Ranked 139)  
+Progressed: 33,619 (Ranked 139)  
 Completed: 71 (0.21%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 71 (0.21%) (Ranked 279)
 | 2024-01-11 | 33,549 | 71 |
 | 2024-01-12 | 33,580 | 71 |
 | 2024-01-13 | 33,613 | 71 |
-| 2024-01-14 | 33,615 | 71 |
+| 2024-01-14 | 33,619 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 257)  
 Sum: 2,965 (Ranked 187)  

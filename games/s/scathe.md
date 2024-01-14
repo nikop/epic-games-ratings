@@ -9,33 +9,33 @@
 | Shock to the System | 3.00% | ~20 |
 | Bad Blood | 2.00% | ~13 |
 | Serious Bam | 1.00% | ~7 |
-| Doomed | 0.80% | ~5 |
-| Postal Service | 0.80% | ~5 |
-| Unreal | 0.80% | ~5 |
+| Doomed | 0.70% | ~5 |
+| Postal Service | 0.70% | ~5 |
+| Unreal | 0.70% | ~5 |
 | Bloodstorm | 0.60% | ~4 |
 | Pacifantastic | 0.60% | ~4 |
 | SCATHE Too | 0.60% | ~4 |
-| Amaging Work | 0.50% | ~3 |
-| ...And I'm All Out Of Gun | 0.50% | ~3 |
-| Castle Of The Wolf | 0.50% | ~3 |
-| Nuke Them All | 0.50% | ~3 |
-| Purely Not | 0.50% | ~3 |
-| Quakin' | 0.50% | ~3 |
-| Rune Escape | 0.50% | ~3 |
-| Shocking Bio | 0.50% | ~3 |
-| Such Sin | 0.50% | ~3 |
+| Amaging Work | 0.40% | ~3 |
+| ...And I'm All Out Of Gun | 0.40% | ~3 |
+| Castle Of The Wolf | 0.40% | ~3 |
+| Nuke Them All | 0.40% | ~3 |
+| Purely Not | 0.40% | ~3 |
+| Quakin' | 0.40% | ~3 |
+| Rune Escape | 0.40% | ~3 |
+| Shocking Bio | 0.40% | ~3 |
+| Such Sin | 0.40% | ~3 |
 | Gears of Door | 0.30% | ~2 |
 | Ice Work | 0.30% | ~2 |
 | Slaving Grace | 0.30% | ~2 |
 | Takin' Names | 0.30% | ~2 |
 | The Kingpin | 0.30% | ~2 |
 | Unreal 4 | 0.30% | ~2 |
-| Fear Nothing | 0.20% | ~1 |
-| Max Pain | 0.20% | ~1 |
-| Rage Quit | 0.20% | ~1 |
-| Until Dusk | 0.20% | ~1 |
+| Fear Nothing | 0.10% | ~1 |
+| Max Pain | 0.10% | ~1 |
+| Rage Quit | 0.10% | ~1 |
+| Until Dusk | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 334)  
+Progressed: 667 (Ranked 334)  
 Completed: 1 (0.15%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 1 (0.15%) (Ranked 292)
 | 2024-01-11 | 651 | 1 |
 | 2024-01-12 | 661 | 1 |
 | 2024-01-13 | 666 | 1 |
+| 2024-01-14 | 667 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

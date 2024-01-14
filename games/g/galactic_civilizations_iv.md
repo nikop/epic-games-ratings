@@ -51,6 +51,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.50% | ~38 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
+| Commodity Seller, Level 2 | 0.20% | ~15 |
 | Ask Not What Your Empire Can Do For You | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
@@ -61,8 +62,9 @@ Number of Ratings: 429  (23.09.2022)
 | Play for 5 Hours | 0.10% | ~8 |
 | Play a Multiplayer Game | 0.10% | ~8 |
 | It's OUR Homeworld | 0.10% | ~8 |
+| Recruit a Dozen Leaders | 0.10% | ~8 |
 | Recruit a Leader | 0.10% | ~8 |
-| Commodity Seller, Level 2 | 0.10% | ~8 |
+| Commodity Selling Guru | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
 | Solid Economy | 0.00% | ~0 |
 | Commodity Guru | 0.00% | ~0 |
@@ -75,8 +77,6 @@ Number of Ratings: 429  (23.09.2022)
 | The Plague | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Rebuild the Retribution | 0.00% | ~0 |
-| Recruit a Dozen Leaders | 0.00% | ~0 |
-| Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,549 (Ranked 194)  

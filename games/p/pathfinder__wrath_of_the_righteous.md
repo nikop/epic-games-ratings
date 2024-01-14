@@ -7,7 +7,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 27.00% | ~3,581 |
-| A Spark | 20.00% | ~2,652 |
+| A Spark | 20.00% | ~2,653 |
 | Burning City | 19.00% | ~2,520 |
 | Mythic Choices | 16.00% | ~2,122 |
 | Defender's Heart | 16.00% | ~2,122 |
@@ -25,11 +25,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 5.00% | ~663 |
 | Next-Door Play | 5.00% | ~663 |
 | Get the Toad | 5.00% | ~663 |
-| Heart of the Fallen Land | 4.00% | ~530 |
-| Divide and Rule | 4.00% | ~530 |
-| Mythic Reinforcements | 4.00% | ~530 |
-| A Flame | 4.00% | ~530 |
-| Hey, I Know You! | 4.00% | ~530 |
+| Heart of the Fallen Land | 4.00% | ~531 |
+| Divide and Rule | 4.00% | ~531 |
+| Mythic Reinforcements | 4.00% | ~531 |
+| A Flame | 4.00% | ~531 |
+| Hey, I Know You! | 4.00% | ~531 |
 | Path of the Trickster | 3.00% | ~398 |
 | Path of the Lich | 3.00% | ~398 |
 | Heroic Victory | 3.00% | ~398 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,262 (Ranked 178)  
+Progressed: 13,263 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,6 +392,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 13,243 | 0 |
 | 2024-01-12 | 13,249 | 0 |
 | 2024-01-13 | 13,262 | 0 |
+| 2024-01-14 | 13,263 | 0 |
 ## Awards
 Max (Character Customization): 1,784  (Ranked 130)  
 Sum: 7,227 (Ranked 127)  

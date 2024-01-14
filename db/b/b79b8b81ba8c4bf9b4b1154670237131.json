@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16662,
+  "EOS_Progressed": 16663,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6586,6 +6586,11 @@
       "Time": "2024-01-14T00:10:09.0919901+00:00",
       "NumProgressed": 16662,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-14T02:07:00.2529775+00:00",
+      "NumProgressed": 16663,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6630,7 +6635,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12496
+      "UsersEstimate": 12497
     },
     {
       "ID": "ACH_AE_14",
@@ -6638,7 +6643,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACH_AE_15",
@@ -6670,7 +6675,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_AE_19",
@@ -6830,7 +6835,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "ACH_AE_5",
@@ -6838,7 +6843,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "ACH_AE_6",
@@ -6877,7 +6882,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16662,
+      "Progressed": 16663,
       "Completed": 15
     }
   ],
@@ -6885,8 +6890,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:09.0919893+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:07:00.2529772+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:57:14.5010512+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:09.0920352+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:54:17.0886729+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:07:00.2530374+00:00"
 }

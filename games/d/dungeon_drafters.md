@@ -29,11 +29,11 @@
 | Raider Mastery | 3.00% | ~4 |
 | The Plot Thickens | 3.00% | ~4 |
 | Best Pupil | 2.00% | ~3 |
+| FOR JUSTICE! | 2.00% | ~3 |
 | First time? | 2.00% | ~3 |
 | The False Prophet | 2.00% | ~3 |
 | Sealed Once Again | 2.00% | ~3 |
 | ACHOO! | 2.00% | ~3 |
-| FOR JUSTICE! | 1.00% | ~1 |
 | Journey’s End | 1.00% | ~1 |
 | Masterpiece | 1.00% | ~1 |
 | Towards the Future | 1.00% | ~1 |

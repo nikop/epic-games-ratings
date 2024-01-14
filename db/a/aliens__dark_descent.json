@@ -555,9 +555,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6416,
+  "EOS_Progressed": 6417,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9765,6 +9765,11 @@
       "Time": "2024-01-14T00:04:56.1801904+00:00",
       "NumProgressed": 6416,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T02:02:06.9924502+00:00",
+      "NumProgressed": 6417,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9864,7 +9869,7 @@
       "Name": "This Ain\u0027t No Picnic",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
@@ -9872,7 +9877,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4171
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9896,7 +9901,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9968,7 +9973,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10000,7 +10005,7 @@
       "Name": "Where It All Begun",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10008,7 +10013,7 @@
       "Name": "Living Nightmare",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10040,7 +10045,7 @@
       "Name": "The Spire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10072,7 +10077,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4106
+      "UsersEstimate": 4107
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10080,7 +10085,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4940
+      "UsersEstimate": 4941
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10120,7 +10125,7 @@
       "Name": "The More The Merrier",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10135,7 +10140,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6416,
+      "Progressed": 6417,
       "Completed": 3
     }
   ],
@@ -10143,8 +10148,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:04:56.1801901+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:02:06.9924499+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:57:07.0462614+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:04:56.1802686+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:54:08.4157357+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:02:06.9925687+00:00"
 }

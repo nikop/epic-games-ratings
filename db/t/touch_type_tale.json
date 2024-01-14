@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -37,9 +37,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4032,
+  "EOS_Progressed": 4033,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5662,6 +5662,11 @@
       "Time": "2024-01-13T21:05:36.0227702+00:00",
       "NumProgressed": 4032,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T02:04:03.6463203+00:00",
+      "NumProgressed": 4033,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5721,7 +5726,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3508
+      "UsersEstimate": 3509
     },
     {
       "ID": "campaign10",
@@ -5809,7 +5814,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "campaign20",
@@ -5833,7 +5838,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "campaign5",
@@ -5936,7 +5941,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4032,
+      "Progressed": 4033,
       "Completed": 11
     }
   ],
@@ -5944,8 +5949,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-05T08:58:52.7711213+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:06:44.1341926+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:04:03.6463199+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:04.3464482+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:45.8402589+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:06:44.1342418+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:57:03.7744399+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:04:03.6464018+00:00"
 }

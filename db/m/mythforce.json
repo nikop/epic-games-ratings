@@ -4,10 +4,10 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 666,
   "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -786,10 +786,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 296,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-01-14T01:56:35.1882601+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 297,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 296,
+  "NumberOfAwards": 297,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -839,7 +845,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -856,7 +862,7 @@
   ],
   "EOS_Progressed": 6322,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13380,9 +13386,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
-  "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:05:12.8195432+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:19.7193507+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:05:12.8196029+00:00"
+  "LastChanged": "2024-01-14T01:56:35.1882599+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:02:25.2052494+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:56:35.1882604+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:02:25.2053499+00:00"
 }

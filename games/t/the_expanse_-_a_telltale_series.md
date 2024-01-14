@@ -5,17 +5,17 @@ Rating: 4.53 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,415 |
+| Oyedang, Kopengs | 18.00% | ~3,416 |
 | Captain Drummer | 16.00% | ~3,036 |
-| Martian Music | 14.00% | ~2,656 |
-| Bosmang | 14.00% | ~2,656 |
-| Celebrations are in Order | 14.00% | ~2,656 |
-| Impossible Objects | 14.00% | ~2,656 |
+| Celebrations are in Order | 15.00% | ~2,846 |
+| Martian Music | 14.00% | ~2,657 |
+| Bosmang | 14.00% | ~2,657 |
+| Impossible Objects | 14.00% | ~2,657 |
 | The Pit and the Pirates | 13.00% | ~2,467 |
 | Drone Dodger | 13.00% | ~2,467 |
 | Spore Taste | 12.00% | ~2,277 |
 | Stogie for Fogey | 11.00% | ~2,087 |
-| Call it Even | 10.00% | ~1,897 |
+| Call it Even | 10.00% | ~1,898 |
 | Safe Cracker | 10.00% | ~493 |
 | Zen Master | 10.00% | ~493 |
 | Heal Thy Medic | 9.00% | ~1,708 |
@@ -25,23 +25,23 @@ Rating: 4.53 (Ranked 565)
 | Drug Gifter | 7.00% | ~1,328 |
 | Thorston Mayer | 7.00% | ~1,328 |
 | Khan's Revenge | 7.00% | ~1,328 |
-| Doctor Approved | 6.00% | ~1,138 |
-| Bottoms up! | 6.00% | ~1,138 |
+| Doctor Approved | 6.00% | ~1,139 |
+| Bottoms up! | 6.00% | ~1,139 |
 | Master Negotiator | 6.00% | ~296 |
 | Data Logger | 5.00% | ~949 |
 | Miraculous Maya | 5.00% | ~949 |
 | Data Master | 3.00% | ~569 |
-| Brother's Reaper | 2.00% | ~379 |
-| No Belter Left Behind | 2.00% | ~379 |
-| Debris Spree | 2.00% | ~379 |
-| Data Recoverer | 2.00% | ~379 |
+| Brother's Reaper | 2.00% | ~380 |
+| No Belter Left Behind | 2.00% | ~380 |
+| Debris Spree | 2.00% | ~380 |
+| Data Recoverer | 2.00% | ~380 |
 | Urshanabi Hoarder | 1.00% | ~190 |
 | Grave Robber | 0.80% | ~152 |
 | Data Miner | 0.70% | ~133 |
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,974 (Ranked 159)  
+Progressed: 18,976 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 18,974 | 64 |
+| 2024-01-14 | 18,976 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

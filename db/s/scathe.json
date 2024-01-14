@@ -4,7 +4,7 @@
   "ProductSlug": "scathe-ca258f",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2801,6 +2801,11 @@
       "Time": "2024-01-13T22:09:45.5118937+00:00",
       "NumProgressed": 666,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T02:07:07.7661247+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2810,7 +2815,7 @@
       "ID": "ACHIEVEMENT_AMAGING_WORK",
       "SetID": "2ff85j2",
       "Name": "Amaging Work",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -2818,7 +2823,7 @@
       "ID": "ACHIEVEMENT_AND_IM_ALL_OUT_OF_GUN",
       "SetID": "2ff85j2",
       "Name": "...And I\u0027m All Out Of Gun",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -2842,7 +2847,7 @@
       "ID": "ACHIEVEMENT_CASTLE_OF_THE_WOLF",
       "SetID": "2ff85j2",
       "Name": "Castle Of The Wolf",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -2850,7 +2855,7 @@
       "ID": "ACHIEVEMENT_DOOMED",
       "SetID": "2ff85j2",
       "Name": "Doomed",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -2858,7 +2863,7 @@
       "ID": "ACHIEVEMENT_FEAR_NOTHING",
       "SetID": "2ff85j2",
       "Name": "Fear Nothing",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -2898,7 +2903,7 @@
       "ID": "ACHIEVEMENT_MAX_PAIN",
       "SetID": "2ff85j2",
       "Name": "Max Pain",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -2906,7 +2911,7 @@
       "ID": "ACHIEVEMENT_NUKE_THEM_ALL",
       "SetID": "2ff85j2",
       "Name": "Nuke Them All",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -2922,7 +2927,7 @@
       "ID": "ACHIEVEMENT_POSTAL_SERVICE",
       "SetID": "2ff85j2",
       "Name": "Postal Service",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -2930,7 +2935,7 @@
       "ID": "ACHIEVEMENT_PURELY_NOT",
       "SetID": "2ff85j2",
       "Name": "Purely Not",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -2938,7 +2943,7 @@
       "ID": "ACHIEVEMENT_QUAKIN",
       "SetID": "2ff85j2",
       "Name": "Quakin\u0027",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -2946,7 +2951,7 @@
       "ID": "ACHIEVEMENT_RAGE_QUIT",
       "SetID": "2ff85j2",
       "Name": "Rage Quit",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -2954,7 +2959,7 @@
       "ID": "ACHIEVEMENT_RUNE_ESCAPE",
       "SetID": "2ff85j2",
       "Name": "Rune Escape",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -2978,7 +2983,7 @@
       "ID": "ACHIEVEMENT_SHOCKING_BIO",
       "SetID": "2ff85j2",
       "Name": "Shocking Bio",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -3002,7 +3007,7 @@
       "ID": "ACHIEVEMENT_SUCH_SIN",
       "SetID": "2ff85j2",
       "Name": "Such Sin",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -3026,7 +3031,7 @@
       "ID": "ACHIEVEMENT_UNREAL",
       "SetID": "2ff85j2",
       "Name": "Unreal",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -3042,7 +3047,7 @@
       "ID": "ACHIEVEMENT_UNTIL_DUSK",
       "SetID": "2ff85j2",
       "Name": "Until Dusk",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -3051,7 +3056,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 1
     }
   ],
@@ -3059,8 +3064,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:16.2988753+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:07:07.7661245+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.7542365+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:57:19.7813209+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:16.2989105+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:54:22.8522863+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:07:07.7661722+00:00"
 }

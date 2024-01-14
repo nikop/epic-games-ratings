@@ -479,9 +479,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 345116,
+  "EOS_Progressed": 345147,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3052,
+  "EOS_NewPlayers": 3043,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13274,6 +13274,11 @@
       "Time": "2024-01-14T00:09:21.0028188+00:00",
       "NumProgressed": 345116,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-14T02:06:08.1367898+00:00",
+      "NumProgressed": 345147,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13286,7 +13291,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17256
+      "UsersEstimate": 17257
     },
     {
       "ID": "S02_BRDA",
@@ -13294,7 +13299,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 10353
+      "UsersEstimate": 10354
     },
     {
       "ID": "S03_OTWA",
@@ -13422,7 +13427,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17256
+      "UsersEstimate": 17257
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13494,7 +13499,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "S28_CTHB",
@@ -13598,14 +13603,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6902
+      "UsersEstimate": 6903
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345116,
+      "Progressed": 345147,
       "Completed": 7
     }
   ],
@@ -13613,8 +13618,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-13T21:58:44.3506369+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:09:21.0028182+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:06:08.1367891+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:00.4143025+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:09:21.0029142+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:56:12.512034+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:06:08.1369307+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 2114,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.69,
   "EosHistory": [
@@ -5054,9 +5054,9 @@
       "ID": "ACH_DREAMLISTENER",
       "SetID": "7pam6gn",
       "Name": "Dream Listener",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_EMOTIONALBAGGAGEHANDLER",
@@ -5175,8 +5175,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:33.6718825+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:07:26.4653372+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:30.8878388+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:15.4673012+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:33.6719207+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:56:30.4493234+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:07:26.4653737+00:00"
 }

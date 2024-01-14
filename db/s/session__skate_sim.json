@@ -1383,7 +1383,7 @@
   ],
   "EOS_Progressed": 3678,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8261,9 +8261,9 @@
       "ID": "ACH_PLASTIC-SURGEON",
       "SetID": "72olkc5",
       "Name": "Plastic Surgeon",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 331
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -8437,8 +8437,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-13T18:57:53.9996138+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:04:13.3938154+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T01:51:55.5577816+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:58:13.4145497+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:04:13.3938797+00:00"
+  "LastChanged_Achievements": "2024-01-14T02:01:20.1247186+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:52:46.9535453+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:55:20.5008795+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:01:20.1247705+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -429,9 +429,9 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_FIVE_STARS_MANAGER",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:09:07.8907534+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:05:54.131588+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:23.5188941+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:09:07.8907732+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:56:39.3476149+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:05:54.1316085+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,062 |
+| Malpractice Assurance | 14.00% | ~1,063 |
 | Lost and Found | 9.00% | ~683 |
-| Autodidact | 8.00% | ~10,617 |
-| This Belongs in a Museum | 7.00% | ~9,290 |
+| Autodidact | 8.00% | ~10,618 |
+| This Belongs in a Museum | 7.00% | ~9,291 |
 | This guy... again? | 7.00% | ~531 |
 | Serenity Now! | 6.00% | ~7,963 |
 | Creep and Sleep | 6.00% | ~7,963 |
 | Overdue Notice | 6.00% | ~7,963 |
 | Escape from the Black Hole | 6.00% | ~7,963 |
-| Ploughshares to Swords | 6.00% | ~455 |
-| Bloody Graduation | 6.00% | ~455 |
+| Ploughshares to Swords | 6.00% | ~456 |
+| Bloody Graduation | 6.00% | ~456 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,636 |
 | It Rings a Bell | 5.00% | ~6,636 |
 | Not Today! | 5.00% | ~6,636 |
@@ -32,27 +32,27 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 4.00% | ~5,309 |
 | Dissector | 4.00% | ~5,309 |
 | Banishment | 4.00% | ~5,309 |
+| Now Stay Dead | 4.00% | ~5,309 |
 | Spelunker | 4.00% | ~5,309 |
 | Harvest Festival | 4.00% | ~5,309 |
 | Ramble On | 4.00% | ~5,309 |
 | Whale | 4.00% | ~5,309 |
 | Nope | 4.00% | ~5,309 |
 | Unshackled | 4.00% | ~5,309 |
-| Friends 'Til the End | 4.00% | ~303 |
-| Resurrection | 3.00% | ~3,981 |
-| Funny Guy | 3.00% | ~3,981 |
-| Long Live the King | 3.00% | ~3,981 |
-| Wyrdly Reconstructed | 3.00% | ~3,981 |
-| Boxcar Kid | 3.00% | ~3,981 |
-| Hope Rekindled | 3.00% | ~3,981 |
-| Predator | 3.00% | ~3,981 |
-| Deprogramming | 3.00% | ~3,981 |
-| Now Stay Dead | 3.00% | ~3,981 |
-| Reverse Banditry | 3.00% | ~3,981 |
-| A Clear Conscience | 3.00% | ~3,981 |
-| When You Want Something Done Right | 3.00% | ~3,981 |
-| Utopia | 3.00% | ~3,981 |
-| Road Trip | 3.00% | ~3,981 |
+| Friends 'Til the End | 4.00% | ~304 |
+| Resurrection | 3.00% | ~3,982 |
+| Funny Guy | 3.00% | ~3,982 |
+| Long Live the King | 3.00% | ~3,982 |
+| Wyrdly Reconstructed | 3.00% | ~3,982 |
+| Boxcar Kid | 3.00% | ~3,982 |
+| Hope Rekindled | 3.00% | ~3,982 |
+| Predator | 3.00% | ~3,982 |
+| Deprogramming | 3.00% | ~3,982 |
+| Reverse Banditry | 3.00% | ~3,982 |
+| A Clear Conscience | 3.00% | ~3,982 |
+| When You Want Something Done Right | 3.00% | ~3,982 |
+| Utopia | 3.00% | ~3,982 |
+| Road Trip | 3.00% | ~3,982 |
 | This Looks Familiar | 2.00% | ~2,654 |
 | Ichthyophobic | 2.00% | ~2,654 |
 | No More Mouths to Feed | 2.00% | ~2,654 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,715 (Ranked 92)  
+Progressed: 132,723 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,715 | 4 |
+| 2024-01-14 | 132,723 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,636 (Ranked 58)  
+Sum: 21,637 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -360,7 +360,7 @@ Diff (max vs sum): -7
 | This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,470 |
 | This game has Amazing Storytelling | 1,446 |
-| This game has Quickly Understood Controls | 1,416 |
+| This game has Quickly Understood Controls | 1,417 |
 | This game has a Creative Community | 1,094 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -718,3 +718,4 @@ Diff (max vs sum): -7
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
+| 2024-01-14 | 4.68 | - | 8,016 | 21,637 |

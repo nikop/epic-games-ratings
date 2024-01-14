@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9491,10 +9491,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33477,
       "NumberOfAwardsMax": 5777
+    },
+    {
+      "Time": "2024-01-14T01:58:30.3265752+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33481,
+      "NumberOfAwardsMax": 5777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33477,
+  "NumberOfAwards": 33481,
   "NumberOfAwardsMax": 5777,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9538,12 +9544,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3635
+      "Count": 3639
     }
   ],
-  "EOS_Progressed": 253799,
+  "EOS_Progressed": 253818,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1662,
+  "EOS_NewPlayers": 1646,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -39996,6 +40002,11 @@
       "Time": "2024-01-14T00:10:58.4331996+00:00",
       "NumProgressed": 253799,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-14T02:07:52.2137898+00:00",
+      "NumProgressed": 253818,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -40007,7 +40018,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10152
+      "UsersEstimate": 10153
     },
     {
       "ID": "objective_completed_10",
@@ -40871,7 +40882,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "objective_completed_1203",
@@ -44311,7 +44322,7 @@
       "Name": "Fast Food",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "objective_completed_1563",
@@ -44374,21 +44385,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220073,
+      "Progressed": 220092,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253799,
+      "Progressed": 253818,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-13T20:59:59.1196514+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:58.433199+00:00",
+  "LastChanged": "2024-01-14T01:58:30.3265751+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:07:52.2137896+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-14T00:01:06.1163239+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:58.4355852+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:58:30.3265756+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:07:52.2160355+00:00"
 }

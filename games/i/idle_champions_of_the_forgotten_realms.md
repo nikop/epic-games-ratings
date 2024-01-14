@@ -6,20 +6,20 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,152 |
+| A Brief Tour of the Realms | 4.00% | ~10,153 |
 | Beast Intentions | 2.00% | ~5,076 |
 | The Cursed Farmer | 2.00% | ~5,076 |
 | The Ring of Regeneration | 1.00% | ~2,538 |
 | The Mad Wizard | 1.00% | ~2,538 |
 | Are Ya Chicken? | 0.90% | ~2,284 |
-| Were-verpowered | 0.80% | ~2,030 |
+| Were-verpowered | 0.80% | ~2,031 |
 | Welcome to Sigil | 0.80% | ~1,761 |
 | Seeking Allies | 0.70% | ~1,777 |
 | Mad Cow Disease | 0.70% | ~1,777 |
 | Friendly Imps | 0.70% | ~1,777 |
 | A Persistent Buzzing | 0.60% | ~1,523 |
 | Pure Energy | 0.60% | ~1,523 |
-| Fast Food | 0.60% | ~1,320 |
+| Fast Food | 0.60% | ~1,321 |
 | Maddening | 0.50% | ~1,269 |
 | Terror in the Dark | 0.50% | ~1,269 |
 | Unearthed Evil | 0.50% | ~1,269 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,799 (Ranked 70)  
+Progressed: 253,818 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -822,10 +822,10 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
-| 2024-01-14 | 253,799 | 2,616 |
+| 2024-01-14 | 253,818 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,777  (Ranked 74)  
-Sum: 33,477 (Ranked 41)  
+Sum: 33,481 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -835,7 +835,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,780 |
 | This game has Amazing Characters | 4,329 |
 | This game is Highly Recommended | 4,325 |
-| This game has Playful Visuals | 3,635 |
+| This game has Playful Visuals | 3,639 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1192,3 +1192,4 @@ Diff (max vs sum): 33
 | 2024-01-11 | 4.06 | - | 5,770 | 33,451 |
 | 2024-01-12 | 4.06 | - | 5,774 | 33,467 |
 | 2024-01-13 | 4.06 | - | 5,777 | 33,477 |
+| 2024-01-14 | 4.06 | - | 5,777 | 33,481 |

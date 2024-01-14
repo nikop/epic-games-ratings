@@ -5,26 +5,26 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~620 |
+| Time Heals All Wounds | 47.00% | ~621 |
 | The Mysterious Stranger | 35.00% | ~462 |
 | Rail Rat | 35.00% | ~462 |
 | Immaculate Aim | 29.00% | ~383 |
 | The Brass Boss | 29.00% | ~383 |
-| Time Flies | 27.00% | ~356 |
-| No, Thanks! | 27.00% | ~356 |
-| The Prince in Heels | 27.00% | ~356 |
+| Time Flies | 27.00% | ~357 |
+| The Prince in Heels | 27.00% | ~357 |
 | Make Up For Lost Time | 26.00% | ~343 |
 | The Harder They Fall | 26.00% | ~343 |
+| No, Thanks! | 26.00% | ~343 |
 | Honest Mistake | 26.00% | ~343 |
+| Fast Learner | 26.00% | ~343 |
 | Immaculate Aim | 26.00% | ~343 |
-| Fast Learner | 25.00% | ~330 |
 | The Steel Shadow | 24.00% | ~317 |
 | Right On Time | 23.00% | ~304 |
 | Breaking Down Barriers | 23.00% | ~304 |
 | The Wicked Twins | 23.00% | ~304 |
-| Like Clockwork | 22.00% | ~290 |
-| The Betrayer | 22.00% | ~290 |
-| Golem Chaser | 22.00% | ~290 |
+| The Betrayer | 22.00% | ~291 |
+| Golem Chaser | 22.00% | ~291 |
+| Like Clockwork | 21.00% | ~277 |
 | The Loose Cannon | 20.00% | ~264 |
 | Check Your Pulse | 20.00% | ~264 |
 | Street Style | 19.00% | ~251 |
@@ -36,9 +36,9 @@ Rating: 4.70 (Ranked 220)
 | Chaincrawler Explorer | 13.00% | ~172 |
 | Syron for Hope | 13.00% | ~172 |
 | Ask Questions Later | 13.00% | ~172 |
-| Treasure Trove | 12.00% | ~158 |
-| Cartographer | 12.00% | ~158 |
-| Sump Explorer | 12.00% | ~158 |
+| Treasure Trove | 12.00% | ~159 |
+| Cartographer | 12.00% | ~159 |
+| Sump Explorer | 12.00% | ~159 |
 | Factorywood Explorer | 10.00% | ~132 |
 | Fairgrounds Explorer | 10.00% | ~132 |
 | Theater Explorer | 10.00% | ~132 |
@@ -50,8 +50,8 @@ Rating: 4.70 (Ranked 220)
 | Clovemary for Remembering | 6.00% | ~79 |
 | Hexlock for Protection | 6.00% | ~79 |
 | Rungs Was Right | 5.00% | ~66 |
-| Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
+| Wunderkind | 2.00% | ~26 |
 | Fitting In | 2.00% | ~26 |
 | No Time to Waste | 1.00% | ~13 |
 | A Lesson in Precision | 0.90% | ~12 |
@@ -59,7 +59,7 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,320 (Ranked 281)  
+Progressed: 1,321 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
 | 2024-01-13 | 1,319 | 8 |
-| 2024-01-14 | 1,320 | 8 |
+| 2024-01-14 | 1,321 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

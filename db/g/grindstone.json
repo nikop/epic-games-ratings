@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5243,
+  "EOS_Progressed": 5244,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1199,6 +1199,11 @@
       "Time": "2024-01-13T13:08:17.0381318+00:00",
       "NumProgressed": 5243,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-14T02:03:31.8512509+00:00",
+      "NumProgressed": 5244,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 49,
@@ -1258,7 +1263,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -1266,7 +1271,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2254
+      "UsersEstimate": 2255
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1274,7 +1279,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1338,7 +1343,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1346,7 +1351,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3303
+      "UsersEstimate": 3304
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1386,7 +1391,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2569
+      "UsersEstimate": 2570
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1434,7 +1439,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1482,7 +1487,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1498,7 +1503,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1514,7 +1519,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1554,7 +1559,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1586,7 +1591,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1601,15 +1606,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5243,
+      "Progressed": 5244,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:06:14.5884045+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T01:51:46.5070485+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:58:58.6875833+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:06:14.5884395+00:00"
+  "LastChanged_Achievements": "2024-01-14T02:03:31.8512507+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:52:55.3228636+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:56:10.6315979+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:03:31.8513117+00:00"
 }

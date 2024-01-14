@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4632,6 +4632,11 @@
       "Time": "2024-01-13T18:10:56.8774251+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T02:07:34.4127818+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4699,7 +4704,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "EXPERT_1",
@@ -4729,9 +4734,9 @@
       "ID": "GRAVE_DIGGER_1",
       "SetID": "bf13m8j",
       "Name": "Grave Robber",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 276
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4763,7 +4768,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4771,7 +4776,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4795,7 +4800,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4905,9 +4910,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 86
     },
     {
       "ID": "WANDERER_1",
@@ -4930,15 +4935,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:10:41.6580293+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:07:34.4127816+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:33.7051632+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:59:04.8547455+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:10:41.658067+00:00"
+  "LastUpdate_Ratings": "2024-01-14T01:56:17.9894795+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:07:34.4128131+00:00"
 }

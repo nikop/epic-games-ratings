@@ -1588,9 +1588,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1643,8 +1643,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:06:58.6723056+00:00",
-  "LastUpdate_AppInfo": "2024-01-06T23:57:19.369127+00:00",
-  "LastUpdate_Ratings": "2024-01-14T00:01:17.1853598+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:06:58.6723377+00:00"
+  "LastChanged_Achievements": "2024-01-14T02:04:18.8672441+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:53:27.433886+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:58:44.7443828+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:04:18.8672929+00:00"
 }

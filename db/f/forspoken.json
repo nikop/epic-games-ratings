@@ -635,10 +635,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 74,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2024-01-14T02:00:05.342225+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 77,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 74,
+  "NumberOfAwards": 77,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -652,12 +658,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 23
+      "Count": 26
     }
   ],
-  "EOS_Progressed": 47219,
+  "EOS_Progressed": 47222,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18745,6 +18751,11 @@
       "Time": "2024-01-14T00:08:35.0376828+00:00",
       "NumProgressed": 47219,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T02:05:18.6746115+00:00",
+      "NumProgressed": 47222,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18804,7 +18815,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6138
+      "UsersEstimate": 6139
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19092,7 +19103,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "SPRING_ALL",
@@ -19108,7 +19119,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "STAYING_AIR",
@@ -19179,22 +19190,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47219,
+      "Progressed": 47222,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12056,
-      "Completed": 12056
+      "Progressed": 12059,
+      "Completed": 12059
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-13T10:03:30.8792595+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:08:35.0376822+00:00",
-  "LastUpdate_AppInfo": "2024-01-06T23:57:23.0727604+00:00",
-  "LastUpdate_Ratings": "2024-01-14T00:03:04.0825235+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:08:35.03781+00:00"
+  "LastChanged": "2024-01-14T02:00:05.3422246+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:05:18.6746109+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
+  "LastUpdate_Ratings": "2024-01-14T02:00:05.3422256+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:05:18.6747574+00:00"
 }

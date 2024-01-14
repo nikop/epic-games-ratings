@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5416,
+  "EOS_Progressed": 5417,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5255,6 +5255,11 @@
       "Time": "2024-01-14T00:06:57.0865344+00:00",
       "NumProgressed": 5416,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-14T02:04:17.3120906+00:00",
+      "NumProgressed": 5417,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5282,7 +5287,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5298,7 +5303,7 @@
       "Name": "Brave New World",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ID_ACHIEV_06",
@@ -5306,7 +5311,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -5314,7 +5319,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4549
+      "UsersEstimate": 4550
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5322,7 +5327,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5330,7 +5335,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4116
+      "UsersEstimate": 4117
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5378,7 +5383,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -5418,7 +5423,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -5482,7 +5487,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4116
+      "UsersEstimate": 4117
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5498,7 +5503,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5506,7 +5511,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -5546,7 +5551,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5594,7 +5599,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5618,7 +5623,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5801,15 +5806,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5416,
+      "Progressed": 5417,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:06:57.086534+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T01:52:01.5688271+00:00",
-  "LastUpdate_Ratings": "2024-01-14T00:01:29.9976105+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:06:57.0866414+00:00"
+  "LastChanged_Achievements": "2024-01-14T02:04:17.3120901+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
+  "LastUpdate_Ratings": "2024-01-14T01:58:57.3632377+00:00",
+  "LastUpdate_Achievements": "2024-01-14T02:04:17.3121808+00:00"
 }

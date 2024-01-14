@@ -31,8 +31,8 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 7.00% | ~17 |
 | Beam Me Up | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
+| Free as a Bird | 7.00% | ~17 |
 | Detective | 7.00% | ~17 |
-| Free as a Bird | 6.00% | ~15 |
 | Cleric | 6.00% | ~15 |
 | Weaponsmith | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |

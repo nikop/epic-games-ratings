@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,201 |
-| Un-Lonely Island | 44.00% | ~3,135 |
-| The Beginning of a Servantship | 43.00% | ~3,064 |
+| Just One...More...Term... | 73.00% | ~5,203 |
+| Un-Lonely Island | 44.00% | ~3,136 |
+| The Beginning of a Servantship | 43.00% | ~3,065 |
 | Trade Is My Trait | 35.00% | ~2,494 |
 | Number 18 | 23.00% | ~1,639 |
-| We Don't Have Time For That | 18.00% | ~1,282 |
+| We Don't Have Time For That | 18.00% | ~1,283 |
 | The Legend of Langostino | 16.00% | ~1,140 |
 | The Governator | 16.00% | ~1,140 |
 | Caribbean Comrade | 15.00% | ~1,069 |
 | The Dreamer of Dreams | 15.00% | ~1,069 |
-| Happy Ending? | 10.00% | ~712 |
-| Go Sovereigns! | 10.00% | ~712 |
-| For Science! | 10.00% | ~712 |
+| Happy Ending? | 10.00% | ~713 |
+| Go Sovereigns! | 10.00% | ~713 |
+| For Science! | 10.00% | ~713 |
 | Of Seals And Men | 9.00% | ~641 |
 | Shackadelic | 9.00% | ~641 |
 | Double Trouble | 8.00% | ~570 |
@@ -36,18 +36,18 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 3.00% | ~214 |
 | Narcissist | 3.00% | ~214 |
 | The Time For Wonders | 3.00% | ~214 |
-| One Does Not Simply Stage A Coup | 2.00% | ~142 |
-| Promising Endeavors | 2.00% | ~142 |
-| Sublime Subliminal Supreme | 2.00% | ~142 |
-| Teamplayer | 2.00% | ~142 |
-| Terraformer | 2.00% | ~142 |
-| Curse of the Mummy | 2.00% | ~142 |
+| One Does Not Simply Stage A Coup | 2.00% | ~143 |
+| Promising Endeavors | 2.00% | ~143 |
+| Sublime Subliminal Supreme | 2.00% | ~143 |
+| Teamplayer | 2.00% | ~143 |
+| Terraformer | 2.00% | ~143 |
+| Curse of the Mummy | 2.00% | ~143 |
 | Chain Gang | 1.00% | ~71 |
 | From Knight to Little Duck | 1.00% | ~71 |
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,125 (Ranked 198)  
+Progressed: 7,127 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 2 (0.03%) (Ranked 358)
 | 2024-01-11 | 7,083 | 2 |
 | 2024-01-12 | 7,100 | 2 |
 | 2024-01-13 | 7,124 | 2 |
-| 2024-01-14 | 7,125 | 2 |
+| 2024-01-14 | 7,127 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 372)  
 Sum: 765 (Ranked 302)  

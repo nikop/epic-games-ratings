@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2887,
+  "EOS_Progressed": 2888,
   "EOS_Completed": 270,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 9.35,
   "EosHistory": [
@@ -8426,6 +8426,11 @@
       "Time": "2024-01-13T21:09:13.4034893+00:00",
       "NumProgressed": 2887,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2024-01-14T02:06:26.8494401+00:00",
+      "NumProgressed": 2888,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 12,
@@ -8461,7 +8466,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "Jacques a Dit",
@@ -8532,7 +8537,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2887,
+      "Progressed": 2888,
       "Completed": 270
     }
   ],
@@ -8540,8 +8545,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-14T00:09:38.4679092+00:00",
+  "LastChanged_Achievements": "2024-01-14T02:06:26.8494395+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:56:54.1144562+00:00",
   "LastUpdate_Ratings": "2024-01-14T00:02:36.1824779+00:00",
-  "LastUpdate_Achievements": "2024-01-14T00:09:38.4679597+00:00"
+  "LastUpdate_Achievements": "2024-01-14T02:06:26.8494965+00:00"
 }

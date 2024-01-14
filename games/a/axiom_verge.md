@@ -1,7 +1,7 @@
 # AXIOM VERGE
 [Store](https://store.epicgames.com/en-US/p/axiom-verge)  
 [View Rawdata](../../db/a/axiom_verge.json)  
-Rating: 4.55 (Ranked 528)  
+Rating: 4.54 (Ranked 552)  
 Number of Ratings: 132  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 49  (Ranked 463)  
@@ -89,3 +89,4 @@ Diff (max vs sum): -54
 | 2023-10-21 | 4.56 | - | 48 | 48 |
 | 2023-12-15 | 4.55 | - | 48 | 48 |
 | 2024-01-10 | 4.55 | - | 49 | 49 |
+| 2024-01-14 | 4.54 | - | 49 | 49 |
