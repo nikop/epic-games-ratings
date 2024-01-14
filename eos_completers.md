@@ -26,8 +26,8 @@
 | 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 20.69% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.96% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.75% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.94% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.74% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -61,7 +61,7 @@
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.98% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.92% |
-| 62 | [Scorn](games/s/scorn.md) | 6.90% |
+| 62 | [Scorn](games/s/scorn.md) | 6.89% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.76% |
 | 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.74% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -81,8 +81,8 @@
 | 78 | [ZZT!](games/z/zzt!.md) | 4.76% |
 | 80 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.56% |
 | 81 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.42% |
-| 82 | [JARS](games/j/jars.md) | 4.42% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.48% |
+| 83 | [JARS](games/j/jars.md) | 4.42% |
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.38% |
 | 86 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.35% |
@@ -96,10 +96,10 @@
 | 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.85% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
-| 97 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.61% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.61% |
-| 99 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
-| 99 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
+| 98 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.57% |
+| 98 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
+| 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 101 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.55% |
 | 102 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
@@ -198,9 +198,9 @@
 | 196 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
 | 196 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.76% |
 | 198 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.75% |
+| 199 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.74% |
 | 199 | [Infindustry](games/i/infindustry.md) | 0.74% |
-| 200 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.73% |
-| 200 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
+| 201 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
 | 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.71% |
 | 203 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.70% |
 | 203 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
