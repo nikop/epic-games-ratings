@@ -6,24 +6,24 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~971 |
-| My little farm | 63.00% | ~774 |
+| Cabin boy | 79.00% | ~972 |
+| My little farm | 63.00% | ~775 |
 | Every beginning is difficult | 61.00% | ~750 |
 | Gofer | 55.00% | ~676 |
 | 3, 2, 1, mine | 54.00% | ~664 |
 | O Captain! My Captain! | 54.00% | ~664 |
-| Seafarer | 50.00% | ~614 |
-| Greed for gold | 42.00% | ~516 |
+| Seafarer | 50.00% | ~615 |
+| Greed for gold | 42.00% | ~517 |
 | Intangible | 40.00% | ~492 |
 | I'm out of here for a while | 40.00% | ~492 |
 | In a mint condition | 37.00% | ~455 |
-| Licence to Kill | 36.00% | ~442 |
+| Licence to Kill | 36.00% | ~443 |
 | Pirates! | 33.00% | ~406 |
 | Collectionitis | 28.00% | ~344 |
 | Megalomania | 28.00% | ~344 |
 | Christening | 27.00% | ~332 |
-| Groundskeeper | 25.00% | ~307 |
-| Wholesale | 22.00% | ~270 |
+| Groundskeeper | 25.00% | ~308 |
+| Wholesale | 22.00% | ~271 |
 | Walk the plank | 21.00% | ~258 |
 | My precious! | 18.00% | ~221 |
 | Pearly gates | 17.00% | ~209 |
@@ -36,9 +36,9 @@ Number of Ratings: 53  (23.09.2022)
 | Maker | 7.00% | ~86 |
 | Panel of experts | 7.00% | ~86 |
 | Conglomerate | 6.00% | ~74 |
-| Buccaneer | 5.00% | ~61 |
-| Flying Dutchman | 5.00% | ~61 |
-| The Grande Bouffe | 5.00% | ~61 |
+| Buccaneer | 5.00% | ~62 |
+| Flying Dutchman | 5.00% | ~62 |
+| The Grande Bouffe | 5.00% | ~62 |
 | A true pirate! | 4.00% | ~49 |
 | Overpopulation | 4.00% | ~49 |
 | Premier Maître | 3.00% | ~37 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.70% | ~9 |
 | Davy Jones' locker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,229 (Ranked 284)  
+Progressed: 1,230 (Ranked 284)  
 Completed: 1 (0.08%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 1 (0.08%) (Ranked 328)
 | 2024-01-11 | 1,220 | 1 |
 | 2024-01-12 | 1,221 | 1 |
 | 2024-01-13 | 1,227 | 1 |
-| 2024-01-14 | 1,229 | 1 |
+| 2024-01-14 | 1,230 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

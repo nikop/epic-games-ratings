@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7237,
+  "EOS_Progressed": 7238,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11217,6 +11217,11 @@
       "Time": "2024-01-14T16:04:56.4637302+00:00",
       "NumProgressed": 7237,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T17:04:56.1874996+00:00",
+      "NumProgressed": 7238,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11354,9 +11359,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1303
     },
     {
       "ID": "25",
@@ -11388,7 +11393,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "29",
@@ -11412,7 +11417,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "31",
@@ -11460,7 +11465,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "37",
@@ -11484,7 +11489,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "4",
@@ -11707,13 +11712,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7237,
+      "Progressed": 7238,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7237,
+      "Progressed": 7238,
       "Completed": 8
     }
   ],
@@ -11721,8 +11726,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:04:56.4637299+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:04:56.187499+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:59:57.4561549+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:04:56.4638312+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:59:57.4472923+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:04:56.1875851+00:00"
 }

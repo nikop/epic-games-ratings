@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2225,9 +2225,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22362,
+  "EOS_Progressed": 22363,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13875,6 +13875,11 @@
       "Time": "2024-01-14T16:09:48.6774334+00:00",
       "NumProgressed": 22362,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T17:09:47.5308973+00:00",
+      "NumProgressed": 22363,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14006,7 +14011,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14118,7 +14123,7 @@
       "Name": "Desperate Times",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14142,7 +14147,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "DISMEMBER_100",
@@ -14261,13 +14266,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22362,
+      "Progressed": 22363,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10288,
+      "Progressed": 10289,
       "Completed": 29
     }
   ],
@@ -14275,8 +14280,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-14T11:03:14.9181782+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:09:48.6774331+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:09:47.530897+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:03:26.4657429+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:09:48.6775126+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:03:23.0491319+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:09:47.5309918+00:00"
 }

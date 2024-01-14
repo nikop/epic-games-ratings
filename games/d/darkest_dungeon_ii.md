@@ -6,15 +6,15 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,072 |
-| Lost and Found | 9.00% | ~689 |
-| Autodidact | 8.00% | ~10,623 |
-| This Belongs in a Museum | 7.00% | ~9,295 |
-| This guy... again? | 7.00% | ~536 |
-| Serenity Now! | 6.00% | ~7,967 |
-| Creep and Sleep | 6.00% | ~7,967 |
-| Overdue Notice | 6.00% | ~7,967 |
-| Escape from the Black Hole | 6.00% | ~7,967 |
+| Malpractice Assurance | 14.00% | ~1,073 |
+| Lost and Found | 9.00% | ~690 |
+| Autodidact | 8.00% | ~10,624 |
+| This Belongs in a Museum | 7.00% | ~9,296 |
+| This guy... again? | 7.00% | ~537 |
+| Serenity Now! | 6.00% | ~7,968 |
+| Creep and Sleep | 6.00% | ~7,968 |
+| Overdue Notice | 6.00% | ~7,968 |
+| Escape from the Black Hole | 6.00% | ~7,968 |
 | Ploughshares to Swords | 6.00% | ~460 |
 | Bloody Graduation | 6.00% | ~460 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,640 |
@@ -41,7 +41,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 4.00% | ~5,312 |
 | Nope | 4.00% | ~5,312 |
 | Unshackled | 4.00% | ~5,312 |
-| Friends 'Til the End | 4.00% | ~306 |
+| Friends 'Til the End | 4.00% | ~307 |
 | Resurrection | 3.00% | ~3,984 |
 | Wyrdly Reconstructed | 3.00% | ~3,984 |
 | Boxcar Kid | 3.00% | ~3,984 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,790 (Ranked 92)  
+Progressed: 132,796 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,790 | 4 |
+| 2024-01-14 | 132,796 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,644 (Ranked 58)  
+Sum: 21,646 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): -7
 | This game is Highly Recommended | 1,607 |
 | This game has Amazing Characters | 1,533 |
 | This game is Extremely Fun | 1,524 |
-| This game has Unique Visuals | 1,470 |
+| This game has Unique Visuals | 1,472 |
 | This game has Amazing Storytelling | 1,448 |
 | This game has Quickly Understood Controls | 1,417 |
 | This game has a Creative Community | 1,095 |
@@ -718,4 +718,4 @@ Diff (max vs sum): -7
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
-| 2024-01-14 | 4.68 | - | 8,016 | 21,644 |
+| 2024-01-14 | 4.68 | - | 8,016 | 21,646 |

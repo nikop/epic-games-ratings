@@ -8,6 +8,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 4.00% | ~672 |
 | Settler | 4.00% | ~672 |
+| Friendly Family | 4.00% | ~672 |
 | Play a Single Player Game | 4.00% | ~672 |
 | Able | 3.00% | ~504 |
 | Architect | 3.00% | ~504 |
@@ -15,7 +16,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 3.00% | ~504 |
 | Mason | 3.00% | ~504 |
 | Strong | 3.00% | ~504 |
-| Friendly Family | 3.00% | ~504 |
 | Hanging Gardens | 3.00% | ~504 |
 | Oracle | 3.00% | ~504 |
 | Judaism | 3.00% | ~504 |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~336 |
 | Fountainhead | 2.00% | ~336 |
 | Glorious | 2.00% | ~336 |
+| Great | 2.00% | ~336 |
 | Just | 2.00% | ~336 |
 | Keystone | 2.00% | ~336 |
 | Learned | 2.00% | ~336 |
@@ -33,6 +34,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 2.00% | ~336 |
 | Developing Cities | 2.00% | ~336 |
 | Strong Cities | 2.00% | ~336 |
+| Furious Family | 2.00% | ~336 |
 | Great Ziggurat | 2.00% | ~336 |
 | Ishtar Gate | 2.00% | ~336 |
 | Lighthouse | 2.00% | ~336 |
@@ -42,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Christianity | 2.00% | ~336 |
 | Babylonian Paganism | 2.00% | ~336 |
 | Carthaginian Paganism | 2.00% | ~336 |
+| Egyptian Paganism | 2.00% | ~336 |
 | Greek Paganism | 2.00% | ~336 |
 | Roman Paganism | 2.00% | ~336 |
 | Zoroastrianism | 2.00% | ~336 |
@@ -50,7 +53,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 1.00% | ~168 |
 | Hanging Gardens in Babylon | 1.00% | ~168 |
 | Drillmaster | 1.00% | ~168 |
-| Great | 1.00% | ~168 |
 | Intercessor | 1.00% | ~168 |
 | Valiant | 1.00% | ~168 |
 | Wise | 1.00% | ~168 |
@@ -59,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~168 |
 | Artisans | 1.00% | ~168 |
 | Sages | 1.00% | ~168 |
-| Furious Family | 1.00% | ~168 |
 | Acropolis | 1.00% | ~168 |
 | Apadana | 1.00% | ~168 |
 | Colossus | 1.00% | ~168 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 1.00% | ~168 |
 | Learn to Play 3 | 1.00% | ~168 |
 | Manichaeism | 1.00% | ~168 |
-| Egyptian Paganism | 1.00% | ~168 |
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
 | Champions | 0.90% | ~151 |
@@ -90,10 +90,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
 | Hagia Sophia | 0.70% | ~118 |
+| Pantheon | 0.70% | ~118 |
 | Via Recta Souk | 0.70% | ~118 |
 | Economic Reform | 0.70% | ~118 |
 | Military Prestige | 0.70% | ~118 |
 | Dualism | 0.70% | ~118 |
+| Legalism | 0.70% | ~118 |
 | Legionary | 0.70% | ~118 |
 | Double Victory | 0.70% | ~118 |
 | The Clergy | 0.70% | ~118 |
@@ -104,11 +106,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
-| Pantheon | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
-| Legalism | 0.60% | ~101 |
 | Cimmerian Archer | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
@@ -146,6 +146,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
+| Pantheon of Gods | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
@@ -160,7 +161,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
 | Persia | 0.20% | ~34 |
-| Pantheon of Gods | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
 | Play a Network Game | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,788 (Ranked 169)  
+Progressed: 16,795 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,15 +634,15 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,788 | 5 |
+| 2024-01-14 | 16,795 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,928 (Ranked 223)  
+Sum: 1,930 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
-| This game has Diverse Characters | 224 |
+| This game has Diverse Characters | 226 |
 | This game is Extremely Fun | 223 |
 | This game is Highly Recommended | 223 |
 | This game is Educational | 220 |
@@ -847,4 +847,4 @@ Diff (max vs sum): 64
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
 | 2024-01-13 | 4.65 | - | 230 | 1,927 |
-| 2024-01-14 | 4.65 | - | 230 | 1,928 |
+| 2024-01-14 | 4.65 | - | 230 | 1,930 |

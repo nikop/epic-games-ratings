@@ -5,43 +5,43 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,501 |
-| On the Top Step | 82.00% | ~14,869 |
-| Setting up for Success | 69.00% | ~12,512 |
-| Team Orders | 67.00% | ~12,149 |
-| Engineer | 45.00% | ~8,160 |
-| Familiar Faces | 41.00% | ~7,435 |
-| Going the Extra Mile | 35.00% | ~6,347 |
-| Sharing the Love | 33.00% | ~5,984 |
-| Hitting a Season | 26.00% | ~4,715 |
-| Making History | 25.00% | ~4,533 |
-| A Dozen Pieces | 24.00% | ~4,352 |
-| Network Success | 23.00% | ~4,171 |
-| Challenge Yourself | 23.00% | ~4,171 |
-| Writing a new Chapter | 19.00% | ~3,445 |
-| Spring Cleaning | 18.00% | ~3,264 |
-| Reduce | 14.00% | ~2,539 |
-| Ups and Downs | 14.00% | ~2,539 |
-| Crucial Combo | 13.00% | ~2,357 |
-| Reuse | 12.00% | ~2,176 |
-| Proving Them Wrong | 12.00% | ~2,176 |
-| Gathering Dust | 11.00% | ~1,995 |
-| Friendly Competition | 10.00% | ~1,813 |
-| Switcheroo | 10.00% | ~1,813 |
-| One for the Book | 10.00% | ~1,813 |
-| Eagle Eye | 9.00% | ~1,632 |
-| All in a Weekend's Work | 9.00% | ~1,632 |
-| Oil and Water | 9.00% | ~1,632 |
-| Hitting a Bullseye | 9.00% | ~1,632 |
-| Spinning Around | 9.00% | ~1,632 |
+| Getting on the Step | 91.00% | ~16,508 |
+| On the Top Step | 82.00% | ~14,876 |
+| Setting up for Success | 69.00% | ~12,517 |
+| Team Orders | 67.00% | ~12,154 |
+| Engineer | 45.00% | ~8,163 |
+| Familiar Faces | 41.00% | ~7,438 |
+| Going the Extra Mile | 35.00% | ~6,349 |
+| Sharing the Love | 33.00% | ~5,987 |
+| Hitting a Season | 26.00% | ~4,717 |
+| Making History | 25.00% | ~4,535 |
+| A Dozen Pieces | 24.00% | ~4,354 |
+| Network Success | 23.00% | ~4,172 |
+| Challenge Yourself | 23.00% | ~4,172 |
+| Writing a new Chapter | 19.00% | ~3,447 |
+| Spring Cleaning | 18.00% | ~3,265 |
+| Reduce | 14.00% | ~2,540 |
+| Ups and Downs | 14.00% | ~2,540 |
+| Crucial Combo | 13.00% | ~2,358 |
+| Reuse | 12.00% | ~2,177 |
+| Proving Them Wrong | 12.00% | ~2,177 |
+| Gathering Dust | 11.00% | ~1,996 |
+| Friendly Competition | 10.00% | ~1,814 |
+| Switcheroo | 10.00% | ~1,814 |
+| One for the Book | 10.00% | ~1,814 |
+| Eagle Eye | 9.00% | ~1,633 |
+| All in a Weekend's Work | 9.00% | ~1,633 |
+| Oil and Water | 9.00% | ~1,633 |
+| Hitting a Bullseye | 9.00% | ~1,633 |
+| Spinning Around | 9.00% | ~1,633 |
 | Lightning Round the World | 8.00% | ~1,451 |
-| Recycle | 7.00% | ~1,269 |
+| Recycle | 7.00% | ~1,270 |
 | Undisputed Winner | 6.00% | ~1,088 |
 | Tinkerer | 6.00% | ~1,088 |
-| For all Those Back at the Factory | 4.00% | ~725 |
-| Living up to Expectations | 4.00% | ~725 |
-| Smooth Operator | 4.00% | ~725 |
-| Peak Performance | 4.00% | ~725 |
+| For all Those Back at the Factory | 4.00% | ~726 |
+| Living up to Expectations | 4.00% | ~726 |
+| Smooth Operator | 4.00% | ~726 |
+| Peak Performance | 4.00% | ~726 |
 | Seasoned Rookie | 3.00% | ~544 |
 | Hitting a Century | 2.00% | ~363 |
 | Loyal Bond | 2.00% | ~363 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,133 (Ranked 163)  
+Progressed: 18,141 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,10 +178,10 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 17,785 | 0 |
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
-| 2024-01-14 | 18,133 | 0 |
+| 2024-01-14 | 18,141 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 425)  
-Sum: 432 (Ranked 349)  
+Sum: 433 (Ranked 349)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): 76
 | This game has a Competitive Community | 50 |
 | This game has Amazing Characters | 48 |
 | This game is Highly Recommended | 46 |
-| This game has Quickly Understood Controls | 40 |
+| This game has Quickly Understood Controls | 41 |
 | This game is Extremely Fun | 39 |
 | This game has Challenging Combat | 39 |
 | This game is Great for Beginners | 36 |
@@ -323,4 +323,4 @@ Diff (max vs sum): 76
 | 2024-01-11 | 4.63 | 64 | 421 |
 | 2024-01-12 | 4.64 | 65 | 423 |
 | 2024-01-13 | 4.64 | 65 | 429 |
-| 2024-01-14 | 4.64 | 65 | 432 |
+| 2024-01-14 | 4.64 | 65 | 433 |

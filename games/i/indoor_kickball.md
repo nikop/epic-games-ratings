@@ -30,8 +30,8 @@
 | Hi Hungry, I'm Dad | 20.00% | ~21 |
 | Just how we drew it up | 13.00% | ~14 |
 | Interference | 9.00% | ~9 |
+| Kitchen Secret Spot | 7.00% | ~7 |
 | You broke it, you bought it | 7.00% | ~7 |
-| Kitchen Secret Spot | 6.00% | ~6 |
 | Found the Secret Formula! | 5.00% | ~5 |
 | Attic Secret Spot | 4.00% | ~4 |
 | Basement Secret Spot | 3.00% | ~3 |

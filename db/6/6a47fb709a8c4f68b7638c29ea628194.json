@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2146,
+  "EOS_Progressed": 2150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2829,6 +2829,11 @@
       "Time": "2024-01-14T16:09:21.8865873+00:00",
       "NumProgressed": 2146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T17:09:20.9145477+00:00",
+      "NumProgressed": 2150,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -2865,7 +2870,7 @@
       "Name": "Fastest lap",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "FASTEST_LAP_10",
@@ -2881,7 +2886,7 @@
       "Name": "Good pace",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "FINISHED_1",
@@ -2889,7 +2894,7 @@
       "Name": "Greener",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 989
     },
     {
       "ID": "FINISHED_10",
@@ -2897,7 +2902,7 @@
       "Name": "New star",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "FINISHED_100",
@@ -2929,7 +2934,7 @@
       "Name": "One motorbike race",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 796
     },
     {
       "ID": "ONE_LAP",
@@ -2937,7 +2942,7 @@
       "Name": "First lap",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1419
     },
     {
       "ID": "PODIUM_1",
@@ -2945,7 +2950,7 @@
       "Name": "Podium finisher",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 710
     },
     {
       "ID": "PODIUM_10",
@@ -2961,7 +2966,7 @@
       "Name": "Good driver",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "REGISTER",
@@ -2969,7 +2974,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2021
     },
     {
       "ID": "RESEARCHED_2",
@@ -2977,7 +2982,7 @@
       "Name": "Generation 2",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "RESEARCHED_3",
@@ -2985,7 +2990,7 @@
       "Name": "Generation 3",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "RESEARCHED_4",
@@ -2993,7 +2998,7 @@
       "Name": "Generation 4",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "RESEARCHED_5",
@@ -3009,7 +3014,7 @@
       "Name": "Generation 6",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "RESEARCHED_7",
@@ -3041,7 +3046,7 @@
       "Name": "Race winner",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "WIN_10",
@@ -3065,7 +3070,7 @@
       "Name": "Multiple race winner",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "WIN_HORICE",
@@ -3081,7 +3086,7 @@
       "Name": "Newcomer",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 987
+      "UsersEstimate": 989
     },
     {
       "ID": "XP_1000",
@@ -3089,7 +3094,7 @@
       "Name": "Rookie",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "XP_10000",
@@ -3120,14 +3125,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2146,
+      "Progressed": 2150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:09:21.8865869+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:09:20.9145475+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:21:08.2506536+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:57:52.4759749+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:09:21.8866264+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:57:55.4416814+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:09:20.9145913+00:00"
 }

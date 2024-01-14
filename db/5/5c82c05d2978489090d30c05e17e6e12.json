@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75198,
+  "EOS_Progressed": 75208,
   "EOS_Completed": 122,
-  "EOS_NewPlayers": 1389,
+  "EOS_NewPlayers": 1378,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7289,6 +7289,11 @@
       "Time": "2024-01-14T16:08:47.4757668+00:00",
       "NumProgressed": 75198,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2024-01-14T17:08:45.4979827+00:00",
+      "NumProgressed": 75208,
+      "NumCompleted": 122
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7301,7 +7306,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27823
+      "UsersEstimate": 27827
     },
     {
       "ID": "Achievement_10",
@@ -7389,7 +7394,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21055
+      "UsersEstimate": 21058
     },
     {
       "ID": "Achievement_20",
@@ -7477,7 +7482,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9024
+      "UsersEstimate": 9025
     },
     {
       "ID": "Achievement_30",
@@ -7525,7 +7530,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "Achievement_5",
@@ -7533,7 +7538,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5264
+      "UsersEstimate": 5265
     },
     {
       "ID": "Achievement_6",
@@ -7572,7 +7577,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75198,
+      "Progressed": 75208,
       "Completed": 122
     }
   ],
@@ -7580,8 +7585,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:08:47.4757664+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:08:45.4979825+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:57:28.7204217+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:08:47.4758272+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:57:33.1541515+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:08:45.4980286+00:00"
 }

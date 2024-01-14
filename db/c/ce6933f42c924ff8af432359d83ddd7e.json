@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1303,
+  "EOS_Progressed": 1304,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.37,
   "EosHistory": [
@@ -3164,6 +3164,11 @@
       "Time": "2024-01-14T15:09:47.2709229+00:00",
       "NumProgressed": 1303,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2024-01-14T17:09:52.2466604+00:00",
+      "NumProgressed": 1304,
+      "NumCompleted": 57
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3192,7 +3197,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -3232,7 +3237,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -3255,14 +3260,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1303,
+      "Progressed": 1304,
       "Completed": 57
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:09:53.2875084+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:09:52.2466602+00:00",
   "LastUpdate_AppInfo": "2024-01-12T21:56:57.7226095+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:20.8453379+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:09:53.2875288+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:23.6712469+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:09:52.2466859+00:00"
 }

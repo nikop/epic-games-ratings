@@ -6,25 +6,25 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,328 |
-| Incurious | 18.00% | ~122,521 |
-| Climate Change | 17.00% | ~115,714 |
-| Stroller | 16.00% | ~108,908 |
-| Advanced Hiker | 14.00% | ~95,294 |
-| Toy Train | 14.00% | ~95,294 |
-| Hiker | 12.00% | ~81,681 |
-| Mojave Courier | 6.00% | ~40,840 |
-| Saved by Nausicaä | 6.00% | ~40,840 |
-| Voyager | 4.00% | ~27,227 |
-| Advanced Voyager | 4.00% | ~27,227 |
-| Expert Stroller | 4.00% | ~27,227 |
-| Orient Express | 4.00% | ~27,227 |
-| Marathon | 3.00% | ~20,420 |
-| Destructionist | 3.00% | ~20,420 |
-| Expert Hiker | 2.00% | ~13,613 |
-| Lost | 2.00% | ~13,613 |
-| Rocketman | 0.80% | ~5,445 |
-| Shopaholic | 0.80% | ~5,445 |
+| Advanced Stroller | 19.00% | ~129,331 |
+| Incurious | 18.00% | ~122,525 |
+| Climate Change | 17.00% | ~115,718 |
+| Stroller | 16.00% | ~108,911 |
+| Advanced Hiker | 14.00% | ~95,297 |
+| Toy Train | 14.00% | ~95,297 |
+| Hiker | 12.00% | ~81,683 |
+| Mojave Courier | 6.00% | ~40,842 |
+| Saved by Nausicaä | 6.00% | ~40,842 |
+| Voyager | 4.00% | ~27,228 |
+| Advanced Voyager | 4.00% | ~27,228 |
+| Expert Stroller | 4.00% | ~27,228 |
+| Orient Express | 4.00% | ~27,228 |
+| Marathon | 3.00% | ~20,421 |
+| Destructionist | 3.00% | ~20,421 |
+| Expert Hiker | 2.00% | ~13,614 |
+| Lost | 2.00% | ~13,614 |
+| Rocketman | 0.80% | ~5,446 |
+| Shopaholic | 0.80% | ~5,446 |
 | Expert Voyager | 0.70% | ~4,765 |
 | Nanuk | 0.70% | ~4,765 |
 | Dynamite Fishing | 0.70% | ~4,765 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~681 |
 | 20 Miles under the Sea | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,673 (Ranked 30)  
+Progressed: 680,692 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 15 (0.00%) (Ranked 400)
 | 2024-01-11 | 679,830 | 15 |
 | 2024-01-12 | 680,110 | 15 |
 | 2024-01-13 | 680,444 | 15 |
-| 2024-01-14 | 680,673 | 15 |
+| 2024-01-14 | 680,692 | 15 |
 ## Awards
 Max (Great for Beginners): 211  (Ranked 296)  
 Sum: 1,639 (Ranked 237)  

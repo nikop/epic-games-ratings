@@ -24,7 +24,7 @@
 | Irene Court-Smyth | 35.00% | ~40 |
 | Ms. Camilla B. Culsham | 34.00% | ~38 |
 | An odd series of events | 33.00% | ~37 |
-| The Apartment | 32.00% | ~36 |
+| The Apartment | 33.00% | ~37 |
 | Nathaniel Dryden | 30.00% | ~34 |
 | A rude awakening | 29.00% | ~33 |
 | Bartholomew | 29.00% | ~33 |

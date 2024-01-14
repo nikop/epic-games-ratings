@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25141,
+  "EOS_Progressed": 25142,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -9181,6 +9181,11 @@
       "Time": "2024-01-14T16:08:57.8630382+00:00",
       "NumProgressed": 25141,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-14T17:08:56.4428658+00:00",
+      "NumProgressed": 25142,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9240,7 +9245,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -9320,7 +9325,7 @@
       "Name": "First Bounty Down",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -9352,7 +9357,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -9543,13 +9548,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25141,
+      "Progressed": 25142,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2434,
+      "Progressed": 2435,
       "Completed": 1376
     }
   ],
@@ -9557,8 +9562,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:08:57.8630379+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:08:56.4428655+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:12.7460133+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:57:48.5268147+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:08:57.8630986+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:57:51.4088231+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:08:56.4429275+00:00"
 }

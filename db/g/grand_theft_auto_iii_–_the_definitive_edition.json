@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12316,
+  "EOS_Progressed": 12317,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15769,6 +15769,11 @@
       "Time": "2024-01-14T16:05:14.2263037+00:00",
       "NumProgressed": 12316,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-14T17:05:14.0944982+00:00",
+      "NumProgressed": 12317,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15780,7 +15785,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10222
+      "UsersEstimate": 10223
     },
     {
       "ID": "ACH02",
@@ -15804,7 +15809,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4803
+      "UsersEstimate": 4804
     },
     {
       "ID": "ACH05",
@@ -15812,7 +15817,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH06",
@@ -15940,7 +15945,7 @@
       "Name": "Splish Splash",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH22",
@@ -16011,7 +16016,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12316,
+      "Progressed": 12317,
       "Completed": 91
     }
   ],
@@ -16019,8 +16024,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:05:14.2263036+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:05:14.0944977+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:59:44.2814949+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:05:14.2263905+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:59:44.5794633+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:05:14.0945969+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 953,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -2306,6 +2306,11 @@
       "Time": "2024-01-14T13:13:15.106161+00:00",
       "NumProgressed": 952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T17:09:46.1352425+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2331,9 +2336,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2341,7 +2346,7 @@
       "Name": "Challenge Mastered",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHV_CITY",
@@ -2349,7 +2354,7 @@
       "Name": "The City",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -2483,9 +2488,9 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 295
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -2493,7 +2498,7 @@
       "Name": "Terminated II",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2501,7 +2506,7 @@
       "Name": "Terminated III",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -2548,13 +2553,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 378,
+      "Progressed": 379,
       "Completed": 3
     }
   ],
@@ -2562,8 +2567,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:09:47.1888073+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:09:46.1352423+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:57:56.167656+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:09:47.1888465+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:57:59.446773+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:09:46.1352767+00:00"
 }

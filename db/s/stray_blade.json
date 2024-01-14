@@ -826,9 +826,9 @@
       "ID": "ACH_BOJI_SKILLTREE_PROGRESSION_100",
       "SetID": "7i20me3",
       "Name": "Sponsor",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CRAFT_15_WEAPONS",
@@ -938,25 +938,25 @@
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BATTLEFIELDS",
       "SetID": "7i20me3",
       "Name": "Explorer by Heart",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_BEAR",
       "SetID": "7i20me3",
       "Name": "Mountain Lover",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_LIZARD",
       "SetID": "7i20me3",
       "Name": "Wasteland Connoisseur",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_COLLECTIBLES_STAG",
@@ -970,9 +970,9 @@
       "ID": "ACH_FIND_ALL_COLORS",
       "SetID": "7i20me3",
       "Name": "Fashionista",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_ELESSINE_SCHEMATICS",
@@ -986,9 +986,9 @@
       "ID": "ACH_FIND_ALL_LORE_TABLETS",
       "SetID": "7i20me3",
       "Name": "Knowledge is King",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_PLANT_TYPES",
@@ -1018,9 +1018,9 @@
       "ID": "ACH_FIND_ALL_STORY_NOTES",
       "SetID": "7i20me3",
       "Name": "Bookworm",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_FIND_ALL_SUBREGION_MURALS_BEAR",
@@ -1162,17 +1162,17 @@
       "ID": "ACH_UNLOCK_ABILITY_INTIUM",
       "SetID": "7i20me3",
       "Name": "The Golden Flash",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_MANNINITE",
       "SetID": "7i20me3",
       "Name": "The Power of the Mountains",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_UNLOCK_ABILITY_XHINNON",
@@ -1249,8 +1249,8 @@
   "FirstSeenRating": "2023-04-20T22:59:51.7384598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.6797117+00:00",
   "LastChanged": "2023-04-20T22:59:51.7384599+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:10:09.3719428+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:10:08.5140572+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:36.1035402+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:02:49.6974156+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:10:09.3719941+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:02:47.3215686+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:10:08.5141122+00:00"
 }

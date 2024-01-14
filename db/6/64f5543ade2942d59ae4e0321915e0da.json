@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -1999,6 +1999,11 @@
       "Time": "2024-01-14T15:06:15.3237673+00:00",
       "NumProgressed": 516,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T17:08:05.3987633+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2027,7 +2032,7 @@
       "Name": "Bowels",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_ALL_RECIPES",
@@ -2035,7 +2040,7 @@
       "Name": "Cookbook",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -2083,7 +2088,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "AC_BOSS_01",
@@ -2107,7 +2112,7 @@
       "Name": "Sacrilege",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AC_BOSS_04",
@@ -2211,7 +2216,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2251,7 +2256,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2299,7 +2304,7 @@
       "Name": "Cheff",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -2315,7 +2320,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2323,7 +2328,7 @@
       "Name": "Shot",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2331,7 +2336,7 @@
       "Name": "Crosshair",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2339,21 +2344,21 @@
       "Name": "Machine",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:06:25.8860264+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:08:05.3987629+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:09.1512348+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:06:25.886081+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:12.2776187+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:08:05.3987987+00:00"
 }

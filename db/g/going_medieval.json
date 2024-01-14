@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1697,7 +1697,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 7947,
+  "EOS_Progressed": 7948,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -16807,6 +16807,11 @@
       "Time": "2024-01-14T16:04:02.5516762+00:00",
       "NumProgressed": 7947,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-14T17:04:01.2222543+00:00",
+      "NumProgressed": 7948,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16850,7 +16855,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5404
+      "UsersEstimate": 5405
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -16866,7 +16871,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -16874,7 +16879,7 @@
       "Name": "A Party Now",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "HUNT_DEER_20",
@@ -16930,7 +16935,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -16962,7 +16967,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -16978,7 +16983,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -16986,7 +16991,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3417
+      "UsersEstimate": 3418
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -17010,7 +17015,7 @@
       "Name": "All Year Round",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -17018,7 +17023,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4450
+      "UsersEstimate": 4451
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -17026,7 +17031,7 @@
       "Name": "Novice Researcher",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5404
+      "UsersEstimate": 5405
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17034,7 +17039,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3577
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -17050,7 +17055,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17065,15 +17070,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7947,
+      "Progressed": 7948,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-14T12:00:22.1691049+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:04:02.5516758+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:04:01.2222541+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:57:07.0107187+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:04:02.5517627+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:57:10.7395001+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:04:01.2223257+00:00"
 }

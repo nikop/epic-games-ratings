@@ -8,9 +8,9 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~107 |
 | Best Buddy | 37.00% | ~90 |
-| Civilian | 36.00% | ~87 |
-| Role Model | 33.00% | ~80 |
-| Creator | 31.00% | ~75 |
+| Civilian | 36.00% | ~88 |
+| Role Model | 33.00% | ~81 |
+| Creator | 32.00% | ~78 |
 | Military Leader | 28.00% | ~68 |
 | Festival-goer | 28.00% | ~68 |
 | Peddler | 25.00% | ~61 |
@@ -23,18 +23,18 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 14.00% | ~34 |
 | Storyteller | 13.00% | ~32 |
 | Berserker | 13.00% | ~32 |
-| Alb | 12.00% | ~29 |
 | Globetrotter | 11.00% | ~27 |
+| Alb | 11.00% | ~27 |
 | Hunter | 10.00% | ~24 |
 | Perfectionist | 9.00% | ~22 |
 | Lover | 9.00% | ~22 |
-| Beam Me Up | 8.00% | ~19 |
+| Beam Me Up | 8.00% | ~20 |
+| Free as a Bird | 8.00% | ~20 |
 | Treasure Hunter | 7.00% | ~17 |
 | Hotshot | 7.00% | ~17 |
-| Free as a Bird | 7.00% | ~17 |
 | Detective | 7.00% | ~17 |
+| Weaponsmith | 6.00% | ~15 |
 | Cleric | 6.00% | ~15 |
-| Weaponsmith | 5.00% | ~12 |
 | Alchemist | 5.00% | ~12 |
 | Unbreakable | 4.00% | ~10 |
 | Self-Sufficient | 3.00% | ~7 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 422)  
+Progressed: 244 (Ranked 422)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 235 | 0 |
 | 2024-01-12 | 239 | 0 |
 | 2024-01-13 | 242 | 0 |
-| 2024-01-14 | 243 | 0 |
+| 2024-01-14 | 244 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

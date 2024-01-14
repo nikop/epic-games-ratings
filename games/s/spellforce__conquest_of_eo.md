@@ -12,7 +12,7 @@
 | Expansion | 56.00% | ~81 |
 | Mine! | 54.00% | ~78 |
 | Harvest Time | 53.00% | ~76 |
-| Artificer's Apprentice | 43.00% | ~62 |
+| Artificer's Apprentice | 44.00% | ~63 |
 | Fly the friendly Sky | 42.00% | ~60 |
 | Get out of here! | 40.00% | ~58 |
 | Necromancer's Apprentice | 37.00% | ~53 |

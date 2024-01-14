@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -411,7 +411,7 @@
   ],
   "EOS_Progressed": 1949,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3691,9 +3691,9 @@
       "ID": "ACHIEVEMENTS_02",
       "SetID": "d4o538a",
       "Name": "Great Doctor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 974
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3996,8 +3996,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-11T09:59:14.3189006+00:00",
-  "LastChanged_Achievements": "2024-01-14T15:06:23.6312882+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:03:28.9141141+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3466172+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:57:29.4162652+00:00",
-  "LastUpdate_Achievements": "2024-01-14T15:06:23.631337+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:57:33.8164218+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:03:28.9142167+00:00"
 }

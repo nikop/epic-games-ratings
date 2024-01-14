@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5421,
+  "EOS_Progressed": 5422,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5280,6 +5280,11 @@
       "Time": "2024-01-14T14:05:58.9300892+00:00",
       "NumProgressed": 5421,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-14T17:07:58.3484865+00:00",
+      "NumProgressed": 5422,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5347,7 +5352,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5096
+      "UsersEstimate": 5097
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5355,7 +5360,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5483,7 +5488,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5499,7 +5504,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -5507,7 +5512,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4120
+      "UsersEstimate": 4121
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5515,7 +5520,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5539,7 +5544,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2928
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5555,7 +5560,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5635,7 +5640,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5819,22 +5824,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5421,
+      "Progressed": 5422,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:06:18.9484067+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:07:58.3484858+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:02:46.2126764+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:06:18.9484952+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:02:43.9129688+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:07:58.3485756+00:00"
 }

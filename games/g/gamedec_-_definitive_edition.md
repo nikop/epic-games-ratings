@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,771 |
-| Powergamer | 27.00% | ~69,614 |
-| Write that down | 25.00% | ~64,458 |
-| Barely scratched the surface | 25.00% | ~64,458 |
-| Guns, lots of guns | 13.00% | ~33,518 |
-| Collector | 12.00% | ~30,940 |
+| I will finish what you started | 29.00% | ~74,773 |
+| Powergamer | 27.00% | ~69,616 |
+| Write that down | 25.00% | ~64,460 |
+| Barely scratched the surface | 25.00% | ~64,460 |
+| Guns, lots of guns | 13.00% | ~33,519 |
+| Collector | 12.00% | ~30,941 |
 | Elementary! | 9.00% | ~23,205 |
-| Griever | 8.00% | ~20,626 |
-| Pumpkin Jack | 8.00% | ~20,626 |
-| Wake up! | 8.00% | ~20,626 |
-| It's honest work | 7.00% | ~18,048 |
+| Griever | 8.00% | ~20,627 |
+| Pumpkin Jack | 8.00% | ~20,627 |
+| Wake up! | 8.00% | ~20,627 |
+| It's honest work | 7.00% | ~18,049 |
 | Me smart | 6.00% | ~15,470 |
 | Trash compactor | 6.00% | ~15,470 |
 | Valedictorian | 6.00% | ~15,470 |
 | Good listener | 5.00% | ~12,892 |
-| BOY! | 4.00% | ~10,313 |
-| Ka-ching! | 4.00% | ~10,313 |
-| So you like to read? | 4.00% | ~10,313 |
+| BOY! | 4.00% | ~10,314 |
+| Ka-ching! | 4.00% | ~10,314 |
+| So you like to read? | 4.00% | ~10,314 |
 | Hoarder | 3.00% | ~7,735 |
 | I like to sniff around | 3.00% | ~7,735 |
 | Mind reader | 3.00% | ~7,735 |
@@ -43,7 +43,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,578 |
 | Take the blue pill | 1.00% | ~2,578 |
 | The power of three | 1.00% | ~2,578 |
-| Let's try another | 0.90% | ~2,320 |
+| Let's try another | 0.90% | ~2,321 |
 | It's blue, always blue | 0.80% | ~2,063 |
 | Home run | 0.80% | ~2,063 |
 | I have the high ground | 0.70% | ~1,805 |
@@ -52,14 +52,14 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~1,031 |
 | LET ME OUT! | 0.40% | ~1,031 |
 | Un-bear-able | 0.40% | ~1,031 |
-| Well-deserved reunion | 0.30% | ~773 |
+| Well-deserved reunion | 0.30% | ~774 |
 | Breaking the chains | 0.20% | ~516 |
 | Aren't you overthinking? | 0.20% | ~516 |
 | Take the red pill | 0.20% | ~516 |
 | This is the way | 0.20% | ~516 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257,831 (Ranked 69)  
+Progressed: 257,838 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 8 (0.00%) (Ranked 400)
 | 2024-01-11 | 257,575 | 8 |
 | 2024-01-12 | 257,650 | 8 |
 | 2024-01-13 | 257,769 | 8 |
-| 2024-01-14 | 257,831 | 8 |
+| 2024-01-14 | 257,838 | 8 |
 ## Awards
 Max (Character Customization): 98  (Ranked 385)  
 Sum: 98 (Ranked 474)  

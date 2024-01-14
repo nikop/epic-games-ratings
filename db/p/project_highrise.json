@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -1765,6 +1765,11 @@
       "Time": "2024-01-14T15:06:29.1386692+00:00",
       "NumProgressed": 529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T17:08:17.2990902+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1808,7 +1813,7 @@
       "Name": "Floor Galore",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ach_area_1",
@@ -1864,7 +1869,7 @@
       "Name": "Campaign Launch",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach_campaigns_1",
@@ -1920,15 +1925,15 @@
       "Name": "Upgrade Unlock",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ach_consultants_a",
       "SetID": "b8gh1fi",
       "Name": "Aestheticly Pleased",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_consultants_b",
@@ -2128,7 +2133,7 @@
       "Name": "Rehab Expert",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_happy",
@@ -2176,7 +2181,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ach_office_2",
@@ -2198,9 +2203,9 @@
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_pop_2",
@@ -2216,7 +2221,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_prestige_2",
@@ -2224,7 +2229,7 @@
       "Name": "Established Fame",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_prestige_3",
@@ -2278,9 +2283,9 @@
       "ID": "ach_restaurants_1",
       "SetID": "b8gh1fi",
       "Name": "Refined Palates",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_restaurants_2",
@@ -2296,7 +2301,7 @@
       "Name": "Dinner Dash",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach_restaurants_4",
@@ -2304,7 +2309,7 @@
       "Name": "Potent Potables",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_restaurants_5",
@@ -2312,7 +2317,7 @@
       "Name": "Starred Dining",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_retail_1",
@@ -2400,7 +2405,7 @@
       "Name": "Smooth Service",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach_trash_1",
@@ -2479,7 +2484,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 0
     }
   ],
@@ -2487,8 +2492,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:08:19.2432063+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:08:17.29909+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:27.1936079+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:02:41.7600377+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:08:19.2432982+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:02:39.4327957+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:08:17.2991925+00:00"
 }

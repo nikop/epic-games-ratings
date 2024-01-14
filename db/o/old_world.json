@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2206,10 +2206,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1928,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-14T16:59:39.704347+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1930,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1928,
+  "NumberOfAwards": 1930,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2217,7 +2223,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 224
+      "Count": 226
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2286,9 +2292,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16788,
+  "EOS_Progressed": 16795,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19996,6 +20002,11 @@
       "Time": "2024-01-14T16:10:18.7657848+00:00",
       "NumProgressed": 16788,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T17:10:18.2146442+00:00",
+      "NumProgressed": 16795,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20469,9 +20480,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GREAT",
       "SetID": "7l38kb8",
       "Name": "Great",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
@@ -20917,17 +20928,17 @@
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
       "SetID": "9201eeb",
       "Name": "Friendly Family",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
       "SetID": "9201eeb",
       "Name": "Furious Family",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_FERTILE_CRESCENT",
@@ -21461,9 +21472,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -21685,9 +21696,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 50
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -21829,9 +21840,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_EGYPT",
       "SetID": "7l38kb8",
       "Name": "Egyptian Paganism",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 336
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
@@ -21989,9 +22000,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -22870,21 +22881,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16788,
+      "Progressed": 16795,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16788,
+      "Progressed": 16795,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-14T13:59:32.1092112+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:10:18.7657846+00:00",
+  "LastChanged": "2024-01-14T16:59:39.7043466+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:10:18.214644+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:59:41.1343701+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:10:18.7668394+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:59:39.7043474+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:10:18.2156218+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,7 +427,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1730,
+  "EOS_Progressed": 1731,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
@@ -4647,6 +4647,11 @@
       "Time": "2024-01-14T15:09:59.4293135+00:00",
       "NumProgressed": 1730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T17:10:04.424486+00:00",
+      "NumProgressed": 1731,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4714,7 +4719,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "EXPERT_1",
@@ -4810,7 +4815,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4818,7 +4823,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "PACIFIST",
@@ -4850,7 +4855,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RELICTS",
@@ -4922,7 +4927,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WANDERER_1",
@@ -4945,15 +4950,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1730,
+      "Progressed": 1731,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:10:05.4158511+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:10:04.4244858+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:51.1057577+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:10:05.4158947+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:52.6557539+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:10:04.424535+00:00"
 }

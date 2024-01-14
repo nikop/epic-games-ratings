@@ -12,7 +12,7 @@ Rating: 4.76 (Ranked 135)
 | The Hellwoods | 77.00% | ~588 |
 | The Plains of Strothalm | 73.00% | ~557 |
 | Experienced Thalya | 72.00% | ~549 |
-| Bad Elves Go Everywhere | 69.00% | ~526 |
+| Bad Elves Go Everywhere | 70.00% | ~534 |
 | Thalya's Concentrated Fury | 68.00% | ~519 |
 | Heroes’ Gorge | 66.00% | ~504 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~481 |
@@ -45,8 +45,8 @@ Rating: 4.76 (Ranked 135)
 | Hungry, Hungry Gorgu! | 29.00% | ~221 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~221 |
 | Sabotage! | 29.00% | ~221 |
+| Raiders of the Lost Stone | 29.00% | ~221 |
 | Stop Tanos! | 28.00% | ~214 |
-| Raiders of the Lost Stone | 28.00% | ~214 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~214 |
 | Bonus Evilness | 27.00% | ~206 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~206 |
@@ -67,7 +67,7 @@ Rating: 4.76 (Ranked 135)
 | No Mana, No Cry | 11.00% | ~84 |
 | I Don't Need Any Help | 11.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763 (Ranked 319)  
+Progressed: 763 (Ranked 320)  
 Completed: 32 (4.19%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

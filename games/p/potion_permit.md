@@ -9,7 +9,7 @@ Rating: 3.85 (Ranked 1,080)
 | The First Step | 87.00% | ~1,696 |
 | Moonbury Traveller | 62.00% | ~1,208 |
 | Rookie Chemist | 60.00% | ~1,169 |
-| Great Doctor | 49.00% | ~955 |
+| Great Doctor | 50.00% | ~974 |
 | Dog Whisperer | 47.00% | ~916 |
 | Friendly | 46.00% | ~897 |
 | The Capitalist | 43.00% | ~838 |

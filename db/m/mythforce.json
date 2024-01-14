@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -860,9 +860,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6335,
+  "EOS_Progressed": 6336,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13220,6 +13220,11 @@
       "Time": "2024-01-14T16:04:58.7942532+00:00",
       "NumProgressed": 6335,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T17:04:58.5255018+00:00",
+      "NumProgressed": 6336,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13280,7 +13285,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13360,7 +13365,7 @@
       "Name": "On this Episode!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -13415,15 +13420,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6335,
+      "Progressed": 6336,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T01:56:35.1882599+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:04:58.7942529+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:04:58.5255015+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:59:03.6773179+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:04:58.7943289+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:59:03.9969094+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:04:58.5255713+00:00"
 }

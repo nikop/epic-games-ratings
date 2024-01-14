@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 157,
@@ -2473,9 +2473,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19550,
+  "EOS_Progressed": 19551,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20388,6 +20388,11 @@
       "Time": "2024-01-14T16:10:06.3812784+00:00",
       "NumProgressed": 19550,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T17:10:05.6870738+00:00",
+      "NumProgressed": 19551,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20447,7 +20452,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "ACH08",
@@ -20455,7 +20460,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9775
+      "UsersEstimate": 9776
     },
     {
       "ID": "ACH09",
@@ -20463,7 +20468,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH10",
@@ -20503,7 +20508,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2151
     },
     {
       "ID": "ACH15",
@@ -20527,7 +20532,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH18",
@@ -20623,7 +20628,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "ACH30",
@@ -20678,7 +20683,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19550,
+      "Progressed": 19551,
       "Completed": 77
     }
   ],
@@ -20686,8 +20691,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-14T16:02:57.8703165+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:10:06.3812782+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:10:05.6870736+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:02:57.870317+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:10:06.3813664+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:02:55.6207455+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:10:05.6871801+00:00"
 }

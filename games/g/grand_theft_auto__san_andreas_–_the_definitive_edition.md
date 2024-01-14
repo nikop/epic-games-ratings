@@ -1,19 +1,19 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.55 (Ranked 530)  
+Rating: 4.55 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting Started | 81.00% | ~15,836 |
-| Pay 'n' Spray | 50.00% | ~9,775 |
+| Pay 'n' Spray | 50.00% | ~9,776 |
 | All Dressed Up for San Fierro | 25.00% | ~4,888 |
-| The American Dream | 19.00% | ~3,714 |
+| The American Dream | 19.00% | ~3,715 |
 | School's Out | 18.00% | ~3,519 |
 | Smooth Moves | 17.00% | ~3,324 |
-| Today Was a Good Day | 15.00% | ~2,932 |
+| Today Was a Good Day | 15.00% | ~2,933 |
 | What happens in Las Venturas... | 14.00% | ~2,737 |
-| Horror of the Santa Maria | 11.00% | ~2,150 |
+| Horror of the Santa Maria | 11.00% | ~2,151 |
 | Liberty City State of Mind | 9.00% | ~1,760 |
 | Original Gangster | 8.00% | ~1,564 |
 | With Extra Dip | 7.00% | ~1,369 |
@@ -22,8 +22,8 @@ Rating: 4.55 (Ranked 530)
 | They Can’t Stop All of Us | 5.00% | ~978 |
 | Rescue a Kitten Too? | 5.00% | ~978 |
 | What are the Odds | 4.00% | ~782 |
-| Bike or Biker | 3.00% | ~586 |
-| What the City Needs | 3.00% | ~586 |
+| Bike or Biker | 3.00% | ~587 |
+| What the City Needs | 3.00% | ~587 |
 | A Legitimate Business | 2.00% | ~391 |
 | I’ll Have Two Number 9s | 2.00% | ~391 |
 | Who Needs Directions? | 2.00% | ~391 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 530)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,550 (Ranked 157)  
+Progressed: 19,551 (Ranked 157)  
 Completed: 77 (0.39%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 77 (0.39%) (Ranked 245)
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
 | 2024-01-13 | 19,514 | 77 |
-| 2024-01-14 | 19,550 | 77 |
+| 2024-01-14 | 19,551 | 77 |
 ## Awards
 Max (Great Boss Battles): 667  (Ranked 201)  
 Sum: 1,078 (Ranked 270)  

@@ -667,7 +667,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4282,
+  "EOS_Progressed": 4283,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -9702,6 +9702,11 @@
       "Time": "2024-01-14T15:09:41.2239575+00:00",
       "NumProgressed": 4282,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T17:09:46.661801+00:00",
+      "NumProgressed": 4283,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9745,7 +9750,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9753,7 +9758,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9761,7 +9766,7 @@
       "Name": "Fields of Glory",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -9833,7 +9838,7 @@
       "Name": "Gunslinger",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9865,7 +9870,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -9881,7 +9886,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9921,7 +9926,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9961,7 +9966,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10049,7 +10054,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10121,7 +10126,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10280,13 +10285,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4233,
+      "Progressed": 4234,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4282,
+      "Progressed": 4283,
       "Completed": 11
     }
   ],
@@ -10294,8 +10299,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-09T13:14:28.403425+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:09:47.6404335+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:09:46.6618008+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:02:39.4556681+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:09:47.6405208+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:02:37.2447044+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:09:46.6619009+00:00"
 }

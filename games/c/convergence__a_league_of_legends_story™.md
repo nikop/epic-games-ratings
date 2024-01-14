@@ -5,26 +5,26 @@ Rating: 4.68 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~622 |
-| The Mysterious Stranger | 35.00% | ~463 |
-| Rail Rat | 35.00% | ~463 |
-| Immaculate Aim | 29.00% | ~384 |
+| Time Heals All Wounds | 47.00% | ~623 |
+| The Mysterious Stranger | 35.00% | ~464 |
+| Rail Rat | 35.00% | ~464 |
+| Immaculate Aim | 30.00% | ~398 |
 | The Brass Boss | 29.00% | ~384 |
-| Time Flies | 27.00% | ~357 |
-| No, Thanks! | 27.00% | ~357 |
-| The Prince in Heels | 27.00% | ~357 |
-| Honest Mistake | 27.00% | ~357 |
+| Time Flies | 27.00% | ~358 |
+| No, Thanks! | 27.00% | ~358 |
+| The Prince in Heels | 27.00% | ~358 |
 | Make Up For Lost Time | 26.00% | ~344 |
 | The Harder They Fall | 26.00% | ~344 |
+| Honest Mistake | 26.00% | ~344 |
 | Immaculate Aim | 26.00% | ~344 |
+| The Steel Shadow | 25.00% | ~331 |
 | Fast Learner | 25.00% | ~331 |
-| The Steel Shadow | 24.00% | ~318 |
+| Breaking Down Barriers | 24.00% | ~318 |
 | Right On Time | 23.00% | ~305 |
-| Breaking Down Barriers | 23.00% | ~305 |
 | The Wicked Twins | 23.00% | ~305 |
-| Like Clockwork | 22.00% | ~291 |
-| The Betrayer | 22.00% | ~291 |
-| Golem Chaser | 22.00% | ~291 |
+| Like Clockwork | 22.00% | ~292 |
+| The Betrayer | 22.00% | ~292 |
+| Golem Chaser | 22.00% | ~292 |
 | The Loose Cannon | 20.00% | ~265 |
 | Check Your Pulse | 20.00% | ~265 |
 | Street Style | 19.00% | ~252 |
@@ -32,7 +32,7 @@ Rating: 4.68 (Ranked 261)
 | The Family Fortune | 18.00% | ~238 |
 | Whiz Kid | 15.00% | ~199 |
 | Good Neighbor | 15.00% | ~199 |
-| Family Memories | 14.00% | ~185 |
+| Family Memories | 14.00% | ~186 |
 | Chaincrawler Explorer | 13.00% | ~172 |
 | Syron for Hope | 13.00% | ~172 |
 | Ask Questions Later | 13.00% | ~172 |
@@ -47,8 +47,8 @@ Rating: 4.68 (Ranked 261)
 | Corin Goes Home | 8.00% | ~106 |
 | Sartorialist | 8.00% | ~106 |
 | Golem Hunter | 7.00% | ~93 |
-| Clovemary for Remembering | 6.00% | ~79 |
-| Hexlock for Protection | 6.00% | ~79 |
+| Clovemary for Remembering | 6.00% | ~80 |
+| Hexlock for Protection | 6.00% | ~80 |
 | Rungs Was Right | 5.00% | ~66 |
 | Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
@@ -59,7 +59,7 @@ Rating: 4.68 (Ranked 261)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,324 (Ranked 281)  
+Progressed: 1,325 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,7 +234,7 @@ Completed: 8 (0.60%) (Ranked 210)
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
 | 2024-01-13 | 1,319 | 8 |
-| 2024-01-14 | 1,324 | 8 |
+| 2024-01-14 | 1,325 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

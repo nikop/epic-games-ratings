@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -1950,6 +1950,11 @@
       "Time": "2024-01-14T14:05:47.3573784+00:00",
       "NumProgressed": 486,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T17:06:07.3883484+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1962,7 +1967,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -1970,7 +1975,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -1978,7 +1983,7 @@
       "Name": "Scuttled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -2026,7 +2031,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2114,15 +2119,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2130,15 +2135,15 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
       "SetID": "cefn62b",
       "Name": "Die Nasty",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -2152,9 +2157,9 @@
       "ID": "ACH_ENEMY_KILLROBOPREZ",
       "SetID": "cefn62b",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
@@ -2194,7 +2199,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2210,7 +2215,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2266,7 +2271,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2274,22 +2279,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:06:07.2325458+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:06:07.3883481+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:59:05.2579251+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:06:07.2325842+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:59:05.9081074+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:06:07.3883848+00:00"
 }

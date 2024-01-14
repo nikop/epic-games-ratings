@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 580,
+  "Ranking_EOS_NewPlayers": 581,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
@@ -12597,10 +12597,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 16239,
       "NumberOfAwardsMax": 2104
+    },
+    {
+      "Time": "2024-01-14T16:58:39.5009101+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 16242,
+      "NumberOfAwardsMax": 2104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16239,
+  "NumberOfAwards": 16242,
   "NumberOfAwardsMax": 2104,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -12614,7 +12620,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1978
+      "Count": 1981
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12682,8 +12688,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-01-14T15:58:36.5523415+00:00",
+  "LastChanged": "2024-01-14T16:58:39.50091+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:52.3527903+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:36.552342+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:05:33.0235743+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:39.5009105+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:05:33.1511139+00:00"
 }

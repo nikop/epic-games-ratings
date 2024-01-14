@@ -8,14 +8,14 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~457 |
 | First of many… | 68.00% | ~403 |
-| Helping Hand | 64.00% | ~380 |
+| Helping Hand | 65.00% | ~385 |
 | Increased Vigor | 60.00% | ~356 |
 | Fight Fire with Fire | 59.00% | ~350 |
 | Increased Capacity | 55.00% | ~326 |
 | Just the start | 50.00% | ~296 |
 | Perfect Storm | 47.00% | ~279 |
 | All That Glitters | 46.00% | ~273 |
-| Enhance! | 42.00% | ~249 |
+| Enhance! | 43.00% | ~255 |
 | One Of the Chosen | 41.00% | ~243 |
 | Devil's in the Details | 40.00% | ~237 |
 | Throne Potato | 40.00% | ~237 |

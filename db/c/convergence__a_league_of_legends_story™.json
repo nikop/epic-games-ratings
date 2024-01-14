@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1324,
+  "EOS_Progressed": 1325,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4030,6 +4030,11 @@
       "Time": "2024-01-14T16:10:14.9916868+00:00",
       "NumProgressed": 1324,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T17:10:14.0536212+00:00",
+      "NumProgressed": 1325,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4047,9 +4052,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 331
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4089,7 +4094,7 @@
       "Name": "Like Clockwork",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ClovemaryGift",
@@ -4097,7 +4102,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CosmeticCompletion1",
@@ -4137,7 +4142,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "FactorywoodChests1",
@@ -4161,7 +4166,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4169,7 +4174,7 @@
       "Name": "The Betrayer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4201,7 +4206,7 @@
       "Name": "Rail Rat",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "HexlockGift",
@@ -4209,7 +4214,7 @@
       "Name": "Hexlock for Protection",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "InxChromaInTheatre",
@@ -4281,7 +4286,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ParryBoss",
@@ -4297,15 +4302,15 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 318
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4321,7 +4326,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "RewindDamage1",
@@ -4329,15 +4334,15 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 357
+      "UsersEstimate": 344
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4353,7 +4358,7 @@
       "Name": "Golem Chaser",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "SkillCompletion1",
@@ -4415,9 +4420,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 398
     },
     {
       "ID": "WarwickDefeated",
@@ -4464,7 +4469,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1324,
+      "Progressed": 1325,
       "Completed": 8
     }
   ],
@@ -4472,8 +4477,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:10:14.9916865+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:10:14.053621+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:27.6984402+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:10:14.9917317+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:30.8967301+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:10:14.0536955+00:00"
 }

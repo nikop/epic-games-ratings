@@ -29,6 +29,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 4.00% | ~831 |
 | A Real Challenge | 4.00% | ~831 |
 | Trade Baron | 4.00% | ~831 |
+| Untamed Wilds | 4.00% | ~831 |
 | Bandit Camp | 3.00% | ~623 |
 | Barren Lands | 3.00% | ~623 |
 | Ancient Battleground | 3.00% | ~623 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 3.00% | ~623 |
 | Corrosive Torrent | 3.00% | ~623 |
 | Cursed Lands | 3.00% | ~623 |
-| Untamed Wilds | 3.00% | ~623 |
 | Serving Ale | 2.00% | ~416 |
 | Refinery | 2.00% | ~416 |
 | Against All Odds | 2.00% | ~416 |

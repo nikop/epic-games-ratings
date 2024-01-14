@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -14329,10 +14329,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64606,
       "NumberOfAwardsMax": 7836
+    },
+    {
+      "Time": "2024-01-14T16:59:32.6179751+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64617,
+      "NumberOfAwardsMax": 7836
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64606,
+  "NumberOfAwards": 64617,
   "NumberOfAwardsMax": 7836,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14340,7 +14346,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7508
+      "Count": 7519
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14403,9 +14409,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 498861,
+  "EOS_Progressed": 498914,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4488,
+  "EOS_NewPlayers": 4482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45473,6 +45479,11 @@
       "Time": "2024-01-14T16:10:19.3703164+00:00",
       "NumProgressed": 498861,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T17:10:18.6735939+00:00",
+      "NumProgressed": 498914,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45924,7 +45935,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -46508,7 +46519,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -47484,7 +47495,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -47764,7 +47775,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48180,7 +48191,7 @@
       "Name": "Victorious!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -48387,21 +48398,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 498861,
+      "Progressed": 498914,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 498861,
+      "Progressed": 498914,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-14T08:59:16.5363021+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:10:19.370316+00:00",
+  "LastChanged": "2024-01-14T16:59:32.6179749+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:10:18.6735937+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:59:33.4988725+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:10:19.3713556+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:59:32.6179755+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:10:18.6746534+00:00"
 }

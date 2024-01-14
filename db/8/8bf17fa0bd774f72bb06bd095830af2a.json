@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 474,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -328,9 +328,9 @@
       "ID": "SteamAchievement_WinBattles02",
       "SetID": "b8gj0ip",
       "Name": "General",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SteamAchievements_KillDragons",
@@ -416,9 +416,9 @@
       "ID": "SteamAchievment_CompleteQuest03",
       "SetID": "b8gj0ip",
       "Name": "Cleansing of the Cursed Fountain",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SteamAchievment_CompleteQuest04",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:05:05.0448628+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:05:04.6396455+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.2473353+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:00:12.09564+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:05:05.0448888+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:00:12.0643101+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:05:04.6396836+00:00"
 }

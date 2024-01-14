@@ -5,11 +5,11 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 17.00% | ~1,230 |
+| Secret Technique | 18.00% | ~1,303 |
 | Realm Estate | 16.00% | ~1,158 |
 | A Wonderful Discovery | 15.00% | ~1,086 |
 | Walls Cannot Stop Us | 14.00% | ~1,013 |
-| From Friends to Family | 12.00% | ~868 |
+| From Friends to Family | 12.00% | ~869 |
 | Bone Peddler | 11.00% | ~796 |
 | Magical Synergy | 10.00% | ~724 |
 | Full Ascension | 9.00% | ~651 |
@@ -25,9 +25,9 @@ Rating: 4.63 (Ranked 356)
 | Digging for Treasure | 5.00% | ~362 |
 | My Final Form | 5.00% | ~362 |
 | Against the Odds | 5.00% | ~362 |
-| Preparation Is Everything | 4.00% | ~289 |
-| Fiery Friend | 4.00% | ~289 |
-| Impenetrable Fortress | 4.00% | ~289 |
+| Preparation Is Everything | 4.00% | ~290 |
+| Fiery Friend | 4.00% | ~290 |
+| Impenetrable Fortress | 4.00% | ~290 |
 | Crimson Caldera | 3.00% | ~217 |
 | Here be Dragons | 3.00% | ~217 |
 | Tipping the Scales | 3.00% | ~217 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,237 (Ranked 197)  
+Progressed: 7,238 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
-| 2024-01-14 | 7,237 | 8 |
+| 2024-01-14 | 7,238 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 238 (Ranked 407)  

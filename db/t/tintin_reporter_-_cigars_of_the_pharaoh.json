@@ -692,9 +692,9 @@
       "ID": "Achievement15",
       "SetID": "9fa3l5n",
       "Name": "Just a Palm Tree",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement16",
@@ -860,9 +860,9 @@
       "ID": "Achievement34",
       "SetID": "9fa3l5n",
       "Name": "Cat Lover",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement35",
@@ -924,9 +924,9 @@
       "ID": "Achievement8",
       "SetID": "9fa3l5n",
       "Name": "Dynamite, Treason and Coconuts",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement9",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:04:32.3852635+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:04:31.2809622+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.4986492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:47.2842752+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:04:32.385307+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:49.2473398+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:04:31.2809896+00:00"
 }

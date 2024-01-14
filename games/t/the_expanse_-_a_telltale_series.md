@@ -6,15 +6,15 @@ Rating: 4.54 (Ranked 550)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 18.00% | ~3,421 |
-| Captain Drummer | 16.00% | ~3,040 |
-| Celebrations are in Order | 15.00% | ~2,850 |
-| Martian Music | 14.00% | ~2,660 |
-| Bosmang | 14.00% | ~2,660 |
-| Impossible Objects | 14.00% | ~2,660 |
-| The Pit and the Pirates | 13.00% | ~2,470 |
-| Drone Dodger | 13.00% | ~2,470 |
-| Spore Taste | 12.00% | ~2,280 |
-| Stogie for Fogey | 11.00% | ~2,090 |
+| Captain Drummer | 16.00% | ~3,041 |
+| Celebrations are in Order | 15.00% | ~2,851 |
+| Martian Music | 14.00% | ~2,661 |
+| Bosmang | 14.00% | ~2,661 |
+| Impossible Objects | 14.00% | ~2,661 |
+| The Pit and the Pirates | 13.00% | ~2,471 |
+| Drone Dodger | 13.00% | ~2,471 |
+| Spore Taste | 12.00% | ~2,281 |
+| Stogie for Fogey | 11.00% | ~2,091 |
 | Call it Even | 10.00% | ~1,900 |
 | Safe Cracker | 10.00% | ~496 |
 | Zen Master | 10.00% | ~496 |
@@ -27,7 +27,7 @@ Rating: 4.54 (Ranked 550)
 | Khan's Revenge | 7.00% | ~1,330 |
 | Doctor Approved | 6.00% | ~1,140 |
 | Bottoms up! | 6.00% | ~1,140 |
-| Master Negotiator | 6.00% | ~297 |
+| Master Negotiator | 6.00% | ~298 |
 | Data Logger | 5.00% | ~950 |
 | Miraculous Maya | 5.00% | ~950 |
 | Data Master | 4.00% | ~760 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,003 (Ranked 159)  
+Progressed: 19,005 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 19,003 | 64 |
+| 2024-01-14 | 19,005 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

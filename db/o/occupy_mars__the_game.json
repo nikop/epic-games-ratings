@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1887,
+  "EOS_Progressed": 1888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5059,6 +5059,11 @@
       "Time": "2024-01-13T19:09:39.4085462+00:00",
       "NumProgressed": 1887,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T17:09:40.3552683+00:00",
+      "NumProgressed": 1888,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5166,7 +5171,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -5286,7 +5291,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5366,7 +5371,7 @@
       "Name": "Plumber",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
@@ -5430,7 +5435,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5446,14 +5451,14 @@
       "Name": "To infinity and beyond!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1887,
+      "Progressed": 1888,
       "Completed": 0
     }
   ],
@@ -5461,8 +5466,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-13T15:58:11.9405627+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:09:41.5009628+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:09:40.3552681+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.4882555+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:16.9099152+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:09:41.5010204+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:19.6986556+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:09:40.3553274+00:00"
 }

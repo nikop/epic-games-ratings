@@ -16,40 +16,40 @@
 | Defeat Tezuth | 4.00% | ~7 |
 | Can't touch this | 4.00% | ~7 |
 | Expert | 4.00% | ~7 |
+| The Golden Flash | 4.00% | ~7 |
 | Searing Heat | 3.00% | ~5 |
 | Witch | 3.00% | ~5 |
-| The Golden Flash | 3.00% | ~5 |
+| The Power of the Mountains | 3.00% | ~5 |
 | Defeat Ingla | 2.00% | ~3 |
 | Through Dangers Untold | 2.00% | ~3 |
 | Nothing but the Truth | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | But what of the Acreans? | 2.00% | ~3 |
-| The Power of the Mountains | 2.00% | ~3 |
 | Changing the World | 2.00% | ~3 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
+| Sponsor | 1.00% | ~2 |
 | Defeat Uskol | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Finally! | 1.00% | ~2 |
 | The End | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
-| Sponsor | 0.60% | ~1 |
 | Style over Stats | 0.60% | ~1 |
 | Collector | 0.60% | ~1 |
+| Explorer by Heart | 0.60% | ~1 |
+| Mountain Lover | 0.60% | ~1 |
+| Wasteland Connoisseur | 0.60% | ~1 |
 | Forest Expert | 0.60% | ~1 |
+| Fashionista | 0.60% | ~1 |
 | Ancient Powers | 0.60% | ~1 |
+| Knowledge is King | 0.60% | ~1 |
 | Wizard | 0.60% | ~1 |
+| Bookworm | 0.60% | ~1 |
 | Wayseeker | 0.60% | ~1 |
 | Pathfinder | 0.60% | ~1 |
 | Globetrotter | 0.60% | ~1 |
 | Unveiling the Truth | 0.60% | ~1 |
 | Small Setback | 0.60% | ~1 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
-| Explorer by Heart | 0.00% | ~0 |
-| Mountain Lover | 0.00% | ~0 |
-| Wasteland Connoisseur | 0.00% | ~0 |
-| Fashionista | 0.00% | ~0 |
-| Knowledge is King | 0.00% | ~0 |
-| Bookworm | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 | Mind Over Matter | 0.00% | ~0 |
 | Coming Prepared | 0.00% | ~0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19003,
+  "EOS_Progressed": 19005,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17359,6 +17359,11 @@
       "Time": "2024-01-14T16:04:38.5919932+00:00",
       "NumProgressed": 19003,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-14T17:04:37.4226964+00:00",
+      "NumProgressed": 19005,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17387,7 +17392,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "12",
@@ -17419,7 +17424,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "16",
@@ -17435,7 +17440,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "18",
@@ -17451,7 +17456,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "2",
@@ -17475,7 +17480,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2470
+      "UsersEstimate": 2471
     },
     {
       "ID": "22",
@@ -17523,7 +17528,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "28",
@@ -17547,7 +17552,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "30",
@@ -17579,7 +17584,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "7",
@@ -17603,7 +17608,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "31",
@@ -17635,7 +17640,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "35",
@@ -17650,13 +17655,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19003,
+      "Progressed": 19005,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4957,
+      "Progressed": 4959,
       "Completed": 1318
     }
   ],
@@ -17664,8 +17669,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T16:04:38.5919926+00:00",
+  "LastChanged_Achievements": "2024-01-14T17:04:37.422696+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T15:58:03.8371423+00:00",
-  "LastUpdate_Achievements": "2024-01-14T16:04:38.5920782+00:00"
+  "LastUpdate_Ratings": "2024-01-14T16:58:06.7959334+00:00",
+  "LastUpdate_Achievements": "2024-01-14T17:04:37.422829+00:00"
 }

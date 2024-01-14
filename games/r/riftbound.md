@@ -13,12 +13,12 @@
 | I'm A Wizard | 11.00% | ~5 |
 | Ender Ender | 6.00% | ~3 |
 | Hold The Line | 6.00% | ~3 |
+| Full House | 4.00% | ~2 |
 | Tactical Spectacular | 4.00% | ~2 |
 | Adept Summoner | 2.00% | ~1 |
 | Apprentice Summoner | 2.00% | ~1 |
 | Catch 'em All | 2.00% | ~1 |
 | Challenger, Ready! | 2.00% | ~1 |
-| Full House | 2.00% | ~1 |
 | Over 9000 | 2.00% | ~1 |
 | Undead Slayer | 2.00% | ~1 |
 | Worker Wisp | 2.00% | ~1 |

@@ -13,15 +13,15 @@
 | Do what you have to | 44.00% | ~143 |
 | Sign of weakness | 42.00% | ~137 |
 | Refuse to look | 37.00% | ~121 |
-| Face your fears | 31.00% | ~101 |
+| Face your fears | 32.00% | ~104 |
 | Finished it | 26.00% | ~85 |
 | Whispers long forgotten | 18.00% | ~59 |
 | Sound Bite | 14.00% | ~46 |
 | A Slice of Life | 13.00% | ~42 |
 | Debut | 13.00% | ~42 |
+| Lights! Camera! Action! | 13.00% | ~42 |
 | The art of movement | 13.00% | ~42 |
 | Another perspective | 12.00% | ~39 |
-| Lights! Camera! Action! | 12.00% | ~39 |
 | First steps | 10.00% | ~33 |
 | Playtime | 10.00% | ~33 |
 | The tragedy unfolds | 10.00% | ~33 |
