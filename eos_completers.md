@@ -26,8 +26,8 @@
 | 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 20.00% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.94% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.72% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.92% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.71% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -55,12 +55,12 @@
 | 53 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.59% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.59% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.49% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.48% |
-| 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.47% |
+| 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.40% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.98% |
-| 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.92% |
+| 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.91% |
 | 62 | [Scorn](games/s/scorn.md) | 6.89% |
 | 63 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.76% |
 | 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.73% |
@@ -104,8 +104,8 @@
 | 102 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 103 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.33% |
 | 104 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.25% |
-| 104 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
-| 106 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.24% |
+| 105 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.24% |
+| 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.24% |
 | 107 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.23% |
 | 108 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.21% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
@@ -826,4 +826,4 @@
 | 400 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 400 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 400 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,837 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,838 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
