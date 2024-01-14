@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 518,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2004,6 +2004,11 @@
       "Time": "2024-01-14T17:08:05.3987633+00:00",
       "NumProgressed": 517,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T22:06:38.3320043+00:00",
+      "NumProgressed": 518,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2072,7 +2077,7 @@
       "Name": "Gambler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2184,7 +2189,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2192,7 +2197,7 @@
       "Name": "Psycopath",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2208,7 +2213,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2296,7 +2301,7 @@
       "Name": "Cook",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2351,14 +2356,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 518,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:06:36.6204998+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:06:38.332004+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:58:19.0748828+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:06:36.6205484+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:58:18.7049902+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:06:38.3320468+00:00"
 }

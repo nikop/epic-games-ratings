@@ -13,7 +13,7 @@
 | Chapter 4 | 32.00% | ~15 |
 | All Materials | 32.00% | ~15 |
 | Chapter 5 | 30.00% | ~14 |
-| Chapter 6 | 21.00% | ~10 |
+| Chapter 6 | 23.00% | ~11 |
 | Best Student | 15.00% | ~7 |
 | Food Thief | 13.00% | ~6 |
 | Ads Fan | 11.00% | ~5 |

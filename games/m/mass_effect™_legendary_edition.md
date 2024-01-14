@@ -21,8 +21,8 @@
 | Meritorious Service Medal | 35.00% | ~1,524 |
 | Soldier Ally | 35.00% | ~1,524 |
 | Charismatic | 35.00% | ~1,524 |
+| Very Elusive | 34.00% | ~1,481 |
 | Asari Ally | 33.00% | ~1,437 |
-| Very Elusive | 33.00% | ~1,437 |
 | Colonial Savior | 32.00% | ~1,394 |
 | Medal of Exploration III | 31.00% | ~1,350 |
 | Principled | 31.00% | ~1,350 |
@@ -64,18 +64,18 @@
 | Big Game Hunter | 21.00% | ~915 |
 | Digital Exorcist | 21.00% | ~915 |
 | Focused | 20.00% | ~871 |
+| Completionist | 20.00% | ~871 |
 | Friend or Foe | 20.00% | ~871 |
 | Cat's in the Cradle | 20.00% | ~871 |
 | Doppelganger | 20.00% | ~871 |
 | Mobilizer | 20.00% | ~871 |
 | Untouchable | 19.00% | ~827 |
 | Eye of the Hurricane | 19.00% | ~827 |
-| Completionist | 19.00% | ~827 |
+| Giant Killer | 19.00% | ~827 |
 | Mission Accomplished | 19.00% | ~827 |
 | Suicide Mission | 19.00% | ~827 |
 | Against All Odds | 19.00% | ~827 |
 | Agent | 19.00% | ~827 |
-| Giant Killer | 18.00% | ~784 |
 | First Aid Specialist | 18.00% | ~784 |
 | A House Divided | 18.00% | ~784 |
 | World Shaker | 18.00% | ~784 |
@@ -85,11 +85,11 @@
 | Savior | 16.00% | ~697 |
 | Weapon Specialist | 16.00% | ~697 |
 | Arbiter | 16.00% | ~697 |
+| Paramour II | 15.00% | ~653 |
 | Party Crasher | 15.00% | ~653 |
 | Lost and Found | 15.00% | ~653 |
 | Under Pressure | 14.00% | ~610 |
 | Last Resort | 14.00% | ~610 |
-| Paramour II | 14.00% | ~610 |
 | Hard Target | 14.00% | ~610 |
 | Saboteur | 14.00% | ~610 |
 | Last Witness | 14.00% | ~610 |

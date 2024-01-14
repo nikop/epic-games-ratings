@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
     "PcReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -619,9 +619,9 @@
       "ID": "ACH_AVOID_PLAZA_ATTACK",
       "SetID": "6d82akp",
       "Name": "Excellent Driving Skills",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_AVOID_SNIPER",
@@ -923,9 +923,9 @@
       "ID": "ACH_SURVIVE_OGATA",
       "SetID": "6d82akp",
       "Name": "Fluke",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_UNLOCK_ALL_ANECDOTES",
@@ -1076,8 +1076,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:09:53.0221028+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:09:42.7718683+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.0139311+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:02:41.6027321+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:09:53.0221434+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:02:42.4151848+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:09:42.7719234+00:00"
 }

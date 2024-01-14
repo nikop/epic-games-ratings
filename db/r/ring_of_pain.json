@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242970,
+  "EOS_Progressed": 242973,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31836,6 +31836,11 @@
       "Time": "2024-01-14T21:10:25.0192991+00:00",
       "NumProgressed": 242970,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T22:10:13.960338+00:00",
+      "NumProgressed": 242973,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -32517,9 +32522,9 @@
       "ID": "POISON300",
       "SetID": "5l8oe0h",
       "Name": "Spreading Plague",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1458
     },
     {
       "ID": "POISON30TIMES",
@@ -32903,7 +32908,7 @@
       "Name": "Not Touching You",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -32943,20 +32948,20 @@
       "Name": "Matching",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242970,
+      "Progressed": 242973,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4450,
+      "Progressed": 4453,
       "Completed": 425
     }
   ],
@@ -32964,8 +32969,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:10:25.0192988+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:10:13.9603375+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:00:29.2925051+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:10:25.0195492+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:00:31.8202271+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:10:13.9605846+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5114,9 +5114,9 @@
       "ID": "ML_ACHIEVEMENT_10",
       "SetID": "5k00jcd",
       "Name": "Drift champ",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 39
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5423,8 +5423,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:08:29.3722217+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:08:19.597224+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:02:42.0298396+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:08:29.3722831+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:02:42.9259273+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:08:19.5972935+00:00"
 }

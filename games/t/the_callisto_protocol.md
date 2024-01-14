@@ -5,33 +5,33 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,041 |
-| The Outer Way | 27.00% | ~6,041 |
+| Flesh Wound | 27.00% | ~6,042 |
+| The Outer Way | 27.00% | ~6,042 |
 | Desperate Times | 25.00% | ~5,594 |
-| Paper Jams | 23.00% | ~5,146 |
-| Get a Grip | 22.00% | ~4,922 |
+| Paper Jams | 23.00% | ~5,147 |
+| Get a Grip | 22.00% | ~4,923 |
 | Chew 'Em Up | 21.00% | ~4,699 |
 | Reforged | 20.00% | ~4,475 |
-| Float Like A Butterfly | 18.00% | ~4,027 |
+| Float Like A Butterfly | 18.00% | ~4,028 |
 | Workplace Hazard | 17.00% | ~3,804 |
 | If the SHU Fits... | 17.00% | ~3,804 |
-| Without A Paddle | 15.00% | ~3,356 |
+| Without A Paddle | 15.00% | ~3,357 |
 | In the Pipe, Five by Five | 13.00% | ~2,909 |
 | Crash Site | 13.00% | ~2,909 |
 | Two Heads Are Better Than One | 12.00% | ~2,685 |
 | Power Up | 12.00% | ~2,685 |
+| Giving Back | 11.00% | ~2,461 |
 | Terminated | 11.00% | ~2,461 |
 | What Lies Beneath | 11.00% | ~2,461 |
 | Full Circle | 11.00% | ~2,461 |
-| Giving Back | 10.00% | ~2,237 |
 | You Need a Gun | 9.00% | ~2,014 |
 | I Do Belong Here | 8.00% | ~1,790 |
 | Keep Fighting | 8.00% | ~824 |
-| The Commonality | 6.00% | ~1,342 |
+| The Commonality | 6.00% | ~1,343 |
 | It's Time | 6.00% | ~618 |
 | In Striking Distance | 5.00% | ~1,119 |
 | One Last Job | 3.00% | ~309 |
-| Mugshot | 2.00% | ~447 |
+| Mugshot | 2.00% | ~448 |
 | Big Spender | 2.00% | ~206 |
 | This Isn't About Escape | 2.00% | ~206 |
 | Armed to the Teeth | 1.00% | ~103 |
@@ -41,7 +41,7 @@ Rating: 4.22 (Ranked 954)
 | Parole Denied | 0.90% | ~93 |
 | Quick Pick | 0.80% | ~82 |
 | Subject Alpha | 0.70% | ~72 |
-| The Protocol is About Life | 0.40% | ~89 |
+| The Protocol is About Life | 0.40% | ~90 |
 | Don't Let It Mellow | 0.40% | ~41 |
 | Recidivist | 0.30% | ~31 |
 | Hoard Mode | 0.30% | ~31 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,374 (Ranked 151)  
+Progressed: 22,377 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,18 +314,18 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
-| 2024-01-14 | 22,374 | 82 |
+| 2024-01-14 | 22,377 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
-Sum: 652 (Ranked 319)  
-Diff (max vs sum): 23  
+Sum: 653 (Ranked 318)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 135 |
 | This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 116 |
 | This game has Quickly Understood Controls | 113 |
-| This game has Amazing Storytelling | 112 |
+| This game has Amazing Storytelling | 113 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 54 |
 ## Ratings History
@@ -532,4 +532,4 @@ Diff (max vs sum): 23
 | 2024-01-11 | 4.22 | 131 | 634 |
 | 2024-01-12 | 4.22 | 131 | 641 |
 | 2024-01-13 | 4.22 | 134 | 649 |
-| 2024-01-14 | 4.22 | 135 | 652 |
+| 2024-01-14 | 4.22 | 135 | 653 |

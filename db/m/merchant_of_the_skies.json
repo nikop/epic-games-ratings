@@ -2,10 +2,10 @@
   "ID": "98b14e90cfc24054a301177eec6bc52d",
   "Name": "Merchant of the Skies",
   "ProductSlug": "merchant-of-the-skies",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 500,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 501,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-30T15:00:00+00:00",
@@ -341,8 +341,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:04:06.1802148+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:04:09.5342796+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:56.3166939+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:59:03.5806253+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:04:06.1802232+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:59:03.3355468+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:04:09.534288+00:00"
 }

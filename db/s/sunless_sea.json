@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44259,
+  "EOS_Progressed": 44262,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28433,6 +28433,11 @@
       "Time": "2024-01-14T21:05:08.2537955+00:00",
       "NumProgressed": 44259,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T22:05:10.6289465+00:00",
+      "NumProgressed": 44262,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28460,7 +28465,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7524
+      "UsersEstimate": 7525
     },
     {
       "ID": "ach_antiquarian10",
@@ -28508,7 +28513,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ach_cursestone",
@@ -28532,7 +28537,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ach_deathofermod",
@@ -28564,7 +28569,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15933
+      "UsersEstimate": 15934
     },
     {
       "ID": "ach_die10",
@@ -28612,7 +28617,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ach_invictus",
@@ -28652,7 +28657,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6196
+      "UsersEstimate": 6197
     },
     {
       "ID": "ach_legacysalvager",
@@ -28668,15 +28673,15 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ach_newstories",
       "SetID": "ammcm",
       "Name": "Open Your Ears",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3098
+      "UsersEstimate": 2656
     },
     {
       "ID": "ach_portbell",
@@ -28875,15 +28880,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44259,
+      "Progressed": 44262,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:05:08.253795+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:05:10.628946+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:57:25.9101358+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:05:08.253962+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:57:25.1922+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:05:10.6291601+00:00"
 }

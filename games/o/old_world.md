@@ -10,18 +10,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 4.00% | ~673 |
 | Friendly Family | 4.00% | ~673 |
 | Play a Single Player Game | 4.00% | ~673 |
-| Able | 3.00% | ~504 |
-| Architect | 3.00% | ~504 |
-| Good | 3.00% | ~504 |
-| Intrepid | 3.00% | ~504 |
-| Just | 3.00% | ~504 |
-| Learned | 3.00% | ~504 |
-| Mason | 3.00% | ~504 |
-| Noble | 3.00% | ~504 |
-| Strong | 3.00% | ~504 |
-| Hanging Gardens | 3.00% | ~504 |
-| Oracle | 3.00% | ~504 |
-| Judaism | 3.00% | ~504 |
+| Able | 3.00% | ~505 |
+| Architect | 3.00% | ~505 |
+| Good | 3.00% | ~505 |
+| Intrepid | 3.00% | ~505 |
+| Just | 3.00% | ~505 |
+| Learned | 3.00% | ~505 |
+| Mason | 3.00% | ~505 |
+| Noble | 3.00% | ~505 |
+| Strong | 3.00% | ~505 |
+| Hanging Gardens | 3.00% | ~505 |
+| Oracle | 3.00% | ~505 |
+| Judaism | 3.00% | ~505 |
 | Ambitious | 2.00% | ~336 |
 | Brilliant | 2.00% | ~336 |
 | Enlightened | 2.00% | ~336 |
@@ -75,16 +75,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.90% | ~151 |
 | Champions | 0.90% | ~151 |
 | Temple of Solomon | 0.90% | ~151 |
+| Greece | 0.90% | ~151 |
+| Power to the People | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
 | Points Victory | 0.90% | ~151 |
 | Beloved | 0.80% | ~135 |
 | Patrons | 0.80% | ~135 |
 | Statesmen | 0.80% | ~135 |
-| Greece | 0.80% | ~135 |
-| Power to the People | 0.80% | ~135 |
 | Win a Single Player Game | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
 | Conqueror | 0.70% | ~118 |
+| Subjugator | 0.70% | ~118 |
 | Victorious | 0.70% | ~118 |
 | Landowners | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
-| Subjugator | 0.60% | ~101 |
 | Strong Difficulty | 0.60% | ~101 |
 | Hunters | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,815 (Ranked 169)  
+Progressed: 16,818 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,815 | 5 |
+| 2024-01-14 | 16,818 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,930 (Ranked 223)  

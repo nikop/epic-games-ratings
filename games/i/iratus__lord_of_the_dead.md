@@ -6,26 +6,26 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~41,972 |
+| Improvement | 85.00% | ~41,973 |
 | Blood Moon | 73.00% | ~36,047 |
-| Path of the Necromancer | 65.00% | ~32,096 |
-| Chainbreaker - I | 60.00% | ~29,627 |
-| Cursed Creature | 57.00% | ~28,146 |
-| Extraction | 57.00% | ~28,146 |
+| Path of the Necromancer | 65.00% | ~32,097 |
+| Chainbreaker - I | 60.00% | ~29,628 |
+| Cursed Creature | 57.00% | ~28,147 |
+| Extraction | 57.00% | ~28,147 |
 | Chainbreaker - II | 54.00% | ~26,665 |
 | Necromancer's Apprentice | 50.00% | ~24,690 |
-| Keeper of Keys | 47.00% | ~23,208 |
+| Keeper of Keys | 47.00% | ~23,209 |
 | Distillation | 43.00% | ~21,233 |
-| Transmutation | 42.00% | ~20,739 |
-| Mountain King - I | 41.00% | ~20,245 |
+| Transmutation | 42.00% | ~20,740 |
+| Mountain King - I | 41.00% | ~20,246 |
 | Prepared Necromancer | 40.00% | ~19,752 |
 | Mountain King - II | 39.00% | ~19,258 |
 | Blind Rage | 38.00% | ~18,764 |
 | Mad Genius | 35.00% | ~17,283 |
 | Cannon Fodder - I | 34.00% | ~16,789 |
 | Soul of Lies | 34.00% | ~16,789 |
-| Bane of Mercenaries - I | 32.00% | ~15,801 |
-| Bane of Mercenaries - II | 31.00% | ~15,307 |
+| Bane of Mercenaries - I | 32.00% | ~15,802 |
+| Bane of Mercenaries - II | 31.00% | ~15,308 |
 | Cannon Fodder - II | 29.00% | ~14,320 |
 | Shadow Between Worlds | 29.00% | ~14,320 |
 | Bane of Monsters | 28.00% | ~13,826 |
@@ -34,17 +34,17 @@ Number of Ratings: 10,109  (23.09.2022)
 | Revealed Secrets - II | 25.00% | ~12,345 |
 | Unholy Bones | 23.00% | ~11,357 |
 | Blood Elemental | 23.00% | ~11,357 |
-| Lord of Fire | 22.00% | ~10,863 |
-| Cannon Fodder - III | 22.00% | ~10,863 |
-| Spiritual Attraction | 22.00% | ~10,863 |
-| Uncommon Warrior | 22.00% | ~10,863 |
-| Nightmare of the Humanity - I | 22.00% | ~10,863 |
+| Lord of Fire | 22.00% | ~10,864 |
+| Cannon Fodder - III | 22.00% | ~10,864 |
+| Spiritual Attraction | 22.00% | ~10,864 |
+| Uncommon Warrior | 22.00% | ~10,864 |
+| Nightmare of the Humanity - I | 22.00% | ~10,864 |
 | Nightmare of the Humanity - II | 21.00% | ~10,370 |
 | That Was Easy! | 20.00% | ~9,876 |
 | Silent Waters | 20.00% | ~9,876 |
 | Head of Order | 20.00% | ~9,876 |
 | Calcination | 19.00% | ~9,382 |
-| Blood Mage | 17.00% | ~8,394 |
+| Blood Mage | 17.00% | ~8,395 |
 | Wild Hunger | 16.00% | ~7,901 |
 | Rage Concentrated | 16.00% | ~7,901 |
 | Mountain King - III | 15.00% | ~7,407 |
@@ -53,7 +53,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Madness | 13.00% | ~6,419 |
 | First Sacrifice | 13.00% | ~6,419 |
 | Master of Alchemy | 13.00% | ~6,419 |
-| Legendary Warrior | 12.00% | ~5,925 |
+| Legendary Warrior | 12.00% | ~5,926 |
 | Bane of Mercenaries - III | 10.00% | ~4,938 |
 | Ancient Burial | 10.00% | ~4,938 |
 | More Mortal Suffering! | 9.00% | ~4,444 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~247 |
 | Renowned Researcher | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,379 (Ranked 125)  
+Progressed: 49,380 (Ranked 125)  
 Completed: 26 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,16 +351,16 @@ Completed: 26 (0.05%) (Ranked 341)
 | 2024-01-11 | 49,175 | 26 |
 | 2024-01-12 | 49,234 | 26 |
 | 2024-01-13 | 49,316 | 26 |
-| 2024-01-14 | 49,379 | 26 |
+| 2024-01-14 | 49,380 | 26 |
 ## Awards
 Max (Character Customization): 2,167  (Ranked 116)  
-Sum: 4,228 (Ranked 163)  
+Sum: 4,229 (Ranked 163)  
 Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 2,167 |
 | This game is Highly Recommended | 231 |
-| This game has Amazing Storytelling | 227 |
+| This game has Amazing Storytelling | 228 |
 | This game is Relaxing | 227 |
 | This game has Challenging Combat | 223 |
 | This game has Diverse Characters | 221 |
@@ -525,4 +525,4 @@ Diff (max vs sum): -47
 | 2024-01-05 | 4.37 | - | 2,166 | 4,224 |
 | 2024-01-06 | 4.37 | - | 2,166 | 4,225 |
 | 2024-01-10 | 4.37 | - | 2,166 | 4,227 |
-| 2024-01-14 | 4.37 | - | 2,167 | 4,228 |
+| 2024-01-14 | 4.37 | - | 2,167 | 4,229 |

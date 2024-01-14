@@ -1,52 +1,52 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.38 (Ranked 797)  
+Rating: 4.38 (Ranked 798)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 77.00% | ~2,107 |
-| A new Journey | 76.00% | ~2,079 |
-| Departure | 75.00% | ~2,052 |
+| A new Journey | 76.00% | ~2,080 |
+| Departure | 75.00% | ~2,053 |
 | From X to Y | 74.00% | ~2,025 |
 | Way of Iron | 71.00% | ~1,943 |
-| Mystery Tour | 70.00% | ~1,915 |
-| We brake for nobody | 69.00% | ~1,888 |
-| Brainstorm | 67.00% | ~1,833 |
+| Mystery Tour | 70.00% | ~1,916 |
+| We brake for nobody | 69.00% | ~1,889 |
+| Brainstorm | 67.00% | ~1,834 |
 | Mind the Gap | 66.00% | ~1,806 |
 | Travel Company | 66.00% | ~1,806 |
-| All around the World | 64.00% | ~1,751 |
-| Right through the middle | 59.00% | ~1,614 |
+| All around the World | 64.00% | ~1,752 |
+| Right through the middle | 59.00% | ~1,615 |
 | Poor Devil | 55.00% | ~1,505 |
-| Facility Manager | 54.00% | ~1,477 |
-| Producer | 51.00% | ~1,395 |
-| Bridge Builder | 43.00% | ~1,176 |
-| Apprentice | 42.00% | ~1,149 |
-| Going once, going twice, sold | 37.00% | ~1,012 |
+| Facility Manager | 54.00% | ~1,478 |
+| Producer | 51.00% | ~1,396 |
+| Bridge Builder | 43.00% | ~1,177 |
+| Apprentice | 42.00% | ~1,150 |
+| Going once, going twice, sold | 37.00% | ~1,013 |
 | Access granted | 36.00% | ~985 |
 | Bull and bear | 35.00% | ~958 |
-| Stoker | 34.00% | ~930 |
+| Stoker | 34.00% | ~931 |
 | Full Steam ahead | 33.00% | ~903 |
 | All mine | 32.00% | ~876 |
 | Financial Shark | 32.00% | ~876 |
 | Mole | 31.00% | ~848 |
-| General Manager | 29.00% | ~793 |
-| Country Life | 29.00% | ~793 |
+| General Manager | 29.00% | ~794 |
+| Country Life | 29.00% | ~794 |
 | Socializer | 28.00% | ~766 |
-| Hostile Takeover | 26.00% | ~711 |
+| Hostile Takeover | 26.00% | ~712 |
 | Seven at one stroke | 25.00% | ~684 |
-| Breaking Ground | 23.00% | ~629 |
+| Breaking Ground | 23.00% | ~630 |
 | Trailblazer | 22.00% | ~602 |
 | Traffic Junction | 22.00% | ~602 |
 | Traffic Jam | 20.00% | ~547 |
-| Resistance is futile | 18.00% | ~492 |
+| Resistance is futile | 18.00% | ~493 |
 | Bold and beautiful | 17.00% | ~465 |
 | Networker | 17.00% | ~465 |
 | Settler | 16.00% | ~438 |
-| Assimilated | 15.00% | ~410 |
+| Assimilated | 15.00% | ~411 |
 | Go West | 14.00% | ~383 |
 | Max Power | 14.00% | ~383 |
-| Locusts | 13.00% | ~356 |
+| Locusts | 14.00% | ~383 |
 | A new Hope | 12.00% | ~328 |
 | Tycoon | 12.00% | ~328 |
 | Call of Duty | 10.00% | ~274 |
@@ -61,7 +61,7 @@ Rating: 4.38 (Ranked 797)
 | European Union | 0.60% | ~16 |
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,736 (Ranked 236)  
+Progressed: 2,737 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 2,706 | 0 |
 | 2024-01-12 | 2,714 | 0 |
 | 2024-01-13 | 2,722 | 0 |
-| 2024-01-14 | 2,736 | 0 |
+| 2024-01-14 | 2,737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

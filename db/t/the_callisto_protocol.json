@@ -4,11 +4,11 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 954,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2181,10 +2181,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 652,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-14T22:03:20.3675656+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 653,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 652,
+  "NumberOfAwards": 653,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2216,7 +2222,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2231,9 +2237,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22374,
+  "EOS_Progressed": 22377,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13906,6 +13912,11 @@
       "Time": "2024-01-14T21:09:53.3208303+00:00",
       "NumProgressed": 22374,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T22:09:43.0590398+00:00",
+      "NumProgressed": 22377,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13931,9 +13942,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2461
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -13949,7 +13960,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6041
+      "UsersEstimate": 6042
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13989,7 +14000,7 @@
       "Name": "The Protocol is About Life",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -14021,7 +14032,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14069,7 +14080,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14077,7 +14088,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4027
+      "UsersEstimate": 4028
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14093,7 +14104,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5146
+      "UsersEstimate": 5147
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14101,7 +14112,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -14109,7 +14120,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6041
+      "UsersEstimate": 6042
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14125,7 +14136,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "STORY_HANGAR",
@@ -14292,22 +14303,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22374,
+      "Progressed": 22377,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10300,
+      "Progressed": 10303,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-14T21:03:18.9497956+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:09:53.3208298+00:00",
+  "LastChanged": "2024-01-14T22:03:20.3675654+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:09:43.0590393+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:03:18.9497962+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:09:53.3209427+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:03:20.3675661+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:09:43.0591344+00:00"
 }

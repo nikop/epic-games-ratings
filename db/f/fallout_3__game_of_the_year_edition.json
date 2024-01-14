@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -7205,10 +7205,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 30334,
       "NumberOfAwardsMax": 14747
+    },
+    {
+      "Time": "2024-01-14T21:59:07.3321345+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30341,
+      "NumberOfAwardsMax": 14747
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30334,
+  "NumberOfAwards": 30341,
   "NumberOfAwardsMax": 14747,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7282,7 +7288,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1751
+      "Count": 1758
     }
   ],
   "EOS_Progressed": 0,
@@ -7297,8 +7303,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-14T15:58:55.5332716+00:00",
+  "LastChanged": "2024-01-14T21:59:07.3321343+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.510145+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:59:07.0893237+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:06:42.858342+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:59:07.3321349+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:06:44.4333705+00:00"
 }

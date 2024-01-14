@@ -5,15 +5,15 @@ Rating: 4.26 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,020 |
-| Don't I Know You...? | 75.00% | ~1,942 |
+| Rigged And Ready | 78.00% | ~2,021 |
+| Don't I Know You...? | 75.00% | ~1,943 |
 | Jailbreak | 64.00% | ~1,658 |
-| HEADSHOT! | 37.00% | ~958 |
-| Suited and Booted | 37.00% | ~958 |
+| HEADSHOT! | 37.00% | ~959 |
+| Suited and Booted | 37.00% | ~959 |
 | Sleeping With The Fishes | 34.00% | ~881 |
 | High Performance | 30.00% | ~777 |
 | Overheated | 29.00% | ~751 |
-| Powered Up | 27.00% | ~699 |
+| Powered Up | 27.00% | ~700 |
 | Studied The Blade | 24.00% | ~622 |
 | Home Invasion | 22.00% | ~570 |
 | Luminary | 22.00% | ~570 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 918)
 | Clean Cut | 18.00% | ~466 |
 | Dead Again | 17.00% | ~440 |
 | Full Arsenal | 17.00% | ~440 |
-| Can't Trust Banks | 15.00% | ~388 |
+| Can't Trust Banks | 15.00% | ~389 |
 | Mommy Dearest | 13.00% | ~337 |
 | Bad Dog | 13.00% | ~337 |
 | Where It All Began | 13.00% | ~337 |
@@ -63,7 +63,7 @@ Rating: 4.26 (Ranked 918)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,590 (Ranked 238)  
+Progressed: 2,591 (Ranked 238)  
 Completed: 13 (0.50%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 13 (0.50%) (Ranked 224)
 | 2024-01-11 | 2,570 | 13 |
 | 2024-01-12 | 2,577 | 13 |
 | 2024-01-13 | 2,585 | 13 |
-| 2024-01-14 | 2,590 | 13 |
+| 2024-01-14 | 2,591 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

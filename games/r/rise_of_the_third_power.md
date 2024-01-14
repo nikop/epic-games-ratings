@@ -19,7 +19,7 @@
 | Determined | 19.00% | ~31 |
 | Bling | 18.00% | ~29 |
 | Geared | 17.00% | ~28 |
-| Master Crafter | 13.00% | ~21 |
+| Master Crafter | 14.00% | ~23 |
 | Master Trader | 13.00% | ~21 |
 | Mysteries of Rin | 12.00% | ~19 |
 | Patience | 11.00% | ~18 |

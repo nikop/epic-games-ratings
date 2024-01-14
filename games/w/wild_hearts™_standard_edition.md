@@ -13,7 +13,7 @@
 | Charmed by the Hunt | 49.00% | ~669 |
 | Memory Rouser | 48.00% | ~656 |
 | Subsistence Skills | 48.00% | ~656 |
-| Fusion Conjuror | 46.00% | ~628 |
+| Fusion Conjuror | 47.00% | ~642 |
 | Kemono Hunter | 43.00% | ~587 |
 | Expert Conjuror | 41.00% | ~560 |
 | Helpful Heart | 40.00% | ~546 |

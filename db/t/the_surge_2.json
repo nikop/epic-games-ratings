@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -300,7 +300,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2590,
+  "EOS_Progressed": 2591,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -4750,6 +4750,11 @@
       "Time": "2024-01-14T17:03:28.6767079+00:00",
       "NumProgressed": 2590,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-14T22:03:32.4024109+00:00",
+      "NumProgressed": 2591,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4937,7 +4942,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHV_24",
@@ -4961,7 +4966,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "ACHV_27",
@@ -4993,7 +4998,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "ACHV_31",
@@ -5041,7 +5046,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACHV_37",
@@ -5065,7 +5070,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "ACHV_40",
@@ -5081,7 +5086,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHV_42",
@@ -5216,7 +5221,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2590,
+      "Progressed": 2591,
       "Completed": 13
     }
   ],
@@ -5224,8 +5229,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:03:28.8225818+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:03:32.4024104+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:02:53.5739467+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:03:28.8226488+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:02:54.2312846+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:03:32.4024759+00:00"
 }

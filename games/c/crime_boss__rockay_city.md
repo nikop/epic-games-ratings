@@ -24,10 +24,10 @@ Rating: 3.96 (Ranked 1,063)
 | True Player | 1.00% | ~935 |
 | I Like Trains | 0.80% | ~748 |
 | Freebooter | 0.80% | ~748 |
+| Foo Finder | 0.70% | ~654 |
 | Legend Looter | 0.60% | ~561 |
 | Imports and Exports | 0.60% | ~561 |
 | Savvy Seeker | 0.60% | ~561 |
-| Foo Finder | 0.60% | ~561 |
 | Moneybags | 0.60% | ~561 |
 | Olympus Ascended | 0.60% | ~561 |
 | Ding Dong | 0.60% | ~561 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,063)
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,476 (Ranked 104)  
+Progressed: 93,477 (Ranked 104)  
 Completed: 59 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 59 (0.06%) (Ranked 334)
 | 2024-01-11 | 93,401 | 59 |
 | 2024-01-12 | 93,419 | 59 |
 | 2024-01-13 | 93,444 | 59 |
-| 2024-01-14 | 93,476 | 59 |
+| 2024-01-14 | 93,477 | 59 |
 ## Awards
 Max (Diverse Characters): 600  (Ranked 210)  
 Sum: 2,834 (Ranked 192)  

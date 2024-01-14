@@ -8,7 +8,7 @@
 | Strong Silent Type | 90.00% | ~301 |
 | Play Me By The Hour | 69.00% | ~230 |
 | Patient Listener | 46.00% | ~154 |
-| Video Saved The Radio Star | 39.00% | ~130 |
+| Video Saved The Radio Star | 40.00% | ~134 |
 | Hashtag Winning | 37.00% | ~124 |
 | A Woman Scorned | 27.00% | ~90 |
 | Look Mum I'm A Detective | 21.00% | ~70 |
@@ -26,7 +26,7 @@
 | Bullseye | 4.00% | ~13 |
 | The Big Sleep | 4.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 389)  
+Progressed: 334 (Ranked 390)  
 Completed: 3 (0.90%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |

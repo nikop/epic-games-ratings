@@ -5,10 +5,10 @@
   "Ranking_Rating": 550,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 534,
-  "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,11 +306,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 429,
+  "EOS_Progressed": 431,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.47,
+  "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1951,6 +1951,11 @@
       "Time": "2024-01-14T11:09:28.8154068+00:00",
       "NumProgressed": 429,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T22:09:22.6659925+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1963,7 +1968,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1971,7 +1976,7 @@
       "Name": "Ultimate Smoothie",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
@@ -1979,7 +1984,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -1995,7 +2000,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2033,17 +2038,17 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -2075,7 +2080,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2091,7 +2096,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2099,7 +2104,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 360
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2115,7 +2120,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2131,7 +2136,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2211,7 +2216,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2219,7 +2224,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2314,7 +2319,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 429,
+      "Progressed": 431,
       "Completed": 2
     }
   ],
@@ -2322,8 +2327,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:09:32.3468526+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:09:22.6659921+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:57:08.8403859+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:09:32.3468967+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:57:06.6123666+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:09:22.6660305+00:00"
 }

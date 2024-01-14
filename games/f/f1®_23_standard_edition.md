@@ -5,30 +5,30 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,538 |
-| On the Top Step | 82.00% | ~14,903 |
-| Setting up for Success | 69.00% | ~12,540 |
-| Team Orders | 68.00% | ~12,358 |
-| Engineer | 45.00% | ~8,178 |
-| Familiar Faces | 41.00% | ~7,451 |
+| Getting on the Step | 91.00% | ~16,539 |
+| On the Top Step | 83.00% | ~15,085 |
+| Setting up for Success | 69.00% | ~12,541 |
+| Team Orders | 68.00% | ~12,359 |
+| Engineer | 45.00% | ~8,179 |
+| Familiar Faces | 41.00% | ~7,452 |
 | Going the Extra Mile | 35.00% | ~6,361 |
-| Sharing the Love | 33.00% | ~5,997 |
+| Sharing the Love | 33.00% | ~5,998 |
 | Hitting a Season | 27.00% | ~4,907 |
 | Making History | 25.00% | ~4,544 |
 | A Dozen Pieces | 24.00% | ~4,362 |
 | Network Success | 23.00% | ~4,180 |
 | Challenge Yourself | 23.00% | ~4,180 |
 | Writing a new Chapter | 19.00% | ~3,453 |
-| Spring Cleaning | 18.00% | ~3,271 |
-| Reduce | 14.00% | ~2,544 |
-| Ups and Downs | 14.00% | ~2,544 |
+| Spring Cleaning | 18.00% | ~3,272 |
+| Reduce | 14.00% | ~2,545 |
+| Ups and Downs | 14.00% | ~2,545 |
 | Crucial Combo | 13.00% | ~2,363 |
 | Reuse | 12.00% | ~2,181 |
 | Proving Them Wrong | 12.00% | ~2,181 |
 | Gathering Dust | 11.00% | ~1,999 |
-| Friendly Competition | 10.00% | ~1,817 |
-| Switcheroo | 10.00% | ~1,817 |
-| One for the Book | 10.00% | ~1,817 |
+| Friendly Competition | 10.00% | ~1,818 |
+| Switcheroo | 10.00% | ~1,818 |
+| One for the Book | 10.00% | ~1,818 |
 | Eagle Eye | 9.00% | ~1,636 |
 | All in a Weekend's Work | 9.00% | ~1,636 |
 | Oil and Water | 9.00% | ~1,636 |
@@ -43,9 +43,9 @@ Rating: 4.64 (Ranked 343)
 | Smooth Operator | 4.00% | ~727 |
 | Peak Performance | 4.00% | ~727 |
 | Seasoned Rookie | 3.00% | ~545 |
-| Hitting a Century | 2.00% | ~363 |
-| Loyal Bond | 2.00% | ~363 |
-| Wait, I know you? | 2.00% | ~363 |
+| Hitting a Century | 2.00% | ~364 |
+| Loyal Bond | 2.00% | ~364 |
+| Wait, I know you? | 2.00% | ~364 |
 | Filling in the Gaps | 1.00% | ~182 |
 | Media Darling | 1.00% | ~182 |
 | Saturday Night Drama | 0.90% | ~164 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 343)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,174 (Ranked 163)  
+Progressed: 18,175 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 17,785 | 0 |
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
-| 2024-01-14 | 18,174 | 0 |
+| 2024-01-14 | 18,175 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 425)  
 Sum: 438 (Ranked 349)  

@@ -29,7 +29,7 @@
 | This Is My Boomstick | 16.00% | ~53 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
-| Perfect | 13.00% | ~43 |
+| Perfect | 14.00% | ~46 |
 | Summers Here | 12.00% | ~40 |
 | Quit Horsin' Around | 11.00% | ~42 |
 | Fresh Pancake | 10.00% | ~38 |

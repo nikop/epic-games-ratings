@@ -3,12 +3,12 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 465,
-  "Ranking_EOS_Progress": 276,
+  "Ranking_Popularity": 363,
+  "Ranking_PopularitySum": 463,
+  "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -317,23 +317,29 @@
       "Rating": 4.88,
       "NumberOfAwards": 114,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-01-14T21:57:41.4867659+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 114,
-  "NumberOfAwardsMax": 114,
+  "NumberOfAwards": 116,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 114
+      "Count": 116
     }
   ],
-  "EOS_Progressed": 1406,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4091,6 +4097,11 @@
       "Time": "2024-01-14T21:04:45.4590763+00:00",
       "NumProgressed": 1406,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T22:04:48.3352539+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4111,7 +4122,7 @@
       "Name": "Ab Initio",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "AnthropicHills",
@@ -4143,7 +4154,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "BreakTheLoop",
@@ -4151,7 +4162,7 @@
       "Name": "Break the Loop",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BridgeBuilder",
@@ -4159,7 +4170,7 @@
       "Name": "Bridge Builder",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ChasingTheLight",
@@ -4213,9 +4224,9 @@
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 112
+      "UsersEstimate": 127
     },
     {
       "ID": "Excellent",
@@ -4239,7 +4250,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "GoodCitizen",
@@ -4247,7 +4258,7 @@
       "Name": "Good Citizen",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "GrasslandsRing",
@@ -4287,7 +4298,7 @@
       "Name": "Lord of the Files",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "LostMarshes",
@@ -4303,7 +4314,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Mnemosyne",
@@ -4335,7 +4346,7 @@
       "Name": "A New Beginning",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "NewMorality",
@@ -4359,7 +4370,7 @@
       "Name": "Overload",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Persistent",
@@ -4367,7 +4378,7 @@
       "Name": "Persistent",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "PrometheusUnbound",
@@ -4383,7 +4394,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4391,7 +4402,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "RenaissanceRobot",
@@ -4415,7 +4426,7 @@
       "Name": "Signatory",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "SingleRod",
@@ -4445,9 +4456,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 352
     },
     {
       "ID": "TextAdventurer",
@@ -4463,7 +4474,7 @@
       "Name": "The All-Gifted",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4511,7 +4522,7 @@
       "Name": "The Word Endures",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "TouchGrass",
@@ -4543,7 +4554,7 @@
       "Name": "Wanderers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "WesternDelta",
@@ -4574,16 +4585,16 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1406,
+      "Progressed": 1408,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:04:45.4590761+00:00",
+  "LastChanged": "2024-01-14T21:57:41.4867657+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:04:48.3352535+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:57:43.2850977+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:04:45.4591377+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:57:41.4867662+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:04:48.3353165+00:00"
 }

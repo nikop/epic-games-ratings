@@ -6,9 +6,9 @@
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 359,
-  "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 492,
+  "EOS_Progressed": 493,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.02,
+  "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1975,6 +1975,11 @@
       "Time": "2024-01-14T21:06:18.2481903+00:00",
       "NumProgressed": 492,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T22:06:19.4600959+00:00",
+      "NumProgressed": 493,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1995,7 +2000,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -2025,9 +2030,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2051,7 +2056,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2129,25 +2134,25 @@
       "ID": "ACH_CHALLENGE_TWOSTARSEVERYWHERE",
       "SetID": "cefn62b",
       "Name": "Path of the Furon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2155,7 +2160,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2201,9 +2206,9 @@
       "ID": "ACH_INVADE_AREA42",
       "SetID": "cefn62b",
       "Name": "Re-Return of the Clone of the Invasion II-2",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -2219,7 +2224,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2235,7 +2240,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2283,15 +2288,15 @@
       "Name": "Perfect Probulator",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2306,15 +2311,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 492,
+      "Progressed": 493,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:06:18.2481901+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:06:19.4600953+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:59:17.6187773+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:06:18.2482203+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:59:18.3519607+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:06:19.4601325+00:00"
 }

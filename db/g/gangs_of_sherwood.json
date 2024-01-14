@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -895,9 +895,9 @@
       "ID": "ACH_REPUTATION_LVL_4",
       "SetID": "5akmpni",
       "Name": "MAX LEVEL",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_REVIVE_ALLY",
@@ -966,8 +966,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:08:45.094175+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:08:35.4603389+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.0262154+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:00:26.9449236+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:08:45.0942351+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:00:29.1852687+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:08:35.4604039+00:00"
 }

@@ -12,10 +12,10 @@
 | Unavoidable | 66.00% | ~71 |
 | Revenge | 63.00% | ~67 |
 | Reunion | 40.00% | ~43 |
-| Fluke | 35.00% | ~37 |
+| Fluke | 36.00% | ~39 |
 | Elimination | 33.00% | ~35 |
+| Excellent Driving Skills | 32.00% | ~34 |
 | Victor's Prejudice | 32.00% | ~34 |
-| Excellent Driving Skills | 31.00% | ~33 |
 | Once Bitten, Twice Shy | 30.00% | ~32 |
 | Memento | 28.00% | ~30 |
 | Fleet-footed | 27.00% | ~29 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2457,9 +2457,9 @@
       "ID": "another_world",
       "SetID": "69co12a",
       "Name": "Another world",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "any_stat_15",
@@ -2497,9 +2497,9 @@
       "ID": "carla_journey",
       "SetID": "69co12a",
       "Name": "The lonesome road",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "courier_win",
@@ -2569,17 +2569,17 @@
       "ID": "flash_delivery",
       "SetID": "69co12a",
       "Name": "Family comes first",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "flash_k",
       "SetID": "69co12a",
       "Name": "Key memories",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "flash_silver",
@@ -2841,9 +2841,9 @@
       "ID": "resistance_true",
       "SetID": "69co12a",
       "Name": "The heart of the Resistance",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "seashell_hunter",
@@ -2944,8 +2944,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:10:12.2778117+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:10:01.5924842+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:03.3260875+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:59:32.448464+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:10:12.2778769+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:59:33.5996544+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:10:01.5925461+00:00"
 }

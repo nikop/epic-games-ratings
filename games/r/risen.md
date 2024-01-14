@@ -11,7 +11,7 @@ Rating: 4.56 (Ranked 510)
 | Philanthropist | 61.00% | ~124 |
 | Archer | 40.00% | ~81 |
 | The brave little tailor | 39.00% | ~79 |
-| Field hand | 36.00% | ~73 |
+| Field hand | 37.00% | ~75 |
 | Well-to-do | 33.00% | ~67 |
 | Samaritan | 29.00% | ~59 |
 | The merciful one | 28.00% | ~57 |
@@ -24,8 +24,8 @@ Rating: 4.56 (Ranked 510)
 | Archaeologist | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
 | Little hero | 17.00% | ~35 |
+| The fourth triplet | 17.00% | ~35 |
 | Sidelined | 17.00% | ~35 |
-| The fourth triplet | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
 | Hard worker | 15.00% | ~30 |

@@ -6,35 +6,35 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~460 |
+| Green with Envy | 77.00% | ~461 |
 | First of many… | 68.00% | ~407 |
 | Helping Hand | 65.00% | ~389 |
-| Increased Vigor | 60.00% | ~359 |
+| Increased Vigor | 61.00% | ~365 |
 | Fight Fire with Fire | 59.00% | ~353 |
 | Increased Capacity | 56.00% | ~335 |
-| Just the start | 49.00% | ~293 |
-| Perfect Storm | 47.00% | ~281 |
-| All That Glitters | 46.00% | ~275 |
-| Enhance! | 43.00% | ~257 |
-| One Of the Chosen | 41.00% | ~245 |
-| Five's a Crowd | 41.00% | ~245 |
-| Devil's in the Details | 40.00% | ~239 |
-| Throne Potato | 40.00% | ~239 |
-| 25 to Life | 40.00% | ~239 |
-| Salvation | 39.00% | ~233 |
-| Unshakable Fortitude | 36.00% | ~215 |
-| Soul Harvester | 36.00% | ~215 |
-| I Wanna Rock | 34.00% | ~203 |
-| Delusions of Grandeur | 34.00% | ~203 |
-| Love Tap | 33.00% | ~197 |
-| Maximum Vigor | 32.00% | ~191 |
-| Freeze Frame | 30.00% | ~179 |
-| Eat Your Heart Out | 30.00% | ~179 |
-| For Whom the Bell Tolls | 29.00% | ~173 |
-| Unyielding Strength | 27.00% | ~161 |
-| Can you restore the Balance? | 26.00% | ~155 |
-| Crowd Source | 26.00% | ~155 |
-| Big Spender | 26.00% | ~155 |
+| Just the start | 50.00% | ~300 |
+| Perfect Storm | 47.00% | ~282 |
+| All That Glitters | 46.00% | ~276 |
+| Enhance! | 43.00% | ~258 |
+| One Of the Chosen | 41.00% | ~246 |
+| Five's a Crowd | 41.00% | ~246 |
+| Devil's in the Details | 40.00% | ~240 |
+| Throne Potato | 40.00% | ~240 |
+| 25 to Life | 40.00% | ~240 |
+| Salvation | 39.00% | ~234 |
+| Unshakable Fortitude | 36.00% | ~216 |
+| Soul Harvester | 36.00% | ~216 |
+| Delusions of Grandeur | 35.00% | ~210 |
+| I Wanna Rock | 34.00% | ~204 |
+| Love Tap | 33.00% | ~198 |
+| Maximum Vigor | 32.00% | ~192 |
+| Freeze Frame | 30.00% | ~180 |
+| Eat Your Heart Out | 30.00% | ~180 |
+| For Whom the Bell Tolls | 30.00% | ~180 |
+| Unyielding Strength | 27.00% | ~162 |
+| Can you restore the Balance? | 26.00% | ~156 |
+| Crowd Source | 26.00% | ~156 |
+| Big Spender | 26.00% | ~156 |
 | Cleanup Crew | 25.00% | ~150 |
 | Demon Meddler | 24.00% | ~144 |
 | Seeing Red | 24.00% | ~144 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 598 (Ranked 344)  
+Progressed: 599 (Ranked 344)  
 Completed: 2 (0.33%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 2 (0.33%) (Ranked 254)
 | 2024-01-11 | 557 | 2 |
 | 2024-01-12 | 572 | 2 |
 | 2024-01-13 | 582 | 2 |
-| 2024-01-14 | 598 | 2 |
+| 2024-01-14 | 599 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 382)  
 Sum: 99 (Ranked 473)  

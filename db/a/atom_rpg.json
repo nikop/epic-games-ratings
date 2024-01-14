@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1735,
+  "EOS_Progressed": 1736,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4667,6 +4667,11 @@
       "Time": "2024-01-14T20:10:36.3499563+00:00",
       "NumProgressed": 1735,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T22:10:00.8950746+00:00",
+      "NumProgressed": 1736,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4678,7 +4683,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4734,7 +4739,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1718
+      "UsersEstimate": 1719
     },
     {
       "ID": "EXPERT_1",
@@ -4862,7 +4867,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -4950,7 +4955,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "WISHMASTER_1",
@@ -4965,15 +4970,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1735,
+      "Progressed": 1736,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:10:11.5683648+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:10:00.8950741+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:59:04.0281487+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:10:11.5684044+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:59:03.7484846+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:10:00.8951246+00:00"
 }

@@ -10,7 +10,7 @@
 | Treasure Hunter | 65.00% | ~81 |
 | The Altruist | 65.00% | ~81 |
 | Watch your Step! | 54.00% | ~67 |
-| MAX LEVEL | 52.00% | ~64 |
+| MAX LEVEL | 53.00% | ~66 |
 | Tap Dancing | 51.00% | ~63 |
 | Right between the eyes | 40.00% | ~50 |
 | Starry Night | 38.00% | ~47 |

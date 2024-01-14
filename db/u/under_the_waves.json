@@ -4,8 +4,8 @@
   "ProductSlug": "under-the-waves",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 579,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 578,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.7786787+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:58:09.2253751+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:06:15.1626324+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:58:08.8320343+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:06:16.6582102+00:00"
 }

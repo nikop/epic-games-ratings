@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19017,
+  "EOS_Progressed": 19019,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17384,6 +17384,11 @@
       "Time": "2024-01-14T21:04:42.6176202+00:00",
       "NumProgressed": 19017,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-14T22:04:45.4062066+00:00",
+      "NumProgressed": 19019,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17420,7 +17425,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "13",
@@ -17476,7 +17481,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "2",
@@ -17548,7 +17553,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "28",
@@ -17628,7 +17633,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "31",
@@ -17668,20 +17673,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19017,
+      "Progressed": 19019,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4971,
+      "Progressed": 4973,
       "Completed": 1324
     }
   ],
@@ -17689,8 +17694,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:04:42.61762+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:04:45.4062064+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:58:13.1089359+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:04:42.6177099+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:58:12.7896284+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:04:45.4062988+00:00"
 }

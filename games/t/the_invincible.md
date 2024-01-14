@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,203 |
-| The Teleprobe | 57.00% | ~966 |
-| The City | 52.00% | ~881 |
-| The field base | 47.00% | ~797 |
-| The Alliance | 44.00% | ~746 |
-| Survivors | 41.00% | ~695 |
-| The Condor | 39.00% | ~661 |
-| The End | 38.00% | ~644 |
-| The Necroevolution | 31.00% | ~525 |
+| The Camp | 71.00% | ~1,206 |
+| The Teleprobe | 57.00% | ~968 |
+| The City | 52.00% | ~883 |
+| The field base | 47.00% | ~798 |
+| The Alliance | 44.00% | ~747 |
+| Survivors | 41.00% | ~696 |
+| The Condor | 39.00% | ~662 |
+| The End | 38.00% | ~645 |
+| The Necroevolution | 31.00% | ~526 |
 | Krauta is alive | 29.00% | ~492 |
-| On her own | 23.00% | ~390 |
-| Peacemaker | 23.00% | ~390 |
-| Volcanologist | 23.00% | ~390 |
-| Fierce fight | 22.00% | ~373 |
-| Evacuation | 21.00% | ~356 |
-| Beyond divisions | 18.00% | ~305 |
-| Flying Objects Operator | 17.00% | ~288 |
-| I remember everything! | 14.00% | ~237 |
-| Another giant | 14.00% | ~237 |
+| On her own | 23.00% | ~391 |
+| Peacemaker | 23.00% | ~391 |
+| Volcanologist | 23.00% | ~391 |
+| Fierce fight | 22.00% | ~374 |
+| Evacuation | 21.00% | ~357 |
+| Beyond divisions | 18.00% | ~306 |
+| Flying Objects Operator | 17.00% | ~289 |
+| I remember everything! | 14.00% | ~238 |
+| Another giant | 14.00% | ~238 |
 | Violent solution | 10.00% | ~170 |
 | I leave no man behind | 10.00% | ~170 |
 | Innate curiosity | 8.00% | ~136 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 510)
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,695 (Ranked 265)  
+Progressed: 1,698 (Ranked 264)  
 Completed: 1 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.06%) (Ranked 334)
 | 2024-01-11 | 1,635 | 1 |
 | 2024-01-12 | 1,649 | 1 |
 | 2024-01-13 | 1,674 | 1 |
-| 2024-01-14 | 1,695 | 1 |
+| 2024-01-14 | 1,698 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

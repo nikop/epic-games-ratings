@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -3227,9 +3227,9 @@
       "ID": "MissionAncientRitual",
       "SetID": "a6c395p",
       "Name": "Power Chord",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 284
+      "UsersEstimate": 299
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -3467,8 +3467,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-04T18:59:52.3353425+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:09:59.6988055+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:09:49.506734+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:39.6396666+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:57:04.4385881+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:09:59.6988458+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:57:02.5828667+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:09:49.5067764+00:00"
 }

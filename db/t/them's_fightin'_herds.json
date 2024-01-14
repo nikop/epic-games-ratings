@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235391,
+  "EOS_Progressed": 235392,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27760,6 +27760,11 @@
       "Time": "2024-01-14T21:09:38.8865078+00:00",
       "NumProgressed": 235391,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T22:09:29.1043315+00:00",
+      "NumProgressed": 235392,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -27979,7 +27984,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40016
+      "UsersEstimate": 40017
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -27994,7 +27999,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235391,
+      "Progressed": 235392,
       "Completed": 6
     }
   ],
@@ -28002,8 +28007,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:09:38.8865071+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:09:29.1043306+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:57:44.455226+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:09:38.8866823+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:57:42.7177002+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:09:29.1045032+00:00"
 }

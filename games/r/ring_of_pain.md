@@ -22,8 +22,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 1.00% | ~2,430 |
 | Explorer | 1.00% | ~2,430 |
 | An Offering | 1.00% | ~2,430 |
-| Not Touching You | 1.00% | ~44 |
-| Matching | 1.00% | ~44 |
+| Not Touching You | 1.00% | ~45 |
+| Matching | 1.00% | ~45 |
 | Ambitious Intent | 0.90% | ~2,187 |
 | Delving Deeper | 0.90% | ~2,187 |
 | R.I.P | 0.90% | ~2,187 |
@@ -53,6 +53,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Consuming | 0.60% | ~1,458 |
 | Stop Hitting Yourself | 0.60% | ~1,458 |
 | Doing Time | 0.60% | ~1,458 |
+| Spreading Plague | 0.60% | ~1,458 |
 | Acid Bath | 0.60% | ~1,458 |
 | Expensive Look | 0.60% | ~27 |
 | Thank You, Friend | 0.50% | ~1,215 |
@@ -62,7 +63,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.50% | ~1,215 |
 | Illuminate, Eliminate | 0.50% | ~1,215 |
 | Chain Reaction | 0.50% | ~1,215 |
-| Spreading Plague | 0.50% | ~1,215 |
 | Antivenom | 0.50% | ~1,215 |
 | The Long Run | 0.50% | ~1,215 |
 | Berzerker | 0.40% | ~972 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,970 (Ranked 74)  
+Progressed: 242,973 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 306 (0.13%) (Ranked 302)
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
-| 2024-01-14 | 242,970 | 306 |
+| 2024-01-14 | 242,973 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,796 (Ranked 89)  

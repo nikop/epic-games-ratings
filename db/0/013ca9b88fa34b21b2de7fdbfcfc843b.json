@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9066,
+  "EOS_Progressed": 9067,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -10238,6 +10238,11 @@
       "Time": "2024-01-14T21:10:17.1529519+00:00",
       "NumProgressed": 9066,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T22:10:06.5445122+00:00",
+      "NumProgressed": 9067,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10440,9 +10445,9 @@
       "ID": "HARVEST_VEGETABLES_1",
       "SetID": "9eia0f5",
       "Name": "Fanatical Farmer",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 63
     },
     {
       "ID": "HAVE_WEDDING",
@@ -10593,13 +10598,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9066,
+      "Progressed": 9067,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1683,
+      "Progressed": 1684,
       "Completed": 1050
     }
   ],
@@ -10607,8 +10612,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:10:17.1529518+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:10:06.5445119+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-14T21:03:19.3537288+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:10:17.1530283+00:00"
+  "LastUpdate_Ratings": "2024-01-14T22:03:20.7676218+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:10:06.5445862+00:00"
 }

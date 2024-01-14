@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4949,9 +4949,9 @@
       "Count": 409
     }
   ],
-  "EOS_Progressed": 13276,
+  "EOS_Progressed": 13279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19764,6 +19764,11 @@
       "Time": "2024-01-14T21:10:23.5667633+00:00",
       "NumProgressed": 13276,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T22:10:12.4953612+00:00",
+      "NumProgressed": 13279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19775,7 +19780,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3717
+      "UsersEstimate": 3718
     },
     {
       "ID": "02_BurningCity",
@@ -19783,7 +19788,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -19807,7 +19812,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -19831,7 +19836,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "09_PathOfDemon",
@@ -19911,7 +19916,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "19_EqualToAroden",
@@ -20023,7 +20028,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -20079,7 +20084,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "41_PlayfulMood",
@@ -20143,7 +20148,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "49_Flame",
@@ -20167,7 +20172,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -20702,21 +20707,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12058,
+      "Progressed": 12061,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13276,
+      "Progressed": 13279,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-14T20:59:32.2925357+00:00",
-  "LastChanged_Achievements": "2024-01-14T21:10:23.566763+00:00",
+  "LastChanged_Achievements": "2024-01-14T22:10:12.4953608+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-14T20:59:32.2925363+00:00",
-  "LastUpdate_Achievements": "2024-01-14T21:10:23.5669257+00:00"
+  "LastUpdate_Ratings": "2024-01-14T21:59:33.5308383+00:00",
+  "LastUpdate_Achievements": "2024-01-14T22:10:12.4955262+00:00"
 }

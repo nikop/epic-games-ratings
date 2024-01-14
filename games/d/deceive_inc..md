@@ -1,28 +1,28 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,799 |
-| Mainframe Hacker | 23.00% | ~4,446 |
-| The Spy who eliminated me | 23.00% | ~4,446 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,800 |
+| Mainframe Hacker | 23.00% | ~4,447 |
+| The Spy who eliminated me | 23.00% | ~4,447 |
 | Tomorrow Never Dyes | 22.00% | ~4,253 |
 | From the Vault with Love | 18.00% | ~3,480 |
 | Never Say Loser Again | 18.00% | ~3,480 |
 | Tailor-Made | 18.00% | ~3,480 |
 | For your Eyes only | 18.00% | ~3,480 |
-| Assistant Accountant | 17.00% | ~3,286 |
+| Assistant Accountant | 17.00% | ~3,287 |
 | You Only Live Twice | 16.00% | ~3,093 |
 | Fully Decked Out | 16.00% | ~3,093 |
 | A view to Win | 13.00% | ~2,513 |
 | The Living Portrait | 12.00% | ~2,320 |
 | Smells Like Trouble | 12.00% | ~2,320 |
-| My Motto, My Creed | 11.00% | ~2,126 |
-| Private Collection | 11.00% | ~2,126 |
-| Killer Looks | 11.00% | ~2,126 |
-| Hostile Takeover | 11.00% | ~2,126 |
+| My Motto, My Creed | 11.00% | ~2,127 |
+| Private Collection | 11.00% | ~2,127 |
+| Killer Looks | 11.00% | ~2,127 |
+| Hostile Takeover | 11.00% | ~2,127 |
 | Keycards Royale | 10.00% | ~1,933 |
 | Dr. No Kill | 10.00% | ~1,933 |
 | In It to Win It | 9.00% | ~1,740 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 452)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,331 (Ranked 158)  
+Progressed: 19,333 (Ranked 158)  
 Completed: 4 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 4 (0.02%) (Ranked 366)
 | 2024-01-11 | 19,320 | 4 |
 | 2024-01-12 | 19,324 | 4 |
 | 2024-01-13 | 19,327 | 4 |
-| 2024-01-14 | 19,331 | 4 |
+| 2024-01-14 | 19,333 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
