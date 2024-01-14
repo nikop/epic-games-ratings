@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 934,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -361,7 +361,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1134,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -2826,6 +2826,11 @@
       "Time": "2024-01-13T23:10:07.2318354+00:00",
       "NumProgressed": 1134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T00:09:20.1805211+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2846,7 +2851,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 680
+      "UsersEstimate": 682
     },
     {
       "ID": "CareerChamp1",
@@ -2870,7 +2875,7 @@
       "Name": "Challengers Champion",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CareerChamp4",
@@ -2894,7 +2899,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "CollectVehiclesA",
@@ -2918,7 +2923,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "GetWreckedA",
@@ -2950,7 +2955,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "PlayerRankB",
@@ -2997,7 +3002,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1134,
+      "Progressed": 1136,
       "Completed": 0
     }
   ],
@@ -3005,8 +3010,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:10:07.2318349+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:09:20.1805205+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:02.3482463+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:10:07.2318659+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:18.1990615+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:20.1805443+00:00"
 }

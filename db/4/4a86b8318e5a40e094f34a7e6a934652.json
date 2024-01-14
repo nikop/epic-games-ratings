@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 568,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -2506,9 +2506,9 @@
       "ID": "UPGRADE_SMART_TOWER",
       "SetID": "aniflfk",
       "Name": "Strong Signal",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 273
     }
   ],
   "AchievementSets": [
@@ -2521,8 +2521,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:07:25.6242296+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:06:10.6717907+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:16.1929317+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:07:25.6242519+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:35.6157507+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:06:10.6718244+00:00"
 }

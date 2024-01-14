@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -3153,9 +3153,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 163
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3218,8 +3218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:05.7224363+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:14.6356736+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:13.9478908+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:59.4595494+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:05.7224656+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:00:08.5683471+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:14.6357284+00:00"
 }

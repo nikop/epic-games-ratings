@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 528,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6415,
+  "EOS_Progressed": 6416,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9760,6 +9760,11 @@
       "Time": "2024-01-13T23:06:05.369418+00:00",
       "NumProgressed": 6415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T00:04:56.1801904+00:00",
+      "NumProgressed": 6416,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9811,7 +9816,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9883,7 +9888,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9931,7 +9936,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -9947,7 +9952,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10019,7 +10024,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10027,7 +10032,7 @@
       "Name": "The Passenger",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10091,7 +10096,7 @@
       "Name": "People Person",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10099,7 +10104,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10123,14 +10128,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6415,
+      "Progressed": 6416,
       "Completed": 3
     }
   ],
@@ -10138,8 +10143,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:06:05.3694175+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:04:56.1801901+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.3437063+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:57:40.1195474+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:06:05.3694885+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:07.0462614+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:04:56.1802686+00:00"
 }

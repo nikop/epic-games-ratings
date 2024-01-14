@@ -3,12 +3,12 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 812,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -8332,9 +8332,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1497
     },
     {
       "ID": "A39",
@@ -8477,8 +8477,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-13T21:57:27.2877873+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:07:06.2253142+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:05:52.3765841+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:06.5860867+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:57:53.6373329+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:07:06.225388+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:18.7400017+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:05:52.3766579+00:00"
 }

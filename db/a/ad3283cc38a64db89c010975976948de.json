@@ -2,10 +2,10 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 515,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83,
+  "EOS_Progressed": 84,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.61,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -444,6 +444,11 @@
       "Time": "2024-01-12T17:05:56.4985683+00:00",
       "NumProgressed": 83,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T00:06:29.7050255+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -464,13 +469,13 @@
       "Name": "Mirror - 60 pieces",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 55
     },
@@ -486,7 +491,7 @@
       "ID": "LEVEL_060_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 60 pieces",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -518,7 +523,7 @@
       "ID": "LEVEL_135_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 135 pieces",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -542,7 +547,7 @@
       "ID": "LEVEL_135_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 135 pieces",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -703,14 +708,14 @@
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 83,
+      "Progressed": 84,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:07:46.0504848+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:06:29.7050249+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:09.5619949+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:58:41.850274+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:07:46.0505092+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:03.7565405+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:06:29.7050708+00:00"
 }

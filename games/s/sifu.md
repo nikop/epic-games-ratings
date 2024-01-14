@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,625 |
+| The Old Grandmaster | 6.00% | ~45,626 |
 | Life is your teacher | 5.00% | ~38,021 |
 | Lightning Hands | 5.00% | ~38,021 |
 | The Assault | 4.00% | ~30,417 |
@@ -16,16 +16,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,813 |
 | Qi Gong: Essence | 3.00% | ~22,813 |
 | Old Child | 3.00% | ~22,813 |
-| A Lady's Blood in the Snow | 2.00% | ~15,208 |
-| Lady Wing Chun | 2.00% | ~15,208 |
-| Furious Fists | 2.00% | ~15,208 |
-| Kill Nil | 2.00% | ~15,208 |
-| Qi Gong: Breath | 2.00% | ~15,208 |
-| I know Kung-Fu | 2.00% | ~15,208 |
-| Path of the Prospect | 2.00% | ~15,208 |
-| Rumble in the Hangar | 2.00% | ~15,208 |
-| Take damage to save time | 2.00% | ~15,208 |
-| Diligence as a goal | 2.00% | ~1,394 |
+| A Lady's Blood in the Snow | 2.00% | ~15,209 |
+| Lady Wing Chun | 2.00% | ~15,209 |
+| Furious Fists | 2.00% | ~15,209 |
+| Kill Nil | 2.00% | ~15,209 |
+| Qi Gong: Breath | 2.00% | ~15,209 |
+| I know Kung-Fu | 2.00% | ~15,209 |
+| Path of the Prospect | 2.00% | ~15,209 |
+| Rumble in the Hangar | 2.00% | ~15,209 |
+| Take damage to save time | 2.00% | ~15,209 |
+| Diligence as a goal | 2.00% | ~1,395 |
 | Scareless | 1.00% | ~7,604 |
 | Dance of the Praying Mantis | 1.00% | ~7,604 |
 | Qi Gong: Mind | 1.00% | ~7,604 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,418 (Ranked 26)  
+Progressed: 760,428 (Ranked 26)  
 Completed: 12,986 (1.71%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,6 +336,7 @@ Completed: 12,986 (1.71%) (Ranked 146)
 | 2024-01-11 | 759,612 | 12,983 |
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
+| 2024-01-14 | 760,428 | 12,986 |
 ## Awards
 Max (Great Boss Battles): 7,194  (Ranked 57)  
 Sum: 12,731 (Ranked 85)  

@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2024-01-13T20:09:39.7620129+00:00",
       "NumProgressed": 837,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-14T00:10:17.839741+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1891,7 +1896,7 @@
       "Name": "Beat It",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "blast_from_the_past",
@@ -1899,7 +1904,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "deadly_secret",
@@ -1907,7 +1912,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ending_1",
@@ -1995,7 +2000,7 @@
       "Name": "Kamikaze",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "kindar_surprise",
@@ -2011,7 +2016,7 @@
       "Name": "Not A People Person",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "people_pleaser",
@@ -2043,14 +2048,14 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 22
     }
   ],
@@ -2058,8 +2063,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:09.0280404+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:17.8397404+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.2781267+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:03:56.4274953+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:09.0280677+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:02:58.9541253+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:17.8397632+00:00"
 }

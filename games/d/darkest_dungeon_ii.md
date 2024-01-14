@@ -1,13 +1,13 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,061 |
-| Lost and Found | 9.00% | ~682 |
+| Malpractice Assurance | 14.00% | ~1,062 |
+| Lost and Found | 9.00% | ~683 |
 | Autodidact | 8.00% | ~10,617 |
 | This Belongs in a Museum | 7.00% | ~9,290 |
 | This guy... again? | 7.00% | ~531 |
@@ -28,16 +28,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,636 |
 | A Place to Lay Your Head | 5.00% | ~6,636 |
 | FNG | 5.00% | ~6,636 |
-| Unleash Hell | 4.00% | ~5,308 |
-| Unfulfilled Desires | 4.00% | ~5,308 |
-| Dissector | 4.00% | ~5,308 |
-| Banishment | 4.00% | ~5,308 |
-| Spelunker | 4.00% | ~5,308 |
-| Harvest Festival | 4.00% | ~5,308 |
-| Ramble On | 4.00% | ~5,308 |
-| Whale | 4.00% | ~5,308 |
-| Nope | 4.00% | ~5,308 |
-| Unshackled | 4.00% | ~5,308 |
+| Unleash Hell | 4.00% | ~5,309 |
+| Unfulfilled Desires | 4.00% | ~5,309 |
+| Dissector | 4.00% | ~5,309 |
+| Banishment | 4.00% | ~5,309 |
+| Spelunker | 4.00% | ~5,309 |
+| Harvest Festival | 4.00% | ~5,309 |
+| Ramble On | 4.00% | ~5,309 |
+| Whale | 4.00% | ~5,309 |
+| Nope | 4.00% | ~5,309 |
+| Unshackled | 4.00% | ~5,309 |
 | Friends 'Til the End | 4.00% | ~303 |
 | Resurrection | 3.00% | ~3,981 |
 | Funny Guy | 3.00% | ~3,981 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.70% | ~929 |
 | A Life Well Lived | 0.60% | ~796 |
 | Bacon Bits | 0.60% | ~796 |
-| On This Long Road, We Found Redemption | 0.60% | ~45 |
+| On This Long Road, We Found Redemption | 0.60% | ~46 |
 | Eidetic | 0.50% | ~664 |
 | Tears in the Rain | 0.40% | ~531 |
 | Battle Hardened | 0.40% | ~30 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,712 (Ranked 92)  
+Progressed: 132,715 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,9 +345,10 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
+| 2024-01-14 | 132,715 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,635 (Ranked 58)  
+Sum: 21,636 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +356,7 @@ Diff (max vs sum): -7
 | This game has Diverse Characters | 1,851 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,607 |
-| This game has Amazing Characters | 1,532 |
+| This game has Amazing Characters | 1,533 |
 | This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,470 |
 | This game has Amazing Storytelling | 1,446 |
@@ -716,4 +717,4 @@ Diff (max vs sum): -7
 | 2024-01-10 | 4.68 | - | 8,000 | 21,576 |
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
-| 2024-01-13 | 4.68 | - | 8,016 | 21,635 |
+| 2024-01-13 | 4.68 | - | 8,016 | 21,636 |

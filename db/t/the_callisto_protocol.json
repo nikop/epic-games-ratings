@@ -4,11 +4,11 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 954,
   "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2219,9 +2219,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 22312,
+  "EOS_Progressed": 22313,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 923,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13799,6 +13799,11 @@
       "Time": "2024-01-13T23:11:10.4630428+00:00",
       "NumProgressed": 22312,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T00:10:19.1618149+00:00",
+      "NumProgressed": 22313,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13930,7 +13935,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14002,7 +14007,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6024
+      "UsersEstimate": 6025
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14066,7 +14071,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "DISMEMBER_100",
@@ -14185,13 +14190,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22312,
+      "Progressed": 22313,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10238,
+      "Progressed": 10239,
       "Completed": 29
     }
   ],
@@ -14199,8 +14204,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-13T23:04:32.3142416+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:10.4630424+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:19.1618144+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:58.5046688+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:04:32.3142422+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:10.4631335+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:03:30.3271804+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:19.1618873+00:00"
 }

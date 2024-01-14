@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.75 (Ranked 149)  
+Rating: 4.76 (Ranked 134)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.75 (Ranked 149)
 | Hammer Time, Round Two | 81.00% | ~618 |
 | The Hellwoods | 77.00% | ~588 |
 | The Plains of Strothalm | 73.00% | ~557 |
-| Experienced Thalya | 71.00% | ~542 |
+| Experienced Thalya | 72.00% | ~549 |
 | Bad Elves Go Everywhere | 69.00% | ~526 |
 | Thalya's Concentrated Fury | 68.00% | ~519 |
 | Heroes’ Gorge | 66.00% | ~504 |
@@ -146,3 +146,4 @@ Completed: 31 (4.06%) (Ranked 92)
 | 2024-01-03 | 4.71 | 0 | 0 |
 | 2024-01-07 | 4.74 | 0 | 0 |
 | 2024-01-08 | 4.75 | 0 | 0 |
+| 2024-01-13 | 4.76 | 0 | 0 |

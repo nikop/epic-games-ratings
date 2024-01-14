@@ -3,11 +3,11 @@
   "Name": "Q.U.B.E. 2",
   "ProductSlug": "q-u-b-e-2",
   "Ranking_Rating": 706,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -599,9 +599,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47344,
+  "EOS_Progressed": 47345,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -14094,6 +14094,11 @@
       "Time": "2024-01-13T23:10:49.2895697+00:00",
       "NumProgressed": 47344,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2024-01-14T00:09:59.2349684+00:00",
+      "NumProgressed": 47345,
+      "NumCompleted": 238
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14242,7 +14247,7 @@
       "Name": "Infinity Loop",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 8048
+      "UsersEstimate": 8049
     },
     {
       "ID": "ACH_HUB1",
@@ -14298,7 +14303,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32194
+      "UsersEstimate": 32195
     },
     {
       "ID": "ACH_S4",
@@ -14314,7 +14319,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17517
+      "UsersEstimate": 17518
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -14322,7 +14327,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35508
+      "UsersEstimate": 35509
     },
     {
       "ID": "ACH_STATUE",
@@ -14337,15 +14342,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47344,
+      "Progressed": 47345,
       "Completed": 238
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-08T09:58:39.2037674+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:10:49.289569+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:09:59.2349675+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:58:23.7604588+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:10:49.2896547+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:47.7735119+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:59.23505+00:00"
 }

@@ -15,10 +15,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overcoming Difficulty | 7.00% | ~1,453 |
 | Coral Forest | 7.00% | ~1,453 |
 | The Marshlands | 7.00% | ~1,453 |
-| The Scarlet Orchard | 6.00% | ~1,245 |
+| The Scarlet Orchard | 7.00% | ~1,453 |
+| Gathering Storm | 7.00% | ~1,453 |
 | Frosts | 6.00% | ~1,245 |
 | Ominous Presence | 6.00% | ~1,245 |
-| Gathering Storm | 6.00% | ~1,245 |
 | Royal Outpost | 5.00% | ~1,038 |
 | Watchtower | 5.00% | ~1,038 |
 | Land of Greed | 5.00% | ~1,038 |

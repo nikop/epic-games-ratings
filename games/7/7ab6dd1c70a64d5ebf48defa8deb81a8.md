@@ -16,8 +16,8 @@ Rating: 4.17 (Ranked 990)
 | Scholar | 24.00% | ~554 |
 | I Found It | 24.00% | ~554 |
 | Fashion Victim | 23.00% | ~531 |
+| Tributes of Caladrias | 22.00% | ~508 |
 | Stone Collection | 22.00% | ~508 |
-| Tributes of Caladrias | 21.00% | ~485 |
 | Powerful Allies | 20.00% | ~462 |
 | Big Bazar | 14.00% | ~323 |
 | Alchemist | 14.00% | ~323 |
@@ -28,8 +28,8 @@ Rating: 4.17 (Ranked 990)
 | Godslayer | 8.00% | ~185 |
 | Airborne | 8.00% | ~185 |
 | Miner | 8.00% | ~185 |
+| Clear Sight | 5.00% | ~115 |
 | Shatterer | 5.00% | ~115 |
-| Clear Sight | 4.00% | ~92 |
 | Fine Feathers Make Fine Birds | 4.00% | ~92 |
 | Slayer | 3.00% | ~69 |
 | A Queen's Tale | 3.00% | ~69 |

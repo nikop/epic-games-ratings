@@ -15,8 +15,8 @@
 | Protector | 27.00% | ~293 |
 | Office Clerk | 26.00% | ~282 |
 | The Bribe | 24.00% | ~261 |
+| Interrogation | 15.00% | ~163 |
 | The Ploy | 14.00% | ~152 |
-| Interrogation | 14.00% | ~152 |
 | Sabotage | 10.00% | ~109 |
 | Choices Matter | 6.00% | ~65 |
 | The Fool | 6.00% | ~65 |

@@ -3,11 +3,11 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 220,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1319,
+  "EOS_Progressed": 1320,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -3999,6 +3999,11 @@
       "Time": "2024-01-13T22:10:13.8170651+00:00",
       "NumProgressed": 1319,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T00:10:52.9472689+00:00",
+      "NumProgressed": 1320,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4026,7 +4031,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ChestCompletion1",
@@ -4042,7 +4047,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4146,7 +4151,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "GadgetCompletion1",
@@ -4274,7 +4279,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4282,7 +4287,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "PidgeDefeated",
@@ -4362,7 +4367,7 @@
       "Name": "Syron for Hope",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4402,7 +4407,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "WatcherSpared",
@@ -4426,14 +4431,14 @@
       "Name": "The Family Fortune",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1319,
+      "Progressed": 1320,
       "Completed": 8
     }
   ],
@@ -4441,8 +4446,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-12T11:57:31.6661727+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:46.5445337+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:52.9472684+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.8923113+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:13.5492644+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:46.5446047+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:33.1013579+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:52.9473306+00:00"
 }

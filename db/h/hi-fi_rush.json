@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17049,
+  "EOS_Progressed": 17050,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1217,
+  "EOS_NewPlayers": 1209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12133,6 +12133,11 @@
       "Time": "2024-01-13T23:06:13.3204352+00:00",
       "NumProgressed": 17049,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T00:05:03.4970827+00:00",
+      "NumProgressed": 17050,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12144,7 +12149,7 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9206
+      "UsersEstimate": 9207
     },
     {
       "ID": "Ach002",
@@ -12208,7 +12213,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "Ach010",
@@ -12256,7 +12261,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5967
+      "UsersEstimate": 5968
     },
     {
       "ID": "Ach016",
@@ -12304,7 +12309,7 @@
       "Name": "I have to read these things?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "Ach022",
@@ -12320,7 +12325,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9377
+      "UsersEstimate": 9378
     },
     {
       "ID": "Ach024",
@@ -12342,9 +12347,9 @@
       "ID": "Ach026",
       "SetID": "12n4k20",
       "Name": "You must like calling me in, Chai",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2558
     },
     {
       "ID": "Ach027",
@@ -12408,7 +12413,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "Ach035",
@@ -12518,9 +12523,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4774
     },
     {
       "ID": "Ach049",
@@ -12711,13 +12716,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17049,
+      "Progressed": 17050,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15570,
+      "Progressed": 15571,
       "Completed": 1931
     }
   ],
@@ -12725,8 +12730,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:06:13.3204348+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:05:03.4970818+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:11.3066916+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:06:13.3205427+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:25.9821856+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:05:03.4972047+00:00"
 }

@@ -45,8 +45,8 @@ Number of Ratings: 116  (23.09.2022)
 | Community Outreach | 16.00% | ~93 |
 | A Parting Gift | 14.00% | ~81 |
 | Path of the Horseman | 14.00% | ~81 |
+| Take it to the Limit | 14.00% | ~81 |
 | Unbreakable Will | 13.00% | ~76 |
-| Take it to the Limit | 13.00% | ~76 |
 | Holy Keeper | 12.00% | ~70 |
 | Demon Keeper | 12.00% | ~70 |
 | Humanitarian | 9.00% | ~52 |

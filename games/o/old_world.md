@@ -1,19 +1,19 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 320)  
+Rating: 4.65 (Ranked 319)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~668 |
-| Settler | 4.00% | ~668 |
-| Play a Single Player Game | 4.00% | ~668 |
-| Able | 3.00% | ~501 |
-| Architect | 3.00% | ~501 |
-| Intrepid | 3.00% | ~501 |
-| Friendly Family | 3.00% | ~501 |
-| Hanging Gardens | 3.00% | ~501 |
+| Explorer | 4.00% | ~669 |
+| Settler | 4.00% | ~669 |
+| Play a Single Player Game | 4.00% | ~669 |
+| Able | 3.00% | ~502 |
+| Architect | 3.00% | ~502 |
+| Intrepid | 3.00% | ~502 |
+| Friendly Family | 3.00% | ~502 |
+| Hanging Gardens | 3.00% | ~502 |
 | Ambitious | 2.00% | ~334 |
 | Brilliant | 2.00% | ~334 |
 | Enlightened | 2.00% | ~334 |
@@ -84,18 +84,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~117 |
 | Patrons | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |
+| Hittite Iron | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
 | Dualism | 0.70% | ~117 |
 | Legionary | 0.70% | ~117 |
 | Double Victory | 0.70% | ~117 |
 | Win a Single Player Game | 0.70% | ~117 |
+| Kushite Paganism | 0.70% | ~117 |
 | Conqueror | 0.60% | ~100 |
 | Ready | 0.60% | ~100 |
 | Subjugator | 0.60% | ~100 |
 | Victorious | 0.60% | ~100 |
 | Riders | 0.60% | ~100 |
-| Hittite Iron | 0.60% | ~100 |
 | Circus Maximus | 0.60% | ~100 |
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
 | The Clergy | 0.60% | ~100 |
-| Kushite Paganism | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~84 |
 | Capable | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,709 (Ranked 169)  
+Progressed: 16,717 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,6 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
+| 2024-01-14 | 16,717 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

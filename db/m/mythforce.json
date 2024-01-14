@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -856,7 +856,7 @@
   ],
   "EOS_Progressed": 6322,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13277,9 +13277,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1707
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13357,9 +13357,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1644
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13381,8 +13381,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-06T07:59:55.9427049+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:06:23.6249084+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:05:12.8195432+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:52:01.747914+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:04.0425034+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:06:23.6249983+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:19.7193507+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:05:12.8196029+00:00"
 }

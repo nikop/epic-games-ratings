@@ -1,13 +1,13 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 356)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,229 |
-| Realm Estate | 15.00% | ~1,084 |
-| A Wonderful Discovery | 14.00% | ~1,012 |
+| Realm Estate | 16.00% | ~1,156 |
+| A Wonderful Discovery | 15.00% | ~1,084 |
 | Walls Cannot Stop Us | 14.00% | ~1,012 |
 | From Friends to Family | 12.00% | ~867 |
 | Bone Peddler | 11.00% | ~795 |

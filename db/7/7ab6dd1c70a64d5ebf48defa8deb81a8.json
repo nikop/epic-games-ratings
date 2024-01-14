@@ -3,12 +3,12 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 990,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -99,7 +99,7 @@
   "Tags": [],
   "EOS_Progressed": 2309,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 373,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4544,9 +4544,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_08",
@@ -4608,9 +4608,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 508
     },
     {
       "ID": "ACH_16",
@@ -4793,8 +4793,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-13T14:58:03.8260489+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:39.5061694+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:46.316955+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:28.168906+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:39.5062276+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:46.6291607+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:46.3170086+00:00"
 }

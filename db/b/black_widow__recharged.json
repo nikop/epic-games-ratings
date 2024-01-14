@@ -3,12 +3,12 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24900,
+  "EOS_Progressed": 24902,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23328,6 +23328,11 @@
       "Time": "2024-01-13T23:07:18.9020821+00:00",
       "NumProgressed": 24900,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-14T00:06:04.3032624+00:00",
+      "NumProgressed": 24902,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23339,7 +23344,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19173
+      "UsersEstimate": 19175
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23363,7 +23368,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6225
+      "UsersEstimate": 6226
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -23395,7 +23400,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12699
+      "UsersEstimate": 12700
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23419,7 +23424,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6474
+      "UsersEstimate": 6475
     },
     {
       "ID": "ACH_THE_FALL",
@@ -23450,15 +23455,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24900,
+      "Progressed": 24902,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:07:18.9020816+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:06:04.3032619+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:43.5495434+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:58:29.3573021+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:07:18.9022049+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:52.8089097+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:06:04.3034017+00:00"
 }

@@ -19,23 +19,23 @@ Rating: 4.70 (Ranked 220)
 | Immaculate Aim | 26.00% | ~343 |
 | Fast Learner | 25.00% | ~330 |
 | The Steel Shadow | 24.00% | ~317 |
-| Right On Time | 23.00% | ~303 |
-| Breaking Down Barriers | 23.00% | ~303 |
-| The Wicked Twins | 23.00% | ~303 |
+| Right On Time | 23.00% | ~304 |
+| Breaking Down Barriers | 23.00% | ~304 |
+| The Wicked Twins | 23.00% | ~304 |
 | Like Clockwork | 22.00% | ~290 |
 | The Betrayer | 22.00% | ~290 |
 | Golem Chaser | 22.00% | ~290 |
 | The Loose Cannon | 20.00% | ~264 |
 | Check Your Pulse | 20.00% | ~264 |
 | Street Style | 19.00% | ~251 |
-| The Man Who Shattered Time | 18.00% | ~237 |
-| The Family Fortune | 18.00% | ~237 |
+| The Man Who Shattered Time | 18.00% | ~238 |
+| The Family Fortune | 18.00% | ~238 |
 | Whiz Kid | 15.00% | ~198 |
 | Good Neighbor | 15.00% | ~198 |
 | Family Memories | 14.00% | ~185 |
-| Chaincrawler Explorer | 13.00% | ~171 |
-| Syron for Hope | 13.00% | ~171 |
-| Ask Questions Later | 13.00% | ~171 |
+| Chaincrawler Explorer | 13.00% | ~172 |
+| Syron for Hope | 13.00% | ~172 |
+| Ask Questions Later | 13.00% | ~172 |
 | Treasure Trove | 12.00% | ~158 |
 | Cartographer | 12.00% | ~158 |
 | Sump Explorer | 12.00% | ~158 |
@@ -59,7 +59,7 @@ Rating: 4.70 (Ranked 220)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,319 (Ranked 281)  
+Progressed: 1,320 (Ranked 281)  
 Completed: 8 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -234,6 +234,7 @@ Completed: 8 (0.61%) (Ranked 208)
 | 2024-01-11 | 1,306 | 8 |
 | 2024-01-12 | 1,312 | 8 |
 | 2024-01-13 | 1,319 | 8 |
+| 2024-01-14 | 1,320 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

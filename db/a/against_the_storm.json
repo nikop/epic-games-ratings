@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3949,7 +3949,7 @@
   ],
   "EOS_Progressed": 20758,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19855,9 +19855,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1453
     },
     {
       "ID": "WinPrestige10",
@@ -20015,9 +20015,9 @@
       "ID": "WinNearStorms",
       "SetID": "cfbk359",
       "Name": "Gathering Storm",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1453
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20047,8 +20047,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:08:51.0093932+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:07:30.0891054+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:57.8747597+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:02:22.8024162+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:08:51.0095234+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:01:20.4784055+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:07:30.0892172+00:00"
 }

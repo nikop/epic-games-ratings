@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 510)  
+Rating: 4.56 (Ranked 509)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,8 +36,8 @@ Rating: 4.56 (Ranked 510)
 | Peacekeeper | 12.00% | ~24 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
+| Titan Lord | 10.00% | ~20 |
 | Safecracker | 10.00% | ~20 |
-| Titan Lord | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |
 | Freedom fighter | 8.00% | ~16 |
 | Expert | 7.00% | ~14 |

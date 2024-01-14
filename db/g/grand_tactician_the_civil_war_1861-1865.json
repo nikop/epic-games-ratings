@@ -3,12 +3,12 @@
   "Name": "Grand Tactician: The Civil War 1861-1865",
   "ProductSlug": "grand-tactician-the-civil-war-18611865-6c21fc",
   "Ranking_Rating": 1016,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 577,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-27T16:00:00+00:00",
     "PcReleaseDate": "2022-05-26T00:00:00+00:00",
@@ -127,6 +127,6 @@
   "FirstSeen": "2022-07-22T20:22:55.5323609+00:00",
   "LastChanged": "2024-01-10T08:03:16.1666147+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.5700811+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:04:23.9054476+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:10:12.4560252+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:03:23.7645531+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:24.9868697+00:00"
 }

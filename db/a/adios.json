@@ -3,12 +3,12 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1099,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83466,
+  "EOS_Progressed": 83468,
   "EOS_Completed": 932,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -30106,6 +30106,11 @@
       "Time": "2024-01-13T23:07:29.9021151+00:00",
       "NumProgressed": 83466,
       "NumCompleted": 932
+    },
+    {
+      "Time": "2024-01-14T00:06:14.7760235+00:00",
+      "NumProgressed": 83468,
+      "NumCompleted": 932
     }
   ],
   "TotalAchievements": 25,
@@ -30189,7 +30194,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16693
+      "UsersEstimate": 16694
     },
     {
       "ID": "Hearty",
@@ -30269,7 +30274,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11685
+      "UsersEstimate": 11686
     },
     {
       "ID": "Sniper",
@@ -30316,7 +30321,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83466,
+      "Progressed": 83468,
       "Completed": 932
     }
   ],
@@ -30324,8 +30329,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:07:29.9021145+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:06:14.7760232+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:05.3609745+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:58:08.117867+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:07:29.9022667+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:33.8470594+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:06:14.7763439+00:00"
 }

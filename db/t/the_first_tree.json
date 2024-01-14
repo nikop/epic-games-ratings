@@ -3,12 +3,12 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 1057,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40486,
+  "EOS_Progressed": 40488,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -23968,6 +23968,11 @@
       "Time": "2024-01-13T23:09:46.9117173+00:00",
       "NumProgressed": 40486,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-14T00:09:01.1883339+00:00",
+      "NumProgressed": 40488,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -23995,7 +24000,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10526
+      "UsersEstimate": 10527
     },
     {
       "ID": "allItems",
@@ -24051,7 +24056,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "firstBunny",
@@ -24067,7 +24072,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30769
+      "UsersEstimate": 30771
     },
     {
       "ID": "roots",
@@ -24090,15 +24095,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40486,
+      "Progressed": 40488,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:09:46.911717+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:09:01.1883335+00:00",
   "LastUpdate_AppInfo": "2024-01-07T01:51:47.8106255+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:50.0724248+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:09:46.911845+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:00:00.4909+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:01.1884517+00:00"
 }

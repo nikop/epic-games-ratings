@@ -3,11 +3,11 @@
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
   "Ranking_Rating": 830,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21810,
+  "EOS_Progressed": 21815,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 1193,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -7961,6 +7961,11 @@
       "Time": "2024-01-13T23:08:18.0004092+00:00",
       "NumProgressed": 21810,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2024-01-14T00:06:59.2766651+00:00",
+      "NumProgressed": 21815,
+      "NumCompleted": 108
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -7973,7 +7978,7 @@
       "Name": "Avid Reader",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -8013,7 +8018,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -8021,7 +8026,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2835
+      "UsersEstimate": 2836
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8052,7 +8057,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 21810,
+      "Progressed": 21815,
       "Completed": 108
     }
   ],
@@ -8060,8 +8065,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-02T16:59:56.4750656+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:08:18.0004088+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:06:59.2766647+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:57:36.4943164+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:08:18.0004657+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:02.9015643+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:06:59.2767065+00:00"
 }

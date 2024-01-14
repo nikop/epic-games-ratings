@@ -6,59 +6,59 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,180 |
-| Happy Returns | 78.00% | ~385,358 |
-| Hey! That's mine! | 78.00% | ~385,358 |
-| Field Promotion | 74.00% | ~365,596 |
-| Leadhead | 71.00% | ~350,775 |
-| Eradicator | 68.00% | ~335,953 |
-| Surplus | 66.00% | ~326,072 |
-| I Spy | 64.00% | ~316,191 |
-| Burn Baby Burn | 59.00% | ~291,489 |
-| Yellow Beats Green | 56.00% | ~276,667 |
-| Salvage Rights | 53.00% | ~261,846 |
-| What IS that? | 51.00% | ~251,965 |
-| Close Call | 50.00% | ~247,024 |
-| Pew Pew | 50.00% | ~247,024 |
-| Penny Pincher | 49.00% | ~242,084 |
+| First Blood | 81.00% | ~400,181 |
+| Happy Returns | 78.00% | ~385,360 |
+| Hey! That's mine! | 78.00% | ~385,360 |
+| Field Promotion | 74.00% | ~365,598 |
+| Leadhead | 71.00% | ~350,776 |
+| Eradicator | 68.00% | ~335,955 |
+| Surplus | 66.00% | ~326,074 |
+| I Spy | 64.00% | ~316,193 |
+| Burn Baby Burn | 59.00% | ~291,490 |
+| Yellow Beats Green | 56.00% | ~276,669 |
+| Salvage Rights | 53.00% | ~261,847 |
+| What IS that? | 51.00% | ~251,966 |
+| Close Call | 50.00% | ~247,026 |
+| Pew Pew | 50.00% | ~247,026 |
+| Penny Pincher | 49.00% | ~242,085 |
 | Arsenal | 46.00% | ~227,263 |
 | Boot Camp | 46.00% | ~227,263 |
 | Flawless Victory | 42.00% | ~207,501 |
-| Confident | 41.00% | ~202,560 |
+| Confident | 41.00% | ~202,561 |
 | Exterminator | 36.00% | ~177,858 |
 | Sharpshooter | 34.00% | ~167,977 |
-| Not So Fast | 33.00% | ~163,036 |
+| Not So Fast | 33.00% | ~163,037 |
 | Great Ball of Fire | 32.00% | ~158,096 |
-| No Sale | 31.00% | ~153,155 |
+| No Sale | 31.00% | ~153,156 |
 | Kaboom! | 30.00% | ~148,215 |
-| Liquidator | 29.00% | ~143,274 |
+| Liquidator | 29.00% | ~143,275 |
 | High Voltage | 24.00% | ~118,572 |
 | Filthy Rich | 20.00% | ~98,810 |
 | Pyrrhic Victory | 18.00% | ~88,929 |
 | The Not-So-Friendly Skies | 18.00% | ~88,929 |
-| Power Builder | 17.00% | ~83,988 |
+| Power Builder | 17.00% | ~83,989 |
 | Death From Above | 16.00% | ~79,048 |
 | Retry | 16.00% | ~79,048 |
 | Head Trauma | 12.00% | ~59,286 |
 | Full Defense | 10.00% | ~49,405 |
-| Overseer | 9.00% | ~44,464 |
+| Overseer | 9.00% | ~44,465 |
 | Annihilator | 8.00% | ~39,524 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,524 |
 | Indecisive | 6.00% | ~29,643 |
-| Base Defender | 5.00% | ~24,702 |
-| Relay Race | 5.00% | ~24,702 |
+| Base Defender | 5.00% | ~24,703 |
+| Relay Race | 5.00% | ~24,703 |
 | Tower Expert | 4.00% | ~19,762 |
-| Diversity | 3.00% | ~14,821 |
-| Full Potential | 3.00% | ~14,821 |
+| Diversity | 3.00% | ~14,822 |
+| Full Potential | 3.00% | ~14,822 |
 | Minimalist | 2.00% | ~9,881 |
 | Nail Biter | 2.00% | ~9,881 |
 | Siege Breaker | 2.00% | ~9,881 |
 | The Long Road | 2.00% | ~9,881 |
 | Untouchable | 2.00% | ~9,881 |
-| Flurry | 1.00% | ~4,940 |
-| Gun Crazy | 1.00% | ~4,940 |
-| Well Invested | 1.00% | ~4,940 |
-| Xenocide | 1.00% | ~4,940 |
+| Flurry | 1.00% | ~4,941 |
+| Gun Crazy | 1.00% | ~4,941 |
+| Well Invested | 1.00% | ~4,941 |
+| Xenocide | 1.00% | ~4,941 |
 | Planet Defender | 0.90% | ~4,446 |
 | Master Siege Breaker | 0.80% | ~3,952 |
 | Few and Proud | 0.80% | ~3,952 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,049 (Ranked 43)  
+Progressed: 494,051 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,14 +363,15 @@ Completed: 5 (0.00%) (Ranked 400)
 | 2024-01-11 | 493,876 | 5 |
 | 2024-01-12 | 493,956 | 5 |
 | 2024-01-13 | 494,049 | 5 |
+| 2024-01-14 | 494,051 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 280)  
-Sum: 1,746 (Ranked 227)  
+Sum: 1,747 (Ranked 227)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 263 |
-| This game has Quickly Understood Controls | 227 |
+| This game has Quickly Understood Controls | 228 |
 | This game is Relaxing | 222 |
 | This game is Extremely Fun | 215 |
 | This game is Highly Recommended | 199 |
@@ -546,3 +547,4 @@ Diff (max vs sum): 53
 | 2024-01-06 | 4.45 | - | 263 | 1,743 |
 | 2024-01-08 | 4.45 | - | 263 | 1,745 |
 | 2024-01-10 | 4.45 | - | 263 | 1,746 |
+| 2024-01-14 | 4.45 | - | 263 | 1,747 |

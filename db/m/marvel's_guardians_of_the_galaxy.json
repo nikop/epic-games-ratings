@@ -2,13 +2,13 @@
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 319,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 577,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -2012,10 +2012,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 3703,
       "NumberOfAwardsMax": 2969
+    },
+    {
+      "Time": "2024-01-13T23:58:39.4742839+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 3719,
+      "NumberOfAwardsMax": 2969
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3703,
+  "NumberOfAwards": 3719,
   "NumberOfAwardsMax": 2969,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2041,7 +2047,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 87
+      "Count": 103
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2091,8 +2097,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-13T21:58:27.8835748+00:00",
+  "LastChanged": "2024-01-13T23:58:39.4742837+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:24.222579+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:20.3048717+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:06:02.0271805+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:39.4742842+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:04:53.1165103+00:00"
 }

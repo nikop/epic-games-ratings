@@ -1,12 +1,12 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~540 |
+| Adept | 46.00% | ~541 |
 | Double Kill | 40.00% | ~470 |
 | Critical Hit | 23.00% | ~270 |
 | Veteran | 23.00% | ~270 |
@@ -17,9 +17,9 @@ Number of Ratings: 292  (23.09.2022)
 | Sorcerous Spree | 9.00% | ~106 |
 | Landlord Extraordinaire | 7.00% | ~82 |
 | Master | 7.00% | ~82 |
-| The Song of Stoutheart | 6.00% | ~70 |
-| Whoops! | 6.00% | ~70 |
-| Don't Touch My Stuff | 6.00% | ~70 |
+| The Song of Stoutheart | 6.00% | ~71 |
+| Whoops! | 6.00% | ~71 |
+| Don't Touch My Stuff | 6.00% | ~71 |
 | Trojan Horse | 5.00% | ~59 |
 | Expert Essence Employment | 4.00% | ~47 |
 | Ultra Kill | 3.00% | ~35 |
@@ -48,6 +48,7 @@ Number of Ratings: 292  (23.09.2022)
 | Hello There | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
+| Kneel, peasant! | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
 | Die by the Bow | 0.00% | ~0 |
@@ -56,12 +57,11 @@ Number of Ratings: 292  (23.09.2022)
 | Full House | 0.00% | ~0 |
 | Proof That Luck Can Be Consistent | 0.00% | ~0 |
 | Death From Above | 0.00% | ~0 |
-| Kneel, peasant! | 0.00% | ~0 |
 | Contractually Obligated to Win | 0.00% | ~0 |
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,175 (Ranked 288)  
+Progressed: 1,176 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,6 +126,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 1,137 | 0 |
 | 2024-01-12 | 1,150 | 0 |
 | 2024-01-13 | 1,175 | 0 |
+| 2024-01-14 | 1,176 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 525)  
 Sum: 252 (Ranked 399)  

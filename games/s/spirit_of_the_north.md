@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 821)  
+Rating: 4.36 (Ranked 822)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~55,176 |
-| INFUSED WITH LIGHT | 53.00% | ~42,381 |
-| FOXIN' AROUND | 29.00% | ~23,190 |
-| FETCH | 28.00% | ~22,390 |
-| BLOOMS OF LIGHT | 26.00% | ~20,791 |
-| AWAKEN | 22.00% | ~17,592 |
-| BEST FRIENDS | 22.00% | ~17,592 |
-| SPIRIT BARK | 22.00% | ~17,592 |
-| ERADICATE | 21.00% | ~16,793 |
-| GARDEN OF LIGHT | 18.00% | ~14,394 |
-| SPIRIT FORM | 17.00% | ~13,594 |
-| UPROOTING DARKNESS | 16.00% | ~12,794 |
-| WRITTEN IN STONE | 16.00% | ~12,794 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~55,179 |
+| INFUSED WITH LIGHT | 53.00% | ~42,384 |
+| FOXIN' AROUND | 29.00% | ~23,191 |
+| FETCH | 28.00% | ~22,392 |
+| BLOOMS OF LIGHT | 26.00% | ~20,792 |
+| AWAKEN | 22.00% | ~17,593 |
+| BEST FRIENDS | 22.00% | ~17,593 |
+| SPIRIT BARK | 22.00% | ~17,593 |
+| ERADICATE | 21.00% | ~16,794 |
+| GARDEN OF LIGHT | 18.00% | ~14,395 |
+| SPIRIT FORM | 17.00% | ~13,595 |
+| UPROOTING DARKNESS | 16.00% | ~12,795 |
+| WRITTEN IN STONE | 16.00% | ~12,795 |
 | WEIGHTLESS | 12.00% | ~9,596 |
-| SPIRIT DASH | 11.00% | ~8,796 |
+| SPIRIT DASH | 11.00% | ~8,797 |
 | OLD COMPANION | 9.00% | ~7,197 |
 | PLAGUE DOCTOR | 9.00% | ~7,197 |
-| MATCH MAKER | 8.00% | ~6,397 |
-| NORTHERN LIGHTS | 8.00% | ~6,397 |
-| SPIRITED AWAY | 8.00% | ~6,397 |
+| MATCH MAKER | 8.00% | ~6,398 |
+| NORTHERN LIGHTS | 8.00% | ~6,398 |
+| SPIRITED AWAY | 8.00% | ~6,398 |
 | FOX? OR FLYING SQUIRREL? | 4.00% | ~3,199 |
 | ANCIENT HISTORY | 3.00% | ~2,399 |
 | NONE FORGOTTEN | 2.00% | ~1,599 |
 | KINDRED SPIRITS | 0.60% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,965 (Ranked 112)  
+Progressed: 79,970 (Ranked 112)  
 Completed: 433 (0.54%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,6 +300,7 @@ Completed: 433 (0.54%) (Ranked 220)
 | 2024-01-11 | 79,761 | 432 |
 | 2024-01-12 | 79,843 | 432 |
 | 2024-01-13 | 79,965 | 433 |
+| 2024-01-14 | 79,970 | 433 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 542)  
 Sum: 116 (Ranked 463)  

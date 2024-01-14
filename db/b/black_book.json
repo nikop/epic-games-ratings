@@ -2,9 +2,9 @@
   "ID": "8211dc6089af4542926b7a8137b9079e",
   "Name": "Black Book",
   "ProductSlug": "black-book",
-  "Ranking_Rating": 320,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Rating": 319,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 85,
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 66870,
+  "EOS_Progressed": 66874,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1339,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -16811,6 +16811,11 @@
       "Time": "2024-01-13T23:06:57.1291613+00:00",
       "NumProgressed": 66870,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-14T00:05:43.865553+00:00",
+      "NumProgressed": 66874,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16935,7 +16940,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14711
+      "UsersEstimate": 14712
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -16943,7 +16948,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -17023,7 +17028,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19392
+      "UsersEstimate": 19393
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -17063,7 +17068,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -17071,7 +17076,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8024
+      "UsersEstimate": 8025
     },
     {
       "ID": "NORMAL_END",
@@ -17111,7 +17116,7 @@
       "Name": "Voipel",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "SAVVY",
@@ -17143,7 +17148,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10030
+      "UsersEstimate": 10031
     },
     {
       "ID": "TALES_2",
@@ -17151,7 +17156,7 @@
       "Name": "Collector",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "TALES_3",
@@ -17183,7 +17188,7 @@
       "Name": "Wolf",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "WORD_MASTER",
@@ -17199,7 +17204,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10699
+      "UsersEstimate": 10700
     },
     {
       "ID": "ZNATKOST_2",
@@ -17207,7 +17212,7 @@
       "Name": "Black Mage",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6018
+      "UsersEstimate": 6019
     },
     {
       "ID": "ZNATKOST_3",
@@ -17222,15 +17227,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 66870,
+      "Progressed": 66874,
       "Completed": 72
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:06:57.129161+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:05:43.8655522+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:33.7261793+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:45.4845865+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:06:57.1292738+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:56.045244+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:05:43.8657513+00:00"
 }

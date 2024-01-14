@@ -2,13 +2,13 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 339,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 577,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "NumberOfRatings": 1361,
   "RatingHistory": [
     {
@@ -3743,6 +3743,12 @@
       "Rating": 4.36,
       "NumberOfAwards": 1024,
       "NumberOfAwardsMax": 140
+    },
+    {
+      "Time": "2024-01-14T00:01:24.0116433+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1024,
+      "NumberOfAwardsMax": 140
     }
   ],
   "ReviewsDisabled": false,
@@ -3822,8 +3828,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-01-12T20:59:35.9468382+00:00",
+  "LastChanged": "2024-01-14T00:01:24.0116432+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:21.7921708+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:02:25.670643+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:10:26.4825665+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:01:24.0116437+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:38.1856295+00:00"
 }

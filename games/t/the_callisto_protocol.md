@@ -5,7 +5,7 @@ Rating: 4.22 (Ranked 954)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 27.00% | ~6,024 |
+| The Outer Way | 27.00% | ~6,025 |
 | Flesh Wound | 26.00% | ~5,801 |
 | Desperate Times | 25.00% | ~5,578 |
 | Paper Jams | 23.00% | ~5,132 |
@@ -18,8 +18,8 @@ Rating: 4.22 (Ranked 954)
 | Without A Paddle | 15.00% | ~3,347 |
 | In the Pipe, Five by Five | 13.00% | ~2,901 |
 | Crash Site | 13.00% | ~2,901 |
-| Two Heads Are Better Than One | 12.00% | ~2,677 |
-| Power Up | 12.00% | ~2,677 |
+| Two Heads Are Better Than One | 12.00% | ~2,678 |
+| Power Up | 12.00% | ~2,678 |
 | Terminated | 11.00% | ~2,454 |
 | Giving Back | 10.00% | ~2,231 |
 | What Lies Beneath | 10.00% | ~2,231 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,312 (Ranked 151)  
+Progressed: 22,313 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,11 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
+| 2024-01-14 | 22,313 | 82 |
 ## Awards
 Max (Amazing Characters): 134  (Ranked 343)  
-Sum: 649 (Ranked 320)  
-Diff (max vs sum): 23  
+Sum: 649 (Ranked 319)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 134 |

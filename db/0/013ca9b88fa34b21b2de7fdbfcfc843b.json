@@ -3,12 +3,12 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 343,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9044,
+  "EOS_Progressed": 9045,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
@@ -10178,6 +10178,11 @@
       "Time": "2024-01-13T23:11:41.2123983+00:00",
       "NumProgressed": 9044,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T00:10:48.0760484+00:00",
+      "NumProgressed": 9045,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10533,13 +10538,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9044,
+      "Progressed": 9045,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1661,
+      "Progressed": 1662,
       "Completed": 1050
     }
   ],
@@ -10547,8 +10552,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:41.2123978+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:48.0760475+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:04:32.7603918+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:41.2125056+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:03:30.7439199+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:48.0761115+00:00"
 }

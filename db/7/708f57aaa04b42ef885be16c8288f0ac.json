@@ -425,9 +425,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 14823,
+  "EOS_Progressed": 14824,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1025,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10285,6 +10285,11 @@
       "Time": "2024-01-13T23:11:36.7572756+00:00",
       "NumProgressed": 14823,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T00:10:43.7831877+00:00",
+      "NumProgressed": 14824,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10305,7 +10310,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6077
+      "UsersEstimate": 6078
     },
     {
       "ID": "BeLikeWater",
@@ -10337,7 +10342,7 @@
       "Name": "Connection Lost",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "Eavesdropper",
@@ -10377,7 +10382,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "GarbageMan",
@@ -10568,7 +10573,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14823,
+      "Progressed": 14824,
       "Completed": 27
     }
   ],
@@ -10576,8 +10581,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-13T11:58:52.3774127+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:36.7572752+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:43.783187+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:35.7371724+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:36.7573529+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:53.4310762+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:43.7832423+00:00"
 }

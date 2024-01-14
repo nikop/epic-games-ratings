@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
     "PcReleaseDate": "2022-10-13T23:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "halls",
@@ -524,8 +524,8 @@
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:09:40.0241689+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:08:54.9637102+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.1512707+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:58:35.2667687+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:09:40.024192+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:57.6828994+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:08:54.963737+00:00"
 }

@@ -1,15 +1,15 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 357)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~370 |
-| Kaijuiced | 71.00% | ~341 |
+| Kaijuiced | 72.00% | ~346 |
 | Lie Back and Think of Albion | 66.00% | ~317 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~307 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 65.00% | ~312 |
 | I Look Up As I Walk to Takoshima | 60.00% | ~288 |
 | Yettisoned | 59.00% | ~283 |
 | Pimp My Raid | 57.00% | ~274 |
@@ -34,7 +34,7 @@ Number of Ratings: 85  (23.09.2022)
 | Hidden Human Hive Harvest | 16.00% | ~77 |
 | Mash Machine | 16.00% | ~77 |
 | Albion Bridge Is for Falling Down | 15.00% | ~72 |
-| Dusted | 13.00% | ~62 |
+| Dusted | 14.00% | ~67 |
 | Scuttled | 11.00% | ~53 |
 | Higher Than the Futen Zoku | 11.00% | ~53 |
 | PK Slam Dunk | 9.00% | ~43 |

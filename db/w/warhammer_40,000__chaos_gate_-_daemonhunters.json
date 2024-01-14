@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -849,7 +849,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3891,
+  "EOS_Progressed": 3892,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -5959,6 +5959,11 @@
       "Time": "2024-01-13T21:03:31.4179656+00:00",
       "NumProgressed": 3891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T00:04:05.1749858+00:00",
+      "NumProgressed": 3892,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6066,7 +6071,7 @@
       "Name": "Surgical Excision",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -6178,7 +6183,7 @@
       "Name": "Friendly Fire",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Kills_Interactable",
@@ -6513,21 +6518,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3891,
+      "Progressed": 3892,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3891,
+      "Progressed": 3892,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-13T23:04:24.9457302+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:05:10.5827488+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:04:05.1749852+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:54.2702622+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:04:24.9457308+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:05:10.5828635+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:03:24.7361468+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:04:05.1750904+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 149,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Rating": 134,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-12-28T14:01:53.0382273+00:00",
@@ -63,6 +63,12 @@
     {
       "Time": "2024-01-08T17:59:07.5685101+00:00",
       "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-13T23:57:43.11963+00:00",
+      "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2565,9 +2571,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 549
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -2957,9 +2963,9 @@
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged": "2024-01-08T17:59:07.5685099+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:10:41.5905905+00:00",
+  "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:09:52.0608288+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:58:18.67369+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:10:41.5906457+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:57:43.1196303+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:52.0608844+00:00"
 }

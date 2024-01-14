@@ -1,23 +1,23 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~213,920 |
-| 50 HEADSHOTS | 31.00% | ~200,955 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,472 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,990 |
-| FINISHED CHAPTER 2 | 21.00% | ~136,131 |
-| 200 HEADSHOTS | 19.00% | ~123,166 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,683 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,236 |
-| FINISH CHAPTER 5 | 13.00% | ~84,271 |
-| FINISH CHAPTER 6 | 11.00% | ~71,307 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,307 |
-| 1000 KILLS | 10.00% | ~64,824 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,930 |
+| 100 KILLS | 33.00% | ~213,915 |
+| 50 HEADSHOTS | 31.00% | ~200,950 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,468 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,986 |
+| FINISHED CHAPTER 2 | 21.00% | ~136,128 |
+| 200 HEADSHOTS | 19.00% | ~123,163 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,681 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,234 |
+| FINISH CHAPTER 5 | 13.00% | ~84,270 |
+| FINISH CHAPTER 6 | 11.00% | ~71,305 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,305 |
+| 1000 KILLS | 10.00% | ~64,823 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,929 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,965 |
 | FIRST BLOOD | 2.00% | ~12,965 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,482 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 241)
 | THE GAMBLER | 0.10% | ~648 |
 | WARRIOR IN A GARDEN | 0.10% | ~648 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 648,241 (Ranked 32)  
+Progressed: 648,227 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,14 +327,15 @@ Completed: 58 (0.01%) (Ranked 376)
 | 2024-01-11 | 649,576 | 58 |
 | 2024-01-12 | 649,177 | 58 |
 | 2024-01-13 | 648,752 | 58 |
+| 2024-01-14 | 648,227 | 58 |
 ## Awards
 Max (Great Boss Battles): 503  (Ranked 223)  
-Sum: 589 (Ranked 326)  
+Sum: 590 (Ranked 326)  
 Diff (max vs sum): -103  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 503 |
-| This game is Great for Quick Sessions | 25 |
+| This game is Great for Quick Sessions | 26 |
 | This game is Great for Beginners | 24 |
 | This game has Competitive Players | 21 |
 | This game is Highly Recommended | 20 |
@@ -503,3 +504,4 @@ Diff (max vs sum): -103
 | 2024-01-11 | 4.69 | 498 | 583 |
 | 2024-01-12 | 4.69 | 501 | 587 |
 | 2024-01-13 | 4.69 | 503 | 589 |
+| 2024-01-14 | 4.69 | 503 | 590 |

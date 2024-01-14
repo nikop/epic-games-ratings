@@ -3,12 +3,12 @@
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -215,11 +215,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70211,
+  "EOS_Progressed": 70254,
   "EOS_Completed": 11760,
   "EOS_NewPlayers": 4141,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 16.75,
+  "EOS_Completed_Percentage": 16.74,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -16530,6 +16530,11 @@
       "Time": "2024-01-13T23:10:46.8495996+00:00",
       "NumProgressed": 70211,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-14T00:09:57.0104172+00:00",
+      "NumProgressed": 70254,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -16550,7 +16555,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 52658
+      "UsersEstimate": 52690
     },
     {
       "ID": "grenadeKills",
@@ -16566,7 +16571,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2808
+      "UsersEstimate": 2810
     },
     {
       "ID": "headshots1000",
@@ -16606,7 +16611,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "revengeMedal",
@@ -16622,7 +16627,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "shotgunKills",
@@ -16653,7 +16658,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 70211,
+      "Progressed": 70254,
       "Completed": 11760
     }
   ],
@@ -16661,8 +16666,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:10:46.8495991+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:09:57.0104166+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.4134759+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:43.7286524+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:10:46.8497106+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:01.5915594+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:09:57.010498+00:00"
 }

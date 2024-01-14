@@ -4,8 +4,8 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 383,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -547,9 +547,9 @@
       "ID": "RichieRich",
       "SetID": "aaidab7",
       "Name": "Richie Rich",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SilentKiller",
@@ -602,8 +602,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:08:56.5514296+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:07:35.2327224+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.0695989+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:03:30.8415896+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:08:56.5514585+00:00"
+  "LastUpdate_Ratings": "2024-01-14T00:02:36.2302848+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:07:35.232772+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_Rating": 40,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 2740,
   "EOS_Completed": 204,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 36,
   "EOS_Completed_Percentage": 7.45,
   "EosHistory": [
@@ -7455,8 +7455,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-07T05:58:25.2811779+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:07:21.5626659+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:06:06.9085585+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:14.9633423+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:05.9930098+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:07:21.5627248+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:26.7437686+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:06:06.9086052+00:00"
 }

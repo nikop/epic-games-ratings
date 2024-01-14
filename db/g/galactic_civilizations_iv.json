@@ -4,11 +4,11 @@
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 990,
   "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1013,7 +1013,7 @@
   ],
   "EOS_Progressed": 7549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10384,8 +10384,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-12T16:57:40.5503057+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:40.9239638+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:47.7721078+00:00",
   "LastUpdate_AppInfo": "2024-01-06T23:57:06.8294647+00:00",
-  "LastUpdate_Ratings": "2024-01-13T22:59:16.7804433+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:40.9240588+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:58:36.1374726+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:47.7721983+00:00"
 }

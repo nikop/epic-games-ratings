@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2134,6 +2134,11 @@
       "Time": "2024-01-13T23:05:38.7912283+00:00",
       "NumProgressed": 545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T00:04:31.6806076+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2184,9 +2189,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 246
     },
     {
       "ID": "Master",
@@ -2224,7 +2229,7 @@
       "ID": "Speed",
       "SetID": "cjfnji1",
       "Name": "Speed",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -2257,14 +2262,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:05:38.7912278+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:04:31.6806073+00:00",
   "LastUpdate_AppInfo": "2024-01-09T04:57:00.8185326+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:48.9677725+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:05:38.7912469+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:59.4416998+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:04:31.6806238+00:00"
 }

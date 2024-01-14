@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473805,
+  "EOS_Progressed": 473808,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28449,6 +28449,11 @@
       "Time": "2024-01-13T23:11:46.6165239+00:00",
       "NumProgressed": 473805,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-14T00:10:53.1730414+00:00",
+      "NumProgressed": 473808,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28476,7 +28481,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113713
+      "UsersEstimate": 113714
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -28484,7 +28489,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104237
+      "UsersEstimate": 104238
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -28500,7 +28505,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47380
+      "UsersEstimate": 47381
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -28508,7 +28513,7 @@
       "Name": "Chapter IV: Through the Looking Glass",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 37904
+      "UsersEstimate": 37905
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -28548,7 +28553,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312711
+      "UsersEstimate": 312713
     },
     {
       "ID": "achievement_story_landa",
@@ -28572,7 +28577,7 @@
       "Name": "Through the mirror",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37904
+      "UsersEstimate": 37905
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -28580,7 +28585,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118451
+      "UsersEstimate": 118452
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28596,7 +28601,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33166
+      "UsersEstimate": 33167
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -28604,7 +28609,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33166
+      "UsersEstimate": 33167
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -28620,7 +28625,7 @@
       "Name": "General Vivar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37904
+      "UsersEstimate": 37905
     },
     {
       "ID": "achievement_story_meet_zenon",
@@ -28636,7 +28641,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94761
+      "UsersEstimate": 94762
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -28644,7 +28649,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161094
+      "UsersEstimate": 161095
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -28652,7 +28657,7 @@
       "Name": "Back to Ganyma",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37904
+      "UsersEstimate": 37905
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -28700,7 +28705,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33166
+      "UsersEstimate": 33167
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -28724,7 +28729,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33166
+      "UsersEstimate": 33167
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -28884,7 +28889,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208474
+      "UsersEstimate": 208476
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -28916,7 +28921,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184784
+      "UsersEstimate": 184785
     },
     {
       "ID": "achievement_win_run_hard",
@@ -28964,7 +28969,7 @@
       "Name": "Kaos Rule",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 37904
+      "UsersEstimate": 37905
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -28972,7 +28977,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104237
+      "UsersEstimate": 104238
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -29091,21 +29096,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17739,
+      "Progressed": 17742,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473805,
+      "Progressed": 473808,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-13T23:11:46.6165232+00:00",
+  "LastChanged_Achievements": "2024-01-14T00:10:53.1730409+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:31.2733774+00:00",
-  "LastUpdate_Ratings": "2024-01-13T23:00:00.5492857+00:00",
-  "LastUpdate_Achievements": "2024-01-13T23:11:46.6167225+00:00"
+  "LastUpdate_Ratings": "2024-01-13T23:59:16.5395769+00:00",
+  "LastUpdate_Achievements": "2024-01-14T00:10:53.1732188+00:00"
 }

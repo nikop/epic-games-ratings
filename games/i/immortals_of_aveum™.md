@@ -10,7 +10,7 @@ Rating: 4.21 (Ranked 958)
 | Enlisted | 75.00% | ~2,558 |
 | Maybe Engage a Little | 70.00% | ~2,387 |
 | No More Names | 53.00% | ~1,807 |
-| Initiate | 39.00% | ~1,330 |
+| Initiate | 40.00% | ~1,364 |
 | Thrada-Kul | 36.00% | ~1,228 |
 | Gravity-Challenged Rocks | 29.00% | ~989 |
 | Soldier | 25.00% | ~852 |
@@ -20,7 +20,7 @@ Rating: 4.21 (Ranked 958)
 | Control is an Illusion | 21.00% | ~716 |
 | The Means to Save It | 19.00% | ~648 |
 | Resilience to Sin | 17.00% | ~580 |
-| A Familiar Nest | 16.00% | ~546 |
+| A Familiar Nest | 17.00% | ~580 |
 | Periapt Alizarin | 16.00% | ~546 |
 | Geas Aristeya | 15.00% | ~512 |
 | A Perfect Cycle | 14.00% | ~477 |
