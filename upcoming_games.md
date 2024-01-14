@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Strike Solitaire 2](games/f/f41697594aa546a09dcd518284b290d1.md) | 2024-01-14 | - |  | - | - |
 | [Monke island: Rise Of The Beast](games/9/906d64ff09f0409ba0fef64ea53fe208.md) | 2024-01-15 | - |  | - | - |
 | [Aircraft Carrier Survival](games/6/6c0cf3150f2647858f071175510cfcd4.md) | 2024-01-17 | 18 (1,000 XP) | 2 | - | - |
 | [Mahjong World Contest 2](games/f/fb58d63ed83845d5b980ad46f9606eac.md) | 2024-01-17 | - |  | - | - |
@@ -486,6 +485,7 @@
 | [The Legend of Heroes Trails through Daybreak](games/b/b0beeaad664a41ddb029247838a5a930.md) | 2099-01-01 | - |  | - | - |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2099-01-01 | - |  | 4.74 | 0 |
 | [The Most Awesome Game Ever Made](games/t/the_most_awesome_game_ever_made.md) | 2099-01-01 | - |  | - | - |
+| [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2099-01-01 | - |  | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2099-01-01 | - |  | - | - |
 | [The World of Nifty Craft](games/9/9fdb4607f27248eaa4a0e72b346ec8e7.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
