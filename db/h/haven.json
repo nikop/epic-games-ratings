@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1987,
+  "EOS_Progressed": 1988,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3674,6 +3674,11 @@
       "Time": "2024-01-14T10:07:43.3327932+00:00",
       "NumProgressed": 1987,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-14T11:06:04.0949447+00:00",
+      "NumProgressed": 1988,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3749,7 +3754,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "18",
@@ -3757,7 +3762,7 @@
       "Name": "Like new!",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "19",
@@ -3797,7 +3802,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "23",
@@ -3845,7 +3850,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "30",
@@ -3869,7 +3874,7 @@
       "Name": "Spring cleaning",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "4",
@@ -3877,7 +3882,7 @@
       "Name": "Head in the clouds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "5",
@@ -3893,7 +3898,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "7",
@@ -3924,15 +3929,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1987,
+      "Progressed": 1988,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:07:43.332793+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:06:04.0949443+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:57:46.727573+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:07:43.3328194+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:57:31.1143363+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:06:04.0949787+00:00"
 }

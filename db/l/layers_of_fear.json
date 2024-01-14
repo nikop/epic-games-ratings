@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1832,9 +1832,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "tough_conversation",
@@ -1864,9 +1864,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1887,8 +1887,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:09:37.5277902+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:09:01.625926+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:01:56.777771+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:09:37.5278243+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:00:32.3136236+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:09:01.6259796+00:00"
 }

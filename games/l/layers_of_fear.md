@@ -7,7 +7,7 @@
 | Something important | 87.00% | ~284 |
 | A piece of the story | 65.00% | ~212 |
 | It's covered up for a reason | 59.00% | ~192 |
-| Wanderer | 54.00% | ~176 |
+| Wanderer | 55.00% | ~179 |
 | Scraps of love | 52.00% | ~170 |
 | The artist’s impression | 49.00% | ~160 |
 | Do what you have to | 44.00% | ~143 |
@@ -24,10 +24,10 @@
 | Lights! Camera! Action! | 12.00% | ~39 |
 | First steps | 10.00% | ~33 |
 | Playtime | 10.00% | ~33 |
+| The tragedy unfolds | 10.00% | ~33 |
 | Tough conversation | 10.00% | ~33 |
 | A new way | 9.00% | ~29 |
 | Breaking free | 9.00% | ~29 |
-| The tragedy unfolds | 9.00% | ~29 |
 | True Reflection | 8.00% | ~26 |
 | Casting Finished | 7.00% | ~23 |
 | Heavy Burden | 7.00% | ~23 |

@@ -62,12 +62,12 @@ Rating: 4.11 (Ranked 1,022)
 | Arena Challenger | 3.00% | ~134 |
 | Ebony Jungle Liberator | 3.00% | ~134 |
 | Mythic Power | 3.00% | ~134 |
+| Cauldron Liberator | 2.00% | ~90 |
 | Enchanting skill x5 | 2.00% | ~90 |
 | Gear Enchanting | 2.00% | ~90 |
 | Guardian Master | 2.00% | ~90 |
 | Pokerface | 2.00% | ~90 |
 | What lies behind the bush | 2.00% | ~90 |
-| Cauldron Liberator | 1.00% | ~45 |
 | Conqueror | 1.00% | ~45 |
 | Titan Power | 1.00% | ~45 |
 | Transmute | 1.00% | ~45 |

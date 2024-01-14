@@ -6,41 +6,41 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~334,084 |
-| good drivers have dead flies on the side windows | 32.00% | ~133,634 |
-| keep it tidy | 26.00% | ~108,577 |
-| brail | 26.00% | ~108,577 |
-| car wash | 23.00% | ~96,049 |
-| the artist | 23.00% | ~96,049 |
-| podium | 20.00% | ~83,521 |
-| medium attack | 17.00% | ~70,993 |
-| bicycle race | 6.00% | ~25,056 |
-| grocery-getter | 5.00% | ~20,880 |
-| autopilot | 4.00% | ~16,704 |
-| rwd only | 3.00% | ~12,528 |
-| where is the stage? | 3.00% | ~12,528 |
-| night ride | 3.00% | ~12,528 |
-| snorkel | 3.00% | ~12,528 |
-| food tour: pasta | 3.00% | ~12,528 |
-| to finish first, first you must finish | 2.00% | ~8,352 |
-| perkele | 2.00% | ~8,352 |
-| turbo | 2.00% | ~8,352 |
-| if in doubt, flat out! | 2.00% | ~8,352 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,352 |
-| mittens | 2.00% | ~8,352 |
-| food tour: pretzel | 2.00% | ~8,352 |
-| espresso | 1.00% | ~4,176 |
-| monster | 1.00% | ~4,176 |
-| in like a lamb, out like a lion | 1.00% | ~4,176 |
+| light attack | 80.00% | ~334,175 |
+| good drivers have dead flies on the side windows | 32.00% | ~133,670 |
+| keep it tidy | 26.00% | ~108,607 |
+| brail | 26.00% | ~108,607 |
+| car wash | 23.00% | ~96,075 |
+| the artist | 23.00% | ~96,075 |
+| podium | 20.00% | ~83,544 |
+| medium attack | 17.00% | ~71,012 |
+| bicycle race | 6.00% | ~25,063 |
+| grocery-getter | 5.00% | ~20,886 |
+| autopilot | 4.00% | ~16,709 |
+| rwd only | 3.00% | ~12,532 |
+| where is the stage? | 3.00% | ~12,532 |
+| night ride | 3.00% | ~12,532 |
+| snorkel | 3.00% | ~12,532 |
+| food tour: pasta | 3.00% | ~12,532 |
+| to finish first, first you must finish | 2.00% | ~8,354 |
+| perkele | 2.00% | ~8,354 |
+| turbo | 2.00% | ~8,354 |
+| if in doubt, flat out! | 2.00% | ~8,354 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,354 |
+| mittens | 2.00% | ~8,354 |
+| food tour: pretzel | 2.00% | ~8,354 |
+| espresso | 1.00% | ~4,177 |
+| monster | 1.00% | ~4,177 |
+| in like a lamb, out like a lion | 1.00% | ~4,177 |
 | eurobeat | 0.60% | ~2,506 |
 | viking | 0.60% | ~2,506 |
 | parallel universe | 0.60% | ~2,506 |
-| oktoberfest | 0.50% | ~2,088 |
-| group b | 0.50% | ~2,088 |
-| maximum attack | 0.50% | ~2,088 |
-| samir | 0.50% | ~2,088 |
-| master of rally | 0.40% | ~1,670 |
-| antilag | 0.40% | ~1,670 |
+| oktoberfest | 0.50% | ~2,089 |
+| group b | 0.50% | ~2,089 |
+| maximum attack | 0.50% | ~2,089 |
+| samir | 0.50% | ~2,089 |
+| master of rally | 0.40% | ~1,671 |
+| antilag | 0.40% | ~1,671 |
 | parking lot | 0.30% | ~1,253 |
 | real roads, real fast | 0.30% | ~1,253 |
 | comfy seats | 0.20% | ~835 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~418 |
 | you're here for a good time, not a long time | 0.10% | ~418 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 417,605 (Ranked 49)  
+Progressed: 417,719 (Ranked 49)  
 Completed: 22 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,17 +249,17 @@ Completed: 22 (0.01%) (Ranked 376)
 | 2024-01-11 | 411,723 | 22 |
 | 2024-01-12 | 413,988 | 22 |
 | 2024-01-13 | 416,658 | 22 |
-| 2024-01-14 | 417,605 | 22 |
+| 2024-01-14 | 417,719 | 22 |
 ## Awards
 Max (Quickly Understood Controls): 41  (Ranked 483)  
-Sum: 244 (Ranked 404)  
-Diff (max vs sum): 79  
+Sum: 246 (Ranked 403)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 41 |
 | This game is Highly Recommended | 36 |
 | This game is Great for Quick Sessions | 35 |
-| This game is Relaxing | 30 |
+| This game is Relaxing | 32 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Storytelling | 28 |
 | This game is Extremely Fun | 26 |
@@ -327,4 +327,4 @@ Diff (max vs sum): 79
 | 2024-01-11 | 4.65 | - | 40 | 233 |
 | 2024-01-12 | 4.65 | - | 40 | 236 |
 | 2024-01-13 | 4.64 | - | 41 | 239 |
-| 2024-01-14 | 4.64 | - | 41 | 244 |
+| 2024-01-14 | 4.64 | - | 41 | 246 |

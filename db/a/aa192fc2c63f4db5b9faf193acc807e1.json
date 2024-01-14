@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 309,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
@@ -1397,9 +1397,9 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 142
+      "UsersEstimate": 145
     },
     {
       "ID": "creepytaleach4",
@@ -1460,8 +1460,8 @@
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:10:59.5998967+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:04.8592904+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:57.0912092+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:58:57.3315236+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:10:59.5999106+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:58:23.1801553+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:04.859314+00:00"
 }

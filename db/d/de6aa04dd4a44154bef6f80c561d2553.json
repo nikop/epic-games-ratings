@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 577,
   "Ranking_EOS_Completed": 131,
   "Ranking_EOS_NewPlayers": 471,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "Chapter01_TheDesperado",
       "SetID": "c8fdd59",
       "Name": "The Desperado",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Chapter02_BlackTidings",
@@ -411,9 +411,9 @@
       "ID": "Chapter15_TheComeback",
       "SetID": "c8fdd59",
       "Name": "The Comeback",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Chapter16_ToEndItAll",
@@ -507,9 +507,9 @@
       "ID": "Prologue_PeaceDisturbed",
       "SetID": "c8fdd59",
       "Name": "Peace Disturbed",
-      "Percentage": 86,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "RareFindings",
@@ -523,9 +523,9 @@
       "ID": "Recruit",
       "SetID": "c8fdd59",
       "Name": "Recruit",
-      "Percentage": 88,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ScrollToWin",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:11:12.2262662+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:14.9234612+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:59:15.6516537+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:11:12.2262886+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:58:37.7649315+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:14.9235146+00:00"
 }

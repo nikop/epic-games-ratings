@@ -6,19 +6,19 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~275 |
-| Cartographer | 58.00% | ~249 |
-| A Strange Artefact | 54.00% | ~232 |
-| Insomnia | 48.00% | ~206 |
+| The Adventure Begins | 64.00% | ~276 |
+| Cartographer | 58.00% | ~250 |
+| A Strange Artefact | 54.00% | ~233 |
+| Insomnia | 48.00% | ~207 |
 | Lost & Found & Lost Again | 43.00% | ~185 |
 | From Whence we Came | 43.00% | ~185 |
-| Fire and Flood | 41.00% | ~176 |
-| Spooky! | 38.00% | ~163 |
+| Fire and Flood | 41.00% | ~177 |
+| Spooky! | 38.00% | ~164 |
 | Treasure Hunt | 36.00% | ~155 |
-| Shennong Herbalist | 35.00% | ~150 |
-| Good Mama | 33.00% | ~142 |
+| Shennong Herbalist | 35.00% | ~151 |
 | O Captain My Captain | 32.00% | ~138 |
-| Plunderer | 30.00% | ~129 |
+| Good Mama | 32.00% | ~138 |
+| Plunderer | 29.00% | ~125 |
 | Taxonomist | 27.00% | ~116 |
 | Traveller | 26.00% | ~112 |
 | Uncertain Loyalties | 25.00% | ~108 |
@@ -27,11 +27,11 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 22.00% | ~95 |
 | Red Flag Pirate | 20.00% | ~86 |
 | Iron Man | 17.00% | ~73 |
-| A Gentle Beast | 17.00% | ~73 |
-| Practical Palaeontology | 17.00% | ~73 |
-| Adventurer | 15.00% | ~64 |
-| For the Club! | 15.00% | ~64 |
-| Shortening of the Way | 15.00% | ~64 |
+| A Gentle Beast | 16.00% | ~69 |
+| Practical Palaeontology | 16.00% | ~69 |
+| Adventurer | 15.00% | ~65 |
+| For the Club! | 15.00% | ~65 |
+| Shortening of the Way | 15.00% | ~65 |
 | Dapper | 14.00% | ~60 |
 | The New Director | 13.00% | ~56 |
 | The Director is Dead | 13.00% | ~56 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430 (Ranked 367)  
+Progressed: 431 (Ranked 367)  
 Completed: 1 (0.23%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,7 +146,7 @@ Completed: 1 (0.23%) (Ranked 273)
 | 2024-01-10 | 427 | 1 |
 | 2024-01-11 | 428 | 1 |
 | 2024-01-12 | 429 | 1 |
-| 2024-01-14 | 430 | 1 |
+| 2024-01-14 | 431 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

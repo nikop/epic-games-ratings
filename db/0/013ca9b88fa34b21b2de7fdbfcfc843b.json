@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9050,
+  "EOS_Progressed": 9052,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10198,6 +10198,11 @@
       "Time": "2024-01-14T06:10:06.9477334+00:00",
       "NumProgressed": 9050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T11:10:13.8828228+00:00",
+      "NumProgressed": 9052,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10210,7 +10215,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -10218,7 +10223,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -10250,7 +10255,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -10322,7 +10327,7 @@
       "Name": "Beach Comber",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -10394,7 +10399,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -10434,7 +10439,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -10442,7 +10447,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -10482,7 +10487,7 @@
       "Name": "Skilled",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "DLC1_ACHIEVEMENT_01",
@@ -10553,13 +10558,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9050,
+      "Progressed": 9052,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1667,
+      "Progressed": 1669,
       "Completed": 1050
     }
   ],
@@ -10567,8 +10572,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:11:10.9351669+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:13.8828223+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:04:03.7602713+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:11:10.9352421+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:03:15.2264695+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:13.882885+00:00"
 }

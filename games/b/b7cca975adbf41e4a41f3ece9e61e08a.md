@@ -5,18 +5,18 @@ Rating: 4.69 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,343 |
-| I Challenge You To Save More Money! | 81.00% | ~15,043 |
+| Last Night...Did We... | 88.00% | ~16,344 |
+| I Challenge You To Save More Money! | 81.00% | ~15,044 |
 | I Love How Tough You Are | 65.00% | ~12,072 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,772 |
-| What I Want Is You | 53.00% | ~9,843 |
+| What I Want Is You | 53.00% | ~9,844 |
 | To Be Or Not To Be | 50.00% | ~9,286 |
 | Are You Alright? | 47.00% | ~8,729 |
-| Love Actually | 42.00% | ~7,800 |
+| Love Actually | 42.00% | ~7,801 |
 | Drama King | 36.00% | ~6,686 |
 | Go Clean up In Your Own Way | 33.00% | ~6,129 |
 | You're Really Something Else | 32.00% | ~5,943 |
-| Drama CP: Reel to Real | 31.00% | ~5,757 |
+| Drama CP: Reel to Real | 31.00% | ~5,758 |
 | Happy Family | 30.00% | ~5,572 |
 | FIRST LOVE | 30.00% | ~5,572 |
 | Worthless Speech | 30.00% | ~5,572 |
@@ -31,7 +31,7 @@ Rating: 4.69 (Ranked 240)
 | All I Have Is Money | 21.00% | ~3,900 |
 | Lover In Dark Alley | 21.00% | ~3,900 |
 | SALUTE | 21.00% | ~3,900 |
-| Let Me Be Your Toy Boy | 20.00% | ~3,714 |
+| Let Me Be Your Toy Boy | 20.00% | ~3,715 |
 | Off We Sail Tonight | 15.00% | ~2,786 |
 | Can You Do This Or Not? | 14.00% | ~2,600 |
 | Love You Three Thousand | 13.00% | ~2,414 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 240)
 | Tall; Grande; Venti | 2.00% | ~371 |
 | Limerence | 2.00% | ~371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,572 (Ranked 161)  
+Progressed: 18,573 (Ranked 161)  
 Completed: 322 (1.73%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 322 (1.73%) (Ranked 145)
 | 2024-01-11 | 18,396 | 316 |
 | 2024-01-12 | 18,482 | 319 |
 | 2024-01-13 | 18,544 | 320 |
-| 2024-01-14 | 18,572 | 322 |
+| 2024-01-14 | 18,573 | 322 |
 ## Awards
 Max (Impact the Story): 37  (Ranked 497)  
 Sum: 37 (Ranked 532)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 351,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -626,9 +626,9 @@
       "ID": "ACH_013",
       "SetID": "7b646ck",
       "Name": "Seeking the truth",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_014",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:10:56.6463248+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:02.5462016+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.0301644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:01:48.0450716+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:10:56.64637+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:00:26.2830327+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:02.5462347+00:00"
 }

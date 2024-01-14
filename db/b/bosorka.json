@@ -4,8 +4,8 @@
   "ProductSlug": "bosorka-c0e6b6",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -515,9 +515,9 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 55,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "RUNE_BAT",
@@ -595,9 +595,9 @@
       "ID": "RUNE_DROPRESETSPELL",
       "SetID": "9433p49",
       "Name": "Devil\u0027s dozen",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 55,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -644,8 +644,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:04:14.7183959+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:03:23.1923744+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.1948205+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:58:24.8885068+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:04:14.7184076+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:57:59.3821783+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:03:23.1923888+00:00"
 }

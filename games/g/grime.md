@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,725 |
 | The Hunt | 3.00% | ~5,044 |
 | Ravenous | 3.00% | ~5,044 |
-| Weeper | 2.00% | ~3,362 |
+| Weeper | 2.00% | ~3,363 |
 | Harmless | 1.00% | ~1,681 |
 | Silenced Whispers | 1.00% | ~1,681 |
 | Devourer | 1.00% | ~1,681 |
@@ -27,11 +27,11 @@ Number of Ratings: 46  (23.09.2022)
 | Assimilation | 0.50% | ~841 |
 | Host | 0.50% | ~839 |
 | Celebration | 0.50% | ~841 |
-| Hunt Down | 0.40% | ~672 |
-| Artisan | 0.40% | ~672 |
-| Inevitable | 0.40% | ~672 |
-| All-Seeing | 0.40% | ~672 |
-| Breathsmith | 0.40% | ~672 |
+| Hunt Down | 0.40% | ~673 |
+| Artisan | 0.40% | ~673 |
+| Inevitable | 0.40% | ~673 |
+| All-Seeing | 0.40% | ~673 |
+| Breathsmith | 0.40% | ~673 |
 | Dream | 0.40% | ~671 |
 | Breath | 0.30% | ~504 |
 | Hush | 0.30% | ~504 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,122 (Ranked 84)  
+Progressed: 168,131 (Ranked 84)  
 Completed: 457 (0.27%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 457 (0.27%) (Ranked 265)
 | 2024-01-11 | 167,713 | 455 |
 | 2024-01-12 | 167,856 | 456 |
 | 2024-01-13 | 168,053 | 457 |
-| 2024-01-14 | 168,122 | 457 |
+| 2024-01-14 | 168,131 | 457 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 430)  
 Sum: 461 (Ranked 342)  

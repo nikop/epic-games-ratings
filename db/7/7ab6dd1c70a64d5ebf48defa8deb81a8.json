@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -97,9 +97,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2317,
+  "EOS_Progressed": 2319,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4517,6 +4517,11 @@
       "Time": "2024-01-14T09:10:09.8238399+00:00",
       "NumProgressed": 2317,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T11:10:12.4914947+00:00",
+      "NumProgressed": 2319,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4528,7 +4533,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ACH_02",
@@ -4536,7 +4541,7 @@
       "Name": "Find Allies",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_03",
@@ -4544,7 +4549,7 @@
       "Name": "Powerful Allies",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "ACH_04",
@@ -4560,7 +4565,7 @@
       "Name": "To Battle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_06",
@@ -4568,7 +4573,7 @@
       "Name": "Godslayer",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_07",
@@ -4584,7 +4589,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_09",
@@ -4624,7 +4629,7 @@
       "Name": "Adventurer",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_14",
@@ -4632,7 +4637,7 @@
       "Name": "Airborne",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_15",
@@ -4664,7 +4669,7 @@
       "Name": "Shatter Them All",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_19",
@@ -4704,7 +4709,7 @@
       "Name": "Geared Up",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_24",
@@ -4728,7 +4733,7 @@
       "Name": "Scholar",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_27",
@@ -4744,7 +4749,7 @@
       "Name": "I Found It",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_29",
@@ -4760,7 +4765,7 @@
       "Name": "Alchemist",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_31",
@@ -4776,7 +4781,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_34",
@@ -4815,7 +4820,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2317,
+      "Progressed": 2319,
       "Completed": 3
     }
   ],
@@ -4823,8 +4828,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-13T14:58:03.8260489+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:11:09.2587094+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:12.4914942+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:59:17.356724+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:11:09.2587496+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:58:38.8538477+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:12.491546+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c62d7481ae1744dab7310c8f4e1e9548",
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
-  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.56,
+  "EOS_Completed_Percentage": 4.55,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1174,6 +1174,11 @@
       "Time": "2024-01-13T18:08:03.8365619+00:00",
       "NumProgressed": 241,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T11:06:37.4925791+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1234,7 +1239,7 @@
       "Name": "Jing Jang",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Kamzik",
@@ -1242,7 +1247,7 @@
       "Name": "Chamois",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "Kour",
@@ -1266,7 +1271,7 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Kvitky",
@@ -1274,7 +1279,7 @@
       "Name": "Blossoms",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MluviciPapouch",
@@ -1378,7 +1383,7 @@
       "Name": "Sprouting Tree",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Termit",
@@ -1425,14 +1430,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:08:26.6673553+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:06:37.4925783+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:03:40.4695239+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:08:26.6673777+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:02:57.3012587+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:06:37.4926049+00:00"
 }

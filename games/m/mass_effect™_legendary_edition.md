@@ -37,9 +37,9 @@
 | Scholar | 29.00% | ~1,253 |
 | The Convict | 27.00% | ~1,166 |
 | Operative | 27.00% | ~1,166 |
+| Colony Defense | 26.00% | ~1,123 |
 | The Krogan | 26.00% | ~1,123 |
 | Power Full | 26.00% | ~1,123 |
-| Colony Defense | 25.00% | ~1,080 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,080 |
 | Veteran | 24.00% | ~1,037 |
 | Driven | 24.00% | ~1,037 |
@@ -51,6 +51,7 @@
 | Ghost of the Father | 22.00% | ~950 |
 | The Prodigal | 22.00% | ~950 |
 | Galactic Explorer | 22.00% | ~950 |
+| Revenge! | 22.00% | ~950 |
 | Bringer of War | 22.00% | ~950 |
 | Shopaholic | 22.00% | ~950 |
 | Archivist | 21.00% | ~907 |
@@ -59,7 +60,6 @@
 | Fade Away | 21.00% | ~907 |
 | The Cure | 21.00% | ~907 |
 | Big Game Hunter | 21.00% | ~907 |
-| Revenge! | 21.00% | ~907 |
 | Digital Exorcist | 21.00% | ~907 |
 | Heart of Darkness | 21.00% | ~907 |
 | Focused | 20.00% | ~864 |
@@ -80,10 +80,10 @@
 | A House Divided | 18.00% | ~777 |
 | World Shaker | 18.00% | ~777 |
 | Pathfinder | 17.00% | ~734 |
+| Tunnel Rat | 17.00% | ~734 |
 | Liberator | 17.00% | ~734 |
 | Savior | 16.00% | ~691 |
 | Weapon Specialist | 16.00% | ~691 |
-| Tunnel Rat | 16.00% | ~691 |
 | Arbiter | 16.00% | ~691 |
 | Party Crasher | 15.00% | ~648 |
 | Lost and Found | 15.00% | ~648 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -849,9 +849,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3892,
+  "EOS_Progressed": 3893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5964,6 +5964,11 @@
       "Time": "2024-01-14T00:04:05.1749858+00:00",
       "NumProgressed": 3892,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T11:03:51.5808564+00:00",
+      "NumProgressed": 3893,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6167,7 +6172,7 @@
       "Name": "Executioner",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "Kills_Exterminator",
@@ -6197,9 +6202,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 623
     },
     {
       "ID": "Kills_Streak",
@@ -6518,21 +6523,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3892,
+      "Progressed": 3893,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3892,
+      "Progressed": 3893,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-13T23:04:24.9457302+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:04:52.2267556+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:03:51.580856+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:03:57.116966+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:04:52.2268486+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:03:10.3823457+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:03:51.5809187+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1602,7 +1602,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28315,
+  "EOS_Progressed": 28318,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
@@ -14087,6 +14087,11 @@
       "Time": "2024-01-14T10:11:01.7345452+00:00",
       "NumProgressed": 28315,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T11:10:06.4371144+00:00",
+      "NumProgressed": 28318,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14226,7 +14231,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -14258,7 +14263,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -14409,21 +14414,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28315,
+      "Progressed": 28318,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7245,
+      "Progressed": 7248,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-13T04:59:20.2152369+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:11:01.7345449+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:06.437114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:00:59.0436595+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:11:01.7346321+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:59:51.4829127+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:06.4372189+00:00"
 }

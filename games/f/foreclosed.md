@@ -15,8 +15,8 @@
 | Tough Decision | 19.00% | ~29 |
 | Veteran Sniper | 17.00% | ~26 |
 | The Neuro-connector | 17.00% | ~26 |
+| Flatline | 17.00% | ~26 |
 | Unstoppable | 16.00% | ~25 |
-| Flatline | 16.00% | ~25 |
 | Mind Over Matter | 16.00% | ~25 |
 | Full and Final Settlement | 15.00% | ~23 |
 | One Click Away | 15.00% | ~23 |

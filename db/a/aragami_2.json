@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45122,
+  "EOS_Progressed": 45123,
   "EOS_Completed": 249,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
@@ -21082,6 +21082,11 @@
       "Time": "2024-01-14T10:08:46.8327118+00:00",
       "NumProgressed": 45122,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2024-01-14T11:08:22.7764826+00:00",
+      "NumProgressed": 45123,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 44,
@@ -21221,7 +21226,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4963
+      "UsersEstimate": 4964
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -21285,7 +21290,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16695
+      "UsersEstimate": 16696
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -21301,7 +21306,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9024
+      "UsersEstimate": 9025
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -21309,7 +21314,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 10829
+      "UsersEstimate": 10830
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -21317,7 +21322,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24817
+      "UsersEstimate": 24818
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -21357,7 +21362,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27073
+      "UsersEstimate": 27074
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -21429,7 +21434,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 41963
+      "UsersEstimate": 41964
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21437,14 +21442,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23463
+      "UsersEstimate": 23464
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45122,
+      "Progressed": 45123,
       "Completed": 249
     }
   ],
@@ -21452,8 +21457,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:08:46.8327116+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:08:22.7764822+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:03:55.1517173+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:08:46.8328486+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:03:09.006205+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:08:22.7766047+00:00"
 }

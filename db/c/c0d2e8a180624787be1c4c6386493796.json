@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1929,9 +1929,9 @@
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
       "SetID": "caeik3h",
       "Name": "Smashing Pumpkins",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "KR4_ACHIEVEMENT_ROCKETRIDERS",
@@ -2096,8 +2096,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:06:28.9944178+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:05:06.0451542+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:59:09.1972879+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:06:28.994507+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:58:32.9226583+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:05:06.0452502+00:00"
 }

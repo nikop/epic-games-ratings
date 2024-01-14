@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -1227,9 +1227,9 @@
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1308,8 +1308,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:10:40.457865+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:09:50.0605494+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:01:12.3571322+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:10:40.4579242+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:00:00.342329+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:09:50.060623+00:00"
 }

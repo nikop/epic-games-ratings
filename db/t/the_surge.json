@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5418,
+  "EOS_Progressed": 5419,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5265,6 +5265,11 @@
       "Time": "2024-01-14T10:07:56.7918747+00:00",
       "NumProgressed": 5418,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-14T11:06:14.6377105+00:00",
+      "NumProgressed": 5419,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5276,7 +5281,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5324,7 +5329,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4552
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5332,7 +5337,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5348,7 +5353,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5412,7 +5417,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -5420,7 +5425,7 @@
       "Name": "Melting Down",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -5620,7 +5625,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1896
+      "UsersEstimate": 1897
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5652,7 +5657,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -5692,7 +5697,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -5724,7 +5729,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -5811,15 +5816,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5418,
+      "Progressed": 5419,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:07:56.7918744+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:06:14.6377101+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:02:18.6981238+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:07:56.7919559+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:00:48.1492971+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:06:14.6378003+00:00"
 }

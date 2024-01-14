@@ -4,8 +4,8 @@
   "ProductSlug": "jett-the-far-shore",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 578,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-05T13:00:00+00:00",
     "PcReleaseDate": "2021-10-05T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.4013626+00:00",
   "LastChanged": "2023-03-31T05:57:52.4013627+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.4259611+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:03:51.7894777+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:06:21.6859764+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:03:06.5596531+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:05:00.559928+00:00"
 }

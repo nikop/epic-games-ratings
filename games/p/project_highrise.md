@@ -22,14 +22,14 @@
 | Smooth Service | 22.00% | ~116 |
 | Retail Revenue | 21.00% | ~111 |
 | Don't Feel a Loan | 20.00% | ~105 |
+| People Mover | 19.00% | ~100 |
 | Artfully Done | 18.00% | ~95 |
-| People Mover | 18.00% | ~95 |
 | Leveled Up Shops | 18.00% | ~95 |
 | We Don't Need No Education | 18.00% | ~95 |
 | Lux Living | 17.00% | ~90 |
+| Tasty Profits | 17.00% | ~90 |
 | Emporium Empire | 17.00% | ~90 |
 | Get Electrified | 17.00% | ~90 |
-| Tasty Profits | 16.00% | ~84 |
 | Rehab Expert | 15.00% | ~79 |
 | Established Fame | 15.00% | ~79 |
 | Under One Roof | 13.00% | ~69 |

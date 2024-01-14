@@ -1,12 +1,12 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 134)  
+Rating: 4.76 (Ranked 135)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 27.00% | ~3,582 |
+| Devoured by Darkness | 28.00% | ~3,715 |
 | A Spark | 20.00% | ~2,653 |
 | Burning City | 19.00% | ~2,521 |
 | Mythic Choices | 16.00% | ~2,123 |

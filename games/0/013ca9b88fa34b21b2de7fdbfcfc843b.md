@@ -5,8 +5,8 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 5.00% | ~452 |
-| A Thorny Situation | 5.00% | ~452 |
+| Azoria Beckons | 5.00% | ~453 |
+| A Thorny Situation | 5.00% | ~453 |
 | ... And Spit Back Out | 4.00% | ~362 |
 | Calm Sailing | 3.00% | ~272 |
 | Open the Gate! | 3.00% | ~272 |
@@ -19,12 +19,12 @@ Rating: 4.64 (Ranked 343)
 | Mist Walker | 2.00% | ~181 |
 | Oui, Chef! | 2.00% | ~181 |
 | Exit Through The Gift Shop | 2.00% | ~33 |
-| Search for the Hairy Grell | 1.00% | ~90 |
-| Beach Comber | 1.00% | ~90 |
-| Higher Tax Bracket | 1.00% | ~90 |
-| Botanical Breakthrough | 1.00% | ~90 |
-| Azorian Anniversary | 1.00% | ~90 |
-| Skilled | 1.00% | ~90 |
+| Search for the Hairy Grell | 1.00% | ~91 |
+| Beach Comber | 1.00% | ~91 |
+| Higher Tax Bracket | 1.00% | ~91 |
+| Botanical Breakthrough | 1.00% | ~91 |
+| Azorian Anniversary | 1.00% | ~91 |
+| Skilled | 1.00% | ~91 |
 | Flaming Hot Completos | 0.90% | ~81 |
 | Got to Catch Them All | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,050 (Ranked 186)  
+Progressed: 9,052 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
-| 2024-01-14 | 9,050 | 1 |
+| 2024-01-14 | 9,052 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

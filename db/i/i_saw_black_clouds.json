@@ -4,8 +4,8 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 374,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -931,6 +931,11 @@
       "Time": "2024-01-13T14:06:06.6622031+00:00",
       "NumProgressed": 415,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T11:06:00.6514994+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -950,7 +955,7 @@
       "Name": "Believer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "clear",
@@ -974,7 +979,7 @@
       "Name": "End",
       "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "escape",
@@ -1061,7 +1066,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 6
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:07:38.998533+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:06:00.6514989+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:21.4981512+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:59:13.5702258+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:07:38.9985485+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:58:36.2160802+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:06:00.6515152+00:00"
 }

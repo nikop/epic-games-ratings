@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 88.00% | ~70 |
-| Suicide squad | 49.00% | ~39 |
-| Train hard, fight easy | 30.00% | ~24 |
-| Under cover | 30.00% | ~24 |
+| Suicide squad | 50.00% | ~40 |
+| Train hard, fight easy | 31.00% | ~25 |
+| Under cover | 31.00% | ~25 |
 | First blood | 30.00% | ~24 |
-| Royal blessing | 25.00% | ~20 |
+| Royal blessing | 26.00% | ~21 |
 | Blood and sand | 21.00% | ~17 |
 | A hidden snake | 20.00% | ~16 |
 | All for one! | 19.00% | ~15 |
-| Surpass the teacher | 16.00% | ~13 |
+| Surpass the teacher | 18.00% | ~14 |
 | Help of the Gell | 16.00% | ~13 |
 | She-Wolf | 16.00% | ~13 |
 | Crimson rivers | 15.00% | ~12 |

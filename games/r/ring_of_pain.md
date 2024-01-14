@@ -93,6 +93,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Friend of Vermin | 0.20% | ~486 |
 | Explosive Betrayal | 0.20% | ~486 |
 | Grave Digger | 0.20% | ~486 |
+| Powerful Potion | 0.20% | ~486 |
 | Willing the World | 0.20% | ~486 |
 | Power Score | 0.20% | ~486 |
 | Predator | 0.20% | ~486 |
@@ -109,7 +110,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Disposal | 0.10% | ~243 |
 | Hanging On | 0.10% | ~243 |
 | A Hard Carry | 0.10% | ~243 |
-| Powerful Potion | 0.10% | ~243 |
 | For Science | 0.10% | ~243 |
 | Here Comes The Airplane | 0.10% | ~243 |
 | Blizzard | 0.10% | ~243 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,929 (Ranked 74)  
+Progressed: 242,933 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -414,7 +414,7 @@ Completed: 306 (0.13%) (Ranked 301)
 | 2024-01-11 | 242,789 | 305 |
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
-| 2024-01-14 | 242,929 | 306 |
+| 2024-01-14 | 242,933 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,796 (Ranked 89)  

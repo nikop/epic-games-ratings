@@ -27,8 +27,8 @@
 | Mighty Marmelizer | 26.00% | ~354 |
 | Fair Means or Foul | 26.00% | ~354 |
 | Single Minded | 24.00% | ~327 |
+| Snare Specialist | 24.00% | ~327 |
 | Karakuri Trail | 23.00% | ~313 |
-| Snare Specialist | 23.00% | ~313 |
 | Karakuri Isle | 20.00% | ~273 |
 | Team Hunter | 20.00% | ~273 |
 | Artful Assister | 20.00% | ~273 |

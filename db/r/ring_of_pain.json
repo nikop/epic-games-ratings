@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242929,
+  "EOS_Progressed": 242933,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31781,6 +31781,11 @@
       "Time": "2024-01-14T10:11:19.3610005+00:00",
       "NumProgressed": 242929,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T11:10:21.2153725+00:00",
+      "NumProgressed": 242933,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -32094,9 +32099,9 @@
       "ID": "HEAL50POTION",
       "SetID": "5l8oe0h",
       "Name": "Powerful Potion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 486
     },
     {
       "ID": "HEXFROG",
@@ -32895,13 +32900,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242929,
+      "Progressed": 242933,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4409,
+      "Progressed": 4413,
       "Completed": 425
     }
   ],
@@ -32909,8 +32914,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:11:19.3610003+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:21.2153722+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:01:40.6332816+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:11:19.3613156+00:00"
+  "LastUpdate_Ratings": "2024-01-14T11:00:20.716737+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:21.215641+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,826 |
-| Pay 'n' Spray | 50.00% | ~9,769 |
-| All Dressed Up for San Fierro | 25.00% | ~4,884 |
-| The American Dream | 19.00% | ~3,712 |
+| Getting Started | 81.00% | ~15,827 |
+| Pay 'n' Spray | 50.00% | ~9,770 |
+| All Dressed Up for San Fierro | 25.00% | ~4,885 |
+| The American Dream | 19.00% | ~3,713 |
 | School's Out | 18.00% | ~3,517 |
-| Smooth Moves | 17.00% | ~3,321 |
+| Smooth Moves | 17.00% | ~3,322 |
 | Today Was a Good Day | 15.00% | ~2,931 |
-| What happens in Las Venturas... | 14.00% | ~2,735 |
-| Horror of the Santa Maria | 10.00% | ~1,954 |
-| Liberty City State of Mind | 9.00% | ~1,758 |
+| What happens in Las Venturas... | 14.00% | ~2,736 |
+| Horror of the Santa Maria | 11.00% | ~2,149 |
+| Liberty City State of Mind | 9.00% | ~1,759 |
 | Original Gangster | 8.00% | ~1,563 |
 | With Extra Dip | 7.00% | ~1,368 |
 | The End of the Line | 7.00% | ~1,368 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 528)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,538 (Ranked 157)  
+Progressed: 19,540 (Ranked 157)  
 Completed: 77 (0.39%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,18 +310,18 @@ Completed: 77 (0.39%) (Ranked 245)
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
 | 2024-01-13 | 19,514 | 77 |
-| 2024-01-14 | 19,538 | 77 |
+| 2024-01-14 | 19,540 | 77 |
 ## Awards
 Max (Great Boss Battles): 667  (Ranked 201)  
-Sum: 1,075 (Ranked 270)  
+Sum: 1,076 (Ranked 270)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 667 |
 | This game has Amazing Characters | 58 |
 | This game has Amazing Storytelling | 57 |
+| This game is Relaxing | 56 |
 | This game is Highly Recommended | 56 |
-| This game is Relaxing | 55 |
 | This game is Great for Beginners | 53 |
 | This game has Diverse Characters | 49 |
 | This game is Extremely Fun | 40 |
@@ -560,4 +560,4 @@ Diff (max vs sum): -69
 | 2024-01-11 | 4.55 | 652 | 1,041 |
 | 2024-01-12 | 4.55 | 652 | 1,048 |
 | 2024-01-13 | 4.55 | 659 | 1,065 |
-| 2024-01-14 | 4.55 | 667 | 1,075 |
+| 2024-01-14 | 4.55 | 667 | 1,076 |

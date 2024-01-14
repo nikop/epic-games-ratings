@@ -58,6 +58,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 1.00% | ~168 |
 | Just Difficulty | 1.00% | ~168 |
 | Artisans | 1.00% | ~168 |
+| Sages | 1.00% | ~168 |
 | Furious Family | 1.00% | ~168 |
 | Acropolis | 1.00% | ~168 |
 | Apadana | 1.00% | ~168 |
@@ -71,8 +72,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
 | Champions | 0.90% | ~151 |
-| Sages | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
+| Points Victory | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
 | Mighty | 0.80% | ~134 |
 | Good Difficulty | 0.80% | ~134 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.80% | ~134 |
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
-| Points Victory | 0.80% | ~134 |
 | Victorious | 0.70% | ~117 |
 | Landowners | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |

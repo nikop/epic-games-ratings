@@ -1,72 +1,72 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.39 (Ranked 788)  
+Rating: 4.39 (Ranked 787)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 85.00% | ~426,909 |
-| Leader | 49.00% | ~246,101 |
-| Healer | 39.00% | ~195,876 |
-| Explorer | 37.00% | ~185,831 |
-| Aspiring Inventor | 29.00% | ~145,651 |
-| Adventurer | 28.00% | ~140,629 |
-| Famous Healer | 25.00% | ~125,562 |
-| Local Leader | 22.00% | ~110,494 |
-| Famous Explorer | 21.00% | ~105,472 |
-| New Opportunities | 21.00% | ~105,472 |
-| Energized | 21.00% | ~105,472 |
-| Survivor | 21.00% | ~105,472 |
-| The Great Healer | 19.00% | ~95,427 |
-| Catastrofan | 19.00% | ~95,427 |
-| The Long Haul | 19.00% | ~95,427 |
-| Legendary Explorer | 17.00% | ~85,382 |
-| Cleaner | 17.00% | ~85,382 |
-| Finders, Keepers | 15.00% | ~75,337 |
-| Top Notch | 15.00% | ~75,337 |
-| Great Leader | 14.00% | ~70,314 |
-| Ice Lakes | 14.00% | ~70,314 |
-| Mentor | 14.00% | ~70,314 |
-| Real Survivor | 14.00% | ~70,314 |
-| Merchant | 12.00% | ~60,270 |
-| Rocket Surgeon | 12.00% | ~60,270 |
-| Around the World | 11.00% | ~55,247 |
-| Spreading Influence | 11.00% | ~55,247 |
-| Big Game Hunter | 10.00% | ~50,225 |
-| War Never Changes | 10.00% | ~50,225 |
-| Sky Burial | 10.00% | ~50,225 |
-| Bookworm | 9.00% | ~45,202 |
-| Friendly | 8.00% | ~40,180 |
-| Famous Adventurer | 8.00% | ~40,180 |
-| Prepared for Anything | 8.00% | ~40,180 |
-| Big Catastrofan | 8.00% | ~40,180 |
-| It's a Finnish Thing | 6.00% | ~30,135 |
-| Trader | 5.00% | ~25,112 |
-| Bread and Circuses | 5.00% | ~25,112 |
-| New Eden | 4.00% | ~20,090 |
-| Amped Up | 4.00% | ~20,090 |
-| Really Friendly | 3.00% | ~15,067 |
-| Look, no Hands! | 3.00% | ~15,067 |
-| Ranch Hand | 2.00% | ~10,045 |
-| Luxurious Living | 2.00% | ~10,045 |
-| Doomsday is canceled | 2.00% | ~10,045 |
-| Tailored to fit | 2.00% | ~10,045 |
-| Biggest Catastrofan | 2.00% | ~10,045 |
-| Mogul | 1.00% | ~5,022 |
-| A Closer Look | 1.00% | ~5,022 |
-| True Survivor | 1.00% | ~5,022 |
+| First Step | 85.00% | ~426,958 |
+| Leader | 49.00% | ~246,128 |
+| Healer | 39.00% | ~195,898 |
+| Explorer | 37.00% | ~185,852 |
+| Aspiring Inventor | 29.00% | ~145,668 |
+| Adventurer | 28.00% | ~140,645 |
+| Famous Healer | 25.00% | ~125,576 |
+| Local Leader | 22.00% | ~110,507 |
+| Famous Explorer | 21.00% | ~105,484 |
+| New Opportunities | 21.00% | ~105,484 |
+| Energized | 21.00% | ~105,484 |
+| Survivor | 21.00% | ~105,484 |
+| The Great Healer | 19.00% | ~95,438 |
+| Catastrofan | 19.00% | ~95,438 |
+| The Long Haul | 19.00% | ~95,438 |
+| Legendary Explorer | 17.00% | ~85,392 |
+| Cleaner | 17.00% | ~85,392 |
+| Finders, Keepers | 15.00% | ~75,345 |
+| Top Notch | 15.00% | ~75,345 |
+| Great Leader | 14.00% | ~70,322 |
+| Ice Lakes | 14.00% | ~70,322 |
+| Mentor | 14.00% | ~70,322 |
+| Real Survivor | 14.00% | ~70,322 |
+| Merchant | 12.00% | ~60,276 |
+| Rocket Surgeon | 12.00% | ~60,276 |
+| Around the World | 11.00% | ~55,253 |
+| Spreading Influence | 11.00% | ~55,253 |
+| Big Game Hunter | 10.00% | ~50,230 |
+| War Never Changes | 10.00% | ~50,230 |
+| Sky Burial | 10.00% | ~50,230 |
+| Bookworm | 9.00% | ~45,207 |
+| Friendly | 8.00% | ~40,184 |
+| Famous Adventurer | 8.00% | ~40,184 |
+| Prepared for Anything | 8.00% | ~40,184 |
+| Big Catastrofan | 8.00% | ~40,184 |
+| It's a Finnish Thing | 6.00% | ~30,138 |
+| Trader | 5.00% | ~25,115 |
+| Bread and Circuses | 5.00% | ~25,115 |
+| New Eden | 4.00% | ~20,092 |
+| Amped Up | 4.00% | ~20,092 |
+| Really Friendly | 3.00% | ~15,069 |
+| Look, no Hands! | 3.00% | ~15,069 |
+| Ranch Hand | 2.00% | ~10,046 |
+| Luxurious Living | 2.00% | ~10,046 |
+| Doomsday is canceled | 2.00% | ~10,046 |
+| Tailored to fit | 2.00% | ~10,046 |
+| Biggest Catastrofan | 2.00% | ~10,046 |
+| Mogul | 1.00% | ~5,023 |
+| A Closer Look | 1.00% | ~5,023 |
+| True Survivor | 1.00% | ~5,023 |
 | Slimy yet Satisfying | 0.70% | ~3,516 |
-| Diplomat | 0.60% | ~3,013 |
-| Feng Shui | 0.60% | ~3,013 |
-| The Friendliest | 0.50% | ~2,511 |
-| Legendary Adventurer | 0.50% | ~2,511 |
-| Fun and Games | 0.20% | ~1,004 |
-| Finnished | 0.20% | ~1,004 |
+| Diplomat | 0.60% | ~3,014 |
+| Feng Shui | 0.60% | ~3,014 |
+| The Friendliest | 0.50% | ~2,512 |
+| Legendary Adventurer | 0.50% | ~2,512 |
+| Fun and Games | 0.20% | ~1,005 |
+| Finnished | 0.20% | ~1,005 |
 | Choo-choo! | 0.10% | ~502 |
 | Customized calamities | 0.10% | ~502 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502,246 (Ranked 41)  
+Progressed: 502,303 (Ranked 41)  
 Completed: 62 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 62 (0.01%) (Ranked 376)
 | 2024-01-11 | 499,849 | 61 |
 | 2024-01-12 | 500,717 | 61 |
 | 2024-01-13 | 501,836 | 61 |
-| 2024-01-14 | 502,246 | 62 |
+| 2024-01-14 | 502,303 | 62 |
 ## Awards
 Max (Great for Beginners): 271  (Ranked 277)  
 Sum: 1,617 (Ranked 241)  

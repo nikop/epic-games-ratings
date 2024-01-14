@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 357,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,7 +295,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 778,
+  "EOS_Progressed": 779,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -2800,6 +2800,11 @@
       "Time": "2024-01-14T08:11:32.7424695+00:00",
       "NumProgressed": 778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T11:10:18.3209149+00:00",
+      "NumProgressed": 779,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2915,7 +2920,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ACH_COLL_20",
@@ -2923,7 +2928,7 @@
       "Name": "Prospector",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -3043,15 +3048,15 @@
       "Name": "The Breaking Point",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -3075,15 +3080,15 @@
       "Name": "Opportunities",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_FIN_CH07",
       "SetID": "1j25agn",
       "Name": "The Horror",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -3091,7 +3096,7 @@
       "Name": "The Difference",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -3107,7 +3112,7 @@
       "Name": "Broken Hopes",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -3139,7 +3144,7 @@
       "Name": "Piece of Cake",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_HEAL",
@@ -3179,7 +3184,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -3195,7 +3200,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -3203,7 +3208,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -3243,7 +3248,7 @@
       "Name": "King of Knives",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_NEST1",
@@ -3251,7 +3256,7 @@
       "Name": "Bullseye!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_NEST2",
@@ -3282,15 +3287,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 778,
+      "Progressed": 779,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:11:15.9739562+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:10:18.3209145+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.4915976+00:00",
-  "LastUpdate_Ratings": "2024-01-14T09:58:20.1322911+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:11:15.9740138+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:57:55.9002663+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:10:18.320978+00:00"
 }

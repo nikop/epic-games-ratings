@@ -1410,9 +1410,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33382,
+  "EOS_Progressed": 33384,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30385,6 +30385,11 @@
       "Time": "2024-01-14T10:10:51.7499838+00:00",
       "NumProgressed": 33382,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-14T11:09:58.6616889+00:00",
+      "NumProgressed": 33384,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30460,7 +30465,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "1024",
@@ -30492,7 +30497,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "1028",
@@ -30532,7 +30537,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13353
+      "UsersEstimate": 13354
     },
     {
       "ID": "1033",
@@ -30571,15 +30576,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33382,
+      "Progressed": 33384,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-12T22:58:53.3427917+00:00",
-  "LastChanged_Achievements": "2024-01-14T10:10:51.7499835+00:00",
+  "LastChanged_Achievements": "2024-01-14T11:09:58.6616886+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-14T10:00:34.6443362+00:00",
-  "LastUpdate_Achievements": "2024-01-14T10:10:51.750134+00:00"
+  "LastUpdate_Ratings": "2024-01-14T10:59:34.9106753+00:00",
+  "LastUpdate_Achievements": "2024-01-14T11:09:58.6618562+00:00"
 }
