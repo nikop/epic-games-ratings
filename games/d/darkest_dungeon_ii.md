@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,065 |
-| Lost and Found | 9.00% | ~684 |
-| Autodidact | 8.00% | ~10,619 |
+| Malpractice Assurance | 14.00% | ~1,066 |
+| Lost and Found | 9.00% | ~685 |
+| Autodidact | 8.00% | ~10,620 |
 | This Belongs in a Museum | 7.00% | ~9,292 |
-| This guy... again? | 7.00% | ~532 |
-| Serenity Now! | 6.00% | ~7,964 |
-| Creep and Sleep | 6.00% | ~7,964 |
-| Overdue Notice | 6.00% | ~7,964 |
-| Escape from the Black Hole | 6.00% | ~7,964 |
-| Ploughshares to Swords | 6.00% | ~456 |
-| Bloody Graduation | 6.00% | ~456 |
+| This guy... again? | 7.00% | ~533 |
+| Serenity Now! | 6.00% | ~7,965 |
+| Creep and Sleep | 6.00% | ~7,965 |
+| Overdue Notice | 6.00% | ~7,965 |
+| Escape from the Black Hole | 6.00% | ~7,965 |
+| Ploughshares to Swords | 6.00% | ~457 |
+| Bloody Graduation | 6.00% | ~457 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,637 |
 | It Rings a Bell | 5.00% | ~6,637 |
 | Not Today! | 5.00% | ~6,637 |
@@ -28,18 +28,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 5.00% | ~6,637 |
 | A Place to Lay Your Head | 5.00% | ~6,637 |
 | FNG | 5.00% | ~6,637 |
-| Unleash Hell | 4.00% | ~5,309 |
-| Unfulfilled Desires | 4.00% | ~5,309 |
-| Dissector | 4.00% | ~5,309 |
-| Banishment | 4.00% | ~5,309 |
-| Now Stay Dead | 4.00% | ~5,309 |
-| Spelunker | 4.00% | ~5,309 |
-| Harvest Festival | 4.00% | ~5,309 |
-| Ramble On | 4.00% | ~5,309 |
-| Whale | 4.00% | ~5,309 |
-| Nope | 4.00% | ~5,309 |
-| Unshackled | 4.00% | ~5,309 |
-| Friends 'Til the End | 4.00% | ~304 |
+| Unleash Hell | 4.00% | ~5,310 |
+| Unfulfilled Desires | 4.00% | ~5,310 |
+| Dissector | 4.00% | ~5,310 |
+| Banishment | 4.00% | ~5,310 |
+| Now Stay Dead | 4.00% | ~5,310 |
+| Spelunker | 4.00% | ~5,310 |
+| Harvest Festival | 4.00% | ~5,310 |
+| Ramble On | 4.00% | ~5,310 |
+| Whale | 4.00% | ~5,310 |
+| Nope | 4.00% | ~5,310 |
+| Unshackled | 4.00% | ~5,310 |
+| Friends 'Til the End | 4.00% | ~305 |
 | Resurrection | 3.00% | ~3,982 |
 | Funny Guy | 3.00% | ~3,982 |
 | Long Live the King | 3.00% | ~3,982 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 1.00% | ~76 |
 | Slap on the Wrist | 1.00% | ~76 |
 | For Old Time' Sake | 1.00% | ~76 |
-| Et Tu, Riposte? | 0.90% | ~68 |
+| Et Tu, Riposte? | 0.90% | ~69 |
 | The World As It Was | 0.70% | ~929 |
 | A Life Well Lived | 0.60% | ~796 |
 | Bacon Bits | 0.60% | ~796 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,736 (Ranked 92)  
+Progressed: 132,745 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,736 | 4 |
+| 2024-01-14 | 132,745 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,637 (Ranked 58)  

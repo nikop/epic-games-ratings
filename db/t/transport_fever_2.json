@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
     "PcReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -7184,9 +7184,9 @@
       "ID": "achFirstBusArrived",
       "SetID": "dgl390n",
       "Name": "First bus arrived",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1534
     },
     {
       "ID": "achFirstCargoTransported",
@@ -7472,8 +7472,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:10:52.9046085+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:10:37.422531+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:40.3828724+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:03:58.6864197+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:10:52.9046709+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:04:26.1058559+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:10:37.4225931+00:00"
 }

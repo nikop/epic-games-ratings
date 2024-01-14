@@ -9547,9 +9547,9 @@
       "Count": 3639
     }
   ],
-  "EOS_Progressed": 253832,
+  "EOS_Progressed": 253837,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1616,
+  "EOS_NewPlayers": 1609,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40017,6 +40017,11 @@
       "Time": "2024-01-14T04:12:11.0272445+00:00",
       "NumProgressed": 253832,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-14T05:11:33.9868952+00:00",
+      "NumProgressed": 253837,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -40332,7 +40337,7 @@
       "Name": "The Silken Swamp",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_1090",
@@ -41212,7 +41217,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_164",
@@ -41252,7 +41257,7 @@
       "Name": "Building Trust",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_17",
@@ -41260,7 +41265,7 @@
       "Name": "March of the Undead",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_170",
@@ -41364,7 +41369,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_208",
@@ -41444,7 +41449,7 @@
       "Name": "The Dinner Party",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_231",
@@ -41892,7 +41897,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "objective_completed_40",
@@ -42516,7 +42521,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_590",
@@ -43204,7 +43209,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_75",
@@ -43236,7 +43241,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_8",
@@ -43252,7 +43257,7 @@
       "Name": "Overdue Rendezvous",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_802",
@@ -43900,7 +43905,7 @@
       "Name": "The Templar\u0027s Camp",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_95",
@@ -44395,21 +44400,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220106,
+      "Progressed": 220111,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253832,
+      "Progressed": 253837,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-14T01:58:30.3265751+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:12:11.0272441+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:02:17.1384627+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:12:11.0295229+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:11:33.9868947+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
+  "LastUpdate_Ratings": "2024-01-14T05:01:19.4040665+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:33.9892345+00:00"
 }

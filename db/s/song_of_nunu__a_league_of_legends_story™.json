@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -4221,9 +4221,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 759
     },
     {
       "ID": "EV_ACH03",
@@ -4574,8 +4574,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-13T13:01:22.2796595+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:12:02.6766983+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:59:59.4045555+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:12:02.6767356+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:11:26.7434948+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
+  "LastUpdate_Ratings": "2024-01-14T04:59:50.9777351+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:26.7435379+00:00"
 }

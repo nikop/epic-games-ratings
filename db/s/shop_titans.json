@@ -3,12 +3,12 @@
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 1051,
-  "Ranking_Popularity": 79,
+  "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8173,9 +8173,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151090,
+  "EOS_Progressed": 151092,
   "EOS_Completed": 352,
-  "EOS_NewPlayers": 1062,
+  "EOS_NewPlayers": 1057,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36623,6 +36623,11 @@
       "Time": "2024-01-14T04:10:23.5845358+00:00",
       "NumProgressed": 151090,
       "NumCompleted": 352
+    },
+    {
+      "Time": "2024-01-14T05:10:17.2037945+00:00",
+      "NumProgressed": 151092,
+      "NumCompleted": 352
     }
   ],
   "TotalAchievements": 112,
@@ -36634,7 +36639,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "advlevel02",
@@ -36714,7 +36719,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "bigsale02",
@@ -36738,7 +36743,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "blueprint02",
@@ -36986,7 +36991,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "energy02",
@@ -37114,7 +37119,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "gold03",
@@ -37186,7 +37191,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "jackslot02",
@@ -37290,7 +37295,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7554
+      "UsersEstimate": 7555
     },
     {
       "ID": "master02",
@@ -37498,7 +37503,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "workers02",
@@ -37529,15 +37534,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151090,
+      "Progressed": 151092,
       "Completed": 352
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-13T23:04:26.7603651+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:10:23.5845355+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:58:56.0260329+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:04:18.9598838+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:10:23.5847651+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:10:17.2037942+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
+  "LastUpdate_Ratings": "2024-01-14T05:04:39.0292298+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:10:17.2040129+00:00"
 }

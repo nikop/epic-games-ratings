@@ -6521,10 +6521,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4363,
       "NumberOfAwardsMax": 549
+    },
+    {
+      "Time": "2024-01-14T05:01:27.9253355+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4365,
+      "NumberOfAwardsMax": 549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4363,
+  "NumberOfAwards": 4365,
   "NumberOfAwardsMax": 549,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6550,7 +6556,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 402
+      "Count": 404
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6595,9 +6601,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 267296,
+  "EOS_Progressed": 267297,
   "EOS_Completed": 951,
-  "EOS_NewPlayers": 1694,
+  "EOS_NewPlayers": 1685,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -36150,6 +36156,11 @@
       "Time": "2024-01-14T04:11:57.4950691+00:00",
       "NumProgressed": 267296,
       "NumCompleted": 951
+    },
+    {
+      "Time": "2024-01-14T05:11:22.8195883+00:00",
+      "NumProgressed": 267297,
+      "NumCompleted": 951
     }
   ],
   "TotalAchievements": 39,
@@ -36225,7 +36236,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 243239
+      "UsersEstimate": 243240
     },
     {
       "ID": "AchievementClownID",
@@ -36305,7 +36316,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 40094
+      "UsersEstimate": 40095
     },
     {
       "ID": "AchievementInstinctID",
@@ -36321,7 +36332,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 117610
+      "UsersEstimate": 117611
     },
     {
       "ID": "AchievementIntroID",
@@ -36337,7 +36348,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 37421
+      "UsersEstimate": 37422
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -36393,7 +36404,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 195126
+      "UsersEstimate": 195127
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -36425,7 +36436,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 40094
+      "UsersEstimate": 40095
     },
     {
       "ID": "AchievementThroneID",
@@ -36441,7 +36452,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 125629
+      "UsersEstimate": 125630
     },
     {
       "ID": "AchievementTrinketID",
@@ -36457,7 +36468,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171069
+      "UsersEstimate": 171070
     },
     {
       "ID": "AchievementWhaleID",
@@ -36472,16 +36483,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 267296,
+      "Progressed": 267297,
       "Completed": 951
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-01-14T01:58:45.4415004+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:11:57.495069+00:00",
+  "LastChanged": "2024-01-14T05:01:27.9253352+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:11:22.8195877+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.7490682+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:02:29.8770721+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:11:57.4952057+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:01:27.9253359+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:22.8197657+00:00"
 }

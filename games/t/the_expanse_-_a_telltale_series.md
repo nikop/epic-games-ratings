@@ -5,22 +5,22 @@ Rating: 4.53 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,416 |
+| Oyedang, Kopengs | 18.00% | ~3,417 |
 | Captain Drummer | 16.00% | ~3,037 |
 | Celebrations are in Order | 15.00% | ~2,847 |
-| Martian Music | 14.00% | ~2,657 |
-| Bosmang | 14.00% | ~2,657 |
-| Impossible Objects | 14.00% | ~2,657 |
-| The Pit and the Pirates | 13.00% | ~2,467 |
-| Drone Dodger | 13.00% | ~2,467 |
+| Martian Music | 14.00% | ~2,658 |
+| Bosmang | 14.00% | ~2,658 |
+| Impossible Objects | 14.00% | ~2,658 |
+| The Pit and the Pirates | 13.00% | ~2,468 |
+| Drone Dodger | 13.00% | ~2,468 |
 | Spore Taste | 12.00% | ~2,278 |
 | Stogie for Fogey | 11.00% | ~2,088 |
 | Call it Even | 10.00% | ~1,898 |
-| Safe Cracker | 10.00% | ~493 |
-| Zen Master | 10.00% | ~493 |
+| Safe Cracker | 10.00% | ~494 |
+| Zen Master | 10.00% | ~494 |
 | Heal Thy Medic | 9.00% | ~1,708 |
 | Madame Undersecretary | 9.00% | ~444 |
-| Data Archivist | 8.00% | ~1,518 |
+| Data Archivist | 8.00% | ~1,519 |
 | Keep Arjun in Check | 8.00% | ~395 |
 | Drug Gifter | 7.00% | ~1,329 |
 | Thorston Mayer | 7.00% | ~1,329 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 565)
 | Scavenger Star | 0.30% | ~57 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,980 (Ranked 159)  
+Progressed: 18,983 (Ranked 159)  
 Completed: 64 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 64 (0.34%) (Ranked 251)
 | 2024-01-11 | 18,866 | 63 |
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
-| 2024-01-14 | 18,980 | 64 |
+| 2024-01-14 | 18,983 | 64 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

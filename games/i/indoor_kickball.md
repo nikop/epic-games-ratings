@@ -12,8 +12,8 @@
 | Have a good trip! | 73.00% | ~76 |
 | Kickball Unlocked | 68.00% | ~71 |
 | Settle Down | 68.00% | ~71 |
+| First Win | 63.00% | ~66 |
 | Stay Hydrated | 63.00% | ~66 |
-| First Win | 62.00% | ~64 |
 | True Story! | 45.00% | ~47 |
 | Bedroom Secret Spot | 41.00% | ~43 |
 | At least everyone still had fun | 35.00% | ~36 |

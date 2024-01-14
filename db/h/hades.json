@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
@@ -6454,9 +6454,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 724278,
+  "EOS_Progressed": 724279,
   "EOS_Completed": 6608,
-  "EOS_NewPlayers": 1185,
+  "EOS_NewPlayers": 1175,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -35964,6 +35964,11 @@
       "Time": "2024-01-14T04:11:58.060601+00:00",
       "NumProgressed": 724278,
       "NumCompleted": 6608
+    },
+    {
+      "Time": "2024-01-14T05:11:23.2777527+00:00",
+      "NumProgressed": 724279,
+      "NumCompleted": 6608
     }
   ],
   "TotalAchievements": 49,
@@ -36071,7 +36076,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 152098
+      "UsersEstimate": 152099
     },
     {
       "ID": "AchClearTartarus",
@@ -36079,7 +36084,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 637365
+      "UsersEstimate": 637366
     },
     {
       "ID": "AchCrushedThanatos",
@@ -36087,7 +36092,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 325925
+      "UsersEstimate": 325926
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -36143,7 +36148,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 485266
+      "UsersEstimate": 485267
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -36191,7 +36196,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 253497
+      "UsersEstimate": 253498
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -36199,7 +36204,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 449052
+      "UsersEstimate": 449053
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -36255,7 +36260,7 @@
       "Name": "Harsh Conditions",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 50699
+      "UsersEstimate": 50700
     },
     {
       "ID": "AchPickedManyBoons",
@@ -36295,7 +36300,7 @@
       "Name": "One for the Ages",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 50699
+      "UsersEstimate": 50700
     },
     {
       "ID": "AchSilverSkellyTrophy",
@@ -36351,7 +36356,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 289711
+      "UsersEstimate": 289712
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -36366,15 +36371,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 724278,
+      "Progressed": 724279,
       "Completed": 6608
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-14T00:00:44.9580334+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:11:58.0606008+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:58:26.1750669+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:01:53.1373288+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:11:58.0607861+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:11:23.2777522+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:58:01.110873+00:00",
+  "LastUpdate_Ratings": "2024-01-14T05:01:05.30646+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:23.2779401+00:00"
 }

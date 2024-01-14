@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 70.00% | ~1,178 |
+| The Camp | 71.00% | ~1,195 |
 | The Teleprobe | 57.00% | ~959 |
 | The City | 51.00% | ~858 |
 | The field base | 46.00% | ~774 |
 | The Alliance | 43.00% | ~724 |
-| Survivors | 40.00% | ~673 |
+| Survivors | 41.00% | ~690 |
 | The Condor | 38.00% | ~640 |
 | The End | 38.00% | ~640 |
 | The Necroevolution | 30.00% | ~505 |

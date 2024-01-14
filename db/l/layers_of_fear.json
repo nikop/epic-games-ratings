@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1784,9 +1784,9 @@
       "ID": "self_preservation",
       "SetID": "f2im8d",
       "Name": "Instinct of self-preservation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "sign_of_weakness",
@@ -1887,8 +1887,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:10:26.9571554+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:58:37.800715+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:02:16.0057609+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:10:26.9572136+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:10:19.4716384+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
+  "LastUpdate_Ratings": "2024-01-14T05:01:18.6516266+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:10:19.4716841+00:00"
 }

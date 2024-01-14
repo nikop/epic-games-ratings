@@ -10842,9 +10842,9 @@
       "Count": 1094
     }
   ],
-  "EOS_Progressed": 132736,
+  "EOS_Progressed": 132745,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 750,
+  "EOS_NewPlayers": 754,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39767,6 +39767,11 @@
       "Time": "2024-01-14T04:11:46.1566056+00:00",
       "NumProgressed": 132736,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T05:11:14.7251295+00:00",
+      "NumProgressed": 132745,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39786,7 +39791,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -39818,7 +39823,7 @@
       "Name": "Unleash Hell",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -39858,7 +39863,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -39914,7 +39919,7 @@
       "Name": "Dissector",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "combat_kill_cosmic",
@@ -39922,7 +39927,7 @@
       "Name": "Banishment",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "combat_kill_death",
@@ -39938,7 +39943,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "combat_kill_fanatics",
@@ -39962,7 +39967,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "combat_kill_gentry",
@@ -40002,7 +40007,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40018,7 +40023,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7964
+      "UsersEstimate": 7965
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40066,7 +40071,7 @@
       "Name": "Spelunker",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "driving_biome_clear_city",
@@ -40090,7 +40095,7 @@
       "Name": "Harvest Festival",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -40106,7 +40111,7 @@
       "Name": "Ramble On",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "driving_distance_hard",
@@ -40130,7 +40135,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10619
+      "UsersEstimate": 10620
     },
     {
       "ID": "hero_story_complete_all",
@@ -40154,7 +40159,7 @@
       "Name": "Whale",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "hospital_full_service",
@@ -40226,7 +40231,7 @@
       "Name": "Nope",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "run_victory_act01",
@@ -40234,7 +40239,7 @@
       "Name": "Unshackled",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5309
+      "UsersEstimate": 5310
     },
     {
       "ID": "run_victory_act02",
@@ -40314,7 +40319,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "combat_kill_collector",
@@ -40322,7 +40327,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40354,7 +40359,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -40362,7 +40367,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40370,7 +40375,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "quest_complete_crusader",
@@ -40378,7 +40383,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40386,7 +40391,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40409,21 +40414,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132736,
+      "Progressed": 132745,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7605,
+      "Progressed": 7614,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T01:54:40.5230035+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:11:46.1566053+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:11:14.7251292+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:58:22.9346463+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:11:46.1567859+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:58:51.0418931+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:14.7252988+00:00"
 }

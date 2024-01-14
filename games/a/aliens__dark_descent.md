@@ -32,16 +32,16 @@ Rating: 4.55 (Ranked 528)
 | The Spire | 21.00% | ~1,348 |
 | El Riesgo Siempre Vive | 20.00% | ~1,283 |
 | Stuff Of Nightmares | 19.00% | ~1,219 |
+| Frontliner | 18.00% | ~1,155 |
 | Excavating The Truth | 18.00% | ~1,155 |
 | Abysmal Horrors | 18.00% | ~1,155 |
 | One For Every Occasion | 17.00% | ~1,091 |
-| Frontliner | 17.00% | ~1,091 |
 | The Cable Guy | 17.00% | ~1,091 |
 | Bandage Lover | 16.00% | ~1,027 |
 | Regicide | 13.00% | ~834 |
 | This Went Smoothly | 12.00% | ~770 |
+| Flawless Victory | 11.00% | ~706 |
 | Heavy Steps | 11.00% | ~706 |
-| Flawless Victory | 10.00% | ~642 |
 | Perfect Enhancements | 8.00% | ~513 |
 | Hardened In The Heat Of Battle | 6.00% | ~385 |
 | The True Experience | 5.00% | ~321 |

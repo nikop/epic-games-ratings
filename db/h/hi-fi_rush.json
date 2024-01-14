@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17069,
+  "EOS_Progressed": 17070,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1204,
+  "EOS_NewPlayers": 1192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12153,6 +12153,11 @@
       "Time": "2024-01-14T04:06:04.6051893+00:00",
       "NumProgressed": 17069,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T05:05:50.8711776+00:00",
+      "NumProgressed": 17070,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12164,7 +12169,7 @@
       "Name": "Start with a bang!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9217
+      "UsersEstimate": 9218
     },
     {
       "ID": "Ach002",
@@ -12372,7 +12377,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "Ach028",
@@ -12404,7 +12409,7 @@
       "Name": "Perfect Parry",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "Ach032",
@@ -12532,7 +12537,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 6998
+      "UsersEstimate": 6999
     },
     {
       "ID": "Ach048",
@@ -12540,7 +12545,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4779
+      "UsersEstimate": 4780
     },
     {
       "ID": "Ach049",
@@ -12588,7 +12593,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "Ach055",
@@ -12731,13 +12736,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17069,
+      "Progressed": 17070,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15590,
+      "Progressed": 15591,
       "Completed": 1931
     }
   ],
@@ -12745,8 +12750,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:06:04.6051888+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:57:39.1696862+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:00:24.9200311+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:06:04.6052919+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:05:50.8711771+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
+  "LastUpdate_Ratings": "2024-01-14T05:00:08.1456378+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:05:50.8712956+00:00"
 }

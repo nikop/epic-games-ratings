@@ -19,7 +19,7 @@ Rating: 4.81 (Ranked 82)
 | Fishy Fish | 20.00% | ~307 |
 | All Good Things | 18.00% | ~276 |
 | Persistent Parasite | 16.00% | ~246 |
-| Seadog | 14.00% | ~215 |
+| Seadog | 15.00% | ~230 |
 | Jaded Judge | 12.00% | ~184 |
 | Tobacco Travesty | 11.00% | ~169 |
 | Rustic Recipe | 11.00% | ~169 |

@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 4.00% | ~669 |
-| Settler | 4.00% | ~669 |
-| Play a Single Player Game | 4.00% | ~669 |
+| Explorer | 4.00% | ~670 |
+| Settler | 4.00% | ~670 |
+| Play a Single Player Game | 4.00% | ~670 |
 | Able | 3.00% | ~502 |
 | Architect | 3.00% | ~502 |
 | Intrepid | 3.00% | ~502 |
@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
+| Royal Library | 0.30% | ~50 |
 | Yazilikaya | 0.30% | ~50 |
 | Carthage - Riches and Influence | 0.20% | ~33 |
 | Ancient | 0.20% | ~33 |
@@ -166,7 +167,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.20% | ~33 |
 | Beja Archer | 0.20% | ~33 |
 | Jebel Barkal | 0.20% | ~33 |
-| Royal Library | 0.20% | ~33 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,737 (Ranked 169)  
+Progressed: 16,740 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,737 | 5 |
+| 2024-01-14 | 16,740 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

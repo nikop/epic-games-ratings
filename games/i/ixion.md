@@ -28,9 +28,9 @@ Rating: 4.59 (Ranked 453)
 | Necessary Enhancement | 8.00% | ~335 |
 | Convenient Transport | 8.00% | ~335 |
 | Access Granted | 7.00% | ~293 |
+| Drill-dozer | 7.00% | ~293 |
 | From the Past | 7.00% | ~293 |
 | All in Good Health | 6.00% | ~251 |
-| Drill-dozer | 6.00% | ~251 |
 | Oats | 5.00% | ~209 |
 | What They Hide From Us | 5.00% | ~209 |
 | ...  in a finite world | 5.00% | ~209 |

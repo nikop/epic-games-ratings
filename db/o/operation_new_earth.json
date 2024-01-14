@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2237,
+  "EOS_Progressed": 2238,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8636,6 +8636,11 @@
       "Time": "2024-01-13T23:05:58.481139+00:00",
       "NumProgressed": 2237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T05:05:40.9860305+00:00",
+      "NumProgressed": 2238,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8679,7 +8684,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -8751,7 +8756,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8767,7 +8772,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8823,7 +8828,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8831,7 +8836,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8863,7 +8868,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -8903,7 +8908,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8950,7 +8955,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2237,
+      "Progressed": 2238,
       "Completed": 1
     }
   ],
@@ -8958,8 +8963,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:05:49.6733113+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:05:40.9860301+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:01:47.0128593+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:05:49.6733662+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:01:01.7204141+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:05:40.9861072+00:00"
 }

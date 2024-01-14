@@ -5,15 +5,15 @@ Rating: 4.83 (Ranked 59)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~243,239 |
-| Private Club | 73.00% | ~195,126 |
-| Rogue Guild | 64.00% | ~171,069 |
+| Forgotten Sorority | 91.00% | ~243,240 |
+| Private Club | 73.00% | ~195,127 |
+| Rogue Guild | 64.00% | ~171,070 |
 | I Watched the Intro | 57.00% | ~152,359 |
 | Covert Consortium | 54.00% | ~144,340 |
 | Goat Queen | 52.00% | ~138,994 |
 | Reach the Stratosphere | 50.00% | ~133,648 |
-| Synchronization Complete | 47.00% | ~125,629 |
-| Secret Society | 44.00% | ~117,610 |
+| Synchronization Complete | 47.00% | ~125,630 |
+| Secret Society | 44.00% | ~117,611 |
 | Shadow Syndicate | 37.00% | ~98,900 |
 | What a Waste of Money | 33.00% | ~88,208 |
 | New Goat Order | 30.00% | ~80,189 |
@@ -25,9 +25,9 @@ Rating: 4.83 (Ranked 59)
 | Egg Simulator | 19.00% | ~50,786 |
 | Into the Matrix | 19.00% | ~50,786 |
 | Where is It? | 17.00% | ~45,440 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~40,094 |
-| 401(K.O.) | 15.00% | ~40,094 |
-| Black Market | 14.00% | ~37,421 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~40,095 |
+| 401(K.O.) | 15.00% | ~40,095 |
+| Black Market | 14.00% | ~37,422 |
 | Car Cave | 12.00% | ~32,076 |
 | Club Mohair | 8.00% | ~21,384 |
 | A Center for Ants? | 8.00% | ~21,384 |
@@ -45,7 +45,7 @@ Rating: 4.83 (Ranked 59)
 | Move! That! Bus! | 0.60% | ~1,604 |
 | G.O.A.T | 0.40% | ~1,069 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,296 (Ranked 66)  
+Progressed: 267,297 (Ranked 66)  
 Completed: 951 (0.36%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 951 (0.36%) (Ranked 247)
 | 2024-01-11 | 266,905 | 946 |
 | 2024-01-12 | 267,066 | 947 |
 | 2024-01-13 | 267,270 | 950 |
-| 2024-01-14 | 267,296 | 951 |
+| 2024-01-14 | 267,297 | 951 |
 ## Awards
 Max (Great for Beginners): 549  (Ranked 217)  
-Sum: 4,363 (Ranked 159)  
+Sum: 4,365 (Ranked 159)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -328,8 +328,8 @@ Diff (max vs sum): 58
 | This game is Extremely Fun | 420 |
 | This game has Amazing Storytelling | 410 |
 | This game is Relaxing | 404 |
+| This game has a Silly Community | 404 |
 | This game has Quickly Understood Controls | 403 |
-| This game has a Silly Community | 402 |
 | This game has Easy Combat | 376 |
 | This game is Educational | 263 |
 ## Ratings History
@@ -626,4 +626,4 @@ Diff (max vs sum): 58
 | 2024-01-11 | 4.83 | 542 | 4,339 |
 | 2024-01-12 | 4.83 | 543 | 4,352 |
 | 2024-01-13 | 4.83 | 543 | 4,357 |
-| 2024-01-14 | 4.83 | 549 | 4,363 |
+| 2024-01-14 | 4.83 | 549 | 4,365 |

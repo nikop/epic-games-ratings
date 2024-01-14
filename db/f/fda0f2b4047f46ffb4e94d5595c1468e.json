@@ -5127,9 +5127,9 @@
       "Count": 613
     }
   ],
-  "EOS_Progressed": 23785,
+  "EOS_Progressed": 23786,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1772,
+  "EOS_NewPlayers": 1762,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16382,6 +16382,11 @@
       "Time": "2024-01-14T04:10:09.6151392+00:00",
       "NumProgressed": 23785,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T05:10:07.1672028+00:00",
+      "NumProgressed": 23786,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16410,7 +16415,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10465
+      "UsersEstimate": 10466
     },
     {
       "ID": "ach04",
@@ -16434,7 +16439,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15936
+      "UsersEstimate": 15937
     },
     {
       "ID": "ach07",
@@ -16442,7 +16447,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ach08",
@@ -16450,7 +16455,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7373
+      "UsersEstimate": 7374
     },
     {
       "ID": "ach09",
@@ -16610,7 +16615,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ach29",
@@ -16658,7 +16663,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ach35",
@@ -16682,7 +16687,7 @@
       "Name": "ABACABB",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10941
+      "UsersEstimate": 10942
     },
     {
       "ID": "ach38",
@@ -16698,7 +16703,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7611
+      "UsersEstimate": 7612
     },
     {
       "ID": "ach40",
@@ -16706,7 +16711,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "ach41",
@@ -16714,7 +16719,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5708
+      "UsersEstimate": 5709
     },
     {
       "ID": "ach42",
@@ -16722,7 +16727,7 @@
       "Name": "Quest Master",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7373
+      "UsersEstimate": 7374
     },
     {
       "ID": "ach43",
@@ -16730,7 +16735,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7611
+      "UsersEstimate": 7612
     },
     {
       "ID": "ach44",
@@ -16793,7 +16798,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23785,
+      "Progressed": 23786,
       "Completed": 2
     }
   ],
@@ -16801,8 +16806,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-14T04:03:48.2761431+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:10:09.6151389+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:10:07.1672023+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:03:48.2761437+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:10:09.6152206+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:04:19.809388+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:10:07.1672855+00:00"
 }

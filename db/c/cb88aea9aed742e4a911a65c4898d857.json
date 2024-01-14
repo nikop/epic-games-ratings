@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -353,9 +353,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 11365,
+  "EOS_Progressed": 11366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4813,6 +4813,11 @@
       "Time": "2024-01-14T04:11:56.7463544+00:00",
       "NumProgressed": 11365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T05:11:22.3358719+00:00",
+      "NumProgressed": 11366,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4929,7 +4934,7 @@
       "Name": "Pentakill",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "16_TheRise",
@@ -4937,7 +4942,7 @@
       "Name": "The Rise",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "17_TheExemplar",
@@ -5073,7 +5078,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5137,7 +5142,7 @@
       "Name": "Jungle Heat",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5344,7 +5349,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11365,
+      "Progressed": 11366,
       "Completed": 1
     }
   ],
@@ -5352,8 +5357,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-13T20:00:45.2874377+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:11:56.7463541+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:11:22.3358714+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:03:28.0842185+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:11:56.7464547+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:04:06.7512267+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:22.3359426+00:00"
 }

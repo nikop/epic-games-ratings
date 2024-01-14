@@ -425,9 +425,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 14832,
+  "EOS_Progressed": 14833,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 991,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10305,6 +10305,11 @@
       "Time": "2024-01-14T04:11:55.6291837+00:00",
       "NumProgressed": 14832,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T05:11:21.4456581+00:00",
+      "NumProgressed": 14833,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10325,7 +10330,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "BeLikeWater",
@@ -10357,7 +10362,7 @@
       "Name": "Connection Lost",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3411
+      "UsersEstimate": 3412
     },
     {
       "ID": "Eavesdropper",
@@ -10373,7 +10378,7 @@
       "Name": "Explosive Personality",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "FasterThanLight",
@@ -10461,7 +10466,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "NoMoreTotems",
@@ -10588,7 +10593,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14832,
+      "Progressed": 14833,
       "Completed": 27
     }
   ],
@@ -10596,8 +10601,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-13T11:58:52.3774127+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:11:55.6291835+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:11:21.4456577+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:59:50.06929+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:11:55.6292539+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:59:44.8186098+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:11:21.4457161+00:00"
 }

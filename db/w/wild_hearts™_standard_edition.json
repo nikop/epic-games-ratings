@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1361,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4491,9 +4491,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_16",
@@ -4707,9 +4707,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 381
     },
     {
       "ID": "achievement_40",
@@ -4833,8 +4833,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:11:21.3409132+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:10:57.1199884+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:00:17.1416843+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:11:21.3409603+00:00"
+  "LastUpdate_Ratings": "2024-01-14T05:00:03.4011413+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:10:57.1200407+00:00"
 }

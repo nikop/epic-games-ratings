@@ -2027,9 +2027,9 @@
       "ID": "ach7",
       "SetID": "796kfpa",
       "Name": "Snail Racing Champion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 145,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
@@ -2042,8 +2042,8 @@
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:06:39.1497088+00:00",
+  "LastChanged_Achievements": "2024-01-14T05:06:15.1452051+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-14T03:58:21.4948118+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:06:39.1497237+00:00"
+  "LastUpdate_Ratings": "2024-01-14T04:58:49.8489396+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:06:15.1452221+00:00"
 }

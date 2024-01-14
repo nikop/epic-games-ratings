@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 352,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -783,7 +783,7 @@
   ],
   "EOS_Progressed": 4474,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12807,9 +12807,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 984
+      "UsersEstimate": 1029
     },
     {
       "ID": "herewegoagain",
@@ -13184,8 +13184,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-13T18:00:48.4471764+00:00",
-  "LastChanged_Achievements": "2024-01-14T04:05:59.1577877+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T03:58:00.5947712+00:00",
-  "LastUpdate_Ratings": "2024-01-14T04:01:14.7581748+00:00",
-  "LastUpdate_Achievements": "2024-01-14T04:05:59.1578858+00:00"
+  "LastChanged_Achievements": "2024-01-14T05:05:47.2054147+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
+  "LastUpdate_Ratings": "2024-01-14T05:00:40.5627183+00:00",
+  "LastUpdate_Achievements": "2024-01-14T05:05:47.2055165+00:00"
 }

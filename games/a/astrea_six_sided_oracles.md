@@ -38,6 +38,7 @@
 | Artificer | 5.00% | ~19 |
 | Can't touch this | 5.00% | ~19 |
 | Anomaly Control | 4.00% | ~15 |
+| Astrarium of Holding | 4.00% | ~15 |
 | Denying Destiny | 4.00% | ~15 |
 | If I Had Failed... | 4.00% | ~15 |
 | The Chaos Artisan | 4.00% | ~15 |
@@ -45,7 +46,6 @@
 | Apian Hero | 4.00% | ~15 |
 | Behenian Hero | 4.00% | ~15 |
 | Noctuan Hero | 4.00% | ~15 |
-| Astrarium of Holding | 3.00% | ~11 |
 | Purification Avatar | 3.00% | ~11 |
 | The Ardent Prince | 3.00% | ~11 |
 | The Distorted Sage | 3.00% | ~11 |

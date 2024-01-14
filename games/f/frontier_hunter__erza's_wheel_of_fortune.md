@@ -5,30 +5,30 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~697 |
+| Travel Streamer | 93.00% | ~698 |
 | Training Simulation | 79.00% | ~592 |
-| Kuku Bird Hunter | 65.00% | ~487 |
-| Storm Traveller | 60.00% | ~449 |
-| Wolf King Killer | 55.00% | ~412 |
-| Fashion Connoisseur | 53.00% | ~397 |
-| Arms Mechanic | 49.00% | ~367 |
+| Kuku Bird Hunter | 65.00% | ~488 |
+| Storm Traveller | 60.00% | ~450 |
+| Wolf King Killer | 55.00% | ~413 |
+| Fashion Connoisseur | 53.00% | ~398 |
+| Arms Mechanic | 49.00% | ~368 |
 | Flower Thief | 44.00% | ~330 |
 | Apostle of Flame | 39.00% | ~292 |
 | Beginner Artificer | 38.00% | ~285 |
-| Beginner Cook | 37.00% | ~277 |
+| Beginner Cook | 37.00% | ~278 |
 | Seal Breaker | 32.00% | ~240 |
 | Handyman | 28.00% | ~210 |
 | Giant Lizard Killer | 27.00% | ~202 |
-| Guardian | 26.00% | ~195 |
-| Nosebleeder | 26.00% | ~195 |
+| Guardian | 25.00% | ~188 |
+| Nosebleeder | 25.00% | ~188 |
 | Trader | 22.00% | ~165 |
-| Weapon Boost | 21.00% | ~157 |
+| Weapon Boost | 21.00% | ~158 |
 | Flying Kobold Killer | 19.00% | ~142 |
 | Youth Magnet | 19.00% | ~142 |
-| Furious Scorpion Killer | 17.00% | ~127 |
-| Lethal Blade Mantis Killer | 17.00% | ~127 |
-| Squeaky Clean | 17.00% | ~127 |
-| Master Artificer | 17.00% | ~127 |
+| Furious Scorpion Killer | 17.00% | ~128 |
+| Lethal Blade Mantis Killer | 17.00% | ~128 |
+| Squeaky Clean | 17.00% | ~128 |
+| Master Artificer | 17.00% | ~128 |
 | Kind Adventurer | 16.00% | ~120 |
 | Mermaid Killer | 15.00% | ~112 |
 | Cave Master | 15.00% | ~112 |
@@ -37,7 +37,7 @@ Rating: 4.38 (Ranked 797)
 | Berserker Slayer | 11.00% | ~82 |
 | Giantess Slayer | 11.00% | ~82 |
 | Warden Slayer | 10.00% | ~75 |
-| Master Cook | 9.00% | ~67 |
+| Master Cook | 9.00% | ~68 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |
 | Blade Mantis Challenge | 3.00% | ~22 |
 | Flying Kobold Challenge | 3.00% | ~22 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 797)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 322)  
+Progressed: 750 (Ranked 322)  
 Completed: 3 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,6 +181,7 @@ Completed: 3 (0.40%) (Ranked 241)
 | 2024-01-10 | 744 | 3 |
 | 2024-01-11 | 748 | 3 |
 | 2024-01-13 | 749 | 3 |
+| 2024-01-14 | 750 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
