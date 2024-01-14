@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -485,9 +485,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 345355,
+  "EOS_Progressed": 345382,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3005,
+  "EOS_NewPlayers": 3003,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13340,6 +13340,11 @@
       "Time": "2024-01-14T13:11:58.795612+00:00",
       "NumProgressed": 345355,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-14T14:08:37.3861974+00:00",
+      "NumProgressed": 345382,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13352,7 +13357,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17268
+      "UsersEstimate": 17269
     },
     {
       "ID": "S02_BRDA",
@@ -13392,7 +13397,7 @@
       "Name": "They tricked me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "S07_INWA",
@@ -13400,7 +13405,7 @@
       "Name": "We need to talk",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "S08_MNSA",
@@ -13488,7 +13493,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17268
+      "UsersEstimate": 17269
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13520,7 +13525,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "S23_ETHEREAL",
@@ -13560,7 +13565,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "S28_CTHB",
@@ -13664,14 +13669,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6907
+      "UsersEstimate": 6908
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345355,
+      "Progressed": 345382,
       "Completed": 7
     }
   ],
@@ -13679,8 +13684,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-14T05:58:39.4659138+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:58.7956118+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:37.3861968+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:02:39.3169391+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:58.795697+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:39.4086227+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:37.3862928+00:00"
 }

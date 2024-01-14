@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4189,
+  "EOS_Progressed": 4191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8568,6 +8568,11 @@
       "Time": "2024-01-14T13:08:30.1410012+00:00",
       "NumProgressed": 4189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T14:04:30.6058094+00:00",
+      "NumProgressed": 4191,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8579,7 +8584,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACH_BASE_10",
@@ -8611,7 +8616,7 @@
       "Name": "Oats",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_BASE_15",
@@ -8635,7 +8640,7 @@
       "Name": "What They Hide From Us",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_BASE_18",
@@ -8651,7 +8656,7 @@
       "Name": "...  in a finite world",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_BASE_2",
@@ -8659,7 +8664,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_BASE_21",
@@ -8667,7 +8672,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "ACH_BASE_22",
@@ -8723,7 +8728,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_BASE_29",
@@ -8771,7 +8776,7 @@
       "Name": "Fully Recycled",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_BASE_34",
@@ -8883,7 +8888,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_BASE_5",
@@ -8915,7 +8920,7 @@
       "Name": "BRAWL!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_BASE_53",
@@ -8955,7 +8960,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_BASE_6",
@@ -8963,7 +8968,7 @@
       "Name": "Hope Seeker",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACH_BASE_60",
@@ -8985,9 +8990,9 @@
       "ID": "ACH_BASE_62",
       "SetID": "92iocjf",
       "Name": "Soylent Green",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_BASE_63",
@@ -9019,7 +9024,7 @@
       "Name": "What the Ruins Teach Us",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_BASE_9",
@@ -9034,13 +9039,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2373,
+      "Progressed": 2375,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4189,
+      "Progressed": 4191,
       "Completed": 0
     }
   ],
@@ -9048,8 +9053,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-11T09:57:52.466446+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:08:30.141001+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:30.6058091+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.7673694+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:03:46.5863485+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:30.1410726+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:28.6356802+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:30.6058853+00:00"
 }

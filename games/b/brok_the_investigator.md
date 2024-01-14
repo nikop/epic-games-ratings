@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 72.00% | ~33 |
+| Introduction completed | 72.00% | ~34 |
 | Chapter 1 | 43.00% | ~20 |
-| Chapter 2 | 39.00% | ~18 |
-| It's In My Nature | 39.00% | ~18 |
-| Chapter 3 | 35.00% | ~16 |
-| Your Days Are Numbered | 35.00% | ~16 |
-| Chapter 4 | 33.00% | ~15 |
-| All Materials | 30.00% | ~14 |
+| Chapter 2 | 38.00% | ~18 |
+| It's In My Nature | 38.00% | ~18 |
+| Chapter 3 | 34.00% | ~16 |
+| Your Days Are Numbered | 34.00% | ~16 |
+| Chapter 4 | 32.00% | ~15 |
+| All Materials | 32.00% | ~15 |
 | Chapter 5 | 28.00% | ~13 |
-| Chapter 6 | 22.00% | ~10 |
+| Chapter 6 | 21.00% | ~10 |
 | Best Student | 15.00% | ~7 |
 | Food Thief | 13.00% | ~6 |
 | Ads Fan | 11.00% | ~5 |
@@ -21,10 +21,10 @@
 | Hard To Wake Up | 11.00% | ~5 |
 | Highway Survival | 9.00% | ~4 |
 | Tramp Saver | 9.00% | ~4 |
-| Chipmunk | 7.00% | ~3 |
-| Secret Locker | 7.00% | ~3 |
-| Paw Music | 7.00% | ~3 |
-| Bear Cop | 4.00% | ~2 |
+| Bear Cop | 6.00% | ~3 |
+| Chipmunk | 6.00% | ~3 |
+| Secret Locker | 6.00% | ~3 |
+| Paw Music | 6.00% | ~3 |
 | Main Endings | 2.00% | ~1 |
 | Summary Filled | 2.00% | ~1 |
 | Toilets Tormentor | 2.00% | ~1 |
@@ -34,7 +34,7 @@
 | The World Is My Doormat | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 574)  
+Progressed: 47 (Ranked 570)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-07 | 42 | 0 |
 | 2024-01-10 | 44 | 0 |
 | 2024-01-13 | 45 | 0 |
-| 2024-01-14 | 46 | 0 |
+| 2024-01-14 | 47 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

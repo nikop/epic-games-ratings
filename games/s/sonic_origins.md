@@ -25,9 +25,9 @@ Number of Ratings: 154  (23.09.2022)
 | Shut Down Metal Sonic | 39.00% | ~271 |
 | Beware Stingers! | 39.00% | ~271 |
 | Very First Mission Clear! | 39.00% | ~271 |
+| Beware Moto Bugs! | 38.00% | ~264 |
 | Museum Time | 38.00% | ~264 |
 | Cleared Sonic the Hedgehog 2 | 38.00% | ~264 |
-| Beware Moto Bugs! | 37.00% | ~258 |
 | Cleared Sonic CD | 36.00% | ~251 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 32.00% | ~223 |
 | Lucky Hedgehog | 28.00% | ~195 |
@@ -231,8 +231,8 @@ Completed: 48 (6.90%) (Ranked 60)
 | 2024-01-14 | 696 | 48 |
 ## Awards
 Max (Great Boss Battles): 131  (Ranked 347)  
-Sum: 131 (Ranked 452)  
-Diff (max vs sum): -105  
+Sum: 131 (Ranked 453)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 131 |

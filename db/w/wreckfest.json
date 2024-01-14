@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2851,6 +2851,11 @@
       "Time": "2024-01-14T10:09:36.9314042+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T14:08:36.1084379+00:00",
+      "NumProgressed": 1145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2871,7 +2876,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "CareerChamp1",
@@ -2879,7 +2884,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "CareerChamp2",
@@ -2919,7 +2924,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 802
     },
     {
       "ID": "CollectVehiclesA",
@@ -2975,7 +2980,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "PlayerRankB",
@@ -3007,7 +3012,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "WreckOpponentsBus",
@@ -3022,7 +3027,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1145,
       "Completed": 0
     }
   ],
@@ -3030,8 +3035,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:57.1831162+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:36.1084374+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:02:57.3192954+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:57.1831391+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:53.9729851+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:36.108469+00:00"
 }

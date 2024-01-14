@@ -2467,9 +2467,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19542,
+  "EOS_Progressed": 19545,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20367,6 +20367,11 @@
       "Time": "2024-01-14T13:13:39.8705944+00:00",
       "NumProgressed": 19542,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T14:09:38.4655834+00:00",
+      "NumProgressed": 19545,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20378,7 +20383,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15829
+      "UsersEstimate": 15831
     },
     {
       "ID": "ACH02",
@@ -20426,7 +20431,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ACH08",
@@ -20434,7 +20439,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9771
+      "UsersEstimate": 9772
     },
     {
       "ID": "ACH09",
@@ -20480,9 +20485,9 @@
       "ID": "ACH14",
       "SetID": "4ck5mbe",
       "Name": "Horror of the Santa Maria",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2150
+      "UsersEstimate": 1954
     },
     {
       "ID": "ACH15",
@@ -20498,7 +20503,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "ACH17",
@@ -20594,7 +20599,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "ACH29",
@@ -20602,7 +20607,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "ACH30",
@@ -20657,7 +20662,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19542,
+      "Progressed": 19545,
       "Completed": 77
     }
   ],
@@ -20665,8 +20670,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-14T11:02:44.3594951+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:39.8705943+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:38.465583+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:06.7268425+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:39.8706775+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:02:42.9634053+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:38.4657107+00:00"
 }

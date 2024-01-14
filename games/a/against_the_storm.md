@@ -6,11 +6,11 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 9.00% | ~1,869 |
-| Taking Action | 9.00% | ~1,869 |
-| No Deaths | 9.00% | ~1,869 |
-| Abandoned Settlement | 9.00% | ~1,869 |
-| Overgrown Library | 9.00% | ~1,869 |
+| First Real Expedition | 9.00% | ~1,870 |
+| Taking Action | 9.00% | ~1,870 |
+| No Deaths | 9.00% | ~1,870 |
+| Abandoned Settlement | 9.00% | ~1,870 |
+| Overgrown Library | 9.00% | ~1,870 |
 | The Marshlands | 8.00% | ~1,662 |
 | Petrified Necropolis | 8.00% | ~1,662 |
 | Overcoming Difficulty | 7.00% | ~1,454 |
@@ -33,6 +33,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Barren Lands | 3.00% | ~623 |
 | Ancient Battleground | 3.00% | ~623 |
 | Sparkdew Crystals | 3.00% | ~623 |
+| Haunted Forest | 3.00% | ~623 |
 | Flooded Mines | 3.00% | ~623 |
 | Lost Colonies | 3.00% | ~623 |
 | Statue of the Forefathers | 3.00% | ~623 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 2.00% | ~415 |
 | Against All Odds | 2.00% | ~415 |
 | Fishmen Ritual Site | 2.00% | ~415 |
-| Haunted Forest | 2.00% | ~415 |
 | Victory Through Prosperity | 2.00% | ~415 |
 | Defying the Crown | 2.00% | ~415 |
 | Into the Forest | 2.00% | ~415 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,772 (Ranked 155)  
+Progressed: 20,773 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
 | 2024-01-13 | 20,758 | 35 |
-| 2024-01-14 | 20,772 | 35 |
+| 2024-01-14 | 20,773 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,381 (Ranked 178)  

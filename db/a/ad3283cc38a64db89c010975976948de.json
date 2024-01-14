@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -571,17 +571,17 @@
       "ID": "LEVEL_240_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 240 pieces",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LEVEL_240_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 240 pieces",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LEVEL_240_004",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:09:59.9339404+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:05:37.5187954+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:09.5619949+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:40.6142012+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:59.9339643+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:59.5746232+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:05:37.5188398+00:00"
 }

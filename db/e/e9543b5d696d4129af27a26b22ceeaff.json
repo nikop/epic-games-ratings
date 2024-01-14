@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -397,9 +397,9 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -421,9 +421,9 @@
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FIRST_WIN",
@@ -612,8 +612,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:45.4409423+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:27.5904628+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:03:02.8302917+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:45.4409674+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:57.9514992+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:27.5904897+00:00"
 }

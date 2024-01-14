@@ -16,7 +16,7 @@
 | Cat Lover | 13.00% | ~17 |
 | Dynamite, Treason and Coconuts | 13.00% | ~17 |
 | Save a Friend | 13.00% | ~17 |
-| Mysterious Bungalow | 10.00% | ~13 |
+| Mysterious Bungalow | 12.00% | ~16 |
 | The Eyes! | 10.00% | ~13 |
 | Punctual | 10.00% | ~13 |
 | Barking Dog | 9.00% | ~12 |

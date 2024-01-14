@@ -2,13 +2,13 @@
   "ID": "935fa66c485e4c988eb939f86dc458b5",
   "Name": "Phantom Brigade",
   "ProductSlug": "phantom-brigade",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 367,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-11-16T18:00:00+00:00",
     "PcReleaseDate": "2020-11-16T18:00:00+00:00",
@@ -527,6 +527,6 @@
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
   "LastChanged": "2024-01-05T23:02:32.0755335+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:11.7923926+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:09.844014+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:06.3784652+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:02:45.1683239+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:57.4143727+00:00"
 }

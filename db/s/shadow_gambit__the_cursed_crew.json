@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -5470,9 +5470,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 261
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5543,8 +5543,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:08:35.3639184+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:34.4992607+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:57.5622346+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:35.3639611+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:11.225012+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:34.4993015+00:00"
 }

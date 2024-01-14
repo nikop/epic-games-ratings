@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 343,
+  "Ranking_Rating": 344,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9053,
+  "EOS_Progressed": 9057,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10208,6 +10208,11 @@
       "Time": "2024-01-14T13:13:45.3130358+00:00",
       "NumProgressed": 9053,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T14:09:43.239274+00:00",
+      "NumProgressed": 9057,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10268,7 +10273,7 @@
       "Name": "Flaming Hot Completos",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CHAPTER_8_COMPLETE",
@@ -10563,13 +10568,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9053,
+      "Progressed": 9057,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1670,
+      "Progressed": 1674,
       "Completed": 1050
     }
   ],
@@ -10577,8 +10582,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:45.3130356+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:43.2392736+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:44.2778743+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:45.3131005+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:03:09.9693584+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:43.2393568+00:00"
 }

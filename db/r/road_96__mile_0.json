@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 721,
+  "EOS_Progressed": 722,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -2642,6 +2642,11 @@
       "Time": "2024-01-14T08:11:19.4762233+00:00",
       "NumProgressed": 721,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T14:09:36.2871719+00:00",
+      "NumProgressed": 722,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2651,9 +2656,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 324
+      "UsersEstimate": 318
     },
     {
       "ID": "completeact2",
@@ -2701,7 +2706,7 @@
       "Name": "Freedom",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "scoreminrankrf1",
@@ -2709,7 +2714,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "scoreminrankrf2",
@@ -2717,7 +2722,7 @@
       "Name": "Partners in Crime",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "scoreminrankrh1",
@@ -2725,7 +2730,7 @@
       "Name": "Souvenirs",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "scoreminrankrp1",
@@ -2757,7 +2762,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "scoreminrankrv2",
@@ -2772,7 +2777,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 721,
+      "Progressed": 722,
       "Completed": 3
     }
   ],
@@ -2780,8 +2785,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:37.3466549+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:36.2871717+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:24.4134338+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:37.3466764+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:48.2021934+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:36.2872015+00:00"
 }

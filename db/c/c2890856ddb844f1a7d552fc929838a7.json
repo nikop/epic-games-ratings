@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -305,7 +305,7 @@
   ],
   "EOS_Progressed": 2508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6093,9 +6093,9 @@
       "ID": "AC10",
       "SetID": "l4abp0",
       "Name": "The Wait is Over",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 853
+      "UsersEstimate": 878
     },
     {
       "ID": "AC11",
@@ -6317,9 +6317,9 @@
       "ID": "AC38",
       "SetID": "l4abp0",
       "Name": "Edge of Orison",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 853
     },
     {
       "ID": "AC39",
@@ -6390,8 +6390,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:10:11.754065+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:05:46.2547748+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:39.8411031+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:10:11.7541317+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:59.0150156+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:05:46.2548381+00:00"
 }

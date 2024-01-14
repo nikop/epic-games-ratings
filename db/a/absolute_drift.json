@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1563649,
+  "EOS_Progressed": 1563658,
   "EOS_Completed": 768,
-  "EOS_NewPlayers": 1430,
+  "EOS_NewPlayers": 1425,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31367,6 +31367,11 @@
       "Time": "2024-01-14T13:09:46.9768232+00:00",
       "NumProgressed": 1563649,
       "NumCompleted": 768
+    },
+    {
+      "Time": "2024-01-14T14:05:28.2547481+00:00",
+      "NumProgressed": 1563658,
+      "NumCompleted": 768
     }
   ],
   "TotalAchievements": 20,
@@ -31386,7 +31391,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109455
+      "UsersEstimate": 109456
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -31410,7 +31415,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46909
+      "UsersEstimate": 46910
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -31426,7 +31431,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140728
+      "UsersEstimate": 140729
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -31434,7 +31439,7 @@
       "Name": "Hoon Airlines",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15636
+      "UsersEstimate": 15637
     },
     {
       "ID": "ACH_INSANE_SKILLS",
@@ -31458,7 +31463,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46909
+      "UsersEstimate": 46910
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -31474,7 +31479,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156365
+      "UsersEstimate": 156366
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -31490,7 +31495,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140728
+      "UsersEstimate": 140729
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -31498,7 +31503,7 @@
       "Name": "Sake Bombs",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15636
+      "UsersEstimate": 15637
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -31522,7 +31527,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 78182
+      "UsersEstimate": 78183
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -31537,15 +31542,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1563649,
+      "Progressed": 1563658,
       "Completed": 768
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:09:46.9768228+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:05:28.2547476+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:09.5781079+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:00:36.8544595+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:46.9769654+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:15.0303858+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:05:28.2548845+00:00"
 }

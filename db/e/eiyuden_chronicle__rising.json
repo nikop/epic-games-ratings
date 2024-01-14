@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 55,
-  "Ranking_EOS_NewPlayers": 429,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 802,
+  "EOS_Progressed": 803,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.48,
+  "EOS_Completed_Percentage": 7.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -841,6 +841,11 @@
       "Time": "2024-01-14T12:08:44.5801256+00:00",
       "NumProgressed": 802,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-14T14:08:46.3362411+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -852,7 +857,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -860,7 +865,7 @@
       "Name": "Partners?",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "ACHIEVEMENT003",
@@ -876,7 +881,7 @@
       "Name": "All Bark, No Bite",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHIEVEMENT005",
@@ -884,15 +889,15 @@
       "Name": "Magical Mineral Golem",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "ACHIEVEMENT006",
       "SetID": "dejhjd5",
       "Name": "The Lords of the Snowpeak",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHIEVEMENT007",
@@ -908,7 +913,7 @@
       "Name": "This Treasure I\u0027ve Found",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT009",
@@ -916,7 +921,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -948,7 +953,7 @@
       "Name": "The Pride of the Town",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT014",
@@ -1020,7 +1025,7 @@
       "Name": "Arms Master",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -1028,7 +1033,7 @@
       "Name": "Armor Master",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENT024",
@@ -1036,7 +1041,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -1044,7 +1049,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -1068,7 +1073,7 @@
       "Name": "On Outlander Lane",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -1076,7 +1081,7 @@
       "Name": "New Nevaeh\u0027s Number One Customer",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT030",
@@ -1148,7 +1153,7 @@
       "Name": "Fishing Master",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACHIEVEMENT039",
@@ -1156,7 +1161,7 @@
       "Name": "Meat Master",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACHIEVEMENT040",
@@ -1188,7 +1193,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -1196,7 +1201,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -1251,15 +1256,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 802,
+      "Progressed": 803,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:12:11.0126796+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:46.3362406+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:58.5913799+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:04:16.4954337+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:12:11.0127225+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:53.0669435+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:46.3363111+00:00"
 }

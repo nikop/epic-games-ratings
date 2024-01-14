@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -269,7 +269,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75159,
+  "EOS_Progressed": 75170,
   "EOS_Completed": 122,
   "EOS_NewPlayers": 1396,
   "EOS_NewCompleters": 10,
@@ -7274,6 +7274,11 @@
       "Time": "2024-01-14T13:11:36.6807621+00:00",
       "NumProgressed": 75159,
       "NumCompleted": 122
+    },
+    {
+      "Time": "2024-01-14T14:08:20.8652925+00:00",
+      "NumProgressed": 75170,
+      "NumCompleted": 122
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7286,7 +7291,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27809
+      "UsersEstimate": 27813
     },
     {
       "ID": "Achievement_10",
@@ -7318,7 +7323,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "Achievement_14",
@@ -7334,7 +7339,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Achievement_16",
@@ -7350,7 +7355,7 @@
       "Name": "Great Wave Alumni",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Achievement_18",
@@ -7374,7 +7379,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21045
+      "UsersEstimate": 21048
     },
     {
       "ID": "Achievement_20",
@@ -7382,7 +7387,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "Achievement_21",
@@ -7414,7 +7419,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "Achievement_25",
@@ -7446,7 +7451,7 @@
       "Name": "A Better World",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Achievement_29",
@@ -7462,7 +7467,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9019
+      "UsersEstimate": 9020
     },
     {
       "ID": "Achievement_30",
@@ -7510,7 +7515,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6764
+      "UsersEstimate": 6765
     },
     {
       "ID": "Achievement_5",
@@ -7518,7 +7523,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5261
+      "UsersEstimate": 5262
     },
     {
       "ID": "Achievement_6",
@@ -7526,7 +7531,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "Achievement_7",
@@ -7557,7 +7562,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75159,
+      "Progressed": 75170,
       "Completed": 122
     }
   ],
@@ -7565,8 +7570,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-09T18:03:16.5676566+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:36.6807618+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:20.8652921+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:00:49.2111731+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:36.6808214+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:23.6792948+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:20.8653477+00:00"
 }

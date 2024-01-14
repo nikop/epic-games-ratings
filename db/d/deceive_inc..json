@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19330,
+  "EOS_Progressed": 19331,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14725,6 +14725,11 @@
       "Time": "2024-01-14T12:06:12.4433545+00:00",
       "NumProgressed": 19330,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T14:07:54.569499+00:00",
+      "NumProgressed": 19331,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14744,7 +14749,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "0003",
@@ -14792,7 +14797,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "0009",
@@ -14864,7 +14869,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "0018",
@@ -14928,7 +14933,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "0026",
@@ -14968,7 +14973,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "0031",
@@ -15023,7 +15028,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19330,
+      "Progressed": 19331,
       "Completed": 4
     }
   ],
@@ -15031,8 +15036,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:02.7990943+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:07:54.5694987+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:43.1243695+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:03:14.8957928+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:02.7991662+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:05.7167167+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:07:54.5695844+00:00"
 }

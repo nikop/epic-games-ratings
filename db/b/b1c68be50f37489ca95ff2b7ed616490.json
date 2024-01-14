@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2024-01-14T13:09:34.8261999+00:00",
       "NumProgressed": 330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T14:05:19.0478052+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1426,7 +1431,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "10",
@@ -1634,21 +1639,21 @@
       "Name": "Encore!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:09:34.8261995+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:05:19.0478046+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:13.0818555+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:31.7682487+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:34.8262218+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:03:00.9931359+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:05:19.0478267+00:00"
 }

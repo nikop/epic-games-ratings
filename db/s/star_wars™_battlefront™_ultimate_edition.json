@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2947,
+  "EOS_Progressed": 2950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7989,6 +7989,11 @@
       "Time": "2024-01-14T12:09:47.1452045+00:00",
       "NumProgressed": 2947,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T14:09:48.0831582+00:00",
+      "NumProgressed": 2950,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8017,7 +8022,7 @@
       "Name": "Hold the line!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_12",
@@ -8065,7 +8070,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_18",
@@ -8177,7 +8182,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_30",
@@ -8225,7 +8230,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2537
     },
     {
       "ID": "achievement_36",
@@ -8241,7 +8246,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1770
     },
     {
       "ID": "achievement_38",
@@ -8249,7 +8254,7 @@
       "Name": "Survivor",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_39",
@@ -8257,7 +8262,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_4",
@@ -8265,7 +8270,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_40",
@@ -8273,7 +8278,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1534
     },
     {
       "ID": "achievement_41",
@@ -8281,7 +8286,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_42",
@@ -8305,7 +8310,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "achievement_45",
@@ -8313,7 +8318,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_46",
@@ -8361,7 +8366,7 @@
       "Name": "City in the Clouds",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_51",
@@ -8425,7 +8430,7 @@
       "Name": "Alternative solution",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_59",
@@ -8449,7 +8454,7 @@
       "Name": "What will you become?",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_61",
@@ -8473,7 +8478,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_7",
@@ -8504,13 +8509,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2947,
+      "Progressed": 2950,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2947,
+      "Progressed": 2950,
       "Completed": 1
     }
   ],
@@ -8518,8 +8523,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:50.9698953+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:48.0831579+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:00:23.5424258+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:50.9699747+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:05.9478456+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:48.0832557+00:00"
 }

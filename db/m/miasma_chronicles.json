@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,7 +265,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1718,
+  "EOS_Progressed": 1719,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -4455,6 +4455,11 @@
       "Time": "2024-01-14T12:09:44.9155549+00:00",
       "NumProgressed": 1718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T14:09:45.6676523+00:00",
+      "NumProgressed": 1719,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4474,7 +4479,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -4482,7 +4487,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4562,7 +4567,7 @@
       "Name": "Curveball",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "DEAD_DD",
@@ -4570,7 +4575,7 @@
       "Name": "Ganglord",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "DEAD_DICK",
@@ -4586,7 +4591,7 @@
       "Name": "Jarhead",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -4610,7 +4615,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ENDGAME",
@@ -4682,7 +4687,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "GOAL",
@@ -4698,7 +4703,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4714,7 +4719,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "INFILTRATOR",
@@ -4722,7 +4727,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "LUMBERJACK",
@@ -4770,7 +4775,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "RECYCLER",
@@ -4778,7 +4783,7 @@
       "Name": "Recycler",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "RUTHLESS",
@@ -4834,7 +4839,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4873,7 +4878,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1718,
+      "Progressed": 1719,
       "Completed": 0
     }
   ],
@@ -4881,8 +4886,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:48.2490219+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:45.6676521+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.6324876+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:31.1201548+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:48.2490928+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:03:00.6706597+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:45.6677173+00:00"
 }

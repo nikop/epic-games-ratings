@@ -6,20 +6,20 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~682 |
-| All Bark, No Bite | 73.00% | ~585 |
-| Hopeful Hunter | 63.00% | ~505 |
-| Amateur Adventurer | 61.00% | ~489 |
-| The Road to Recovery | 60.00% | ~481 |
-| Partners? | 58.00% | ~465 |
-| Magical Mineral Golem | 52.00% | ~417 |
-| On Outlander Lane | 51.00% | ~409 |
+| Plenty More to Go | 85.00% | ~683 |
+| All Bark, No Bite | 73.00% | ~586 |
+| Hopeful Hunter | 63.00% | ~506 |
+| Amateur Adventurer | 61.00% | ~490 |
+| The Road to Recovery | 60.00% | ~482 |
+| Partners? | 58.00% | ~466 |
+| Magical Mineral Golem | 52.00% | ~418 |
+| On Outlander Lane | 51.00% | ~410 |
 | First Time Fishing | 48.00% | ~385 |
 | A Girl About the Town | 47.00% | ~377 |
 | First Time Hunting | 46.00% | ~369 |
 | Rune Wall Wreckage | 45.00% | ~361 |
 | ...And Your Tax Money | 44.00% | ~353 |
-| The Lords of the Snowpeak | 38.00% | ~305 |
+| The Lords of the Snowpeak | 37.00% | ~297 |
 | The Go-To Girl | 34.00% | ~273 |
 | Scavenger's Honor | 34.00% | ~273 |
 | Natural Born Monster-Killer | 34.00% | ~273 |
@@ -31,15 +31,15 @@ Number of Ratings: 48  (23.09.2022)
 | Rune Wall Master | 31.00% | ~249 |
 | The Quarry...On Foot! | 29.00% | ~233 |
 | The Runebarrows...On Foot! | 27.00% | ~217 |
-| The Snowpeak...On Foot! | 25.00% | ~200 |
-| The Lava Ruins...On Foot! | 25.00% | ~200 |
-| Meat Master | 24.00% | ~192 |
-| Fishing Master | 23.00% | ~184 |
-| Armor Master | 22.00% | ~176 |
-| The Pride of the Town | 21.00% | ~168 |
-| This Treasure I've Found | 19.00% | ~152 |
-| New Nevaeh's Number One Customer | 19.00% | ~152 |
-| Arms Master | 17.00% | ~136 |
+| The Snowpeak...On Foot! | 25.00% | ~201 |
+| The Lava Ruins...On Foot! | 25.00% | ~201 |
+| Meat Master | 24.00% | ~193 |
+| Fishing Master | 23.00% | ~185 |
+| Armor Master | 22.00% | ~177 |
+| The Pride of the Town | 21.00% | ~169 |
+| This Treasure I've Found | 19.00% | ~153 |
+| New Nevaeh's Number One Customer | 19.00% | ~153 |
+| Arms Master | 17.00% | ~137 |
 | Rune Scholar | 15.00% | ~120 |
 | No Treasure Left Behind | 12.00% | ~96 |
 | Sommelier | 11.00% | ~88 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~56 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 314)  
-Completed: 60 (7.48%) (Ranked 55)  
+Progressed: 803 (Ranked 314)  
+Completed: 60 (7.47%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,7 +131,7 @@ Completed: 60 (7.48%) (Ranked 55)
 | 2024-01-08 | 798 | 60 |
 | 2024-01-10 | 799 | 60 |
 | 2024-01-13 | 801 | 60 |
-| 2024-01-14 | 802 | 60 |
+| 2024-01-14 | 803 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

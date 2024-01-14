@@ -2,13 +2,13 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 343,
+  "Ranking_Rating": 344,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -355,7 +355,7 @@
   ],
   "EOS_Progressed": 1012,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -2838,9 +2838,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3022,8 +3022,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:09:41.5068182+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:05:24.1370865+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:03:41.9291627+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:41.5068584+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:25.0345353+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:05:24.1371172+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2386,
+  "EOS_Progressed": 2388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2024-01-14T06:03:55.9480529+00:00",
       "NumProgressed": 2386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T14:03:59.0238794+00:00",
+      "NumProgressed": 2388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4587,7 +4592,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_011",
@@ -4715,7 +4720,7 @@
       "Name": "Fly Fisher",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Achievement_027",
@@ -4731,7 +4736,7 @@
       "Name": "You Clean It Up",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_029",
@@ -4739,7 +4744,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_030",
@@ -4755,7 +4760,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Achievement_032",
@@ -4779,7 +4784,7 @@
       "Name": "Catch and Release",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "Achievement_035",
@@ -4987,7 +4992,7 @@
       "Name": "Helping Hand",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "Achievement_064",
@@ -5050,7 +5055,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2386,
+      "Progressed": 2388,
       "Completed": 0
     }
   ],
@@ -5058,8 +5063,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:07:48.3037243+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:03:59.0238791+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:02:57.154188+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:07:48.3037979+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:53.8433199+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:03:59.0239417+00:00"
 }

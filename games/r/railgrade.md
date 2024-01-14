@@ -5,30 +5,30 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 108.00% | ~19,206 |
-| Before the Downfall | 102.00% | ~18,139 |
-| Money like Water | 100.00% | ~17,783 |
-| Minimalist | 99.00% | ~17,605 |
-| Builder | 91.00% | ~16,183 |
-| Eraser | 77.00% | ~13,693 |
-| Pocket of Trains | 72.00% | ~12,804 |
-| Inspector | 65.00% | ~11,559 |
-| Going the Distance | 59.00% | ~10,492 |
+| Trevithick's Legacy | 108.00% | ~19,205 |
+| Before the Downfall | 102.00% | ~18,138 |
+| Money like Water | 100.00% | ~17,782 |
+| Minimalist | 99.00% | ~17,604 |
+| Builder | 91.00% | ~16,182 |
+| Eraser | 77.00% | ~13,692 |
+| Pocket of Trains | 72.00% | ~12,803 |
+| Inspector | 65.00% | ~11,558 |
+| Going the Distance | 59.00% | ~10,491 |
 | Oil Baron | 46.00% | ~8,180 |
 | Loads-a-Money | 46.00% | ~8,180 |
-| Helper of the People | 43.00% | ~7,647 |
-| Simplification | 37.00% | ~6,580 |
-| Box of Trains | 37.00% | ~6,580 |
+| Helper of the People | 43.00% | ~7,646 |
+| Simplification | 37.00% | ~6,579 |
+| Box of Trains | 37.00% | ~6,579 |
 | Let There be Light | 36.00% | ~6,402 |
 | Hot Water | 34.00% | ~6,046 |
-| Indecisive | 32.00% | ~5,691 |
+| Indecisive | 32.00% | ~5,690 |
 | The scenic route | 30.00% | ~5,335 |
 | Industrialist | 28.00% | ~4,979 |
-| Perfectionist | 26.00% | ~4,624 |
+| Perfectionist | 26.00% | ~4,623 |
 | 8K is Enough for Everyone | 25.00% | ~4,446 |
 | Trains over Pipes | 25.00% | ~4,446 |
 | Man of Steel | 18.00% | ~3,201 |
-| Room Full of Trains | 14.00% | ~2,490 |
+| Room Full of Trains | 14.00% | ~2,489 |
 | Investor | 11.00% | ~1,956 |
 | Multiverse | 8.00% | ~1,423 |
 | The poor groundwater levels | 8.00% | ~1,423 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 528)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,783 (Ranked 165)  
+Progressed: 17,782 (Ranked 165)  
 Completed: 23 (0.13%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1364,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4525,9 +4525,9 @@
       "ID": "achievement_18",
       "SetID": "2cpn27e",
       "Name": "Man-Machine Master",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 682
     },
     {
       "ID": "achievement_19",
@@ -4661,9 +4661,9 @@
       "ID": "achievement_33",
       "SetID": "2cpn27e",
       "Name": "Human Believer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_34",
@@ -4843,8 +4843,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:09.1939938+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:14.9817015+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:02:58.4950361+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:09.1940502+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:54.9112774+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:14.9817549+00:00"
 }

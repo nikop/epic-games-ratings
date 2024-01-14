@@ -9,7 +9,7 @@ Rating: 4.37 (Ranked 812)
 | A new Journey | 75.00% | ~2,047 |
 | From X to Y | 74.00% | ~2,019 |
 | Departure | 74.00% | ~2,019 |
-| Way of Iron | 71.00% | ~1,938 |
+| Way of Iron | 72.00% | ~1,965 |
 | Mystery Tour | 70.00% | ~1,910 |
 | We brake for nobody | 69.00% | ~1,883 |
 | Brainstorm | 67.00% | ~1,828 |
@@ -17,8 +17,8 @@ Rating: 4.37 (Ranked 812)
 | Travel Company | 66.00% | ~1,801 |
 | All around the World | 64.00% | ~1,747 |
 | Right through the middle | 59.00% | ~1,610 |
+| Poor Devil | 55.00% | ~1,501 |
 | Facility Manager | 54.00% | ~1,474 |
-| Poor Devil | 54.00% | ~1,474 |
 | Producer | 51.00% | ~1,392 |
 | Bridge Builder | 43.00% | ~1,173 |
 | Apprentice | 42.00% | ~1,146 |

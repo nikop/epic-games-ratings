@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,708 |
-| Overkill | 33.00% | ~11,036 |
-| Vaccine Incoming | 31.00% | ~10,367 |
-| A normal day in Gloomhaven | 29.00% | ~9,698 |
-| Spread the plague | 26.00% | ~8,695 |
-| Get over here! | 24.00% | ~8,026 |
-| Just when I thought I was out... | 19.00% | ~6,354 |
-| Precious! | 16.00% | ~5,351 |
-| Mine... All Mine... | 16.00% | ~5,351 |
-| Grizzled veteran | 15.00% | ~5,016 |
-| Anatomy Lesson | 14.00% | ~4,682 |
-| Who's the Boss? | 12.00% | ~4,013 |
-| You activated my trap card! | 12.00% | ~4,013 |
-| Obstacle race | 12.00% | ~4,013 |
-| Light of my life | 12.00% | ~4,013 |
-| Augmented rat | 10.00% | ~3,344 |
-| Doom and gloom | 10.00% | ~3,344 |
-| Dungeon Veteran | 8.00% | ~2,675 |
-| Pain is your friend | 8.00% | ~2,675 |
-| Pack leader | 7.00% | ~2,341 |
-| Black death | 7.00% | ~2,341 |
-| Play it again, Sam | 7.00% | ~2,341 |
+| I'm not dead yet | 38.00% | ~12,713 |
+| Overkill | 33.00% | ~11,040 |
+| Vaccine Incoming | 31.00% | ~10,371 |
+| A normal day in Gloomhaven | 29.00% | ~9,702 |
+| Spread the plague | 26.00% | ~8,699 |
+| Get over here! | 24.00% | ~8,029 |
+| Just when I thought I was out... | 19.00% | ~6,357 |
+| Precious! | 16.00% | ~5,353 |
+| Mine... All Mine... | 16.00% | ~5,353 |
+| Grizzled veteran | 15.00% | ~5,018 |
+| Anatomy Lesson | 14.00% | ~4,684 |
+| Who's the Boss? | 12.00% | ~4,015 |
+| You activated my trap card! | 12.00% | ~4,015 |
+| Obstacle race | 12.00% | ~4,015 |
+| Light of my life | 12.00% | ~4,015 |
+| Augmented rat | 10.00% | ~3,346 |
+| Doom and gloom | 10.00% | ~3,346 |
+| Dungeon Veteran | 8.00% | ~2,676 |
+| Pain is your friend | 8.00% | ~2,676 |
+| Pack leader | 7.00% | ~2,342 |
+| Black death | 7.00% | ~2,342 |
+| Play it again, Sam | 7.00% | ~2,342 |
 | Caught off guard | 6.00% | ~2,007 |
 | Quad damage | 6.00% | ~2,007 |
-| Power Up! | 5.00% | ~1,672 |
-| Merchant of doom | 5.00% | ~1,672 |
-| Now you see me... | 5.00% | ~1,672 |
+| Power Up! | 5.00% | ~1,673 |
+| Merchant of doom | 5.00% | ~1,673 |
+| Now you see me... | 5.00% | ~1,673 |
 | The Pro from Dover | 4.00% | ~1,338 |
 | Pretty lights! | 4.00% | ~1,338 |
-| I hate portals | 3.00% | ~1,003 |
-| Down the hatch | 3.00% | ~1,003 |
-| An eye for an eye | 3.00% | ~1,003 |
-| The Cephalophore | 3.00% | ~1,003 |
+| I hate portals | 3.00% | ~1,004 |
+| Down the hatch | 3.00% | ~1,004 |
+| An eye for an eye | 3.00% | ~1,004 |
+| The Cephalophore | 3.00% | ~1,004 |
 | From Gloom, only greed and death emerges | 2.00% | ~669 |
 | The Rat King | 2.00% | ~669 |
 | How to train your Drake | 2.00% | ~669 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~669 |
 | Grin and bear it | 2.00% | ~669 |
 | An axe to grind | 2.00% | ~669 |
-| Betray this | 1.00% | ~334 |
-| Add a bit of colour | 1.00% | ~334 |
-| Captain hooked | 1.00% | ~334 |
-| Spoiler police! | 1.00% | ~334 |
-| New Blood | 1.00% | ~334 |
+| Betray this | 1.00% | ~335 |
+| Add a bit of colour | 1.00% | ~335 |
+| Captain hooked | 1.00% | ~335 |
+| Spoiler police! | 1.00% | ~335 |
+| New Blood | 1.00% | ~335 |
 | The Pacifist | 0.50% | ~167 |
 | The evil that men do | 0.50% | ~167 |
 | Born Support | 0.50% | ~167 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~33 |
 | Hard-travelling Heroes | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,443 (Ranked 140)  
+Progressed: 33,456 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,11 +191,11 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-11 | 32,855 | 1 |
 | 2024-01-12 | 33,039 | 1 |
 | 2024-01-13 | 33,304 | 1 |
-| 2024-01-14 | 33,443 | 1 |
+| 2024-01-14 | 33,456 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
-Sum: 8,484 (Ranked 108)  
-Diff (max vs sum): -13  
+Sum: 8,484 (Ranked 109)  
+Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,618 |

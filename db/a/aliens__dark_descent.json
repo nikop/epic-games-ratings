@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -555,9 +555,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 6421,
+  "EOS_Progressed": 6422,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9785,6 +9785,11 @@
       "Time": "2024-01-14T13:08:26.0474708+00:00",
       "NumProgressed": 6421,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T14:04:27.5425973+00:00",
+      "NumProgressed": 6422,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9828,7 +9833,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -9844,7 +9849,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -9908,7 +9913,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -9916,7 +9921,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3725
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -9956,7 +9961,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -9996,7 +10001,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10036,7 +10041,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10060,15 +10065,15 @@
       "Name": "The Spire",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10092,7 +10097,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4109
+      "UsersEstimate": 4110
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10100,7 +10105,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4944
+      "UsersEstimate": 4945
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10108,7 +10113,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3210
+      "UsersEstimate": 3211
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10124,7 +10129,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10148,14 +10153,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6421,
+      "Progressed": 6422,
       "Completed": 3
     }
   ],
@@ -10163,8 +10168,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-12T09:00:33.1677408+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:08:26.0474706+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:27.542597+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:00:41.7772774+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:26.0475467+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:18.6863444+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:27.5426558+00:00"
 }

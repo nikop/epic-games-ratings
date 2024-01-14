@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5349,17 +5349,17 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
       "SetID": "5k00jcd",
       "Name": "You\u0027re good at this!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -5418,8 +5418,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:14.3901931+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:03.9210041+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:05:54.5154818+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:14.3902428+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:02:34.3008562+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:03.9210628+00:00"
 }

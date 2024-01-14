@@ -2,13 +2,13 @@
   "ID": "61449320f87347a8bf02159cbf8adb7f",
   "Name": "Before We Leave",
   "ProductSlug": "before-we-leave",
-  "Ranking_Rating": 319,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-08T14:00:00+00:00",
     "PcReleaseDate": "2020-05-08T14:00:00+00:00",
@@ -320,6 +320,6 @@
   "FirstSeen": "2022-07-22T20:29:09.2176269+00:00",
   "LastChanged": "2023-12-27T17:03:37.7119818+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.840305+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:45.0700386+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:10:52.1047094+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:03:10.5736663+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:07:46.5121078+00:00"
 }

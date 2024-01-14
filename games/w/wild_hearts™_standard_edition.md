@@ -8,7 +8,7 @@
 | Hidden History | 71.00% | ~968 |
 | Commencing of Quests | 61.00% | ~832 |
 | Budding Conjuror | 60.00% | ~818 |
-| Man-Machine Master | 49.00% | ~668 |
+| Man-Machine Master | 50.00% | ~682 |
 | Mountain Splitter | 49.00% | ~668 |
 | Charmed by the Hunt | 49.00% | ~668 |
 | Memory Rouser | 48.00% | ~655 |
@@ -33,8 +33,8 @@
 | Team Hunter | 20.00% | ~273 |
 | Artful Assister | 20.00% | ~273 |
 | Reincarnation Cycle Stopper | 19.00% | ~259 |
+| Human Believer | 17.00% | ~232 |
 | Left Arm Leverager | 16.00% | ~218 |
-| Human Believer | 16.00% | ~218 |
 | Style Seeker | 15.00% | ~205 |
 | Unrivaled in Arms | 15.00% | ~205 |
 | Quintessence of Form | 15.00% | ~205 |

@@ -8,27 +8,27 @@ Number of Ratings: 743  (23.09.2022)
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 70.00% | ~31,132 |
 | Say goodbye, creep! | 67.00% | ~29,798 |
-| Blood splattered | 66.00% | ~29,353 |
+| Blood splattered | 66.00% | ~29,354 |
 | Choo choo! | 63.00% | ~28,019 |
 | Groovy | 62.00% | ~27,574 |
-| Cleanup on aisle 4! | 57.00% | ~25,350 |
+| Cleanup on aisle 4! | 57.00% | ~25,351 |
 | Gold | 51.00% | ~22,682 |
-| The boat can leave now...tell the crew | 49.00% | ~21,792 |
+| The boat can leave now...tell the crew | 49.00% | ~21,793 |
 | Give me something to shoot! | 47.00% | ~20,903 |
 | Stand back boy! | 47.00% | ~20,903 |
-| Chain reaction | 45.00% | ~20,013 |
+| Chain reaction | 45.00% | ~20,014 |
 | Weird science | 44.00% | ~19,569 |
-| Look mummy! A shark! | 42.00% | ~18,679 |
-| What did you say, Blain? | 42.00% | ~18,679 |
+| Look mummy! A shark! | 42.00% | ~18,680 |
+| What did you say, Blain? | 42.00% | ~18,680 |
 | In the dark dark woods... | 39.00% | ~17,345 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,900 |
-| Double tap | 37.00% | ~16,455 |
-| Cranial blowout! | 37.00% | ~16,455 |
+| Double tap | 37.00% | ~16,456 |
+| Cranial blowout! | 37.00% | ~16,456 |
 | All of this has happened before… | 36.00% | ~16,011 |
 | Zombie killin' machine | 36.00% | ~16,011 |
 | Every bullet counts | 36.00% | ~16,011 |
-| All roads lead to Rome | 34.00% | ~15,121 |
-| You've got red on you | 34.00% | ~15,121 |
+| All roads lead to Rome | 34.00% | ~15,122 |
+| You've got red on you | 34.00% | ~15,122 |
 | You're all going to die down here | 32.00% | ~14,232 |
 | He did Nazi that coming | 32.00% | ~14,232 |
 | Kill of the week | 31.00% | ~13,787 |
@@ -39,11 +39,11 @@ Number of Ratings: 743  (23.09.2022)
 | Shock therapy | 23.00% | ~10,229 |
 | Leave the limbs you've lost | 23.00% | ~10,229 |
 | Everyone's a mad scientist, life is the lab | 19.00% | ~8,450 |
-| Take them down screaming | 18.00% | ~8,005 |
+| Take them down screaming | 18.00% | ~8,006 |
 | Bad Blood | 17.00% | ~7,561 |
 | Weapons expert | 17.00% | ~7,561 |
 | The bigger they are... | 15.00% | ~6,671 |
-| I'm going deeper underground | 14.00% | ~6,226 |
+| I'm going deeper underground | 14.00% | ~6,227 |
 | Well equipped | 13.00% | ~5,782 |
 | Into the deep | 12.00% | ~5,337 |
 | Damnedbusters | 9.00% | ~4,003 |
@@ -69,11 +69,11 @@ Number of Ratings: 743  (23.09.2022)
 | People don't change. We go round in circles | 3.00% | ~1,334 |
 | The blighters got through a second time. | 3.00% | ~1,334 |
 | I'm a survivor! | 3.00% | ~1,334 |
-| That's a lot of them, and only 4 of us | 2.00% | ~889 |
+| That's a lot of them, and only 4 of us | 2.00% | ~890 |
 | Just me and my trusty sidearm | 1.00% | ~445 |
 | None more hard | 0.60% | ~267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,474 (Ranked 130)  
+Progressed: 44,475 (Ranked 130)  
 Completed: 25 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,14 +342,14 @@ Completed: 25 (0.06%) (Ranked 334)
 | 2024-01-11 | 44,421 | 25 |
 | 2024-01-12 | 44,440 | 25 |
 | 2024-01-13 | 44,463 | 25 |
-| 2024-01-14 | 44,474 | 25 |
+| 2024-01-14 | 44,475 | 25 |
 ## Awards
-Max (Great Boss Battles): 873  (Ranked 178)  
-Sum: 2,635 (Ranked 200)  
+Max (Great Boss Battles): 874  (Ranked 178)  
+Sum: 2,636 (Ranked 200)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 873 |
+| This game has Great Boss Battles | 874 |
 | This game is Great for Beginners | 281 |
 | This game has Diverse Characters | 227 |
 | This game is Highly Recommended | 224 |
@@ -614,4 +614,4 @@ Diff (max vs sum): -22
 | 2024-01-05 | 4.69 | - | 872 | 2,629 |
 | 2024-01-06 | 4.69 | - | 872 | 2,633 |
 | 2024-01-13 | 4.69 | - | 873 | 2,634 |
-| 2024-01-14 | 4.69 | - | 873 | 2,635 |
+| 2024-01-14 | 4.69 | - | 874 | 2,636 |

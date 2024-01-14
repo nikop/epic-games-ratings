@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 67.00% | ~80 |
+| Chapter 1 Complete | 68.00% | ~81 |
 | Vicious Spider | 45.00% | ~54 |
 | Chapter 2 Complete | 40.00% | ~48 |
 | Chapter 3 Complete | 30.00% | ~36 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -3763,9 +3763,9 @@
       "ID": "play-at-night",
       "SetID": "bed33dd",
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 298
+      "UsersEstimate": 309
     },
     {
       "ID": "product-profit",
@@ -3851,8 +3851,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:11:18.6720931+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:08:07.0371756+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:06:19.0438601+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:11:18.6721267+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:02:51.6408018+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:08:07.0372065+00:00"
 }

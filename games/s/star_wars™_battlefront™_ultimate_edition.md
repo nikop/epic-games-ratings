@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,534 |
-| Off to a good start | 60.00% | ~1,768 |
-| Do... or do not. There is no try | 52.00% | ~1,532 |
-| A good blaster at your side | 24.00% | ~707 |
-| I suggest a new strategy | 17.00% | ~501 |
+| New Recruit | 86.00% | ~2,537 |
+| Off to a good start | 60.00% | ~1,770 |
+| Do... or do not. There is no try | 52.00% | ~1,534 |
+| A good blaster at your side | 24.00% | ~708 |
+| I suggest a new strategy | 17.00% | ~502 |
 | Great shot, kid! | 15.00% | ~442 |
 | Scrap collector | 14.00% | ~413 |
 | All right, I'll give it a try | 14.00% | ~413 |
@@ -18,12 +18,12 @@
 | Collector | 11.00% | ~324 |
 | Tell Jabba that I've got his money | 8.00% | ~236 |
 | Best star-pilot in the galaxy | 8.00% | ~236 |
-| Never tell me the odds! | 7.00% | ~206 |
-| Survivor | 7.00% | ~206 |
+| Never tell me the odds! | 7.00% | ~207 |
+| Survivor | 7.00% | ~207 |
 | What's the cargo? | 6.00% | ~177 |
 | A cunning warrior | 6.00% | ~177 |
-| "Gonk? Gonk!" | 5.00% | ~147 |
-| Judge me by my size, do you? | 5.00% | ~147 |
+| "Gonk? Gonk!" | 5.00% | ~148 |
+| Judge me by my size, do you? | 5.00% | ~148 |
 | Distinguished | 4.00% | ~118 |
 | A tremor in the Force | 4.00% | ~118 |
 | Impressive. Most impressive. | 4.00% | ~118 |
@@ -40,13 +40,13 @@
 | Precision shot | 2.00% | ~59 |
 | That's no moon | 2.00% | ~59 |
 | Don't underestimate the Force | 2.00% | ~59 |
-| Hold the line! | 1.00% | ~29 |
-| Ackbar's Elite | 1.00% | ~29 |
-| This is a new day, a new beginning | 1.00% | ~29 |
-| City in the Clouds | 1.00% | ~29 |
-| Alternative solution | 1.00% | ~29 |
-| What will you become? | 1.00% | ~29 |
-| Disturbed tranquility | 1.00% | ~29 |
+| Hold the line! | 1.00% | ~30 |
+| Ackbar's Elite | 1.00% | ~30 |
+| This is a new day, a new beginning | 1.00% | ~30 |
+| City in the Clouds | 1.00% | ~30 |
+| Alternative solution | 1.00% | ~30 |
+| What will you become? | 1.00% | ~30 |
+| Disturbed tranquility | 1.00% | ~30 |
 | The circle is now complete | 0.90% | ~27 |
 | Playing the objective | 0.80% | ~24 |
 | Walker defender | 0.80% | ~24 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,947 (Ranked 233)  
+Progressed: 2,950 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 1 (0.03%) (Ranked 358)
 | 2024-01-11 | 2,884 | 1 |
 | 2024-01-12 | 2,908 | 1 |
 | 2024-01-13 | 2,938 | 1 |
-| 2024-01-14 | 2,947 | 1 |
+| 2024-01-14 | 2,950 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

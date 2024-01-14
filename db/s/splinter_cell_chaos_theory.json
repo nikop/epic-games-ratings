@@ -2,13 +2,13 @@
   "ID": "36b8fb441b2542f89250fc92ca761077",
   "Name": "Splinter Cell Chaos Theory",
   "ProductSlug": "splinter-cell-chaos-theory",
-  "Ranking_Rating": 167,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-30T15:00:00+00:00",
     "PcReleaseDate": "2005-03-22T15:00:00+00:00",
@@ -225,6 +225,6 @@
   "FirstSeenRating": "2022-10-11T18:32:21.2470874+00:00",
   "LastChanged": "2024-01-12T01:47:27.0127361+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.7361711+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:03:51.9899207+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:06:57.2137452+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:33.1989232+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:03:19.8863339+00:00"
 }

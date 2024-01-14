@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3953,9 +3953,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20772,
+  "EOS_Progressed": 20773,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19603,6 +19603,11 @@
       "Time": "2024-01-14T12:06:07.8564587+00:00",
       "NumProgressed": 20772,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T14:07:50.1403496+00:00",
+      "NumProgressed": 20773,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19703,7 +19708,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "WinHard",
@@ -19797,9 +19802,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 623
     },
     {
       "ID": "WinNearLevitating",
@@ -19951,7 +19956,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "WinWithResolve",
@@ -19991,7 +19996,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "WinWithoutOrders",
@@ -20015,7 +20020,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "WinNearFrosts",
@@ -20039,7 +20044,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "WinNearPetrified",
@@ -20086,15 +20091,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20772,
+      "Progressed": 20773,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-14T13:05:03.209634+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:10:56.9800148+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:07:50.1403493+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:05:03.2096346+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:10:56.9801158+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:02:26.3573275+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:07:50.1404733+00:00"
 }

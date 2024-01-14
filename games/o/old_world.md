@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 319)  
+Rating: 4.65 (Ranked 320)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,35 +18,35 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 3.00% | ~503 |
 | Hanging Gardens | 3.00% | ~503 |
 | Oracle | 3.00% | ~503 |
-| Ambitious | 2.00% | ~335 |
-| Brilliant | 2.00% | ~335 |
-| Enlightened | 2.00% | ~335 |
-| Fountainhead | 2.00% | ~335 |
-| Glorious | 2.00% | ~335 |
-| Just | 2.00% | ~335 |
-| Keystone | 2.00% | ~335 |
-| Learned | 2.00% | ~335 |
-| Magnificent | 2.00% | ~335 |
-| Noble | 2.00% | ~335 |
-| Pioneer | 2.00% | ~335 |
-| Warrior | 2.00% | ~335 |
-| Developing Cities | 2.00% | ~335 |
-| Strong Cities | 2.00% | ~335 |
-| Great Ziggurat | 2.00% | ~335 |
-| Ishtar Gate | 2.00% | ~335 |
-| Lighthouse | 2.00% | ~335 |
-| Pyramids | 2.00% | ~335 |
-| Learn to Play 1 | 2.00% | ~335 |
-| Learn to Play 2 | 2.00% | ~335 |
-| Christianity | 2.00% | ~335 |
-| Judaism | 2.00% | ~335 |
-| Babylonian Paganism | 2.00% | ~335 |
-| Carthaginian Paganism | 2.00% | ~335 |
-| Greek Paganism | 2.00% | ~335 |
-| Roman Paganism | 2.00% | ~335 |
-| Zoroastrianism | 2.00% | ~335 |
-| Naming Landmarks | 2.00% | ~335 |
-| Trade Caravan | 2.00% | ~335 |
+| Ambitious | 2.00% | ~336 |
+| Brilliant | 2.00% | ~336 |
+| Enlightened | 2.00% | ~336 |
+| Fountainhead | 2.00% | ~336 |
+| Glorious | 2.00% | ~336 |
+| Just | 2.00% | ~336 |
+| Keystone | 2.00% | ~336 |
+| Learned | 2.00% | ~336 |
+| Magnificent | 2.00% | ~336 |
+| Noble | 2.00% | ~336 |
+| Pioneer | 2.00% | ~336 |
+| Warrior | 2.00% | ~336 |
+| Developing Cities | 2.00% | ~336 |
+| Strong Cities | 2.00% | ~336 |
+| Great Ziggurat | 2.00% | ~336 |
+| Ishtar Gate | 2.00% | ~336 |
+| Lighthouse | 2.00% | ~336 |
+| Pyramids | 2.00% | ~336 |
+| Learn to Play 1 | 2.00% | ~336 |
+| Learn to Play 2 | 2.00% | ~336 |
+| Christianity | 2.00% | ~336 |
+| Judaism | 2.00% | ~336 |
+| Babylonian Paganism | 2.00% | ~336 |
+| Carthaginian Paganism | 2.00% | ~336 |
+| Greek Paganism | 2.00% | ~336 |
+| Roman Paganism | 2.00% | ~336 |
+| Zoroastrianism | 2.00% | ~336 |
+| Naming Landmarks | 2.00% | ~336 |
+| Trade Caravan | 2.00% | ~336 |
 | Regicide | 1.00% | ~168 |
 | Hanging Gardens in Babylon | 1.00% | ~168 |
 | Drillmaster | 1.00% | ~168 |
@@ -89,7 +89,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.70% | ~117 |
 | Circus Maximus | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
-| Pantheon | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
 | Military Prestige | 0.70% | ~117 |
 | Dualism | 0.70% | ~117 |
@@ -102,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.60% | ~101 |
 | Subjugator | 0.60% | ~101 |
 | Riders | 0.60% | ~101 |
+| Pantheon | 0.60% | ~101 |
 | Via Recta Souk | 0.60% | ~101 |
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.40% | ~67 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
+| Learn to Play 5 | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
 | Revelation | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~50 |
 | Noble Difficulty | 0.30% | ~50 |
 | Cao'an | 0.30% | ~50 |
-| Learn to Play 5 | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,767 (Ranked 169)  
+Progressed: 16,778 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,10 +634,10 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,767 | 5 |
+| 2024-01-14 | 16,778 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,927 (Ranked 223)  
+Sum: 1,928 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -646,7 +646,7 @@ Diff (max vs sum): 64
 | This game is Extremely Fun | 223 |
 | This game is Highly Recommended | 223 |
 | This game is Educational | 220 |
-| This game has Challenging Combat | 209 |
+| This game has Challenging Combat | 210 |
 | This game has Amazing Characters | 202 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Amazing Storytelling | 198 |
@@ -847,3 +847,4 @@ Diff (max vs sum): 64
 | 2024-01-09 | 4.65 | - | 229 | 1,919 |
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
 | 2024-01-13 | 4.65 | - | 230 | 1,927 |
+| 2024-01-14 | 4.65 | - | 230 | 1,928 |

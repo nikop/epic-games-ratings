@@ -4,11 +4,11 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1063,
   "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 576,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-21T15:00:00+00:00",
     "PcReleaseDate": "2023-09-21T15:00:00+00:00",
@@ -733,10 +733,16 @@
       "Rating": 3.96,
       "NumberOfAwards": 124,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-01-14T13:57:56.5724138+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 124,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Realistic Visuals",
   "Tags": [
@@ -762,12 +768,18 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 20
     }
   ],
@@ -783,8 +795,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-01-13T13:00:28.6267898+00:00",
+  "LastChanged": "2024-01-14T13:57:56.5724136+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.2612318+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:36.3764234+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:45.1446946+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:56.5724141+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:41.6796627+00:00"
 }

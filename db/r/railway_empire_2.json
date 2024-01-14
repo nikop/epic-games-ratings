@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -8346,9 +8346,9 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1965
     },
     {
       "ID": "A37",
@@ -8362,9 +8362,9 @@
       "ID": "A38",
       "SetID": "9b7p7eo",
       "Name": "Poor Devil",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1501
     },
     {
       "ID": "A39",
@@ -8507,8 +8507,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-13T21:57:27.2877873+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:09:23.4462269+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:05:10.8018516+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:00:54.6914235+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:23.4462946+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:27.2154831+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:05:10.8019342+00:00"
 }

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 87.00% | ~284 |
-| A piece of the story | 65.00% | ~212 |
-| It's covered up for a reason | 59.00% | ~192 |
+| A piece of the story | 66.00% | ~215 |
+| It's covered up for a reason | 60.00% | ~196 |
 | Wanderer | 55.00% | ~179 |
 | Scraps of love | 52.00% | ~170 |
-| The artist’s impression | 49.00% | ~160 |
+| The artist’s impression | 50.00% | ~163 |
 | Do what you have to | 44.00% | ~143 |
-| Sign of weakness | 41.00% | ~134 |
+| Sign of weakness | 42.00% | ~137 |
 | Refuse to look | 37.00% | ~121 |
 | Face your fears | 31.00% | ~101 |
 | Finished it | 26.00% | ~85 |
@@ -35,7 +35,7 @@
 | Fisherman | 7.00% | ~23 |
 | I remember It Like Was Yesterday | 5.00% | ~16 |
 | Something to think about | 4.00% | ~13 |
-| We Are Not Alone | 3.00% | ~10 |
+| We Are Not Alone | 4.00% | ~13 |
 | Dark correspondence | 3.00% | ~10 |
 | Immortalized in my heart | 3.00% | ~10 |
 | Full Scoop | 3.00% | ~10 |

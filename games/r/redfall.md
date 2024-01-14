@@ -6,17 +6,17 @@ Rating: 3.68 (Ranked 1,097)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 23.00% | ~549 |
-| Catch and Release | 18.00% | ~429 |
+| Catch and Release | 18.00% | ~430 |
 | Home Is Where the Heart Is | 16.00% | ~382 |
 | Wounded Whispers | 16.00% | ~382 |
 | ICU | 15.00% | ~358 |
 | Blood Will Have Blood | 13.00% | ~310 |
 | Ne Plus Ultra | 13.00% | ~310 |
 | Peek-a-boo | 13.00% | ~310 |
-| Fly Fisher | 12.00% | ~286 |
-| Sucks To Be You | 12.00% | ~286 |
-| Welcome to the Neighborhood | 11.00% | ~262 |
-| Throw The First Stone | 11.00% | ~262 |
+| Fly Fisher | 12.00% | ~287 |
+| Sucks To Be You | 12.00% | ~287 |
+| Welcome to the Neighborhood | 11.00% | ~263 |
+| Throw The First Stone | 11.00% | ~263 |
 | Enter of Your Own Free Will | 10.00% | ~239 |
 | Heart Attack | 10.00% | ~239 |
 | Skin of Their Teeth | 9.00% | ~215 |
@@ -25,8 +25,8 @@ Rating: 3.68 (Ranked 1,097)
 | Neighborhood Revitalization | 6.00% | ~143 |
 | Radio Silence | 6.00% | ~143 |
 | I Spit On Your Grave | 5.00% | ~119 |
-| You Clean It Up | 4.00% | ~95 |
-| Helping Hand | 4.00% | ~95 |
+| You Clean It Up | 4.00% | ~96 |
+| Helping Hand | 4.00% | ~96 |
 | Block Party | 3.00% | ~72 |
 | Sic Transit Umbra | 3.00% | ~72 |
 | Bell-ringer | 3.00% | ~72 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,097)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,386 (Ranked 243)  
+Progressed: 2,388 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 2,366 | 0 |
 | 2024-01-12 | 2,372 | 0 |
 | 2024-01-13 | 2,384 | 0 |
-| 2024-01-14 | 2,386 | 0 |
+| 2024-01-14 | 2,388 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 552)  
 Sum: 25 (Ranked 562)  

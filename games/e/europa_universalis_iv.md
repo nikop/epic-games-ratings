@@ -6,8 +6,8 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's a Grand Army | 0.60% | ~2,992 |
-| Until death do us apart | 0.60% | ~2,992 |
+| That's a Grand Army | 0.60% | ~2,993 |
+| Until death do us apart | 0.60% | ~2,993 |
 | That is mine! | 0.50% | ~2,494 |
 | Victorious! | 0.50% | ~2,494 |
 | Brothers in Arms | 0.40% | ~1,995 |
@@ -17,15 +17,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,496 |
 | It's all about the money | 0.30% | ~1,496 |
 | True Catholic | 0.30% | ~1,496 |
-| Blockader | 0.20% | ~997 |
-| Defender of the Faith | 0.20% | ~997 |
-| Double the Love | 0.20% | ~997 |
-| It's all about luck | 0.20% | ~997 |
-| Respected | 0.20% | ~997 |
-| Royal Authority | 0.20% | ~997 |
-| The Princess is in this Castle | 0.20% | ~997 |
-| Total Control | 0.20% | ~997 |
-| Truly Divine Ruler | 0.20% | ~997 |
+| Blockader | 0.20% | ~998 |
+| Defender of the Faith | 0.20% | ~998 |
+| Double the Love | 0.20% | ~998 |
+| It's all about luck | 0.20% | ~998 |
+| Respected | 0.20% | ~998 |
+| Royal Authority | 0.20% | ~998 |
+| The Princess is in this Castle | 0.20% | ~998 |
+| Total Control | 0.20% | ~998 |
+| Truly Divine Ruler | 0.20% | ~998 |
 | The 52 Garhs | 0.10% | ~499 |
 | I don't like sand | 0.10% | ~499 |
 | A Blessed Nation | 0.10% | ~499 |
@@ -212,6 +212,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.10% | ~499 |
 | Not just Pizza | 0.10% | ~499 |
 | Not so sad a state... | 0.10% | ~499 |
+| On the Edge of Madness | 0.10% | ~499 |
 | On the Rhodes Again | 0.10% | ~499 |
 | One Faith | 0.10% | ~499 |
 | One Family to Rule them All | 0.10% | ~499 |
@@ -355,7 +356,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Meissner Porcelain | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
-| On the Edge of Madness | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,746 (Ranked 42)  
+Progressed: 498,781 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
-| 2024-01-14 | 498,746 | 1 |
+| 2024-01-14 | 498,781 | 1 |
 ## Awards
 Max (Educational): 7,836  (Ranked 52)  
 Sum: 64,606 (Ranked 24)  

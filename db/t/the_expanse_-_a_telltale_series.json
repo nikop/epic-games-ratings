@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,10 +349,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18995,
+  "EOS_Progressed": 18998,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 479,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 477,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
     {
@@ -17344,6 +17344,11 @@
       "Time": "2024-01-14T12:04:05.715832+00:00",
       "NumProgressed": 18995,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2024-01-14T14:04:19.0758813+00:00",
+      "NumProgressed": 18998,
+      "NumCompleted": 64
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17372,7 +17377,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "12",
@@ -17388,7 +17393,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "14",
@@ -17404,7 +17409,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "16",
@@ -17420,7 +17425,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "18",
@@ -17436,7 +17441,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "2",
@@ -17460,7 +17465,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "22",
@@ -17508,7 +17513,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "28",
@@ -17532,7 +17537,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "30",
@@ -17564,7 +17569,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "7",
@@ -17588,7 +17593,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "31",
@@ -17628,20 +17633,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 18995,
+      "Progressed": 18998,
       "Completed": 64
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4949,
+      "Progressed": 4952,
       "Completed": 1317
     }
   ],
@@ -17649,8 +17654,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:08:15.2821561+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:19.075881+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:37.0380011+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:15.2822656+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:56.949429+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:19.0760048+00:00"
 }

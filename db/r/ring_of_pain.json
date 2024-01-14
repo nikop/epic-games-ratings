@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3916,9 +3916,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242943,
+  "EOS_Progressed": 242949,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31796,6 +31796,11 @@
       "Time": "2024-01-14T13:13:53.5381255+00:00",
       "NumProgressed": 242943,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-14T14:09:50.4559431+00:00",
+      "NumProgressed": 242949,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -31823,7 +31828,7 @@
       "Name": "Ambitious Intent",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "BOSSPIT",
@@ -31903,7 +31908,7 @@
       "Name": "Delving Deeper",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "DEPTH12HARD",
@@ -31959,7 +31964,7 @@
       "Name": "R.I.P",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "DIEBOSS",
@@ -32239,7 +32244,7 @@
       "Name": "The Bestiary",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -32311,7 +32316,7 @@
       "Name": "What\u0027s Yours Is Mine",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "KILLREFLECT10",
@@ -32335,7 +32340,7 @@
       "Name": "Spine Breaker",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "KILLSPITTER",
@@ -32407,7 +32412,7 @@
       "Name": "C-C-Combo",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "NOEPIC",
@@ -32575,7 +32580,7 @@
       "Name": "Sneaky",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2186
+      "UsersEstimate": 2187
     },
     {
       "ID": "STEALTH100",
@@ -32910,13 +32915,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242943,
+      "Progressed": 242949,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4423,
+      "Progressed": 4429,
       "Completed": 425
     }
   ],
@@ -32924,8 +32929,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:13:53.5381253+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:50.4559427+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:04:34.6202184+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:13:53.5383888+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:00:06.0029645+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:50.4563653+00:00"
 }

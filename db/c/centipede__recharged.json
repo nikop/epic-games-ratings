@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25195,
+  "EOS_Progressed": 25196,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -23105,6 +23105,11 @@
       "Time": "2024-01-14T13:08:27.7050976+00:00",
       "NumProgressed": 25195,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-14T14:04:28.79044+00:00",
+      "NumProgressed": 25196,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 16,
@@ -23132,7 +23137,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -23148,7 +23153,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2772
     },
     {
       "ID": "Feel_The_Thunder",
@@ -23220,7 +23225,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "Still_Burning",
@@ -23243,15 +23248,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25195,
+      "Progressed": 25196,
       "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:08:27.7050973+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:28.7904398+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.5508236+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:04:29.0298268+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:27.7052201+00:00"
+  "LastUpdate_Ratings": "2024-01-14T14:00:01.9286233+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:28.7905467+00:00"
 }

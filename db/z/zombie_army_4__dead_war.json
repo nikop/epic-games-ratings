@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2650,18 +2650,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2635,
       "NumberOfAwardsMax": 873
+    },
+    {
+      "Time": "2024-01-14T13:58:03.7271718+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2636,
+      "NumberOfAwardsMax": 874
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2635,
-  "NumberOfAwardsMax": 873,
+  "NumberOfAwards": 2636,
+  "NumberOfAwardsMax": 874,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 873
+      "Count": 874
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2730,9 +2736,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44474,
+  "EOS_Progressed": 44475,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11265,6 +11271,11 @@
       "Time": "2024-01-14T13:07:41.8227656+00:00",
       "NumProgressed": 44474,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-14T14:03:54.2298371+00:00",
+      "NumProgressed": 44475,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11292,7 +11303,7 @@
       "Name": "That\u0027s a lot of them, and only 4 of us",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "SE_COMPLETE_ALPINE_BLITZ",
@@ -11348,7 +11359,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18679
+      "UsersEstimate": 18680
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11372,7 +11383,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6227
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -11484,7 +11495,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11524,7 +11535,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21792
+      "UsersEstimate": 21793
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11564,7 +11575,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16455
+      "UsersEstimate": 16456
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11572,7 +11583,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18679
+      "UsersEstimate": 18680
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11596,7 +11607,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16455
+      "UsersEstimate": 16456
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11636,7 +11647,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25350
+      "UsersEstimate": 25351
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11668,7 +11679,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20013
+      "UsersEstimate": 20014
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11716,7 +11727,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -11732,7 +11743,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29353
+      "UsersEstimate": 29354
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11788,7 +11799,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8005
+      "UsersEstimate": 8006
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -11803,15 +11814,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44474,
+      "Progressed": 44475,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2024-01-14T13:01:46.0992735+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:07:41.8227648+00:00",
+  "LastChanged": "2024-01-14T13:58:03.7271716+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:03:54.2298366+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:46.0992738+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:07:41.8228611+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:58:03.7271721+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:03:54.2299085+00:00"
 }

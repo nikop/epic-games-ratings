@@ -1,7 +1,7 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.45 (Ranked 694)  
+Rating: 4.45 (Ranked 693)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -46,7 +46,7 @@ Rating: 4.45 (Ranked 694)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,026 (Ranked 296)  
+Progressed: 1,027 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 1,020 | 0 |
 | 2024-01-12 | 1,023 | 0 |
 | 2024-01-13 | 1,025 | 0 |
-| 2024-01-14 | 1,026 | 0 |
+| 2024-01-14 | 1,027 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

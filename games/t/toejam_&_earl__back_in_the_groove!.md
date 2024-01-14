@@ -5,7 +5,7 @@ Rating: 4.33 (Ranked 856)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~5,878 |
+| Food Taster | 10.00% | ~5,879 |
 | Fall Fest | 8.00% | ~4,703 |
 | Thrill Seeker | 7.00% | ~4,115 |
 | Flying Present Catcher | 6.00% | ~3,527 |
@@ -22,8 +22,8 @@ Rating: 4.33 (Ranked 856)
 | Wakey Wakey | 1.00% | ~588 |
 | Gimme My Presents Back! | 0.80% | ~470 |
 | Level Diver | 0.80% | ~470 |
-| Cleaning Out Santa's Sack | 0.70% | ~411 |
-| Teamwork Rules | 0.70% | ~411 |
+| Cleaning Out Santa's Sack | 0.70% | ~412 |
+| Teamwork Rules | 0.70% | ~412 |
 | Beaten By A Little Girl | 0.60% | ~353 |
 | Totally Bummed Again | 0.60% | ~353 |
 | I Can't Believe I've Done This | 0.50% | ~294 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 856)
 | Why Do I Keep Doing That? | 0.10% | ~59 |
 | Hey, You Did It! | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,785 (Ranked 121)  
+Progressed: 58,787 (Ranked 121)  
 Completed: 6 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 6 (0.01%) (Ranked 376)
 | 2024-01-11 | 58,740 | 6 |
 | 2024-01-12 | 58,752 | 6 |
 | 2024-01-13 | 58,778 | 6 |
-| 2024-01-14 | 58,785 | 6 |
+| 2024-01-14 | 58,787 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

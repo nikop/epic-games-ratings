@@ -1,7 +1,7 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.64 (Ranked 343)  
+Rating: 4.64 (Ranked 344)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.64 (Ranked 343)
 | Botanical Breakthrough | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
-| Flaming Hot Completos | 0.90% | ~81 |
+| Flaming Hot Completos | 0.90% | ~82 |
 | Got to Catch Them All | 0.80% | ~72 |
 | Fae Farmer | 0.70% | ~63 |
 | Scattered Scroll Scrounger | 0.70% | ~63 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,053 (Ranked 186)  
+Progressed: 9,057 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-11 | 8,992 | 1 |
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
-| 2024-01-14 | 9,053 | 1 |
+| 2024-01-14 | 9,057 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

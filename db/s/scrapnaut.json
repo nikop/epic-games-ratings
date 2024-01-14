@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2388,9 +2388,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2597,8 +2597,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:12:55.2349712+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:09:04.3546711+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.454985+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:03:48.8551767+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:12:55.2350279+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:30.8530347+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:09:04.3547063+00:00"
 }

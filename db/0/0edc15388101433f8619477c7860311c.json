@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -598,9 +598,9 @@
       "ID": "HauntingSpecter",
       "SetID": "7m88n8p",
       "Name": "Haunting Specter",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "HeartHurt",
@@ -614,9 +614,9 @@
       "ID": "HideAndSeek",
       "SetID": "7m88n8p",
       "Name": "Hide-and-Seek Expert",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 65,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "HonoraryAlumni",
@@ -646,17 +646,17 @@
       "ID": "Letters",
       "SetID": "7m88n8p",
       "Name": "Conveying Love through Letters",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "MoneyCamouflage",
@@ -710,9 +710,9 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SeeingThrough",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:07:23.8965981+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:03:40.1313968+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.2153552+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:00:34.5530729+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:07:23.8966365+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:13.3368252+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:03:40.1314135+00:00"
 }

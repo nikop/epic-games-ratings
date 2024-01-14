@@ -1,31 +1,31 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.64 (Ranked 343)  
+Rating: 4.64 (Ranked 344)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,487 |
-| On the Top Step | 82.00% | ~14,857 |
-| Setting up for Success | 69.00% | ~12,501 |
-| Team Orders | 67.00% | ~12,139 |
-| Engineer | 45.00% | ~8,153 |
-| Familiar Faces | 41.00% | ~7,428 |
-| Going the Extra Mile | 35.00% | ~6,341 |
-| Sharing the Love | 33.00% | ~5,979 |
-| Hitting a Season | 26.00% | ~4,711 |
-| Making History | 25.00% | ~4,530 |
-| A Dozen Pieces | 24.00% | ~4,348 |
-| Network Success | 23.00% | ~4,167 |
-| Challenge Yourself | 23.00% | ~4,167 |
-| Writing a new Chapter | 19.00% | ~3,442 |
-| Spring Cleaning | 18.00% | ~3,261 |
-| Reduce | 14.00% | ~2,537 |
-| Ups and Downs | 14.00% | ~2,537 |
-| Crucial Combo | 13.00% | ~2,355 |
-| Reuse | 12.00% | ~2,174 |
-| Proving Them Wrong | 12.00% | ~2,174 |
-| Gathering Dust | 11.00% | ~1,993 |
+| Getting on the Step | 91.00% | ~16,494 |
+| On the Top Step | 82.00% | ~14,862 |
+| Setting up for Success | 69.00% | ~12,506 |
+| Team Orders | 67.00% | ~12,144 |
+| Engineer | 45.00% | ~8,156 |
+| Familiar Faces | 41.00% | ~7,431 |
+| Going the Extra Mile | 35.00% | ~6,344 |
+| Sharing the Love | 33.00% | ~5,981 |
+| Hitting a Season | 26.00% | ~4,712 |
+| Making History | 25.00% | ~4,531 |
+| A Dozen Pieces | 24.00% | ~4,350 |
+| Network Success | 23.00% | ~4,169 |
+| Challenge Yourself | 23.00% | ~4,169 |
+| Writing a new Chapter | 19.00% | ~3,444 |
+| Spring Cleaning | 18.00% | ~3,262 |
+| Reduce | 14.00% | ~2,538 |
+| Ups and Downs | 14.00% | ~2,538 |
+| Crucial Combo | 13.00% | ~2,356 |
+| Reuse | 12.00% | ~2,175 |
+| Proving Them Wrong | 12.00% | ~2,175 |
+| Gathering Dust | 11.00% | ~1,994 |
 | Friendly Competition | 10.00% | ~1,812 |
 | Switcheroo | 10.00% | ~1,812 |
 | One for the Book | 10.00% | ~1,812 |
@@ -34,10 +34,10 @@ Rating: 4.64 (Ranked 343)
 | Oil and Water | 9.00% | ~1,631 |
 | Hitting a Bullseye | 9.00% | ~1,631 |
 | Spinning Around | 9.00% | ~1,631 |
-| Lightning Round the World | 8.00% | ~1,449 |
-| Recycle | 7.00% | ~1,268 |
-| Undisputed Winner | 6.00% | ~1,087 |
-| Tinkerer | 6.00% | ~1,087 |
+| Lightning Round the World | 8.00% | ~1,450 |
+| Recycle | 7.00% | ~1,269 |
+| Undisputed Winner | 6.00% | ~1,088 |
+| Tinkerer | 6.00% | ~1,088 |
 | For all Those Back at the Factory | 4.00% | ~725 |
 | Living up to Expectations | 4.00% | ~725 |
 | Smooth Operator | 4.00% | ~725 |
@@ -49,13 +49,13 @@ Rating: 4.64 (Ranked 343)
 | Filling in the Gaps | 1.00% | ~181 |
 | Media Darling | 1.00% | ~181 |
 | Saturday Night Drama | 0.90% | ~163 |
-| Under the Microscope | 0.50% | ~91 |
+| Under the Microscope | 0.60% | ~109 |
 | Ultimate Collector | 0.30% | ~54 |
 | Golden Touch | 0.20% | ~36 |
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,118 (Ranked 163)  
+Progressed: 18,125 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,17 +178,17 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 17,785 | 0 |
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
-| 2024-01-14 | 18,118 | 0 |
+| 2024-01-14 | 18,125 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 424)  
-Sum: 429 (Ranked 350)  
-Diff (max vs sum): 74  
+Sum: 432 (Ranked 349)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 65 |
 | This game has a Competitive Community | 50 |
+| This game has Amazing Characters | 48 |
 | This game is Highly Recommended | 46 |
-| This game has Amazing Characters | 45 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Extremely Fun | 39 |
 | This game has Challenging Combat | 39 |
@@ -323,3 +323,4 @@ Diff (max vs sum): 74
 | 2024-01-11 | 4.63 | 64 | 421 |
 | 2024-01-12 | 4.64 | 65 | 423 |
 | 2024-01-13 | 4.64 | 65 | 429 |
+| 2024-01-14 | 4.64 | 65 | 432 |

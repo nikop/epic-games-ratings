@@ -2,10 +2,10 @@
   "ID": "a8bf762f26ca484cb26164d48821e90f",
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
-  "Ranking_EOS_Progress": 574,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -236,6 +236,11 @@
       "Time": "2024-01-14T05:06:09.7512766+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T14:04:51.8904724+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -253,9 +258,9 @@
       "ID": "BEARCOP",
       "SetID": "bb2dp",
       "Name": "Bear Cop",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BEDS",
@@ -285,7 +290,7 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 18
     },
@@ -293,7 +298,7 @@
       "ID": "CHAPTER3",
       "SetID": "bb2dp",
       "Name": "Chapter 3",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -301,7 +306,7 @@
       "ID": "CHAPTER4",
       "SetID": "bb2dp",
       "Name": "Chapter 4",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -317,7 +322,7 @@
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -325,7 +330,7 @@
       "ID": "CHIPMUNK",
       "SetID": "bb2dp",
       "Name": "Chipmunk",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -341,7 +346,7 @@
       "ID": "HEALTHCHECKUP",
       "SetID": "bb2dp",
       "Name": "Your Days Are Numbered",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -359,13 +364,13 @@
       "Name": "Introduction completed",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LOCKERENDING",
       "SetID": "bb2dp",
       "Name": "Secret Locker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -381,9 +386,9 @@
       "ID": "MATERIALS",
       "SetID": "bb2dp",
       "Name": "All Materials",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "PACIFIST",
@@ -397,7 +402,7 @@
       "ID": "PIANOMUSIC",
       "SetID": "bb2dp",
       "Name": "Paw Music",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -429,7 +434,7 @@
       "ID": "SWIM",
       "SetID": "bb2dp",
       "Name": "It\u0027s In My Nature",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -478,7 +483,7 @@
     {
       "ID": "bb2dp",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
@@ -486,8 +491,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:08:58.8167116+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:51.890472+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.4705583+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:04:25.9918725+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:08:58.816737+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:59:59.7381327+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:51.8904911+00:00"
 }

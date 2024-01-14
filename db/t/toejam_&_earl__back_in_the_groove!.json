@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58785,
+  "EOS_Progressed": 58787,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -15886,6 +15886,11 @@
       "Time": "2024-01-14T11:05:06.3431465+00:00",
       "NumProgressed": 58785,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T14:04:56.8952142+00:00",
+      "NumProgressed": 58787,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15985,7 +15990,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "FoolMeTwice",
@@ -16185,7 +16190,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "SecretLevel",
@@ -16217,7 +16222,7 @@
       "Name": "Teamwork Rules",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "TheWorstPossibleLuck",
@@ -16288,7 +16293,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58785,
+      "Progressed": 58787,
       "Completed": 6
     }
   ],
@@ -16296,8 +16301,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-14T13:09:05.5678777+00:00",
+  "LastChanged_Achievements": "2024-01-14T14:04:56.895214+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.3003234+00:00",
-  "LastUpdate_Ratings": "2024-01-14T13:01:25.667457+00:00",
-  "LastUpdate_Achievements": "2024-01-14T13:09:05.5679829+00:00"
+  "LastUpdate_Ratings": "2024-01-14T13:57:49.0842735+00:00",
+  "LastUpdate_Achievements": "2024-01-14T14:04:56.895302+00:00"
 }

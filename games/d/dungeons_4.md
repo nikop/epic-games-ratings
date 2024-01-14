@@ -17,8 +17,8 @@ Rating: 4.76 (Ranked 135)
 | Heroes’ Gorge | 66.00% | ~504 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~481 |
 | Master of Magic | 62.00% | ~473 |
-| The Ascent | 60.00% | ~458 |
-| It's Warm and Cozy at Home | 60.00% | ~458 |
+| The Ascent | 61.00% | ~465 |
+| It's Warm and Cozy at Home | 61.00% | ~465 |
 | Magic Accidents | 59.00% | ~450 |
 | Trap Master | 56.00% | ~427 |
 | Minions, Minions! | 56.00% | ~427 |
@@ -50,7 +50,7 @@ Rating: 4.76 (Ranked 135)
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~214 |
 | Bonus Evilness | 27.00% | ~206 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~206 |
-| The Last Stand - This Time For Real! | 25.00% | ~191 |
+| The Last Stand - This Time For Real! | 26.00% | ~198 |
 | Rubble and Ashes | 23.00% | ~175 |
 | Lavalumps on Ice! | 21.00% | ~160 |
 | To the Max! | 20.00% | ~153 |
@@ -68,7 +68,7 @@ Rating: 4.76 (Ranked 135)
 | I Don't Need Any Help | 11.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 763 (Ranked 319)  
-Completed: 31 (4.06%) (Ranked 92)  
+Completed: 32 (4.19%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 31 (4.06%) (Ranked 92)
 | 2024-01-11 | 759 | 31 |
 | 2024-01-12 | 761 | 31 |
 | 2024-01-13 | 763 | 31 |
+| 2024-01-14 | 763 | 32 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
