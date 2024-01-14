@@ -26,8 +26,8 @@
 | 24 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 19.35% |
 | 25 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 18.52% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.92% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.70% |
+| 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.69% |
 | 29 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -42,7 +42,7 @@
 | 39 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 11.11% |
 | 41 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.84% |
+| 43 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.80% |
 | 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.51% |
 | 45 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.35% |
@@ -95,7 +95,7 @@
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.91% |
 | 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.85% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
-| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.69% |
+| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.68% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.61% |
 | 98 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.57% |
 | 98 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
@@ -111,7 +111,7 @@
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 110 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.08% |
 | 111 | [HordeCore](games/h/hordecore.md) | 3.02% |
-| 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.96% |
+| 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.95% |
 | 113 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.94% |
 | 114 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 115 | [Monster Harvest](games/m/monster_harvest.md) | 2.90% |
@@ -315,18 +315,18 @@
 | 309 | [Supraland](games/s/supraland.md) | 0.11% |
 | 309 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.11% |
 | 315 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 315 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.10% |
 | 315 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 315 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 315 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 315 | [Riverbond](games/r/riverbond.md) | 0.10% |
-| 320 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
-| 320 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 320 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 320 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
-| 320 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 320 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.09% |
-| 320 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 320 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 321 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 321 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 321 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
+| 321 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 321 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.09% |
+| 321 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 321 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 328 | [MythForce](games/m/mythforce.md) | 0.08% |
 | 328 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
 | 328 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
