@@ -65,7 +65,7 @@ Rating: 4.76 (Ranked 134)
 | Laser Eyes Are So Useless | 14.00% | ~107 |
 | Gorgu is in the Best of Health | 12.00% | ~92 |
 | No Mana, No Cry | 11.00% | ~84 |
-| I Don't Need Any Help | 10.00% | ~76 |
+| I Don't Need Any Help | 11.00% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 763 (Ranked 319)  
 Completed: 31 (4.06%) (Ranked 92)  

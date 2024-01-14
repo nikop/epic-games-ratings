@@ -43,15 +43,15 @@ Rating: 4.70 (Ranked 220)
 | Fairgrounds Explorer | 10.00% | ~132 |
 | Theater Explorer | 10.00% | ~132 |
 | Cultivair Explorer | 9.00% | ~119 |
+| Entresol Explorer | 9.00% | ~119 |
 | Corin Goes Home | 8.00% | ~106 |
 | Sartorialist | 8.00% | ~106 |
-| Entresol Explorer | 8.00% | ~106 |
 | Golem Hunter | 7.00% | ~92 |
 | Clovemary for Remembering | 6.00% | ~79 |
 | Hexlock for Protection | 6.00% | ~79 |
 | Rungs Was Right | 5.00% | ~66 |
+| Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~26 |
-| Wunderkind | 2.00% | ~26 |
 | Fitting In | 2.00% | ~26 |
 | No Time to Waste | 1.00% | ~13 |
 | A Lesson in Precision | 0.90% | ~12 |

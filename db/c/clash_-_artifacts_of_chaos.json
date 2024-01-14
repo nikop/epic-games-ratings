@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -653,9 +653,9 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement20",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:36.1976522+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:32.7192552+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:53.0986152+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:56:57.6877634+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:36.1976668+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:00:42.9829473+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:32.7192768+00:00"
 }

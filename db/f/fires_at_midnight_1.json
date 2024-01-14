@@ -4,7 +4,7 @@
   "ProductSlug": "fires-at-midnight-b6c3ea",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 577,
+  "Ranking_EOS_NewPlayers": 576,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-11T23:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.5842326+00:00",
   "LastChanged": "2023-03-31T05:58:44.5842327+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:56.1206701+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:57:01.5046314+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:04:57.4722515+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:00:46.917325+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:08:53.0856065+00:00"
 }

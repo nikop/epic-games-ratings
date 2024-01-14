@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2940,
+  "EOS_Progressed": 2943,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7969,6 +7969,11 @@
       "Time": "2024-01-14T02:07:47.3504582+00:00",
       "NumProgressed": 2940,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T03:11:43.9526479+00:00",
+      "NumProgressed": 2943,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8013,7 +8018,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_14",
@@ -8077,7 +8082,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "achievement_21",
@@ -8115,9 +8120,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 88
     },
     {
       "ID": "achievement_26",
@@ -8205,7 +8210,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2531
     },
     {
       "ID": "achievement_36",
@@ -8221,7 +8226,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1766
     },
     {
       "ID": "achievement_38",
@@ -8253,7 +8258,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "achievement_41",
@@ -8275,9 +8280,9 @@
       "ID": "achievement_43",
       "SetID": "271ol84",
       "Name": "Walker defender",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_44",
@@ -8411,9 +8416,9 @@
       "ID": "achievement_59",
       "SetID": "cemm4l8",
       "Name": "Onwards!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_6",
@@ -8461,7 +8466,7 @@
       "Name": "A cunning warrior",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_8",
@@ -8484,13 +8489,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2940,
+      "Progressed": 2943,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2940,
+      "Progressed": 2943,
       "Completed": 1
     }
   ],
@@ -8498,8 +8503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:47.350458+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:43.9526475+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:11.5800349+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:59:41.6919053+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:47.3505385+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:03:39.4040607+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:43.9527291+00:00"
 }

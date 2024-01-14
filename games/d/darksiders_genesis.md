@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 641)  
+Rating: 4.49 (Ranked 640)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,21 +9,21 @@ Number of Ratings: 67  (23.09.2022)
 | Mint I | 6.00% | ~39 |
 | Soul Cache | 5.00% | ~32 |
 | Astarte | 2.00% | ~13 |
+| Close the Rift | 2.00% | ~13 |
 | Mammon | 2.00% | ~13 |
-| Close the Rift | 1.00% | ~6 |
+| Master of Strife | 2.00% | ~13 |
+| Master of War | 2.00% | ~13 |
+| Mint II | 2.00% | ~13 |
+| The Dead Court | 2.00% | ~13 |
 | Demolition Derby | 1.00% | ~6 |
+| Good Deeds | 1.00% | ~6 |
 | Hell's Forge | 1.00% | ~6 |
 | Infested | 1.00% | ~6 |
-| Master of Strife | 1.00% | ~6 |
-| Master of War | 1.00% | ~6 |
-| Mint II | 1.00% | ~6 |
-| The Dead Court | 1.00% | ~6 |
 | A Bullet for All Seasons | 0.90% | ~6 |
 | Mint III | 0.90% | ~6 |
 | Walking Armory | 0.90% | ~6 |
-| Good Deeds | 0.80% | ~5 |
+| Why'd It Have to Be Snakes? | 0.90% | ~6 |
 | Gatekeeper | 0.60% | ~4 |
-| Why'd It Have to Be Snakes? | 0.60% | ~4 |
 | Ready to Blow | 0.50% | ~3 |
 | Wicked Killington | 0.50% | ~3 |
 | Are You Not Entertained? | 0.30% | ~2 |

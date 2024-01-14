@@ -24,8 +24,8 @@ Rating: 4.56 (Ranked 509)
 | Archaeologist | 18.00% | ~36 |
 | Family man | 17.00% | ~34 |
 | Little hero | 17.00% | ~34 |
+| The fourth triplet | 17.00% | ~34 |
 | Sidelined | 17.00% | ~34 |
-| The fourth triplet | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
 | Hard worker | 15.00% | ~30 |

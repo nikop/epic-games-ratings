@@ -6,10 +6,10 @@ Rating: 4.63 (Ranked 356)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 17.00% | ~1,229 |
-| Realm Estate | 16.00% | ~1,156 |
-| A Wonderful Discovery | 15.00% | ~1,084 |
+| Realm Estate | 16.00% | ~1,157 |
+| A Wonderful Discovery | 15.00% | ~1,085 |
 | Walls Cannot Stop Us | 14.00% | ~1,012 |
-| From Friends to Family | 12.00% | ~867 |
+| From Friends to Family | 12.00% | ~868 |
 | Bone Peddler | 11.00% | ~795 |
 | Magical Synergy | 10.00% | ~723 |
 | Full Ascension | 9.00% | ~651 |
@@ -20,11 +20,11 @@ Rating: 4.63 (Ranked 356)
 | In a Liege of Your Own | 7.00% | ~506 |
 | Intimidation Tactics | 7.00% | ~506 |
 | But this one is mine | 6.00% | ~434 |
-| Return of the Wizard King | 5.00% | ~361 |
-| Enchanted Archipelago | 5.00% | ~361 |
-| Digging for Treasure | 5.00% | ~361 |
-| My Final Form | 5.00% | ~361 |
-| Against the Odds | 5.00% | ~361 |
+| Return of the Wizard King | 5.00% | ~362 |
+| Enchanted Archipelago | 5.00% | ~362 |
+| Digging for Treasure | 5.00% | ~362 |
+| My Final Form | 5.00% | ~362 |
+| Against the Odds | 5.00% | ~362 |
 | Preparation Is Everything | 4.00% | ~289 |
 | Fiery Friend | 4.00% | ~289 |
 | Impenetrable Fortress | 4.00% | ~289 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,228 (Ranked 197)  
+Progressed: 7,231 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
+| 2024-01-14 | 7,231 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 482)  
 Sum: 238 (Ranked 407)  

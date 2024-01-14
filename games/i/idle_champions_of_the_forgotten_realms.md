@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.30% | ~761 |
 | March of the Undead | 0.30% | ~761 |
 | No Time To Rest | 0.30% | ~761 |
+| The Dinner Party | 0.30% | ~761 |
 | Running of the Saurs | 0.30% | ~761 |
 | Waterdeep Detours | 0.30% | ~761 |
 | Underdeep Cartography | 0.30% | ~761 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~508 |
 | Invisible Shadows | 0.20% | ~508 |
 | Family Entanglements | 0.20% | ~508 |
-| The Dinner Party | 0.20% | ~508 |
 | The Botched Kidnapping | 0.20% | ~508 |
 | Tower on the Lake | 0.20% | ~508 |
 | Trollskull Manor | 0.20% | ~508 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,818 (Ranked 70)  
+Progressed: 253,825 (Ranked 70)  
 Completed: 2,616 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -822,7 +822,7 @@ Completed: 2,616 (1.03%) (Ranked 177)
 | 2024-01-11 | 253,420 | 2,614 |
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
-| 2024-01-14 | 253,818 | 2,616 |
+| 2024-01-14 | 253,825 | 2,616 |
 ## Awards
 Max (Great for Beginners): 5,777  (Ranked 74)  
 Sum: 33,481 (Ranked 41)  

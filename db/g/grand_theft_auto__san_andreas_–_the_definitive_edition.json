@@ -2381,18 +2381,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1065,
       "NumberOfAwardsMax": 659
+    },
+    {
+      "Time": "2024-01-14T03:03:47.7730465+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1073,
+      "NumberOfAwardsMax": 667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1065,
-  "NumberOfAwardsMax": 659,
+  "NumberOfAwards": 1073,
+  "NumberOfAwardsMax": 667,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 659
+      "Count": 667
     },
     {
       "Text": "This game is Relaxing",
@@ -2449,9 +2455,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19520,
+  "EOS_Progressed": 19521,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 789,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20299,6 +20305,11 @@
       "Time": "2024-01-14T02:07:35.4518686+00:00",
       "NumProgressed": 19520,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T03:11:31.9986749+00:00",
+      "NumProgressed": 19521,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20310,7 +20321,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15811
+      "UsersEstimate": 15812
     },
     {
       "ID": "ACH02",
@@ -20430,7 +20441,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3318
+      "UsersEstimate": 3319
     },
     {
       "ID": "ACH17",
@@ -20589,16 +20600,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19520,
+      "Progressed": 19521,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-13T20:03:09.1904058+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:35.4518684+00:00",
+  "LastChanged": "2024-01-14T03:03:47.7730463+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:31.9986747+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:06.6917328+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:59:49.9373412+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:35.4519738+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:03:47.7730468+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:31.9987637+00:00"
 }

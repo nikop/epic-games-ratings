@@ -2280,9 +2280,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16727,
+  "EOS_Progressed": 16732,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19925,6 +19925,11 @@
       "Time": "2024-01-14T02:07:50.5517527+00:00",
       "NumProgressed": 16727,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T03:11:46.9513653+00:00",
+      "NumProgressed": 16732,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20486,9 +20491,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MASON",
       "SetID": "9201eeb",
       "Name": "Mason",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 502
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
@@ -20806,9 +20811,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
       "SetID": "7l38kb8",
       "Name": "Patrons",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 134
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
@@ -21470,9 +21475,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_3",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 3",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 167
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -21878,17 +21883,17 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 117
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -22638,9 +22643,9 @@
       "ID": "ACHIEVEMENT_KUSHITE_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Kushite Pyramids",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -22799,21 +22804,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16727,
+      "Progressed": 16732,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16727,
+      "Progressed": 16732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-13T07:59:51.2247569+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:50.5517525+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:46.9513649+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:14.2479424+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:57:27.9961125+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:50.552754+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:01:14.9068663+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:46.9523437+00:00"
 }

@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 3.00% | ~502 |
 | Architect | 3.00% | ~502 |
 | Intrepid | 3.00% | ~502 |
+| Mason | 3.00% | ~502 |
 | Strong | 3.00% | ~502 |
 | Friendly Family | 3.00% | ~502 |
 | Hanging Gardens | 3.00% | ~502 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 2.00% | ~335 |
 | Learned | 2.00% | ~335 |
 | Magnificent | 2.00% | ~335 |
-| Mason | 2.00% | ~335 |
 | Noble | 2.00% | ~335 |
 | Pioneer | 2.00% | ~335 |
 | Warrior | 2.00% | ~335 |
@@ -64,29 +64,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~167 |
 | Musaeum | 1.00% | ~167 |
 | Necropolis | 1.00% | ~167 |
+| Learn to Play 3 | 1.00% | ~167 |
 | Manichaeism | 1.00% | ~167 |
 | Carthaginian Paganism | 1.00% | ~167 |
 | Egyptian Paganism | 1.00% | ~167 |
 | Mythology | 1.00% | ~167 |
 | Champions | 0.90% | ~151 |
 | Sages | 0.90% | ~151 |
-| Learn to Play 3 | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
 | Building Wonders | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
 | Mighty | 0.80% | ~134 |
 | Good Difficulty | 0.80% | ~134 |
+| Patrons | 0.80% | ~134 |
 | Statesmen | 0.80% | ~134 |
 | Temple of Solomon | 0.80% | ~134 |
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
 | Points Victory | 0.80% | ~134 |
 | Landowners | 0.70% | ~117 |
-| Patrons | 0.70% | ~117 |
 | Traders | 0.70% | ~117 |
 | Hittite Iron | 0.70% | ~117 |
 | Hagia Sophia | 0.70% | ~117 |
 | Economic Reform | 0.70% | ~117 |
+| Military Prestige | 0.70% | ~117 |
 | Dualism | 0.70% | ~117 |
 | Legionary | 0.70% | ~117 |
 | Double Victory | 0.70% | ~117 |
@@ -102,12 +103,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.60% | ~100 |
 | Via Recta Souk | 0.60% | ~100 |
 | Learn to Play 4 | 0.60% | ~100 |
-| Industrial Progress | 0.60% | ~100 |
-| Military Prestige | 0.60% | ~100 |
 | Legalism | 0.60% | ~100 |
 | Cimmerian Archer | 0.60% | ~100 |
 | Ambition Victory | 0.60% | ~100 |
-| Kushite Pyramids | 0.60% | ~100 |
 | Bad Heir Day | 0.50% | ~84 |
 | Capable | 0.50% | ~84 |
 | Devout | 0.50% | ~84 |
@@ -121,10 +119,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
 | Assyrian Paganism | 0.50% | ~84 |
+| Industrial Progress | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
 | Redemption | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
+| Kushite Pyramids | 0.50% | ~84 |
 | Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,727 (Ranked 169)  
+Progressed: 16,732 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,727 | 5 |
+| 2024-01-14 | 16,732 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,927 (Ranked 223)  

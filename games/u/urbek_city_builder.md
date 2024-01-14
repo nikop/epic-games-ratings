@@ -11,7 +11,7 @@
 | The woodcutter | 8.00% | ~41 |
 | Sport is good for you | 8.00% | ~41 |
 | I like books | 7.00% | ~36 |
-| I like my life | 6.00% | ~31 |
+| I like my life | 7.00% | ~36 |
 | Clean energy | 6.00% | ~31 |
 | Bucolic city | 6.00% | ~31 |
 | Soviet town | 6.00% | ~31 |
@@ -24,7 +24,7 @@
 | I am very happy! | 1.00% | ~5 |
 | What would we do if we can't go out with friends? | 1.00% | ~5 |
 | Metropolurbek | 1.00% | ~5 |
-| Banking city | 0.60% | ~3 |
+| Banking city | 0.80% | ~4 |
 | Oh, I love parks, listening to birds! | 0.60% | ~3 |
 | Food provider master | 0.40% | ~2 |
 | Read! Everyone should read! | 0.40% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 512 (Ranked 355)  
+Progressed: 513 (Ranked 354)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-09 | 503 | 0 |
 | 2024-01-10 | 504 | 0 |
 | 2024-01-13 | 512 | 0 |
+| 2024-01-14 | 513 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

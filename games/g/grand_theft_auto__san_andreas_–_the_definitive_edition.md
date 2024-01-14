@@ -5,12 +5,12 @@ Rating: 4.55 (Ranked 528)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,811 |
+| Getting Started | 81.00% | ~15,812 |
 | Pay 'n' Spray | 50.00% | ~9,760 |
 | All Dressed Up for San Fierro | 25.00% | ~4,880 |
 | The American Dream | 19.00% | ~3,709 |
 | School's Out | 18.00% | ~3,514 |
-| Smooth Moves | 17.00% | ~3,318 |
+| Smooth Moves | 17.00% | ~3,319 |
 | Today Was a Good Day | 15.00% | ~2,928 |
 | What happens in Las Venturas... | 14.00% | ~2,733 |
 | Horror of the Santa Maria | 10.00% | ~1,952 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 528)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,520 (Ranked 157)  
+Progressed: 19,521 (Ranked 157)  
 Completed: 77 (0.39%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,14 +310,14 @@ Completed: 77 (0.39%) (Ranked 245)
 | 2024-01-11 | 19,399 | 75 |
 | 2024-01-12 | 19,441 | 77 |
 | 2024-01-13 | 19,514 | 77 |
-| 2024-01-14 | 19,520 | 77 |
+| 2024-01-14 | 19,521 | 77 |
 ## Awards
-Max (Great Boss Battles): 659  (Ranked 201)  
-Sum: 1,065 (Ranked 270)  
+Max (Great Boss Battles): 667  (Ranked 201)  
+Sum: 1,073 (Ranked 270)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 659 |
+| This game has Great Boss Battles | 667 |
 | This game has Amazing Characters | 58 |
 | This game is Highly Recommended | 56 |
 | This game is Relaxing | 55 |
@@ -560,3 +560,4 @@ Diff (max vs sum): -69
 | 2024-01-11 | 4.55 | 652 | 1,041 |
 | 2024-01-12 | 4.55 | 652 | 1,048 |
 | 2024-01-13 | 4.55 | 659 | 1,065 |
+| 2024-01-14 | 4.55 | 667 | 1,073 |

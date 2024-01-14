@@ -4285,9 +4285,9 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 619
     },
     {
       "ID": "EV_ACH11",
@@ -4517,9 +4517,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 619
     },
     {
       "ID": "EV_ACH40",
@@ -4574,8 +4574,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-13T13:01:22.2796595+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:43.6088846+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:40.2410908+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:32.6946611+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:56:15.0964965+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:43.608933+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:59:59.2655012+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:40.2411404+00:00"
 }

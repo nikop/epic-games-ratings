@@ -27,10 +27,10 @@ Rating: 4.60 (Ranked 427)
 | So Close | 42.00% | ~650 |
 | The Finisher | 42.00% | ~650 |
 | You Get Used To It | 41.00% | ~635 |
-| Family | 39.00% | ~604 |
+| Family | 40.00% | ~619 |
+| Boosted! | 40.00% | ~619 |
 | Biggest Snowball Ever | 39.00% | ~604 |
 | Freeze The Ice Witch | 39.00% | ~604 |
-| Boosted! | 39.00% | ~604 |
 | Deadliest and Biggest Snowball Ever! | 39.00% | ~604 |
 | True Legends | 38.00% | ~588 |
 | It Is Not Over | 36.00% | ~557 |

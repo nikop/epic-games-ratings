@@ -6,28 +6,28 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,063 |
-| Lost and Found | 9.00% | ~683 |
-| Autodidact | 8.00% | ~10,618 |
+| Malpractice Assurance | 14.00% | ~1,064 |
+| Lost and Found | 9.00% | ~684 |
+| Autodidact | 8.00% | ~10,619 |
 | This Belongs in a Museum | 7.00% | ~9,291 |
-| This guy... again? | 7.00% | ~531 |
-| Serenity Now! | 6.00% | ~7,963 |
-| Creep and Sleep | 6.00% | ~7,963 |
-| Overdue Notice | 6.00% | ~7,963 |
-| Escape from the Black Hole | 6.00% | ~7,963 |
+| This guy... again? | 7.00% | ~532 |
+| Serenity Now! | 6.00% | ~7,964 |
+| Creep and Sleep | 6.00% | ~7,964 |
+| Overdue Notice | 6.00% | ~7,964 |
+| Escape from the Black Hole | 6.00% | ~7,964 |
 | Ploughshares to Swords | 6.00% | ~456 |
 | Bloody Graduation | 6.00% | ~456 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,636 |
-| It Rings a Bell | 5.00% | ~6,636 |
-| Not Today! | 5.00% | ~6,636 |
-| Meat and Greet | 5.00% | ~6,636 |
-| Catch and Decease | 5.00% | ~6,636 |
-| It Happens | 5.00% | ~6,636 |
-| Rush Hour | 5.00% | ~6,636 |
-| Merry Time | 5.00% | ~6,636 |
-| To Grandmother's House | 5.00% | ~6,636 |
-| A Place to Lay Your Head | 5.00% | ~6,636 |
-| FNG | 5.00% | ~6,636 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,637 |
+| It Rings a Bell | 5.00% | ~6,637 |
+| Not Today! | 5.00% | ~6,637 |
+| Meat and Greet | 5.00% | ~6,637 |
+| Catch and Decease | 5.00% | ~6,637 |
+| It Happens | 5.00% | ~6,637 |
+| Rush Hour | 5.00% | ~6,637 |
+| Merry Time | 5.00% | ~6,637 |
+| To Grandmother's House | 5.00% | ~6,637 |
+| A Place to Lay Your Head | 5.00% | ~6,637 |
+| FNG | 5.00% | ~6,637 |
 | Unleash Hell | 4.00% | ~5,309 |
 | Unfulfilled Desires | 4.00% | ~5,309 |
 | Dissector | 4.00% | ~5,309 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,982 |
 | Utopia | 3.00% | ~3,982 |
 | Road Trip | 3.00% | ~3,982 |
-| This Looks Familiar | 2.00% | ~2,654 |
-| Ichthyophobic | 2.00% | ~2,654 |
-| No More Mouths to Feed | 2.00% | ~2,654 |
-| Worldly Traveller | 2.00% | ~2,654 |
-| Hot Air | 2.00% | ~2,654 |
-| Eyes Up | 2.00% | ~2,654 |
-| Handled | 2.00% | ~2,654 |
+| This Looks Familiar | 2.00% | ~2,655 |
+| Ichthyophobic | 2.00% | ~2,655 |
+| No More Mouths to Feed | 2.00% | ~2,655 |
+| Worldly Traveller | 2.00% | ~2,655 |
+| Hot Air | 2.00% | ~2,655 |
+| Eyes Up | 2.00% | ~2,655 |
+| Handled | 2.00% | ~2,655 |
 | Clearing the Ledger | 1.00% | ~1,327 |
 | Hat Trick | 1.00% | ~1,327 |
 | Shrine of Reflection | 1.00% | ~1,327 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,723 (Ranked 92)  
+Progressed: 132,733 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,723 | 4 |
+| 2024-01-14 | 132,733 | 4 |
 ## Awards
 Max (Character Customization): 8,016  (Ranked 51)  
 Sum: 21,637 (Ranked 58)  

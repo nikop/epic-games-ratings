@@ -539,9 +539,9 @@
       "ID": "SecretBase",
       "SetID": "c8fdd59",
       "Name": "Secret Base",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SlayerOfMonsters",
@@ -579,9 +579,9 @@
       "ID": "UltimateWeapon",
       "SetID": "c8fdd59",
       "Name": "Ultimate Weapon",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "UnexpectedSurprise",
@@ -618,8 +618,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:42.3334368+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:38.949625+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:08.0794756+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:55:56.5958754+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:42.333461+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:59:38.5033715+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:38.9496487+00:00"
 }

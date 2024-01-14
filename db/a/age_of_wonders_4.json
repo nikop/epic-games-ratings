@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7228,
+  "EOS_Progressed": 7231,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11192,6 +11192,11 @@
       "Time": "2024-01-13T21:04:23.0708344+00:00",
       "NumProgressed": 7228,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T03:06:16.4035994+00:00",
+      "NumProgressed": 7231,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11251,7 +11256,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "16",
@@ -11291,7 +11296,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "20",
@@ -11315,7 +11320,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "23",
@@ -11323,7 +11328,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "24",
@@ -11355,7 +11360,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "28",
@@ -11363,7 +11368,7 @@
       "Name": "From Friends to Family",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "29",
@@ -11403,7 +11408,7 @@
       "Name": "My Final Form",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "33",
@@ -11443,7 +11448,7 @@
       "Name": "Against the Odds",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "38",
@@ -11682,13 +11687,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7228,
+      "Progressed": 7231,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7228,
+      "Progressed": 7231,
       "Completed": 8
     }
   ],
@@ -11696,8 +11701,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:02:21.0651585+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:06:16.4035984+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:37.8908073+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:57:51.7633953+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:02:21.0652417+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:01:38.8940092+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:06:16.4036886+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Action | 9.00% | ~1,868 |
-| No Deaths | 9.00% | ~1,868 |
-| Abandoned Settlement | 9.00% | ~1,868 |
-| Overgrown Library | 9.00% | ~1,868 |
+| Taking Action | 9.00% | ~1,869 |
+| No Deaths | 9.00% | ~1,869 |
+| Abandoned Settlement | 9.00% | ~1,869 |
+| Overgrown Library | 9.00% | ~1,869 |
 | First Real Expedition | 8.00% | ~1,661 |
 | Petrified Necropolis | 8.00% | ~1,661 |
 | Overcoming Difficulty | 7.00% | ~1,453 |
@@ -22,13 +22,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~1,038 |
 | Watchtower | 5.00% | ~1,038 |
 | Land of Greed | 5.00% | ~1,038 |
-| Homesick | 4.00% | ~830 |
-| Ruined Armory | 4.00% | ~830 |
-| Fertile Meadows | 4.00% | ~830 |
-| Levitating Monument | 4.00% | ~830 |
-| Monastery of the Holy Flame | 4.00% | ~830 |
-| A Real Challenge | 4.00% | ~830 |
-| Trade Baron | 4.00% | ~830 |
+| Homesick | 4.00% | ~831 |
+| Ruined Armory | 4.00% | ~831 |
+| Fertile Meadows | 4.00% | ~831 |
+| Levitating Monument | 4.00% | ~831 |
+| Monastery of the Holy Flame | 4.00% | ~831 |
+| A Real Challenge | 4.00% | ~831 |
+| Trade Baron | 4.00% | ~831 |
 | Bandit Camp | 3.00% | ~623 |
 | Barren Lands | 3.00% | ~623 |
 | Ancient Battleground | 3.00% | ~623 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,761 (Ranked 155)  
+Progressed: 20,764 (Ranked 155)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-11 | 20,700 | 34 |
 | 2024-01-12 | 20,729 | 34 |
 | 2024-01-13 | 20,758 | 35 |
-| 2024-01-14 | 20,761 | 35 |
+| 2024-01-14 | 20,764 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 452  (Ranked 233)  
 Sum: 3,380 (Ranked 178)  

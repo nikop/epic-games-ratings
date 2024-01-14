@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 453,
   "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1823,10 +1823,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 460,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-01-14T02:58:50.6392907+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 461,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 460,
+  "NumberOfAwards": 461,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1864,7 +1870,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1885,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168072,
+  "EOS_Progressed": 168079,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 1128,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22995,6 +23001,11 @@
       "Time": "2024-01-14T02:04:30.0945458+00:00",
       "NumProgressed": 168072,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2024-01-14T03:08:25.669359+00:00",
+      "NumProgressed": 168079,
+      "NumCompleted": 457
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23079,7 +23090,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23374,21 +23385,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167655,
+      "Progressed": 167662,
       "Completed": 1263
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168072,
+      "Progressed": 168079,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-13T07:57:41.0089842+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:04:30.0945456+00:00",
+  "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:08:25.6693582+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:55:08.5114399+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:04:30.0946805+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:58:50.639291+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:08:25.669475+00:00"
 }

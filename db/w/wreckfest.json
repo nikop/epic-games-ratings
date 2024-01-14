@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1138,
+  "EOS_Progressed": 1139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2836,6 +2836,11 @@
       "Time": "2024-01-14T02:06:07.2645882+00:00",
       "NumProgressed": 1138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T03:10:03.4912972+00:00",
+      "NumProgressed": 1139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2912,7 +2917,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "CollectVehiclesB",
@@ -2958,9 +2963,9 @@
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 364
     },
     {
       "ID": "PlayerRankB",
@@ -3007,7 +3012,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1138,
+      "Progressed": 1139,
       "Completed": 0
     }
   ],
@@ -3015,8 +3020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:06:07.264588+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:10:03.4912967+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:35.1829729+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:56:33.4867354+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:06:07.2646272+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:00:16.3035187+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:10:03.4913176+00:00"
 }

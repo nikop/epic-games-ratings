@@ -6,50 +6,50 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 72.00% | ~582,363 |
-| To The Nines | 46.00% | ~372,065 |
-| Optimized | 29.00% | ~234,563 |
-| Wet Work | 27.00% | ~218,386 |
-| Performance Review | 24.00% | ~194,121 |
-| Food for Thought | 23.00% | ~186,033 |
-| The Side Job | 21.00% | ~169,856 |
-| Making a Name | 21.00% | ~169,856 |
-| Tune Up | 19.00% | ~153,679 |
-| Landlord | 18.00% | ~145,591 |
-| Wrecking Ball | 15.00% | ~121,326 |
-| Finders Keepers | 11.00% | ~88,972 |
-| A Young Empire | 11.00% | ~88,972 |
-| Work Ethic | 8.00% | ~64,707 |
-| Power Players | 7.00% | ~56,619 |
-| Picking Fights | 7.00% | ~56,619 |
-| Quality Time | 6.00% | ~48,530 |
-| Hijacked | 6.00% | ~48,530 |
-| Showdown | 6.00% | ~48,530 |
-| Et tu? | 6.00% | ~48,530 |
-| Took It to The Limit | 6.00% | ~48,530 |
-| Kitted Out | 5.00% | ~40,442 |
-| The Spins | 4.00% | ~32,354 |
-| Prankster | 4.00% | ~32,354 |
-| Masters of Santo Ileso | 3.00% | ~24,265 |
-| The Mechanic | 3.00% | ~24,265 |
-| Challenge Accepted | 2.00% | ~16,177 |
-| Chaos Tamer | 2.00% | ~16,177 |
-| Free Refills | 2.00% | ~16,177 |
-| Closet Space | 2.00% | ~16,177 |
-| We could go home, or… | 1.00% | ~8,088 |
-| The Professional | 1.00% | ~8,088 |
-| Untouchable | 1.00% | ~8,088 |
-| A Golden Age | 1.00% | ~8,088 |
-| Neighborly | 1.00% | ~8,088 |
-| Smooth Moves | 1.00% | ~8,088 |
-| Tourist | 1.00% | ~8,088 |
-| Producer Credit | 1.00% | ~7,805 |
-| Shopping Spree | 0.90% | ~7,280 |
-| Always Be Hustling | 0.90% | ~7,280 |
-| Face Off | 0.90% | ~7,024 |
-| Hazardous Heist | 0.80% | ~6,244 |
-| Bonus Round | 0.70% | ~5,662 |
-| Community Outreach | 0.60% | ~4,853 |
+| First F#@!ing Day | 72.00% | ~582,581 |
+| To The Nines | 46.00% | ~372,204 |
+| Optimized | 29.00% | ~234,651 |
+| Wet Work | 27.00% | ~218,468 |
+| Performance Review | 24.00% | ~194,194 |
+| Food for Thought | 23.00% | ~186,102 |
+| The Side Job | 21.00% | ~169,919 |
+| Making a Name | 21.00% | ~169,919 |
+| Tune Up | 19.00% | ~153,737 |
+| Landlord | 18.00% | ~145,645 |
+| Wrecking Ball | 15.00% | ~121,371 |
+| Finders Keepers | 11.00% | ~89,005 |
+| A Young Empire | 11.00% | ~89,005 |
+| Work Ethic | 8.00% | ~64,731 |
+| Power Players | 7.00% | ~56,640 |
+| Picking Fights | 7.00% | ~56,640 |
+| Quality Time | 6.00% | ~48,548 |
+| Hijacked | 6.00% | ~48,548 |
+| Showdown | 6.00% | ~48,548 |
+| Et tu? | 6.00% | ~48,548 |
+| Took It to The Limit | 6.00% | ~48,548 |
+| Kitted Out | 5.00% | ~40,457 |
+| The Spins | 4.00% | ~32,366 |
+| Prankster | 4.00% | ~32,366 |
+| Masters of Santo Ileso | 3.00% | ~24,274 |
+| The Mechanic | 3.00% | ~24,274 |
+| Challenge Accepted | 2.00% | ~16,183 |
+| Chaos Tamer | 2.00% | ~16,183 |
+| Free Refills | 2.00% | ~16,183 |
+| Closet Space | 2.00% | ~16,183 |
+| We could go home, or… | 1.00% | ~8,091 |
+| The Professional | 1.00% | ~8,091 |
+| Untouchable | 1.00% | ~8,091 |
+| A Golden Age | 1.00% | ~8,091 |
+| Neighborly | 1.00% | ~8,091 |
+| Smooth Moves | 1.00% | ~8,091 |
+| Tourist | 1.00% | ~8,091 |
+| Producer Credit | 1.00% | ~7,808 |
+| Shopping Spree | 0.90% | ~7,282 |
+| Always Be Hustling | 0.90% | ~7,282 |
+| Face Off | 0.90% | ~7,027 |
+| Hazardous Heist | 0.80% | ~6,246 |
+| Bonus Round | 0.70% | ~5,664 |
+| Community Outreach | 0.60% | ~4,855 |
 | It's a Bird! | 0.30% | ~2,427 |
 | Jack of All Trades | 0.20% | ~1,618 |
 | The Collector | 0.20% | ~1,618 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.10% | ~809 |
 | Fiesta Time | 0.10% | ~809 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,838 (Ranked 21)  
+Progressed: 809,140 (Ranked 21)  
 Completed: 83 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 83 (0.01%) (Ranked 376)
 | 2024-01-11 | 790,392 | 72 |
 | 2024-01-12 | 798,417 | 75 |
 | 2024-01-13 | 808,057 | 81 |
-| 2024-01-14 | 808,838 | 83 |
+| 2024-01-14 | 809,140 | 83 |
 ## Awards
 Max (Extremely Fun): 1,122  (Ranked 154)  
 Sum: 9,058 (Ranked 103)  

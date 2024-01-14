@@ -1307,9 +1307,9 @@
       "ID": "soccer_low",
       "SetID": "3448go",
       "Name": "Goal-Chaser",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "soccer_mid",
@@ -1394,8 +1394,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:02:42.3623319+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:06:37.5108712+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:56:34.2546772+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:02:42.3624184+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:00:17.0615412+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:06:37.5109525+00:00"
 }

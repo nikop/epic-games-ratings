@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3413,
+  "EOS_Progressed": 3414,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -5482,6 +5482,11 @@
       "Time": "2024-01-14T02:07:33.8883103+00:00",
       "NumProgressed": 3413,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T03:11:30.4483055+00:00",
+      "NumProgressed": 3414,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5510,7 +5515,7 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_12",
@@ -5574,7 +5579,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_2",
@@ -5638,7 +5643,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "achievement_36",
@@ -5734,7 +5739,7 @@
       "Name": "Soldier",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_5",
@@ -5742,7 +5747,7 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "achievement_50",
@@ -5854,7 +5859,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "achievement_9",
@@ -5869,7 +5874,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3413,
+      "Progressed": 3414,
       "Completed": 4
     }
   ],
@@ -5877,8 +5882,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-13T21:00:06.2512077+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:33.8883099+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:30.4483049+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:58:43.7812398+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:33.8883669+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:02:30.1973174+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:30.4483586+00:00"
 }

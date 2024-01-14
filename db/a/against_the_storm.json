@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3947,7 +3947,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20761,
+  "EOS_Progressed": 20764,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 1,
@@ -19562,6 +19562,11 @@
       "Time": "2024-01-14T02:04:52.7287767+00:00",
       "NumProgressed": 20761,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-14T03:08:48.3812024+00:00",
+      "NumProgressed": 20764,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19654,7 +19659,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinFirstGame",
@@ -19686,7 +19691,7 @@
       "Name": "Ruined Armory",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinNearBandit",
@@ -19734,7 +19739,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinNearFishmen",
@@ -19766,7 +19771,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinNearMines",
@@ -19782,7 +19787,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinNearOutpost",
@@ -19886,7 +19891,7 @@
       "Name": "A Real Challenge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinWIthCaches",
@@ -19910,7 +19915,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "WinWithResolve",
@@ -19942,7 +19947,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "WinWithoutDeath",
@@ -19950,7 +19955,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "WinWithoutOrders",
@@ -19974,7 +19979,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "WinNearFrosts",
@@ -19998,7 +20003,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "WinNearPetrified",
@@ -20045,15 +20050,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20761,
+      "Progressed": 20764,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-13T14:00:31.5599357+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:04:52.7287764+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:08:48.3812018+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:58:48.5031159+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:04:52.7288744+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:02:34.6611568+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:08:48.3813079+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.17 (Ranked 990)
 | ---- | ---------- | ----- |
 | Break Out | 64.00% | ~1,480 |
 | Trinity | 34.00% | ~786 |
-| The Collector | 27.00% | ~624 |
+| The Collector | 28.00% | ~647 |
 | Find Allies | 26.00% | ~601 |
 | A Taste of Wrath | 26.00% | ~601 |
 | Geared Up | 25.00% | ~578 |

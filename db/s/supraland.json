@@ -3445,9 +3445,9 @@
       "Count": 197
     }
   ],
-  "EOS_Progressed": 740169,
+  "EOS_Progressed": 740171,
   "EOS_Completed": 782,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 892,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -33820,6 +33820,11 @@
       "Time": "2024-01-14T02:07:47.5328215+00:00",
       "NumProgressed": 740169,
       "NumCompleted": 782
+    },
+    {
+      "Time": "2024-01-14T03:11:44.1053987+00:00",
+      "NumProgressed": 740171,
+      "NumCompleted": 782
     }
   ],
   "TotalAchievements": 98,
@@ -33855,7 +33860,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 111025
+      "UsersEstimate": 111026
     },
     {
       "ID": "Armor",
@@ -33919,7 +33924,7 @@
       "Name": "Buckle",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 133230
+      "UsersEstimate": 133231
     },
     {
       "ID": "Burglar1",
@@ -34047,7 +34052,7 @@
       "Name": "Double Jump",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 355281
+      "UsersEstimate": 355282
     },
     {
       "ID": "FireFlies",
@@ -34063,7 +34068,7 @@
       "Name": "Through the fire pipe",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 288666
+      "UsersEstimate": 288667
     },
     {
       "ID": "FliesBeam",
@@ -34079,7 +34084,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 392290
+      "UsersEstimate": 392291
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -34087,7 +34092,7 @@
       "Name": "Force Cube Catapult",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 185042
+      "UsersEstimate": 185043
     },
     {
       "ID": "Freed_from_Prison",
@@ -34095,7 +34100,7 @@
       "Name": "Freed from prison",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 162837
+      "UsersEstimate": 162838
     },
     {
       "ID": "GiantWorkshop",
@@ -34151,7 +34156,7 @@
       "Name": "Green Keycard",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 133230
+      "UsersEstimate": 133231
     },
     {
       "ID": "GreenMoonDoor",
@@ -34191,7 +34196,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 407093
+      "UsersEstimate": 407094
     },
     {
       "ID": "Healthregen",
@@ -34199,7 +34204,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 347879
+      "UsersEstimate": 347880
     },
     {
       "ID": "HelpedAStar",
@@ -34215,7 +34220,7 @@
       "Name": "Climb the hill",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 310871
+      "UsersEstimate": 310872
     },
     {
       "ID": "Holy_Sword",
@@ -34279,7 +34284,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 281264
+      "UsersEstimate": 281265
     },
     {
       "ID": "Magic",
@@ -34343,7 +34348,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 732767
+      "UsersEstimate": 732769
     },
     {
       "ID": "PanicLights",
@@ -34455,7 +34460,7 @@
       "Name": "Stomp",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 155435
+      "UsersEstimate": 155436
     },
     {
       "ID": "Speedx2",
@@ -34463,7 +34468,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 488512
+      "UsersEstimate": 488513
     },
     {
       "ID": "Strong",
@@ -34471,7 +34476,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88820
+      "UsersEstimate": 88821
     },
     {
       "ID": "SuperSword",
@@ -34503,7 +34508,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 629144
+      "UsersEstimate": 629145
     },
     {
       "ID": "ThroughPipe",
@@ -34543,7 +34548,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 318273
+      "UsersEstimate": 318274
     },
     {
       "ID": "True_Holy_Spirit",
@@ -34551,7 +34556,7 @@
       "Name": "True holy spirit",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 207247
+      "UsersEstimate": 207248
     },
     {
       "ID": "Waldoh",
@@ -34614,15 +34619,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 740169,
+      "Progressed": 740171,
       "Completed": 782
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-13T10:03:10.586531+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:47.5328214+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:44.1053982+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:57:15.8548171+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:54:09.1955128+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:47.533017+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:57:51.2041738+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:44.1056066+00:00"
 }

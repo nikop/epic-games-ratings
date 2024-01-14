@@ -425,9 +425,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 14830,
+  "EOS_Progressed": 14831,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10295,6 +10295,11 @@
       "Time": "2024-01-14T02:07:36.738658+00:00",
       "NumProgressed": 14830,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T03:11:33.2367504+00:00",
+      "NumProgressed": 14831,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10315,7 +10320,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6080
+      "UsersEstimate": 6081
     },
     {
       "ID": "BeLikeWater",
@@ -10387,7 +10392,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "GarbageMan",
@@ -10411,7 +10416,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10523,7 +10528,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "UnResurrected",
@@ -10539,7 +10544,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10578,7 +10583,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14830,
+      "Progressed": 14831,
       "Completed": 27
     }
   ],
@@ -10586,8 +10591,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-13T11:58:52.3774127+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:36.7386577+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:33.2367497+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:56:06.0406365+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:36.7387081+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:59:48.9321441+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:33.2368122+00:00"
 }

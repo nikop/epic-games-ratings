@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 756,
+  "EOS_Progressed": 757,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2024-01-13T22:05:56.5878541+00:00",
       "NumProgressed": 756,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T03:08:18.5934303+00:00",
+      "NumProgressed": 757,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -1038,7 +1043,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "AhoyTrophy",
@@ -1062,7 +1067,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -1134,7 +1139,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "Ext4Trophy",
@@ -1166,7 +1171,7 @@
       "Name": "Machine Maxed",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1238,7 +1243,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "KKBossTrophy",
@@ -1270,7 +1275,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1358,7 +1363,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "TerrorTrophy",
@@ -1398,7 +1403,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "YouthTrophy",
@@ -1421,7 +1426,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 756,
+      "Progressed": 757,
       "Completed": 0
     }
   ],
@@ -1429,8 +1434,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:04:22.9909367+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:08:18.5934298+00:00",
   "LastUpdate_AppInfo": "2024-01-07T02:57:14.2493953+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:54:34.6563693+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:04:22.9909977+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:58:16.3144605+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:08:18.5934716+00:00"
 }

@@ -9547,9 +9547,9 @@
       "Count": 3639
     }
   ],
-  "EOS_Progressed": 253818,
+  "EOS_Progressed": 253825,
   "EOS_Completed": 2616,
-  "EOS_NewPlayers": 1646,
+  "EOS_NewPlayers": 1629,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40007,6 +40007,11 @@
       "Time": "2024-01-14T02:07:52.2137898+00:00",
       "NumProgressed": 253818,
       "NumCompleted": 2616
+    },
+    {
+      "Time": "2024-01-14T03:11:48.5574895+00:00",
+      "NumProgressed": 253825,
+      "NumCompleted": 2616
     }
   ],
   "TotalAchievements": 546,
@@ -41432,9 +41437,9 @@
       "ID": "objective_completed_230",
       "SetID": "cc37lbc",
       "Name": "The Dinner Party",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 761
     },
     {
       "ID": "objective_completed_231",
@@ -44385,21 +44390,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220092,
+      "Progressed": 220099,
       "Completed": 4148
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 253818,
+      "Progressed": 253825,
       "Completed": 2616
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-14T01:58:30.3265751+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:52.2137896+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:48.5574889+00:00",
   "LastUpdate_AppInfo": "2024-01-07T03:58:36.8292795+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:58:30.3265756+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:52.2160355+00:00"
+  "LastUpdate_Ratings": "2024-01-14T03:02:18.8105431+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:48.5598101+00:00"
 }

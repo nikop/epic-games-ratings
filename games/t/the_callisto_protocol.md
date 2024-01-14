@@ -10,7 +10,7 @@ Rating: 4.22 (Ranked 954)
 | Desperate Times | 25.00% | ~5,580 |
 | Paper Jams | 23.00% | ~5,134 |
 | Get a Grip | 22.00% | ~4,911 |
-| Chew 'Em Up | 21.00% | ~4,687 |
+| Chew 'Em Up | 21.00% | ~4,688 |
 | Reforged | 19.00% | ~4,241 |
 | Float Like A Butterfly | 18.00% | ~4,018 |
 | Workplace Hazard | 17.00% | ~3,795 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 954)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,321 (Ranked 151)  
+Progressed: 22,322 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-11 | 22,169 | 82 |
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
-| 2024-01-14 | 22,321 | 82 |
+| 2024-01-14 | 22,322 | 82 |
 ## Awards
 Max (Amazing Characters): 134  (Ranked 343)  
 Sum: 649 (Ranked 319)  

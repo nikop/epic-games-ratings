@@ -11,13 +11,13 @@
 | Sanctuary Guardian | 55.00% | ~208 |
 | Endless Tricks | 51.00% | ~193 |
 | Wild's Keeper | 49.00% | ~186 |
-| Mind Illuminator | 44.00% | ~167 |
+| Mind Illuminator | 45.00% | ~171 |
 | Stellar Dismantler | 39.00% | ~148 |
 | Noctuan Champion | 36.00% | ~136 |
 | Astral Adventurer | 35.00% | ~133 |
 | Anomaly Destroyer | 32.00% | ~121 |
 | Star Killer | 31.00% | ~117 |
-| Eridanian Champion | 25.00% | ~95 |
+| Eridanian Champion | 26.00% | ~99 |
 | Loyal Partner | 22.00% | ~83 |
 | Lacertian Champion | 22.00% | ~83 |
 | Apian Champion | 19.00% | ~72 |

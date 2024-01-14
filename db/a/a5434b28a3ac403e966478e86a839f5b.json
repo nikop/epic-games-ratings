@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
@@ -3360,6 +3360,11 @@
       "Time": "2024-01-14T02:06:04.4824509+00:00",
       "NumProgressed": 959,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T03:10:00.6477558+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3380,7 +3385,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH_eou2",
@@ -3404,7 +3409,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_eou5",
@@ -3436,7 +3441,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_mg2",
@@ -3475,14 +3480,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:06:04.4824506+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:10:00.6477555+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.9580247+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:54:55.1591891+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:06:04.4824837+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:58:37.306048+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:10:00.6477836+00:00"
 }

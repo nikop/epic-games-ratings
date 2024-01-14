@@ -6,27 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,764 |
-| Alt+F4 | 11.00% | ~27,281 |
-| Where's that freaking Dwarf? | 9.00% | ~22,321 |
-| Déjà vu | 8.00% | ~19,841 |
+| Sowwy! | 37.00% | ~91,767 |
+| Alt+F4 | 11.00% | ~27,282 |
+| Where's that freaking Dwarf? | 9.00% | ~22,322 |
+| Déjà vu | 8.00% | ~19,842 |
 | Sock! SOCK! | 6.00% | ~14,881 |
 | Speedrun | 6.00% | ~14,881 |
-| A beer, two curses, three companions | 5.00% | ~12,400 |
-| GG EZ | 5.00% | ~12,400 |
-| DM intervention | 5.00% | ~12,400 |
-| Way of the Wimp | 4.00% | ~9,920 |
-| The plot thickens... At the tavern | 4.00% | ~9,920 |
-| Fireproof Wizardess | 4.00% | ~9,920 |
-| Livin' in a dwarven paradise | 3.00% | ~7,440 |
-| The demons' feast | 3.00% | ~7,440 |
-| The Great Library | 3.00% | ~7,440 |
-| Torture and Sensibility | 3.00% | ~7,440 |
-| Urik's Depths | 3.00% | ~7,440 |
-| The Dungeon Master | 3.00% | ~7,440 |
-| The Woman in the High Castle | 3.00% | ~7,440 |
-| Team Building Exercise | 3.00% | ~7,440 |
-| Oh, when I'll be level 10... | 3.00% | ~7,440 |
+| A beer, two curses, three companions | 5.00% | ~12,401 |
+| GG EZ | 5.00% | ~12,401 |
+| DM intervention | 5.00% | ~12,401 |
+| Way of the Wimp | 4.00% | ~9,921 |
+| The plot thickens... At the tavern | 4.00% | ~9,921 |
+| Fireproof Wizardess | 4.00% | ~9,921 |
+| Livin' in a dwarven paradise | 3.00% | ~7,441 |
+| The demons' feast | 3.00% | ~7,441 |
+| The Great Library | 3.00% | ~7,441 |
+| Torture and Sensibility | 3.00% | ~7,441 |
+| Urik's Depths | 3.00% | ~7,441 |
+| The Dungeon Master | 3.00% | ~7,441 |
+| The Woman in the High Castle | 3.00% | ~7,441 |
+| Team Building Exercise | 3.00% | ~7,441 |
+| Oh, when I'll be level 10... | 3.00% | ~7,441 |
 | Shiny and Crôm | 2.00% | ~4,960 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,960 |
 | Res Judicata | 2.00% | ~4,960 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,010 (Ranked 72)  
+Progressed: 248,020 (Ranked 72)  
 Completed: 9 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 9 (0.00%) (Ranked 400)
 | 2024-01-11 | 247,677 | 8 |
 | 2024-01-12 | 247,819 | 8 |
 | 2024-01-13 | 247,988 | 9 |
-| 2024-01-14 | 248,010 | 9 |
+| 2024-01-14 | 248,020 | 9 |
 ## Awards
 Max (Character Customization): 268  (Ranked 279)  
 Sum: 567 (Ranked 330)  

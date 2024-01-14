@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,876 |
+| Distinguished Service Medal | 90.00% | ~3,877 |
 | Spectre Inductee | 66.00% | ~2,843 |
 | Medal of Exploration I | 55.00% | ~2,369 |
 | Recruit | 52.00% | ~2,240 |
 | Search and Rescue | 51.00% | ~2,197 |
-| Quarian Ally | 48.00% | ~2,067 |
+| Quarian Ally | 48.00% | ~2,068 |
 | Medal of Heroism | 43.00% | ~1,852 |
 | Honorarium of Corporate Service | 43.00% | ~1,852 |
 | Turian Ally | 40.00% | ~1,723 |
 | Medal of Exploration II | 38.00% | ~1,637 |
 | Council Legion of Merit | 38.00% | ~1,637 |
 | Missing in Action | 36.00% | ~1,551 |
-| Medal of Honor | 35.00% | ~1,507 |
-| Meritorious Service Medal | 35.00% | ~1,507 |
-| Soldier Ally | 35.00% | ~1,507 |
-| Charismatic | 35.00% | ~1,507 |
-| Soldier | 34.00% | ~1,464 |
-| Asari Ally | 33.00% | ~1,421 |
-| Very Elusive | 33.00% | ~1,421 |
-| Colonial Savior | 32.00% | ~1,378 |
+| Medal of Honor | 35.00% | ~1,508 |
+| Meritorious Service Medal | 35.00% | ~1,508 |
+| Soldier Ally | 35.00% | ~1,508 |
+| Charismatic | 35.00% | ~1,508 |
+| Soldier | 34.00% | ~1,465 |
+| Asari Ally | 33.00% | ~1,422 |
+| Very Elusive | 33.00% | ~1,422 |
+| Colonial Savior | 32.00% | ~1,379 |
 | Medal of Exploration III | 31.00% | ~1,335 |
 | Principled | 31.00% | ~1,335 |
 | Merciless | 31.00% | ~1,335 |
@@ -53,27 +53,27 @@
 | Galactic Explorer | 22.00% | ~948 |
 | Bringer of War | 22.00% | ~948 |
 | Shopaholic | 22.00% | ~948 |
-| Archivist | 21.00% | ~904 |
-| Battlemaster | 21.00% | ~904 |
-| Catharsis | 21.00% | ~904 |
-| Fade Away | 21.00% | ~904 |
-| The Cure | 21.00% | ~904 |
-| Big Game Hunter | 21.00% | ~904 |
-| Revenge! | 21.00% | ~904 |
-| Digital Exorcist | 21.00% | ~904 |
-| Heart of Darkness | 21.00% | ~904 |
-| Focused | 20.00% | ~861 |
-| Friend or Foe | 20.00% | ~861 |
-| Cat's in the Cradle | 20.00% | ~861 |
-| Doppelganger | 20.00% | ~861 |
-| Treason | 20.00% | ~861 |
-| Mobilizer | 20.00% | ~861 |
-| Untouchable | 19.00% | ~818 |
-| Completionist | 19.00% | ~818 |
-| Mission Accomplished | 19.00% | ~818 |
-| Suicide Mission | 19.00% | ~818 |
-| Against All Odds | 19.00% | ~818 |
-| Agent | 19.00% | ~818 |
+| Archivist | 21.00% | ~905 |
+| Battlemaster | 21.00% | ~905 |
+| Catharsis | 21.00% | ~905 |
+| Fade Away | 21.00% | ~905 |
+| The Cure | 21.00% | ~905 |
+| Big Game Hunter | 21.00% | ~905 |
+| Revenge! | 21.00% | ~905 |
+| Digital Exorcist | 21.00% | ~905 |
+| Heart of Darkness | 21.00% | ~905 |
+| Focused | 20.00% | ~862 |
+| Friend or Foe | 20.00% | ~862 |
+| Cat's in the Cradle | 20.00% | ~862 |
+| Doppelganger | 20.00% | ~862 |
+| Treason | 20.00% | ~862 |
+| Mobilizer | 20.00% | ~862 |
+| Untouchable | 19.00% | ~819 |
+| Completionist | 19.00% | ~819 |
+| Mission Accomplished | 19.00% | ~819 |
+| Suicide Mission | 19.00% | ~819 |
+| Against All Odds | 19.00% | ~819 |
+| Agent | 19.00% | ~819 |
 | Eye of the Hurricane | 18.00% | ~775 |
 | Giant Killer | 18.00% | ~775 |
 | First Aid Specialist | 18.00% | ~775 |
@@ -109,13 +109,13 @@
 | Combined Arms | 9.00% | ~388 |
 | Mail Slot | 9.00% | ~388 |
 | Warp Mastery | 8.00% | ~345 |
-| Barrier Mastery | 7.00% | ~301 |
-| Sky High | 7.00% | ~301 |
-| Always Prepared | 7.00% | ~301 |
-| Paramour III | 7.00% | ~301 |
-| Bruiser | 7.00% | ~301 |
-| Lift Mastery | 7.00% | ~301 |
-| Overload Specialist | 7.00% | ~301 |
+| Barrier Mastery | 7.00% | ~302 |
+| Sky High | 7.00% | ~302 |
+| Always Prepared | 7.00% | ~302 |
+| Paramour III | 7.00% | ~302 |
+| Bruiser | 7.00% | ~302 |
+| Lift Mastery | 7.00% | ~302 |
+| Overload Specialist | 7.00% | ~302 |
 | Hijacker | 6.00% | ~258 |
 | Damping Specialist | 4.00% | ~172 |
 | Singularity Mastery | 4.00% | ~172 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~39 |
 | The One and Only | 0.50% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,307 (Ranked 212)  
+Progressed: 4,308 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,4 +253,4 @@ Completed: 13 (0.30%) (Ranked 259)
 | 2024-01-11 | 4,190 | 13 |
 | 2024-01-12 | 4,237 | 13 |
 | 2024-01-13 | 4,295 | 13 |
-| 2024-01-14 | 4,307 | 13 |
+| 2024-01-14 | 4,308 | 13 |

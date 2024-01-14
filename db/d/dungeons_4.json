@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 92,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2939,9 +2939,9 @@
       "ID": "ach_main20end_notristan",
       "SetID": "4hg22ll",
       "Name": "I Don\u0027t Need Any Help",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 84
     },
     {
       "ID": "ach_main20end_spawners",
@@ -2964,8 +2964,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:06:41.8452002+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:10:37.5649794+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:54:47.0629752+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:06:41.8452482+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:58:29.3295517+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:10:37.5650274+00:00"
 }

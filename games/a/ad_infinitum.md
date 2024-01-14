@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Path of Despair | 88.00% | ~186 |
-| Morgengrauen | 86.00% | ~181 |
+| Morgengrauen | 87.00% | ~184 |
 | Not alone | 61.00% | ~129 |
 | Hunger | 51.00% | ~108 |
 | Awaken | 43.00% | ~91 |
@@ -14,13 +14,13 @@
 | Rage | 30.00% | ~63 |
 | Path of Pain | 24.00% | ~51 |
 | Mayhem | 19.00% | ~40 |
-| Reflections | 18.00% | ~38 |
-| The shining | 18.00% | ~38 |
+| Reflections | 19.00% | ~40 |
+| The shining | 19.00% | ~40 |
 | Clarity | 17.00% | ~36 |
-| Health | 15.00% | ~32 |
-| Awaiting orders | 13.00% | ~27 |
+| Health | 16.00% | ~34 |
+| Awaiting orders | 14.00% | ~30 |
 | Art critic | 11.00% | ~23 |
-| Jigsaw | 10.00% | ~21 |
+| Jigsaw | 11.00% | ~23 |
 | Peace | 10.00% | ~21 |
 | Lost | 9.00% | ~19 |
 | An act of courage | 7.00% | ~15 |

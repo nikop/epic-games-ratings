@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -4029,9 +4029,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 740
+      "UsersEstimate": 754
     },
     {
       "ID": "MiCasaSuCasa",
@@ -4116,8 +4116,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:07:28.307705+00:00",
+  "LastChanged_Achievements": "2024-01-14T03:11:24.7138366+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.1590179+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:54:25.5272432+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:07:28.30774+00:00"
+  "LastUpdate_Ratings": "2024-01-14T02:58:07.3441158+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:11:24.7138726+00:00"
 }

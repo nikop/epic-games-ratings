@@ -1,37 +1,37 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.47 (Ranked 666)  
+Rating: 4.47 (Ranked 665)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,192 |
-| Voices from the Past | 76.00% | ~1,078 |
-| Space Traveler | 76.00% | ~1,078 |
-| Demigod | 73.00% | ~1,036 |
+| Another Life | 84.00% | ~1,193 |
+| Voices from the Past | 76.00% | ~1,079 |
+| Space Traveler | 76.00% | ~1,079 |
+| Demigod | 73.00% | ~1,037 |
 | The Great Destroyer | 72.00% | ~1,022 |
-| Shields Down | 69.00% | ~979 |
-| Helping Hand | 64.00% | ~908 |
-| Safe Home | 64.00% | ~908 |
-| Paragon | 60.00% | ~851 |
-| Old Days Born Anew | 58.00% | ~823 |
-| Full Arsenal | 54.00% | ~766 |
-| Controlled Demolition | 53.00% | ~752 |
+| Shields Down | 69.00% | ~980 |
+| Helping Hand | 65.00% | ~923 |
+| Safe Home | 64.00% | ~909 |
+| Paragon | 60.00% | ~852 |
+| Old Days Born Anew | 59.00% | ~838 |
+| Full Arsenal | 54.00% | ~767 |
+| Controlled Demolition | 53.00% | ~753 |
 | Payback | 50.00% | ~710 |
 | Huntress | 50.00% | ~710 |
-| Born to Drift | 49.00% | ~695 |
+| Born to Drift | 49.00% | ~696 |
 | Relentless | 46.00% | ~653 |
-| The Path Forward | 43.00% | ~610 |
+| The Path Forward | 43.00% | ~611 |
 | Disruption | 42.00% | ~596 |
 | Phoenix | 42.00% | ~596 |
-| Cult Slayer | 39.00% | ~553 |
-| Origin | 38.00% | ~539 |
-| It Was An Accident | 38.00% | ~539 |
+| Cult Slayer | 39.00% | ~554 |
+| Origin | 38.00% | ~540 |
+| It Was An Accident | 38.00% | ~540 |
 | Set in Motion | 36.00% | ~511 |
 | In the Eye of the Storm | 36.00% | ~511 |
-| The Crimson Void | 33.00% | ~468 |
-| The Nameless Dread | 33.00% | ~468 |
+| The Crimson Void | 33.00% | ~469 |
+| The Nameless Dread | 33.00% | ~469 |
 | Time to Spear | 30.00% | ~426 |
 | Mastery of Weapons | 29.00% | ~412 |
 | Disciple | 29.00% | ~412 |
@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~142 |
 | At Least You Tried | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,419 (Ranked 274)  
+Progressed: 1,420 (Ranked 274)  
 Completed: 19 (1.34%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,6 +270,7 @@ Completed: 19 (1.34%) (Ranked 156)
 | 2024-01-11 | 1,412 | 18 |
 | 2024-01-12 | 1,416 | 19 |
 | 2024-01-13 | 1,419 | 19 |
+| 2024-01-14 | 1,420 | 19 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

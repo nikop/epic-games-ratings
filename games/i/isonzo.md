@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,064 |
-| Tutti Eroi! | 50.00% | ~4,964 |
-| Peak Performance | 45.00% | ~4,468 |
-| Avanti Savoia! | 44.00% | ~4,369 |
-| Mamma Mia! | 35.00% | ~3,475 |
-| Gabriele D'Annunzio | 32.00% | ~3,177 |
-| Conrad von Hotzensocks | 31.00% | ~3,078 |
+| You Shall Not Pass | 51.00% | ~5,065 |
+| Tutti Eroi! | 50.00% | ~4,966 |
+| Peak Performance | 45.00% | ~4,469 |
+| Avanti Savoia! | 44.00% | ~4,370 |
+| Mamma Mia! | 35.00% | ~3,476 |
+| Gabriele D'Annunzio | 32.00% | ~3,178 |
+| Conrad von Hotzensocks | 31.00% | ~3,079 |
 | Silver Lining | 27.00% | ~2,681 |
 | Aurelio Baruzzi | 20.00% | ~1,986 |
 | Decimation | 20.00% | ~1,986 |
@@ -24,9 +24,9 @@ Number of Ratings: 98  (23.09.2022)
 | Luigi Cadorna | 16.00% | ~1,589 |
 | The Lion of the Isonzo | 14.00% | ~1,390 |
 | Uomo Universale | 13.00% | ~1,291 |
-| Die Bosniaken Kommen! | 12.00% | ~1,191 |
-| Dirty Dozen | 12.00% | ~1,191 |
-| Shaken, Not Stirred | 12.00% | ~1,191 |
+| Die Bosniaken Kommen! | 12.00% | ~1,192 |
+| Dirty Dozen | 12.00% | ~1,192 |
+| Shaken, Not Stirred | 12.00% | ~1,192 |
 | Machiavelli | 11.00% | ~1,092 |
 | The Devil's Paintbrush | 10.00% | ~993 |
 | Thus With A Kiss | 10.00% | ~993 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Tosca | 8.00% | ~794 |
 | 12th Bottle of the Isonzo | 6.00% | ~596 |
 | The Enlightment | 6.00% | ~596 |
-| Cercatore d'Oro | 5.00% | ~496 |
+| Cercatore d'Oro | 5.00% | ~497 |
 | Generalissimo | 4.00% | ~397 |
 | "O La Vittoria, O Tutti Accoppati" | 3.00% | ~298 |
 | Seeing Red | 3.00% | ~298 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,929 (Ranked 184)  
+Progressed: 9,931 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,6 +315,7 @@ Completed: 10 (0.10%) (Ranked 315)
 | 2024-01-11 | 9,904 | 10 |
 | 2024-01-12 | 9,913 | 10 |
 | 2024-01-13 | 9,929 | 10 |
+| 2024-01-14 | 9,931 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 479)  
 Sum: 341 (Ranked 372)  

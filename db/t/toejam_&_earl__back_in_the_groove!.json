@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58781,
+  "EOS_Progressed": 58782,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -15866,6 +15866,11 @@
       "Time": "2024-01-14T02:02:49.4835569+00:00",
       "NumProgressed": 58781,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-14T03:06:44.6246115+00:00",
+      "NumProgressed": 58782,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -15941,7 +15946,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "FlyingPresent",
@@ -16268,7 +16273,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58781,
+      "Progressed": 58782,
       "Completed": 6
     }
   ],
@@ -16276,8 +16281,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-14T02:02:49.4835568+00:00",
-  "LastUpdate_AppInfo": "2024-01-07T02:57:02.3766793+00:00",
-  "LastUpdate_Ratings": "2024-01-14T01:54:54.2088876+00:00",
-  "LastUpdate_Achievements": "2024-01-14T02:02:49.4836422+00:00"
+  "LastChanged_Achievements": "2024-01-14T03:06:44.6246111+00:00",
+  "LastUpdate_AppInfo": "2024-01-14T02:57:29.3003234+00:00",
+  "LastUpdate_Ratings": "2024-01-14T02:58:36.3717998+00:00",
+  "LastUpdate_Achievements": "2024-01-14T03:06:44.6247105+00:00"
 }
