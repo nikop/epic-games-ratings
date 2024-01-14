@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6337,
+  "EOS_Progressed": 6338,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13236,6 +13236,11 @@
       "Time": "2024-01-14T18:06:56.4930601+00:00",
       "NumProgressed": 6337,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T19:04:44.0551502+00:00",
+      "NumProgressed": 6338,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13264,7 +13269,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13392,7 +13397,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13414,9 +13419,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1648
+      "UsersEstimate": 1584
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13431,15 +13436,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6337,
+      "Progressed": 6338,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:06:56.4930597+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:04:44.05515+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:00:39.1099017+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:06:56.4931268+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:04.0520657+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:04:44.0552418+00:00"
 }

@@ -30,7 +30,7 @@ Number of Ratings: 154  (23.09.2022)
 | Beware Moto Bugs! | 37.00% | ~258 |
 | Cleared Sonic CD | 36.00% | ~251 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 32.00% | ~223 |
-| Lucky Hedgehog | 28.00% | ~195 |
+| Lucky Hedgehog | 29.00% | ~202 |
 | To the Mirror World | 26.00% | ~181 |
 | All Clear! | 26.00% | ~181 |
 | Movie Maniac | 18.00% | ~125 |

@@ -5,24 +5,24 @@ Rating: 4.76 (Ranked 135)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,510 |
-| Flanked! | 75.00% | ~3,026 |
-| Economics 101 | 59.00% | ~2,380 |
-| Get Rich Quick | 41.00% | ~1,654 |
+| You and what Army? | 87.00% | ~3,511 |
+| Flanked! | 75.00% | ~3,027 |
+| Economics 101 | 59.00% | ~2,381 |
+| Get Rich Quick | 41.00% | ~1,655 |
 | Do the Splits | 37.00% | ~1,493 |
-| Maestro | 25.00% | ~1,008 |
+| Maestro | 25.00% | ~1,009 |
 | Full Employment | 18.00% | ~726 |
-| Clay Fighter | 16.00% | ~645 |
-| Nowhere left to Hide | 13.00% | ~524 |
+| Clay Fighter | 16.00% | ~646 |
+| Nowhere left to Hide | 13.00% | ~525 |
 | All Ovens Blazing | 12.00% | ~484 |
 | Boulder Clash | 12.00% | ~484 |
 | Held Back by the Roots | 11.00% | ~444 |
-| Well Supplied | 10.00% | ~403 |
-| Sniped | 7.00% | ~282 |
-| Leave Them no Cake | 7.00% | ~282 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~282 |
-| Damage Control | 7.00% | ~282 |
-| Master of the Brawl | 7.00% | ~282 |
+| Well Supplied | 10.00% | ~404 |
+| Sniped | 7.00% | ~283 |
+| Leave Them no Cake | 7.00% | ~283 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~283 |
+| Damage Control | 7.00% | ~283 |
+| Master of the Brawl | 7.00% | ~283 |
 | Your Biggest Fans | 6.00% | ~242 |
 | A Secret Recipe | 6.00% | ~242 |
 | An Ally in Need | 5.00% | ~202 |
@@ -39,7 +39,7 @@ Rating: 4.76 (Ranked 135)
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,034 (Ranked 218)  
+Progressed: 4,036 (Ranked 218)  
 Completed: 11 (0.27%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 11 (0.27%) (Ranked 265)
 | 2024-01-11 | 4,023 | 11 |
 | 2024-01-12 | 4,026 | 11 |
 | 2024-01-13 | 4,032 | 11 |
-| 2024-01-14 | 4,034 | 11 |
+| 2024-01-14 | 4,036 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

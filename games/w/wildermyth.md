@@ -14,34 +14,34 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 6.00% | ~96 |
 | Cutthroat Competitors | 6.00% | ~96 |
 | Daybreak | 6.00% | ~96 |
-| Completing the Look | 4.00% | ~64 |
 | War Endured | 4.00% | ~64 |
 | Core Failure | 4.00% | ~64 |
 | A Mythic Menagerie | 3.00% | ~48 |
+| Completing the Look | 3.00% | ~48 |
 | Who's Counting? | 3.00% | ~48 |
 | Let Me Get My Chisel | 2.00% | ~32 |
 | Thematic Divergence | 2.00% | ~32 |
 | Pyrrhic Victory | 2.00% | ~32 |
 | Echoes Die | 2.00% | ~32 |
-| A Story of Heroes | 2.00% | ~32 |
 | Legends Never Die | 1.00% | ~16 |
 | Chain Reaction | 1.00% | ~16 |
 | In Soil, In Smoke | 1.00% | ~16 |
 | Everfading | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
+| A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | No Time for Clawmonsters | 0.90% | ~14 |
-| Storied Past | 0.80% | ~13 |
-| Worldwalker | 0.80% | ~13 |
-| Bonebreakers | 0.80% | ~13 |
 | All My Birds, Safely Home | 0.80% | ~13 |
 | Bears are Scary | 0.80% | ~13 |
-| Tempest | 0.80% | ~13 |
+| Storied Past | 0.70% | ~11 |
+| Worldwalker | 0.70% | ~11 |
+| Bonebreakers | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
+| Tempest | 0.70% | ~11 |
 | We Emerge Changed | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | No More Nightmares | 0.60% | ~10 |
@@ -51,19 +51,19 @@ Number of Ratings: 45  (23.09.2022)
 | Lochias's Hunger | 0.60% | ~10 |
 | The Power of Friendship | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |
-| Drauvenslayers | 0.30% | ~5 |
-| Back into the Sea | 0.30% | ~5 |
-| Thwack! | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
+| Drauvenslayers | 0.20% | ~3 |
+| Back into the Sea | 0.20% | ~3 |
 | War-Ender | 0.20% | ~3 |
 | Symbiosis | 0.20% | ~3 |
+| Thwack! | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~2 |
 | Solid as the Hills | 0.10% | ~2 |
 | We Call That Mortificient! | 0.10% | ~2 |
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,600 (Ranked 266)  
+Progressed: 1,601 (Ranked 266)  
 Completed: 7 (0.44%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 7 (0.44%) (Ranked 237)
 | 2024-01-11 | 1,597 | 7 |
 | 2024-01-12 | 1,598 | 7 |
 | 2024-01-13 | 1,599 | 7 |
-| 2024-01-14 | 1,600 | 7 |
+| 2024-01-14 | 1,601 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 529)  
 Sum: 29 (Ranked 549)  

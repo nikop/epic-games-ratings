@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -3441,9 +3441,9 @@
       "ID": "PitSoul",
       "SetID": "db30heh",
       "Name": "Your Soul Is Mine",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 355
     },
     {
       "ID": "PriestBroom",
@@ -3521,9 +3521,9 @@
       "ID": "RogueKing",
       "SetID": "db30heh",
       "Name": "Long Live The King",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 244
     },
     {
       "ID": "RogueNaked",
@@ -3600,8 +3600,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:07:35.6595536+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:05:12.6257757+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:02:17.3571062+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:07:35.6595947+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:00:09.5719975+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:05:12.6258196+00:00"
 }

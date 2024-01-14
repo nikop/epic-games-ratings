@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2326,
+  "EOS_Progressed": 2327,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 328,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4548,6 +4548,11 @@
       "Time": "2024-01-14T18:11:49.9461169+00:00",
       "NumProgressed": 2326,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-14T19:10:00.9965062+00:00",
+      "NumProgressed": 2327,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4575,7 +4580,7 @@
       "Name": "Powerful Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_04",
@@ -4815,7 +4820,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACH_35",
@@ -4846,7 +4851,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2326,
+      "Progressed": 2327,
       "Completed": 3
     }
   ],
@@ -4854,8 +4859,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:49.9461164+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:10:00.996506+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:00:02.5538774+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:49.9461639+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:58:40.7552115+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:10:00.996558+00:00"
 }

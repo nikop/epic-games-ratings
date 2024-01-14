@@ -1,29 +1,29 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 399)  
+Rating: 4.61 (Ranked 398)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~54,142 |
-| Get Busy Living | 15.00% | ~32,485 |
-| Samuel Norton | 9.00% | ~19,491 |
-| Spare The Rod | 4.00% | ~8,663 |
-| Don't Put Me In The Dark | 3.00% | ~6,497 |
-| Wait and Hope | 3.00% | ~6,497 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,497 |
-| Throw The Book At Them | 2.00% | ~4,331 |
-| Iron Bars | 2.00% | ~4,331 |
+| Stone Walls | 25.00% | ~54,149 |
+| Get Busy Living | 15.00% | ~32,489 |
+| Samuel Norton | 9.00% | ~19,494 |
+| Spare The Rod | 4.00% | ~8,664 |
+| Don't Put Me In The Dark | 3.00% | ~6,498 |
+| Wait and Hope | 3.00% | ~6,498 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,498 |
+| Throw The Book At Them | 2.00% | ~4,332 |
+| Iron Bars | 2.00% | ~4,332 |
 | D.B. Cooper | 1.00% | ~2,166 |
-| Reformation | 0.60% | ~1,299 |
+| Reformation | 0.60% | ~1,300 |
 | Crowd Control | 0.50% | ~1,083 |
 | Freedom | 0.40% | ~866 |
 | Confined | 0.30% | ~650 |
 | It's Not What You Know... | 0.10% | ~217 |
 | ... It's What You Can Prove | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,569 (Ranked 80)  
+Progressed: 216,596 (Ranked 80)  
 Completed: 13 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,14 +292,14 @@ Completed: 13 (0.01%) (Ranked 376)
 | 2024-01-11 | 215,152 | 13 |
 | 2024-01-12 | 215,596 | 13 |
 | 2024-01-13 | 216,171 | 13 |
-| 2024-01-14 | 216,569 | 13 |
+| 2024-01-14 | 216,596 | 13 |
 ## Awards
-Max (Great for Beginners): 637  (Ranked 203)  
-Sum: 4,897 (Ranked 153)  
-Diff (max vs sum): 50  
+Max (Great for Beginners): 640  (Ranked 202)  
+Sum: 4,901 (Ranked 153)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 637 |
+| This game is Great for Beginners | 640 |
 | This game is Extremely Fun | 616 |
 | This game is Highly Recommended | 585 |
 | This game has Quickly Understood Controls | 579 |
@@ -308,7 +308,7 @@ Diff (max vs sum): 50
 | This game has Amazing Storytelling | 519 |
 | This game has Amazing Characters | 476 |
 | This game is Educational | 459 |
-| This game has a Creative Community | 376 |
+| This game has a Creative Community | 377 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -669,4 +669,4 @@ Diff (max vs sum): 50
 | 2024-01-11 | 4.61 | - | 633 | 4,874 |
 | 2024-01-12 | 4.61 | - | 633 | 4,882 |
 | 2024-01-13 | 4.61 | - | 637 | 4,891 |
-| 2024-01-14 | 4.61 | - | 637 | 4,897 |
+| 2024-01-14 | 4.61 | - | 640 | 4,901 |

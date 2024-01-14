@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 386,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -700,9 +700,9 @@
       "ID": "Achievement16",
       "SetID": "9fa3l5n",
       "Name": "Under the Hood",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement17",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:06:18.5448418+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:04:17.8965046+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.4986492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:00:16.7601+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:06:18.5448731+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:58:49.3906834+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:04:17.896554+00:00"
 }

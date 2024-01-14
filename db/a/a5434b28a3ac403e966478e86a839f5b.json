@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 301,
+  "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 961,
+  "EOS_Progressed": 962,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -3370,6 +3370,11 @@
       "Time": "2024-01-14T11:08:59.0302048+00:00",
       "NumProgressed": 961,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-14T19:08:53.8464589+00:00",
+      "NumProgressed": 962,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3390,7 +3395,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_eou2",
@@ -3485,14 +3490,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 961,
+      "Progressed": 962,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:10:15.2212741+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:08:53.8464586+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.9580247+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:58:59.7677922+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:10:15.2213011+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:57:59.6772172+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:08:53.8464891+00:00"
 }

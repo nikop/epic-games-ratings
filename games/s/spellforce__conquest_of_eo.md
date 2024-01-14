@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~127 |
-| Enough rooms to swing a cat | 78.00% | ~112 |
-| First to the post | 78.00% | ~112 |
-| A kind of Magic | 69.00% | ~99 |
+| Home Sweet Home | 88.00% | ~128 |
+| Enough rooms to swing a cat | 79.00% | ~115 |
+| First to the post | 78.00% | ~113 |
+| A kind of Magic | 69.00% | ~100 |
 | Connected | 58.00% | ~84 |
 | Expansion | 56.00% | ~81 |
 | Mine! | 54.00% | ~78 |
-| Harvest Time | 53.00% | ~76 |
-| Artificer's Apprentice | 44.00% | ~63 |
-| Fly the friendly Sky | 42.00% | ~60 |
+| Harvest Time | 52.00% | ~75 |
+| Artificer's Apprentice | 43.00% | ~62 |
+| Fly the friendly Sky | 42.00% | ~61 |
 | Get out of here! | 40.00% | ~58 |
-| Necromancer's Apprentice | 37.00% | ~53 |
+| Necromancer's Apprentice | 37.00% | ~54 |
 | Alchemist's Apprentice | 36.00% | ~52 |
-| Friend of Lyraine | 33.00% | ~48 |
+| Friend of Lyraine | 32.00% | ~46 |
 | Redecorating | 29.00% | ~42 |
 | The Circle | 29.00% | ~42 |
 | Bad JuJu | 24.00% | ~35 |
 | Friend of Sevenkeeps | 21.00% | ~30 |
-| Slave to the rhythm | 19.00% | ~27 |
-| Castle Meldec | 19.00% | ~27 |
+| Slave to the rhythm | 19.00% | ~28 |
+| Castle Meldec | 19.00% | ~28 |
 | Sevenkeeps Seat of Kings | 18.00% | ~26 |
 | Friend of Alluvyan | 15.00% | ~22 |
-| Friend of Gillyshire | 15.00% | ~22 |
 | Friend of Connach | 15.00% | ~22 |
+| Friend of Gillyshire | 14.00% | ~20 |
 | Stormwatch Faste | 13.00% | ~19 |
 | Friend of Orgash | 13.00% | ~19 |
 | Friend of Silver Drift Hollow | 13.00% | ~19 |
-| Friend of Bastion | 13.00% | ~19 |
 | Silver Drift Hollow Mine | 12.00% | ~17 |
+| Friend of Bastion | 12.00% | ~17 |
 | Break Free | 12.00% | ~17 |
 | Philo's Tale | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144 (Ranked 467)  
+Progressed: 145 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 140 | 0 |
 | 2024-01-12 | 142 | 0 |
 | 2024-01-13 | 144 | 0 |
+| 2024-01-14 | 145 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,11 +181,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3454,
-  "EOS_Completed": 27,
+  "EOS_Progressed": 3456,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 107,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.78,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -6516,6 +6516,11 @@
       "Time": "2024-01-14T18:06:09.8981358+00:00",
       "NumProgressed": 3454,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T19:04:11.9864041+00:00",
+      "NumProgressed": 3456,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -6535,7 +6540,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6551,7 +6556,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6559,7 +6564,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -6583,7 +6588,7 @@
       "Name": "No more holding back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6591,7 +6596,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3283
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6599,7 +6604,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -6607,7 +6612,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6631,7 +6636,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6639,7 +6644,7 @@
       "Name": "I chose my shackles",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6671,7 +6676,7 @@
       "Name": "True power",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6679,7 +6684,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -6703,7 +6708,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2590
+      "UsersEstimate": 2592
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6711,7 +6716,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6719,7 +6724,7 @@
       "Name": "Meltridge",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -6735,7 +6740,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6743,7 +6748,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2627
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6751,7 +6756,7 @@
       "Name": "Thornbarrow",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6759,15 +6764,15 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1106
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6799,7 +6804,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6831,7 +6836,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2074
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6855,7 +6860,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -6863,7 +6868,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6871,7 +6876,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6879,7 +6884,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6887,7 +6892,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6903,7 +6908,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2523
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6911,7 +6916,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -6935,7 +6940,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -6943,23 +6948,23 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3454,
-      "Completed": 27
+      "Progressed": 3456,
+      "Completed": 28
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:06:09.8981355+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:04:11.9864039+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:03:43.4958606+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:06:09.8981949+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:00:31.9052261+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:04:11.9864757+00:00"
 }

@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151167,
+  "EOS_Progressed": 151173,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36699,6 +36699,11 @@
       "Time": "2024-01-14T18:10:16.0484342+00:00",
       "NumProgressed": 151167,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-14T19:08:54.5696024+00:00",
+      "NumProgressed": 151173,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36710,7 +36715,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "advlevel02",
@@ -36878,7 +36883,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16628
+      "UsersEstimate": 16629
     },
     {
       "ID": "chest02",
@@ -36974,7 +36979,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12093
+      "UsersEstimate": 12094
     },
     {
       "ID": "craft02",
@@ -37262,7 +37267,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "jackslot02",
@@ -37366,7 +37371,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7558
+      "UsersEstimate": 7559
     },
     {
       "ID": "master02",
@@ -37486,7 +37491,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12093
+      "UsersEstimate": 12094
     },
     {
       "ID": "sell02",
@@ -37526,7 +37531,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16628
+      "UsersEstimate": 16629
     },
     {
       "ID": "twinenchant01",
@@ -37605,15 +37610,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151167,
+      "Progressed": 151173,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:10:16.0484328+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:08:54.5696022+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:04:34.6425195+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:10:16.0486387+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:03:05.7989784+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:08:54.5698847+00:00"
 }

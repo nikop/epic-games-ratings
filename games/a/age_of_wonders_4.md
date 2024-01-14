@@ -5,12 +5,12 @@ Rating: 4.63 (Ranked 356)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 18.00% | ~1,303 |
-| Realm Estate | 16.00% | ~1,158 |
+| Secret Technique | 18.00% | ~1,304 |
+| Realm Estate | 16.00% | ~1,159 |
 | A Wonderful Discovery | 15.00% | ~1,086 |
 | Walls Cannot Stop Us | 14.00% | ~1,014 |
-| From Friends to Family | 13.00% | ~941 |
-| Bone Peddler | 11.00% | ~796 |
+| From Friends to Family | 12.00% | ~869 |
+| Bone Peddler | 11.00% | ~797 |
 | Magical Synergy | 10.00% | ~724 |
 | Full Ascension | 9.00% | ~652 |
 | There Can Only Be One! | 8.00% | ~579 |
@@ -19,7 +19,7 @@ Rating: 4.63 (Ranked 356)
 | Valley of Wonders | 7.00% | ~507 |
 | In a Liege of Your Own | 7.00% | ~507 |
 | Intimidation Tactics | 7.00% | ~507 |
-| But this one is mine | 6.00% | ~434 |
+| But this one is mine | 6.00% | ~435 |
 | Return of the Wizard King | 5.00% | ~362 |
 | Enchanted Archipelago | 5.00% | ~362 |
 | Digging for Treasure | 5.00% | ~362 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,240 (Ranked 197)  
+Progressed: 7,242 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-11 | 7,195 | 7 |
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
-| 2024-01-14 | 7,240 | 8 |
+| 2024-01-14 | 7,242 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 238 (Ranked 407)  

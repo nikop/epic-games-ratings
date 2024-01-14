@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1110,9 +1110,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232247,
+  "EOS_Progressed": 232251,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30705,6 +30705,11 @@
       "Time": "2024-01-14T18:11:44.4175144+00:00",
       "NumProgressed": 232247,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T19:09:56.8761387+00:00",
+      "NumProgressed": 232251,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30716,7 +30721,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46449
+      "UsersEstimate": 46450
     },
     {
       "ID": "ACH_BASE_10",
@@ -30724,7 +30729,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60384
+      "UsersEstimate": 60385
     },
     {
       "ID": "ACH_BASE_11",
@@ -30772,7 +30777,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20902
+      "UsersEstimate": 20903
     },
     {
       "ID": "ACH_BASE_18",
@@ -30804,7 +30809,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6967
+      "UsersEstimate": 6968
     },
     {
       "ID": "ACH_BASE_21",
@@ -30844,7 +30849,7 @@
       "Name": "Hard",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_26",
@@ -30860,7 +30865,7 @@
       "Name": "Sensory overload",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_28",
@@ -30868,7 +30873,7 @@
       "Name": "Transonic Blur",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_29",
@@ -30916,7 +30921,7 @@
       "Name": "Not the Men-of-Iron",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_BASE_34",
@@ -30940,7 +30945,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6967
+      "UsersEstimate": 6968
     },
     {
       "ID": "ACH_BASE_5",
@@ -30964,7 +30969,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30192
+      "UsersEstimate": 30193
     },
     {
       "ID": "ACH_BASE_8",
@@ -30980,14 +30985,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20902
+      "UsersEstimate": 20903
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232247,
+      "Progressed": 232251,
       "Completed": 5
     }
   ],
@@ -30995,8 +31000,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-12T02:58:09.1289031+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:44.417514+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:56.8761384+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:21.9676344+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:44.4176792+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:31.6637929+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:56.8762705+00:00"
 }

@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,208 |
-| Worth it | 63.00% | ~43,783 |
-| Eagle Eye | 55.00% | ~38,223 |
-| Corpseman I | 39.00% | ~27,104 |
-| Blast fishing | 37.00% | ~25,714 |
-| Not alone | 32.00% | ~22,239 |
-| Headhunter I | 26.00% | ~18,069 |
-| Developers, Developers, Developers | 24.00% | ~16,679 |
-| Manual Labour I | 24.00% | ~16,679 |
-| Basic Training | 23.00% | ~15,984 |
-| Furchtlos und Treu | 13.00% | ~9,035 |
-| Gott Mit Uns | 12.00% | ~8,340 |
+| Setting an example | 78.00% | ~54,214 |
+| Worth it | 63.00% | ~43,788 |
+| Eagle Eye | 55.00% | ~38,228 |
+| Corpseman I | 39.00% | ~27,107 |
+| Blast fishing | 37.00% | ~25,717 |
+| Not alone | 32.00% | ~22,242 |
+| Headhunter I | 26.00% | ~18,071 |
+| Developers, Developers, Developers | 24.00% | ~16,681 |
+| Manual Labour I | 24.00% | ~16,681 |
+| Basic Training | 23.00% | ~15,986 |
+| Furchtlos und Treu | 13.00% | ~9,036 |
+| Gott Mit Uns | 12.00% | ~8,341 |
 | This We'll Defend! | 9.00% | ~6,255 |
 | Providentiea Memor | 9.00% | ~6,255 |
 | For King and Country | 9.00% | ~6,255 |
@@ -52,21 +52,21 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~695 |
 | Corpseman III | 1.00% | ~695 |
 | Elite Player | 0.80% | ~556 |
-| Manual Labour III | 0.30% | ~208 |
+| Manual Labour III | 0.30% | ~209 |
 | War is better with friends II | 0.20% | ~139 |
 | Buddy | 0.20% | ~139 |
-| Gold Collector | 0.10% | ~69 |
-| Gold Hoarder | 0.10% | ~69 |
-| Silver Collector | 0.10% | ~69 |
-| Silver Hoarder | 0.10% | ~69 |
-| War is better with friends III | 0.10% | ~69 |
-| War is better with friends IV | 0.10% | ~69 |
-| Aimbot | 0.10% | ~69 |
-| Headhunter III | 0.10% | ~69 |
-| Comrade | 0.10% | ~69 |
-| Blood Brother | 0.10% | ~69 |
+| Gold Collector | 0.10% | ~70 |
+| Gold Hoarder | 0.10% | ~70 |
+| Silver Collector | 0.10% | ~70 |
+| Silver Hoarder | 0.10% | ~70 |
+| War is better with friends III | 0.10% | ~70 |
+| War is better with friends IV | 0.10% | ~70 |
+| Aimbot | 0.10% | ~70 |
+| Headhunter III | 0.10% | ~70 |
+| Comrade | 0.10% | ~70 |
+| Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,497 (Ranked 116)  
+Progressed: 69,505 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-11 | 69,213 | 4 |
 | 2024-01-12 | 69,294 | 4 |
 | 2024-01-13 | 69,417 | 4 |
-| 2024-01-14 | 69,497 | 4 |
+| 2024-01-14 | 69,505 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 838 (Ranked 290)  

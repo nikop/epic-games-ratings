@@ -146,8 +146,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~50 |
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
-| Pantheon of Gods | 0.30% | ~50 |
-| Play a Network Game | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
@@ -162,8 +160,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
 | Persia | 0.20% | ~34 |
+| Pantheon of Gods | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
+| Play a Network Game | 0.20% | ~34 |
 | Capturing Cities | 0.20% | ~34 |
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,799 (Ranked 169)  
+Progressed: 16,803 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,799 | 5 |
+| 2024-01-14 | 16,803 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,930 (Ranked 223)  

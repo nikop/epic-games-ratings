@@ -18,6 +18,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 0.30% | ~1,497 |
 | True Catholic | 0.30% | ~1,497 |
 | Blockader | 0.20% | ~998 |
+| Combined Arms | 0.20% | ~998 |
 | Defender of the Faith | 0.20% | ~998 |
 | Double the Love | 0.20% | ~998 |
 | It's all about luck | 0.20% | ~998 |
@@ -88,7 +89,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cities of Cibola | 0.10% | ~499 |
 | City of Cities | 0.10% | ~499 |
 | Colonial Management | 0.10% | ~499 |
-| Combined Arms | 0.10% | ~499 |
 | Consulate of the Sea | 0.10% | ~499 |
 | Copium Wars | 0.10% | ~499 |
 | Core-fu | 0.10% | ~499 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 498,960 (Ranked 42)  
+Progressed: 499,012 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-11 | 496,921 | 1 |
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
-| 2024-01-14 | 498,960 | 1 |
+| 2024-01-14 | 499,012 | 1 |
 ## Awards
 Max (Educational): 7,836  (Ranked 52)  
 Sum: 64,617 (Ranked 24)  

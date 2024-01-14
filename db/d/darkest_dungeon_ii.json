@@ -10872,9 +10872,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132803,
+  "EOS_Progressed": 132809,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 742,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39867,6 +39867,11 @@
       "Time": "2024-01-14T18:11:38.6519248+00:00",
       "NumProgressed": 132803,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T19:09:52.6521682+00:00",
+      "NumProgressed": 132809,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39886,7 +39891,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7968
+      "UsersEstimate": 7969
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40006,7 +40011,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9296
+      "UsersEstimate": 9297
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40038,7 +40043,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7968
+      "UsersEstimate": 7969
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40102,7 +40107,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7968
+      "UsersEstimate": 7969
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40118,7 +40123,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7968
+      "UsersEstimate": 7969
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40188,9 +40193,9 @@
       "ID": "driving_biome_clear_farm",
       "SetID": "64l4lke",
       "Name": "Harvest Festival",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5312
+      "UsersEstimate": 6640
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -40230,7 +40235,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10624
+      "UsersEstimate": 10625
     },
     {
       "ID": "hero_story_complete_all",
@@ -40414,7 +40419,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "combat_kill_collector",
@@ -40462,7 +40467,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40470,7 +40475,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "quest_complete_crusader",
@@ -40478,7 +40483,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40509,21 +40514,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132803,
+      "Progressed": 132809,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7672,
-      "Completed": 825
+      "Progressed": 7678,
+      "Completed": 826
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T17:58:44.8735794+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:38.6519243+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:52.652168+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:58:44.8735803+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:38.6520871+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:57:49.8306885+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:52.652334+00:00"
 }

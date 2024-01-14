@@ -777,7 +777,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7240,
+  "EOS_Progressed": 7242,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 1,
@@ -11227,6 +11227,11 @@
       "Time": "2024-01-14T18:06:53.2808987+00:00",
       "NumProgressed": 7240,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-14T19:04:41.83492+00:00",
+      "NumProgressed": 7242,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11350,7 +11355,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "23",
@@ -11366,7 +11371,7 @@
       "Name": "Secret Technique",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "25",
@@ -11382,7 +11387,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "27",
@@ -11396,9 +11401,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 941
+      "UsersEstimate": 869
     },
     {
       "ID": "29",
@@ -11702,7 +11707,7 @@
       "Name": "But this one is mine",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "60",
@@ -11717,13 +11722,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7240,
+      "Progressed": 7242,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7240,
+      "Progressed": 7242,
       "Completed": 8
     }
   ],
@@ -11731,8 +11736,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:06:53.2808983+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:04:41.8349198+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:57.2000466+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:06:53.2809983+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:55.6059197+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:04:41.8350059+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,11 +181,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1452,
+  "EOS_Progressed": 1453,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.24,
+  "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5196,6 +5196,11 @@
       "Time": "2024-01-14T17:04:19.9274134+00:00",
       "NumProgressed": 1452,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2024-01-14T19:04:06.4839776+00:00",
+      "NumProgressed": 1453,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 28,
@@ -5205,9 +5210,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 901
     },
     {
       "ID": "MQ01_2",
@@ -5215,7 +5220,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "MQ02_1",
@@ -5247,7 +5252,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "MQ03_1",
@@ -5263,7 +5268,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ03_3",
@@ -5271,7 +5276,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "MQ03_4",
@@ -5303,7 +5308,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MQ04_3",
@@ -5311,7 +5316,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "MQ05_1",
@@ -5367,7 +5372,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ06_4",
@@ -5383,7 +5388,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "MQ07_2",
@@ -5391,7 +5396,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "MQ08_1",
@@ -5407,7 +5412,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "MQ08_3",
@@ -5430,7 +5435,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1452,
+      "Progressed": 1453,
       "Completed": 47
     }
   ],
@@ -5438,8 +5443,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:06:01.5908858+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:04:06.4839771+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:04:29.7425811+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:06:01.5909215+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:03:02.7104191+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:04:06.4840136+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2792,9 +2792,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -3041,8 +3041,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:02.9257227+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:27.4478518+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.6411785+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:00:17.7052486+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:02.9257637+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:58:50.0108028+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:27.4479045+00:00"
 }

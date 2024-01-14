@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12322,
+  "EOS_Progressed": 12323,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15779,6 +15779,11 @@
       "Time": "2024-01-14T18:07:18.6389492+00:00",
       "NumProgressed": 12322,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-14T19:05:00.6373314+00:00",
+      "NumProgressed": 12323,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15790,7 +15795,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10227
+      "UsersEstimate": 10228
     },
     {
       "ID": "ACH02",
@@ -15862,7 +15867,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "ACH11",
@@ -15892,9 +15897,9 @@
       "ID": "ACH14",
       "SetID": "552d41m",
       "Name": "Liberty City Minute",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2218
     },
     {
       "ID": "ACH15",
@@ -15926,7 +15931,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "ACH19",
@@ -16021,7 +16026,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12322,
+      "Progressed": 12323,
       "Completed": 91
     }
   ],
@@ -16029,8 +16034,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:07:18.6389489+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:05:00.6373313+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:38.4304823+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:07:18.6390162+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:43.1452507+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:05:00.6374042+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2736,9 +2736,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44480,
+  "EOS_Progressed": 44481,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11291,6 +11291,11 @@
       "Time": "2024-01-14T17:04:12.3947771+00:00",
       "NumProgressed": 44480,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-14T19:03:59.1028583+00:00",
+      "NumProgressed": 44481,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11334,7 +11339,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5783
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -11358,7 +11363,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12454
+      "UsersEstimate": 12455
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -11406,7 +11411,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17347
+      "UsersEstimate": 17348
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -11494,7 +11499,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28022
+      "UsersEstimate": 28023
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11510,7 +11515,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11518,7 +11523,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19571
+      "UsersEstimate": 19572
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -11550,7 +11555,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21795
+      "UsersEstimate": 21796
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11574,7 +11579,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11614,7 +11619,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16902
+      "UsersEstimate": 16903
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -11630,7 +11635,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31136
+      "UsersEstimate": 31137
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11742,7 +11747,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -11798,7 +11803,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10230
+      "UsersEstimate": 10231
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -11814,7 +11819,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8006
+      "UsersEstimate": 8007
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -11829,15 +11834,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44480,
+      "Progressed": 44481,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-14T13:58:03.7271716+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:05:50.8194248+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:03:59.1028581+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:59:20.9435116+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:05:50.8195064+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:58:13.4679985+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:03:59.1029336+00:00"
 }

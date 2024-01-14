@@ -2,10 +2,10 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 467,
+  "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -729,6 +729,11 @@
       "Time": "2024-01-13T09:10:12.3072873+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T19:09:40.5465419+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -755,9 +760,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -773,7 +778,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Cast_First_Spell",
@@ -781,7 +786,7 @@
       "Name": "A kind of Magic",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Circle_Page",
@@ -795,9 +800,9 @@
       "ID": "Craft_First_Glyph",
       "SetID": "7b9f97e",
       "Name": "Artificer\u0027s Apprentice",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "Craft_First_Potion",
@@ -813,7 +818,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Defeat_Gor",
@@ -893,7 +898,7 @@
       "Name": "Slave to the rhythm",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "First_LevelUp",
@@ -901,7 +906,7 @@
       "Name": "First to the post",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "First_Node_Meld",
@@ -915,9 +920,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "HeroStory_Elynn",
@@ -965,7 +970,7 @@
       "Name": "Castle Meldec",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -1147,17 +1152,17 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "Max_Reputation_Goldenfields",
       "SetID": "7b9f97e",
       "Name": "Friend of Lyraine",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -1203,9 +1208,9 @@
       "ID": "Max_Reputation_Westguard",
       "SetID": "7b9f97e",
       "Name": "Friend of Bastion",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "Max_Reputation_Windholme",
@@ -1285,7 +1290,7 @@
       "Name": "Fly the friendly Sky",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1300,7 +1305,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
@@ -1308,8 +1313,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:21.5551065+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:40.5465417+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:54.7484391+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:21.5551551+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:53.8214771+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:40.5465964+00:00"
 }

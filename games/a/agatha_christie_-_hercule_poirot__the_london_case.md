@@ -34,11 +34,11 @@
 | The Scheme | 27.00% | ~31 |
 | Truth from within | 25.00% | ~28 |
 | A curious phrase | 22.00% | ~25 |
+| Evelyn Lakshmi Warbeck | 22.00% | ~25 |
 | The Suspects | 22.00% | ~25 |
-| Evelyn Lakshmi Warbeck | 21.00% | ~24 |
-| Horace Mountjoy | 20.00% | ~23 |
+| Horace Mountjoy | 21.00% | ~24 |
+| The Secrets | 21.00% | ~24 |
 | Johan Kristiansen | 20.00% | ~23 |
-| The Secrets | 20.00% | ~23 |
 | A peculiar fellow | 19.00% | ~21 |
 | Mortimer Ailsworth | 19.00% | ~21 |
 | Well-travelled | 18.00% | ~20 |

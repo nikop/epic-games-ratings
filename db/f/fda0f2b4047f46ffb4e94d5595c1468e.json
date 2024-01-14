@@ -5071,10 +5071,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 8488,
       "NumberOfAwardsMax": 2846
+    },
+    {
+      "Time": "2024-01-14T19:02:45.1560147+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8494,
+      "NumberOfAwardsMax": 2846
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8488,
+  "NumberOfAwards": 8494,
   "NumberOfAwardsMax": 2846,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5124,7 +5130,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 548
+      "Count": 554
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5151,9 +5157,9 @@
       "Count": 613
     }
   ],
-  "EOS_Progressed": 23825,
+  "EOS_Progressed": 23827,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1580,
+  "EOS_NewPlayers": 1564,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16476,6 +16482,11 @@
       "Time": "2024-01-14T18:10:00.2491239+00:00",
       "NumProgressed": 23825,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T19:08:43.3233261+00:00",
+      "NumProgressed": 23827,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16504,7 +16515,7 @@
       "Name": "A New Timeline",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 10483
+      "UsersEstimate": 10484
     },
     {
       "ID": "ach04",
@@ -16520,7 +16531,7 @@
       "Name": "Who Was That???",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ach06",
@@ -16528,7 +16539,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15963
+      "UsersEstimate": 15964
     },
     {
       "ID": "ach07",
@@ -16536,7 +16547,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10721
+      "UsersEstimate": 10722
     },
     {
       "ID": "ach08",
@@ -16576,7 +16587,7 @@
       "Name": "Annihilation",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ach13",
@@ -16600,7 +16611,7 @@
       "Name": "Give A Koin",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "ach16",
@@ -16616,7 +16627,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9768
+      "UsersEstimate": 9769
     },
     {
       "ID": "ach18",
@@ -16624,7 +16635,7 @@
       "Name": "Adventure Time",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "ach19",
@@ -16632,7 +16643,7 @@
       "Name": "King Slayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ach20",
@@ -16672,7 +16683,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6909
+      "UsersEstimate": 6910
     },
     {
       "ID": "ach25",
@@ -16696,7 +16707,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5956
+      "UsersEstimate": 5957
     },
     {
       "ID": "ach28",
@@ -16784,7 +16795,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7862
+      "UsersEstimate": 7863
     },
     {
       "ID": "ach39",
@@ -16792,7 +16803,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7624
+      "UsersEstimate": 7625
     },
     {
       "ID": "ach40",
@@ -16800,7 +16811,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "ach41",
@@ -16824,7 +16835,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7624
+      "UsersEstimate": 7625
     },
     {
       "ID": "ach44",
@@ -16832,7 +16843,7 @@
       "Name": "High Score, Is That Good?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ach45",
@@ -16887,16 +16898,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23825,
+      "Progressed": 23827,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-14T14:02:46.7918721+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:10:00.2491235+00:00",
+  "LastChanged": "2024-01-14T19:02:45.1560145+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:08:43.323326+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:04:04.6573604+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:10:00.2491995+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:02:45.1560153+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:08:43.3234254+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 201,
+  "EOS_Progressed": 202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1051,6 +1051,11 @@
       "Time": "2024-01-14T16:10:10.5259766+00:00",
       "NumProgressed": 201,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T19:10:01.898832+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1063,7 +1068,7 @@
       "Name": "The merciful one",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "id_11",
@@ -1135,7 +1140,7 @@
       "Name": "Field hand",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "id_20",
@@ -1191,7 +1196,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "id_32",
@@ -1199,7 +1204,7 @@
       "Name": "The brave little tailor",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "id_33",
@@ -1239,7 +1244,7 @@
       "Name": "Samaritan",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "id_42",
@@ -1375,7 +1380,7 @@
       "Name": "Well-to-do",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "id_58",
@@ -1423,7 +1428,7 @@
       "Name": "Archer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "id_63",
@@ -1439,7 +1444,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "id_8",
@@ -1462,7 +1467,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 201,
+      "Progressed": 202,
       "Completed": 0
     }
   ],
@@ -1470,8 +1475,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:51.0826709+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:10:01.8988317+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:57:52.0782283+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:51.0827325+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:57:14.1909734+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:10:01.8988774+00:00"
 }

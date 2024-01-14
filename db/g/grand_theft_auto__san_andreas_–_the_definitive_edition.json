@@ -2405,10 +2405,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1078,
       "NumberOfAwardsMax": 667
+    },
+    {
+      "Time": "2024-01-14T19:02:41.3641631+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1079,
+      "NumberOfAwardsMax": 667
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1078,
+  "NumberOfAwards": 1079,
   "NumberOfAwardsMax": 667,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2458,7 +2464,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2473,9 +2479,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19559,
+  "EOS_Progressed": 19562,
   "EOS_Completed": 77,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -20398,6 +20404,11 @@
       "Time": "2024-01-14T18:11:46.0064287+00:00",
       "NumProgressed": 19559,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2024-01-14T19:09:58.0975052+00:00",
+      "NumProgressed": 19562,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 35,
@@ -20409,7 +20420,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15843
+      "UsersEstimate": 15845
     },
     {
       "ID": "ACH02",
@@ -20457,7 +20468,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3716
+      "UsersEstimate": 3717
     },
     {
       "ID": "ACH08",
@@ -20465,7 +20476,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9780
+      "UsersEstimate": 9781
     },
     {
       "ID": "ACH09",
@@ -20489,7 +20500,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ACH12",
@@ -20513,7 +20524,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "ACH15",
@@ -20529,7 +20540,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "ACH17",
@@ -20577,7 +20588,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2739
     },
     {
       "ID": "ACH23",
@@ -20688,16 +20699,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19559,
+      "Progressed": 19562,
       "Completed": 77
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-14T16:02:57.8703165+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:46.0064283+00:00",
+  "LastChanged": "2024-01-14T19:02:41.3641629+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:58.097505+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:03:58.9690451+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:46.0065129+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:02:41.3641634+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:58.0975929+00:00"
 }

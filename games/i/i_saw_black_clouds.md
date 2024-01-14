@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Believer | 55.00% | ~230 |
+| End | 50.00% | ~209 |
 | Origin | 50.00% | ~209 |
-| End | 49.00% | ~205 |
 | Nonconsensual | 33.00% | ~138 |
 | Realist | 27.00% | ~113 |
 | Escape | 20.00% | ~84 |

@@ -34,7 +34,7 @@ Number of Ratings: 190  (23.09.2022)
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,465 (Ranked 241)  
+Progressed: 2,468 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,10 +71,10 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 2,364 | 0 |
 | 2024-01-12 | 2,396 | 0 |
 | 2024-01-13 | 2,437 | 0 |
-| 2024-01-14 | 2,465 | 0 |
+| 2024-01-14 | 2,468 | 0 |
 ## Awards
 Max (Great for Beginners): 63  (Ranked 431)  
-Sum: 445 (Ranked 347)  
+Sum: 446 (Ranked 347)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -83,7 +83,7 @@ Diff (max vs sum): 84
 | This game has Quickly Understood Controls | 56 |
 | This game is Relaxing | 51 |
 | This game is Extremely Fun | 45 |
-| This game has Amazing Characters | 43 |
+| This game has Amazing Characters | 44 |
 | This game is Educational | 42 |
 | This game has Amazing Storytelling | 41 |
 | This game has Realistic Visuals | 41 |
@@ -298,3 +298,4 @@ Diff (max vs sum): 84
 | 2024-01-11 | 4.40 | - | 63 | 378 |
 | 2024-01-12 | 4.40 | - | 63 | 442 |
 | 2024-01-13 | 4.40 | - | 63 | 445 |
+| 2024-01-14 | 4.40 | - | 63 | 446 |

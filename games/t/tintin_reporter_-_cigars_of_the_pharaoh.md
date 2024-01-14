@@ -22,8 +22,8 @@
 | Keep the Doctor Away | 10.00% | ~13 |
 | Just a Palm Tree | 10.00% | ~13 |
 | Eyes Shut | 10.00% | ~13 |
+| Under the Hood | 9.00% | ~12 |
 | Barking Dog | 9.00% | ~12 |
-| Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
 | Tintin, Reporter | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |

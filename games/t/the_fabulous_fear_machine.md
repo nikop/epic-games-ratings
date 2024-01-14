@@ -9,7 +9,7 @@
 | Jung's dream | 39.00% | ~36 |
 | The battle of Great Britain | 39.00% | ~36 |
 | Pulp! Where Monsters Dwell | 32.00% | ~29 |
-| A continent with chemistry | 29.00% | ~27 |
+| A continent with chemistry | 30.00% | ~28 |
 | The happy farmer girl | 27.00% | ~25 |
 | Giant | 26.00% | ~24 |
 | A rival with no options | 26.00% | ~24 |

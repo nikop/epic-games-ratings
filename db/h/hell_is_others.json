@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 787,
+  "Ranking_Rating": 773,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1421,10 +1421,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 377,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-01-14T19:00:29.4552628+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 378,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 377,
+  "NumberOfAwards": 378,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1444,7 +1450,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1491,7 +1497,7 @@
   ],
   "EOS_Progressed": 260662,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27694,9 +27700,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-14T07:00:22.5269785+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:06:15.7623154+00:00",
+  "LastChanged": "2024-01-14T19:00:29.4552625+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:04:16.0349749+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:03:39.5233171+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:06:15.7624628+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:00:29.4552631+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:04:16.0351114+00:00"
 }

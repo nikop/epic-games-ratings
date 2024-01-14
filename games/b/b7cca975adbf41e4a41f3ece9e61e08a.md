@@ -5,11 +5,11 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,368 |
-| I Challenge You To Save More Money! | 81.00% | ~15,066 |
-| I Love How Tough You Are | 65.00% | ~12,090 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,788 |
-| What I Want Is You | 53.00% | ~9,858 |
+| Last Night...Did We... | 88.00% | ~16,369 |
+| I Challenge You To Save More Money! | 81.00% | ~15,067 |
+| I Love How Tough You Are | 65.00% | ~12,091 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,789 |
+| What I Want Is You | 53.00% | ~9,859 |
 | To Be Or Not To Be | 50.00% | ~9,300 |
 | Are You Alright? | 47.00% | ~8,742 |
 | Love Actually | 42.00% | ~7,812 |
@@ -48,7 +48,7 @@ Rating: 4.70 (Ranked 220)
 | Tall; Grande; Venti | 2.00% | ~372 |
 | Limerence | 2.00% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,600 (Ranked 161)  
+Progressed: 18,601 (Ranked 161)  
 Completed: 324 (1.74%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 324 (1.74%) (Ranked 145)
 | 2024-01-11 | 18,396 | 316 |
 | 2024-01-12 | 18,482 | 319 |
 | 2024-01-13 | 18,544 | 320 |
-| 2024-01-14 | 18,600 | 324 |
+| 2024-01-14 | 18,601 | 324 |
 ## Awards
 Max (Impact the Story): 38  (Ranked 493)  
 Sum: 38 (Ranked 531)  

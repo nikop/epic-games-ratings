@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 352,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Completed": 41,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 307,
-  "EOS_Completed": 30,
+  "EOS_Completed": 31,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.77,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 10.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -885,6 +885,11 @@
       "Time": "2024-01-14T15:09:48.4531262+00:00",
       "NumProgressed": 307,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-14T19:09:46.2854324+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 17,
@@ -1032,15 +1037,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 307,
-      "Completed": 30
+      "Completed": 31
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:29.8863743+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:46.2854322+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:32.1176252+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:58:02.4971266+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:29.8863892+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:57:20.7456702+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:46.2854468+00:00"
 }

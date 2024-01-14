@@ -9009,9 +9009,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760746,
+  "EOS_Progressed": 760756,
   "EOS_Completed": 12988,
-  "EOS_NewPlayers": 4046,
+  "EOS_NewPlayers": 4029,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33789,6 +33789,11 @@
       "Time": "2024-01-14T18:11:01.2993939+00:00",
       "NumProgressed": 760746,
       "NumCompleted": 12988
+    },
+    {
+      "Time": "2024-01-14T19:09:26.3132906+00:00",
+      "NumProgressed": 760756,
+      "NumCompleted": 12988
     }
   ],
   "TotalAchievements": 60,
@@ -33816,7 +33821,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "04_Vengeance_H3",
@@ -33864,7 +33869,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "10_Wude_H4",
@@ -33872,7 +33877,7 @@
       "Name": "Iron Money",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "11_Wude_H5",
@@ -33888,7 +33893,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7607
+      "UsersEstimate": 7608
     },
     {
       "ID": "13_LowAge",
@@ -33944,7 +33949,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -33952,7 +33957,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -33960,7 +33965,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7607
+      "UsersEstimate": 7608
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -33968,7 +33973,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -33976,7 +33981,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38037
+      "UsersEstimate": 38038
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -33984,7 +33989,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "25_ShrineMind",
@@ -33992,7 +33997,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7607
+      "UsersEstimate": 7608
     },
     {
       "ID": "26_ShrineSpirit",
@@ -34008,7 +34013,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -34024,7 +34029,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "30_ComboMid",
@@ -34048,7 +34053,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22822
+      "UsersEstimate": 22823
     },
     {
       "ID": "33_BladeOneShot",
@@ -34056,7 +34061,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4564
+      "UsersEstimate": 4565
     },
     {
       "ID": "34_TimedTakedown",
@@ -34064,7 +34069,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38037
+      "UsersEstimate": 38038
     },
     {
       "ID": "35_WideStrike",
@@ -34072,7 +34077,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7607
+      "UsersEstimate": 7608
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -34136,7 +34141,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -34279,21 +34284,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70047,
+      "Progressed": 70057,
       "Completed": 10810
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760746,
+      "Progressed": 760756,
       "Completed": 12988
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-14T15:03:05.9264511+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:01.2993935+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:26.3132904+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:04:22.7687027+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:01.2995243+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:02:57.8110164+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:26.3134354+00:00"
 }

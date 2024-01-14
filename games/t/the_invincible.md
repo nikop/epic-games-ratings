@@ -5,11 +5,11 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,201 |
-| The Teleprobe | 57.00% | ~964 |
-| The City | 51.00% | ~863 |
-| The field base | 47.00% | ~795 |
-| The Alliance | 44.00% | ~744 |
+| The Camp | 71.00% | ~1,202 |
+| The Teleprobe | 57.00% | ~965 |
+| The City | 52.00% | ~880 |
+| The field base | 47.00% | ~796 |
+| The Alliance | 44.00% | ~745 |
 | Survivors | 41.00% | ~694 |
 | The Condor | 39.00% | ~660 |
 | The End | 38.00% | ~643 |
@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 510)
 | Peacemaker | 23.00% | ~389 |
 | Volcanologist | 23.00% | ~389 |
 | Fierce fight | 22.00% | ~372 |
-| Evacuation | 21.00% | ~355 |
+| Evacuation | 21.00% | ~356 |
 | Beyond divisions | 18.00% | ~305 |
 | Flying Objects Operator | 17.00% | ~288 |
 | I remember everything! | 14.00% | ~237 |
@@ -27,7 +27,7 @@ Rating: 4.56 (Ranked 510)
 | Violent solution | 10.00% | ~169 |
 | I leave no man behind | 10.00% | ~169 |
 | Innate curiosity | 8.00% | ~135 |
-| Strong objection | 7.00% | ~118 |
+| Strong objection | 7.00% | ~119 |
 | Ubiquitous holes | 6.00% | ~102 |
 | The Invincible | 6.00% | ~102 |
 | Got lost again | 6.00% | ~102 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 510)
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,692 (Ranked 265)  
+Progressed: 1,693 (Ranked 265)  
 Completed: 1 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.06%) (Ranked 334)
 | 2024-01-11 | 1,635 | 1 |
 | 2024-01-12 | 1,649 | 1 |
 | 2024-01-13 | 1,674 | 1 |
-| 2024-01-14 | 1,692 | 1 |
+| 2024-01-14 | 1,693 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1029,7 +1029,7 @@
   ],
   "EOS_Progressed": 8319,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14186,9 +14186,9 @@
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -14401,8 +14401,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:09:54.5145675+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:08:39.0193235+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:58:57.0219877+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:09:54.5146527+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:57:57.233621+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:08:39.0194199+00:00"
 }

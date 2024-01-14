@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Introduction completed | 74.00% | ~35 |
 | Chapter 1 | 43.00% | ~20 |
+| It's In My Nature | 40.00% | ~19 |
 | Chapter 2 | 38.00% | ~18 |
-| It's In My Nature | 38.00% | ~18 |
 | Chapter 3 | 36.00% | ~17 |
 | Your Days Are Numbered | 34.00% | ~16 |
 | Chapter 4 | 32.00% | ~15 |
 | All Materials | 32.00% | ~15 |
-| Chapter 5 | 28.00% | ~13 |
+| Chapter 5 | 30.00% | ~14 |
 | Chapter 6 | 21.00% | ~10 |
 | Best Student | 15.00% | ~7 |
 | Food Thief | 13.00% | ~6 |

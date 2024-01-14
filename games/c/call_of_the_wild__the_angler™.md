@@ -17,8 +17,8 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 8.00% | ~666 |
 | Goldfish? | 6.00% | ~499 |
 | Going for Gold | 6.00% | ~499 |
+| School's Out for Summer | 5.00% | ~416 |
 | License to Gill | 4.00% | ~333 |
-| School's Out for Summer | 4.00% | ~333 |
 | I'm Hooked! | 3.00% | ~250 |
 | Diamond in the Rough | 2.00% | ~166 |
 | More than a Tourist | 1.00% | ~83 |

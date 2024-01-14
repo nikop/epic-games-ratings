@@ -7,7 +7,7 @@
 | Land of the Rising Sun | 100.00% | ~1,365 |
 | Hidden History | 71.00% | ~969 |
 | Commencing of Quests | 61.00% | ~833 |
-| Budding Conjuror | 60.00% | ~819 |
+| Budding Conjuror | 61.00% | ~833 |
 | Man-Machine Master | 50.00% | ~682 |
 | Mountain Splitter | 49.00% | ~669 |
 | Charmed by the Hunt | 49.00% | ~669 |
@@ -35,9 +35,9 @@
 | Reincarnation Cycle Stopper | 19.00% | ~259 |
 | Human Believer | 17.00% | ~232 |
 | Left Arm Leverager | 16.00% | ~218 |
+| Quintessence of Form | 16.00% | ~218 |
 | Style Seeker | 15.00% | ~205 |
 | Unrivaled in Arms | 15.00% | ~205 |
-| Quintessence of Form | 15.00% | ~205 |
 | Threaded Harmony | 15.00% | ~205 |
 | Karakuri Minato | 14.00% | ~191 |
 | Jack of All Trades | 13.00% | ~177 |

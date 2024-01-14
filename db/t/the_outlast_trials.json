@@ -4,11 +4,11 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 320,
   "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 240,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 581,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -4303,10 +4303,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1627,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2024-01-14T18:58:49.2726669+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1632,
+      "NumberOfAwardsMax": 301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1627,
+  "NumberOfAwards": 1632,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4314,7 +4320,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 208
+      "Count": 211
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4350,7 +4356,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 237
+      "Count": 239
     },
     {
       "Text": "This game is Educational",
@@ -4391,9 +4397,9 @@
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
-  "LastChanged": "2024-01-14T14:58:49.8382827+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:09:36.9081119+00:00",
+  "LastChanged": "2024-01-14T18:58:49.2726667+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:08:26.3628011+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.2660492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:00:16.4341776+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:09:36.9081149+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:58:49.2726674+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:08:26.3628029+00:00"
 }

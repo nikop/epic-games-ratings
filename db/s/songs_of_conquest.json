@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1194,
+  "EOS_Progressed": 1195,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4127,6 +4127,11 @@
       "Time": "2024-01-14T18:10:54.6759562+00:00",
       "NumProgressed": 1194,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T19:09:21.524072+00:00",
+      "NumProgressed": 1195,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4347,7 +4352,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "MultiplayerWins",
@@ -4419,7 +4424,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4467,7 +4472,7 @@
       "Name": "Adept",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "WielderLevel2",
@@ -4481,9 +4486,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 96
     },
     {
       "ID": "WielderLevel4",
@@ -4499,7 +4504,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4570,15 +4575,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1194,
+      "Progressed": 1195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:10:54.6759557+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:21.5240717+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:33.1534195+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:10:54.6760012+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:39.6135981+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:21.524122+00:00"
 }

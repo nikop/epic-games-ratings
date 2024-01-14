@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -1535,9 +1535,9 @@
       "ID": "20",
       "SetID": "6bgoh8g",
       "Name": "The world\u0027s greatest detective",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "21",
@@ -1647,9 +1647,9 @@
       "ID": "9",
       "SetID": "6bgoh8g",
       "Name": "Encore!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
@@ -1662,8 +1662,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:07:53.246532+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:05:24.0704047+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:13.0818555+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:04:25.7571123+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:07:53.2465542+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:02:59.7399259+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:05:24.0704261+00:00"
 }

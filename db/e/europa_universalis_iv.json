@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14409,9 +14409,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 498960,
+  "EOS_Progressed": 499012,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4486,
+  "EOS_NewPlayers": 4494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45489,6 +45489,11 @@
       "Time": "2024-01-14T18:12:01.9489593+00:00",
       "NumProgressed": 498960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T19:10:10.6005699+00:00",
+      "NumProgressed": 499012,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46034,9 +46039,9 @@
       "ID": "achievement_combined_arms",
       "SetID": "8p2n7he",
       "Name": "Combined Arms",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 998
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -48403,21 +48408,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 498960,
+      "Progressed": 499012,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 498960,
+      "Progressed": 499012,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-14T16:59:32.6179749+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:12:01.9489588+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:10:10.6005697+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:22.8513804+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:12:01.9502774+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:32.211159+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:10:10.601629+00:00"
 }

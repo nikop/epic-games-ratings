@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -779,9 +779,9 @@
       "ID": "CgkInO_K3eIdEAIQBQ",
       "SetID": "6bj96in",
       "Name": "SAILOR\u0027S GIFT",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CgkInO_K3eIdEAIQBg",
@@ -795,17 +795,17 @@
       "ID": "CgkInO_K3eIdEAIQBw",
       "SetID": "6bj96in",
       "Name": "SCRIPTORIUM SNEAK",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -851,17 +851,17 @@
       "ID": "CgkInO_K3eIdEAIQDg",
       "SetID": "6bj96in",
       "Name": "CHRONOSPY",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:41.4162856+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:54.766+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:00:32.6795334+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:41.4162988+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:58:59.8437451+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:54.7660215+00:00"
 }

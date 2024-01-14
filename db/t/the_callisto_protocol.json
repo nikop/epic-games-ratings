@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2225,9 +2225,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22368,
+  "EOS_Progressed": 22370,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 809,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13885,6 +13885,11 @@
       "Time": "2024-01-14T18:11:21.4225358+00:00",
       "NumProgressed": 22368,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-14T19:09:40.398872+00:00",
+      "NumProgressed": 22370,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13928,7 +13933,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6039
+      "UsersEstimate": 6040
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -13960,7 +13965,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14024,7 +14029,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "KILL_ROBOT",
@@ -14032,7 +14037,7 @@
       "Name": "Terminated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14056,7 +14061,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4026
+      "UsersEstimate": 4027
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14088,7 +14093,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6039
+      "UsersEstimate": 6040
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14104,7 +14109,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "STORY_HANGAR",
@@ -14120,7 +14125,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14144,7 +14149,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14271,13 +14276,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22368,
+      "Progressed": 22370,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10294,
+      "Progressed": 10296,
       "Completed": 29
     }
   ],
@@ -14285,8 +14290,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-14T11:03:14.9181782+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:21.4225355+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:40.3988718+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:04:38.6108966+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:21.4226165+00:00"
+  "LastUpdate_Ratings": "2024-01-14T19:03:08.5033141+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:40.398946+00:00"
 }

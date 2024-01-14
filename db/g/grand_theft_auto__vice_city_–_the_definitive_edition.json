@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,11 +1062,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16410,
-  "EOS_Completed": 99,
-  "EOS_NewPlayers": 633,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Progressed": 16411,
+  "EOS_Completed": 100,
+  "EOS_NewPlayers": 625,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -18147,6 +18147,11 @@
       "Time": "2024-01-14T18:11:33.5200452+00:00",
       "NumProgressed": 16410,
       "NumCompleted": 99
+    },
+    {
+      "Time": "2024-01-14T19:09:48.9626039+00:00",
+      "NumProgressed": 16411,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18182,7 +18187,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH05",
@@ -18262,7 +18267,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7056
+      "UsersEstimate": 7057
     },
     {
       "ID": "ACH15",
@@ -18332,9 +18337,9 @@
       "ID": "ACH23",
       "SetID": "9llo822",
       "Name": "South American Connection",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4267
+      "UsersEstimate": 4431
     },
     {
       "ID": "ACH24",
@@ -18366,7 +18371,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH28",
@@ -18429,16 +18434,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16410,
-      "Completed": 99
+      "Progressed": 16411,
+      "Completed": 100
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:11:33.5200449+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:09:48.9626037+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:39.9651867+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:11:33.5201212+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:44.479541+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:09:48.9627596+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2292,9 +2292,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16799,
+  "EOS_Progressed": 16803,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20012,6 +20012,11 @@
       "Time": "2024-01-14T18:12:01.3583054+00:00",
       "NumProgressed": 16799,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-14T19:10:09.96222+00:00",
+      "NumProgressed": 16803,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21701,9 +21706,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -21757,9 +21762,9 @@
       "ID": "ACHIEVEMENT_PLAY_NETWORK",
       "SetID": "9201eeb",
       "Name": "Play a Network Game",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_PLAY_PLAYBYCLOUD",
@@ -22886,21 +22891,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16799,
+      "Progressed": 16803,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16799,
+      "Progressed": 16803,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T16:59:39.7043466+00:00",
-  "LastChanged_Achievements": "2024-01-14T18:12:01.3583051+00:00",
+  "LastChanged_Achievements": "2024-01-14T19:10:09.9622198+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-14T18:01:33.7132532+00:00",
-  "LastUpdate_Achievements": "2024-01-14T18:12:01.3593318+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:59:39.9749974+00:00",
+  "LastUpdate_Achievements": "2024-01-14T19:10:09.9632531+00:00"
 }

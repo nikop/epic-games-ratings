@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 113.00% | ~120 |
-| Break no Sweat | 108.00% | ~114 |
-| Every little bit counts | 102.00% | ~108 |
-| Growth | 86.00% | ~91 |
-| Targeting the Enemy | 71.00% | ~75 |
-| Unavoidable | 67.00% | ~71 |
+| Black Cat's Warning | 112.00% | ~120 |
+| Break no Sweat | 107.00% | ~114 |
+| Every little bit counts | 101.00% | ~108 |
+| Growth | 86.00% | ~92 |
+| Targeting the Enemy | 70.00% | ~75 |
+| Unavoidable | 66.00% | ~71 |
 | Revenge | 63.00% | ~67 |
-| Reunion | 41.00% | ~43 |
+| Reunion | 40.00% | ~43 |
 | Fluke | 35.00% | ~37 |
 | Elimination | 33.00% | ~35 |
 | Victor's Prejudice | 32.00% | ~34 |
@@ -21,10 +21,10 @@
 | Fleet-footed | 27.00% | ~29 |
 | Defeat the AI | 26.00% | ~28 |
 | Invincible | 26.00% | ~28 |
-| Best in Dragon City | 23.00% | ~24 |
-| Walking into a Trap | 23.00% | ~24 |
-| Unsalvageable | 23.00% | ~24 |
-| Neutralize | 23.00% | ~24 |
+| Best in Dragon City | 22.00% | ~24 |
+| Walking into a Trap | 22.00% | ~24 |
+| Unsalvageable | 22.00% | ~24 |
+| Neutralize | 22.00% | ~24 |
 | Disdain | 21.00% | ~22 |
 | Final Battle | 18.00% | ~19 |
 | Brain in a Vat | 18.00% | ~19 |
@@ -32,10 +32,10 @@
 | Reappearance | 16.00% | ~17 |
 | King of the Streets | 9.00% | ~10 |
 | Survival Expert | 9.00% | ~10 |
-| Calamity | 8.00% | ~8 |
-| Achieving Excellence | 8.00% | ~8 |
-| Rest in peace | 8.00% | ~8 |
+| Calamity | 8.00% | ~9 |
 | Still A Chance | 7.00% | ~7 |
+| Achieving Excellence | 7.00% | ~7 |
+| Rest in peace | 7.00% | ~7 |
 | Fashionista | 7.00% | ~7 |
 | Intel Expert | 5.00% | ~5 |
 | Unexpected Crisis | 4.00% | ~4 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 106 (Ranked 492)  
+Progressed: 107 (Ranked 491)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-10 | 107 | 0 |
 | 2024-01-11 | 107 | 0 |
 | 2024-01-13 | 106 | 0 |
-| 2024-01-14 | 106 | 0 |
+| 2024-01-14 | 107 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,8 +12,8 @@ Rating: 4.47 (Ranked 666)
 | Change the Channel | 32.00% | ~1,371 |
 | Lord of War | 31.00% | ~1,328 |
 | Taking it back | 30.00% | ~1,285 |
-| Resourceful | 28.00% | ~1,199 |
-| Target America | 28.00% | ~1,199 |
+| Resourceful | 28.00% | ~1,200 |
+| Target America | 28.00% | ~1,200 |
 | The Kraken Sleeps | 25.00% | ~1,071 |
 | Liberté | 24.00% | ~1,028 |
 | Organ Grinder | 24.00% | ~1,028 |
@@ -28,15 +28,15 @@ Rating: 4.47 (Ranked 666)
 | Close Quarters | 16.00% | ~685 |
 | Snake in the Grass | 16.00% | ~685 |
 | Brains of the Operation | 16.00% | ~685 |
-| No Stone Unturned | 15.00% | ~642 |
-| Die Nussknacker Sweet! | 15.00% | ~642 |
+| No Stone Unturned | 15.00% | ~643 |
+| Die Nussknacker Sweet! | 15.00% | ~643 |
 | Opposing Force | 14.00% | ~600 |
 | Enemy at the Gates | 14.00% | ~600 |
 | Fields of Glory | 14.00% | ~600 |
 | Set Europe Ablaze | 14.00% | ~600 |
 | Precision Is Key | 10.00% | ~428 |
 | My Little Friend | 10.00% | ~428 |
-| Rigged to Blow | 9.00% | ~385 |
+| Rigged to Blow | 9.00% | ~386 |
 | Herr Today, Gone Tomorrow | 7.00% | ~296 |
 | The Long Game | 6.00% | ~257 |
 | Operation Foxley | 6.00% | ~254 |
@@ -49,10 +49,10 @@ Rating: 4.47 (Ranked 666)
 | Siegebreaker | 5.00% | ~212 |
 | Ghost of Falaise | 5.00% | ~212 |
 | Locomotion Commotion | 4.00% | ~171 |
-| From Paris with Love | 3.00% | ~128 |
-| Burn after reading | 3.00% | ~128 |
-| Souvenir hunter | 3.00% | ~128 |
-| Shoot for the Moon | 3.00% | ~128 |
+| From Paris with Love | 3.00% | ~129 |
+| Burn after reading | 3.00% | ~129 |
+| Souvenir hunter | 3.00% | ~129 |
+| Shoot for the Moon | 3.00% | ~129 |
 | If You Go Down To The Woods Today | 3.00% | ~127 |
 | Fight Another Day | 3.00% | ~127 |
 | Shipbreaker | 3.00% | ~127 |
@@ -77,7 +77,7 @@ Rating: 4.47 (Ranked 666)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,283 (Ranked 213)  
+Progressed: 4,284 (Ranked 213)  
 Completed: 11 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 11 (0.26%) (Ranked 268)
 | 2024-01-11 | 4,268 | 11 |
 | 2024-01-12 | 4,273 | 11 |
 | 2024-01-13 | 4,276 | 11 |
-| 2024-01-14 | 4,283 | 11 |
+| 2024-01-14 | 4,284 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 549)  
