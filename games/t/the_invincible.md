@@ -15,9 +15,9 @@ Rating: 4.56 (Ranked 510)
 | The End | 38.00% | ~643 |
 | The Necroevolution | 31.00% | ~525 |
 | Krauta is alive | 29.00% | ~491 |
+| On her own | 23.00% | ~389 |
 | Peacemaker | 23.00% | ~389 |
 | Volcanologist | 23.00% | ~389 |
-| On her own | 22.00% | ~372 |
 | Fierce fight | 22.00% | ~372 |
 | Evacuation | 21.00% | ~355 |
 | Beyond divisions | 18.00% | ~305 |

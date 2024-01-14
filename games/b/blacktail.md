@@ -20,10 +20,10 @@ Rating: 4.68 (Ranked 261)
 | A friend in need... | 5.00% | ~46 |
 | The cycle acknowledged | 5.00% | ~46 |
 | Baba Yaga | 5.00% | ~46 |
-| Extensive retelling | 4.00% | ~36 |
-| Sneak peek | 4.00% | ~36 |
-| Favorite | 4.00% | ~36 |
-| Queen | 4.00% | ~36 |
+| Extensive retelling | 4.00% | ~37 |
+| Sneak peek | 4.00% | ~37 |
+| Favorite | 4.00% | ~37 |
+| Queen | 4.00% | ~37 |
 | Goal! | 3.00% | ~27 |
 | Both sides | 3.00% | ~27 |
 | Specialist | 3.00% | ~27 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 261)
 | Mushrooming enthusiast | 0.70% | ~6 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 912 (Ranked 305)  
+Progressed: 913 (Ranked 305)  
 Completed: 1 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 1 (0.11%) (Ranked 309)
 | 2024-01-11 | 901 | 1 |
 | 2024-01-12 | 907 | 1 |
 | 2024-01-13 | 910 | 1 |
-| 2024-01-14 | 912 | 1 |
+| 2024-01-14 | 913 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

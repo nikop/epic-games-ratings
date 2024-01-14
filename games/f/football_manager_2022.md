@@ -6,30 +6,30 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,647 |
-| He's Signed! | 50.00% | ~239,647 |
-| First Victory | 50.00% | ~239,647 |
-| He's Sold! | 48.00% | ~230,061 |
-| I'm The Boss! | 42.00% | ~201,303 |
+| Clean Sheet | 50.00% | ~239,648 |
+| He's Signed! | 50.00% | ~239,648 |
+| First Victory | 50.00% | ~239,648 |
+| He's Sold! | 48.00% | ~230,062 |
+| I'm The Boss! | 42.00% | ~201,304 |
 | Hat-trick | 41.00% | ~196,511 |
 | Scoring Streak | 38.00% | ~182,132 |
-| Unbeatable! | 37.00% | ~177,339 |
-| Thumping | 37.00% | ~177,339 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,753 |
-| Total Support | 32.00% | ~153,374 |
-| Record Signing | 32.00% | ~153,374 |
-| He's a Natural | 31.00% | ~148,581 |
-| Millionaire's Club | 31.00% | ~148,581 |
-| Team Performance | 30.00% | ~143,788 |
-| Parked The Bus | 29.00% | ~138,995 |
-| Shrewd Spender | 29.00% | ~138,995 |
-| Star Man | 29.00% | ~138,995 |
-| Attack! | 28.00% | ~134,202 |
-| You're On Fire | 27.00% | ~129,409 |
-| Tremendous Trio | 27.00% | ~129,409 |
-| Record Sale | 27.00% | ~129,409 |
-| On A Roll | 26.00% | ~124,616 |
-| Unstoppable Force | 26.00% | ~124,616 |
+| Unbeatable! | 37.00% | ~177,340 |
+| Thumping | 37.00% | ~177,340 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,754 |
+| Total Support | 32.00% | ~153,375 |
+| Record Signing | 32.00% | ~153,375 |
+| He's a Natural | 31.00% | ~148,582 |
+| Millionaire's Club | 31.00% | ~148,582 |
+| Team Performance | 30.00% | ~143,789 |
+| Parked The Bus | 29.00% | ~138,996 |
+| Shrewd Spender | 29.00% | ~138,996 |
+| Star Man | 29.00% | ~138,996 |
+| Attack! | 28.00% | ~134,203 |
+| You're On Fire | 27.00% | ~129,410 |
+| Tremendous Trio | 27.00% | ~129,410 |
+| Record Sale | 27.00% | ~129,410 |
+| On A Roll | 26.00% | ~124,617 |
+| Unstoppable Force | 26.00% | ~124,617 |
 | Armchair Expert | 25.00% | ~119,824 |
 | Fantastic Five | 24.00% | ~115,031 |
 | Full Faith | 24.00% | ~115,031 |
@@ -53,15 +53,15 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 15.00% | ~71,894 |
 | Comeback King! | 14.00% | ~67,101 |
 | You're Up! | 13.00% | ~62,308 |
-| Money, Money, Money | 12.00% | ~57,515 |
-| Invincible! | 11.00% | ~52,722 |
-| Superb Strike | 10.00% | ~47,929 |
-| International Superstar | 10.00% | ~47,929 |
-| Best In The World | 10.00% | ~47,929 |
-| Best In Europe | 9.00% | ~43,136 |
-| National Service | 9.00% | ~43,136 |
-| Headhunted | 9.00% | ~43,136 |
-| Domination | 9.00% | ~43,136 |
+| Money, Money, Money | 12.00% | ~57,516 |
+| Invincible! | 11.00% | ~52,723 |
+| Superb Strike | 10.00% | ~47,930 |
+| International Superstar | 10.00% | ~47,930 |
+| Best In The World | 10.00% | ~47,930 |
+| Best In Europe | 9.00% | ~43,137 |
+| National Service | 9.00% | ~43,137 |
+| Headhunted | 9.00% | ~43,137 |
+| Domination | 9.00% | ~43,137 |
 | Best In The Business | 8.00% | ~38,344 |
 | Legend | 6.00% | ~28,758 |
 | Win the Club World Cup | 6.00% | ~28,758 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,294 (Ranked 44)  
+Progressed: 479,296 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -374,17 +374,17 @@ Completed: 22 (0.00%) (Ranked 400)
 | 2024-01-11 | 479,162 | 22 |
 | 2024-01-12 | 479,209 | 22 |
 | 2024-01-13 | 479,268 | 22 |
-| 2024-01-14 | 479,294 | 22 |
+| 2024-01-14 | 479,296 | 22 |
 ## Awards
 Max (Relaxing): 6,497  (Ranked 63)  
-Sum: 51,257 (Ranked 30)  
+Sum: 51,258 (Ranked 30)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,497 |
 | This game is Extremely Fun | 6,088 |
 | This game has Competitive Players | 5,936 |
-| This game is Highly Recommended | 5,932 |
+| This game is Highly Recommended | 5,933 |
 | This game has Quickly Understood Controls | 5,915 |
 | This game is Educational | 5,903 |
 | This game has Diverse Characters | 5,635 |
@@ -741,4 +741,4 @@ Diff (max vs sum): 33
 | 2024-01-11 | 4.80 | - | 6,496 | 51,248 |
 | 2024-01-12 | 4.80 | - | 6,497 | 51,255 |
 | 2024-01-13 | 4.80 | - | 6,497 | 51,256 |
-| 2024-01-14 | 4.80 | - | 6,497 | 51,257 |
+| 2024-01-14 | 4.80 | - | 6,497 | 51,258 |

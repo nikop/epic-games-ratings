@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 89,
   "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2768,9 +2768,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 313
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -2969,8 +2969,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-13T23:57:43.1196298+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:09:27.4043862+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:10:53.3233214+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:57:53.8020491+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:09:27.4044512+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:58:51.1279776+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:10:53.3233827+00:00"
 }

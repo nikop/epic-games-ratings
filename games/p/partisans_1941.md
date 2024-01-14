@@ -12,7 +12,7 @@ Number of Ratings: 98  (23.09.2022)
 | Heroes Never Die | 41.00% | ~801 |
 | Mosquito bite | 37.00% | ~723 |
 | Spice It Up | 33.00% | ~645 |
-| Agent 47 | 27.00% | ~528 |
+| Agent 47 | 28.00% | ~547 |
 | You're Gonna Go Far, Kid | 27.00% | ~528 |
 | Bomberman | 27.00% | ~528 |
 | Death to the Oppressor! | 20.00% | ~391 |
@@ -38,7 +38,7 @@ Number of Ratings: 98  (23.09.2022)
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,954 (Ranked 255)  
-Completed: 2 (0.10%) (Ranked 315)  
+Completed: 2 (0.10%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

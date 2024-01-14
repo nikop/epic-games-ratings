@@ -1,7 +1,7 @@
 # Immortals Fenyx Rising Standard Edition
 [Store](https://store.epicgames.com/en-US/p/immortals-fenyx-rising)  
 [View Rawdata](../../db/i/immortals_fenyx_rising_standard_edition.json)  
-Rating: 4.60 (Ranked 427)  
+Rating: 4.59 (Ranked 452)  
 Number of Ratings: 791  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 856  (Ranked 181)  
@@ -292,3 +292,4 @@ Diff (max vs sum): -74
 | 2024-01-11 | 4.59 | - | 855 | 1,335 |
 | 2024-01-12 | 4.59 | - | 855 | 1,337 |
 | 2024-01-13 | 4.60 | - | 856 | 1,340 |
+| 2024-01-14 | 4.59 | - | 856 | 1,340 |

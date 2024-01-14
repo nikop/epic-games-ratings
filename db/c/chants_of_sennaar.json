@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2768,
+  "EOS_Progressed": 2769,
   "EOS_Completed": 207,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 7.48,
   "EosHistory": [
@@ -7308,6 +7308,11 @@
       "Time": "2024-01-14T17:05:40.387256+00:00",
       "NumProgressed": 2768,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2024-01-14T18:07:56.284281+00:00",
+      "NumProgressed": 2769,
+      "NumCompleted": 207
     }
   ],
   "TotalAchievements": 25,
@@ -7319,7 +7324,7 @@
       "Name": "I did it",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "END_GOOD",
@@ -7335,7 +7340,7 @@
       "Name": "Peace walker",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7365,9 +7370,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 609
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7423,7 +7428,7 @@
       "Name": "Rascal",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7463,7 +7468,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7471,7 +7476,7 @@
       "Name": "Scholar",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "PROGRESS_N1",
@@ -7479,7 +7484,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "PROGRESS_N2",
@@ -7487,7 +7492,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "PROGRESS_N3",
@@ -7518,7 +7523,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2768,
+      "Progressed": 2769,
       "Completed": 207
     }
   ],
@@ -7526,8 +7531,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:05:40.3872558+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:07:56.2842805+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:58:25.943276+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:05:40.3873013+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:59:39.4629986+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:07:56.2843187+00:00"
 }

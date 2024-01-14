@@ -6,9 +6,9 @@ Rating: 4.58 (Ranked 469)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,798 |
-| First Love | 46.00% | ~1,654 |
-| Clean Race | 45.00% | ~1,618 |
-| Hear That Roar! | 43.00% | ~1,546 |
+| First Love | 46.00% | ~1,655 |
+| Clean Race | 45.00% | ~1,619 |
+| Hear That Roar! | 43.00% | ~1,547 |
 | Bitter Rivalry | 31.00% | ~1,115 |
 | Rivals to the End | 31.00% | ~1,115 |
 | Champagne Spray | 30.00% | ~1,079 |
@@ -18,8 +18,8 @@ Rating: 4.58 (Ranked 469)
 | Restored and Ready | 20.00% | ~719 |
 | Legendary!!! | 20.00% | ~719 |
 | Go-Faster Stripes | 17.00% | ~611 |
-| I'm Here Too! | 15.00% | ~539 |
-| We've Just Begun | 15.00% | ~539 |
+| I'm Here Too! | 15.00% | ~540 |
+| We've Just Begun | 15.00% | ~540 |
 | Is It the Right Size? | 10.00% | ~360 |
 | Stamina Star | 9.00% | ~324 |
 | Evangelist | 7.00% | ~252 |
@@ -27,10 +27,10 @@ Rating: 4.58 (Ranked 469)
 | Cherry Blossom and Temples | 5.00% | ~180 |
 | The Road to Liberty | 5.00% | ~180 |
 | Romantic Races | 4.00% | ~144 |
+| I Make the Rules! | 4.00% | ~144 |
 | My Work Here Is Done | 4.00% | ~144 |
 | Spoilt for Choice | 3.00% | ~108 |
 | La Dolce Vita | 3.00% | ~108 |
-| I Make the Rules! | 3.00% | ~108 |
 | Rounding Off | 3.00% | ~108 |
 | Iconic! | 2.00% | ~72 |
 | I'll Be the Best! | 2.00% | ~72 |
@@ -55,7 +55,7 @@ Rating: 4.58 (Ranked 469)
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,596 (Ranked 225)  
+Progressed: 3,597 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 3,552 | 0 |
 | 2024-01-12 | 3,570 | 0 |
 | 2024-01-13 | 3,582 | 0 |
-| 2024-01-14 | 3,596 | 0 |
+| 2024-01-14 | 3,597 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

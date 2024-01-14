@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,711 |
-| Greasy Palms | 43.00% | ~7,055 |
-| South American Connection | 26.00% | ~4,266 |
-| Life of the Party | 21.00% | ~3,445 |
-| Tommy Two-Wheels | 16.00% | ~2,625 |
-| Big Heat from Little Havana | 15.00% | ~2,461 |
-| Chauffeur | 15.00% | ~2,461 |
+| Legal Counsel | 47.00% | ~7,713 |
+| Greasy Palms | 43.00% | ~7,056 |
+| South American Connection | 26.00% | ~4,267 |
+| Life of the Party | 21.00% | ~3,446 |
+| Tommy Two-Wheels | 16.00% | ~2,626 |
+| Big Heat from Little Havana | 15.00% | ~2,462 |
+| Chauffeur | 15.00% | ~2,462 |
 | Salutations My Little Friend | 12.00% | ~1,969 |
 | Iron-y | 10.00% | ~1,641 |
 | Gun for Hire | 9.00% | ~1,477 |
 | Mischief Managed | 9.00% | ~1,477 |
-| Vice City Mogul | 7.00% | ~1,148 |
-| Catch Me if You Can | 6.00% | ~984 |
-| Bloodstained Hands | 6.00% | ~984 |
+| Vice City Mogul | 7.00% | ~1,149 |
+| Catch Me if You Can | 6.00% | ~985 |
+| Bloodstained Hands | 6.00% | ~985 |
 | Not my First Time | 5.00% | ~820 |
 | Grand Theft Auto | 5.00% | ~820 |
 | Pie Guy | 4.00% | ~656 |
@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 565)
 | Done it All | 1.00% | ~164 |
 | Kingpin | 0.60% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,406 (Ranked 171)  
-Completed: 98 (0.60%) (Ranked 210)  
+Progressed: 16,410 (Ranked 171)  
+Completed: 99 (0.60%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -309,7 +309,7 @@ Completed: 98 (0.60%) (Ranked 210)
 | 2024-01-11 | 16,263 | 96 |
 | 2024-01-12 | 16,316 | 98 |
 | 2024-01-13 | 16,366 | 98 |
-| 2024-01-14 | 16,406 | 98 |
+| 2024-01-14 | 16,410 | 99 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

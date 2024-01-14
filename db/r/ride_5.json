@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3596,
+  "EOS_Progressed": 3597,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8859,6 +8859,11 @@
       "Time": "2024-01-14T17:05:59.0960521+00:00",
       "NumProgressed": 3596,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T18:08:22.5823618+00:00",
+      "NumProgressed": 3597,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8871,7 +8876,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8879,7 +8884,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9047,7 +9052,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9079,7 +9084,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9093,9 +9098,9 @@
       "ID": "ML_ACHIEVEMENT_29",
       "SetID": "c7hf6a4",
       "Name": "I Make the Rules!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 144
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -9127,7 +9132,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9262,7 +9267,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3596,
+      "Progressed": 3597,
       "Completed": 0
     }
   ],
@@ -9270,8 +9275,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-14T15:00:07.729106+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:05:59.0960518+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:08:22.5823614+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:00:08.837844+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:05:59.0961377+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:02:15.1989524+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:08:22.5824336+00:00"
 }

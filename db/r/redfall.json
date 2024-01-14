@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2388,
+  "EOS_Progressed": 2389,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4517,6 +4517,11 @@
       "Time": "2024-01-14T14:03:59.0238794+00:00",
       "NumProgressed": 2388,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T18:05:58.1264494+00:00",
+      "NumProgressed": 2389,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4576,7 +4581,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_009",
@@ -4584,7 +4589,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_010",
@@ -4720,7 +4725,7 @@
       "Name": "Fly Fisher",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_027",
@@ -4728,7 +4733,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "Achievement_028",
@@ -5000,7 +5005,7 @@
       "Name": "Good Samaritan",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_065",
@@ -5055,7 +5060,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2388,
+      "Progressed": 2389,
       "Completed": 0
     }
   ],
@@ -5063,8 +5068,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:04:17.4392068+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:05:58.1264488+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:59:02.7553039+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:04:17.4392923+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:00:37.202167+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:05:58.1265481+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 19.00% | ~2,522 |
 | Mythic Choices | 16.00% | ~2,124 |
 | Defender's Heart | 16.00% | ~2,124 |
-| Banner over the Citadel | 14.00% | ~1,858 |
+| Banner over the Citadel | 14.00% | ~1,859 |
 | Queen's Gratitude | 13.00% | ~1,726 |
 | Fifth Crusade | 9.00% | ~1,195 |
 | Embrace of the Abyss | 7.00% | ~929 |
@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~362 |
 | The Lady of the Forest | 3.00% | ~362 |
 | Beware Still Water | 3.00% | ~362 |
-| Path of the Demon | 2.00% | ~265 |
-| Path of the Aeon | 2.00% | ~265 |
-| Your First Big Enemy | 2.00% | ~265 |
-| Truly Important Deed | 2.00% | ~265 |
+| Path of the Demon | 2.00% | ~266 |
+| Path of the Aeon | 2.00% | ~266 |
+| Your First Big Enemy | 2.00% | ~266 |
+| Truly Important Deed | 2.00% | ~266 |
 | Stay Underground | 2.00% | ~241 |
 | The Final Threshold | 1.00% | ~133 |
 | Path of the Dragon | 1.00% | ~133 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,274 (Ranked 178)  
+Progressed: 13,275 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,10 +392,10 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 13,243 | 0 |
 | 2024-01-12 | 13,249 | 0 |
 | 2024-01-13 | 13,262 | 0 |
-| 2024-01-14 | 13,274 | 0 |
+| 2024-01-14 | 13,275 | 0 |
 ## Awards
 Max (Character Customization): 1,784  (Ranked 131)  
-Sum: 7,228 (Ranked 127)  
+Sum: 7,229 (Ranked 127)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -406,7 +406,7 @@ Diff (max vs sum): 4
 | This game has Amazing Characters | 654 |
 | This game has Amazing Storytelling | 635 |
 | This game has Challenging Combat | 605 |
-| This game has Quickly Understood Controls | 588 |
+| This game has Quickly Understood Controls | 589 |
 | This game is Relaxing | 567 |
 | This game has a Creative Community | 407 |
 | This game has Obsessive Gameplay | 364 |
@@ -731,4 +731,4 @@ Diff (max vs sum): 4
 | 2024-01-11 | 4.76 | - | 1,781 | 7,217 |
 | 2024-01-12 | 4.76 | - | 1,784 | 7,222 |
 | 2024-01-13 | 4.76 | - | 1,784 | 7,227 |
-| 2024-01-14 | 4.76 | - | 1,784 | 7,228 |
+| 2024-01-14 | 4.76 | - | 1,784 | 7,229 |

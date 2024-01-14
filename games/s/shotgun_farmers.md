@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~306 |
-| First Blood | 64.00% | ~242 |
-| Triple Kill | 63.00% | ~238 |
+| Seeds of War | 81.00% | ~307 |
+| First Blood | 64.00% | ~243 |
+| Triple Kill | 63.00% | ~239 |
 | Aspairagus | 59.00% | ~194 |
-| No Asperascope | 58.00% | ~219 |
+| No Asperascope | 58.00% | ~220 |
 | Survivor | 56.00% | ~184 |
-| Cornivore | 53.00% | ~200 |
-| I Believe I Can Fly | 49.00% | ~185 |
-| No Diggity | 44.00% | ~144 |
+| Cornivore | 53.00% | ~201 |
+| I Believe I Can Fly | 49.00% | ~186 |
+| No Diggity | 44.00% | ~145 |
 | Early Survivor | 39.00% | ~128 |
 | Bouncemato | 31.00% | ~102 |
-| 10K | 29.00% | ~110 |
+| 10K | 28.00% | ~106 |
 | Amateur Survivor | 28.00% | ~92 |
-| 15K | 26.00% | ~98 |
-| Grave Digger | 23.00% | ~75 |
+| 15K | 26.00% | ~99 |
+| Grave Digger | 23.00% | ~76 |
 | Drinking Problem | 22.00% | ~83 |
 | Quick-Draw Pod | 21.00% | ~69 |
 | Pork Chop Express | 20.00% | ~76 |
-| Professional Survivor | 19.00% | ~62 |
+| Professional Survivor | 19.00% | ~63 |
 | Carrocketeer | 17.00% | ~64 |
-| Getting Started | 16.00% | ~60 |
-| Skin Of Your Teeth | 16.00% | ~60 |
-| This Is My Boomstick | 16.00% | ~52 |
+| Getting Started | 16.00% | ~61 |
+| Skin Of Your Teeth | 16.00% | ~61 |
+| This Is My Boomstick | 16.00% | ~53 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
 | Perfect | 13.00% | ~43 |
@@ -36,7 +36,7 @@
 | Quadsparagus | 10.00% | ~33 |
 | Bring Home The Bacon | 9.00% | ~34 |
 | Expert Survivor | 8.00% | ~26 |
-| Early Bird | 7.00% | ~26 |
+| Early Bird | 7.00% | ~27 |
 | Chick Magnet | 5.00% | ~19 |
 | I Have The High Ground | 5.00% | ~19 |
 | Pyromaniac | 5.00% | ~16 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 378 (Ranked 377)  
+Progressed: 379 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-06 | 374 | 0 |
 | 2024-01-09 | 375 | 0 |
 | 2024-01-13 | 376 | 0 |
-| 2024-01-14 | 378 | 0 |
+| 2024-01-14 | 379 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

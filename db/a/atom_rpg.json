@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1731,
+  "EOS_Progressed": 1733,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4652,6 +4652,11 @@
       "Time": "2024-01-14T17:10:04.424486+00:00",
       "NumProgressed": 1731,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T18:11:44.4990498+00:00",
+      "NumProgressed": 1733,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4663,7 +4668,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4719,7 +4724,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1716
     },
     {
       "ID": "EXPERT_1",
@@ -4751,7 +4756,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4911,7 +4916,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "TRAVELER_1",
@@ -4935,7 +4940,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "WISHMASTER_1",
@@ -4950,15 +4955,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1731,
+      "Progressed": 1733,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:10:04.4244858+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:11:44.4990496+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:58:52.6557539+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:10:04.424535+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:00:22.0892976+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:11:44.499106+00:00"
 }

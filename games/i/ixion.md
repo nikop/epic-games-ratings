@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 453)  
+Rating: 4.59 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,9 +24,9 @@ Rating: 4.59 (Ranked 453)
 | Man's Best Friend | 9.00% | ~377 |
 | Power Outage | 9.00% | ~377 |
 | Please Make it Stop! | 9.00% | ~377 |
-| Sightseeing | 8.00% | ~335 |
-| Necessary Enhancement | 8.00% | ~335 |
-| Convenient Transport | 8.00% | ~335 |
+| Sightseeing | 8.00% | ~336 |
+| Necessary Enhancement | 8.00% | ~336 |
+| Convenient Transport | 8.00% | ~336 |
 | Access Granted | 7.00% | ~294 |
 | Drill-dozer | 7.00% | ~294 |
 | From the Past | 7.00% | ~294 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 453)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,193 (Ranked 214)  
+Progressed: 4,194 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-11 | 4,156 | 0 |
 | 2024-01-12 | 4,168 | 0 |
 | 2024-01-13 | 4,180 | 0 |
-| 2024-01-14 | 4,193 | 0 |
+| 2024-01-14 | 4,194 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

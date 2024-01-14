@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 76.00% | ~6,040 |
-| Having A Field Day | 76.00% | ~6,040 |
-| Reap What You Sow | 73.00% | ~5,802 |
+| Get A Room | 76.00% | ~6,041 |
+| Having A Field Day | 76.00% | ~6,041 |
+| Reap What You Sow | 73.00% | ~5,803 |
 | The First Day | 70.00% | ~5,564 |
 | Green Thumb | 68.00% | ~5,405 |
 | Novice Researcher | 68.00% | ~5,405 |
-| Home Cooked Meal | 63.00% | ~5,007 |
+| Home Cooked Meal | 63.00% | ~5,008 |
 | Onward | 58.00% | ~4,610 |
 | The First Week | 56.00% | ~4,451 |
-| Beam Me Up | 53.00% | ~4,212 |
-| Studious Researcher | 53.00% | ~4,212 |
+| Beam Me Up | 53.00% | ~4,213 |
+| Studious Researcher | 53.00% | ~4,213 |
 | Adept Researcher | 45.00% | ~3,577 |
 | Retribution | 43.00% | ~3,418 |
 | Putting Food on the Table | 43.00% | ~3,418 |
 | ...And Don’t Come Back! | 43.00% | ~3,418 |
-| Feast or Famine | 34.00% | ~2,702 |
+| Feast or Famine | 34.00% | ~2,703 |
 | Heating Up | 33.00% | ~2,623 |
-| Luminary Researcher | 30.00% | ~2,384 |
+| Luminary Researcher | 30.00% | ~2,385 |
 | Winter Is Coming | 29.00% | ~2,305 |
-| Fit For A King | 26.00% | ~2,066 |
-| Winter Is Here | 26.00% | ~2,066 |
+| Fit For A King | 26.00% | ~2,067 |
+| Winter Is Here | 26.00% | ~2,067 |
 | Disassembled | 23.00% | ~1,828 |
 | Oh Deer! | 23.00% | ~1,828 |
 | A Party Now | 22.00% | ~1,749 |
@@ -38,8 +38,8 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~159 |
 | Wabbit Season | 0.50% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,948 (Ranked 192)  
-Completed: 14 (0.18%) (Ranked 285)  
+Progressed: 7,949 (Ranked 192)  
+Completed: 14 (0.18%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,7 +286,7 @@ Completed: 14 (0.18%) (Ranked 285)
 | 2024-01-11 | 7,897 | 14 |
 | 2024-01-12 | 7,912 | 14 |
 | 2024-01-13 | 7,931 | 14 |
-| 2024-01-14 | 7,948 | 14 |
+| 2024-01-14 | 7,949 | 14 |
 ## Awards
 Max (Great for Beginners): 133  (Ranked 345)  
 Sum: 1,062 (Ranked 271)  

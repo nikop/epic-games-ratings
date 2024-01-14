@@ -2,13 +2,13 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 976,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -339,9 +339,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203127,
+  "EOS_Progressed": 203129,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28634,6 +28634,11 @@
       "Time": "2024-01-14T17:06:08.2336583+00:00",
       "NumProgressed": 203127,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T18:08:35.5476721+00:00",
+      "NumProgressed": 203129,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -28653,7 +28658,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 144220
+      "UsersEstimate": 144222
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -28772,7 +28777,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 203127,
+      "Progressed": 203129,
       "Completed": 4
     }
   ],
@@ -28780,8 +28785,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:06:08.233658+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:08:35.5476715+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.0694277+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:59:07.4659654+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:06:08.2337763+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:00:44.4207447+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:08:35.5478417+00:00"
 }

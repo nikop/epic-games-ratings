@@ -3,9 +3,9 @@
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8922,
-  "EOS_Completed": 13,
-  "EOS_NewPlayers": 1362,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Progressed": 8929,
+  "EOS_Completed": 14,
+  "EOS_NewPlayers": 1354,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-12-04T20:08:44.4848229+00:00",
@@ -2904,6 +2904,11 @@
       "Time": "2024-01-14T17:09:27.4474799+00:00",
       "NumProgressed": 8922,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-14T18:10:53.3415393+00:00",
+      "NumProgressed": 8929,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -2916,7 +2921,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4372
+      "UsersEstimate": 4375
     },
     {
       "ID": "Document1",
@@ -2940,7 +2945,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Document4",
@@ -2964,7 +2969,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Untraceable2",
@@ -2972,21 +2977,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 8922,
-      "Completed": 13
+      "Progressed": 8929,
+      "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:09:27.4474796+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:10:53.341539+00:00",
   "LastUpdate_AppInfo": "2024-01-07T21:57:13.0406277+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:58:55.5922307+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:09:27.4475002+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:00:26.6570723+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:10:53.3415582+00:00"
 }

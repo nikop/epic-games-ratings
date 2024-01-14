@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 3.00% | ~504 |
 | Intrepid | 3.00% | ~504 |
 | Mason | 3.00% | ~504 |
+| Noble | 3.00% | ~504 |
 | Strong | 3.00% | ~504 |
 | Hanging Gardens | 3.00% | ~504 |
 | Oracle | 3.00% | ~504 |
@@ -29,7 +30,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Keystone | 2.00% | ~336 |
 | Learned | 2.00% | ~336 |
 | Magnificent | 2.00% | ~336 |
-| Noble | 2.00% | ~336 |
 | Pioneer | 2.00% | ~336 |
 | Warrior | 2.00% | ~336 |
 | Developing Cities | 2.00% | ~336 |
@@ -71,15 +71,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Manichaeism | 1.00% | ~168 |
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
+| Mighty | 0.90% | ~151 |
 | Champions | 0.90% | ~151 |
+| Temple of Solomon | 0.90% | ~151 |
 | Persian Paganism | 0.90% | ~151 |
 | Points Victory | 0.90% | ~151 |
 | Beloved | 0.80% | ~134 |
-| Mighty | 0.80% | ~134 |
 | Good Difficulty | 0.80% | ~134 |
 | Patrons | 0.80% | ~134 |
 | Statesmen | 0.80% | ~134 |
-| Temple of Solomon | 0.80% | ~134 |
 | Greece | 0.80% | ~134 |
 | Power to the People | 0.80% | ~134 |
 | Win a Single Player Game | 0.80% | ~134 |
@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
+| Redemption | 0.60% | ~101 |
 | Cimmerian Archer | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
@@ -116,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.50% | ~84 |
 | Peacemaker | 0.50% | ~84 |
 | Strong Difficulty | 0.50% | ~84 |
+| Clerics | 0.50% | ~84 |
 | Hunters | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
 | Babylonia | 0.50% | ~84 |
@@ -124,20 +126,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.50% | ~84 |
 | Enlightenment | 0.50% | ~84 |
 | Gnosticism | 0.50% | ~84 |
-| Redemption | 0.50% | ~84 |
 | Revelation | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
 | Phalangite | 0.50% | ~84 |
+| Turreted Elephant | 0.50% | ~84 |
+| All Nations | 0.50% | ~84 |
 | Ishtar Gate in Babylon | 0.40% | ~67 |
 | Old | 0.40% | ~67 |
-| Clerics | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
 | Learn to Play 5 | 0.40% | ~67 |
 | Egypt | 0.40% | ~67 |
 | Cataphract Archer | 0.40% | ~67 |
-| Turreted Elephant | 0.40% | ~67 |
-| All Nations | 0.40% | ~67 |
 | No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
 | Jerwan Aqueduct | 0.40% | ~67 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.30% | ~50 |
 | One True Faith | 0.30% | ~50 |
 | Pantheon of Gods | 0.30% | ~50 |
+| Play a Network Game | 0.30% | ~50 |
 | Ten Crowns | 0.30% | ~50 |
 | Siege Tower | 0.30% | ~50 |
 | Poetic Leader | 0.30% | ~50 |
@@ -163,7 +164,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
-| Play a Network Game | 0.20% | ~34 |
 | Capturing Cities | 0.20% | ~34 |
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,795 (Ranked 169)  
+Progressed: 16,799 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -634,7 +634,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-11 | 16,456 | 5 |
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
-| 2024-01-14 | 16,795 | 5 |
+| 2024-01-14 | 16,799 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,930 (Ranked 223)  

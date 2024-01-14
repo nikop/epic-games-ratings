@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -4340,9 +4340,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 358
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4372,9 +4372,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 331
+      "UsersEstimate": 344
     },
     {
       "ID": "SpeedRun",
@@ -4477,8 +4477,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:10:14.053621+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:11:56.6681635+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:58:30.8967301+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:10:14.0536955+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:59:47.4347091+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:11:56.6682151+00:00"
 }

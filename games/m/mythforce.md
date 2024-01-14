@@ -1,23 +1,23 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.47 (Ranked 665)  
+Rating: 4.48 (Ranked 657)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 27.00% | ~1,711 |
-| Hit 'Em Where It Hurts | 26.00% | ~1,647 |
-| Perk Shard Punch Card | 26.00% | ~1,647 |
-| That'll Leave a Mark | 26.00% | ~1,647 |
+| Hit 'Em Where It Hurts | 26.00% | ~1,648 |
+| Perk Shard Punch Card | 26.00% | ~1,648 |
+| That'll Leave a Mark | 26.00% | ~1,648 |
 | Debuff Dogpile | 25.00% | ~1,584 |
-| Mushroom Madness! | 23.00% | ~1,457 |
+| Mushroom Madness! | 23.00% | ~1,458 |
 | First Strike | 22.00% | ~1,394 |
 | Spending Spree | 19.00% | ~1,204 |
-| Horder Better Faster Stronger | 18.00% | ~1,140 |
+| Horder Better Faster Stronger | 18.00% | ~1,141 |
 | Ten Steps from the Grave | 16.00% | ~1,014 |
-| Everything Must Go! | 15.00% | ~950 |
-| Next Time on MythForce... | 15.00% | ~950 |
+| Everything Must Go! | 15.00% | ~951 |
+| Next Time on MythForce... | 15.00% | ~951 |
 | Cold-Blooded Critters | 11.00% | ~697 |
 | Death Becomes You | 8.00% | ~507 |
 | On this Episode! | 7.00% | ~444 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~32 |
 | Deadalus and Loving It | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,336 (Ranked 201)  
+Progressed: 6,337 (Ranked 201)  
 Completed: 5 (0.08%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,11 +213,11 @@ Completed: 5 (0.08%) (Ranked 328)
 | 2024-01-11 | 6,273 | 5 |
 | 2024-01-12 | 6,293 | 5 |
 | 2024-01-13 | 6,322 | 5 |
-| 2024-01-14 | 6,336 | 5 |
+| 2024-01-14 | 6,337 | 5 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 501)  
-Sum: 297 (Ranked 381)  
-Diff (max vs sum): 120  
+Sum: 297 (Ranked 382)  
+Diff (max vs sum): 119  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |
@@ -340,4 +340,4 @@ Diff (max vs sum): 120
 | 2023-12-17 | 4.47 | - | 36 | 294 |
 | 2023-12-26 | 4.47 | - | 36 | 295 |
 | 2024-01-06 | 4.47 | - | 36 | 296 |
-| 2024-01-14 | 4.47 | - | 36 | 297 |
+| 2024-01-14 | 4.48 | - | 36 | 297 |

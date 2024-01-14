@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 72.00% | ~34 |
+| Introduction completed | 74.00% | ~35 |
 | Chapter 1 | 43.00% | ~20 |
 | Chapter 2 | 38.00% | ~18 |
 | It's In My Nature | 38.00% | ~18 |

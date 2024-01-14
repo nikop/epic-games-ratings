@@ -23,6 +23,7 @@
 | Defeat Ingla | 2.00% | ~3 |
 | Through Dangers Untold | 2.00% | ~3 |
 | Nothing but the Truth | 2.00% | ~3 |
+| The End | 2.00% | ~3 |
 | The A-Team | 2.00% | ~3 |
 | But what of the Acreans? | 2.00% | ~3 |
 | Changing the World | 2.00% | ~3 |
@@ -31,7 +32,6 @@
 | Defeat Uskol | 1.00% | ~2 |
 | Trailblazer | 1.00% | ~2 |
 | Finally! | 1.00% | ~2 |
-| The End | 1.00% | ~2 |
 | A Deceiving Gift | 1.00% | ~2 |
 | Style over Stats | 0.60% | ~1 |
 | Collector | 0.60% | ~1 |

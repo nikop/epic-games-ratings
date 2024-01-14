@@ -1,30 +1,30 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.69 (Ranked 239)  
+Rating: 4.70 (Ranked 220)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,366 |
-| I Challenge You To Save More Money! | 81.00% | ~15,064 |
-| I Love How Tough You Are | 65.00% | ~12,089 |
-| Wanna Come To My Place For Dinner? | 58.00% | ~10,787 |
-| What I Want Is You | 53.00% | ~9,857 |
-| To Be Or Not To Be | 50.00% | ~9,299 |
-| Are You Alright? | 47.00% | ~8,741 |
-| Love Actually | 42.00% | ~7,811 |
-| Drama King | 36.00% | ~6,695 |
-| Go Clean up In Your Own Way | 33.00% | ~6,137 |
-| You're Really Something Else | 32.00% | ~5,951 |
-| Drama CP: Reel to Real | 31.00% | ~5,765 |
-| Happy Family | 30.00% | ~5,579 |
-| FIRST LOVE | 30.00% | ~5,579 |
-| Worthless Speech | 30.00% | ~5,579 |
-| Absolutely Elegant | 28.00% | ~5,207 |
-| Still Single | 28.00% | ~5,207 |
-| ONE PUNCH | 28.00% | ~5,207 |
-| Days Of Innocence | 26.00% | ~4,835 |
-| David | 26.00% | ~4,835 |
+| Last Night...Did We... | 88.00% | ~16,368 |
+| I Challenge You To Save More Money! | 81.00% | ~15,066 |
+| I Love How Tough You Are | 65.00% | ~12,090 |
+| Wanna Come To My Place For Dinner? | 58.00% | ~10,788 |
+| What I Want Is You | 53.00% | ~9,858 |
+| To Be Or Not To Be | 50.00% | ~9,300 |
+| Are You Alright? | 47.00% | ~8,742 |
+| Love Actually | 42.00% | ~7,812 |
+| Drama King | 36.00% | ~6,696 |
+| Go Clean up In Your Own Way | 33.00% | ~6,138 |
+| You're Really Something Else | 32.00% | ~5,952 |
+| Drama CP: Reel to Real | 31.00% | ~5,766 |
+| Happy Family | 30.00% | ~5,580 |
+| FIRST LOVE | 30.00% | ~5,580 |
+| Worthless Speech | 30.00% | ~5,580 |
+| Absolutely Elegant | 28.00% | ~5,208 |
+| Still Single | 28.00% | ~5,208 |
+| ONE PUNCH | 28.00% | ~5,208 |
+| Days Of Innocence | 26.00% | ~4,836 |
+| David | 26.00% | ~4,836 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,650 |
 | A Slap In The Face! | 22.00% | ~4,092 |
 | That's So You | 22.00% | ~4,092 |
@@ -48,8 +48,8 @@ Rating: 4.69 (Ranked 239)
 | Tall; Grande; Venti | 2.00% | ~372 |
 | Limerence | 2.00% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,598 (Ranked 161)  
-Completed: 323 (1.74%) (Ranked 145)  
+Progressed: 18,600 (Ranked 161)  
+Completed: 324 (1.74%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,14 +147,14 @@ Completed: 323 (1.74%) (Ranked 145)
 | 2024-01-11 | 18,396 | 316 |
 | 2024-01-12 | 18,482 | 319 |
 | 2024-01-13 | 18,544 | 320 |
-| 2024-01-14 | 18,598 | 323 |
+| 2024-01-14 | 18,600 | 324 |
 ## Awards
-Max (Impact the Story): 37  (Ranked 497)  
-Sum: 37 (Ranked 532)  
-Diff (max vs sum): -35  
+Max (Impact the Story): 38  (Ranked 493)  
+Sum: 38 (Ranked 531)  
+Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 37 |
+| In this game, your choices Impact the Story | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -201,3 +201,4 @@ Diff (max vs sum): -35
 | 2024-01-09 | 4.69 | 34 | 34 |
 | 2024-01-10 | 4.69 | 36 | 36 |
 | 2024-01-12 | 4.69 | 37 | 37 |
+| 2024-01-14 | 4.70 | 38 | 38 |

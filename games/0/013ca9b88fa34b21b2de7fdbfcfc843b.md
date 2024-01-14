@@ -28,9 +28,9 @@ Rating: 4.64 (Ranked 344)
 | Flaming Hot Completos | 0.90% | ~82 |
 | Fae Farmer | 0.80% | ~72 |
 | Got to Catch Them All | 0.80% | ~72 |
+| Fanatical Farmer | 0.80% | ~72 |
 | Scattered Scroll Scrounger | 0.70% | ~63 |
 | Rumble in the Jumble | 0.70% | ~63 |
-| Fanatical Farmer | 0.70% | ~63 |
 | Azorian Hat Dance | 0.70% | ~12 |
 | I Now Pronounce You... | 0.50% | ~45 |
 | Chatty Neighbor | 0.50% | ~45 |

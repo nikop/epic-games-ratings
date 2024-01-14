@@ -25,9 +25,9 @@ Number of Ratings: 48  (23.09.2022)
 | Natural Born Monster-Killer | 34.00% | ~273 |
 | The Lava Mantor Wyrm | 33.00% | ~265 |
 | One Mean Merc | 33.00% | ~265 |
+| Adept, for an Acting Mayor | 33.00% | ~265 |
 | Money, Money, Money | 33.00% | ~265 |
 | The Great Forest...On Foot! | 33.00% | ~265 |
-| Adept, for an Acting Mayor | 32.00% | ~257 |
 | Rune Wall Master | 31.00% | ~249 |
 | The Quarry...On Foot! | 29.00% | ~233 |
 | The Runebarrows...On Foot! | 27.00% | ~217 |
@@ -39,7 +39,7 @@ Number of Ratings: 48  (23.09.2022)
 | The Pride of the Town | 21.00% | ~169 |
 | This Treasure I've Found | 19.00% | ~153 |
 | New Nevaeh's Number One Customer | 19.00% | ~153 |
-| Arms Master | 17.00% | ~137 |
+| Arms Master | 18.00% | ~145 |
 | Rune Scholar | 15.00% | ~120 |
 | No Treasure Left Behind | 12.00% | ~96 |
 | Sommelier | 11.00% | ~88 |

@@ -13,9 +13,9 @@
 | It's a Deal! | 18.00% | ~24 |
 | Cat Lover | 15.00% | ~20 |
 | Dynamite, Treason and Coconuts | 15.00% | ~20 |
+| Save a Friend | 14.00% | ~19 |
 | In the Name of the Law | 13.00% | ~17 |
 | Au Revoir, Abudin | 13.00% | ~17 |
-| Save a Friend | 13.00% | ~17 |
 | Mysterious Bungalow | 12.00% | ~16 |
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
@@ -25,9 +25,9 @@
 | Barking Dog | 9.00% | ~12 |
 | Under the Hood | 7.00% | ~9 |
 | Long Live Gaipajama! | 7.00% | ~9 |
+| Tintin, Reporter | 7.00% | ~9 |
 | Mummy Nightmare | 7.00% | ~9 |
 | Subtlety | 7.00% | ~9 |
-| Tintin, Reporter | 6.00% | ~8 |
 | Mountain Runner | 4.00% | ~5 |
 | A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |

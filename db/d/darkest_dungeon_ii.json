@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10786,18 +10786,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21646,
       "NumberOfAwardsMax": 8016
+    },
+    {
+      "Time": "2024-01-14T17:58:44.8735799+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21652,
+      "NumberOfAwardsMax": 8022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21646,
-  "NumberOfAwardsMax": 8016,
+  "NumberOfAwards": 21652,
+  "NumberOfAwardsMax": 8022,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8016
+      "Count": 8022
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10866,9 +10872,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132796,
+  "EOS_Progressed": 132803,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39856,6 +39862,11 @@
       "Time": "2024-01-14T17:10:00.1174884+00:00",
       "NumProgressed": 132796,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-14T18:11:38.6519248+00:00",
+      "NumProgressed": 132803,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40403,7 +40414,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "combat_kill_collector",
@@ -40498,21 +40509,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132796,
+      "Progressed": 132803,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7665,
+      "Progressed": 7672,
       "Completed": 825
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-14T16:57:49.6398047+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:10:00.1174881+00:00",
+  "LastChanged": "2024-01-14T17:58:44.8735794+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:11:38.6519243+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:57:49.6398053+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:10:00.1177288+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:58:44.8735803+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:11:38.6520871+00:00"
 }

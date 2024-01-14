@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3601,9 +3601,9 @@
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 260
     },
     {
       "ID": "CompleteChapter8",
@@ -3720,8 +3720,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:06:06.4603143+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:08:33.0844121+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:57:55.2099164+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:06:06.4603583+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:58:54.1593471+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:08:33.0844475+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,073 |
+| Malpractice Assurance | 14.00% | ~1,074 |
 | Lost and Found | 9.00% | ~690 |
 | Autodidact | 8.00% | ~10,624 |
 | This Belongs in a Museum | 7.00% | ~9,296 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,796 (Ranked 92)  
+Progressed: 132,803 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,14 +345,14 @@ Completed: 4 (0.00%) (Ranked 400)
 | 2024-01-11 | 132,491 | 4 |
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
-| 2024-01-14 | 132,796 | 4 |
+| 2024-01-14 | 132,803 | 4 |
 ## Awards
-Max (Character Customization): 8,016  (Ranked 51)  
-Sum: 21,646 (Ranked 58)  
+Max (Character Customization): 8,022  (Ranked 51)  
+Sum: 21,652 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,016 |
+| This game has Inclusive Character Customization | 8,022 |
 | This game has Diverse Characters | 1,855 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,607 |
@@ -718,4 +718,4 @@ Diff (max vs sum): -7
 | 2024-01-11 | 4.68 | - | 8,002 | 21,592 |
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
-| 2024-01-14 | 4.68 | - | 8,016 | 21,646 |
+| 2024-01-14 | 4.68 | - | 8,022 | 21,652 |

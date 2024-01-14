@@ -20,12 +20,12 @@
 | The bad boy | 5.00% | ~26 |
 | Picky! | 4.00% | ~21 |
 | Playing the field | 4.00% | ~21 |
+| Go well, lad | 4.00% | ~21 |
 | Keep the spark alive | 3.00% | ~16 |
-| Go well, lad | 3.00% | ~16 |
 | Muggy Misha | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 522 (Ranked 353)  
-Completed: 6 (1.15%) (Ranked 166)  
+Completed: 7 (1.34%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,7 +145,7 @@ Completed: 6 (1.15%) (Ranked 166)
 | 2024-01-11 | 512 | 6 |
 | 2024-01-12 | 514 | 6 |
 | 2024-01-13 | 519 | 6 |
-| 2024-01-14 | 522 | 6 |
+| 2024-01-14 | 522 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

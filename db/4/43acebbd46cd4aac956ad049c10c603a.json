@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -331,9 +331,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 1402,
+  "EOS_Progressed": 1403,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4076,6 +4076,11 @@
       "Time": "2024-01-14T17:04:40.6296077+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-14T18:06:31.7510446+00:00",
+      "NumProgressed": 1403,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4152,7 +4157,7 @@
       "Name": "Chasing the Light",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Chicken",
@@ -4254,9 +4259,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 393
+      "UsersEstimate": 407
     },
     {
       "ID": "JustOneLap",
@@ -4288,7 +4293,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Mnemosyne",
@@ -4304,7 +4309,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MuseumVisitor",
@@ -4352,7 +4357,7 @@
       "Name": "Persistent",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "PrometheusUnbound",
@@ -4368,7 +4373,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4400,7 +4405,7 @@
       "Name": "Signatory",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "SingleRod",
@@ -4432,7 +4437,7 @@
       "Name": "Team Spirit",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "TextAdventurer",
@@ -4448,7 +4453,7 @@
       "Name": "The All-Gifted",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4488,7 +4493,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "TheWordEndures",
@@ -4504,7 +4509,7 @@
       "Name": "Touch Grass",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "TrevorsBiographer",
@@ -4528,7 +4533,7 @@
       "Name": "Wanderers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "WesternDelta",
@@ -4559,7 +4564,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1402,
+      "Progressed": 1403,
       "Completed": 2
     }
   ],
@@ -4567,8 +4572,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-12T23:00:35.1873511+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:04:40.6296075+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:06:31.7510442+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:57:38.6047852+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:04:40.6296622+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:58:29.1226894+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:06:31.7511013+00:00"
 }

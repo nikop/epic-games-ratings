@@ -6,25 +6,25 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,933 |
-| Photogenic | 82.00% | ~8,517 |
-| Surge Gauntlet Jockey | 79.00% | ~8,206 |
-| Plug It In | 78.00% | ~8,102 |
-| Adventure Time | 75.00% | ~7,790 |
+| Let's Get This Party Started | 86.00% | ~8,934 |
+| Photogenic | 82.00% | ~8,518 |
+| Surge Gauntlet Jockey | 79.00% | ~8,207 |
+| Plug It In | 78.00% | ~8,103 |
+| Adventure Time | 75.00% | ~7,791 |
 | Playing With Power | 72.00% | ~7,479 |
 | Coup d'Etat | 55.00% | ~5,713 |
-| You're Fired | 54.00% | ~5,609 |
-| Get Furious | 53.00% | ~5,505 |
-| Hacks In Stacks | 52.00% | ~5,401 |
-| Gunplay And Cosplay | 51.00% | ~5,297 |
+| You're Fired | 54.00% | ~5,610 |
+| Get Furious | 53.00% | ~5,506 |
+| Hacks In Stacks | 52.00% | ~5,402 |
+| Gunplay And Cosplay | 51.00% | ~5,298 |
 | Meching Enemies | 46.00% | ~4,778 |
 | Ticket Toddler | 41.00% | ~4,259 |
-| Booty Bashing | 36.00% | ~3,739 |
-| Field Medic | 36.00% | ~3,739 |
-| Here Comes a New Challenger | 35.00% | ~3,635 |
+| Booty Bashing | 36.00% | ~3,740 |
+| Field Medic | 36.00% | ~3,740 |
+| Here Comes a New Challenger | 35.00% | ~3,636 |
 | Rapid Response | 31.00% | ~3,220 |
-| Surge Ahead | 29.00% | ~3,012 |
-| The Full Monty | 29.00% | ~3,012 |
+| Surge Ahead | 29.00% | ~3,013 |
+| The Full Monty | 29.00% | ~3,013 |
 | Guardian Angel | 26.00% | ~2,701 |
 | Poppin Noggins | 23.00% | ~2,389 |
 | Clips and Crits | 18.00% | ~1,870 |
@@ -41,10 +41,10 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Gauntlet Scholar | 6.00% | ~623 |
 | Ticket Titan | 6.00% | ~623 |
 | Master of Arms | 5.00% | ~519 |
-| No Chill | 4.00% | ~415 |
-| Start Your Collection | 4.00% | ~415 |
-| Stop Hitting Yourself | 4.00% | ~415 |
-| Team Player | 4.00% | ~415 |
+| No Chill | 4.00% | ~416 |
+| Start Your Collection | 4.00% | ~416 |
+| Stop Hitting Yourself | 4.00% | ~416 |
+| Team Player | 4.00% | ~416 |
 | Event Horizon | 3.00% | ~312 |
 | Ground Control | 3.00% | ~312 |
 | Treasure Hunting | 3.00% | ~312 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,387 (Ranked 183)  
+Progressed: 10,388 (Ranked 183)  
 Completed: 2 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 2 (0.02%) (Ranked 366)
 | 2024-01-11 | 10,363 | 2 |
 | 2024-01-12 | 10,373 | 2 |
 | 2024-01-13 | 10,381 | 2 |
-| 2024-01-14 | 10,387 | 2 |
+| 2024-01-14 | 10,388 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 425)  
 Sum: 465 (Ranked 341)  

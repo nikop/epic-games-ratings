@@ -15,17 +15,17 @@
 | Subsistence Skills | 48.00% | ~655 |
 | Fusion Conjuror | 46.00% | ~628 |
 | Kemono Hunter | 43.00% | ~587 |
+| Expert Conjuror | 41.00% | ~560 |
 | Helpful Heart | 40.00% | ~546 |
-| Expert Conjuror | 40.00% | ~546 |
 | Flawless Crystal | 38.00% | ~519 |
 | Bonds of Enmity | 38.00% | ~519 |
 | Distance Devourer | 36.00% | ~491 |
 | Counter Specialist | 34.00% | ~464 |
 | Master of the Skies | 31.00% | ~423 |
 | Axer of Auspice | 28.00% | ~382 |
+| Mighty Marmelizer | 27.00% | ~369 |
 | Fair Means or Foul | 27.00% | ~369 |
 | Kemono at Heart | 27.00% | ~369 |
-| Mighty Marmelizer | 26.00% | ~355 |
 | Single Minded | 25.00% | ~341 |
 | Snare Specialist | 24.00% | ~328 |
 | Karakuri Trail | 23.00% | ~314 |

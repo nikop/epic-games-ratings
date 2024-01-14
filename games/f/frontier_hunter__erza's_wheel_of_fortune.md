@@ -5,20 +5,20 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~700 |
-| Training Simulation | 79.00% | ~595 |
-| Kuku Bird Hunter | 65.00% | ~489 |
+| Travel Streamer | 93.00% | ~701 |
+| Training Simulation | 79.00% | ~596 |
+| Kuku Bird Hunter | 65.00% | ~490 |
 | Storm Traveller | 60.00% | ~452 |
-| Wolf King Killer | 55.00% | ~414 |
-| Fashion Connoisseur | 53.00% | ~399 |
+| Wolf King Killer | 55.00% | ~415 |
+| Fashion Connoisseur | 53.00% | ~400 |
 | Arms Mechanic | 49.00% | ~369 |
-| Flower Thief | 44.00% | ~331 |
+| Flower Thief | 44.00% | ~332 |
 | Apostle of Flame | 39.00% | ~294 |
-| Beginner Artificer | 38.00% | ~286 |
+| Beginner Artificer | 38.00% | ~287 |
 | Beginner Cook | 37.00% | ~279 |
 | Seal Breaker | 32.00% | ~241 |
 | Handyman | 28.00% | ~211 |
-| Giant Lizard Killer | 27.00% | ~203 |
+| Giant Lizard Killer | 27.00% | ~204 |
 | Guardian | 25.00% | ~188 |
 | Nosebleeder | 25.00% | ~188 |
 | Trader | 22.00% | ~166 |
@@ -29,7 +29,7 @@ Rating: 4.38 (Ranked 797)
 | Lethal Blade Mantis Killer | 17.00% | ~128 |
 | Squeaky Clean | 17.00% | ~128 |
 | Master Artificer | 17.00% | ~128 |
-| Kind Adventurer | 16.00% | ~120 |
+| Kind Adventurer | 16.00% | ~121 |
 | Mermaid Killer | 15.00% | ~113 |
 | Cave Master | 15.00% | ~113 |
 | Face Slapper | 15.00% | ~113 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 797)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 753 (Ranked 322)  
+Progressed: 754 (Ranked 322)  
 Completed: 3 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 3 (0.40%) (Ranked 241)
 | 2024-01-10 | 744 | 3 |
 | 2024-01-11 | 748 | 3 |
 | 2024-01-13 | 749 | 3 |
-| 2024-01-14 | 753 | 3 |
+| 2024-01-14 | 754 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

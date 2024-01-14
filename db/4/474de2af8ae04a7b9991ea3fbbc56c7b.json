@@ -2,10 +2,10 @@
   "ID": "474de2af8ae04a7b9991ea3fbbc56c7b",
   "Name": "CounterAttack: Uprising",
   "ProductSlug": "counterattackuprising-06aed8",
-  "Ranking_EOS_Progress": 646,
+  "Ranking_EOS_Progress": 641,
   "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2024-01-12T02:00:00+00:00",
     "PcReleaseDate": "2019-03-11T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2024-01-14T11:09:16.8941097+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-14T18:10:38.5125959+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-15T22:08:55.1728388+00:00",
@@ -94,25 +99,25 @@
       "ID": "100Attachments",
       "SetID": "c18da06",
       "Name": "Unlock 100 Attachments",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "1Up",
       "SetID": "c18da06",
       "Name": "Get a free life!",
-      "Percentage": 71,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "1kAutomatons",
       "SetID": "c18da06",
       "Name": "Kill 1000 Automatons",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "200Attachments",
@@ -134,9 +139,9 @@
       "ID": "40Attachments",
       "SetID": "c18da06",
       "Name": "40 Attachments",
-      "Percentage": 21,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "550Attachments",
@@ -150,7 +155,7 @@
       "ID": "AngryReloader",
       "SetID": "c18da06",
       "Name": "Angry Reloader",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -190,7 +195,7 @@
       "ID": "HuntTheHunter",
       "SetID": "c18da06",
       "Name": "Hunt the Hunter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -208,7 +213,7 @@
       "Name": "Kill 100 Automatons",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Kill100k",
@@ -222,9 +227,9 @@
       "ID": "Kill10k",
       "SetID": "c18da06",
       "Name": "Kill 10,000 Automatons",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Kill1M",
@@ -262,15 +267,15 @@
       "ID": "Super10",
       "SetID": "c18da06",
       "Name": "Use 10 Ultimates",
-      "Percentage": 64,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Super100",
       "SetID": "c18da06",
       "Name": "User 100 Ultimates",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -287,14 +292,14 @@
     {
       "ID": "c18da06",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-12T22:00:00.0081569+00:00",
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:09:17.1873308+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:10:38.5125955+00:00",
   "LastUpdate_AppInfo": "2024-01-08T02:21:08.020016+00:00",
-  "LastUpdate_Ratings": "2024-01-14T16:57:34.437561+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:09:17.1873454+00:00"
+  "LastUpdate_Ratings": "2024-01-14T17:58:22.6287054+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:10:38.5126093+00:00"
 }

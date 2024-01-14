@@ -49,9 +49,9 @@
 | The Big Picture | 0.90% | ~3 |
 | Rocket Science | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
+| Letting go | 0.60% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
 | You might have a problem | 0.30% | ~1 |
-| Letting go | 0.30% | ~1 |
 | The Tree and the Apple | 0.30% | ~1 |
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |

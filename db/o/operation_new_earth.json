@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 261,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2242,
+  "EOS_Progressed": 2243,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8661,6 +8661,11 @@
       "Time": "2024-01-14T16:04:41.7612421+00:00",
       "NumProgressed": 2242,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-14T18:06:32.2187946+00:00",
+      "NumProgressed": 2243,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8776,7 +8781,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8928,7 +8933,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -8975,7 +8980,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2242,
+      "Progressed": 2243,
       "Completed": 1
     }
   ],
@@ -8983,8 +8988,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:04:41.0238137+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:06:32.218794+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:00:04.1178053+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:04:41.0238882+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:02:08.0296743+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:06:32.2188506+00:00"
 }

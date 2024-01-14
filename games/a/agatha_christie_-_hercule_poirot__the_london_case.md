@@ -30,16 +30,16 @@
 | Bartholomew | 29.00% | ~33 |
 | Well-acquainted | 27.00% | ~31 |
 | Anastasia Babanin | 27.00% | ~31 |
+| Zakariya Demir | 27.00% | ~31 |
 | The Scheme | 27.00% | ~31 |
-| Zakariya Demir | 26.00% | ~29 |
-| Truth from within | 24.00% | ~27 |
-| A curious phrase | 21.00% | ~24 |
+| Truth from within | 25.00% | ~28 |
+| A curious phrase | 22.00% | ~25 |
+| The Suspects | 22.00% | ~25 |
 | Evelyn Lakshmi Warbeck | 21.00% | ~24 |
-| The Suspects | 21.00% | ~24 |
 | Horace Mountjoy | 20.00% | ~23 |
+| Johan Kristiansen | 20.00% | ~23 |
 | The Secrets | 20.00% | ~23 |
 | A peculiar fellow | 19.00% | ~21 |
-| Johan Kristiansen | 19.00% | ~21 |
 | Mortimer Ailsworth | 19.00% | ~21 |
 | Well-travelled | 18.00% | ~20 |
 | Florence Farquhar | 17.00% | ~19 |

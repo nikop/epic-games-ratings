@@ -6,22 +6,22 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~451,804 |
-| The Three | 64.00% | ~348,379 |
-| The Banquet | 40.00% | ~217,737 |
-| Devara's Light | 31.00% | ~168,746 |
-| The Iron Ones | 19.00% | ~103,425 |
-| The Village | 17.00% | ~92,538 |
-| The Forest | 15.00% | ~81,651 |
-| Branded | 14.00% | ~76,208 |
-| The Imposter | 14.00% | ~76,208 |
-| The Keep | 14.00% | ~76,208 |
+| Find Sanctuary | 83.00% | ~451,809 |
+| The Three | 64.00% | ~348,383 |
+| The Banquet | 40.00% | ~217,739 |
+| Devara's Light | 31.00% | ~168,748 |
+| The Iron Ones | 19.00% | ~103,426 |
+| The Village | 17.00% | ~92,539 |
+| The Forest | 15.00% | ~81,652 |
+| Branded | 14.00% | ~76,209 |
+| The Imposter | 14.00% | ~76,209 |
+| The Keep | 14.00% | ~76,209 |
 | The Castle | 11.00% | ~59,878 |
 | The Dome | 9.00% | ~48,991 |
 | The Red Hall | 9.00% | ~48,991 |
 | The Sacrifice | 9.00% | ~48,991 |
-| The Cave | 8.00% | ~43,547 |
-| The Ziggurat | 8.00% | ~43,547 |
+| The Cave | 8.00% | ~43,548 |
+| The Ziggurat | 8.00% | ~43,548 |
 | The Mire | 7.00% | ~38,104 |
 | The Stone Roots | 7.00% | ~38,104 |
 | Storied | 6.00% | ~32,661 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,887 |
 | Fading Fast | 1.00% | ~5,443 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,342 (Ranked 36)  
+Progressed: 544,348 (Ranked 36)  
 Completed: 1,682 (0.31%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,11 +313,11 @@ Completed: 1,682 (0.31%) (Ranked 257)
 | 2024-01-11 | 544,055 | 1,679 |
 | 2024-01-12 | 544,136 | 1,681 |
 | 2024-01-13 | 544,258 | 1,682 |
-| 2024-01-14 | 544,342 | 1,682 |
+| 2024-01-14 | 544,348 | 1,682 |
 ## Awards
-Max (Challenging Combat): 298  (Ranked 263)  
+Max (Challenging Combat): 298  (Ranked 265)  
 Sum: 2,036 (Ranked 220)  
-Diff (max vs sum): 43  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 298 |

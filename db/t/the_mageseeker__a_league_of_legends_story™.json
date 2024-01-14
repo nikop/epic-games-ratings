@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3453,
+  "EOS_Progressed": 3454,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -6511,6 +6511,11 @@
       "Time": "2024-01-14T13:07:58.7014727+00:00",
       "NumProgressed": 3453,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-14T18:06:09.8981358+00:00",
+      "NumProgressed": 3454,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 53,
@@ -6522,7 +6527,7 @@
       "Name": "Embrace the darkness",
       "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_COLISSEUM_FIRST",
@@ -6538,7 +6543,7 @@
       "Name": "Whispers in the Woods IV",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_COLISSEUM_SECOND",
@@ -6562,7 +6567,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6570,7 +6575,7 @@
       "Name": "Elemental master",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6586,7 +6591,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3280
+      "UsersEstimate": 3281
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6602,7 +6607,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6642,7 +6647,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6658,7 +6663,7 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6706,7 +6711,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3109
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6722,7 +6727,7 @@
       "Name": "The end of the experiments",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -6738,7 +6743,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6746,7 +6751,7 @@
       "Name": "Thornbarrow",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6760,9 +6765,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1140
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6770,7 +6775,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6810,7 +6815,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -6818,7 +6823,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_PET_DOG",
@@ -6890,7 +6895,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -6922,7 +6927,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -6945,7 +6950,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3453,
+      "Progressed": 3454,
       "Completed": 27
     }
   ],
@@ -6953,8 +6958,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-09T21:58:22.8970062+00:00",
-  "LastChanged_Achievements": "2024-01-14T17:04:25.3431517+00:00",
+  "LastChanged_Achievements": "2024-01-14T18:06:09.8981355+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-14T17:02:45.6330195+00:00",
-  "LastUpdate_Achievements": "2024-01-14T17:04:25.3432316+00:00"
+  "LastUpdate_Ratings": "2024-01-14T18:03:43.4958606+00:00",
+  "LastUpdate_Achievements": "2024-01-14T18:06:09.8981949+00:00"
 }
