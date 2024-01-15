@@ -8,7 +8,7 @@
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.91% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 38.85% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
 | 11 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 30.61% |
@@ -28,7 +28,7 @@
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.54% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.53% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -54,7 +54,7 @@
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
 | 54 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.59% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.49% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.52% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.47% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
@@ -62,7 +62,7 @@
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
-| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.80% |
+| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.78% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -74,14 +74,14 @@
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.97% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.76% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.95% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.94% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.82% |
 | 78 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.76% |
 | 80 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 80 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.55% |
-| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.47% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.46% |
 | 83 | [JARS](games/j/jars.md) | 4.42% |
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
 | 85 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.37% |
@@ -95,7 +95,7 @@
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.91% |
 | 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.75% |
 | 95 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
-| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.67% |
+| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.66% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.61% |
 | 98 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.57% |
 | 98 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
@@ -145,7 +145,7 @@
 | 143 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 144 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.74% |
-| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.72% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.73% |
 | 147 | [Sifu](games/s/sifu.md) | 1.71% |
 | 148 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 149 | [Frogun](games/f/frogun.md) | 1.67% |
@@ -197,7 +197,7 @@
 | 195 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 196 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 197 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.76% |
-| 197 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.76% |
+| 198 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.75% |
 | 199 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.74% |
 | 199 | [Infindustry](games/i/infindustry.md) | 0.74% |
 | 201 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
@@ -220,9 +220,9 @@
 | 218 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 219 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 220 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
-| 221 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.53% |
-| 222 | [Five Dates](games/f/five_dates.md) | 0.52% |
-| 222 | [Tails of Iron](games/t/tails_of_iron.md) | 0.52% |
+| 221 | [Five Dates](games/f/five_dates.md) | 0.52% |
+| 221 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.52% |
+| 221 | [Tails of Iron](games/t/tails_of_iron.md) | 0.52% |
 | 224 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 224 | [Haven](games/h/haven.md) | 0.50% |
 | 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
