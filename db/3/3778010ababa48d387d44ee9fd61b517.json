@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2024-01-15T10:05:28.5806249+00:00",
       "NumProgressed": 131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T12:05:56.1225058+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -546,7 +551,7 @@
       "Name": "Researcher",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_ARTIFACT",
@@ -562,7 +567,7 @@
       "Name": "The Avatar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_CHAINBOLT",
@@ -626,7 +631,7 @@
       "Name": "Evolution",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_GOLD_PILES",
@@ -704,9 +709,9 @@
       "ID": "A_LEVEL",
       "SetID": "324h56e",
       "Name": "Ding!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "A_MEAT meat (0-10000)",
@@ -714,7 +719,7 @@
       "Name": "Fresh Meat!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -728,9 +733,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "A_NOFISH",
@@ -738,7 +743,7 @@
       "Name": "Fish Lover",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_ORB",
@@ -746,7 +751,7 @@
       "Name": "Orb of Wisdom",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "A_POPULATION",
@@ -794,7 +799,7 @@
       "Name": "Silencer",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "A_SUN",
@@ -810,15 +815,15 @@
       "Name": "The Sunken City",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "A_TURTLES",
@@ -857,14 +862,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 131,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:05:15.326725+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:05:56.1225054+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:58:13.5562977+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:05:15.326774+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:58:31.0056885+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:05:56.1225411+00:00"
 }

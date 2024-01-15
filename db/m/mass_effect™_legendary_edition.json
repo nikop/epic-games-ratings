@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4369,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8440,9 +8440,9 @@
       "ID": "achievement_116",
       "SetID": "d252ncf",
       "Name": "The One and Only",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_117",
@@ -9316,8 +9316,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:10:20.7120734+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:11:11.1497214+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:03:40.5344133+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:10:20.712272+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:03:44.392288+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:11:11.1499136+00:00"
 }

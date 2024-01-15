@@ -8185,9 +8185,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151241,
+  "EOS_Progressed": 151249,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 981,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36790,6 +36790,11 @@
       "Time": "2024-01-15T11:09:09.3416764+00:00",
       "NumProgressed": 151241,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T12:09:37.7788764+00:00",
+      "NumProgressed": 151249,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36881,7 +36886,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9074
+      "UsersEstimate": 9075
     },
     {
       "ID": "bigsale02",
@@ -36905,7 +36910,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9074
+      "UsersEstimate": 9075
     },
     {
       "ID": "blueprint02",
@@ -37033,7 +37038,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "commonres02",
@@ -37065,7 +37070,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12099
+      "UsersEstimate": 12100
     },
     {
       "ID": "craft02",
@@ -37153,7 +37158,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9074
+      "UsersEstimate": 9075
     },
     {
       "ID": "energy02",
@@ -37273,7 +37278,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15124
+      "UsersEstimate": 15125
     },
     {
       "ID": "gold02",
@@ -37281,7 +37286,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9074
+      "UsersEstimate": 9075
     },
     {
       "ID": "gold03",
@@ -37577,7 +37582,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12099
+      "UsersEstimate": 12100
     },
     {
       "ID": "sell02",
@@ -37665,7 +37670,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9074
+      "UsersEstimate": 9075
     },
     {
       "ID": "workers02",
@@ -37696,15 +37701,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151241,
+      "Progressed": 151249,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-15T11:03:36.7538365+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:09:09.341676+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:09:37.7788759+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:03:36.7538371+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:09:09.3419337+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:03:38.3665325+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:09:37.7791489+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "hockey-legacy-manager-24-04beec",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-02T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-02T08:58:57.1750957+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.1740022+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:58:09.0934023+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:04:09.6997402+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:58:24.8911403+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:04:25.763569+00:00"
 }

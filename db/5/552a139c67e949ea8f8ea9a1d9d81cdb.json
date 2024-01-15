@@ -5177,9 +5177,9 @@
       "ID": "ML_ACHIEVEMENT_16",
       "SetID": "5k00jcd",
       "Name": "Stage animal",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ML_ACHIEVEMENT_17",
@@ -5438,8 +5438,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:08:38.8144323+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:08:55.1889886+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:03:06.5270027+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:08:38.8144883+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:02:55.5632039+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:08:55.1890651+00:00"
 }

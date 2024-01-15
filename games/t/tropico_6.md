@@ -8,14 +8,14 @@ Number of Ratings: 398  (23.09.2022)
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 73.00% | ~5,220 |
 | Un-Lonely Island | 44.00% | ~3,146 |
-| The Beginning of a Servantship | 43.00% | ~3,074 |
-| Trade Is My Trait | 35.00% | ~2,502 |
-| Number 18 | 23.00% | ~1,644 |
+| The Beginning of a Servantship | 43.00% | ~3,075 |
+| Trade Is My Trait | 35.00% | ~2,503 |
+| Number 18 | 23.00% | ~1,645 |
 | We Don't Have Time For That | 18.00% | ~1,287 |
 | The Legend of Langostino | 16.00% | ~1,144 |
 | The Governator | 16.00% | ~1,144 |
-| Caribbean Comrade | 15.00% | ~1,072 |
-| The Dreamer of Dreams | 15.00% | ~1,072 |
+| Caribbean Comrade | 15.00% | ~1,073 |
+| The Dreamer of Dreams | 15.00% | ~1,073 |
 | Happy Ending? | 10.00% | ~715 |
 | Go Sovereigns! | 10.00% | ~715 |
 | For Science! | 10.00% | ~715 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~358 |
 | Watch The World Burn | 5.00% | ~358 |
 | Fairy Tale Come True | 5.00% | ~358 |
-| Been there, Done That | 3.00% | ~214 |
-| Apocalypso | 3.00% | ~214 |
-| Narcissist | 3.00% | ~214 |
-| The Time For Wonders | 3.00% | ~214 |
+| Been there, Done That | 3.00% | ~215 |
+| Apocalypso | 3.00% | ~215 |
+| Narcissist | 3.00% | ~215 |
+| The Time For Wonders | 3.00% | ~215 |
 | One Does Not Simply Stage A Coup | 2.00% | ~143 |
 | Promising Endeavors | 2.00% | ~143 |
 | Sublime Subliminal Supreme | 2.00% | ~143 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,150 (Ranked 198)  
+Progressed: 7,151 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.03%) (Ranked 358)
 | 2024-01-12 | 7,100 | 2 |
 | 2024-01-13 | 7,124 | 2 |
 | 2024-01-14 | 7,146 | 2 |
-| 2024-01-15 | 7,150 | 2 |
+| 2024-01-15 | 7,151 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 372)  
 Sum: 766 (Ranked 302)  

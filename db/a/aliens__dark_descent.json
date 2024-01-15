@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 6442,
+  "EOS_Progressed": 6443,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9851,6 +9851,11 @@
       "Time": "2024-01-15T09:05:02.4821501+00:00",
       "NumProgressed": 6442,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T12:06:00.5800132+00:00",
+      "NumProgressed": 6443,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9958,7 +9963,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4187
+      "UsersEstimate": 4188
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -9966,7 +9971,7 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -9982,7 +9987,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10014,7 +10019,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -10086,7 +10091,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2190
+      "UsersEstimate": 2191
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10102,7 +10107,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10158,7 +10163,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4123
+      "UsersEstimate": 4124
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10166,7 +10171,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10174,7 +10179,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10182,7 +10187,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10198,7 +10203,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2061
+      "UsersEstimate": 2062
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10214,14 +10219,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6442,
+      "Progressed": 6443,
       "Completed": 3
     }
   ],
@@ -10229,8 +10234,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:05:18.5806231+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:06:00.5800126+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:57:59.6843527+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:05:18.5807152+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:58:11.1321754+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:06:00.5801071+00:00"
 }

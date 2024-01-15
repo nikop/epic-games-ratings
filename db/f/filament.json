@@ -426,9 +426,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209186,
+  "EOS_Progressed": 209189,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 397,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29291,6 +29291,11 @@
       "Time": "2024-01-15T11:05:12.1942028+00:00",
       "NumProgressed": 209186,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2024-01-15T12:05:51.7216668+00:00",
+      "NumProgressed": 209189,
+      "NumCompleted": 564
     }
   ],
   "TotalAchievements": 29,
@@ -29326,7 +29331,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196635
+      "UsersEstimate": 196638
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29358,7 +29363,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -29398,7 +29403,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -29510,7 +29515,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -29533,7 +29538,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209186,
+      "Progressed": 209189,
       "Completed": 564
     }
   ],
@@ -29541,8 +29546,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:05:12.1942024+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:05:51.7216665+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2678831+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:03:05.4356322+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:05:12.1944393+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:02:53.2517105+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:05:51.7218785+00:00"
 }

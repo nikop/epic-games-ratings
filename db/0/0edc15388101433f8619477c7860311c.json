@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 117,
+  "EOS_Progressed": 118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -574,6 +574,11 @@
       "Time": "2024-01-14T18:05:31.8517816+00:00",
       "NumProgressed": 117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T12:04:56.6489186+00:00",
+      "NumProgressed": 118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -592,7 +597,7 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 50
     },
@@ -610,7 +615,7 @@
       "Name": "Haunting Specter",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "HeartHurt",
@@ -626,7 +631,7 @@
       "Name": "Hide-and-Seek Expert",
       "Percentage": 32,
       "XP": 65,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "HonoraryAlumni",
@@ -658,13 +663,13 @@
       "Name": "Conveying Love through Letters",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 37
     },
@@ -672,7 +677,7 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 50
     },
@@ -682,7 +687,7 @@
       "Name": "Mortuary Makeup Artist",
       "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NoOneLeft",
@@ -704,7 +709,7 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 25,
       "UsersEstimate": 106
     },
@@ -746,7 +751,7 @@
       "Name": "Waiting for Salvation",
       "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WhoseChild",
@@ -754,21 +759,21 @@
       "Name": "Whose Child?",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 117,
+      "Progressed": 118,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:04:32.3556143+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:04:56.6489182+00:00",
   "LastUpdate_AppInfo": "2024-01-08T15:56:55.2153552+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:57:54.6624363+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:04:32.3556328+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:58:03.2491675+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:04:56.6489362+00:00"
 }

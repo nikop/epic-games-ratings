@@ -49,8 +49,8 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.60% | ~23 |
 | Reign of Confusion | 0.50% | ~19 |
 | Abomination | 0.50% | ~19 |
+| Suffer Not the Mutant | 0.50% | ~19 |
 | Deadshot | 0.40% | ~16 |
-| Suffer Not the Mutant | 0.40% | ~16 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
 | Unstable Immaterium | 0.30% | ~12 |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-15 | 3,899 | 0 |
 ## Awards
 Max (Character Customization): 236  (Ranked 284)  
-Sum: 505 (Ranked 336)  
+Sum: 506 (Ranked 336)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): -52
 | This game has Diverse Characters | 31 |
 | This game has Competitive Players | 30 |
 | This game has Challenging Combat | 29 |
-| This game is Relaxing | 25 |
+| This game is Relaxing | 26 |
 | This game has Quickly Understood Controls | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -456,4 +456,4 @@ Diff (max vs sum): -52
 | 2024-01-07 | 4.58 | - | 233 | 500 |
 | 2024-01-11 | 4.58 | - | 233 | 502 |
 | 2024-01-13 | 4.58 | - | 235 | 504 |
-| 2024-01-15 | 4.58 | - | 236 | 505 |
+| 2024-01-15 | 4.58 | - | 236 | 506 |

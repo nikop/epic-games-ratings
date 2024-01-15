@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.60% | ~101 |
 | Enlightenment | 0.60% | ~101 |
 | Redemption | 0.60% | ~101 |
+| Phalangite | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
 | Devout | 0.50% | ~84 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
 | Kushite Cavalry | 0.50% | ~84 |
-| Phalangite | 0.50% | ~84 |
 | Turreted Elephant | 0.50% | ~84 |
 | All Nations | 0.50% | ~84 |
 | Jerwan Aqueduct | 0.50% | ~84 |

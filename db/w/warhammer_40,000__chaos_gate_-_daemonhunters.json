@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -787,10 +787,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 505,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2024-01-15T12:03:36.5686068+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 506,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 505,
+  "NumberOfAwards": 506,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -840,7 +846,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6534,9 +6540,9 @@
       "ID": "Kills_TaintedSons_Execution",
       "SetID": "2im8phi",
       "Name": "Suffer Not the Mutant",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -6571,9 +6577,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-01-15T09:03:20.0472672+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:04:40.1905365+00:00",
+  "LastChanged": "2024-01-15T12:03:36.5686066+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:05:07.2429181+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:03:35.404093+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:04:40.1906075+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:03:36.5686071+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:05:07.2430002+00:00"
 }

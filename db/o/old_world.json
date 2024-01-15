@@ -2300,7 +2300,7 @@
   ],
   "EOS_Progressed": 16854,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22192,9 +22192,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -22990,8 +22990,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:10:21.905535+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:11:12.7233355+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:00:12.6655296+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:10:21.9065478+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:01:18.6713206+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:11:12.7245131+00:00"
 }

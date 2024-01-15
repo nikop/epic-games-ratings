@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 85.00% | ~324 |
-| Purification Pioneer | 80.00% | ~305 |
-| Mechanical Buddy | 75.00% | ~286 |
-| Dicesmithing Time! | 65.00% | ~248 |
+| Meissa's Savior | 85.00% | ~325 |
+| Purification Pioneer | 80.00% | ~306 |
+| Mechanical Buddy | 74.00% | ~283 |
+| Dicesmithing Time! | 64.00% | ~244 |
 | Sanctuary Guardian | 55.00% | ~210 |
-| Endless Tricks | 51.00% | ~194 |
+| Endless Tricks | 51.00% | ~195 |
 | Wild's Keeper | 49.00% | ~187 |
-| Mind Illuminator | 45.00% | ~171 |
+| Mind Illuminator | 45.00% | ~172 |
 | Stellar Dismantler | 39.00% | ~149 |
-| Astral Adventurer | 35.00% | ~133 |
-| Noctuan Champion | 35.00% | ~133 |
+| Astral Adventurer | 35.00% | ~134 |
+| Noctuan Champion | 35.00% | ~134 |
 | Anomaly Destroyer | 32.00% | ~122 |
 | Star Killer | 31.00% | ~118 |
 | Eridanian Champion | 26.00% | ~99 |
 | Lacertian Champion | 23.00% | ~88 |
 | Loyal Partner | 22.00% | ~84 |
-| Apian Champion | 19.00% | ~72 |
+| Apian Champion | 19.00% | ~73 |
 | Shard Spender | 18.00% | ~69 |
 | Unbeatable | 18.00% | ~69 |
 | Sadistic Plan | 16.00% | ~61 |
@@ -29,14 +29,14 @@
 | Wave Bender | 10.00% | ~38 |
 | Astral Seeker | 9.00% | ~34 |
 | Aquarian Champion | 9.00% | ~34 |
-| Heart Gate | 8.00% | ~30 |
-| Stellar Haste | 8.00% | ~30 |
+| Heart Gate | 8.00% | ~31 |
+| Stellar Haste | 8.00% | ~31 |
 | The Corruption Goddess | 7.00% | ~27 |
 | The Goddes Avatar | 7.00% | ~27 |
 | Favored by the Cosmos | 6.00% | ~23 |
-| Prestidigitation | 6.00% | ~23 |
 | Artificer | 5.00% | ~19 |
 | Can't touch this | 5.00% | ~19 |
+| Prestidigitation | 5.00% | ~19 |
 | Anomaly Control | 4.00% | ~15 |
 | Astrarium of Holding | 4.00% | ~15 |
 | Denying Destiny | 4.00% | ~15 |
@@ -103,7 +103,7 @@
 | Noctuan Mastery | 0.00% | ~0 |
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 376)  
+Progressed: 382 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,3 +184,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 378 | 0 |
 | 2024-01-13 | 379 | 0 |
 | 2024-01-14 | 381 | 0 |
+| 2024-01-15 | 382 | 0 |

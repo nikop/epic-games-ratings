@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2548,7 +2548,7 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226109,
+  "EOS_Progressed": 226113,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 1312,
   "EOS_NewCompleters": 2,
@@ -33643,6 +33643,11 @@
       "Time": "2024-01-15T11:06:19.711007+00:00",
       "NumProgressed": 226109,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-15T12:07:23.7467761+00:00",
+      "NumProgressed": 226113,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33718,7 +33723,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "Genin",
@@ -33726,7 +33731,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27133
+      "UsersEstimate": 27134
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33734,7 +33739,7 @@
       "Name": "Happy little accidents",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "HappyPlanning",
@@ -33822,7 +33827,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "Okkoto",
@@ -33830,7 +33835,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "OldMan",
@@ -33854,7 +33859,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "ReleaseTheKraken",
@@ -33886,7 +33891,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "Stoned",
@@ -33894,7 +33899,7 @@
       "Name": "Stoned",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "StonedOx",
@@ -33966,7 +33971,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 11305
+      "UsersEstimate": 11306
     },
     {
       "ID": "Warzone",
@@ -34005,15 +34010,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226109,
+      "Progressed": 226113,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-14T14:59:34.4621361+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:06:19.7110063+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:07:23.7467755+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:00:06.1088384+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:06:19.71118+00:00"
+  "LastUpdate_Ratings": "2024-01-15T12:01:09.2209068+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:07:23.7470425+00:00"
 }

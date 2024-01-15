@@ -15,9 +15,9 @@ Rating: 4.21 (Ranked 959)
 | Float Like A Butterfly | 18.00% | ~4,033 |
 | Workplace Hazard | 17.00% | ~3,809 |
 | If the SHU Fits... | 17.00% | ~3,809 |
-| Without A Paddle | 15.00% | ~3,360 |
-| In the Pipe, Five by Five | 13.00% | ~2,912 |
-| Crash Site | 13.00% | ~2,912 |
+| Without A Paddle | 15.00% | ~3,361 |
+| In the Pipe, Five by Five | 13.00% | ~2,913 |
+| Crash Site | 13.00% | ~2,913 |
 | Two Heads Are Better Than One | 12.00% | ~2,688 |
 | Power Up | 12.00% | ~2,688 |
 | Giving Back | 11.00% | ~2,464 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 959)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,403 (Ranked 151)  
+Progressed: 22,404 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,403 | 82 |
+| 2024-01-15 | 22,404 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
 Sum: 654 (Ranked 318)  

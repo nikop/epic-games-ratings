@@ -348,9 +348,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 29594,
+  "EOS_Progressed": 29597,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10633,6 +10633,11 @@
       "Time": "2024-01-15T11:10:04.9945138+00:00",
       "NumProgressed": 29594,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2024-01-15T12:10:51.6317401+00:00",
+      "NumProgressed": 29597,
+      "NumCompleted": 214
     }
   ],
   "TotalAchievements": 24,
@@ -10644,7 +10649,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "ACH_CollectAll",
@@ -10772,7 +10777,7 @@
       "Name": "Sector 1",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "ACH_Sector2",
@@ -10780,7 +10785,7 @@
       "Name": "Sector 2",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 8582
+      "UsersEstimate": 8583
     },
     {
       "ID": "ACH_Sector3",
@@ -10788,7 +10793,7 @@
       "Name": "Sector 3",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 7398
+      "UsersEstimate": 7399
     },
     {
       "ID": "ACH_Sector4",
@@ -10804,7 +10809,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3847
+      "UsersEstimate": 3848
     },
     {
       "ID": "ACH_Sector6",
@@ -10812,7 +10817,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3255
+      "UsersEstimate": 3256
     },
     {
       "ID": "ACH_Sector7",
@@ -10835,7 +10840,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 29594,
+      "Progressed": 29597,
       "Completed": 214
     }
   ],
@@ -10843,8 +10848,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-07T21:02:45.1474426+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:10:04.9945135+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:10:51.6317399+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:29.7811569+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:57:21.8540012+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:10:04.9945785+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:57:15.9452487+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:10:51.6317953+00:00"
 }

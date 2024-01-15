@@ -5,23 +5,23 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,559 |
-| On the Top Step | 83.00% | ~15,104 |
-| Setting up for Success | 69.00% | ~12,556 |
-| Team Orders | 68.00% | ~12,374 |
-| Engineer | 45.00% | ~8,189 |
-| Familiar Faces | 41.00% | ~7,461 |
-| Going the Extra Mile | 35.00% | ~6,369 |
-| Sharing the Love | 33.00% | ~6,005 |
-| Hitting a Season | 27.00% | ~4,913 |
-| Making History | 25.00% | ~4,549 |
-| A Dozen Pieces | 24.00% | ~4,367 |
-| Network Success | 23.00% | ~4,185 |
-| Challenge Yourself | 23.00% | ~4,185 |
-| Writing a new Chapter | 19.00% | ~3,457 |
-| Spring Cleaning | 18.00% | ~3,275 |
-| Ups and Downs | 15.00% | ~2,730 |
+| Getting on the Step | 91.00% | ~16,562 |
+| On the Top Step | 83.00% | ~15,106 |
+| Setting up for Success | 69.00% | ~12,558 |
+| Team Orders | 68.00% | ~12,376 |
+| Engineer | 45.00% | ~8,190 |
+| Familiar Faces | 41.00% | ~7,462 |
+| Going the Extra Mile | 35.00% | ~6,370 |
+| Sharing the Love | 33.00% | ~6,006 |
+| Hitting a Season | 27.00% | ~4,914 |
+| Making History | 25.00% | ~4,550 |
+| A Dozen Pieces | 24.00% | ~4,368 |
+| Network Success | 23.00% | ~4,186 |
+| Challenge Yourself | 23.00% | ~4,186 |
+| Writing a new Chapter | 19.00% | ~3,458 |
+| Spring Cleaning | 18.00% | ~3,276 |
 | Reduce | 14.00% | ~2,548 |
+| Ups and Downs | 14.00% | ~2,548 |
 | Crucial Combo | 13.00% | ~2,366 |
 | Reuse | 12.00% | ~2,184 |
 | Proving Them Wrong | 12.00% | ~2,184 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 343)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,197 (Ranked 163)  
+Progressed: 18,200 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,11 +179,11 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
 | 2024-01-14 | 18,178 | 0 |
-| 2024-01-15 | 18,197 | 0 |
+| 2024-01-15 | 18,200 | 0 |
 ## Awards
-Max (Diverse Characters): 65  (Ranked 425)  
+Max (Diverse Characters): 65  (Ranked 426)  
 Sum: 438 (Ranked 349)  
-Diff (max vs sum): 76  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 65 |

@@ -130,7 +130,7 @@
 | AI Hacking Specialist | 1.00% | ~44 |
 | Neural Shock Specialist | 1.00% | ~44 |
 | Insanity III | 0.90% | ~39 |
-| The One and Only | 0.50% | ~22 |
+| The One and Only | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,369 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  

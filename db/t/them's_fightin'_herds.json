@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235413,
+  "EOS_Progressed": 235415,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27820,6 +27820,11 @@
       "Time": "2024-01-15T11:09:40.8303783+00:00",
       "NumProgressed": 235413,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T12:10:19.4757811+00:00",
+      "NumProgressed": 235415,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -27975,7 +27980,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 80040
+      "UsersEstimate": 80041
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -28039,7 +28044,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40020
+      "UsersEstimate": 40021
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -28054,7 +28059,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235413,
+      "Progressed": 235415,
       "Completed": 6
     }
   ],
@@ -28062,8 +28067,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:09:40.8303781+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:10:19.4757807+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:58:11.1790253+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:09:40.830537+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:58:27.7048558+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:10:19.475922+00:00"
 }

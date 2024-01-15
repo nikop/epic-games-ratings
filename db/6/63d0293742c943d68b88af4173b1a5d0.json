@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 800,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2653,17 +2653,17 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 576
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 464
+      "UsersEstimate": 472
     },
     {
       "ID": "Remake_005",
@@ -2820,8 +2820,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:06:20.5579555+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:07:24.8690872+00:00",
   "LastUpdate_AppInfo": "2024-01-09T02:21:36.6517683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:57:37.1184242+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:06:20.5580079+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:57:38.1230268+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:07:24.8691642+00:00"
 }

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~97,689 |
-| Struck A Pose | 82.00% | ~96,512 |
-| Look At Him Go | 69.00% | ~81,212 |
-| On Rails Experience | 45.00% | ~52,964 |
-| A Daring Devil | 44.00% | ~51,787 |
-| Break the Bank | 33.00% | ~38,840 |
-| It Took Two | 31.00% | ~36,486 |
-| Bug Sized Relaxation | 14.00% | ~16,478 |
-| Plastic Prison Breakers | 13.00% | ~15,301 |
-| Terror Of The Seven Seas | 10.00% | ~11,770 |
-| Realize Your Art | 8.00% | ~9,416 |
-| Force Triangulated | 8.00% | ~9,416 |
-| Meditation Maestro | 8.00% | ~9,416 |
-| Something Fishy | 7.00% | ~8,239 |
-| Snackosaurus | 6.00% | ~7,062 |
-| Platforming Prodigy | 6.00% | ~7,062 |
-| Lost And Found | 6.00% | ~7,062 |
-| Mood Swing | 5.00% | ~5,885 |
-| Faraway Frequencies | 3.00% | ~3,531 |
-| Minigame Megalomania | 2.00% | ~2,354 |
+| Fried Friendship | 83.00% | ~97,759 |
+| Struck A Pose | 82.00% | ~96,581 |
+| Look At Him Go | 69.00% | ~81,270 |
+| On Rails Experience | 45.00% | ~53,002 |
+| A Daring Devil | 44.00% | ~51,824 |
+| Break the Bank | 33.00% | ~38,868 |
+| It Took Two | 31.00% | ~36,512 |
+| Bug Sized Relaxation | 14.00% | ~16,489 |
+| Plastic Prison Breakers | 13.00% | ~15,312 |
+| Terror Of The Seven Seas | 10.00% | ~11,778 |
+| Realize Your Art | 8.00% | ~9,423 |
+| Force Triangulated | 8.00% | ~9,423 |
+| Meditation Maestro | 8.00% | ~9,423 |
+| Something Fishy | 7.00% | ~8,245 |
+| Snackosaurus | 6.00% | ~7,067 |
+| Platforming Prodigy | 6.00% | ~7,067 |
+| Lost And Found | 6.00% | ~7,067 |
+| Mood Swing | 5.00% | ~5,889 |
+| Faraway Frequencies | 3.00% | ~3,533 |
+| Minigame Megalomania | 2.00% | ~2,356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,698 (Ranked 96)  
-Completed: 265 (0.23%) (Ranked 273)  
+Progressed: 117,782 (Ranked 96)  
+Completed: 265 (0.22%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,4 +147,4 @@ Completed: 265 (0.23%) (Ranked 273)
 | 2024-01-12 | 113,296 | 258 |
 | 2024-01-13 | 115,386 | 262 |
 | 2024-01-14 | 117,217 | 263 |
-| 2024-01-15 | 117,698 | 265 |
+| 2024-01-15 | 117,782 | 265 |

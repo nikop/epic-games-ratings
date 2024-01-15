@@ -7,10 +7,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,085 |
-| Lost and Found | 9.00% | ~697 |
-| Autodidact | 8.00% | ~10,630 |
-| This Belongs in a Museum | 7.00% | ~9,301 |
-| This guy... again? | 7.00% | ~542 |
+| Lost and Found | 9.00% | ~698 |
+| Autodidact | 8.00% | ~10,631 |
+| This Belongs in a Museum | 7.00% | ~9,302 |
+| This guy... again? | 7.00% | ~543 |
 | Serenity Now! | 6.00% | ~7,973 |
 | Creep and Sleep | 6.00% | ~7,973 |
 | Overdue Notice | 6.00% | ~7,973 |
@@ -65,14 +65,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Shrine of Reflection | 1.00% | ~1,329 |
 | Triage | 1.00% | ~1,329 |
 | Body of Work | 1.00% | ~1,329 |
-| No Mercy | 1.00% | ~77 |
-| Slap on the Wrist | 1.00% | ~77 |
-| For Old Time' Sake | 1.00% | ~77 |
+| No Mercy | 1.00% | ~78 |
+| Slap on the Wrist | 1.00% | ~78 |
+| For Old Time' Sake | 1.00% | ~78 |
 | Et Tu, Riposte? | 0.90% | ~70 |
 | The World As It Was | 0.70% | ~930 |
 | A Life Well Lived | 0.60% | ~797 |
 | Bacon Bits | 0.60% | ~797 |
-| On This Long Road, We Found Redemption | 0.60% | ~46 |
+| On This Long Road, We Found Redemption | 0.60% | ~47 |
 | Eidetic | 0.50% | ~664 |
 | Tears in the Rain | 0.40% | ~532 |
 | Battle Hardened | 0.40% | ~31 |
@@ -80,13 +80,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Grand Slam | 0.30% | ~399 |
 | Circle of Life | 0.20% | ~266 |
 | 20,000 Leagues Above the Sea | 0.20% | ~266 |
-| These Boots Are Made For Kickin' | 0.20% | ~15 |
+| These Boots Are Made For Kickin' | 0.20% | ~16 |
 | Loop Year | 0.10% | ~133 |
 | No Gravestone Left Unturned | 0.10% | ~133 |
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,878 (Ranked 92)  
+Progressed: 132,882 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,878 | 4 |
+| 2024-01-15 | 132,882 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,656 (Ranked 58)  

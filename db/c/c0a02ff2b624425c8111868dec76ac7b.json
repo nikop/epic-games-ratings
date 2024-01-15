@@ -820,9 +820,9 @@
       "ID": "ACH_ALL_HP_UP_COLLECTED",
       "SetID": "cagp2pi",
       "Name": "Armored",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ALL_ORBS_COLLECTED",
@@ -964,9 +964,9 @@
       "ID": "ACH_SUMMUM_ABSORB_PRE_MEGAFLARE",
       "SetID": "cagp2pi",
       "Name": "No Threat",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNDERSTANDINGS",
@@ -1003,8 +1003,8 @@
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:08:50.8923966+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:09:12.0163805+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:54.348231+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:58:57.7709305+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:08:50.8924142+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:59:33.1692216+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:09:12.0163985+00:00"
 }

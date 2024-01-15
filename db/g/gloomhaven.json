@@ -2981,9 +2981,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 33698,
+  "EOS_Progressed": 33701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1536,
+  "EOS_NewPlayers": 1533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17096,6 +17096,11 @@
       "Time": "2024-01-15T11:09:48.8758766+00:00",
       "NumProgressed": 33698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T12:10:30.2913003+00:00",
+      "NumProgressed": 33701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -17292,7 +17297,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 12805
+      "UsersEstimate": 12806
     },
     {
       "ID": "Achievement_Trophy25",
@@ -17308,7 +17313,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11120
+      "UsersEstimate": 11121
     },
     {
       "ID": "Achievement_Trophy27",
@@ -17324,7 +17329,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 10446
+      "UsersEstimate": 10447
     },
     {
       "ID": "Achievement_Trophy29",
@@ -17340,7 +17345,7 @@
       "Name": "Spread the plague",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 8761
+      "UsersEstimate": 8762
     },
     {
       "ID": "Achievement_Trophy31",
@@ -17348,7 +17353,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9772
+      "UsersEstimate": 9773
     },
     {
       "ID": "Achievement_Trophy32",
@@ -17500,7 +17505,7 @@
       "Name": "The Pacifist",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_Trophy_JOTL_01",
@@ -17508,7 +17513,7 @@
       "Name": "The evil that men do",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_Trophy_JOTL_02",
@@ -17588,14 +17593,14 @@
       "Name": "Born Support",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 33698,
+      "Progressed": 33701,
       "Completed": 1
     }
   ],
@@ -17603,8 +17608,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-14T21:58:19.363681+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:09:48.8758763+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:10:30.2912998+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.646849+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:58:43.5749118+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:09:48.8759867+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:59:13.1981062+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:10:30.2914193+00:00"
 }

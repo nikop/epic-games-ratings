@@ -1,59 +1,59 @@
 # Sail Forth
 [Store](https://store.epicgames.com/en-US/p/sail-forth-51847e)  
 [View Rawdata](../../db/s/sail_forth.json)  
-Rating: 4.39 (Ranked 785)  
+Rating: 4.38 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 67.00% | ~137,068 |
-| Wind Master | 53.00% | ~108,427 |
-| Hook, Line and Stinker | 20.00% | ~40,916 |
-| Davy Jones | 17.00% | ~34,778 |
-| Nice Shootin' Duds | 5.00% | ~10,229 |
-| Gateway Slug | 5.00% | ~10,229 |
-| Baby's First Thingamabob | 4.00% | ~8,183 |
-| Race In Yo Face | 4.00% | ~8,183 |
-| Great Balls Of Fire | 3.00% | ~6,137 |
-| Boarding Party | 3.00% | ~6,137 |
-| By The Power Of Underskull | 2.00% | ~4,092 |
-| Light Up the Night | 2.00% | ~4,092 |
-| I Don't Like The Slugs | 2.00% | ~4,092 |
-| This Is Fine | 1.00% | ~2,046 |
-| Pengy Fun | 1.00% | ~2,046 |
-| But The Slugs Like Me | 0.90% | ~1,841 |
-| Enter The Croakers | 0.80% | ~1,637 |
-| Snapping Turtle | 0.60% | ~1,227 |
-| Fish Kabob | 0.60% | ~1,227 |
-| Polar Pontification | 0.40% | ~818 |
-| Aggro Kreb | 0.40% | ~818 |
-| Crovert Ops | 0.40% | ~818 |
-| No More Splosions | 0.30% | ~614 |
-| Tekk Savvy | 0.30% | ~614 |
-| Blowfish Me Down | 0.20% | ~409 |
-| Fish And Tips | 0.20% | ~409 |
-| What's Krakalackin? | 0.10% | ~205 |
-| Total Eclipse of the Eel | 0.10% | ~205 |
-| All Good Things... | 0.10% | ~205 |
-| Lights Out | 0.10% | ~205 |
-| Built For Speed | 0.10% | ~205 |
-| Crackshot | 0.10% | ~205 |
-| Whosits And Whatsits Galore | 0.10% | ~205 |
-| Sweeter Than Honey | 0.10% | ~205 |
-| Croaker Command's Most Wanted | 0.10% | ~205 |
-| In Service Of Glory And Valor | 0.10% | ~205 |
-| Getting Hooked | 0.10% | ~205 |
-| Sail Forth! | 0.10% | ~205 |
-| Over The Moon | 0.10% | ~205 |
-| Shooting Star | 0.10% | ~205 |
-| Crushed Ice | 0.10% | ~205 |
-| This Magik Moment | 0.10% | ~205 |
-| Fish On | 0.10% | ~205 |
-| 1.21 Ribbitwatts | 0.10% | ~205 |
-| Guiding Light | 0.10% | ~205 |
-| For Whom The Bells Toll | 0.10% | ~205 |
-| Don't I Know You? | 0.10% | ~205 |
+| Tootorial | 67.00% | ~137,844 |
+| Wind Master | 53.00% | ~109,041 |
+| Hook, Line and Stinker | 20.00% | ~41,148 |
+| Davy Jones | 17.00% | ~34,975 |
+| Nice Shootin' Duds | 5.00% | ~10,287 |
+| Gateway Slug | 5.00% | ~10,287 |
+| Baby's First Thingamabob | 4.00% | ~8,230 |
+| Race In Yo Face | 4.00% | ~8,230 |
+| Great Balls Of Fire | 3.00% | ~6,172 |
+| Boarding Party | 3.00% | ~6,172 |
+| By The Power Of Underskull | 2.00% | ~4,115 |
+| Light Up the Night | 2.00% | ~4,115 |
+| I Don't Like The Slugs | 2.00% | ~4,115 |
+| This Is Fine | 1.00% | ~2,057 |
+| Pengy Fun | 1.00% | ~2,057 |
+| But The Slugs Like Me | 0.90% | ~1,852 |
+| Enter The Croakers | 0.80% | ~1,646 |
+| Snapping Turtle | 0.60% | ~1,234 |
+| Fish Kabob | 0.60% | ~1,234 |
+| Polar Pontification | 0.40% | ~823 |
+| Aggro Kreb | 0.40% | ~823 |
+| Crovert Ops | 0.40% | ~823 |
+| No More Splosions | 0.30% | ~617 |
+| Tekk Savvy | 0.30% | ~617 |
+| Blowfish Me Down | 0.20% | ~411 |
+| Fish And Tips | 0.20% | ~411 |
+| What's Krakalackin? | 0.10% | ~206 |
+| Total Eclipse of the Eel | 0.10% | ~206 |
+| All Good Things... | 0.10% | ~206 |
+| Lights Out | 0.10% | ~206 |
+| Built For Speed | 0.10% | ~206 |
+| Crackshot | 0.10% | ~206 |
+| Whosits And Whatsits Galore | 0.10% | ~206 |
+| Sweeter Than Honey | 0.10% | ~206 |
+| Croaker Command's Most Wanted | 0.10% | ~206 |
+| In Service Of Glory And Valor | 0.10% | ~206 |
+| Getting Hooked | 0.10% | ~206 |
+| Sail Forth! | 0.10% | ~206 |
+| Over The Moon | 0.10% | ~206 |
+| Shooting Star | 0.10% | ~206 |
+| Crushed Ice | 0.10% | ~206 |
+| This Magik Moment | 0.10% | ~206 |
+| Fish On | 0.10% | ~206 |
+| 1.21 Ribbitwatts | 0.10% | ~206 |
+| Guiding Light | 0.10% | ~206 |
+| For Whom The Bells Toll | 0.10% | ~206 |
+| Don't I Know You? | 0.10% | ~206 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204,579 (Ranked 83)  
+Progressed: 205,738 (Ranked 83)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 90,065 | 0 |
 | 2024-01-13 | 148,534 | 0 |
 | 2024-01-14 | 192,425 | 0 |
-| 2024-01-15 | 204,579 | 0 |
+| 2024-01-15 | 205,738 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1563837,
+  "EOS_Progressed": 1563842,
   "EOS_Completed": 768,
-  "EOS_NewPlayers": 1411,
+  "EOS_NewPlayers": 1402,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31472,6 +31472,11 @@
       "Time": "2024-01-15T11:06:16.4852779+00:00",
       "NumProgressed": 1563837,
       "NumCompleted": 768
+    },
+    {
+      "Time": "2024-01-15T12:07:19.3004119+00:00",
+      "NumProgressed": 1563842,
+      "NumCompleted": 768
     }
   ],
   "TotalAchievements": 20,
@@ -31531,7 +31536,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140745
+      "UsersEstimate": 140746
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -31595,7 +31600,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140745
+      "UsersEstimate": 140746
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -31642,15 +31647,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1563837,
+      "Progressed": 1563842,
       "Completed": 768
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-15T11:06:16.4852775+00:00",
+  "LastChanged_Achievements": "2024-01-15T12:07:19.3004116+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:09.5781079+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:57:56.2274146+00:00",
-  "LastUpdate_Achievements": "2024-01-15T11:06:16.4854279+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:58:06.1039543+00:00",
+  "LastUpdate_Achievements": "2024-01-15T12:07:19.3006133+00:00"
 }

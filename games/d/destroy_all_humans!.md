@@ -20,7 +20,7 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~234 |
 | Bodied Sattva | 38.00% | ~189 |
 | Forbidden Donut | 37.00% | ~184 |
-| Freshly Squeezed | 36.00% | ~179 |
+| Freshly Squeezed | 37.00% | ~184 |
 | Upgreatest | 36.00% | ~179 |
 | Furon Fashion | 30.00% | ~149 |
 | Deincarnated | 29.00% | ~144 |
@@ -35,8 +35,8 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 16.00% | ~80 |
 | Albion Bridge Is for Falling Down | 15.00% | ~75 |
 | Dusted | 14.00% | ~70 |
+| Higher Than the Futen Zoku | 12.00% | ~60 |
 | Scuttled | 11.00% | ~55 |
-| Higher Than the Futen Zoku | 11.00% | ~55 |
 | PK Slam Dunk | 10.00% | ~50 |
 | Arty Facts | 9.00% | ~45 |
 | Cult Following | 6.00% | ~30 |

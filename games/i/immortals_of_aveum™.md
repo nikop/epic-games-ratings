@@ -26,7 +26,7 @@ Rating: 4.18 (Ranked 984)
 | A Perfect Cycle | 15.00% | ~518 |
 | Recruit | 15.00% | ~518 |
 | Armsman | 12.00% | ~415 |
-| Lights Army | 10.00% | ~346 |
+| Lights Army | 11.00% | ~380 |
 | Periapt Cerulean | 9.00% | ~311 |
 | Good Boy | 8.00% | ~276 |
 | Periapt Viridian | 7.00% | ~242 |

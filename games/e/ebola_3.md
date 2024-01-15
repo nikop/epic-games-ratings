@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 59.00% | ~198 |
+| Fright ✔ | 60.00% | ~201 |
 | Inventory ✔ | 55.00% | ~184 |
 | Chest ✔ | 55.00% | ~184 |
 | Police officers ✔ | 29.00% | ~97 |
 | Mutation ✔ | 26.00% | ~87 |
 | Doberman ✔ | 15.00% | ~50 |
-| Weapon ✔ | 11.00% | ~37 |
+| Weapon ✔ | 12.00% | ~40 |
 | Chess ✔ | 10.00% | ~34 |
 | Master of Unlocking ✔ | 9.00% | ~30 |
 | Survival ✔ | 8.00% | ~27 |
@@ -28,6 +28,7 @@
 | Food ✔ | 5.00% | ~17 |
 | All secrets revealed ✔ | 5.00% | ~17 |
 | Boss 1 ✔ | 4.00% | ~13 |
+| Secret ✔ | 4.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~13 |
 | Mutant fight ✔ | 4.00% | ~13 |
 | Mutant run ✔ | 4.00% | ~13 |
@@ -37,7 +38,6 @@
 | Priest ✔ | 4.00% | ~13 |
 | Broadcasting ✔ | 4.00% | ~13 |
 | Crocodile Attack ✔ | 3.00% | ~10 |
-| Secret ✔ | 3.00% | ~10 |
 | Boss 2 ✔ | 3.00% | ~10 |
 | Osipov's video message ✔ | 3.00% | ~10 |
 | Rank B+ ✔ | 3.00% | ~10 |
