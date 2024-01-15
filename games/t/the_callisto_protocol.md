@@ -10,8 +10,8 @@ Rating: 4.22 (Ranked 955)
 | Desperate Times | 26.00% | ~5,822 |
 | Paper Jams | 23.00% | ~5,150 |
 | Get a Grip | 22.00% | ~4,926 |
-| Chew 'Em Up | 21.00% | ~4,702 |
-| Reforged | 20.00% | ~4,478 |
+| Chew 'Em Up | 21.00% | ~4,703 |
+| Reforged | 20.00% | ~4,479 |
 | Float Like A Butterfly | 18.00% | ~4,031 |
 | Workplace Hazard | 17.00% | ~3,807 |
 | If the SHU Fits... | 17.00% | ~3,807 |
@@ -26,7 +26,7 @@ Rating: 4.22 (Ranked 955)
 | Full Circle | 11.00% | ~2,463 |
 | You Need a Gun | 9.00% | ~2,015 |
 | I Do Belong Here | 8.00% | ~1,791 |
-| Keep Fighting | 8.00% | ~825 |
+| Keep Fighting | 8.00% | ~826 |
 | The Commonality | 6.00% | ~1,344 |
 | It's Time | 6.00% | ~619 |
 | In Striking Distance | 5.00% | ~1,120 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,392 (Ranked 151)  
+Progressed: 22,393 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,17 +315,17 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,392 | 82 |
+| 2024-01-15 | 22,393 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
-Sum: 653 (Ranked 318)  
+Sum: 654 (Ranked 318)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 135 |
 | This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 116 |
-| This game has Quickly Understood Controls | 113 |
+| This game has Quickly Understood Controls | 114 |
 | This game has Amazing Storytelling | 113 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 54 |
@@ -534,3 +534,4 @@ Diff (max vs sum): 24
 | 2024-01-12 | 4.22 | 131 | 641 |
 | 2024-01-13 | 4.22 | 134 | 649 |
 | 2024-01-14 | 4.22 | 135 | 653 |
+| 2024-01-15 | 4.22 | 135 | 654 |

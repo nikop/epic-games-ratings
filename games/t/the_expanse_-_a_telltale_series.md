@@ -14,13 +14,13 @@ Rating: 4.54 (Ranked 550)
 | The Pit and the Pirates | 13.00% | ~2,474 |
 | Drone Dodger | 13.00% | ~2,474 |
 | Spore Taste | 12.00% | ~2,284 |
-| Stogie for Fogey | 11.00% | ~2,093 |
+| Stogie for Fogey | 11.00% | ~2,094 |
 | Zen Master | 11.00% | ~548 |
 | Call it Even | 10.00% | ~1,903 |
-| Safe Cracker | 10.00% | ~498 |
+| Safe Cracker | 10.00% | ~499 |
 | Heal Thy Medic | 9.00% | ~1,713 |
 | Madame Undersecretary | 9.00% | ~449 |
-| Data Archivist | 8.00% | ~1,522 |
+| Data Archivist | 8.00% | ~1,523 |
 | Keep Arjun in Check | 8.00% | ~399 |
 | Drug Gifter | 7.00% | ~1,332 |
 | Thorston Mayer | 7.00% | ~1,332 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,031 (Ranked 159)  
+Progressed: 19,032 (Ranked 159)  
 Completed: 65 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 65 (0.34%) (Ranked 251)
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
-| 2024-01-15 | 19,031 | 65 |
+| 2024-01-15 | 19,032 | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

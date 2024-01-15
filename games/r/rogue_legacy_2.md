@@ -17,8 +17,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Suns and Soldiers | 2.00% | ~567 |
 | Prequel to the Sequel | 2.00% | ~567 |
 | For Glory | 1.00% | ~283 |
+| Truly Blessed | 0.80% | ~227 |
 | Pillow Investments | 0.80% | ~227 |
-| Truly Blessed | 0.70% | ~198 |
 | Looks Familiar | 0.70% | ~198 |
 | For Justice | 0.60% | ~170 |
 | Good Boy! | 0.60% | ~170 |

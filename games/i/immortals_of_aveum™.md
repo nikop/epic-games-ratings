@@ -13,8 +13,8 @@ Rating: 4.20 (Ranked 969)
 | Initiate | 40.00% | ~1,380 |
 | Thrada-Kul | 36.00% | ~1,242 |
 | Gravity-Challenged Rocks | 30.00% | ~1,035 |
+| Soldier | 26.00% | ~897 |
 | Socialite | 25.00% | ~863 |
-| Soldier | 25.00% | ~863 |
 | All the Major Food Groups | 25.00% | ~863 |
 | Beggars Would Ride | 23.00% | ~794 |
 | Control is an Illusion | 22.00% | ~759 |
@@ -24,7 +24,7 @@ Rating: 4.20 (Ranked 969)
 | Periapt Alizarin | 17.00% | ~587 |
 | Geas Aristeya | 16.00% | ~552 |
 | A Perfect Cycle | 15.00% | ~518 |
-| Recruit | 14.00% | ~483 |
+| Recruit | 15.00% | ~518 |
 | Armsman | 12.00% | ~414 |
 | Lights Army | 10.00% | ~345 |
 | Periapt Cerulean | 9.00% | ~311 |

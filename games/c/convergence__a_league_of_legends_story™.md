@@ -5,8 +5,8 @@ Rating: 4.68 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~623 |
-| Rail Rat | 36.00% | ~477 |
+| Time Heals All Wounds | 47.00% | ~624 |
+| Rail Rat | 36.00% | ~478 |
 | The Mysterious Stranger | 35.00% | ~464 |
 | Immaculate Aim | 30.00% | ~398 |
 | The Brass Boss | 29.00% | ~385 |
@@ -33,16 +33,16 @@ Rating: 4.68 (Ranked 261)
 | Whiz Kid | 15.00% | ~199 |
 | Good Neighbor | 15.00% | ~199 |
 | Family Memories | 14.00% | ~186 |
-| Chaincrawler Explorer | 13.00% | ~172 |
-| Syron for Hope | 13.00% | ~172 |
-| Ask Questions Later | 13.00% | ~172 |
+| Chaincrawler Explorer | 13.00% | ~173 |
+| Syron for Hope | 13.00% | ~173 |
+| Ask Questions Later | 13.00% | ~173 |
 | Treasure Trove | 12.00% | ~159 |
 | Cartographer | 12.00% | ~159 |
 | Sump Explorer | 12.00% | ~159 |
-| Cultivair Explorer | 10.00% | ~133 |
 | Factorywood Explorer | 10.00% | ~133 |
 | Fairgrounds Explorer | 10.00% | ~133 |
 | Theater Explorer | 10.00% | ~133 |
+| Cultivair Explorer | 9.00% | ~119 |
 | Entresol Explorer | 9.00% | ~119 |
 | Corin Goes Home | 8.00% | ~106 |
 | Sartorialist | 8.00% | ~106 |
@@ -59,7 +59,7 @@ Rating: 4.68 (Ranked 261)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,326 (Ranked 281)  
+Progressed: 1,327 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 8 (0.60%) (Ranked 211)
 | 2024-01-12 | 1,312 | 8 |
 | 2024-01-13 | 1,319 | 8 |
 | 2024-01-14 | 1,326 | 8 |
+| 2024-01-15 | 1,327 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

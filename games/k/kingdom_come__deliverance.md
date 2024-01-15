@@ -1,30 +1,30 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 203)  
+Rating: 4.71 (Ranked 204)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,618 |
-| Cavalier | 26.00% | ~212,565 |
-| Fatso | 23.00% | ~188,038 |
-| Awakening | 21.00% | ~171,687 |
-| Ranger | 20.00% | ~163,511 |
-| Scrooge | 20.00% | ~163,511 |
-| Anorectic | 16.00% | ~130,809 |
-| Firestarter | 16.00% | ~130,809 |
+| Blacksmith's Son | 32.00% | ~261,619 |
+| Cavalier | 26.00% | ~212,566 |
+| Fatso | 23.00% | ~188,039 |
+| Awakening | 21.00% | ~171,688 |
+| Ranger | 20.00% | ~163,512 |
+| Scrooge | 20.00% | ~163,512 |
+| Anorectic | 16.00% | ~130,810 |
+| Firestarter | 16.00% | ~130,810 |
 | Bookworm | 15.00% | ~122,634 |
-| Insomniac | 13.00% | ~106,282 |
+| Insomniac | 13.00% | ~106,283 |
 | Buddy | 12.00% | ~98,107 |
 | Thief | 12.00% | ~98,107 |
-| Sinner | 11.00% | ~89,931 |
-| Traveller | 11.00% | ~89,931 |
+| Sinner | 11.00% | ~89,932 |
+| Traveller | 11.00% | ~89,932 |
 | Convict | 10.00% | ~81,756 |
 | Haggler | 9.00% | ~73,580 |
 | McLovin | 7.00% | ~57,229 |
 | Runt | 7.00% | ~57,229 |
-| Casanova | 6.00% | ~49,053 |
+| Casanova | 6.00% | ~49,054 |
 | Bad Trip | 5.00% | ~40,878 |
 | Monk | 5.00% | ~40,878 |
 | Serial Killer | 5.00% | ~40,878 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~818 |
 | Wingman | 0.10% | ~818 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,557 (Ranked 21)  
+Progressed: 817,560 (Ranked 21)  
 Completed: 53 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,7 +359,7 @@ Completed: 53 (0.01%) (Ranked 376)
 | 2024-01-12 | 817,138 | 53 |
 | 2024-01-13 | 817,324 | 53 |
 | 2024-01-14 | 817,535 | 53 |
-| 2024-01-15 | 817,557 | 53 |
+| 2024-01-15 | 817,560 | 53 |
 ## Awards
 Max (Character Customization): 7,780  (Ranked 53)  
 Sum: 28,842 (Ranked 50)  

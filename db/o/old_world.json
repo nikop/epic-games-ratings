@@ -2298,9 +2298,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16838,
+  "EOS_Progressed": 16839,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20063,6 +20063,11 @@
       "Time": "2024-01-15T03:11:20.9853289+00:00",
       "NumProgressed": 16838,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T04:11:26.2860402+00:00",
+      "NumProgressed": 16839,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20120,9 +20125,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_ANOTHER_LEADER",
       "SetID": "9201eeb",
       "Name": "Regicide",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 337
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
@@ -22937,21 +22942,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16838,
+      "Progressed": 16839,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16838,
+      "Progressed": 16839,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:11:20.9853283+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:11:26.2860395+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:01:07.9968505+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:11:20.9863846+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:01:31.1972786+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:11:26.2871306+00:00"
 }

@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3602,
+  "EOS_Progressed": 3604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8889,6 +8889,11 @@
       "Time": "2024-01-15T03:07:31.9357331+00:00",
       "NumProgressed": 3602,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T04:08:03.4326722+00:00",
+      "NumProgressed": 3604,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8901,7 +8906,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8909,7 +8914,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8917,7 +8922,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8933,7 +8938,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8957,7 +8962,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8989,7 +8994,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9005,7 +9010,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9077,7 +9082,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9109,7 +9114,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9123,9 +9128,9 @@
       "ID": "ML_ACHIEVEMENT_29",
       "SetID": "c7hf6a4",
       "Name": "I Make the Rules!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 144
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -9157,7 +9162,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9197,7 +9202,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1801
+      "UsersEstimate": 1802
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9292,7 +9297,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3602,
+      "Progressed": 3604,
       "Completed": 0
     }
   ],
@@ -9300,8 +9305,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-14T15:00:07.729106+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:07:31.9357324+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:08:03.4326719+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:01:48.7262829+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:07:31.9358355+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:02:13.8798689+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:08:03.4327388+00:00"
 }

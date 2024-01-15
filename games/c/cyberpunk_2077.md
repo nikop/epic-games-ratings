@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~126,178 |
-| The Fool | 11.00% | ~115,663 |
-| Right Back At Ya | 10.00% | ~105,148 |
-| Gun Fu | 9.00% | ~94,634 |
-| The Lovers | 9.00% | ~94,634 |
-| Full Body Conversion | 7.00% | ~73,604 |
-| Christmas Tree Attack | 6.00% | ~63,089 |
-| Stanislavski's Method | 6.00% | ~63,089 |
-| The Hermit | 6.00% | ~63,089 |
-| The Wheel of Fortune | 6.00% | ~63,089 |
-| True Soldier | 6.00% | ~63,089 |
-| All the President's Men | 6.00% | ~10,806 |
-| Arachnophobia | 6.00% | ~10,806 |
-| The High Priestess | 5.00% | ~52,574 |
-| Legend of The Afterlife | 5.00% | ~52,574 |
-| Master Crafter | 4.00% | ~42,059 |
-| The Quick and the Dead | 4.00% | ~42,059 |
-| Life of the Road | 4.00% | ~42,059 |
-| The World | 4.00% | ~42,059 |
-| True Warrior | 4.00% | ~42,059 |
-| Bushido and Chill | 3.00% | ~31,545 |
-| To Protect and Serve | 3.00% | ~31,545 |
-| I Am The Law | 3.00% | ~31,545 |
-| Two Heads, One Bullet | 3.00% | ~31,545 |
-| Judy vs Night City | 3.00% | ~31,545 |
-| Relic Ruler | 3.00% | ~5,403 |
+| V for Vendetta | 12.00% | ~126,183 |
+| The Fool | 11.00% | ~115,667 |
+| Right Back At Ya | 10.00% | ~105,152 |
+| Gun Fu | 9.00% | ~94,637 |
+| The Lovers | 9.00% | ~94,637 |
+| Full Body Conversion | 7.00% | ~73,607 |
+| Christmas Tree Attack | 6.00% | ~63,091 |
+| Stanislavski's Method | 6.00% | ~63,091 |
+| The Hermit | 6.00% | ~63,091 |
+| The Wheel of Fortune | 6.00% | ~63,091 |
+| True Soldier | 6.00% | ~63,091 |
+| All the President's Men | 6.00% | ~10,809 |
+| Arachnophobia | 6.00% | ~10,809 |
+| The High Priestess | 5.00% | ~52,576 |
+| Legend of The Afterlife | 5.00% | ~52,576 |
+| Master Crafter | 4.00% | ~42,061 |
+| The Quick and the Dead | 4.00% | ~42,061 |
+| Life of the Road | 4.00% | ~42,061 |
+| The World | 4.00% | ~42,061 |
+| True Warrior | 4.00% | ~42,061 |
+| Bushido and Chill | 3.00% | ~31,546 |
+| To Protect and Serve | 3.00% | ~31,546 |
+| I Am The Law | 3.00% | ~31,546 |
+| Two Heads, One Bullet | 3.00% | ~31,546 |
+| Judy vs Night City | 3.00% | ~31,546 |
+| Relic Ruler | 3.00% | ~5,404 |
 | The Wandering Fool | 2.00% | ~21,030 |
 | The Sun | 2.00% | ~21,030 |
-| Spin Doctor | 2.00% | ~3,602 |
-| King of Wands | 2.00% | ~3,602 |
-| Easy Come, Easy Go | 2.00% | ~3,602 |
+| Spin Doctor | 2.00% | ~3,603 |
+| King of Wands | 2.00% | ~3,603 |
+| Easy Come, Easy Go | 2.00% | ~3,603 |
 | To Bad Decisions! | 1.00% | ~10,515 |
 | Breathtaking | 1.00% | ~10,515 |
 | Ten out of Ten | 1.00% | ~10,515 |
 | The Star | 1.00% | ~10,515 |
 | Dirty Deeds | 1.00% | ~1,801 |
-| Autojock | 0.90% | ~9,463 |
+| Autojock | 0.90% | ~9,464 |
 | The APB is Not Enough | 0.90% | ~1,621 |
 | Judgement Day | 0.90% | ~1,621 |
 | The Tower | 0.90% | ~1,621 |
@@ -55,14 +55,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Little Tokyo | 0.40% | ~4,206 |
 | The Devil | 0.40% | ~4,206 |
 | The Jungle | 0.40% | ~4,206 |
-| Gunslinger | 0.30% | ~3,154 |
-| Mean Streets | 0.30% | ~3,154 |
-| The Wasteland | 0.30% | ~3,154 |
-| Greetings from Pacifica! | 0.30% | ~3,154 |
-| It's Elementary | 0.30% | ~3,154 |
+| Gunslinger | 0.30% | ~3,155 |
+| Mean Streets | 0.30% | ~3,155 |
+| The Wasteland | 0.30% | ~3,155 |
+| Greetings from Pacifica! | 0.30% | ~3,155 |
+| It's Elementary | 0.30% | ~3,155 |
 | Daemon In The Shell | 0.20% | ~2,103 |
-| Frequent Flyer | 0.10% | ~1,051 |
-| Rough Landing | 0.10% | ~1,051 |
+| Frequent Flyer | 0.10% | ~1,052 |
+| Rough Landing | 0.10% | ~1,052 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051,485 (Ranked 17)  
+Progressed: 1,051,522 (Ranked 17)  
 Completed: 3,098 (0.29%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,10 +344,10 @@ Completed: 3,098 (0.29%) (Ranked 263)
 | 2024-01-12 | 1,048,338 | 3,079 |
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
-| 2024-01-15 | 1,051,485 | 3,098 |
+| 2024-01-15 | 1,051,522 | 3,098 |
 ## Awards
 Max (Character Customization): 139,863  (Ranked 8)  
-Sum: 494,124 (Ranked 8)  
+Sum: 494,324 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 30,626 |
 | This game is Highly Recommended | 29,283 |
 | This game has Amazing Storytelling | 28,723 |
-| This game is Extremely Fun | 28,408 |
+| This game is Extremely Fun | 28,608 |
 | This game has Amazing Characters | 28,333 |
 | This game is Relaxing | 27,470 |
 | This game has Quickly Understood Controls | 27,258 |
@@ -726,4 +726,4 @@ Diff (max vs sum): 0
 | 2024-01-12 | 4.67 | - | 138,203 | 487,257 |
 | 2024-01-13 | 4.67 | - | 139,040 | 490,370 |
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
-| 2024-01-15 | 4.67 | - | 139,863 | 494,124 |
+| 2024-01-15 | 4.67 | - | 139,863 | 494,324 |

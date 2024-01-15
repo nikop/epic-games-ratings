@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9071,
+  "EOS_Progressed": 9074,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10258,6 +10258,11 @@
       "Time": "2024-01-15T02:37:45.443563+00:00",
       "NumProgressed": 9071,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T04:11:16.5467108+00:00",
+      "NumProgressed": 9074,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10414,7 +10419,7 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
@@ -10438,7 +10443,7 @@
       "Name": "Rumble in the Jumble",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "DISPATCH_THORNS",
@@ -10462,7 +10467,7 @@
       "Name": "Fanatical Farmer",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "HAVE_WEDDING",
@@ -10613,13 +10618,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9071,
+      "Progressed": 9074,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1688,
+      "Progressed": 1691,
       "Completed": 1050
     }
   ],
@@ -10627,8 +10632,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:11:11.4038891+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:11:16.5467106+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:03:44.2759127+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:11:11.404033+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:04:10.1727738+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:11:16.5467932+00:00"
 }

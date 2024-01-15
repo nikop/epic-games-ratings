@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3959,9 +3959,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20785,
+  "EOS_Progressed": 20786,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 345,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19654,6 +19654,11 @@
       "Time": "2024-01-15T03:08:43.3569719+00:00",
       "NumProgressed": 20785,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-15T04:08:45.5050138+00:00",
+      "NumProgressed": 20786,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20024,9 +20029,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 208
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -20137,15 +20142,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20785,
+      "Progressed": 20786,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-14T21:57:01.4535746+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:08:43.3569716+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:08:45.5050129+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:57:16.579446+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:08:43.3571254+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:57:30.8222501+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:08:45.5051492+00:00"
 }

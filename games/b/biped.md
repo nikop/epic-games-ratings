@@ -10,7 +10,7 @@
 | Rainy Ruins | 12.00% | ~1,256 |
 | Telepathic | 8.00% | ~837 |
 | Snowy Peak | 8.00% | ~837 |
-| High Treetops | 6.00% | ~628 |
+| High Treetops | 7.00% | ~733 |
 | Blue Rapids | 5.00% | ~523 |
 | Speed walkers | 5.00% | ~523 |
 | Sunset Ridge | 3.00% | ~314 |

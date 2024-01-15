@@ -28,9 +28,9 @@ Rating: 4.64 (Ranked 343)
 | Flaming Hot Completos | 0.90% | ~82 |
 | Fae Farmer | 0.80% | ~73 |
 | Got to Catch Them All | 0.80% | ~73 |
-| Scattered Scroll Scrounger | 0.70% | ~63 |
-| Rumble in the Jumble | 0.70% | ~63 |
-| Fanatical Farmer | 0.70% | ~63 |
+| Scattered Scroll Scrounger | 0.70% | ~64 |
+| Rumble in the Jumble | 0.70% | ~64 |
+| Fanatical Farmer | 0.70% | ~64 |
 | Azorian Hat Dance | 0.70% | ~12 |
 | I Now Pronounce You... | 0.50% | ~45 |
 | Chatty Neighbor | 0.50% | ~45 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,071 (Ranked 186)  
+Progressed: 9,074 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
 | 2024-01-14 | 9,068 | 1 |
-| 2024-01-15 | 9,071 | 1 |
+| 2024-01-15 | 9,074 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

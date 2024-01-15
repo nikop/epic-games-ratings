@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 108,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -75,7 +75,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1326,
+  "EOS_Progressed": 1327,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
@@ -4040,6 +4040,11 @@
       "Time": "2024-01-14T23:10:22.8809713+00:00",
       "NumProgressed": 1326,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T04:11:21.8384198+00:00",
+      "NumProgressed": 1327,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4067,7 +4072,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ChestCompletion1",
@@ -4129,9 +4134,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 119
     },
     {
       "ID": "EntresolChests1",
@@ -4211,7 +4216,7 @@
       "Name": "Rail Rat",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "HexlockGift",
@@ -4339,7 +4344,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "RewindParry",
@@ -4403,7 +4408,7 @@
       "Name": "Syron for Hope",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4443,7 +4448,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "WatcherSpared",
@@ -4474,7 +4479,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1326,
+      "Progressed": 1327,
       "Completed": 8
     }
   ],
@@ -4482,8 +4487,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:11:16.5405828+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:11:21.8384192+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:59:26.5702393+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:11:16.5406433+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:59:44.1713153+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:11:21.8384883+00:00"
 }

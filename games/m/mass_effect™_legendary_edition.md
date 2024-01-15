@@ -40,8 +40,8 @@
 | Power Full | 27.00% | ~1,177 |
 | Colony Defense | 26.00% | ~1,134 |
 | The Krogan | 26.00% | ~1,134 |
+| Veteran | 25.00% | ~1,090 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,090 |
-| Veteran | 24.00% | ~1,047 |
 | Driven | 24.00% | ~1,047 |
 | Ghost Ship | 23.00% | ~1,003 |
 | The Assassin | 23.00% | ~1,003 |

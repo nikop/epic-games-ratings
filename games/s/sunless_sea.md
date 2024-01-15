@@ -7,10 +7,10 @@ Number of Ratings: 401  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~15,939 |
-| Sweet Sorrow | 18.00% | ~7,969 |
+| Sweet Sorrow | 18.00% | ~7,970 |
 | Rules the Waves | 17.00% | ~7,527 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,641 |
-| Rival | 14.00% | ~6,198 |
+| Rival | 14.00% | ~6,199 |
 | Correspondent | 12.00% | ~5,313 |
 | Lose Your Mind | 12.00% | ~5,313 |
 | Sound Mind? | 12.00% | ~5,313 |
@@ -21,16 +21,16 @@ Number of Ratings: 401  (23.09.2022)
 | One Year at Zee | 8.00% | ~3,542 |
 | Pupil | 7.00% | ~3,099 |
 | The Ascent of Man | 7.00% | ~3,099 |
-| Salvager | 6.00% | ~2,656 |
-| Open Your Ears | 6.00% | ~2,656 |
+| Salvager | 6.00% | ~2,657 |
+| Open Your Ears | 6.00% | ~2,657 |
 | Zee Fever | 5.00% | ~2,214 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,771 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,771 |
 | Storm's Curse | 3.00% | ~1,328 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~1,328 |
 | Come Closer | 3.00% | ~1,328 |
-| Roaring Rise | 2.00% | ~885 |
-| I am the Captain of my Soul | 2.00% | ~885 |
+| Roaring Rise | 2.00% | ~886 |
+| I am the Captain of my Soul | 2.00% | ~886 |
 | A buoyant escape | 1.00% | ~443 |
 | Frightful, sheer, no-man-fathomed | 1.00% | ~443 |
 | The Bell Tolls | 1.00% | ~443 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,274 (Ranked 131)  
+Progressed: 44,276 (Ranked 131)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-12 | 44,117 | 4 |
 | 2024-01-13 | 44,187 | 4 |
 | 2024-01-14 | 44,263 | 4 |
-| 2024-01-15 | 44,274 | 4 |
+| 2024-01-15 | 44,276 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 377)  

@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1159,
+  "EOS_Progressed": 1160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2891,6 +2891,11 @@
       "Time": "2024-01-15T02:01:44.0720784+00:00",
       "NumProgressed": 1159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T04:09:43.5374019+00:00",
+      "NumProgressed": 1160,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2911,7 +2916,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "CareerChamp1",
@@ -2919,7 +2924,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "CareerChamp2",
@@ -2959,7 +2964,7 @@
       "Name": "Storm Warning",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "CollectVehiclesA",
@@ -3015,7 +3020,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "PlayerRankB",
@@ -3062,7 +3067,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1159,
+      "Progressed": 1160,
       "Completed": 0
     }
   ],
@@ -3070,8 +3075,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:09:40.1987217+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:09:43.5374012+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:00:14.2576202+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:09:40.1987497+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:00:33.7279262+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:09:43.5374358+00:00"
 }

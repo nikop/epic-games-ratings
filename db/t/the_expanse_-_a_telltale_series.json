@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19031,
+  "EOS_Progressed": 19032,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17414,6 +17414,11 @@
       "Time": "2024-01-15T03:05:40.2766575+00:00",
       "NumProgressed": 19031,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T04:06:09.9427795+00:00",
+      "NumProgressed": 19032,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17450,7 +17455,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "13",
@@ -17474,7 +17479,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "16",
@@ -17674,7 +17679,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "33",
@@ -17705,22 +17710,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19031,
+      "Progressed": 19032,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4985,
-      "Completed": 1326
+      "Progressed": 4986,
+      "Completed": 1327
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:05:40.2766572+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:06:09.9427789+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:58:50.2898149+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:05:40.2767722+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:59:07.9137737+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:06:09.9429237+00:00"
 }

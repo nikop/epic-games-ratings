@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2187,10 +2187,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 653,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-15T04:04:09.4873782+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 654,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 653,
+  "NumberOfAwards": 654,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2210,7 +2216,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2237,9 +2243,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22392,
+  "EOS_Progressed": 22393,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 758,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13942,6 +13948,11 @@
       "Time": "2024-01-15T03:10:42.4723992+00:00",
       "NumProgressed": 22392,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T04:10:47.0825752+00:00",
+      "NumProgressed": 22393,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14081,7 +14092,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4702
+      "UsersEstimate": 4703
     },
     {
       "ID": "KILL_ROBOT",
@@ -14121,7 +14132,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14305,7 +14316,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14328,22 +14339,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22392,
+      "Progressed": 22393,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10318,
+      "Progressed": 10319,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-14T22:03:20.3675654+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:10:42.4723986+00:00",
+  "LastChanged": "2024-01-15T04:04:09.4873781+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:10:47.0825748+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:03:43.6034712+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:10:42.4725098+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:04:09.4873786+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:10:47.0827043+00:00"
 }

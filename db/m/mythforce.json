@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6344,
+  "EOS_Progressed": 6345,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13261,6 +13261,11 @@
       "Time": "2024-01-15T01:58:16.1462146+00:00",
       "NumProgressed": 6344,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T04:06:38.2671495+00:00",
+      "NumProgressed": 6345,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13361,7 +13366,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13409,7 +13414,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13425,7 +13430,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13456,15 +13461,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6344,
+      "Progressed": 6345,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:06:08.6727631+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:06:38.2671492+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:00:15.7724188+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:06:08.6728559+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:00:35.2856749+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:06:38.2672191+00:00"
 }

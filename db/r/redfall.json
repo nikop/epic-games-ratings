@@ -389,7 +389,7 @@
   ],
   "EOS_Progressed": 2391,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4565,9 +4565,9 @@
       "ID": "Achievement_004",
       "SetID": "6b34g18",
       "Name": "Enter of Your Own Free Will",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 263
     },
     {
       "ID": "Achievement_006",
@@ -5078,8 +5078,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:05:13.2633188+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:05:41.9448931+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:00:14.0737015+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:05:13.2634333+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:00:33.5436416+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:05:41.9449911+00:00"
 }

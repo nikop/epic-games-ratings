@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 754,
+  "EOS_Progressed": 755,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2424,6 +2424,11 @@
       "Time": "2024-01-15T00:10:23.2459982+00:00",
       "NumProgressed": 754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T04:11:03.1709988+00:00",
+      "NumProgressed": 755,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2474,9 +2479,9 @@
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 83
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -2500,7 +2505,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2524,7 +2529,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TIME_JINX",
@@ -2532,7 +2537,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "TIME_ORWELL",
@@ -2546,9 +2551,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 264
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2556,7 +2561,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2595,14 +2600,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 754,
+      "Progressed": 755,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:10:58.3890065+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:11:03.1709984+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:48.2425501+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:57:38.5575303+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:10:58.3890388+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:57:53.1360649+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:11:03.171024+00:00"
 }

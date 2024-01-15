@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151207,
+  "EOS_Progressed": 151210,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36744,6 +36744,11 @@
       "Time": "2024-01-15T03:09:39.6902585+00:00",
       "NumProgressed": 151207,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T04:09:43.0838417+00:00",
+      "NumProgressed": 151210,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36835,7 +36840,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "bigsale02",
@@ -36859,7 +36864,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "blueprint02",
@@ -37107,7 +37112,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "energy02",
@@ -37131,7 +37136,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "expansion02",
@@ -37235,7 +37240,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "gold03",
@@ -37339,7 +37344,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10584
+      "UsersEstimate": 10585
     },
     {
       "ID": "level02",
@@ -37619,7 +37624,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9072
+      "UsersEstimate": 9073
     },
     {
       "ID": "workers02",
@@ -37650,15 +37655,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151207,
+      "Progressed": 151210,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:09:39.6902577+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:09:43.0838415+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:03:39.7847525+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:09:39.6905848+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:04:05.612488+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:09:43.0840753+00:00"
 }

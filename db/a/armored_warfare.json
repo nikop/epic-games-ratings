@@ -2,12 +2,12 @@
   "ID": "870929e8b7fb4e2b986c1a3f0a6ff38d",
   "Name": "Armored Warfare",
   "ProductSlug": "armored-warfare",
-  "Ranking_Rating": 1028,
+  "Ranking_Rating": 1027,
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 572,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-21T14:00:00+00:00",
@@ -2028,6 +2028,6 @@
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
   "LastChanged": "2024-01-12T15:00:01.8793108+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.5681156+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:01:42.6057937+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:05:51.9330372+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:02:07.6861609+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:06:21.9549965+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 958,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3244,9 +3244,9 @@
       "ID": "ach_find_all_secrets_c2",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 2",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 95,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_find_all_secrets_c3",
@@ -3267,8 +3267,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:09:23.3072552+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:09:26.2071373+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:55.7118105+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:02:58.191013+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:09:23.3072887+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:03:23.4044726+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:09:26.2071594+00:00"
 }

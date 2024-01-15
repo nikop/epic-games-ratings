@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1974,9 +1974,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -2078,9 +2078,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     }
   ],
   "AchievementSets": [
@@ -2101,8 +2101,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-15T03:06:33.8058898+00:00",
+  "LastChanged_Achievements": "2024-01-15T04:07:04.8409159+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:59:33.0449197+00:00",
-  "LastUpdate_Achievements": "2024-01-15T03:06:33.8059863+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:59:50.555768+00:00",
+  "LastUpdate_Achievements": "2024-01-15T04:07:04.8409798+00:00"
 }
