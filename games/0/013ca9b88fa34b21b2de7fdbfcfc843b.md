@@ -9,11 +9,11 @@ Rating: 4.64 (Ranked 343)
 | A Thorny Situation | 5.00% | ~454 |
 | ... And Spit Back Out | 5.00% | ~454 |
 | Break-Net Speed | 4.00% | ~363 |
-| Calm Sailing | 3.00% | ~272 |
-| Open the Gate! | 3.00% | ~272 |
-| Miner 49er | 3.00% | ~272 |
-| Humble Collector | 3.00% | ~272 |
-| Bramble Breaker | 3.00% | ~272 |
+| Calm Sailing | 3.00% | ~273 |
+| Open the Gate! | 3.00% | ~273 |
+| Miner 49er | 3.00% | ~273 |
+| Humble Collector | 3.00% | ~273 |
+| Bramble Breaker | 3.00% | ~273 |
 | Clear the Air | 2.00% | ~182 |
 | Lumberjack | 2.00% | ~182 |
 | Mist Walker | 2.00% | ~182 |
@@ -34,9 +34,9 @@ Rating: 4.64 (Ranked 343)
 | Azorian Hat Dance | 0.70% | ~12 |
 | I Now Pronounce You... | 0.50% | ~45 |
 | Chatty Neighbor | 0.50% | ~45 |
+| Right Tool For the Job | 0.50% | ~45 |
 | House Proud | 0.50% | ~45 |
-| Going Down | 0.50% | ~8 |
-| Right Tool For the Job | 0.40% | ~36 |
+| Going Down | 0.50% | ~9 |
 | Captain of Cozy | 0.30% | ~27 |
 | Angling Authority | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,083 (Ranked 186)  
+Progressed: 9,084 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 1 (0.01%) (Ranked 377)
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
 | 2024-01-14 | 9,068 | 1 |
-| 2024-01-15 | 9,083 | 1 |
+| 2024-01-15 | 9,084 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

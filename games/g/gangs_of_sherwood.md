@@ -16,12 +16,12 @@
 | Starry Night | 38.00% | ~47 |
 | Spring Board | 37.00% | ~46 |
 | Locksley's Tears | 35.00% | ~43 |
+| Rebel Unleashed | 34.00% | ~42 |
 | Merry Co-operation | 32.00% | ~40 |
-| Rebel Unleashed | 32.00% | ~40 |
-| Assault on the Ram | 23.00% | ~29 |
-| Finish Him! | 22.00% | ~27 |
+| Assault on the Ram | 24.00% | ~30 |
+| Finish Him! | 23.00% | ~29 |
 | First Aid | 21.00% | ~26 |
-| Ultra Rebel Instinct | 19.00% | ~24 |
+| Ultra Rebel Instinct | 20.00% | ~25 |
 | Merry Go Round | 19.00% | ~24 |
 | Savior | 16.00% | ~20 |
 | Ultra Combo | 15.00% | ~19 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1719,9 +1719,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "ALLCOMBAT",
@@ -1799,9 +1799,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "CHOSEKLE",
@@ -1855,9 +1855,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "FINDBILLY",
@@ -1967,9 +1967,9 @@
       "ID": "KILLGRANADE",
       "SetID": "a1angca",
       "Name": "Fire in the Hole",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILLKAHN",
@@ -1999,8 +1999,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:06:35.3354273+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:05:51.4751965+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:00:19.1750317+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:06:35.3354681+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:59:57.1824514+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:05:51.4752292+00:00"
 }

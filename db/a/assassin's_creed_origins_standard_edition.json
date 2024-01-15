@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-origins",
   "Ranking_Rating": 261,
   "Ranking_Popularity": 89,
-  "Ranking_PopularitySum": 122,
+  "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -7965,6 +7965,6 @@
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
   "LastChanged": "2024-01-15T17:02:41.3174904+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:57.4621512+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:02:41.317491+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:05:23.0693859+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:02:40.4171625+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:04:51.9319589+00:00"
 }

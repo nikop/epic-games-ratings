@@ -9,10 +9,10 @@ Rating: 4.63 (Ranked 355)
 | Realm Estate | 16.00% | ~1,160 |
 | A Wonderful Discovery | 15.00% | ~1,088 |
 | Walls Cannot Stop Us | 15.00% | ~1,088 |
-| From Friends to Family | 13.00% | ~942 |
+| From Friends to Family | 13.00% | ~943 |
 | Bone Peddler | 11.00% | ~798 |
 | Magical Synergy | 10.00% | ~725 |
-| Full Ascension | 9.00% | ~652 |
+| Full Ascension | 9.00% | ~653 |
 | There Can Only Be One! | 8.00% | ~580 |
 | Stronger Together | 8.00% | ~580 |
 | Seat of Power | 8.00% | ~580 |
@@ -21,10 +21,10 @@ Rating: 4.63 (Ranked 355)
 | Intimidation Tactics | 7.00% | ~508 |
 | My Final Form | 6.00% | ~435 |
 | But this one is mine | 6.00% | ~435 |
-| Return of the Wizard King | 5.00% | ~362 |
-| Enchanted Archipelago | 5.00% | ~362 |
-| Digging for Treasure | 5.00% | ~362 |
-| Against the Odds | 5.00% | ~362 |
+| Return of the Wizard King | 5.00% | ~363 |
+| Enchanted Archipelago | 5.00% | ~363 |
+| Digging for Treasure | 5.00% | ~363 |
+| Against the Odds | 5.00% | ~363 |
 | Preparation Is Everything | 4.00% | ~290 |
 | Fiery Friend | 4.00% | ~290 |
 | Impenetrable Fortress | 4.00% | ~290 |
@@ -46,27 +46,27 @@ Rating: 4.63 (Ranked 355)
 | Chaos Surge | 2.00% | ~145 |
 | Spoils of War | 2.00% | ~145 |
 | Dawn of the Dread | 2.00% | ~145 |
-| Manufactured War | 1.00% | ~72 |
-| Pruning for Progress | 1.00% | ~72 |
-| Grexolis | 1.00% | ~72 |
-| One for All, All for One | 1.00% | ~72 |
-| Betrayal Most Foul | 1.00% | ~72 |
-| Duality | 1.00% | ~72 |
-| Prometheus Avenged | 1.00% | ~72 |
-| Seal the Deal | 1.00% | ~72 |
-| A Conqueror's Cohort | 1.00% | ~72 |
+| Manufactured War | 1.00% | ~73 |
+| Pruning for Progress | 1.00% | ~73 |
+| Grexolis | 1.00% | ~73 |
+| One for All, All for One | 1.00% | ~73 |
+| Betrayal Most Foul | 1.00% | ~73 |
+| Duality | 1.00% | ~73 |
+| Prometheus Avenged | 1.00% | ~73 |
+| Seal the Deal | 1.00% | ~73 |
+| A Conqueror's Cohort | 1.00% | ~73 |
 | Snap Out of It! | 0.60% | ~44 |
 | The Magic That Empowers Me! | 0.60% | ~44 |
 | Jack of All Tomes | 0.50% | ~36 |
 | A Very Special Ring | 0.40% | ~29 |
-| Returning Circle | 0.20% | ~14 |
-| I'll Fight You All | 0.20% | ~14 |
+| Returning Circle | 0.20% | ~15 |
+| I'll Fight You All | 0.20% | ~15 |
 | I Want to Break Free | 0.10% | ~7 |
 | Master of Evilness | 0.10% | ~7 |
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,250 (Ranked 197)  
+Progressed: 7,252 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
 | 2024-01-14 | 7,246 | 8 |
-| 2024-01-15 | 7,250 | 8 |
+| 2024-01-15 | 7,252 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 484)  
 Sum: 238 (Ranked 407)  

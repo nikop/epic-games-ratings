@@ -12,14 +12,14 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~317 |
 | I Look Up As I Walk to Takoshima | 61.00% | ~307 |
 | Yettisoned | 59.00% | ~297 |
+| Pimp My Raid | 58.00% | ~292 |
 | Perfect Probulator | 58.00% | ~292 |
-| Pimp My Raid | 57.00% | ~287 |
 | Lobster Blisque | 52.00% | ~262 |
 | Fly Me to the Moon Base | 51.00% | ~257 |
 | Earthly Pleasures | 48.00% | ~241 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~236 |
+| Bodied Sattva | 38.00% | ~191 |
 | Forbidden Donut | 37.00% | ~186 |
-| Bodied Sattva | 37.00% | ~186 |
 | Freshly Squeezed | 36.00% | ~181 |
 | Upgreatest | 36.00% | ~181 |
 | Furon Fashion | 30.00% | ~151 |

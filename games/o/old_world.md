@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~843 |
-| Play a Single Player Game | 5.00% | ~843 |
+| Settler | 5.00% | ~844 |
+| Play a Single Player Game | 5.00% | ~844 |
 | Explorer | 4.00% | ~675 |
 | Friendly Family | 4.00% | ~675 |
 | Able | 3.00% | ~506 |
@@ -23,6 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 3.00% | ~506 |
 | Oracle | 3.00% | ~506 |
 | Judaism | 3.00% | ~506 |
+| Trade Caravan | 3.00% | ~506 |
 | Regicide | 2.00% | ~337 |
 | Ambitious | 2.00% | ~337 |
 | Brilliant | 2.00% | ~337 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~337 |
 | Zoroastrianism | 2.00% | ~337 |
 | Naming Landmarks | 2.00% | ~337 |
-| Trade Caravan | 2.00% | ~337 |
 | Hanging Gardens in Babylon | 1.00% | ~169 |
 | Drillmaster | 1.00% | ~169 |
 | Intercessor | 1.00% | ~169 |
@@ -73,20 +73,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~169 |
 | Building Wonders | 1.00% | ~169 |
 | Mythology | 1.00% | ~169 |
+| Points Victory | 1.00% | ~169 |
 | Beloved | 0.90% | ~152 |
 | Mighty | 0.90% | ~152 |
 | Good Difficulty | 0.90% | ~152 |
 | Temple of Solomon | 0.90% | ~152 |
 | Greece | 0.90% | ~152 |
 | Power to the People | 0.90% | ~152 |
-| Points Victory | 0.90% | ~152 |
 | Landowners | 0.80% | ~135 |
 | Patrons | 0.80% | ~135 |
 | Statesmen | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
+| Hagia Sophia | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
 | Legionary | 0.80% | ~135 |
+| Double Victory | 0.80% | ~135 |
 | Win a Single Player Game | 0.80% | ~135 |
 | The Clergy | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
@@ -95,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
-| Hagia Sophia | 0.70% | ~118 |
 | Pantheon | 0.70% | ~118 |
 | Via Recta Souk | 0.70% | ~118 |
 | Learn to Play 4 | 0.70% | ~118 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.70% | ~118 |
 | Legalism | 0.70% | ~118 |
 | Cimmerian Archer | 0.70% | ~118 |
-| Double Victory | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.60% | ~101 |
 | Enlightenment | 0.60% | ~101 |
 | Redemption | 0.60% | ~101 |
+| Kushite Cavalry | 0.60% | ~101 |
 | Phalangite | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
@@ -129,7 +130,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.50% | ~84 |
 | Revelation | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
-| Kushite Cavalry | 0.50% | ~84 |
 | Turreted Elephant | 0.50% | ~84 |
 | All Nations | 0.50% | ~84 |
 | Jerwan Aqueduct | 0.50% | ~84 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,867 (Ranked 169)  
+Progressed: 16,873 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,867 | 5 |
+| 2024-01-15 | 16,873 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

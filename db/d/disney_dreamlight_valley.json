@@ -2,12 +2,12 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 135,
+  "Ranking_Rating": 136,
   "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5961,9 +5961,9 @@
       "Count": 556
     }
   ],
-  "EOS_Progressed": 14160,
+  "EOS_Progressed": 14161,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25371,6 +25371,11 @@
       "Time": "2024-01-15T17:09:47.418594+00:00",
       "NumProgressed": 14160,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-15T18:09:33.243601+00:00",
+      "NumProgressed": 14161,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 15,
@@ -25398,7 +25403,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6231
     },
     {
       "ID": "Chef_Cook",
@@ -25406,7 +25411,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2691
     },
     {
       "ID": "Chit_Chatter",
@@ -25454,7 +25459,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9487
+      "UsersEstimate": 9488
     },
     {
       "ID": "Miner",
@@ -25470,7 +25475,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9487
+      "UsersEstimate": 9488
     },
     {
       "ID": "Renovator",
@@ -25494,14 +25499,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8354
+      "UsersEstimate": 8355
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14160,
+      "Progressed": 14161,
       "Completed": 351
     }
   ],
@@ -25509,8 +25514,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-15T10:58:47.2898028+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:09:47.4185937+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:09:33.2436007+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:35.1172032+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:59:24.1768653+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:09:47.4186881+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:59:13.1745707+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:09:33.2436959+00:00"
 }

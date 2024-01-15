@@ -4,8 +4,8 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 550,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -383,9 +383,9 @@
       "ID": "ACH_09_RESCUE_DOG",
       "SetID": "9loam6m",
       "Name": "Rescue dog",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_10_DOG_FRIENDS",
@@ -662,8 +662,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:06:00.6850342+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:05:23.4123124+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:11.6252135+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:58:18.6465211+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:06:00.6850664+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:58:20.8382291+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:05:23.4123364+00:00"
 }

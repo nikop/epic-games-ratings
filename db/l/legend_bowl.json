@@ -2,13 +2,13 @@
   "ID": "caad69ee9690437da948af6d481aa864",
   "Name": "Legend Bowl",
   "ProductSlug": "legend-bowl-10bc86",
-  "Ranking_Rating": 135,
+  "Ranking_Rating": 120,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-02T23:00:00+00:00",
     "PcReleaseDate": "2021-09-02T00:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:45.9619927+00:00",
@@ -38,6 +38,12 @@
     {
       "Time": "2023-09-10T18:58:32.7997954+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-15T17:57:49.3340393+00:00",
+      "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -58,8 +64,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:50.368093+00:00",
   "FirstSeenRating": "2023-03-31T05:58:45.9619923+00:00",
-  "LastChanged": "2023-09-10T18:58:32.7997952+00:00",
+  "LastChanged": "2024-01-15T17:57:49.3340391+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.1091438+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:39.1123467+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:05:20.3664174+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:57:49.33404+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:04:49.6635543+00:00"
 }

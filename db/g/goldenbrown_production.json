@@ -3,8 +3,8 @@
   "Name": "goldenbrown Production",
   "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:01.8541045+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:02:51.3125355+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:06:42.9873745+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:02:49.7607695+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:05:57.6461973+00:00"
 }

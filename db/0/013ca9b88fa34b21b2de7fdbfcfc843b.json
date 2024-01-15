@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9083,
+  "EOS_Progressed": 9084,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10293,6 +10293,11 @@
       "Time": "2024-01-15T17:10:56.5395272+00:00",
       "NumProgressed": 9083,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T18:10:30.9249983+00:00",
+      "NumProgressed": 9084,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10321,7 +10326,7 @@
       "Name": "Calm Sailing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -10329,7 +10334,7 @@
       "Name": "Open the Gate!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -10401,7 +10406,7 @@
       "Name": "Miner 49er",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -10441,7 +10446,7 @@
       "Name": "Humble Collector",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -10481,7 +10486,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -10551,9 +10556,9 @@
       "ID": "UPGRADE_ALLTOOLSMAX",
       "SetID": "9eia0f5",
       "Name": "Right Tool For the Job",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -10633,7 +10638,7 @@
       "Name": "Going Down",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DLC1_ACHIEVEMENT_08",
@@ -10648,13 +10653,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9083,
+      "Progressed": 9084,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1700,
+      "Progressed": 1701,
       "Completed": 1050
     }
   ],
@@ -10662,8 +10667,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:56.539527+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:30.9249979+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:03:46.8547237+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:56.5395925+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:03:33.6787507+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:30.9250885+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5310,9 +5310,9 @@
       "ID": "GSS_ACH_40_GARAGE_03",
       "SetID": "5fn8ia4",
       "Name": "Greasemonkey",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 994
+      "UsersEstimate": 1011
     },
     {
       "ID": "GSS_ACH_41_PARTY_BUS",
@@ -5566,9 +5566,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 463
+      "UsersEstimate": 480
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -5663,8 +5663,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:05:04.8006274+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:04:36.9637805+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:16.9001884+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:05:04.8007248+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:57:30.8994114+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:04:36.9638992+00:00"
 }

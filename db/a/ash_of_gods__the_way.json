@@ -2,10 +2,10 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 521,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -841,8 +841,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:23.5759865+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:02.8148056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.0857431+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:01:00.9112918+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:23.5760289+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:00:29.3159462+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:02.8148552+00:00"
 }

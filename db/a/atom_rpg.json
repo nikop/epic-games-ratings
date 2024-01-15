@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,7 +427,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1736,
+  "EOS_Progressed": 1737,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -4672,6 +4672,11 @@
       "Time": "2024-01-14T22:10:00.8950746+00:00",
       "NumProgressed": 1736,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T18:10:25.2045012+00:00",
+      "NumProgressed": 1737,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4681,9 +4686,9 @@
       "ID": "BUSTIN_NUTS_1",
       "SetID": "bf13m8j",
       "Name": "Bustin\u0027 nuts",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 139
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -4731,7 +4736,7 @@
       "Name": "Double agent",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4739,7 +4744,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "EXPERT_1",
@@ -4755,7 +4760,7 @@
       "Name": "Explorer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "GHOSTBUSTER",
@@ -4835,7 +4840,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -4859,7 +4864,7 @@
       "Name": "Paranoia",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "PRIVATE_EYE",
@@ -4970,15 +4975,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1736,
+      "Progressed": 1737,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:49.7285993+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:25.2045009+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:00:15.7677514+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:49.7286345+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:59:53.7598817+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:25.204553+00:00"
 }

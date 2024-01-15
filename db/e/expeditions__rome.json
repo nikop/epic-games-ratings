@@ -2,13 +2,13 @@
   "ID": "0756b215f3394428877179923c6e2fa0",
   "Name": "Expeditions: Rome",
   "ProductSlug": "expeditions-rome",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 304,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
     "PcReleaseDate": "2022-01-20T18:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 68,
   "RatingHistory": [
     {
@@ -333,6 +333,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 51,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2024-01-15T17:58:00.5018608+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
@@ -358,8 +364,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
-  "LastChanged": "2024-01-08T16:58:02.9587395+00:00",
+  "LastChanged": "2024-01-15T17:58:00.5018606+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.0497492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:53.6728574+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:09:50.4124372+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:58:00.5018611+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:09:35.7721825+00:00"
 }

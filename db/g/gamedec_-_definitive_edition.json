@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257935,
+  "EOS_Progressed": 257940,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30836,6 +30836,11 @@
       "Time": "2024-01-15T17:07:05.3133584+00:00",
       "NumProgressed": 257935,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T18:06:15.7512413+00:00",
+      "NumProgressed": 257940,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30847,7 +30852,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69642
+      "UsersEstimate": 69644
     },
     {
       "ID": "ACH_AON",
@@ -30871,7 +30876,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10318
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -30887,7 +30892,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30952
+      "UsersEstimate": 30953
     },
     {
       "ID": "ACH_ENJOY",
@@ -30927,7 +30932,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23214
+      "UsersEstimate": 23215
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -30991,7 +30996,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74801
+      "UsersEstimate": 74803
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31007,7 +31012,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ACH_KACHING",
@@ -31015,7 +31020,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10318
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -31063,7 +31068,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64484
+      "UsersEstimate": 64485
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31111,7 +31116,7 @@
       "Name": "Home run",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 2063
+      "UsersEstimate": 2064
     },
     {
       "ID": "ACH_LETSWORK",
@@ -31119,7 +31124,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18055
+      "UsersEstimate": 18056
     },
     {
       "ID": "ACH_MEMESMART",
@@ -31167,7 +31172,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64484
+      "UsersEstimate": 64485
     },
     {
       "ID": "ACH_SOREAD",
@@ -31175,7 +31180,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10317
+      "UsersEstimate": 10318
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -31262,7 +31267,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257935,
+      "Progressed": 257940,
       "Completed": 8
     }
   ],
@@ -31270,8 +31275,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:07:05.3133581+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:06:15.7512408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:02:45.6022725+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:07:05.3135004+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:02:43.7067854+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:06:15.7514678+00:00"
 }

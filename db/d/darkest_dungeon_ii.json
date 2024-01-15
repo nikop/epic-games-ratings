@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10810,10 +10810,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21663,
       "NumberOfAwardsMax": 8022
+    },
+    {
+      "Time": "2024-01-15T17:58:42.8364673+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21666,
+      "NumberOfAwardsMax": 8022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21663,
+  "NumberOfAwards": 21666,
   "NumberOfAwardsMax": 8022,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10881,7 +10887,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1448
+      "Count": 1451
     },
     {
       "Text": "This game has a Creative Community",
@@ -10890,9 +10896,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132901,
+  "EOS_Progressed": 132907,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40000,6 +40006,11 @@
       "Time": "2024-01-15T17:10:45.3198567+00:00",
       "NumProgressed": 132901,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T18:10:21.4563018+00:00",
+      "NumProgressed": 132907,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40363,7 +40374,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10632
+      "UsersEstimate": 10633
     },
     {
       "ID": "hero_story_complete_all",
@@ -40547,7 +40558,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "combat_kill_collector",
@@ -40595,7 +40606,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40603,7 +40614,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "quest_complete_crusader",
@@ -40611,7 +40622,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40642,21 +40653,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132901,
+      "Progressed": 132907,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7770,
+      "Progressed": 7776,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-15T16:58:46.0273396+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:45.3198566+00:00",
+  "LastChanged": "2024-01-15T17:58:42.836467+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:21.4563016+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:58:46.0273401+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:45.3200476+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:58:42.8364676+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:21.4564795+00:00"
 }

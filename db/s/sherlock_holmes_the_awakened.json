@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 273,
-  "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Completed": 104,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -182,10 +182,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1454,
-  "EOS_Completed": 47,
-  "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed": 48,
+  "EOS_NewPlayers": 32,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5206,6 +5206,11 @@
       "Time": "2024-01-15T17:05:36.9059552+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2024-01-15T18:05:03.5992049+00:00",
+      "NumProgressed": 1454,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -5441,15 +5446,15 @@
       "ID": "bbing49",
       "IsBase": true,
       "Progressed": 1454,
-      "Completed": 47
+      "Completed": 48
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:05:36.9059549+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:05:03.599204+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:03:38.3494071+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:05:36.905992+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:03:27.0870449+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:05:03.5992513+00:00"
 }

@@ -16,16 +16,16 @@
 | Medal of Exploration II | 39.00% | ~1,708 |
 | Council Legion of Merit | 38.00% | ~1,664 |
 | Missing in Action | 37.00% | ~1,621 |
+| Medal of Honor | 36.00% | ~1,577 |
 | Soldier Ally | 36.00% | ~1,577 |
-| Medal of Honor | 35.00% | ~1,533 |
 | Soldier | 35.00% | ~1,533 |
 | Meritorious Service Medal | 35.00% | ~1,533 |
 | Charismatic | 35.00% | ~1,533 |
 | Asari Ally | 34.00% | ~1,489 |
 | Very Elusive | 34.00% | ~1,489 |
+| Principled | 32.00% | ~1,402 |
 | Colonial Savior | 32.00% | ~1,402 |
 | Medal of Exploration III | 31.00% | ~1,358 |
-| Principled | 31.00% | ~1,358 |
 | Merciless | 31.00% | ~1,358 |
 | Scientist | 31.00% | ~1,358 |
 | Paramour I | 30.00% | ~1,314 |
@@ -37,9 +37,9 @@
 | Head Hunter | 29.00% | ~1,270 |
 | The Convict | 27.00% | ~1,183 |
 | Operative | 27.00% | ~1,183 |
+| Power Full | 27.00% | ~1,183 |
 | Colony Defense | 26.00% | ~1,139 |
 | The Krogan | 26.00% | ~1,139 |
-| Power Full | 26.00% | ~1,139 |
 | Veteran | 25.00% | ~1,095 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,095 |
 | Driven | 24.00% | ~1,051 |

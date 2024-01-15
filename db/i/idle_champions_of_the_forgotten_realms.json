@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9527,18 +9527,24 @@
       "Rating": 4.06,
       "NumberOfAwards": 33504,
       "NumberOfAwardsMax": 5782
+    },
+    {
+      "Time": "2024-01-15T17:57:56.7726181+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33510,
+      "NumberOfAwardsMax": 5784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33504,
-  "NumberOfAwardsMax": 5782,
+  "NumberOfAwards": 33510,
+  "NumberOfAwardsMax": 5784,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5782
+      "Count": 5784
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9562,7 +9568,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4327
+      "Count": 4331
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9577,9 +9583,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254055,
+  "EOS_Progressed": 254061,
   "EOS_Completed": 2617,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40232,6 +40238,11 @@
       "Time": "2024-01-15T17:11:07.9800008+00:00",
       "NumProgressed": 254055,
       "NumCompleted": 2617
+    },
+    {
+      "Time": "2024-01-15T18:10:41.0202412+00:00",
+      "NumProgressed": 254061,
+      "NumCompleted": 2617
     }
   ],
   "TotalAchievements": 546,
@@ -42107,7 +42118,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "objective_completed_40",
@@ -43385,9 +43396,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2541
+      "UsersEstimate": 5081
     },
     {
       "ID": "objective_completed_70",
@@ -43417,9 +43428,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 1016
     },
     {
       "ID": "objective_completed_75",
@@ -44610,21 +44621,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220329,
+      "Progressed": 220335,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254055,
+      "Progressed": 254061,
       "Completed": 2617
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-15T16:57:48.7815866+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:11:07.9800004+00:00",
+  "LastChanged": "2024-01-15T17:57:56.7726179+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:41.0202408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:48.7815872+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:11:07.9823219+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:57:56.7726184+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:41.0226685+00:00"
 }

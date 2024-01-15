@@ -9,9 +9,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 4.00% | ~10,162 |
 | Beast Intentions | 2.00% | ~5,081 |
 | The Cursed Farmer | 2.00% | ~5,081 |
+| The Mad Wizard | 2.00% | ~5,081 |
 | The Ring of Regeneration | 1.00% | ~2,541 |
-| The Mad Wizard | 1.00% | ~2,541 |
-| Are Ya Chicken? | 0.90% | ~2,286 |
+| Are Ya Chicken? | 0.90% | ~2,287 |
 | Were-verpowered | 0.80% | ~2,032 |
 | Friendly Imps | 0.80% | ~2,032 |
 | Welcome to Sigil | 0.80% | ~1,763 |
@@ -35,6 +35,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Useless Allies | 0.40% | ~1,016 |
 | Exploring Port Nyanzaru | 0.40% | ~1,016 |
 | Escort to Waterdeep | 0.40% | ~1,016 |
+| Waterdeep Detours | 0.40% | ~1,016 |
 | Arcane Suppression | 0.40% | ~881 |
 | Welcome to the Vrocks | 0.40% | ~881 |
 | Misaligned in Sigil | 0.40% | ~881 |
@@ -48,7 +49,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~762 |
 | The Dinner Party | 0.30% | ~762 |
 | Running of the Saurs | 0.30% | ~762 |
-| Waterdeep Detours | 0.30% | ~762 |
 | Underdeep Cartography | 0.30% | ~762 |
 | Overdue Rendezvous | 0.30% | ~762 |
 | The Templar's Camp | 0.30% | ~762 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,055 (Ranked 70)  
+Progressed: 254,061 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -823,19 +823,19 @@ Completed: 2,617 (1.03%) (Ranked 177)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 254,055 | 2,617 |
+| 2024-01-15 | 254,061 | 2,617 |
 ## Awards
-Max (Great for Beginners): 5,782  (Ranked 74)  
-Sum: 33,504 (Ranked 41)  
+Max (Great for Beginners): 5,784  (Ranked 74)  
+Sum: 33,510 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,782 |
+| This game is Great for Beginners | 5,784 |
 | This game has Diverse Characters | 5,723 |
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,784 |
+| This game is Highly Recommended | 4,331 |
 | This game has Amazing Characters | 4,329 |
-| This game is Highly Recommended | 4,327 |
 | This game has Playful Visuals | 3,643 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1194,4 +1194,4 @@ Diff (max vs sum): 33
 | 2024-01-12 | 4.06 | - | 5,774 | 33,467 |
 | 2024-01-13 | 4.06 | - | 5,777 | 33,477 |
 | 2024-01-14 | 4.06 | - | 5,782 | 33,493 |
-| 2024-01-15 | 4.06 | - | 5,782 | 33,504 |
+| 2024-01-15 | 4.06 | - | 5,784 | 33,510 |

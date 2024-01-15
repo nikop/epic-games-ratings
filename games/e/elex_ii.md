@@ -11,18 +11,18 @@ Number of Ratings: 124  (23.09.2022)
 | Civilian | 35.00% | ~88 |
 | Role Model | 33.00% | ~83 |
 | Creator | 31.00% | ~78 |
-| Military Leader | 28.00% | ~70 |
+| Military Leader | 29.00% | ~73 |
 | Festival-goer | 27.00% | ~68 |
 | Peddler | 25.00% | ~63 |
-| Commander | 24.00% | ~60 |
+| Commander | 25.00% | ~63 |
 | Irissa's Fate | 20.00% | ~50 |
 | Long-Haul Flyer | 18.00% | ~45 |
 | Family Reunion | 18.00% | ~45 |
 | Pass A38 | 18.00% | ~45 |
 | Eternal Oblivion | 16.00% | ~40 |
+| Berserker | 14.00% | ~35 |
 | Banker | 13.00% | ~33 |
 | Storyteller | 13.00% | ~33 |
-| Berserker | 13.00% | ~33 |
 | Globetrotter | 12.00% | ~30 |
 | Alb | 11.00% | ~28 |
 | Hunter | 10.00% | ~25 |
@@ -47,6 +47,7 @@ Number of Ratings: 124  (23.09.2022)
 | Pack Rat | 1.00% | ~3 |
 | Outlaw | 1.00% | ~3 |
 | Ruthless | 0.80% | ~2 |
+| Fire in the Hole | 0.40% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -55,7 +56,6 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Defender | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
-| Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 251 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 401)  

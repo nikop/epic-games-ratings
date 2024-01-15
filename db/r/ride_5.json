@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3606,
+  "EOS_Progressed": 3607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8910,6 +8910,11 @@
       "Time": "2024-01-15T12:08:15.0358582+00:00",
       "NumProgressed": 3606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T18:08:17.1415983+00:00",
+      "NumProgressed": 3607,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9026,7 +9031,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9218,7 +9223,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1803
+      "UsersEstimate": 1804
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9313,7 +9318,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3606,
+      "Progressed": 3607,
       "Completed": 0
     }
   ],
@@ -9321,8 +9326,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:08:14.7516482+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:08:17.141598+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:02:51.6012027+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:08:14.7517206+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:02:49.6909328+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:08:17.1416587+00:00"
 }

@@ -25,7 +25,7 @@ Number of Ratings: 28  (23.09.2022)
 | Foreman | 20.00% | ~133 |
 | Russia | 19.00% | ~127 |
 | America | 18.00% | ~120 |
-| Missed it! | 17.00% | ~113 |
+| Missed it! | 18.00% | ~120 |
 | Sabotage | 15.00% | ~100 |
 | Achtung! | 12.00% | ~80 |
 | Japan | 11.00% | ~73 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239391,
+  "EOS_Progressed": 239396,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28708,6 +28708,11 @@
       "Time": "2024-01-15T17:08:53.3894308+00:00",
       "NumProgressed": 239391,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-15T18:08:48.6945372+00:00",
+      "NumProgressed": 239396,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28735,7 +28740,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 67029
+      "UsersEstimate": 67031
     },
     {
       "ID": "CENTAUR",
@@ -28743,7 +28748,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19151
+      "UsersEstimate": 19152
     },
     {
       "ID": "CHALLENGER",
@@ -28751,7 +28756,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -28759,7 +28764,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16757
+      "UsersEstimate": 16758
     },
     {
       "ID": "DRAGOON",
@@ -28783,7 +28788,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19151
+      "UsersEstimate": 19152
     },
     {
       "ID": "FLAWLESS",
@@ -28807,7 +28812,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47878
+      "UsersEstimate": 47879
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -28855,7 +28860,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 78999
+      "UsersEstimate": 79001
     },
     {
       "ID": "NOBUNAGA",
@@ -28879,7 +28884,7 @@
       "Name": "ON A ROLL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23939
+      "UsersEstimate": 23940
     },
     {
       "ID": "PHOTOFINISH",
@@ -28887,7 +28892,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16757
+      "UsersEstimate": 16758
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -28943,7 +28948,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52666
+      "UsersEstimate": 52667
     },
     {
       "ID": "TACTICIAN",
@@ -28967,7 +28972,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52666
+      "UsersEstimate": 52667
     },
     {
       "ID": "TUNINGMANIAC",
@@ -28983,22 +28988,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98150
+      "UsersEstimate": 98152
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239391,
+      "Progressed": 239396,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:08:53.3894304+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:08:48.6945368+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:58:09.3010342+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:08:53.3895613+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:58:13.5932726+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:08:48.6946838+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "42c9d119160c4631b5916a7e33bd4bc3",
   "Name": "BloodRayne: Terminal Cut",
   "ProductSlug": "bloodrayne-terminal-cut-929df8",
-  "Ranking_EOS_Progress": 666,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-04T13:00:00+00:00",
     "PcReleaseDate": "2020-11-20T14:00:00+00:00",
@@ -182,8 +182,8 @@
   "FirstSeenRating": "2023-03-31T06:58:23.5211548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.6495145+00:00",
   "LastChanged": "2023-03-31T06:58:23.5211549+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:08:16.3930289+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:08:18.4381608+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.562467+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:59:05.3876688+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:08:16.3930614+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:58:57.4742894+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:08:18.4381683+00:00"
 }

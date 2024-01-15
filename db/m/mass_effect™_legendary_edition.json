@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4380,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8308,9 +8308,9 @@
       "ID": "achievement_1",
       "SetID": "b9pe172",
       "Name": "Medal of Honor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 125,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1577
     },
     {
       "ID": "achievement_10",
@@ -8716,9 +8716,9 @@
       "ID": "achievement_30",
       "SetID": "b9pe172",
       "Name": "Principled",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1402
     },
     {
       "ID": "achievement_31",
@@ -9100,9 +9100,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1183
     },
     {
       "ID": "achievement_75",
@@ -9336,8 +9336,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:11:04.6350991+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:38.4514853+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:03:48.2468334+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:11:04.6352676+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:03:34.9483264+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:38.4516762+00:00"
 }

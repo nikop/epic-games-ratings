@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Path of Despair | 88.00% | ~187 |
-| Morgengrauen | 87.00% | ~184 |
-| Not alone | 61.00% | ~129 |
-| Hunger | 52.00% | ~110 |
-| Awaken | 44.00% | ~93 |
-| Path of Corruption | 36.00% | ~76 |
-| Hope | 33.00% | ~70 |
-| Rage | 32.00% | ~68 |
-| Path of Pain | 25.00% | ~53 |
-| Mayhem | 20.00% | ~42 |
-| Reflections | 20.00% | ~42 |
-| The shining | 20.00% | ~42 |
+| Morgengrauen | 87.00% | ~185 |
+| Not alone | 61.00% | ~130 |
+| Hunger | 52.00% | ~111 |
+| Awaken | 44.00% | ~94 |
+| Path of Corruption | 36.00% | ~77 |
+| Hope | 32.00% | ~68 |
+| Rage | 31.00% | ~66 |
+| Path of Pain | 24.00% | ~51 |
+| Mayhem | 20.00% | ~43 |
+| Reflections | 20.00% | ~43 |
+| The shining | 20.00% | ~43 |
 | Clarity | 17.00% | ~36 |
-| Health | 17.00% | ~36 |
+| Health | 16.00% | ~34 |
 | Awaiting orders | 15.00% | ~32 |
-| Art critic | 12.00% | ~25 |
-| Jigsaw | 12.00% | ~25 |
-| Peace | 12.00% | ~25 |
+| Art critic | 12.00% | ~26 |
+| Jigsaw | 12.00% | ~26 |
+| Peace | 12.00% | ~26 |
 | Lost | 8.00% | ~17 |
 | An act of courage | 7.00% | ~15 |
 | All knowing | 7.00% | ~15 |
@@ -34,7 +34,7 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 430)  
+Progressed: 213 (Ranked 430)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,3 +114,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 207 | 0 |
 | 2024-01-13 | 210 | 0 |
 | 2024-01-14 | 212 | 0 |
+| 2024-01-15 | 213 | 0 |

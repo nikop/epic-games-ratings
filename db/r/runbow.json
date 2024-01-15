@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253495,
+  "EOS_Progressed": 253497,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24192,6 +24192,11 @@
       "Time": "2024-01-15T17:10:47.4501904+00:00",
       "NumProgressed": 253495,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T18:10:23.0737567+00:00",
+      "NumProgressed": 253497,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24275,7 +24280,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38024
+      "UsersEstimate": 38025
     },
     {
       "ID": "clearCut",
@@ -24379,7 +24384,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134352
+      "UsersEstimate": 134353
     },
     {
       "ID": "indegestible",
@@ -24435,7 +24440,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35489
+      "UsersEstimate": 35490
     },
     {
       "ID": "myFirstRunbow",
@@ -24523,7 +24528,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32954
+      "UsersEstimate": 32955
     },
     {
       "ID": "treeMedalist",
@@ -24563,14 +24568,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40559
+      "UsersEstimate": 40560
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253495,
+      "Progressed": 253497,
       "Completed": 6
     }
   ],
@@ -24578,8 +24583,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:47.4501899+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:23.0737564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:17.8536435+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:47.4503316+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:57:31.7208403+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:23.0738696+00:00"
 }

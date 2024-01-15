@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -3416,9 +3416,9 @@
       "ID": "RiteOfTheHunt",
       "SetID": "a6c395p",
       "Name": "Huntress",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 726
     },
     {
       "ID": "RiteOfTheStar",
@@ -3472,8 +3472,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-04T18:59:52.3353425+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:37.4634876+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:14.2486432+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:39.6396666+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:43.623931+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:37.4635338+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:57:52.7239851+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:14.2486843+00:00"
 }

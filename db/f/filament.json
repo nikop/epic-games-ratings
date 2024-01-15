@@ -426,9 +426,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209202,
+  "EOS_Progressed": 209205,
   "EOS_Completed": 564,
-  "EOS_NewPlayers": 397,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29321,6 +29321,11 @@
       "Time": "2024-01-15T17:06:03.4125632+00:00",
       "NumProgressed": 209202,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2024-01-15T18:05:25.5215743+00:00",
+      "NumProgressed": 209205,
+      "NumCompleted": 564
     }
   ],
   "TotalAchievements": 29,
@@ -29356,7 +29361,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196650
+      "UsersEstimate": 196653
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29563,7 +29568,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209202,
+      "Progressed": 209205,
       "Completed": 564
     }
   ],
@@ -29571,8 +29576,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:06:03.412563+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:05:25.521574+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2678831+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:02:59.3164857+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:06:03.4127123+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:02:56.9418882+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:05:25.5217061+00:00"
 }

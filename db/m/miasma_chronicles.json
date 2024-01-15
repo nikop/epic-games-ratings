@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1720,
+  "EOS_Progressed": 1721,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4465,6 +4465,11 @@
       "Time": "2024-01-14T17:10:12.4301812+00:00",
       "NumProgressed": 1720,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T18:10:33.2820816+00:00",
+      "NumProgressed": 1721,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4484,7 +4489,7 @@
       "Name": "Are you not entertained?",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -4492,7 +4497,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4524,7 +4529,7 @@
       "Name": "Chain Killer",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "CHAIN_REACTION",
@@ -4548,7 +4553,7 @@
       "Name": "Commando",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "CROAKED",
@@ -4596,7 +4601,7 @@
       "Name": "Jarhead",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -4620,7 +4625,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ENDGAME",
@@ -4652,7 +4657,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4660,7 +4665,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4692,7 +4697,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "GOAL",
@@ -4780,7 +4785,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "RECYCLER",
@@ -4844,7 +4849,7 @@
       "Name": "Technophobe",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4860,7 +4865,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "THE_WATCHERS",
@@ -4868,7 +4873,7 @@
       "Name": "The Watchers",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "WIPE_OUT",
@@ -4883,7 +4888,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1720,
+      "Progressed": 1721,
       "Completed": 0
     }
   ],
@@ -4891,8 +4896,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:59.4055436+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:10:33.2820813+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.6324876+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:03:34.2139695+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:59.4056044+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:03:23.7415781+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:10:33.2821258+00:00"
 }

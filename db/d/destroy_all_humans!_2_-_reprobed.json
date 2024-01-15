@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,7 +306,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 437,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
@@ -1981,6 +1981,11 @@
       "Time": "2024-01-15T13:15:02.9386626+00:00",
       "NumProgressed": 436,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T18:09:46.4534799+00:00",
+      "NumProgressed": 437,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2025,7 +2030,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2121,7 +2126,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2129,7 +2134,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2185,7 +2190,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2193,7 +2198,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -2223,9 +2228,9 @@
       "ID": "ACH_KILL_YETI",
       "SetID": "4n84pon",
       "Name": "Yettisoned",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2241,7 +2246,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2329,7 +2334,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2337,14 +2342,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 437,
       "Completed": 2
     }
   ],
@@ -2352,8 +2357,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-15T17:10:03.4050402+00:00",
+  "LastChanged_Achievements": "2024-01-15T18:09:46.4534795+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:57:48.3433945+00:00",
-  "LastUpdate_Achievements": "2024-01-15T17:10:03.4050782+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:57:56.4063958+00:00",
+  "LastUpdate_Achievements": "2024-01-15T18:09:46.4535188+00:00"
 }

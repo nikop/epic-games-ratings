@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,659 |
-| Life is your teacher | 5.00% | ~38,049 |
-| Lightning Hands | 5.00% | ~38,049 |
-| The Assault | 4.00% | ~30,439 |
+| The Old Grandmaster | 6.00% | ~45,660 |
+| Life is your teacher | 5.00% | ~38,050 |
+| Lightning Hands | 5.00% | ~38,050 |
+| The Assault | 4.00% | ~30,440 |
 | The Hateful Pole Fighter | 3.00% | ~22,830 |
 | Stuntmaster | 3.00% | ~22,830 |
 | Street Fighting | 3.00% | ~22,830 |
@@ -43,12 +43,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.50% | ~3,805 |
 | Prodigal Child | 0.50% | ~3,805 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,805 |
+| Knowledge Greed | 0.40% | ~3,044 |
 | The Pit Protector | 0.40% | ~3,044 |
 | Come Snap With Me | 0.40% | ~3,044 |
 | The best strikes are the ones we avoid | 0.40% | ~281 |
 | Drunken Fighter | 0.30% | ~2,283 |
 | Martial Artist | 0.30% | ~2,283 |
-| Knowledge Greed | 0.30% | ~2,283 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,283 |
 | Be like water my friend | 0.30% | ~2,283 |
 | Deadly Venom | 0.30% | ~211 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,985 (Ranked 26)  
-Completed: 12,988 (1.71%) (Ranked 148)  
+Progressed: 760,997 (Ranked 26)  
+Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,14 +337,14 @@ Completed: 12,988 (1.71%) (Ranked 148)
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
-| 2024-01-15 | 760,985 | 12,988 |
+| 2024-01-15 | 760,997 | 12,989 |
 ## Awards
-Max (Great Boss Battles): 7,205  (Ranked 57)  
-Sum: 12,750 (Ranked 86)  
+Max (Great Boss Battles): 7,215  (Ranked 57)  
+Sum: 12,760 (Ranked 86)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,205 |
+| This game has Great Boss Battles | 7,215 |
 | This game has Diverse Characters | 702 |
 | This game has Challenging Combat | 648 |
 | This game has Amazing Storytelling | 622 |
@@ -721,4 +721,4 @@ Diff (max vs sum): -29
 | 2024-01-12 | 4.82 | - | 7,179 | 12,710 |
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
-| 2024-01-15 | 4.82 | - | 7,205 | 12,750 |
+| 2024-01-15 | 4.82 | - | 7,215 | 12,760 |
