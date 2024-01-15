@@ -23,8 +23,8 @@ Number of Ratings: 281  (23.09.2022)
 | Diamond in the Rough | 2.00% | ~166 |
 | More than a Tourist | 1.00% | ~83 |
 | I'm the Captain Now | 1.00% | ~83 |
+| Hook, Line and Sinker | 1.00% | ~83 |
 | Marathon | 1.00% | ~83 |
-| Hook, Line and Sinker | 0.90% | ~75 |
 | Gonna Need a Bigger Boat | 0.80% | ~67 |
 | No Fin left to give | 0.60% | ~50 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~38 |

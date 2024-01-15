@@ -8,16 +8,16 @@ Rating: 3.68 (Ranked 1,098)
 | I Like My Stakes Rare! | 23.00% | ~550 |
 | Catch and Release | 18.00% | ~430 |
 | Home Is Where the Heart Is | 17.00% | ~406 |
-| Wounded Whispers | 16.00% | ~382 |
-| ICU | 15.00% | ~358 |
+| Wounded Whispers | 16.00% | ~383 |
+| ICU | 15.00% | ~359 |
 | Ne Plus Ultra | 14.00% | ~335 |
 | Blood Will Have Blood | 13.00% | ~311 |
 | Fly Fisher | 13.00% | ~311 |
 | Peek-a-boo | 13.00% | ~311 |
 | Sucks To Be You | 12.00% | ~287 |
-| Enter of Your Own Free Will | 11.00% | ~263 |
 | Welcome to the Neighborhood | 11.00% | ~263 |
 | Throw The First Stone | 11.00% | ~263 |
+| Enter of Your Own Free Will | 10.00% | ~239 |
 | Heart Attack | 10.00% | ~239 |
 | Grounded | 9.00% | ~215 |
 | Skin of Their Teeth | 9.00% | ~215 |
@@ -46,8 +46,8 @@ Rating: 3.68 (Ranked 1,098)
 | Blood Brother | 1.00% | ~24 |
 | Bloody Initiate | 1.00% | ~24 |
 | Good Samaritan | 1.00% | ~24 |
+| Empty Nest Syndrome | 0.90% | ~22 |
 | What Lies Below | 0.80% | ~19 |
-| Empty Nest Syndrome | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
 | Monster Hunters Club | 0.70% | ~17 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,098)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,390 (Ranked 243)  
+Progressed: 2,391 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-12 | 2,372 | 0 |
 | 2024-01-13 | 2,384 | 0 |
 | 2024-01-14 | 2,390 | 0 |
+| 2024-01-15 | 2,391 | 0 |
 ## Awards
 Max (Great Boss Battles): 25  (Ranked 552)  
 Sum: 25 (Ranked 562)  

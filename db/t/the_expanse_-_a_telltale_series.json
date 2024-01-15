@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19023,
+  "EOS_Progressed": 19026,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17394,6 +17394,11 @@
       "Time": "2024-01-14T23:04:47.0602131+00:00",
       "NumProgressed": 19023,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T00:05:04.8506967+00:00",
+      "NumProgressed": 19026,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17438,7 +17443,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3425
     },
     {
       "ID": "14",
@@ -17446,7 +17451,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "15",
@@ -17478,7 +17483,7 @@
       "Name": "Bottoms up!",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "19",
@@ -17486,7 +17491,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "2",
@@ -17518,7 +17523,7 @@
       "Name": "Brother\u0027s Reaper",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "23",
@@ -17550,7 +17555,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "27",
@@ -17558,7 +17563,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "28",
@@ -17598,7 +17603,7 @@
       "Name": "Debris Spree",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "5",
@@ -17614,7 +17619,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "7",
@@ -17630,7 +17635,7 @@
       "Name": "Data Recoverer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "9",
@@ -17638,7 +17643,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "31",
@@ -17662,7 +17667,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "34",
@@ -17685,13 +17690,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19023,
+      "Progressed": 19026,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4977,
+      "Progressed": 4980,
       "Completed": 1325
     }
   ],
@@ -17699,8 +17704,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:04:47.0602127+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:05:04.850696+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:58:22.5387889+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:04:47.0603344+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:58:21.8046316+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:05:04.8507825+00:00"
 }

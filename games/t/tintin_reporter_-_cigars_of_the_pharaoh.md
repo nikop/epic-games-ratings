@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~110 |
-| A Loyal Friend | 42.00% | ~58 |
+| A Loyal Friend | 43.00% | ~59 |
 | Abandon Ship! | 32.00% | ~44 |
 | The Tomb of Kih-Oskh | 28.00% | ~38 |
 | The Weighing of the Soul | 26.00% | ~36 |
@@ -29,7 +29,7 @@
 | Mummy Nightmare | 7.00% | ~10 |
 | Subtlety | 7.00% | ~10 |
 | Mountain Runner | 5.00% | ~7 |
-| A Yummy Detour | 3.00% | ~4 |
+| A Yummy Detour | 4.00% | ~5 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Jungle Runner | 2.00% | ~3 |
 | Guilt | 2.00% | ~3 |

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,546 |
-| Off to a good start | 60.00% | ~1,777 |
-| Do... or do not. There is no try | 52.00% | ~1,540 |
+| New Recruit | 86.00% | ~2,548 |
+| Off to a good start | 60.00% | ~1,778 |
+| Do... or do not. There is no try | 52.00% | ~1,541 |
 | A good blaster at your side | 24.00% | ~711 |
-| I suggest a new strategy | 17.00% | ~503 |
+| I suggest a new strategy | 17.00% | ~504 |
 | Great shot, kid! | 15.00% | ~444 |
 | Scrap collector | 14.00% | ~415 |
 | All right, I'll give it a try | 14.00% | ~415 |
-| The power of the Force | 12.00% | ~355 |
-| Together we can rule the galaxy | 12.00% | ~355 |
-| Shoot first | 12.00% | ~355 |
+| The power of the Force | 12.00% | ~356 |
+| Together we can rule the galaxy | 12.00% | ~356 |
+| Shoot first | 12.00% | ~356 |
 | Collector | 11.00% | ~326 |
 | Tell Jabba that I've got his money | 8.00% | ~237 |
 | Best star-pilot in the galaxy | 8.00% | ~237 |
@@ -24,11 +24,11 @@
 | A cunning warrior | 6.00% | ~178 |
 | "Gonk? Gonk!" | 5.00% | ~148 |
 | Judge me by my size, do you? | 5.00% | ~148 |
-| Distinguished | 4.00% | ~118 |
-| A tremor in the Force | 4.00% | ~118 |
-| Impressive. Most impressive. | 4.00% | ~118 |
-| Not bad for a little furball | 4.00% | ~118 |
-| Support the troops | 4.00% | ~118 |
+| Distinguished | 4.00% | ~119 |
+| A tremor in the Force | 4.00% | ~119 |
+| Impressive. Most impressive. | 4.00% | ~119 |
+| Not bad for a little furball | 4.00% | ~119 |
+| Support the troops | 4.00% | ~119 |
 | Safety ain't the point of a joyride | 3.00% | ~89 |
 | Patience you must have | 3.00% | ~89 |
 | The Force is strong with this one | 2.00% | ~59 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,961 (Ranked 233)  
+Progressed: 2,963 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,6 +189,7 @@ Completed: 1 (0.03%) (Ranked 358)
 | 2024-01-12 | 2,908 | 1 |
 | 2024-01-13 | 2,938 | 1 |
 | 2024-01-14 | 2,961 | 1 |
+| 2024-01-15 | 2,963 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

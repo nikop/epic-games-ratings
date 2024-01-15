@@ -1131,9 +1131,9 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 35,
-      "UsersEstimate": 158
+      "UsersEstimate": 160
     },
     {
       "ID": "ach28",
@@ -1234,8 +1234,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:03:41.3253195+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:03:59.1730351+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:39.7888717+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:26.6138226+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:03:41.3253523+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:26.0669785+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:03:59.173063+00:00"
 }

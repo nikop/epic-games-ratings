@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 510)
 | Idiot | 24.00% | ~49 |
 | Ferocious wild boars | 23.00% | ~47 |
 | Beast slayer | 21.00% | ~43 |
-| Death of a legend | 19.00% | ~39 |
+| Death of a legend | 20.00% | ~41 |
 | Ogre friend | 19.00% | ~39 |
 | Archaeologist | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
@@ -28,9 +28,9 @@ Rating: 4.56 (Ranked 510)
 | Sidelined | 17.00% | ~35 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
+| Ghost hunter | 15.00% | ~30 |
 | Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
-| Ghost hunter | 14.00% | ~28 |
 | Master detective | 14.00% | ~28 |
 | Peacekeeper | 12.00% | ~24 |
 | Defender | 11.00% | ~22 |

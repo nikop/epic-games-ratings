@@ -24,11 +24,11 @@ Number of Ratings: 116  (23.09.2022)
 | Salvation | 39.00% | ~234 |
 | Soul Harvester | 37.00% | ~222 |
 | Unshakable Fortitude | 36.00% | ~216 |
+| I Wanna Rock | 35.00% | ~210 |
 | Delusions of Grandeur | 35.00% | ~210 |
-| I Wanna Rock | 34.00% | ~204 |
 | Love Tap | 33.00% | ~198 |
 | Maximum Vigor | 32.00% | ~192 |
-| Freeze Frame | 30.00% | ~180 |
+| Freeze Frame | 31.00% | ~186 |
 | Eat Your Heart Out | 30.00% | ~180 |
 | For Whom the Bell Tolls | 30.00% | ~180 |
 | Unyielding Strength | 27.00% | ~162 |

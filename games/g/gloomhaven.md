@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,766 |
-| Overkill | 33.00% | ~11,087 |
-| Vaccine Incoming | 31.00% | ~10,415 |
-| A normal day in Gloomhaven | 29.00% | ~9,743 |
-| Spread the plague | 26.00% | ~8,735 |
-| Get over here! | 24.00% | ~8,063 |
-| Just when I thought I was out... | 19.00% | ~6,383 |
-| Mine... All Mine... | 16.00% | ~5,375 |
-| Precious! | 15.00% | ~5,039 |
-| Grizzled veteran | 15.00% | ~5,039 |
-| Anatomy Lesson | 14.00% | ~4,703 |
+| I'm not dead yet | 38.00% | ~12,768 |
+| Overkill | 33.00% | ~11,088 |
+| Vaccine Incoming | 31.00% | ~10,416 |
+| A normal day in Gloomhaven | 29.00% | ~9,744 |
+| Spread the plague | 26.00% | ~8,736 |
+| Get over here! | 24.00% | ~8,064 |
+| Just when I thought I was out... | 19.00% | ~6,384 |
+| Mine... All Mine... | 16.00% | ~5,376 |
+| Precious! | 15.00% | ~5,040 |
+| Grizzled veteran | 15.00% | ~5,040 |
+| Anatomy Lesson | 14.00% | ~4,704 |
 | Who's the Boss? | 12.00% | ~4,032 |
 | You activated my trap card! | 12.00% | ~4,032 |
 | Obstacle race | 12.00% | ~4,032 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~34 |
 | Hard-travelling Heroes | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,596 (Ranked 140)  
+Progressed: 33,600 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-12 | 33,039 | 1 |
 | 2024-01-13 | 33,304 | 1 |
 | 2024-01-14 | 33,596 | 1 |
+| 2024-01-15 | 33,600 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
 Sum: 8,485 (Ranked 109)  

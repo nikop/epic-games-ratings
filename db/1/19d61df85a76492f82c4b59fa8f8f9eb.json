@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 9.43,
+  "EOS_Completed_Percentage": 9.41,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2529,6 +2529,11 @@
       "Time": "2024-01-14T15:09:04.676503+00:00",
       "NumProgressed": 541,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-15T00:09:31.9504837+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 6,
@@ -2572,7 +2577,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 30,
       "XP": 165,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2587,14 +2592,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:16.5379238+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:09:31.9504833+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9161554+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:57:57.8587455+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:16.537944+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:57:56.1946052+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:09:31.9505063+00:00"
 }

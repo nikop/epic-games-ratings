@@ -20,7 +20,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | Dawnlight Order | 64.00% | ~43,697 |
 | The Electromancer | 61.00% | ~41,648 |
 | The Terramancer | 59.00% | ~40,283 |
-| The Exalted | 56.00% | ~38,235 |
+| The Exalted | 57.00% | ~38,917 |
 | Sheriff Inquisitors | 55.00% | ~37,552 |
 | Blueheart Runners | 54.00% | ~36,869 |
 | The Necromancer | 52.00% | ~35,504 |

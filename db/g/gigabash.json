@@ -2,9 +2,9 @@
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
-  "Ranking_Rating": 580,
-  "Ranking_Popularity": 445,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Rating": 566,
+  "Ranking_Popularity": 443,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 400,
   "Ranking_EOS_NewPlayers": 47,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2022-10-02T07:32:08.4274132+00:00",
@@ -319,23 +319,29 @@
       "Rating": 4.52,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-01-14T23:58:05.6070899+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 56,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 55,
-  "NumberOfAwardsMax": 55,
+  "NumberOfAwards": 56,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 55
+      "Count": 56
     }
   ],
-  "EOS_Progressed": 122954,
+  "EOS_Progressed": 122974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3533,
+  "EOS_NewPlayers": 3527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4603,6 +4609,11 @@
       "Time": "2024-01-14T23:04:12.8305352+00:00",
       "NumProgressed": 122954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T00:04:30.7880011+00:00",
+      "NumProgressed": 122974,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -4679,7 +4690,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 12295
+      "UsersEstimate": 12297
     },
     {
       "ID": "ACH_GROWNUP",
@@ -4687,7 +4698,7 @@
       "Name": "All Grown Up!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 23361
+      "UsersEstimate": 23365
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -4711,7 +4722,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18443
+      "UsersEstimate": 18446
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -4767,7 +4778,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9836
+      "UsersEstimate": 9838
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -4783,7 +4794,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11066
+      "UsersEstimate": 11068
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -4839,7 +4850,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6148
+      "UsersEstimate": 6149
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -4879,7 +4890,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7377
+      "UsersEstimate": 7378
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -4894,16 +4905,16 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 122954,
+      "Progressed": 122974,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
-  "LastChanged": "2024-01-13T18:57:30.3898264+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:04:12.8305348+00:00",
+  "LastChanged": "2024-01-14T23:58:05.6070897+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:04:30.7880005+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.8930893+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:58:07.0241799+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:04:12.8305828+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:58:05.6070902+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:04:30.7880477+00:00"
 }

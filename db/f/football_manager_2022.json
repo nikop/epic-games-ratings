@@ -9254,7 +9254,7 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479304,
+  "EOS_Progressed": 479305,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -36264,6 +36264,11 @@
       "Time": "2024-01-14T21:09:16.1413085+00:00",
       "NumProgressed": 479304,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-15T00:09:34.52126+00:00",
+      "NumProgressed": 479305,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -36299,7 +36304,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 177342
+      "UsersEstimate": 177343
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -36387,7 +36392,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143791
+      "UsersEstimate": 143792
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -36427,7 +36432,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 177342
+      "UsersEstimate": 177343
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -36619,7 +36624,7 @@
       "Name": "He\u0027s a Natural",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 148584
+      "UsersEstimate": 148585
     },
     {
       "ID": "achievement_impervious",
@@ -36699,7 +36704,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167756
+      "UsersEstimate": 167757
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -36707,7 +36712,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153377
+      "UsersEstimate": 153378
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -36779,7 +36784,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153377
+      "UsersEstimate": 153378
     },
     {
       "ID": "achievement_rushed_signing",
@@ -36851,7 +36856,7 @@
       "Name": "Invincible!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 52723
+      "UsersEstimate": 52724
     },
     {
       "ID": "achievement_watch_popup_match_viewer",
@@ -36963,7 +36968,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57516
+      "UsersEstimate": 57517
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -36971,7 +36976,7 @@
       "Name": "Millionaire\u0027s Club",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 148584
+      "UsersEstimate": 148585
     },
     {
       "ID": "fantasy_draft_100_club",
@@ -37058,15 +37063,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479304,
+      "Progressed": 479305,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-14T18:03:54.4658287+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:18.8424403+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:09:34.5212596+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.4121487+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:02:47.398209+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:18.8426266+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:02:54.148526+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:09:34.5214436+00:00"
 }

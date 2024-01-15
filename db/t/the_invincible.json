@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1699,
+  "EOS_Progressed": 1701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4495,6 +4495,11 @@
       "Time": "2024-01-14T23:09:51.7043301+00:00",
       "NumProgressed": 1699,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T00:10:07.4249797+00:00",
+      "NumProgressed": 1701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4507,7 +4512,7 @@
       "Name": "The Teleprobe",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 968
+      "UsersEstimate": 970
     },
     {
       "ID": "AchvAllMemories",
@@ -4683,7 +4688,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1208
     },
     {
       "ID": "AchvReachCity",
@@ -4691,7 +4696,7 @@
       "Name": "The City",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 885
     },
     {
       "ID": "AchvReachCondor",
@@ -4738,7 +4743,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1699,
+      "Progressed": 1701,
       "Completed": 1
     }
   ],
@@ -4746,8 +4751,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:51.7043295+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:07.4249792+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:37.0558216+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:51.7043646+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:37.0972459+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:07.4250215+00:00"
 }

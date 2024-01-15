@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16420,
+  "EOS_Progressed": 16421,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18172,6 +18172,11 @@
       "Time": "2024-01-14T23:10:04.2731221+00:00",
       "NumProgressed": 16420,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-15T00:10:19.9948108+00:00",
+      "NumProgressed": 16421,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18263,7 +18268,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "ACH12",
@@ -18343,7 +18348,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7717
+      "UsersEstimate": 7718
     },
     {
       "ID": "ACH22",
@@ -18359,7 +18364,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "ACH24",
@@ -18454,7 +18459,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16420,
+      "Progressed": 16421,
       "Completed": 100
     }
   ],
@@ -18462,8 +18467,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:10:04.2731215+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:19.9948104+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:12.3854171+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:10:04.2732237+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:11.9285812+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:19.9948886+00:00"
 }

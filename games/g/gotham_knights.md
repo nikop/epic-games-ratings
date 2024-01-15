@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,391 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,146 |
-| Loose Ends | 33.00% | ~27,318 |
-| To the Victor Go the Spoils | 27.00% | ~22,351 |
-| Knighthood | 26.00% | ~21,523 |
-| Get ReQ'd | 24.00% | ~19,868 |
-| Whispered Words | 24.00% | ~19,868 |
-| The Batman Family | 22.00% | ~18,212 |
-| Lock and Key | 22.00% | ~18,212 |
-| Something in the Clay | 20.00% | ~16,556 |
-| Quartzer Life Crisis | 20.00% | ~16,556 |
-| Working Hard or Harley Working? | 20.00% | ~16,556 |
-| Unstoppable Force | 20.00% | ~16,556 |
-| Bad Apples in Every Orchard | 20.00% | ~16,556 |
+| First Step Into the Knight | 50.00% | ~41,393 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,147 |
+| Loose Ends | 33.00% | ~27,319 |
+| To the Victor Go the Spoils | 27.00% | ~22,352 |
+| Knighthood | 26.00% | ~21,524 |
+| Get ReQ'd | 24.00% | ~19,869 |
+| Whispered Words | 24.00% | ~19,869 |
+| The Batman Family | 22.00% | ~18,213 |
+| Lock and Key | 22.00% | ~18,213 |
+| Something in the Clay | 20.00% | ~16,557 |
+| Quartzer Life Crisis | 20.00% | ~16,557 |
+| Working Hard or Harley Working? | 20.00% | ~16,557 |
+| Unstoppable Force | 20.00% | ~16,557 |
+| Bad Apples in Every Orchard | 20.00% | ~16,557 |
 | Snow Problem | 19.00% | ~15,729 |
-| The Show Mud Go On | 17.00% | ~14,073 |
-| From Inside Gotham's Walls | 17.00% | ~14,073 |
-| Protector of Gotham | 16.00% | ~13,245 |
-| In Your Element | 15.00% | ~12,417 |
-| Universal Health Scare | 15.00% | ~12,417 |
-| Rock and a Hard Place | 14.00% | ~11,589 |
-| Cooldown | 14.00% | ~11,589 |
-| Voiceless | 14.00% | ~11,589 |
+| The Show Mud Go On | 17.00% | ~14,074 |
+| From Inside Gotham's Walls | 17.00% | ~14,074 |
+| Protector of Gotham | 16.00% | ~13,246 |
+| In Your Element | 15.00% | ~12,418 |
+| Universal Health Scare | 15.00% | ~12,418 |
+| Rock and a Hard Place | 14.00% | ~11,590 |
+| Cooldown | 14.00% | ~11,590 |
+| Voiceless | 14.00% | ~11,590 |
 | Shock Til They Drop | 13.00% | ~10,762 |
 | Seeking Asylum | 13.00% | ~10,762 |
 | End of an Era | 12.00% | ~9,934 |
@@ -35,26 +35,26 @@ Rating: 4.19 (Ranked 976)
 | Bulldozed | 12.00% | ~9,934 |
 | Gotham Knight | 12.00% | ~9,934 |
 | Gotham City Confidential | 11.00% | ~9,106 |
-| Out of Their League | 9.00% | ~7,450 |
-| Drone You Out | 9.00% | ~7,450 |
+| Out of Their League | 9.00% | ~7,451 |
+| Drone You Out | 9.00% | ~7,451 |
 | Solid Alibi | 8.00% | ~6,623 |
 | Fusion Expert | 7.00% | ~5,795 |
 | Family Meeting | 6.00% | ~4,967 |
 | A Worthy Successor | 6.00% | ~4,967 |
 | Expert Crime Fighter | 5.00% | ~4,139 |
 | Dressed to Impress | 4.00% | ~3,311 |
-| A Momentum Occasion | 3.00% | ~2,483 |
-| Bat Out of Hell | 3.00% | ~2,483 |
+| A Momentum Occasion | 3.00% | ~2,484 |
+| Bat Out of Hell | 3.00% | ~2,484 |
 | Practice Makes Perfect | 2.00% | ~1,656 |
 | He'd Be So Proud of You | 2.00% | ~1,656 |
 | Talonted | 1.00% | ~828 |
 | The Man-Bat Family | 1.00% | ~828 |
 | Batarang Collector | 1.00% | ~828 |
 | Claiming the Mural High Ground | 1.00% | ~828 |
-| Icebreaker | 0.80% | ~424 |
+| Icebreaker | 0.80% | ~425 |
 | History Major | 0.80% | ~662 |
-| A Sophisticated Mallet | 0.80% | ~424 |
-| Read Owl About It | 0.70% | ~579 |
+| A Sophisticated Mallet | 0.80% | ~425 |
+| Read Owl About It | 0.70% | ~580 |
 | Don't Mecha Big Deal About It | 0.60% | ~318 |
 | Confronting Your Demon | 0.60% | ~318 |
 | Gotham's Greatest Depths | 0.50% | ~265 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 976)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,782 (Ranked 110)  
+Progressed: 82,786 (Ranked 110)  
 Completed: 134 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,13 +337,14 @@ Completed: 134 (0.16%) (Ranked 289)
 | 2024-01-12 | 82,606 | 133 |
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
+| 2024-01-15 | 82,786 | 134 |
 ## Awards
-Max (Great Boss Battles): 3,191  (Ranked 102)  
-Sum: 5,462 (Ranked 142)  
+Max (Great Boss Battles): 3,204  (Ranked 102)  
+Sum: 5,475 (Ranked 142)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,191 |
+| This game has Great Boss Battles | 3,204 |
 | This game has Diverse Characters | 293 |
 | This game is Great for Beginners | 290 |
 | This game is Relaxing | 289 |
@@ -678,4 +679,4 @@ Diff (max vs sum): -40
 | 2024-01-11 | 4.19 | 3,177 | 5,425 |
 | 2024-01-12 | 4.19 | 3,189 | 5,444 |
 | 2024-01-13 | 4.19 | 3,191 | 5,452 |
-| 2024-01-14 | 4.19 | 3,191 | 5,462 |
+| 2024-01-14 | 4.19 | 3,204 | 5,475 |

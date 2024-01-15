@@ -27,8 +27,8 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 11.00% | ~27 |
 | Hunter | 10.00% | ~25 |
 | Lover | 10.00% | ~25 |
+| Beam Me Up | 9.00% | ~22 |
 | Perfectionist | 9.00% | ~22 |
-| Beam Me Up | 8.00% | ~20 |
 | Free as a Bird | 8.00% | ~20 |
 | Detective | 8.00% | ~20 |
 | Treasure Hunter | 7.00% | ~17 |

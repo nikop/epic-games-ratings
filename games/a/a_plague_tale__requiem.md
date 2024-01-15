@@ -1,33 +1,33 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 183)  
+Rating: 4.73 (Ranked 182)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~16,604 |
-| Newcomers | 75.00% | ~13,684 |
-| A Burden of Blood | 70.00% | ~12,772 |
-| Protector's Duty | 66.00% | ~12,042 |
-| Alchemist | 65.00% | ~11,860 |
-| In our Wake | 64.00% | ~11,677 |
-| Leaving all Behind | 61.00% | ~11,130 |
-| Felons | 58.00% | ~10,583 |
-| A Sea of Promises | 56.00% | ~10,218 |
-| Tales and Revelations | 53.00% | ~9,670 |
-| Bloodline | 48.00% | ~8,758 |
-| The Cradle of Centuries | 44.00% | ~8,028 |
-| The Life We Deserve | 42.00% | ~7,663 |
-| Night guard | 40.00% | ~7,298 |
+| Under a New Sun | 91.00% | ~16,606 |
+| Newcomers | 75.00% | ~13,686 |
+| A Burden of Blood | 70.00% | ~12,774 |
+| Protector's Duty | 66.00% | ~12,044 |
+| Alchemist | 65.00% | ~11,861 |
+| In our Wake | 64.00% | ~11,679 |
+| Leaving all Behind | 61.00% | ~11,131 |
+| Felons | 58.00% | ~10,584 |
+| A Sea of Promises | 56.00% | ~10,219 |
+| Tales and Revelations | 53.00% | ~9,671 |
+| Bloodline | 48.00% | ~8,759 |
+| The Cradle of Centuries | 44.00% | ~8,029 |
+| The Life We Deserve | 42.00% | ~7,664 |
+| Night guard | 40.00% | ~7,299 |
 | Nothing Left | 36.00% | ~6,569 |
 | Healing our Wounds | 34.00% | ~6,204 |
 | Dying Sun | 30.00% | ~5,474 |
 | Improved crossbow | 25.00% | ~4,562 |
 | King Hugo | 23.00% | ~4,197 |
 | Perfect shot | 23.00% | ~4,197 |
-| Mercy | 22.00% | ~4,014 |
-| Effective instruments | 20.00% | ~3,649 |
-| Perfect throw | 20.00% | ~3,649 |
+| Mercy | 22.00% | ~4,015 |
+| Effective instruments | 20.00% | ~3,650 |
+| Perfect throw | 20.00% | ~3,650 |
 | Knights! | 19.00% | ~3,467 |
 | Handful of pockets | 12.00% | ~2,190 |
 | Pocket laboratory | 11.00% | ~2,007 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 183)
 | Explorer | 1.00% | ~182 |
 | Malignant | 1.00% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,246 (Ranked 162)  
+Progressed: 18,248 (Ranked 162)  
 Completed: 65 (0.36%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,6 +310,7 @@ Completed: 65 (0.36%) (Ranked 248)
 | 2024-01-12 | 18,014 | 64 |
 | 2024-01-13 | 18,142 | 64 |
 | 2024-01-14 | 18,246 | 65 |
+| 2024-01-15 | 18,248 | 65 |
 ## Awards
 Max (Great Boss Battles): 465  (Ranked 228)  
 Sum: 729 (Ranked 308)  

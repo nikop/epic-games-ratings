@@ -23,6 +23,7 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 1.00% | ~73 |
 | The Muse: Madison | 1.00% | ~73 |
 | The Crush | 0.90% | ~66 |
+| Deck the Balls | 0.80% | ~35 |
 | It Smells Like Roses | 0.80% | ~35 |
 | Smooth Operator: Ashley | 0.80% | ~59 |
 | Stephanie | 0.80% | ~59 |
@@ -30,7 +31,6 @@ Number of Ratings: 177  (23.09.2022)
 | Vickie | 0.80% | ~59 |
 | Amy: Scavenger Hunt | 0.70% | ~51 |
 | Casanova | 0.70% | ~51 |
-| Deck the Balls | 0.70% | ~31 |
 | Now It's a Party! | 0.70% | ~51 |
 | Te Amo Lety | 0.70% | ~51 |
 | Ashley | 0.60% | ~44 |

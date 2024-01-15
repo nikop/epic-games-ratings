@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.76 (Ranked 135)  
+Rating: 4.73 (Ranked 182)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,8 +17,8 @@ Rating: 4.76 (Ranked 135)
 | Heroes’ Gorge | 66.00% | ~506 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~483 |
 | Master of Magic | 62.00% | ~476 |
-| The Ascent | 60.00% | ~460 |
-| It's Warm and Cozy at Home | 60.00% | ~460 |
+| The Ascent | 61.00% | ~468 |
+| It's Warm and Cozy at Home | 61.00% | ~468 |
 | Magic Accidents | 59.00% | ~453 |
 | Minions, Minions! | 56.00% | ~430 |
 | Hard Work | 56.00% | ~430 |
@@ -45,8 +45,8 @@ Rating: 4.76 (Ranked 135)
 | Hungry, Hungry Gorgu! | 29.00% | ~222 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~222 |
 | Sabotage! | 29.00% | ~222 |
+| Raiders of the Lost Stone | 29.00% | ~222 |
 | Stop Tanos! | 28.00% | ~215 |
-| Raiders of the Lost Stone | 28.00% | ~215 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~215 |
 | Bonus Evilness | 27.00% | ~207 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~207 |
@@ -148,3 +148,4 @@ Completed: 33 (4.30%) (Ranked 87)
 | 2024-01-07 | 4.74 | 0 | 0 |
 | 2024-01-08 | 4.75 | 0 | 0 |
 | 2024-01-13 | 4.76 | 0 | 0 |
+| 2024-01-14 | 4.73 | 0 | 0 |

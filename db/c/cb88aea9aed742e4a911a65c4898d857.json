@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -359,9 +359,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 11471,
+  "EOS_Progressed": 11473,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 827,
+  "EOS_NewPlayers": 829,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4914,6 +4914,11 @@
       "Time": "2024-01-14T23:10:15.8965823+00:00",
       "NumProgressed": 11471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T00:10:32.0658782+00:00",
+      "NumProgressed": 11473,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4926,7 +4931,7 @@
       "Name": "Conspiracy",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "03_TheStolenStar",
@@ -5020,9 +5025,9 @@
       "ID": "14_TheBreezeOfPain",
       "SetID": "37a94m8",
       "Name": "Fear Not Obliteration",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 918
     },
     {
       "ID": "15_Pentakill",
@@ -5246,7 +5251,7 @@
       "Name": "Iron Judgement",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5445,7 +5450,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11471,
+      "Progressed": 11473,
       "Completed": 1
     }
   ],
@@ -5453,8 +5458,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-14T13:00:27.0890359+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:10:15.8965821+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:32.0658777+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:57:28.1081332+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:10:15.8966604+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:57:25.5640463+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:32.0659791+00:00"
 }

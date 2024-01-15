@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4196,
+  "EOS_Progressed": 4197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8593,6 +8593,11 @@
       "Time": "2024-01-14T23:04:59.3741162+00:00",
       "NumProgressed": 4196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T00:05:16.9595687+00:00",
+      "NumProgressed": 4197,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8684,7 +8689,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_BASE_21",
@@ -8740,7 +8745,7 @@
       "Name": "A Hunk of Junk",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_BASE_28",
@@ -8772,7 +8777,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_BASE_31",
@@ -8796,7 +8801,7 @@
       "Name": "Fully Recycled",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_BASE_34",
@@ -8812,7 +8817,7 @@
       "Name": "Breaking Protocol",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_BASE_36",
@@ -8908,7 +8913,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_BASE_5",
@@ -8980,7 +8985,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_BASE_6",
@@ -8988,7 +8993,7 @@
       "Name": "Hope Seeker",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_BASE_60",
@@ -9059,13 +9064,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2380,
+      "Progressed": 2381,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4196,
+      "Progressed": 4197,
       "Completed": 0
     }
   ],
@@ -9073,8 +9078,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-11T09:57:52.466446+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:04:59.3741156+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:05:16.9595682+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.7673694+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:04.0810112+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:04:59.374208+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:03.2264661+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:05:16.9596467+00:00"
 }

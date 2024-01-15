@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -339,7 +339,7 @@
   ],
   "EOS_Progressed": 1408,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4344,9 +4344,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 113
     },
     {
       "ID": "NewMorality",
@@ -4593,8 +4593,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-14T21:57:41.4867657+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:04:50.1875195+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:05:07.7553223+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:57:52.362731+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:04:50.1875718+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:57:50.3769123+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:05:07.7553935+00:00"
 }

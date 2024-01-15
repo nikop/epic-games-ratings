@@ -6,11 +6,11 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~732,894 |
-| The Blues | 85.00% | ~629,252 |
-| Fast | 66.00% | ~488,596 |
-| Healthbar | 55.00% | ~407,163 |
-| Force Cube | 53.00% | ~392,357 |
+| Out of bed | 99.00% | ~732,895 |
+| The Blues | 85.00% | ~629,253 |
+| Fast | 66.00% | ~488,597 |
+| Healthbar | 55.00% | ~407,164 |
+| Force Cube | 53.00% | ~392,358 |
 | Double Jump | 48.00% | ~355,343 |
 | Regeneration | 47.00% | ~347,940 |
 | Triple Jump | 43.00% | ~318,328 |
@@ -22,13 +22,13 @@ Number of Ratings: 25,175  (23.09.2022)
 | True holy spirit | 28.00% | ~207,283 |
 | That's how electronics work obviously | 27.00% | ~199,880 |
 | Force Cube Catapult | 25.00% | ~185,074 |
-| Holy Sword | 23.00% | ~170,268 |
-| Telefrag | 23.00% | ~170,268 |
-| Freed from prison | 22.00% | ~162,865 |
-| Stomp | 21.00% | ~155,462 |
-| Double Health | 19.00% | ~140,656 |
-| Buckle | 18.00% | ~133,253 |
-| Green Keycard | 18.00% | ~133,253 |
+| Holy Sword | 23.00% | ~170,269 |
+| Telefrag | 23.00% | ~170,269 |
+| Freed from prison | 22.00% | ~162,866 |
+| Stomp | 21.00% | ~155,463 |
+| Double Health | 19.00% | ~140,657 |
+| Buckle | 18.00% | ~133,254 |
+| Green Keycard | 18.00% | ~133,254 |
 | Rattle Hag | 16.00% | ~118,448 |
 | All Shells | 15.00% | ~111,045 |
 | Beam | 14.00% | ~103,642 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,297 (Ranked 27)  
+Progressed: 740,298 (Ranked 27)  
 Completed: 782 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -375,6 +375,7 @@ Completed: 782 (0.11%) (Ranked 309)
 | 2024-01-12 | 739,997 | 782 |
 | 2024-01-13 | 740,152 | 782 |
 | 2024-01-14 | 740,297 | 782 |
+| 2024-01-15 | 740,298 | 782 |
 ## Awards
 Max (Challenging Puzzles): 7,779  (Ranked 54)  
 Sum: 10,159 (Ranked 94)  

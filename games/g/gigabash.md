@@ -1,17 +1,17 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 580)  
+Rating: 4.53 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,361 |
-| I've Had Enough! | 15.00% | ~18,443 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,295 |
-| Seasoned Fighter | 9.00% | ~11,066 |
-| All For One and One For All | 8.00% | ~9,836 |
-| Home Sweet Home? | 6.00% | ~7,377 |
-| A New Age | 5.00% | ~6,148 |
+| All Grown Up! | 19.00% | ~23,365 |
+| I've Had Enough! | 15.00% | ~18,446 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,297 |
+| Seasoned Fighter | 9.00% | ~11,068 |
+| All For One and One For All | 8.00% | ~9,838 |
+| Home Sweet Home? | 6.00% | ~7,378 |
+| A New Age | 5.00% | ~6,149 |
 | Oh Baby, A Triple | 3.00% | ~3,689 |
 | Master of Disguise | 3.00% | ~3,689 |
 | Symbiotic | 3.00% | ~3,689 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 580)
 | What's Mine is Yours | 0.10% | ~123 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,954 (Ranked 94)  
+Progressed: 122,974 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,13 +82,14 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-12 | 121,767 | 0 |
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
+| 2024-01-15 | 122,974 | 0 |
 ## Awards
-Max (Great Boss Battles): 55  (Ranked 445)  
-Sum: 55 (Ranked 506)  
-Diff (max vs sum): -61  
+Max (Great Boss Battles): 56  (Ranked 443)  
+Sum: 56 (Ranked 505)  
+Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 55 |
+| This game has Great Boss Battles | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -139,3 +140,4 @@ Diff (max vs sum): -61
 | 2024-01-08 | 4.52 | 49 | 49 |
 | 2024-01-09 | 4.52 | 54 | 54 |
 | 2024-01-13 | 4.52 | 55 | 55 |
+| 2024-01-14 | 4.53 | 56 | 56 |

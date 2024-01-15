@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2961,
+  "EOS_Progressed": 2963,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8024,6 +8024,11 @@
       "Time": "2024-01-14T20:10:49.20461+00:00",
       "NumProgressed": 2961,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T00:10:39.4790018+00:00",
+      "NumProgressed": 2963,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8108,7 +8113,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_19",
@@ -8148,7 +8153,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_23",
@@ -8172,7 +8177,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_26",
@@ -8180,7 +8185,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_27",
@@ -8260,7 +8265,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2548
     },
     {
       "ID": "achievement_36",
@@ -8268,7 +8273,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_37",
@@ -8276,7 +8281,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "achievement_38",
@@ -8300,7 +8305,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "achievement_40",
@@ -8308,7 +8313,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "achievement_41",
@@ -8324,7 +8329,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_43",
@@ -8388,7 +8393,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "achievement_50",
@@ -8444,7 +8449,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_57",
@@ -8539,13 +8544,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2961,
+      "Progressed": 2963,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2961,
+      "Progressed": 2963,
       "Completed": 1
     }
   ],
@@ -8553,8 +8558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:10:23.4689316+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:39.4790014+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:57:25.4531104+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:10:23.4690593+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:57:23.0234285+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:39.4790996+00:00"
 }

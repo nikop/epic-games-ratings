@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 742)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,747 |
-| IT MAKES BOOM! | 9.00% | ~35,825 |
-| EXTRA BOOST | 6.00% | ~23,883 |
-| PROTECTED | 5.00% | ~19,903 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,922 |
-| PRO | 4.00% | ~15,922 |
-| AGGRESSIVE RACER | 3.00% | ~11,942 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,961 |
-| TRAINING HARD | 2.00% | ~7,961 |
-| BE OUR GUEST | 2.00% | ~7,961 |
-| ACE SPEEDSTER | 2.00% | ~7,961 |
-| A TIGER'S FEAR | 2.00% | ~7,961 |
+| ROOKIE | 13.00% | ~51,753 |
+| IT MAKES BOOM! | 9.00% | ~35,829 |
+| EXTRA BOOST | 6.00% | ~23,886 |
+| PROTECTED | 5.00% | ~19,905 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,924 |
+| PRO | 4.00% | ~15,924 |
+| AGGRESSIVE RACER | 3.00% | ~11,943 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,962 |
+| TRAINING HARD | 2.00% | ~7,962 |
+| BE OUR GUEST | 2.00% | ~7,962 |
+| ACE SPEEDSTER | 2.00% | ~7,962 |
+| A TIGER'S FEAR | 2.00% | ~7,962 |
 | RELEASE THE KRAKEN | 1.00% | ~3,981 |
 | ACE BRAWLER | 1.00% | ~3,981 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,981 |
@@ -25,12 +25,12 @@ Rating: 4.42 (Ranked 742)
 | FRIENDLY | 1.00% | ~3,981 |
 | MASTER | 1.00% | ~3,981 |
 | LEGENDARY HERO | 1.00% | ~3,981 |
-| EXPERIENCED CREW | 0.90% | ~3,582 |
-| FRAMED! | 0.70% | ~2,786 |
-| ACE TRICKSTER | 0.70% | ~2,786 |
-| PERFECTLY POISED | 0.60% | ~2,388 |
+| EXPERIENCED CREW | 0.90% | ~3,583 |
+| FRAMED! | 0.70% | ~2,787 |
+| ACE TRICKSTER | 0.70% | ~2,787 |
+| PERFECTLY POISED | 0.60% | ~2,389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,054 (Ranked 52)  
+Progressed: 398,103 (Ranked 52)  
 Completed: 1,606 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 1,606 (0.40%) (Ranked 241)
 | 2024-01-12 | 395,787 | 1,582 |
 | 2024-01-13 | 396,918 | 1,599 |
 | 2024-01-14 | 398,054 | 1,606 |
+| 2024-01-15 | 398,103 | 1,606 |
 ## Awards
 Max (Great for Beginners): 183  (Ranked 311)  
 Sum: 1,201 (Ranked 264)  

@@ -1095,9 +1095,9 @@
       "ID": "id_14",
       "SetID": "bk9jib6",
       "Name": "Death of a legend",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "id_15",
@@ -1159,9 +1159,9 @@
       "ID": "id_22",
       "SetID": "bk9jib6",
       "Name": "Ghost hunter",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "id_23",
@@ -1480,8 +1480,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-07T05:57:14.1879387+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:10:18.1282196+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:34.1363551+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:57:24.7378461+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:10:18.1282771+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:57:22.3244394+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:34.1364029+00:00"
 }

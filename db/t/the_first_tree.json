@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40537,
+  "EOS_Progressed": 40538,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24073,6 +24073,11 @@
       "Time": "2024-01-14T23:08:50.1232818+00:00",
       "NumProgressed": 40537,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-15T00:09:05.4684883+00:00",
+      "NumProgressed": 40538,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -24156,7 +24161,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "firstBunny",
@@ -24172,7 +24177,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30808
+      "UsersEstimate": 30809
     },
     {
       "ID": "roots",
@@ -24195,15 +24200,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40537,
+      "Progressed": 40538,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:08:50.1232815+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:09:05.468488+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.6261434+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:00.6036037+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:08:50.1233878+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:59:59.7892737+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:09:05.4686275+00:00"
 }

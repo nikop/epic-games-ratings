@@ -4,7 +4,7 @@
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 356,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "10_RACES",
       "SetID": "2g288ag",
       "Name": "Swift Decade Sprinter",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "15_RACES",
@@ -465,9 +465,9 @@
       "ID": "5_MAPS",
       "SetID": "2g288ag",
       "Name": "Track Tourist",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "5_RACES",
@@ -503,8 +503,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:06:23.6364053+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:08:10.6770611+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.2005969+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:51.8768296+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:06:23.6364564+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:02:40.7422718+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:08:10.6770735+00:00"
 }

@@ -1785,9 +1785,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 87507,
+  "EOS_Progressed": 87514,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 2544,
+  "EOS_NewPlayers": 2524,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16750,6 +16750,11 @@
       "Time": "2024-01-14T23:05:05.7692772+00:00",
       "NumProgressed": 87507,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-15T00:05:23.347329+00:00",
+      "NumProgressed": 87514,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16762,7 +16767,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 40253
+      "UsersEstimate": 40256
     },
     {
       "ID": "10",
@@ -16826,7 +16831,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18376
+      "UsersEstimate": 18378
     },
     {
       "ID": "3",
@@ -16834,7 +16839,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12251
+      "UsersEstimate": 12252
     },
     {
       "ID": "4",
@@ -16850,7 +16855,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6125
+      "UsersEstimate": 6126
     },
     {
       "ID": "6",
@@ -16858,7 +16863,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5250
+      "UsersEstimate": 5251
     },
     {
       "ID": "7",
@@ -16866,7 +16871,7 @@
       "Name": "More Power to You",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 21002
+      "UsersEstimate": 21003
     },
     {
       "ID": "8",
@@ -16889,7 +16894,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 87507,
+      "Progressed": 87514,
       "Completed": 71
     }
   ],
@@ -16897,8 +16902,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-13T16:00:57.4348611+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:05:05.7692768+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:05:23.3473284+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:17.7168256+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:35.2438944+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:05:05.769364+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:34.9141408+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:05:23.3474318+00:00"
 }

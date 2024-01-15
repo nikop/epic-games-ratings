@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 18602,
+  "EOS_Progressed": 18603,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.74,
   "EosHistory": [
@@ -9914,6 +9914,11 @@
       "Time": "2024-01-14T20:10:10.035097+00:00",
       "NumProgressed": 18602,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2024-01-15T00:10:08.1466083+00:00",
+      "NumProgressed": 18603,
+      "NumCompleted": 324
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -9926,7 +9931,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16370
+      "UsersEstimate": 16371
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -9966,7 +9971,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -9982,7 +9987,7 @@
       "Name": "Lover In Dark Alley",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -9998,7 +10003,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4651
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -10014,7 +10019,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -10022,7 +10027,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 12091
+      "UsersEstimate": 12092
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10038,7 +10043,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3720
+      "UsersEstimate": 3721
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -10110,7 +10115,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 10789
+      "UsersEstimate": 10790
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -10134,7 +10139,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9859
+      "UsersEstimate": 9860
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10142,7 +10147,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9301
+      "UsersEstimate": 9302
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -10214,7 +10219,7 @@
       "Name": "That\u0027s So You",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -10254,14 +10259,14 @@
       "Name": "SALUTE",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     }
   ],
   "AchievementSets": [
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18602,
+      "Progressed": 18603,
       "Completed": 324
     }
   ],
@@ -10269,8 +10274,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-14T18:02:03.5191349+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:52.3920447+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:08.1466078+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:29.5121143+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:52.3921284+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:28.9832408+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:08.1466904+00:00"
 }

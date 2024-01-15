@@ -13,8 +13,8 @@ Rating: 4.13 (Ranked 1,017)
 | Adventurer | 25.00% | ~583 |
 | Shatter Them All | 25.00% | ~583 |
 | Geared Up | 25.00% | ~583 |
+| Scholar | 25.00% | ~583 |
 | I Found It | 25.00% | ~583 |
-| Scholar | 24.00% | ~560 |
 | Fashion Victim | 23.00% | ~536 |
 | Stone Collection | 23.00% | ~536 |
 | Tributes of Caladrias | 22.00% | ~513 |

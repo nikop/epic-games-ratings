@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 904,
+  "EOS_Progressed": 905,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3374,6 +3374,11 @@
       "Time": "2024-01-14T21:09:22.1888667+00:00",
       "NumProgressed": 904,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T00:09:40.3067973+00:00",
+      "NumProgressed": 905,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3384,9 +3389,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 697
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3410,7 +3415,7 @@
       "Name": "Expert Scavenger",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -3466,7 +3471,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3530,7 +3535,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3562,7 +3567,7 @@
       "Name": "Second wall",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3585,7 +3590,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 904,
+      "Progressed": 905,
       "Completed": 2
     }
   ],
@@ -3593,8 +3598,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:24.8988716+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:09:40.3067969+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:32.7396286+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:24.898904+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:32.223034+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:09:40.3068244+00:00"
 }

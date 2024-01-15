@@ -6,7 +6,7 @@
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151188,
+  "EOS_Progressed": 151191,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 996,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36724,6 +36724,11 @@
       "Time": "2024-01-14T23:09:05.4097286+00:00",
       "NumProgressed": 151188,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T00:09:20.9954034+00:00",
+      "NumProgressed": 151191,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36735,7 +36740,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7560
     },
     {
       "ID": "advlevel02",
@@ -37287,7 +37292,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7560
     },
     {
       "ID": "jackslot02",
@@ -37391,7 +37396,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7560
     },
     {
       "ID": "master02",
@@ -37630,15 +37635,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151188,
+      "Progressed": 151191,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:05.4097282+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:09:20.9954029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:03:17.7779785+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:05.4099435+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:03:22.8618221+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:09:20.99561+00:00"
 }

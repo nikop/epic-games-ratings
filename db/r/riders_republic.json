@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 152,
+  "Ranking_Rating": 151,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 828,
@@ -11257,10 +11257,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 8387,
       "NumberOfAwardsMax": 897
+    },
+    {
+      "Time": "2024-01-14T23:58:23.3121083+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8389,
+      "NumberOfAwardsMax": 897
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8387,
+  "NumberOfAwards": 8389,
   "NumberOfAwardsMax": 897,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11334,7 +11340,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 785
+      "Count": 787
     },
     {
       "Text": "This game has a Creative Community",
@@ -11354,8 +11360,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-01-14T16:58:07.7658273+00:00",
+  "LastChanged": "2024-01-14T23:58:23.3121082+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.7252631+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:58:23.6371997+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:04:40.6101802+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:58:23.3121087+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:04:58.5526239+00:00"
 }

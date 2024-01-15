@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2479,9 +2479,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19569,
+  "EOS_Progressed": 19570,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20429,6 +20429,11 @@
       "Time": "2024-01-14T23:10:14.0647886+00:00",
       "NumProgressed": 19569,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-15T00:10:30.1033084+00:00",
+      "NumProgressed": 19570,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 35,
@@ -20440,7 +20445,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15851
+      "UsersEstimate": 15852
     },
     {
       "ID": "ACH02",
@@ -20496,7 +20501,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9784
+      "UsersEstimate": 9785
     },
     {
       "ID": "ACH09",
@@ -20536,7 +20541,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3522
+      "UsersEstimate": 3523
     },
     {
       "ID": "ACH14",
@@ -20664,7 +20669,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "ACH30",
@@ -20719,7 +20724,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19569,
+      "Progressed": 19570,
       "Completed": 78
     }
   ],
@@ -20727,8 +20732,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-14T19:02:41.3641629+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:10:14.0647883+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:30.103308+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:02:50.3940263+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:10:14.0649054+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:02:56.9107443+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:30.1034561+00:00"
 }

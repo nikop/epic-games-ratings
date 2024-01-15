@@ -13,14 +13,14 @@ Rating: 4.59 (Ranked 451)
 | Space Society | 19.00% | ~797 |
 | A Thousand Strong | 19.00% | ~797 |
 | Permanent Redesigns | 17.00% | ~713 |
-| Guy de Borderlands | 15.00% | ~629 |
-| Fully Recycled | 15.00% | ~629 |
-| Ain't Nobody Got Time for That | 15.00% | ~629 |
-| The Ship of Theseus | 15.00% | ~629 |
-| Hope Seeker | 14.00% | ~587 |
-| A Hunk of Junk | 13.00% | ~545 |
-| Exceeding Capacity | 13.00% | ~545 |
-| Breaking Protocol | 13.00% | ~545 |
+| Guy de Borderlands | 15.00% | ~630 |
+| Fully Recycled | 15.00% | ~630 |
+| Ain't Nobody Got Time for That | 15.00% | ~630 |
+| The Ship of Theseus | 15.00% | ~630 |
+| Hope Seeker | 14.00% | ~588 |
+| A Hunk of Junk | 13.00% | ~546 |
+| Exceeding Capacity | 13.00% | ~546 |
+| Breaking Protocol | 13.00% | ~546 |
 | Man's Best Friend | 9.00% | ~378 |
 | Power Outage | 9.00% | ~378 |
 | Please Make it Stop! | 9.00% | ~378 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 451)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,196 (Ranked 214)  
+Progressed: 4,197 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,6 +323,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-12 | 4,168 | 0 |
 | 2024-01-13 | 4,180 | 0 |
 | 2024-01-14 | 4,196 | 0 |
+| 2024-01-15 | 4,197 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

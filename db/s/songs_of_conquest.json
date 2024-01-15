@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -4142,6 +4142,11 @@
       "Time": "2024-01-14T21:09:32.0749574+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T00:09:50.168504+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4232,9 +4237,9 @@
       "ID": "ChainLightningKills",
       "SetID": "71c0n9i",
       "Name": "Unlimited Power!",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ChargerCount",
@@ -4264,9 +4269,9 @@
       "ID": "Deepstrike",
       "SetID": "71c0n9i",
       "Name": "Deepstrike",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 12
     },
     {
       "ID": "DieByTheBow",
@@ -4296,9 +4301,9 @@
       "ID": "DoubleKill",
       "SetID": "71c0n9i",
       "Name": "Double Kill",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 480
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4376,9 +4381,9 @@
       "ID": "Oops",
       "SetID": "71c0n9i",
       "Name": "Oops!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "PhoenixKills",
@@ -4408,9 +4413,9 @@
       "ID": "RanaCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "The Marsh Expands",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ReclaimTown",
@@ -4496,9 +4501,9 @@
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 84
     },
     {
       "ID": "WielderLevel4",
@@ -4585,15 +4590,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:34.3347966+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:09:50.1685034+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:00:06.9148428+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:34.3349+00:00"
+  "LastUpdate_Ratings": "2024-01-15T00:00:06.0261438+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:09:50.1685593+00:00"
 }

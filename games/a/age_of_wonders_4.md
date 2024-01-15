@@ -6,7 +6,7 @@ Rating: 4.63 (Ranked 356)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 18.00% | ~1,304 |
-| Realm Estate | 16.00% | ~1,159 |
+| Realm Estate | 16.00% | ~1,160 |
 | A Wonderful Discovery | 15.00% | ~1,087 |
 | Walls Cannot Stop Us | 15.00% | ~1,087 |
 | From Friends to Family | 13.00% | ~942 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 356)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,246 (Ranked 197)  
+Progressed: 7,247 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
 | 2024-01-14 | 7,246 | 8 |
+| 2024-01-15 | 7,247 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 483)  
 Sum: 238 (Ranked 407)  

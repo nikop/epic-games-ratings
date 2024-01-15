@@ -673,9 +673,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4284,
+  "EOS_Progressed": 4285,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9718,6 +9718,11 @@
       "Time": "2024-01-14T19:09:39.6651212+00:00",
       "NumProgressed": 4284,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-15T00:10:10.0747473+00:00",
+      "NumProgressed": 4285,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9809,7 +9814,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9857,7 +9862,7 @@
       "Name": "Skirmisher",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -9865,7 +9870,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -9897,7 +9902,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9985,7 +9990,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -9993,7 +9998,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -10041,7 +10046,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10097,7 +10102,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10105,7 +10110,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -10193,7 +10198,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -10296,13 +10301,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4235,
+      "Progressed": 4236,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4284,
+      "Progressed": 4285,
       "Completed": 11
     }
   ],
@@ -10310,8 +10315,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-14T23:09:54.366788+00:00",
+  "LastChanged_Achievements": "2024-01-15T00:10:10.0747469+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-14T22:57:09.4067034+00:00",
-  "LastUpdate_Achievements": "2024-01-14T23:09:54.3668771+00:00"
+  "LastUpdate_Ratings": "2024-01-14T23:57:07.2863719+00:00",
+  "LastUpdate_Achievements": "2024-01-15T00:10:10.0748495+00:00"
 }

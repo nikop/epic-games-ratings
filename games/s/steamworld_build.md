@@ -18,7 +18,7 @@
 | Roll Out | 38.00% | ~101 |
 | Up, Up And Away! | 34.00% | ~90 |
 | Dopa-Miner | 33.00% | ~88 |
-| Whoa! | 30.00% | ~80 |
+| Whoa! | 31.00% | ~82 |
 | Botropolis | 28.00% | ~74 |
 | Steam Powered | 21.00% | ~56 |
 | Manic Mechanic | 20.00% | ~53 |

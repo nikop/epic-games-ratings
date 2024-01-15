@@ -17,12 +17,12 @@
 | Victor's Prejudice | 33.00% | ~35 |
 | Excellent Driving Skills | 32.00% | ~34 |
 | Once Bitten, Twice Shy | 30.00% | ~32 |
-| Memento | 28.00% | ~30 |
+| Memento | 29.00% | ~31 |
 | Fleet-footed | 27.00% | ~29 |
 | Defeat the AI | 26.00% | ~28 |
 | Invincible | 26.00% | ~28 |
+| Walking into a Trap | 23.00% | ~25 |
 | Best in Dragon City | 22.00% | ~24 |
-| Walking into a Trap | 22.00% | ~24 |
 | Unsalvageable | 22.00% | ~24 |
 | Neutralize | 22.00% | ~24 |
 | Disdain | 21.00% | ~22 |

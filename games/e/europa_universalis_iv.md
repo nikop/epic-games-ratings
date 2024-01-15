@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 0.60% | ~2,995 |
 | That is mine! | 0.50% | ~2,496 |
 | Victorious! | 0.50% | ~2,496 |
-| Brothers in Arms | 0.40% | ~1,996 |
-| That's a Grand Navy | 0.40% | ~1,996 |
-| Seriously?! | 0.40% | ~1,996 |
+| Brothers in Arms | 0.40% | ~1,997 |
+| That's a Grand Navy | 0.40% | ~1,997 |
+| Seriously?! | 0.40% | ~1,997 |
 | Cold War | 0.30% | ~1,497 |
 | For the Glory | 0.30% | ~1,497 |
 | It's all about the money | 0.30% | ~1,497 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,117 (Ranked 42)  
+Progressed: 499,131 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,9 +640,10 @@ Completed: 1 (0.00%) (Ranked 400)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
+| 2024-01-15 | 499,131 | 1 |
 ## Awards
 Max (Educational): 7,836  (Ranked 52)  
-Sum: 64,617 (Ranked 24)  
+Sum: 64,631 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -650,7 +651,7 @@ Diff (max vs sum): 28
 | This game has Diverse Characters | 7,689 |
 | This game is Highly Recommended | 7,519 |
 | This game has Challenging Combat | 7,463 |
-| This game is Extremely Fun | 7,336 |
+| This game is Extremely Fun | 7,350 |
 | This game is Relaxing | 7,182 |
 | This game has Competitive Players | 7,022 |
 | This game has Amazing Storytelling | 6,534 |
@@ -1021,4 +1022,4 @@ Diff (max vs sum): 28
 | 2024-01-11 | 4.69 | - | 7,804 | 64,342 |
 | 2024-01-12 | 4.69 | - | 7,824 | 64,437 |
 | 2024-01-13 | 4.69 | - | 7,836 | 64,538 |
-| 2024-01-14 | 4.69 | - | 7,836 | 64,617 |
+| 2024-01-14 | 4.69 | - | 7,836 | 64,631 |

@@ -5,9 +5,9 @@ Rating: 4.56 (Ranked 510)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,206 |
-| The Teleprobe | 57.00% | ~968 |
-| The City | 52.00% | ~883 |
+| The Camp | 71.00% | ~1,208 |
+| The Teleprobe | 57.00% | ~970 |
+| The City | 52.00% | ~885 |
 | The field base | 47.00% | ~799 |
 | The Alliance | 44.00% | ~748 |
 | Survivors | 41.00% | ~697 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 510)
 | Convoy list | 0.90% | ~15 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,699 (Ranked 264)  
+Progressed: 1,701 (Ranked 264)  
 Completed: 1 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 1 (0.06%) (Ranked 334)
 | 2024-01-12 | 1,649 | 1 |
 | 2024-01-13 | 1,674 | 1 |
 | 2024-01-14 | 1,699 | 1 |
+| 2024-01-15 | 1,701 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

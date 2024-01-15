@@ -7,7 +7,7 @@ Number of Ratings: 292  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept | 46.00% | ~552 |
-| Double Kill | 41.00% | ~492 |
+| Double Kill | 40.00% | ~480 |
 | Critical Hit | 23.00% | ~276 |
 | Veteran | 23.00% | ~276 |
 | Dressed For Success | 15.00% | ~180 |
@@ -15,8 +15,8 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 10.00% | ~120 |
 | Multi Kill | 9.00% | ~108 |
 | Sorcerous Spree | 9.00% | ~108 |
-| Master | 8.00% | ~96 |
 | Landlord Extraordinaire | 7.00% | ~84 |
+| Master | 7.00% | ~84 |
 | The Song of Stoutheart | 6.00% | ~72 |
 | Whoops! | 6.00% | ~72 |
 | Don't Touch My Stuff | 6.00% | ~72 |
@@ -24,17 +24,17 @@ Number of Ratings: 292  (23.09.2022)
 | Expert Essence Employment | 4.00% | ~48 |
 | Ultra Kill | 3.00% | ~36 |
 | This Spot's Taken | 2.00% | ~24 |
-| Deepstrike | 2.00% | ~24 |
 | Infernal Influence | 2.00% | ~24 |
 | From the Ashes | 2.00% | ~24 |
 | Pyrrhic Victory | 2.00% | ~24 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~24 |
+| Deepstrike | 1.00% | ~12 |
 | In The Thick of It | 1.00% | ~12 |
 | Such A Fungi | 1.00% | ~12 |
 | Grand Master | 1.00% | ~12 |
 | Together For Her | 0.90% | ~11 |
 | Versatile Wielder | 0.80% | ~10 |
-| Unlimited Power! | 0.80% | ~10 |
+| Unlimited Power! | 0.70% | ~8 |
 | Cleave | 0.70% | ~8 |
 | Death To Diplomacy | 0.60% | ~7 |
 | Killing Spree | 0.60% | ~7 |
@@ -43,10 +43,10 @@ Number of Ratings: 292  (23.09.2022)
 | Attack Bonanza | 0.30% | ~4 |
 | Fully Charged | 0.30% | ~4 |
 | Barbecue | 0.30% | ~4 |
-| Oops! | 0.30% | ~4 |
-| The Marsh Expands | 0.30% | ~4 |
 | Hello There | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
+| Oops! | 0.20% | ~2 |
+| The Marsh Expands | 0.20% | ~2 |
 | Bringer of Ruin | 0.10% | ~1 |
 | Kneel, peasant! | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 286)  
+Progressed: 1,201 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,6 +127,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-12 | 1,150 | 0 |
 | 2024-01-13 | 1,175 | 0 |
 | 2024-01-14 | 1,200 | 0 |
+| 2024-01-15 | 1,201 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 526)  
 Sum: 252 (Ranked 399)  
