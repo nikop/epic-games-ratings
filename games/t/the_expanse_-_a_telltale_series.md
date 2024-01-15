@@ -21,8 +21,8 @@ Rating: 4.54 (Ranked 550)
 | Heal Thy Medic | 9.00% | ~1,713 |
 | Madame Undersecretary | 9.00% | ~449 |
 | Data Archivist | 8.00% | ~1,523 |
+| Drug Gifter | 8.00% | ~1,523 |
 | Keep Arjun in Check | 8.00% | ~399 |
-| Drug Gifter | 7.00% | ~1,333 |
 | Thorston Mayer | 7.00% | ~1,333 |
 | Khan's Revenge | 7.00% | ~1,333 |
 | Doctor Approved | 6.00% | ~1,142 |

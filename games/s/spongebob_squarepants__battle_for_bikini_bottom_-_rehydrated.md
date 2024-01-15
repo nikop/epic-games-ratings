@@ -18,9 +18,9 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 11.00% | ~113 |
 | Squirrel Smasher | 11.00% | ~113 |
 | Surf's Up! | 11.00% | ~113 |
-| Life's as extreme as you wanna make it! | 9.00% | ~92 |
-| Toxic Terror | 9.00% | ~92 |
-| Hit Rock Bottom | 9.00% | ~92 |
+| Life's as extreme as you wanna make it! | 9.00% | ~93 |
+| Toxic Terror | 9.00% | ~93 |
+| Hit Rock Bottom | 9.00% | ~93 |
 | Shrimp Catcher | 8.00% | ~82 |
 | Are you ready now? | 7.00% | ~72 |
 | Hello, Bikini Bottom | 7.00% | ~72 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~10 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,027 (Ranked 297)  
+Progressed: 1,028 (Ranked 296)  
 Completed: 9 (0.88%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 9 (0.88%) (Ranked 190)
 | 2024-01-12 | 970 | 8 |
 | 2024-01-13 | 992 | 8 |
 | 2024-01-14 | 1,022 | 8 |
-| 2024-01-15 | 1,027 | 9 |
+| 2024-01-15 | 1,028 | 9 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

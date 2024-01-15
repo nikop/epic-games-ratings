@@ -6,14 +6,14 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~98,143 |
-| NATURAL BORN WINNER | 33.00% | ~78,993 |
+| VANGUARD | 41.00% | ~98,144 |
+| NATURAL BORN WINNER | 33.00% | ~78,994 |
 | CALLING HOUSTON | 28.00% | ~67,025 |
 | SNEAKY SNEAKY | 22.00% | ~52,662 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,662 |
 | GT9STRADALE | 20.00% | ~47,875 |
 | CHALLENGER | 11.00% | ~26,331 |
-| ON A ROLL | 10.00% | ~23,937 |
+| ON A ROLL | 10.00% | ~23,938 |
 | CENTAUR | 8.00% | ~19,150 |
 | FASTER THAN EVER | 8.00% | ~19,150 |
 | CHALLENGE THE WORLD | 7.00% | ~16,756 |
@@ -22,17 +22,17 @@ Number of Ratings: 274  (23.09.2022)
 | TAKATORA | 5.00% | ~11,969 |
 | SHOWOFF | 4.00% | ~9,575 |
 | GILA | 3.00% | ~7,181 |
-| PRO | 2.00% | ~4,787 |
-| RESPWND | 2.00% | ~4,787 |
-| SHINY SHINY GOLD | 2.00% | ~4,787 |
+| PRO | 2.00% | ~4,788 |
+| RESPWND | 2.00% | ~4,788 |
+| SHINY SHINY GOLD | 2.00% | ~4,788 |
 | HARDCORE | 1.00% | ~2,394 |
 | ACE | 0.80% | ~1,915 |
 | TACTICIAN | 0.60% | ~1,436 |
 | GTX COMPETIZIONE | 0.50% | ~1,197 |
 | HIDDEN POWER | 0.50% | ~1,197 |
 | TUNING MANIAC | 0.50% | ~1,197 |
-| DRAGOON | 0.40% | ~957 |
-| FLAWLESS | 0.40% | ~957 |
+| DRAGOON | 0.40% | ~958 |
+| FLAWLESS | 0.40% | ~958 |
 | MARID | 0.30% | ~718 |
 | BETTER THAN EVER | 0.20% | ~479 |
 | IINI | 0.20% | ~479 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~479 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,374 (Ranked 75)  
+Progressed: 239,375 (Ranked 75)  
 Completed: 49 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 49 (0.02%) (Ranked 366)
 | 2024-01-12 | 239,215 | 49 |
 | 2024-01-13 | 239,282 | 49 |
 | 2024-01-14 | 239,350 | 49 |
-| 2024-01-15 | 239,374 | 49 |
+| 2024-01-15 | 239,375 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

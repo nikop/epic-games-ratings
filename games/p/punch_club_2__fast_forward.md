@@ -51,10 +51,10 @@
 | Poisoned fighter | 32.00% | ~188 |
 | Get out of my apartment! | 31.00% | ~182 |
 | Gang wrangler | 30.00% | ~176 |
+| Absolute Champion! | 30.00% | ~176 |
 | Seashell hunter | 30.00% | ~176 |
 | Undercover robot | 30.00% | ~176 |
 | Problems of cyborgs | 29.00% | ~170 |
-| Absolute Champion! | 29.00% | ~170 |
 | Another world | 28.00% | ~164 |
 | Not little hacker | 28.00% | ~164 |
 | Trap disarmed | 27.00% | ~158 |

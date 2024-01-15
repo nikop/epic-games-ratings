@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 239,
@@ -303,7 +303,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2525,
+  "EOS_Progressed": 2526,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
@@ -6058,6 +6058,11 @@
       "Time": "2024-01-15T06:06:12.8820388+00:00",
       "NumProgressed": 2525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T11:06:33.3622233+00:00",
+      "NumProgressed": 2526,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6078,15 +6083,15 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1642
     },
     {
       "ID": "AC03",
@@ -6094,7 +6099,7 @@
       "Name": "Blood and Gold",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "AC04",
@@ -6110,7 +6115,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "AC06",
@@ -6126,7 +6131,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "AC08",
@@ -6142,7 +6147,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "AC10",
@@ -6158,7 +6163,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "AC12",
@@ -6174,7 +6179,7 @@
       "Name": "Second Psalm.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "AC14",
@@ -6182,7 +6187,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "AC15",
@@ -6214,7 +6219,7 @@
       "Name": "Acquired Taste",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "AC19",
@@ -6222,7 +6227,7 @@
       "Name": "Soledad",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "AC20",
@@ -6310,7 +6315,7 @@
       "Name": "The Anointed One",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "AC31",
@@ -6342,7 +6347,7 @@
       "Name": "A Sharp Rendezvous",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AC35",
@@ -6358,7 +6363,7 @@
       "Name": "Blessed Incense",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "AC37",
@@ -6390,7 +6395,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1944
+      "UsersEstimate": 1945
     },
     {
       "ID": "AC41",
@@ -6398,7 +6403,7 @@
       "Name": "Happy New Year!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "AC42",
@@ -6414,7 +6419,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "AC44",
@@ -6422,7 +6427,7 @@
       "Name": "This is Blasphemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "AC45",
@@ -6437,7 +6442,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2525,
+      "Progressed": 2526,
       "Completed": 0
     }
   ],
@@ -6445,8 +6450,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:06:54.7114817+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:06:33.3622229+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:58:46.041035+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:06:54.7115623+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:39.6771062+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:06:33.362298+00:00"
 }

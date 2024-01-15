@@ -39,13 +39,13 @@ Number of Ratings: 45  (23.09.2022)
 | Bonebreakers | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |
+| Wingknight's Prowess | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | Tempest | 0.70% | ~11 |
 | We Emerge Changed | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | No More Nightmares | 0.60% | ~10 |
-| Wingknight's Prowess | 0.60% | ~10 |
 | Fight Like a Bird | 0.60% | ~10 |
 | Into Mulch | 0.60% | ~10 |
 | Lochias's Hunger | 0.60% | ~10 |

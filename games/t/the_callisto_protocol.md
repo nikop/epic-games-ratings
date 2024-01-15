@@ -1,20 +1,20 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 955)  
+Rating: 4.21 (Ranked 959)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,048 |
-| The Outer Way | 27.00% | ~6,048 |
-| Desperate Times | 26.00% | ~5,824 |
-| Paper Jams | 23.00% | ~5,152 |
-| Get a Grip | 22.00% | ~4,928 |
-| Chew 'Em Up | 21.00% | ~4,704 |
-| Reforged | 20.00% | ~4,480 |
-| Float Like A Butterfly | 18.00% | ~4,032 |
-| Workplace Hazard | 17.00% | ~3,808 |
-| If the SHU Fits... | 17.00% | ~3,808 |
+| Flesh Wound | 27.00% | ~6,049 |
+| The Outer Way | 27.00% | ~6,049 |
+| Desperate Times | 26.00% | ~5,825 |
+| Paper Jams | 23.00% | ~5,153 |
+| Get a Grip | 22.00% | ~4,929 |
+| Chew 'Em Up | 21.00% | ~4,705 |
+| Reforged | 20.00% | ~4,481 |
+| Float Like A Butterfly | 18.00% | ~4,033 |
+| Workplace Hazard | 17.00% | ~3,809 |
+| If the SHU Fits... | 17.00% | ~3,809 |
 | Without A Paddle | 15.00% | ~3,360 |
 | In the Pipe, Five by Five | 13.00% | ~2,912 |
 | Crash Site | 13.00% | ~2,912 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,401 (Ranked 151)  
+Progressed: 22,403 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,401 | 82 |
+| 2024-01-15 | 22,403 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
 Sum: 654 (Ranked 318)  

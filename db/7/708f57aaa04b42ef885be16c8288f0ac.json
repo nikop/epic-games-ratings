@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -437,9 +437,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14905,
+  "EOS_Progressed": 14906,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 792,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10462,6 +10462,11 @@
       "Time": "2024-01-15T10:10:26.9784177+00:00",
       "NumProgressed": 14905,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-15T11:10:10.8736314+00:00",
+      "NumProgressed": 14906,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10618,7 +10623,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "NoMoreTotems",
@@ -10666,7 +10671,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3875
+      "UsersEstimate": 3876
     },
     {
       "ID": "TheQuarterback",
@@ -10674,7 +10679,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6409
+      "UsersEstimate": 6410
     },
     {
       "ID": "ThisIsDharma",
@@ -10730,7 +10735,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "k01101110",
@@ -10738,14 +10743,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14905,
+      "Progressed": 14906,
       "Completed": 27
     }
   ],
@@ -10753,8 +10758,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-14T13:58:34.8799598+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:10:26.9784173+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:10:10.8736312+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:59:28.5738824+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:10:26.9784975+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:59:16.4077812+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:10:10.8736968+00:00"
 }

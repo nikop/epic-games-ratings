@@ -6,7 +6,7 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,219 |
+| Just One...More...Term... | 73.00% | ~5,220 |
 | Un-Lonely Island | 44.00% | ~3,146 |
 | The Beginning of a Servantship | 43.00% | ~3,074 |
 | Trade Is My Trait | 35.00% | ~2,502 |
@@ -19,19 +19,19 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 10.00% | ~715 |
 | Go Sovereigns! | 10.00% | ~715 |
 | For Science! | 10.00% | ~715 |
-| Of Seals And Men | 9.00% | ~643 |
-| Shackadelic | 9.00% | ~643 |
+| Of Seals And Men | 9.00% | ~644 |
+| Shackadelic | 9.00% | ~644 |
 | Double Trouble | 8.00% | ~572 |
-| Firestarter | 7.00% | ~500 |
-| Make Tropico Great Again! | 7.00% | ~500 |
-| French Connection | 7.00% | ~500 |
+| Firestarter | 7.00% | ~501 |
+| Make Tropico Great Again! | 7.00% | ~501 |
+| French Connection | 7.00% | ~501 |
 | Don't Panic! | 6.00% | ~429 |
 | I Owe You Nothing | 6.00% | ~429 |
-| Viva Tropico! | 5.00% | ~357 |
-| Computer Says "No" | 5.00% | ~357 |
-| Beware The Betman | 5.00% | ~357 |
-| Watch The World Burn | 5.00% | ~357 |
-| Fairy Tale Come True | 5.00% | ~357 |
+| Viva Tropico! | 5.00% | ~358 |
+| Computer Says "No" | 5.00% | ~358 |
+| Beware The Betman | 5.00% | ~358 |
+| Watch The World Burn | 5.00% | ~358 |
+| Fairy Tale Come True | 5.00% | ~358 |
 | Been there, Done That | 3.00% | ~214 |
 | Apocalypso | 3.00% | ~214 |
 | Narcissist | 3.00% | ~214 |
@@ -42,12 +42,12 @@ Number of Ratings: 398  (23.09.2022)
 | Teamplayer | 2.00% | ~143 |
 | Terraformer | 2.00% | ~143 |
 | Curse of the Mummy | 2.00% | ~143 |
-| Chain Gang | 1.00% | ~71 |
-| From Knight to Little Duck | 1.00% | ~71 |
+| Chain Gang | 1.00% | ~72 |
+| From Knight to Little Duck | 1.00% | ~72 |
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,149 (Ranked 198)  
+Progressed: 7,150 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 2 (0.03%) (Ranked 358)
 | 2024-01-12 | 7,100 | 2 |
 | 2024-01-13 | 7,124 | 2 |
 | 2024-01-14 | 7,146 | 2 |
-| 2024-01-15 | 7,149 | 2 |
+| 2024-01-15 | 7,150 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 372)  
 Sum: 766 (Ranked 302)  

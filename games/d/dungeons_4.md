@@ -38,8 +38,8 @@ Rating: 4.73 (Ranked 182)
 | Unstoppable Horde | 37.00% | ~285 |
 | Master of the Undead | 36.00% | ~277 |
 | The Finitude Drill | 36.00% | ~277 |
+| Ghost Pirates? Ghost Heroes! | 32.00% | ~246 |
 | Doom Hill | 32.00% | ~246 |
-| Ghost Pirates? Ghost Heroes! | 31.00% | ~238 |
 | Forbidden Knowledge | 30.00% | ~231 |
 | Brimstone Shaken, Not Stirred | 30.00% | ~231 |
 | Hungry, Hungry Gorgu! | 29.00% | ~223 |
@@ -67,7 +67,7 @@ Rating: 4.73 (Ranked 182)
 | No Mana, No Cry | 11.00% | ~85 |
 | I Don't Need Any Help | 11.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 769 (Ranked 319)  
+Progressed: 769 (Ranked 320)  
 Completed: 33 (4.29%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9,12 +9,12 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 44.00% | ~110 |
 | Best Buddy | 38.00% | ~95 |
 | Civilian | 36.00% | ~90 |
-| Role Model | 33.00% | ~82 |
-| Creator | 31.00% | ~77 |
-| Military Leader | 29.00% | ~72 |
-| Festival-goer | 27.00% | ~67 |
-| Peddler | 24.00% | ~60 |
-| Commander | 23.00% | ~57 |
+| Role Model | 32.00% | ~80 |
+| Creator | 31.00% | ~78 |
+| Military Leader | 28.00% | ~70 |
+| Festival-goer | 27.00% | ~68 |
+| Peddler | 25.00% | ~62 |
+| Commander | 23.00% | ~58 |
 | Irissa's Fate | 20.00% | ~50 |
 | Long-Haul Flyer | 18.00% | ~45 |
 | Pass A38 | 18.00% | ~45 |
@@ -23,23 +23,23 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 13.00% | ~32 |
 | Storyteller | 13.00% | ~32 |
 | Berserker | 13.00% | ~32 |
-| Globetrotter | 11.00% | ~27 |
-| Alb | 11.00% | ~27 |
+| Globetrotter | 11.00% | ~28 |
+| Alb | 11.00% | ~28 |
 | Hunter | 10.00% | ~25 |
 | Lover | 10.00% | ~25 |
 | Beam Me Up | 9.00% | ~22 |
 | Perfectionist | 9.00% | ~22 |
 | Free as a Bird | 8.00% | ~20 |
 | Detective | 8.00% | ~20 |
-| Treasure Hunter | 7.00% | ~17 |
-| Hotshot | 7.00% | ~17 |
+| Treasure Hunter | 7.00% | ~18 |
+| Hotshot | 7.00% | ~18 |
 | Weaponsmith | 6.00% | ~15 |
 | Cleric | 6.00% | ~15 |
 | Alchemist | 5.00% | ~12 |
 | Unbreakable | 4.00% | ~10 |
-| Self-Sufficient | 3.00% | ~7 |
-| Morkon | 3.00% | ~7 |
-| Legendary | 3.00% | ~7 |
+| Self-Sufficient | 3.00% | ~8 |
+| Morkon | 3.00% | ~8 |
+| Legendary | 3.00% | ~8 |
 | Idealist | 2.00% | ~5 |
 | Toy Time | 2.00% | ~5 |
 | Defector | 2.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 | Fire in the Hole | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 420)  
+Progressed: 250 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 239 | 0 |
 | 2024-01-13 | 242 | 0 |
 | 2024-01-14 | 249 | 0 |
+| 2024-01-15 | 250 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

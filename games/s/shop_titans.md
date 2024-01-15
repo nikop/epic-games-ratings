@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,636 |
-| Titan's First Steps | 11.00% | ~16,636 |
+| Sponsored by Argon | 11.00% | ~16,637 |
+| Titan's First Steps | 11.00% | ~16,637 |
 | Basic in Bulk | 10.00% | ~15,124 |
 | Tinkle of Coins | 10.00% | ~15,124 |
 | Disintermediation | 8.00% | ~12,099 |
@@ -22,15 +22,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 5.00% | ~7,562 |
 | One-Armed Bandit | 5.00% | ~7,562 |
 | Through Repetition, Perfection | 5.00% | ~7,562 |
-| Bounty Hunters | 4.00% | ~6,049 |
-| Demand for Supplies | 4.00% | ~6,049 |
-| Flooding the Market | 4.00% | ~6,049 |
-| Where it Hurts | 4.00% | ~6,049 |
-| Gild-Gotten Goods | 4.00% | ~6,049 |
-| Accomplished Merchant | 4.00% | ~6,049 |
-| Dungeon Imports | 4.00% | ~6,049 |
-| Did we pack lunch? | 4.00% | ~6,049 |
-| Arcane Industries | 4.00% | ~6,049 |
+| Bounty Hunters | 4.00% | ~6,050 |
+| Demand for Supplies | 4.00% | ~6,050 |
+| Flooding the Market | 4.00% | ~6,050 |
+| Where it Hurts | 4.00% | ~6,050 |
+| Gild-Gotten Goods | 4.00% | ~6,050 |
+| Accomplished Merchant | 4.00% | ~6,050 |
+| Dungeon Imports | 4.00% | ~6,050 |
+| Did we pack lunch? | 4.00% | ~6,050 |
+| Arcane Industries | 4.00% | ~6,050 |
 | On the Path to Greatness | 3.00% | ~4,537 |
 | Ascended | 3.00% | ~4,537 |
 | Tax not Included | 3.00% | ~4,537 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~605 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,237 (Ranked 87)  
+Progressed: 151,241 (Ranked 87)  
 Completed: 354 (0.23%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,19 +389,19 @@ Completed: 354 (0.23%) (Ranked 273)
 | 2024-01-12 | 150,896 | 350 |
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
-| 2024-01-15 | 151,237 | 354 |
+| 2024-01-15 | 151,241 | 354 |
 ## Awards
-Max (Great for Beginners): 4,959  (Ranked 80)  
-Sum: 27,994 (Ranked 52)  
+Max (Great for Beginners): 4,963  (Ranked 80)  
+Sum: 28,000 (Ranked 52)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,959 |
+| This game is Great for Beginners | 4,963 |
 | This game is Relaxing | 4,080 |
 | This game has Quickly Understood Controls | 4,073 |
 | This game has Diverse Characters | 4,037 |
 | This game is Highly Recommended | 3,824 |
-| This game has Easy Combat | 3,774 |
+| This game has Easy Combat | 3,776 |
 | This game has Playful Visuals | 3,247 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -756,3 +756,4 @@ Diff (max vs sum): 28
 | 2024-01-12 | 4.00 | - | 4,952 | 27,982 |
 | 2024-01-13 | 4.00 | - | 4,954 | 27,989 |
 | 2024-01-14 | 4.00 | - | 4,959 | 27,994 |
+| 2024-01-15 | 4.00 | - | 4,963 | 28,000 |

@@ -351,7 +351,7 @@
   "Tags": [],
   "EOS_Progressed": 19036,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17495,9 +17495,9 @@
       "ID": "16",
       "SetID": "458bbdk",
       "Name": "Drug Gifter",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1523
     },
     {
       "ID": "17",
@@ -17734,8 +17734,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:05:22.4280878+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:05:09.8539944+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:58:43.8251727+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:05:22.4281755+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:37.834627+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:05:09.8541222+00:00"
 }

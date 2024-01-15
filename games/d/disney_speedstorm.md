@@ -5,9 +5,9 @@ Rating: 4.42 (Ranked 743)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,791 |
-| IT MAKES BOOM! | 9.00% | ~35,855 |
-| EXTRA BOOST | 6.00% | ~23,904 |
+| ROOKIE | 13.00% | ~51,793 |
+| IT MAKES BOOM! | 9.00% | ~35,857 |
+| EXTRA BOOST | 6.00% | ~23,905 |
 | PROTECTED | 5.00% | ~19,920 |
 | HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,936 |
 | PRO | 4.00% | ~15,936 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 743)
 | ACE TRICKSTER | 0.70% | ~2,789 |
 | PERFECTLY POISED | 0.60% | ~2,390 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,392 (Ranked 51)  
+Progressed: 398,409 (Ranked 51)  
 Completed: 1,612 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 1,612 (0.40%) (Ranked 241)
 | 2024-01-12 | 395,787 | 1,582 |
 | 2024-01-13 | 396,918 | 1,599 |
 | 2024-01-14 | 398,054 | 1,606 |
-| 2024-01-15 | 398,392 | 1,612 |
+| 2024-01-15 | 398,409 | 1,612 |
 ## Awards
 Max (Great for Beginners): 183  (Ranked 311)  
-Sum: 1,201 (Ranked 264)  
+Sum: 1,202 (Ranked 264)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -309,7 +309,7 @@ Diff (max vs sum): 47
 | This game has a Competitive Community | 104 |
 | This game has Playful Visuals | 100 |
 | This game has Amazing Characters | 90 |
-| This game is Highly Recommended | 89 |
+| This game is Highly Recommended | 90 |
 | This game is Extremely Fun | 80 |
 | This game has Competitive Players | 72 |
 | This game has Quickly Understood Controls | 66 |
@@ -424,3 +424,4 @@ Diff (max vs sum): 47
 | 2024-01-12 | 4.42 | 179 | 1,187 |
 | 2024-01-13 | 4.42 | 181 | 1,195 |
 | 2024-01-14 | 4.42 | 183 | 1,201 |
+| 2024-01-15 | 4.42 | 183 | 1,202 |

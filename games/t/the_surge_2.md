@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.26 (Ranked 920)  
+Rating: 4.27 (Ranked 911)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,8 +21,8 @@ Rating: 4.26 (Ranked 920)
 | It's a Trap | 21.00% | ~544 |
 | Offensive Defense | 20.00% | ~518 |
 | Shocking | 20.00% | ~518 |
+| Court Martial | 19.00% | ~492 |
 | Unforeseeable Consequences | 19.00% | ~492 |
-| Court Martial | 18.00% | ~467 |
 | Clean Cut | 18.00% | ~467 |
 | Dead Again | 17.00% | ~441 |
 | Full Arsenal | 17.00% | ~441 |
@@ -333,3 +333,4 @@ Completed: 13 (0.50%) (Ranked 224)
 | 2023-12-17 | 4.26 | 0 | 0 |
 | 2023-12-29 | 4.27 | 0 | 0 |
 | 2024-01-07 | 4.26 | 0 | 0 |
+| 2024-01-15 | 4.27 | 0 | 0 |

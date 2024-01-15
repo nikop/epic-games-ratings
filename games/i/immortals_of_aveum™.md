@@ -1,22 +1,22 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 969)  
+Rating: 4.18 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,074 |
-| Battlefields Have Memories | 81.00% | ~2,798 |
-| Enlisted | 75.00% | ~2,590 |
+| Unforeseen | 89.00% | ~3,075 |
+| Battlefields Have Memories | 81.00% | ~2,799 |
+| Enlisted | 75.00% | ~2,591 |
 | Maybe Engage a Little | 70.00% | ~2,418 |
-| No More Names | 54.00% | ~1,865 |
+| No More Names | 54.00% | ~1,866 |
 | Initiate | 40.00% | ~1,382 |
-| Thrada-Kul | 36.00% | ~1,243 |
+| Thrada-Kul | 36.00% | ~1,244 |
 | Gravity-Challenged Rocks | 30.00% | ~1,036 |
 | Soldier | 26.00% | ~898 |
 | Socialite | 25.00% | ~864 |
 | All the Major Food Groups | 25.00% | ~864 |
-| Beggars Would Ride | 23.00% | ~794 |
+| Beggars Would Ride | 23.00% | ~795 |
 | Control is an Illusion | 22.00% | ~760 |
 | The Means to Save It | 19.00% | ~656 |
 | Resilience to Sin | 18.00% | ~622 |
@@ -25,8 +25,8 @@ Rating: 4.20 (Ranked 969)
 | Geas Aristeya | 16.00% | ~553 |
 | A Perfect Cycle | 15.00% | ~518 |
 | Recruit | 15.00% | ~518 |
-| Armsman | 12.00% | ~414 |
-| Lights Army | 10.00% | ~345 |
+| Armsman | 12.00% | ~415 |
+| Lights Army | 10.00% | ~346 |
 | Periapt Cerulean | 9.00% | ~311 |
 | Good Boy | 8.00% | ~276 |
 | Periapt Viridian | 7.00% | ~242 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 969)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,454 (Ranked 229)  
+Progressed: 3,455 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.14%) (Ranked 298)
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
-| 2024-01-15 | 3,454 | 5 |
+| 2024-01-15 | 3,455 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  
@@ -224,3 +224,4 @@ Diff (max vs sum): -2
 | 2024-01-12 | 4.19 | 20 | 20 |
 | 2024-01-13 | 4.21 | 21 | 21 |
 | 2024-01-14 | 4.21 | 21 | 21 |
+| 2024-01-15 | 4.18 | 21 | 21 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -133,11 +133,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2784,
   "EOS_Completed": 210,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 7.55,
+  "EOS_Completed_Percentage": 7.54,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7368,6 +7368,11 @@
       "Time": "2024-01-15T10:06:28.9208117+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2024-01-15T11:06:10.1859796+00:00",
+      "NumProgressed": 2784,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 25,
@@ -7379,7 +7384,7 @@
       "Name": "I did it",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "END_GOOD",
@@ -7395,7 +7400,7 @@
       "Name": "Peace walker",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7403,7 +7408,7 @@
       "Name": "Cable guy",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7419,7 +7424,7 @@
       "Name": "Half the way",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7451,7 +7456,7 @@
       "Name": "A great audience",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "META_RESULT_2-4",
@@ -7459,7 +7464,7 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "META_RESULT_3-4",
@@ -7483,7 +7488,7 @@
       "Name": "Rascal",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7529,9 +7534,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 947
     },
     {
       "ID": "PROGRESS_N1",
@@ -7578,7 +7583,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 210
     }
   ],
@@ -7586,8 +7591,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:06:28.9208113+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:06:10.185979+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:59:05.0901218+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:06:28.9208543+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:56.2659506+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:06:10.1860295+00:00"
 }

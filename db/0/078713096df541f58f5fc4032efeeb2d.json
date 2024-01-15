@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -527,9 +527,9 @@
       "ID": "creepytale3_ach_10",
       "SetID": "7idcjbn",
       "Name": "Naughty girl",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytale3_ach_11",
@@ -607,9 +607,9 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "creepytale3_ach_22",
@@ -623,9 +623,9 @@
       "ID": "creepytale3_ach_23",
       "SetID": "7idcjbn",
       "Name": "Who wrote this stuff?",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytale3_ach_24",
@@ -711,9 +711,9 @@
       "ID": "creepytale3_ach_37",
       "SetID": "7idcjbn",
       "Name": "Inspector",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytale3_ach_38",
@@ -775,9 +775,9 @@
       "ID": "creepytale3_ach_9",
       "SetID": "7idcjbn",
       "Name": "Curiosity",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:06:57.4303227+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:06:35.7958747+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:56.6839985+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:58:52.4200323+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:06:57.4303676+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:45.1345663+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:06:35.7959045+00:00"
 }

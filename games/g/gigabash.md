@@ -5,24 +5,24 @@ Rating: 4.53 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,398 |
-| I've Had Enough! | 15.00% | ~18,472 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,315 |
-| Seasoned Fighter | 9.00% | ~11,083 |
-| All For One and One For All | 8.00% | ~9,852 |
-| Home Sweet Home? | 6.00% | ~7,389 |
-| A New Age | 5.00% | ~6,157 |
-| Oh Baby, A Triple | 3.00% | ~3,694 |
-| Master of Disguise | 3.00% | ~3,694 |
-| Symbiotic | 3.00% | ~3,694 |
+| All Grown Up! | 19.00% | ~23,400 |
+| I've Had Enough! | 15.00% | ~18,474 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,316 |
+| Seasoned Fighter | 9.00% | ~11,084 |
+| All For One and One For All | 8.00% | ~9,853 |
+| Home Sweet Home? | 6.00% | ~7,390 |
+| A New Age | 5.00% | ~6,158 |
+| Oh Baby, A Triple | 3.00% | ~3,695 |
+| Master of Disguise | 3.00% | ~3,695 |
+| Symbiotic | 3.00% | ~3,695 |
 | Battle Hardened | 2.00% | ~2,463 |
 | Double Punch! | 2.00% | ~2,463 |
 | It's Mayhem! | 2.00% | ~2,463 |
 | Right back at'cha | 2.00% | ~2,463 |
 | Spectacular Finisher | 2.00% | ~2,463 |
-| Cautious Veteran | 1.00% | ~1,231 |
-| Katamari | 1.00% | ~1,231 |
-| Martyrdom | 1.00% | ~1,231 |
+| Cautious Veteran | 1.00% | ~1,232 |
+| Katamari | 1.00% | ~1,232 |
+| Martyrdom | 1.00% | ~1,232 |
 | Ninja Reflex | 0.90% | ~1,108 |
 | Zero-sum Game | 0.90% | ~1,108 |
 | Taste Your Own Medicine | 0.70% | ~862 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 566)
 | What's Mine is Yours | 0.10% | ~123 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,146 (Ranked 94)  
+Progressed: 123,160 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 121,767 | 0 |
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
-| 2024-01-15 | 123,146 | 0 |
+| 2024-01-15 | 123,160 | 0 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 443)  
 Sum: 56 (Ranked 505)  

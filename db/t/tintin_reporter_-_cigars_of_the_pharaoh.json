@@ -718,9 +718,9 @@
       "ID": "Achievement17",
       "SetID": "9fa3l5n",
       "Name": "Long Live Gaipajama!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement18",
@@ -838,9 +838,9 @@
       "ID": "Achievement30",
       "SetID": "9fa3l5n",
       "Name": "Mountain Runner",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement31",
@@ -957,8 +957,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:05:14.5414009+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:05:03.0170279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.4986492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:59:33.2727662+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:05:14.5414669+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:59:20.0702286+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:05:03.0170616+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 351,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1416,9 +1416,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33493,
+  "EOS_Progressed": 33494,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30506,6 +30506,11 @@
       "Time": "2024-01-15T10:10:15.4468963+00:00",
       "NumProgressed": 33493,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-15T11:10:00.0649393+00:00",
+      "NumProgressed": 33494,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30589,7 +30594,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "1025",
@@ -30629,7 +30634,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "1030",
@@ -30653,7 +30658,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13397
+      "UsersEstimate": 13398
     },
     {
       "ID": "1033",
@@ -30692,15 +30697,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33493,
+      "Progressed": 33494,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-14T15:59:31.8862303+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:10:15.4468959+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:10:00.0649389+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:00:20.837666+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:10:15.4470331+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:00:03.9260967+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:10:00.0650577+00:00"
 }

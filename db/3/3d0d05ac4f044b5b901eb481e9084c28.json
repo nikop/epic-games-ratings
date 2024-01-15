@@ -4,7 +4,7 @@
   "ProductSlug": "anvil-saga-c6fe9d",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -330,8 +330,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-18T16:06:22.8154439+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:06:35.981542+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:06:16.4063867+00:00",
   "LastUpdate_AppInfo": "2024-01-08T17:57:07.8984011+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:58:32.5670258+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:06:35.9815648+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:27.4029763+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:06:16.4064104+00:00"
 }

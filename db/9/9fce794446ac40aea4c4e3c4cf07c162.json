@@ -3,9 +3,9 @@
   "Name": "Ugly",
   "ProductSlug": "ugly-da09b2",
   "Ranking_EOS_Progress": 593,
-  "Ranking_EOS_Completed": 71,
-  "Ranking_EOS_NewPlayers": 519,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 518,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 33,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.06,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
     {
       "Time": "2023-09-13T16:03:25.2232448+00:00",
@@ -204,6 +204,11 @@
       "Time": "2024-01-13T14:10:19.8916484+00:00",
       "NumProgressed": 33,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T11:10:12.3644398+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-13T16:03:25.2232528+00:00",
@@ -302,9 +307,9 @@
       "ID": "DEL_V",
       "SetID": "35d3i7a",
       "Name": "Dangerous spider.",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEL_VI",
@@ -334,9 +339,9 @@
       "ID": "DEL_X",
       "SetID": "35d3i7a",
       "Name": "Where is my heir?",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "DEL_XI",
@@ -350,9 +355,9 @@
       "ID": "DEL_XII",
       "SetID": "35d3i7a",
       "Name": "The rope is the key.",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEM_I",
@@ -574,17 +579,17 @@
       "ID": "PART_II",
       "SetID": "35d3i7a",
       "Name": "The Nightmare.",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PART_III",
       "SetID": "35d3i7a",
       "Name": "The Truth.",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PROJ_I",
@@ -632,13 +637,13 @@
       "ID": "35d3i7a",
       "IsBase": true,
       "Progressed": 33,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:10:28.5762068+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:10:12.3644393+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:58:18.6040918+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:10:28.5762421+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:15.877683+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:10:12.3644716+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6354,
+  "EOS_Progressed": 6355,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13286,6 +13286,11 @@
       "Time": "2024-01-15T10:05:43.7644815+00:00",
       "NumProgressed": 6354,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T11:05:28.5454453+00:00",
+      "NumProgressed": 6355,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13330,7 +13335,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13410,7 +13415,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13466,7 +13471,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13481,15 +13486,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6354,
+      "Progressed": 6355,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:05:43.7644811+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:05:28.5454448+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:59:49.8434636+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:05:43.7645551+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:59:36.2083812+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:05:28.5455182+00:00"
 }

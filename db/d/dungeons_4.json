@@ -5,9 +5,9 @@
   "Ranking_Rating": 182,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 319,
+  "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2764,9 +2764,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 246
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -3005,8 +3005,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-14T23:58:07.1773064+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:09:46.2717626+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:09:34.0786549+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:58:29.1388241+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:09:46.271821+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:58:24.5160824+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:09:34.0787297+00:00"
 }

@@ -2472,9 +2472,9 @@
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Picky Eater",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "NOT_FAINT_HOUSEWARMING",
@@ -2551,8 +2551,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:06:31.5089801+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:06:12.4682482+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:59:12.7729429+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:06:31.5090028+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:59:02.6398046+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:06:12.4682812+00:00"
 }

@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40549,
+  "EOS_Progressed": 40550,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24108,6 +24108,11 @@
       "Time": "2024-01-15T09:08:49.5379917+00:00",
       "NumProgressed": 40549,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-15T11:08:54.8493475+00:00",
+      "NumProgressed": 40550,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -24119,7 +24124,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "150stars",
@@ -24167,7 +24172,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3649
+      "UsersEstimate": 3650
     },
     {
       "ID": "completionist",
@@ -24207,7 +24212,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30817
+      "UsersEstimate": 30818
     },
     {
       "ID": "roots",
@@ -24215,7 +24220,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6893
+      "UsersEstimate": 6894
     },
     {
       "ID": "secretItem",
@@ -24223,22 +24228,22 @@
       "Name": "Well Hidden",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     }
   ],
   "AchievementSets": [
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40549,
+      "Progressed": 40550,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:09:02.0615808+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:08:54.849347+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.6261434+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:00:24.1717258+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:09:02.061693+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:00:06.5623935+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:08:54.8494602+00:00"
 }

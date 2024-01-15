@@ -1791,9 +1791,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 87625,
+  "EOS_Progressed": 87629,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 2495,
+  "EOS_NewPlayers": 2491,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16811,6 +16811,11 @@
       "Time": "2024-01-15T10:05:40.5499186+00:00",
       "NumProgressed": 87625,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-15T11:05:25.8305475+00:00",
+      "NumProgressed": 87629,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16823,7 +16828,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 40308
+      "UsersEstimate": 40309
     },
     {
       "ID": "10",
@@ -16855,7 +16860,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "14",
@@ -16887,7 +16892,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18401
+      "UsersEstimate": 18402
     },
     {
       "ID": "3",
@@ -16903,7 +16908,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7886
+      "UsersEstimate": 7887
     },
     {
       "ID": "5",
@@ -16927,7 +16932,7 @@
       "Name": "More Power to You",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 21030
+      "UsersEstimate": 21031
     },
     {
       "ID": "8",
@@ -16950,7 +16955,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 87625,
+      "Progressed": 87629,
       "Completed": 72
     }
   ],
@@ -16958,8 +16963,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-15T08:02:50.8902229+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:05:40.5499108+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:05:25.8305471+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:17.7168256+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:57:13.8217031+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:05:40.5499894+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:57:20.6695462+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:05:25.8306306+00:00"
 }

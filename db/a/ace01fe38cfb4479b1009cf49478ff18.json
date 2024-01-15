@@ -3246,9 +3246,9 @@
       "ID": "ach_find_all_secrets_c1",
       "SetID": "d499apg",
       "Name": "Find all Secrets - Chapter 1",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 95,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_find_all_secrets_c2",
@@ -3277,8 +3277,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-15T10:09:04.8594312+00:00",
+  "LastChanged_Achievements": "2024-01-15T11:08:57.1960194+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:55.7118105+00:00",
-  "LastUpdate_Ratings": "2024-01-15T10:03:06.2555902+00:00",
-  "LastUpdate_Achievements": "2024-01-15T10:09:04.8594551+00:00"
+  "LastUpdate_Ratings": "2024-01-15T11:03:09.6664707+00:00",
+  "LastUpdate_Achievements": "2024-01-15T11:08:57.1960509+00:00"
 }

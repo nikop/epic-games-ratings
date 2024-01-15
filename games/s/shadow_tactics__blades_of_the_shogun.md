@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,132 |
-| A thief's beginning | 11.00% | ~24,871 |
-| Thorough | 11.00% | ~24,871 |
-| Disguised | 9.00% | ~20,349 |
-| Rescue Takuma | 9.00% | ~20,349 |
-| Rollin' | 9.00% | ~20,349 |
-| Tanuki Time | 9.00% | ~20,349 |
-| Ice Ice Yuki | 8.00% | ~18,088 |
-| Jonin | 8.00% | ~18,088 |
-| Stoned Ox | 8.00% | ~18,088 |
-| Yabu | 8.00% | ~18,088 |
-| Happy Planning | 7.00% | ~15,827 |
-| Mugen Unchained | 7.00% | ~15,827 |
-| Chunin | 6.00% | ~13,566 |
-| Flying Rocks | 6.00% | ~13,566 |
-| Warzone | 6.00% | ~13,566 |
+| Genin | 12.00% | ~27,133 |
+| A thief's beginning | 11.00% | ~24,872 |
+| Thorough | 11.00% | ~24,872 |
+| Disguised | 9.00% | ~20,350 |
+| Rescue Takuma | 9.00% | ~20,350 |
+| Rollin' | 9.00% | ~20,350 |
+| Tanuki Time | 9.00% | ~20,350 |
+| Ice Ice Yuki | 8.00% | ~18,089 |
+| Jonin | 8.00% | ~18,089 |
+| Stoned Ox | 8.00% | ~18,089 |
+| Yabu | 8.00% | ~18,089 |
+| Happy Planning | 7.00% | ~15,828 |
+| Mugen Unchained | 7.00% | ~15,828 |
+| Chunin | 6.00% | ~13,567 |
+| Flying Rocks | 6.00% | ~13,567 |
+| Warzone | 6.00% | ~13,567 |
 | Happy little accidents | 5.00% | ~11,305 |
 | Okkoto | 5.00% | ~11,305 |
 | Prisoners | 5.00% | ~11,305 |
@@ -43,7 +43,7 @@ Number of Ratings: 495  (23.09.2022)
 | High Five the Moon | 0.90% | ~2,035 |
 | The Cave | 0.90% | ~2,035 |
 | Time Paradox | 0.60% | ~1,357 |
-| Merciful | 0.50% | ~1,130 |
+| Merciful | 0.50% | ~1,131 |
 | Five Shadows | 0.40% | ~904 |
 | Complete Mastery | 0.20% | ~452 |
 | Praise the Shogun | 0.20% | ~452 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,100 (Ranked 79)  
+Progressed: 226,109 (Ranked 79)  
 Completed: 107 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 107 (0.05%) (Ranked 341)
 | 2024-01-12 | 225,573 | 107 |
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
-| 2024-01-15 | 226,100 | 107 |
+| 2024-01-15 | 226,109 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
 Sum: 4,960 (Ranked 152)  
