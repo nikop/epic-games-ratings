@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47301,
+  "EOS_Progressed": 47302,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18927,6 +18927,11 @@
       "Time": "2024-01-15T20:03:41.4797246+00:00",
       "NumProgressed": 47301,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T21:04:25.7029165+00:00",
+      "NumProgressed": 47302,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19361,22 +19366,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47301,
+      "Progressed": 47302,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12138,
-      "Completed": 12138
+      "Progressed": 12139,
+      "Completed": 12139
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:03:41.4797244+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:04:25.7029163+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:03:07.5012915+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:03:41.4800167+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:03:38.7740416+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:04:25.7030186+00:00"
 }

@@ -1,18 +1,18 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 9.00% | ~1,872 |
-| Taking Action | 9.00% | ~1,872 |
-| No Deaths | 9.00% | ~1,872 |
-| Abandoned Settlement | 9.00% | ~1,872 |
-| Overgrown Library | 9.00% | ~1,872 |
-| The Marshlands | 8.00% | ~1,664 |
-| Petrified Necropolis | 8.00% | ~1,664 |
+| First Real Expedition | 9.00% | ~1,873 |
+| Taking Action | 9.00% | ~1,873 |
+| No Deaths | 9.00% | ~1,873 |
+| Abandoned Settlement | 9.00% | ~1,873 |
+| Overgrown Library | 9.00% | ~1,873 |
+| The Marshlands | 8.00% | ~1,665 |
+| Petrified Necropolis | 8.00% | ~1,665 |
 | Overcoming Difficulty | 7.00% | ~1,456 |
 | Coral Forest | 7.00% | ~1,456 |
 | The Scarlet Orchard | 7.00% | ~1,456 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,805 (Ranked 156)  
+Progressed: 20,807 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-12 | 20,729 | 34 |
 | 2024-01-13 | 20,758 | 35 |
 | 2024-01-14 | 20,781 | 35 |
-| 2024-01-15 | 20,805 | 35 |
+| 2024-01-15 | 20,807 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,386 (Ranked 178)  

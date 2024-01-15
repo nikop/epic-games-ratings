@@ -18,12 +18,12 @@
 | The Hidden Secret | 13.00% | ~21 |
 | Toe to Toe | 13.00% | ~21 |
 | The Abyss Conqueror | 9.00% | ~14 |
+| Grand Escape | 9.00% | ~14 |
 | Space Warrior: Prologue | 9.00% | ~14 |
 | The Fortress Conqueror | 8.00% | ~13 |
-| Grand Escape | 8.00% | ~13 |
+| The Hypergravitational Abyss Conqueror | 6.00% | ~10 |
 | Keep it Up, rookie! | 6.00% | ~10 |
 | The Inactivated Frozen Conqueror | 5.00% | ~8 |
-| The Hypergravitational Abyss Conqueror | 5.00% | ~8 |
 | he Ultra Fortress Conqueror | 5.00% | ~8 |
 | Decapitation Strike | 5.00% | ~8 |
 | The Sunken City Conqueror | 4.00% | ~6 |
@@ -32,11 +32,11 @@
 | The Paradox Coordinate Conqueror | 4.00% | ~6 |
 | The Zero Dimensional Capital Conqueror | 4.00% | ~6 |
 | Death Bringer Conqueror | 4.00% | ~6 |
+| Space Ranger: Prologue | 4.00% | ~6 |
 | Antaeus | 4.00% | ~6 |
 | Hell of a Fight | 4.00% | ~6 |
 | The Looping Space Conqueror | 3.00% | ~5 |
 | Break Through the Forbidden | 3.00% | ~5 |
-| Space Ranger: Prologue | 3.00% | ~5 |
 | Breaking the Limit | 3.00% | ~5 |
 | The Truth? | 3.00% | ~5 |
 | Rapidfire | 3.00% | ~5 |

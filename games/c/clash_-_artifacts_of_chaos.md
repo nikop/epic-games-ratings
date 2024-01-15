@@ -10,9 +10,9 @@
 | Over the Moon | 31.00% | ~51 |
 | Your Training Continues | 30.00% | ~49 |
 | Enemies of Fate | 30.00% | ~49 |
-| Armored | 28.00% | ~46 |
+| Armored | 29.00% | ~48 |
 | Amokuali Tower | 26.00% | ~43 |
-| Freedom | 24.00% | ~39 |
+| Freedom | 25.00% | ~41 |
 | Winner | 23.00% | ~38 |
 | Omnia Vincit Amor | 21.00% | ~34 |
 | The Pride of Moozhaw | 20.00% | ~33 |

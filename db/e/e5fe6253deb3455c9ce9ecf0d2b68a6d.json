@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -2154,6 +2154,11 @@
       "Time": "2024-01-15T13:10:25.3415709+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T21:06:12.828756+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2222,7 +2227,7 @@
       "Name": "Own route",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Serpentine_conquero",
@@ -2262,7 +2267,7 @@
       "Name": "Back to USSR",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Upgrades",
@@ -2277,14 +2282,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:05:08.8006156+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:06:12.8287558+00:00",
   "LastUpdate_AppInfo": "2024-01-09T04:57:00.8185326+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:00:46.5861547+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:05:08.8006374+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:01:40.9869649+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:06:12.8287731+00:00"
 }

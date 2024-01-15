@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1963,
+  "EOS_Progressed": 1964,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5052,6 +5052,11 @@
       "Time": "2024-01-15T20:08:40.3011939+00:00",
       "NumProgressed": 1963,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T21:09:05.8058661+00:00",
+      "NumProgressed": 1964,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5222,9 +5227,9 @@
       "ID": "ML_ACHIEVEMENT_21",
       "SetID": "5k00jcd",
       "Name": "I\u0027m in charge here!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 98
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -5431,20 +5436,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1963,
+      "Progressed": 1964,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1631,
+      "Progressed": 1632,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:08:40.3011935+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:09:05.8058657+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:02:49.6589384+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:08:40.301248+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:03:13.9537523+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:09:05.8059314+00:00"
 }

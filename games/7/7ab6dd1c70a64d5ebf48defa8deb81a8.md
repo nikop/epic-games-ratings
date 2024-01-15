@@ -37,9 +37,9 @@ Rating: 4.13 (Ranked 1,017)
 | Shardbearer | 2.00% | ~47 |
 | All There Is | 2.00% | ~47 |
 | False God | 2.00% | ~47 |
+| Summiter | 2.00% | ~47 |
 | Forgemaster | 1.00% | ~23 |
-| Summiter | 1.00% | ~23 |
-| All That Gold | 0.70% | ~16 |
+| All That Gold | 0.80% | ~19 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,345 (Ranked 244)  

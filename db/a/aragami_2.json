@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45170,
+  "EOS_Progressed": 45171,
   "EOS_Completed": 250,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 2,
@@ -21182,6 +21182,11 @@
       "Time": "2024-01-15T20:03:40.193709+00:00",
       "NumProgressed": 45170,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2024-01-15T21:04:24.1154278+00:00",
+      "NumProgressed": 45171,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 44,
@@ -21209,7 +21214,7 @@
       "Name": "Embers",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9937
+      "UsersEstimate": 9938
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -21233,7 +21238,7 @@
       "Name": "Ruse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5420
+      "UsersEstimate": 5421
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -21273,7 +21278,7 @@
       "Name": "The Lookout",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -21313,7 +21318,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36136
+      "UsersEstimate": 36137
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21425,7 +21430,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14454
+      "UsersEstimate": 14455
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -21433,7 +21438,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28457
+      "UsersEstimate": 28458
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21457,7 +21462,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27102
+      "UsersEstimate": 27103
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -21465,7 +21470,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30264
+      "UsersEstimate": 30265
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21473,7 +21478,7 @@
       "Name": "The Spirit of Vengeance",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -21497,7 +21502,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20778
+      "UsersEstimate": 20779
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -21505,7 +21510,7 @@
       "Name": "Hollow",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -21529,7 +21534,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 42008
+      "UsersEstimate": 42009
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21537,14 +21542,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23488
+      "UsersEstimate": 23489
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45170,
+      "Progressed": 45171,
       "Completed": 250
     }
   ],
@@ -21552,8 +21557,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:03:40.1937086+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:04:24.1154277+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:03:19.92878+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:03:40.1938388+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:03:55.5147523+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:04:24.1155347+00:00"
 }

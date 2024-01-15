@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -501,7 +501,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3459,
+  "EOS_Progressed": 3461,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 337,
   "EOS_NewCompleters": 1,
@@ -5636,6 +5636,11 @@
       "Time": "2024-01-15T20:10:21.8833535+00:00",
       "NumProgressed": 3459,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T21:11:14.5189218+00:00",
+      "NumProgressed": 3461,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5648,7 +5653,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3079
+      "UsersEstimate": 3080
     },
     {
       "ID": "achievement_10",
@@ -5664,7 +5669,7 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_12",
@@ -5688,7 +5693,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "achievement_15",
@@ -5712,7 +5717,7 @@
       "Name": "Lights Army",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "achievement_18",
@@ -5736,7 +5741,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "achievement_20",
@@ -5792,7 +5797,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2423
     },
     {
       "ID": "achievement_36",
@@ -5824,7 +5829,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "achievement_41",
@@ -5880,7 +5885,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2596
     },
     {
       "ID": "achievement_49",
@@ -5888,7 +5893,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "achievement_5",
@@ -5942,9 +5947,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1281
     },
     {
       "ID": "achievement_60",
@@ -6023,7 +6028,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3459,
+      "Progressed": 3461,
       "Completed": 5
     }
   ],
@@ -6031,8 +6036,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-15T10:57:33.8717079+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:10:21.8833534+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:11:14.5189217+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:57:53.3802552+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:10:21.8834014+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:57:55.3100968+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:11:14.5189863+00:00"
 }

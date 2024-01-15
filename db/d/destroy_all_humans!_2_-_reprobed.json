@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 437,
+  "EOS_Progressed": 438,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1986,6 +1986,11 @@
       "Time": "2024-01-15T18:09:46.4534799+00:00",
       "NumProgressed": 437,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T21:10:26.3445532+00:00",
+      "NumProgressed": 438,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1998,7 +2003,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2110,7 +2115,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2134,7 +2139,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2156,9 +2161,9 @@
       "ID": "ACH_ENTER_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_KILL_BONGWATER",
@@ -2254,7 +2259,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2326,7 +2331,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2349,7 +2354,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 437,
+      "Progressed": 438,
       "Completed": 2
     }
   ],
@@ -2357,8 +2362,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:09:44.1071279+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:10:26.344553+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:57:59.9500917+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:09:44.1071751+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:58:04.3804503+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:10:26.3445943+00:00"
 }

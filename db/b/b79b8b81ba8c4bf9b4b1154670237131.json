@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16707,
+  "EOS_Progressed": 16709,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6731,6 +6731,11 @@
       "Time": "2024-01-15T20:09:55.2650421+00:00",
       "NumProgressed": 16707,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-15T21:10:40.4564715+00:00",
+      "NumProgressed": 16709,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6767,7 +6772,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "ACH_AE_13",
@@ -6775,7 +6780,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12530
+      "UsersEstimate": 12532
     },
     {
       "ID": "ACH_AE_14",
@@ -6783,7 +6788,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3341
+      "UsersEstimate": 3342
     },
     {
       "ID": "ACH_AE_15",
@@ -6943,7 +6948,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_AE_33",
@@ -7022,7 +7027,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16707,
+      "Progressed": 16709,
       "Completed": 15
     }
   ],
@@ -7030,8 +7035,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:09:55.2650418+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:10:40.4564712+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:58:30.9402789+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:09:55.265093+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:58:44.0781089+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:10:40.4565255+00:00"
 }

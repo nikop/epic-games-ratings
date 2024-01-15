@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3965,7 +3965,7 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20805,
+  "EOS_Progressed": 20807,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 1,
@@ -19715,6 +19715,11 @@
       "Time": "2024-01-15T20:08:33.650711+00:00",
       "NumProgressed": 20805,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-15T21:08:57.2229347+00:00",
+      "NumProgressed": 20807,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19815,7 +19820,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "WinHard",
@@ -20007,7 +20012,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "WinOnMoorlands",
@@ -20063,7 +20068,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "WinWithResolve",
@@ -20103,7 +20108,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "WinWithoutOrders",
@@ -20127,7 +20132,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "WinNearFrosts",
@@ -20151,7 +20156,7 @@
       "Name": "Overgrown Library",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "WinNearPetrified",
@@ -20159,7 +20164,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "WinNearPresence",
@@ -20198,15 +20203,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20805,
+      "Progressed": 20807,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-15T11:57:35.5109811+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:08:33.6507107+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:08:57.2229345+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:57:55.0575998+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:08:33.6508467+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:57:57.6968583+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:08:57.2230417+00:00"
 }

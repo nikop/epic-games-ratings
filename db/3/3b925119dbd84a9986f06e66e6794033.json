@@ -2551,9 +2551,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 272
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2575,9 +2575,9 @@
       "ID": "TKO2_DOMINO",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Domino",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 60
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -2606,8 +2606,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:10:16.1958185+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:11:07.5389603+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:48.2425501+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:58:12.4452576+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:10:16.1958408+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:58:19.0575438+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:11:07.538981+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -2379,6 +2379,11 @@
       "Time": "2024-01-15T19:05:55.7421867+00:00",
       "NumProgressed": 575,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T21:07:56.9463218+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2391,7 +2396,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2407,7 +2412,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2447,7 +2452,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2503,7 +2508,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2550,14 +2555,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:06:31.2028043+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:07:56.9463216+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:59:35.6331233+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:06:31.2028352+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:00:09.7911354+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:07:56.9463382+00:00"
 }

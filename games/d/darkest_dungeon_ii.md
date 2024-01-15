@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,090 |
+| Malpractice Assurance | 14.00% | ~1,091 |
 | Lost and Found | 9.00% | ~701 |
 | Autodidact | 8.00% | ~10,634 |
-| This Belongs in a Museum | 7.00% | ~9,304 |
-| This guy... again? | 7.00% | ~545 |
+| This Belongs in a Museum | 7.00% | ~9,305 |
+| This guy... again? | 7.00% | ~546 |
 | Serenity Now! | 6.00% | ~7,975 |
 | Creep and Sleep | 6.00% | ~7,975 |
 | Catch and Decease | 6.00% | ~7,975 |
 | Overdue Notice | 6.00% | ~7,975 |
 | Escape from the Black Hole | 6.00% | ~7,975 |
 | To Grandmother's House | 6.00% | ~7,975 |
-| Ploughshares to Swords | 6.00% | ~467 |
-| Bloody Graduation | 6.00% | ~467 |
+| Ploughshares to Swords | 6.00% | ~468 |
+| Bloody Graduation | 6.00% | ~468 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,646 |
 | It Rings a Bell | 5.00% | ~6,646 |
 | Not Today! | 5.00% | ~6,646 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,919 (Ranked 92)  
+Progressed: 132,924 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,14 +346,14 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,919 | 4 |
+| 2024-01-15 | 132,924 | 4 |
 ## Awards
-Max (Character Customization): 8,022  (Ranked 51)  
-Sum: 21,666 (Ranked 58)  
+Max (Character Customization): 8,026  (Ranked 51)  
+Sum: 21,670 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,022 |
+| This game has Inclusive Character Customization | 8,026 |
 | This game has Diverse Characters | 1,860 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,607 |
@@ -720,4 +720,4 @@ Diff (max vs sum): -7
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
-| 2024-01-15 | 4.68 | - | 8,022 | 21,666 |
+| 2024-01-15 | 4.68 | - | 8,026 | 21,670 |

@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8338,
+  "EOS_Progressed": 8339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14132,6 +14132,11 @@
       "Time": "2024-01-15T20:08:57.067216+00:00",
       "NumProgressed": 8338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T21:09:27.2961806+00:00",
+      "NumProgressed": 8339,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14159,7 +14164,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -14191,7 +14196,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14301,9 +14306,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 250
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -14462,13 +14467,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8338,
+      "Progressed": 8339,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7710,
+      "Progressed": 7711,
       "Completed": 113
     }
   ],
@@ -14476,8 +14481,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:08:57.0672156+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:09:27.2961804+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:58:56.1644355+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:08:57.0673012+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:59:18.8107983+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:09:27.2962536+00:00"
 }

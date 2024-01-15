@@ -6,23 +6,23 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~367 |
-| Mash Machine | 74.00% | ~323 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~240 |
+| Rock of the Bay | 84.00% | ~368 |
+| Mash Machine | 74.00% | ~324 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~241 |
 | Furon Fashion | 48.00% | ~210 |
 | Shop Til They Drop | 40.00% | ~175 |
 | Bodied Sattva | 38.00% | ~166 |
 | Cult Following | 35.00% | ~153 |
 | Earthly Pleasures | 34.00% | ~149 |
 | Lie Back and Think of Albion | 29.00% | ~127 |
-| Upgreatest | 28.00% | ~122 |
+| Upgreatest | 28.00% | ~123 |
 | Pimp My Raid | 26.00% | ~114 |
 | Freshly Squeezed | 23.00% | ~101 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~92 |
 | Perfect Probulator | 19.00% | ~83 |
 | Die Nasty | 18.00% | ~79 |
 | Transmitting From Sol-3 | 16.00% | ~70 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~61 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 13.00% | ~57 |
 | Fly Me to the Moon Base | 11.00% | ~48 |
 | Kaijuiced | 11.00% | ~48 |
 | Dusted | 11.00% | ~48 |
@@ -31,7 +31,7 @@ Number of Ratings: 90  (23.09.2022)
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~31 |
 | Ultimate Smoothie | 5.00% | ~22 |
 | Yettisoned | 5.00% | ~22 |
-| Arkvoodle Doodle | 4.00% | ~17 |
+| Arkvoodle Doodle | 4.00% | ~18 |
 | Deincarnated | 3.00% | ~13 |
 | Forbidden Donut | 2.00% | ~9 |
 | Against All Odds | 1.00% | ~4 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 367)  
+Progressed: 438 (Ranked 367)  
 Completed: 2 (0.46%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 2 (0.46%) (Ranked 231)
 | 2024-01-12 | 416 | 2 |
 | 2024-01-13 | 427 | 2 |
 | 2024-01-14 | 432 | 2 |
-| 2024-01-15 | 437 | 2 |
+| 2024-01-15 | 438 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -101,7 +101,7 @@
   "Tags": [],
   "EOS_Progressed": 1555,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4252,9 +4252,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 762
     },
     {
       "ID": "EV_ACH03",
@@ -4500,9 +4500,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1042
     },
     {
       "ID": "EV_ACH34",
@@ -4605,8 +4605,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-14T13:02:41.6102698+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:10:29.4119865+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:11:23.0440979+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:59:57.949418+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:10:29.4120481+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:00:39.0071044+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:11:23.0441469+00:00"
 }

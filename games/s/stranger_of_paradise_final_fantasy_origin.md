@@ -1,24 +1,24 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.51 (Ranked 596)  
+Rating: 4.51 (Ranked 597)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~80,027 |
-| No Escape | 86.00% | ~70,952 |
-| Seeker of Power | 84.00% | ~69,302 |
+| Manifestation of the Soul | 97.00% | ~80,028 |
+| No Escape | 86.00% | ~70,953 |
+| Seeker of Power | 84.00% | ~69,303 |
 | Hopes and Dreams | 82.00% | ~67,652 |
 | Lantern Smasher | 78.00% | ~64,352 |
-| The Pirate's Way | 73.00% | ~60,226 |
-| Dark Crystal, Warrior's Heart | 70.00% | ~57,751 |
-| The King of the Dark Elves | 68.00% | ~56,101 |
-| Memories of the Distant Past | 66.00% | ~54,451 |
-| Distortion's Progeny | 62.00% | ~51,151 |
-| Savant | 61.00% | ~50,326 |
-| A Landscape of Memory | 58.00% | ~47,851 |
-| The Wind's Light | 54.00% | ~44,551 |
+| The Pirate's Way | 73.00% | ~60,227 |
+| Dark Crystal, Warrior's Heart | 70.00% | ~57,752 |
+| The King of the Dark Elves | 67.00% | ~55,277 |
+| Memories of the Distant Past | 66.00% | ~54,452 |
+| Distortion's Progeny | 62.00% | ~51,152 |
+| Savant | 61.00% | ~50,327 |
+| A Landscape of Memory | 58.00% | ~47,852 |
+| The Wind's Light | 54.00% | ~44,552 |
 | Vague Remembrances | 49.00% | ~40,426 |
 | The Fire's Light | 47.00% | ~38,776 |
 | Phantom Memories | 47.00% | ~38,776 |
@@ -40,21 +40,21 @@ Number of Ratings: 1,919  (23.09.2022)
 | Path of the Ninja | 33.00% | ~27,226 |
 | His Name Is Garland | 33.00% | ~27,226 |
 | Path of the Assassin | 32.00% | ~26,401 |
-| Seeker of Ultimate Power | 23.00% | ~18,975 |
-| Artifact Collector | 22.00% | ~18,150 |
-| Polymath | 22.00% | ~18,150 |
-| True Potential | 21.00% | ~17,325 |
-| Origin of True Chaos | 20.00% | ~16,500 |
-| Master's Awakening | 19.00% | ~15,675 |
-| Jack-of-All-Trades | 19.00% | ~15,675 |
+| Seeker of Ultimate Power | 23.00% | ~18,976 |
+| Artifact Collector | 22.00% | ~18,151 |
+| Polymath | 22.00% | ~18,151 |
+| True Potential | 21.00% | ~17,326 |
+| Origin of True Chaos | 20.00% | ~16,501 |
+| Master's Awakening | 19.00% | ~15,676 |
+| Jack-of-All-Trades | 19.00% | ~15,676 |
 | Cycle of Darkness | 16.00% | ~13,200 |
 | Job Master | 8.00% | ~6,600 |
 | Crest Bearer | 7.00% | ~5,775 |
 | Strangers' Memories | 3.00% | ~2,475 |
 | A Tale of Origins and Endings | 2.00% | ~1,650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,502 (Ranked 111)  
-Completed: 2,235 (2.71%) (Ranked 118)  
+Progressed: 82,503 (Ranked 111)  
+Completed: 2,236 (2.71%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 2,235 (2.71%) (Ranked 118)
 | 2024-01-12 | 82,431 | 2,227 |
 | 2024-01-13 | 82,463 | 2,230 |
 | 2024-01-14 | 82,487 | 2,232 |
-| 2024-01-15 | 82,502 | 2,235 |
+| 2024-01-15 | 82,503 | 2,236 |
 ## Awards
 Max (Great Boss Battles): 782  (Ranked 188)  
 Sum: 1,610 (Ranked 242)  

@@ -9,13 +9,13 @@ Rating: 4.21 (Ranked 959)
 | The Outer Way | 27.00% | ~6,054 |
 | Desperate Times | 26.00% | ~5,830 |
 | Paper Jams | 24.00% | ~5,382 |
-| Get a Grip | 23.00% | ~5,157 |
+| Get a Grip | 23.00% | ~5,158 |
 | Chew 'Em Up | 21.00% | ~4,709 |
 | Reforged | 20.00% | ~4,485 |
 | Float Like A Butterfly | 18.00% | ~4,036 |
 | Workplace Hazard | 17.00% | ~3,812 |
 | If the SHU Fits... | 17.00% | ~3,812 |
-| Without A Paddle | 15.00% | ~3,363 |
+| Without A Paddle | 15.00% | ~3,364 |
 | In the Pipe, Five by Five | 13.00% | ~2,915 |
 | Crash Site | 13.00% | ~2,915 |
 | Two Heads Are Better Than One | 12.00% | ~2,691 |
@@ -34,10 +34,10 @@ Rating: 4.21 (Ranked 959)
 | Mugshot | 2.00% | ~448 |
 | Big Spender | 2.00% | ~207 |
 | This Isn't About Escape | 2.00% | ~207 |
-| Armed to the Teeth | 1.00% | ~103 |
+| Armed to the Teeth | 1.00% | ~104 |
 | Grim Reaper | 1.00% | ~224 |
-| Instigator | 1.00% | ~103 |
-| Information Overload | 1.00% | ~103 |
+| Instigator | 1.00% | ~104 |
+| Information Overload | 1.00% | ~104 |
 | Parole Denied | 0.90% | ~93 |
 | Quick Pick | 0.80% | ~83 |
 | Subject Alpha | 0.70% | ~72 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 959)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,423 (Ranked 151)  
+Progressed: 22,424 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,423 | 82 |
+| 2024-01-15 | 22,424 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 344)  
 Sum: 654 (Ranked 318)  

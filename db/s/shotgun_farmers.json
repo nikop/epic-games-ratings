@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2007,9 +2007,9 @@
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_win_with_no_deaths",
@@ -2302,8 +2302,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:08:51.8110401+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:09:20.916984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.5124585+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:58:37.9095655+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:08:51.8111083+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:58:53.1586725+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:09:20.91705+00:00"
 }

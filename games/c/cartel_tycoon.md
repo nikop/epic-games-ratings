@@ -8,7 +8,7 @@ Number of Ratings: 101  (23.09.2022)
 | ---- | ---------- | ----- |
 | Our Man | 83.00% | ~862 |
 | Take-Off | 80.00% | ~830 |
-| Hokey-Pokey | 67.00% | ~695 |
+| Hokey-Pokey | 68.00% | ~706 |
 | Camellos | 52.00% | ~540 |
 | Bad Trip | 44.00% | ~457 |
 | Didn't Miss A Single One | 42.00% | ~436 |
@@ -27,7 +27,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.40% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,038 (Ranked 296)  
-Completed: 3 (0.29%) (Ranked 263)  
+Completed: 3 (0.29%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -3826,9 +3826,9 @@
       "ID": "ACH027",
       "SetID": "69nfp41",
       "Name": "I\u0027m out of here for a while",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH028",
@@ -3866,9 +3866,9 @@
       "ID": "ACH032",
       "SetID": "69nfp41",
       "Name": "Pirates!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 420
     },
     {
       "ID": "ACH033",
@@ -4018,8 +4018,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:06:08.4259+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:07:27.8410579+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.317946+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:00:48.7597746+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:06:08.4259492+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:01:44.0915771+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:07:27.8411038+00:00"
 }

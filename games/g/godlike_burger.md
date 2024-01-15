@@ -1,30 +1,30 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 596)  
+Rating: 4.51 (Ranked 597)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,277 |
-| FIRST BLOOD | 40.00% | ~161,135 |
-| KEVIN! | 30.00% | ~120,851 |
-| JACK OF ALL TRADES | 23.00% | ~92,653 |
-| CRIMINAL | 20.00% | ~80,568 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,341 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,284 |
-| HONORS STUDENT | 8.00% | ~32,227 |
-| BUTCHER | 6.00% | ~24,170 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,142 |
-| RAMBO | 5.00% | ~20,142 |
+| MASTER CHEF | 45.00% | ~181,286 |
+| FIRST BLOOD | 40.00% | ~161,143 |
+| KEVIN! | 30.00% | ~120,857 |
+| JACK OF ALL TRADES | 23.00% | ~92,657 |
+| CRIMINAL | 20.00% | ~80,572 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,343 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,286 |
+| HONORS STUDENT | 8.00% | ~32,229 |
+| BUTCHER | 6.00% | ~24,171 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,143 |
+| RAMBO | 5.00% | ~20,143 |
 | HELL'S KITCHEN | 4.00% | ~16,114 |
-| CELEBRITY | 3.00% | ~12,085 |
-| MARTYR | 3.00% | ~12,085 |
+| CELEBRITY | 3.00% | ~12,086 |
+| MARTYR | 3.00% | ~12,086 |
 | GRATITUDE | 2.00% | ~8,057 |
 | PATTY-KILLER | 2.00% | ~8,057 |
-| EXPERIMENTALIST | 1.00% | ~4,028 |
-| GOURMET | 1.00% | ~4,028 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,028 |
-| PRUDENT | 1.00% | ~4,028 |
+| EXPERIMENTALIST | 1.00% | ~4,029 |
+| GOURMET | 1.00% | ~4,029 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,029 |
+| PRUDENT | 1.00% | ~4,029 |
 | SCATTERBRAIN | 0.80% | ~3,223 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,820 |
 | TASTE UNTASTY | 0.60% | ~2,417 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 596)
 | MISTER ALL THUMBS | 0.10% | ~403 |
 | TRAVELER | 0.10% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,838 (Ranked 50)  
+Progressed: 402,858 (Ranked 50)  
 Completed: 61 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 61 (0.02%) (Ranked 366)
 | 2024-01-12 | 401,406 | 59 |
 | 2024-01-13 | 401,958 | 59 |
 | 2024-01-14 | 402,485 | 59 |
-| 2024-01-15 | 402,838 | 61 |
+| 2024-01-15 | 402,858 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

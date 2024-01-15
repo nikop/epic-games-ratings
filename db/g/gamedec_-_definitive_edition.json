@@ -531,9 +531,9 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257950,
+  "EOS_Progressed": 257953,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30851,6 +30851,11 @@
       "Time": "2024-01-15T20:06:15.7336066+00:00",
       "NumProgressed": 257950,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T21:07:37.1744812+00:00",
+      "NumProgressed": 257953,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30862,7 +30867,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69646
+      "UsersEstimate": 69647
     },
     {
       "ID": "ACH_AON",
@@ -30934,7 +30939,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7738
+      "UsersEstimate": 7739
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -30982,7 +30987,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7738
+      "UsersEstimate": 7739
     },
     {
       "ID": "ACH_IRONDEC",
@@ -31134,7 +31139,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18056
+      "UsersEstimate": 18057
     },
     {
       "ID": "ACH_MEMESMART",
@@ -31158,7 +31163,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7738
+      "UsersEstimate": 7739
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -31277,7 +31282,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257950,
+      "Progressed": 257953,
       "Completed": 8
     }
   ],
@@ -31285,8 +31290,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:06:15.7336062+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:07:37.174481+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:01:09.8296803+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:06:15.7337876+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:03:01.906977+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:07:37.1746608+00:00"
 }

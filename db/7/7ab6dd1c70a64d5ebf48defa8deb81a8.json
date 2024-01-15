@@ -105,7 +105,7 @@
   "Tags": [],
   "EOS_Progressed": 2345,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4851,9 +4851,9 @@
       "ID": "ACH_29",
       "SetID": "efe2lj",
       "Name": "All That Gold",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_30",
@@ -4907,9 +4907,9 @@
       "ID": "ACH_38",
       "SetID": "efe2lj",
       "Name": "Summiter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
@@ -4924,8 +4924,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:10:26.2848487+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:11:19.423443+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:59:44.7407429+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:10:26.2849213+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:00:22.6670597+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:11:19.4234765+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -305,7 +305,7 @@
   ],
   "EOS_Progressed": 2537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6130,9 +6130,9 @@
       "ID": "AC04",
       "SetID": "l4abp0",
       "Name": "Blood and Iron",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1522
     },
     {
       "ID": "AC05",
@@ -6258,9 +6258,9 @@
       "ID": "AC20",
       "SetID": "l4abp0",
       "Name": "Still Among Us",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 330
     },
     {
       "ID": "AC21",
@@ -6338,9 +6338,9 @@
       "ID": "AC30",
       "SetID": "l4abp0",
       "Name": "The Anointed One",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1268
     },
     {
       "ID": "AC31",
@@ -6475,8 +6475,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:03:38.6562981+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:04:22.031498+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:59:09.9198118+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:03:38.6563613+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:59:35.5056638+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:04:22.0315595+00:00"
 }

@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19338,
+  "EOS_Progressed": 19339,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14750,6 +14750,11 @@
       "Time": "2024-01-15T09:03:40.34587+00:00",
       "NumProgressed": 19338,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T21:04:46.7743868+00:00",
+      "NumProgressed": 19339,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14761,7 +14766,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "0002",
@@ -14777,7 +14782,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3287
+      "UsersEstimate": 3288
     },
     {
       "ID": "0004",
@@ -14897,7 +14902,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "0019",
@@ -14945,7 +14950,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4254
+      "UsersEstimate": 4255
     },
     {
       "ID": "0025",
@@ -15048,7 +15053,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19338,
+      "Progressed": 19339,
       "Completed": 4
     }
   ],
@@ -15056,8 +15061,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:03:58.4342223+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:04:46.7743866+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:43.1243695+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:00:25.4024519+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:03:58.4343115+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:01:14.5243618+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:04:46.7744866+00:00"
 }

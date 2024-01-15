@@ -1,14 +1,14 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.82 (Ranked 70)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,660 |
-| Life is your teacher | 5.00% | ~38,050 |
-| Lightning Hands | 5.00% | ~38,050 |
+| The Old Grandmaster | 6.00% | ~45,661 |
+| Life is your teacher | 5.00% | ~38,051 |
+| Lightning Hands | 5.00% | ~38,051 |
 | The Assault | 4.00% | ~30,440 |
 | The Hateful Pole Fighter | 3.00% | ~22,830 |
 | Stuntmaster | 3.00% | ~22,830 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,610 |
 | Kung-Fu Tussle | 1.00% | ~7,610 |
 | Project Arena | 1.00% | ~703 |
-| Fight the way you practice | 0.80% | ~562 |
+| Fight the way you practice | 0.80% | ~563 |
 | Muk Yan Master | 0.70% | ~5,327 |
 | Tiger on Fire | 0.70% | ~5,327 |
 | Detective Story | 0.70% | ~5,327 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,005 (Ranked 26)  
+Progressed: 761,012 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
-| 2024-01-15 | 761,005 | 12,989 |
+| 2024-01-15 | 761,012 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,215  (Ranked 57)  
 Sum: 12,760 (Ranked 86)  

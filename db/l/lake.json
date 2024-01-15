@@ -2,7 +2,7 @@
   "ID": "b36ca8a7314444e6a6b513729790582d",
   "Name": "Lake",
   "ProductSlug": "lake",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 832,
@@ -107,6 +107,6 @@
   "FirstSeenRating": "2022-09-12T17:01:06.2568783+00:00",
   "LastChanged": "2023-12-23T14:57:29.1794828+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.5117748+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:01:11.173733+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:09:27.3587602+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:03:04.1799013+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:10:05.0459787+00:00"
 }

@@ -2249,9 +2249,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22423,
+  "EOS_Progressed": 22424,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14014,6 +14014,11 @@
       "Time": "2024-01-15T20:10:03.7717622+00:00",
       "NumProgressed": 22423,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T21:10:51.2776456+00:00",
+      "NumProgressed": 22424,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14033,7 +14038,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -14129,7 +14134,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14233,7 +14238,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "STORY_HANGAR",
@@ -14297,7 +14302,7 @@
       "Name": "Instigator",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -14353,7 +14358,7 @@
       "Name": "Information Overload",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -14400,13 +14405,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22423,
+      "Progressed": 22424,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10349,
+      "Progressed": 10350,
       "Completed": 29
     }
   ],
@@ -14414,8 +14419,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-15T11:03:39.3194832+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:10:03.7717617+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:10:51.2776451+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:03:25.3632177+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:10:03.7718651+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:04:02.8821253+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:10:51.2777238+00:00"
 }

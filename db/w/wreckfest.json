@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1168,
+  "EOS_Progressed": 1169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2926,6 +2926,11 @@
       "Time": "2024-01-15T18:09:17.4746542+00:00",
       "NumProgressed": 1168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T21:09:49.7822462+00:00",
+      "NumProgressed": 1169,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2946,7 +2951,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "CareerChamp1",
@@ -2994,7 +2999,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "CollectVehiclesA",
@@ -3050,7 +3055,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "PlayerRankB",
@@ -3097,7 +3102,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1168,
+      "Progressed": 1169,
       "Completed": 0
     }
   ],
@@ -3105,8 +3110,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:09:15.2373939+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:09:49.7822459+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:00:11.479195+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:09:15.2374195+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:00:56.2307398+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:09:49.7822767+00:00"
 }

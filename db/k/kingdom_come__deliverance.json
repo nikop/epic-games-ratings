@@ -10033,10 +10033,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28844,
       "NumberOfAwardsMax": 7780
+    },
+    {
+      "Time": "2024-01-15T20:58:42.9927128+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28850,
+      "NumberOfAwardsMax": 7780
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28844,
+  "NumberOfAwards": 28850,
   "NumberOfAwardsMax": 7780,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10050,7 +10056,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5663
+      "Count": 5665
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10074,7 +10080,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1811
+      "Count": 1813
     },
     {
       "Text": "This game is Educational",
@@ -10086,7 +10092,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1701
+      "Count": 1703
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10119,9 +10125,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 817666,
+  "EOS_Progressed": 817674,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1073,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40714,6 +40720,11 @@
       "Time": "2024-01-15T20:10:30.501121+00:00",
       "NumProgressed": 817666,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-15T21:11:24.3282227+00:00",
+      "NumProgressed": 817674,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40749,7 +40760,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130827
+      "UsersEstimate": 130828
     },
     {
       "ID": "Awakening",
@@ -40757,7 +40768,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171710
+      "UsersEstimate": 171712
     },
     {
       "ID": "BadGirl",
@@ -40773,7 +40784,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40883
+      "UsersEstimate": 40884
     },
     {
       "ID": "Bailiff",
@@ -40805,7 +40816,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261653
+      "UsersEstimate": 261656
     },
     {
       "ID": "Bookworm",
@@ -40813,7 +40824,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122650
+      "UsersEstimate": 122651
     },
     {
       "ID": "Buddy",
@@ -40821,7 +40832,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98120
+      "UsersEstimate": 98121
     },
     {
       "ID": "Casanova",
@@ -40837,7 +40848,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212593
+      "UsersEstimate": 212595
     },
     {
       "ID": "Chivalrous",
@@ -40925,7 +40936,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188063
+      "UsersEstimate": 188065
     },
     {
       "ID": "Fighter",
@@ -40941,7 +40952,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130827
+      "UsersEstimate": 130828
     },
     {
       "ID": "Freud",
@@ -41005,7 +41016,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73590
+      "UsersEstimate": 73591
     },
     {
       "ID": "HardcoreHenry",
@@ -41045,7 +41056,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106297
+      "UsersEstimate": 106298
     },
     {
       "ID": "Judas",
@@ -41149,7 +41160,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40883
+      "UsersEstimate": 40884
     },
     {
       "ID": "NotSoChristianBurial",
@@ -41205,7 +41216,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163533
+      "UsersEstimate": 163535
     },
     {
       "ID": "RevenantOfLedechko",
@@ -41245,7 +41256,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163533
+      "UsersEstimate": 163535
     },
     {
       "ID": "SerialKiller",
@@ -41253,7 +41264,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40883
+      "UsersEstimate": 40884
     },
     {
       "ID": "Sinner",
@@ -41261,7 +41272,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89943
+      "UsersEstimate": 89944
     },
     {
       "ID": "Sniper",
@@ -41301,7 +41312,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98120
+      "UsersEstimate": 98121
     },
     {
       "ID": "TisButAScratch",
@@ -41333,7 +41344,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89943
+      "UsersEstimate": 89944
     },
     {
       "ID": "TrialAndError",
@@ -41380,15 +41391,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 817666,
+      "Progressed": 817674,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-01-15T14:58:15.9459936+00:00",
-  "LastChanged_Achievements": "2024-01-15T20:10:30.5011208+00:00",
+  "LastChanged": "2024-01-15T20:58:42.9927128+00:00",
+  "LastChanged_Achievements": "2024-01-15T21:11:24.3282226+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:58:29.9690712+00:00",
-  "LastUpdate_Achievements": "2024-01-15T20:10:30.5014046+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:58:42.9927132+00:00",
+  "LastUpdate_Achievements": "2024-01-15T21:11:24.3284241+00:00"
 }

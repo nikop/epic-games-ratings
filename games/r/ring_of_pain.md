@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heartless | 1.00% | ~2,430 |
 | Spine Breaker | 1.00% | ~2,430 |
 | A Donation | 1.00% | ~2,430 |
+| C-C-Combo | 1.00% | ~2,430 |
 | Deflection | 1.00% | ~2,430 |
 | A Quick Escape | 1.00% | ~2,430 |
 | Uncharted Territory | 1.00% | ~2,430 |
@@ -30,7 +31,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.90% | ~2,187 |
 | The Bestiary | 0.90% | ~2,187 |
 | What's Yours Is Mine | 0.90% | ~2,187 |
-| C-C-Combo | 0.90% | ~2,187 |
 | Sneaky | 0.90% | ~2,187 |
 | Dig Your Own Grave | 0.80% | ~1,944 |
 | Who To Trust? | 0.80% | ~1,944 |
@@ -46,7 +46,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 0.70% | ~1,701 |
 | New Perspectives | 0.70% | ~1,701 |
 | Shapeshifting | 0.70% | ~1,701 |
-| What Doesn't Kill You | 0.70% | ~31 |
+| What Doesn't Kill You | 0.70% | ~32 |
 | To The Death! | 0.60% | ~1,458 |
 | Well Prepared | 0.60% | ~1,458 |
 | Just Chilling | 0.60% | ~1,458 |
@@ -85,7 +85,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.30% | ~729 |
 | Sentimental Value | 0.30% | ~729 |
 | Precious | 0.30% | ~729 |
-| Raw Power | 0.30% | ~13 |
+| Raw Power | 0.30% | ~14 |
 | Quick Descent | 0.20% | ~486 |
 | A Week Attempt | 0.20% | ~486 |
 | Hydrophobe | 0.20% | ~486 |
@@ -137,15 +137,15 @@ Number of Ratings: 15,086  (23.09.2022)
 | Martial Master | 0.10% | ~243 |
 | Nudie Run | 0.10% | ~243 |
 | You Call That A Knife? | 0.10% | ~243 |
-| Scrounger Appreciation | 0.10% | ~4 |
-| Explosives Expert | 0.10% | ~4 |
-| All Natural | 0.10% | ~4 |
-| Multiclass | 0.10% | ~4 |
-| Stalker | 0.10% | ~4 |
-| Brute | 0.10% | ~4 |
-| Dominant Twin | 0.10% | ~4 |
+| Scrounger Appreciation | 0.10% | ~5 |
+| Explosives Expert | 0.10% | ~5 |
+| All Natural | 0.10% | ~5 |
+| Multiclass | 0.10% | ~5 |
+| Stalker | 0.10% | ~5 |
+| Brute | 0.10% | ~5 |
+| Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,019 (Ranked 74)  
+Progressed: 243,023 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 306 (0.13%) (Ranked 302)
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
-| 2024-01-15 | 243,019 | 306 |
+| 2024-01-15 | 243,023 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,797 (Ranked 90)  

@@ -23,7 +23,7 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 13.00% | ~33 |
 | Storyteller | 13.00% | ~33 |
 | Berserker | 13.00% | ~33 |
-| Globetrotter | 11.00% | ~28 |
+| Globetrotter | 12.00% | ~30 |
 | Alb | 11.00% | ~28 |
 | Hunter | 11.00% | ~28 |
 | Lover | 10.00% | ~25 |
@@ -47,7 +47,7 @@ Number of Ratings: 124  (23.09.2022)
 | Pack Rat | 1.00% | ~3 |
 | Outlaw | 1.00% | ~3 |
 | Ruthless | 0.80% | ~2 |
-| Fire in the Hole | 0.40% | ~1 |
+| Fire in the Hole | 0.80% | ~2 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
