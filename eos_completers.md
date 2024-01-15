@@ -43,7 +43,7 @@
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.10% |
 | 42 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 10.00% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.41% |
+| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.39% |
 | 45 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.33% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.56% |
@@ -214,9 +214,9 @@
 | 211 | [Scrapnaut](games/s/scrapnaut.md) | 0.60% |
 | 213 | [Grindstone](games/g/grindstone.md) | 0.59% |
 | 213 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
-| 213 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.59% |
-| 216 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.58% |
-| 216 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.58% |
+| 215 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.58% |
+| 215 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.58% |
+| 215 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.58% |
 | 218 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 219 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 220 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
