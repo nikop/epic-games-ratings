@@ -2,13 +2,13 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 356,
+  "Ranking_Rating": 355,
   "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 359,
-  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_Completed": 161,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 493,
-  "EOS_Completed": 5,
-  "EOS_NewPlayers": 100,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.01,
+  "EOS_Progressed": 494,
+  "EOS_Completed": 6,
+  "EOS_NewPlayers": 101,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -1980,6 +1980,11 @@
       "Time": "2024-01-14T22:06:19.4600959+00:00",
       "NumProgressed": 493,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T01:59:50.4212574+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -1992,7 +1997,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2030,9 +2035,9 @@
       "ID": "ACH_ABILITY_PKHUMANINTOHUMAN",
       "SetID": "cefn62b",
       "Name": "Yettisoned",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2048,7 +2053,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -2070,9 +2075,9 @@
       "ID": "ACH_ABILITY_TRANSMOG",
       "SetID": "cefn62b",
       "Name": "Freshly Squeezed",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -2080,7 +2085,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -2152,7 +2157,7 @@
       "Name": "Kaijuiced",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2182,25 +2187,25 @@
       "ID": "ACH_ENEMY_KILLROBOPREZ",
       "SetID": "cefn62b",
       "Name": "Higher Than the Futen Zoku",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_ENEMY_KILLSWITHEXPLOSIVE",
       "SetID": "cefn62b",
       "Name": "Lobster Blisque",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
       "SetID": "cefn62b",
       "Name": "Arty Facts",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -2224,7 +2229,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2232,7 +2237,7 @@
       "Name": "Upgreatest",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -2262,9 +2267,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2288,15 +2293,15 @@
       "Name": "Perfect Probulator",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2311,15 +2316,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 493,
-      "Completed": 5
+      "Progressed": 494,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:08:09.8940688+00:00",
+  "LastChanged_Achievements": "2024-01-15T01:59:50.4212571+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:59:27.997333+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:08:09.8941036+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:52:17.4333447+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:59:50.4212976+00:00"
 }

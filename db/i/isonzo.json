@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -11416,9 +11416,9 @@
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
       "SetID": "akchbl3",
       "Name": "Shaken, Not Stirred",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1292
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11545,8 +11545,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:09:54.8181638+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:02:27.2375989+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:58:41.0120566+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:09:54.8182677+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:51:13.7978004+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:02:27.2376661+00:00"
 }

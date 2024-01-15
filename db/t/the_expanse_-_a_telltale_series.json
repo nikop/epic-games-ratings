@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19026,
+  "EOS_Progressed": 19027,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17399,6 +17399,11 @@
       "Time": "2024-01-15T00:05:04.8506967+00:00",
       "NumProgressed": 19026,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T01:57:47.3250538+00:00",
+      "NumProgressed": 19027,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17427,7 +17432,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "12",
@@ -17515,7 +17520,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "22",
@@ -17690,22 +17695,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19026,
+      "Progressed": 19027,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4980,
-      "Completed": 1325
+      "Progressed": 4981,
+      "Completed": 1326
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:05:04.850696+00:00",
+  "LastChanged_Achievements": "2024-01-15T01:57:47.3250535+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:58:21.8046316+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:05:04.8507825+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:50:48.0002425+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:57:47.3251599+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "football-manager-2022",
   "Ranking_Rating": 92,
   "Ranking_Popularity": 63,
-  "Ranking_PopularitySum": 30,
+  "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 44,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -9180,10 +9180,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51258,
       "NumberOfAwardsMax": 6497
+    },
+    {
+      "Time": "2024-01-15T01:55:06.772323+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51259,
+      "NumberOfAwardsMax": 6497
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51258,
+  "NumberOfAwards": 51259,
   "NumberOfAwardsMax": 6497,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -9191,7 +9197,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6088
+      "Count": 6089
     },
     {
       "Text": "This game is Relaxing",
@@ -9256,7 +9262,7 @@
   ],
   "EOS_Progressed": 479305,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37069,9 +37075,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2024-01-14T18:03:54.4658287+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:09:34.5212596+00:00",
+  "LastChanged": "2024-01-15T01:55:06.7723229+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:02:00.7846586+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.4121487+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:02:54.148526+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:09:34.5214436+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:55:06.7723233+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:02:00.7848566+00:00"
 }

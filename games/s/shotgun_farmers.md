@@ -20,7 +20,7 @@
 | 15K | 26.00% | ~99 |
 | Grave Digger | 23.00% | ~76 |
 | Drinking Problem | 22.00% | ~84 |
-| Quick-Draw Pod | 21.00% | ~69 |
+| Quick-Draw Pod | 22.00% | ~73 |
 | Pork Chop Express | 20.00% | ~76 |
 | Professional Survivor | 19.00% | ~63 |
 | Skin Of Your Teeth | 17.00% | ~65 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 380 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 400)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

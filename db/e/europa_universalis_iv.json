@@ -6,9 +6,9 @@
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14415,9 +14415,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499131,
+  "EOS_Progressed": 499161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4456,
+  "EOS_NewPlayers": 4457,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45525,6 +45525,11 @@
       "Time": "2024-01-15T00:10:43.2958193+00:00",
       "NumProgressed": 499131,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T02:03:27.9148936+00:00",
+      "NumProgressed": 499161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -48198,9 +48203,9 @@
       "ID": "achievement_until_death_do_us_apart",
       "SetID": "8p2n7he",
       "Name": "Until death do us apart",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 2995
+      "UsersEstimate": 3494
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -48439,21 +48444,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499131,
+      "Progressed": 499161,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499131,
+      "Progressed": 499161,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-14T23:59:58.5456129+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:10:43.2958189+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:03:27.9148931+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:59:58.5456135+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:10:43.2972382+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:52:58.2901707+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:03:27.9159724+00:00"
 }

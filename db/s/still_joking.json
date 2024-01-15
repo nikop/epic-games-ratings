@@ -3,9 +3,9 @@
   "Name": "Still Joking",
   "ProductSlug": "still-joking-727db4",
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T01:53:39.6246563+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:57:11.3833322+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:05:50.0049396+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:49:13.339645+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:58:46.5693809+00:00"
 }

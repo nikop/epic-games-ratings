@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 5.00% | ~453 |
-| A Thorny Situation | 5.00% | ~453 |
-| ... And Spit Back Out | 5.00% | ~453 |
+| Azoria Beckons | 5.00% | ~454 |
+| A Thorny Situation | 5.00% | ~454 |
+| ... And Spit Back Out | 5.00% | ~454 |
 | Break-Net Speed | 4.00% | ~363 |
 | Calm Sailing | 3.00% | ~272 |
 | Open the Gate! | 3.00% | ~272 |
@@ -34,9 +34,9 @@ Rating: 4.64 (Ranked 343)
 | Azorian Hat Dance | 0.70% | ~12 |
 | I Now Pronounce You... | 0.50% | ~45 |
 | Chatty Neighbor | 0.50% | ~45 |
+| House Proud | 0.50% | ~45 |
 | Going Down | 0.50% | ~8 |
 | Right Tool For the Job | 0.40% | ~36 |
-| House Proud | 0.40% | ~36 |
 | Captain of Cozy | 0.30% | ~27 |
 | Angling Authority | 0.20% | ~18 |
 | Polyglot | 0.20% | ~3 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,068 (Ranked 186)  
+Progressed: 9,070 (Ranked 186)  
 Completed: 1 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 1 (0.01%) (Ranked 376)
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
 | 2024-01-14 | 9,068 | 1 |
+| 2024-01-15 | 9,070 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

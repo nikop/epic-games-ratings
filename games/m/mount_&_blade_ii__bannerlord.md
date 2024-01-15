@@ -1,23 +1,23 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 165)  
+Rating: 4.74 (Ranked 166)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~40,963 |
-| Landlord | 34.00% | ~32,389 |
-| Trained | 30.00% | ~28,579 |
-| Bannerlord | 24.00% | ~22,863 |
-| Lawmaker | 23.00% | ~21,910 |
-| Horde breaker | 21.00% | ~20,005 |
+| Lawbringer | 43.00% | ~40,964 |
+| Landlord | 34.00% | ~32,390 |
+| Trained | 30.00% | ~28,580 |
+| Bannerlord | 24.00% | ~22,864 |
+| Lawmaker | 23.00% | ~21,911 |
+| Horde breaker | 21.00% | ~20,006 |
 | The king is pleased | 19.00% | ~18,100 |
-| King Solomon | 18.00% | ~17,147 |
+| King Solomon | 18.00% | ~17,148 |
 | Apple of my eye | 17.00% | ~16,195 |
 | This Is Our Land | 16.00% | ~15,242 |
-| Against all odds | 15.00% | ~14,289 |
-| I can do it | 15.00% | ~14,289 |
+| Against all odds | 15.00% | ~14,290 |
+| I can do it | 15.00% | ~14,290 |
 | Duelist | 12.00% | ~11,432 |
 | God of the Arena | 12.00% | ~11,432 |
 | Swordbearer | 11.00% | ~10,479 |
@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~9,526 |
 | What have the Romans ever done for us? | 10.00% | ~9,526 |
 | Butterlord | 9.00% | ~8,574 |
-| Know your enemy | 7.00% | ~6,668 |
-| Mastery | 7.00% | ~6,668 |
+| Know your enemy | 7.00% | ~6,669 |
+| Mastery | 7.00% | ~6,669 |
 | My way | 5.00% | ~4,763 |
 | Crowdfunded | 4.00% | ~3,811 |
 | Crush your enemies | 4.00% | ~3,811 |
@@ -58,8 +58,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,263 (Ranked 103)  
-Completed: 0 (0.00%) (Ranked 400)  
+Progressed: 95,265 (Ranked 103)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,14 +328,14 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-12 | 94,598 | 0 |
 | 2024-01-13 | 94,972 | 0 |
 | 2024-01-14 | 95,259 | 0 |
-| 2024-01-15 | 95,263 | 0 |
+| 2024-01-15 | 95,265 | 0 |
 ## Awards
-Max (Character Customization): 8,050  (Ranked 50)  
-Sum: 16,696 (Ranked 66)  
+Max (Character Customization): 8,068  (Ranked 50)  
+Sum: 16,714 (Ranked 66)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,050 |
+| This game has Inclusive Character Customization | 8,068 |
 | This game is Great for Beginners | 1,213 |
 | This game has Diverse Characters | 1,115 |
 | This game is Highly Recommended | 1,018 |
@@ -715,3 +715,4 @@ Diff (max vs sum): -16
 | 2024-01-12 | 4.74 | - | 8,027 | 16,652 |
 | 2024-01-13 | 4.74 | - | 8,050 | 16,687 |
 | 2024-01-14 | 4.74 | - | 8,050 | 16,696 |
+| 2024-01-15 | 4.74 | - | 8,068 | 16,714 |

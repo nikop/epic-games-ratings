@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~841 |
-| Play a Single Player Game | 5.00% | ~841 |
+| Settler | 5.00% | ~842 |
+| Play a Single Player Game | 5.00% | ~842 |
 | Explorer | 4.00% | ~673 |
 | Friendly Family | 4.00% | ~673 |
 | Able | 3.00% | ~505 |
@@ -69,6 +69,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Musaeum | 1.00% | ~168 |
 | Learn to Play 3 | 1.00% | ~168 |
 | Manichaeism | 1.00% | ~168 |
+| Persian Paganism | 1.00% | ~168 |
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
 | Beloved | 0.90% | ~151 |
@@ -76,12 +77,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 0.90% | ~151 |
 | Champions | 0.90% | ~151 |
 | Temple of Solomon | 0.90% | ~151 |
-| Persian Paganism | 0.90% | ~151 |
+| Greece | 0.90% | ~151 |
+| Power to the People | 0.90% | ~151 |
 | Points Victory | 0.90% | ~151 |
 | Patrons | 0.80% | ~135 |
 | Statesmen | 0.80% | ~135 |
-| Greece | 0.80% | ~135 |
-| Power to the People | 0.80% | ~135 |
+| Hittite Iron | 0.80% | ~135 |
 | Win a Single Player Game | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
 | Conqueror | 0.70% | ~118 |
@@ -90,11 +91,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
 | Traders | 0.70% | ~118 |
-| Hittite Iron | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
 | Hagia Sophia | 0.70% | ~118 |
 | Pantheon | 0.70% | ~118 |
 | Via Recta Souk | 0.70% | ~118 |
+| Learn to Play 4 | 0.70% | ~118 |
 | Economic Reform | 0.70% | ~118 |
 | Military Prestige | 0.70% | ~118 |
 | Dualism | 0.70% | ~118 |
@@ -109,7 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.60% | ~101 |
 | Strong Difficulty | 0.60% | ~101 |
 | Hunters | 0.60% | ~101 |
-| Learn to Play 4 | 0.60% | ~101 |
+| Babylonia | 0.60% | ~101 |
 | Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
 | Enlightenment | 0.60% | ~101 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.50% | ~84 |
 | Clerics | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
-| Babylonia | 0.50% | ~84 |
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
 | Hittite Paganism | 0.50% | ~84 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,827 (Ranked 169)  
+Progressed: 16,833 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,827 | 5 |
+| 2024-01-15 | 16,833 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

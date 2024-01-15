@@ -3,9 +3,9 @@
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
   "Ranking_EOS_Progress": 674,
-  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2024-01-07T17:30:00+00:00",
     "PcReleaseDate": "2019-02-06T06:00:00+00:00",
@@ -307,8 +307,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:05:34.5944078+00:00",
+  "LastChanged_Achievements": "2024-01-15T01:58:26.399107+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:07.9830278+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:59:18.7826969+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:05:34.5944252+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:52:04.3600764+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:58:26.399123+00:00"
 }

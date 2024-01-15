@@ -7,8 +7,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,159 |
-| Beast Intentions | 2.00% | ~5,079 |
-| The Cursed Farmer | 2.00% | ~5,079 |
+| Beast Intentions | 2.00% | ~5,080 |
+| The Cursed Farmer | 2.00% | ~5,080 |
 | The Ring of Regeneration | 1.00% | ~2,540 |
 | The Mad Wizard | 1.00% | ~2,540 |
 | Are Ya Chicken? | 0.90% | ~2,286 |
@@ -54,7 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~508 |
 | Wet Feet | 0.20% | ~508 |
 | Supply Run | 0.20% | ~508 |
-| Vecna Lives! | 0.20% | ~440 |
+| Vecna Lives! | 0.20% | ~441 |
 | Homecoming | 0.20% | ~508 |
 | The Lost Heir of Omu | 0.20% | ~508 |
 | The Forbidden City | 0.20% | ~508 |
@@ -82,9 +82,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~508 |
 | Rude Welcome | 0.20% | ~508 |
 | Durable Deep | 0.20% | ~508 |
+| The Haunted Jungle | 0.20% | ~508 |
 | Rescue in the Jungle | 0.20% | ~508 |
-| The Beginning is the End | 0.20% | ~440 |
-| The Brains of an Illithid's Desire | 0.20% | ~440 |
+| The Beginning is the End | 0.20% | ~441 |
+| The Brains of an Illithid's Desire | 0.20% | ~441 |
 | Upholding the Law | 0.10% | ~254 |
 | Starving in the Jungle | 0.10% | ~254 |
 | Cold as Ice | 0.10% | ~220 |
@@ -506,7 +507,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~220 |
 | Ineffectual Intellectuals | 0.10% | ~220 |
 | The Archaeologist and the Sailor | 0.10% | ~220 |
-| The Haunted Jungle | 0.10% | ~254 |
 | Poor Guidance | 0.10% | ~254 |
 | Overwhelming Force | 0.10% | ~254 |
 | The Court of Storms | 0.10% | ~220 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,967 (Ranked 70)  
-Completed: 2,617 (1.03%) (Ranked 176)  
+Progressed: 253,978 (Ranked 70)  
+Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -823,7 +823,7 @@ Completed: 2,617 (1.03%) (Ranked 176)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 253,967 | 2,617 |
+| 2024-01-15 | 253,978 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
 Sum: 33,493 (Ranked 41)  

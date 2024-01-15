@@ -20,12 +20,12 @@ Rating: 4.56 (Ranked 510)
 | Ferocious wild boars | 23.00% | ~47 |
 | Beast slayer | 21.00% | ~43 |
 | Death of a legend | 20.00% | ~41 |
+| Archaeologist | 19.00% | ~39 |
 | Ogre friend | 19.00% | ~39 |
-| Archaeologist | 18.00% | ~37 |
+| Sidelined | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
 | Little hero | 17.00% | ~35 |
 | The fourth triplet | 17.00% | ~35 |
-| Sidelined | 17.00% | ~35 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
 | Ghost hunter | 15.00% | ~30 |
@@ -38,8 +38,8 @@ Rating: 4.56 (Ranked 510)
 | Workaholic | 11.00% | ~22 |
 | Titan Lord | 9.00% | ~18 |
 | Safecracker | 9.00% | ~18 |
+| Master thief | 9.00% | ~18 |
 | Freedom fighter | 8.00% | ~16 |
-| Master thief | 8.00% | ~16 |
 | Expert | 7.00% | ~14 |
 | King of the handymen | 7.00% | ~14 |
 | Terror of the hens | 6.00% | ~12 |
@@ -57,7 +57,7 @@ Rating: 4.56 (Ranked 510)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 433)  
-Completed: 0 (0.00%) (Ranked 400)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

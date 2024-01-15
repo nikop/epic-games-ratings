@@ -29,10 +29,10 @@
 | Friend of Connach | 15.00% | ~22 |
 | Friend of Gillyshire | 14.00% | ~21 |
 | Friend of Orgash | 14.00% | ~21 |
+| Friend of Silver Drift Hollow | 14.00% | ~21 |
 | Stormwatch Faste | 13.00% | ~19 |
-| Friend of Silver Drift Hollow | 13.00% | ~19 |
+| Friend of Bastion | 13.00% | ~19 |
 | Silver Drift Hollow Mine | 12.00% | ~18 |
-| Friend of Bastion | 12.00% | ~18 |
 | Break Free | 12.00% | ~18 |
 | Philo's Tale | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 147 (Ranked 464)  
-Completed: 0 (0.00%) (Ranked 400)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

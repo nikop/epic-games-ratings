@@ -6,72 +6,72 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~462 |
-| First of many… | 68.00% | ~408 |
-| Helping Hand | 65.00% | ~390 |
-| Increased Vigor | 61.00% | ~366 |
-| Fight Fire with Fire | 59.00% | ~354 |
-| Increased Capacity | 56.00% | ~336 |
+| Green with Envy | 77.00% | ~463 |
+| First of many… | 68.00% | ~409 |
+| Helping Hand | 65.00% | ~391 |
+| Increased Vigor | 61.00% | ~367 |
+| Fight Fire with Fire | 59.00% | ~355 |
+| Increased Capacity | 56.00% | ~337 |
 | Just the start | 50.00% | ~300 |
 | Perfect Storm | 47.00% | ~282 |
 | All That Glitters | 46.00% | ~276 |
 | Enhance! | 43.00% | ~258 |
 | One Of the Chosen | 41.00% | ~246 |
-| Devil's in the Details | 41.00% | ~246 |
 | Throne Potato | 41.00% | ~246 |
 | Five's a Crowd | 41.00% | ~246 |
+| Devil's in the Details | 40.00% | ~240 |
 | 25 to Life | 40.00% | ~240 |
 | Salvation | 39.00% | ~234 |
 | Soul Harvester | 37.00% | ~222 |
 | Unshakable Fortitude | 36.00% | ~216 |
-| I Wanna Rock | 35.00% | ~210 |
 | Delusions of Grandeur | 35.00% | ~210 |
+| I Wanna Rock | 34.00% | ~204 |
+| Maximum Vigor | 33.00% | ~198 |
 | Love Tap | 33.00% | ~198 |
-| Maximum Vigor | 32.00% | ~192 |
 | Freeze Frame | 31.00% | ~186 |
-| Eat Your Heart Out | 30.00% | ~180 |
+| Eat Your Heart Out | 31.00% | ~186 |
 | For Whom the Bell Tolls | 30.00% | ~180 |
 | Unyielding Strength | 27.00% | ~162 |
 | Can you restore the Balance? | 26.00% | ~156 |
 | Crowd Source | 26.00% | ~156 |
 | Big Spender | 26.00% | ~156 |
-| Cleanup Crew | 25.00% | ~150 |
+| Cleanup Crew | 24.00% | ~144 |
 | Demon Meddler | 24.00% | ~144 |
 | Seeing Red | 24.00% | ~144 |
-| Egomaniac | 23.00% | ~138 |
-| Maximum Capacity | 22.00% | ~132 |
+| Maximum Capacity | 23.00% | ~138 |
+| Egomaniac | 22.00% | ~132 |
 | Protector of Humanity | 21.00% | ~126 |
 | Everybody Wants to Rule the World | 21.00% | ~126 |
-| Community Outreach | 16.00% | ~96 |
 | Path of the Horseman | 15.00% | ~90 |
+| Community Outreach | 15.00% | ~90 |
 | A Parting Gift | 14.00% | ~84 |
-| Take it to the Limit | 14.00% | ~84 |
 | Unbreakable Will | 13.00% | ~78 |
-| Holy Keeper | 12.00% | ~72 |
+| Take it to the Limit | 13.00% | ~78 |
 | Demon Keeper | 12.00% | ~72 |
-| Humanitarian | 10.00% | ~60 |
+| Holy Keeper | 11.00% | ~66 |
+| Humanitarian | 9.00% | ~54 |
 | Soul Reaper | 8.00% | ~48 |
 | Made of Sterner Stuff | 7.00% | ~42 |
 | My Evil Twin | 6.00% | ~36 |
 | Purity of Power | 5.00% | ~30 |
 | Balance in all things | 5.00% | ~30 |
-| Keeper of the Bonfire | 5.00% | ~30 |
-| Keeper of the Sky | 5.00% | ~30 |
 | "Impressive!" | 4.00% | ~24 |
+| Keeper of the Bonfire | 4.00% | ~24 |
 | Keeper of the Vale | 4.00% | ~24 |
+| Keeper of the Sky | 4.00% | ~24 |
 | Keep it 100! | 4.00% | ~24 |
-| BFA | 4.00% | ~24 |
 | "Incredible!" | 3.00% | ~18 |
 | Proceed on your way to Armageddon | 3.00% | ~18 |
 | Keeper of Colossal Automata | 3.00% | ~18 |
 | Keeper of the Tempo | 3.00% | ~18 |
+| BFA | 3.00% | ~18 |
 | "Apocalyptic!" | 2.00% | ~12 |
 | "Amazing!" | 2.00% | ~12 |
 | Death Incarnate | 2.00% | ~12 |
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 344)  
+Progressed: 601 (Ranked 343)  
 Completed: 2 (0.33%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 2 (0.33%) (Ranked 254)
 | 2024-01-12 | 572 | 2 |
 | 2024-01-13 | 582 | 2 |
 | 2024-01-14 | 600 | 2 |
+| 2024-01-15 | 601 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 382)  
 Sum: 99 (Ranked 473)  

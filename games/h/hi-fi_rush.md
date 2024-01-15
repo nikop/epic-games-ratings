@@ -5,32 +5,32 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 55.00% | ~9,437 |
-| Feeling the beat! | 55.00% | ~9,437 |
-| You can pet the cat! | 50.00% | ~8,579 |
-| Who put gears in there? | 41.00% | ~7,035 |
-| Cream of the Crop | 36.00% | ~6,177 |
-| Thanks for the free chip, Peppermint! | 35.00% | ~6,005 |
-| You got this, Peppermint? | 30.00% | ~5,147 |
-| Perfect Parry | 28.00% | ~4,804 |
-| Alright, that felt AWESOME! | 28.00% | ~4,804 |
-| I play my own way! | 24.00% | ~4,118 |
-| This will cost you big time | 22.00% | ~3,775 |
-| Uh, they were broken when I got here | 22.00% | ~3,775 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,603 |
+| Start with a bang! | 55.00% | ~9,439 |
+| Feeling the beat! | 55.00% | ~9,439 |
+| You can pet the cat! | 50.00% | ~8,581 |
+| Who put gears in there? | 41.00% | ~7,036 |
+| Cream of the Crop | 36.00% | ~6,178 |
+| Thanks for the free chip, Peppermint! | 35.00% | ~6,007 |
+| You got this, Peppermint? | 30.00% | ~5,149 |
+| Perfect Parry | 28.00% | ~4,805 |
+| Alright, that felt AWESOME! | 28.00% | ~4,805 |
+| I play my own way! | 24.00% | ~4,119 |
+| This will cost you big time | 22.00% | ~3,776 |
+| Uh, they were broken when I got here | 22.00% | ~3,776 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,604 |
 | Kissing the sky! | 20.00% | ~3,432 |
-| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,917 |
-| Does that say weakpoint? | 17.00% | ~2,917 |
-| The Negotiator | 16.00% | ~2,745 |
+| Whoa! There's ANOTHER health bar!? | 17.00% | ~2,918 |
+| Does that say weakpoint? | 17.00% | ~2,918 |
+| The Negotiator | 16.00% | ~2,746 |
 | You must like calling me in, Chai | 15.00% | ~2,574 |
-| Out in a puff of smoke | 14.00% | ~2,402 |
+| Out in a puff of smoke | 14.00% | ~2,403 |
 | Headliner | 13.00% | ~2,231 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,231 |
 | Time to pay up! | 12.00% | ~2,059 |
 | Who's the boss now? | 12.00% | ~2,059 |
 | Perfecter Parry-er! | 12.00% | ~2,059 |
-| I have to read these things? | 11.00% | ~1,887 |
-| There's such a thing as TOO helpful | 9.00% | ~1,544 |
+| I have to read these things? | 11.00% | ~1,888 |
+| There's such a thing as TOO helpful | 9.00% | ~1,545 |
 | NOW we got a kickass hideout! | 9.00% | ~1,411 |
 | Well that was a rush! | 7.00% | ~1,201 |
 | Beat-hit mania | 7.00% | ~1,201 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,158 (Ranked 168)  
+Progressed: 17,162 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-12 | 16,910 | 8 |
 | 2024-01-13 | 17,049 | 8 |
 | 2024-01-14 | 17,157 | 8 |
-| 2024-01-15 | 17,158 | 8 |
+| 2024-01-15 | 17,162 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

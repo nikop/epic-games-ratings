@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16421,
+  "EOS_Progressed": 16422,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18177,6 +18177,11 @@
       "Time": "2024-01-15T00:10:19.9948108+00:00",
       "NumProgressed": 16421,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-15T02:03:00.184558+00:00",
+      "NumProgressed": 16422,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18260,7 +18265,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "ACH11",
@@ -18356,7 +18361,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3448
+      "UsersEstimate": 3449
     },
     {
       "ID": "ACH23",
@@ -18388,7 +18393,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "ACH27",
@@ -18459,7 +18464,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16421,
+      "Progressed": 16422,
       "Completed": 100
     }
   ],
@@ -18467,8 +18472,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:10:19.9948104+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:03:00.1845578+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:00:11.9285812+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:10:19.9948886+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:53:16.815717+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:03:00.1846491+00:00"
 }

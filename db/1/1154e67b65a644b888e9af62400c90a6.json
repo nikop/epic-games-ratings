@@ -6,9 +6,9 @@
   "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -3353,10 +3353,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 4892,
       "NumberOfAwardsMax": 1783
+    },
+    {
+      "Time": "2024-01-15T01:52:31.6371928+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4901,
+      "NumberOfAwardsMax": 1783
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4892,
+  "NumberOfAwards": 4901,
   "NumberOfAwardsMax": 1783,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3370,7 +3376,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 305
+      "Count": 314
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3445,8 +3451,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-14T21:59:28.1835227+00:00",
+  "LastChanged": "2024-01-15T01:52:31.6371927+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8695332+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:59:38.4831425+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:03:58.3286502+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:52:31.637193+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:56:21.2536993+00:00"
 }

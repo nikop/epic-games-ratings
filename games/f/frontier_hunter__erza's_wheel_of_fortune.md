@@ -39,10 +39,10 @@ Rating: 4.38 (Ranked 799)
 | Warden Slayer | 10.00% | ~75 |
 | Master Cook | 9.00% | ~68 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |
+| Giant Lizard Challenge | 4.00% | ~30 |
 | Blade Mantis Challenge | 3.00% | ~23 |
 | Flying Kobold Challenge | 3.00% | ~23 |
 | Furious Scorpion Challenge | 3.00% | ~23 |
-| Giant Lizard Challenge | 3.00% | ~23 |
 | Mermaid Challenge | 3.00% | ~23 |
 | Rebellious | 2.00% | ~15 |
 | Big Face Goalkeeper Challenge | 2.00% | ~15 |

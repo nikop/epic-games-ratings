@@ -4,11 +4,11 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 378,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 188,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
     "PcReleaseDate": "2021-11-18T00:00:00+00:00",
@@ -773,10 +773,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2951,
       "NumberOfAwardsMax": 1760
+    },
+    {
+      "Time": "2024-01-15T01:55:16.2573203+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2965,
+      "NumberOfAwardsMax": 1760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2951,
+  "NumberOfAwards": 2965,
   "NumberOfAwardsMax": 1760,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -796,7 +802,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 135
+      "Count": 138
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -832,7 +838,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 149
+      "Count": 160
     },
     {
       "Text": "This game has a Creative Community",
@@ -859,8 +865,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-01-14T22:02:54.5035486+00:00",
+  "LastChanged": "2024-01-15T01:55:16.2573202+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:27.8310131+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:03:01.0474191+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:04:37.2640849+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:55:16.2573205+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:57:11.6009296+00:00"
 }

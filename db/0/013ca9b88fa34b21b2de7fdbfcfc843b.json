@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9068,
+  "EOS_Progressed": 9070,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10248,6 +10248,11 @@
       "Time": "2024-01-14T23:10:18.4547955+00:00",
       "NumProgressed": 9068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T02:03:17.9132389+00:00",
+      "NumProgressed": 9070,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10260,7 +10265,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -10268,7 +10273,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -10412,7 +10417,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -10522,9 +10527,9 @@
       "ID": "UPGRADE_HOUSEMAX",
       "SetID": "9eia0f5",
       "Name": "House Proud",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -10603,13 +10608,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9068,
+      "Progressed": 9070,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1685,
+      "Progressed": 1687,
       "Completed": 1050
     }
   ],
@@ -10617,8 +10622,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:10:34.5008865+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:03:17.9132387+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:03:26.1299616+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:10:34.5009734+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:55:50.5543233+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:03:17.9133+00:00"
 }

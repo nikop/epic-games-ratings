@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253479,
+  "EOS_Progressed": 253482,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24142,6 +24142,11 @@
       "Time": "2024-01-15T00:10:26.7042894+00:00",
       "NumProgressed": 253479,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T02:03:08.7804374+00:00",
+      "NumProgressed": 253482,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24209,7 +24214,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43091
+      "UsersEstimate": 43092
     },
     {
       "ID": "cantBeKeptDown",
@@ -24249,7 +24254,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45626
+      "UsersEstimate": 45627
     },
     {
       "ID": "curator",
@@ -24329,7 +24334,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134344
+      "UsersEstimate": 134345
     },
     {
       "ID": "indegestible",
@@ -24369,7 +24374,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20278
+      "UsersEstimate": 20279
     },
     {
       "ID": "lockupLockdown",
@@ -24393,7 +24398,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126740
+      "UsersEstimate": 126741
     },
     {
       "ID": "notScared",
@@ -24425,7 +24430,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20278
+      "UsersEstimate": 20279
     },
     {
       "ID": "rideTheWave",
@@ -24457,7 +24462,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58300
+      "UsersEstimate": 58301
     },
     {
       "ID": "thunderstruck",
@@ -24473,7 +24478,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32952
+      "UsersEstimate": 32953
     },
     {
       "ID": "treeMedalist",
@@ -24520,7 +24525,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253479,
+      "Progressed": 253482,
       "Completed": 6
     }
   ],
@@ -24528,8 +24533,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:10:26.704289+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:03:08.7804372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:02:47.8735822+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:10:26.7044389+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:54:57.7813725+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:03:08.7805596+00:00"
 }

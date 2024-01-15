@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~110 |
 | A Loyal Friend | 43.00% | ~59 |
-| Abandon Ship! | 32.00% | ~44 |
+| Abandon Ship! | 33.00% | ~45 |
 | The Tomb of Kih-Oskh | 28.00% | ~38 |
 | The Weighing of the Soul | 26.00% | ~36 |
 | The Curse of Kih-Oskh | 20.00% | ~27 |
@@ -43,7 +43,7 @@
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 137 (Ranked 475)  
-Completed: 0 (0.00%) (Ranked 400)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

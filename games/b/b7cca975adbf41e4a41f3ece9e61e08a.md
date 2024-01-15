@@ -5,14 +5,14 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,371 |
-| I Challenge You To Save More Money! | 81.00% | ~15,068 |
-| I Love How Tough You Are | 65.00% | ~12,092 |
+| Last Night...Did We... | 88.00% | ~16,372 |
+| I Challenge You To Save More Money! | 81.00% | ~15,069 |
+| I Love How Tough You Are | 65.00% | ~12,093 |
 | Wanna Come To My Place For Dinner? | 58.00% | ~10,790 |
 | What I Want Is You | 53.00% | ~9,860 |
 | To Be Or Not To Be | 50.00% | ~9,302 |
-| Are You Alright? | 47.00% | ~8,743 |
-| Love Actually | 42.00% | ~7,813 |
+| Are You Alright? | 47.00% | ~8,744 |
+| Love Actually | 42.00% | ~7,814 |
 | Drama King | 36.00% | ~6,697 |
 | Go Clean up In Your Own Way | 33.00% | ~6,139 |
 | You're Really Something Else | 32.00% | ~5,953 |
@@ -32,9 +32,9 @@ Rating: 4.70 (Ranked 220)
 | Lover In Dark Alley | 21.00% | ~3,907 |
 | SALUTE | 21.00% | ~3,907 |
 | Let Me Be Your Toy Boy | 20.00% | ~3,721 |
-| Off We Sail Tonight | 15.00% | ~2,790 |
-| Can You Do This Or Not? | 14.00% | ~2,604 |
-| Love You Three Thousand | 13.00% | ~2,418 |
+| Off We Sail Tonight | 15.00% | ~2,791 |
+| Can You Do This Or Not? | 14.00% | ~2,605 |
+| Love You Three Thousand | 13.00% | ~2,419 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,232 |
 | The Flash | 11.00% | ~2,046 |
 | New Yoga Pose Unlocked | 10.00% | ~1,860 |
@@ -48,7 +48,7 @@ Rating: 4.70 (Ranked 220)
 | Tall; Grande; Venti | 2.00% | ~372 |
 | Limerence | 2.00% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,603 (Ranked 161)  
+Progressed: 18,604 (Ranked 161)  
 Completed: 324 (1.74%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,7 +148,7 @@ Completed: 324 (1.74%) (Ranked 145)
 | 2024-01-12 | 18,482 | 319 |
 | 2024-01-13 | 18,544 | 320 |
 | 2024-01-14 | 18,602 | 324 |
-| 2024-01-15 | 18,603 | 324 |
+| 2024-01-15 | 18,604 | 324 |
 ## Awards
 Max (Impact the Story): 38  (Ranked 493)  
 Sum: 38 (Ranked 531)  

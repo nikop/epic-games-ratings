@@ -2,13 +2,13 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 928,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 463,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-15T06:00:00+00:00",
     "PcReleaseDate": "2023-09-15T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -587,10 +587,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 116,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-01-15T01:53:49.9851371+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 116,
+  "NumberOfAwards": 117,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -610,7 +616,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Extremely Fun",
@@ -631,8 +637,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-01-14T04:01:52.7551888+00:00",
+  "LastChanged": "2024-01-15T01:53:49.9851369+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:01.532852+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:00:36.2025874+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:08:47.8661895+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:53:49.9851374+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:01:00.0040626+00:00"
 }

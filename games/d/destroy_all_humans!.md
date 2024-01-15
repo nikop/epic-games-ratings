@@ -1,27 +1,27 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 356)  
+Rating: 4.63 (Ranked 355)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~380 |
-| Kaijuiced | 71.00% | ~350 |
-| Lie Back and Think of Albion | 67.00% | ~330 |
+| Kaijuiced | 71.00% | ~351 |
+| Lie Back and Think of Albion | 67.00% | ~331 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~316 |
 | I Look Up As I Walk to Takoshima | 61.00% | ~301 |
-| Yettisoned | 59.00% | ~291 |
-| Perfect Probulator | 58.00% | ~286 |
-| Pimp My Raid | 57.00% | ~281 |
-| Lobster Blisque | 53.00% | ~261 |
-| Fly Me to the Moon Base | 50.00% | ~246 |
+| Yettisoned | 60.00% | ~296 |
+| Perfect Probulator | 58.00% | ~287 |
+| Pimp My Raid | 57.00% | ~282 |
+| Lobster Blisque | 52.00% | ~257 |
+| Fly Me to the Moon Base | 50.00% | ~247 |
 | Earthly Pleasures | 48.00% | ~237 |
-| Ducks in a Row, Fish in a Barrel | 47.00% | ~232 |
-| Bodied Sattva | 38.00% | ~187 |
-| Forbidden Donut | 37.00% | ~182 |
-| Freshly Squeezed | 37.00% | ~182 |
-| Upgreatest | 36.00% | ~177 |
+| Ducks in a Row, Fish in a Barrel | 48.00% | ~237 |
+| Forbidden Donut | 37.00% | ~183 |
+| Bodied Sattva | 37.00% | ~183 |
+| Freshly Squeezed | 36.00% | ~178 |
+| Upgreatest | 36.00% | ~178 |
 | Furon Fashion | 30.00% | ~148 |
 | Deincarnated | 29.00% | ~143 |
 | Rock of the Bay | 28.00% | ~138 |
@@ -35,10 +35,10 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 16.00% | ~79 |
 | Albion Bridge Is for Falling Down | 15.00% | ~74 |
 | Dusted | 14.00% | ~69 |
+| Higher Than the Futen Zoku | 12.00% | ~59 |
 | Scuttled | 11.00% | ~54 |
-| Higher Than the Futen Zoku | 11.00% | ~54 |
 | PK Slam Dunk | 10.00% | ~49 |
-| Arty Facts | 9.00% | ~44 |
+| Arty Facts | 10.00% | ~49 |
 | Cult Following | 6.00% | ~30 |
 | To Russia With Love | 6.00% | ~30 |
 | Path of the Furon | 6.00% | ~30 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~10 |
 | Against All Odds | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 493 (Ranked 359)  
-Completed: 5 (1.01%) (Ranked 179)  
+Progressed: 494 (Ranked 359)  
+Completed: 6 (1.21%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 5 (1.01%) (Ranked 179)
 | 2024-01-12 | 461 | 5 |
 | 2024-01-13 | 480 | 5 |
 | 2024-01-14 | 493 | 5 |
+| 2024-01-15 | 494 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

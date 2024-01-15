@@ -3,9 +3,9 @@
   "Name": "The Watch",
   "ProductSlug": "thewatch-2c8a8e",
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T13:02:36.4049197+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:02:50.2152651+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:04:07.9814107+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:55:01.0235233+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:56:33.5829594+00:00"
 }

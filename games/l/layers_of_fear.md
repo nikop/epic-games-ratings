@@ -17,11 +17,11 @@
 | Finished it | 27.00% | ~88 |
 | Whispers long forgotten | 18.00% | ~59 |
 | Sound Bite | 14.00% | ~46 |
+| The art of movement | 14.00% | ~46 |
+| Another perspective | 13.00% | ~43 |
 | A Slice of Life | 13.00% | ~43 |
 | Debut | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
-| The art of movement | 13.00% | ~43 |
-| Another perspective | 12.00% | ~39 |
 | First steps | 10.00% | ~33 |
 | Playtime | 10.00% | ~33 |
 | The tragedy unfolds | 10.00% | ~33 |
@@ -36,8 +36,8 @@
 | Something to think about | 5.00% | ~16 |
 | I remember It Like Was Yesterday | 5.00% | ~16 |
 | We Are Not Alone | 4.00% | ~13 |
+| Dark correspondence | 4.00% | ~13 |
 | The Perfect Storm | 4.00% | ~13 |
-| Dark correspondence | 3.00% | ~10 |
 | Immortalized in my heart | 3.00% | ~10 |
 | Full Scoop | 3.00% | ~10 |
 | Se7en Seas | 3.00% | ~10 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 327 (Ranked 393)  
-Completed: 0 (0.00%) (Ranked 400)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

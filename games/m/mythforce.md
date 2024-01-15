@@ -12,14 +12,14 @@ Number of Ratings: 285  (23.09.2022)
 | Debuff Dogpile | 25.00% | ~1,586 |
 | That'll Leave a Mark | 25.00% | ~1,586 |
 | Mushroom Madness! | 23.00% | ~1,459 |
-| First Strike | 22.00% | ~1,395 |
+| First Strike | 22.00% | ~1,396 |
 | Spending Spree | 19.00% | ~1,205 |
 | Horder Better Faster Stronger | 18.00% | ~1,142 |
 | Ten Steps from the Grave | 16.00% | ~1,015 |
-| Everything Must Go! | 15.00% | ~951 |
-| Next Time on MythForce... | 15.00% | ~951 |
+| Everything Must Go! | 15.00% | ~952 |
+| Next Time on MythForce... | 15.00% | ~952 |
 | Cold-Blooded Critters | 11.00% | ~698 |
-| Death Becomes You | 8.00% | ~507 |
+| Death Becomes You | 8.00% | ~508 |
 | On this Episode! | 7.00% | ~444 |
 | Flawless Victory | 6.00% | ~381 |
 | The Harder They Fall | 6.00% | ~381 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.50% | ~32 |
 | Deadalus and Loving It | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,343 (Ranked 201)  
+Progressed: 6,344 (Ranked 201)  
 Completed: 5 (0.08%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 5 (0.08%) (Ranked 328)
 | 2024-01-12 | 6,293 | 5 |
 | 2024-01-13 | 6,322 | 5 |
 | 2024-01-14 | 6,343 | 5 |
+| 2024-01-15 | 6,344 | 5 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 501)  
 Sum: 297 (Ranked 382)  

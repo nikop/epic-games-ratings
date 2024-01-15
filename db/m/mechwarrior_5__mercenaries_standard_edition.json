@@ -4,11 +4,11 @@
   "ProductSlug": "mechwarrior-5",
   "Ranking_Rating": 399,
   "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 116,
+  "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 828,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 575,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6463,10 +6463,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 8298,
       "NumberOfAwardsMax": 1373
+    },
+    {
+      "Time": "2024-01-15T01:52:40.2404583+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8299,
+      "NumberOfAwardsMax": 1373
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8298,
+  "NumberOfAwards": 8299,
   "NumberOfAwardsMax": 1373,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6480,7 +6486,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1014
+      "Count": 1015
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6536,8 +6542,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2024-01-14T20:59:33.3876028+00:00",
+  "LastChanged": "2024-01-15T01:52:40.2404581+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:27.574876+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:59:44.9721859+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:03:33.0473357+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:52:40.240459+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:56:01.6953991+00:00"
 }

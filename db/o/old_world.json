@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2298,9 +2298,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16827,
+  "EOS_Progressed": 16833,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20048,6 +20048,11 @@
       "Time": "2024-01-15T00:10:42.9714599+00:00",
       "NumProgressed": 16827,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T02:03:27.6660487+00:00",
+      "NumProgressed": 16833,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20683,7 +20688,7 @@
       "Name": "Settler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -21369,9 +21374,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -21601,9 +21606,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -21665,9 +21670,9 @@
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 101
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -21689,9 +21694,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -21811,15 +21816,15 @@
       "Name": "Play a Single Player Game",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
       "SetID": "9201eeb",
       "Name": "Power to the People",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -21905,9 +21910,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -22922,21 +22927,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16827,
+      "Progressed": 16833,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16827,
+      "Progressed": 16833,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:10:42.9714595+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:03:27.6660485+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:00:06.5366089+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:10:42.9724388+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:53:10.6534403+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:03:27.6670666+00:00"
 }

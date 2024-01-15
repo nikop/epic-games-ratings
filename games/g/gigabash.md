@@ -5,21 +5,21 @@ Rating: 4.53 (Ranked 566)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,365 |
-| I've Had Enough! | 15.00% | ~18,446 |
-| Fists, Fury & a lot of Rage | 10.00% | ~12,297 |
-| Seasoned Fighter | 9.00% | ~11,068 |
-| All For One and One For All | 8.00% | ~9,838 |
-| Home Sweet Home? | 6.00% | ~7,378 |
-| A New Age | 5.00% | ~6,149 |
-| Oh Baby, A Triple | 3.00% | ~3,689 |
-| Master of Disguise | 3.00% | ~3,689 |
-| Symbiotic | 3.00% | ~3,689 |
-| Battle Hardened | 2.00% | ~2,459 |
-| Double Punch! | 2.00% | ~2,459 |
-| It's Mayhem! | 2.00% | ~2,459 |
-| Right back at'cha | 2.00% | ~2,459 |
-| Spectacular Finisher | 2.00% | ~2,459 |
+| All Grown Up! | 19.00% | ~23,371 |
+| I've Had Enough! | 15.00% | ~18,451 |
+| Fists, Fury & a lot of Rage | 10.00% | ~12,300 |
+| Seasoned Fighter | 9.00% | ~11,070 |
+| All For One and One For All | 8.00% | ~9,840 |
+| Home Sweet Home? | 6.00% | ~7,380 |
+| A New Age | 5.00% | ~6,150 |
+| Oh Baby, A Triple | 3.00% | ~3,690 |
+| Master of Disguise | 3.00% | ~3,690 |
+| Symbiotic | 3.00% | ~3,690 |
+| Battle Hardened | 2.00% | ~2,460 |
+| Double Punch! | 2.00% | ~2,460 |
+| It's Mayhem! | 2.00% | ~2,460 |
+| Right back at'cha | 2.00% | ~2,460 |
+| Spectacular Finisher | 2.00% | ~2,460 |
 | Cautious Veteran | 1.00% | ~1,230 |
 | Katamari | 1.00% | ~1,230 |
 | Martyrdom | 1.00% | ~1,230 |
@@ -41,8 +41,8 @@ Rating: 4.53 (Ranked 566)
 | What's Mine is Yours | 0.10% | ~123 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,974 (Ranked 94)  
-Completed: 0 (0.00%) (Ranked 400)  
+Progressed: 123,004 (Ranked 94)  
+Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 400)
 | 2024-01-12 | 121,767 | 0 |
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
-| 2024-01-15 | 122,974 | 0 |
+| 2024-01-15 | 123,004 | 0 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 443)  
 Sum: 56 (Ranked 505)  

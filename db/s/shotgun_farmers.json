@@ -3,9 +3,9 @@
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2074,9 +2074,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -2297,8 +2297,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:08:58.4628721+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:01:13.9822344+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.5124585+00:00",
-  "LastUpdate_Ratings": "2024-01-14T23:57:52.2137623+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:08:58.4629316+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:50:08.336591+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:01:13.9823035+00:00"
 }

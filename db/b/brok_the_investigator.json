@@ -3,9 +3,9 @@
   "Name": "BROK the InvestiGator",
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 570,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 401,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -362,9 +362,9 @@
       "ID": "INTRO",
       "SetID": "bb2dp",
       "Name": "Introduction completed",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LOCKERENDING",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:05:40.6181858+00:00",
+  "LastChanged_Achievements": "2024-01-15T01:58:34.3560713+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.4705583+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:00:34.7646828+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:05:40.6182065+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:53:48.101613+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:58:34.3560914+00:00"
 }

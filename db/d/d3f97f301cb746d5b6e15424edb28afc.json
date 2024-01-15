@@ -2,13 +2,13 @@
   "ID": "d3f97f301cb746d5b6e15424edb28afc",
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
-  "Ranking_Rating": 495,
+  "Ranking_Rating": 496,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5138,9 +5138,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 1504
+      "UsersEstimate": 1521
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -5338,9 +5338,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1333
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -5562,9 +5562,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 906
+      "UsersEstimate": 923
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -5643,8 +5643,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-15T00:04:19.1791181+00:00",
+  "LastChanged_Achievements": "2024-01-15T01:56:48.0122234+00:00",
   "LastUpdate_AppInfo": "2024-01-08T20:57:05.4325477+00:00",
-  "LastUpdate_Ratings": "2024-01-15T00:02:47.5239655+00:00",
-  "LastUpdate_Achievements": "2024-01-15T00:04:19.1792719+00:00"
+  "LastUpdate_Ratings": "2024-01-15T01:54:57.2933387+00:00",
+  "LastUpdate_Achievements": "2024-01-15T01:56:48.0123456+00:00"
 }
