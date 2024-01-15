@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1416,9 +1416,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33504,
+  "EOS_Progressed": 33506,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30531,6 +30531,11 @@
       "Time": "2024-01-15T15:10:10.3727966+00:00",
       "NumProgressed": 33504,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2024-01-15T16:10:29.4032727+00:00",
+      "NumProgressed": 33506,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 22,
@@ -30638,7 +30643,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3015
+      "UsersEstimate": 3016
     },
     {
       "ID": "1028",
@@ -30702,7 +30707,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4020
+      "UsersEstimate": 4021
     },
     {
       "ID": "1036",
@@ -30717,15 +30722,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33504,
+      "Progressed": 33506,
       "Completed": 87
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-14T15:59:31.8862303+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:10:10.3727962+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:10:29.4032724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:00:15.4680573+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:10:10.3729596+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:00:42.5005085+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:10:29.4034466+00:00"
 }

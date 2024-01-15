@@ -2,13 +2,13 @@
   "ID": "springbok",
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -492,9 +492,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 608,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2262,6 +2262,11 @@
       "Time": "2024-01-15T14:03:54.2191119+00:00",
       "NumProgressed": 606,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T16:04:43.2376243+00:00",
+      "NumProgressed": 608,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2298,15 +2303,15 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Collect_Artifact_Angel_50",
       "SetID": "7a5k76n",
       "Name": "Holy Keeper",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "Collect_Artifact_Demon_50",
@@ -2322,7 +2327,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2330,15 +2335,15 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2346,7 +2351,7 @@
       "Name": "Increased Vigor",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2354,7 +2359,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2362,15 +2367,15 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 213
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2386,15 +2391,15 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 225
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -2402,15 +2407,15 @@
       "Name": "Soul Reaper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Collect_PickUp_500",
       "SetID": "7a5k76n",
       "Name": "Cleanup Crew",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "Collect_Soulmulet",
@@ -2426,7 +2431,7 @@
       "Name": "Salvation",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2506,7 +2511,7 @@
       "Name": "Protector of Humanity",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -2544,9 +2549,9 @@
       "ID": "Keeper_Kill_Flame",
       "SetID": "7a5k76n",
       "Name": "Keeper of the Bonfire",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "Keeper_Kill_Force",
@@ -2568,9 +2573,9 @@
       "ID": "Keeper_Kill_Storm",
       "SetID": "7a5k76n",
       "Name": "Keeper of the Sky",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "Kill_Demon_Abraxis",
@@ -2578,15 +2583,15 @@
       "Name": "Demon Meddler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 207
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2594,7 +2599,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2610,7 +2615,7 @@
       "Name": "All That Glitters",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2618,7 +2623,7 @@
       "Name": "Everybody Wants to Rule the World",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -2626,7 +2631,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2642,7 +2647,7 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2650,7 +2655,7 @@
       "Name": "Egomaniac",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2658,15 +2663,15 @@
       "Name": "Throne Potato",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 152
     },
     {
       "ID": "Level_Up_100",
@@ -2682,7 +2687,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Save_Humans_10",
@@ -2704,9 +2709,9 @@
       "ID": "Save_Humans_20",
       "SetID": "7a5k76n",
       "Name": "Humanitarian",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "Save_Humans_5",
@@ -2714,7 +2719,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2730,7 +2735,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2738,7 +2743,7 @@
       "Name": "25 to Life",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2752,9 +2757,9 @@
       "ID": "Unlocked_49_Achievements",
       "SetID": "7a5k76n",
       "Name": "BFA",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "Upgrade_Armor_First",
@@ -2762,7 +2767,7 @@
       "Name": "Made of Sterner Stuff",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Upgrade_Weapon_First",
@@ -2770,30 +2775,30 @@
       "Name": "Just the start",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Upgrade_Weapon_Max",
       "SetID": "7a5k76n",
       "Name": "Take it to the Limit",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 608,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:04:05.023823+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:04:43.2376239+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:02:51.3618602+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:04:05.0239078+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:03:20.3046322+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:04:43.2376806+00:00"
 }

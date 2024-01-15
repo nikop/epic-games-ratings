@@ -1,39 +1,39 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 550)  
+Rating: 4.54 (Ranked 551)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~994,811 |
-| I Need a Bigger Garage | 63.00% | ~696,368 |
-| Pump my Ride | 47.00% | ~519,513 |
-| Ghostbuster | 34.00% | ~375,818 |
-| Call Roadside Assistance | 18.00% | ~198,962 |
-| That Was Close | 18.00% | ~198,962 |
-| Quickie | 11.00% | ~121,588 |
-| California Dreamer | 7.00% | ~77,374 |
-| Can't Touch This | 5.00% | ~55,267 |
+| The First of Many | 90.00% | ~994,826 |
+| I Need a Bigger Garage | 63.00% | ~696,378 |
+| Pump my Ride | 47.00% | ~519,520 |
+| Ghostbuster | 34.00% | ~375,823 |
+| Call Roadside Assistance | 18.00% | ~198,965 |
+| That Was Close | 18.00% | ~198,965 |
+| Quickie | 11.00% | ~121,590 |
+| California Dreamer | 7.00% | ~77,375 |
+| Can't Touch This | 5.00% | ~55,268 |
 | Carménère Taster | 4.00% | ~44,214 |
 | Comeback | 4.00% | ~44,214 |
-| Driver from Ipanema | 3.00% | ~33,160 |
-| Supersonic | 3.00% | ~33,160 |
-| Marathonist | 3.00% | ~33,160 |
-| Living Legend | 3.00% | ~33,160 |
+| Driver from Ipanema | 3.00% | ~33,161 |
+| Supersonic | 3.00% | ~33,161 |
+| Marathonist | 3.00% | ~33,161 |
+| Living Legend | 3.00% | ~33,161 |
 | God of Roads | 2.00% | ~22,107 |
 | Pathfinder | 2.00% | ~22,107 |
 | Go-Kart Champion | 2.00% | ~22,107 |
 | Round the Globe | 2.00% | ~22,107 |
 | Completionist | 2.00% | ~22,107 |
 | Harder, Better, Faster, Stronger | 2.00% | ~22,107 |
-| Crocodile Hunter | 1.00% | ~11,053 |
-| Old Master | 1.00% | ~11,053 |
-| The Iceman | 1.00% | ~11,053 |
-| Bollywood Star | 1.00% | ~11,053 |
-| Oil Tycoon | 1.00% | ~11,053 |
-| Golden Passport | 1.00% | ~11,053 |
-| Brave and Bold | 1.00% | ~11,053 |
+| Crocodile Hunter | 1.00% | ~11,054 |
+| Old Master | 1.00% | ~11,054 |
+| The Iceman | 1.00% | ~11,054 |
+| Bollywood Star | 1.00% | ~11,054 |
+| Oil Tycoon | 1.00% | ~11,054 |
+| Golden Passport | 1.00% | ~11,054 |
+| Brave and Bold | 1.00% | ~11,054 |
 | Volcano Surfer | 0.90% | ~9,948 |
 | Otaku | 0.90% | ~9,948 |
 | Survivor | 0.60% | ~6,632 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,211 |
 | Transporter | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,346 (Ranked 15)  
+Progressed: 1,105,362 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 535 (0.05%) (Ranked 341)
 | 2024-01-12 | 1,104,077 | 535 |
 | 2024-01-13 | 1,104,634 | 535 |
 | 2024-01-14 | 1,105,137 | 535 |
-| 2024-01-15 | 1,105,346 | 535 |
+| 2024-01-15 | 1,105,362 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 309)  
 Sum: 1,652 (Ranked 235)  

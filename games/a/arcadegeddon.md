@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.48 (Ranked 657)  
+Rating: 4.48 (Ranked 658)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -50,8 +50,8 @@ Number of Ratings: 801  (23.09.2022)
 | Treasure Hunting | 3.00% | ~312 |
 | Nexuwizard | 2.00% | ~208 |
 | Everybody Freeze | 1.00% | ~104 |
+| The Collector | 0.90% | ~94 |
 | Nature Is Lit | 0.80% | ~83 |
-| The Collector | 0.80% | ~83 |
 | I'm The Pluggernaut | 0.50% | ~52 |
 | Shield and Shred | 0.50% | ~52 |
 | Infinite Adventures! | 0.40% | ~42 |

@@ -1,41 +1,41 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 550)  
+Rating: 4.54 (Ranked 551)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,394 |
-| Hotel California | 9.00% | ~72,354 |
-| Break A Leg | 8.00% | ~64,315 |
-| Coup de Grâce | 8.00% | ~64,315 |
-| Git Gutte! | 7.00% | ~56,276 |
-| Hazardous Materials | 7.00% | ~56,276 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,276 |
-| Bookworm | 6.00% | ~48,236 |
-| Friends Like These | 6.00% | ~48,236 |
-| Apex Predator | 6.00% | ~48,236 |
-| Dr. Reed, I Presume? | 5.00% | ~40,197 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,197 |
-| But Doctor, I am Butcho | 5.00% | ~40,197 |
-| Stacking the Deck | 5.00% | ~40,197 |
-| This is My Weapon | 5.00% | ~40,197 |
-| Anger Management | 4.00% | ~32,157 |
-| Perks of the Job | 4.00% | ~32,157 |
-| Slayer Squad | 4.00% | ~32,157 |
-| Can't Handle the Truth | 4.00% | ~32,157 |
-| Like Riding a Bike | 4.00% | ~32,157 |
-| Zombologist | 4.00% | ~32,157 |
-| Ooh, Shiny! | 4.00% | ~32,157 |
-| A Patton Emerges | 4.00% | ~32,157 |
-| Our True Nature | 4.00% | ~32,157 |
-| Whatever It Takes | 4.00% | ~5,179 |
-| Pork Chopped | 4.00% | ~5,179 |
-| Making Your Mark | 3.00% | ~24,118 |
-| Humanity Distilled | 3.00% | ~24,118 |
-| I Am the Resurrection | 3.00% | ~24,118 |
-| Down with the Sickness | 3.00% | ~24,118 |
-| One of Us | 3.00% | ~3,884 |
+| Welcome To Hell-A | 10.00% | ~80,397 |
+| Hotel California | 9.00% | ~72,358 |
+| Break A Leg | 8.00% | ~64,318 |
+| Coup de Grâce | 8.00% | ~64,318 |
+| Git Gutte! | 7.00% | ~56,278 |
+| Hazardous Materials | 7.00% | ~56,278 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,278 |
+| Bookworm | 6.00% | ~48,238 |
+| Friends Like These | 6.00% | ~48,238 |
+| Apex Predator | 6.00% | ~48,238 |
+| Dr. Reed, I Presume? | 5.00% | ~40,199 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,199 |
+| But Doctor, I am Butcho | 5.00% | ~40,199 |
+| Stacking the Deck | 5.00% | ~40,199 |
+| This is My Weapon | 5.00% | ~40,199 |
+| Anger Management | 4.00% | ~32,159 |
+| Perks of the Job | 4.00% | ~32,159 |
+| Slayer Squad | 4.00% | ~32,159 |
+| Can't Handle the Truth | 4.00% | ~32,159 |
+| Like Riding a Bike | 4.00% | ~32,159 |
+| Zombologist | 4.00% | ~32,159 |
+| Ooh, Shiny! | 4.00% | ~32,159 |
+| A Patton Emerges | 4.00% | ~32,159 |
+| Our True Nature | 4.00% | ~32,159 |
+| Whatever It Takes | 4.00% | ~5,181 |
+| Pork Chopped | 4.00% | ~5,181 |
+| Making Your Mark | 3.00% | ~24,119 |
+| Humanity Distilled | 3.00% | ~24,119 |
+| I Am the Resurrection | 3.00% | ~24,119 |
+| Down with the Sickness | 3.00% | ~24,119 |
+| One of Us | 3.00% | ~3,886 |
 | Smorgasbord | 2.00% | ~16,079 |
 | Not Even My Final Form | 2.00% | ~16,079 |
 | Internet Famous | 2.00% | ~16,079 |
@@ -43,21 +43,21 @@ Rating: 4.54 (Ranked 550)
 | Max Headroom | 2.00% | ~16,079 |
 | Go, Bobcats! | 2.00% | ~16,079 |
 | Rising Star | 2.00% | ~16,079 |
-| Make it So | 1.00% | ~8,039 |
-| LA Influential | 1.00% | ~8,039 |
-| On Safari | 1.00% | ~8,039 |
-| Gore Horse | 1.00% | ~8,039 |
-| Variety is the Spice of Death | 1.00% | ~8,039 |
-| Sole Survivor | 0.90% | ~7,235 |
-| Sharpest Tool in the Box | 0.90% | ~7,235 |
+| Make it So | 1.00% | ~8,040 |
+| LA Influential | 1.00% | ~8,040 |
+| On Safari | 1.00% | ~8,040 |
+| Gore Horse | 1.00% | ~8,040 |
+| Variety is the Spice of Death | 1.00% | ~8,040 |
+| Sole Survivor | 0.90% | ~7,236 |
+| Sharpest Tool in the Box | 0.90% | ~7,236 |
 | Top That, Tisha! | 0.60% | ~777 |
 | Survival Skills | 0.50% | ~4,020 |
 | Donk! | 0.30% | ~2,412 |
-| Lawn and Order | 0.30% | ~388 |
+| Lawn and Order | 0.30% | ~389 |
 | Bucket List | 0.10% | ~804 |
-| Wilhelm | 0.10% | ~129 |
+| Wilhelm | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,936 (Ranked 23)  
+Progressed: 803,973 (Ranked 23)  
 Completed: 2,587 (0.32%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2,587 (0.32%) (Ranked 256)
 | 2024-01-12 | 801,737 | 2,574 |
 | 2024-01-13 | 802,693 | 2,581 |
 | 2024-01-14 | 803,623 | 2,587 |
-| 2024-01-15 | 803,936 | 2,587 |
+| 2024-01-15 | 803,973 | 2,587 |
 ## Awards
 Max (Great Boss Battles): 10,450  (Ranked 41)  
 Sum: 16,007 (Ranked 70)  

@@ -4,11 +4,11 @@
   "ProductSlug": "star-stable",
   "Ranking_Rating": 743,
   "Ranking_Popularity": 302,
-  "Ranking_PopularitySum": 245,
+  "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
     "PcReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -3197,10 +3197,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1565,
       "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2024-01-15T16:00:49.8975985+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1569,
+      "NumberOfAwardsMax": 202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1565,
+  "NumberOfAwards": 1569,
   "NumberOfAwardsMax": 202,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3208,7 +3214,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 146
+      "Count": 147
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3256,7 +3262,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 164
+      "Count": 167
     },
     {
       "Text": "This game has Easy Combat",
@@ -3288,8 +3294,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2024-01-15T13:05:51.7592219+00:00",
+  "LastChanged": "2024-01-15T16:00:49.8975983+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.9683287+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:00:22.243361+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:05:59.2500899+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:00:49.8975988+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:06:48.0244071+00:00"
 }

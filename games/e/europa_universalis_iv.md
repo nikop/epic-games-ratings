@@ -67,6 +67,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.10% | ~499 |
 | Baltic Crusader | 0.10% | ~499 |
 | These Banners need a Saga | 0.10% | ~499 |
+| Barbarossa | 0.10% | ~499 |
 | Basileus | 0.10% | ~499 |
 | Basque in Glory | 0.10% | ~499 |
 | Bengal Tiger | 0.10% | ~499 |
@@ -345,7 +346,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~499 |
 | The Zoro-Austrians | 0.10% | ~499 |
 | Around the World in 80 Years | 0.00% | ~0 |
-| Barbarossa | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,426 (Ranked 42)  
+Progressed: 499,457 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
-| 2024-01-15 | 499,426 | 1 |
+| 2024-01-15 | 499,457 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
 Sum: 64,715 (Ranked 24)  

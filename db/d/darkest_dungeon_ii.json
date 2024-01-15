@@ -10884,9 +10884,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132894,
+  "EOS_Progressed": 132899,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39984,6 +39984,11 @@
       "Time": "2024-01-15T15:10:15.6653571+00:00",
       "NumProgressed": 132894,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T16:10:35.1753345+00:00",
+      "NumProgressed": 132899,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40209,9 +40214,9 @@
       "ID": "combat_kill_leviathan",
       "SetID": "64l4lke",
       "Name": "Catch and Decease",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6645
+      "UsersEstimate": 7974
     },
     {
       "ID": "combat_kill_librarian",
@@ -40531,7 +40536,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "combat_kill_collector",
@@ -40539,7 +40544,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40626,21 +40631,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132894,
+      "Progressed": 132899,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7763,
+      "Progressed": 7768,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-15T13:58:21.9744509+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:10:15.6653567+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:10:35.175334+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:58:32.450283+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:10:15.6655321+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:58:45.7761725+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:10:35.175539+00:00"
 }

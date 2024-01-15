@@ -2,13 +2,13 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -16944,18 +16944,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 284367,
       "NumberOfAwardsMax": 65795
+    },
+    {
+      "Time": "2024-01-15T16:01:04.0269402+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 284402,
+      "NumberOfAwardsMax": 65820
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 284367,
-  "NumberOfAwardsMax": 65795,
+  "NumberOfAwards": 284402,
+  "NumberOfAwardsMax": 65820,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 65795
+      "Count": 65820
     },
     {
       "Text": "This game has Challenging Combat",
@@ -17003,7 +17009,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20634
+      "Count": 20644
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -17035,8 +17041,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-01-15T11:00:22.2754662+00:00",
+  "LastChanged": "2024-01-15T16:01:04.02694+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:13.0702732+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:00:34.2352895+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:04:37.2581332+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:01:04.0269408+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:05:18.5488953+00:00"
 }

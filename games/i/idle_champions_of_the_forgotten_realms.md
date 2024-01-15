@@ -9,17 +9,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 4.00% | ~10,162 |
 | Beast Intentions | 2.00% | ~5,081 |
 | The Cursed Farmer | 2.00% | ~5,081 |
-| The Ring of Regeneration | 1.00% | ~2,540 |
-| The Mad Wizard | 1.00% | ~2,540 |
+| The Ring of Regeneration | 1.00% | ~2,541 |
+| The Mad Wizard | 1.00% | ~2,541 |
 | Are Ya Chicken? | 0.90% | ~2,286 |
 | Were-verpowered | 0.80% | ~2,032 |
 | Friendly Imps | 0.80% | ~2,032 |
 | Welcome to Sigil | 0.80% | ~1,763 |
 | Seeking Allies | 0.70% | ~1,778 |
 | Mad Cow Disease | 0.70% | ~1,778 |
+| Pure Energy | 0.70% | ~1,778 |
 | Fast Food | 0.70% | ~1,542 |
 | A Persistent Buzzing | 0.60% | ~1,524 |
-| Pure Energy | 0.60% | ~1,524 |
 | Maddening | 0.50% | ~1,270 |
 | Terror in the Dark | 0.50% | ~1,270 |
 | Unearthed Evil | 0.50% | ~1,270 |
@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Low Initiative | 0.30% | ~762 |
 | March of the Undead | 0.30% | ~762 |
 | No Time To Rest | 0.30% | ~762 |
+| Invisible Shadows | 0.30% | ~762 |
 | The Dinner Party | 0.30% | ~762 |
 | Running of the Saurs | 0.30% | ~762 |
 | Waterdeep Detours | 0.30% | ~762 |
@@ -62,7 +63,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~508 |
 | Wisdom Check | 0.20% | ~508 |
 | The Mists of Ravenloft | 0.20% | ~508 |
-| Invisible Shadows | 0.20% | ~508 |
 | Family Entanglements | 0.20% | ~508 |
 | The Botched Kidnapping | 0.20% | ~508 |
 | Tower on the Lake | 0.20% | ~508 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,048 (Ranked 70)  
+Progressed: 254,052 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -823,7 +823,7 @@ Completed: 2,617 (1.03%) (Ranked 177)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 254,048 | 2,617 |
+| 2024-01-15 | 254,052 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
 Sum: 33,501 (Ranked 41)  

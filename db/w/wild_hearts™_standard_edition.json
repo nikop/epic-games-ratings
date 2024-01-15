@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1370,
+  "EOS_Progressed": 1371,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -4473,6 +4473,11 @@
       "Time": "2024-01-15T15:09:57.9602188+00:00",
       "NumProgressed": 1370,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T16:10:15.8069229+00:00",
+      "NumProgressed": 1371,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4485,7 +4490,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "achievement_10",
@@ -4509,7 +4514,7 @@
       "Name": "Canyon of Karakuri",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_13",
@@ -4549,7 +4554,7 @@
       "Name": "Master of the Skies",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_18",
@@ -4557,7 +4562,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "achievement_19",
@@ -4571,9 +4576,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 686
     },
     {
       "ID": "achievement_20",
@@ -4613,7 +4618,7 @@
       "Name": "Single Minded",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "achievement_25",
@@ -4661,7 +4666,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "achievement_30",
@@ -4725,7 +4730,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "achievement_38",
@@ -4749,7 +4754,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_40",
@@ -4805,7 +4810,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "achievement_47",
@@ -4837,7 +4842,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "achievement_7",
@@ -4868,13 +4873,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1370,
+      "Progressed": 1371,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:09:57.9602184+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:10:15.8069222+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:59:48.2650566+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:09:57.9602783+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:00:10.6702493+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:10:15.8069865+00:00"
 }

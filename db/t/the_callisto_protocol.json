@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2249,9 +2249,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22406,
+  "EOS_Progressed": 22408,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13989,6 +13989,11 @@
       "Time": "2024-01-15T14:09:42.0818104+00:00",
       "NumProgressed": 22406,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T16:10:21.3997804+00:00",
+      "NumProgressed": 22408,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14064,7 +14069,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14104,7 +14109,7 @@
       "Name": "Get a Grip",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14128,7 +14133,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "KILL_ROBOT",
@@ -14168,7 +14173,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14176,7 +14181,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5153
+      "UsersEstimate": 5154
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14375,13 +14380,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22406,
+      "Progressed": 22408,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10332,
+      "Progressed": 10334,
       "Completed": 29
     }
   ],
@@ -14389,8 +14394,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-15T11:03:39.3194832+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:10:03.0443172+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:10:21.3997795+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:03:30.0718223+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:10:03.0443942+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:04:02.5389673+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:10:21.3998812+00:00"
 }

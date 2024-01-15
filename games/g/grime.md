@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,733 |
-| Imprint | 4.00% | ~6,733 |
+| Taste | 4.00% | ~6,734 |
+| Imprint | 4.00% | ~6,734 |
 | The Hunt | 3.00% | ~5,050 |
 | Ravenous | 3.00% | ~5,050 |
 | Weeper | 2.00% | ~3,367 |
@@ -22,19 +22,19 @@ Number of Ratings: 46  (23.09.2022)
 | Feast | 0.80% | ~1,347 |
 | Watcher | 0.70% | ~1,178 |
 | Shapely | 0.60% | ~1,010 |
-| Glare | 0.60% | ~1,007 |
+| Glare | 0.60% | ~1,008 |
 | Predator | 0.60% | ~1,010 |
 | Assimilation | 0.50% | ~842 |
 | Host | 0.50% | ~840 |
 | Celebration | 0.50% | ~842 |
 | Hunt Down | 0.40% | ~673 |
 | Artisan | 0.40% | ~673 |
+| Hush | 0.40% | ~673 |
 | Inevitable | 0.40% | ~673 |
 | All-Seeing | 0.40% | ~673 |
 | Breathsmith | 0.40% | ~673 |
 | Dream | 0.40% | ~672 |
 | Breath | 0.30% | ~505 |
-| Hush | 0.30% | ~505 |
 | Unwrap the Gift | 0.30% | ~505 |
 | Passage | 0.30% | ~505 |
 | Bloodhunter | 0.20% | ~337 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,329 (Ranked 85)  
+Progressed: 168,340 (Ranked 85)  
 Completed: 459 (0.27%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 459 (0.27%) (Ranked 265)
 | 2024-01-12 | 167,856 | 456 |
 | 2024-01-13 | 168,053 | 457 |
 | 2024-01-14 | 168,234 | 458 |
-| 2024-01-15 | 168,329 | 459 |
+| 2024-01-15 | 168,340 | 459 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 431)  
 Sum: 461 (Ranked 343)  

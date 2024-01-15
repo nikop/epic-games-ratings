@@ -6,13 +6,14 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,087 |
+| Malpractice Assurance | 14.00% | ~1,088 |
 | Lost and Found | 9.00% | ~699 |
 | Autodidact | 8.00% | ~10,632 |
 | This Belongs in a Museum | 7.00% | ~9,303 |
-| This guy... again? | 7.00% | ~543 |
+| This guy... again? | 7.00% | ~544 |
 | Serenity Now! | 6.00% | ~7,974 |
 | Creep and Sleep | 6.00% | ~7,974 |
+| Catch and Decease | 6.00% | ~7,974 |
 | Overdue Notice | 6.00% | ~7,974 |
 | Escape from the Black Hole | 6.00% | ~7,974 |
 | Ploughshares to Swords | 6.00% | ~466 |
@@ -21,7 +22,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 5.00% | ~6,645 |
 | Not Today! | 5.00% | ~6,645 |
 | Meat and Greet | 5.00% | ~6,645 |
-| Catch and Decease | 5.00% | ~6,645 |
 | It Happens | 5.00% | ~6,645 |
 | Rush Hour | 5.00% | ~6,645 |
 | Merry Time | 5.00% | ~6,645 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,894 (Ranked 92)  
+Progressed: 132,899 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,894 | 4 |
+| 2024-01-15 | 132,899 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,658 (Ranked 58)  

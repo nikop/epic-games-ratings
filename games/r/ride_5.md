@@ -50,10 +50,10 @@ Rating: 4.59 (Ranked 453)
 | Endless | 0.10% | ~4 |
 | Full Power | 0.10% | ~4 |
 | At the Top | 0.10% | ~4 |
+| Know Your Enemy | 0.10% | ~4 |
+| Who's Next?! | 0.10% | ~4 |
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
-| Know Your Enemy | 0.00% | ~0 |
-| Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,606 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 401)  

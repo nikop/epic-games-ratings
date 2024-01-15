@@ -1,16 +1,16 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.49 (Ranked 640)  
+Rating: 4.49 (Ranked 641)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~98,147 |
-| NATURAL BORN WINNER | 33.00% | ~78,996 |
-| CALLING HOUSTON | 28.00% | ~67,027 |
-| SNEAKY SNEAKY | 22.00% | ~52,664 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~52,664 |
+| VANGUARD | 41.00% | ~98,148 |
+| NATURAL BORN WINNER | 33.00% | ~78,997 |
+| CALLING HOUSTON | 28.00% | ~67,028 |
+| SNEAKY SNEAKY | 22.00% | ~52,665 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~52,665 |
 | GT9STRADALE | 20.00% | ~47,877 |
 | CHALLENGER | 11.00% | ~26,332 |
 | ON A ROLL | 10.00% | ~23,938 |
@@ -21,7 +21,7 @@ Number of Ratings: 274  (23.09.2022)
 | QAREEN | 5.00% | ~11,969 |
 | TAKATORA | 5.00% | ~11,969 |
 | SHOWOFF | 4.00% | ~9,575 |
-| GILA | 3.00% | ~7,181 |
+| GILA | 3.00% | ~7,182 |
 | PRO | 2.00% | ~4,788 |
 | RESPWND | 2.00% | ~4,788 |
 | SHINY SHINY GOLD | 2.00% | ~4,788 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~479 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,383 (Ranked 75)  
+Progressed: 239,385 (Ranked 75)  
 Completed: 49 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 49 (0.02%) (Ranked 366)
 | 2024-01-12 | 239,215 | 49 |
 | 2024-01-13 | 239,282 | 49 |
 | 2024-01-14 | 239,350 | 49 |
-| 2024-01-15 | 239,383 | 49 |
+| 2024-01-15 | 239,385 | 49 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

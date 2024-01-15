@@ -7,18 +7,18 @@ Rating: 4.63 (Ranked 355)
 | ---- | ---------- | ----- |
 | Secret Technique | 18.00% | ~1,305 |
 | Realm Estate | 16.00% | ~1,160 |
-| A Wonderful Discovery | 15.00% | ~1,087 |
-| Walls Cannot Stop Us | 15.00% | ~1,087 |
+| A Wonderful Discovery | 15.00% | ~1,088 |
+| Walls Cannot Stop Us | 15.00% | ~1,088 |
 | From Friends to Family | 13.00% | ~942 |
-| Bone Peddler | 11.00% | ~797 |
+| Bone Peddler | 11.00% | ~798 |
 | Magical Synergy | 10.00% | ~725 |
 | Full Ascension | 9.00% | ~652 |
 | There Can Only Be One! | 8.00% | ~580 |
 | Stronger Together | 8.00% | ~580 |
 | Seat of Power | 8.00% | ~580 |
-| Valley of Wonders | 7.00% | ~507 |
-| In a Liege of Your Own | 7.00% | ~507 |
-| Intimidation Tactics | 7.00% | ~507 |
+| Valley of Wonders | 7.00% | ~508 |
+| In a Liege of Your Own | 7.00% | ~508 |
+| Intimidation Tactics | 7.00% | ~508 |
 | My Final Form | 6.00% | ~435 |
 | But this one is mine | 6.00% | ~435 |
 | Return of the Wizard King | 5.00% | ~362 |
@@ -28,11 +28,11 @@ Rating: 4.63 (Ranked 355)
 | Preparation Is Everything | 4.00% | ~290 |
 | Fiery Friend | 4.00% | ~290 |
 | Impenetrable Fortress | 4.00% | ~290 |
-| Crimson Caldera | 3.00% | ~217 |
-| Here be Dragons | 3.00% | ~217 |
-| Tipping the Scales | 3.00% | ~217 |
-| Mighty Hoard | 3.00% | ~217 |
-| Freed Lands of Manuhari | 3.00% | ~217 |
+| Crimson Caldera | 3.00% | ~218 |
+| Here be Dragons | 3.00% | ~218 |
+| Tipping the Scales | 3.00% | ~218 |
+| Mighty Hoard | 3.00% | ~218 |
+| Freed Lands of Manuhari | 3.00% | ~218 |
 | I've Got Everything I Need Right Here | 2.00% | ~145 |
 | God Emperor | 2.00% | ~145 |
 | Lord of Chaos | 2.00% | ~145 |
@@ -55,8 +55,8 @@ Rating: 4.63 (Ranked 355)
 | Prometheus Avenged | 1.00% | ~72 |
 | Seal the Deal | 1.00% | ~72 |
 | A Conqueror's Cohort | 1.00% | ~72 |
-| Snap Out of It! | 0.60% | ~43 |
-| The Magic That Empowers Me! | 0.60% | ~43 |
+| Snap Out of It! | 0.60% | ~44 |
+| The Magic That Empowers Me! | 0.60% | ~44 |
 | Jack of All Tomes | 0.50% | ~36 |
 | A Very Special Ring | 0.40% | ~29 |
 | Returning Circle | 0.20% | ~14 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,248 (Ranked 197)  
+Progressed: 7,250 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
 | 2024-01-14 | 7,246 | 8 |
-| 2024-01-15 | 7,248 | 8 |
+| 2024-01-15 | 7,250 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 484)  
 Sum: 238 (Ranked 407)  

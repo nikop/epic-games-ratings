@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1117,9 +1117,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 20852,
+  "EOS_Progressed": 20860,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17397,6 +17397,11 @@
       "Time": "2024-01-15T15:10:04.9298264+00:00",
       "NumProgressed": 20852,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-15T16:10:23.4601881+00:00",
+      "NumProgressed": 20860,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17409,7 +17414,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "a_10",
@@ -17457,7 +17462,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9175
+      "UsersEstimate": 9178
     },
     {
       "ID": "a_19",
@@ -17465,7 +17470,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "a_2",
@@ -17481,7 +17486,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "a_21",
@@ -17489,7 +17494,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "a_22",
@@ -17505,7 +17510,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "a_25",
@@ -17656,7 +17661,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 20852,
+      "Progressed": 20860,
       "Completed": 13
     }
   ],
@@ -17664,8 +17669,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-06T23:58:14.6842319+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:10:04.9298259+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:10:23.4601875+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:59:10.3354143+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:10:04.9299344+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:59:28.1103681+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:10:23.460311+00:00"
 }

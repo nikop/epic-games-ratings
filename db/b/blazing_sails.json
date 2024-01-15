@@ -2,13 +2,13 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1065,
-  "Ranking_Popularity": 207,
+  "Ranking_Rating": 1066,
+  "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -3135,11 +3135,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 3881,
       "NumberOfAwardsMax": 621
+    },
+    {
+      "Time": "2024-01-15T15:58:41.1630526+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3889,
+      "NumberOfAwardsMax": 626
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3881,
-  "NumberOfAwardsMax": 621,
+  "NumberOfAwards": 3889,
+  "NumberOfAwardsMax": 626,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3158,7 +3164,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 511
+      "Count": 514
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3188,7 +3194,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 621
+      "Count": 626
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3215,8 +3221,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2024-01-15T09:58:18.7459486+00:00",
+  "LastChanged": "2024-01-15T15:58:41.1630523+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:36.4129786+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:58:28.2989632+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:09:32.0174289+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:58:41.163053+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:09:48.089407+00:00"
 }

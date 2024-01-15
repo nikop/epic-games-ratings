@@ -33,7 +33,7 @@ Rating: 4.73 (Ranked 182)
 | Dungeonlord Gorgu | 46.00% | ~354 |
 | All’s Well That Ends Evil | 43.00% | ~331 |
 | Mana Cannon | 42.00% | ~323 |
-| The Duel | 40.00% | ~308 |
+| The Duel | 41.00% | ~315 |
 | If Looks Could Kill | 38.00% | ~292 |
 | Unstoppable Horde | 37.00% | ~285 |
 | Master of the Undead | 37.00% | ~285 |

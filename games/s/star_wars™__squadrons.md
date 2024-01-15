@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,373 |
-| Safety in the Storm | 23.00% | ~9,532 |
-| A Better Idea | 23.00% | ~9,532 |
-| Begin the Ceremony | 19.00% | ~7,875 |
-| Mission Accomplished | 18.00% | ~7,460 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,217 |
-| A Starfighter of Your Own | 13.00% | ~5,388 |
-| Asset Secured | 12.00% | ~4,973 |
-| Unkillable | 7.00% | ~2,901 |
-| Together, Vanguard | 7.00% | ~2,901 |
+| Fracture at Fostar Haven | 95.00% | ~39,384 |
+| Safety in the Storm | 23.00% | ~9,535 |
+| A Better Idea | 23.00% | ~9,535 |
+| Begin the Ceremony | 19.00% | ~7,877 |
+| Mission Accomplished | 18.00% | ~7,462 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,219 |
+| A Starfighter of Your Own | 13.00% | ~5,389 |
+| Asset Secured | 12.00% | ~4,975 |
+| Unkillable | 7.00% | ~2,902 |
+| Together, Vanguard | 7.00% | ~2,902 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~2,487 |
-| Sound Strategy | 5.00% | ~2,072 |
-| Stomped | 5.00% | ~2,072 |
+| Sound Strategy | 5.00% | ~2,073 |
+| Stomped | 5.00% | ~2,073 |
 | Fearless | 4.00% | ~1,658 |
 | Back From the Brink | 4.00% | ~1,658 |
 | Flames Over Mon Cala | 4.00% | ~1,658 |
 | A Promising Career | 4.00% | ~1,658 |
-| Great Shot, Kid | 3.00% | ~1,243 |
-| Stronger Together | 3.00% | ~1,243 |
-| Temporary Guardian | 3.00% | ~1,243 |
-| Baited | 3.00% | ~1,243 |
-| Punch It | 3.00% | ~1,243 |
+| Great Shot, Kid | 3.00% | ~1,244 |
+| Stronger Together | 3.00% | ~1,244 |
+| Temporary Guardian | 3.00% | ~1,244 |
+| Baited | 3.00% | ~1,244 |
+| Punch It | 3.00% | ~1,244 |
 | Stun 'Em | 2.00% | ~829 |
 | Squadron Hunter | 2.00% | ~829 |
 | Combat Pilot | 2.00% | ~829 |
 | Dressed for the Job You Want | 2.00% | ~829 |
-| I Have You Now | 1.00% | ~414 |
+| I Have You Now | 1.00% | ~415 |
 | Against the Current | 0.80% | ~332 |
 | Denied | 0.70% | ~290 |
 | Found Your Place | 0.60% | ~249 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~41 |
 | Ultimate Weapon | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,445 (Ranked 135)  
+Progressed: 41,457 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 3 (0.01%) (Ranked 376)
 | 2024-01-12 | 40,533 | 3 |
 | 2024-01-13 | 40,936 | 3 |
 | 2024-01-14 | 41,296 | 3 |
-| 2024-01-15 | 41,445 | 3 |
+| 2024-01-15 | 41,457 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

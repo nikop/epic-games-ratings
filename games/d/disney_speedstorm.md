@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 743)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,807 |
-| IT MAKES BOOM! | 9.00% | ~35,866 |
-| EXTRA BOOST | 6.00% | ~23,911 |
-| PROTECTED | 5.00% | ~19,926 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,941 |
-| PRO | 4.00% | ~15,941 |
-| AGGRESSIVE RACER | 3.00% | ~11,955 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,970 |
-| TRAINING HARD | 2.00% | ~7,970 |
-| BE OUR GUEST | 2.00% | ~7,970 |
-| ACE SPEEDSTER | 2.00% | ~7,970 |
-| A TIGER'S FEAR | 2.00% | ~7,970 |
+| ROOKIE | 13.00% | ~51,811 |
+| IT MAKES BOOM! | 9.00% | ~35,869 |
+| EXTRA BOOST | 6.00% | ~23,913 |
+| PROTECTED | 5.00% | ~19,927 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,942 |
+| PRO | 4.00% | ~15,942 |
+| AGGRESSIVE RACER | 3.00% | ~11,956 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,971 |
+| TRAINING HARD | 2.00% | ~7,971 |
+| BE OUR GUEST | 2.00% | ~7,971 |
+| ACE SPEEDSTER | 2.00% | ~7,971 |
+| A TIGER'S FEAR | 2.00% | ~7,971 |
 | RELEASE THE KRAKEN | 1.00% | ~3,985 |
 | ACE BRAWLER | 1.00% | ~3,985 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,985 |
@@ -30,7 +30,7 @@ Rating: 4.42 (Ranked 743)
 | ACE TRICKSTER | 0.70% | ~2,790 |
 | PERFECTLY POISED | 0.60% | ~2,391 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398,515 (Ranked 51)  
+Progressed: 398,546 (Ranked 51)  
 Completed: 1,612 (0.40%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,17 +296,17 @@ Completed: 1,612 (0.40%) (Ranked 241)
 | 2024-01-12 | 395,787 | 1,582 |
 | 2024-01-13 | 396,918 | 1,599 |
 | 2024-01-14 | 398,054 | 1,606 |
-| 2024-01-15 | 398,515 | 1,612 |
+| 2024-01-15 | 398,546 | 1,612 |
 ## Awards
 Max (Great for Beginners): 183  (Ranked 311)  
-Sum: 1,202 (Ranked 264)  
-Diff (max vs sum): 47  
+Sum: 1,204 (Ranked 263)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 183 |
 | This game is Great for Quick Sessions | 167 |
 | This game has Diverse Characters | 132 |
-| This game has a Competitive Community | 104 |
+| This game has a Competitive Community | 106 |
 | This game has Playful Visuals | 100 |
 | This game has Amazing Characters | 90 |
 | This game is Highly Recommended | 90 |
@@ -424,4 +424,4 @@ Diff (max vs sum): 47
 | 2024-01-12 | 4.42 | 179 | 1,187 |
 | 2024-01-13 | 4.42 | 181 | 1,195 |
 | 2024-01-14 | 4.42 | 183 | 1,201 |
-| 2024-01-15 | 4.42 | 183 | 1,202 |
+| 2024-01-15 | 4.42 | 183 | 1,204 |

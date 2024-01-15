@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -1589,9 +1589,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 255
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1821,9 +1821,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 262
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -2116,8 +2116,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:05:48.3571808+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:06:35.3573079+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:59:18.5300914+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:05:48.357264+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:59:36.4518873+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:06:35.3573825+00:00"
 }

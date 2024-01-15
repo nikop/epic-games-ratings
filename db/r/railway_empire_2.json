@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -335,9 +335,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2737,
+  "EOS_Progressed": 2738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8080,6 +8080,11 @@
       "Time": "2024-01-14T22:05:40.3461022+00:00",
       "NumProgressed": 2737,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T16:06:50.6210119+00:00",
+      "NumProgressed": 2738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -8131,7 +8136,7 @@
       "Name": "A new Hope",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "A06",
@@ -8163,7 +8168,7 @@
       "Name": "Engineer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "A10",
@@ -8171,7 +8176,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "A11",
@@ -8187,7 +8192,7 @@
       "Name": "Departure",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2054
     },
     {
       "ID": "A13",
@@ -8203,15 +8208,15 @@
       "Name": "A new Journey",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 931
+      "UsersEstimate": 904
     },
     {
       "ID": "A16",
@@ -8219,7 +8224,7 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "A17",
@@ -8227,7 +8232,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "A18",
@@ -8243,7 +8248,7 @@
       "Name": "Tycoon",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "A20",
@@ -8251,7 +8256,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "A21",
@@ -8283,7 +8288,7 @@
       "Name": "Access granted",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "A25",
@@ -8395,7 +8400,7 @@
       "Name": "Poor Devil",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "A39",
@@ -8411,7 +8416,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "A41",
@@ -8435,7 +8440,7 @@
       "Name": "Mole",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "A44",
@@ -8459,7 +8464,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "A47",
@@ -8467,7 +8472,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "A48",
@@ -8491,7 +8496,7 @@
       "Name": "Accurate",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "A51",
@@ -8507,7 +8512,7 @@
       "Name": "Socializer",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "A53",
@@ -8530,7 +8535,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2737,
+      "Progressed": 2738,
       "Completed": 0
     }
   ],
@@ -8538,8 +8543,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-14T14:57:36.3985254+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:06:01.6621041+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:06:50.6210112+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:58:20.2687513+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:06:01.6621948+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:58:32.5920898+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:06:50.6210883+00:00"
 }

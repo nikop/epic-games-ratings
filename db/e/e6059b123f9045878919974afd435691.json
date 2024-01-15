@@ -2,10 +2,10 @@
   "ID": "e6059b123f9045878919974afd435691",
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
-  "Ranking_EOS_Progress": 272,
+  "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1466,
+  "EOS_Progressed": 1467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3894,6 +3894,11 @@
       "Time": "2024-01-14T19:10:07.6510322+00:00",
       "NumProgressed": 1466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T16:10:50.2598206+00:00",
+      "NumProgressed": 1467,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3913,7 +3918,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3943,9 +3948,9 @@
       "ID": "ATK_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Beware of the Goat",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 660
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4167,9 +4172,9 @@
       "ID": "FREE_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Fly Free",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -4185,7 +4190,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4193,7 +4198,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4281,7 +4286,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4353,7 +4358,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4432,14 +4437,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1466,
+      "Progressed": 1467,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:10:29.7662043+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:10:50.2598201+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:58:55.182621+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:10:29.7662773+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:59:11.479556+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:10:50.2598935+00:00"
 }

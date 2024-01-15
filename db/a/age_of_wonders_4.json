@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7248,
+  "EOS_Progressed": 7250,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11252,6 +11252,11 @@
       "Time": "2024-01-15T04:06:35.3006822+00:00",
       "NumProgressed": 7248,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T16:06:12.3710023+00:00",
+      "NumProgressed": 7250,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11263,7 +11268,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "10",
@@ -11271,7 +11276,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "11",
@@ -11295,7 +11300,7 @@
       "Name": "The Magic That Empowers Me!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "14",
@@ -11383,7 +11388,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "24",
@@ -11399,7 +11404,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "26",
@@ -11407,7 +11412,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "27",
@@ -11439,7 +11444,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "30",
@@ -11479,7 +11484,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "35",
@@ -11535,7 +11540,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "41",
@@ -11615,7 +11620,7 @@
       "Name": "Here be Dragons",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "46",
@@ -11623,7 +11628,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "47",
@@ -11647,7 +11652,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "50",
@@ -11663,7 +11668,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "52",
@@ -11742,13 +11747,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7248,
+      "Progressed": 7250,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7248,
+      "Progressed": 7250,
       "Completed": 8
     }
   ],
@@ -11756,8 +11761,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:05:26.821031+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:06:12.371002+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:00:40.2697878+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:05:26.8211309+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:01:10.6965825+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:06:12.3711266+00:00"
 }

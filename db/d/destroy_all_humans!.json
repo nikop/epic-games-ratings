@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -2265,9 +2265,9 @@
       "ID": "ACH_INVADE_SANTAMODESTA",
       "SetID": "cefn62b",
       "Name": "Upgreatest",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -2353,8 +2353,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-15T15:03:43.1383538+00:00",
+  "LastChanged_Achievements": "2024-01-15T16:04:19.5538647+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:59:50.3467853+00:00",
-  "LastUpdate_Achievements": "2024-01-15T15:03:43.1383895+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:00:13.0063215+00:00",
+  "LastUpdate_Achievements": "2024-01-15T16:04:19.5539116+00:00"
 }

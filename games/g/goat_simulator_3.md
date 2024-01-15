@@ -5,38 +5,38 @@ Rating: 4.83 (Ranked 58)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~243,443 |
-| Private Club | 73.00% | ~195,290 |
-| Rogue Guild | 64.00% | ~171,213 |
-| I Watched the Intro | 57.00% | ~152,486 |
-| Covert Consortium | 54.00% | ~144,461 |
-| Goat Queen | 52.00% | ~139,110 |
-| Reach the Stratosphere | 50.00% | ~133,760 |
-| Synchronization Complete | 47.00% | ~125,734 |
-| Secret Society | 44.00% | ~117,709 |
-| Shadow Syndicate | 37.00% | ~98,982 |
-| What a Waste of Money | 33.00% | ~88,282 |
-| New Goat Order | 30.00% | ~80,256 |
-| Don't touch the servers | 28.00% | ~74,906 |
-| Real Buoy | 27.00% | ~72,230 |
-| San Angora: Become Human | 26.00% | ~69,555 |
-| Raider of the Lost Parking Garage | 26.00% | ~69,555 |
-| Welcome to Earth | 25.00% | ~66,880 |
-| Egg Simulator | 19.00% | ~50,829 |
-| Into the Matrix | 19.00% | ~50,829 |
-| Where is It? | 17.00% | ~45,478 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~40,128 |
-| 401(K.O.) | 15.00% | ~40,128 |
-| Black Market | 14.00% | ~37,453 |
-| Car Cave | 12.00% | ~32,102 |
+| Forgotten Sorority | 91.00% | ~243,450 |
+| Private Club | 73.00% | ~195,295 |
+| Rogue Guild | 64.00% | ~171,218 |
+| I Watched the Intro | 57.00% | ~152,491 |
+| Covert Consortium | 54.00% | ~144,465 |
+| Goat Queen | 52.00% | ~139,115 |
+| Reach the Stratosphere | 50.00% | ~133,764 |
+| Synchronization Complete | 47.00% | ~125,738 |
+| Secret Society | 44.00% | ~117,712 |
+| Shadow Syndicate | 37.00% | ~98,985 |
+| What a Waste of Money | 33.00% | ~88,284 |
+| New Goat Order | 30.00% | ~80,258 |
+| Don't touch the servers | 28.00% | ~74,908 |
+| Real Buoy | 27.00% | ~72,233 |
+| San Angora: Become Human | 26.00% | ~69,557 |
+| Raider of the Lost Parking Garage | 26.00% | ~69,557 |
+| Welcome to Earth | 25.00% | ~66,882 |
+| Egg Simulator | 19.00% | ~50,830 |
+| Into the Matrix | 19.00% | ~50,830 |
+| Where is It? | 17.00% | ~45,480 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~40,129 |
+| 401(K.O.) | 15.00% | ~40,129 |
+| Black Market | 14.00% | ~37,454 |
+| Car Cave | 12.00% | ~32,103 |
 | Club Mohair | 8.00% | ~21,402 |
 | A Center for Ants? | 8.00% | ~21,402 |
-| French Fika | 7.00% | ~18,726 |
+| French Fika | 7.00% | ~18,727 |
 | Nasty! | 5.00% | ~13,376 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,701 |
 | [REDACTED] | 4.00% | ~10,701 |
-| Cannibanana | 2.00% | ~5,350 |
-| Daredevil | 2.00% | ~5,350 |
+| Cannibanana | 2.00% | ~5,351 |
+| Daredevil | 2.00% | ~5,351 |
 | Crocsquatch | 1.00% | ~2,675 |
 | You Trusted Your Instincts | 1.00% | ~2,675 |
 | Certified Fresh | 1.00% | ~2,675 |
@@ -45,7 +45,7 @@ Rating: 4.83 (Ranked 58)
 | Move! That! Bus! | 0.60% | ~1,605 |
 | G.O.A.T | 0.40% | ~1,070 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,520 (Ranked 66)  
+Progressed: 267,528 (Ranked 66)  
 Completed: 952 (0.36%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 952 (0.36%) (Ranked 249)
 | 2024-01-12 | 267,066 | 947 |
 | 2024-01-13 | 267,270 | 950 |
 | 2024-01-14 | 267,451 | 952 |
-| 2024-01-15 | 267,520 | 952 |
+| 2024-01-15 | 267,528 | 952 |
 ## Awards
 Max (Great for Beginners): 549  (Ranked 217)  
-Sum: 4,373 (Ranked 160)  
+Sum: 4,380 (Ranked 160)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -326,11 +326,11 @@ Diff (max vs sum): 57
 | This game has Diverse Characters | 498 |
 | This game is Highly Recommended | 466 |
 | This game has Amazing Characters | 437 |
-| This game is Extremely Fun | 420 |
+| This game is Extremely Fun | 423 |
 | This game has Amazing Storytelling | 413 |
 | This game is Relaxing | 407 |
+| This game has Quickly Understood Controls | 407 |
 | This game has a Silly Community | 404 |
-| This game has Quickly Understood Controls | 403 |
 | This game has Easy Combat | 376 |
 | This game is Educational | 263 |
 ## Ratings History
@@ -628,3 +628,4 @@ Diff (max vs sum): 57
 | 2024-01-12 | 4.83 | 543 | 4,352 |
 | 2024-01-13 | 4.83 | 543 | 4,357 |
 | 2024-01-14 | 4.83 | 549 | 4,373 |
+| 2024-01-15 | 4.83 | 549 | 4,380 |

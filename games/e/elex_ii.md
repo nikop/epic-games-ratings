@@ -7,7 +7,7 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~110 |
-| Best Buddy | 37.00% | ~93 |
+| Best Buddy | 38.00% | ~95 |
 | Civilian | 35.00% | ~88 |
 | Role Model | 33.00% | ~83 |
 | Creator | 31.00% | ~78 |
@@ -23,7 +23,7 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 13.00% | ~33 |
 | Storyteller | 13.00% | ~33 |
 | Berserker | 13.00% | ~33 |
-| Globetrotter | 11.00% | ~28 |
+| Globetrotter | 12.00% | ~30 |
 | Alb | 11.00% | ~28 |
 | Hunter | 10.00% | ~25 |
 | Lover | 10.00% | ~25 |

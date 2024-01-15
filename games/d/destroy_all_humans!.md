@@ -21,7 +21,7 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 37.00% | ~186 |
 | Bodied Sattva | 37.00% | ~186 |
 | Freshly Squeezed | 36.00% | ~181 |
-| Upgreatest | 35.00% | ~176 |
+| Upgreatest | 36.00% | ~181 |
 | Furon Fashion | 30.00% | ~151 |
 | Deincarnated | 29.00% | ~146 |
 | Rock of the Bay | 28.00% | ~141 |

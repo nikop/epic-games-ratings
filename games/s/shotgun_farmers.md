@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~308 |
-| First Blood | 64.00% | ~243 |
-| Triple Kill | 63.00% | ~239 |
+| Seeds of War | 81.00% | ~309 |
+| First Blood | 64.00% | ~244 |
+| Triple Kill | 62.00% | ~236 |
 | Aspairagus | 59.00% | ~195 |
 | No Asperascope | 57.00% | ~217 |
 | Survivor | 56.00% | ~185 |
-| Cornivore | 53.00% | ~201 |
-| I Believe I Can Fly | 49.00% | ~186 |
-| No Diggity | 44.00% | ~145 |
+| Cornivore | 53.00% | ~202 |
+| I Believe I Can Fly | 49.00% | ~187 |
+| No Diggity | 44.00% | ~146 |
 | Early Survivor | 39.00% | ~129 |
-| Bouncemato | 31.00% | ~102 |
-| 10K | 28.00% | ~106 |
-| Amateur Survivor | 28.00% | ~92 |
+| Bouncemato | 31.00% | ~103 |
+| 10K | 28.00% | ~107 |
+| Amateur Survivor | 28.00% | ~93 |
 | 15K | 26.00% | ~99 |
 | Grave Digger | 23.00% | ~76 |
 | Drinking Problem | 22.00% | ~84 |
@@ -26,7 +26,7 @@
 | Skin Of Your Teeth | 17.00% | ~65 |
 | Carrocketeer | 17.00% | ~65 |
 | Getting Started | 16.00% | ~61 |
-| This Is My Boomstick | 16.00% | ~53 |
+| This Is My Boomstick | 15.00% | ~50 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
 | Perfect | 14.00% | ~46 |
@@ -39,7 +39,7 @@
 | Early Bird | 7.00% | ~27 |
 | Chick Magnet | 5.00% | ~19 |
 | I Have The High Ground | 5.00% | ~19 |
-| Pyromaniac | 5.00% | ~16 |
+| Pyromaniac | 5.00% | ~17 |
 | Honk Honk | 3.00% | ~11 |
 | Master Survivor | 3.00% | ~10 |
 | Heart Breaker | 3.00% | ~10 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380 (Ranked 377)  
+Progressed: 381 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-09 | 375 | 0 |
 | 2024-01-13 | 376 | 0 |
 | 2024-01-14 | 380 | 0 |
+| 2024-01-15 | 381 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
