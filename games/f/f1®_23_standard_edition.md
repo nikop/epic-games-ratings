@@ -32,9 +32,9 @@ Rating: 4.64 (Ranked 343)
 | Eagle Eye | 9.00% | ~1,637 |
 | All in a Weekend's Work | 9.00% | ~1,637 |
 | Oil and Water | 9.00% | ~1,637 |
+| Lightning Round the World | 9.00% | ~1,637 |
 | Hitting a Bullseye | 9.00% | ~1,637 |
 | Spinning Around | 9.00% | ~1,637 |
-| Lightning Round the World | 8.00% | ~1,455 |
 | Recycle | 7.00% | ~1,273 |
 | Undisputed Winner | 6.00% | ~1,091 |
 | Tinkerer | 6.00% | ~1,091 |

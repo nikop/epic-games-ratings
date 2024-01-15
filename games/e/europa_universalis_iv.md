@@ -7,7 +7,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,495 |
-| That's a Grand Army | 0.60% | ~2,995 |
+| That's a Grand Army | 0.60% | ~2,996 |
 | That is mine! | 0.50% | ~2,496 |
 | Victorious! | 0.50% | ~2,496 |
 | Brothers in Arms | 0.40% | ~1,997 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,236 (Ranked 42)  
+Progressed: 499,250 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,10 +640,10 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
-| 2024-01-15 | 499,236 | 1 |
+| 2024-01-15 | 499,250 | 1 |
 ## Awards
 Max (Educational): 7,836  (Ranked 52)  
-Sum: 64,631 (Ranked 24)  
+Sum: 64,641 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -655,7 +655,7 @@ Diff (max vs sum): 28
 | This game is Relaxing | 7,182 |
 | This game has Competitive Players | 7,022 |
 | This game has Amazing Storytelling | 6,534 |
-| This game has Amazing Characters | 6,036 |
+| This game has Amazing Characters | 6,046 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1023,3 +1023,4 @@ Diff (max vs sum): 28
 | 2024-01-12 | 4.69 | - | 7,824 | 64,437 |
 | 2024-01-13 | 4.69 | - | 7,836 | 64,538 |
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
+| 2024-01-15 | 4.69 | - | 7,836 | 64,641 |

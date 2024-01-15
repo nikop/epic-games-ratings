@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17176,
+  "EOS_Progressed": 17178,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1029,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12278,6 +12278,11 @@
       "Time": "2024-01-15T07:05:27.1895441+00:00",
       "NumProgressed": 17176,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T08:06:30.3163821+00:00",
+      "NumProgressed": 17178,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12289,7 +12294,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9447
+      "UsersEstimate": 9448
     },
     {
       "ID": "Ach002",
@@ -12297,7 +12302,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "Ach003",
@@ -12305,7 +12310,7 @@
       "Name": "This will cost you big time",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "Ach004",
@@ -12417,7 +12422,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "Ach018",
@@ -12465,7 +12470,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9447
+      "UsersEstimate": 9448
     },
     {
       "ID": "Ach024",
@@ -12489,7 +12494,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "Ach027",
@@ -12529,7 +12534,7 @@
       "Name": "Perfect Parry",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4810
     },
     {
       "ID": "Ach032",
@@ -12569,7 +12574,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "Ach037",
@@ -12657,7 +12662,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7042
+      "UsersEstimate": 7043
     },
     {
       "ID": "Ach048",
@@ -12665,7 +12670,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4809
+      "UsersEstimate": 4810
     },
     {
       "ID": "Ach049",
@@ -12689,7 +12694,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "Ach052",
@@ -12856,13 +12861,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17176,
+      "Progressed": 17178,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15697,
+      "Progressed": 15699,
       "Completed": 1931
     }
   ],
@@ -12870,8 +12875,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:27.1895437+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:06:30.3163814+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:59:46.5351244+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:27.1896681+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:00:45.3761603+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:06:30.3164939+00:00"
 }

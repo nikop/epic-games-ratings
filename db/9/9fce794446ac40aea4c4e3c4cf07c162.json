@@ -294,9 +294,9 @@
       "ID": "DEL_IX",
       "SetID": "35d3i7a",
       "Name": "I deserve everything.",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DEL_V",
@@ -318,9 +318,9 @@
       "ID": "DEL_VII",
       "SetID": "35d3i7a",
       "Name": "This is my son.",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DEL_VIII",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:10:22.8529214+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:11:09.1635903+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:58:20.5585791+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:10:22.8529538+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:58:38.6579128+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:11:09.1636297+00:00"
 }

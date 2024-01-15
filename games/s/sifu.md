@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,651 |
-| Life is your teacher | 5.00% | ~38,043 |
-| Lightning Hands | 5.00% | ~38,043 |
-| The Assault | 4.00% | ~30,434 |
+| The Old Grandmaster | 6.00% | ~45,652 |
+| Life is your teacher | 5.00% | ~38,044 |
+| Lightning Hands | 5.00% | ~38,044 |
+| The Assault | 4.00% | ~30,435 |
 | The Hateful Pole Fighter | 3.00% | ~22,826 |
 | Stuntmaster | 3.00% | ~22,826 |
 | Street Fighting | 3.00% | ~22,826 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.30% | ~2,283 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,283 |
 | Be like water my friend | 0.30% | ~2,283 |
-| Deadly Venom | 0.30% | ~210 |
-| A Touch of Acumen | 0.30% | ~210 |
+| Deadly Venom | 0.30% | ~211 |
+| A Touch of Acumen | 0.30% | ~211 |
 | Healing Memory | 0.20% | ~1,522 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,522 |
 | Secure, Protect, Leave | 0.20% | ~140 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,856 (Ranked 26)  
+Progressed: 760,870 (Ranked 26)  
 Completed: 12,988 (1.71%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 12,988 (1.71%) (Ranked 147)
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
-| 2024-01-15 | 760,856 | 12,988 |
+| 2024-01-15 | 760,870 | 12,988 |
 ## Awards
 Max (Great Boss Battles): 7,205  (Ranked 57)  
 Sum: 12,749 (Ranked 86)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,10 +141,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83596,
-  "EOS_Completed": 934,
-  "EOS_NewPlayers": 552,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 83597,
+  "EOS_Completed": 935,
+  "EOS_NewPlayers": 550,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
@@ -30261,6 +30261,11 @@
       "Time": "2024-01-15T07:06:19.0066593+00:00",
       "NumProgressed": 83596,
       "NumCompleted": 934
+    },
+    {
+      "Time": "2024-01-15T08:07:45.3854641+00:00",
+      "NumProgressed": 83597,
+      "NumCompleted": 935
     }
   ],
   "TotalAchievements": 25,
@@ -30400,7 +30405,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13375
+      "UsersEstimate": 13376
     },
     {
       "ID": "Nothing Left to Say",
@@ -30424,7 +30429,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11703
+      "UsersEstimate": 11704
     },
     {
       "ID": "Sniper",
@@ -30471,16 +30476,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83596,
-      "Completed": 934
+      "Progressed": 83597,
+      "Completed": 935
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:06:19.0066589+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:07:45.3854637+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:58:22.2868078+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:06:19.0068578+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:58:41.1762027+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:07:45.3856733+00:00"
 }

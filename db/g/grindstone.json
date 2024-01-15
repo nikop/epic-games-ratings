@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5244,
+  "EOS_Progressed": 5245,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2024-01-14T02:03:31.8512509+00:00",
       "NumProgressed": 5244,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-15T08:07:46.7606463+00:00",
+      "NumProgressed": 5245,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 49,
@@ -1215,7 +1220,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1231,7 +1236,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1239,7 +1244,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1255,7 +1260,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1469
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1287,7 +1292,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1319,7 +1324,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3146
+      "UsersEstimate": 3147
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1343,7 +1348,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1423,7 +1428,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1455,7 +1460,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1463,7 +1468,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1487,7 +1492,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1503,7 +1508,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1575,7 +1580,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1599,22 +1604,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5244,
+      "Progressed": 5245,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:06:19.8842631+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:07:46.7606456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:55.3228636+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:59:25.3389963+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:06:19.8843004+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:00:15.2681888+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:07:46.7607125+00:00"
 }

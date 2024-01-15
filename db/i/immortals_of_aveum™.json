@@ -497,7 +497,7 @@
   ],
   "EOS_Progressed": 3453,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5786,9 +5786,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1865
     },
     {
       "ID": "achievement_41",
@@ -5995,8 +5995,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-14T22:57:10.8741075+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:10:19.718765+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:11:05.001593+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:57:37.2080147+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:10:19.7188137+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:57:32.9186713+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:11:05.0016464+00:00"
 }

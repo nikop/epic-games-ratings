@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -364,18 +364,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 704,
       "NumberOfAwardsMax": 585
+    },
+    {
+      "Time": "2024-01-15T08:03:08.7905457+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 705,
+      "NumberOfAwardsMax": 586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 704,
-  "NumberOfAwardsMax": 585,
+  "NumberOfAwards": 705,
+  "NumberOfAwardsMax": 586,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 585
+      "Count": 586
     },
     {
       "Text": "This game is Highly Recommended",
@@ -420,7 +426,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209181,
+  "EOS_Progressed": 209182,
   "EOS_Completed": 564,
   "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 7,
@@ -29265,6 +29271,11 @@
       "Time": "2024-01-15T07:05:15.3247307+00:00",
       "NumProgressed": 209181,
       "NumCompleted": 564
+    },
+    {
+      "Time": "2024-01-15T08:06:13.586219+00:00",
+      "NumProgressed": 209182,
+      "NumCompleted": 564
     }
   ],
   "TotalAchievements": 29,
@@ -29300,7 +29311,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196630
+      "UsersEstimate": 196631
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29476,7 +29487,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16734
+      "UsersEstimate": 16735
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -29507,16 +29518,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209181,
+      "Progressed": 209182,
       "Completed": 564
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-01-10T17:58:59.5955278+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:15.3247303+00:00",
+  "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:06:13.5862188+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2678831+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:03:07.2593858+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:15.3248906+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:03:08.7905463+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:06:13.5863803+00:00"
 }

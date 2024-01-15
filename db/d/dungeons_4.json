@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 769,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.29,
   "EosHistory": [
@@ -2508,9 +2508,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 684
     },
     {
       "ID": "ach_main01begin_die",
@@ -3005,8 +3005,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-14T23:58:07.1773064+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:09:43.9699121+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:10:14.4212003+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:58:29.697822+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:09:43.9699649+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:58:51.8496658+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:10:14.4212523+00:00"
 }

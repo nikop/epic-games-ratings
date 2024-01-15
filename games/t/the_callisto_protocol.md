@@ -5,16 +5,16 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,047 |
-| The Outer Way | 27.00% | ~6,047 |
-| Desperate Times | 26.00% | ~5,823 |
-| Paper Jams | 23.00% | ~5,151 |
-| Get a Grip | 22.00% | ~4,927 |
-| Chew 'Em Up | 21.00% | ~4,703 |
-| Reforged | 20.00% | ~4,479 |
-| Float Like A Butterfly | 18.00% | ~4,031 |
-| Workplace Hazard | 17.00% | ~3,807 |
-| If the SHU Fits... | 17.00% | ~3,807 |
+| Flesh Wound | 27.00% | ~6,048 |
+| The Outer Way | 27.00% | ~6,048 |
+| Desperate Times | 26.00% | ~5,824 |
+| Paper Jams | 23.00% | ~5,152 |
+| Get a Grip | 22.00% | ~4,928 |
+| Chew 'Em Up | 21.00% | ~4,704 |
+| Reforged | 20.00% | ~4,480 |
+| Float Like A Butterfly | 18.00% | ~4,032 |
+| Workplace Hazard | 17.00% | ~3,808 |
+| If the SHU Fits... | 17.00% | ~3,808 |
 | Without A Paddle | 15.00% | ~3,360 |
 | In the Pipe, Five by Five | 13.00% | ~2,912 |
 | Crash Site | 13.00% | ~2,912 |
@@ -28,12 +28,12 @@ Rating: 4.22 (Ranked 955)
 | I Do Belong Here | 8.00% | ~1,792 |
 | Keep Fighting | 8.00% | ~826 |
 | The Commonality | 6.00% | ~1,344 |
-| It's Time | 6.00% | ~619 |
+| It's Time | 6.00% | ~620 |
 | In Striking Distance | 5.00% | ~1,120 |
 | One Last Job | 3.00% | ~310 |
 | Mugshot | 2.00% | ~448 |
-| Big Spender | 2.00% | ~206 |
-| This Isn't About Escape | 2.00% | ~206 |
+| Big Spender | 2.00% | ~207 |
+| This Isn't About Escape | 2.00% | ~207 |
 | Armed to the Teeth | 1.00% | ~103 |
 | Grim Reaper | 1.00% | ~224 |
 | Instigator | 1.00% | ~103 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,397 (Ranked 151)  
+Progressed: 22,400 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,397 | 82 |
+| 2024-01-15 | 22,400 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
 Sum: 654 (Ranked 318)  

@@ -6,24 +6,24 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,069 |
-| ''I don't like you either!'' | 77.00% | ~45,774 |
-| ''Impressive, most impressive'' | 69.00% | ~41,018 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,018 |
-| The Phantom Menace | 56.00% | ~33,290 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,290 |
-| ''I can fly anything'' | 54.00% | ~32,101 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,070 |
+| ''I don't like you either!'' | 77.00% | ~45,775 |
+| ''Impressive, most impressive'' | 69.00% | ~41,019 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,019 |
+| The Phantom Menace | 56.00% | ~33,291 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,291 |
+| ''I can fly anything'' | 54.00% | ~32,102 |
 | ''And who gave you permission...?'' | 51.00% | ~30,318 |
-| A New Hope | 45.00% | ~26,751 |
+| A New Hope | 45.00% | ~26,752 |
 | Attack of the Clones | 44.00% | ~26,157 |
 | Revenge of the Sith | 38.00% | ~22,590 |
-| The Empire Strikes Back | 35.00% | ~20,806 |
-| ''A fine addition to my collection'' | 35.00% | ~20,806 |
+| The Empire Strikes Back | 35.00% | ~20,807 |
+| ''A fine addition to my collection'' | 35.00% | ~20,807 |
 | Return of the Jedi | 30.00% | ~17,834 |
 | The Force Awakens | 25.00% | ~14,862 |
 | The Last Jedi | 21.00% | ~12,484 |
 | The Rise of Skywalker | 19.00% | ~11,295 |
-| ''It's true... all of it'' | 18.00% | ~10,700 |
+| ''It's true... all of it'' | 18.00% | ~10,701 |
 | ''Get the crews to their fighters'' | 17.00% | ~10,106 |
 | ''Raw, untamed power'' | 8.00% | ~4,756 |
 | Rishi Maze | 4.00% | ~2,378 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~594 |
 | ''I've never seen a real one!'' | 0.90% | ~535 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,447 (Ranked 120)  
+Progressed: 59,448 (Ranked 120)  
 Completed: 261 (0.44%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 261 (0.44%) (Ranked 236)
 | 2024-01-12 | 59,252 | 260 |
 | 2024-01-13 | 59,360 | 260 |
 | 2024-01-14 | 59,430 | 261 |
-| 2024-01-15 | 59,447 | 261 |
+| 2024-01-15 | 59,448 | 261 |
 ## Awards
 Max (Great Boss Battles): 2,501  (Ranked 110)  
 Sum: 6,859 (Ranked 130)  

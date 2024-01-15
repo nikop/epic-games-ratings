@@ -22,9 +22,9 @@ Rating: 4.54 (Ranked 550)
 | Madame Undersecretary | 9.00% | ~449 |
 | Data Archivist | 8.00% | ~1,523 |
 | Keep Arjun in Check | 8.00% | ~399 |
-| Drug Gifter | 7.00% | ~1,332 |
-| Thorston Mayer | 7.00% | ~1,332 |
-| Khan's Revenge | 7.00% | ~1,332 |
+| Drug Gifter | 7.00% | ~1,333 |
+| Thorston Mayer | 7.00% | ~1,333 |
+| Khan's Revenge | 7.00% | ~1,333 |
 | Doctor Approved | 6.00% | ~1,142 |
 | Bottoms up! | 6.00% | ~1,142 |
 | Master Negotiator | 6.00% | ~299 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,035 (Ranked 159)  
+Progressed: 19,036 (Ranked 159)  
 Completed: 65 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 65 (0.34%) (Ranked 251)
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
-| 2024-01-15 | 19,035 | 65 |
+| 2024-01-15 | 19,036 | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

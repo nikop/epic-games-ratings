@@ -509,7 +509,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535661,
+  "EOS_Progressed": 535662,
   "EOS_Completed": 522,
   "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 3,
@@ -29264,6 +29264,11 @@
       "Time": "2024-01-15T07:09:01.5658496+00:00",
       "NumProgressed": 535661,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2024-01-15T08:09:12.9622392+00:00",
+      "NumProgressed": 535662,
+      "NumCompleted": 522
     }
   ],
   "TotalAchievements": 57,
@@ -29283,7 +29288,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 241047
+      "UsersEstimate": 241048
     },
     {
       "ID": "11",
@@ -29299,7 +29304,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117845
+      "UsersEstimate": 117846
     },
     {
       "ID": "13",
@@ -29331,7 +29336,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48209
+      "UsersEstimate": 48210
     },
     {
       "ID": "17",
@@ -29387,7 +29392,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 48209
+      "UsersEstimate": 48210
     },
     {
       "ID": "23",
@@ -29499,7 +29504,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267830
+      "UsersEstimate": 267831
     },
     {
       "ID": "36",
@@ -29571,7 +29576,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91062
+      "UsersEstimate": 91063
     },
     {
       "ID": "44",
@@ -29651,7 +29656,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246404
+      "UsersEstimate": 246405
     },
     {
       "ID": "53",
@@ -29730,15 +29735,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535661,
+      "Progressed": 535662,
       "Completed": 522
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:09:01.5658491+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:09:12.9622387+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:00:37.3920136+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:09:01.5660094+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:02:02.7217467+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:09:12.9623931+00:00"
 }

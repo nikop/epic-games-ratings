@@ -976,9 +976,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 54918,
+  "EOS_Progressed": 54921,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 925,
+  "EOS_NewPlayers": 926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31706,6 +31706,11 @@
       "Time": "2024-01-15T07:05:37.3417044+00:00",
       "NumProgressed": 54918,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T08:06:44.9117362+00:00",
+      "NumProgressed": 54921,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -31741,7 +31746,7 @@
       "Name": "Scout",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6590
+      "UsersEstimate": 6591
     },
     {
       "ID": "distance500000",
@@ -31757,7 +31762,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15377
+      "UsersEstimate": 15378
     },
     {
       "ID": "goals180",
@@ -31837,7 +31842,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9336
+      "UsersEstimate": 9337
     },
     {
       "ID": "novice",
@@ -31869,7 +31874,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "playerPaz",
@@ -32013,7 +32018,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "windswept",
@@ -32028,15 +32033,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 54918,
+      "Progressed": 54921,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-12T14:57:17.4560047+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:37.341704+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:06:44.9117357+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:58:53.2945261+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:37.3418355+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:59:27.6058716+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:06:44.911874+00:00"
 }

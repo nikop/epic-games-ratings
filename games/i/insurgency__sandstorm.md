@@ -8,18 +8,18 @@ Number of Ratings: 1,316  (23.09.2022)
 | ---- | ---------- | ----- |
 | Point Shooting | 5.00% | ~26,254 |
 | Wallbanger | 5.00% | ~26,254 |
-| Exploitative | 4.00% | ~21,003 |
-| High Speed Low Drag | 4.00% | ~21,003 |
-| Wet Feet | 4.00% | ~21,003 |
-| Checkpoint Victory | 3.00% | ~15,752 |
-| Lucky | 3.00% | ~15,752 |
-| Stylin' | 3.00% | ~15,752 |
-| Turf War | 3.00% | ~15,752 |
-| Banged | 2.00% | ~10,501 |
-| First Blood | 2.00% | ~10,501 |
-| Flaccid Paralysis | 2.00% | ~10,501 |
-| Push Victory | 2.00% | ~10,501 |
-| Self-destructive | 2.00% | ~10,501 |
+| Exploitative | 4.00% | ~21,004 |
+| High Speed Low Drag | 4.00% | ~21,004 |
+| Wet Feet | 4.00% | ~21,004 |
+| Checkpoint Victory | 3.00% | ~15,753 |
+| Lucky | 3.00% | ~15,753 |
+| Stylin' | 3.00% | ~15,753 |
+| Turf War | 3.00% | ~15,753 |
+| Banged | 2.00% | ~10,502 |
+| First Blood | 2.00% | ~10,502 |
+| Flaccid Paralysis | 2.00% | ~10,502 |
+| Push Victory | 2.00% | ~10,502 |
+| Self-destructive | 2.00% | ~10,502 |
 | Blindfire | 1.00% | ~5,251 |
 | Ruthless | 1.00% | ~5,251 |
 | Semper Paratus | 1.00% | ~5,251 |
@@ -30,8 +30,8 @@ Number of Ratings: 1,316  (23.09.2022)
 | Grounded | 0.80% | ~4,201 |
 | Play to Win | 0.80% | ~4,201 |
 | Special Delivery | 0.70% | ~3,676 |
-| Firefight Victory | 0.60% | ~3,150 |
-| #1 | 0.60% | ~3,150 |
+| Firefight Victory | 0.60% | ~3,151 |
+| #1 | 0.60% | ~3,151 |
 | Cinematic | 0.50% | ~2,625 |
 | Thanks Station! | 0.40% | ~2,100 |
 | Knock Knock | 0.30% | ~1,575 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~525 |
 | Road Hazard | 0.10% | ~525 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,074 (Ranked 40)  
+Progressed: 525,089 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 2 (0.00%) (Ranked 401)
 | 2024-01-12 | 523,767 | 2 |
 | 2024-01-13 | 524,351 | 2 |
 | 2024-01-14 | 524,890 | 2 |
-| 2024-01-15 | 525,074 | 2 |
+| 2024-01-15 | 525,089 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 419  (Ranked 237)  
 Sum: 3,375 (Ranked 179)  

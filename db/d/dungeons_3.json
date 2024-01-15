@@ -3619,9 +3619,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 46974,
+  "EOS_Progressed": 46975,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -33704,6 +33704,11 @@
       "Time": "2024-01-15T07:05:01.5568999+00:00",
       "NumProgressed": 46974,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-15T08:05:53.3975465+00:00",
+      "NumProgressed": 46975,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -33747,7 +33752,7 @@
       "Name": "Discoverer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_Completed",
@@ -33803,7 +33808,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15971
+      "UsersEstimate": 15972
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -33811,7 +33816,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8455
+      "UsersEstimate": 8456
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -33819,7 +33824,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -33827,7 +33832,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 23487
+      "UsersEstimate": 23488
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -33875,7 +33880,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17380
+      "UsersEstimate": 17381
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -33891,7 +33896,7 @@
       "Name": "Not a scratch",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_D3_Campaign_Fire_Completed",
@@ -33947,7 +33952,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19259
+      "UsersEstimate": 19260
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -33995,7 +34000,7 @@
       "Name": "Destroy the thing",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12213
+      "UsersEstimate": 12214
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -34059,7 +34064,7 @@
       "Name": "Sacrifices!",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_Completed",
@@ -34107,7 +34112,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13622
+      "UsersEstimate": 13623
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -34163,7 +34168,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 13622
+      "UsersEstimate": 13623
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -34179,7 +34184,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -34187,22 +34192,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12213
+      "UsersEstimate": 12214
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 46974,
+      "Progressed": 46975,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-13T13:59:43.4237185+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:01.5568994+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:05:53.3975461+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:00:26.5104727+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:01.5570419+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:01:46.5307133+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:05:53.397703+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1861,9 +1861,9 @@
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "FINDCRONY",
@@ -1989,8 +1989,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:38.8145615+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:06:47.0678029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:59:31.9810325+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:38.8146161+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:00:24.8912224+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:06:47.067859+00:00"
 }

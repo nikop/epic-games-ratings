@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 788,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.98,
   "EosHistory": [
@@ -3577,9 +3577,9 @@
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 307
     },
     {
       "ID": "WormGrilled",
@@ -3600,8 +3600,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:59.9458795+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:07:18.3948566+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:00:46.2636208+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:59.9459296+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:02:55.6520345+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:07:18.3949044+00:00"
 }

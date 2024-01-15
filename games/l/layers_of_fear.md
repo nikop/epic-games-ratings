@@ -28,9 +28,9 @@
 | Tough conversation | 10.00% | ~33 |
 | A new way | 9.00% | ~29 |
 | Breaking free | 9.00% | ~29 |
+| Heavy Burden | 8.00% | ~26 |
 | True Reflection | 8.00% | ~26 |
 | Casting Finished | 7.00% | ~23 |
-| Heavy Burden | 7.00% | ~23 |
 | Instinct of self-preservation | 7.00% | ~23 |
 | Fisherman | 7.00% | ~23 |
 | Something to think about | 5.00% | ~16 |

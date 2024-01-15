@@ -15,11 +15,11 @@ Number of Ratings: 85  (23.09.2022)
 | Perfect Probulator | 58.00% | ~288 |
 | Pimp My Raid | 57.00% | ~283 |
 | Lobster Blisque | 52.00% | ~258 |
-| Fly Me to the Moon Base | 50.00% | ~248 |
+| Fly Me to the Moon Base | 51.00% | ~253 |
 | Earthly Pleasures | 48.00% | ~239 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~234 |
+| Bodied Sattva | 38.00% | ~189 |
 | Forbidden Donut | 37.00% | ~184 |
-| Bodied Sattva | 37.00% | ~184 |
 | Freshly Squeezed | 36.00% | ~179 |
 | Upgreatest | 36.00% | ~179 |
 | Furon Fashion | 30.00% | ~149 |

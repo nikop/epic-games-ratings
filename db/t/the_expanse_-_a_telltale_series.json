@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19035,
+  "EOS_Progressed": 19036,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 425,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17424,6 +17424,11 @@
       "Time": "2024-01-15T06:04:39.9869162+00:00",
       "NumProgressed": 19035,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T08:06:09.2933551+00:00",
+      "NumProgressed": 19036,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17492,7 +17497,7 @@
       "Name": "Drug Gifter",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "17",
@@ -17532,7 +17537,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "21",
@@ -17572,7 +17577,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "26",
@@ -17715,13 +17720,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19035,
+      "Progressed": 19036,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4989,
+      "Progressed": 4990,
       "Completed": 1327
     }
   ],
@@ -17729,8 +17734,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:05:12.5582841+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:06:09.2933547+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:58:42.3776047+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:05:12.5584004+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:59:11.5827918+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:06:09.2934674+00:00"
 }

@@ -2298,7 +2298,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16844,
+  "EOS_Progressed": 16846,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
@@ -20083,6 +20083,11 @@
       "Time": "2024-01-15T07:10:32.5084706+00:00",
       "NumProgressed": 16844,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T08:11:21.2624193+00:00",
+      "NumProgressed": 16846,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21940,9 +21945,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
       "SetID": "7l38kb8",
       "Name": "Persian Paganism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -22052,9 +22057,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -22957,21 +22962,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16844,
+      "Progressed": 16846,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16844,
+      "Progressed": 16846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:10:32.5084703+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:11:21.2624187+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:00:17.8323552+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:10:32.5094617+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:01:32.5777584+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:11:21.2634147+00:00"
 }

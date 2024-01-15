@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9009,9 +9009,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 760856,
+  "EOS_Progressed": 760870,
   "EOS_Completed": 12988,
-  "EOS_NewPlayers": 3865,
+  "EOS_NewPlayers": 3850,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33854,6 +33854,11 @@
       "Time": "2024-01-15T07:09:49.4100784+00:00",
       "NumProgressed": 760856,
       "NumCompleted": 12988
+    },
+    {
+      "Time": "2024-01-15T08:10:22.3943995+00:00",
+      "NumProgressed": 760870,
+      "NumCompleted": 12988
     }
   ],
   "TotalAchievements": 60,
@@ -33865,7 +33870,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45651
+      "UsersEstimate": 45652
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33873,7 +33878,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30434
+      "UsersEstimate": 30435
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34041,7 +34046,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38043
+      "UsersEstimate": 38044
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -34129,7 +34134,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38043
+      "UsersEstimate": 38044
     },
     {
       "ID": "35_WideStrike",
@@ -34233,7 +34238,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -34257,7 +34262,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -34344,21 +34349,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70157,
-      "Completed": 10810
+      "Progressed": 70171,
+      "Completed": 10811
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 760856,
+      "Progressed": 760870,
       "Completed": 12988
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-14T15:03:05.9264511+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:09:49.4100779+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:10:22.3943989+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:03:34.1560198+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:09:49.4102189+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:03:45.4882369+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:10:22.3945486+00:00"
 }

@@ -7367,9 +7367,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 751
+      "UsersEstimate": 779
     },
     {
       "ID": "END_GOOD",
@@ -7576,8 +7576,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:06:13.7720776+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:07:37.8459026+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:59:01.6394831+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:06:13.7721306+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:59:39.8134177+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:07:37.8459485+00:00"
 }

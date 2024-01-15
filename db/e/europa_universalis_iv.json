@@ -14341,10 +14341,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64631,
       "NumberOfAwardsMax": 7836
+    },
+    {
+      "Time": "2024-01-15T08:01:21.2647193+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64641,
+      "NumberOfAwardsMax": 7836
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64631,
+  "NumberOfAwards": 64641,
   "NumberOfAwardsMax": 7836,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14406,7 +14412,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6036
+      "Count": 6046
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14415,9 +14421,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499236,
+  "EOS_Progressed": 499250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4458,
+  "EOS_NewPlayers": 4461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45560,6 +45566,11 @@
       "Time": "2024-01-15T07:10:32.6514452+00:00",
       "NumProgressed": 499236,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T08:11:21.9235309+00:00",
+      "NumProgressed": 499250,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46571,7 +46582,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2995
+      "UsersEstimate": 2996
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48474,21 +48485,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499236,
+      "Progressed": 499250,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499236,
+      "Progressed": 499250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-14T23:59:58.5456129+00:00",
-  "LastChanged_Achievements": "2024-01-15T07:10:32.6514449+00:00",
+  "LastChanged": "2024-01-15T08:01:21.2647191+00:00",
+  "LastChanged_Achievements": "2024-01-15T08:11:21.9235305+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:00:10.5115224+00:00",
-  "LastUpdate_Achievements": "2024-01-15T07:10:32.6524877+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:01:21.2647198+00:00",
+  "LastUpdate_Achievements": "2024-01-15T08:11:21.9246402+00:00"
 }

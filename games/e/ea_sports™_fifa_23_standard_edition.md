@@ -5,24 +5,24 @@ Rating: 4.26 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~160,058 |
+| Power Shot | 75.00% | ~160,059 |
 | Dead-ball specialist | 61.00% | ~130,181 |
 | European Legend | 52.00% | ~110,974 |
 | Multitasking | 51.00% | ~108,840 |
-| Balanced Path | 49.00% | ~104,571 |
-| High Grades | 48.00% | ~102,437 |
-| A Moment of Your Time | 46.00% | ~98,169 |
-| Let the Games Begin | 46.00% | ~98,169 |
-| Aiming High | 46.00% | ~98,169 |
-| Tactical Tinkerer | 40.00% | ~85,364 |
-| Intuition and Execution | 39.00% | ~83,230 |
-| Squad Building Connoisseur | 38.00% | ~81,096 |
+| Balanced Path | 49.00% | ~104,572 |
+| High Grades | 48.00% | ~102,438 |
+| A Moment of Your Time | 46.00% | ~98,170 |
+| Let the Games Begin | 46.00% | ~98,170 |
+| Aiming High | 46.00% | ~98,170 |
+| Tactical Tinkerer | 40.00% | ~85,365 |
+| Intuition and Execution | 39.00% | ~83,231 |
+| Squad Building Connoisseur | 38.00% | ~81,097 |
 | The Winning Formula | 36.00% | ~76,828 |
 | Parking the Bus | 27.00% | ~57,621 |
 | Safe House | 26.00% | ~55,487 |
 | Best of Five | 26.00% | ~55,487 |
 | Football is Everything | 24.00% | ~51,219 |
-| The Chosen One | 22.00% | ~46,950 |
+| The Chosen One | 22.00% | ~46,951 |
 | Fresh Fit | 20.00% | ~42,682 |
 | Bring it on | 17.00% | ~36,280 |
 | Life-Like | 14.00% | ~29,878 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 920)
 | Training Addict | 0.10% | ~213 |
 | Dazzling Personality | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,411 (Ranked 81)  
+Progressed: 213,412 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 212,656 | 0 |
 | 2024-01-13 | 213,012 | 0 |
 | 2024-01-14 | 213,338 | 0 |
-| 2024-01-15 | 213,411 | 0 |
+| 2024-01-15 | 213,412 | 0 |
 ## Awards
 Max (Diverse Characters): 22,269  (Ranked 21)  
 Sum: 110,474 (Ranked 17)  

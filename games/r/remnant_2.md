@@ -5,28 +5,28 @@ Rating: 4.72 (Ranked 195)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,243 |
-| First of Many | 12.00% | ~35,243 |
-| Not Your Average Trait | 10.00% | ~29,369 |
-| Expanding Horizons | 8.00% | ~23,495 |
-| Quest for Survival | 8.00% | ~23,495 |
-| Boss'n Up | 8.00% | ~23,495 |
-| Gleaming the Cube | 7.00% | ~20,559 |
-| Not So Special Now | 7.00% | ~20,559 |
-| Familiar Face | 7.00% | ~20,559 |
-| Trait Chaser | 7.00% | ~20,559 |
-| Not a Janitor | 6.00% | ~17,622 |
-| Equal Measures | 6.00% | ~17,622 |
-| Blue Goddess | 6.00% | ~17,622 |
-| Duality | 6.00% | ~17,622 |
-| Top Performer | 6.00% | ~17,622 |
-| Almost There | 6.00% | ~17,622 |
-| Make Some Room | 6.00% | ~17,622 |
-| Good, But Could Be Better! | 6.00% | ~17,622 |
-| Am I Seeing This? | 5.00% | ~14,685 |
-| Dark Designs | 5.00% | ~14,685 |
-| Shhh...It's a Secret | 5.00% | ~14,685 |
-| Was This Supposed To Happen? | 5.00% | ~14,685 |
+| The Killing Jar | 12.00% | ~35,245 |
+| First of Many | 12.00% | ~35,245 |
+| Not Your Average Trait | 10.00% | ~29,371 |
+| Expanding Horizons | 8.00% | ~23,497 |
+| Quest for Survival | 8.00% | ~23,497 |
+| Boss'n Up | 8.00% | ~23,497 |
+| Gleaming the Cube | 7.00% | ~20,560 |
+| Not So Special Now | 7.00% | ~20,560 |
+| Familiar Face | 7.00% | ~20,560 |
+| Trait Chaser | 7.00% | ~20,560 |
+| Not a Janitor | 6.00% | ~17,623 |
+| Equal Measures | 6.00% | ~17,623 |
+| Blue Goddess | 6.00% | ~17,623 |
+| Duality | 6.00% | ~17,623 |
+| Top Performer | 6.00% | ~17,623 |
+| Almost There | 6.00% | ~17,623 |
+| Make Some Room | 6.00% | ~17,623 |
+| Good, But Could Be Better! | 6.00% | ~17,623 |
+| Am I Seeing This? | 5.00% | ~14,686 |
+| Dark Designs | 5.00% | ~14,686 |
+| Shhh...It's a Secret | 5.00% | ~14,686 |
+| Was This Supposed To Happen? | 5.00% | ~14,686 |
 | Chaos | 4.00% | ~11,748 |
 | Traitor | 4.00% | ~11,748 |
 | Forever is a Long Time Coming | 4.00% | ~11,748 |
@@ -54,15 +54,15 @@ Rating: 4.72 (Ranked 195)
 | The Trigger | 2.00% | ~5,874 |
 | The Collector | 2.00% | ~5,874 |
 | Maxed Out! | 2.00% | ~5,874 |
-| Master of the Dark Arts | 2.00% | ~1,457 |
+| Master of the Dark Arts | 2.00% | ~1,458 |
 | Cutting Edge | 1.00% | ~2,937 |
 | Proving Grounds | 1.00% | ~2,937 |
 | Succession | 0.80% | ~583 |
 | You Shall Pass | 0.70% | ~510 |
 | A Foul Feast | 0.50% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 293,693 (Ranked 64)  
-Completed: 1,064 (0.36%) (Ranked 248)  
+Progressed: 293,710 (Ranked 64)  
+Completed: 1,065 (0.36%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 1,064 (0.36%) (Ranked 248)
 | 2024-01-12 | 291,566 | 1,001 |
 | 2024-01-13 | 292,574 | 1,031 |
 | 2024-01-14 | 293,510 | 1,059 |
-| 2024-01-15 | 293,693 | 1,064 |
+| 2024-01-15 | 293,710 | 1,065 |
 ## Awards
 Max (Great Boss Battles): 6,915  (Ranked 59)  
 Sum: 15,423 (Ranked 73)  
