@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,773 |
-| Jeef Skeejj | 44.00% | ~208,515 |
-| Careful planning | 39.00% | ~184,820 |
-| Second Coming | 34.00% | ~161,125 |
-| Jeef Skagg | 30.00% | ~142,169 |
-| Mother | 25.00% | ~118,474 |
+| The Shutdown | 66.00% | ~312,774 |
+| Jeef Skeejj | 44.00% | ~208,516 |
+| Careful planning | 39.00% | ~184,821 |
+| Second Coming | 34.00% | ~161,126 |
+| Jeef Skagg | 30.00% | ~142,170 |
+| Mother | 25.00% | ~118,475 |
 | In space, no one can hear you scream | 24.00% | ~113,736 |
 | Chapter I: Echoes | 22.00% | ~104,258 |
 | Excelsior Rule | 22.00% | ~104,258 |
@@ -58,7 +58,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Rule | 1.00% | ~4,739 |
 | Excelsior Mastery | 0.90% | ~4,265 |
 | Hand of the Emperor | 0.70% | ~125 |
-| The greatest admiral of all time | 0.50% | ~2,369 |
+| The greatest admiral of all time | 0.50% | ~2,370 |
 | Soldiers of Fortune | 0.50% | ~89 |
 | The Extractor | 0.20% | ~36 |
 | The Executioner | 0.20% | ~36 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 473,898 (Ranked 45)  
+Progressed: 473,900 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 21 (0.00%) (Ranked 401)
 | 2024-01-12 | 473,754 | 21 |
 | 2024-01-13 | 473,805 | 21 |
 | 2024-01-14 | 473,880 | 21 |
-| 2024-01-15 | 473,898 | 21 |
+| 2024-01-15 | 473,900 | 21 |
 ## Awards
 Max (Character Customization): 229  (Ranked 288)  
 Sum: 253 (Ranked 398)  

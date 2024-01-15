@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120088,
+  "EOS_Progressed": 120089,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24952,6 +24952,11 @@
       "Time": "2024-01-15T12:11:01.5837518+00:00",
       "NumProgressed": 120088,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-15T13:15:41.8813034+00:00",
+      "NumProgressed": 120089,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -24971,7 +24976,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92468
+      "UsersEstimate": 92469
     },
     {
       "ID": "EAwards_10",
@@ -25059,7 +25064,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58843
+      "UsersEstimate": 58844
     },
     {
       "ID": "EAwards_20",
@@ -25235,7 +25240,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15611
+      "UsersEstimate": 15612
     },
     {
       "ID": "EAwards_40",
@@ -25354,7 +25359,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120088,
+      "Progressed": 120089,
       "Completed": 61
     }
   ],
@@ -25362,8 +25367,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:11:01.5837515+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:15:41.881303+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:57:45.1532035+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:11:01.5839252+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:03:20.6371405+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:15:41.8814462+00:00"
 }

@@ -6,16 +6,16 @@ Rating: 4.38 (Ranked 797)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It Wasn’t a Burglary | 88.00% | ~444 |
-| Luc Piette | 74.00% | ~373 |
-| Angeline Van den Bosch | 72.00% | ~363 |
+| Luc Piette | 74.00% | ~374 |
+| Angeline Van den Bosch | 71.00% | ~359 |
 | Elizabeth Padget | 69.00% | ~348 |
 | Little Grey Cells | 67.00% | ~338 |
 | The Bracelet | 64.00% | ~323 |
-| Florette Duval | 54.00% | ~272 |
-| The Blackmail | 53.00% | ~267 |
-| Major Felix Hagen | 53.00% | ~267 |
-| Fine-toothed Comb | 52.00% | ~262 |
-| Order and Method | 51.00% | ~257 |
+| The Blackmail | 53.00% | ~268 |
+| Florette Duval | 53.00% | ~268 |
+| Major Felix Hagen | 53.00% | ~268 |
+| Fine-toothed Comb | 52.00% | ~263 |
+| Order and Method | 51.00% | ~258 |
 | The Altercation | 49.00% | ~247 |
 | Truth from Within | 47.00% | ~237 |
 | The Major | 46.00% | ~232 |
@@ -26,15 +26,15 @@ Rating: 4.38 (Ranked 797)
 | Well-acquainted | 40.00% | ~202 |
 | Zakariya Demir | 40.00% | ~202 |
 | Well-read | 39.00% | ~197 |
-| Cassandra Van den Bosch | 37.00% | ~186 |
-| The Secret | 37.00% | ~186 |
-| Gedeon Demir | 35.00% | ~176 |
-| Rehana Piette | 34.00% | ~171 |
-| Instinct is Marvellous | 33.00% | ~166 |
-| Ernesto da Silva | 32.00% | ~161 |
-| Inge Frank | 31.00% | ~156 |
-| The Search | 31.00% | ~156 |
-| Hugo Beckers | 30.00% | ~151 |
+| Cassandra Van den Bosch | 37.00% | ~187 |
+| The Secret | 37.00% | ~187 |
+| Gedeon Demir | 35.00% | ~177 |
+| Rehana Piette | 34.00% | ~172 |
+| Instinct is Marvellous | 32.00% | ~162 |
+| Ernesto da Silva | 32.00% | ~162 |
+| Inge Frank | 31.00% | ~157 |
+| Hugo Beckers | 30.00% | ~152 |
+| The Search | 30.00% | ~152 |
 | The Family | 28.00% | ~141 |
 | Well-travelled | 27.00% | ~136 |
 | Thinking of Everything | 27.00% | ~136 |
@@ -48,11 +48,11 @@ Rating: 4.38 (Ranked 797)
 | Sunken Secrets | 18.00% | ~91 |
 | What Else Did I Miss? | 18.00% | ~91 |
 | Probably the Greatest Detective in the World | 13.00% | ~66 |
-| Take a Break | 11.00% | ~55 |
+| Take a Break | 11.00% | ~56 |
 | Room with a View | 7.00% | ~35 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504 (Ranked 357)  
+Progressed: 505 (Ranked 357)  
 Completed: 7 (1.39%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,6 +160,7 @@ Completed: 7 (1.39%) (Ranked 155)
 | 2024-01-10 | 497 | 7 |
 | 2024-01-13 | 501 | 7 |
 | 2024-01-14 | 504 | 7 |
+| 2024-01-15 | 505 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

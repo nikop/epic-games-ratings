@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3965,9 +3965,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20792,
+  "EOS_Progressed": 20794,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19680,6 +19680,11 @@
       "Time": "2024-01-15T10:08:33.7413035+00:00",
       "NumProgressed": 20792,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-15T13:12:16.7706379+00:00",
+      "NumProgressed": 20794,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19788,7 +19793,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "WinImpossible",
@@ -19956,7 +19961,7 @@
       "Name": "Coral Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "WinOnCursed",
@@ -19972,7 +19977,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "WinOnMoorlands",
@@ -19980,7 +19985,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "WinPrestige10",
@@ -20124,7 +20129,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "WinNearPresence",
@@ -20140,7 +20145,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20163,15 +20168,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20792,
+      "Progressed": 20794,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-15T11:57:35.5109811+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:08:42.2912552+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:12:16.7706377+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:57:35.5109817+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:08:42.2914197+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:03:13.1954786+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:12:16.7707542+00:00"
 }

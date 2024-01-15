@@ -2233,10 +2233,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2303,
       "NumberOfAwardsMax": 331
+    },
+    {
+      "Time": "2024-01-15T13:03:18.7352131+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2304,
+      "NumberOfAwardsMax": 331
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2303,
+  "NumberOfAwards": 2304,
   "NumberOfAwardsMax": 331,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2256,7 +2262,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2307,9 +2313,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22151,
+  "EOS_Progressed": 22152,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13412,6 +13418,11 @@
       "Time": "2024-01-15T11:06:42.376693+00:00",
       "NumProgressed": 22151,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-15T13:12:10.8395889+00:00",
+      "NumProgressed": 22152,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13471,7 +13482,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21043
+      "UsersEstimate": 21044
     },
     {
       "ID": "GameOver",
@@ -13606,15 +13617,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22151,
+      "Progressed": 22152,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2024-01-12T21:59:34.1454088+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:08:34.4569643+00:00",
+  "LastChanged": "2024-01-15T13:03:18.735213+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:12:10.8395886+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.8721647+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:57:43.0099533+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:08:34.4570323+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:03:18.7352134+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:12:10.8396494+00:00"
 }

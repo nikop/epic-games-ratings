@@ -6,19 +6,19 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~365 |
-| Mash Machine | 74.00% | ~322 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~239 |
+| Rock of the Bay | 84.00% | ~366 |
+| Mash Machine | 74.00% | ~323 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~240 |
 | Furon Fashion | 48.00% | ~209 |
 | Shop Til They Drop | 40.00% | ~174 |
-| Bodied Sattva | 38.00% | ~165 |
-| Cult Following | 35.00% | ~152 |
+| Bodied Sattva | 38.00% | ~166 |
+| Cult Following | 35.00% | ~153 |
 | Earthly Pleasures | 34.00% | ~148 |
 | Lie Back and Think of Albion | 29.00% | ~126 |
 | Upgreatest | 28.00% | ~122 |
 | Pimp My Raid | 26.00% | ~113 |
 | Freshly Squeezed | 23.00% | ~100 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~91 |
+| I Look Up As I Walk to Takoshima | 21.00% | ~92 |
 | Perfect Probulator | 19.00% | ~83 |
 | Die Nasty | 18.00% | ~78 |
 | Transmitting From Sol-3 | 16.00% | ~70 |
@@ -27,8 +27,8 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 11.00% | ~48 |
 | Dusted | 11.00% | ~48 |
 | Scuttled | 9.00% | ~39 |
-| Lobster Blisque | 7.00% | ~30 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~30 |
+| Lobster Blisque | 7.00% | ~31 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~31 |
 | Yettisoned | 6.00% | ~26 |
 | Ultimate Smoothie | 5.00% | ~22 |
 | Arkvoodle Doodle | 4.00% | ~17 |
@@ -51,7 +51,7 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435 (Ranked 367)  
+Progressed: 436 (Ranked 367)  
 Completed: 2 (0.46%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 2 (0.46%) (Ranked 231)
 | 2024-01-12 | 416 | 2 |
 | 2024-01-13 | 427 | 2 |
 | 2024-01-14 | 432 | 2 |
-| 2024-01-15 | 435 | 2 |
+| 2024-01-15 | 436 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

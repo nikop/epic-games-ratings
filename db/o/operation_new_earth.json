@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2249,
+  "EOS_Progressed": 2250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8686,6 +8686,11 @@
       "Time": "2024-01-15T05:04:52.9375483+00:00",
       "NumProgressed": 2249,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T13:10:39.4010444+00:00",
+      "NumProgressed": 2250,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8793,7 +8798,7 @@
       "Name": "Advanced Warfare",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_headquarters_5",
@@ -8809,7 +8814,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8849,7 +8854,7 @@
       "Name": "Colonel",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -8929,7 +8934,7 @@
       "Name": "Battle Ready",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -8993,14 +8998,14 @@
       "Name": "Control the Skies",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2249,
+      "Progressed": 2250,
       "Completed": 1
     }
   ],
@@ -9008,8 +9013,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:05:51.6761215+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:10:39.4010441+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:02:39.9524632+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:05:51.6762049+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:06:15.6119137+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:10:39.4010984+00:00"
 }

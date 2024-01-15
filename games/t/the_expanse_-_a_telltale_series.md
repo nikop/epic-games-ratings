@@ -13,12 +13,12 @@ Rating: 4.54 (Ranked 550)
 | Impossible Objects | 14.00% | ~2,665 |
 | The Pit and the Pirates | 13.00% | ~2,475 |
 | Drone Dodger | 13.00% | ~2,475 |
-| Spore Taste | 12.00% | ~2,284 |
+| Spore Taste | 12.00% | ~2,285 |
 | Stogie for Fogey | 11.00% | ~2,094 |
 | Zen Master | 11.00% | ~549 |
 | Call it Even | 10.00% | ~1,904 |
 | Safe Cracker | 10.00% | ~499 |
-| Heal Thy Medic | 9.00% | ~1,713 |
+| Heal Thy Medic | 9.00% | ~1,714 |
 | Madame Undersecretary | 9.00% | ~449 |
 | Data Archivist | 8.00% | ~1,523 |
 | Drug Gifter | 8.00% | ~1,523 |
@@ -27,10 +27,10 @@ Rating: 4.54 (Ranked 550)
 | Khan's Revenge | 7.00% | ~1,333 |
 | Doctor Approved | 6.00% | ~1,142 |
 | Bottoms up! | 6.00% | ~1,142 |
-| Master Negotiator | 6.00% | ~299 |
+| Master Negotiator | 6.00% | ~300 |
 | Data Logger | 5.00% | ~952 |
 | Miraculous Maya | 5.00% | ~952 |
-| Data Master | 4.00% | ~761 |
+| Data Master | 4.00% | ~762 |
 | No Belter Left Behind | 3.00% | ~571 |
 | Brother's Reaper | 2.00% | ~381 |
 | Debris Spree | 2.00% | ~381 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 550)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,037 (Ranked 159)  
+Progressed: 19,039 (Ranked 159)  
 Completed: 65 (0.34%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 65 (0.34%) (Ranked 251)
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
-| 2024-01-15 | 19,037 | 65 |
+| 2024-01-15 | 19,039 | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

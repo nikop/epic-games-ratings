@@ -21,10 +21,10 @@
 | Betty Allen | 39.00% | ~44 |
 | Order and method | 38.00% | ~43 |
 | The Investigation Begins | 37.00% | ~42 |
-| Irene Court-Smyth | 34.00% | ~39 |
-| Ms. Camilla B. Culsham | 33.00% | ~38 |
-| An odd series of events | 32.00% | ~36 |
-| The Apartment | 32.00% | ~36 |
+| Irene Court-Smyth | 35.00% | ~40 |
+| Ms. Camilla B. Culsham | 34.00% | ~39 |
+| An odd series of events | 33.00% | ~38 |
+| The Apartment | 33.00% | ~38 |
 | Nathaniel Dryden | 30.00% | ~34 |
 | A rude awakening | 29.00% | ~33 |
 | Bartholomew | 29.00% | ~33 |

@@ -709,9 +709,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12337,
+  "EOS_Progressed": 12338,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15824,6 +15824,11 @@
       "Time": "2024-01-15T11:05:44.4058737+00:00",
       "NumProgressed": 12337,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-15T13:11:12.2944696+00:00",
+      "NumProgressed": 12338,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15835,7 +15840,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10240
+      "UsersEstimate": 10241
     },
     {
       "ID": "ACH02",
@@ -15859,7 +15864,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4812
     },
     {
       "ID": "ACH05",
@@ -15947,7 +15952,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACH16",
@@ -16066,7 +16071,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12337,
+      "Progressed": 12338,
       "Completed": 91
     }
   ],
@@ -16074,8 +16079,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-11T22:58:24.400965+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:06:35.8652724+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:11:12.2944692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:01:22.8662582+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:06:35.8653896+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:57.3144494+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:11:12.2945663+00:00"
 }

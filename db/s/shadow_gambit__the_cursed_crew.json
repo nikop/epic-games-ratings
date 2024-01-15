@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1538,
+  "EOS_Progressed": 1539,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -5331,6 +5331,11 @@
       "Time": "2024-01-15T11:05:23.701526+00:00",
       "NumProgressed": 1538,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-15T13:10:51.1498734+00:00",
+      "NumProgressed": 1539,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5351,7 +5356,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "_03_FinishAct1",
@@ -5359,7 +5364,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5375,7 +5380,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5431,7 +5436,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_13_Completion_60",
@@ -5487,7 +5492,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5519,7 +5524,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5550,7 +5555,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1538,
+      "Progressed": 1539,
       "Completed": 37
     }
   ],
@@ -5558,8 +5563,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:06:07.6428897+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:10:51.1498731+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:59:24.5008726+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:06:07.6429473+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:04:34.8262392+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:10:51.1499063+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 390,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -1620,9 +1620,9 @@
       "ID": "achExplosion",
       "SetID": "72gjli4",
       "Name": "Survival \u2714",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "achFood",
@@ -1869,8 +1869,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:11:07.6503858+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:15:47.0410525+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.8286818+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:02:58.1372572+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:11:07.6504216+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:06:29.3012078+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:15:47.0410855+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "74bc63c48667442dad23f44f7daec969",
   "Name": "Space Chef",
   "ProductSlug": "space-chef-3f1010",
-  "Ranking_EOS_Progress": 828,
+  "Ranking_EOS_Progress": 829,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-15T22:00:58.5980428+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:07:04.5957233+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:11:33.6129623+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.5422384+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:00:10.6333064+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:07:04.5957247+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:08.2903194+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:11:33.6129651+00:00"
 }

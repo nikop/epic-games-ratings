@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5428,
+  "EOS_Progressed": 5429,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5310,6 +5310,11 @@
       "Time": "2024-01-15T05:06:25.310719+00:00",
       "NumProgressed": 5428,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-15T13:09:11.1896455+00:00",
+      "NumProgressed": 5429,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5377,7 +5382,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5385,7 +5390,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5537,7 +5542,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5569,7 +5574,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2931
+      "UsersEstimate": 2932
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5585,7 +5590,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5593,7 +5598,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5601,7 +5606,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1791
+      "UsersEstimate": 1792
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5856,15 +5861,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5428,
+      "Progressed": 5429,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:03:53.0863316+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:09:11.1896451+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:57:25.1686051+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:03:53.0865148+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:03:05.0952487+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:09:11.1897426+00:00"
 }

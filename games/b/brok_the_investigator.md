@@ -9,9 +9,9 @@
 | Chapter 2 | 40.00% | ~19 |
 | It's In My Nature | 40.00% | ~19 |
 | Chapter 3 | 38.00% | ~18 |
+| Chapter 4 | 34.00% | ~16 |
 | Your Days Are Numbered | 34.00% | ~16 |
 | All Materials | 34.00% | ~16 |
-| Chapter 4 | 32.00% | ~15 |
 | Chapter 5 | 30.00% | ~14 |
 | Chapter 6 | 23.00% | ~11 |
 | Best Student | 15.00% | ~7 |
@@ -21,10 +21,10 @@
 | Sugar Pills Lover | 11.00% | ~5 |
 | Hard To Wake Up | 11.00% | ~5 |
 | Chipmunk | 9.00% | ~4 |
+| Paw Music | 9.00% | ~4 |
 | Tramp Saver | 9.00% | ~4 |
 | Bear Cop | 6.00% | ~3 |
 | Secret Locker | 6.00% | ~3 |
-| Paw Music | 6.00% | ~3 |
 | Master of Mattresses | 2.00% | ~1 |
 | Main Endings | 2.00% | ~1 |
 | Pushy, pushy | 2.00% | ~1 |

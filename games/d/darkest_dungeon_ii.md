@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,085 |
+| Malpractice Assurance | 14.00% | ~1,086 |
 | Lost and Found | 9.00% | ~698 |
 | Autodidact | 8.00% | ~10,631 |
 | This Belongs in a Museum | 7.00% | ~9,302 |
@@ -42,17 +42,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,315 |
 | Unshackled | 4.00% | ~5,315 |
 | Friends 'Til the End | 4.00% | ~310 |
-| Resurrection | 3.00% | ~3,986 |
-| Wyrdly Reconstructed | 3.00% | ~3,986 |
-| Boxcar Kid | 3.00% | ~3,986 |
-| Hope Rekindled | 3.00% | ~3,986 |
-| Predator | 3.00% | ~3,986 |
-| Deprogramming | 3.00% | ~3,986 |
-| Reverse Banditry | 3.00% | ~3,986 |
-| A Clear Conscience | 3.00% | ~3,986 |
-| When You Want Something Done Right | 3.00% | ~3,986 |
-| Utopia | 3.00% | ~3,986 |
-| Road Trip | 3.00% | ~3,986 |
+| Resurrection | 3.00% | ~3,987 |
+| Wyrdly Reconstructed | 3.00% | ~3,987 |
+| Boxcar Kid | 3.00% | ~3,987 |
+| Hope Rekindled | 3.00% | ~3,987 |
+| Predator | 3.00% | ~3,987 |
+| Deprogramming | 3.00% | ~3,987 |
+| Reverse Banditry | 3.00% | ~3,987 |
+| A Clear Conscience | 3.00% | ~3,987 |
+| When You Want Something Done Right | 3.00% | ~3,987 |
+| Utopia | 3.00% | ~3,987 |
+| Road Trip | 3.00% | ~3,987 |
 | This Looks Familiar | 2.00% | ~2,658 |
 | Ichthyophobic | 2.00% | ~2,658 |
 | No More Mouths to Feed | 2.00% | ~2,658 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,882 (Ranked 92)  
+Progressed: 132,885 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,882 | 4 |
+| 2024-01-15 | 132,885 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,656 (Ranked 58)  

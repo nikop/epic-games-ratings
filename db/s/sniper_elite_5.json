@@ -673,9 +673,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4286,
+  "EOS_Progressed": 4287,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9728,6 +9728,11 @@
       "Time": "2024-01-15T04:10:46.6681695+00:00",
       "NumProgressed": 4286,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-15T13:15:21.7987364+00:00",
+      "NumProgressed": 4287,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9819,7 +9824,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2014
+      "UsersEstimate": 2015
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9907,7 +9912,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9939,7 +9944,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -10306,13 +10311,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4237,
+      "Progressed": 4238,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4286,
+      "Progressed": 4287,
       "Completed": 11
     }
   ],
@@ -10320,8 +10325,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:10:35.6462644+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:15:21.7987361+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:57:31.4492778+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:10:35.6463709+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:03:09.6807522+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:15:21.7988273+00:00"
 }

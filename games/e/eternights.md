@@ -14,7 +14,7 @@ Rating: 4.79 (Ranked 100)
 | Piggyback Expert | 42.00% | ~381 |
 | Second wall | 32.00% | ~290 |
 | Expert Scavenger | 31.00% | ~281 |
-| Their Rock | 26.00% | ~236 |
+| Their Rock | 27.00% | ~245 |
 | Yuna's Promise | 26.00% | ~236 |
 | Stone Retriever | 26.00% | ~236 |
 | Find myself | 24.00% | ~217 |
@@ -23,9 +23,9 @@ Rating: 4.79 (Ranked 100)
 | Truebro | 16.00% | ~145 |
 | Romantic | 13.00% | ~118 |
 | TentacleMAN | 8.00% | ~72 |
+| Flawless | 5.00% | ~45 |
 | Yohan's Promise | 4.00% | ~36 |
 | Plushyboy | 4.00% | ~36 |
-| Flawless | 4.00% | ~36 |
 | LOVEassistant | 3.00% | ~27 |
 | True Player | 1.00% | ~9 |
 | Dreamboat | 0.90% | ~8 |

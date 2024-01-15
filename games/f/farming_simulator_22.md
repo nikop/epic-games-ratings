@@ -6,24 +6,24 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,528 |
-| I read Shakespeare and stuff | 59.00% | ~37,002 |
-| Just a sprinkle | 58.00% | ~36,375 |
-| I'm stumped | 56.00% | ~35,120 |
-| Plant get enough | 56.00% | ~35,120 |
-| This is just my weekend vehicle | 54.00% | ~33,866 |
-| It's just the beginning | 54.00% | ~33,866 |
-| Hard work pays off | 49.00% | ~30,730 |
-| It's never too late to farm | 45.00% | ~28,222 |
-| All out of Land | 41.00% | ~25,713 |
-| Field Trip | 40.00% | ~25,086 |
+| Own use | 71.00% | ~44,529 |
+| I read Shakespeare and stuff | 59.00% | ~37,003 |
+| Just a sprinkle | 58.00% | ~36,376 |
+| I'm stumped | 56.00% | ~35,122 |
+| Plant get enough | 56.00% | ~35,122 |
+| This is just my weekend vehicle | 54.00% | ~33,867 |
+| It's just the beginning | 54.00% | ~33,867 |
+| Hard work pays off | 49.00% | ~30,731 |
+| It's never too late to farm | 45.00% | ~28,223 |
+| All out of Land | 41.00% | ~25,714 |
+| Field Trip | 40.00% | ~25,087 |
 | I like to switch it up | 37.00% | ~23,205 |
-| Help me to help you | 35.00% | ~21,950 |
+| Help me to help you | 35.00% | ~21,951 |
 | Ultimutt Pawesomeness | 25.00% | ~15,679 |
-| Van Gogh | 23.00% | ~14,424 |
+| Van Gogh | 23.00% | ~14,425 |
 | You wood not believe it | 20.00% | ~12,543 |
 | Vehicle fleet | 20.00% | ~12,543 |
-| Well-Oiled Machine | 15.00% | ~9,407 |
+| Well-Oiled Machine | 15.00% | ~9,408 |
 | Clucky Streak | 14.00% | ~8,780 |
 | The plot thickens | 14.00% | ~8,780 |
 | Large-scale supplier | 14.00% | ~8,780 |
@@ -33,14 +33,14 @@ Number of Ratings: 7,683  (23.09.2022)
 | Highly cultivated | 10.00% | ~6,272 |
 | It's sow easy | 10.00% | ~6,272 |
 | Rock on | 10.00% | ~6,272 |
-| Giddy-up! | 9.00% | ~5,644 |
+| Giddy-up! | 9.00% | ~5,645 |
 | Cowherd | 6.00% | ~3,763 |
 | Fluffyness | 6.00% | ~3,763 |
 | Road Trip | 5.00% | ~3,136 |
 | Helper A does not stop … ever | 5.00% | ~3,136 |
 | Bringing in the Honey | 5.00% | ~3,136 |
 | Three little piggies… | 4.00% | ~2,509 |
-| Game on | 3.00% | ~1,881 |
+| Game on | 3.00% | ~1,882 |
 | Pretty colourful | 0.70% | ~439 |
 | Original grain | 0.70% | ~439 |
 | Gone but not for cotton | 0.50% | ~314 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~251 |
 | Raisin the stakes | 0.30% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,715 (Ranked 119)  
+Progressed: 62,717 (Ranked 119)  
 Completed: 6 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 6 (0.01%) (Ranked 376)
 | 2024-01-12 | 62,391 | 6 |
 | 2024-01-13 | 62,542 | 6 |
 | 2024-01-14 | 62,687 | 6 |
-| 2024-01-15 | 62,715 | 6 |
+| 2024-01-15 | 62,717 | 6 |
 ## Awards
 Max (Great for Beginners): 6,104  (Ranked 67)  
 Sum: 45,662 (Ranked 34)  

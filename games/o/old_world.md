@@ -18,6 +18,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learned | 3.00% | ~506 |
 | Mason | 3.00% | ~506 |
 | Noble | 3.00% | ~506 |
+| Pioneer | 3.00% | ~506 |
 | Strong | 3.00% | ~506 |
 | Hanging Gardens | 3.00% | ~506 |
 | Oracle | 3.00% | ~506 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great | 2.00% | ~337 |
 | Keystone | 2.00% | ~337 |
 | Magnificent | 2.00% | ~337 |
-| Pioneer | 2.00% | ~337 |
 | Warrior | 2.00% | ~337 |
 | Wise | 2.00% | ~337 |
 | Developing Cities | 2.00% | ~337 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
+| Legionary | 0.80% | ~135 |
 | Win a Single Player Game | 0.80% | ~135 |
 | The Clergy | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.70% | ~118 |
 | Legalism | 0.70% | ~118 |
 | Cimmerian Archer | 0.70% | ~118 |
-| Legionary | 0.70% | ~118 |
 | Double Victory | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
@@ -143,6 +143,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
 | Royal Library | 0.40% | ~67 |
+| Yazilikaya | 0.40% | ~67 |
 | Carthage - Ox Hide | 0.30% | ~51 |
 | Noble Difficulty | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
@@ -153,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.30% | ~51 |
 | Poetic Leader | 0.30% | ~51 |
 | Jebel Barkal | 0.30% | ~51 |
-| Yazilikaya | 0.30% | ~51 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,854 (Ranked 169)  
+Progressed: 16,857 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,854 | 5 |
+| 2024-01-15 | 16,857 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

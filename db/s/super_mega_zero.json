@@ -2,7 +2,7 @@
   "ID": "a81935facd474f49a4547a1d9b560626",
   "Name": "Super Mega Zero",
   "ProductSlug": "super-mega-zero-485299",
-  "Ranking_EOS_Progress": 828,
+  "Ranking_EOS_Progress": 829,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.6270403+00:00",
   "LastChanged": "2023-03-31T05:58:12.6270404+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:25.5179267+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:00:06.0113335+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:10:31.9441953+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:05.2660891+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:15:18.9495203+00:00"
 }

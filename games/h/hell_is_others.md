@@ -5,7 +5,7 @@ Rating: 4.39 (Ranked 785)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,810 |
+| Survivor | 31.00% | ~80,811 |
 | Predator I | 23.00% | ~59,956 |
 | Fixer I | 10.00% | ~26,068 |
 | A week in Century City | 10.00% | ~26,068 |
@@ -41,9 +41,9 @@ Rating: 4.39 (Ranked 785)
 | A major purchase | 0.60% | ~1,564 |
 | Interior designer | 0.60% | ~1,564 |
 | The Descent | 0.50% | ~1,303 |
+| Predator III | 0.50% | ~1,303 |
 | Expert Hunter | 0.40% | ~1,043 |
 | Fungi hunter | 0.40% | ~1,043 |
-| Predator III | 0.40% | ~1,043 |
 | Arms dealer | 0.30% | ~782 |
 | Fixer III | 0.30% | ~782 |
 | AML questionnaire | 0.30% | ~782 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 785)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,679 (Ranked 68)  
+Progressed: 260,680 (Ranked 68)  
 Completed: 3 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,19 +332,19 @@ Completed: 3 (0.00%) (Ranked 401)
 | 2024-01-12 | 260,575 | 3 |
 | 2024-01-13 | 260,622 | 3 |
 | 2024-01-14 | 260,668 | 3 |
-| 2024-01-15 | 260,679 | 3 |
+| 2024-01-15 | 260,680 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 446)  
-Sum: 379 (Ranked 367)  
+Sum: 381 (Ranked 367)  
 Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 55 |
-| This game has Unique Visuals | 42 |
+| This game has Unique Visuals | 43 |
 | This game has Amazing Characters | 41 |
+| This game has Amazing Storytelling | 39 |
 | This game has Challenging Combat | 38 |
 | This game is Highly Recommended | 38 |
-| This game has Amazing Storytelling | 38 |
 | This game has Quickly Understood Controls | 34 |
 | This game has a Competitive Community | 34 |
 | This game has Competitive Players | 33 |
@@ -550,4 +550,4 @@ Diff (max vs sum): 79
 | 2024-01-11 | 4.39 | 54 | 376 |
 | 2024-01-13 | 4.40 | 54 | 376 |
 | 2024-01-14 | 4.40 | 54 | 378 |
-| 2024-01-15 | 4.39 | 55 | 379 |
+| 2024-01-15 | 4.39 | 55 | 381 |

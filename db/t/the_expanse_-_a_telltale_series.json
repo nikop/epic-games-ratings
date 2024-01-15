@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19037,
+  "EOS_Progressed": 19039,
   "EOS_Completed": 65,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 5,
@@ -17434,6 +17434,11 @@
       "Time": "2024-01-15T12:05:48.590055+00:00",
       "NumProgressed": 19037,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T13:10:37.1400876+00:00",
+      "NumProgressed": 19039,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17510,7 +17515,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "18",
@@ -17566,7 +17571,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "24",
@@ -17646,7 +17651,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "6",
@@ -17710,7 +17715,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "35",
@@ -17725,13 +17730,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19037,
+      "Progressed": 19039,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4991,
+      "Progressed": 4993,
       "Completed": 1329
     }
   ],
@@ -17739,8 +17744,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:05:48.5900546+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:10:37.1400872+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:59:04.5806955+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:05:48.5901875+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:04:19.7624481+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:10:37.1401889+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 323,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -1557,9 +1557,9 @@
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
       "SetID": "caeik3h",
       "Name": "Gotta Go Fast",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 294
     },
     {
       "ID": "KR4_ACHIEVEMENT_CURSE_ME_KILTS",
@@ -1605,9 +1605,9 @@
       "ID": "KR4_ACHIEVEMENT_DESTROY_MINE_CARTS",
       "SetID": "caeik3h",
       "Name": "Final Destination",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "KR4_ACHIEVEMENT_DWARVES_KINGDOM_FULL",
@@ -1885,9 +1885,9 @@
       "ID": "KR4_ACHIEVEMENT_MOLE",
       "SetID": "caeik3h",
       "Name": "Guac-a-Mole",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOUSETHON",
@@ -2005,9 +2005,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -2116,8 +2116,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:06:39.7873834+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:11:15.2795597+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:59:43.4094399+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:06:39.787456+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:04:49.5296821+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:11:15.2796434+00:00"
 }

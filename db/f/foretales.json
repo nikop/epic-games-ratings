@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,6 +289,11 @@
     {
       "Time": "2024-01-14T02:04:47.186447+00:00",
       "NumProgressed": 300,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T13:09:25.2638946+00:00",
+      "NumProgressed": 301,
       "NumCompleted": 0
     }
   ],
@@ -589,7 +594,7 @@
       "Name": "Caged tiger",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "theUnionLeader",
@@ -597,7 +602,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "trialByCombat",
@@ -628,7 +633,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
@@ -636,8 +641,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:04:12.720042+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:09:25.2638928+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.1478942+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:01:09.2099733+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:04:12.7200676+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:47.6594504+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:09:25.2639297+00:00"
 }

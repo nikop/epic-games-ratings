@@ -22,8 +22,8 @@ Number of Ratings: 85  (23.09.2022)
 | Forbidden Donut | 37.00% | ~184 |
 | Freshly Squeezed | 37.00% | ~184 |
 | Upgreatest | 36.00% | ~179 |
+| Deincarnated | 30.00% | ~149 |
 | Furon Fashion | 30.00% | ~149 |
-| Deincarnated | 29.00% | ~144 |
 | Rock of the Bay | 28.00% | ~139 |
 | Trans-Siberian Express | 26.00% | ~129 |
 | Re-Return of the Clone of the Invasion II-2 | 20.00% | ~100 |
@@ -38,7 +38,7 @@ Number of Ratings: 85  (23.09.2022)
 | Higher Than the Futen Zoku | 12.00% | ~60 |
 | Scuttled | 11.00% | ~55 |
 | PK Slam Dunk | 10.00% | ~50 |
-| Arty Facts | 9.00% | ~45 |
+| Arty Facts | 10.00% | ~50 |
 | Cult Following | 6.00% | ~30 |
 | To Russia With Love | 6.00% | ~30 |
 | Path of the Furon | 6.00% | ~30 |

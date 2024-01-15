@@ -861,9 +861,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3899,
+  "EOS_Progressed": 3900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6011,6 +6011,11 @@
       "Time": "2024-01-15T05:04:20.0363943+00:00",
       "NumProgressed": 3899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T13:10:06.5623856+00:00",
+      "NumProgressed": 3900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6502,7 +6507,7 @@
       "Name": "Reign of Confusion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ExperiencedCulexus",
@@ -6510,7 +6515,7 @@
       "Name": "Abomination",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ExperiencedEversor",
@@ -6542,7 +6547,7 @@
       "Name": "Suffer Not the Mutant",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MissionVictory_BoardingAction",
@@ -6565,21 +6570,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3899,
+      "Progressed": 3900,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3899,
+      "Progressed": 3900,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-15T12:03:36.5686066+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:05:07.2429181+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:10:06.5623852+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:03:36.5686071+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:05:07.2430002+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:08:58.1776475+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:10:06.5624823+00:00"
 }

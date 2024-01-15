@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4174,
+  "EOS_Progressed": 4177,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
@@ -5049,6 +5049,11 @@
       "Time": "2024-01-15T11:08:28.7559287+00:00",
       "NumProgressed": 4174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T13:12:16.2443874+00:00",
+      "NumProgressed": 4177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5085,7 +5090,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5133,7 +5138,7 @@
       "Name": "Dark Prizes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -5165,7 +5170,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5229,7 +5234,7 @@
       "Name": "Competitor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -5245,7 +5250,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5261,7 +5266,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1880
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5436,14 +5441,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4174,
+      "Progressed": 4177,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:08:41.5836672+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:12:16.244387+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-15T11:59:50.4356425+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:08:41.5837403+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:04:54.8036119+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:12:16.2444356+00:00"
 }

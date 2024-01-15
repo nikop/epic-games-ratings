@@ -5,39 +5,39 @@ Rating: 4.72 (Ranked 195)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,254 |
-| First of Many | 12.00% | ~35,254 |
-| Not Your Average Trait | 10.00% | ~29,379 |
-| Expanding Horizons | 8.00% | ~23,503 |
-| Quest for Survival | 8.00% | ~23,503 |
-| Boss'n Up | 8.00% | ~23,503 |
-| Gleaming the Cube | 7.00% | ~20,565 |
-| Not So Special Now | 7.00% | ~20,565 |
-| Familiar Face | 7.00% | ~20,565 |
-| Trait Chaser | 7.00% | ~20,565 |
-| Not a Janitor | 6.00% | ~17,627 |
-| Equal Measures | 6.00% | ~17,627 |
-| Blue Goddess | 6.00% | ~17,627 |
-| Duality | 6.00% | ~17,627 |
-| Top Performer | 6.00% | ~17,627 |
-| Almost There | 6.00% | ~17,627 |
-| Make Some Room | 6.00% | ~17,627 |
-| Good, But Could Be Better! | 6.00% | ~17,627 |
-| Am I Seeing This? | 5.00% | ~14,689 |
-| Dark Designs | 5.00% | ~14,689 |
-| Shhh...It's a Secret | 5.00% | ~14,689 |
-| Was This Supposed To Happen? | 5.00% | ~14,689 |
-| Chaos | 4.00% | ~11,751 |
-| Traitor | 4.00% | ~11,751 |
-| Forever is a Long Time Coming | 4.00% | ~11,751 |
-| Power Surge | 4.00% | ~11,751 |
-| The God Gambit | 4.00% | ~11,751 |
-| Madman's Paradise | 4.00% | ~11,751 |
-| The Agenda | 4.00% | ~11,751 |
-| Strapped | 4.00% | ~11,751 |
-| The Web | 4.00% | ~11,751 |
-| Scrap Collector | 4.00% | ~11,751 |
-| All These Traits� | 4.00% | ~11,751 |
+| The Killing Jar | 12.00% | ~35,258 |
+| First of Many | 12.00% | ~35,258 |
+| Not Your Average Trait | 10.00% | ~29,382 |
+| Expanding Horizons | 8.00% | ~23,505 |
+| Quest for Survival | 8.00% | ~23,505 |
+| Boss'n Up | 8.00% | ~23,505 |
+| Gleaming the Cube | 7.00% | ~20,567 |
+| Not So Special Now | 7.00% | ~20,567 |
+| Familiar Face | 7.00% | ~20,567 |
+| Trait Chaser | 7.00% | ~20,567 |
+| Not a Janitor | 6.00% | ~17,629 |
+| Equal Measures | 6.00% | ~17,629 |
+| Blue Goddess | 6.00% | ~17,629 |
+| Duality | 6.00% | ~17,629 |
+| Top Performer | 6.00% | ~17,629 |
+| Almost There | 6.00% | ~17,629 |
+| Make Some Room | 6.00% | ~17,629 |
+| Good, But Could Be Better! | 6.00% | ~17,629 |
+| Am I Seeing This? | 5.00% | ~14,691 |
+| Dark Designs | 5.00% | ~14,691 |
+| Shhh...It's a Secret | 5.00% | ~14,691 |
+| Was This Supposed To Happen? | 5.00% | ~14,691 |
+| Chaos | 4.00% | ~11,753 |
+| Traitor | 4.00% | ~11,753 |
+| Forever is a Long Time Coming | 4.00% | ~11,753 |
+| Power Surge | 4.00% | ~11,753 |
+| The God Gambit | 4.00% | ~11,753 |
+| Madman's Paradise | 4.00% | ~11,753 |
+| The Agenda | 4.00% | ~11,753 |
+| Strapped | 4.00% | ~11,753 |
+| The Web | 4.00% | ~11,753 |
+| Scrap Collector | 4.00% | ~11,753 |
+| All These Traits� | 4.00% | ~11,753 |
 | Tall Tales | 3.00% | ~8,814 |
 | Bad Moon Rising | 3.00% | ~8,814 |
 | Edgelord | 3.00% | ~8,814 |
@@ -54,14 +54,14 @@ Rating: 4.72 (Ranked 195)
 | The Trigger | 2.00% | ~5,876 |
 | The Collector | 2.00% | ~5,876 |
 | Maxed Out! | 2.00% | ~5,876 |
-| Master of the Dark Arts | 2.00% | ~1,459 |
+| Master of the Dark Arts | 2.00% | ~1,460 |
 | Cutting Edge | 1.00% | ~2,938 |
 | Proving Grounds | 1.00% | ~2,938 |
 | Succession | 0.80% | ~584 |
 | You Shall Pass | 0.70% | ~511 |
 | A Foul Feast | 0.50% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 293,786 (Ranked 64)  
+Progressed: 293,815 (Ranked 64)  
 Completed: 1,070 (0.36%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,21 +244,21 @@ Completed: 1,070 (0.36%) (Ranked 248)
 | 2024-01-12 | 291,566 | 1,001 |
 | 2024-01-13 | 292,574 | 1,031 |
 | 2024-01-14 | 293,510 | 1,059 |
-| 2024-01-15 | 293,786 | 1,070 |
+| 2024-01-15 | 293,815 | 1,070 |
 ## Awards
 Max (Great Boss Battles): 6,915  (Ranked 59)  
-Sum: 15,445 (Ranked 73)  
+Sum: 15,492 (Ranked 73)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,915 |
 | This game is Highly Recommended | 970 |
 | This game has Diverse Characters | 929 |
+| This game has Challenging Combat | 900 |
+| This game is Relaxing | 890 |
 | This game is Extremely Fun | 884 |
 | This game has Amazing Storytelling | 882 |
-| This game has Challenging Combat | 878 |
 | This game has Quickly Understood Controls | 875 |
-| This game is Relaxing | 865 |
 | This game has Amazing Characters | 841 |
 | This game has Unique Visuals | 783 |
 | This game has a Creative Community | 623 |
@@ -438,4 +438,4 @@ Diff (max vs sum): -14
 | 2024-01-12 | 4.72 | 6,484 | 14,580 |
 | 2024-01-13 | 4.72 | 6,620 | 14,927 |
 | 2024-01-14 | 4.72 | 6,778 | 15,286 |
-| 2024-01-15 | 4.72 | 6,915 | 15,445 |
+| 2024-01-15 | 4.72 | 6,915 | 15,492 |

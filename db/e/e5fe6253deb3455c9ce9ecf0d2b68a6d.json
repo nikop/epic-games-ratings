@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 548,
+  "EOS_Progressed": 549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2149,6 +2149,11 @@
       "Time": "2024-01-14T17:04:26.3971782+00:00",
       "NumProgressed": 548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T13:10:25.3415709+00:00",
+      "NumProgressed": 549,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2185,7 +2190,7 @@
       "Name": "Full load",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "Island",
@@ -2199,9 +2204,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 253
     },
     {
       "ID": "Master",
@@ -2272,14 +2277,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 548,
+      "Progressed": 549,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:05:32.634664+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:10:25.3415705+00:00",
   "LastUpdate_AppInfo": "2024-01-09T04:57:00.8185326+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:01:09.0353621+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:05:32.6346847+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:47.4292482+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:10:25.3415903+00:00"
 }

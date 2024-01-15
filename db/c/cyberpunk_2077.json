@@ -18458,10 +18458,10 @@
       "Count": 19003
     }
   ],
-  "EOS_Progressed": 1051869,
-  "EOS_Completed": 3099,
-  "EOS_NewPlayers": 16698,
-  "EOS_NewCompleters": 50,
+  "EOS_Progressed": 1051926,
+  "EOS_Completed": 3100,
+  "EOS_NewPlayers": 16561,
+  "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -49373,6 +49373,11 @@
       "Time": "2024-01-15T12:09:28.4784992+00:00",
       "NumProgressed": 1051869,
       "NumCompleted": 3099
+    },
+    {
+      "Time": "2024-01-15T13:14:30.7827363+00:00",
+      "NumProgressed": 1051926,
+      "NumCompleted": 3100
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49761,7 +49766,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Easycomeeasygo",
@@ -49785,7 +49790,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "Kingofcups",
@@ -49825,7 +49830,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "UltimateSurvivor",
@@ -49841,7 +49846,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "HydraIsDead",
@@ -49849,7 +49854,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "IHateSpider",
@@ -49857,7 +49862,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KingOfTheCups",
@@ -49865,7 +49870,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KingOfThePentacles",
@@ -49873,7 +49878,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KingOfTheSwords",
@@ -49881,7 +49886,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "KingOfTheWands",
@@ -49889,7 +49894,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "TheTower",
@@ -49897,7 +49902,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "DirtyWork",
@@ -49905,7 +49910,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "EasyComeEasyGo",
@@ -49913,28 +49918,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1051869,
-      "Completed": 3099
+      "Progressed": 1051926,
+      "Completed": 3100
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 180492,
+      "Progressed": 180549,
       "Completed": 10616
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-15T12:03:32.1187328+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:09:28.4784989+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:14:30.782736+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:03:32.1187335+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:09:28.4787028+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:08:55.0897135+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:14:30.7828896+00:00"
 }

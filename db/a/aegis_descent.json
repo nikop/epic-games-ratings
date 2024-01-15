@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 462,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -925,8 +925,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:04:21.1010328+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:09:31.5629995+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.1613596+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:00:33.3833971+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:04:21.1010738+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:21.8900852+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:09:31.5630283+00:00"
 }

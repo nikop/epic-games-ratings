@@ -47,9 +47,9 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.70% | ~27 |
 | Exercise in Restraint | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
-| Reign of Confusion | 0.50% | ~19 |
-| Abomination | 0.50% | ~19 |
-| Suffer Not the Mutant | 0.50% | ~19 |
+| Reign of Confusion | 0.50% | ~20 |
+| Abomination | 0.50% | ~20 |
+| Suffer Not the Mutant | 0.50% | ~20 |
 | Deadshot | 0.40% | ~16 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,899 (Ranked 221)  
+Progressed: 3,900 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 3,886 | 0 |
 | 2024-01-13 | 3,891 | 0 |
 | 2024-01-14 | 3,898 | 0 |
-| 2024-01-15 | 3,899 | 0 |
+| 2024-01-15 | 3,900 | 0 |
 ## Awards
 Max (Character Customization): 236  (Ranked 284)  
 Sum: 506 (Ranked 336)  

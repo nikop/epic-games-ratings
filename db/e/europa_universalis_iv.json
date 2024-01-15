@@ -14439,9 +14439,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499341,
+  "EOS_Progressed": 499364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4474,
+  "EOS_NewPlayers": 4461,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45609,6 +45609,11 @@
       "Time": "2024-01-15T12:11:12.9423879+00:00",
       "NumProgressed": 499341,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T13:15:52.0259564+00:00",
+      "NumProgressed": 499364,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -48284,7 +48289,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -48523,21 +48528,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499341,
+      "Progressed": 499364,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499341,
+      "Progressed": 499364,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-15T12:01:08.348633+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:11:12.9423875+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:15:52.0259561+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:01:08.3486338+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:11:12.9434326+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:05:46.9464994+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:15:52.0270122+00:00"
 }

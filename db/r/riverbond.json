@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535667,
+  "EOS_Progressed": 535668,
   "EOS_Completed": 522,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29284,6 +29284,11 @@
       "Time": "2024-01-15T11:08:52.1234888+00:00",
       "NumProgressed": 535667,
       "NumCompleted": 522
+    },
+    {
+      "Time": "2024-01-15T13:14:19.5016228+00:00",
+      "NumProgressed": 535668,
+      "NumCompleted": 522
     }
   ],
   "TotalAchievements": 57,
@@ -29295,7 +29300,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123203
+      "UsersEstimate": 123204
     },
     {
       "ID": "10",
@@ -29303,7 +29308,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 241050
+      "UsersEstimate": 241051
     },
     {
       "ID": "11",
@@ -29311,7 +29316,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 374967
+      "UsersEstimate": 374968
     },
     {
       "ID": "12",
@@ -29591,7 +29596,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91063
+      "UsersEstimate": 91064
     },
     {
       "ID": "44",
@@ -29631,7 +29636,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 107133
+      "UsersEstimate": 107134
     },
     {
       "ID": "49",
@@ -29655,7 +29660,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74993
+      "UsersEstimate": 74994
     },
     {
       "ID": "51",
@@ -29679,7 +29684,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123203
+      "UsersEstimate": 123204
     },
     {
       "ID": "54",
@@ -29750,15 +29755,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535667,
+      "Progressed": 535668,
       "Completed": 522
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-15T12:09:13.7012369+00:00",
+  "LastChanged_Achievements": "2024-01-15T13:14:19.5016225+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:02:35.9118656+00:00",
-  "LastUpdate_Achievements": "2024-01-15T12:09:13.7014312+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:06:13.157846+00:00",
+  "LastUpdate_Achievements": "2024-01-15T13:14:19.501768+00:00"
 }
