@@ -22,16 +22,16 @@
 | 17 | [Ooblets](games/o/ooblets.md) | 4.88 | 1,052 | 160 |
 | 17 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 250,989 | 5 |
 | 17 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.88 | 116 | 363 |
-| 23 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 329 | 256 |
-| 23 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,568 | 138 |
-| 23 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 767 | 191 |
-| 23 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 14,996 | 26 |
-| 23 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 23 | 563 |
-| 23 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 51 | 457 |
-| 23 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.87 | 0 | 586 |
-| 23 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 602 | 209 |
-| 23 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.87 | 0 | 586 |
-| 23 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.87 | 0 | 586 |
+| 17 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.88 | 0 | 586 |
+| 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 329 | 256 |
+| 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,568 | 138 |
+| 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 767 | 191 |
+| 24 | [Satisfactory](games/s/satisfactory.md) | 4.87 | 14,996 | 26 |
+| 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 23 | 563 |
+| 24 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.87 | 51 | 457 |
+| 24 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.87 | 0 | 586 |
+| 24 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.87 | 602 | 209 |
+| 24 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.87 | 0 | 586 |
 | 33 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 144 | 335 |
 | 33 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 45 | 475 |
 | 33 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.86 | 0 | 586 |
@@ -75,7 +75,7 @@
 | 71 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 6,394 | 64 |
 | 71 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 586 |
 | 71 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 34 | 513 |
-| 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,184 | 150 |
+| 71 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 1,197 | 150 |
 | 71 | [Sifu](games/s/sifu.md) | 4.82 | 7,205 | 57 |
 | 71 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 449 | 234 |
 | 71 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 60 | 435 |
@@ -415,7 +415,7 @@
 | 399 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.61 | 0 | 586 |
 | 399 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,373 | 143 |
 | 399 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 640 | 202 |
-| 399 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,837 | 39 |
+| 399 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,847 | 39 |
 | 399 | [RiME](games/r/rime.md) | 4.61 | 0 | 586 |
 | 399 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,106 | 155 |
 | 399 | [Rogue Lords](games/r/rogue_lords.md) | 4.61 | 0 | 586 |
@@ -529,7 +529,7 @@
 | 510 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.56 | 35 | 505 |
 | 510 | [The Invincible](games/t/the_invincible.md) | 4.56 | 0 | 586 |
 | 510 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.56 | 0 | 586 |
-| 510 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,381 | 75 |
+| 510 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 5,388 | 75 |
 | 531 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 586 |
 | 531 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 586 |
 | 531 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 586 |

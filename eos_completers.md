@@ -45,7 +45,7 @@
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.41% |
 | 45 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.34% |
+| 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.33% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.56% |
 | 48 | [Smelter](games/s/smelter.md) | 8.51% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
