@@ -463,6 +463,7 @@
 | [Life Changer](../games/f/f853934fb6874d8783701be12ba6b8b9.md) | 20 | 1,000 |
 | [Lifeslide](../games/l/lifeslide.md) | 31 | 1,000 |
 | [Lifespace Traveler](../games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 13 | 1,000 |
+| [Lil' Guardsman](../games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 48 | 1,000 |
 | [Little Brother Jim](../games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 5 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
 | [Lords of the Fallen](../games/t/the_lords_of_the_fallen.md) | 63 | 1,000 |

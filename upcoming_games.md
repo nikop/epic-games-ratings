@@ -11,7 +11,9 @@
 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | 2024-01-19 | 21 (1,000 XP) | 1 | - | - |
 | [Geometric Sniper](games/1/17514f68442f4cb19f6219f45309142b.md) | 2024-01-19 | 35 (1,000 XP) | 0 | - | - |
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | - |
+| [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 2024-01-22 | 22 (1,000 XP) | 2 | - | - |
 | [Howl](games/h/howl.md) | 2024-01-23 | - |  | - | - |
+| [Lil' Guardsman](games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 2024-01-23 | 48 (1,000 XP) | 1 | - | - |
 | [Fairytale Solitaire: Red Riding Hood](games/4/4f08134bd1c74665a7372714be114f6a.md) | 2024-01-23 | - |  | - | - |
 | [Toribash Next](games/2/2bee239ee96643fbb2afab3013004136.md) | 2024-01-24 | - |  | - | - |
 | [Red Glare](games/f/fb88fc36cd3b4e0da545c51c4a908474.md) | 2024-01-24 | - |  | - | - |

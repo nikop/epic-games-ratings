@@ -206,6 +206,7 @@
 | [Chaos Galaxy](../games/c/chaos_galaxy.md) | 48 | 1,000 |
 | [Hand of Fate 2](../games/h/hand_of_fate_2.md) | 48 | 1,000 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
+| [Lil' Guardsman](../games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 48 | 1,000 |
 | [NeuroNet: Mendax Proxy](../games/n/neuronet__mendax_proxy.md) | 48 | 1,000 |
 | [Occupy Mars: The Game](../games/o/occupy_mars__the_game.md) | 48 | 1,000 |
 | [Pillars of Eternity - Definitive Edition](../games/p/pillars_of_eternity_-_definitive_edition.md) | 48 | 1,000 |

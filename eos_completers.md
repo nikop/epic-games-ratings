@@ -28,7 +28,7 @@
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.65% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.44% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.43% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -62,8 +62,8 @@
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
-| 63 | [Scorn](games/s/scorn.md) | 6.87% |
-| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.72% |
+| 63 | [Scorn](games/s/scorn.md) | 6.86% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.83% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -146,7 +146,7 @@
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
-| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.73% |
+| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.74% |
 | 148 | [Sifu](games/s/sifu.md) | 1.71% |
 | 149 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 150 | [Frogun](games/f/frogun.md) | 1.67% |
@@ -156,8 +156,8 @@
 | 154 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
 | 155 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.43% |
 | 156 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.39% |
-| 157 | [Chorus](games/c/chorus.md) | 1.34% |
 | 157 | [Ten Dates](games/t/ten_dates.md) | 1.34% |
+| 158 | [Chorus](games/c/chorus.md) | 1.33% |
 | 159 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.32% |
 | 160 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.24% |
@@ -222,12 +222,12 @@
 | 220 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 221 | [Five Dates](games/f/five_dates.md) | 0.52% |
 | 221 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.52% |
+| 223 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
 | 223 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 224 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
-| 224 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
-| 224 | [Haven](games/h/haven.md) | 0.50% |
-| 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
-| 224 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 225 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
+| 225 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
+| 225 | [Haven](games/h/haven.md) | 0.50% |
+| 225 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 229 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
 | 230 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.48% |
 | 231 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
@@ -610,6 +610,7 @@
 | 401 | [Life Changer](games/f/f853934fb6874d8783701be12ba6b8b9.md) | 0.00% |
 | 401 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
 | 401 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 0.00% |
+| 401 | [Lil' Guardsman](games/3/33fcce6151b249118a2b7d79c1dfe6b1.md) | 0.00% |
 | 401 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
 | 401 | [Loretta](games/l/loretta.md) | 0.00% |
 | 401 | [LOVE 3](games/l/love_3.md) | 0.00% |
@@ -703,6 +704,7 @@
 | 401 | [Riftbound](games/r/riftbound.md) | 0.00% |
 | 401 | [Rise of Industry](games/r/rise_of_industry.md) | 0.00% |
 | 401 | [Risen](games/r/risen.md) | 0.00% |
+| 401 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 0.00% |
 | 401 | [Road 96](games/r/road_96.md) | 0.00% |
 | 401 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 0.00% |
 | 401 | [Roboplant](games/r/roboplant.md) | 0.00% |
@@ -830,4 +832,4 @@
 | 401 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 401 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 401 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,846 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,847 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
