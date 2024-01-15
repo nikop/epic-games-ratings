@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1710,
+  "EOS_Progressed": 1711,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4525,6 +4525,11 @@
       "Time": "2024-01-15T15:10:00.0953913+00:00",
       "NumProgressed": 1710,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T19:09:37.8620336+00:00",
+      "NumProgressed": 1711,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4545,7 +4550,7 @@
       "Name": "I remember everything!",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "AchvAssertive",
@@ -4553,7 +4558,7 @@
       "Name": "On her own",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "AchvBattleScore",
@@ -4569,7 +4574,7 @@
       "Name": "Peacemaker",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "AchvBombing",
@@ -4601,7 +4606,7 @@
       "Name": "The Alliance",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "AchvDoom",
@@ -4625,7 +4630,7 @@
       "Name": "Another giant",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4641,7 +4646,7 @@
       "Name": "Volcanologist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4713,7 +4718,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "AchvReachCity",
@@ -4721,7 +4726,7 @@
       "Name": "The City",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "AchvReachCondor",
@@ -4737,7 +4742,7 @@
       "Name": "Survivors",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4768,7 +4773,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1710,
+      "Progressed": 1711,
       "Completed": 1
     }
   ],
@@ -4776,8 +4781,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:03.6791993+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:09:37.8620334+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:02:49.2931788+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:03.6792333+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:00:29.3212592+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:09:37.862072+00:00"
 }

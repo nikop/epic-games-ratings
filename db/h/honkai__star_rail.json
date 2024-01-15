@@ -5,9 +5,9 @@
   "Ranking_Rating": 182,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 16,
-  "Ranking_EOS_Progress": 831,
+  "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -10387,10 +10387,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 117948,
       "NumberOfAwardsMax": 28754
+    },
+    {
+      "Time": "2024-01-15T18:58:11.512595+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 117981,
+      "NumberOfAwardsMax": 28754
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 117948,
+  "NumberOfAwards": 117981,
   "NumberOfAwardsMax": 28754,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10434,7 +10440,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7663
+      "Count": 7696
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10479,8 +10485,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-01-15T13:58:13.9779906+00:00",
+  "LastChanged": "2024-01-15T18:58:11.5125949+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.8911998+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:33.6067323+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:06:33.5333791+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:11.5125955+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:05:57.8024512+00:00"
 }

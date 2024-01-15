@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 574,
+  "EOS_Progressed": 575,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -2374,6 +2374,11 @@
       "Time": "2024-01-15T10:06:31.5089804+00:00",
       "NumProgressed": 574,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T19:05:55.7421867+00:00",
+      "NumProgressed": 575,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2386,7 +2391,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2418,7 +2423,7 @@
       "Name": "Empty Shelves",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "CATCH_30_FISH",
@@ -2442,7 +2447,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2450,7 +2455,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "HOUSEWARMING",
@@ -2466,7 +2471,7 @@
       "Name": "Leech Lunch",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2530,7 +2535,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2545,14 +2550,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 574,
+      "Progressed": 575,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:06:31.3430681+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:05:55.7421863+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:30.8774467+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:06:31.3430961+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:01.6322367+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:05:55.7422165+00:00"
 }

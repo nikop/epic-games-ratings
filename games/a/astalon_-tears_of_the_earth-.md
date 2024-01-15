@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 49.00% | ~43 |
+| Horn prize! | 48.00% | ~43 |
 | Beast Quest | 35.00% | ~31 |
 | Orb Gatherer | 34.00% | ~30 |
 | Monster Hunt | 34.00% | ~30 |
 | Space worm! | 34.00% | ~30 |
-| Beast Hunter | 32.00% | ~28 |
-| Orb Collector | 31.00% | ~27 |
-| Unmasked! | 31.00% | ~27 |
-| Loot, loot! | 31.00% | ~27 |
-| Vanquisher! | 30.00% | ~26 |
-| Twin slayer! | 30.00% | ~26 |
-| Snakehead! | 30.00% | ~26 |
-| Mercenary! | 30.00% | ~26 |
+| Beast Hunter | 31.00% | ~28 |
+| Orb Collector | 30.00% | ~27 |
+| Unmasked! | 30.00% | ~27 |
+| Loot, loot! | 30.00% | ~27 |
+| Vanquisher! | 29.00% | ~26 |
+| Twin slayer! | 29.00% | ~26 |
+| Snakehead! | 29.00% | ~26 |
+| Mercenary! | 29.00% | ~26 |
 | Fly, you fool! | 28.00% | ~25 |
 | Beast Knight | 26.00% | ~23 |
 | Relic Collector | 24.00% | ~21 |
-| God of the Tower! | 23.00% | ~20 |
-| Cartographer | 23.00% | ~20 |
+| God of the Tower! | 22.00% | ~20 |
+| Cartographer | 22.00% | ~20 |
 | Wizard Mastery | 16.00% | ~14 |
 | Rogue Mastery | 15.00% | ~13 |
-| Destoy all monsters! | 14.00% | ~12 |
-| Slay the Monster! | 14.00% | ~12 |
-| Fighter Mastery | 13.00% | ~11 |
+| Destoy all monsters! | 13.00% | ~12 |
+| Slay the Monster! | 13.00% | ~12 |
+| Fighter Mastery | 12.00% | ~11 |
 | Gorgonslayer Mastery | 10.00% | ~9 |
 | Built for adventure | 10.00% | ~9 |
 | Collector Mastery | 10.00% | ~9 |
 | True Black Knight | 9.00% | ~8 |
 | Freedom Monster | 9.00% | ~8 |
-| No match for me! | 5.00% | ~4 |
-| True Titan | 5.00% | ~4 |
+| No match for me! | 4.00% | ~4 |
+| True Titan | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 509)  
-Completed: 4 (4.55%) (Ranked 80)  
+Progressed: 89 (Ranked 508)  
+Completed: 4 (4.49%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,6 +74,7 @@ Completed: 4 (4.55%) (Ranked 80)
 | 2024-01-10 | 86 | 4 |
 | 2024-01-11 | 87 | 4 |
 | 2024-01-13 | 88 | 4 |
+| 2024-01-15 | 89 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

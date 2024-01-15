@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2716,9 +2716,9 @@
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 361
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2924,9 +2924,9 @@
       "ID": "ach_main18unholy_completed",
       "SetID": "4hg22ll",
       "Name": "The Rune Sockets of Finitude (Part 1)",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_main18unholy_researches",
@@ -3005,8 +3005,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-14T23:58:07.1773064+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:09:46.0513823+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:09:21.9909673+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:47.6410112+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:09:46.0514335+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:23.7532618+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:09:21.9910402+00:00"
 }

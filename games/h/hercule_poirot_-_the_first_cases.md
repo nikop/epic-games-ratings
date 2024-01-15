@@ -23,7 +23,7 @@ Rating: 4.38 (Ranked 797)
 | Curious and Beautiful | 43.00% | ~217 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~217 |
 | The Interrogations | 43.00% | ~217 |
-| Well-acquainted | 40.00% | ~202 |
+| Well-acquainted | 41.00% | ~207 |
 | Zakariya Demir | 40.00% | ~202 |
 | Well-read | 39.00% | ~197 |
 | Cassandra Van den Bosch | 37.00% | ~187 |

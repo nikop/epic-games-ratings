@@ -2,9 +2,9 @@
   "ID": "5feb8fb5da084884b66d1d56e67526b9",
   "Name": "ORDINEM",
   "ProductSlug": "ordinem-50c183",
-  "Ranking_EOS_Progress": 831,
+  "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T08:57:05.5295405+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:02:53.4576437+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:06:29.068075+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:00:32.0434467+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:05:53.7791346+00:00"
 }

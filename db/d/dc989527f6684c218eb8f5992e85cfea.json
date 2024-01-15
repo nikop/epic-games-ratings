@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15583,
+  "EOS_Progressed": 15584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19161,6 +19161,11 @@
       "Time": "2024-01-15T17:06:31.5607426+00:00",
       "NumProgressed": 15583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T19:05:15.1614882+00:00",
+      "NumProgressed": 15584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19252,7 +19257,7 @@
       "Name": "First words",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ONLY_ONE_TO_NOT_GUESS_CORRECTLY",
@@ -19371,7 +19376,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15583,
+      "Progressed": 15584,
       "Completed": 0
     }
   ],
@@ -19379,8 +19384,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:05:48.2529495+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:05:15.161488+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.4408266+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:00:31.381181+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:05:48.2530466+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:55.9805179+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:05:15.1616333+00:00"
 }

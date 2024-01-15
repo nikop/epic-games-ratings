@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4241,9 +4241,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59468,
+  "EOS_Progressed": 59469,
   "EOS_Completed": 261,
-  "EOS_NewPlayers": 864,
+  "EOS_NewPlayers": 853,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -18781,6 +18781,11 @@
       "Time": "2024-01-15T18:08:25.6205358+00:00",
       "NumProgressed": 59468,
       "NumCompleted": 261
+    },
+    {
+      "Time": "2024-01-15T19:06:17.3801391+00:00",
+      "NumProgressed": 59469,
+      "NumCompleted": 261
     }
   ],
   "TotalAchievements": 45,
@@ -18816,7 +18821,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45790
+      "UsersEstimate": 45791
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -18904,7 +18909,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33302
+      "UsersEstimate": 33303
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -18944,7 +18949,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17840
+      "UsersEstimate": 17841
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -19032,7 +19037,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33302
+      "UsersEstimate": 33303
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19056,7 +19061,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57089
+      "UsersEstimate": 57090
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19072,7 +19077,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4757
+      "UsersEstimate": 4758
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -19096,7 +19101,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41033
+      "UsersEstimate": 41034
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19144,22 +19149,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41033
+      "UsersEstimate": 41034
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59468,
+      "Progressed": 59469,
       "Completed": 261
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-14T23:58:29.8267778+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:08:25.6205355+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:06:17.3801388+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:09.6972749+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:08:25.6206202+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:42.4912444+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:06:17.3802398+00:00"
 }

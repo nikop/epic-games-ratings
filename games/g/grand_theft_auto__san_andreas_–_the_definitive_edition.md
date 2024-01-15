@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 511)
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,597 (Ranked 157)  
-Completed: 78 (0.40%) (Ranked 241)  
+Completed: 78 (0.40%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,14 +314,14 @@ Completed: 78 (0.40%) (Ranked 241)
 | 2024-01-15 | 19,597 | 78 |
 ## Awards
 Max (Great Boss Battles): 677  (Ranked 199)  
-Sum: 1,095 (Ranked 269)  
+Sum: 1,096 (Ranked 269)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 677 |
 | This game has Amazing Characters | 60 |
 | This game is Relaxing | 58 |
-| This game has Amazing Storytelling | 57 |
+| This game has Amazing Storytelling | 58 |
 | This game is Highly Recommended | 56 |
 | This game is Great for Beginners | 53 |
 | This game has Diverse Characters | 53 |
@@ -562,4 +562,4 @@ Diff (max vs sum): -70
 | 2024-01-12 | 4.55 | 652 | 1,048 |
 | 2024-01-13 | 4.55 | 659 | 1,065 |
 | 2024-01-14 | 4.55 | 667 | 1,079 |
-| 2024-01-15 | 4.56 | 677 | 1,095 |
+| 2024-01-15 | 4.56 | 677 | 1,096 |

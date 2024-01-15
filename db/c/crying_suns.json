@@ -4,7 +4,7 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 596,
   "Ranking_Popularity": 288,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 153,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473915,
+  "EOS_Progressed": 473916,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28634,6 +28634,11 @@
       "Time": "2024-01-15T18:10:35.710991+00:00",
       "NumProgressed": 473915,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-15T19:10:06.5090472+00:00",
+      "NumProgressed": 473916,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28669,7 +28674,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104261
+      "UsersEstimate": 104262
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -28733,7 +28738,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312784
+      "UsersEstimate": 312785
     },
     {
       "ID": "achievement_story_landa",
@@ -29077,7 +29082,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 142174
+      "UsersEstimate": 142175
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -29157,7 +29162,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104261
+      "UsersEstimate": 104262
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -29276,21 +29281,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17849,
+      "Progressed": 17850,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473915,
+      "Progressed": 473916,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:35.7109907+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:10:06.5090469+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:00:04.2932195+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:35.7111549+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:31.7231811+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:10:06.5092478+00:00"
 }

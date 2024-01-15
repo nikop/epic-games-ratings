@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1035,
+  "EOS_Progressed": 1036,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3707,6 +3707,11 @@
       "Time": "2024-01-15T05:08:30.4198247+00:00",
       "NumProgressed": 1035,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T19:08:25.950342+00:00",
+      "NumProgressed": 1036,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3766,15 +3771,15 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "kill-lieutenants",
       "SetID": "bed33dd",
       "Name": "Spreading Fear",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 83
     },
     {
       "ID": "pack-and-sell",
@@ -3790,7 +3795,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "product-profit",
@@ -3798,7 +3803,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "rage-quit",
@@ -3806,7 +3811,7 @@
       "Name": "Bad Trip",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "rename-lieutenant",
@@ -3838,7 +3843,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "unlock-residences",
@@ -3846,15 +3851,15 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 818
     },
     {
       "ID": "use-submarine",
@@ -3869,15 +3874,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1035,
+      "Progressed": 1036,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:08:46.322294+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:08:25.9503416+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:03:15.0956104+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:08:46.3223226+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:02:51.0024471+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:08:25.9503736+00:00"
 }

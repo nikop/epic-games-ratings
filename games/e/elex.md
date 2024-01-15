@@ -1,7 +1,7 @@
 # ELEX
 [Store](https://store.epicgames.com/en-US/p/elex)  
 [View Rawdata](../../db/e/elex.json)  
-Rating: 4.44 (Ranked 707)  
+Rating: 4.45 (Ranked 693)  
 Number of Ratings: 58  (23.09.2022)  
 ## Awards
 Max (Character Customization): 26  (Ranked 547)  
@@ -76,3 +76,4 @@ Diff (max vs sum): -12
 | 2023-12-31 | 4.46 | - | 24 | 24 |
 | 2024-01-05 | 4.46 | - | 25 | 25 |
 | 2024-01-10 | 4.44 | - | 26 | 26 |
+| 2024-01-15 | 4.45 | - | 26 | 26 |

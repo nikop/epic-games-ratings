@@ -2,9 +2,9 @@
   "ID": "3158eff6ba964fac942ac66b9446484a",
   "Name": "Power of Ten",
   "ProductSlug": "power-of-ten-6a2719",
-  "Ranking_EOS_Progress": 831,
+  "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T01:44:48.5789227+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:04:05.3906252+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:03:39.3756463+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.4167004+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:00:33.7455872+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:04:05.3906296+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:57.9316242+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:03:39.3756499+00:00"
 }

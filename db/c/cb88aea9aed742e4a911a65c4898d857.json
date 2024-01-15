@@ -365,9 +365,9 @@
       "Count": 143
     }
   ],
-  "EOS_Progressed": 11529,
+  "EOS_Progressed": 11531,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 785,
+  "EOS_NewPlayers": 778,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5005,6 +5005,11 @@
       "Time": "2024-01-15T18:10:28.8159922+00:00",
       "NumProgressed": 11529,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T19:10:00.4573139+00:00",
+      "NumProgressed": 11531,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5017,7 +5022,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "03_TheStolenStar",
@@ -5025,7 +5030,7 @@
       "Name": "Stolen Star",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5177,7 +5182,7 @@
       "Name": "Perfect Timing",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "23_DynastyRestored",
@@ -5193,7 +5198,7 @@
       "Name": "Highrise",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "25_DynastyProspers",
@@ -5225,7 +5230,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5536,7 +5541,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11529,
+      "Progressed": 11531,
       "Completed": 1
     }
   ],
@@ -5544,8 +5549,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-15T17:58:07.3868021+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:28.8159919+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:10:00.4573137+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:07.3868026+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:28.8160517+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:57:47.540354+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:10:00.4573823+00:00"
 }

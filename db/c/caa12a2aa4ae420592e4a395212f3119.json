@@ -2,9 +2,9 @@
   "ID": "caa12a2aa4ae420592e4a395212f3119",
   "Name": "Degenheim",
   "ProductSlug": "degenheim-f84f02",
-  "Ranking_EOS_Progress": 831,
+  "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.4865017+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:57:52.1292304+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:08:50.2766744+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:57:33.0498376+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:08:29.5600559+00:00"
 }

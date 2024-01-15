@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5193,9 +5193,9 @@
       "Count": 624
     }
   ],
-  "EOS_Progressed": 23872,
+  "EOS_Progressed": 23873,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1302,
+  "EOS_NewPlayers": 1291,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16613,6 +16613,11 @@
       "Time": "2024-01-15T18:09:04.6878729+00:00",
       "NumProgressed": 23872,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T19:08:43.0129095+00:00",
+      "NumProgressed": 23873,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16625,7 +16630,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8116
+      "UsersEstimate": 8117
     },
     {
       "ID": "ach02",
@@ -16665,7 +16670,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15994
+      "UsersEstimate": 15995
     },
     {
       "ID": "ach07",
@@ -16673,7 +16678,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10742
+      "UsersEstimate": 10743
     },
     {
       "ID": "ach08",
@@ -16801,7 +16806,7 @@
       "Name": "Take And Deny",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4774
+      "UsersEstimate": 4775
     },
     {
       "ID": "ach24",
@@ -16841,7 +16846,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "ach29",
@@ -16857,7 +16862,7 @@
       "Name": "Juggernaut",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "ach31",
@@ -16889,7 +16894,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "ach35",
@@ -16913,7 +16918,7 @@
       "Name": "ABACABB",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10981
+      "UsersEstimate": 10982
     },
     {
       "ID": "ach38",
@@ -16945,7 +16950,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5729
+      "UsersEstimate": 5730
     },
     {
       "ID": "ach42",
@@ -16953,7 +16958,7 @@
       "Name": "Quest Master",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "ach43",
@@ -16977,7 +16982,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2148
+      "UsersEstimate": 2149
     },
     {
       "ID": "ach46",
@@ -17024,7 +17029,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23872,
+      "Progressed": 23873,
       "Completed": 2
     }
   ],
@@ -17032,8 +17037,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-15T16:03:37.1500541+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:09:04.6878725+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:08:43.012909+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:03:08.8612543+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:09:04.6879556+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:02:45.3639111+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:08:43.013027+00:00"
 }

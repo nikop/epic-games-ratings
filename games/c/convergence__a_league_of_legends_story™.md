@@ -33,9 +33,9 @@ Rating: 4.68 (Ranked 261)
 | Whiz Kid | 15.00% | ~200 |
 | Good Neighbor | 15.00% | ~200 |
 | Family Memories | 14.00% | ~186 |
+| Ask Questions Later | 14.00% | ~186 |
 | Chaincrawler Explorer | 13.00% | ~173 |
 | Syron for Hope | 13.00% | ~173 |
-| Ask Questions Later | 13.00% | ~173 |
 | Treasure Trove | 12.00% | ~160 |
 | Cartographer | 12.00% | ~160 |
 | Sump Explorer | 12.00% | ~160 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
@@ -1571,6 +1571,11 @@
       "Time": "2024-01-15T09:09:55.8901765+00:00",
       "NumProgressed": 523,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-15T19:09:42.0287587+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1612,9 +1617,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 236
     },
     {
       "ID": "profile_ryan",
@@ -1622,7 +1627,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "ryan_date2_all",
@@ -1733,7 +1738,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 7
     }
   ],
@@ -1741,8 +1746,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:08.276037+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:09:42.0287583+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:18.7829189+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:40.7660442+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:08.2760587+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:17.427653+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:09:42.0287747+00:00"
 }

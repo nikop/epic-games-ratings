@@ -2249,9 +2249,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22416,
+  "EOS_Progressed": 22418,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14004,6 +14004,11 @@
       "Time": "2024-01-15T18:10:06.905167+00:00",
       "NumProgressed": 22416,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T19:09:40.7193132+00:00",
+      "NumProgressed": 22418,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14039,7 +14044,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14047,7 +14052,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6053
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14117,9 +14122,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4932
+      "UsersEstimate": 5156
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14143,7 +14148,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "KILL_ROBOT",
@@ -14183,7 +14188,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14207,7 +14212,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6052
+      "UsersEstimate": 6053
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14223,7 +14228,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3363
     },
     {
       "ID": "STORY_HANGAR",
@@ -14247,7 +14252,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5828
+      "UsersEstimate": 5829
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14367,7 +14372,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14390,13 +14395,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22416,
+      "Progressed": 22418,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10342,
+      "Progressed": 10344,
       "Completed": 29
     }
   ],
@@ -14404,8 +14409,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-15T11:03:39.3194832+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:06.9051668+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:09:40.719313+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:03:33.2802087+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:06.9052389+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:03:07.8759658+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:09:40.7193972+00:00"
 }

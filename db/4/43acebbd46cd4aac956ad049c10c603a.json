@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 1413,
+  "EOS_Progressed": 1414,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4122,6 +4122,11 @@
       "Time": "2024-01-15T18:05:26.4293453+00:00",
       "NumProgressed": 1413,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T19:04:54.3192375+00:00",
+      "NumProgressed": 1414,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4142,7 +4147,7 @@
       "Name": "Ab Initio",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "AnthropicHills",
@@ -4150,7 +4155,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Archaeologist",
@@ -4254,7 +4259,7 @@
       "Name": "Excellent",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "FloodedValley",
@@ -4350,7 +4355,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "MuseumVisitor",
@@ -4364,9 +4369,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 99
     },
     {
       "ID": "NewMorality",
@@ -4382,7 +4387,7 @@
       "Name": "Not What It Seems",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Overload",
@@ -4390,7 +4395,7 @@
       "Name": "Overload",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "Persistent",
@@ -4398,7 +4403,7 @@
       "Name": "Persistent",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "PrometheusUnbound",
@@ -4420,9 +4425,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 495
     },
     {
       "ID": "RenaissanceRobot",
@@ -4470,7 +4475,7 @@
       "Name": "Southern Coast",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "TeamSpirit",
@@ -4478,7 +4483,7 @@
       "Name": "Team Spirit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "TextAdventurer",
@@ -4524,9 +4529,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 410
     },
     {
       "ID": "TheThiefOfFire",
@@ -4534,7 +4539,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "TheWordEndures",
@@ -4550,7 +4555,7 @@
       "Name": "Touch Grass",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "TrevorsBiographer",
@@ -4558,7 +4563,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "VerdantCanyon",
@@ -4605,7 +4610,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1413,
+      "Progressed": 1414,
       "Completed": 2
     }
   ],
@@ -4613,8 +4618,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-14T21:57:41.4867657+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:05:26.4293449+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:04:54.3192373+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:30.8554706+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:05:26.429398+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:09.1937637+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:04:54.3193354+00:00"
 }

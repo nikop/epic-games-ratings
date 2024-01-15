@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9533,10 +9533,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33510,
       "NumberOfAwardsMax": 5784
+    },
+    {
+      "Time": "2024-01-15T18:57:37.6135044+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33512,
+      "NumberOfAwardsMax": 5784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33510,
+  "NumberOfAwards": 33512,
   "NumberOfAwardsMax": 5784,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9574,7 +9580,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4329
+      "Count": 4331
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9583,9 +9589,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254061,
+  "EOS_Progressed": 254064,
   "EOS_Completed": 2617,
-  "EOS_NewPlayers": 1330,
+  "EOS_NewPlayers": 1322,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40243,6 +40249,11 @@
       "Time": "2024-01-15T18:10:41.0202412+00:00",
       "NumProgressed": 254061,
       "NumCompleted": 2617
+    },
+    {
+      "Time": "2024-01-15T19:10:10.94462+00:00",
+      "NumProgressed": 254064,
+      "NumCompleted": 2617
     }
   ],
   "TotalAchievements": 546,
@@ -40254,7 +40265,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10162
+      "UsersEstimate": 10163
     },
     {
       "ID": "objective_completed_10",
@@ -41118,7 +41129,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "objective_completed_1203",
@@ -43470,7 +43481,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "objective_completed_80",
@@ -44621,21 +44632,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220335,
+      "Progressed": 220338,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254061,
+      "Progressed": 254064,
       "Completed": 2617
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-15T17:57:56.7726179+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:41.0202408+00:00",
+  "LastChanged": "2024-01-15T18:57:37.6135042+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:10:10.9446197+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:57:56.7726184+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:41.0226685+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:57:37.6135048+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:10:10.9469281+00:00"
 }

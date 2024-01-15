@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,705 |
-| Meticulously Efficient | 9.00% | ~3,031 |
+| Stylish | 11.00% | ~3,706 |
+| Meticulously Efficient | 9.00% | ~3,032 |
 | Advancement | 8.00% | ~2,695 |
 | Discovery | 6.00% | ~2,021 |
 | Solo Capture | 6.00% | ~2,021 |
@@ -17,22 +17,22 @@ Rating: 4.50 (Ranked 616)
 | Teamwork | 5.00% | ~1,684 |
 | There you are! | 5.00% | ~1,684 |
 | Vaporous Expansion | 5.00% | ~1,684 |
+| Whoopsie | 5.00% | ~1,684 |
 | Cultured | 4.00% | ~1,347 |
 | Daily Dose | 4.00% | ~1,347 |
 | Ghostbuster In Training | 4.00% | ~1,347 |
 | Right back at ya | 4.00% | ~1,347 |
-| Whoopsie | 4.00% | ~1,347 |
-| Animated | 3.00% | ~1,010 |
-| Back Off | 3.00% | ~1,010 |
-| We have the best insurance | 3.00% | ~1,010 |
-| Ectoplasmic Entity | 3.00% | ~1,010 |
-| Icing on the Cake | 3.00% | ~1,010 |
-| Legions | 3.00% | ~1,010 |
-| Pesky Jerks | 3.00% | ~1,010 |
-| Rift Destroyer | 3.00% | ~1,010 |
-| Seasoned | 3.00% | ~1,010 |
-| Side Hustle | 3.00% | ~1,010 |
-| Summoner | 3.00% | ~1,010 |
+| Animated | 3.00% | ~1,011 |
+| Back Off | 3.00% | ~1,011 |
+| We have the best insurance | 3.00% | ~1,011 |
+| Ectoplasmic Entity | 3.00% | ~1,011 |
+| Icing on the Cake | 3.00% | ~1,011 |
+| Legions | 3.00% | ~1,011 |
+| Pesky Jerks | 3.00% | ~1,011 |
+| Rift Destroyer | 3.00% | ~1,011 |
+| Seasoned | 3.00% | ~1,011 |
+| Side Hustle | 3.00% | ~1,011 |
+| Summoner | 3.00% | ~1,011 |
 | Collector | 2.00% | ~674 |
 | Escape Artist | 2.00% | ~674 |
 | Reckless | 2.00% | ~674 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 616)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,682 (Ranked 140)  
+Progressed: 33,687 (Ranked 140)  
 Completed: 71 (0.21%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 71 (0.21%) (Ranked 279)
 | 2024-01-12 | 33,580 | 71 |
 | 2024-01-13 | 33,613 | 71 |
 | 2024-01-14 | 33,664 | 71 |
-| 2024-01-15 | 33,682 | 71 |
+| 2024-01-15 | 33,687 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,965 (Ranked 188)  

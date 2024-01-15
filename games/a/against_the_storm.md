@@ -30,6 +30,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 4.00% | ~832 |
 | Trade Baron | 4.00% | ~832 |
 | Untamed Wilds | 4.00% | ~832 |
+| Against All Odds | 3.00% | ~624 |
 | Bandit Camp | 3.00% | ~624 |
 | Barren Lands | 3.00% | ~624 |
 | Ancient Battleground | 3.00% | ~624 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 3.00% | ~624 |
 | Serving Ale | 2.00% | ~416 |
 | Refinery | 2.00% | ~416 |
-| Against All Odds | 2.00% | ~416 |
 | Fishmen Ritual Site | 2.00% | ~416 |
 | Victory Through Prosperity | 2.00% | ~416 |
 | Defying the Crown | 2.00% | ~416 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,802 (Ranked 156)  
+Progressed: 20,804 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-12 | 20,729 | 34 |
 | 2024-01-13 | 20,758 | 35 |
 | 2024-01-14 | 20,781 | 35 |
-| 2024-01-15 | 20,802 | 35 |
+| 2024-01-15 | 20,804 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,386 (Ranked 178)  

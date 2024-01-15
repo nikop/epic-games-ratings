@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2331,
+  "EOS_Progressed": 2332,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4407,6 +4407,11 @@
       "Time": "2024-01-15T17:05:19.1885294+00:00",
       "NumProgressed": 2331,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-15T19:04:19.8764009+00:00",
+      "NumProgressed": 2332,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4416,9 +4421,9 @@
       "ID": "BecomeKing",
       "SetID": "9lj35g4",
       "Name": "Become King",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 70
     },
     {
       "ID": "Collect20Gold",
@@ -4705,13 +4710,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2331,
+      "Progressed": 2332,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 972,
+      "Progressed": 973,
       "Completed": 921
     }
   ],
@@ -4719,8 +4724,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:04:48.6747979+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:04:19.8764006+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:10.7115216+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:04:48.6748485+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:43.4635407+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:04:19.8764548+00:00"
 }

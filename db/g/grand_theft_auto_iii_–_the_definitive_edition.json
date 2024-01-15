@@ -715,9 +715,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12344,
+  "EOS_Progressed": 12345,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15850,6 +15850,11 @@
       "Time": "2024-01-15T17:06:47.1120795+00:00",
       "NumProgressed": 12344,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-15T19:05:26.9826737+00:00",
+      "NumProgressed": 12345,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15869,7 +15874,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4321
     },
     {
       "ID": "ACH03",
@@ -15885,7 +15890,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "ACH05",
@@ -15901,7 +15906,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2345
+      "UsersEstimate": 2346
     },
     {
       "ID": "ACH07",
@@ -15981,7 +15986,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "ACH17",
@@ -16092,7 +16097,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12344,
+      "Progressed": 12345,
       "Completed": 91
     }
   ],
@@ -16100,8 +16105,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-15T17:01:26.9166732+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:06:01.026859+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:05:26.9826734+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:00:49.3871528+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:06:01.0269352+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:00:13.087953+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:05:26.982789+00:00"
 }

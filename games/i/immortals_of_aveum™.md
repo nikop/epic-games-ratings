@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,077 |
-| Battlefields Have Memories | 81.00% | ~2,800 |
-| Enlisted | 75.00% | ~2,593 |
-| Maybe Engage a Little | 70.00% | ~2,420 |
+| Unforeseen | 89.00% | ~3,078 |
+| Battlefields Have Memories | 81.00% | ~2,801 |
+| Enlisted | 75.00% | ~2,594 |
+| Maybe Engage a Little | 70.00% | ~2,421 |
 | No More Names | 54.00% | ~1,867 |
 | Initiate | 40.00% | ~1,383 |
 | Thrada-Kul | 36.00% | ~1,245 |
@@ -30,8 +30,8 @@ Rating: 4.18 (Ranked 984)
 | Periapt Cerulean | 9.00% | ~311 |
 | Good Boy | 8.00% | ~277 |
 | Periapt Viridian | 7.00% | ~242 |
+| Shroudfane Explorer | 7.00% | ~242 |
 | Best Dressed | 6.00% | ~207 |
-| Shroudfane Explorer | 6.00% | ~207 |
 | Kitted Out | 5.00% | ~173 |
 | Armaments Gules | 5.00% | ~173 |
 | Scholar | 4.00% | ~138 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 984)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,457 (Ranked 229)  
+Progressed: 3,458 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.14%) (Ranked 298)
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
-| 2024-01-15 | 3,457 | 5 |
+| 2024-01-15 | 3,458 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

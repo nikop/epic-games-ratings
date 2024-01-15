@@ -319,7 +319,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 18666,
+  "EOS_Progressed": 18667,
   "EOS_Completed": 329,
   "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 21,
@@ -10009,6 +10009,11 @@
       "Time": "2024-01-15T18:10:04.7016947+00:00",
       "NumProgressed": 18666,
       "NumCompleted": 329
+    },
+    {
+      "Time": "2024-01-15T19:09:38.7587037+00:00",
+      "NumProgressed": 18667,
+      "NumCompleted": 329
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10021,7 +10026,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16426
+      "UsersEstimate": 16427
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10029,7 +10034,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15119
+      "UsersEstimate": 15120
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10093,7 +10098,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4666
+      "UsersEstimate": 4667
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -10117,7 +10122,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 12133
+      "UsersEstimate": 12134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10165,7 +10170,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -10173,7 +10178,7 @@
       "Name": "Still Single",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -10205,7 +10210,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 11013
+      "UsersEstimate": 11014
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -10229,7 +10234,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9893
+      "UsersEstimate": 9894
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10237,7 +10242,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9333
+      "UsersEstimate": 9334
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -10261,7 +10266,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -10293,7 +10298,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5786
+      "UsersEstimate": 5787
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -10356,7 +10361,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18666,
+      "Progressed": 18667,
       "Completed": 329
     }
   ],
@@ -10364,8 +10369,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-14T18:02:03.5191349+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:04.7016945+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:09:38.7587034+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:57:23.9228449+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:04.7017587+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:57:06.3319823+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:09:38.7587808+00:00"
 }

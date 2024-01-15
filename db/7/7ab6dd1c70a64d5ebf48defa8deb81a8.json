@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2343,
+  "EOS_Progressed": 2344,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4608,6 +4608,11 @@
       "Time": "2024-01-15T18:10:29.949781+00:00",
       "NumProgressed": 2343,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T19:10:01.3958829+00:00",
+      "NumProgressed": 2344,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4651,7 +4656,7 @@
       "Name": "To Battle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_06",
@@ -4659,7 +4664,7 @@
       "Name": "Godslayer",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_07",
@@ -4723,7 +4728,7 @@
       "Name": "Airborne",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_15",
@@ -4731,7 +4736,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_16",
@@ -4779,7 +4784,7 @@
       "Name": "Big Bazar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_22",
@@ -4811,7 +4816,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "ACH_26",
@@ -4851,7 +4856,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_31",
@@ -4867,7 +4872,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_34",
@@ -4906,7 +4911,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2343,
+      "Progressed": 2344,
       "Completed": 3
     }
   ],
@@ -4914,8 +4919,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:29.9497808+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:10:01.3958826+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:40.3006743+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:29.9498169+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:10.934561+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:10:01.3959346+00:00"
 }

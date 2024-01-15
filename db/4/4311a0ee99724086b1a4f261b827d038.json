@@ -3,7 +3,7 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 532,
-  "Ranking_Popularity": 498,
+  "Ranking_Popularity": 499,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 401,
@@ -899,9 +899,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 243553,
+  "EOS_Progressed": 243563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1339,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21369,6 +21369,11 @@
       "Time": "2024-01-15T18:10:24.5499125+00:00",
       "NumProgressed": 243553,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T19:09:56.364089+00:00",
+      "NumProgressed": 243563,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21413,7 +21418,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1948
+      "UsersEstimate": 1949
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -21437,7 +21442,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51146
+      "UsersEstimate": 51148
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21445,7 +21450,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21920
+      "UsersEstimate": 21921
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -21461,7 +21466,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9742
+      "UsersEstimate": 9743
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -21565,7 +21570,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34097
+      "UsersEstimate": 34099
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -21637,7 +21642,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60888
+      "UsersEstimate": 60891
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21652,7 +21657,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 243553,
+      "Progressed": 243563,
       "Completed": 0
     }
   ],
@@ -21660,8 +21665,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-15T13:58:05.7097013+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:24.5499122+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:09:56.3640888+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:25.4102989+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:24.5500448+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:04.0143873+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:09:56.3642348+00:00"
 }

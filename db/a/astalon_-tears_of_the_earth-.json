@@ -2,9 +2,9 @@
   "ID": "5e09944aaced4155ac9463196b5deada",
   "Name": "Astalon -Tears of the Earth-",
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
-  "Ranking_EOS_Progress": 509,
-  "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 462,
+  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 89,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:01.3708206+00:00",
@@ -229,6 +229,11 @@
       "Time": "2024-01-13T14:03:46.8109279+00:00",
       "NumProgressed": 88,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T19:04:09.6078702+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 30,
@@ -238,7 +243,7 @@
       "ID": "Beat_Boss_Rush",
       "SetID": "4f0g260",
       "Name": "No match for me!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -246,7 +251,7 @@
       "ID": "Beat_Game",
       "SetID": "4f0g260",
       "Name": "Vanquisher!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -254,7 +259,7 @@
       "ID": "Beat_Game_100",
       "SetID": "4f0g260",
       "Name": "God of the Tower!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 20
     },
@@ -286,7 +291,7 @@
       "ID": "Buy_All_Arias_Character_Deals",
       "SetID": "4f0g260",
       "Name": "Fighter Mastery",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -334,7 +339,7 @@
       "ID": "Collect_50000_Orbs",
       "SetID": "4f0g260",
       "Name": "Orb Collector",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -342,7 +347,7 @@
       "ID": "Complete_Bestiary_100",
       "SetID": "4f0g260",
       "Name": "Destoy all monsters!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 12
     },
@@ -358,7 +363,7 @@
       "ID": "Complete_Bestiary_50",
       "SetID": "4f0g260",
       "Name": "Beast Hunter",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 28
     },
@@ -382,7 +387,7 @@
       "ID": "Defeat_5000_Enemies",
       "SetID": "4f0g260",
       "Name": "Slay the Monster!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -390,7 +395,7 @@
       "ID": "Defeat_Gemini",
       "SetID": "4f0g260",
       "Name": "Twin slayer!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -398,7 +403,7 @@
       "ID": "Defeat_Medusa",
       "SetID": "4f0g260",
       "Name": "Snakehead!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -406,7 +411,7 @@
       "ID": "Defeat_Solaria",
       "SetID": "4f0g260",
       "Name": "Unmasked!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -414,7 +419,7 @@
       "ID": "Defeat_Tauros",
       "SetID": "4f0g260",
       "Name": "Horn prize!",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
       "UsersEstimate": 43
     },
@@ -446,7 +451,7 @@
       "ID": "Get_100_Map_Completion",
       "SetID": "4f0g260",
       "Name": "Cartographer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 40,
       "UsersEstimate": 20
     },
@@ -454,7 +459,7 @@
       "ID": "Unlock_All_Secrets",
       "SetID": "4f0g260",
       "Name": "True Titan",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -462,7 +467,7 @@
       "ID": "Unlock_Bram",
       "SetID": "4f0g260",
       "Name": "Mercenary!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 26
     },
@@ -470,7 +475,7 @@
       "ID": "Unlock_Zeek",
       "SetID": "4f0g260",
       "Name": "Loot, loot!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
       "UsersEstimate": 27
     }
@@ -479,7 +484,7 @@
     {
       "ID": "4f0g260",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 89,
       "Completed": 4
     }
   ],
@@ -487,8 +492,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:04:37.6352231+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:04:09.6078701+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.4983113+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:33.0063042+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:04:37.635243+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:03.750786+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:04:09.6078957+00:00"
 }

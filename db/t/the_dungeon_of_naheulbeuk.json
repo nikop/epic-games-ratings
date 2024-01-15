@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1755,9 +1755,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248271,
+  "EOS_Progressed": 248275,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26305,6 +26305,11 @@
       "Time": "2024-01-15T18:10:36.8805136+00:00",
       "NumProgressed": 248271,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-15T19:10:07.3803446+00:00",
+      "NumProgressed": 248275,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26340,7 +26345,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -26428,7 +26433,7 @@
       "Name": "The Statuette of Gladeulfeurah",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "CollateralVictim",
@@ -26460,7 +26465,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "CompanionPriestress",
@@ -26668,7 +26673,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -26700,7 +26705,7 @@
       "Name": "A tale of adventurers not quite like the others...",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "Dwarf30Insult",
@@ -26716,7 +26721,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22344
+      "UsersEstimate": 22345
     },
     {
       "ID": "DwarfElf15Support",
@@ -26732,7 +26737,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "DwarfInsultWin",
@@ -26756,7 +26761,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -26764,7 +26769,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91860
+      "UsersEstimate": 91862
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26820,7 +26825,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "FollowNarzatok",
@@ -26836,7 +26841,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "KillDungeonLich",
@@ -26932,7 +26937,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "RangerEpic",
@@ -26940,7 +26945,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "Rogue30Backstab",
@@ -26948,7 +26953,7 @@
       "Name": "I am the night",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "RogueEpic",
@@ -26956,7 +26961,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "Speedrun",
@@ -27019,21 +27024,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248271,
+      "Progressed": 248275,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248271,
+      "Progressed": 248275,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-15T09:59:27.1713683+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:10:36.8805133+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:10:07.3803444+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:44.2473285+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:10:36.8806704+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:59:14.3981764+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:10:07.3805431+00:00"
 }

@@ -337,7 +337,7 @@
   "Tags": [],
   "EOS_Progressed": 2738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8502,9 +8502,9 @@
       "ID": "A51",
       "SetID": "9b7p7eo",
       "Name": "Call of Duty",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 301
     },
     {
       "ID": "A52",
@@ -8543,8 +8543,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-14T14:57:36.3985254+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:06:18.6701545+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:05:44.0326385+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:58:28.9564165+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:06:18.6702305+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:07.4955251+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:05:44.0327008+00:00"
 }

@@ -15,7 +15,7 @@
 | Terminated III | 18.00% | ~172 |
 | Nanonic II | 15.00% | ~143 |
 | Fully Modded | 13.00% | ~124 |
-| Starship Docks | 11.00% | ~105 |
+| Starship Docks | 12.00% | ~115 |
 | Nanonic III | 11.00% | ~105 |
 | Rookie | 11.00% | ~105 |
 | Supply Run | 11.00% | ~105 |

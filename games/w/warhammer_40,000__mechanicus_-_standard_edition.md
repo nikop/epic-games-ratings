@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,401 |
-| This is only the beginning | 20.00% | ~46,463 |
+| No aid from the Omnissiah | 26.00% | ~60,403 |
+| This is only the beginning | 20.00% | ~46,464 |
 | Knowledge is power | 13.00% | ~30,201 |
-| Power Ranger | 10.00% | ~23,231 |
-| Galvanic Rifle | 10.00% | ~23,231 |
-| Radium Ready | 10.00% | ~23,231 |
-| Taser Goad | 9.00% | ~20,908 |
-| Half a cog | 9.00% | ~20,908 |
+| Power Ranger | 10.00% | ~23,232 |
+| Galvanic Rifle | 10.00% | ~23,232 |
+| Radium Ready | 10.00% | ~23,232 |
+| Taser Goad | 9.00% | ~20,909 |
+| Half a cog | 9.00% | ~20,909 |
 | Watch them crumble | 6.00% | ~13,939 |
 | Competent Cohort | 4.00% | ~9,293 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,293 |
 | One with the Machine | 4.00% | ~9,293 |
-| Legio Cybernetica | 3.00% | ~6,969 |
-| Fleshy Disposal | 3.00% | ~6,969 |
+| Legio Cybernetica | 3.00% | ~6,970 |
+| Fleshy Disposal | 3.00% | ~6,970 |
 | Battle Servitor | 2.00% | ~4,646 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,646 |
 | Impatient destruction | 2.00% | ~4,646 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 729)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,313 (Ranked 77)  
+Progressed: 232,319 (Ranked 77)  
 Completed: 5 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,10 +310,10 @@ Completed: 5 (0.00%) (Ranked 401)
 | 2024-01-12 | 232,058 | 5 |
 | 2024-01-13 | 232,166 | 5 |
 | 2024-01-14 | 232,268 | 5 |
-| 2024-01-15 | 232,313 | 5 |
+| 2024-01-15 | 232,319 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 269)  
-Sum: 2,232 (Ranked 212)  
+Sum: 2,233 (Ranked 212)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -321,7 +321,7 @@ Diff (max vs sum): 57
 | This game has Quickly Understood Controls | 289 |
 | This game is Extremely Fun | 286 |
 | This game has Amazing Characters | 278 |
-| This game has Diverse Characters | 269 |
+| This game has Diverse Characters | 270 |
 | This game has Amazing Storytelling | 252 |
 | This game is Relaxing | 246 |
 | This game has Unique Visuals | 218 |
@@ -450,3 +450,4 @@ Diff (max vs sum): 57
 | 2024-01-10 | 4.43 | 292 | 2,230 |
 | 2024-01-11 | 4.43 | 292 | 2,231 |
 | 2024-01-12 | 4.43 | 292 | 2,232 |
+| 2024-01-15 | 4.43 | 292 | 2,233 |

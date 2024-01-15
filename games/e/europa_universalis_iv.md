@@ -209,6 +209,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Neither Holy, Nor German | 0.10% | ~500 |
 | Networking | 0.10% | ~500 |
 | Never say Nevers | 0.10% | ~500 |
+| New, New Deli | 0.10% | ~500 |
 | No Country for Old Tercios | 0.10% | ~500 |
 | No Pirates in my Caribbean | 0.10% | ~500 |
 | No Trail of Tears | 0.10% | ~500 |
@@ -239,6 +240,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Qing of China | 0.10% | ~500 |
 | Queen of Conquest | 0.10% | ~500 |
 | Queen of Mercury | 0.10% | ~500 |
+| Quizquiz Pro Quo | 0.10% | ~500 |
 | Rags and Riches | 0.10% | ~500 |
 | The Reapers | 0.10% | ~500 |
 | Redecorating | 0.10% | ~500 |
@@ -358,9 +360,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| New, New Deli | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
-| Quizquiz Pro Quo | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,516 (Ranked 42)  
+Progressed: 499,544 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
-| 2024-01-15 | 499,516 | 1 |
+| 2024-01-15 | 499,544 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
 Sum: 64,731 (Ranked 24)  

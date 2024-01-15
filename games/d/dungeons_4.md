@@ -29,8 +29,8 @@ Rating: 4.73 (Ranked 182)
 | The Cathedral of Light | 50.00% | ~384 |
 | Shame! Shame! Shame! | 49.00% | ~377 |
 | Tanos' Crusade Against Thalya | 48.00% | ~369 |
+| Dungeonlord Gorgu | 47.00% | ~361 |
 | Pure Dynamite! | 46.00% | ~354 |
-| Dungeonlord Gorgu | 46.00% | ~354 |
 | All’s Well That Ends Evil | 43.00% | ~331 |
 | Mana Cannon | 42.00% | ~323 |
 | The Duel | 41.00% | ~315 |
@@ -46,8 +46,8 @@ Rating: 4.73 (Ranked 182)
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~223 |
 | Sabotage! | 29.00% | ~223 |
 | Raiders of the Lost Stone | 29.00% | ~223 |
+| The Rune Sockets of Finitude (Part 1) | 29.00% | ~223 |
 | Stop Tanos! | 28.00% | ~215 |
-| The Rune Sockets of Finitude (Part 1) | 28.00% | ~215 |
 | Bonus Evilness | 27.00% | ~208 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~208 |
 | The Last Stand - This Time For Real! | 26.00% | ~200 |

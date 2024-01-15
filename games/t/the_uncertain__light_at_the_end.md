@@ -36,7 +36,7 @@ Rating: 3.86 (Ranked 1,078)
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 675 (Ranked 332)  
-Completed: 6 (0.89%) (Ranked 189)  
+Completed: 6 (0.89%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

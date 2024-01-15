@@ -2,12 +2,12 @@
   "ID": "277788d421e748e580ca0972c339f1a6",
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
-  "Ranking_Rating": 743,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 490,
   "Ranking_PopularitySum": 406,
-  "Ranking_EOS_Progress": 831,
+  "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -919,10 +919,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 243,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-01-15T18:57:02.9822402+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 244,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 243,
+  "NumberOfAwards": 244,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -936,7 +942,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1001,9 +1007,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-01-15T02:27:27.8407454+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:04:13.3425423+00:00",
+  "LastChanged": "2024-01-15T18:57:02.98224+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:03:47.0482944+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:29.3356481+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:01:32.0389246+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:04:13.342546+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:57:02.9822406+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:03:47.0482967+00:00"
 }

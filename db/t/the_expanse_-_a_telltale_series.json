@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19045,
+  "EOS_Progressed": 19047,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17459,6 +17459,11 @@
       "Time": "2024-01-15T18:05:23.1893117+00:00",
       "NumProgressed": 19045,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T19:04:51.2070663+00:00",
+      "NumProgressed": 19047,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17535,7 +17540,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "18",
@@ -17551,7 +17556,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "2",
@@ -17615,7 +17620,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "27",
@@ -17623,7 +17628,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "28",
@@ -17647,7 +17652,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     },
     {
       "ID": "30",
@@ -17703,7 +17708,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "31",
@@ -17750,13 +17755,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19045,
+      "Progressed": 19047,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4999,
+      "Progressed": 5001,
       "Completed": 1330
     }
   ],
@@ -17764,8 +17769,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:05:23.1893113+00:00",
+  "LastChanged_Achievements": "2024-01-15T19:04:51.2070659+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T17:59:02.28914+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:05:23.1894161+00:00"
+  "LastUpdate_Ratings": "2024-01-15T18:58:36.3082442+00:00",
+  "LastUpdate_Achievements": "2024-01-15T19:04:51.2071686+00:00"
 }
