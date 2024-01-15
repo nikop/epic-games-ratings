@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1238,9 +1238,9 @@
       "ID": "storya2",
       "SetID": "b1ggf28",
       "Name": "Business Mind",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "w1",
@@ -1349,8 +1349,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:03:41.0049971+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:04:01.477624+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:03:07.6163593+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:03:41.0050458+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:24.412674+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:04:01.4776635+00:00"
 }

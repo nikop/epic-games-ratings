@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 573,
+  "EOS_Progressed": 574,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2369,6 +2369,11 @@
       "Time": "2024-01-15T06:05:49.5277656+00:00",
       "NumProgressed": 573,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T10:06:31.5089804+00:00",
+      "NumProgressed": 574,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2381,7 +2386,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2389,7 +2394,7 @@
       "Name": "Design Engineer",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "BRING_MARY",
@@ -2397,7 +2402,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2405,7 +2410,7 @@
       "Name": "Amusement Park",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2421,7 +2426,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2493,7 +2498,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2501,7 +2506,7 @@
       "Name": "Bridge Builder",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2517,7 +2522,7 @@
       "Name": "Crypto Bro",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "TAKE_LEECH",
@@ -2525,7 +2530,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2533,21 +2538,21 @@
       "Name": "Strong Signal",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 573,
+      "Progressed": 574,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:05:57.1198415+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:06:31.5089801+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:58:51.3219713+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:05:57.1198717+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:59:12.7729429+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:06:31.5090028+00:00"
 }

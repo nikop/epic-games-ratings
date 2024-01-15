@@ -11,10 +11,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 8.00% | ~10,630 |
 | This Belongs in a Museum | 7.00% | ~9,301 |
 | This guy... again? | 7.00% | ~542 |
-| Serenity Now! | 6.00% | ~7,972 |
-| Creep and Sleep | 6.00% | ~7,972 |
-| Overdue Notice | 6.00% | ~7,972 |
-| Escape from the Black Hole | 6.00% | ~7,972 |
+| Serenity Now! | 6.00% | ~7,973 |
+| Creep and Sleep | 6.00% | ~7,973 |
+| Overdue Notice | 6.00% | ~7,973 |
+| Escape from the Black Hole | 6.00% | ~7,973 |
 | Ploughshares to Swords | 6.00% | ~465 |
 | Bloody Graduation | 6.00% | ~465 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,644 |
@@ -53,13 +53,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~3,986 |
 | Utopia | 3.00% | ~3,986 |
 | Road Trip | 3.00% | ~3,986 |
-| This Looks Familiar | 2.00% | ~2,657 |
-| Ichthyophobic | 2.00% | ~2,657 |
-| No More Mouths to Feed | 2.00% | ~2,657 |
-| Worldly Traveller | 2.00% | ~2,657 |
-| Hot Air | 2.00% | ~2,657 |
-| Eyes Up | 2.00% | ~2,657 |
-| Handled | 2.00% | ~2,657 |
+| This Looks Familiar | 2.00% | ~2,658 |
+| Ichthyophobic | 2.00% | ~2,658 |
+| No More Mouths to Feed | 2.00% | ~2,658 |
+| Worldly Traveller | 2.00% | ~2,658 |
+| Hot Air | 2.00% | ~2,658 |
+| Eyes Up | 2.00% | ~2,658 |
+| Handled | 2.00% | ~2,658 |
 | Clearing the Ledger | 1.00% | ~1,329 |
 | Hat Trick | 1.00% | ~1,329 |
 | Shrine of Reflection | 1.00% | ~1,329 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.60% | ~797 |
 | On This Long Road, We Found Redemption | 0.60% | ~46 |
 | Eidetic | 0.50% | ~664 |
-| Tears in the Rain | 0.40% | ~531 |
+| Tears in the Rain | 0.40% | ~532 |
 | Battle Hardened | 0.40% | ~31 |
 | Maître De La Lame | 0.40% | ~31 |
 | Grand Slam | 0.30% | ~399 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,874 (Ranked 92)  
+Progressed: 132,877 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,874 | 4 |
+| 2024-01-15 | 132,877 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,656 (Ranked 58)  

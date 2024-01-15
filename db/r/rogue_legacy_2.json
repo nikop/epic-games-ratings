@@ -1614,9 +1614,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28349,
+  "EOS_Progressed": 28351,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14184,6 +14184,11 @@
       "Time": "2024-01-15T08:11:02.5722055+00:00",
       "NumProgressed": 28349,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-15T10:10:23.2790142+00:00",
+      "NumProgressed": 28351,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14259,7 +14264,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -14267,7 +14272,7 @@
       "Name": "For Glory",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "BossCastleDefeated",
@@ -14275,7 +14280,7 @@
       "Name": "Spells and Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -14323,7 +14328,7 @@
       "Name": "Harvest and Home",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -14355,7 +14360,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -14387,7 +14392,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "EndTimerFail",
@@ -14506,21 +14511,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28349,
+      "Progressed": 28351,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7279,
+      "Progressed": 7281,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-14T23:00:13.6591434+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:10:09.5274922+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:10:23.2790138+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:00:06.5038935+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:10:09.5275767+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:00:38.1826478+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:10:23.2791003+00:00"
 }

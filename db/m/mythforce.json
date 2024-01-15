@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6352,
+  "EOS_Progressed": 6354,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13281,6 +13281,11 @@
       "Time": "2024-01-15T07:05:32.4712223+00:00",
       "NumProgressed": 6352,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T10:05:43.7644815+00:00",
+      "NumProgressed": 6354,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13341,7 +13346,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13349,7 +13354,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13389,7 +13394,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13453,7 +13458,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13476,15 +13481,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6352,
+      "Progressed": 6354,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:05:13.0713166+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:05:43.7644811+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:59:25.322595+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:05:13.071392+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:59:49.8434636+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:05:43.7645551+00:00"
 }

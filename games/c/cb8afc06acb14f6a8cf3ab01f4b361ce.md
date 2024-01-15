@@ -5,14 +5,14 @@ Rating: 4.21 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,287 |
-| The touch of Chaos | 5.00% | ~17,287 |
+| May the Torchbearer light our way | 5.00% | ~17,288 |
+| The touch of Chaos | 5.00% | ~17,288 |
 | A powerful aura was here | 4.00% | ~13,830 |
 | Let's raise the stakes!! | 2.00% | ~6,915 |
-| Rumors are true | 1.00% | ~3,457 |
-| We'll be careful | 1.00% | ~3,457 |
-| Pride is a sin, young Knight | 1.00% | ~3,457 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,457 |
+| Rumors are true | 1.00% | ~3,458 |
+| We'll be careful | 1.00% | ~3,458 |
+| Pride is a sin, young Knight | 1.00% | ~3,458 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,458 |
 | Back to your senses | 0.80% | ~2,766 |
 | They won't last long | 0.80% | ~2,766 |
 | Bring it on! | 0.80% | ~2,766 |
@@ -26,8 +26,8 @@ Rating: 4.21 (Ranked 960)
 | I took a risk | 0.50% | ~1,729 |
 | Their fate is sealed | 0.40% | ~1,383 |
 | Not even from this world | 0.30% | ~1,037 |
-| No damsels in distress | 0.20% | ~691 |
-| Chaos be damned! | 0.20% | ~691 |
+| No damsels in distress | 0.20% | ~692 |
+| Chaos be damned! | 0.20% | ~692 |
 | The immortal is bound to reborn | 0.10% | ~346 |
 | A legend among Chimeras | 0.10% | ~346 |
 | It's only pain | 0.10% | ~346 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 960)
 | Something... unnatural | 0.10% | ~346 |
 | We strike as one | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,741 (Ranked 59)  
+Progressed: 345,750 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,7 +160,7 @@ Completed: 7 (0.00%) (Ranked 401)
 | 2024-01-12 | 344,619 | 7 |
 | 2024-01-13 | 345,102 | 7 |
 | 2024-01-14 | 345,610 | 7 |
-| 2024-01-15 | 345,741 | 7 |
+| 2024-01-15 | 345,750 | 7 |
 ## Awards
 Max (Great Boss Battles): 81  (Ranked 403)  
 Sum: 81 (Ranked 485)  

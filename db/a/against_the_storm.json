@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3959,9 +3959,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20789,
+  "EOS_Progressed": 20792,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19669,6 +19669,11 @@
       "Time": "2024-01-15T08:08:39.6441857+00:00",
       "NumProgressed": 20789,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-15T10:08:33.7413035+00:00",
+      "NumProgressed": 20792,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19897,7 +19902,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "WinNearRuins",
@@ -19937,7 +19942,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "WinOnCoral",
@@ -20089,7 +20094,7 @@
       "Name": "Frosts",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "WinNearGreed",
@@ -20097,7 +20102,7 @@
       "Name": "Land of Greed",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "WinNearLibrary",
@@ -20121,7 +20126,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "WinNearStorms",
@@ -20152,15 +20157,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20789,
+      "Progressed": 20792,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-14T21:57:01.4535746+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:08:22.4922029+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:08:33.7413032+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:57:20.5734945+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:22.4923018+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:57:30.9734859+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:08:33.7414062+00:00"
 }

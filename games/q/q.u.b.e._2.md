@@ -1,24 +1,24 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.43 (Ranked 728)  
+Rating: 4.44 (Ranked 707)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~35,610 |
-| Quick Understanding of Block Extrusion | 68.00% | ~32,286 |
+| Lost in Space | 75.00% | ~35,611 |
+| Quick Understanding of Block Extrusion | 68.00% | ~32,287 |
 | Nature or Nurture | 52.00% | ~24,690 |
 | Power Glove | 50.00% | ~23,740 |
-| Forgotten Memories | 43.00% | ~20,416 |
+| Forgotten Memories | 43.00% | ~20,417 |
 | Cogs in the Machine | 37.00% | ~17,568 |
-| Mission Success | 23.00% | ~10,920 |
-| There's No Place Like Home | 23.00% | ~10,920 |
+| Mission Success | 23.00% | ~10,921 |
+| There's No Place Like Home | 23.00% | ~10,921 |
 | Green Cube Killer | 20.00% | ~9,496 |
-| Path to Salvation | 18.00% | ~8,546 |
+| Path to Salvation | 18.00% | ~8,547 |
 | Infinity Loop | 17.00% | ~8,072 |
 | Descendants | 15.00% | ~7,122 |
-| The Flawed Teacher | 13.00% | ~6,172 |
+| The Flawed Teacher | 13.00% | ~6,173 |
 | To Infinity and Beyond | 6.00% | ~2,849 |
 | The Truthful Enemy | 5.00% | ~2,374 |
 | Laser Sharp | 3.00% | ~1,424 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~475 |
 | Expert Collector | 1.00% | ~475 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,480 (Ranked 126)  
+Progressed: 47,481 (Ranked 126)  
 Completed: 239 (0.50%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 239 (0.50%) (Ranked 224)
 | 2024-01-12 | 47,225 | 238 |
 | 2024-01-13 | 47,344 | 238 |
 | 2024-01-14 | 47,450 | 239 |
-| 2024-01-15 | 47,480 | 239 |
+| 2024-01-15 | 47,481 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -283,3 +283,4 @@ Completed: 239 (0.50%) (Ranked 224)
 | 2024-01-06 | 4.43 | - | 0 | 0 |
 | 2024-01-08 | 4.44 | - | 0 | 0 |
 | 2024-01-14 | 4.43 | - | 0 | 0 |
+| 2024-01-15 | 4.44 | - | 0 | 0 |

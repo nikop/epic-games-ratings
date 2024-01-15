@@ -146,6 +146,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hanukkah Mutapa | 0.10% | ~499 |
 | Hard Bargaining | 0.10% | ~499 |
 | Hessian Mercenaries | 0.10% | ~499 |
+| Hoarder | 0.10% | ~499 |
 | Holiest Roman Empire | 0.10% | ~499 |
 | Holy Horder | 0.10% | ~499 |
 | Holy Trinity | 0.10% | ~499 |
@@ -210,6 +211,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | No Pirates in my Caribbean | 0.10% | ~499 |
 | No Trail of Tears | 0.10% | ~499 |
 | Nobody wants to die | 0.10% | ~499 |
+| Norwegian Wood | 0.10% | ~499 |
 | Not just Pizza | 0.10% | ~499 |
 | Not so sad a state... | 0.10% | ~499 |
 | On the Edge of Madness | 0.10% | ~499 |
@@ -230,6 +232,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Prester John | 0.10% | ~499 |
 | The Prince of Egypt | 0.10% | ~499 |
 | Protect the Secret | 0.10% | ~499 |
+| Purify the Temple | 0.10% | ~499 |
 | Pyramid of Skulls | 0.10% | ~499 |
 | Qing of China | 0.10% | ~499 |
 | Queen of Conquest | 0.10% | ~499 |
@@ -349,15 +352,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
-| Hoarder | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
-| Norwegian Wood | 0.00% | ~0 |
 | Philippine Tiger | 0.00% | ~0 |
-| Purify the Temple | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,270 (Ranked 42)  
+Progressed: 499,291 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,21 +640,21 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
-| 2024-01-15 | 499,270 | 1 |
+| 2024-01-15 | 499,291 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
-Sum: 64,669 (Ranked 24)  
+Sum: 64,705 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,850 |
-| This game has Diverse Characters | 7,689 |
+| This game has Diverse Characters | 7,704 |
 | This game is Highly Recommended | 7,519 |
 | This game has Challenging Combat | 7,463 |
 | This game is Extremely Fun | 7,350 |
 | This game is Relaxing | 7,196 |
-| This game has Competitive Players | 7,022 |
-| This game has Amazing Storytelling | 6,534 |
+| This game has Competitive Players | 7,033 |
+| This game has Amazing Storytelling | 6,544 |
 | This game has Amazing Characters | 6,046 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -1023,4 +1023,4 @@ Diff (max vs sum): 28
 | 2024-01-12 | 4.69 | - | 7,824 | 64,437 |
 | 2024-01-13 | 4.69 | - | 7,836 | 64,538 |
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
-| 2024-01-15 | 4.69 | - | 7,850 | 64,669 |
+| 2024-01-15 | 4.69 | - | 7,850 | 64,705 |

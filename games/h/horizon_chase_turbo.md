@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~994,732 |
-| I Need a Bigger Garage | 63.00% | ~696,313 |
-| Pump my Ride | 47.00% | ~519,471 |
-| Ghostbuster | 34.00% | ~375,788 |
-| Call Roadside Assistance | 18.00% | ~198,946 |
-| That Was Close | 18.00% | ~198,946 |
-| Quickie | 11.00% | ~121,578 |
-| California Dreamer | 7.00% | ~77,368 |
+| The First of Many | 90.00% | ~994,738 |
+| I Need a Bigger Garage | 63.00% | ~696,317 |
+| Pump my Ride | 47.00% | ~519,475 |
+| Ghostbuster | 34.00% | ~375,790 |
+| Call Roadside Assistance | 18.00% | ~198,948 |
+| That Was Close | 18.00% | ~198,948 |
+| Quickie | 11.00% | ~121,579 |
+| California Dreamer | 7.00% | ~77,369 |
 | Can't Touch This | 5.00% | ~55,263 |
-| Carménère Taster | 4.00% | ~44,210 |
-| Comeback | 4.00% | ~44,210 |
+| Carménère Taster | 4.00% | ~44,211 |
+| Comeback | 4.00% | ~44,211 |
 | Driver from Ipanema | 3.00% | ~33,158 |
 | Supersonic | 3.00% | ~33,158 |
 | Marathonist | 3.00% | ~33,158 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,211 |
 | Transporter | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,258 (Ranked 15)  
+Progressed: 1,105,265 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,15 +314,15 @@ Completed: 535 (0.05%) (Ranked 341)
 | 2024-01-12 | 1,104,077 | 535 |
 | 2024-01-13 | 1,104,634 | 535 |
 | 2024-01-14 | 1,105,137 | 535 |
-| 2024-01-15 | 1,105,258 | 535 |
+| 2024-01-15 | 1,105,265 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 309)  
-Sum: 1,651 (Ranked 235)  
+Sum: 1,652 (Ranked 235)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 187 |
-| This game is Great for Quick Sessions | 158 |
+| This game is Great for Quick Sessions | 159 |
 | This game has Diverse Characters | 157 |
 | This game has Quickly Understood Controls | 151 |
 | This game is Relaxing | 146 |
@@ -631,4 +631,4 @@ Diff (max vs sum): 74
 | 2024-01-12 | 4.55 | - | 185 | 1,644 |
 | 2024-01-13 | 4.54 | - | 185 | 1,645 |
 | 2024-01-14 | 4.54 | - | 185 | 1,649 |
-| 2024-01-15 | 4.54 | - | 187 | 1,651 |
+| 2024-01-15 | 4.54 | - | 187 | 1,652 |

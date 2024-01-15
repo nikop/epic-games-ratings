@@ -20045,10 +20045,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 653494,
       "NumberOfAwardsMax": 250989
+    },
+    {
+      "Time": "2024-01-15T09:58:47.3380986+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 653667,
+      "NumberOfAwardsMax": 250989
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 653494,
+  "NumberOfAwards": 653667,
   "NumberOfAwardsMax": 250989,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -20128,7 +20134,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25601
+      "Count": 25774
     },
     {
       "Text": "This game has a Creative Community",
@@ -20148,8 +20154,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-01-15T05:58:22.3737167+00:00",
+  "LastChanged": "2024-01-15T09:58:47.3380984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:32.7071137+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:58:28.6728825+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:27.373677+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:58:47.3380989+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:08:39.0292516+00:00"
 }

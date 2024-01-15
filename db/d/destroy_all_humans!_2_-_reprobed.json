@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 434,
+  "EOS_Progressed": 435,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -1971,6 +1971,11 @@
       "Time": "2024-01-15T02:37:04.8137676+00:00",
       "NumProgressed": 434,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T10:09:46.8426193+00:00",
+      "NumProgressed": 435,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -1983,7 +1988,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -1999,7 +2004,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2015,7 +2020,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2063,7 +2068,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -2229,9 +2234,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2334,7 +2339,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 434,
+      "Progressed": 435,
       "Completed": 2
     }
   ],
@@ -2342,8 +2347,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:09:30.690553+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:09:46.8426189+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:57:25.1332112+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:09:30.6905888+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:57:36.035077+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:09:46.8426543+00:00"
 }

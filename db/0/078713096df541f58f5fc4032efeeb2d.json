@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 496,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -599,9 +599,9 @@
       "ID": "creepytale3_ach_20",
       "SetID": "7idcjbn",
       "Name": "Voluntary sleep",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "creepytale3_ach_21",
@@ -727,9 +727,9 @@
       "ID": "creepytale3_ach_39",
       "SetID": "7idcjbn",
       "Name": "Picklock style",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "creepytale3_ach_4",
@@ -790,8 +790,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:08:06.9679459+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:06:57.4303227+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:56.6839985+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:58:33.0552533+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:06.9679834+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:58:52.4200323+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:06:57.4303676+00:00"
 }

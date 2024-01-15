@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 616)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~440 |
-| Vanquisher of Robots | 78.00% | ~390 |
+| Good start! | 88.00% | ~441 |
+| Vanquisher of Robots | 78.00% | ~391 |
 | Party | 50.00% | ~250 |
 | Impossible Cube | 45.00% | ~225 |
 | Through the Darkness | 45.00% | ~225 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 616)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 358)  
+Progressed: 501 (Ranked 358)  
 Completed: 1 (0.20%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,6 +132,7 @@ Completed: 1 (0.20%) (Ranked 281)
 | 2024-01-07 | 496 | 1 |
 | 2024-01-08 | 499 | 1 |
 | 2024-01-10 | 500 | 1 |
+| 2024-01-15 | 501 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

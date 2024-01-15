@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 616)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Prepper | 94.00% | ~5,953 |
+| All thumbs | 93.00% | ~5,890 |
 | I will survive! | 93.00% | ~5,890 |
-| All thumbs | 92.00% | ~5,826 |
 | Home, sweet home | 91.00% | ~5,763 |
 | Survivalist | 90.00% | ~5,700 |
 | One way ticket | 85.00% | ~5,383 |

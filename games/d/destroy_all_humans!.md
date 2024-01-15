@@ -7,15 +7,15 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~383 |
-| Kaijuiced | 71.00% | ~353 |
-| Lie Back and Think of Albion | 67.00% | ~333 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~318 |
-| I Look Up As I Walk to Takoshima | 61.00% | ~303 |
-| Yettisoned | 59.00% | ~293 |
-| Perfect Probulator | 58.00% | ~288 |
-| Pimp My Raid | 57.00% | ~283 |
-| Lobster Blisque | 52.00% | ~258 |
-| Fly Me to the Moon Base | 51.00% | ~253 |
+| Kaijuiced | 71.00% | ~354 |
+| Lie Back and Think of Albion | 67.00% | ~334 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~319 |
+| I Look Up As I Walk to Takoshima | 61.00% | ~304 |
+| Yettisoned | 59.00% | ~294 |
+| Perfect Probulator | 58.00% | ~289 |
+| Pimp My Raid | 57.00% | ~284 |
+| Lobster Blisque | 52.00% | ~259 |
+| Fly Me to the Moon Base | 51.00% | ~254 |
 | Earthly Pleasures | 48.00% | ~239 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~234 |
 | Bodied Sattva | 38.00% | ~189 |
@@ -26,10 +26,10 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 29.00% | ~144 |
 | Rock of the Bay | 28.00% | ~139 |
 | Trans-Siberian Express | 26.00% | ~129 |
-| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~104 |
-| Arkvoodle Doodle | 19.00% | ~94 |
-| Die Nasty | 18.00% | ~89 |
-| If You Know What I Mean | 17.00% | ~84 |
+| Re-Return of the Clone of the Invasion II-2 | 20.00% | ~100 |
+| Arkvoodle Doodle | 19.00% | ~95 |
+| Die Nasty | 18.00% | ~90 |
+| If You Know What I Mean | 17.00% | ~85 |
 | Ouch of Body Experience | 16.00% | ~80 |
 | Hidden Human Hive Harvest | 16.00% | ~80 |
 | Mash Machine | 16.00% | ~80 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~10 |
 | Against All Odds | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 359)  
-Completed: 6 (1.21%) (Ranked 161)  
+Progressed: 498 (Ranked 359)  
+Completed: 6 (1.20%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 6 (1.21%) (Ranked 161)
 | 2024-01-12 | 461 | 5 |
 | 2024-01-13 | 480 | 5 |
 | 2024-01-14 | 493 | 5 |
-| 2024-01-15 | 497 | 6 |
+| 2024-01-15 | 498 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

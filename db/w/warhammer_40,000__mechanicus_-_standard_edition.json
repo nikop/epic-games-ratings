@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 77,
@@ -1110,7 +1110,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232293,
+  "EOS_Progressed": 232295,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
@@ -30770,6 +30770,11 @@
       "Time": "2024-01-15T09:10:10.7977621+00:00",
       "NumProgressed": 232293,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T10:10:24.673274+00:00",
+      "NumProgressed": 232295,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30789,7 +30794,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60396
+      "UsersEstimate": 60397
     },
     {
       "ID": "ACH_BASE_11",
@@ -30821,7 +30826,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     },
     {
       "ID": "ACH_BASE_16",
@@ -30829,7 +30834,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     },
     {
       "ID": "ACH_BASE_17",
@@ -30837,7 +30842,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20906
+      "UsersEstimate": 20907
     },
     {
       "ID": "ACH_BASE_18",
@@ -30845,7 +30850,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23229
+      "UsersEstimate": 23230
     },
     {
       "ID": "ACH_BASE_19",
@@ -31045,14 +31050,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20906
+      "UsersEstimate": 20907
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232293,
+      "Progressed": 232295,
       "Completed": 5
     }
   ],
@@ -31060,8 +31065,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-12T02:58:09.1289031+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:10:10.7977619+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:10:24.6732736+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:59:52.8232154+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:10:10.7978862+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:00:22.3257002+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:10:24.6734742+00:00"
 }

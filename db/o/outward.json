@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4780,
+  "EOS_Progressed": 4781,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8384,6 +8384,11 @@
       "Time": "2024-01-15T05:08:25.8967541+00:00",
       "NumProgressed": 4780,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T10:08:42.3269273+00:00",
+      "NumProgressed": 4781,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8451,7 +8456,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "Eureka_23",
@@ -8579,7 +8584,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8603,7 +8608,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8619,7 +8624,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8730,15 +8735,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4780,
+      "Progressed": 4781,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:08:30.4307864+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:08:42.3269269+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:03:09.8260816+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:30.4308566+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:25.9423355+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:08:42.3269886+00:00"
 }

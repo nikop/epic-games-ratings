@@ -6,9 +6,9 @@
   "Ranking_Popularity": 80,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151231,
+  "EOS_Progressed": 151237,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36774,6 +36774,11 @@
       "Time": "2024-01-15T09:09:04.6433004+00:00",
       "NumProgressed": 151231,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T10:09:18.1807323+00:00",
+      "NumProgressed": 151237,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36953,7 +36958,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16635
+      "UsersEstimate": 16636
     },
     {
       "ID": "chest02",
@@ -37017,7 +37022,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "commonres02",
@@ -37049,7 +37054,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "craft02",
@@ -37161,7 +37166,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10586
+      "UsersEstimate": 10587
     },
     {
       "ID": "expansion02",
@@ -37257,7 +37262,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15123
+      "UsersEstimate": 15124
     },
     {
       "ID": "gold02",
@@ -37369,7 +37374,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10586
+      "UsersEstimate": 10587
     },
     {
       "ID": "level02",
@@ -37561,7 +37566,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12098
+      "UsersEstimate": 12099
     },
     {
       "ID": "sell02",
@@ -37601,7 +37606,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16635
+      "UsersEstimate": 16636
     },
     {
       "ID": "twinenchant01",
@@ -37680,15 +37685,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151231,
+      "Progressed": 151237,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:09:04.6433001+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:09:18.1807319+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:03:21.5877634+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:09:04.6435268+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:39.0405021+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:09:18.1810258+00:00"
 }

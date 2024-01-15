@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 959,
+  "EOS_Progressed": 960,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3159,6 +3159,11 @@
       "Time": "2024-01-15T05:08:46.5807968+00:00",
       "NumProgressed": 959,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T10:09:04.8594318+00:00",
+      "NumProgressed": 960,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3171,7 +3176,7 @@
       "Name": "Chapter I - Complete",
       "Percentage": 21,
       "XP": 45,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -3235,7 +3240,7 @@
       "Name": "Defeat a Lord of Change",
       "Percentage": 26,
       "XP": 45,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3266,14 +3271,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 959,
+      "Progressed": 960,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:08:52.0679866+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:09:04.8594312+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:55.7118105+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:02:51.8899732+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:52.0680137+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:06.2555902+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:09:04.8594551+00:00"
 }

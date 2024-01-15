@@ -2146,9 +2146,9 @@
       "Count": 75
     }
   ],
-  "EOS_Progressed": 494155,
+  "EOS_Progressed": 494156,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30791,6 +30791,11 @@
       "Time": "2024-01-15T09:09:47.2309472+00:00",
       "NumProgressed": 494155,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T10:09:59.0290101+00:00",
+      "NumProgressed": 494156,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 87,
@@ -30818,7 +30823,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 227311
+      "UsersEstimate": 227312
     },
     {
       "ID": "BASEDEFENDER",
@@ -30850,7 +30855,7 @@
       "Name": "Boot Camp",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 227311
+      "UsersEstimate": 227312
     },
     {
       "ID": "BURNBABYBURN",
@@ -30858,7 +30863,7 @@
       "Name": "Burn Baby Burn",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 291551
+      "UsersEstimate": 291552
     },
     {
       "ID": "CHAS",
@@ -30946,7 +30951,7 @@
       "Name": "Eradicator",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 336025
+      "UsersEstimate": 336026
     },
     {
       "ID": "EXTERMINATOR",
@@ -31002,7 +31007,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 207545
+      "UsersEstimate": 207546
     },
     {
       "ID": "FLURRY",
@@ -31074,7 +31079,7 @@
       "Name": "Happy Returns",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385441
+      "UsersEstimate": 385442
     },
     {
       "ID": "HEADTRAUMA",
@@ -31090,7 +31095,7 @@
       "Name": "Hey! That\u0027s mine!",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 385441
+      "UsersEstimate": 385442
     },
     {
       "ID": "HIGHVOLTAGE",
@@ -31114,7 +31119,7 @@
       "Name": "I Spy",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 316259
+      "UsersEstimate": 316260
     },
     {
       "ID": "KABOOM",
@@ -31122,7 +31127,7 @@
       "Name": "Kaboom!",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 148246
+      "UsersEstimate": 148247
     },
     {
       "ID": "KICKSTARTER",
@@ -31138,7 +31143,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 350850
+      "UsersEstimate": 350851
     },
     {
       "ID": "LIQUIDATOR",
@@ -31282,7 +31287,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 84006
+      "UsersEstimate": 84007
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -31330,7 +31335,7 @@
       "Name": "Salvage Rights",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 261902
+      "UsersEstimate": 261903
     },
     {
       "ID": "SAVANTGENIUS",
@@ -31386,7 +31391,7 @@
       "Name": "Surplus",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 326142
+      "UsersEstimate": 326143
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -31466,7 +31471,7 @@
       "Name": "What IS that?",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 252019
+      "UsersEstimate": 252020
     },
     {
       "ID": "XENOCIDE",
@@ -31497,15 +31502,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 494155,
+      "Progressed": 494156,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2024-01-14T00:03:16.5226062+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:09:47.2309468+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:09:59.0290096+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.5038069+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:03:14.5229609+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:09:47.2311528+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:31.6404881+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:09:59.0291997+00:00"
 }

@@ -13,8 +13,8 @@ Rating: 4.24 (Ranked 938)
 | Look Mom, I Can Fly | 23.00% | ~267 |
 | National Amateurs Champion | 18.00% | ~209 |
 | Hating Them Tin Cans | 15.00% | ~174 |
-| Junk Collector | 14.00% | ~162 |
-| Trashing Around | 14.00% | ~162 |
+| Junk Collector | 14.00% | ~163 |
+| Trashing Around | 14.00% | ~163 |
 | Challengers Champion | 10.00% | ~116 |
 | Pro Internationals Champion | 7.00% | ~81 |
 | Cash For Crashes | 7.00% | ~81 |
@@ -26,7 +26,7 @@ Rating: 4.24 (Ranked 938)
 | Human Lover | 0.50% | ~6 |
 | Rocketeer | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,160 (Ranked 289)  
+Progressed: 1,161 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 1,109 | 0 |
 | 2024-01-13 | 1,134 | 0 |
 | 2024-01-14 | 1,157 | 0 |
-| 2024-01-15 | 1,160 | 0 |
+| 2024-01-15 | 1,161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

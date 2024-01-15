@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 500,
+  "EOS_Progressed": 501,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -768,6 +768,11 @@
       "Time": "2024-01-10T22:04:38.2982877+00:00",
       "NumProgressed": 500,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T10:08:28.9035642+00:00",
+      "NumProgressed": 501,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -995,7 +1000,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "win-first-level",
@@ -1003,7 +1008,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "win-koth-fights1",
@@ -1058,7 +1063,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 500,
+      "Progressed": 501,
       "Completed": 1
     }
   ],
@@ -1066,8 +1071,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:08:17.9379255+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:08:28.9035638+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:11.1690349+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:02:56.1827625+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:17.9379521+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:11.7677425+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:08:28.9035909+00:00"
 }

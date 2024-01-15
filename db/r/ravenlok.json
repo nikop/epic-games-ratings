@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3770,9 +3770,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 748
     },
     {
       "ID": "8",
@@ -3803,8 +3803,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:04:16.2407451+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:04:40.6541279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.5378399+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:57:47.3866456+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:04:16.2408181+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:58:00.9534014+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:04:40.6541965+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Samorost 3",
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 242,
+  "EOS_Progressed": 243,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_Completed_Percentage": 4.53,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1179,6 +1179,11 @@
       "Time": "2024-01-14T11:06:37.4925791+00:00",
       "NumProgressed": 242,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-15T10:08:32.8390477+00:00",
+      "NumProgressed": 243,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1191,7 +1196,7 @@
       "Name": "Woodworm",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Cikady",
@@ -1231,7 +1236,7 @@
       "Name": "Mushrooms",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Jing",
@@ -1271,7 +1276,7 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Kvitky",
@@ -1375,7 +1380,7 @@
       "Name": "Centipede",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Strom",
@@ -1391,7 +1396,7 @@
       "Name": "Saint Termite",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Truhlice",
@@ -1407,7 +1412,7 @@
       "Name": "Rockheads",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Zelvak",
@@ -1415,7 +1420,7 @@
       "Name": "Goldbug",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ZpivajiciHouba",
@@ -1430,14 +1435,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 242,
+      "Progressed": 243,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:08:21.5629208+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:08:32.8390473+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-15T09:03:07.2604413+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:08:21.5629437+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:03:24.0904988+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:08:32.8390726+00:00"
 }

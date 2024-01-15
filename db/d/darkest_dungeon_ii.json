@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10878,9 +10878,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132874,
+  "EOS_Progressed": 132877,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39948,6 +39948,11 @@
       "Time": "2024-01-15T09:10:07.2646633+00:00",
       "NumProgressed": 132874,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T10:10:20.8371514+00:00",
+      "NumProgressed": 132877,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -39967,7 +39972,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7972
+      "UsersEstimate": 7973
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40055,7 +40060,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -40119,7 +40124,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7972
+      "UsersEstimate": 7973
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40135,7 +40140,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "combat_kill_gaunts",
@@ -40151,7 +40156,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -40183,7 +40188,7 @@
       "Name": "Overdue Notice",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7972
+      "UsersEstimate": 7973
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40199,7 +40204,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7972
+      "UsersEstimate": 7973
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40303,7 +40308,7 @@
       "Name": "Tears in the Rain",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -40375,7 +40380,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -40423,7 +40428,7 @@
       "Name": "Hot Air",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "run_victory_act03",
@@ -40431,7 +40436,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "run_victory_act04",
@@ -40439,7 +40444,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2657
+      "UsersEstimate": 2658
     },
     {
       "ID": "run_victory_act05",
@@ -40590,21 +40595,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132874,
+      "Progressed": 132877,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7743,
+      "Progressed": 7746,
       "Completed": 827
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-15T06:58:24.9992707+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:10:07.264663+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:10:20.8371511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:58:08.425154+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:10:07.2648578+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:58:23.6447292+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:10:20.8373376+00:00"
 }

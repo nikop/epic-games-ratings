@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1891,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168294,
+  "EOS_Progressed": 168302,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 1087,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23151,6 +23151,11 @@
       "Time": "2024-01-15T09:03:31.8210228+00:00",
       "NumProgressed": 168294,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2024-01-15T10:03:51.3286138+00:00",
+      "NumProgressed": 168302,
+      "NumCompleted": 458
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23187,7 +23192,7 @@
       "Name": "Assimilation",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -23323,7 +23328,7 @@
       "Name": "Celebration",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -23530,21 +23535,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167877,
+      "Progressed": 167885,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168294,
+      "Progressed": 168302,
       "Completed": 458
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:03:31.8210224+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:03:51.3286134+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:58:26.7272753+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:03:31.8211511+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:58:45.206609+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:03:51.3287422+00:00"
 }

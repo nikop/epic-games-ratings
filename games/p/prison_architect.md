@@ -6,10 +6,10 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~54,208 |
-| Get Busy Living | 15.00% | ~32,524 |
-| Samuel Norton | 9.00% | ~19,515 |
-| Spare The Rod | 4.00% | ~8,673 |
+| Stone Walls | 25.00% | ~54,212 |
+| Get Busy Living | 15.00% | ~32,527 |
+| Samuel Norton | 9.00% | ~19,516 |
+| Spare The Rod | 4.00% | ~8,674 |
 | Don't Put Me In The Dark | 3.00% | ~6,505 |
 | Wait and Hope | 3.00% | ~6,505 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,505 |
@@ -19,11 +19,11 @@ Number of Ratings: 4,491  (23.09.2022)
 | Reformation | 0.60% | ~1,301 |
 | Crowd Control | 0.50% | ~1,084 |
 | Freedom | 0.40% | ~867 |
-| Confined | 0.30% | ~650 |
+| Confined | 0.30% | ~651 |
 | It's Not What You Know... | 0.10% | ~217 |
 | ... It's What You Can Prove | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,830 (Ranked 80)  
+Progressed: 216,848 (Ranked 80)  
 Completed: 13 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,10 +293,10 @@ Completed: 13 (0.01%) (Ranked 376)
 | 2024-01-12 | 215,596 | 13 |
 | 2024-01-13 | 216,171 | 13 |
 | 2024-01-14 | 216,696 | 13 |
-| 2024-01-15 | 216,830 | 13 |
+| 2024-01-15 | 216,848 | 13 |
 ## Awards
 Max (Great for Beginners): 640  (Ranked 202)  
-Sum: 4,904 (Ranked 154)  
+Sum: 4,905 (Ranked 154)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -304,7 +304,7 @@ Diff (max vs sum): 48
 | This game is Extremely Fun | 616 |
 | This game is Highly Recommended | 585 |
 | This game has Quickly Understood Controls | 579 |
-| This game is Relaxing | 572 |
+| This game is Relaxing | 573 |
 | This game has Diverse Characters | 540 |
 | This game has Amazing Storytelling | 519 |
 | This game has Amazing Characters | 476 |
@@ -671,3 +671,4 @@ Diff (max vs sum): 48
 | 2024-01-12 | 4.61 | - | 633 | 4,882 |
 | 2024-01-13 | 4.61 | - | 637 | 4,891 |
 | 2024-01-14 | 4.61 | - | 640 | 4,904 |
+| 2024-01-15 | 4.61 | - | 640 | 4,905 |

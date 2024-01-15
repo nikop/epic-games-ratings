@@ -491,9 +491,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 345741,
+  "EOS_Progressed": 345750,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2949,
+  "EOS_NewPlayers": 2946,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13446,6 +13446,11 @@
       "Time": "2024-01-15T09:09:05.6762534+00:00",
       "NumProgressed": 345741,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-15T10:09:19.2675502+00:00",
+      "NumProgressed": 345750,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13458,7 +13463,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17287
+      "UsersEstimate": 17288
     },
     {
       "ID": "S02_BRDA",
@@ -13474,7 +13479,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "S04_BRDC",
@@ -13482,7 +13487,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "S05_SWRA",
@@ -13554,7 +13559,7 @@
       "Name": "No damsels in distress",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "S14_ALL_VERYHARD",
@@ -13594,7 +13599,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17287
+      "UsersEstimate": 17288
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13650,7 +13655,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "S26_CRTA",
@@ -13682,7 +13687,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3457
+      "UsersEstimate": 3458
     },
     {
       "ID": "S30_DIAMOND",
@@ -13754,7 +13759,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -13777,7 +13782,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345741,
+      "Progressed": 345750,
       "Completed": 7
     }
   ],
@@ -13785,8 +13790,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-15T05:59:05.9889997+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:09:05.6762533+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:09:19.26755+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:59:09.9811977+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:09:05.6763244+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:59:34.1315317+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:09:19.2676362+00:00"
 }

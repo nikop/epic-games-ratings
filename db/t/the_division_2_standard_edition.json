@@ -2,7 +2,7 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 639,
+  "Ranking_Rating": 616,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 828,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 6675,
   "RatingHistory": [
     {
@@ -14859,10 +14859,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 30709,
       "NumberOfAwardsMax": 9023
+    },
+    {
+      "Time": "2024-01-15T09:57:28.7203186+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 30728,
+      "NumberOfAwardsMax": 9023
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30709,
+  "NumberOfAwards": 30728,
   "NumberOfAwardsMax": 9023,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14876,7 +14882,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6619
+      "Count": 6638
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14950,8 +14956,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-15T02:57:13.6662635+00:00",
+  "LastChanged": "2024-01-15T09:57:28.7203184+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.3175371+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:57:18.2764343+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:08:14.6884424+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:57:28.7203189+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:03:50.1665529+00:00"
 }

@@ -14353,10 +14353,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64669,
       "NumberOfAwardsMax": 7850
+    },
+    {
+      "Time": "2024-01-15T10:00:22.8306882+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64705,
+      "NumberOfAwardsMax": 7850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64669,
+  "NumberOfAwards": 64705,
   "NumberOfAwardsMax": 7850,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14376,7 +14382,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7689
+      "Count": 7704
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14400,7 +14406,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 7022
+      "Count": 7033
     },
     {
       "Text": "This game is Relaxing",
@@ -14412,7 +14418,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6534
+      "Count": 6544
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14427,9 +14433,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499270,
+  "EOS_Progressed": 499291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4465,
+  "EOS_NewPlayers": 4459,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45582,6 +45588,11 @@
       "Time": "2024-01-15T09:10:24.6929516+00:00",
       "NumProgressed": 499270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T10:10:39.1665593+00:00",
+      "NumProgressed": 499291,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46679,9 +46690,9 @@
       "ID": "achievement_hoarder",
       "SetID": "8p2n7he",
       "Name": "Hoarder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_holiest_roman_empire",
@@ -47255,9 +47266,9 @@
       "ID": "achievement_norwegian_wood",
       "SetID": "67mdiil",
       "Name": "Norwegian Wood",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_not_just_pizza",
@@ -47431,9 +47442,9 @@
       "ID": "achievement_purify_the_temple",
       "SetID": "8p2n7he",
       "Name": "Purify the Temple",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 499
     },
     {
       "ID": "achievement_pyramid_of_skulls",
@@ -48496,21 +48507,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499270,
+      "Progressed": 499291,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499270,
+      "Progressed": 499291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-15T08:59:53.2156247+00:00",
-  "LastChanged_Achievements": "2024-01-15T09:10:24.6929514+00:00",
+  "LastChanged": "2024-01-15T10:00:22.830688+00:00",
+  "LastChanged_Achievements": "2024-01-15T10:10:39.1665588+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:59:53.2156253+00:00",
-  "LastUpdate_Achievements": "2024-01-15T09:10:24.6940115+00:00"
+  "LastUpdate_Ratings": "2024-01-15T10:00:22.8306885+00:00",
+  "LastUpdate_Achievements": "2024-01-15T10:10:39.1676138+00:00"
 }
