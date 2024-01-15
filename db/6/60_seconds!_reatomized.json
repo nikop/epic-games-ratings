@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -299,7 +299,7 @@
   "Tags": [],
   "EOS_Progressed": 6331,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9663,9 +9663,9 @@
       "ID": "ACH_BROKEN",
       "SetID": "5nj1ea3",
       "Name": "All thumbs",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5825
+      "UsersEstimate": 5888
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -10080,8 +10080,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-14T20:01:32.0501475+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:08:04.5706452+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:06:10.2464785+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.5941782+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:02:11.5612973+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:08:04.5707276+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:00:15.1015313+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:06:10.2465905+00:00"
 }

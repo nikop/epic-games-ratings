@@ -5,15 +5,15 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,550 |
-| On the Top Step | 83.00% | ~15,095 |
-| Setting up for Success | 69.00% | ~12,549 |
-| Team Orders | 68.00% | ~12,367 |
-| Engineer | 45.00% | ~8,184 |
+| Getting on the Step | 91.00% | ~16,551 |
+| On the Top Step | 83.00% | ~15,096 |
+| Setting up for Success | 69.00% | ~12,550 |
+| Team Orders | 68.00% | ~12,368 |
+| Engineer | 45.00% | ~8,185 |
 | Familiar Faces | 41.00% | ~7,457 |
-| Going the Extra Mile | 35.00% | ~6,365 |
+| Going the Extra Mile | 35.00% | ~6,366 |
 | Sharing the Love | 33.00% | ~6,002 |
-| Hitting a Season | 27.00% | ~4,910 |
+| Hitting a Season | 27.00% | ~4,911 |
 | Making History | 25.00% | ~4,547 |
 | A Dozen Pieces | 24.00% | ~4,365 |
 | Network Success | 23.00% | ~4,183 |
@@ -23,8 +23,8 @@ Rating: 4.64 (Ranked 343)
 | Reduce | 14.00% | ~2,546 |
 | Ups and Downs | 14.00% | ~2,546 |
 | Crucial Combo | 13.00% | ~2,364 |
-| Reuse | 12.00% | ~2,182 |
-| Proving Them Wrong | 12.00% | ~2,182 |
+| Reuse | 12.00% | ~2,183 |
+| Proving Them Wrong | 12.00% | ~2,183 |
 | Gathering Dust | 11.00% | ~2,001 |
 | Friendly Competition | 10.00% | ~1,819 |
 | Switcheroo | 10.00% | ~1,819 |
@@ -38,10 +38,10 @@ Rating: 4.64 (Ranked 343)
 | Recycle | 7.00% | ~1,273 |
 | Undisputed Winner | 6.00% | ~1,091 |
 | Tinkerer | 6.00% | ~1,091 |
-| For all Those Back at the Factory | 4.00% | ~727 |
-| Living up to Expectations | 4.00% | ~727 |
-| Smooth Operator | 4.00% | ~727 |
-| Peak Performance | 4.00% | ~727 |
+| For all Those Back at the Factory | 4.00% | ~728 |
+| Living up to Expectations | 4.00% | ~728 |
+| Smooth Operator | 4.00% | ~728 |
+| Peak Performance | 4.00% | ~728 |
 | Seasoned Rookie | 3.00% | ~546 |
 | Hitting a Century | 2.00% | ~364 |
 | Loyal Bond | 2.00% | ~364 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 343)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,187 (Ranked 163)  
+Progressed: 18,188 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
 | 2024-01-14 | 18,178 | 0 |
-| 2024-01-15 | 18,187 | 0 |
+| 2024-01-15 | 18,188 | 0 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 425)  
 Sum: 438 (Ranked 349)  

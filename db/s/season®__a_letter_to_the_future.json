@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2130,
+  "EOS_Progressed": 2131,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 4,
@@ -5079,6 +5079,11 @@
       "Time": "2024-01-15T04:11:01.837371+00:00",
       "NumProgressed": 2130,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-15T05:09:56.7546778+00:00",
+      "NumProgressed": 2131,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 16,
@@ -5146,15 +5151,15 @@
       "Name": "Home Leaver",
       "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5170,7 +5175,7 @@
       "Name": "Music for Cows",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
@@ -5217,7 +5222,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2130,
+      "Progressed": 2131,
       "Completed": 78
     }
   ],
@@ -5225,8 +5230,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:11:01.8373705+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:09:56.7546773+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.0756455+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:00:30.8738521+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:11:01.8374077+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:59:10.0217234+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:09:56.7547143+00:00"
 }

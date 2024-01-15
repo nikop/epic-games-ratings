@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2298,7 +2298,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16839,
+  "EOS_Progressed": 16840,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
@@ -20068,6 +20068,11 @@
       "Time": "2024-01-15T04:11:26.2860402+00:00",
       "NumProgressed": 16839,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T05:10:17.962744+00:00",
+      "NumProgressed": 16840,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21013,9 +21018,9 @@
       "ID": "ACHIEVEMENT_FIRST_PEACE_TREATY",
       "SetID": "9201eeb",
       "Name": "The Eternal Treaty",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_FIVE_ROUTS",
@@ -22877,9 +22882,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
       "SetID": "9201eeb",
       "Name": "Jerwan Aqueduct",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ROYAL_LIBRARY",
@@ -22942,21 +22947,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16839,
+      "Progressed": 16840,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16839,
+      "Progressed": 16840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:11:26.2860395+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:10:17.9627435+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:01:31.1972786+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:11:26.2871306+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:59:49.4226718+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:10:17.9637613+00:00"
 }

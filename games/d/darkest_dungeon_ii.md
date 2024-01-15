@@ -27,20 +27,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Merry Time | 5.00% | ~6,643 |
 | Harvest Festival | 5.00% | ~6,643 |
 | To Grandmother's House | 5.00% | ~6,643 |
+| Whale | 5.00% | ~6,643 |
 | A Place to Lay Your Head | 5.00% | ~6,643 |
 | FNG | 5.00% | ~6,643 |
 | Nope | 5.00% | ~6,643 |
-| Unleash Hell | 4.00% | ~5,314 |
-| Funny Guy | 4.00% | ~5,314 |
-| Long Live the King | 4.00% | ~5,314 |
-| Unfulfilled Desires | 4.00% | ~5,314 |
-| Dissector | 4.00% | ~5,314 |
-| Banishment | 4.00% | ~5,314 |
-| Now Stay Dead | 4.00% | ~5,314 |
-| Spelunker | 4.00% | ~5,314 |
-| Ramble On | 4.00% | ~5,314 |
-| Whale | 4.00% | ~5,314 |
-| Unshackled | 4.00% | ~5,314 |
+| Unleash Hell | 4.00% | ~5,315 |
+| Funny Guy | 4.00% | ~5,315 |
+| Long Live the King | 4.00% | ~5,315 |
+| Unfulfilled Desires | 4.00% | ~5,315 |
+| Dissector | 4.00% | ~5,315 |
+| Banishment | 4.00% | ~5,315 |
+| Now Stay Dead | 4.00% | ~5,315 |
+| Spelunker | 4.00% | ~5,315 |
+| Ramble On | 4.00% | ~5,315 |
+| Unshackled | 4.00% | ~5,315 |
 | Friends 'Til the End | 4.00% | ~309 |
 | Resurrection | 3.00% | ~3,986 |
 | Wyrdly Reconstructed | 3.00% | ~3,986 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,861 (Ranked 92)  
+Progressed: 132,863 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,861 | 4 |
+| 2024-01-15 | 132,863 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,652 (Ranked 58)  

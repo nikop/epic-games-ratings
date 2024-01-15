@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10113,9 +10113,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 817560,
+  "EOS_Progressed": 817562,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1076,
+  "EOS_NewPlayers": 1078,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40633,6 +40633,11 @@
       "Time": "2024-01-15T04:11:20.752272+00:00",
       "NumProgressed": 817560,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-15T05:10:13.2924907+00:00",
+      "NumProgressed": 817562,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40724,7 +40729,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261619
+      "UsersEstimate": 261620
     },
     {
       "ID": "Bookworm",
@@ -40924,7 +40929,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73580
+      "UsersEstimate": 73581
     },
     {
       "ID": "HardcoreHenry",
@@ -41299,15 +41304,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 817560,
+      "Progressed": 817562,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-14T23:57:43.5701569+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:11:20.7522717+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:10:13.2924905+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:58:15.4032918+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:11:20.7524564+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:43.0693157+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:10:13.2926921+00:00"
 }

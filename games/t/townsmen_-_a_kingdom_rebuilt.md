@@ -32,6 +32,7 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... III | 5.00% | ~223 |
 | Builder II | 5.00% | ~223 |
 | An honorable Governor II | 5.00% | ~223 |
+| Full-time job III | 5.00% | ~223 |
 | Tax-man IV | 5.00% | ~223 |
 | A time consuming game III | 5.00% | ~223 |
 | Conflicting parties | 5.00% | ~223 |
@@ -39,7 +40,6 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... IV | 4.00% | ~178 |
 | Experienced decorator | 4.00% | ~178 |
 | My precious... I | 4.00% | ~178 |
-| Full-time job III | 4.00% | ~178 |
 | Tools of the trade II | 4.00% | ~178 |
 | Bread for the people III | 3.00% | ~134 |
 | Five brews are a schnitzel | 3.00% | ~134 |

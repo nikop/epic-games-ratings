@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5427,
+  "EOS_Progressed": 5428,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5305,6 +5305,11 @@
       "Time": "2024-01-15T02:00:24.6165606+00:00",
       "NumProgressed": 5427,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-15T05:06:25.310719+00:00",
+      "NumProgressed": 5428,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5324,7 +5329,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5364,7 +5369,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4560
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5372,7 +5377,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5548,7 +5553,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5644,7 +5649,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5652,7 +5657,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1085
+      "UsersEstimate": 1086
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5660,7 +5665,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5851,15 +5856,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5427,
+      "Progressed": 5428,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:08:26.1579208+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:06:25.3107187+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:57:19.7978536+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:08:26.1579967+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:06.2487865+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:06:25.3108155+00:00"
 }

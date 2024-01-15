@@ -4,54 +4,54 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 95.00% | ~145 |
-| MLG 360 no scope kill! | 95.00% | ~145 |
-| Are you ready to rumble? | 95.00% | ~145 |
-| That's what cheese said! | 90.00% | ~138 |
-| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~135 |
-| I like you...but I have to kill you... | 88.00% | ~135 |
+| Tastes just like chicken! | 95.00% | ~146 |
+| MLG 360 no scope kill! | 95.00% | ~146 |
+| Are you ready to rumble? | 95.00% | ~146 |
+| That's what cheese said! | 90.00% | ~139 |
+| AHHHHHH.....I'M ON FIRE!!! | 88.00% | ~136 |
+| I like you...but I have to kill you... | 88.00% | ~136 |
 | Not so hip anymore! | 86.00% | ~132 |
-| Blurry depth perception | 82.00% | ~125 |
-| Nerd | 81.00% | ~124 |
-| Up and down | 80.00% | ~122 |
-| Rolling, Rolling, Rolling | 78.00% | ~119 |
+| Blurry depth perception | 82.00% | ~126 |
+| Up and down | 81.00% | ~125 |
+| Nerd | 81.00% | ~125 |
+| Rolling, Rolling, Rolling | 77.00% | ~119 |
 | Fire-fighter! | 67.00% | ~103 |
-| Oh, you're up to no gouda! | 65.00% | ~99 |
-| Make Love not War-Craft a Mistlefoe | 63.00% | ~96 |
+| Oh, you're up to no gouda! | 66.00% | ~102 |
+| Make Love not War-Craft a Mistlefoe | 63.00% | ~97 |
 | Meat grinder | 62.00% | ~95 |
-| You're not going to blow me up! | 57.00% | ~87 |
+| You're not going to blow me up! | 56.00% | ~86 |
 | Mushroom soup of the day | 54.00% | ~83 |
-| Butcher | 52.00% | ~80 |
-| Spare Ribs | 52.00% | ~80 |
-| Cockadoodledoo! | 52.00% | ~80 |
-| Honk honk! | 50.00% | ~76 |
-| Thats disgusting! | 50.00% | ~76 |
-| My pants squeak when I walk | 46.00% | ~70 |
+| Butcher | 51.00% | ~79 |
+| Spare Ribs | 51.00% | ~79 |
+| Cockadoodledoo! | 51.00% | ~79 |
+| Honk honk! | 50.00% | ~77 |
+| Thats disgusting! | 50.00% | ~77 |
+| My pants squeak when I walk | 46.00% | ~71 |
 | Surprise!! | 45.00% | ~69 |
-| Self assessed tax return | 44.00% | ~67 |
-| Haemochromatosis | 42.00% | ~64 |
-| Make America Grate Again | 41.00% | ~63 |
-| You can't stop me, bro! | 38.00% | ~58 |
-| Pasta Bolognese | 38.00% | ~58 |
+| Self assessed tax return | 44.00% | ~68 |
+| Haemochromatosis | 42.00% | ~65 |
+| Make America Grate Again | 40.00% | ~62 |
+| You can't stop me, bro! | 38.00% | ~59 |
+| Pasta Bolognese | 38.00% | ~59 |
 | You are no match for me, Billy! | 37.00% | ~57 |
-| Catch the bus with me! | 35.00% | ~54 |
-| Karaoke king | 35.00% | ~54 |
+| Karaoke king | 36.00% | ~55 |
 | Meatballs, coming up! | 34.00% | ~52 |
-| I'm going to get a concussion | 33.00% | ~50 |
-| Another one bites the iron | 33.00% | ~50 |
+| Catch the bus with me! | 34.00% | ~52 |
+| Another one bites the iron | 33.00% | ~51 |
+| I'm going to get a concussion | 32.00% | ~49 |
 | Ripe Meat Off The Bone! | 28.00% | ~43 |
-| A Megapint...? | 27.00% | ~41 |
-| Your daily dose of Vitamin C. | 27.00% | ~41 |
-| Hovering around | 27.00% | ~41 |
-| Kleptomaniac | 27.00% | ~41 |
+| A Megapint...? | 27.00% | ~42 |
+| Your daily dose of Vitamin C. | 27.00% | ~42 |
+| Hovering around | 27.00% | ~42 |
+| Kleptomaniac | 27.00% | ~42 |
 | You're not so Big anymore, Boi! | 25.00% | ~38 |
-| I cant stand still! | 24.00% | ~37 |
-| Slimy... yet satisfying | 24.00% | ~37 |
+| I cant stand still! | 23.00% | ~35 |
+| Slimy... yet satisfying | 23.00% | ~35 |
 | Master Butcher | 20.00% | ~31 |
 | Deal with it | 19.00% | ~29 |
 | Just wing it! | 18.00% | ~28 |
 | Yeehaw!!! | 15.00% | ~23 |
-| You're looking mozzare-hella good! | 14.00% | ~21 |
+| You're looking mozzare-hella good! | 14.00% | ~22 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~20 |
 | Timber! | 12.00% | ~18 |
 | Free Of Chains | 12.00% | ~18 |
@@ -79,15 +79,15 @@
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~3 |
 | Ancient Ruins of Peekaboo | 2.00% | ~3 |
 | Consider it dealt with | 1.00% | ~2 |
-| I'm getting full... | 0.70% | ~1 |
-| Bloody Knuckles | 0.70% | ~1 |
-| I've got the power | 0.70% | ~1 |
-| I'm feeling lucky! | 0.70% | ~1 |
+| I'm getting full... | 0.60% | ~1 |
+| Bloody Knuckles | 0.60% | ~1 |
+| I've got the power | 0.60% | ~1 |
+| I'm feeling lucky! | 0.60% | ~1 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 461)  
+Progressed: 154 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,3 +158,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-04 | 150 | 0 |
 | 2024-01-05 | 152 | 0 |
 | 2024-01-09 | 153 | 0 |
+| 2024-01-15 | 154 | 0 |

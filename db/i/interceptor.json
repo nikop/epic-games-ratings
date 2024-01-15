@@ -4,8 +4,8 @@
   "ProductSlug": "interceptor-cec769",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-31T00:00:00+00:00",
     "PcReleaseDate": "2023-08-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:58:22.7213142+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:04:15.131324+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:07:22.1245154+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:03:29.9542722+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:05:40.458084+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d3b4722b35674be186318c5f5e14b13e",
   "Name": "Arms Race 2",
   "ProductSlug": "arms-race-2-219fd5",
-  "Ranking_EOS_Progress": 641,
+  "Ranking_EOS_Progress": 635,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 522,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 499,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2024-01-11T15:04:09.9080293+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T05:05:26.5846515+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-10T19:05:22.1242707+00:00",
@@ -146,7 +151,7 @@
       "ID": "Coup a country diplomatically",
       "SetID": "1g0ce2c",
       "Name": "Coup a country diplomatically",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "German reunification",
       "SetID": "1g0ce2c",
       "Name": "German reunification",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "Industrialisation",
       "SetID": "1g0ce2c",
       "Name": "Industrialisation",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -194,7 +199,7 @@
       "ID": "Man in Space",
       "SetID": "1g0ce2c",
       "Name": "Man in Space",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -234,7 +239,7 @@
       "ID": "United Nations",
       "SetID": "1g0ce2c",
       "Name": "United Nations",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -251,14 +256,14 @@
     {
       "ID": "1g0ce2c",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-23T13:59:26.4382087+00:00",
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:07:02.9062831+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:05:26.5846511+00:00",
   "LastUpdate_AppInfo": "2024-01-10T01:46:06.7155769+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:01:41.693226+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:07:02.9062917+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:59:55.4875306+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:05:26.5846673+00:00"
 }

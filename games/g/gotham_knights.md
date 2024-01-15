@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,396 |
+| First Step Into the Knight | 50.00% | ~41,397 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,150 |
 | Loose Ends | 33.00% | ~27,322 |
 | To the Victor Go the Spoils | 27.00% | ~22,354 |
 | Knighthood | 26.00% | ~21,526 |
-| Get ReQ'd | 24.00% | ~19,870 |
-| Whispered Words | 24.00% | ~19,870 |
-| The Batman Family | 22.00% | ~18,214 |
-| Lock and Key | 22.00% | ~18,214 |
+| Get ReQ'd | 24.00% | ~19,871 |
+| Whispered Words | 24.00% | ~19,871 |
+| The Batman Family | 22.00% | ~18,215 |
+| Lock and Key | 22.00% | ~18,215 |
 | Something in the Clay | 20.00% | ~16,559 |
 | Quartzer Life Crisis | 20.00% | ~16,559 |
 | Working Hard or Harley Working? | 20.00% | ~16,559 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 976)
 | Gotham City Confidential | 11.00% | ~9,107 |
 | Out of Their League | 9.00% | ~7,451 |
 | Drone You Out | 9.00% | ~7,451 |
-| Solid Alibi | 8.00% | ~6,623 |
+| Solid Alibi | 8.00% | ~6,624 |
 | Fusion Expert | 7.00% | ~5,796 |
 | Family Meeting | 6.00% | ~4,968 |
 | A Worthy Successor | 6.00% | ~4,968 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 976)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,793 (Ranked 110)  
+Progressed: 82,794 (Ranked 110)  
 Completed: 134 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 134 (0.16%) (Ranked 289)
 | 2024-01-12 | 82,606 | 133 |
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
-| 2024-01-15 | 82,793 | 134 |
+| 2024-01-15 | 82,794 | 134 |
 ## Awards
 Max (Great Boss Battles): 3,204  (Ranked 102)  
 Sum: 5,475 (Ranked 142)  

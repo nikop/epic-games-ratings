@@ -4,8 +4,8 @@
   "ProductSlug": "echoblade-f90b32",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2022-05-03T12:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-29T06:02:22.1797742+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:04:23.8636828+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:03:36.18+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.0177165+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:58:21.9224091+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:04:23.8636877+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:47.1204109+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:03:36.1800084+00:00"
 }

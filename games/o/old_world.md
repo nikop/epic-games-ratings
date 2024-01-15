@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.50% | ~84 |
 | Turreted Elephant | 0.50% | ~84 |
 | All Nations | 0.50% | ~84 |
+| Jerwan Aqueduct | 0.50% | ~84 |
 | Ishtar Gate in Babylon | 0.40% | ~67 |
 | Old | 0.40% | ~67 |
 | Church of the Holy Sepulchre | 0.40% | ~67 |
@@ -141,9 +142,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~67 |
 | No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
-| Jerwan Aqueduct | 0.40% | ~67 |
 | Carthage - Ox Hide | 0.30% | ~51 |
 | Noble Difficulty | 0.30% | ~51 |
+| The Eternal Treaty | 0.30% | ~51 |
 | Cao'an | 0.30% | ~51 |
 | Old World Order | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
@@ -156,7 +157,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
-| The Eternal Treaty | 0.20% | ~34 |
 | Run, Pheidippides, Run! | 0.20% | ~34 |
 | Nenikekamen | 0.20% | ~34 |
 | Pyramids in Menefer | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,839 (Ranked 169)  
+Progressed: 16,840 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,839 | 5 |
+| 2024-01-15 | 16,840 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

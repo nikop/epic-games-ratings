@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5250,9 +5250,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "5k00jcd",
       "Name": "Extreme conditions",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5423,8 +5423,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:08:58.5868677+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:08:27.3671074+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:03:18.5015065+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:08:58.5869345+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:02:52.276314+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:08:27.3671658+00:00"
 }

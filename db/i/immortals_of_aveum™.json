@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3451,
+  "EOS_Progressed": 3452,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5590,6 +5590,11 @@
       "Time": "2024-01-15T02:37:40.4365783+00:00",
       "NumProgressed": 3451,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T05:10:05.1455761+00:00",
+      "NumProgressed": 3452,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5602,7 +5607,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "achievement_10",
@@ -5690,7 +5695,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "achievement_20",
@@ -5778,7 +5783,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "achievement_41",
@@ -5834,7 +5839,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "achievement_49",
@@ -5842,7 +5847,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achievement_5",
@@ -5850,7 +5855,7 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "achievement_50",
@@ -5898,7 +5903,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "achievement_60",
@@ -5954,7 +5959,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "achievement_8",
@@ -5977,7 +5982,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3451,
+      "Progressed": 3452,
       "Completed": 5
     }
   ],
@@ -5985,8 +5990,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-14T22:57:10.8741075+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:11:10.0942182+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:10:05.1455758+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:57:28.6866467+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:11:10.0942862+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:11.9896657+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:10:05.1456678+00:00"
 }

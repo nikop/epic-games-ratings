@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1503,9 +1503,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18187,
+  "EOS_Progressed": 18188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1472,
+  "EOS_NewPlayers": 1460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11738,6 +11738,11 @@
       "Time": "2024-01-15T04:05:32.8671772+00:00",
       "NumProgressed": 18187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T05:04:24.6210372+00:00",
+      "NumProgressed": 18188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -11790,7 +11795,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 12549
+      "UsersEstimate": 12550
     },
     {
       "ID": "achievement_0007",
@@ -11798,7 +11803,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16550
+      "UsersEstimate": 16551
     },
     {
       "ID": "achievement_0008",
@@ -11806,7 +11811,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15095
+      "UsersEstimate": 15096
     },
     {
       "ID": "achievement_0009",
@@ -11870,7 +11875,7 @@
       "Name": "Hitting a Season",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4910
+      "UsersEstimate": 4911
     },
     {
       "ID": "achievement_0017",
@@ -11902,7 +11907,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_0021",
@@ -11910,7 +11915,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12367
+      "UsersEstimate": 12368
     },
     {
       "ID": "achievement_0022",
@@ -11982,7 +11987,7 @@
       "Name": "Reuse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     },
     {
       "ID": "achievement_0031",
@@ -12006,7 +12011,7 @@
       "Name": "Engineer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8184
+      "UsersEstimate": 8185
     },
     {
       "ID": "achievement_0034",
@@ -12022,7 +12027,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_0036",
@@ -12054,7 +12059,7 @@
       "Name": "Smooth Operator",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_0040",
@@ -12094,7 +12099,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6365
+      "UsersEstimate": 6366
     },
     {
       "ID": "achievement_0045",
@@ -12118,7 +12123,7 @@
       "Name": "Peak Performance",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "achievement_0048",
@@ -12134,14 +12139,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2182
+      "UsersEstimate": 2183
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18187,
+      "Progressed": 18188,
       "Completed": 0
     }
   ],
@@ -12149,8 +12154,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-14T20:00:03.479917+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:05:32.867177+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:04:24.6210368+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:00:38.3278088+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:05:32.8672443+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:59:14.8848254+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:04:24.6211228+00:00"
 }

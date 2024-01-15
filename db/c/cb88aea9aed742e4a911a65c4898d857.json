@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -359,7 +359,7 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 11483,
+  "EOS_Progressed": 11484,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 824,
   "EOS_NewCompleters": 0,
@@ -4934,6 +4934,11 @@
       "Time": "2024-01-15T04:11:13.661648+00:00",
       "NumProgressed": 11483,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T05:10:07.8732811+00:00",
+      "NumProgressed": 11484,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4946,7 +4951,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "03_TheStolenStar",
@@ -4978,7 +4983,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "07_TheGrandFinale",
@@ -5034,7 +5039,7 @@
       "Name": "Doom Trader",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -5090,7 +5095,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "21_PreciseDefense",
@@ -5162,7 +5167,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "30_The GreatestExploration",
@@ -5170,7 +5175,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "31_DontTouchThis",
@@ -5266,7 +5271,7 @@
       "Name": "Iron Judgement",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5465,7 +5470,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11483,
+      "Progressed": 11484,
       "Completed": 1
     }
   ],
@@ -5473,8 +5478,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-14T13:00:27.0890359+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:11:13.6616477+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:10:07.8732809+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:57:52.1408381+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:11:13.6617113+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:28.0654423+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:10:07.8733526+00:00"
 }

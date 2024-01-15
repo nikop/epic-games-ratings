@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,633 |
-| Titan's First Steps | 11.00% | ~16,633 |
+| Sponsored by Argon | 11.00% | ~16,634 |
+| Titan's First Steps | 11.00% | ~16,634 |
 | Basic in Bulk | 10.00% | ~15,121 |
 | Tinkle of Coins | 10.00% | ~15,121 |
 | Disintermediation | 8.00% | ~12,097 |
@@ -19,18 +19,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,073 |
 | Pretty Penny | 6.00% | ~9,073 |
 | Own the Means of Production | 6.00% | ~9,073 |
-| The Daily Grind | 5.00% | ~7,560 |
-| One-Armed Bandit | 5.00% | ~7,560 |
-| Through Repetition, Perfection | 5.00% | ~7,560 |
-| Bounty Hunters | 4.00% | ~6,048 |
-| Demand for Supplies | 4.00% | ~6,048 |
-| Flooding the Market | 4.00% | ~6,048 |
-| Where it Hurts | 4.00% | ~6,048 |
-| Gild-Gotten Goods | 4.00% | ~6,048 |
-| Accomplished Merchant | 4.00% | ~6,048 |
-| Dungeon Imports | 4.00% | ~6,048 |
-| Did we pack lunch? | 4.00% | ~6,048 |
-| Arcane Industries | 4.00% | ~6,048 |
+| The Daily Grind | 5.00% | ~7,561 |
+| One-Armed Bandit | 5.00% | ~7,561 |
+| Through Repetition, Perfection | 5.00% | ~7,561 |
+| Bounty Hunters | 4.00% | ~6,049 |
+| Demand for Supplies | 4.00% | ~6,049 |
+| Flooding the Market | 4.00% | ~6,049 |
+| Where it Hurts | 4.00% | ~6,049 |
+| Gild-Gotten Goods | 4.00% | ~6,049 |
+| Accomplished Merchant | 4.00% | ~6,049 |
+| Dungeon Imports | 4.00% | ~6,049 |
+| Did we pack lunch? | 4.00% | ~6,049 |
+| Arcane Industries | 4.00% | ~6,049 |
 | On the Path to Greatness | 3.00% | ~4,536 |
 | Ascended | 3.00% | ~4,536 |
 | Tax not Included | 3.00% | ~4,536 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~605 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,210 (Ranked 87)  
+Progressed: 151,214 (Ranked 87)  
 Completed: 354 (0.23%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 354 (0.23%) (Ranked 274)
 | 2024-01-12 | 150,896 | 350 |
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
-| 2024-01-15 | 151,210 | 354 |
+| 2024-01-15 | 151,214 | 354 |
 ## Awards
 Max (Great for Beginners): 4,959  (Ranked 80)  
 Sum: 27,994 (Ranked 52)  

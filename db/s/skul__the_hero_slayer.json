@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1537,7 +1537,7 @@
   ],
   "EOS_Progressed": 14735,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10129,9 +10129,9 @@
       "ID": "RookieWelcome",
       "SetID": "97dk767",
       "Name": "Rookies Welcome",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2652
     },
     {
       "ID": "SavedElderEnt",
@@ -10209,8 +10209,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-13T20:58:12.0230932+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:10:11.0820263+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:09:18.3943515+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:59:59.2055536+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:10:11.082111+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:58:50.3034513+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:09:18.39441+00:00"
 }

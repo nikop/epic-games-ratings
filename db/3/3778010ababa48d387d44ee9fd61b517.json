@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -519,6 +519,11 @@
       "Time": "2024-01-15T04:06:18.6881477+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T05:04:56.4143021+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -561,9 +566,9 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "A_CHESTS_2",
@@ -617,9 +622,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -635,7 +640,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -651,7 +656,7 @@
       "Name": "Scavenger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "A_KILLS kills_1 (0-100)",
@@ -675,7 +680,7 @@
       "Name": "Loot of Legends",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "A_LEGIONNAIRES",
@@ -715,7 +720,7 @@
       "Name": "Miner",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "A_NOFISH",
@@ -729,9 +734,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "A_POPULATION",
@@ -745,9 +750,9 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "A_RESS",
@@ -769,9 +774,9 @@
       "ID": "A_SHIP",
       "SetID": "324h56e",
       "Name": "What\u0027s this?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
@@ -825,9 +830,9 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "A_WRAITH",
@@ -842,14 +847,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:06:18.688147+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:04:56.4143018+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:58:31.2810534+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:06:18.6881772+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:53.0829752+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:04:56.4143539+00:00"
 }

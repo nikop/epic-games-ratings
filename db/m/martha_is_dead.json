@@ -2,13 +2,13 @@
   "ID": "4b792f5770e84675b971a523a4ab9621",
   "Name": "Martha Is Dead",
   "ProductSlug": "martha-is-dead",
-  "Ranking_Rating": 1058,
+  "Ranking_Rating": 1056,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-24T14:00:00+00:00",
     "PcReleaseDate": "2022-02-24T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.98,
+  "Rating": 3.99,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -353,6 +353,12 @@
       "Rating": 3.98,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-15T05:03:27.9681102+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -370,8 +376,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.5021839+00:00",
-  "LastChanged": "2024-01-10T04:03:42.4927238+00:00",
+  "LastChanged": "2024-01-15T05:03:27.9681101+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:22.3138684+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:04:12.0910839+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:05:23.8298136+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:03:27.9681106+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:04:18.3490491+00:00"
 }

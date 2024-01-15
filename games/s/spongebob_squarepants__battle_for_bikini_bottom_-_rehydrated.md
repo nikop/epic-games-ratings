@@ -15,9 +15,9 @@ Number of Ratings: 76  (23.09.2022)
 | Time For Tutorial | 13.00% | ~133 |
 | Super Spatula Seeker | 12.00% | ~123 |
 | Star Smasher | 12.00% | ~123 |
+| Surf's Up! | 12.00% | ~123 |
 | Uptown and Downtown | 11.00% | ~113 |
 | Squirrel Smasher | 11.00% | ~113 |
-| Surf's Up! | 11.00% | ~113 |
 | Life's as extreme as you wanna make it! | 9.00% | ~92 |
 | Toxic Terror | 9.00% | ~92 |
 | Hit Rock Bottom | 9.00% | ~92 |
@@ -32,8 +32,8 @@ Number of Ratings: 76  (23.09.2022)
 | Shanghaied | 5.00% | ~51 |
 | Kelp Forest of Fear | 5.00% | ~51 |
 | SpongeBob vs SpongeBob! | 5.00% | ~51 |
+| Sock Concert | 5.00% | ~51 |
 | Sleepy Time | 4.00% | ~41 |
-| Sock Concert | 4.00% | ~41 |
 | Mega Spatula Seeker | 4.00% | ~41 |
 | 100% SpongeBob | 1.00% | ~10 |
 | Sock Opera | 1.00% | ~10 |

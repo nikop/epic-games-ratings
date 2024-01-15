@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1688,9 +1688,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139224,
+  "EOS_Progressed": 139226,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28588,6 +28588,11 @@
       "Time": "2024-01-15T04:09:30.3103746+00:00",
       "NumProgressed": 139224,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-15T05:08:49.4332863+00:00",
+      "NumProgressed": 139226,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28631,7 +28636,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25060
+      "UsersEstimate": 25061
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28639,7 +28644,7 @@
       "Name": "Baddest Of the Bad Cops",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_COP_BORING",
@@ -28719,7 +28724,7 @@
       "Name": "Expert Advanced Remote Viewer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_COP_SORRY",
@@ -28751,7 +28756,7 @@
       "Name": "Recruit Detective Kuuno de Ruyter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_DOLORES",
@@ -28791,7 +28796,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8353
+      "UsersEstimate": 8354
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -28815,7 +28820,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -28879,7 +28884,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -28887,7 +28892,7 @@
       "Name": "Wheel of Pleasure and Light",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2784
+      "UsersEstimate": 2785
     },
     {
       "ID": "ACH_POWERARMOR",
@@ -28918,15 +28923,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139224,
+      "Progressed": 139226,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-13T16:57:22.8198746+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:09:30.3103741+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:08:49.4332859+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-15T03:58:24.6163921+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:09:30.3105026+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:57:48.8883807+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:08:49.4334809+00:00"
 }

@@ -8179,7 +8179,7 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151210,
+  "EOS_Progressed": 151214,
   "EOS_Completed": 354,
   "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 9,
@@ -36749,6 +36749,11 @@
       "Time": "2024-01-15T04:09:43.0838417+00:00",
       "NumProgressed": 151210,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T05:08:58.1998828+00:00",
+      "NumProgressed": 151214,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36760,7 +36765,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7561
     },
     {
       "ID": "advlevel02",
@@ -36896,7 +36901,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "boss02",
@@ -36928,7 +36933,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16633
+      "UsersEstimate": 16634
     },
     {
       "ID": "chest02",
@@ -37000,7 +37005,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "commonres03",
@@ -37032,7 +37037,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "craft03",
@@ -37064,7 +37069,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "damage02",
@@ -37248,7 +37253,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "gold04",
@@ -37312,7 +37317,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7561
     },
     {
       "ID": "jackslot02",
@@ -37352,7 +37357,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "level03",
@@ -37384,7 +37389,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "loot02",
@@ -37416,7 +37421,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7560
+      "UsersEstimate": 7561
     },
     {
       "ID": "master02",
@@ -37472,7 +37477,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "quest02",
@@ -37576,7 +37581,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16633
+      "UsersEstimate": 16634
     },
     {
       "ID": "twinenchant01",
@@ -37632,7 +37637,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6048
+      "UsersEstimate": 6049
     },
     {
       "ID": "workers03",
@@ -37655,15 +37660,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151210,
+      "Progressed": 151214,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:09:43.0838415+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:08:58.1998825+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:04:05.612488+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:09:43.0840753+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:03:23.8516996+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:08:58.2001249+00:00"
 }

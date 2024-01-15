@@ -8,7 +8,7 @@
 | Chapter 1 | 45.00% | ~21 |
 | Chapter 2 | 40.00% | ~19 |
 | It's In My Nature | 40.00% | ~19 |
-| Chapter 3 | 36.00% | ~17 |
+| Chapter 3 | 38.00% | ~18 |
 | Your Days Are Numbered | 34.00% | ~16 |
 | All Materials | 34.00% | ~16 |
 | Chapter 4 | 32.00% | ~15 |

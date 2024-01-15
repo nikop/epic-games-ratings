@@ -4,8 +4,8 @@
   "ProductSlug": "tornado-814fc7",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 572,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-15T17:00:00+00:00",
     "PcReleaseDate": "2023-09-15T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.8235971+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:02:12.9147773+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:05:43.8198018+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:00:15.7948079+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:04:32.2151579+00:00"
 }

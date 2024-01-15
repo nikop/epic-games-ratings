@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16423,
+  "EOS_Progressed": 16424,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18187,6 +18187,11 @@
       "Time": "2024-01-15T04:10:59.0190811+00:00",
       "NumProgressed": 16423,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-15T05:09:52.7568695+00:00",
+      "NumProgressed": 16424,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18382,7 +18387,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "ACH25",
@@ -18390,7 +18395,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "ACH26",
@@ -18444,9 +18449,9 @@
       "ID": "ACH32",
       "SetID": "9llo822",
       "Name": "City Sleuth",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 328
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH33",
@@ -18469,7 +18474,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16423,
+      "Progressed": 16424,
       "Completed": 100
     }
   ],
@@ -18477,8 +18482,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-15T04:10:59.0190805+00:00",
+  "LastChanged_Achievements": "2024-01-15T05:09:52.756869+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:01:38.6293369+00:00",
-  "LastUpdate_Achievements": "2024-01-15T04:10:59.0192011+00:00"
+  "LastUpdate_Ratings": "2024-01-15T04:59:53.5000549+00:00",
+  "LastUpdate_Achievements": "2024-01-15T05:09:52.7569623+00:00"
 }
