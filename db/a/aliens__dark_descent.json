@@ -563,7 +563,7 @@
   ],
   "EOS_Progressed": 6439,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9877,9 +9877,9 @@
       "ID": "ACH_APC_RUN_OVER",
       "SetID": "816efe",
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2833
+      "UsersEstimate": 2898
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10214,8 +10214,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:32:35.6623375+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:05:52.7645737+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:25:09.868086+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:32:35.6624118+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:57:54.6224789+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:05:52.7646668+00:00"
 }

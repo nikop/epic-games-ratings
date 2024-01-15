@@ -1153,9 +1153,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 551560,
+  "EOS_Progressed": 551561,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1575,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31963,6 +31963,11 @@
       "Time": "2024-01-15T02:31:22.7454461+00:00",
       "NumProgressed": 551560,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T03:04:13.4276271+00:00",
+      "NumProgressed": 551561,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32118,7 +32123,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 77218
+      "UsersEstimate": 77219
     },
     {
       "ID": "Handy",
@@ -32126,7 +32131,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 231655
+      "UsersEstimate": 231656
     },
     {
       "ID": "HoldingYourOwn",
@@ -32262,7 +32267,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 77218
+      "UsersEstimate": 77219
     },
     {
       "ID": "RockAndHighRoller",
@@ -32302,7 +32307,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 104796
+      "UsersEstimate": 104797
     },
     {
       "ID": "TopDog",
@@ -32333,7 +32338,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 551560,
+      "Progressed": 551561,
       "Completed": 2
     }
   ],
@@ -32341,8 +32346,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-14T04:59:35.0713982+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:31:22.7454457+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:04:13.4276268+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.9152089+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:26:16.7720318+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:31:22.7456209+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:59:33.8095891+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:04:13.427824+00:00"
 }

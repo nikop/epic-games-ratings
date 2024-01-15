@@ -5957,7 +5957,7 @@
   ],
   "EOS_Progressed": 14155,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25445,9 +25445,9 @@
       "ID": "Renovator",
       "SetID": "chapdi4",
       "Name": "Renovator",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 6936
+      "UsersEstimate": 7078
     },
     {
       "ID": "Thorn_Cleaner",
@@ -25478,8 +25478,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-14T23:58:33.3053224+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:36:52.8581555+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:09:59.9741461+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:35.1172032+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:25:58.1088068+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:36:52.858287+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:59:04.2097751+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:09:59.9743056+00:00"
 }

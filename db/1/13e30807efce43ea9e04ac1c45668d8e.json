@@ -2,9 +2,9 @@
   "ID": "13e30807efce43ea9e04ac1c45668d8e",
   "Name": "Outliver: Tribulation",
   "ProductSlug": "outliver-tribulations-679884",
-  "Ranking_EOS_Progress": 600,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 523,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-18T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31,
+  "EOS_Progressed": 32,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2024-01-09T18:10:37.7427258+00:00",
       "NumProgressed": 31,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T03:10:59.8652571+00:00",
+      "NumProgressed": 32,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-02T06:02:07.3967379+00:00",
@@ -210,7 +215,7 @@
       "ID": "ACH_DEFEAT_KUKUTEKO",
       "SetID": "7m06add",
       "Name": "Kukuteko",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -354,23 +359,23 @@
       "ID": "ACH_WELCOME_TO_ROT",
       "SetID": "7m06add",
       "Name": "The Realm Of Tribulations",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m06add",
       "IsBase": true,
-      "Progressed": 31,
+      "Progressed": 32,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-23T09:57:14.6972253+00:00",
   "FirstSeenAchievements": "2023-07-01T13:14:13.8674761+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:37:36.529346+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:10:59.8652559+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:15.8954916+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:25:37.6210413+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:37:36.529359+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:58:34.3533404+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:10:59.8652725+00:00"
 }

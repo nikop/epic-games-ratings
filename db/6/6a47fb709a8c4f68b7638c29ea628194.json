@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2173,
+  "EOS_Progressed": 2174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 442,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2879,6 +2879,11 @@
       "Time": "2024-01-15T02:36:57.0088657+00:00",
       "NumProgressed": 2173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T03:10:05.5889774+00:00",
+      "NumProgressed": 2174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -2913,9 +2918,9 @@
       "ID": "FASTEST_LAP_1",
       "SetID": "4nk2039",
       "Name": "Fastest lap",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 391
     },
     {
       "ID": "FASTEST_LAP_10",
@@ -2987,7 +2992,7 @@
       "Name": "First lap",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "PODIUM_1",
@@ -3019,7 +3024,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "RESEARCHED_2",
@@ -3035,7 +3040,7 @@
       "Name": "Generation 3",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "RESEARCHED_4",
@@ -3170,14 +3175,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2173,
+      "Progressed": 2174,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:36:57.0088654+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:10:05.588977+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:25:37.6332305+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:36:57.0089017+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:58:34.5037363+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:10:05.5890196+00:00"
 }

@@ -5,25 +5,25 @@ Rating: 4.26 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~160,031 |
-| Dead-ball specialist | 61.00% | ~130,159 |
-| European Legend | 52.00% | ~110,955 |
-| Multitasking | 51.00% | ~108,821 |
-| Balanced Path | 49.00% | ~104,554 |
-| High Grades | 48.00% | ~102,420 |
-| A Moment of Your Time | 46.00% | ~98,152 |
-| Let the Games Begin | 46.00% | ~98,152 |
-| Aiming High | 46.00% | ~98,152 |
-| Tactical Tinkerer | 40.00% | ~85,350 |
-| Intuition and Execution | 39.00% | ~83,216 |
-| Squad Building Connoisseur | 38.00% | ~81,082 |
-| The Winning Formula | 36.00% | ~76,815 |
-| Parking the Bus | 27.00% | ~57,611 |
+| Power Shot | 75.00% | ~160,034 |
+| Dead-ball specialist | 61.00% | ~130,161 |
+| European Legend | 52.00% | ~110,957 |
+| Multitasking | 51.00% | ~108,823 |
+| Balanced Path | 49.00% | ~104,555 |
+| High Grades | 48.00% | ~102,421 |
+| A Moment of Your Time | 46.00% | ~98,154 |
+| Let the Games Begin | 46.00% | ~98,154 |
+| Aiming High | 46.00% | ~98,154 |
+| Tactical Tinkerer | 40.00% | ~85,351 |
+| Intuition and Execution | 39.00% | ~83,217 |
+| Squad Building Connoisseur | 38.00% | ~81,084 |
+| The Winning Formula | 36.00% | ~76,816 |
+| Parking the Bus | 27.00% | ~57,612 |
 | Safe House | 26.00% | ~55,478 |
 | Best of Five | 26.00% | ~55,478 |
-| Football is Everything | 24.00% | ~51,210 |
-| The Chosen One | 22.00% | ~46,942 |
-| Fresh Fit | 20.00% | ~42,675 |
+| Football is Everything | 24.00% | ~51,211 |
+| The Chosen One | 22.00% | ~46,943 |
+| Fresh Fit | 20.00% | ~42,676 |
 | Bring it on | 17.00% | ~36,274 |
 | Life-Like | 14.00% | ~29,873 |
 | Make the Grade | 12.00% | ~25,605 |
@@ -31,7 +31,7 @@ Rating: 4.26 (Ranked 920)
 | Specialist | 10.00% | ~21,338 |
 | Teamwork works | 9.00% | ~19,204 |
 | First of Many | 9.00% | ~19,204 |
-| Momentous Achievement | 6.00% | ~12,802 |
+| Momentous Achievement | 6.00% | ~12,803 |
 | Becoming Unplayable | 5.00% | ~10,669 |
 | Shop till you drop | 5.00% | ~10,669 |
 | On the way up | 5.00% | ~10,669 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 920)
 | Training Addict | 0.10% | ~213 |
 | Dazzling Personality | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,375 (Ranked 81)  
+Progressed: 213,378 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 212,656 | 0 |
 | 2024-01-13 | 213,012 | 0 |
 | 2024-01-14 | 213,338 | 0 |
-| 2024-01-15 | 213,375 | 0 |
+| 2024-01-15 | 213,378 | 0 |
 ## Awards
 Max (Diverse Characters): 22,269  (Ranked 21)  
 Sum: 110,470 (Ranked 17)  

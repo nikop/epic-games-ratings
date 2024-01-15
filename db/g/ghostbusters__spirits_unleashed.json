@@ -4023,9 +4023,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33669,
+  "EOS_Progressed": 33671,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25553,6 +25553,11 @@
       "Time": "2024-01-15T02:36:44.609301+00:00",
       "NumProgressed": 33669,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-15T03:09:48.4660995+00:00",
+      "NumProgressed": 33671,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25604,7 +25609,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Collect_Spores",
@@ -25612,7 +25617,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Collector",
@@ -25700,7 +25705,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "GB_In_Training",
@@ -25900,7 +25905,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Terrifying",
@@ -25924,7 +25929,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Tobins_Prodigy",
@@ -25948,7 +25953,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Welcome_Crew",
@@ -25971,7 +25976,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33669,
+      "Progressed": 33671,
       "Completed": 71
     }
   ],
@@ -25979,8 +25984,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:36:44.6093007+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:09:48.4660992+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:30:30.331663+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:36:44.6094533+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:02:55.9616479+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:09:48.4662726+00:00"
 }

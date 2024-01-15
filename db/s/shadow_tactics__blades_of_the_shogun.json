@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -2548,9 +2548,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226055,
+  "EOS_Progressed": 226059,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1313,
+  "EOS_NewPlayers": 1315,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33598,6 +33598,11 @@
       "Time": "2024-01-15T02:33:37.7484523+00:00",
       "NumProgressed": 226055,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-15T03:07:20.193767+00:00",
+      "NumProgressed": 226059,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33633,7 +33638,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "CompleteMastery",
@@ -33665,7 +33670,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "GearUp",
@@ -33705,7 +33710,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "IceIceYuki",
@@ -33713,7 +33718,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18084
+      "UsersEstimate": 18085
     },
     {
       "ID": "ItsRainingMen",
@@ -33729,7 +33734,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18084
+      "UsersEstimate": 18085
     },
     {
       "ID": "Mercyful",
@@ -33857,7 +33862,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18084
+      "UsersEstimate": 18085
     },
     {
       "ID": "TanukiTime",
@@ -33873,7 +33878,7 @@
       "Name": "The Cave",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "TheEnd",
@@ -33929,7 +33934,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13563
+      "UsersEstimate": 13564
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -33953,22 +33958,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18084
+      "UsersEstimate": 18085
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226055,
+      "Progressed": 226059,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-14T14:59:34.4621361+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:33:37.7484519+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:07:20.1937666+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:27:14.5775247+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:33:37.7486512+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:00:58.0274503+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:07:20.193967+00:00"
 }

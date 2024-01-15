@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151206,
+  "EOS_Progressed": 151207,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 993,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36739,6 +36739,11 @@
       "Time": "2024-01-15T02:36:27.9428909+00:00",
       "NumProgressed": 151206,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T03:09:39.6902585+00:00",
+      "NumProgressed": 151207,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -37014,7 +37019,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12096
+      "UsersEstimate": 12097
     },
     {
       "ID": "craft02",
@@ -37526,7 +37531,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12096
+      "UsersEstimate": 12097
     },
     {
       "ID": "sell02",
@@ -37645,15 +37650,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151206,
+      "Progressed": 151207,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:36:27.9428906+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:09:39.6902577+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:30:59.595601+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:36:27.9430973+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:03:39.7847525+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:09:39.6905848+00:00"
 }

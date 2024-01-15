@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 857,
+  "EOS_Progressed": 860,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2789,6 +2789,11 @@
       "Time": "2024-01-15T02:37:33.2586117+00:00",
       "NumProgressed": 857,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T03:10:55.8758708+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -2905,7 +2910,7 @@
       "Name": "First Login",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 857
+      "UsersEstimate": 860
     },
     {
       "ID": "Losses_100",
@@ -2967,7 +2972,7 @@
       "ID": "Wins_Land_17",
       "SetID": "2bonhb9",
       "Name": "Land Origin Player",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -3016,14 +3021,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 857,
+      "Progressed": 860,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:37:33.2586111+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:10:55.8758704+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:07.2426485+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:24:38.4840455+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:37:33.2586428+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:57:07.9949743+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:10:55.8759149+00:00"
 }

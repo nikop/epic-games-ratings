@@ -5,24 +5,24 @@ Rating: 4.76 (Ranked 135)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~256,421 |
-| The Player Whisperer | 68.00% | ~252,705 |
+| Motivational Speaker | 69.00% | ~256,422 |
+| The Player Whisperer | 68.00% | ~252,706 |
 | One of Us, One of Us! | 62.00% | ~230,408 |
 | Clean Sheet | 55.00% | ~204,394 |
 | First Victory | 55.00% | ~204,394 |
 | #DoneDeal | 54.00% | ~200,678 |
-| Off the Books | 52.00% | ~193,245 |
-| Super-Sub | 52.00% | ~193,245 |
+| Off the Books | 52.00% | ~193,246 |
+| Super-Sub | 52.00% | ~193,246 |
 | Hat-trick | 47.00% | ~174,664 |
 | Planned Signing | 44.00% | ~163,515 |
 | "I Would Love It If We Beat Them" | 43.00% | ~159,799 |
-| Scoring Streak | 41.00% | ~152,366 |
-| Wheeler Dealer | 41.00% | ~152,366 |
+| Scoring Streak | 41.00% | ~152,367 |
+| Wheeler Dealer | 41.00% | ~152,367 |
 | Thumping | 40.00% | ~148,650 |
 | Unbeatable! | 39.00% | ~144,934 |
 | People Pleaser | 39.00% | ~144,934 |
-| One Of Our Own | 37.00% | ~137,501 |
-| Record Signing | 33.00% | ~122,636 |
+| One Of Our Own | 37.00% | ~137,502 |
+| Record Signing | 33.00% | ~122,637 |
 | They're a Natural | 32.00% | ~118,920 |
 | Team Performance | 31.00% | ~115,204 |
 | Star Player | 30.00% | ~111,488 |
@@ -33,8 +33,8 @@ Rating: 4.76 (Ranked 135)
 | Squad Goals | 28.00% | ~104,055 |
 | The People's Champion | 28.00% | ~104,055 |
 | Beating Expectations | 27.00% | ~100,339 |
-| Unstoppable Force | 26.00% | ~96,622 |
-| Record Sale | 26.00% | ~96,622 |
+| Unstoppable Force | 26.00% | ~96,623 |
+| Record Sale | 26.00% | ~96,623 |
 | You're on Fire | 25.00% | ~92,906 |
 | Tremendous Trio | 25.00% | ~92,906 |
 | On a Roll | 24.00% | ~89,190 |
@@ -75,13 +75,13 @@ Rating: 4.76 (Ranked 135)
 | Parked The Tank | 4.00% | ~14,865 |
 | National Hero | 3.00% | ~11,149 |
 | Invitational | 3.00% | ~11,149 |
-| Part of the Furniture | 2.00% | ~7,432 |
-| Cupset Between Friends | 2.00% | ~7,432 |
-| Mini League Champion | 2.00% | ~7,432 |
-| Beat Your Mates | 2.00% | ~7,432 |
-| Trophy Hoarder | 2.00% | ~7,432 |
-| Freedom of the Country | 2.00% | ~7,432 |
-| On Top of the World | 2.00% | ~7,432 |
+| Part of the Furniture | 2.00% | ~7,433 |
+| Cupset Between Friends | 2.00% | ~7,433 |
+| Mini League Champion | 2.00% | ~7,433 |
+| Beat Your Mates | 2.00% | ~7,433 |
+| Trophy Hoarder | 2.00% | ~7,433 |
+| Freedom of the Country | 2.00% | ~7,433 |
+| On Top of the World | 2.00% | ~7,433 |
 | First Goal Versus | 0.80% | ~2,973 |
 | The Greatest | 0.80% | ~2,973 |
 | Perfect Host | 0.80% | ~2,973 |
@@ -91,7 +91,7 @@ Rating: 4.76 (Ranked 135)
 | Clean Sheet Versus | 0.50% | ~1,858 |
 | Versus Champ | 0.50% | ~1,858 |
 | Online Rivalry | 0.50% | ~1,858 |
-| The Rich Get Richer | 0.40% | ~1,486 |
+| The Rich Get Richer | 0.40% | ~1,487 |
 | Outstanding Defence | 0.30% | ~1,115 |
 | Import To Victory | 0.20% | ~743 |
 | Draft Dominator | 0.20% | ~743 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 135)
 | 200 Club | 0.10% | ~372 |
 | Draft Value | 0.10% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,625 (Ranked 57)  
+Progressed: 371,626 (Ranked 57)  
 Completed: 30 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 30 (0.01%) (Ranked 376)
 | 2024-01-12 | 371,234 | 30 |
 | 2024-01-13 | 371,433 | 30 |
 | 2024-01-14 | 371,612 | 30 |
-| 2024-01-15 | 371,625 | 30 |
+| 2024-01-15 | 371,626 | 30 |
 ## Awards
 Max (Diverse Characters): 1,372  (Ranked 144)  
 Sum: 9,397 (Ranked 98)  

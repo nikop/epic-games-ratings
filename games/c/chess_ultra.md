@@ -5,26 +5,26 @@ Rating: 4.31 (Ranked 874)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~161,779 |
-| Doubled Pawn | 57.00% | ~129,879 |
-| Check | 56.00% | ~127,600 |
-| Absolute pin | 47.00% | ~107,093 |
-| Promotion | 31.00% | ~70,636 |
-| Checkmate | 30.00% | ~68,357 |
-| O-O | 24.00% | ~54,686 |
-| Spanish Bishop | 21.00% | ~47,850 |
-| Queen Sacrifice | 20.00% | ~45,572 |
-| Stalemate | 18.00% | ~41,014 |
+| Chop Wood | 71.00% | ~161,784 |
+| Doubled Pawn | 57.00% | ~129,883 |
+| Check | 56.00% | ~127,604 |
+| Absolute pin | 47.00% | ~107,097 |
+| Promotion | 31.00% | ~70,638 |
+| Checkmate | 30.00% | ~68,360 |
+| O-O | 24.00% | ~54,688 |
+| Spanish Bishop | 21.00% | ~47,852 |
+| Queen Sacrifice | 20.00% | ~45,573 |
+| Stalemate | 18.00% | ~41,016 |
 | O-O-O | 13.00% | ~29,622 |
 | Octopus | 13.00% | ~29,622 |
-| Stranger Danger | 12.00% | ~27,343 |
-| En Passant | 9.00% | ~20,507 |
-| Double Check | 7.00% | ~15,950 |
-| Family Fork | 6.00% | ~13,671 |
-| Piece Collector | 6.00% | ~13,671 |
+| Stranger Danger | 12.00% | ~27,344 |
+| En Passant | 9.00% | ~20,508 |
+| Double Check | 7.00% | ~15,951 |
+| Family Fork | 6.00% | ~13,672 |
+| Piece Collector | 6.00% | ~13,672 |
 | ELO | 5.00% | ~11,393 |
-| Friendly Fire | 4.00% | ~9,114 |
-| Underpromote | 4.00% | ~9,114 |
+| Friendly Fire | 4.00% | ~9,115 |
+| Underpromote | 4.00% | ~9,115 |
 | ELO ELO | 3.00% | ~6,836 |
 | Learner | 3.00% | ~6,836 |
 | Blind Pigs | 2.00% | ~4,557 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 874)
 | Tournament Master | 0.10% | ~228 |
 | Tournament Pro | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,858 (Ranked 78)  
+Progressed: 227,865 (Ranked 78)  
 Completed: 2 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 2 (0.00%) (Ranked 401)
 | 2024-01-12 | 227,420 | 2 |
 | 2024-01-13 | 227,615 | 2 |
 | 2024-01-14 | 227,836 | 2 |
-| 2024-01-15 | 227,858 | 2 |
+| 2024-01-15 | 227,865 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

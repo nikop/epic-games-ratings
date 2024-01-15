@@ -11,12 +11,12 @@ Rating: 4.50 (Ranked 616)
 | Discovery | 6.00% | ~2,020 |
 | Solo Capture | 6.00% | ~2,020 |
 | Swift Rift Removers | 6.00% | ~2,020 |
-| Clutch Capture | 5.00% | ~1,683 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,683 |
-| Fully Upgraded | 5.00% | ~1,683 |
-| Teamwork | 5.00% | ~1,683 |
-| There you are! | 5.00% | ~1,683 |
-| Vaporous Expansion | 5.00% | ~1,683 |
+| Clutch Capture | 5.00% | ~1,684 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,684 |
+| Fully Upgraded | 5.00% | ~1,684 |
+| Teamwork | 5.00% | ~1,684 |
+| There you are! | 5.00% | ~1,684 |
+| Vaporous Expansion | 5.00% | ~1,684 |
 | Cultured | 4.00% | ~1,347 |
 | Daily Dose | 4.00% | ~1,347 |
 | Ghostbuster In Training | 4.00% | ~1,347 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 616)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,669 (Ranked 139)  
+Progressed: 33,671 (Ranked 139)  
 Completed: 71 (0.21%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 71 (0.21%) (Ranked 279)
 | 2024-01-12 | 33,580 | 71 |
 | 2024-01-13 | 33,613 | 71 |
 | 2024-01-14 | 33,664 | 71 |
-| 2024-01-15 | 33,669 | 71 |
+| 2024-01-15 | 33,671 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,965 (Ranked 187)  

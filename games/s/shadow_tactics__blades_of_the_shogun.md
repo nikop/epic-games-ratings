@@ -13,15 +13,15 @@ Number of Ratings: 495  (23.09.2022)
 | Rescue Takuma | 9.00% | ~20,345 |
 | Rollin' | 9.00% | ~20,345 |
 | Tanuki Time | 9.00% | ~20,345 |
-| Ice Ice Yuki | 8.00% | ~18,084 |
-| Jonin | 8.00% | ~18,084 |
-| Stoned Ox | 8.00% | ~18,084 |
-| Yabu | 8.00% | ~18,084 |
+| Ice Ice Yuki | 8.00% | ~18,085 |
+| Jonin | 8.00% | ~18,085 |
+| Stoned Ox | 8.00% | ~18,085 |
+| Yabu | 8.00% | ~18,085 |
 | Happy Planning | 7.00% | ~15,824 |
 | Mugen Unchained | 7.00% | ~15,824 |
-| Chunin | 6.00% | ~13,563 |
-| Flying Rocks | 6.00% | ~13,563 |
-| Warzone | 6.00% | ~13,563 |
+| Chunin | 6.00% | ~13,564 |
+| Flying Rocks | 6.00% | ~13,564 |
+| Warzone | 6.00% | ~13,564 |
 | Happy little accidents | 5.00% | ~11,303 |
 | Okkoto | 5.00% | ~11,303 |
 | Prisoners | 5.00% | ~11,303 |
@@ -40,8 +40,8 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,261 |
 | Undeserved Honor | 1.00% | ~2,261 |
 | When Cut Across the Neck | 1.00% | ~2,261 |
-| High Five the Moon | 0.90% | ~2,034 |
-| The Cave | 0.90% | ~2,034 |
+| High Five the Moon | 0.90% | ~2,035 |
+| The Cave | 0.90% | ~2,035 |
 | Time Paradox | 0.60% | ~1,356 |
 | Merciful | 0.50% | ~1,130 |
 | Five Shadows | 0.40% | ~904 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,055 (Ranked 79)  
+Progressed: 226,059 (Ranked 79)  
 Completed: 107 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 107 (0.05%) (Ranked 341)
 | 2024-01-12 | 225,573 | 107 |
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
-| 2024-01-15 | 226,055 | 107 |
+| 2024-01-15 | 226,059 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
 Sum: 4,960 (Ranked 152)  

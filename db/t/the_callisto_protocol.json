@@ -2237,9 +2237,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22391,
+  "EOS_Progressed": 22392,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 758,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13937,6 +13937,11 @@
       "Time": "2024-01-15T02:37:23.7540804+00:00",
       "NumProgressed": 22391,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T03:10:42.4723992+00:00",
+      "NumProgressed": 22392,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14092,7 +14097,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14100,7 +14105,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14108,7 +14113,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14148,7 +14153,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "STORY_HABITAT",
@@ -14323,13 +14328,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22391,
+      "Progressed": 22392,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10317,
+      "Progressed": 10318,
       "Completed": 29
     }
   ],
@@ -14337,8 +14342,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-14T22:03:20.3675654+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:37:23.75408+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:10:42.4723986+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:31:02.4550789+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:37:23.7541826+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:03:43.6034712+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:10:42.4725098+00:00"
 }

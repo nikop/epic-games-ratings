@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 5.00% | ~842 |
 | Play a Single Player Game | 5.00% | ~842 |
-| Explorer | 4.00% | ~673 |
-| Friendly Family | 4.00% | ~673 |
+| Explorer | 4.00% | ~674 |
+| Friendly Family | 4.00% | ~674 |
 | Able | 3.00% | ~505 |
 | Architect | 3.00% | ~505 |
 | Good | 3.00% | ~505 |
@@ -241,6 +241,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.10% | ~17 |
 | Philip's Golden Crown | 0.10% | ~17 |
 | Philip's Silver Crown | 0.10% | ~17 |
+| Queen of Intrigue | 0.10% | ~17 |
+| Queen of War | 0.10% | ~17 |
 | Mighty Bucephalus | 0.10% | ~17 |
 | Knot So Hard | 0.10% | ~17 |
 | Pharaoh | 0.10% | ~17 |
@@ -322,10 +324,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Queen of Politics | 0.00% | ~0 |
-| Queen of Intrigue | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
-| Queen of War | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,835 (Ranked 169)  
+Progressed: 16,838 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,835 | 5 |
+| 2024-01-15 | 16,838 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

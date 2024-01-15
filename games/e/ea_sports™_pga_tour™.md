@@ -8,7 +8,7 @@
 | From Way Downtown | 55.00% | ~543 |
 | Makin' the Cut | 53.00% | ~523 |
 | Clean Sheet | 50.00% | ~494 |
-| Winner's Circle | 43.00% | ~424 |
+| Winner's Circle | 44.00% | ~434 |
 | Holey Moley | 42.00% | ~415 |
 | Bomb's Away | 39.00% | ~385 |
 | Competitor's Spirit | 34.00% | ~336 |

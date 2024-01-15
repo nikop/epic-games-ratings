@@ -1891,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168258,
+  "EOS_Progressed": 168264,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23121,6 +23121,11 @@
       "Time": "2024-01-15T02:34:11.1807275+00:00",
       "NumProgressed": 168258,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2024-01-15T03:08:36.192135+00:00",
+      "NumProgressed": 168264,
+      "NumCompleted": 458
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23197,7 +23202,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23349,7 +23354,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6730
+      "UsersEstimate": 6731
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23500,21 +23505,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167841,
+      "Progressed": 167847,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168258,
+      "Progressed": 168264,
       "Completed": 458
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:34:11.180727+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:08:36.1921346+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:25:49.5906258+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:34:11.1808529+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:58:52.0465736+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:08:36.1922884+00:00"
 }

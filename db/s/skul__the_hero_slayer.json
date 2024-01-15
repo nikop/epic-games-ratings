@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 108,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1535,7 +1535,7 @@
       "Count": 154
     }
   ],
-  "EOS_Progressed": 14733,
+  "EOS_Progressed": 14734,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 1,
@@ -9990,6 +9990,11 @@
       "Time": "2024-01-15T00:09:42.9407885+00:00",
       "NumProgressed": 14733,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-15T03:10:06.7509122+00:00",
+      "NumProgressed": 14734,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10081,7 +10086,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4125
+      "UsersEstimate": 4126
     },
     {
       "ID": "HeroSlayer",
@@ -10089,7 +10094,7 @@
       "Name": "The Hero Killer",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 3683
+      "UsersEstimate": 3684
     },
     {
       "ID": "LeoniasFall",
@@ -10113,7 +10118,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5451
+      "UsersEstimate": 5452
     },
     {
       "ID": "RookieWelcome",
@@ -10161,7 +10166,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13702
+      "UsersEstimate": 13703
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10185,22 +10190,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11786
+      "UsersEstimate": 11787
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14733,
+      "Progressed": 14734,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-13T20:58:12.0230932+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:36:57.890606+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:10:06.7509118+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:26:22.0486379+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:36:57.8906796+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:59:41.460211+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:10:06.7509795+00:00"
 }

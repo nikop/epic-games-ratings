@@ -47,10 +47,10 @@
 | Easy Peasy | 2.00% | ~7 |
 | Pro Shotgunner | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |
+| Pro Carrocketeer | 0.80% | ~3 |
 | King of the Crow | 0.80% | ~3 |
 | Forestside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |
-| Pro Carrocketeer | 0.50% | ~2 |
 | Pro Sniperagus | 0.50% | ~2 |
 | Unstoppable | 0.50% | ~2 |
 | Death From Above | 0.50% | ~2 |

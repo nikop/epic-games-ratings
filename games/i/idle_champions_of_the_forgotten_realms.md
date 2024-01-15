@@ -31,6 +31,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.50% | ~1,101 |
 | Beast Mode | 0.40% | ~1,016 |
 | A Mysterious Summons | 0.40% | ~1,016 |
+| Building Trust | 0.40% | ~1,016 |
 | Useless Allies | 0.40% | ~1,016 |
 | Exploring Port Nyanzaru | 0.40% | ~1,016 |
 | Escort to Waterdeep | 0.40% | ~1,016 |
@@ -42,7 +43,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.40% | ~881 |
 | The Silken Swamp | 0.30% | ~762 |
 | Low Initiative | 0.30% | ~762 |
-| Building Trust | 0.30% | ~762 |
 | March of the Undead | 0.30% | ~762 |
 | No Time To Rest | 0.30% | ~762 |
 | The Dinner Party | 0.30% | ~762 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,982 (Ranked 70)  
+Progressed: 253,986 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -823,7 +823,7 @@ Completed: 2,617 (1.03%) (Ranked 177)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 253,982 | 2,617 |
+| 2024-01-15 | 253,986 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
 Sum: 33,493 (Ranked 41)  

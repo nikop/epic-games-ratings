@@ -5,53 +5,53 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~122,904 |
-| First Class Student | 28.00% | ~107,541 |
-| Troll with the Punches | 26.00% | ~99,859 |
-| A Keen Sense of Spell | 23.00% | ~88,337 |
-| A Talent for Spending | 19.00% | ~72,974 |
-| That's a Keeper | 18.00% | ~69,133 |
-| Loom for Improvement | 15.00% | ~57,611 |
-| Followed the Butterflies | 14.00% | ~53,770 |
-| The Defender of Dragons | 13.00% | ~49,930 |
-| Challenge Accepted | 13.00% | ~49,930 |
-| Coasting Along | 13.00% | ~49,930 |
-| Grappling with a Graphorn | 12.00% | ~46,089 |
-| The One Who Mastered Memories | 12.00% | ~46,089 |
-| The Hallowed Hero | 12.00% | ~46,089 |
-| The Hero of Hogwarts | 11.00% | ~42,248 |
-| The Spell Master | 10.00% | ~38,407 |
-| Rising From the Ashes | 10.00% | ~38,407 |
+| The Sort Who Makes an Entrance | 32.00% | ~122,907 |
+| First Class Student | 28.00% | ~107,543 |
+| Troll with the Punches | 26.00% | ~99,862 |
+| A Keen Sense of Spell | 23.00% | ~88,339 |
+| A Talent for Spending | 19.00% | ~72,976 |
+| That's a Keeper | 18.00% | ~69,135 |
+| Loom for Improvement | 15.00% | ~57,612 |
+| Followed the Butterflies | 14.00% | ~53,772 |
+| The Defender of Dragons | 13.00% | ~49,931 |
+| Challenge Accepted | 13.00% | ~49,931 |
+| Coasting Along | 13.00% | ~49,931 |
+| Grappling with a Graphorn | 12.00% | ~46,090 |
+| The One Who Mastered Memories | 12.00% | ~46,090 |
+| The Hallowed Hero | 12.00% | ~46,090 |
+| The Hero of Hogwarts | 11.00% | ~42,249 |
+| The Spell Master | 10.00% | ~38,408 |
+| Rising From the Ashes | 10.00% | ~38,408 |
 | A Sallow Grave | 9.00% | ~34,567 |
 | Flight the Good Flight | 9.00% | ~34,567 |
-| The Avenging Gazelle | 8.00% | ~30,726 |
-| Beast Friends | 8.00% | ~30,726 |
-| Raising Expectations | 8.00% | ~30,726 |
-| The Toast of the Town | 7.00% | ~26,885 |
-| The Root of the Problem | 7.00% | ~26,885 |
-| Third Time's a Charm | 7.00% | ~26,885 |
-| The Gryffindor in the Graveyard | 7.00% | ~26,885 |
-| The Seeker of Knowledge | 6.00% | ~23,044 |
-| The Ends Petrify the Means | 6.00% | ~23,044 |
-| The Wise Owl | 6.00% | ~23,044 |
+| The Avenging Gazelle | 8.00% | ~30,727 |
+| Beast Friends | 8.00% | ~30,727 |
+| Raising Expectations | 8.00% | ~30,727 |
+| The Toast of the Town | 7.00% | ~26,886 |
+| The Root of the Problem | 7.00% | ~26,886 |
+| Third Time's a Charm | 7.00% | ~26,886 |
+| The Gryffindor in the Graveyard | 7.00% | ~26,886 |
+| The Seeker of Knowledge | 6.00% | ~23,045 |
+| The Ends Petrify the Means | 6.00% | ~23,045 |
+| The Wise Owl | 6.00% | ~23,045 |
 | Going Through the Potions | 5.00% | ~19,204 |
 | The Auror's Apprentice | 4.00% | ~15,363 |
 | Room with a View | 4.00% | ~15,363 |
 | The Intrepid Explorer | 4.00% | ~15,363 |
 | Put Down Roots | 3.00% | ~11,522 |
 | Floo Around the World | 3.00% | ~11,522 |
-| The Good Samaritan | 2.00% | ~7,681 |
-| Savvy Spender | 2.00% | ~7,681 |
-| Rise to the Challenges | 2.00% | ~7,681 |
-| Demiguise Dread | 2.00% | ~7,681 |
-| Finishing Touches | 2.00% | ~7,681 |
-| A Forte for Achievement | 2.00% | ~7,681 |
+| The Good Samaritan | 2.00% | ~7,682 |
+| Savvy Spender | 2.00% | ~7,682 |
+| Rise to the Challenges | 2.00% | ~7,682 |
+| Demiguise Dread | 2.00% | ~7,682 |
+| Finishing Touches | 2.00% | ~7,682 |
+| A Forte for Achievement | 2.00% | ~7,682 |
 | Merlin's Beard! | 1.00% | ~3,841 |
 | Spilled Milk | 0.90% | ~3,457 |
 | The Nature of the Beast | 0.70% | ~2,689 |
 | Collector's Edition | 0.30% | ~1,152 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384,074 (Ranked 55)  
+Progressed: 384,083 (Ranked 55)  
 Completed: 564 (0.15%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 564 (0.15%) (Ranked 293)
 | 2024-01-12 | 382,448 | 561 |
 | 2024-01-13 | 383,308 | 563 |
 | 2024-01-14 | 384,018 | 564 |
-| 2024-01-15 | 384,074 | 564 |
+| 2024-01-15 | 384,083 | 564 |
 ## Awards
 Max (Character Customization): 30,899  (Ranked 16)  
 Sum: 62,706 (Ranked 25)  

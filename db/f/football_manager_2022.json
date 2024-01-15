@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": null,
@@ -9186,10 +9186,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51259,
       "NumberOfAwardsMax": 6497
+    },
+    {
+      "Time": "2024-01-15T03:02:59.5010882+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51260,
+      "NumberOfAwardsMax": 6497
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51259,
+  "NumberOfAwards": 51260,
   "NumberOfAwardsMax": 6497,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -9239,7 +9245,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4946
+      "Count": 4947
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9260,9 +9266,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479307,
+  "EOS_Progressed": 479308,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36280,6 +36286,11 @@
       "Time": "2024-01-15T02:36:50.3528451+00:00",
       "NumProgressed": 479307,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-15T03:09:56.5216085+00:00",
+      "NumProgressed": 479308,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -36491,7 +36502,7 @@
       "Name": "Do The Double",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 91068
+      "UsersEstimate": 91069
     },
     {
       "ID": "achievement_dont_concede_a_goal_for_10_consecutive_matches",
@@ -36587,7 +36598,7 @@
       "Name": "Irresistible Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95861
+      "UsersEstimate": 95862
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -36715,7 +36726,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167757
+      "UsersEstimate": 167758
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -36723,7 +36734,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153378
+      "UsersEstimate": 153379
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -36731,7 +36742,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 95861
+      "UsersEstimate": 95862
     },
     {
       "ID": "achievement_pick_feeder",
@@ -36795,7 +36806,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153378
+      "UsersEstimate": 153379
     },
     {
       "ID": "achievement_rushed_signing",
@@ -36835,7 +36846,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 230067
+      "UsersEstimate": 230068
     },
     {
       "ID": "achievement_signed_a_player",
@@ -37074,15 +37085,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479307,
+      "Progressed": 479308,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2024-01-15T01:55:06.7723229+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:36:50.3528447+00:00",
+  "LastChanged": "2024-01-15T03:02:59.501088+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:09:56.5216081+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.4121487+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:30:32.8699494+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:36:50.3530324+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:02:59.5010886+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:09:56.5218054+00:00"
 }

@@ -15,10 +15,10 @@ Rating: 4.68 (Ranked 261)
 | Audiophile | 0.40% | ~36 |
 | Clay Pigeon | 0.40% | ~36 |
 | Shredder | 0.40% | ~36 |
+| Historian | 0.30% | ~27 |
 | Iconoclast | 0.30% | ~27 |
 | Fashion Faux-Pas | 0.20% | ~18 |
 | Happy Camper | 0.20% | ~18 |
-| Historian | 0.20% | ~18 |
 | Liberator | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
 | Ça de Wizz! | 0.10% | ~9 |

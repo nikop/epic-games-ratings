@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~126,177 |
-| The Fool | 11.00% | ~115,662 |
+| V for Vendetta | 12.00% | ~126,178 |
+| The Fool | 11.00% | ~115,663 |
 | Right Back At Ya | 10.00% | ~105,148 |
-| Gun Fu | 9.00% | ~94,633 |
-| The Lovers | 9.00% | ~94,633 |
-| Full Body Conversion | 7.00% | ~73,603 |
-| Christmas Tree Attack | 6.00% | ~63,088 |
-| Stanislavski's Method | 6.00% | ~63,088 |
-| The Hermit | 6.00% | ~63,088 |
-| The Wheel of Fortune | 6.00% | ~63,088 |
-| True Soldier | 6.00% | ~63,088 |
+| Gun Fu | 9.00% | ~94,634 |
+| The Lovers | 9.00% | ~94,634 |
+| Full Body Conversion | 7.00% | ~73,604 |
+| Christmas Tree Attack | 6.00% | ~63,089 |
+| Stanislavski's Method | 6.00% | ~63,089 |
+| The Hermit | 6.00% | ~63,089 |
+| The Wheel of Fortune | 6.00% | ~63,089 |
+| True Soldier | 6.00% | ~63,089 |
 | All the President's Men | 6.00% | ~10,806 |
 | Arachnophobia | 6.00% | ~10,806 |
 | The High Priestess | 5.00% | ~52,574 |
@@ -26,11 +26,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 4.00% | ~42,059 |
 | The World | 4.00% | ~42,059 |
 | True Warrior | 4.00% | ~42,059 |
-| Bushido and Chill | 3.00% | ~31,544 |
-| To Protect and Serve | 3.00% | ~31,544 |
-| I Am The Law | 3.00% | ~31,544 |
-| Two Heads, One Bullet | 3.00% | ~31,544 |
-| Judy vs Night City | 3.00% | ~31,544 |
+| Bushido and Chill | 3.00% | ~31,545 |
+| To Protect and Serve | 3.00% | ~31,545 |
+| I Am The Law | 3.00% | ~31,545 |
+| Two Heads, One Bullet | 3.00% | ~31,545 |
+| Judy vs Night City | 3.00% | ~31,545 |
 | Relic Ruler | 3.00% | ~5,403 |
 | The Wandering Fool | 2.00% | ~21,030 |
 | The Sun | 2.00% | ~21,030 |
@@ -50,7 +50,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.80% | ~8,412 |
 | King of Pentacles | 0.80% | ~1,441 |
 | King of Swords | 0.80% | ~1,441 |
-| King of Cups | 0.50% | ~900 |
+| King of Cups | 0.50% | ~901 |
 | City Lights | 0.40% | ~4,206 |
 | Little Tokyo | 0.40% | ~4,206 |
 | The Devil | 0.40% | ~4,206 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051,475 (Ranked 17)  
+Progressed: 1,051,485 (Ranked 17)  
 Completed: 3,098 (0.29%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 3,098 (0.29%) (Ranked 263)
 | 2024-01-12 | 1,048,338 | 3,079 |
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
-| 2024-01-15 | 1,051,475 | 3,098 |
+| 2024-01-15 | 1,051,485 | 3,098 |
 ## Awards
 Max (Character Customization): 139,863  (Ranked 8)  
 Sum: 494,124 (Ranked 8)  

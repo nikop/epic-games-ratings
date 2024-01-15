@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 574,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -16199,10 +16199,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 363928,
       "NumberOfAwardsMax": 46227
+    },
+    {
+      "Time": "2024-01-15T02:57:10.8160498+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 363966,
+      "NumberOfAwardsMax": 46227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 363928,
+  "NumberOfAwards": 363966,
   "NumberOfAwardsMax": 46227,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -16270,7 +16276,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 25406
+      "Count": 25444
     }
   ],
   "EOS_Progressed": 0,
@@ -16284,8 +16290,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-01-14T22:00:43.4055487+00:00",
+  "LastChanged": "2024-01-15T02:57:10.8160496+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.9601645+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:24:40.4076432+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:32:35.799703+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:57:10.8160503+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:05:52.985014+00:00"
 }

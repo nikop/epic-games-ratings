@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-the-nightmare-chronicles-reinvestigated-b631d4",
   "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 524,
+  "Ranking_EOS_NewPlayers": 523,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-13T14:00:00+00:00",
@@ -77,9 +77,9 @@
       "ID": "A_CLUE_ACH",
       "SetID": "2gpm4c0",
       "Name": "A Clue",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "A_MOMENT_OF_REST_ACH",
@@ -157,9 +157,9 @@
       "ID": "SURVIVING_THE_NIGHTMARE_ACH",
       "SetID": "2gpm4c0",
       "Name": "Surviving the Nightmare",
-      "Percentage": 74,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "YOURE_PROBABLY_CHEATING_ACH",
@@ -179,8 +179,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:21.113084+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:33:44.1940558+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:07:29.1324134+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.920236+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:26:52.7479142+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:33:44.194067+00:00"
+  "LastUpdate_Ratings": "2024-01-15T03:00:25.3246981+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:07:29.1324212+00:00"
 }

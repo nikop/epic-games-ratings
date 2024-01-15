@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 754,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2498,17 +2498,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 151
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2601,8 +2601,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:37:35.2331238+00:00",
+  "LastChanged_Achievements": "2024-01-15T03:10:58.3890065+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:48.2425501+00:00",
-  "LastUpdate_Ratings": "2024-01-15T02:25:00.1123685+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:37:35.2331528+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:57:38.5575303+00:00",
+  "LastUpdate_Achievements": "2024-01-15T03:10:58.3890388+00:00"
 }
