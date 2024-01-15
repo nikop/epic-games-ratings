@@ -6,8 +6,8 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,519 |
-| Apprentice | 58.00% | ~387,085 |
+| The Fool | 72.00% | ~480,520 |
+| Apprentice | 58.00% | ~387,086 |
 | Close Shave | 25.00% | ~166,847 |
 | Mercenary | 23.00% | ~153,499 |
 | Ninja | 23.00% | ~153,499 |
@@ -39,7 +39,7 @@ Number of Ratings: 780  (23.09.2022)
 | Cursed Soul | 1.00% | ~6,674 |
 | Champion | 1.00% | ~6,674 |
 | Final Death | 1.00% | ~6,674 |
-| Thomas' Bane | 0.90% | ~6,006 |
+| Thomas' Bane | 0.90% | ~6,007 |
 | Ally | 0.80% | ~5,339 |
 | Gamester | 0.70% | ~4,672 |
 | Hero | 0.60% | ~4,004 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,388 (Ranked 31)  
+Progressed: 667,389 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 174 (0.03%) (Ranked 358)
 | 2024-01-12 | 667,270 | 174 |
 | 2024-01-13 | 667,323 | 174 |
 | 2024-01-14 | 667,379 | 174 |
-| 2024-01-15 | 667,388 | 174 |
+| 2024-01-15 | 667,389 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 501)  
 Sum: 196 (Ranked 419)  

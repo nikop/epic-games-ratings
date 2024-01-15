@@ -1869,9 +1869,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "FINDMAP",
@@ -1989,8 +1989,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:06:47.0678029+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:05:19.681487+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:00:24.8912224+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:06:47.067859+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:59:15.0795567+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:05:19.6815461+00:00"
 }

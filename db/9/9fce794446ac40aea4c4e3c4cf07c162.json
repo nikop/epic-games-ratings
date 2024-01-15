@@ -262,33 +262,33 @@
       "ID": "DEL_I",
       "SetID": "35d3i7a",
       "Name": "Top secret.",
-      "Percentage": 12,
-      "XP": 30,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "DEL_II",
-      "SetID": "35d3i7a",
-      "Name": "Are you beautiful?",
       "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 5
     },
     {
+      "ID": "DEL_II",
+      "SetID": "35d3i7a",
+      "Name": "Are you beautiful?",
+      "Percentage": 18,
+      "XP": 30,
+      "UsersEstimate": 6
+    },
+    {
       "ID": "DEL_III",
       "SetID": "35d3i7a",
       "Name": "Precious collar.",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEL_IV",
       "SetID": "35d3i7a",
       "Name": "You asked for it.",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEL_IX",
@@ -310,9 +310,9 @@
       "ID": "DEL_VI",
       "SetID": "35d3i7a",
       "Name": "Play it again.",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEL_VII",
@@ -326,9 +326,9 @@
       "ID": "DEL_VIII",
       "SetID": "35d3i7a",
       "Name": "Crime and punishment.",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEL_X",
@@ -637,8 +637,8 @@
   ],
   "FirstSeen": "2023-10-03T14:57:54.0765548+00:00",
   "FirstSeenAchievements": "2023-09-13T06:03:08.8902067+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:11:09.1635903+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:10:14.4056677+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.2957467+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:58:38.6579128+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:11:09.1636297+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:58:03.5730251+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:10:14.4057005+00:00"
 }

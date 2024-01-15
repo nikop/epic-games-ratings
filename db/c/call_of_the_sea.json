@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139800,
+  "EOS_Progressed": 139802,
   "EOS_Completed": 1260,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1138,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31215,6 +31215,11 @@
       "Time": "2024-01-15T08:07:48.7299744+00:00",
       "NumProgressed": 139800,
       "NumCompleted": 1260
+    },
+    {
+      "Time": "2024-01-15T09:06:02.4357214+00:00",
+      "NumProgressed": 139802,
+      "NumCompleted": 1260
     }
   ],
   "TotalAchievements": 34,
@@ -31242,7 +31247,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58716
+      "UsersEstimate": 58717
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -31250,7 +31255,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 41940
+      "UsersEstimate": 41941
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -31282,7 +31287,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 111840
+      "UsersEstimate": 111842
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31298,7 +31303,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78288
+      "UsersEstimate": 78289
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31306,7 +31311,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 39144
+      "UsersEstimate": 39145
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -31314,7 +31319,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 55920
+      "UsersEstimate": 55921
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -31322,7 +31327,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 37746
+      "UsersEstimate": 37747
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -31338,7 +31343,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43338
+      "UsersEstimate": 43339
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -31354,7 +31359,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43338
+      "UsersEstimate": 43339
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -31394,7 +31399,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 37746
+      "UsersEstimate": 37747
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -31402,7 +31407,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39144
+      "UsersEstimate": 39145
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -31497,7 +31502,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 139800,
+      "Progressed": 139802,
       "Completed": 1260
     }
   ],
@@ -31505,8 +31510,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:07:48.7299739+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:06:02.435721+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:57:41.0848134+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:07:48.7301088+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:24.473767+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:06:02.4358714+00:00"
 }

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~89,564 |
-| Enemy Attrition | 67.00% | ~65,943 |
-| Grim Reaper | 66.00% | ~64,959 |
-| Heads Down | 63.00% | ~62,006 |
-| Not On My Watch | 60.00% | ~59,053 |
-| Combat Engineer | 40.00% | ~39,369 |
-| Eager Beaver | 31.00% | ~30,511 |
-| Call ’em in! | 29.00% | ~28,542 |
-| Lovely | 28.00% | ~27,558 |
-| Store fuglar fanga ingi flugor | 17.00% | ~16,732 |
-| Ou La Mort | 14.00% | ~13,779 |
-| Elite | 13.00% | ~12,795 |
-| Fender Bender | 8.00% | ~7,874 |
-| Globetrotter | 6.00% | ~5,905 |
-| Storyteller | 5.00% | ~4,921 |
-| Jack of All Trades | 5.00% | ~4,921 |
+| Last Man Standing | 91.00% | ~89,582 |
+| Enemy Attrition | 67.00% | ~65,956 |
+| Grim Reaper | 66.00% | ~64,972 |
+| Heads Down | 63.00% | ~62,018 |
+| Not On My Watch | 60.00% | ~59,065 |
+| Combat Engineer | 40.00% | ~39,377 |
+| Eager Beaver | 31.00% | ~30,517 |
+| Call ’em in! | 29.00% | ~28,548 |
+| Lovely | 28.00% | ~27,564 |
+| Store fuglar fanga ingi flugor | 17.00% | ~16,735 |
+| Ou La Mort | 14.00% | ~13,782 |
+| Elite | 13.00% | ~12,797 |
+| Fender Bender | 8.00% | ~7,875 |
+| Globetrotter | 6.00% | ~5,907 |
+| Storyteller | 5.00% | ~4,922 |
+| Jack of All Trades | 5.00% | ~4,922 |
 | Off-hand | 3.00% | ~2,953 |
-| Death from Above | 2.00% | ~1,968 |
-| Veteran | 0.80% | ~787 |
+| Death from Above | 2.00% | ~1,969 |
+| Veteran | 0.80% | ~788 |
 | Hoist the Flag | 0.30% | ~295 |
 | Sins of the Fathers | 0.20% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,422 (Ranked 102)  
+Progressed: 98,442 (Ranked 102)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,4 +147,4 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 96,701 | 1 |
 | 2024-01-13 | 97,547 | 1 |
 | 2024-01-14 | 98,282 | 1 |
-| 2024-01-15 | 98,422 | 1 |
+| 2024-01-15 | 98,442 | 1 |

@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~641,781 |
-| Death From Above | 44.00% | ~613,877 |
-| Master of the Household | 37.00% | ~516,215 |
-| Death of the Party | 35.00% | ~488,312 |
-| NEXUS-47 | 32.00% | ~446,456 |
-| The Last Tango | 31.00% | ~432,505 |
-| Nightmare Fuel | 30.00% | ~418,553 |
-| The Result of Previous Training | 29.00% | ~404,601 |
-| Cleared for Field Duty | 28.00% | ~390,649 |
-| Tools of the Trade | 28.00% | ~390,649 |
-| Seizing the Opportunity | 26.00% | ~362,746 |
-| Bullet Train | 21.00% | ~292,987 |
-| Stylish Assassin | 20.00% | ~279,035 |
-| Silent Assassin | 14.00% | ~195,325 |
-| Rise Up | 12.00% | ~167,421 |
-| Evil Wine Club | 11.00% | ~153,469 |
-| Console Cowboy | 10.00% | ~139,518 |
-| Last Stop | 10.00% | ~139,518 |
-| A New Profile | 9.00% | ~125,566 |
-| Dune Raider | 8.00% | ~111,614 |
-| Full House | 8.00% | ~111,614 |
-| Train Surfing | 8.00% | ~111,614 |
-| No Stone Unturned | 7.00% | ~97,662 |
+| Unseen Assassin | 46.00% | ~641,788 |
+| Death From Above | 44.00% | ~613,884 |
+| Master of the Household | 37.00% | ~516,221 |
+| Death of the Party | 35.00% | ~488,317 |
+| NEXUS-47 | 32.00% | ~446,461 |
+| The Last Tango | 31.00% | ~432,509 |
+| Nightmare Fuel | 30.00% | ~418,557 |
+| The Result of Previous Training | 29.00% | ~404,605 |
+| Cleared for Field Duty | 28.00% | ~390,653 |
+| Tools of the Trade | 28.00% | ~390,653 |
+| Seizing the Opportunity | 26.00% | ~362,750 |
+| Bullet Train | 21.00% | ~292,990 |
+| Stylish Assassin | 20.00% | ~279,038 |
+| Silent Assassin | 14.00% | ~195,327 |
+| Rise Up | 12.00% | ~167,423 |
+| Evil Wine Club | 11.00% | ~153,471 |
+| Console Cowboy | 10.00% | ~139,519 |
+| Last Stop | 10.00% | ~139,519 |
+| A New Profile | 9.00% | ~125,567 |
+| Dune Raider | 8.00% | ~111,615 |
+| Full House | 8.00% | ~111,615 |
+| Train Surfing | 8.00% | ~111,615 |
+| No Stone Unturned | 7.00% | ~97,663 |
 | Family Feud | 6.00% | ~83,711 |
 | Icebreaker | 6.00% | ~83,711 |
 | Count Down From 47 | 6.00% | ~83,711 |
-| Shortcut Killer | 5.00% | ~69,759 |
-| Followed the Trails | 5.00% | ~69,759 |
-| Last Call | 5.00% | ~69,759 |
-| Rich Harvest | 5.00% | ~69,759 |
-| Treacherous Architecture | 4.00% | ~55,807 |
-| Stair Master | 4.00% | ~55,807 |
-| Upstairs, Downstairs | 4.00% | ~55,807 |
-| The Great Outdoors | 4.00% | ~55,807 |
-| Partied Out | 4.00% | ~55,807 |
-| Surveillance Master | 4.00% | ~55,807 |
-| Training Escalated | 3.00% | ~41,855 |
-| Warehouse Veteran | 3.00% | ~41,855 |
-| Future Shock | 3.00% | ~41,855 |
-| Hack the Planet | 3.00% | ~41,855 |
-| Master the Terroir | 3.00% | ~41,855 |
-| Vineyard Virtuoso | 3.00% | ~41,855 |
+| Shortcut Killer | 5.00% | ~69,760 |
+| Followed the Trails | 5.00% | ~69,760 |
+| Last Call | 5.00% | ~69,760 |
+| Rich Harvest | 5.00% | ~69,760 |
+| Treacherous Architecture | 4.00% | ~55,808 |
+| Stair Master | 4.00% | ~55,808 |
+| Upstairs, Downstairs | 4.00% | ~55,808 |
+| The Great Outdoors | 4.00% | ~55,808 |
+| Partied Out | 4.00% | ~55,808 |
+| Surveillance Master | 4.00% | ~55,808 |
+| Training Escalated | 3.00% | ~41,856 |
+| Warehouse Veteran | 3.00% | ~41,856 |
+| Future Shock | 3.00% | ~41,856 |
+| Hack the Planet | 3.00% | ~41,856 |
+| Master the Terroir | 3.00% | ~41,856 |
+| Vineyard Virtuoso | 3.00% | ~41,856 |
 | Keep Your Eyes Peeled | 2.00% | ~27,904 |
 | Bird Art | 2.00% | ~27,904 |
 | Top of the Class | 1.00% | ~13,952 |
 | Ripe for the Picking | 1.00% | ~13,952 |
 | The Creative Assassin | 0.70% | ~9,766 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,395,176 (Ranked 9)  
+Progressed: 1,395,191 (Ranked 9)  
 Completed: 2,238 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2,238 (0.16%) (Ranked 289)
 | 2024-01-12 | 1,393,932 | 2,238 |
 | 2024-01-13 | 1,394,485 | 2,238 |
 | 2024-01-14 | 1,395,055 | 2,238 |
-| 2024-01-15 | 1,395,176 | 2,238 |
+| 2024-01-15 | 1,395,191 | 2,238 |
 ## Awards
 Max (Diverse Characters): 11,434  (Ranked 38)  
 Sum: 77,191 (Ranked 22)  

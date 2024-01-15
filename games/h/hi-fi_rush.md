@@ -23,8 +23,8 @@ Rating: 4.86 (Ranked 33)
 | Does that say weakpoint? | 17.00% | ~2,920 |
 | The Negotiator | 16.00% | ~2,748 |
 | You must like calling me in, Chai | 15.00% | ~2,577 |
+| Headliner | 14.00% | ~2,405 |
 | Out in a puff of smoke | 14.00% | ~2,405 |
-| Headliner | 13.00% | ~2,233 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,233 |
 | Time to pay up! | 12.00% | ~2,061 |
 | Who's the boss now? | 12.00% | ~2,061 |

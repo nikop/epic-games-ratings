@@ -10878,9 +10878,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132872,
+  "EOS_Progressed": 132874,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39943,6 +39943,11 @@
       "Time": "2024-01-15T08:10:59.3824306+00:00",
       "NumProgressed": 132872,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T09:10:07.2646633+00:00",
+      "NumProgressed": 132874,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40538,7 +40543,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40546,7 +40551,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "quest_complete_crusader",
@@ -40585,21 +40590,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132872,
+      "Progressed": 132874,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7741,
+      "Progressed": 7743,
       "Completed": 827
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-15T06:58:24.9992707+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:10:59.3824301+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:10:07.264663+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:58:45.3509735+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:10:59.3826027+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:58:08.425154+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:10:07.2648578+00:00"
 }

@@ -4434,9 +4434,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 282
     },
     {
       "ID": "SingleRod",
@@ -4603,8 +4603,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-14T21:57:41.4867657+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:06:13.4321427+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:04:56.0423398+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:58:29.6949598+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:06:13.4322194+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:57.1906643+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:04:56.04241+00:00"
 }

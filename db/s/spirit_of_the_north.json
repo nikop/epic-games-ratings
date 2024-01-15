@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80113,
+  "EOS_Progressed": 80114,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -30174,6 +30174,11 @@
       "Time": "2024-01-15T08:10:39.0477373+00:00",
       "NumProgressed": 80113,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-15T09:09:52.647828+00:00",
+      "NumProgressed": 80114,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 24,
@@ -30201,7 +30206,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55278
+      "UsersEstimate": 55279
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30217,7 +30222,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20829
+      "UsersEstimate": 20830
     },
     {
       "ID": "ERADICATE",
@@ -30257,7 +30262,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14420
+      "UsersEstimate": 14421
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -30337,7 +30342,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8812
+      "UsersEstimate": 8813
     },
     {
       "ID": "SPIRIT_FORM",
@@ -30376,7 +30381,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80113,
+      "Progressed": 80114,
       "Completed": 434
     }
   ],
@@ -30384,8 +30389,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:10:39.0477369+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:52.6478275+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:01:34.78502+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:10:39.0478629+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:00:01.6681427+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:52.6479902+00:00"
 }

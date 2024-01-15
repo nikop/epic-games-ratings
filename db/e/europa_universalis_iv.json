@@ -14347,11 +14347,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 64641,
       "NumberOfAwardsMax": 7836
+    },
+    {
+      "Time": "2024-01-15T08:59:53.2156249+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64669,
+      "NumberOfAwardsMax": 7850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64641,
-  "NumberOfAwardsMax": 7836,
+  "NumberOfAwards": 64669,
+  "NumberOfAwardsMax": 7850,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14382,7 +14388,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7836
+      "Count": 7850
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14400,7 +14406,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7182
+      "Count": 7196
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14421,9 +14427,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499250,
+  "EOS_Progressed": 499270,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4461,
+  "EOS_NewPlayers": 4465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45571,6 +45577,11 @@
       "Time": "2024-01-15T08:11:21.9235309+00:00",
       "NumProgressed": 499250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T09:10:24.6929516+00:00",
+      "NumProgressed": 499270,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -45974,7 +45985,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -46118,7 +46129,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -46198,7 +46209,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -46238,7 +46249,7 @@
       "Name": "Double the Love",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -46790,7 +46801,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -47518,7 +47529,7 @@
       "Name": "Respected",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -47534,7 +47545,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -48006,7 +48017,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -48134,7 +48145,7 @@
       "Name": "Total Control",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -48190,7 +48201,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_trustworthy",
@@ -48485,21 +48496,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499250,
+      "Progressed": 499270,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499250,
+      "Progressed": 499270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-15T08:01:21.2647191+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:11:21.9235305+00:00",
+  "LastChanged": "2024-01-15T08:59:53.2156247+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:10:24.6929514+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:01:21.2647198+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:11:21.9246402+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:59:53.2156253+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:10:24.6940115+00:00"
 }

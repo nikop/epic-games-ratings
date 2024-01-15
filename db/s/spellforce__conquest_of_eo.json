@@ -962,9 +962,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -1186,9 +1186,9 @@
       "ID": "Max_Reputation_Sevenkeeps",
       "SetID": "7b9f97e",
       "Name": "Friend of Sevenkeeps",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Max_Reputation_SilverDriftHollow",
@@ -1323,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:10:42.802682+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:55.3052368+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:01:54.2647716+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:10:42.8027403+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:00:14.3352137+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:55.3052969+00:00"
 }

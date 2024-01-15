@@ -4,11 +4,11 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 135,
   "Ranking_Popularity": 151,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -5955,9 +5955,9 @@
       "Count": 556
     }
   ],
-  "EOS_Progressed": 14155,
+  "EOS_Progressed": 14156,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25340,6 +25340,11 @@
       "Time": "2024-01-15T02:36:52.858156+00:00",
       "NumProgressed": 14155,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-15T09:09:18.9747574+00:00",
+      "NumProgressed": 14156,
+      "NumCompleted": 351
     }
   ],
   "TotalAchievements": 15,
@@ -25367,7 +25372,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "Chef_Cook",
@@ -25375,7 +25380,7 @@
       "Name": "Chef Cook",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "Chit_Chatter",
@@ -25407,7 +25412,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4246
+      "UsersEstimate": 4247
     },
     {
       "ID": "Generous",
@@ -25423,7 +25428,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9484
+      "UsersEstimate": 9485
     },
     {
       "ID": "Miner",
@@ -25439,7 +25444,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9484
+      "UsersEstimate": 9485
     },
     {
       "ID": "Renovator",
@@ -25463,14 +25468,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8351
+      "UsersEstimate": 8352
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14155,
+      "Progressed": 14156,
       "Completed": 351
     }
   ],
@@ -25478,8 +25483,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-14T23:58:33.3053224+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:09:58.6681471+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:18.9747571+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:35.1172032+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:59:25.8883435+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:09:58.6683211+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:58:35.0294281+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:18.9748782+00:00"
 }

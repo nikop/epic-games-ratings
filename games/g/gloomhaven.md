@@ -6,22 +6,22 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,800 |
-| Overkill | 33.00% | ~11,116 |
-| Vaccine Incoming | 31.00% | ~10,442 |
-| A normal day in Gloomhaven | 29.00% | ~9,769 |
-| Spread the plague | 26.00% | ~8,758 |
-| Get over here! | 24.00% | ~8,084 |
-| Just when I thought I was out... | 19.00% | ~6,400 |
-| Mine... All Mine... | 16.00% | ~5,390 |
-| Precious! | 15.00% | ~5,053 |
-| Grizzled veteran | 15.00% | ~5,053 |
-| Anatomy Lesson | 14.00% | ~4,716 |
-| Who's the Boss? | 12.00% | ~4,042 |
-| You activated my trap card! | 12.00% | ~4,042 |
-| Obstacle race | 12.00% | ~4,042 |
-| Light of my life | 12.00% | ~4,042 |
-| Augmented rat | 10.00% | ~3,368 |
+| I'm not dead yet | 38.00% | ~12,803 |
+| Overkill | 33.00% | ~11,118 |
+| Vaccine Incoming | 31.00% | ~10,444 |
+| A normal day in Gloomhaven | 29.00% | ~9,770 |
+| Spread the plague | 26.00% | ~8,760 |
+| Get over here! | 24.00% | ~8,086 |
+| Just when I thought I was out... | 19.00% | ~6,401 |
+| Mine... All Mine... | 16.00% | ~5,391 |
+| Precious! | 15.00% | ~5,054 |
+| Grizzled veteran | 15.00% | ~5,054 |
+| Anatomy Lesson | 14.00% | ~4,717 |
+| Who's the Boss? | 12.00% | ~4,043 |
+| You activated my trap card! | 12.00% | ~4,043 |
+| Obstacle race | 12.00% | ~4,043 |
+| Light of my life | 12.00% | ~4,043 |
+| Augmented rat | 10.00% | ~3,369 |
 | Doom and gloom | 9.00% | ~3,032 |
 | Dungeon Veteran | 8.00% | ~2,695 |
 | Pain is your friend | 8.00% | ~2,695 |
@@ -30,11 +30,11 @@ Number of Ratings: 68  (23.09.2022)
 | Play it again, Sam | 7.00% | ~2,358 |
 | Caught off guard | 6.00% | ~2,021 |
 | Quad damage | 6.00% | ~2,021 |
-| Power Up! | 5.00% | ~1,684 |
-| Merchant of doom | 5.00% | ~1,684 |
-| Now you see me... | 5.00% | ~1,684 |
-| The Pro from Dover | 4.00% | ~1,347 |
-| Pretty lights! | 4.00% | ~1,347 |
+| Power Up! | 5.00% | ~1,685 |
+| Merchant of doom | 5.00% | ~1,685 |
+| Now you see me... | 5.00% | ~1,685 |
+| The Pro from Dover | 4.00% | ~1,348 |
+| Pretty lights! | 4.00% | ~1,348 |
 | I hate portals | 3.00% | ~1,011 |
 | Down the hatch | 3.00% | ~1,011 |
 | An eye for an eye | 3.00% | ~1,011 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~34 |
 | Hard-travelling Heroes | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,685 (Ranked 139)  
+Progressed: 33,691 (Ranked 139)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 33,039 | 1 |
 | 2024-01-13 | 33,304 | 1 |
 | 2024-01-14 | 33,596 | 1 |
-| 2024-01-15 | 33,685 | 1 |
+| 2024-01-15 | 33,691 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
 Sum: 8,485 (Ranked 109)  

@@ -20,10 +20,10 @@ Rating: 4.73 (Ranked 182)
 | The Ascent | 60.00% | ~461 |
 | It's Warm and Cozy at Home | 60.00% | ~461 |
 | Magic Accidents | 58.00% | ~446 |
+| Trap Master | 56.00% | ~431 |
 | Minions, Minions! | 56.00% | ~431 |
 | Hard Work | 56.00% | ~431 |
 | The Big Eaty | 56.00% | ~431 |
-| Trap Master | 55.00% | ~423 |
 | “… like son” | 54.00% | ~415 |
 | YOU SHALL NOT PASS! | 51.00% | ~392 |
 | The Cathedral of Light | 49.00% | ~377 |

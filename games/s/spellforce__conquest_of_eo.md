@@ -21,7 +21,7 @@
 | The Circle | 30.00% | ~44 |
 | Redecorating | 29.00% | ~43 |
 | Bad JuJu | 24.00% | ~35 |
-| Friend of Sevenkeeps | 21.00% | ~31 |
+| Friend of Sevenkeeps | 22.00% | ~32 |
 | Slave to the rhythm | 20.00% | ~29 |
 | Castle Meldec | 20.00% | ~29 |
 | Sevenkeeps Seat of Kings | 18.00% | ~26 |
@@ -32,9 +32,9 @@
 | Friend of Silver Drift Hollow | 14.00% | ~21 |
 | Stormwatch Faste | 13.00% | ~19 |
 | Friend of Bastion | 13.00% | ~19 |
+| Philo's Tale | 12.00% | ~18 |
 | Silver Drift Hollow Mine | 12.00% | ~18 |
 | Break Free | 12.00% | ~18 |
-| Philo's Tale | 11.00% | ~16 |
 | A Master of Magic | 11.00% | ~16 |
 | Magic Academy | 11.00% | ~16 |
 | Friend of Windholme | 10.00% | ~15 |

@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93347,
+  "EOS_Progressed": 93348,
   "EOS_Completed": 343,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -17976,6 +17976,11 @@
       "Time": "2024-01-15T08:06:55.6523511+00:00",
       "NumProgressed": 93347,
       "NumCompleted": 343
+    },
+    {
+      "Time": "2024-01-15T09:05:25.6439442+00:00",
+      "NumProgressed": 93348,
+      "NumCompleted": 343
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -17996,7 +18001,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 18669
+      "UsersEstimate": 18670
     },
     {
       "ID": "grp_collect_ruby",
@@ -18004,7 +18009,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 71877
+      "UsersEstimate": 71878
     },
     {
       "ID": "grp_endless",
@@ -18012,7 +18017,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32671
+      "UsersEstimate": 32672
     },
     {
       "ID": "grp_finallevel",
@@ -18076,7 +18081,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50407
+      "UsersEstimate": 50408
     },
     {
       "ID": "grp_money_tree",
@@ -18084,7 +18089,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 69077
+      "UsersEstimate": 69078
     },
     {
       "ID": "grp_speed",
@@ -18108,7 +18113,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 40139
+      "UsersEstimate": 40140
     },
     {
       "ID": "grp_weekly_beaten",
@@ -18123,7 +18128,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93347,
+      "Progressed": 93348,
       "Completed": 343
     }
   ],
@@ -18131,8 +18136,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-11T13:59:21.7305428+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:06:55.6523507+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:05:25.6439438+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.4453179+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:57:14.9087269+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:06:55.6524244+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:06.7730351+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:05:25.6440372+00:00"
 }

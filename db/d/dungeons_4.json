@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2548,9 +2548,9 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 431
     },
     {
       "ID": "ach_main03demon_completed",
@@ -3005,8 +3005,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-14T23:58:07.1773064+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:10:14.4212003+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:29.9866846+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:58:51.8496658+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:10:14.4212523+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:58:12.5840444+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:29.9867385+00:00"
 }

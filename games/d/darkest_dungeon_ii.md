@@ -15,8 +15,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Creep and Sleep | 6.00% | ~7,972 |
 | Overdue Notice | 6.00% | ~7,972 |
 | Escape from the Black Hole | 6.00% | ~7,972 |
-| Ploughshares to Swords | 6.00% | ~464 |
-| Bloody Graduation | 6.00% | ~464 |
+| Ploughshares to Swords | 6.00% | ~465 |
+| Bloody Graduation | 6.00% | ~465 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,644 |
 | It Rings a Bell | 5.00% | ~6,644 |
 | Not Today! | 5.00% | ~6,644 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,872 (Ranked 92)  
+Progressed: 132,874 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,872 | 4 |
+| 2024-01-15 | 132,874 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,656 (Ranked 58)  

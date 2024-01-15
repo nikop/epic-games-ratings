@@ -1828,9 +1828,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 248
     },
     {
       "ID": "EndlessTricks",
@@ -1948,9 +1948,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 286
     },
     {
       "ID": "MeissasSavior",
@@ -2395,8 +2395,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:09:44.8775497+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:09.1553406+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:58:14.5766182+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:09:44.8776565+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:46.4601577+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:09.1554535+00:00"
 }

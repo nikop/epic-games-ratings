@@ -781,9 +781,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4505,
+  "EOS_Progressed": 4506,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12646,6 +12646,11 @@
       "Time": "2024-01-15T06:04:50.5628599+00:00",
       "NumProgressed": 4505,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T09:05:03.4514538+00:00",
+      "NumProgressed": 4506,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12753,7 +12758,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "dragonclicker",
@@ -12841,7 +12846,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "fourleafclover",
@@ -12927,9 +12932,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 631
     },
     {
       "ID": "jewelenchanting",
@@ -12985,7 +12990,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "minerclicker",
@@ -13081,7 +13086,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "scrollmaster",
@@ -13153,7 +13158,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "theunstoppable",
@@ -13217,7 +13222,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4190
+      "UsersEstimate": 4191
     },
     {
       "ID": "warmachinesarmy",
@@ -13249,14 +13254,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4505,
+      "Progressed": 4506,
       "Completed": 2
     }
   ],
@@ -13264,8 +13269,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-13T18:00:48.4471764+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:06:23.7018933+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:05:03.4514536+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:01:34.7801052+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:06:23.7019976+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:00:01.5981611+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:05:03.4515906+00:00"
 }

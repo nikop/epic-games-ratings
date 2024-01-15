@@ -1712,9 +1712,9 @@
       "ID": "Intro",
       "SetID": "823jm6g",
       "Name": "Intro",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 75,
-      "UsersEstimate": 240
+      "UsersEstimate": 242
     },
     {
       "ID": "Kanalizace",
@@ -1768,17 +1768,17 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 156
+      "UsersEstimate": 153
     },
     {
       "ID": "Poklop",
       "SetID": "823jm6g",
       "Name": "Hatch",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 75,
-      "UsersEstimate": 212
+      "UsersEstimate": 209
     },
     {
       "ID": "Snekoun",
@@ -1792,9 +1792,9 @@
       "ID": "Sopouch",
       "SetID": "823jm6g",
       "Name": "Pit",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 75,
-      "UsersEstimate": 196
+      "UsersEstimate": 194
     },
     {
       "ID": "Tuleni",
@@ -1815,8 +1815,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:04:47.3266278+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:03:56.529212+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.8400206+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:57:33.9669553+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:04:47.3266497+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:19.819796+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:03:56.5292262+00:00"
 }

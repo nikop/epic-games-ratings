@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1997,
+  "EOS_Progressed": 1998,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3719,6 +3719,11 @@
       "Time": "2024-01-15T02:33:54.3239172+00:00",
       "NumProgressed": 1997,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-15T09:08:05.1577833+00:00",
+      "NumProgressed": 1998,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3754,7 +3759,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "13",
@@ -3794,7 +3799,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "18",
@@ -3969,15 +3974,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1997,
+      "Progressed": 1998,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:08:15.1403483+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:08:05.1577829+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:58:31.9442747+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:08:15.1403876+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:58.5671215+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:08:05.1578344+00:00"
 }

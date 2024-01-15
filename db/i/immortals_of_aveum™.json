@@ -495,9 +495,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3453,
+  "EOS_Progressed": 3454,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5600,6 +5600,11 @@
       "Time": "2024-01-15T06:09:45.1145115+00:00",
       "NumProgressed": 3453,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T09:10:11.3785334+00:00",
+      "NumProgressed": 3454,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5612,7 +5617,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3073
+      "UsersEstimate": 3074
     },
     {
       "ID": "achievement_10",
@@ -5652,7 +5657,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "achievement_15",
@@ -5692,7 +5697,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_2",
@@ -5700,7 +5705,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2797
+      "UsersEstimate": 2798
     },
     {
       "ID": "achievement_20",
@@ -5756,7 +5761,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "achievement_36",
@@ -5860,15 +5865,15 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_50",
       "SetID": "18al4io",
       "Name": "Veteran",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_54",
@@ -5972,7 +5977,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_9",
@@ -5987,7 +5992,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3453,
+      "Progressed": 3454,
       "Completed": 5
     }
   ],
@@ -5995,8 +6000,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-14T22:57:10.8741075+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:11:05.001593+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:10:11.3785332+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:57:32.9186713+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:11:05.0016464+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:57:18.8283691+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:10:11.378603+00:00"
 }

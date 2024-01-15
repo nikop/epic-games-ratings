@@ -961,9 +961,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667388,
+  "EOS_Progressed": 667389,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -26696,6 +26696,11 @@
       "Time": "2024-01-15T06:09:15.1349171+00:00",
       "NumProgressed": 667388,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-15T09:09:43.0456986+00:00",
+      "NumProgressed": 667389,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26707,7 +26712,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480519
+      "UsersEstimate": 480520
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26715,7 +26720,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387085
+      "UsersEstimate": 387086
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27035,7 +27040,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6006
+      "UsersEstimate": 6007
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -27090,15 +27095,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667388,
+      "Progressed": 667389,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:10:25.9216654+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:43.0456984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:01:29.8269371+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:10:25.921793+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:59:58.7854968+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:43.0458465+00:00"
 }

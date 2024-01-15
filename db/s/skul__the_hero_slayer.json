@@ -1467,10 +1467,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1027,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2024-01-15T08:58:59.7205222+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1028,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1027,
+  "NumberOfAwards": 1028,
   "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1478,7 +1484,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1541,9 +1547,9 @@
       "Count": 154
     }
   ],
-  "EOS_Progressed": 14737,
+  "EOS_Progressed": 14738,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10016,6 +10022,11 @@
       "Time": "2024-01-15T08:10:05.8619178+00:00",
       "NumProgressed": 14737,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-15T09:09:24.1613035+00:00",
+      "NumProgressed": 14738,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10027,7 +10038,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Chatterbox",
@@ -10051,7 +10062,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8842
+      "UsersEstimate": 8843
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10075,7 +10086,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -10099,7 +10110,7 @@
       "Name": "The God of Battle",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "GoHome",
@@ -10107,7 +10118,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "HeroSlayer",
@@ -10155,7 +10166,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8842
+      "UsersEstimate": 8843
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10187,7 +10198,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13705
+      "UsersEstimate": 13706
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10218,15 +10229,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14737,
+      "Progressed": 14738,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-15T06:59:17.391398+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:10:05.8619174+00:00",
+  "LastChanged": "2024-01-15T08:58:59.720522+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:24.1613033+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:00:02.9001268+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:10:05.8619886+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:58:59.7205225+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:24.1613483+00:00"
 }

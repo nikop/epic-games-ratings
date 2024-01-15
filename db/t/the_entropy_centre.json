@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 520,
+  "Ranking_EOS_NewPlayers": 498,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1026,6 +1026,11 @@
       "Time": "2024-01-09T19:06:15.9474947+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T09:04:46.8570179+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1037,7 +1042,7 @@
       "Name": "Wake Up",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_ACT10",
@@ -1101,7 +1106,7 @@
       "Name": "Time Gates",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_ACT3",
@@ -1109,7 +1114,7 @@
       "Name": "Command Centre",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_ACT4",
@@ -1203,9 +1208,9 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_LOOPER",
@@ -1229,7 +1234,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1252,7 +1257,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 0
     }
   ],
@@ -1260,8 +1265,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:05:59.776708+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:04:46.8570177+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:33.4911212+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:03:20.1901432+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:05:59.7767283+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:02:55.085991+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:04:46.8570405+00:00"
 }

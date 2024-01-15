@@ -6,7 +6,7 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_Completed": 54,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
@@ -133,11 +133,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2781,
-  "EOS_Completed": 209,
+  "EOS_Progressed": 2782,
+  "EOS_Completed": 210,
   "EOS_NewPlayers": 242,
-  "EOS_NewCompleters": 32,
-  "EOS_Completed_Percentage": 7.52,
+  "EOS_NewCompleters": 33,
+  "EOS_Completed_Percentage": 7.55,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7358,6 +7358,11 @@
       "Time": "2024-01-15T07:06:13.7720779+00:00",
       "NumProgressed": 2781,
       "NumCompleted": 209
+    },
+    {
+      "Time": "2024-01-15T09:05:54.7747238+00:00",
+      "NumProgressed": 2782,
+      "NumCompleted": 210
     }
   ],
   "TotalAchievements": 25,
@@ -7367,9 +7372,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 779
+      "UsersEstimate": 751
     },
     {
       "ID": "END_GOOD",
@@ -7513,7 +7518,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1697
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7537,7 +7542,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "PROGRESS_N3",
@@ -7561,23 +7566,23 @@
       "Name": "One last step",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2781,
-      "Completed": 209
+      "Progressed": 2782,
+      "Completed": 210
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:07:37.8459026+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:05:54.7747234+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-15T07:59:39.8134177+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:07:37.8459485+00:00"
+  "LastUpdate_Ratings": "2024-01-15T08:58:44.2470479+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:05:54.7747649+00:00"
 }

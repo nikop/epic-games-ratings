@@ -5,17 +5,17 @@ Rating: 4.29 (Ranked 885)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,617 |
+| Corner Clout | 46.00% | ~166,618 |
 | Copacetic Coordination | 16.00% | ~57,954 |
 | Fronting the Money | 15.00% | ~54,332 |
 | The Dawn of Automation | 14.00% | ~50,710 |
 | Extraordinary Logistics | 14.00% | ~50,710 |
-| Dirty Money | 13.00% | ~47,087 |
-| Family First | 13.00% | ~47,087 |
-| Cleaning House | 12.00% | ~43,465 |
-| Room in the Back | 12.00% | ~43,465 |
-| Beating the Heat | 11.00% | ~39,843 |
-| Booze Baron | 11.00% | ~39,843 |
+| Dirty Money | 13.00% | ~47,088 |
+| Family First | 13.00% | ~47,088 |
+| Cleaning House | 12.00% | ~43,466 |
+| Room in the Back | 12.00% | ~43,466 |
+| Beating the Heat | 11.00% | ~39,844 |
+| Booze Baron | 11.00% | ~39,844 |
 | Friends on the Force | 10.00% | ~36,221 |
 | Neighborhood Watch | 10.00% | ~36,221 |
 | Core Corps | 8.00% | ~28,977 |
@@ -36,12 +36,12 @@ Rating: 4.29 (Ranked 885)
 | Opportunity Knocked | 5.00% | ~18,111 |
 | City of Big Shoulders | 5.00% | ~18,111 |
 | Mission Mastery | 5.00% | ~18,111 |
-| Considerable Clams | 4.00% | ~14,488 |
-| Gin Joint | 4.00% | ~14,488 |
-| An Affront to the Enemy | 4.00% | ~14,488 |
-| Friends from Back Home | 4.00% | ~14,488 |
-| Bees Knees Bootlegger | 4.00% | ~14,488 |
-| Half Century Mark | 4.00% | ~14,488 |
+| Considerable Clams | 4.00% | ~14,489 |
+| Gin Joint | 4.00% | ~14,489 |
+| An Affront to the Enemy | 4.00% | ~14,489 |
+| Friends from Back Home | 4.00% | ~14,489 |
+| Bees Knees Bootlegger | 4.00% | ~14,489 |
+| Half Century Mark | 4.00% | ~14,489 |
 | Corner Opportunities | 3.00% | ~10,866 |
 | 2122 North Clark Street | 3.00% | ~10,866 |
 | Copious Cabbage | 3.00% | ~10,866 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 885)
 | High Pillow | 0.10% | ~362 |
 | Station Master | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,211 (Ranked 58)  
+Progressed: 362,214 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 7 (0.00%) (Ranked 401)
 | 2024-01-12 | 361,782 | 7 |
 | 2024-01-13 | 361,967 | 7 |
 | 2024-01-14 | 362,160 | 7 |
-| 2024-01-15 | 362,211 | 7 |
+| 2024-01-15 | 362,214 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 439)  
 Sum: 273 (Ranked 395)  

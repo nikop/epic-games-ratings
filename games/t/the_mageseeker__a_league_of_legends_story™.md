@@ -44,10 +44,10 @@ Rating: 4.77 (Ranked 120)
 | Meltridge | 17.00% | ~588 |
 | Cloven Dell Headquarters | 17.00% | ~588 |
 | I smell fear | 15.00% | ~519 |
+| The Great City of Demacia | 15.00% | ~519 |
 | Embrace the darkness | 14.00% | ~484 |
 | Whispers in the Woods IV | 14.00% | ~484 |
 | The end of the experiments | 14.00% | ~484 |
-| The Great City of Demacia | 14.00% | ~484 |
 | Truth is a dark mirror | 14.00% | ~484 |
 | Call it 'redistribution of magic | 14.00% | ~484 |
 | Do you trust me? | 12.00% | ~415 |

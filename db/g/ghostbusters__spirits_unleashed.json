@@ -4023,7 +4023,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33674,
+  "EOS_Progressed": 33675,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
@@ -25568,6 +25568,11 @@
       "Time": "2024-01-15T08:09:47.1229354+00:00",
       "NumProgressed": 33674,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-15T09:09:10.6526548+00:00",
+      "NumProgressed": 33675,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25635,7 +25640,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Cultured",
@@ -25699,7 +25704,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Fragile_Panes",
@@ -25803,7 +25808,7 @@
       "Name": "Reckless",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Rift_Destroyer",
@@ -25859,7 +25864,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Solo_Capture",
@@ -25875,7 +25880,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Stylish",
@@ -25947,7 +25952,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Ultimate_Defense",
@@ -25971,7 +25976,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "Whoopsie",
@@ -25986,7 +25991,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33674,
+      "Progressed": 33675,
       "Completed": 71
     }
   ],
@@ -25994,8 +25999,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:09:47.122935+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:09:10.6526546+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:03:13.2091454+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:09:47.1230525+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:02:50.4564312+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:09:10.6527668+00:00"
 }

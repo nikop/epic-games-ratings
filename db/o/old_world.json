@@ -2298,7 +2298,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16846,
+  "EOS_Progressed": 16847,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
@@ -20088,6 +20088,11 @@
       "Time": "2024-01-15T08:11:21.2624193+00:00",
       "NumProgressed": 16846,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T09:10:24.0463552+00:00",
+      "NumProgressed": 16847,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22905,9 +22910,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ROYAL_LIBRARY",
       "SetID": "9201eeb",
       "Name": "Royal Library",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
@@ -22962,21 +22967,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16846,
+      "Progressed": 16847,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16846,
+      "Progressed": 16847,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T08:11:21.2624187+00:00",
+  "LastChanged_Achievements": "2024-01-15T09:10:24.0463551+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T08:01:32.5777584+00:00",
-  "LastUpdate_Achievements": "2024-01-15T08:11:21.2634147+00:00"
+  "LastUpdate_Ratings": "2024-01-15T09:00:00.6112746+00:00",
+  "LastUpdate_Achievements": "2024-01-15T09:10:24.0473288+00:00"
 }
