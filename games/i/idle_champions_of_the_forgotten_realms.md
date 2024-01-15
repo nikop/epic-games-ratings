@@ -17,9 +17,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.70% | ~1,778 |
 | Mad Cow Disease | 0.70% | ~1,778 |
 | Friendly Imps | 0.70% | ~1,778 |
-| Fast Food | 0.70% | ~1,542 |
 | A Persistent Buzzing | 0.60% | ~1,524 |
 | Pure Energy | 0.60% | ~1,524 |
+| Fast Food | 0.60% | ~1,322 |
 | Maddening | 0.50% | ~1,270 |
 | Terror in the Dark | 0.50% | ~1,270 |
 | Unearthed Evil | 0.50% | ~1,270 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,999 (Ranked 70)  
+Progressed: 254,003 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -823,10 +823,10 @@ Completed: 2,617 (1.03%) (Ranked 177)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 253,999 | 2,617 |
+| 2024-01-15 | 254,003 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
-Sum: 33,493 (Ranked 41)  
+Sum: 33,497 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -836,7 +836,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,780 |
 | This game has Amazing Characters | 4,329 |
 | This game is Highly Recommended | 4,327 |
-| This game has Playful Visuals | 3,639 |
+| This game has Playful Visuals | 3,643 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1194,3 +1194,4 @@ Diff (max vs sum): 33
 | 2024-01-12 | 4.06 | - | 5,774 | 33,467 |
 | 2024-01-13 | 4.06 | - | 5,777 | 33,477 |
 | 2024-01-14 | 4.06 | - | 5,782 | 33,493 |
+| 2024-01-15 | 4.06 | - | 5,782 | 33,497 |

@@ -302,7 +302,7 @@
   "Tags": [],
   "EOS_Progressed": 2592,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5177,9 +5177,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHV_53",
@@ -5234,8 +5234,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-07T10:02:57.9512677+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:03:44.2545508+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:03:27.9534112+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:03:03.6601201+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:03:44.2546148+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:02:41.9529173+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:03:27.9534885+00:00"
 }

@@ -10,6 +10,7 @@ Rating: 4.57 (Ranked 496)
 | Collect Gold | 2.00% | ~47 |
 | Collect Iron Ore | 2.00% | ~47 |
 | Collect Monster Parts | 2.00% | ~47 |
+| End of the Mozis | 2.00% | ~47 |
 | Ranged Weapon | 2.00% | ~47 |
 | Two Handed Weapon | 2.00% | ~47 |
 | Defeat 25 Grubs | 2.00% | ~47 |
@@ -27,7 +28,6 @@ Rating: 4.57 (Ranked 496)
 | Return the Statues | 1.00% | ~23 |
 | Complete the Chefs Book | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
-| End of the Mozis | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |

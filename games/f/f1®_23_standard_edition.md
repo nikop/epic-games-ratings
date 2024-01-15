@@ -20,8 +20,8 @@ Rating: 4.64 (Ranked 343)
 | Challenge Yourself | 23.00% | ~4,183 |
 | Writing a new Chapter | 19.00% | ~3,456 |
 | Spring Cleaning | 18.00% | ~3,274 |
+| Ups and Downs | 15.00% | ~2,728 |
 | Reduce | 14.00% | ~2,546 |
-| Ups and Downs | 14.00% | ~2,546 |
 | Crucial Combo | 13.00% | ~2,364 |
 | Reuse | 12.00% | ~2,183 |
 | Proving Them Wrong | 12.00% | ~2,183 |

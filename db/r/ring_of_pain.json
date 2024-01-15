@@ -3916,7 +3916,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 242986,
+  "EOS_Progressed": 242989,
   "EOS_Completed": 306,
   "EOS_NewPlayers": 395,
   "EOS_NewCompleters": 2,
@@ -31876,6 +31876,11 @@
       "Time": "2024-01-15T05:10:17.1471535+00:00",
       "NumProgressed": 242986,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-15T06:09:57.6634432+00:00",
+      "NumProgressed": 242989,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -32261,9 +32266,9 @@
       "ID": "HUGESOULCOLLECTION",
       "SetID": "5l8oe0h",
       "Name": "Save Our Souls",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1701
     },
     {
       "ID": "HUGESOULSPILL",
@@ -32990,13 +32995,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 242986,
+      "Progressed": 242989,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4466,
+      "Progressed": 4469,
       "Completed": 427
     }
   ],
@@ -33004,8 +33009,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-13T23:01:50.144257+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:10:17.1471532+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:09:57.6634429+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:00:20.33762+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:10:17.1474645+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:00:37.8863368+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:09:57.6637215+00:00"
 }

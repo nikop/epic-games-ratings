@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1891,9 +1891,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168277,
+  "EOS_Progressed": 168281,
   "EOS_Completed": 458,
-  "EOS_NewPlayers": 1087,
+  "EOS_NewPlayers": 1088,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23136,6 +23136,11 @@
       "Time": "2024-01-15T05:06:33.5677292+00:00",
       "NumProgressed": 168277,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2024-01-15T06:07:52.24196+00:00",
+      "NumProgressed": 168281,
+      "NumCompleted": 458
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23404,7 +23409,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -23515,21 +23520,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 167860,
+      "Progressed": 167864,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168277,
+      "Progressed": 168281,
       "Completed": 458
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-14T02:58:50.6392905+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:06:33.5677288+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:07:52.2419597+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:58:17.4910262+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:06:33.567866+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:58:20.1857238+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:07:52.2420938+00:00"
 }

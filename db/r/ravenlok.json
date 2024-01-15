@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_NewPlayers": 415,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -3765,9 +3765,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 748
     },
     {
       "ID": "8",
@@ -3798,8 +3798,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:04:13.4539407+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:03:59.8649457+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.5378399+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:39.7823854+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:04:13.4540051+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:37.5913531+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:03:59.8650071+00:00"
 }

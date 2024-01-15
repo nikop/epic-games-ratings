@@ -42,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.80% | ~1,944 |
 | Flesh Wound | 0.80% | ~1,944 |
 | Consecutive Curses | 0.70% | ~1,701 |
+| Save Our Souls | 0.70% | ~1,701 |
 | Destroy Your Fears | 0.70% | ~1,701 |
 | New Perspectives | 0.70% | ~1,701 |
 | Shapeshifting | 0.70% | ~1,701 |
@@ -49,7 +50,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 0.60% | ~1,458 |
 | Well Prepared | 0.60% | ~1,458 |
 | Just Chilling | 0.60% | ~1,458 |
-| Save Our Souls | 0.60% | ~1,458 |
 | All Consuming | 0.60% | ~1,458 |
 | Stop Hitting Yourself | 0.60% | ~1,458 |
 | Doing Time | 0.60% | ~1,458 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,986 (Ranked 74)  
+Progressed: 242,989 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 306 (0.13%) (Ranked 302)
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
-| 2024-01-15 | 242,986 | 306 |
+| 2024-01-15 | 242,989 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,515  (Ranked 139)  
 Sum: 11,796 (Ranked 89)  

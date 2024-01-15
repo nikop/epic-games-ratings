@@ -41,11 +41,11 @@
 | Immortalized in my heart | 3.00% | ~10 |
 | Full Scoop | 3.00% | ~10 |
 | Se7en Seas | 3.00% | ~10 |
+| A Mosaic of Misery | 3.00% | ~10 |
 | Body of Work | 2.00% | ~7 |
 | It was worth a try | 2.00% | ~7 |
 | In One Take | 2.00% | ~7 |
 | Preferred Parent | 2.00% | ~7 |
-| A Mosaic of Misery | 2.00% | ~7 |
 | The Big Picture | 0.90% | ~3 |
 | Rocket Science | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |

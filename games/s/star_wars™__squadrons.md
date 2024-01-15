@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,285 |
-| Safety in the Storm | 23.00% | ~9,511 |
-| A Better Idea | 23.00% | ~9,511 |
-| Begin the Ceremony | 19.00% | ~7,857 |
-| Mission Accomplished | 18.00% | ~7,444 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,203 |
-| A Starfighter of Your Own | 13.00% | ~5,376 |
-| Asset Secured | 12.00% | ~4,962 |
+| Fracture at Fostar Haven | 95.00% | ~39,291 |
+| Safety in the Storm | 23.00% | ~9,513 |
+| A Better Idea | 23.00% | ~9,513 |
+| Begin the Ceremony | 19.00% | ~7,858 |
+| Mission Accomplished | 18.00% | ~7,445 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,204 |
+| A Starfighter of Your Own | 13.00% | ~5,377 |
+| Asset Secured | 12.00% | ~4,963 |
 | Unkillable | 7.00% | ~2,895 |
 | Together, Vanguard | 7.00% | ~2,895 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,481 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,482 |
 | Sound Strategy | 5.00% | ~2,068 |
 | Stomped | 5.00% | ~2,068 |
 | Fearless | 4.00% | ~1,654 |
@@ -32,7 +32,7 @@
 | Dressed for the Job You Want | 2.00% | ~827 |
 | I Have You Now | 1.00% | ~414 |
 | Against the Current | 0.80% | ~331 |
-| Denied | 0.70% | ~289 |
+| Denied | 0.70% | ~290 |
 | Found Your Place | 0.60% | ~248 |
 | Unstoppable Ace | 0.50% | ~207 |
 | Special Modifications | 0.40% | ~165 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~41 |
 | Ultimate Weapon | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,353 (Ranked 135)  
+Progressed: 41,359 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 3 (0.01%) (Ranked 376)
 | 2024-01-12 | 40,533 | 3 |
 | 2024-01-13 | 40,936 | 3 |
 | 2024-01-14 | 41,296 | 3 |
-| 2024-01-15 | 41,353 | 3 |
+| 2024-01-15 | 41,359 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

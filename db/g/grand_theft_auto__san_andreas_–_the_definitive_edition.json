@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2485,9 +2485,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 19575,
+  "EOS_Progressed": 19576,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20455,6 +20455,11 @@
       "Time": "2024-01-15T04:11:11.221623+00:00",
       "NumProgressed": 19575,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-15T06:09:46.0287268+00:00",
+      "NumProgressed": 19576,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 35,
@@ -20466,7 +20471,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15856
+      "UsersEstimate": 15857
     },
     {
       "ID": "ACH02",
@@ -20602,7 +20607,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH19",
@@ -20745,7 +20750,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19575,
+      "Progressed": 19576,
       "Completed": 78
     }
   ],
@@ -20753,8 +20758,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-15T05:02:59.1252292+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:10:06.0378301+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:09:46.0287266+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:02:59.1252297+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:10:06.0379698+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:02:37.4762995+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:09:46.0288189+00:00"
 }

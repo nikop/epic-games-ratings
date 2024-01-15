@@ -5,24 +5,24 @@ Rating: 4.77 (Ranked 120)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,286 |
-| No more cages! | 90.00% | ~3,113 |
-| Everfrost | 76.00% | ~2,629 |
-| Dark Forest | 76.00% | ~2,629 |
-| Pentakill | 75.00% | ~2,594 |
-| The use of petricite | 73.00% | ~2,525 |
-| You can pet the dog | 60.00% | ~2,075 |
+| For Demacia | 95.00% | ~3,287 |
+| No more cages! | 90.00% | ~3,114 |
+| Everfrost | 76.00% | ~2,630 |
+| Dark Forest | 76.00% | ~2,630 |
+| Pentakill | 75.00% | ~2,595 |
+| The use of petricite | 73.00% | ~2,526 |
+| You can pet the dog | 60.00% | ~2,076 |
 | Thornbarrow | 44.00% | ~1,522 |
-| Big Helmet Bro | 41.00% | ~1,418 |
-| Clarion Cove | 41.00% | ~1,418 |
+| Big Helmet Bro | 41.00% | ~1,419 |
+| Clarion Cove | 41.00% | ~1,419 |
 | Ternmoat Headquarters | 39.00% | ~1,349 |
-| Elemental master | 38.00% | ~1,314 |
-| Past trauma | 38.00% | ~1,314 |
+| Elemental master | 38.00% | ~1,315 |
+| Past trauma | 38.00% | ~1,315 |
 | Cypress Glen Headquarters | 35.00% | ~1,211 |
 | Petricite Burst | 34.00% | ~1,176 |
-| Old friend | 33.00% | ~1,141 |
-| Devineur | 33.00% | ~1,141 |
-| Hijack | 31.00% | ~1,072 |
+| Old friend | 33.00% | ~1,142 |
+| Devineur | 33.00% | ~1,142 |
+| Hijack | 31.00% | ~1,073 |
 | Whispers in the Woods I | 28.00% | ~969 |
 | I chose my shackles | 28.00% | ~969 |
 | Ancient power | 28.00% | ~969 |
@@ -42,7 +42,7 @@ Rating: 4.77 (Ranked 120)
 | My heart and sword always for Demacia | 17.00% | ~588 |
 | True power | 17.00% | ~588 |
 | Meltridge | 17.00% | ~588 |
-| Cloven Dell Headquarters | 16.00% | ~553 |
+| Cloven Dell Headquarters | 16.00% | ~554 |
 | I smell fear | 15.00% | ~519 |
 | Embrace the darkness | 14.00% | ~484 |
 | Whispers in the Woods IV | 14.00% | ~484 |
@@ -53,13 +53,13 @@ Rating: 4.77 (Ranked 120)
 | Do you trust me? | 12.00% | ~415 |
 | The great mage rebellion starts now | 12.00% | ~415 |
 | Back to sleep, then... | 12.00% | ~415 |
-| Chains master | 11.00% | ~380 |
-| You can pet the... horse | 11.00% | ~380 |
+| Chains master | 11.00% | ~381 |
+| You can pet the... horse | 11.00% | ~381 |
 | Spellcrafting | 10.00% | ~346 |
 | Silverwing nest | 2.00% | ~69 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,459 (Ranked 228)  
+Progressed: 3,460 (Ranked 228)  
 Completed: 28 (0.81%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 28 (0.81%) (Ranked 193)
 | 2024-01-12 | 3,434 | 23 |
 | 2024-01-13 | 3,446 | 26 |
 | 2024-01-14 | 3,456 | 28 |
-| 2024-01-15 | 3,459 | 28 |
+| 2024-01-15 | 3,460 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

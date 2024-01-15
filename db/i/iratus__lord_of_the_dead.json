@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 812,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 125,
@@ -2497,7 +2497,7 @@
       "Count": 105
     }
   ],
-  "EOS_Progressed": 49399,
+  "EOS_Progressed": 49400,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
@@ -31872,6 +31872,11 @@
       "Time": "2024-01-15T05:06:21.5939091+00:00",
       "NumProgressed": 49399,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-15T06:06:19.796492+00:00",
+      "NumProgressed": 49400,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -31915,7 +31920,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 28157
+      "UsersEstimate": 28158
     },
     {
       "ID": "achievements_14",
@@ -31987,7 +31992,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 29639
+      "UsersEstimate": 29640
     },
     {
       "ID": "achievements_24",
@@ -31995,7 +32000,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 26675
+      "UsersEstimate": 26676
     },
     {
       "ID": "achievements_25",
@@ -32131,7 +32136,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 32109
+      "UsersEstimate": 32110
     },
     {
       "ID": "achievements_40",
@@ -32187,7 +32192,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 41989
+      "UsersEstimate": 41990
     },
     {
       "ID": "achievements_47",
@@ -32251,7 +32256,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 28157
+      "UsersEstimate": 28158
     },
     {
       "ID": "achievements_54",
@@ -32459,7 +32464,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 36061
+      "UsersEstimate": 36062
     },
     {
       "ID": "achievements_8",
@@ -32482,15 +32487,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 49399,
+      "Progressed": 49400,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-14T21:57:37.2413811+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:06:21.5939088+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:06:19.7964915+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:18.2485315+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:45.4234386+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:06:21.5940952+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:43.8664263+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:06:19.7966612+00:00"
 }

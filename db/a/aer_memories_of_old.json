@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28743,
+  "EOS_Progressed": 28746,
   "EOS_Completed": 528,
-  "EOS_NewPlayers": 489,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29511,6 +29511,11 @@
       "Time": "2024-01-15T05:06:15.4878663+00:00",
       "NumProgressed": 28743,
       "NumCompleted": 528
+    },
+    {
+      "Time": "2024-01-15T06:06:13.1679649+00:00",
+      "NumProgressed": 28746,
+      "NumCompleted": 528
     }
   ],
   "TotalAchievements": 20,
@@ -29562,7 +29567,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -29578,7 +29583,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -29634,7 +29639,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3449
+      "UsersEstimate": 3450
     },
     {
       "ID": "INTRO_FINISHED",
@@ -29642,7 +29647,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21845
+      "UsersEstimate": 21847
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29681,15 +29686,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28743,
+      "Progressed": 28746,
       "Completed": 528
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:06:15.4878659+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:06:13.1679644+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:59:08.9155073+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:06:15.4880214+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:59:17.3802306+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:06:13.1681368+00:00"
 }

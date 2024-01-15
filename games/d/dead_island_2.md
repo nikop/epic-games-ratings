@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,375 |
-| Hotel California | 9.00% | ~72,338 |
-| Break A Leg | 8.00% | ~64,300 |
-| Coup de Grâce | 8.00% | ~64,300 |
+| Welcome To Hell-A | 10.00% | ~80,376 |
+| Hotel California | 9.00% | ~72,339 |
+| Break A Leg | 8.00% | ~64,301 |
+| Coup de Grâce | 8.00% | ~64,301 |
 | Git Gutte! | 7.00% | ~56,263 |
 | Hazardous Materials | 7.00% | ~56,263 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,263 |
-| Bookworm | 6.00% | ~48,225 |
-| Friends Like These | 6.00% | ~48,225 |
-| Apex Predator | 6.00% | ~48,225 |
+| Bookworm | 6.00% | ~48,226 |
+| Friends Like These | 6.00% | ~48,226 |
+| Apex Predator | 6.00% | ~48,226 |
 | Dr. Reed, I Presume? | 5.00% | ~40,188 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,188 |
 | But Doctor, I am Butcho | 5.00% | ~40,188 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~804 |
 | Wilhelm | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,751 (Ranked 23)  
+Progressed: 803,762 (Ranked 23)  
 Completed: 2,587 (0.32%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2,587 (0.32%) (Ranked 256)
 | 2024-01-12 | 801,737 | 2,574 |
 | 2024-01-13 | 802,693 | 2,581 |
 | 2024-01-14 | 803,623 | 2,587 |
-| 2024-01-15 | 803,751 | 2,587 |
+| 2024-01-15 | 803,762 | 2,587 |
 ## Awards
 Max (Great Boss Battles): 10,373  (Ranked 41)  
 Sum: 15,909 (Ranked 70)  

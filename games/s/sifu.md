@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,650 |
-| Life is your teacher | 5.00% | ~38,041 |
-| Lightning Hands | 5.00% | ~38,041 |
-| The Assault | 4.00% | ~30,433 |
+| Life is your teacher | 5.00% | ~38,042 |
+| Lightning Hands | 5.00% | ~38,042 |
+| The Assault | 4.00% | ~30,434 |
 | The Hateful Pole Fighter | 3.00% | ~22,825 |
 | Stuntmaster | 3.00% | ~22,825 |
 | Street Fighting | 3.00% | ~22,825 |
@@ -46,11 +46,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.40% | ~3,043 |
 | Come Snap With Me | 0.40% | ~3,043 |
 | The best strikes are the ones we avoid | 0.40% | ~281 |
-| Drunken Fighter | 0.30% | ~2,282 |
-| Martial Artist | 0.30% | ~2,282 |
-| Knowledge Greed | 0.30% | ~2,282 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,282 |
-| Be like water my friend | 0.30% | ~2,282 |
+| Drunken Fighter | 0.30% | ~2,283 |
+| Martial Artist | 0.30% | ~2,283 |
+| Knowledge Greed | 0.30% | ~2,283 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,283 |
+| Be like water my friend | 0.30% | ~2,283 |
 | Deadly Venom | 0.30% | ~210 |
 | A Touch of Acumen | 0.30% | ~210 |
 | Healing Memory | 0.20% | ~1,522 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,828 (Ranked 26)  
+Progressed: 760,838 (Ranked 26)  
 Completed: 12,988 (1.71%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 12,988 (1.71%) (Ranked 147)
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
-| 2024-01-15 | 760,828 | 12,988 |
+| 2024-01-15 | 760,838 | 12,988 |
 ## Awards
 Max (Great Boss Battles): 7,205  (Ranked 57)  
 Sum: 12,749 (Ranked 86)  

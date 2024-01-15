@@ -2,12 +2,12 @@
   "ID": "711c559363934d6eb17c6ff3f0539b2b",
   "Name": "Hercule Poirot - The First Cases",
   "ProductSlug": "hercule-poirot-the-first-cases-584238",
-  "Ranking_Rating": 799,
+  "Ranking_Rating": 798,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 403,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -969,9 +969,9 @@
       "ID": "ACH_017",
       "SetID": "72imik0",
       "Name": "Instinct is Marvellous",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_018",
@@ -1057,9 +1057,9 @@
       "ID": "ACH_027",
       "SetID": "72imik0",
       "Name": "Well-prepared",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_028",
@@ -1185,9 +1185,9 @@
       "ID": "ACH_041",
       "SetID": "72imik0",
       "Name": "Jacqueline \u201CJackie\u201D Conrad",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_042",
@@ -1233,9 +1233,9 @@
       "ID": "ACH_05",
       "SetID": "72imik0",
       "Name": "The Interrogations",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_06",
@@ -1249,9 +1249,9 @@
       "ID": "ACH_07",
       "SetID": "72imik0",
       "Name": "The Search",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_08",
@@ -1282,8 +1282,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:08:40.8816127+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:08:20.8251909+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.8777109+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:03:16.6970083+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:08:40.8816486+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:02:55.8871024+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:08:20.8252225+00:00"
 }

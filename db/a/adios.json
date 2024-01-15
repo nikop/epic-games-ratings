@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83593,
+  "EOS_Progressed": 83595,
   "EOS_Completed": 934,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -30251,6 +30251,11 @@
       "Time": "2024-01-15T05:05:56.6581756+00:00",
       "NumProgressed": 83593,
       "NumCompleted": 934
+    },
+    {
+      "Time": "2024-01-15T06:05:52.64811+00:00",
+      "NumProgressed": 83595,
+      "NumCompleted": 934
     }
   ],
   "TotalAchievements": 25,
@@ -30294,7 +30299,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18390
+      "UsersEstimate": 18391
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30350,7 +30355,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "Magnetic Miracles",
@@ -30454,14 +30459,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6687
+      "UsersEstimate": 6688
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83593,
+      "Progressed": 83595,
       "Completed": 934
     }
   ],
@@ -30469,8 +30474,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:05:56.6581751+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:05:52.6481095+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:57.1681095+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:05:56.6583554+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:56.9175261+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:05:52.6482925+00:00"
 }

@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239370,
+  "EOS_Progressed": 239371,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28668,6 +28668,11 @@
       "Time": "2024-01-15T05:08:32.2190412+00:00",
       "NumProgressed": 239370,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-15T06:08:11.3661395+00:00",
+      "NumProgressed": 239371,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28871,7 +28876,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "RESPWND",
@@ -28903,7 +28908,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52661
+      "UsersEstimate": 52662
     },
     {
       "ID": "TACTICIAN",
@@ -28919,7 +28924,7 @@
       "Name": "TAKATORA",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11968
+      "UsersEstimate": 11969
     },
     {
       "ID": "TRICKUPYOURSLEEVE",
@@ -28927,7 +28932,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52661
+      "UsersEstimate": 52662
     },
     {
       "ID": "TUNINGMANIAC",
@@ -28950,15 +28955,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239370,
+      "Progressed": 239371,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:08:32.2190409+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:08:11.3661392+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:33.1910974+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:08:32.2191963+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:30.212804+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:08:11.3662964+00:00"
 }

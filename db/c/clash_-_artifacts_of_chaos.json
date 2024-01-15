@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 454,
+  "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -556,6 +556,11 @@
       "Time": "2024-01-13T07:10:10.5491397+00:00",
       "NumProgressed": 163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T06:09:46.431661+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -613,9 +618,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "Achievement16",
@@ -631,7 +636,7 @@
       "Name": "Declawing",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Achievement18",
@@ -663,7 +668,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Achievement21",
@@ -671,7 +676,7 @@
       "Name": "Stilt House",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Achievement3",
@@ -693,9 +698,9 @@
       "ID": "Achievement5",
       "SetID": "jf6ho5",
       "Name": "Red in Tooth and Claw",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement6",
@@ -734,7 +739,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 1
     }
   ],
@@ -742,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:10:06.4085091+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:09:46.4316608+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:59:28.3334632+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:10:06.4085307+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:59:39.1323933+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:09:46.4316713+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -101,7 +101,7 @@
   "Tags": [],
   "EOS_Progressed": 1552,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4474,9 +4474,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1164
     },
     {
       "ID": "EV_ACH32",
@@ -4595,8 +4595,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-14T13:02:41.6102698+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:10:12.0484989+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:09:52.3925915+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:59:00.8203311+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:10:12.048548+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:59:07.6434471+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:09:52.3926516+00:00"
 }

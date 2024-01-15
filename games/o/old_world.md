@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 1 | 2.00% | ~337 |
 | Learn to Play 2 | 2.00% | ~337 |
 | Christianity | 2.00% | ~337 |
+| Manichaeism | 2.00% | ~337 |
 | Babylonian Paganism | 2.00% | ~337 |
 | Carthaginian Paganism | 2.00% | ~337 |
 | Egyptian Paganism | 2.00% | ~337 |
@@ -68,8 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~168 |
 | Musaeum | 1.00% | ~168 |
 | Learn to Play 3 | 1.00% | ~168 |
-| Manichaeism | 1.00% | ~168 |
-| Persian Paganism | 1.00% | ~168 |
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
 | Beloved | 0.90% | ~152 |
@@ -79,16 +78,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~152 |
 | Greece | 0.90% | ~152 |
 | Power to the People | 0.90% | ~152 |
+| Persian Paganism | 0.90% | ~152 |
 | Points Victory | 0.90% | ~152 |
+| Landowners | 0.80% | ~135 |
 | Patrons | 0.80% | ~135 |
 | Statesmen | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Win a Single Player Game | 0.80% | ~135 |
+| The Clergy | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
 | Conqueror | 0.70% | ~118 |
 | Subjugator | 0.70% | ~118 |
 | Victorious | 0.70% | ~118 |
-| Landowners | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
 | Traders | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.70% | ~118 |
 | Legionary | 0.70% | ~118 |
 | Double Victory | 0.70% | ~118 |
-| The Clergy | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,840 (Ranked 169)  
+Progressed: 16,843 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,840 | 5 |
+| 2024-01-15 | 16,843 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

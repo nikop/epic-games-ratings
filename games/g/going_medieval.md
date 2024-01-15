@@ -6,8 +6,8 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Having A Field Day | 77.00% | ~6,124 |
 | Get A Room | 76.00% | ~6,044 |
-| Having A Field Day | 76.00% | ~6,044 |
 | Reap What You Sow | 73.00% | ~5,806 |
 | The First Day | 70.00% | ~5,567 |
 | Green Thumb | 68.00% | ~5,408 |

@@ -2,7 +2,7 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 756,
+  "Ranking_Rating": 823,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 220,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
@@ -77,13 +77,19 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-15T05:57:24.0295279+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3960,
+  "EOS_Progressed": 3964,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 0,
@@ -2413,6 +2419,11 @@
       "Time": "2024-01-15T05:04:28.2878478+00:00",
       "NumProgressed": 3960,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T06:04:15.9641109+00:00",
+      "NumProgressed": 3964,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -2464,16 +2475,16 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 3960,
+      "Progressed": 3964,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-01-13T00:01:19.1579257+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:04:28.2878474+00:00",
+  "LastChanged": "2024-01-15T05:57:24.0295278+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:04:15.9641105+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:34.8274974+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:27.6784357+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:04:28.2878687+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:24.0295284+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:04:15.9641262+00:00"
 }

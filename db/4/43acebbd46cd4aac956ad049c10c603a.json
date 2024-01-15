@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -337,7 +337,7 @@
       "Count": 116
     }
   ],
-  "EOS_Progressed": 1408,
+  "EOS_Progressed": 1409,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -4102,6 +4102,11 @@
       "Time": "2024-01-14T22:04:48.3352539+00:00",
       "NumProgressed": 1408,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T06:04:42.7847639+00:00",
+      "NumProgressed": 1409,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4114,15 +4119,15 @@
       "Name": "Ab Aeterno",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 465
     },
     {
       "ID": "AnthropicHills",
@@ -4178,7 +4183,7 @@
       "Name": "Chasing the Light",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "Chicken",
@@ -4210,7 +4215,7 @@
       "Name": "Discovery",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "EasternWetlands",
@@ -4282,7 +4287,7 @@
       "Name": "Into the Machine",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "JustOneLap",
@@ -4330,7 +4335,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "MuseumVisitor",
@@ -4338,7 +4343,7 @@
       "Name": "Museum Visitor",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "NewBeginning",
@@ -4506,7 +4511,7 @@
       "Name": "The Spark",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "TheThiefOfFire",
@@ -4522,7 +4527,7 @@
       "Name": "The Word Endures",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "TouchGrass",
@@ -4585,7 +4590,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1408,
+      "Progressed": 1409,
       "Completed": 2
     }
   ],
@@ -4593,8 +4598,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-14T21:57:41.4867657+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:04:53.1841638+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:04:42.7847637+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:49.1499431+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:04:53.1842441+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:48.4298436+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:04:42.7848202+00:00"
 }

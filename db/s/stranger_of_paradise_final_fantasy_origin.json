@@ -1863,7 +1863,7 @@
   ],
   "EOS_Progressed": 82491,
   "EOS_Completed": 2233,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -14114,9 +14114,9 @@
       "ID": "003_TROPHY_MISSION_DARK_ELF",
       "SetID": "4ajkb4b",
       "Name": "The King of the Dark Elves",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 55269
+      "UsersEstimate": 56094
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -14466,8 +14466,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2024-01-14T08:57:05.8724735+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:03:57.436992+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:03:42.3648872+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:29.2292241+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:37.8697617+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:03:57.4370676+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:35.4362815+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:03:42.3649985+00:00"
 }

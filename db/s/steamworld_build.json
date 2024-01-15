@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1285,9 +1285,9 @@
       "ID": "SteamingRich",
       "SetID": "4bd750m",
       "Name": "Steaming Rich",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Systematic",
@@ -1309,9 +1309,9 @@
       "ID": "UpUpAndAway",
       "SetID": "4bd750m",
       "Name": "Up, Up And Away!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "Whoa",
@@ -1340,8 +1340,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:05:50.4558093+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:05:46.0995142+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.8775637+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:03:23.5863027+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:05:50.4558665+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:03:03.4000603+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:05:46.0995332+00:00"
 }

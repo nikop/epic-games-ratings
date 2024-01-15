@@ -1505,7 +1505,7 @@
   ],
   "EOS_Progressed": 18188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1460,
+  "EOS_NewPlayers": 1456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12033,9 +12033,9 @@
       "ID": "achievement_0036",
       "SetID": "9123ogc",
       "Name": "Ups and Downs",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2728
     },
     {
       "ID": "achievement_0037",
@@ -12154,8 +12154,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-14T20:00:03.479917+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:04:24.6210368+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:04:11.9877192+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:59:14.8848254+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:04:24.6211228+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:59:24.2188727+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:04:11.9878129+00:00"
 }

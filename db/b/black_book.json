@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,7 +686,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67164,
+  "EOS_Progressed": 67165,
   "EOS_Completed": 73,
   "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 5,
@@ -16956,6 +16956,11 @@
       "Time": "2024-01-15T05:05:33.136237+00:00",
       "NumProgressed": 67164,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-15T06:05:26.2430304+00:00",
+      "NumProgressed": 67165,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -16984,7 +16989,7 @@
       "Name": "Worthy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "ASPEN_TREE",
@@ -17008,7 +17013,7 @@
       "Name": "Black Book",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "BLACK_SORCERER",
@@ -17016,7 +17021,7 @@
       "Name": "Black Sorcerer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "CARD_PLAYER",
@@ -17048,7 +17053,7 @@
       "Name": "Dead Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "DETECTIVE",
@@ -17104,7 +17109,7 @@
       "Name": "Fern",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "FRIENDS",
@@ -17112,7 +17117,7 @@
       "Name": "100 Friends",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "GOOD_END",
@@ -17240,7 +17245,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "PINE_TREE",
@@ -17264,7 +17269,7 @@
       "Name": "Savvy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4701
+      "UsersEstimate": 4702
     },
     {
       "ID": "SINNER",
@@ -17367,15 +17372,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67164,
+      "Progressed": 67165,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:05:33.1362367+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:05:26.24303+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:59:40.2625225+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:05:33.1363531+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:59:51.5493816+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:05:26.2431268+00:00"
 }

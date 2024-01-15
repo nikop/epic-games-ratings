@@ -8793,9 +8793,9 @@
       "Count": 674
     }
   ],
-  "EOS_Progressed": 803751,
+  "EOS_Progressed": 803762,
   "EOS_Completed": 2587,
-  "EOS_NewPlayers": 8430,
+  "EOS_NewPlayers": 8390,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -39898,6 +39898,11 @@
       "Time": "2024-01-15T05:09:44.832392+00:00",
       "NumProgressed": 803751,
       "NumCompleted": 2587
+    },
+    {
+      "Time": "2024-01-15T06:09:28.7834179+00:00",
+      "NumProgressed": 803762,
+      "NumCompleted": 2587
     }
   ],
   "TotalAchievements": 51,
@@ -39965,7 +39970,7 @@
       "Name": "Bookworm",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 48225
+      "UsersEstimate": 48226
     },
     {
       "ID": "ach_break_a_leg",
@@ -39973,7 +39978,7 @@
       "Name": "Break A Leg",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64300
+      "UsersEstimate": 64301
     },
     {
       "ID": "ach_contender",
@@ -40029,7 +40034,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64300
+      "UsersEstimate": 64301
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -40061,7 +40066,7 @@
       "Name": "Friends Like These",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48225
+      "UsersEstimate": 48226
     },
     {
       "ID": "ach_hotel_california",
@@ -40069,7 +40074,7 @@
       "Name": "Hotel California",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72338
+      "UsersEstimate": 72339
     },
     {
       "ID": "ach_impressive_aim",
@@ -40109,7 +40114,7 @@
       "Name": "Apex Predator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48225
+      "UsersEstimate": 48226
     },
     {
       "ID": "ach_knowledgeable",
@@ -40245,7 +40250,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80375
+      "UsersEstimate": 80376
     },
     {
       "ID": "ach_well_known_survivor",
@@ -40316,13 +40321,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 803751,
+      "Progressed": 803762,
       "Completed": 2587
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 129295,
+      "Progressed": 129306,
       "Completed": 36770
     }
   ],
@@ -40330,8 +40335,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-15T04:57:16.0220915+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:09:44.8323918+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:09:28.7834173+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.2072313+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:57:16.0220921+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:09:44.8325679+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:57:11.6744169+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:09:28.7835895+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.11 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,187 |
-| World Map | 78.00% | ~3,512 |
-| Temple of Eternals | 56.00% | ~2,521 |
-| Prestigious | 52.00% | ~2,341 |
-| Fellowship Power | 42.00% | ~1,891 |
-| Full Party | 30.00% | ~1,351 |
-| Guild Power | 23.00% | ~1,035 |
-| Prestigious x10 | 20.00% | ~900 |
-| The game is on | 18.00% | ~810 |
-| Exotic Merchant | 16.00% | ~720 |
-| Dragon Clicker | 15.00% | ~675 |
-| Miner Clicker | 15.00% | ~675 |
-| Inspection | 14.00% | ~630 |
-| Dragon Master | 13.00% | ~585 |
-| Enlightenment | 13.00% | ~585 |
-| Hero inspection | 13.00% | ~585 |
-| Lieutenant | 12.00% | ~540 |
-| Mysterious Rock | 11.00% | ~495 |
-| Natural Talent | 11.00% | ~495 |
-| Superior | 11.00% | ~495 |
-| The Unstoppable | 11.00% | ~495 |
+| Victor | 93.00% | ~4,190 |
+| World Map | 78.00% | ~3,514 |
+| Temple of Eternals | 56.00% | ~2,523 |
+| Prestigious | 52.00% | ~2,343 |
+| Fellowship Power | 42.00% | ~1,892 |
+| Full Party | 30.00% | ~1,352 |
+| Guild Power | 23.00% | ~1,036 |
+| Prestigious x10 | 20.00% | ~901 |
+| The game is on | 18.00% | ~811 |
+| Exotic Merchant | 16.00% | ~721 |
+| Dragon Clicker | 15.00% | ~676 |
+| Miner Clicker | 15.00% | ~676 |
+| Dragon Master | 13.00% | ~586 |
+| Enlightenment | 13.00% | ~586 |
+| Hero inspection | 13.00% | ~586 |
+| Inspection | 13.00% | ~586 |
+| Lieutenant | 12.00% | ~541 |
+| Mysterious Rock | 11.00% | ~496 |
+| Natural Talent | 11.00% | ~496 |
+| Superior | 11.00% | ~496 |
+| The Unstoppable | 11.00% | ~496 |
 | Milestone collector | 10.00% | ~450 |
 | Doing My Part | 9.00% | ~405 |
 | Scientist | 9.00% | ~405 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,023)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,502 (Ranked 209)  
+Progressed: 4,505 (Ranked 209)  
 Completed: 2 (0.04%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 2 (0.04%) (Ranked 353)
 | 2024-01-12 | 4,441 | 2 |
 | 2024-01-13 | 4,472 | 2 |
 | 2024-01-14 | 4,499 | 2 |
-| 2024-01-15 | 4,502 | 2 |
+| 2024-01-15 | 4,505 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 481)  
 Sum: 161 (Ranked 440)  

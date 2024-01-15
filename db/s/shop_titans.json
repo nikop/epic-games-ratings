@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8179,9 +8179,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151214,
+  "EOS_Progressed": 151216,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 981,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36754,6 +36754,11 @@
       "Time": "2024-01-15T05:08:58.1998828+00:00",
       "NumProgressed": 151214,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-15T06:08:39.6171515+00:00",
+      "NumProgressed": 151216,
+      "NumCompleted": 354
     }
   ],
   "TotalAchievements": 112,
@@ -36989,7 +36994,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "commonres01",
@@ -36997,7 +37002,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "commonres02",
@@ -37109,7 +37114,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "energy01",
@@ -37237,7 +37242,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15121
+      "UsersEstimate": 15122
     },
     {
       "ID": "gold02",
@@ -37333,7 +37338,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "legenchant01",
@@ -37660,15 +37665,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151214,
+      "Progressed": 151216,
       "Completed": 354
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-14T09:03:17.0261061+00:00",
-  "LastChanged_Achievements": "2024-01-15T05:08:58.1998825+00:00",
+  "LastChanged_Achievements": "2024-01-15T06:08:39.6171512+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:03:23.8516996+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:08:58.2001249+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:03:03.7659247+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:08:39.6173846+00:00"
 }

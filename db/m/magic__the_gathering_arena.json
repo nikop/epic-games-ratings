@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 573,
+  "Ranking_EOS_NewPlayers": 574,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -16442,10 +16442,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 101051,
       "NumberOfAwardsMax": 12972
+    },
+    {
+      "Time": "2024-01-15T05:59:04.1394136+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 101059,
+      "NumberOfAwardsMax": 12972
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 101051,
+  "NumberOfAwards": 101059,
   "NumberOfAwardsMax": 12972,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -16495,7 +16501,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7862
+      "Count": 7870
     },
     {
       "Text": "This game has Amazing Characters",
@@ -16527,8 +16533,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-01-15T02:26:30.1082787+00:00",
+  "LastChanged": "2024-01-15T05:59:04.1394134+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:32.7114875+00:00",
-  "LastUpdate_Ratings": "2024-01-15T04:58:57.773618+00:00",
-  "LastUpdate_Achievements": "2024-01-15T05:03:32.9526666+00:00"
+  "LastUpdate_Ratings": "2024-01-15T05:59:04.139414+00:00",
+  "LastUpdate_Achievements": "2024-01-15T06:03:16.0589797+00:00"
 }

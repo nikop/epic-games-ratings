@@ -1,18 +1,18 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 813)  
+Rating: 4.37 (Ranked 812)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~41,989 |
-| Blood Moon | 73.00% | ~36,061 |
-| Path of the Necromancer | 65.00% | ~32,109 |
-| Chainbreaker - I | 60.00% | ~29,639 |
-| Cursed Creature | 57.00% | ~28,157 |
-| Extraction | 57.00% | ~28,157 |
-| Chainbreaker - II | 54.00% | ~26,675 |
+| Improvement | 85.00% | ~41,990 |
+| Blood Moon | 73.00% | ~36,062 |
+| Path of the Necromancer | 65.00% | ~32,110 |
+| Chainbreaker - I | 60.00% | ~29,640 |
+| Cursed Creature | 57.00% | ~28,158 |
+| Extraction | 57.00% | ~28,158 |
+| Chainbreaker - II | 54.00% | ~26,676 |
 | Necromancer's Apprentice | 50.00% | ~24,700 |
 | Keeper of Keys | 47.00% | ~23,218 |
 | Distillation | 43.00% | ~21,242 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~247 |
 | Renowned Researcher | 0.10% | ~49 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,399 (Ranked 125)  
+Progressed: 49,400 (Ranked 125)  
 Completed: 26 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 26 (0.05%) (Ranked 341)
 | 2024-01-12 | 49,234 | 26 |
 | 2024-01-13 | 49,316 | 26 |
 | 2024-01-14 | 49,382 | 26 |
-| 2024-01-15 | 49,399 | 26 |
+| 2024-01-15 | 49,400 | 26 |
 ## Awards
 Max (Character Customization): 2,167  (Ranked 116)  
 Sum: 4,229 (Ranked 163)  
