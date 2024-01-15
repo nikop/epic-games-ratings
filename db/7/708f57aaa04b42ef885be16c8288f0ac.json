@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 166,
+  "Ranking_Rating": 152,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 174,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -423,6 +423,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-01-15T14:59:29.5393806+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
@@ -437,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14915,
+  "EOS_Progressed": 14916,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 756,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10482,6 +10488,11 @@
       "Time": "2024-01-15T14:10:00.5175971+00:00",
       "NumProgressed": 14915,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-15T15:10:21.1204434+00:00",
+      "NumProgressed": 14916,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10502,7 +10513,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "BeLikeWater",
@@ -10566,7 +10577,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8203
+      "UsersEstimate": 8204
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10638,7 +10649,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "NoMoreTotems",
@@ -10694,7 +10705,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "ThisIsDharma",
@@ -10702,7 +10713,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10710,7 +10721,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "UnResurrected",
@@ -10734,7 +10745,7 @@
       "Name": "Digestive Issues",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2386
+      "UsersEstimate": 2387
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -10765,16 +10776,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14915,
+      "Progressed": 14916,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-14T13:58:34.8799598+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:10:00.5175966+00:00",
+  "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:10:21.1204431+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:59:18.8452012+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:10:00.5176791+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:59:29.539381+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:21.1205134+00:00"
 }

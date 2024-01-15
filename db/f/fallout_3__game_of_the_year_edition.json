@@ -2,12 +2,12 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 427,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -7229,10 +7229,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 30369,
       "NumberOfAwardsMax": 14769
+    },
+    {
+      "Time": "2024-01-15T14:59:40.8380736+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 30371,
+      "NumberOfAwardsMax": 14769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30369,
+  "NumberOfAwards": 30371,
   "NumberOfAwardsMax": 14769,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7264,7 +7270,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1691
+      "Count": 1693
     },
     {
       "Text": "This game is Relaxing",
@@ -7321,8 +7327,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-15T13:05:10.703388+00:00",
+  "LastChanged": "2024-01-15T14:59:40.8380734+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.510145+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:59:29.7033023+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:06:35.2030537+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:59:40.838074+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:08:37.3850133+00:00"
 }

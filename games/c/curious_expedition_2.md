@@ -1,7 +1,7 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.74 (Ranked 166)  
+Rating: 4.74 (Ranked 167)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,7 +27,7 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 22.00% | ~95 |
 | Red Flag Pirate | 20.00% | ~86 |
 | Iron Man | 17.00% | ~73 |
-| A Gentle Beast | 16.00% | ~69 |
+| A Gentle Beast | 17.00% | ~73 |
 | Practical Palaeontology | 16.00% | ~69 |
 | Adventurer | 15.00% | ~65 |
 | For the Club! | 15.00% | ~65 |

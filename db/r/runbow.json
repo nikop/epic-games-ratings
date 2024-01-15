@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253492,
+  "EOS_Progressed": 253493,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -24177,6 +24177,11 @@
       "Time": "2024-01-15T14:09:56.5350987+00:00",
       "NumProgressed": 253492,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T15:10:17.3266987+00:00",
+      "NumProgressed": 253493,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24188,7 +24193,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17744
+      "UsersEstimate": 17745
     },
     {
       "ID": "aWinnerIsYou",
@@ -24212,7 +24217,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53233
+      "UsersEstimate": 53234
     },
     {
       "ID": "blotbuster",
@@ -24292,7 +24297,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50698
+      "UsersEstimate": 50699
     },
     {
       "ID": "didYourTime",
@@ -24380,7 +24385,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17744
+      "UsersEstimate": 17745
     },
     {
       "ID": "itsTheFall",
@@ -24555,7 +24560,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253492,
+      "Progressed": 253493,
       "Completed": 6
     }
   ],
@@ -24563,8 +24568,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:09:56.5350983+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:10:17.3266983+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:57:15.0593809+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:09:56.5352435+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:57:25.4424376+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:17.3268491+00:00"
 }

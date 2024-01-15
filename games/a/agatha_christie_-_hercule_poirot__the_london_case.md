@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marc Allard | 76.00% | ~87 |
-| Little ideas | 74.00% | ~84 |
+| Little ideas | 73.00% | ~84 |
 | The Ship | 70.00% | ~80 |
-| Seeking the truth | 59.00% | ~67 |
+| Seeking the truth | 58.00% | ~67 |
 | An old friend | 56.00% | ~64 |
 | The Gala | 55.00% | ~63 |
-| A curious gathering | 53.00% | ~60 |
-| Little grey cells | 52.00% | ~59 |
-| Impossible is possible | 50.00% | ~57 |
-| Arthur Hastings | 50.00% | ~57 |
+| A curious gathering | 52.00% | ~60 |
+| Little grey cells | 51.00% | ~59 |
+| Impossible is possible | 50.00% | ~58 |
+| Arthur Hastings | 50.00% | ~58 |
 | The Missing Magdalene | 48.00% | ~55 |
-| Everything matters | 45.00% | ~51 |
+| Everything matters | 44.00% | ~51 |
 | An expert mediator | 43.00% | ~49 |
 | DI Hardwicke | 43.00% | ~49 |
-| Betty Allen | 39.00% | ~44 |
-| Order and method | 38.00% | ~43 |
-| The Investigation Begins | 37.00% | ~42 |
+| Betty Allen | 38.00% | ~44 |
+| Order and method | 37.00% | ~43 |
+| The Investigation Begins | 37.00% | ~43 |
 | Irene Court-Smyth | 35.00% | ~40 |
 | Ms. Camilla B. Culsham | 34.00% | ~39 |
 | An odd series of events | 33.00% | ~38 |
@@ -32,7 +32,7 @@
 | Anastasia Babanin | 27.00% | ~31 |
 | The Scheme | 27.00% | ~31 |
 | Zakariya Demir | 26.00% | ~30 |
-| Truth from within | 25.00% | ~28 |
+| Truth from within | 24.00% | ~28 |
 | A curious phrase | 22.00% | ~25 |
 | Evelyn Lakshmi Warbeck | 22.00% | ~25 |
 | The Suspects | 22.00% | ~25 |
@@ -40,10 +40,10 @@
 | The Secrets | 21.00% | ~24 |
 | Johan Kristiansen | 20.00% | ~23 |
 | Mortimer Ailsworth | 19.00% | ~22 |
-| Well-travelled | 18.00% | ~21 |
 | A peculiar fellow | 18.00% | ~21 |
-| Florence Farquhar | 17.00% | ~19 |
-| The Investigation Starts Anew | 17.00% | ~19 |
+| Well-travelled | 17.00% | ~20 |
+| Florence Farquhar | 17.00% | ~20 |
+| The Investigation Starts Anew | 17.00% | ~20 |
 | A treasured heirloom | 14.00% | ~16 |
 | The Penitent Magdalene | 14.00% | ~16 |
 | A true performance | 14.00% | ~16 |
@@ -51,8 +51,8 @@
 | A perilous journey | 12.00% | ~14 |
 | Perkins | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 114 (Ranked 488)  
-Completed: 3 (2.63%) (Ranked 121)  
+Progressed: 115 (Ranked 488)  
+Completed: 3 (2.61%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,3 +119,4 @@ Completed: 3 (2.63%) (Ranked 121)
 | 2024-01-12 | 110 | 3 |
 | 2024-01-13 | 113 | 3 |
 | 2024-01-14 | 114 | 3 |
+| 2024-01-15 | 115 | 3 |

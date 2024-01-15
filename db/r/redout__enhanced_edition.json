@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239381,
+  "EOS_Progressed": 239383,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28693,6 +28693,11 @@
       "Time": "2024-01-15T14:08:30.2661487+00:00",
       "NumProgressed": 239381,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-15T15:08:51.2935187+00:00",
+      "NumProgressed": 239383,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28728,7 +28733,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19150
+      "UsersEstimate": 19151
     },
     {
       "ID": "CHALLENGER",
@@ -28768,7 +28773,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 19150
+      "UsersEstimate": 19151
     },
     {
       "ID": "FLAWLESS",
@@ -28792,7 +28797,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47876
+      "UsersEstimate": 47877
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -28968,22 +28973,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98146
+      "UsersEstimate": 98147
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239381,
+      "Progressed": 239383,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:08:30.2661481+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:08:51.2935179+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:57:54.3076599+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:08:30.2663226+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:58:05.1708526+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:08:51.2936483+00:00"
 }

@@ -1,26 +1,26 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 469)  
+Rating: 4.58 (Ranked 470)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,071 |
+| You Shall Not Pass | 51.00% | ~5,072 |
 | Tutti Eroi! | 50.00% | ~4,972 |
 | Peak Performance | 45.00% | ~4,475 |
-| Avanti Savoia! | 44.00% | ~4,375 |
-| Mamma Mia! | 35.00% | ~3,480 |
+| Avanti Savoia! | 44.00% | ~4,376 |
+| Mamma Mia! | 35.00% | ~3,481 |
 | Gabriele D'Annunzio | 32.00% | ~3,182 |
 | Conrad von Hotzensocks | 31.00% | ~3,083 |
 | Silver Lining | 27.00% | ~2,685 |
 | Aurelio Baruzzi | 21.00% | ~2,088 |
 | Decimation | 20.00% | ~1,989 |
-| Donatello | 19.00% | ~1,889 |
-| Insubordination | 19.00% | ~1,889 |
-| The Italian Job | 19.00% | ~1,889 |
-| Veni Vidi Vici | 19.00% | ~1,889 |
-| Ragazzi del '99 | 17.00% | ~1,690 |
+| Donatello | 19.00% | ~1,890 |
+| Insubordination | 19.00% | ~1,890 |
+| The Italian Job | 19.00% | ~1,890 |
+| Veni Vidi Vici | 19.00% | ~1,890 |
+| Ragazzi del '99 | 17.00% | ~1,691 |
 | Luigi Cadorna | 16.00% | ~1,591 |
 | The Lion of the Isonzo | 14.00% | ~1,392 |
 | Shaken, Not Stirred | 13.00% | ~1,293 |
@@ -48,11 +48,11 @@ Number of Ratings: 98  (23.09.2022)
 | Drop and Give Me 20 | 1.00% | ~99 |
 | Malpractice | 1.00% | ~99 |
 | Rome Wasn't Built In A Day | 1.00% | ~99 |
-| Compagnia della Morte | 0.90% | ~89 |
+| Compagnia della Morte | 0.90% | ~90 |
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,944 (Ranked 184)  
+Progressed: 9,945 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 10 (0.10%) (Ranked 314)
 | 2024-01-12 | 9,913 | 10 |
 | 2024-01-13 | 9,929 | 10 |
 | 2024-01-14 | 9,942 | 10 |
-| 2024-01-15 | 9,944 | 10 |
+| 2024-01-15 | 9,945 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 479)  
 Sum: 343 (Ranked 371)  

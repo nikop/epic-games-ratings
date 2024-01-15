@@ -4,7 +4,7 @@
   "ProductSlug": "we-are-ofk",
   "Ranking_EOS_Progress": 763,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-18T13:00:00+00:00",
@@ -279,8 +279,8 @@
   "FirstSeenRating": "2023-03-31T05:57:27.7904661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8514747+00:00",
   "LastChanged": "2023-03-31T05:57:27.7904662+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:08:51.9640331+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:09:13.0680603+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:17.4949045+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:58:04.8276868+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:08:51.9640506+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:58:15.8139749+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:09:13.0681001+00:00"
 }

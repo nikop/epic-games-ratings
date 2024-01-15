@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4374,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8930,9 +8930,9 @@
       "ID": "achievement_56",
       "SetID": "d252ncf",
       "Name": "Fade Away",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 962
     },
     {
       "ID": "achievement_57",
@@ -9326,8 +9326,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:10:10.2852802+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:10:30.9557905+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:03:22.6533121+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:10:10.2854564+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:03:31.4266763+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:30.9559647+00:00"
 }

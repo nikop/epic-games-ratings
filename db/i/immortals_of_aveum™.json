@@ -503,7 +503,7 @@
   ],
   "EOS_Progressed": 3455,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5778,9 +5778,9 @@
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_37",
@@ -6011,8 +6011,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-15T10:57:33.8717079+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:09:58.8865037+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:10:19.665613+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:57:31.763094+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:09:58.8865585+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:57:44.0444705+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:19.6656637+00:00"
 }

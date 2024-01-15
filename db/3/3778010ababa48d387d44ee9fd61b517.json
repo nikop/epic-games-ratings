@@ -567,9 +567,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "A_AVATAR",
@@ -647,9 +647,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -687,9 +687,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -743,9 +743,9 @@
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "A_NOFISH",
@@ -878,8 +878,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:05:03.3565012+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:05:14.5552936+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:58:15.1077093+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:05:03.3565287+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:58:25.6951287+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:05:14.5553203+00:00"
 }

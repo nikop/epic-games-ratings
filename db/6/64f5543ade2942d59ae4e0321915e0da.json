@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 520,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -2014,6 +2014,11 @@
       "Time": "2024-01-15T02:00:34.5358218+00:00",
       "NumProgressed": 519,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T15:08:36.5723071+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2218,7 +2223,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2361,14 +2366,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 520,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:06:34.5112982+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:08:36.5723067+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:58:44.3653269+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:06:34.5113438+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:58:55.3135024+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:08:36.5723499+00:00"
 }

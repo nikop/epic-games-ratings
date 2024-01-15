@@ -1186,17 +1186,17 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 208
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 238
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1282,9 +1282,9 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     }
   ],
   "AchievementSets": [
@@ -1297,8 +1297,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:03:37.7635992+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:03:48.322272+00:00",
   "LastUpdate_AppInfo": "2024-01-10T01:46:07.1630016+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:57:50.9780221+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:03:37.7636368+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:58:02.1568687+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:03:48.322289+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,531 |
-| I read Shakespeare and stuff | 59.00% | ~37,005 |
-| Just a sprinkle | 58.00% | ~36,378 |
-| I'm stumped | 56.00% | ~35,123 |
-| Plant get enough | 56.00% | ~35,123 |
-| This is just my weekend vehicle | 54.00% | ~33,869 |
-| It's just the beginning | 54.00% | ~33,869 |
-| Hard work pays off | 49.00% | ~30,733 |
-| It's never too late to farm | 45.00% | ~28,224 |
-| All out of Land | 41.00% | ~25,715 |
-| Field Trip | 40.00% | ~25,088 |
-| I like to switch it up | 37.00% | ~23,206 |
-| Help me to help you | 35.00% | ~21,952 |
+| Own use | 71.00% | ~44,533 |
+| I read Shakespeare and stuff | 59.00% | ~37,006 |
+| Just a sprinkle | 58.00% | ~36,379 |
+| I'm stumped | 56.00% | ~35,124 |
+| Plant get enough | 56.00% | ~35,124 |
+| This is just my weekend vehicle | 54.00% | ~33,870 |
+| It's just the beginning | 54.00% | ~33,870 |
+| Hard work pays off | 49.00% | ~30,734 |
+| It's never too late to farm | 45.00% | ~28,225 |
+| All out of Land | 41.00% | ~25,716 |
+| Field Trip | 40.00% | ~25,089 |
+| I like to switch it up | 37.00% | ~23,207 |
+| Help me to help you | 35.00% | ~21,953 |
 | Ultimutt Pawesomeness | 25.00% | ~15,680 |
 | Van Gogh | 23.00% | ~14,426 |
 | You wood not believe it | 20.00% | ~12,544 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~251 |
 | Raisin the stakes | 0.30% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,720 (Ranked 119)  
+Progressed: 62,722 (Ranked 119)  
 Completed: 6 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 6 (0.01%) (Ranked 376)
 | 2024-01-12 | 62,391 | 6 |
 | 2024-01-13 | 62,542 | 6 |
 | 2024-01-14 | 62,687 | 6 |
-| 2024-01-15 | 62,720 | 6 |
+| 2024-01-15 | 62,722 | 6 |
 ## Awards
 Max (Great for Beginners): 6,104  (Ranked 67)  
 Sum: 45,662 (Ranked 34)  

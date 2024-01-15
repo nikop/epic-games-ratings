@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Introduction completed | 77.00% | ~36 |
-| Chapter 1 | 45.00% | ~21 |
+| Introduction completed | 77.00% | ~37 |
+| Chapter 1 | 44.00% | ~21 |
 | Chapter 2 | 40.00% | ~19 |
 | It's In My Nature | 40.00% | ~19 |
 | Chapter 3 | 38.00% | ~18 |
-| Chapter 4 | 34.00% | ~16 |
-| Your Days Are Numbered | 34.00% | ~16 |
-| All Materials | 34.00% | ~16 |
-| Chapter 5 | 32.00% | ~15 |
-| Chapter 6 | 26.00% | ~12 |
+| Your Days Are Numbered | 35.00% | ~17 |
+| Chapter 4 | 33.00% | ~16 |
+| All Materials | 33.00% | ~16 |
+| Chapter 5 | 31.00% | ~15 |
+| Chapter 6 | 25.00% | ~12 |
 | Best Student | 17.00% | ~8 |
-| Food Thief | 13.00% | ~6 |
-| Ads Fan | 11.00% | ~5 |
-| Highway Survival | 11.00% | ~5 |
-| Sugar Pills Lover | 11.00% | ~5 |
-| Hard To Wake Up | 11.00% | ~5 |
-| Chipmunk | 9.00% | ~4 |
-| Paw Music | 9.00% | ~4 |
-| Tramp Saver | 9.00% | ~4 |
+| Food Thief | 15.00% | ~7 |
+| Ads Fan | 10.00% | ~5 |
+| Highway Survival | 10.00% | ~5 |
+| Sugar Pills Lover | 10.00% | ~5 |
+| Tramp Saver | 10.00% | ~5 |
+| Hard To Wake Up | 10.00% | ~5 |
+| Chipmunk | 8.00% | ~4 |
+| Paw Music | 8.00% | ~4 |
 | Bear Cop | 6.00% | ~3 |
 | Secret Locker | 6.00% | ~3 |
 | Master of Mattresses | 2.00% | ~1 |
@@ -34,7 +34,7 @@
 | Pacifist | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 570)  
+Progressed: 48 (Ranked 568)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-10 | 44 | 0 |
 | 2024-01-13 | 45 | 0 |
 | 2024-01-14 | 47 | 0 |
+| 2024-01-15 | 48 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

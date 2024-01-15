@@ -13,9 +13,9 @@ Rating: 4.38 (Ranked 797)
 | Fashion Connoisseur | 53.00% | ~400 |
 | Arms Mechanic | 49.00% | ~370 |
 | Flower Thief | 44.00% | ~332 |
-| Apostle of Flame | 39.00% | ~294 |
+| Apostle of Flame | 40.00% | ~302 |
+| Beginner Cook | 38.00% | ~287 |
 | Beginner Artificer | 38.00% | ~287 |
-| Beginner Cook | 37.00% | ~279 |
 | Seal Breaker | 32.00% | ~242 |
 | Handyman | 28.00% | ~211 |
 | Giant Lizard Killer | 27.00% | ~204 |

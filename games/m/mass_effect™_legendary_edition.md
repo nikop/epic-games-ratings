@@ -49,6 +49,7 @@
 | The Quarian | 23.00% | ~1,006 |
 | A Personal Touch | 22.00% | ~962 |
 | Catharsis | 22.00% | ~962 |
+| Fade Away | 22.00% | ~962 |
 | Ghost of the Father | 22.00% | ~962 |
 | The Cure | 22.00% | ~962 |
 | The Prodigal | 22.00% | ~962 |
@@ -59,7 +60,6 @@
 | Shopaholic | 22.00% | ~962 |
 | Archivist | 21.00% | ~919 |
 | Battlemaster | 21.00% | ~919 |
-| Fade Away | 21.00% | ~919 |
 | Treason | 21.00% | ~919 |
 | Big Game Hunter | 21.00% | ~919 |
 | Digital Exorcist | 21.00% | ~919 |

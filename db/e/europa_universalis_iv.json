@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -14439,9 +14439,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499394,
+  "EOS_Progressed": 499426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4459,
+  "EOS_NewPlayers": 4451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45619,6 +45619,11 @@
       "Time": "2024-01-15T14:10:12.0981183+00:00",
       "NumProgressed": 499394,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T15:10:32.7635608+00:00",
+      "NumProgressed": 499426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46630,7 +46635,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 2996
+      "UsersEstimate": 2997
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48533,21 +48538,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499394,
+      "Progressed": 499426,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499394,
+      "Progressed": 499426,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-15T12:01:08.348633+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:10:12.098118+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:10:32.7635605+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:00:07.5951933+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:10:12.0991888+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:00:17.1941965+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:32.7646553+00:00"
 }

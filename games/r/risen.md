@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.58 (Ranked 469)  
+Rating: 4.58 (Ranked 470)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,8 +32,8 @@ Rating: 4.58 (Ranked 469)
 | Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
 | Master detective | 14.00% | ~28 |
+| Defender | 12.00% | ~24 |
 | Peacekeeper | 12.00% | ~24 |
-| Defender | 11.00% | ~22 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
 | Titan Lord | 9.00% | ~18 |

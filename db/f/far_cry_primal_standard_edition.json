@@ -4,10 +4,10 @@
   "ProductSlug": "far-cry-primal",
   "Ranking_Rating": 204,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 296,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -1823,10 +1823,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 802,
       "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2024-01-15T15:00:19.6446157+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 803,
+      "NumberOfAwardsMax": 541
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 802,
+  "NumberOfAwards": 803,
   "NumberOfAwardsMax": 541,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1870,7 +1876,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1902,8 +1908,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2024-01-15T00:00:00.8443735+00:00",
+  "LastChanged": "2024-01-15T15:00:19.6446156+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:08.3520824+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:00:09.702477+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:04:58.1557958+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:00:19.6446161+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:05:09.3051028+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "ProductSlug": "sid-meiers-civilization-vi",
-  "Ranking_Rating": 166,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -16229,10 +16229,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 364238,
       "NumberOfAwardsMax": 46312
+    },
+    {
+      "Time": "2024-01-15T14:57:41.307098+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 364422,
+      "NumberOfAwardsMax": 46312
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 364238,
+  "NumberOfAwards": 364422,
   "NumberOfAwardsMax": 46312,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -16246,13 +16252,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 38553
+      "Count": 38621
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 40913
+      "Count": 40975
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -16264,7 +16270,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37090
+      "Count": 37144
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -16314,8 +16320,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-01-15T13:57:29.0882446+00:00",
+  "LastChanged": "2024-01-15T14:57:41.3070978+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.9601645+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:57:29.0882452+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:05:06.1376106+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:57:41.3070984+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:05:17.3191125+00:00"
 }

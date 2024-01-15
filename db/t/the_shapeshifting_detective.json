@@ -2,9 +2,9 @@
   "ID": "7509a5c8feb744ae866d9e3326d52d3b",
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2024-01-14T21:03:57.3280764+00:00",
       "NumProgressed": 334,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T15:04:27.0088059+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -909,7 +914,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "bullseye",
@@ -989,7 +994,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "play_me_by_the_hour",
@@ -1029,7 +1034,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "the_big_sleep",
@@ -1043,9 +1048,9 @@
       "ID": "video_saved_the_radio_star",
       "SetID": "2db2j74",
       "Name": "Video Saved The Radio Star",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 134
+      "UsersEstimate": 131
     },
     {
       "ID": "voyeur",
@@ -1053,7 +1058,7 @@
       "Name": "Voyeur",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "you_had_one_job",
@@ -1068,7 +1073,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 3
     }
   ],
@@ -1076,8 +1081,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:04:16.1608794+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:04:27.0088054+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:03:12.3293886+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:04:16.1609173+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:03:21.6543627+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:04:27.0088217+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,633 |
-| Cavalier | 26.00% | ~212,577 |
-| Fatso | 23.00% | ~188,049 |
-| Awakening | 21.00% | ~171,697 |
-| Ranger | 20.00% | ~163,521 |
-| Scrooge | 20.00% | ~163,521 |
-| Anorectic | 16.00% | ~130,816 |
-| Firestarter | 16.00% | ~130,816 |
-| Bookworm | 15.00% | ~122,640 |
-| Insomniac | 13.00% | ~106,288 |
-| Buddy | 12.00% | ~98,112 |
-| Thief | 12.00% | ~98,112 |
-| Sinner | 11.00% | ~89,936 |
-| Traveller | 11.00% | ~89,936 |
-| Convict | 10.00% | ~81,760 |
-| Haggler | 9.00% | ~73,584 |
-| McLovin | 7.00% | ~57,232 |
-| Runt | 7.00% | ~57,232 |
-| Casanova | 6.00% | ~49,056 |
-| Bad Trip | 5.00% | ~40,880 |
-| Monk | 5.00% | ~40,880 |
-| Serial Killer | 5.00% | ~40,880 |
+| Blacksmith's Son | 32.00% | ~261,636 |
+| Cavalier | 26.00% | ~212,579 |
+| Fatso | 23.00% | ~188,051 |
+| Awakening | 21.00% | ~171,699 |
+| Ranger | 20.00% | ~163,522 |
+| Scrooge | 20.00% | ~163,522 |
+| Anorectic | 16.00% | ~130,818 |
+| Firestarter | 16.00% | ~130,818 |
+| Bookworm | 15.00% | ~122,642 |
+| Insomniac | 13.00% | ~106,290 |
+| Buddy | 12.00% | ~98,113 |
+| Thief | 12.00% | ~98,113 |
+| Sinner | 11.00% | ~89,937 |
+| Traveller | 11.00% | ~89,937 |
+| Convict | 10.00% | ~81,761 |
+| Haggler | 9.00% | ~73,585 |
+| McLovin | 7.00% | ~57,233 |
+| Runt | 7.00% | ~57,233 |
+| Casanova | 6.00% | ~49,057 |
+| Bad Trip | 5.00% | ~40,881 |
+| Monk | 5.00% | ~40,881 |
+| Serial Killer | 5.00% | ~40,881 |
 | Bastard | 4.00% | ~32,704 |
 | Hunter | 4.00% | ~32,704 |
 | Plague Doctor | 4.00% | ~32,704 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~8,176 |
 | Master Huntsman | 1.00% | ~8,176 |
 | Stealth Killer | 1.00% | ~8,176 |
-| Bailiff | 0.90% | ~7,358 |
-| Tracker | 0.90% | ~7,358 |
+| Bailiff | 0.90% | ~7,359 |
+| Tracker | 0.90% | ~7,359 |
 | David Horak | 0.80% | ~6,541 |
 | Fighter | 0.70% | ~5,723 |
 | Mercenary's Honour | 0.70% | ~5,723 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~818 |
 | Wingman | 0.10% | ~818 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,603 (Ranked 21)  
+Progressed: 817,612 (Ranked 21)  
 Completed: 53 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,17 +359,17 @@ Completed: 53 (0.01%) (Ranked 376)
 | 2024-01-12 | 817,138 | 53 |
 | 2024-01-13 | 817,324 | 53 |
 | 2024-01-14 | 817,535 | 53 |
-| 2024-01-15 | 817,603 | 53 |
+| 2024-01-15 | 817,612 | 53 |
 ## Awards
 Max (Character Customization): 7,780  (Ranked 53)  
-Sum: 28,842 (Ranked 50)  
+Sum: 28,844 (Ranked 50)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,780 |
 | This game has Great Boss Battles | 5,663 |
 | This game has Challenging Combat | 1,811 |
-| This game has Diverse Characters | 1,776 |
+| This game has Diverse Characters | 1,778 |
 | This game has Amazing Storytelling | 1,755 |
 | This game is Highly Recommended | 1,730 |
 | This game is Extremely Fun | 1,719 |
@@ -734,3 +734,4 @@ Diff (max vs sum): 3
 | 2024-01-12 | 4.71 | - | 7,775 | 28,827 |
 | 2024-01-13 | 4.71 | - | 7,778 | 28,832 |
 | 2024-01-14 | 4.71 | - | 7,780 | 28,842 |
+| 2024-01-15 | 4.71 | - | 7,780 | 28,844 |

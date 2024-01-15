@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewPlayers": 404,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.24,
   "EosHistory": [
@@ -2289,6 +2289,11 @@
       "Time": "2024-01-13T17:09:44.6498151+00:00",
       "NumProgressed": 709,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-15T15:09:47.8418302+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 11,
@@ -2300,7 +2305,7 @@
       "Name": "Pit-house",
       "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "LEVEL_003",
@@ -2308,7 +2313,7 @@
       "Name": "Smith house",
       "Percentage": 87,
       "XP": 45,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "LEVEL_004",
@@ -2316,7 +2321,7 @@
       "Name": "Two-story house",
       "Percentage": 76,
       "XP": 45,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "LEVEL_006",
@@ -2387,14 +2392,14 @@
     {
       "ID": "7jk5g4e",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 23
     }
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:09:26.4230796+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:09:47.8418297+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:17.8483752+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:00:27.3765472+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:09:26.4230989+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:00:36.9893016+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:09:47.8418545+00:00"
 }

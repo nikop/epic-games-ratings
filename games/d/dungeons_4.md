@@ -28,7 +28,7 @@ Rating: 4.73 (Ranked 182)
 | YOU SHALL NOT PASS! | 51.00% | ~392 |
 | The Cathedral of Light | 50.00% | ~384 |
 | Shame! Shame! Shame! | 49.00% | ~377 |
-| Tanos' Crusade Against Thalya | 47.00% | ~361 |
+| Tanos' Crusade Against Thalya | 48.00% | ~369 |
 | Pure Dynamite! | 46.00% | ~354 |
 | Dungeonlord Gorgu | 46.00% | ~354 |
 | All’s Well That Ends Evil | 43.00% | ~331 |
@@ -36,7 +36,7 @@ Rating: 4.73 (Ranked 182)
 | The Duel | 40.00% | ~308 |
 | If Looks Could Kill | 38.00% | ~292 |
 | Unstoppable Horde | 37.00% | ~285 |
-| Master of the Undead | 36.00% | ~277 |
+| Master of the Undead | 37.00% | ~285 |
 | The Finitude Drill | 36.00% | ~277 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~246 |
 | Doom Hill | 32.00% | ~246 |
@@ -68,7 +68,7 @@ Rating: 4.73 (Ranked 182)
 | I Don't Need Any Help | 11.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 769 (Ranked 320)  
-Completed: 33 (4.29%) (Ranked 87)  
+Completed: 33 (4.29%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

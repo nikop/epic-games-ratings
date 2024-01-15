@@ -19,7 +19,7 @@ Number of Ratings: 101  (23.09.2022)
 | Architect of Fortunes | 23.00% | ~238 |
 | Bite the Blow | 22.00% | ~228 |
 | Pampered Life | 21.00% | ~217 |
-| Spreading Fear | 8.00% | ~83 |
+| Spreading Fear | 9.00% | ~93 |
 | Follow the Money | 7.00% | ~72 |
 | I'm Going To Call You Kitty | 6.00% | ~62 |
 | Operation Odessa | 1.00% | ~10 |

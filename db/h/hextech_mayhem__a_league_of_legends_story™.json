@@ -2,12 +2,12 @@
   "ID": "c315a84ec4714288b34f7ac94ee2515d",
   "Name": "Hextech Mayhem: A League of Legends Story\u2122",
   "ProductSlug": "hextech-mayhem-a-league-of-legends-story",
-  "Ranking_Rating": 469,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-11-16T16:30:00+00:00",
@@ -160,6 +160,6 @@
   "FirstSeen": "2022-07-22T20:20:27.2641591+00:00",
   "LastChanged": "2024-01-07T19:59:44.3816515+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:16.0612676+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:00:16.3703733+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:09:48.1316551+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:00:26.1130357+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:08.9960365+00:00"
 }

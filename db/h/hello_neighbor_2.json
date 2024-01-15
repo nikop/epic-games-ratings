@@ -507,7 +507,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4069,
+  "EOS_Progressed": 4070,
   "EOS_Completed": 144,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -7382,6 +7382,11 @@
       "Time": "2024-01-14T18:08:27.3138952+00:00",
       "NumProgressed": 4069,
       "NumCompleted": 144
+    },
+    {
+      "Time": "2024-01-15T15:03:52.4060366+00:00",
+      "NumProgressed": 4070,
+      "NumCompleted": 144
     }
   ],
   "TotalAchievements": 14,
@@ -7425,7 +7430,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -7441,7 +7446,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7504,7 +7509,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4069,
+      "Progressed": 4070,
       "Completed": 144
     }
   ],
@@ -7512,8 +7517,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:03:41.8395922+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:03:52.4060363+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:59:18.0591102+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:03:41.839659+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:59:28.7844023+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:03:52.406076+00:00"
 }

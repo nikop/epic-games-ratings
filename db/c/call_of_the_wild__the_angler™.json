@@ -1027,9 +1027,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8329,
+  "EOS_Progressed": 8331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14102,6 +14102,11 @@
       "Time": "2024-01-15T14:08:40.668164+00:00",
       "NumProgressed": 8329,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T15:09:01.7168222+00:00",
+      "NumProgressed": 8331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14121,7 +14126,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -14169,7 +14174,7 @@
       "Name": "Scaling up",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14233,7 +14238,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -14432,13 +14437,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8329,
+      "Progressed": 8331,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7701,
+      "Progressed": 7703,
       "Completed": 113
     }
   ],
@@ -14446,8 +14451,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:08:40.6681637+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:09:01.7168219+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:58:29.5444783+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:08:40.6682399+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:58:40.1089086+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:09:01.7169178+00:00"
 }

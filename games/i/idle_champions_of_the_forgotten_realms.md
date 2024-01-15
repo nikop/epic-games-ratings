@@ -13,10 +13,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 1.00% | ~2,540 |
 | Are Ya Chicken? | 0.90% | ~2,286 |
 | Were-verpowered | 0.80% | ~2,032 |
+| Friendly Imps | 0.80% | ~2,032 |
 | Welcome to Sigil | 0.80% | ~1,763 |
 | Seeking Allies | 0.70% | ~1,778 |
 | Mad Cow Disease | 0.70% | ~1,778 |
-| Friendly Imps | 0.70% | ~1,778 |
 | Fast Food | 0.70% | ~1,542 |
 | A Persistent Buzzing | 0.60% | ~1,524 |
 | Pure Energy | 0.60% | ~1,524 |
@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.30% | ~762 |
 | Pros and CONs | 0.20% | ~508 |
 | Wet Feet | 0.20% | ~508 |
+| Hatchlings Underfoot | 0.20% | ~508 |
 | Supply Run | 0.20% | ~508 |
 | Vecna Lives! | 0.20% | ~441 |
 | Homecoming | 0.20% | ~508 |
@@ -65,6 +66,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~508 |
 | The Botched Kidnapping | 0.20% | ~508 |
 | Tower on the Lake | 0.20% | ~508 |
+| Seeds of Deceit | 0.20% | ~508 |
 | Trollskull Manor | 0.20% | ~508 |
 | Attack on the Manor | 0.20% | ~508 |
 | The Death Curse | 0.20% | ~508 |
@@ -74,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dead Three | 0.20% | ~508 |
 | Flying Monkey Skulls of Doom | 0.20% | ~508 |
 | The Darkness Runs Deeper | 0.20% | ~508 |
+| Difficult Terrain | 0.20% | ~508 |
 | Dinosaur Racing | 0.20% | ~508 |
 | Close Escort | 0.20% | ~508 |
 | Constant Banditry | 0.20% | ~508 |
@@ -134,7 +137,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Alien Underdark | 0.10% | ~220 |
 | Thoughts on the Menu | 0.10% | ~220 |
 | Brains on Ice | 0.10% | ~220 |
-| Hatchlings Underfoot | 0.10% | ~254 |
 | The Oozing Hunger | 0.10% | ~220 |
 | Levelheaded | 0.10% | ~220 |
 | The Madness of Zuggtmoy | 0.10% | ~220 |
@@ -254,7 +256,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Only the Strong Survive | 0.10% | ~254 |
 | Shorty's Day Off | 0.10% | ~254 |
 | Intelligence Hunt | 0.10% | ~254 |
-| Seeds of Deceit | 0.10% | ~254 |
 | Visions of Strahd | 0.10% | ~254 |
 | Seeds of Corruption | 0.10% | ~254 |
 | The Strahd Squad | 0.10% | ~220 |
@@ -339,7 +340,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Troublesome Prisoner | 0.10% | ~254 |
 | Dark Doppelgangers | 0.10% | ~254 |
 | Faerûn's Most Wanted | 0.10% | ~220 |
-| Difficult Terrain | 0.10% | ~254 |
 | Cold & Wet | 0.10% | ~254 |
 | Madcap Adventures | 0.10% | ~254 |
 | Faerûn's Most Neglected | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,040 (Ranked 70)  
+Progressed: 254,048 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -823,7 +823,7 @@ Completed: 2,617 (1.03%) (Ranked 177)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 254,040 | 2,617 |
+| 2024-01-15 | 254,048 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
 Sum: 33,501 (Ranked 41)  

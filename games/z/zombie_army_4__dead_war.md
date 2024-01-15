@@ -7,21 +7,21 @@ Number of Ratings: 743  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shoot it, man! Shoot it in the head! | 70.00% | ~31,142 |
-| Say goodbye, creep! | 67.00% | ~29,807 |
-| Blood splattered | 66.00% | ~29,362 |
-| Choo choo! | 63.00% | ~28,027 |
+| Say goodbye, creep! | 67.00% | ~29,808 |
+| Blood splattered | 66.00% | ~29,363 |
+| Choo choo! | 63.00% | ~28,028 |
 | Groovy | 62.00% | ~27,583 |
-| Cleanup on aisle 4! | 57.00% | ~25,358 |
+| Cleanup on aisle 4! | 57.00% | ~25,359 |
 | Gold | 51.00% | ~22,689 |
-| The boat can leave now...tell the crew | 49.00% | ~21,799 |
-| Give me something to shoot! | 47.00% | ~20,909 |
-| Stand back boy! | 47.00% | ~20,909 |
+| The boat can leave now...tell the crew | 49.00% | ~21,800 |
+| Give me something to shoot! | 47.00% | ~20,910 |
+| Stand back boy! | 47.00% | ~20,910 |
 | Chain reaction | 45.00% | ~20,020 |
 | Weird science | 44.00% | ~19,575 |
 | Look mummy! A shark! | 42.00% | ~18,685 |
 | What did you say, Blain? | 42.00% | ~18,685 |
-| In the dark dark woods... | 39.00% | ~17,350 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,905 |
+| In the dark dark woods... | 39.00% | ~17,351 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,906 |
 | Double tap | 37.00% | ~16,461 |
 | Cranial blowout! | 37.00% | ~16,461 |
 | All of this has happened before… | 36.00% | ~16,016 |
@@ -31,8 +31,8 @@ Number of Ratings: 743  (23.09.2022)
 | You've got red on you | 34.00% | ~15,126 |
 | You're all going to die down here | 32.00% | ~14,236 |
 | He did Nazi that coming | 32.00% | ~14,236 |
-| Kill of the week | 31.00% | ~13,791 |
-| I never liked them anyway | 31.00% | ~13,791 |
+| Kill of the week | 31.00% | ~13,792 |
+| I never liked them anyway | 31.00% | ~13,792 |
 | Is it over? | 28.00% | ~12,457 |
 | Got your back | 27.00% | ~12,012 |
 | Gore soaked | 24.00% | ~10,677 |
@@ -44,7 +44,7 @@ Number of Ratings: 743  (23.09.2022)
 | Weapons expert | 17.00% | ~7,563 |
 | The bigger they are... | 15.00% | ~6,673 |
 | I'm going deeper underground | 14.00% | ~6,228 |
-| Well equipped | 13.00% | ~5,783 |
+| Well equipped | 13.00% | ~5,784 |
 | Into the deep | 12.00% | ~5,339 |
 | Damnedbusters | 9.00% | ~4,004 |
 | Plane sailing | 8.00% | ~3,559 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~445 |
 | None more hard | 0.60% | ~267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,488 (Ranked 130)  
+Progressed: 44,489 (Ranked 130)  
 Completed: 25 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 25 (0.06%) (Ranked 334)
 | 2024-01-12 | 44,440 | 25 |
 | 2024-01-13 | 44,463 | 25 |
 | 2024-01-14 | 44,484 | 25 |
-| 2024-01-15 | 44,488 | 25 |
+| 2024-01-15 | 44,489 | 25 |
 ## Awards
 Max (Great Boss Battles): 874  (Ranked 178)  
 Sum: 2,636 (Ranked 200)  

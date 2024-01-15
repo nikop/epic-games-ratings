@@ -1,32 +1,32 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 469)  
+Rating: 4.58 (Ranked 470)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,852 |
-| Alt+F4 | 11.00% | ~27,307 |
-| Where's that freaking Dwarf? | 9.00% | ~22,342 |
+| Sowwy! | 37.00% | ~91,854 |
+| Alt+F4 | 11.00% | ~27,308 |
+| Where's that freaking Dwarf? | 9.00% | ~22,343 |
 | Déjà vu | 8.00% | ~19,860 |
 | Sock! SOCK! | 6.00% | ~14,895 |
 | Speedrun | 6.00% | ~14,895 |
-| A beer, two curses, three companions | 5.00% | ~12,412 |
-| GG EZ | 5.00% | ~12,412 |
-| DM intervention | 5.00% | ~12,412 |
+| A beer, two curses, three companions | 5.00% | ~12,413 |
+| GG EZ | 5.00% | ~12,413 |
+| DM intervention | 5.00% | ~12,413 |
 | Way of the Wimp | 4.00% | ~9,930 |
 | The plot thickens... At the tavern | 4.00% | ~9,930 |
 | Fireproof Wizardess | 4.00% | ~9,930 |
-| Livin' in a dwarven paradise | 3.00% | ~7,447 |
-| The demons' feast | 3.00% | ~7,447 |
-| The Great Library | 3.00% | ~7,447 |
-| Torture and Sensibility | 3.00% | ~7,447 |
-| Urik's Depths | 3.00% | ~7,447 |
-| The Dungeon Master | 3.00% | ~7,447 |
-| The Woman in the High Castle | 3.00% | ~7,447 |
-| Team Building Exercise | 3.00% | ~7,447 |
-| Oh, when I'll be level 10... | 3.00% | ~7,447 |
+| Livin' in a dwarven paradise | 3.00% | ~7,448 |
+| The demons' feast | 3.00% | ~7,448 |
+| The Great Library | 3.00% | ~7,448 |
+| Torture and Sensibility | 3.00% | ~7,448 |
+| Urik's Depths | 3.00% | ~7,448 |
+| The Dungeon Master | 3.00% | ~7,448 |
+| The Woman in the High Castle | 3.00% | ~7,448 |
+| Team Building Exercise | 3.00% | ~7,448 |
+| Oh, when I'll be level 10... | 3.00% | ~7,448 |
 | Shiny and Crôm | 2.00% | ~4,965 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,965 |
 | Res Judicata | 2.00% | ~4,965 |
@@ -40,17 +40,17 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~4,965 |
 | I am the night | 2.00% | ~4,965 |
 | Thieves' Guild Accreditation | 2.00% | ~4,965 |
-| %#*!$*! | 1.00% | ~2,482 |
-| Dead for good | 1.00% | ~2,482 |
-| Gargantua | 1.00% | ~2,482 |
-| In Navalu's footsteps | 1.00% | ~2,482 |
-| Lëgal Legend | 1.00% | ~2,482 |
-| Material Girl | 1.00% | ~2,482 |
+| %#*!$*! | 1.00% | ~2,483 |
+| Dead for good | 1.00% | ~2,483 |
+| Gargantua | 1.00% | ~2,483 |
+| In Navalu's footsteps | 1.00% | ~2,483 |
+| Lëgal Legend | 1.00% | ~2,483 |
+| Material Girl | 1.00% | ~2,483 |
 | We come in peace | 0.90% | ~2,234 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,986 |
 | Holistic Adventuring Party | 0.70% | ~1,738 |
 | Law and Order | 0.70% | ~1,738 |
-| Scholar of the Lands of Fangh | 0.60% | ~1,489 |
+| Scholar of the Lands of Fangh | 0.60% | ~1,490 |
 | It's been a hard day's night | 0.50% | ~1,241 |
 | Friendly fire | 0.40% | ~993 |
 | I'd rather... Just... Sing! | 0.40% | ~993 |
@@ -58,19 +58,19 @@ Number of Ratings: 118  (23.09.2022)
 | Inception | 0.40% | ~993 |
 | 100% satisfaction guarantee | 0.30% | ~745 |
 | Death is for wimps | 0.30% | ~745 |
-| Cursed die | 0.20% | ~496 |
-| The Blood Countess | 0.20% | ~496 |
-| He’s alive! Aliiiive! | 0.20% | ~496 |
-| Egghead | 0.20% | ~496 |
-| Free customer service | 0.20% | ~496 |
-| Imposture and Trowels | 0.20% | ~496 |
-| Deep changes | 0.20% | ~496 |
-| A broken clock… | 0.20% | ~496 |
-| Living legends of the Lands of Fangh | 0.20% | ~496 |
-| Kudos from your DM | 0.20% | ~496 |
-| Insult to injury | 0.20% | ~496 |
-| Super-Ultra-Lydian | 0.20% | ~496 |
-| Demisemiquaver | 0.20% | ~496 |
+| Cursed die | 0.20% | ~497 |
+| The Blood Countess | 0.20% | ~497 |
+| He’s alive! Aliiiive! | 0.20% | ~497 |
+| Egghead | 0.20% | ~497 |
+| Free customer service | 0.20% | ~497 |
+| Imposture and Trowels | 0.20% | ~497 |
+| Deep changes | 0.20% | ~497 |
+| A broken clock… | 0.20% | ~497 |
+| Living legends of the Lands of Fangh | 0.20% | ~497 |
+| Kudos from your DM | 0.20% | ~497 |
+| Insult to injury | 0.20% | ~497 |
+| Super-Ultra-Lydian | 0.20% | ~497 |
+| Demisemiquaver | 0.20% | ~497 |
 | Necrophilia | 0.10% | ~248 |
 | Restless night | 0.10% | ~248 |
 | King of the Arena | 0.10% | ~248 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,249 (Ranked 72)  
+Progressed: 248,255 (Ranked 72)  
 Completed: 9 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 9 (0.00%) (Ranked 401)
 | 2024-01-12 | 247,819 | 8 |
 | 2024-01-13 | 247,988 | 9 |
 | 2024-01-14 | 248,183 | 9 |
-| 2024-01-15 | 248,249 | 9 |
+| 2024-01-15 | 248,255 | 9 |
 ## Awards
 Max (Character Customization): 270  (Ranked 278)  
 Sum: 570 (Ranked 330)  

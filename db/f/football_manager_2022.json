@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": null,
@@ -9266,9 +9266,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479321,
+  "EOS_Progressed": 479322,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36316,6 +36316,11 @@
       "Time": "2024-01-15T14:09:10.0443747+00:00",
       "NumProgressed": 479321,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-15T15:09:31.2844769+00:00",
+      "NumProgressed": 479322,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -36383,7 +36388,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124623
+      "UsersEstimate": 124624
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -36439,7 +36444,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143796
+      "UsersEstimate": 143797
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -36471,7 +36476,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76691
+      "UsersEstimate": 76692
     },
     {
       "ID": "achievement_big_win",
@@ -36511,7 +36516,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239660
+      "UsersEstimate": 239661
     },
     {
       "ID": "achievement_club_world_cup",
@@ -36719,7 +36724,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124623
+      "UsersEstimate": 124624
     },
     {
       "ID": "achievement_mr_delegator",
@@ -36743,7 +36748,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76691
+      "UsersEstimate": 76692
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -36751,7 +36756,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167762
+      "UsersEstimate": 167763
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -36839,7 +36844,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76691
+      "UsersEstimate": 76692
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -36871,7 +36876,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 230074
+      "UsersEstimate": 230075
     },
     {
       "ID": "achievement_signed_a_player",
@@ -36879,7 +36884,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239660
+      "UsersEstimate": 239661
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -36959,7 +36964,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239660
+      "UsersEstimate": 239661
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -37110,15 +37115,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479321,
+      "Progressed": 479322,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-15T03:02:59.501088+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:09:10.0443743+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:09:31.2844765+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.4121487+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:02:51.6729005+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:09:10.0445907+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:03:02.6015441+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:09:31.2846859+00:00"
 }

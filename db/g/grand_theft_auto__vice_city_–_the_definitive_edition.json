@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1062,9 +1062,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16434,
+  "EOS_Progressed": 16435,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18217,6 +18217,11 @@
       "Time": "2024-01-15T14:09:50.6733787+00:00",
       "NumProgressed": 16434,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-15T15:10:11.5765431+00:00",
+      "NumProgressed": 16435,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18244,7 +18249,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "ACH04",
@@ -18428,7 +18433,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2629
+      "UsersEstimate": 2630
     },
     {
       "ID": "ACH27",
@@ -18499,7 +18504,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16434,
+      "Progressed": 16435,
       "Completed": 100
     }
   ],
@@ -18507,8 +18512,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-12T14:59:31.064813+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:09:50.6733783+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:10:11.5765427+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:00:19.2061266+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:09:50.6734861+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:00:29.0240886+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:10:11.576654+00:00"
 }

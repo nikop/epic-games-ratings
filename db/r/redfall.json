@@ -387,9 +387,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 2391,
+  "EOS_Progressed": 2392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4532,6 +4532,11 @@
       "Time": "2024-01-15T00:04:43.080167+00:00",
       "NumProgressed": 2391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T15:04:49.3474278+00:00",
+      "NumProgressed": 2392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4543,7 +4548,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_002",
@@ -4559,7 +4564,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "Achievement_004",
@@ -4695,7 +4700,7 @@
       "Name": "Radio Silence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "Achievement_022",
@@ -4799,7 +4804,7 @@
       "Name": "Catch and Release",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "Achievement_035",
@@ -5070,7 +5075,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2391,
+      "Progressed": 2392,
       "Completed": 0
     }
   ],
@@ -5078,8 +5083,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-13T19:58:53.9775824+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:04:38.3770523+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:04:49.3474275+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:59:36.410186+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:04:38.3771198+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:59:47.365125+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:04:49.3475117+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -531,7 +531,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257916,
+  "EOS_Progressed": 257920,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 0,
@@ -30821,6 +30821,11 @@
       "Time": "2024-01-15T14:05:47.028453+00:00",
       "NumProgressed": 257916,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T15:05:59.1183987+00:00",
+      "NumProgressed": 257920,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30832,7 +30837,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69637
+      "UsersEstimate": 69638
     },
     {
       "ID": "ACH_AON",
@@ -30896,7 +30901,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33529
+      "UsersEstimate": 33530
     },
     {
       "ID": "ACH_HATTRICK",
@@ -30904,7 +30909,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -30912,7 +30917,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23212
+      "UsersEstimate": 23213
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -30952,7 +30957,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "ACH_IRONDEC",
@@ -30976,7 +30981,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74796
+      "UsersEstimate": 74797
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31048,7 +31053,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64479
+      "UsersEstimate": 64480
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31128,7 +31133,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -31136,7 +31141,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20634
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -31144,7 +31149,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20634
     },
     {
       "ID": "ACH_SCRATCH",
@@ -31152,7 +31157,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64479
+      "UsersEstimate": 64480
     },
     {
       "ID": "ACH_SOREAD",
@@ -31224,7 +31229,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20634
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -31247,7 +31252,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257916,
+      "Progressed": 257920,
       "Completed": 8
     }
   ],
@@ -31255,8 +31260,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-15T14:05:47.0284527+00:00",
+  "LastChanged_Achievements": "2024-01-15T15:05:59.1183984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-15T14:00:32.2329615+00:00",
-  "LastUpdate_Achievements": "2024-01-15T14:05:47.0286116+00:00"
+  "LastUpdate_Ratings": "2024-01-15T15:00:41.6497338+00:00",
+  "LastUpdate_Achievements": "2024-01-15T15:05:59.1185787+00:00"
 }
