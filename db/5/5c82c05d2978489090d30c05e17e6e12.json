@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75428,
+  "EOS_Progressed": 75437,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 1384,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7430,6 +7430,11 @@
       "Time": "2024-01-15T19:08:39.374256+00:00",
       "NumProgressed": 75428,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-15T20:08:57.8853345+00:00",
+      "NumProgressed": 75437,
+      "NumCompleted": 124
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7442,7 +7447,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27908
+      "UsersEstimate": 27912
     },
     {
       "ID": "Achievement_10",
@@ -7530,7 +7535,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21120
+      "UsersEstimate": 21122
     },
     {
       "ID": "Achievement_20",
@@ -7618,7 +7623,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9051
+      "UsersEstimate": 9052
     },
     {
       "ID": "Achievement_30",
@@ -7674,7 +7679,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "Achievement_6",
@@ -7713,7 +7718,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75428,
+      "Progressed": 75437,
       "Completed": 124
     }
   ],
@@ -7721,8 +7726,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-14T17:58:20.5473413+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:08:39.3742557+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:08:57.8853342+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:03.631425+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:08:39.3743144+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:30.3753709+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:08:57.8853839+00:00"
 }

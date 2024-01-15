@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,420 |
-| Safety in the Storm | 23.00% | ~9,544 |
-| A Better Idea | 23.00% | ~9,544 |
-| Begin the Ceremony | 19.00% | ~7,884 |
-| Mission Accomplished | 18.00% | ~7,469 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,224 |
-| A Starfighter of Your Own | 13.00% | ~5,394 |
-| Asset Secured | 12.00% | ~4,979 |
-| Unkillable | 7.00% | ~2,905 |
-| Together, Vanguard | 7.00% | ~2,905 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,490 |
+| Fracture at Fostar Haven | 95.00% | ~39,434 |
+| Safety in the Storm | 23.00% | ~9,547 |
+| A Better Idea | 23.00% | ~9,547 |
+| Begin the Ceremony | 19.00% | ~7,887 |
+| Mission Accomplished | 18.00% | ~7,472 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,226 |
+| A Starfighter of Your Own | 13.00% | ~5,396 |
+| Asset Secured | 12.00% | ~4,981 |
+| Unkillable | 7.00% | ~2,906 |
+| Together, Vanguard | 7.00% | ~2,906 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,491 |
 | Sound Strategy | 5.00% | ~2,075 |
 | Stomped | 5.00% | ~2,075 |
 | Fearless | 4.00% | ~1,660 |
@@ -32,27 +32,27 @@
 | Dressed for the Job You Want | 2.00% | ~830 |
 | I Have You Now | 1.00% | ~415 |
 | Against the Current | 0.80% | ~332 |
-| Denied | 0.70% | ~290 |
+| Denied | 0.70% | ~291 |
 | Found Your Place | 0.60% | ~249 |
-| Unstoppable Ace | 0.50% | ~207 |
+| Unstoppable Ace | 0.50% | ~208 |
 | Special Modifications | 0.40% | ~166 |
-| Seasoned Star Pilot | 0.30% | ~124 |
-| Heavy Hitter | 0.30% | ~124 |
-| The Trap is Set | 0.30% | ~124 |
-| The Galaxy's Finest (Veteran) | 0.30% | ~124 |
-| Across the Stars | 0.30% | ~124 |
-| Got 'Em | 0.30% | ~124 |
+| Seasoned Star Pilot | 0.30% | ~125 |
+| Heavy Hitter | 0.30% | ~125 |
+| The Trap is Set | 0.30% | ~125 |
+| The Galaxy's Finest (Veteran) | 0.30% | ~125 |
+| Across the Stars | 0.30% | ~125 |
+| Got 'Em | 0.30% | ~125 |
 | Victory for the New Republic | 0.20% | ~83 |
 | Victory for the Empire | 0.20% | ~83 |
 | Stay on Target | 0.20% | ~83 |
-| I Know a Few Maneuvers | 0.10% | ~41 |
-| Trigger Happy | 0.10% | ~41 |
-| Shallow Grave | 0.10% | ~41 |
-| Fully Decorated | 0.10% | ~41 |
-| The Galaxy's Finest (Ace) | 0.10% | ~41 |
-| Ultimate Weapon | 0.10% | ~41 |
+| I Know a Few Maneuvers | 0.10% | ~42 |
+| Trigger Happy | 0.10% | ~42 |
+| Shallow Grave | 0.10% | ~42 |
+| Fully Decorated | 0.10% | ~42 |
+| The Galaxy's Finest (Ace) | 0.10% | ~42 |
+| Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,495 (Ranked 135)  
+Progressed: 41,509 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 3 (0.01%) (Ranked 377)
 | 2024-01-12 | 40,533 | 3 |
 | 2024-01-13 | 40,936 | 3 |
 | 2024-01-14 | 41,296 | 3 |
-| 2024-01-15 | 41,495 | 3 |
+| 2024-01-15 | 41,509 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

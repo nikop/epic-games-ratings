@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 89.00% | ~71 |
-| Suicide squad | 50.00% | ~40 |
+| Suicide squad | 51.00% | ~41 |
 | Train hard, fight easy | 34.00% | ~27 |
 | Under cover | 34.00% | ~27 |
 | First blood | 33.00% | ~26 |
@@ -24,9 +24,9 @@
 | Berkanan Borgia | 13.00% | ~10 |
 | For the greater good | 9.00% | ~7 |
 | The champion of the arena | 9.00% | ~7 |
+| Punish the Punisher | 9.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
 | Stronger than Gellian steel | 8.00% | ~6 |
-| Punish the Punisher | 8.00% | ~6 |
 | The End | 8.00% | ~6 |
 | Collector | 6.00% | ~5 |
 | Protect the Healer! | 6.00% | ~5 |

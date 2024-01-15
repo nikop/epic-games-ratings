@@ -535,9 +535,9 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_IRONFIST",
@@ -551,9 +551,9 @@
       "ID": "ACH_KILLENEMY",
       "SetID": "ch874lb",
       "Name": "The Exterminator",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LEGENDARYMATERIAL",
@@ -686,8 +686,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:05:15.9390117+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:48.5951024+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.9898325+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:57:06.5664064+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:15.9390314+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:57:27.7116605+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:48.5951337+00:00"
 }

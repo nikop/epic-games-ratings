@@ -1039,9 +1039,9 @@
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 287
     },
     {
       "ID": "dep4_achievement_2",
@@ -1256,8 +1256,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:04:37.8623323+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:07.0422001+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.9256921+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:03:01.4144867+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:04:37.8623667+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:03:18.4782842+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:07.0422247+00:00"
 }

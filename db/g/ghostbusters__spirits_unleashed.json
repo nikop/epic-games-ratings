@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4023,7 +4023,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33687,
+  "EOS_Progressed": 33688,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -25608,6 +25608,11 @@
       "Time": "2024-01-15T19:09:01.5108512+00:00",
       "NumProgressed": 33687,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-15T20:09:22.0881026+00:00",
+      "NumProgressed": 33688,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25683,7 +25688,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "Daily_Dose",
@@ -25691,7 +25696,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "Diabolical",
@@ -25763,7 +25768,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "Ghost_Expert",
@@ -25867,7 +25872,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "Rivalry",
@@ -25945,9 +25950,9 @@
       "ID": "Swift_Removers",
       "SetID": "819popo",
       "Name": "Swift Rift Removers",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2358
     },
     {
       "ID": "Teamwork",
@@ -25971,7 +25976,7 @@
       "Name": "Therapeutic",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "There_You_Are",
@@ -26026,7 +26031,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33687,
+      "Progressed": 33688,
       "Completed": 71
     }
   ],
@@ -26034,8 +26039,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:01.5108508+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:09:22.0881021+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:02:37.8575217+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:01.5110135+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:02:51.6445789+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:09:22.0882386+00:00"
 }

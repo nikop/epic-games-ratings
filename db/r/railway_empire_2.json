@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -337,7 +337,7 @@
   "Tags": [],
   "EOS_Progressed": 2738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8214,9 +8214,9 @@
       "ID": "A15",
       "SetID": "9b7p7eo",
       "Name": "Full Steam ahead",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 904
+      "UsersEstimate": 931
     },
     {
       "ID": "A16",
@@ -8543,8 +8543,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-14T14:57:36.3985254+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:05:44.0326385+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:06:18.6180218+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:07.4955251+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:44.0327008+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:34.4811996+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:06:18.6181031+00:00"
 }

@@ -7,7 +7,7 @@
 | Play It Again Sam | 90.00% | ~302 |
 | Strong Silent Type | 90.00% | ~302 |
 | Play Me By The Hour | 70.00% | ~235 |
-| Patient Listener | 46.00% | ~155 |
+| Patient Listener | 47.00% | ~158 |
 | Video Saved The Radio Star | 39.00% | ~131 |
 | Hashtag Winning | 37.00% | ~124 |
 | A Woman Scorned | 27.00% | ~91 |
@@ -18,7 +18,7 @@
 | Book 'em Danny | 13.00% | ~44 |
 | Poetent | 12.00% | ~40 |
 | Oscar Winning Performance | 11.00% | ~37 |
-| Voyeur | 10.00% | ~34 |
+| Voyeur | 11.00% | ~37 |
 | Put A Ring On It | 9.00% | ~30 |
 | Heavy Rayne | 8.00% | ~27 |
 | Chicken | 7.00% | ~24 |

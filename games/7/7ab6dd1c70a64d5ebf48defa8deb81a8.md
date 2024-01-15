@@ -5,9 +5,9 @@ Rating: 4.13 (Ranked 1,017)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,500 |
+| Break Out | 64.00% | ~1,501 |
 | Trinity | 34.00% | ~797 |
-| The Collector | 28.00% | ~656 |
+| The Collector | 28.00% | ~657 |
 | Find Allies | 27.00% | ~633 |
 | A Taste of Wrath | 27.00% | ~633 |
 | Adventurer | 25.00% | ~586 |
@@ -24,7 +24,7 @@ Rating: 4.13 (Ranked 1,017)
 | Essence Blow | 14.00% | ~328 |
 | The Mentor | 12.00% | ~281 |
 | Calm before the Storm | 10.00% | ~234 |
-| To Battle | 8.00% | ~188 |
+| To Battle | 9.00% | ~211 |
 | Godslayer | 8.00% | ~188 |
 | Airborne | 8.00% | ~188 |
 | Miner | 8.00% | ~188 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,017)
 | All That Gold | 0.70% | ~16 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,344 (Ranked 244)  
+Progressed: 2,345 (Ranked 244)  
 Completed: 3 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 3 (0.13%) (Ranked 302)
 | 2024-01-12 | 2,273 | 4 |
 | 2024-01-13 | 2,309 | 3 |
 | 2024-01-14 | 2,332 | 3 |
-| 2024-01-15 | 2,344 | 3 |
+| 2024-01-15 | 2,345 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

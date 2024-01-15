@@ -25,20 +25,20 @@
 | Ms. Camilla B. Culsham | 34.00% | ~39 |
 | An odd series of events | 33.00% | ~38 |
 | The Apartment | 33.00% | ~38 |
+| A rude awakening | 30.00% | ~34 |
 | Nathaniel Dryden | 30.00% | ~34 |
-| A rude awakening | 29.00% | ~33 |
-| Bartholomew | 29.00% | ~33 |
-| Well-acquainted | 27.00% | ~31 |
-| Anastasia Babanin | 27.00% | ~31 |
-| The Scheme | 27.00% | ~31 |
-| Zakariya Demir | 26.00% | ~30 |
-| Truth from within | 24.00% | ~28 |
-| A curious phrase | 22.00% | ~25 |
+| Bartholomew | 30.00% | ~34 |
+| Well-acquainted | 28.00% | ~32 |
+| Anastasia Babanin | 28.00% | ~32 |
+| The Scheme | 28.00% | ~32 |
+| Zakariya Demir | 27.00% | ~31 |
+| Truth from within | 25.00% | ~29 |
+| A curious phrase | 23.00% | ~26 |
+| The Suspects | 23.00% | ~26 |
 | Evelyn Lakshmi Warbeck | 22.00% | ~25 |
-| The Suspects | 22.00% | ~25 |
 | Horace Mountjoy | 21.00% | ~24 |
+| Johan Kristiansen | 21.00% | ~24 |
 | The Secrets | 21.00% | ~24 |
-| Johan Kristiansen | 20.00% | ~23 |
 | Mortimer Ailsworth | 19.00% | ~22 |
 | A peculiar fellow | 18.00% | ~21 |
 | Well-travelled | 17.00% | ~20 |

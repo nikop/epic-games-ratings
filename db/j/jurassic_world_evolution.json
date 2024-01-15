@@ -4,10 +4,10 @@
   "ProductSlug": "jurassic-world-evolution",
   "Ranking_Rating": 380,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 145,
+  "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-12-31T16:00:00+00:00",
@@ -5678,6 +5678,6 @@
   "FirstSeen": "2022-07-22T20:18:31.0085434+00:00",
   "LastChanged": "2024-01-15T01:49:05.2657214+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:25.2768547+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:57:28.4269031+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:06:20.0575082+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:57:50.411483+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:08:27.2523239+00:00"
 }

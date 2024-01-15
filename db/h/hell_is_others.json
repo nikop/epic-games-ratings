@@ -1507,9 +1507,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260687,
+  "EOS_Progressed": 260691,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27332,6 +27332,11 @@
       "Time": "2024-01-15T19:04:43.3761166+00:00",
       "NumProgressed": 260687,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T20:05:13.3696633+00:00",
+      "NumProgressed": 260691,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27351,7 +27356,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10427
+      "UsersEstimate": 10428
     },
     {
       "ID": "Act3",
@@ -27391,7 +27396,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80813
+      "UsersEstimate": 80814
     },
     {
       "ID": "BackHomeNTimes",
@@ -27399,7 +27404,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -27407,7 +27412,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10427
+      "UsersEstimate": 10428
     },
     {
       "ID": "BreakNWindows",
@@ -27415,7 +27420,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10427
+      "UsersEstimate": 10428
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -27471,7 +27476,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13034
+      "UsersEstimate": 13035
     },
     {
       "ID": "CreedsInBank2",
@@ -27631,7 +27636,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59958
+      "UsersEstimate": 59959
     },
     {
       "ID": "KillOthers2",
@@ -27687,7 +27692,7 @@
       "Name": "Committed Relationship",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "NewFloor",
@@ -27703,7 +27708,7 @@
       "Name": "Number 1",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "Patrimony1",
@@ -27711,7 +27716,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10427
+      "UsersEstimate": 10428
     },
     {
       "ID": "Patrimony2",
@@ -27790,7 +27795,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260687,
+      "Progressed": 260691,
       "Completed": 3
     }
   ],
@@ -27798,8 +27803,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-15T13:03:04.4373001+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:04:43.3761163+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:13.369663+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:57:24.2222815+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:04:43.3762683+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:57:46.3970805+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:13.3698189+00:00"
 }

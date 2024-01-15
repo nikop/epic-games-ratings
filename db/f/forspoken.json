@@ -667,9 +667,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47299,
+  "EOS_Progressed": 47301,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18922,6 +18922,11 @@
       "Time": "2024-01-15T19:03:20.9739537+00:00",
       "NumProgressed": 47299,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T20:03:41.4797246+00:00",
+      "NumProgressed": 47301,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -18973,7 +18978,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -19356,22 +19361,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47299,
+      "Progressed": 47301,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12136,
-      "Completed": 12136
+      "Progressed": 12138,
+      "Completed": 12138
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:03:20.9739534+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:03:41.4797244+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:02:51.4686485+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:03:20.9741021+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:03:07.5012915+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:03:41.4800167+00:00"
 }

@@ -624,9 +624,9 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "special6",
@@ -752,9 +752,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "story20",
@@ -841,8 +841,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:37.1169852+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:09:59.8426934+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.0857431+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:59:54.072662+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:37.1170157+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:00:35.6910788+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:09:59.8427256+00:00"
 }

@@ -1,40 +1,40 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.45 (Ranked 693)  
+Rating: 4.45 (Ranked 692)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~316,157 |
-| Full garage | 61.00% | ~264,186 |
-| To the eyeballs! | 51.00% | ~220,877 |
-| Individual delivery | 47.00% | ~203,553 |
-| Non-Stop | 45.00% | ~194,891 |
-| Juggler | 36.00% | ~155,913 |
-| Forgot something | 35.00% | ~151,582 |
-| Close call! | 31.00% | ~134,259 |
-| Get out my way | 28.00% | ~121,266 |
-| Common cause | 26.00% | ~112,604 |
-| Critical care | 26.00% | ~112,604 |
-| Mega-railroad | 23.00% | ~99,611 |
-| Upgrade complete | 23.00% | ~99,611 |
-| Just in time! | 18.00% | ~77,957 |
-| Builder | 17.00% | ~73,626 |
-| Long Haul | 17.00% | ~73,514 |
-| Steam Age | 16.00% | ~69,295 |
-| Multilevel road | 15.00% | ~64,964 |
-| Bridgemania | 14.00% | ~60,633 |
-| Need to think | 14.00% | ~60,633 |
-| The Tortoise | 12.00% | ~51,971 |
-| Beginner | 11.00% | ~47,640 |
-| Without a lunch break | 11.00% | ~47,640 |
-| One way | 10.00% | ~43,309 |
-| Relocation | 10.00% | ~43,309 |
-| Industrial Age | 9.00% | ~38,978 |
-| Just One More Valley | 9.00% | ~38,919 |
-| Prick of conscience | 8.00% | ~34,647 |
-| Missed it! | 7.00% | ~30,316 |
+| Dealmaker | 73.00% | ~316,167 |
+| Full garage | 61.00% | ~264,195 |
+| To the eyeballs! | 51.00% | ~220,884 |
+| Individual delivery | 47.00% | ~203,560 |
+| Non-Stop | 45.00% | ~194,898 |
+| Juggler | 36.00% | ~155,918 |
+| Forgot something | 35.00% | ~151,587 |
+| Close call! | 31.00% | ~134,263 |
+| Get out my way | 28.00% | ~121,270 |
+| Common cause | 26.00% | ~112,608 |
+| Critical care | 26.00% | ~112,608 |
+| Mega-railroad | 23.00% | ~99,614 |
+| Upgrade complete | 23.00% | ~99,614 |
+| Just in time! | 18.00% | ~77,959 |
+| Builder | 17.00% | ~73,628 |
+| Long Haul | 17.00% | ~73,516 |
+| Steam Age | 16.00% | ~69,297 |
+| Multilevel road | 15.00% | ~64,966 |
+| Bridgemania | 14.00% | ~60,635 |
+| Need to think | 14.00% | ~60,635 |
+| The Tortoise | 12.00% | ~51,973 |
+| Beginner | 11.00% | ~47,642 |
+| Without a lunch break | 11.00% | ~47,642 |
+| One way | 10.00% | ~43,311 |
+| Relocation | 10.00% | ~43,311 |
+| Industrial Age | 9.00% | ~38,980 |
+| Just One More Valley | 9.00% | ~38,920 |
+| Prick of conscience | 8.00% | ~34,648 |
+| Missed it! | 7.00% | ~30,317 |
 | At the last moment! | 6.00% | ~25,986 |
 | Overseer | 6.00% | ~25,986 |
 | Highlander | 5.00% | ~21,655 |
@@ -65,7 +65,7 @@ Number of Ratings: 87  (23.09.2022)
 | BBQ | 0.80% | ~3,465 |
 | Miscalculation | 0.80% | ~3,465 |
 | Voyager | 0.60% | ~2,599 |
-| Railroad tycoon | 0.50% | ~2,165 |
+| Railroad tycoon | 0.50% | ~2,166 |
 | It's no coincidence | 0.40% | ~1,732 |
 | Miner | 0.30% | ~1,297 |
 | Pink Ruby | 0.30% | ~1,297 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~432 |
 | World Zapper | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,092 (Ranked 46)  
+Progressed: 433,106 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 24 (0.01%) (Ranked 377)
 | 2024-01-12 | 432,334 | 24 |
 | 2024-01-13 | 432,639 | 24 |
 | 2024-01-14 | 432,946 | 24 |
-| 2024-01-15 | 433,092 | 24 |
+| 2024-01-15 | 433,106 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,055  (Ranked 159)  
-Sum: 2,178 (Ranked 215)  
+Sum: 2,180 (Ranked 215)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -342,7 +342,7 @@ Diff (max vs sum): -56
 | This game is Relaxing | 115 |
 | This game has Quickly Understood Controls | 112 |
 | This game is Highly Recommended | 104 |
-| This game has Challenging Combat | 92 |
+| This game has Challenging Combat | 94 |
 | This game has a Creative Community | 85 |
 | This game has Amazing Storytelling | 80 |
 | This game has Amazing Characters | 63 |
@@ -585,4 +585,4 @@ Diff (max vs sum): -56
 | 2024-01-12 | 4.45 | - | 1,051 | 2,161 |
 | 2024-01-13 | 4.45 | - | 1,051 | 2,168 |
 | 2024-01-14 | 4.45 | - | 1,053 | 2,173 |
-| 2024-01-15 | 4.45 | - | 1,055 | 2,178 |
+| 2024-01-15 | 4.45 | - | 1,055 | 2,180 |

@@ -6,10 +6,10 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,945 |
-| Photogenic | 82.00% | ~8,529 |
-| Surge Gauntlet Jockey | 79.00% | ~8,217 |
-| Plug It In | 78.00% | ~8,113 |
+| Let's Get This Party Started | 86.00% | ~8,946 |
+| Photogenic | 82.00% | ~8,530 |
+| Surge Gauntlet Jockey | 79.00% | ~8,218 |
+| Plug It In | 78.00% | ~8,114 |
 | Adventure Time | 74.00% | ~7,697 |
 | Playing With Power | 72.00% | ~7,489 |
 | Coup d'Etat | 55.00% | ~5,721 |
@@ -17,15 +17,15 @@ Number of Ratings: 801  (23.09.2022)
 | Get Furious | 53.00% | ~5,513 |
 | Hacks In Stacks | 52.00% | ~5,409 |
 | Gunplay And Cosplay | 51.00% | ~5,305 |
-| Meching Enemies | 46.00% | ~4,784 |
-| Ticket Toddler | 41.00% | ~4,264 |
-| Booty Bashing | 36.00% | ~3,744 |
-| Field Medic | 36.00% | ~3,744 |
-| Here Comes a New Challenger | 35.00% | ~3,640 |
-| Rapid Response | 31.00% | ~3,224 |
-| Surge Ahead | 29.00% | ~3,016 |
-| The Full Monty | 29.00% | ~3,016 |
-| Guardian Angel | 26.00% | ~2,704 |
+| Meching Enemies | 46.00% | ~4,785 |
+| Ticket Toddler | 41.00% | ~4,265 |
+| Booty Bashing | 36.00% | ~3,745 |
+| Field Medic | 36.00% | ~3,745 |
+| Here Comes a New Challenger | 35.00% | ~3,641 |
+| Rapid Response | 31.00% | ~3,225 |
+| Surge Ahead | 29.00% | ~3,017 |
+| The Full Monty | 29.00% | ~3,017 |
+| Guardian Angel | 26.00% | ~2,705 |
 | Poppin Noggins | 23.00% | ~2,392 |
 | Clips and Crits | 18.00% | ~1,872 |
 | Grey Goo | 16.00% | ~1,664 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,401 (Ranked 183)  
+Progressed: 10,402 (Ranked 183)  
 Completed: 2 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,11 +327,11 @@ Completed: 2 (0.02%) (Ranked 366)
 | 2024-01-12 | 10,373 | 2 |
 | 2024-01-13 | 10,381 | 2 |
 | 2024-01-14 | 10,390 | 2 |
-| 2024-01-15 | 10,401 | 2 |
+| 2024-01-15 | 10,402 | 2 |
 ## Awards
-Max (Great for Beginners): 65  (Ranked 426)  
+Max (Great for Beginners): 65  (Ranked 427)  
 Sum: 465 (Ranked 342)  
-Diff (max vs sum): 84  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |

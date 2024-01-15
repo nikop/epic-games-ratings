@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -793,9 +793,9 @@
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 95,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "the_martyr",
@@ -864,8 +864,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:57.5600808+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:22.0262376+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9806702+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:57:24.7432089+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:57.5600955+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:57:46.9179133+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:22.0262639+00:00"
 }

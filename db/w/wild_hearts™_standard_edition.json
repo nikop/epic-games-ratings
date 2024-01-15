@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4478,6 +4478,11 @@
       "Time": "2024-01-15T16:10:15.8069229+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T20:09:58.5973765+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4490,7 +4495,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "achievement_10",
@@ -4498,7 +4503,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "achievement_11",
@@ -4530,7 +4535,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "achievement_15",
@@ -4538,7 +4543,7 @@
       "Name": "Memory Rouser",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "achievement_16",
@@ -4546,7 +4551,7 @@
       "Name": "Distance Devourer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "achievement_17",
@@ -4576,9 +4581,9 @@
       "ID": "achievement_2",
       "SetID": "2cpn27e",
       "Name": "Mountain Splitter",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 672
     },
     {
       "ID": "achievement_20",
@@ -4586,7 +4591,7 @@
       "Name": "Subsistence Skills",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "achievement_21",
@@ -4602,7 +4607,7 @@
       "Name": "Kemono Hunter",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "achievement_23",
@@ -4730,7 +4735,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "achievement_38",
@@ -4778,7 +4783,7 @@
       "Name": "Quintessence of Form",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "achievement_43",
@@ -4802,7 +4807,7 @@
       "Name": "Helpful Heart",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "achievement_46",
@@ -4834,7 +4839,7 @@
       "Name": "Reincarnation Cycle Stopper",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_6",
@@ -4842,7 +4847,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "achievement_7",
@@ -4850,7 +4855,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "achievement_8",
@@ -4858,7 +4863,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_9",
@@ -4873,13 +4878,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:35.9687806+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:09:58.5973761+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:59:33.9672907+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:35.968832+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:00:13.23114+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:09:58.5974228+00:00"
 }

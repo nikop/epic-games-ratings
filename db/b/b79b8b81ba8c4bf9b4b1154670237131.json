@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16706,
+  "EOS_Progressed": 16707,
   "EOS_Completed": 15,
   "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
@@ -6726,6 +6726,11 @@
       "Time": "2024-01-15T19:09:32.806205+00:00",
       "NumProgressed": 16706,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-15T20:09:55.2650421+00:00",
+      "NumProgressed": 16707,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6738,7 +6743,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "ACH_AE_10",
@@ -6786,7 +6791,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "ACH_AE_16",
@@ -6826,7 +6831,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "ACH_AE_20",
@@ -6850,7 +6855,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "ACH_AE_23",
@@ -7017,7 +7022,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16706,
+      "Progressed": 16707,
       "Completed": 15
     }
   ],
@@ -7025,8 +7030,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:32.8062048+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:09:55.2650418+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:04.0209976+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:32.8062632+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:30.9402789+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:09:55.265093+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,554 |
-| Off to a good start | 60.00% | ~1,782 |
-| Do... or do not. There is no try | 52.00% | ~1,544 |
-| A good blaster at your side | 24.00% | ~713 |
-| I suggest a new strategy | 17.00% | ~505 |
-| Great shot, kid! | 15.00% | ~446 |
+| New Recruit | 86.00% | ~2,558 |
+| Off to a good start | 60.00% | ~1,784 |
+| Do... or do not. There is no try | 52.00% | ~1,546 |
+| A good blaster at your side | 24.00% | ~714 |
+| I suggest a new strategy | 17.00% | ~506 |
+| Great shot, kid! | 16.00% | ~476 |
 | Scrap collector | 14.00% | ~416 |
 | All right, I'll give it a try | 14.00% | ~416 |
-| The power of the Force | 12.00% | ~356 |
-| Together we can rule the galaxy | 12.00% | ~356 |
-| Shoot first | 12.00% | ~356 |
+| The power of the Force | 12.00% | ~357 |
+| Together we can rule the galaxy | 12.00% | ~357 |
+| Shoot first | 12.00% | ~357 |
 | Collector | 11.00% | ~327 |
 | Tell Jabba that I've got his money | 8.00% | ~238 |
 | Best star-pilot in the galaxy | 8.00% | ~238 |
 | Never tell me the odds! | 7.00% | ~208 |
 | Survivor | 7.00% | ~208 |
 | A cunning warrior | 6.00% | ~178 |
-| What's the cargo? | 5.00% | ~148 |
-| "Gonk? Gonk!" | 5.00% | ~148 |
-| Judge me by my size, do you? | 5.00% | ~148 |
+| What's the cargo? | 5.00% | ~149 |
+| "Gonk? Gonk!" | 5.00% | ~149 |
+| Judge me by my size, do you? | 5.00% | ~149 |
 | Distinguished | 4.00% | ~119 |
 | A tremor in the Force | 4.00% | ~119 |
 | Impressive. Most impressive. | 4.00% | ~119 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,970 (Ranked 233)  
+Progressed: 2,974 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 1 (0.03%) (Ranked 358)
 | 2024-01-12 | 2,908 | 1 |
 | 2024-01-13 | 2,938 | 1 |
 | 2024-01-14 | 2,961 | 1 |
-| 2024-01-15 | 2,970 | 1 |
+| 2024-01-15 | 2,974 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

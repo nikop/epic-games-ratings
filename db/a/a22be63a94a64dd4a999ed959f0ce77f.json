@@ -4,7 +4,7 @@
   "ProductSlug": "john-carpenters-toxic-commando",
   "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-02T20:05:05.4582255+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:03:25.9021734+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:03:47.127442+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:05.6992772+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:51.2043002+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:03:25.9021751+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:59:24.4014205+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:03:47.1274446+00:00"
 }

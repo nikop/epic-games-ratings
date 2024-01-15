@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7253,
+  "EOS_Progressed": 7254,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11267,6 +11267,11 @@
       "Time": "2024-01-15T19:05:09.2696391+00:00",
       "NumProgressed": 7253,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T20:05:41.5312897+00:00",
+      "NumProgressed": 7254,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11390,7 +11395,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "23",
@@ -11757,13 +11762,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7253,
+      "Progressed": 7254,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7253,
+      "Progressed": 7254,
       "Completed": 8
     }
   ],
@@ -11771,8 +11776,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:05:09.2696388+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:41.5312894+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:00:23.5458002+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:09.2697603+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:01:08.4651757+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:41.5313717+00:00"
 }

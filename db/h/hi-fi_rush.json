@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17224,
+  "EOS_Progressed": 17225,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 961,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12333,6 +12333,11 @@
       "Time": "2024-01-15T19:05:05.6682528+00:00",
       "NumProgressed": 17224,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T20:05:37.7517901+00:00",
+      "NumProgressed": 17225,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12344,7 +12349,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9473
+      "UsersEstimate": 9474
     },
     {
       "ID": "Ach002",
@@ -12376,15 +12381,15 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "Ach006",
       "SetID": "12n4k20",
       "Name": "Time to pay up!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2239
     },
     {
       "ID": "Ach007",
@@ -12456,7 +12461,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6028
+      "UsersEstimate": 6029
     },
     {
       "ID": "Ach016",
@@ -12520,7 +12525,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9473
+      "UsersEstimate": 9474
     },
     {
       "ID": "Ach024",
@@ -12536,7 +12541,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5340
     },
     {
       "ID": "Ach026",
@@ -12568,7 +12573,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "Ach030",
@@ -12600,7 +12605,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "Ach034",
@@ -12911,13 +12916,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17224,
+      "Progressed": 17225,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15745,
+      "Progressed": 15746,
       "Completed": 1931
     }
   ],
@@ -12925,8 +12930,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:05:05.6682523+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:37.7517895+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:59:38.898987+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:05.6684316+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:00:18.5615543+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:37.7519065+00:00"
 }

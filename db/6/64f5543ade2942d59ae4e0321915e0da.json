@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 522,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2066,9 +2066,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -2377,8 +2377,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-15T18:08:32.6954458+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:03:31.9631848+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:41.8323851+00:00",
-  "LastUpdate_Achievements": "2024-01-15T18:08:32.6954783+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:59:14.146154+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:03:31.9649045+00:00"
 }

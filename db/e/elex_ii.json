@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 885,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -571,9 +571,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 251,
+  "EOS_Progressed": 253,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1581,6 +1581,11 @@
       "Time": "2024-01-15T13:11:03.0510036+00:00",
       "NumProgressed": 251,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T20:05:51.0421616+00:00",
+      "NumProgressed": 253,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1609,7 +1614,7 @@
       "Name": "Entrepreneur",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "100HEALS",
@@ -1681,7 +1686,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "30POTIONS",
@@ -1703,9 +1708,9 @@
       "ID": "35TELEPORTS",
       "SetID": "a1angca",
       "Name": "Globetrotter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "50000ELEXIT",
@@ -1767,9 +1772,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "BRINGTOYS",
@@ -1799,9 +1804,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "CHOSEKLE",
@@ -1831,9 +1836,9 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "DESTRUCTION",
@@ -1863,9 +1868,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "FINDCITY",
@@ -1873,7 +1878,7 @@
       "Name": "Civilian",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FINDCRONY",
@@ -1881,7 +1886,7 @@
       "Name": "Best Buddy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "FINDMAP",
@@ -1897,7 +1902,7 @@
       "Name": "Family Reunion",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1905,7 +1910,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "HELPCHILDREN",
@@ -1921,7 +1926,7 @@
       "Name": "Pass A38",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "KILL200MONSTER",
@@ -1992,15 +1997,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 251,
+      "Progressed": 253,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:05:18.2252287+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:51.0421613+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:59:25.0518476+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:18.225294+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:00:02.0995781+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:51.0422003+00:00"
 }

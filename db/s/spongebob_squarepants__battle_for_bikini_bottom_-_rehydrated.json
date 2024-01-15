@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -2833,6 +2833,11 @@
       "Time": "2024-01-15T19:05:55.9613479+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-15T20:06:31.4610065+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2877,7 +2882,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -2917,7 +2922,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -2925,7 +2930,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -2957,7 +2962,7 @@
       "Name": "Toxic Terror",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -2981,7 +2986,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -3100,15 +3105,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:05:55.9613477+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:06:31.4610059+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:00:03.4529282+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:55.9614045+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:00:46.8488978+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:06:31.4610352+00:00"
 }

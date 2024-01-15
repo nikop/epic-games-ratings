@@ -1755,9 +1755,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248275,
+  "EOS_Progressed": 248280,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26310,6 +26310,11 @@
       "Time": "2024-01-15T19:10:07.3803446+00:00",
       "NumProgressed": 248275,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-15T20:10:32.4996352+00:00",
+      "NumProgressed": 248280,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26753,7 +26758,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14896
+      "UsersEstimate": 14897
     },
     {
       "ID": "ElfEpic",
@@ -26769,7 +26774,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91862
+      "UsersEstimate": 91864
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26817,7 +26822,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27310
+      "UsersEstimate": 27311
     },
     {
       "ID": "FollowBraztok",
@@ -26857,7 +26862,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2234
+      "UsersEstimate": 2235
     },
     {
       "ID": "MinistrelEpic",
@@ -26969,7 +26974,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14896
+      "UsersEstimate": 14897
     },
     {
       "ID": "SupportCount4",
@@ -27024,21 +27029,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248275,
+      "Progressed": 248280,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248275,
+      "Progressed": 248280,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-15T09:59:27.1713683+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:10:07.3803444+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:32.4996349+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:59:14.3981764+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:10:07.3805431+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:59:48.6134117+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:32.4998305+00:00"
 }

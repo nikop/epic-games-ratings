@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 18.00% | ~3,428 |
+| Oyedang, Kopengs | 19.00% | ~3,619 |
 | Captain Drummer | 16.00% | ~3,048 |
 | Celebrations are in Order | 15.00% | ~2,857 |
 | Martian Music | 14.00% | ~2,667 |
@@ -41,8 +41,8 @@ Rating: 4.54 (Ranked 551)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,047 (Ranked 159)  
-Completed: 65 (0.34%) (Ranked 251)  
+Progressed: 19,048 (Ranked 159)  
+Completed: 66 (0.35%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,7 +218,7 @@ Completed: 65 (0.34%) (Ranked 251)
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
-| 2024-01-15 | 19,047 | 65 |
+| 2024-01-15 | 19,048 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

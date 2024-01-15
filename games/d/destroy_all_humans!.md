@@ -6,19 +6,19 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~387 |
-| Kaijuiced | 71.00% | ~357 |
-| Lie Back and Think of Albion | 67.00% | ~337 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~317 |
+| Shop Til They Drop | 77.00% | ~388 |
+| Kaijuiced | 71.00% | ~358 |
+| Lie Back and Think of Albion | 67.00% | ~338 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~318 |
 | I Look Up As I Walk to Takoshima | 61.00% | ~307 |
 | Yettisoned | 59.00% | ~297 |
 | Pimp My Raid | 58.00% | ~292 |
 | Perfect Probulator | 58.00% | ~292 |
 | Lobster Blisque | 52.00% | ~262 |
 | Fly Me to the Moon Base | 51.00% | ~257 |
-| Earthly Pleasures | 48.00% | ~241 |
-| Ducks in a Row, Fish in a Barrel | 47.00% | ~236 |
-| Bodied Sattva | 38.00% | ~191 |
+| Earthly Pleasures | 48.00% | ~242 |
+| Ducks in a Row, Fish in a Barrel | 47.00% | ~237 |
+| Bodied Sattva | 38.00% | ~192 |
 | Forbidden Donut | 37.00% | ~186 |
 | Freshly Squeezed | 36.00% | ~181 |
 | Upgreatest | 36.00% | ~181 |
@@ -30,11 +30,11 @@ Number of Ratings: 85  (23.09.2022)
 | Arkvoodle Doodle | 19.00% | ~96 |
 | Die Nasty | 18.00% | ~91 |
 | If You Know What I Mean | 17.00% | ~86 |
-| Ouch of Body Experience | 16.00% | ~80 |
-| Hidden Human Hive Harvest | 16.00% | ~80 |
-| Mash Machine | 16.00% | ~80 |
-| Albion Bridge Is for Falling Down | 15.00% | ~75 |
-| Dusted | 14.00% | ~70 |
+| Ouch of Body Experience | 16.00% | ~81 |
+| Hidden Human Hive Harvest | 16.00% | ~81 |
+| Mash Machine | 16.00% | ~81 |
+| Albion Bridge Is for Falling Down | 14.00% | ~71 |
+| Dusted | 13.00% | ~66 |
 | Higher Than the Futen Zoku | 12.00% | ~60 |
 | Scuttled | 11.00% | ~55 |
 | PK Slam Dunk | 10.00% | ~50 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~10 |
 | Against All Odds | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 358)  
+Progressed: 504 (Ranked 358)  
 Completed: 6 (1.19%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 6 (1.19%) (Ranked 163)
 | 2024-01-12 | 461 | 5 |
 | 2024-01-13 | 480 | 5 |
 | 2024-01-14 | 493 | 5 |
-| 2024-01-15 | 503 | 6 |
+| 2024-01-15 | 504 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -564,6 +564,11 @@
       "Time": "2024-01-15T19:04:56.810768+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T20:05:28.1262227+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -608,7 +613,7 @@
       "Name": "Treasure Finder",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "A_CHESTS_2",
@@ -656,7 +661,7 @@
       "Name": "Evolution",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "A_GOLD_PILES",
@@ -664,7 +669,7 @@
       "Name": "Scrooge",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -672,7 +677,7 @@
       "Name": "Hivespital",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -688,23 +693,23 @@
       "Name": "Bigger Game Hunter",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -728,15 +733,15 @@
       "Name": "We Are All You Need",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_LEVEL",
       "SetID": "324h56e",
       "Name": "Ding!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "A_MEAT meat (0-10000)",
@@ -752,15 +757,15 @@
       "Name": "Always Blame the Healer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_MINERALS minerals (0-2500)",
       "SetID": "324h56e",
       "Name": "Miner",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "A_NOFISH",
@@ -776,7 +781,7 @@
       "Name": "Orb of Wisdom",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "A_POPULATION",
@@ -822,9 +827,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "A_SUN",
@@ -846,9 +851,9 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "A_TURTLES",
@@ -864,7 +869,7 @@
       "Name": "Splat",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_WORKER",
@@ -878,23 +883,23 @@
       "ID": "A_WRAITH",
       "SetID": "324h56e",
       "Name": "So Bright It Burns",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:04:56.8107677+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:05:28.1262223+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:12.5220722+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:04:56.8108015+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:40.3539787+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:05:28.126248+00:00"
 }

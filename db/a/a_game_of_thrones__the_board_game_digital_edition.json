@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1416,9 +1416,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33515,
+  "EOS_Progressed": 33522,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30551,6 +30551,11 @@
       "Time": "2024-01-15T19:09:48.2508665+00:00",
       "NumProgressed": 33515,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-15T20:10:11.963336+00:00",
+      "NumProgressed": 33522,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30594,7 +30599,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "1020",
@@ -30626,7 +30631,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "1024",
@@ -30634,7 +30639,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "1025",
@@ -30650,7 +30655,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "1027",
@@ -30658,7 +30663,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3016
+      "UsersEstimate": 3017
     },
     {
       "ID": "1028",
@@ -30666,7 +30671,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "1029",
@@ -30674,7 +30679,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2681
+      "UsersEstimate": 2682
     },
     {
       "ID": "1030",
@@ -30682,7 +30687,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6368
+      "UsersEstimate": 6369
     },
     {
       "ID": "1031",
@@ -30690,7 +30695,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "1032",
@@ -30698,7 +30703,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13406
+      "UsersEstimate": 13409
     },
     {
       "ID": "1033",
@@ -30714,7 +30719,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "1035",
@@ -30722,7 +30727,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4022
+      "UsersEstimate": 4023
     },
     {
       "ID": "1036",
@@ -30730,22 +30735,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33515,
+      "Progressed": 33522,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-14T15:59:31.8862303+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:48.2508662+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:11.9633356+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:00:00.4020358+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:48.2510112+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:00:42.8476643+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:11.9635001+00:00"
 }

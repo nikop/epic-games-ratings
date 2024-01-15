@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewPlayers": 423,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 314,
+  "EOS_Progressed": 315,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.23,
+  "EOS_Completed_Percentage": 2.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -716,6 +716,11 @@
       "Time": "2024-01-13T13:09:49.9936399+00:00",
       "NumProgressed": 314,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-15T20:08:38.7155199+00:00",
+      "NumProgressed": 315,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -735,7 +740,7 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "deal_or_no_deal",
@@ -743,7 +748,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "hopeful",
@@ -783,7 +788,7 @@
       "Name": "No One Is Safe",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "off_his_meds",
@@ -815,15 +820,15 @@
       "Name": "Personal Life",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "save_dad",
       "SetID": "a3kkelb",
       "Name": "Save Dad",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 72
     },
     {
       "ID": "shady_truth",
@@ -845,9 +850,9 @@
       "ID": "use_your_connections",
       "SetID": "a3kkelb",
       "Name": "Use Your Connections",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 32
     },
     {
       "ID": "will_this_help",
@@ -855,14 +860,14 @@
       "Name": "Will This Help?",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 314,
+      "Progressed": 315,
       "Completed": 7
     }
   ],
@@ -870,8 +875,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:08:21.6534639+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:08:38.7155195+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:12.3594089+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:19.0266305+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:08:21.6534739+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:47.6779424+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:08:38.7155375+00:00"
 }

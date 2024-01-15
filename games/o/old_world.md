@@ -77,12 +77,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~152 |
 | Mighty | 0.90% | ~152 |
 | Good Difficulty | 0.90% | ~152 |
+| Statesmen | 0.90% | ~152 |
 | Temple of Solomon | 0.90% | ~152 |
 | Greece | 0.90% | ~152 |
 | Power to the People | 0.90% | ~152 |
 | Landowners | 0.80% | ~135 |
 | Patrons | 0.80% | ~135 |
-| Statesmen | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
 | Enlightenment | 0.60% | ~101 |
+| Gnosticism | 0.60% | ~101 |
 | Redemption | 0.60% | ~101 |
 | Kushite Cavalry | 0.60% | ~101 |
 | Phalangite | 0.60% | ~101 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.50% | ~84 |
 | Rome | 0.50% | ~84 |
 | Hittite Paganism | 0.50% | ~84 |
-| Gnosticism | 0.50% | ~84 |
 | Revelation | 0.50% | ~84 |
 | Veneration | 0.50% | ~84 |
 | Turreted Elephant | 0.50% | ~84 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,876 (Ranked 169)  
+Progressed: 16,881 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,876 | 5 |
+| 2024-01-15 | 16,881 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

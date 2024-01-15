@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 427,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1043,9 +1043,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "g2",
@@ -1163,9 +1163,9 @@
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "k2",
@@ -1354,8 +1354,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:03:37.475784+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:03:59.640373+00:00",
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.6487143+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:02:53.0859998+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:03:37.4758273+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:03:09.2978055+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:03:59.6404107+00:00"
 }

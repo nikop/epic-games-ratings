@@ -5,7 +5,7 @@
   "Ranking_Rating": 641,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 336,
+  "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 158,
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2365,6 +2365,11 @@
       "Time": "2024-01-15T19:09:54.5731534+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T20:10:18.7666228+00:00",
+      "NumProgressed": 670,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2383,7 +2388,7 @@
       "ID": "AreYouNotEntertained",
       "SetID": "329ak73",
       "Name": "Are You Not Entertained?",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -2407,7 +2412,7 @@
       "ID": "Blademaster",
       "SetID": "329ak73",
       "Name": "Blademaster",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -2423,7 +2428,7 @@
       "ID": "Collector",
       "SetID": "329ak73",
       "Name": "Collector",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -2447,7 +2452,7 @@
       "ID": "FullofHell",
       "SetID": "329ak73",
       "Name": "Full of Hell",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -2455,7 +2460,7 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -2543,7 +2548,7 @@
       "ID": "ReadytoBlow",
       "SetID": "329ak73",
       "Name": "Ready to Blow",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -2551,7 +2556,7 @@
       "ID": "RespectforAnimals",
       "SetID": "329ak73",
       "Name": "Respect For Animals",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -2561,7 +2566,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TheDeadCourt",
@@ -2616,15 +2621,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:54.5731531+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:18.7666224+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:28.2193344+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:57:55.6099369+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:54.5731805+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:21.8447969+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:18.7666488+00:00"
 }

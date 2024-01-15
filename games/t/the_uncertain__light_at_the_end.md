@@ -7,7 +7,7 @@ Rating: 3.86 (Ranked 1,078)
 | ---- | ---------- | ----- |
 | Bundle of Joy | 49.00% | ~331 |
 | A Friend in Need... | 44.00% | ~297 |
-| Bosom Buddies | 30.00% | ~202 |
+| Bosom Buddies | 30.00% | ~203 |
 | Beat the Heat | 23.00% | ~155 |
 | A Familiar Face | 14.00% | ~95 |
 | Does Not Compute | 12.00% | ~81 |
@@ -19,7 +19,7 @@ Rating: 3.86 (Ranked 1,078)
 | U Mad Bro? | 10.00% | ~68 |
 | Short Circuit | 10.00% | ~68 |
 | Catch You Later | 7.00% | ~47 |
-| A Stealthy Outlook | 6.00% | ~40 |
+| A Stealthy Outlook | 6.00% | ~41 |
 | Den Mother | 5.00% | ~34 |
 | Between the Covers | 4.00% | ~27 |
 | Antisocial Club | 4.00% | ~27 |
@@ -35,7 +35,7 @@ Rating: 3.86 (Ranked 1,078)
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675 (Ranked 332)  
+Progressed: 676 (Ranked 332)  
 Completed: 6 (0.89%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.89%) (Ranked 188)
 | 2024-01-12 | 668 | 6 |
 | 2024-01-13 | 670 | 6 |
 | 2024-01-14 | 673 | 6 |
-| 2024-01-15 | 675 | 6 |
+| 2024-01-15 | 676 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

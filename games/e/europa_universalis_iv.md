@@ -257,6 +257,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Six Nations | 0.10% | ~500 |
 | Sleepless in Seattle | 0.10% | ~500 |
 | Sons of Carthage | 0.10% | ~500 |
+| Spaghetti Western | 0.10% | ~500 |
 | Spain is the Emperor | 0.10% | ~500 |
 | Spanish Fly | 0.10% | ~500 |
 | Spice Girls | 0.10% | ~500 |
@@ -365,12 +366,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| Spaghetti Western | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,544 (Ranked 42)  
+Progressed: 499,582 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
-| 2024-01-15 | 499,544 | 1 |
+| 2024-01-15 | 499,582 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
 Sum: 64,731 (Ranked 24)  

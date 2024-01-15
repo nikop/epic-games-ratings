@@ -1,13 +1,13 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 676)  
+Rating: 4.46 (Ranked 675)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,354 |
-| My First Runbow | 50.00% | ~126,749 |
-| It's The Fall | 26.00% | ~65,909 |
+| In The Zone | 53.00% | ~134,356 |
+| My First Runbow | 50.00% | ~126,750 |
+| It's The Fall | 26.00% | ~65,910 |
 | The Stunner | 23.00% | ~58,305 |
 | Be Aggressive | 21.00% | ~53,235 |
 | Curator | 20.00% | ~50,700 |
@@ -30,9 +30,9 @@ Rating: 4.46 (Ranked 676)
 | Just A Bit | 1.00% | ~2,535 |
 | Tubular, Dude | 1.00% | ~2,535 |
 | What A Trip | 1.00% | ~2,535 |
-| Please The King | 0.90% | ~2,281 |
+| Please The King | 0.90% | ~2,282 |
 | Here We Go! | 0.80% | ~2,028 |
-| Clear-Cut | 0.50% | ~1,267 |
+| Clear-Cut | 0.50% | ~1,268 |
 | Breaking Out | 0.40% | ~1,014 |
 | Disposable | 0.40% | ~1,014 |
 | A Winner Is You | 0.20% | ~507 |
@@ -40,19 +40,19 @@ Rating: 4.46 (Ranked 676)
 | I'm Here All Night | 0.20% | ~507 |
 | Ride The Wave | 0.20% | ~507 |
 | Tree Medalist | 0.20% | ~507 |
-| Can't Be Kept Down | 0.10% | ~253 |
-| Completionist | 0.10% | ~253 |
-| Did Your Time | 0.10% | ~253 |
-| Hanging 10 | 0.10% | ~253 |
-| Hard To Stomach | 0.10% | ~253 |
-| Indegestible | 0.10% | ~253 |
-| Lockup Lockdown | 0.10% | ~253 |
-| Not Scared | 0.10% | ~253 |
-| Perfect Darkness | 0.10% | ~253 |
-| Talent Scout | 0.10% | ~253 |
-| True Completionist | 0.10% | ~253 |
+| Can't Be Kept Down | 0.10% | ~254 |
+| Completionist | 0.10% | ~254 |
+| Did Your Time | 0.10% | ~254 |
+| Hanging 10 | 0.10% | ~254 |
+| Hard To Stomach | 0.10% | ~254 |
+| Indegestible | 0.10% | ~254 |
+| Lockup Lockdown | 0.10% | ~254 |
+| Not Scared | 0.10% | ~254 |
+| Perfect Darkness | 0.10% | ~254 |
+| Talent Scout | 0.10% | ~254 |
+| True Completionist | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,498 (Ranked 71)  
+Progressed: 253,501 (Ranked 71)  
 Completed: 6 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 6 (0.00%) (Ranked 401)
 | 2024-01-12 | 253,390 | 6 |
 | 2024-01-13 | 253,431 | 6 |
 | 2024-01-14 | 253,476 | 6 |
-| 2024-01-15 | 253,498 | 6 |
+| 2024-01-15 | 253,501 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

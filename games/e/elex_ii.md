@@ -1,29 +1,29 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.29 (Ranked 885)  
+Rating: 4.29 (Ranked 884)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 44.00% | ~110 |
-| Best Buddy | 39.00% | ~98 |
-| Civilian | 35.00% | ~88 |
-| Role Model | 33.00% | ~83 |
-| Creator | 31.00% | ~78 |
+| Entrepreneur | 44.00% | ~111 |
+| Best Buddy | 39.00% | ~99 |
+| Civilian | 35.00% | ~89 |
+| Role Model | 32.00% | ~81 |
+| Creator | 32.00% | ~81 |
 | Military Leader | 29.00% | ~73 |
-| Festival-goer | 27.00% | ~68 |
+| Festival-goer | 28.00% | ~71 |
 | Peddler | 25.00% | ~63 |
 | Commander | 25.00% | ~63 |
-| Irissa's Fate | 20.00% | ~50 |
-| Long-Haul Flyer | 18.00% | ~45 |
-| Family Reunion | 18.00% | ~45 |
-| Pass A38 | 18.00% | ~45 |
+| Irissa's Fate | 20.00% | ~51 |
+| Long-Haul Flyer | 18.00% | ~46 |
+| Family Reunion | 18.00% | ~46 |
+| Pass A38 | 18.00% | ~46 |
 | Eternal Oblivion | 16.00% | ~40 |
-| Berserker | 14.00% | ~35 |
 | Banker | 13.00% | ~33 |
 | Storyteller | 13.00% | ~33 |
-| Globetrotter | 12.00% | ~30 |
+| Berserker | 13.00% | ~33 |
+| Globetrotter | 11.00% | ~28 |
 | Alb | 11.00% | ~28 |
 | Hunter | 11.00% | ~28 |
 | Lover | 10.00% | ~25 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defender | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251 (Ranked 420)  
+Progressed: 253 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 239 | 0 |
 | 2024-01-13 | 242 | 0 |
 | 2024-01-14 | 249 | 0 |
-| 2024-01-15 | 251 | 0 |
+| 2024-01-15 | 253 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

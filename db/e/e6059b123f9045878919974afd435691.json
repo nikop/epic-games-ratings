@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -4228,9 +4228,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 513
+      "UsersEstimate": 528
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4443,8 +4443,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:10:07.6771355+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:32.7851385+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:41.7147214+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:10:07.6771918+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:59:14.014448+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:32.7852084+00:00"
 }

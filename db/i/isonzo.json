@@ -1087,7 +1087,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9952,
+  "EOS_Progressed": 9953,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -11192,6 +11192,11 @@
       "Time": "2024-01-15T19:09:26.7196353+00:00",
       "NumProgressed": 9952,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-15T20:09:48.7764031+00:00",
+      "NumProgressed": 9953,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11211,7 +11216,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11267,7 +11272,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1990
+      "UsersEstimate": 1991
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11371,7 +11376,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11395,7 +11400,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4478
+      "UsersEstimate": 4479
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11562,7 +11567,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9952,
+      "Progressed": 9953,
       "Completed": 10
     }
   ],
@@ -11570,8 +11575,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:26.7196351+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:09:48.7764027+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:52.5378464+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:26.7197792+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:59:25.9076677+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:09:48.776477+00:00"
 }

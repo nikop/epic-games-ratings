@@ -2,7 +2,7 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 71,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253498,
+  "EOS_Progressed": 253501,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24202,6 +24202,11 @@
       "Time": "2024-01-15T19:09:55.0307707+00:00",
       "NumProgressed": 253498,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T20:10:19.1809519+00:00",
+      "NumProgressed": 253501,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24277,7 +24282,7 @@
       "Name": "Can\u0027t Be Kept Down",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "chanTastic",
@@ -24293,7 +24298,7 @@
       "Name": "Clear-Cut",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "completionist",
@@ -24301,7 +24306,7 @@
       "Name": "Completionist",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "crowningAround",
@@ -24325,7 +24330,7 @@
       "Name": "Did Your Time",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "disposable",
@@ -24349,7 +24354,7 @@
       "Name": "Hanging 10",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "hardToStomach",
@@ -24357,7 +24362,7 @@
       "Name": "Hard To Stomach",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "heWhoLaughsLast",
@@ -24389,7 +24394,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134354
+      "UsersEstimate": 134356
     },
     {
       "ID": "indegestible",
@@ -24397,7 +24402,7 @@
       "Name": "Indegestible",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "intoTheDrift",
@@ -24413,7 +24418,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65909
+      "UsersEstimate": 65910
     },
     {
       "ID": "justABit",
@@ -24437,7 +24442,7 @@
       "Name": "Lockup Lockdown",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "muddyWaters",
@@ -24453,7 +24458,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126749
+      "UsersEstimate": 126750
     },
     {
       "ID": "notScared",
@@ -24461,7 +24466,7 @@
       "Name": "Not Scared",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "perfectDarkness",
@@ -24469,7 +24474,7 @@
       "Name": "Perfect Darkness",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "pleaseTheKing",
@@ -24477,7 +24482,7 @@
       "Name": "Please The King",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "readyFight",
@@ -24509,7 +24514,7 @@
       "Name": "Talent Scout",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "theStunner",
@@ -24549,7 +24554,7 @@
       "Name": "True Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "tubularDude",
@@ -24580,7 +24585,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253498,
+      "Progressed": 253501,
       "Completed": 6
     }
   ],
@@ -24588,8 +24593,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:55.0307705+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:19.1809515+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:57:13.4185304+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:55.0309479+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:57:35.2050247+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:19.1810817+00:00"
 }

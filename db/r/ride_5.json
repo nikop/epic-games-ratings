@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3607,
+  "EOS_Progressed": 3609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8915,6 +8915,11 @@
       "Time": "2024-01-15T18:08:17.1415983+00:00",
       "NumProgressed": 3607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T20:08:15.9723431+00:00",
+      "NumProgressed": 3609,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8927,7 +8932,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8935,7 +8940,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8943,7 +8948,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8959,7 +8964,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -8983,7 +8988,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -8999,7 +9004,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9015,7 +9020,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9127,7 +9132,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -9135,7 +9140,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1623
+      "UsersEstimate": 1624
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9215,7 +9220,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9231,7 +9236,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9279,7 +9284,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9318,7 +9323,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3607,
+      "Progressed": 3609,
       "Completed": 0
     }
   ],
@@ -9326,8 +9331,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:06:09.4459426+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:08:15.9723428+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
   "LastUpdate_Ratings": "2024-01-15T19:00:29.4745655+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:06:09.4460312+00:00"
+  "LastUpdate_Achievements": "2024-01-15T20:08:15.9724388+00:00"
 }

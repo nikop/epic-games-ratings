@@ -7,7 +7,7 @@ Number of Ratings: 67  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mint I | 6.00% | ~40 |
-| Soul Cache | 5.00% | ~33 |
+| Soul Cache | 5.00% | ~34 |
 | Astarte | 2.00% | ~13 |
 | Close the Rift | 2.00% | ~13 |
 | Mammon | 2.00% | ~13 |
@@ -23,21 +23,21 @@ Number of Ratings: 67  (23.09.2022)
 | Mint III | 1.00% | ~7 |
 | Walking Armory | 1.00% | ~7 |
 | Why'd It Have to Be Snakes? | 0.90% | ~6 |
-| Gatekeeper | 0.80% | ~5 |
+| Gatekeeper | 0.70% | ~5 |
 | Wicked Killington | 0.60% | ~4 |
-| Are You Not Entertained? | 0.50% | ~3 |
-| Collector | 0.50% | ~3 |
-| Full of Hell | 0.50% | ~3 |
-| Ready to Blow | 0.50% | ~3 |
+| Are You Not Entertained? | 0.40% | ~3 |
+| Collector | 0.40% | ~3 |
+| Full of Hell | 0.40% | ~3 |
+| Ready to Blow | 0.40% | ~3 |
 | The Promised End | 0.30% | ~2 |
-| Blademaster | 0.20% | ~1 |
-| Respect For Animals | 0.20% | ~1 |
+| Blademaster | 0.10% | ~1 |
+| Respect For Animals | 0.10% | ~1 |
 | Belial | 0.00% | ~0 |
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 336)  
+Progressed: 670 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 623 | 0 |
 | 2024-01-13 | 645 | 0 |
 | 2024-01-14 | 657 | 0 |
-| 2024-01-15 | 666 | 0 |
+| 2024-01-15 | 670 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 475)  
 Sum: 45 (Ranked 523)  

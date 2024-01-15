@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2370,9 +2370,9 @@
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHV_CYBORG",
@@ -2577,8 +2577,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:39.630059+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:10:02.5993814+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:29.1479511+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:39.6300865+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:58.4720627+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:10:02.5994119+00:00"
 }

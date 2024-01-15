@@ -21,7 +21,7 @@ Number of Ratings: 180  (23.09.2022)
 | Transport master | 49.00% | ~1,215 |
 | Cargo hub | 49.00% | ~1,215 |
 | Sculpturer | 46.00% | ~1,141 |
-| Settled down | 44.00% | ~1,091 |
+| Settled down | 45.00% | ~1,116 |
 | First electric train arrived | 43.00% | ~1,066 |
 | Now what? | 43.00% | ~1,066 |
 | First ship arrived | 42.00% | ~1,042 |

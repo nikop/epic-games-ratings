@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2660,9 +2660,9 @@
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 469
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2676,9 +2676,9 @@
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 461
+      "UsersEstimate": 469
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -3005,8 +3005,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-14T23:58:07.1773064+00:00",
-  "LastChanged_Achievements": "2024-01-15T19:09:21.9909673+00:00",
+  "LastChanged_Achievements": "2024-01-15T20:09:43.7533351+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-15T18:58:23.7532618+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:09:21.9910402+00:00"
+  "LastUpdate_Ratings": "2024-01-15T19:58:52.5879563+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:09:43.7534124+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.13 (Ranked 1,017)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 46.00% | ~40,362 |
-| More Power to You | 24.00% | ~21,059 |
-| As Far Away As Possible | 21.00% | ~18,426 |
-| A Most Unstable Organism | 14.00% | ~12,284 |
-| No Time to Follow Protocol | 9.00% | ~7,897 |
-| Nano Connoisseur | 8.00% | ~7,020 |
-| Float Like a Butterfly... | 7.00% | ~6,142 |
-| In Two Places At Once | 6.00% | ~5,265 |
-| Pulling Your Weight | 3.00% | ~2,632 |
-| Reaping Rivals | 3.00% | ~2,632 |
-| fifteenth Time's the Charm | 1.00% | ~877 |
-| Gone Rogue | 1.00% | ~877 |
+| Your Lucky Day | 46.00% | ~40,373 |
+| More Power to You | 24.00% | ~21,064 |
+| As Far Away As Possible | 21.00% | ~18,431 |
+| A Most Unstable Organism | 14.00% | ~12,287 |
+| No Time to Follow Protocol | 9.00% | ~7,899 |
+| Nano Connoisseur | 8.00% | ~7,021 |
+| Float Like a Butterfly... | 7.00% | ~6,144 |
+| In Two Places At Once | 6.00% | ~5,266 |
+| Pulling Your Weight | 3.00% | ~2,633 |
+| Reaping Rivals | 3.00% | ~2,633 |
+| fifteenth Time's the Charm | 1.00% | ~878 |
+| Gone Rogue | 1.00% | ~878 |
 | Completely Customizable | 0.50% | ~439 |
 | Memory Keeper | 0.40% | ~351 |
 | Runs for Your Money | 0.30% | ~263 |
 | Past Master | 0.30% | ~263 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,744 (Ranked 108)  
+Progressed: 87,767 (Ranked 108)  
 Completed: 72 (0.08%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,14 +163,14 @@ Completed: 72 (0.08%) (Ranked 328)
 | 2024-01-12 | 86,671 | 68 |
 | 2024-01-13 | 87,075 | 71 |
 | 2024-01-14 | 87,507 | 71 |
-| 2024-01-15 | 87,744 | 72 |
+| 2024-01-15 | 87,767 | 72 |
 ## Awards
-Max (Great for Beginners): 135  (Ranked 343)  
-Sum: 588 (Ranked 327)  
+Max (Great for Beginners): 136  (Ranked 343)  
+Sum: 589 (Ranked 327)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 135 |
+| This game is Great for Beginners | 136 |
 | This game has Diverse Characters | 92 |
 | This game is Highly Recommended | 68 |
 | This game is Extremely Fun | 67 |
@@ -301,4 +301,4 @@ Diff (max vs sum): 16
 | 2024-01-11 | 4.13 | 135 | 577 |
 | 2024-01-12 | 4.14 | 135 | 582 |
 | 2024-01-13 | 4.13 | 135 | 586 |
-| 2024-01-15 | 4.13 | 135 | 588 |
+| 2024-01-15 | 4.13 | 136 | 589 |

@@ -2,12 +2,12 @@
   "ID": "30f78a567f514a568604e852f5ded591",
   "Name": "True Fear: Forsaken Souls Part 2",
   "ProductSlug": "true-fear-forsaken-souls-part-1-demo-f3c923",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 832,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
+  "Ranking_EOS_NewPlayers": 571,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-20T19:00:00+00:00",
@@ -54,6 +54,6 @@
   "FirstSeenRating": "2023-03-31T05:58:03.0310997+00:00",
   "LastChanged": "2023-06-14T06:00:02.2398842+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:36.7853033+00:00",
-  "LastUpdate_Ratings": "2024-01-15T19:02:40.3703855+00:00",
-  "LastUpdate_Achievements": "2024-01-15T19:05:45.2918691+00:00"
+  "LastUpdate_Ratings": "2024-01-15T20:02:54.7620787+00:00",
+  "LastUpdate_Achievements": "2024-01-15T20:06:19.8719656+00:00"
 }
