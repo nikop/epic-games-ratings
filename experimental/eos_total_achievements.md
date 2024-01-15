@@ -474,6 +474,7 @@
 | [Q.U.B.E. 2](../games/q/q.u.b.e._2.md) | 29 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
 | [The Invincible](../games/t/the_invincible.md) | 29 | 1,000 |
+| [The Story Goes On](../games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 29 | 1,000 |
 | [The Uncertain: Light at the End](../games/t/the_uncertain__light_at_the_end.md) | 29 | 1,000 |
 | [Time Loader](../games/t/time_loader.md) | 29 | 1,000 |
 | [War Hospital](../games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 29 | 1,000 |
