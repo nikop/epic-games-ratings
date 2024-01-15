@@ -24,11 +24,11 @@
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 25 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 18.18% |
-| 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
+| 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.65% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.45% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.44% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -50,12 +50,12 @@
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.56% |
 | 49 | [Smelter](games/s/smelter.md) | 8.51% |
 | 50 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.85% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.55% |
 | 55 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
+| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.54% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.47% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
@@ -77,8 +77,8 @@
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.95% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.80% |
-| 78 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.76% |
+| 79 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
 | 80 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.53% |
 | 81 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.49% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.45% |
@@ -130,7 +130,7 @@
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.44% |
 | 128 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.40% |
-| 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.38% |
+| 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.35% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
 | 134 | [Night Book](games/n/night_book.md) | 2.22% |
@@ -150,7 +150,7 @@
 | 148 | [Sifu](games/s/sifu.md) | 1.71% |
 | 149 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 150 | [Frogun](games/f/frogun.md) | 1.67% |
-| 151 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.54% |
+| 151 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.53% |
 | 152 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.46% |
 | 152 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 154 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
@@ -224,11 +224,11 @@
 | 221 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.52% |
 | 223 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
 | 224 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
+| 224 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
 | 224 | [Haven](games/h/haven.md) | 0.50% |
 | 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.50% |
 | 224 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
-| 228 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.49% |
-| 228 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
+| 229 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
 | 230 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.48% |
 | 231 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 231 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.46% |
@@ -258,12 +258,12 @@
 | 256 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 257 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 257 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 259 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 259 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.30% |
 | 259 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
 | 259 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.30% |
 | 259 | [Train Valley](games/t/train_valley.md) | 0.30% |
-| 263 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
-| 263 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.29% |
+| 264 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 265 | [Filament](games/f/filament.md) | 0.27% |
 | 265 | [GRIME](games/g/grime.md) | 0.27% |
 | 265 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
