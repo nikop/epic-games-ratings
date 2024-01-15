@@ -11,7 +11,7 @@
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.10% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
 | 11 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
-| 11 | [Volley Pals](games/v/volley_pals.md) | 31.03% |
+| 12 | [Volley Pals](games/v/volley_pals.md) | 30.61% |
 | 13 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 27.08% |
 | 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.07% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -28,10 +28,10 @@
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.56% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.55% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.71% |
+| 32 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 14.56% |
 | 33 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 34 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 13.33% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
@@ -43,7 +43,7 @@
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.10% |
 | 42 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 10.00% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.43% |
+| 44 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.41% |
 | 45 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 46 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.34% |
 | 47 | [Smelter](games/s/smelter.md) | 8.51% |
@@ -74,7 +74,7 @@
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.97% |
 | 73 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.76% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.94% |
+| 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.95% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
 | 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.82% |
 | 78 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
@@ -114,7 +114,7 @@
 | 112 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.95% |
 | 113 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.94% |
 | 114 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 115 | [Monster Harvest](games/m/monster_harvest.md) | 2.90% |
+| 115 | [Monster Harvest](games/m/monster_harvest.md) | 2.89% |
 | 116 | [Lamentum](games/l/lamentum.md) | 2.87% |
 | 117 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 118 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
@@ -270,11 +270,11 @@
 | 268 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 268 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 270 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
+| 271 | [Dead Space](games/d/dead_space.md) | 0.24% |
 | 271 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
 | 271 | [Them and Us](games/t/them_and_us.md) | 0.24% |
-| 273 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
-| 273 | [Dead Space](games/d/dead_space.md) | 0.23% |
-| 273 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
+| 274 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
+| 274 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
 | 276 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 276 | [Eternights](games/e/eternights.md) | 0.22% |
 | 276 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
