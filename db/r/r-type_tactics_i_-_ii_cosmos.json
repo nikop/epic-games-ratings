@@ -2,10 +2,10 @@
   "ID": "72af5c0225264cd5a340fc2690c2001b",
   "Name": "R-Type Tactics I - II Cosmos",
   "ProductSlug": "rtype-tactics-i-ii-cosmos-6c4650",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.8472736+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:24.5634064+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:04:17.4497926+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:58:19.6071291+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:04.7502004+00:00"
 }

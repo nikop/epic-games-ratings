@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,405 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,155 |
-| Loose Ends | 33.00% | ~27,327 |
+| First Step Into the Knight | 50.00% | ~41,406 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,156 |
+| Loose Ends | 33.00% | ~27,328 |
 | To the Victor Go the Spoils | 27.00% | ~22,359 |
 | Knighthood | 26.00% | ~21,531 |
-| Get ReQ'd | 24.00% | ~19,874 |
-| Whispered Words | 24.00% | ~19,874 |
-| The Batman Family | 22.00% | ~18,218 |
-| Lock and Key | 22.00% | ~18,218 |
+| Get ReQ'd | 24.00% | ~19,875 |
+| Whispered Words | 24.00% | ~19,875 |
+| The Batman Family | 22.00% | ~18,219 |
+| Lock and Key | 22.00% | ~18,219 |
 | Something in the Clay | 20.00% | ~16,562 |
 | Quartzer Life Crisis | 20.00% | ~16,562 |
 | Working Hard or Harley Working? | 20.00% | ~16,562 |
@@ -25,11 +25,11 @@ Rating: 4.19 (Ranked 975)
 | Protector of Gotham | 16.00% | ~13,250 |
 | In Your Element | 15.00% | ~12,422 |
 | Universal Health Scare | 15.00% | ~12,422 |
-| Rock and a Hard Place | 14.00% | ~11,593 |
-| Cooldown | 14.00% | ~11,593 |
-| Voiceless | 14.00% | ~11,593 |
-| Shock Til They Drop | 13.00% | ~10,765 |
-| Seeking Asylum | 13.00% | ~10,765 |
+| Rock and a Hard Place | 14.00% | ~11,594 |
+| Cooldown | 14.00% | ~11,594 |
+| Voiceless | 14.00% | ~11,594 |
+| Shock Til They Drop | 13.00% | ~10,766 |
+| Seeking Asylum | 13.00% | ~10,766 |
 | End of an Era | 12.00% | ~9,937 |
 | Not On My Watch | 12.00% | ~9,937 |
 | Bulldozed | 12.00% | ~9,937 |
@@ -41,7 +41,7 @@ Rating: 4.19 (Ranked 975)
 | Fusion Expert | 7.00% | ~5,797 |
 | Family Meeting | 6.00% | ~4,969 |
 | A Worthy Successor | 6.00% | ~4,969 |
-| Expert Crime Fighter | 5.00% | ~4,140 |
+| Expert Crime Fighter | 5.00% | ~4,141 |
 | Dressed to Impress | 4.00% | ~3,312 |
 | A Momentum Occasion | 3.00% | ~2,484 |
 | Bat Out of Hell | 3.00% | ~2,484 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 975)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,810 (Ranked 110)  
+Progressed: 82,812 (Ranked 110)  
 Completed: 134 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 134 (0.16%) (Ranked 289)
 | 2024-01-12 | 82,606 | 133 |
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
-| 2024-01-15 | 82,810 | 134 |
+| 2024-01-15 | 82,812 | 134 |
 ## Awards
 Max (Great Boss Battles): 3,204  (Ranked 102)  
 Sum: 5,476 (Ranked 142)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9521,10 +9521,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33501,
       "NumberOfAwardsMax": 5782
+    },
+    {
+      "Time": "2024-01-15T16:57:48.7815867+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33504,
+      "NumberOfAwardsMax": 5782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33501,
+  "NumberOfAwards": 33504,
   "NumberOfAwardsMax": 5782,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9544,7 +9550,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4913
+      "Count": 4916
     },
     {
       "Text": "This game is Relaxing",
@@ -9571,9 +9577,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254052,
+  "EOS_Progressed": 254055,
   "EOS_Completed": 2617,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40221,6 +40227,11 @@
       "Time": "2024-01-15T16:10:54.1195733+00:00",
       "NumProgressed": 254052,
       "NumCompleted": 2617
+    },
+    {
+      "Time": "2024-01-15T17:11:07.9800008+00:00",
+      "NumProgressed": 254055,
+      "NumCompleted": 2617
     }
   ],
   "TotalAchievements": 546,
@@ -44134,9 +44145,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 762
     },
     {
       "ID": "objective_completed_1355",
@@ -44599,21 +44610,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220326,
+      "Progressed": 220329,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254052,
+      "Progressed": 254055,
       "Completed": 2617
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-15T09:57:36.2785841+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:54.1195728+00:00",
+  "LastChanged": "2024-01-15T16:57:48.7815866+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:11:07.9800004+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:00.0239995+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:54.1221978+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:48.7815872+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:11:07.9823219+00:00"
 }

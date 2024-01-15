@@ -1,19 +1,19 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,052)  
+Rating: 4.00 (Ranked 1,053)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,640 |
-| Titan's First Steps | 11.00% | ~16,640 |
+| Sponsored by Argon | 11.00% | ~16,641 |
+| Titan's First Steps | 11.00% | ~16,641 |
 | Basic in Bulk | 10.00% | ~15,128 |
 | Tinkle of Coins | 10.00% | ~15,128 |
-| Disintermediation | 8.00% | ~12,102 |
-| Capitalism Ho! | 8.00% | ~12,102 |
-| It's Free Real Estate | 7.00% | ~10,589 |
-| Budding Merchant | 7.00% | ~10,589 |
+| Disintermediation | 8.00% | ~12,103 |
+| Capitalism Ho! | 8.00% | ~12,103 |
+| It's Free Real Estate | 7.00% | ~10,590 |
+| Budding Merchant | 7.00% | ~10,590 |
 | One Easy Payment | 6.00% | ~9,077 |
 | Some Assembly Required | 6.00% | ~9,077 |
 | Another Satisfied Customer | 6.00% | ~9,077 |
@@ -106,8 +106,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,513 |
 | All or Nothing! | 1.00% | ~1,513 |
 | Eternal Crusade | 1.00% | ~1,513 |
-| The Greatest Grind | 0.90% | ~1,361 |
-| Marvels from the World Over | 0.90% | ~1,361 |
+| The Greatest Grind | 0.90% | ~1,362 |
+| Marvels from the World Over | 0.90% | ~1,362 |
 | Bane of Legends | 0.80% | ~1,210 |
 | Anything not Nailed Down | 0.80% | ~1,210 |
 | Ultimate Collector | 0.70% | ~1,059 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~605 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,277 (Ranked 87)  
+Progressed: 151,282 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 355 (0.23%) (Ranked 273)
 | 2024-01-12 | 150,896 | 350 |
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
-| 2024-01-15 | 151,277 | 355 |
+| 2024-01-15 | 151,282 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 80)  
 Sum: 28,000 (Ranked 52)  

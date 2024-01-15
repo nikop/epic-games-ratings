@@ -2,10 +2,10 @@
   "ID": "46c224873e354d188f8c9ff7e9cfae0a",
   "Name": "Elderand",
   "ProductSlug": "elderand-09e6bc",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-02-16T18:00:00+00:00",
     "PcReleaseDate": "2023-02-16T18:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:20.5288338+00:00",
   "LastChanged": "2023-03-31T05:57:20.5288339+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2873525+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:00:52.5882636+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:04:50.706504+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:01:22.5876921+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:45.2577973+00:00"
 }

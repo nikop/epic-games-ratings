@@ -12,17 +12,17 @@ Number of Ratings: 1,396  (23.09.2022)
 | Constructor | 50.00% | ~7,080 |
 | Renovator | 50.00% | ~7,080 |
 | Bestest Friend | 44.00% | ~6,230 |
-| Banker | 38.00% | ~5,380 |
+| Banker | 38.00% | ~5,381 |
 | Gardener | 30.00% | ~4,248 |
 | Generous | 25.00% | ~3,540 |
 | Chef Cook | 19.00% | ~2,690 |
-| Miner | 11.00% | ~1,557 |
+| Miner | 11.00% | ~1,558 |
 | Duty Bound | 8.00% | ~1,133 |
 | Angler | 6.00% | ~850 |
 | Thorn Cleaner | 6.00% | ~850 |
 | Chit Chatter | 3.00% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,159 (Ranked 176)  
+Progressed: 14,160 (Ranked 176)  
 Completed: 351 (2.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 351 (2.48%) (Ranked 127)
 | 2024-01-12 | 14,085 | 350 |
 | 2024-01-13 | 14,104 | 351 |
 | 2024-01-14 | 14,145 | 351 |
-| 2024-01-15 | 14,159 | 351 |
+| 2024-01-15 | 14,160 | 351 |
 ## Awards
 Max (Great for Beginners): 1,185  (Ranked 151)  
 Sum: 8,407 (Ranked 112)  

@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120103,
+  "EOS_Progressed": 120104,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24972,6 +24972,11 @@
       "Time": "2024-01-15T16:10:43.1316587+00:00",
       "NumProgressed": 120103,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-15T17:10:54.8297502+00:00",
+      "NumProgressed": 120104,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -24991,7 +24996,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92479
+      "UsersEstimate": 92480
     },
     {
       "ID": "EAwards_10",
@@ -25015,7 +25020,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 18015
+      "UsersEstimate": 18016
     },
     {
       "ID": "EAwards_13",
@@ -25079,7 +25084,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58850
+      "UsersEstimate": 58851
     },
     {
       "ID": "EAwards_20",
@@ -25255,7 +25260,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15613
+      "UsersEstimate": 15614
     },
     {
       "ID": "EAwards_40",
@@ -25374,7 +25379,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120103,
+      "Progressed": 120104,
       "Completed": 61
     }
   ],
@@ -25382,8 +25387,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:43.1316581+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:10:54.8297498+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:02.5204719+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:43.1318257+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:52.447991+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:10:54.8298747+00:00"
 }

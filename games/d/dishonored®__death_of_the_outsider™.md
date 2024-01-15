@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 729)  
 ## Awards
 Max (Amazing Storytelling): 55  (Ranked 446)  
-Sum: 429 (Ranked 351)  
-Diff (max vs sum): 95  
+Sum: 431 (Ranked 349)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 55 |
@@ -14,8 +14,8 @@ Diff (max vs sum): 95
 | This game is Great for Beginners | 54 |
 | This game is Highly Recommended | 49 |
 | This game is Extremely Fun | 48 |
-| This game has Amazing Characters | 45 |
-| This game has Quickly Understood Controls | 38 |
+| This game has Amazing Characters | 46 |
+| This game has Quickly Understood Controls | 39 |
 | This game has a Creative Community | 32 |
 | This game has Great Boss Battles | 27 |
 | This game has Unique Visuals | 22 |
@@ -212,4 +212,4 @@ Diff (max vs sum): 95
 | 2024-01-11 | 4.43 | 54 | 423 |
 | 2024-01-13 | 4.43 | 55 | 426 |
 | 2024-01-14 | 4.43 | 55 | 428 |
-| 2024-01-15 | 4.43 | 55 | 429 |
+| 2024-01-15 | 4.43 | 55 | 431 |

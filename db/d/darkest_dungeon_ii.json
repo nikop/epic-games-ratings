@@ -10804,10 +10804,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21658,
       "NumberOfAwardsMax": 8022
+    },
+    {
+      "Time": "2024-01-15T16:58:46.0273397+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21663,
+      "NumberOfAwardsMax": 8022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21658,
+  "NumberOfAwards": 21663,
   "NumberOfAwardsMax": 8022,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10857,7 +10863,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1855
+      "Count": 1860
     },
     {
       "Text": "This game is Relaxing",
@@ -10884,9 +10890,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132899,
+  "EOS_Progressed": 132901,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 716,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39989,6 +39995,11 @@
       "Time": "2024-01-15T16:10:35.1753345+00:00",
       "NumProgressed": 132899,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T17:10:45.3198567+00:00",
+      "NumProgressed": 132901,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40440,7 +40451,7 @@
       "Name": "Eidetic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "run_end_abandon",
@@ -40518,9 +40529,9 @@
       "ID": "altar_of_hope_memory_equip_all_crusader",
       "SetID": "d3bcpc8",
       "Name": "Battle Hardened",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -40631,21 +40642,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132899,
+      "Progressed": 132901,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7768,
+      "Progressed": 7770,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-15T13:58:21.9744509+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:35.175334+00:00",
+  "LastChanged": "2024-01-15T16:58:46.0273396+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:10:45.3198566+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:45.7761725+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:35.175539+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:58:46.0273401+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:10:45.3200476+00:00"
 }

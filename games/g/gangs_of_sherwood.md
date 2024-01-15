@@ -15,7 +15,7 @@
 | Right between the eyes | 40.00% | ~50 |
 | Starry Night | 38.00% | ~47 |
 | Spring Board | 37.00% | ~46 |
-| Locksley's Tears | 34.00% | ~42 |
+| Locksley's Tears | 35.00% | ~43 |
 | Merry Co-operation | 32.00% | ~40 |
 | Rebel Unleashed | 32.00% | ~40 |
 | Assault on the Ram | 23.00% | ~29 |

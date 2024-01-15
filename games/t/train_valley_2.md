@@ -6,40 +6,40 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~316,137 |
-| Full garage | 61.00% | ~264,170 |
-| To the eyeballs! | 51.00% | ~220,863 |
-| Individual delivery | 47.00% | ~203,541 |
-| Non-Stop | 45.00% | ~194,879 |
-| Juggler | 36.00% | ~155,903 |
-| Forgot something | 35.00% | ~151,573 |
-| Close call! | 30.00% | ~129,920 |
-| Get out my way | 28.00% | ~121,258 |
-| Common cause | 26.00% | ~112,597 |
-| Critical care | 26.00% | ~112,597 |
-| Mega-railroad | 23.00% | ~99,605 |
-| Upgrade complete | 23.00% | ~99,605 |
-| Just in time! | 18.00% | ~77,952 |
-| Builder | 17.00% | ~73,621 |
-| Long Haul | 17.00% | ~73,509 |
-| Steam Age | 16.00% | ~69,290 |
-| Multilevel road | 15.00% | ~64,960 |
-| Bridgemania | 14.00% | ~60,629 |
-| Need to think | 14.00% | ~60,629 |
-| The Tortoise | 12.00% | ~51,968 |
-| Beginner | 11.00% | ~47,637 |
-| Without a lunch break | 11.00% | ~47,637 |
-| One way | 10.00% | ~43,306 |
-| Relocation | 10.00% | ~43,306 |
-| Industrial Age | 9.00% | ~38,976 |
+| Dealmaker | 73.00% | ~316,145 |
+| Full garage | 61.00% | ~264,176 |
+| To the eyeballs! | 51.00% | ~220,868 |
+| Individual delivery | 47.00% | ~203,545 |
+| Non-Stop | 45.00% | ~194,884 |
+| Juggler | 36.00% | ~155,907 |
+| Forgot something | 35.00% | ~151,576 |
+| Close call! | 31.00% | ~134,253 |
+| Get out my way | 28.00% | ~121,261 |
+| Common cause | 26.00% | ~112,600 |
+| Critical care | 26.00% | ~112,600 |
+| Mega-railroad | 23.00% | ~99,607 |
+| Upgrade complete | 23.00% | ~99,607 |
+| Just in time! | 18.00% | ~77,954 |
+| Builder | 17.00% | ~73,623 |
+| Long Haul | 17.00% | ~73,511 |
+| Steam Age | 16.00% | ~69,292 |
+| Multilevel road | 15.00% | ~64,961 |
+| Bridgemania | 14.00% | ~60,631 |
+| Need to think | 14.00% | ~60,631 |
+| The Tortoise | 12.00% | ~51,969 |
+| Beginner | 11.00% | ~47,638 |
+| Without a lunch break | 11.00% | ~47,638 |
+| One way | 10.00% | ~43,308 |
+| Relocation | 10.00% | ~43,308 |
+| Industrial Age | 9.00% | ~38,977 |
 | Just One More Valley | 9.00% | ~38,917 |
-| Prick of conscience | 8.00% | ~34,645 |
+| Prick of conscience | 8.00% | ~34,646 |
 | Missed it! | 7.00% | ~30,315 |
 | At the last moment! | 6.00% | ~25,984 |
 | Overseer | 6.00% | ~25,984 |
-| Highlander | 5.00% | ~21,653 |
-| Jewelry accuracy | 5.00% | ~21,653 |
-| Stargazer | 5.00% | ~21,653 |
+| Highlander | 5.00% | ~21,654 |
+| Jewelry accuracy | 5.00% | ~21,654 |
+| Stargazer | 5.00% | ~21,654 |
 | Bridge builder | 4.00% | ~17,323 |
 | Electrical Age | 4.00% | ~17,323 |
 | Engineer | 4.00% | ~17,323 |
@@ -49,13 +49,13 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~12,992 |
 | Sabotage | 3.00% | ~12,992 |
 | Test Batch | 3.00% | ~12,972 |
-| Astronomer | 2.00% | ~8,661 |
-| Innovator | 2.00% | ~8,661 |
-| Lucky vandal | 2.00% | ~8,661 |
-| The Hare | 2.00% | ~8,661 |
-| Vandal | 2.00% | ~8,661 |
-| Will work | 2.00% | ~8,661 |
-| Woodcutter | 2.00% | ~8,661 |
+| Astronomer | 2.00% | ~8,662 |
+| Innovator | 2.00% | ~8,662 |
+| Lucky vandal | 2.00% | ~8,662 |
+| The Hare | 2.00% | ~8,662 |
+| Vandal | 2.00% | ~8,662 |
+| Will work | 2.00% | ~8,662 |
+| Woodcutter | 2.00% | ~8,662 |
 | Occupied! | 2.00% | ~8,648 |
 | Achiever | 1.00% | ~4,331 |
 | Environmental activist | 1.00% | ~4,331 |
@@ -96,8 +96,8 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~432 |
 | World Zapper | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,065 (Ranked 46)  
-Completed: 24 (0.01%) (Ranked 376)  
+Progressed: 433,075 (Ranked 46)  
+Completed: 24 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,10 +328,10 @@ Completed: 24 (0.01%) (Ranked 376)
 | 2024-01-12 | 432,334 | 24 |
 | 2024-01-13 | 432,639 | 24 |
 | 2024-01-14 | 432,946 | 24 |
-| 2024-01-15 | 433,065 | 24 |
+| 2024-01-15 | 433,075 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,055  (Ranked 159)  
-Sum: 2,176 (Ranked 215)  
+Sum: 2,178 (Ranked 215)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -339,7 +339,7 @@ Diff (max vs sum): -56
 | This game is Great for Beginners | 228 |
 | This game has Playful Visuals | 126 |
 | This game is Extremely Fun | 118 |
-| This game is Relaxing | 113 |
+| This game is Relaxing | 115 |
 | This game has Quickly Understood Controls | 112 |
 | This game is Highly Recommended | 104 |
 | This game has Challenging Combat | 92 |
@@ -585,4 +585,4 @@ Diff (max vs sum): -56
 | 2024-01-12 | 4.45 | - | 1,051 | 2,161 |
 | 2024-01-13 | 4.45 | - | 1,051 | 2,168 |
 | 2024-01-14 | 4.45 | - | 1,053 | 2,173 |
-| 2024-01-15 | 4.45 | - | 1,055 | 2,176 |
+| 2024-01-15 | 4.45 | - | 1,055 | 2,178 |

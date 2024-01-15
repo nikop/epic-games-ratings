@@ -2,10 +2,10 @@
   "ID": "d08e61da038041bfb1bd3204e6cef38c",
   "Name": "Tamara In The Forsaken Dungeon",
   "ProductSlug": "tamara-in-the-forsaken-dungeon-81aa5c",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-28T05:00:00+00:00",
     "PcReleaseDate": "2023-11-15T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-02T10:59:09.0764942+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:11.420457+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:59:46.7875416+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:09:03.2571745+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:00:03.1493346+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:08:53.0825045+00:00"
 }

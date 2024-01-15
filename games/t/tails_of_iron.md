@@ -42,8 +42,8 @@ Rating: 4.57 (Ranked 498)
 | Complete Ranger Faction | 0.60% | ~14 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,330 (Ranked 246)  
-Completed: 12 (0.52%) (Ranked 221)  
+Progressed: 2,331 (Ranked 246)  
+Completed: 12 (0.51%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -265,7 +265,7 @@ Completed: 12 (0.52%) (Ranked 221)
 | 2024-01-11 | 2,323 | 12 |
 | 2024-01-13 | 2,325 | 12 |
 | 2024-01-14 | 2,328 | 12 |
-| 2024-01-15 | 2,330 | 12 |
+| 2024-01-15 | 2,331 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

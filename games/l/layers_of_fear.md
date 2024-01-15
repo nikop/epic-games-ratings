@@ -7,7 +7,7 @@
 | Something important | 87.00% | ~284 |
 | A piece of the story | 66.00% | ~216 |
 | It's covered up for a reason | 60.00% | ~196 |
-| Wanderer | 55.00% | ~180 |
+| Wanderer | 56.00% | ~183 |
 | Scraps of love | 52.00% | ~170 |
 | The artist’s impression | 50.00% | ~164 |
 | Do what you have to | 45.00% | ~147 |
@@ -22,10 +22,10 @@
 | A Slice of Life | 13.00% | ~43 |
 | Debut | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
+| Tough conversation | 11.00% | ~36 |
 | First steps | 10.00% | ~33 |
 | Playtime | 10.00% | ~33 |
 | The tragedy unfolds | 10.00% | ~33 |
-| Tough conversation | 10.00% | ~33 |
 | A new way | 9.00% | ~29 |
 | Breaking free | 9.00% | ~29 |
 | Heavy Burden | 8.00% | ~26 |

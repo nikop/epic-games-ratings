@@ -27,6 +27,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ambitious Intent | 0.90% | ~2,187 |
 | Delving Deeper | 0.90% | ~2,187 |
 | R.I.P | 0.90% | ~2,187 |
+| Cold Hearted | 0.90% | ~2,187 |
 | The Bestiary | 0.90% | ~2,187 |
 | What's Yours Is Mine | 0.90% | ~2,187 |
 | C-C-Combo | 0.90% | ~2,187 |
@@ -34,7 +35,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dig Your Own Grave | 0.80% | ~1,944 |
 | Who To Trust? | 0.80% | ~1,944 |
 | Walk It Off | 0.80% | ~1,944 |
-| Cold Hearted | 0.80% | ~1,944 |
 | I Am Overburdened | 0.80% | ~1,944 |
 | Shootout | 0.80% | ~1,944 |
 | Stone Touch | 0.80% | ~1,944 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~4 |
 | Dominant Twin | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,008 (Ranked 74)  
+Progressed: 243,010 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -415,7 +415,7 @@ Completed: 306 (0.13%) (Ranked 302)
 | 2024-01-12 | 242,842 | 305 |
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
-| 2024-01-15 | 243,008 | 306 |
+| 2024-01-15 | 243,010 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,797 (Ranked 90)  

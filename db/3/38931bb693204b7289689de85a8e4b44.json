@@ -2,10 +2,10 @@
   "ID": "38931bb693204b7289689de85a8e4b44",
   "Name": "Quiplash 2 InterLASHional",
   "ProductSlug": "quiplash-2-interlashional-3c3888",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2024-01-11T00:00:00+00:00",
     "PcReleaseDate": "2020-04-08T07:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T18:03:22.1751436+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:06:34.4038828+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:06:50.0248183+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:05.5572675+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:00:13.8760559+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:06:34.4038872+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:00:35.5519967+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:06:50.024821+00:00"
 }

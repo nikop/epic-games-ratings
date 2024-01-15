@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 405,
+  "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -855,6 +855,11 @@
       "Time": "2024-01-15T16:04:20.5120992+00:00",
       "NumProgressed": 300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T17:04:08.5379663+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -904,9 +909,9 @@
       "ID": "choking_hazzard",
       "SetID": "3j2phem",
       "Name": "Choking Hazard",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 129
     },
     {
       "ID": "dodgy_geezer",
@@ -1105,7 +1110,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
@@ -1113,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:04:20.5120988+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:04:08.5379659+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:33.033911+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:11.64961+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:04:20.5121426+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:58:03.6789725+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:08.5380105+00:00"
 }

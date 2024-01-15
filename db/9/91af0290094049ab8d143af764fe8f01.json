@@ -2,10 +2,10 @@
   "ID": "91af0290094049ab8d143af764fe8f01",
   "Name": "Travel Cuisine Collector\u0027s Edition",
   "ProductSlug": "travel-cuisine-collectors-edition-f24880",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2024-01-11T21:00:00+00:00",
     "PcReleaseDate": "2023-05-23T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-12T23:58:43.3517169+00:00",
   "LastUpdate_AppInfo": "2024-01-09T06:57:18.9773298+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:00:00.4455428+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:08:50.9126572+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:00:20.2176193+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:08:38.0381163+00:00"
 }

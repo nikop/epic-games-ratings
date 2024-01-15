@@ -6,7 +6,7 @@ Rating: 3.33 (Ranked 1,104)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's Good to have Allies | 28.00% | ~630 |
-| Defenses Online | 25.00% | ~562 |
+| Defenses Online | 25.00% | ~563 |
 | Facility Online | 20.00% | ~450 |
 | Corporal | 15.00% | ~338 |
 | Sergeant | 12.00% | ~270 |
@@ -15,8 +15,8 @@ Rating: 3.33 (Ranked 1,104)
 | Getting Deployment | 10.00% | ~225 |
 | Stocking Up | 10.00% | ~225 |
 | On Target | 10.00% | ~225 |
-| Keeping Busy | 9.00% | ~202 |
-| Infantry Reporting | 9.00% | ~202 |
+| Keeping Busy | 9.00% | ~203 |
+| Infantry Reporting | 9.00% | ~203 |
 | Exterminator | 8.00% | ~180 |
 | Fighting for Survival | 8.00% | ~180 |
 | Silver Competitor | 8.00% | ~180 |
@@ -26,8 +26,8 @@ Rating: 3.33 (Ranked 1,104)
 | Silver Achiever | 6.00% | ~135 |
 | Moving On Up | 6.00% | ~135 |
 | Brothers in Arms | 6.00% | ~135 |
-| Player Betrayer | 5.00% | ~112 |
-| Major | 5.00% | ~112 |
+| Player Betrayer | 5.00% | ~113 |
+| Major | 5.00% | ~113 |
 | Gold Achiever | 4.00% | ~90 |
 | Resourceful | 4.00% | ~90 |
 | Advanced Warfare | 3.00% | ~68 |
@@ -36,15 +36,15 @@ Rating: 3.33 (Ranked 1,104)
 | Control the Skies | 3.00% | ~68 |
 | General | 2.00% | ~45 |
 | Seek & Destroy | 2.00% | ~45 |
-| Advanced Interceptors | 1.00% | ~22 |
-| Titan Tanks | 1.00% | ~22 |
-| Shock Troops | 1.00% | ~22 |
+| Advanced Interceptors | 1.00% | ~23 |
+| Titan Tanks | 1.00% | ~23 |
+| Shock Troops | 1.00% | ~23 |
 | Jet Troops | 0.80% | ~18 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,250 (Ranked 248)  
+Progressed: 2,251 (Ranked 248)  
 Completed: 1 (0.04%) (Ranked 353)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 1 (0.04%) (Ranked 353)
 | 2024-01-12 | 2,227 | 1 |
 | 2024-01-13 | 2,237 | 1 |
 | 2024-01-14 | 2,246 | 1 |
-| 2024-01-15 | 2,250 | 1 |
+| 2024-01-15 | 2,251 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

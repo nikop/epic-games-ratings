@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2293,9 +2293,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 295282,
+  "EOS_Progressed": 295291,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2140,
+  "EOS_NewPlayers": 2125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33308,6 +33308,11 @@
       "Time": "2024-01-15T16:05:02.5824031+00:00",
       "NumProgressed": 295282,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T17:04:59.6322611+00:00",
+      "NumProgressed": 295291,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -33437,9 +33442,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "83b4cpd",
       "Name": "Ready Steady Score",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1772
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -33543,7 +33548,7 @@
       "Name": "Ball Launched",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11811
+      "UsersEstimate": 11812
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -33630,21 +33635,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 295282,
+      "Progressed": 295291,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 13441,
+      "Progressed": 13450,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-11T21:04:08.3674975+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:05:02.5824027+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:04:59.6322609+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.2652437+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:04:06.5714657+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:05:02.5826109+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:03:51.4062521+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:59.6323928+00:00"
 }

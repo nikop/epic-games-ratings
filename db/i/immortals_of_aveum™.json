@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3456,
+  "EOS_Progressed": 3457,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5621,6 +5621,11 @@
       "Time": "2024-01-15T16:10:39.5119637+00:00",
       "NumProgressed": 3456,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T17:10:50.5418956+00:00",
+      "NumProgressed": 3457,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5633,7 +5638,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3076
+      "UsersEstimate": 3077
     },
     {
       "ID": "achievement_10",
@@ -5641,7 +5646,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "achievement_11",
@@ -5681,7 +5686,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_16",
@@ -5689,7 +5694,7 @@
       "Name": "Recruit",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_17",
@@ -5721,7 +5726,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "achievement_20",
@@ -5777,15 +5782,15 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 449
+      "UsersEstimate": 415
     },
     {
       "ID": "achievement_37",
@@ -5809,7 +5814,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "achievement_41",
@@ -5865,7 +5870,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "achievement_49",
@@ -5881,7 +5886,7 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1382
+      "UsersEstimate": 1383
     },
     {
       "ID": "achievement_50",
@@ -5929,7 +5934,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "achievement_60",
@@ -5977,7 +5982,7 @@
       "Name": "Good Boy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_7",
@@ -6008,7 +6013,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3456,
+      "Progressed": 3457,
       "Completed": 5
     }
   ],
@@ -6016,8 +6021,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-15T10:57:33.8717079+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:39.5119632+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:10:50.5418954+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:57:52.9015899+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:39.5120649+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:39.9715355+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:10:50.5419507+00:00"
 }

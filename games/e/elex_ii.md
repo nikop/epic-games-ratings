@@ -36,11 +36,11 @@ Number of Ratings: 124  (23.09.2022)
 | Weaponsmith | 6.00% | ~15 |
 | Cleric | 6.00% | ~15 |
 | Alchemist | 5.00% | ~13 |
+| Self-Sufficient | 4.00% | ~10 |
 | Unbreakable | 4.00% | ~10 |
-| Self-Sufficient | 3.00% | ~8 |
+| Idealist | 3.00% | ~8 |
 | Morkon | 3.00% | ~8 |
 | Legendary | 3.00% | ~8 |
-| Idealist | 2.00% | ~5 |
 | Toy Time | 2.00% | ~5 |
 | Defector | 2.00% | ~5 |
 | Destroyer | 2.00% | ~5 |

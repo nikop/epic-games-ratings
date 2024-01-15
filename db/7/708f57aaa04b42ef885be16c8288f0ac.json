@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14916,
+  "EOS_Progressed": 14917,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 747,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10493,6 +10493,11 @@
       "Time": "2024-01-15T15:10:21.1204434+00:00",
       "NumProgressed": 14916,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-15T17:10:52.7025931+00:00",
+      "NumProgressed": 14917,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10561,7 +10566,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "FasterThanLight",
@@ -10585,7 +10590,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "GarbageMan",
@@ -10609,7 +10614,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10673,7 +10678,7 @@
       "Name": "One-Star Man",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ScorchSquad",
@@ -10737,7 +10742,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10776,7 +10781,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14916,
+      "Progressed": 14917,
       "Completed": 27
     }
   ],
@@ -10784,8 +10789,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:41.0995047+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:10:52.7025928+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:59:48.9904312+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:41.099579+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:00:05.0447862+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:10:52.7026651+00:00"
 }

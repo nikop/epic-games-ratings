@@ -47,7 +47,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hands-On Research | 0.70% | ~27 |
 | Exercise in Restraint | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
-| Reign of Confusion | 0.50% | ~20 |
+| Reign of Confusion | 0.60% | ~23 |
 | Abomination | 0.50% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~20 |
 | Deadshot | 0.40% | ~16 |

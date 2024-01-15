@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5429,
+  "EOS_Progressed": 5430,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5315,6 +5315,11 @@
       "Time": "2024-01-15T13:09:11.1896455+00:00",
       "NumProgressed": 5429,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-15T17:04:05.6582426+00:00",
+      "NumProgressed": 5430,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5326,7 +5331,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5350,7 +5355,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -5374,7 +5379,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5382,7 +5387,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5390,7 +5395,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5398,7 +5403,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5422,7 +5427,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -5446,7 +5451,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -5502,7 +5507,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -5510,7 +5515,7 @@
       "Name": "Core Power",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -5542,7 +5547,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5582,7 +5587,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -5766,7 +5771,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -5861,15 +5866,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5429,
+      "Progressed": 5430,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:04:18.2230531+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:04:05.6582422+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:57:47.2579955+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:04:18.2231668+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:32.8087559+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:05.6583403+00:00"
 }

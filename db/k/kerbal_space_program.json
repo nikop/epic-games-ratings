@@ -5,10 +5,10 @@
   "Ranking_Rating": 100,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 119,
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -8383,10 +8383,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7855,
       "NumberOfAwardsMax": 1332
+    },
+    {
+      "Time": "2024-01-15T17:00:01.3812777+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7861,
+      "NumberOfAwardsMax": 1332
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7855,
+  "NumberOfAwards": 7861,
   "NumberOfAwardsMax": 1332,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -8394,7 +8400,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1135
+      "Count": 1139
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8424,7 +8430,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 959
+      "Count": 961
     },
     {
       "Text": "This game has a Creative Community",
@@ -8451,8 +8457,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2024-01-15T04:58:52.2847467+00:00",
+  "LastChanged": "2024-01-15T17:00:01.3812776+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:25.156618+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:59:45.3503705+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:08:59.3549194+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:00:01.3812781+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:08:48.3616635+00:00"
 }

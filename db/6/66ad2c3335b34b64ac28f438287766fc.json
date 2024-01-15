@@ -2,10 +2,10 @@
   "ID": "66ad2c3335b34b64ac28f438287766fc",
   "Name": "TACTICAL BANDITS",
   "ProductSlug": "tactical-bandits-0a6961",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T06:57:05.5414729+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:59:55.3670536+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:07:24.7812243+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:00:13.5284829+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:08:19.4959486+00:00"
 }

@@ -19,8 +19,8 @@ Rating: 4.38 (Ranked 797)
 | Seal Breaker | 32.00% | ~242 |
 | Handyman | 28.00% | ~211 |
 | Giant Lizard Killer | 27.00% | ~204 |
-| Guardian | 25.00% | ~189 |
-| Nosebleeder | 25.00% | ~189 |
+| Guardian | 26.00% | ~196 |
+| Nosebleeder | 26.00% | ~196 |
 | Trader | 22.00% | ~166 |
 | Weapon Boost | 21.00% | ~159 |
 | Flying Kobold Killer | 19.00% | ~143 |

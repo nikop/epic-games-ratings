@@ -20,15 +20,15 @@
 | Crimson rivers | 15.00% | ~12 |
 | Vene, vidi, vici | 14.00% | ~11 |
 | Rage | 14.00% | ~11 |
+| Trial by cold | 14.00% | ~11 |
 | Berkanan Borgia | 13.00% | ~10 |
-| Trial by cold | 13.00% | ~10 |
 | For the greater good | 9.00% | ~7 |
 | The champion of the arena | 9.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
+| Stronger than Gellian steel | 8.00% | ~6 |
 | Punish the Punisher | 8.00% | ~6 |
 | The End | 8.00% | ~6 |
 | Collector | 6.00% | ~5 |
-| Stronger than Gellian steel | 6.00% | ~5 |
 | Protect the Healer! | 6.00% | ~5 |
 | Cunning plan | 6.00% | ~5 |
 | The best apprentice | 5.00% | ~4 |

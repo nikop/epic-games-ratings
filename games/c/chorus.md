@@ -15,7 +15,7 @@ Number of Ratings: 58  (23.09.2022)
 | Helping Hand | 65.00% | ~925 |
 | Safe Home | 64.00% | ~911 |
 | Paragon | 60.00% | ~854 |
-| Old Days Born Anew | 58.00% | ~825 |
+| Old Days Born Anew | 59.00% | ~840 |
 | Full Arsenal | 54.00% | ~768 |
 | Controlled Demolition | 53.00% | ~754 |
 | Payback | 50.00% | ~712 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,423 (Ranked 274)  
-Completed: 19 (1.34%) (Ranked 156)  
+Completed: 19 (1.34%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

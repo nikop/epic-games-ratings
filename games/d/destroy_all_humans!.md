@@ -7,15 +7,15 @@ Number of Ratings: 85  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shop Til They Drop | 77.00% | ~387 |
-| Kaijuiced | 71.00% | ~356 |
-| Lie Back and Think of Albion | 66.00% | ~331 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~316 |
-| I Look Up As I Walk to Takoshima | 61.00% | ~306 |
-| Yettisoned | 59.00% | ~296 |
-| Perfect Probulator | 58.00% | ~291 |
-| Pimp My Raid | 57.00% | ~286 |
-| Lobster Blisque | 52.00% | ~261 |
-| Fly Me to the Moon Base | 51.00% | ~256 |
+| Kaijuiced | 71.00% | ~357 |
+| Lie Back and Think of Albion | 66.00% | ~332 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~317 |
+| I Look Up As I Walk to Takoshima | 61.00% | ~307 |
+| Yettisoned | 59.00% | ~297 |
+| Perfect Probulator | 58.00% | ~292 |
+| Pimp My Raid | 57.00% | ~287 |
+| Lobster Blisque | 52.00% | ~262 |
+| Fly Me to the Moon Base | 51.00% | ~257 |
 | Earthly Pleasures | 48.00% | ~241 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~236 |
 | Forbidden Donut | 37.00% | ~186 |
@@ -26,10 +26,10 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 29.00% | ~146 |
 | Rock of the Bay | 28.00% | ~141 |
 | Trans-Siberian Express | 26.00% | ~131 |
-| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~105 |
-| Arkvoodle Doodle | 19.00% | ~95 |
-| Die Nasty | 18.00% | ~90 |
-| If You Know What I Mean | 17.00% | ~85 |
+| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~106 |
+| Arkvoodle Doodle | 19.00% | ~96 |
+| Die Nasty | 18.00% | ~91 |
+| If You Know What I Mean | 17.00% | ~86 |
 | Ouch of Body Experience | 16.00% | ~80 |
 | Hidden Human Hive Harvest | 16.00% | ~80 |
 | Mash Machine | 16.00% | ~80 |
@@ -47,8 +47,8 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~10 |
 | Against All Odds | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502 (Ranked 358)  
-Completed: 6 (1.20%) (Ranked 161)  
+Progressed: 503 (Ranked 358)  
+Completed: 6 (1.19%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,7 +80,7 @@ Completed: 6 (1.20%) (Ranked 161)
 | 2024-01-12 | 461 | 5 |
 | 2024-01-13 | 480 | 5 |
 | 2024-01-14 | 493 | 5 |
-| 2024-01-15 | 502 | 6 |
+| 2024-01-15 | 503 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 505)  
 Sum: 35 (Ranked 536)  

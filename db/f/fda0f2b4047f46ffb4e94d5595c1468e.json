@@ -6,8 +6,8 @@
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5193,9 +5193,9 @@
       "Count": 624
     }
   ],
-  "EOS_Progressed": 23870,
+  "EOS_Progressed": 23871,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1332,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16603,6 +16603,11 @@
       "Time": "2024-01-15T16:09:19.77336+00:00",
       "NumProgressed": 23870,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T17:09:12.7463637+00:00",
+      "NumProgressed": 23871,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16655,7 +16660,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 15993
+      "UsersEstimate": 15994
     },
     {
       "ID": "ach07",
@@ -16671,7 +16676,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "ach09",
@@ -16679,7 +16684,7 @@
       "Name": "Kontender",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "ach10",
@@ -16799,7 +16804,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6922
+      "UsersEstimate": 6923
     },
     {
       "ID": "ach25",
@@ -16855,7 +16860,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5251
+      "UsersEstimate": 5252
     },
     {
       "ID": "ach32",
@@ -16903,7 +16908,7 @@
       "Name": "ABACABB",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 10980
+      "UsersEstimate": 10981
     },
     {
       "ID": "ach38",
@@ -16919,7 +16924,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "ach40",
@@ -16951,7 +16956,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7638
+      "UsersEstimate": 7639
     },
     {
       "ID": "ach44",
@@ -17014,7 +17019,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23870,
+      "Progressed": 23871,
       "Completed": 2
     }
   ],
@@ -17022,8 +17027,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-15T16:03:37.1500541+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:09:19.7733595+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:09:12.7463634+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:03:37.1500547+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:09:19.7734529+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:03:14.531773+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:09:12.746462+00:00"
 }

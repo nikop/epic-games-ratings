@@ -73,9 +73,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Life Well Lived | 0.60% | ~797 |
 | Bacon Bits | 0.60% | ~797 |
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
-| Eidetic | 0.50% | ~664 |
+| Eidetic | 0.50% | ~665 |
+| Battle Hardened | 0.50% | ~39 |
 | Tears in the Rain | 0.40% | ~532 |
-| Battle Hardened | 0.40% | ~31 |
 | Maître De La Lame | 0.40% | ~31 |
 | Grand Slam | 0.30% | ~399 |
 | Circle of Life | 0.20% | ~266 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,899 (Ranked 92)  
+Progressed: 132,901 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,15 +346,15 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,899 | 4 |
+| 2024-01-15 | 132,901 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
-Sum: 21,658 (Ranked 58)  
+Sum: 21,663 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,022 |
-| This game has Diverse Characters | 1,855 |
+| This game has Diverse Characters | 1,860 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,607 |
 | This game has Amazing Characters | 1,535 |
@@ -720,4 +720,4 @@ Diff (max vs sum): -7
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
-| 2024-01-15 | 4.68 | - | 8,022 | 21,658 |
+| 2024-01-15 | 4.68 | - | 8,022 | 21,663 |

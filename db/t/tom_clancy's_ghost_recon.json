@@ -2,10 +2,10 @@
   "ID": "acf914daf6034292a207051e3287f1c0",
   "Name": "Tom Clancy\u0027s Ghost Recon",
   "ProductSlug": "ghost-recon",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-03-09T19:00:00+00:00",
     "PcReleaseDate": "2023-03-09T19:00:00+00:00",
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-08T21:57:49.6225456+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:29.8835398+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:01:07.6558274+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:03.4379972+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:02:39.9394772+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:10:06.5815706+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -635,10 +635,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 110957,
+  "EOS_Progressed": 110959,
   "EOS_Completed": 1131,
-  "EOS_NewPlayers": 1086,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 1079,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
@@ -31725,6 +31725,11 @@
       "Time": "2024-01-15T16:10:44.1133589+00:00",
       "NumProgressed": 110957,
       "NumCompleted": 1131
+    },
+    {
+      "Time": "2024-01-15T17:10:56.1928924+00:00",
+      "NumProgressed": 110959,
+      "NumCompleted": 1131
     }
   ],
   "TotalAchievements": 56,
@@ -31736,7 +31741,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 35506
+      "UsersEstimate": 35507
     },
     {
       "ID": "ach_001_game_complete",
@@ -31792,7 +31797,7 @@
       "Name": "The Climber Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "ach_008_entertainer_mask",
@@ -31824,7 +31829,7 @@
       "Name": "The Merchant Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "ach_012_cartographers_mask",
@@ -31856,7 +31861,7 @@
       "Name": "Honorary Chum",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "ach_016_door_dunboyne",
@@ -31944,7 +31949,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 27739
+      "UsersEstimate": 27740
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -31960,7 +31965,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14424
+      "UsersEstimate": 14425
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -32048,7 +32053,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 37725
+      "UsersEstimate": 37726
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -32056,7 +32061,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 27739
+      "UsersEstimate": 27740
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -32088,7 +32093,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 19972
+      "UsersEstimate": 19973
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -32096,7 +32101,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 14424
+      "UsersEstimate": 14425
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -32104,7 +32109,7 @@
       "Name": "Bikes Don\u0027t Fly",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 6657
+      "UsersEstimate": 6658
     },
     {
       "ID": "ach_047_drive_long_distance",
@@ -32152,7 +32157,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14424
+      "UsersEstimate": 14425
     },
     {
       "ID": "ach_053_angler_mask",
@@ -32183,15 +32188,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 110957,
+      "Progressed": 110959,
       "Completed": 1131
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-14T22:59:00.5442398+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:44.1133585+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:10:56.1928919+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.3687916+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:59:42.5255027+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:44.1135913+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:59:57.7851088+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:10:56.1930508+00:00"
 }

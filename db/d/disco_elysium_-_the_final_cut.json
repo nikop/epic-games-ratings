@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1688,9 +1688,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139288,
+  "EOS_Progressed": 139290,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1044,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28648,6 +28648,11 @@
       "Time": "2024-01-15T16:09:22.73088+00:00",
       "NumProgressed": 139288,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-15T17:09:16.1464003+00:00",
+      "NumProgressed": 139290,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28715,7 +28720,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32036
+      "UsersEstimate": 32037
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28787,7 +28792,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18107
+      "UsersEstimate": 18108
     },
     {
       "ID": "ACH_COP_STAR",
@@ -28795,7 +28800,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20893
+      "UsersEstimate": 20894
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -28875,7 +28880,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19500
+      "UsersEstimate": 19501
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -28939,7 +28944,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19500
+      "UsersEstimate": 19501
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -28978,15 +28983,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139288,
+      "Progressed": 139290,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-13T16:57:22.8198746+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:09:22.7308796+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:09:16.1464001+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:34.1160602+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:09:22.7310932+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:58:31.1265657+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:09:16.1465319+00:00"
 }

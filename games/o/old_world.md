@@ -99,6 +99,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.70% | ~118 |
 | Via Recta Souk | 0.70% | ~118 |
 | Learn to Play 4 | 0.70% | ~118 |
+| Assyrian Paganism | 0.70% | ~118 |
 | Economic Reform | 0.70% | ~118 |
 | Military Prestige | 0.70% | ~118 |
 | Legalism | 0.70% | ~118 |
@@ -107,11 +108,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
+| Lion | 0.60% | ~101 |
 | Ready | 0.60% | ~101 |
 | Strong Difficulty | 0.60% | ~101 |
 | Hunters | 0.60% | ~101 |
 | Babylonia | 0.60% | ~101 |
-| Assyrian Paganism | 0.60% | ~101 |
 | Industrial Progress | 0.60% | ~101 |
 | Enlightenment | 0.60% | ~101 |
 | Redemption | 0.60% | ~101 |
@@ -119,7 +120,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.60% | ~101 |
 | Kushite Pyramids | 0.60% | ~101 |
 | Devout | 0.50% | ~84 |
-| Lion | 0.50% | ~84 |
 | Peacemaker | 0.50% | ~84 |
 | Clerics | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.20% | ~34 |
 | Beja Archer | 0.20% | ~34 |
 | Al Khazneh | 0.20% | ~34 |
+| Colosseum | 0.20% | ~34 |
 | Cothon | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
@@ -313,7 +314,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.10% | ~17 |
 | Cothon in Carthago | 0.10% | ~17 |
 | Yazilikaya in Hattusa | 0.10% | ~17 |
-| Colosseum | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,866 (Ranked 169)  
+Progressed: 16,867 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,866 | 5 |
+| 2024-01-15 | 16,867 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

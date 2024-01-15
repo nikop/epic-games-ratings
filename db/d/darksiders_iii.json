@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -492,9 +492,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 608,
+  "EOS_Progressed": 609,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2267,6 +2267,11 @@
       "Time": "2024-01-15T16:04:43.2376243+00:00",
       "NumProgressed": 608,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T17:04:36.3132758+00:00",
+      "NumProgressed": 609,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2309,9 +2314,9 @@
       "ID": "Collect_Artifact_Angel_50",
       "SetID": "7a5k76n",
       "Name": "Holy Keeper",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 67
     },
     {
       "ID": "Collect_Artifact_Demon_50",
@@ -2327,7 +2332,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2335,7 +2340,7 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -2383,7 +2388,7 @@
       "Name": "Freeze Frame",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -2413,9 +2418,9 @@
       "ID": "Collect_PickUp_500",
       "SetID": "7a5k76n",
       "Name": "Cleanup Crew",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 146
     },
     {
       "ID": "Collect_Soulmulet",
@@ -2431,15 +2436,15 @@
       "Name": "Salvation",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -2455,7 +2460,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2471,7 +2476,7 @@
       "Name": "My Evil Twin",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Crucible_Wave_100",
@@ -2599,7 +2604,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2631,15 +2636,15 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 189
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -2661,9 +2666,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 250
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2687,7 +2692,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "Save_Humans_10",
@@ -2719,7 +2724,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2727,7 +2732,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -2735,15 +2740,15 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 237
+      "UsersEstimate": 244
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2790,15 +2795,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 608,
+      "Progressed": 609,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:04:43.2376239+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:04:36.3132755+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-15T16:03:20.3046322+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:04:43.2376806+00:00"
+  "LastUpdate_Ratings": "2024-01-15T17:02:54.6166265+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:36.3133302+00:00"
 }

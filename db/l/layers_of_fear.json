@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1845,9 +1845,9 @@
       "ID": "tough_conversation",
       "SetID": "f2im8d",
       "Name": "Tough conversation",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "true_reflection",
@@ -1869,9 +1869,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 183
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1892,8 +1892,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:09:34.4519186+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:09:29.7993819+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:57:59.0460653+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:09:34.4519601+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:47.6329589+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:09:29.7994371+00:00"
 }

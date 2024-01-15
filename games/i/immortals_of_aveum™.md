@@ -5,30 +5,30 @@ Rating: 4.18 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,076 |
-| Battlefields Have Memories | 81.00% | ~2,799 |
-| Enlisted | 75.00% | ~2,592 |
-| Maybe Engage a Little | 70.00% | ~2,419 |
-| No More Names | 54.00% | ~1,866 |
-| Initiate | 40.00% | ~1,382 |
-| Thrada-Kul | 36.00% | ~1,244 |
+| Unforeseen | 89.00% | ~3,077 |
+| Battlefields Have Memories | 81.00% | ~2,800 |
+| Enlisted | 75.00% | ~2,593 |
+| Maybe Engage a Little | 70.00% | ~2,420 |
+| No More Names | 54.00% | ~1,867 |
+| Initiate | 40.00% | ~1,383 |
+| Thrada-Kul | 36.00% | ~1,245 |
 | Gravity-Challenged Rocks | 30.00% | ~1,037 |
 | Soldier | 26.00% | ~899 |
 | Socialite | 25.00% | ~864 |
 | All the Major Food Groups | 25.00% | ~864 |
 | Beggars Would Ride | 23.00% | ~795 |
-| Control is an Illusion | 22.00% | ~760 |
+| Control is an Illusion | 22.00% | ~761 |
 | The Means to Save It | 19.00% | ~657 |
 | Resilience to Sin | 18.00% | ~622 |
 | A Familiar Nest | 17.00% | ~588 |
 | Periapt Alizarin | 17.00% | ~588 |
 | Geas Aristeya | 16.00% | ~553 |
-| A Perfect Cycle | 15.00% | ~518 |
-| Recruit | 15.00% | ~518 |
-| Armsman | 13.00% | ~449 |
+| A Perfect Cycle | 15.00% | ~519 |
+| Recruit | 15.00% | ~519 |
+| Armsman | 12.00% | ~415 |
 | Lights Army | 11.00% | ~380 |
 | Periapt Cerulean | 9.00% | ~311 |
-| Good Boy | 8.00% | ~276 |
+| Good Boy | 8.00% | ~277 |
 | Periapt Viridian | 7.00% | ~242 |
 | Best Dressed | 6.00% | ~207 |
 | Shroudfane Explorer | 6.00% | ~207 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 984)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,456 (Ranked 229)  
+Progressed: 3,457 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,7 +162,7 @@ Completed: 5 (0.14%) (Ranked 298)
 | 2024-01-12 | 3,375 | 4 |
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
-| 2024-01-15 | 3,456 | 5 |
+| 2024-01-15 | 3,457 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1507,7 +1507,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260683,
+  "EOS_Progressed": 260684,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
@@ -27317,6 +27317,11 @@
       "Time": "2024-01-15T15:05:00.8170238+00:00",
       "NumProgressed": 260683,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T17:05:50.1116616+00:00",
+      "NumProgressed": 260684,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27440,7 +27445,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7820
+      "UsersEstimate": 7821
     },
     {
       "ID": "CreditLevel3",
@@ -27568,7 +27573,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7820
+      "UsersEstimate": 7821
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -27600,7 +27605,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7820
+      "UsersEstimate": 7821
     },
     {
       "ID": "KillOtherWithMine",
@@ -27624,7 +27629,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7820
+      "UsersEstimate": 7821
     },
     {
       "ID": "KillOthers3",
@@ -27775,7 +27780,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260683,
+      "Progressed": 260684,
       "Completed": 3
     }
   ],
@@ -27783,8 +27788,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-15T13:03:04.4373001+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:05:44.2491941+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:05:50.1116612+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:57:45.2315911+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:05:44.2493498+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:31.3285883+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:05:50.1117998+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "rayman-legends",
   "Ranking_Rating": 83,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 355,
-  "Ranking_EOS_Progress": 830,
+  "Ranking_PopularitySum": 354,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2019-11-29T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -1357,6 +1357,6 @@
   "FirstSeen": "2022-07-22T20:31:21.8622945+00:00",
   "LastChanged": "2024-01-15T08:57:30.6421838+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:41.3587603+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:58:05.6692411+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:04:32.6715415+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:56.6746051+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:04:23.7319394+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7e5660658d644368a5c0f5851125d196",
   "Name": "Alchemist: The Potion Monger",
   "ProductSlug": "alchemist-the-potion-monger-3aab61",
-  "Ranking_EOS_Progress": 830,
+  "Ranking_EOS_Progress": 831,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-10-16T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T15:56:58.5895629+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:59:04.0077405+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:05:35.7849481+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:59:09.0117931+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:05:39.8064223+00:00"
 }

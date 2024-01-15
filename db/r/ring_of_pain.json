@@ -3922,9 +3922,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243008,
+  "EOS_Progressed": 243010,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31922,6 +31922,11 @@
       "Time": "2024-01-15T16:10:51.7526169+00:00",
       "NumProgressed": 243008,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-15T17:11:04.7525863+00:00",
+      "NumProgressed": 243010,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -32195,9 +32200,9 @@
       "ID": "FREEZE20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Cold Hearted",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1944
+      "UsersEstimate": 2187
     },
     {
       "ID": "FULLINVENTORY",
@@ -33036,13 +33041,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243008,
+      "Progressed": 243010,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4488,
+      "Progressed": 4490,
       "Completed": 427
     }
   ],
@@ -33050,8 +33055,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-15T10:57:18.1671232+00:00",
-  "LastChanged_Achievements": "2024-01-15T16:10:51.7526165+00:00",
+  "LastChanged_Achievements": "2024-01-15T17:11:04.7525862+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-15T15:57:33.9234849+00:00",
-  "LastUpdate_Achievements": "2024-01-15T16:10:51.7529263+00:00"
+  "LastUpdate_Ratings": "2024-01-15T16:57:18.2060021+00:00",
+  "LastUpdate_Achievements": "2024-01-15T17:11:04.7528357+00:00"
 }

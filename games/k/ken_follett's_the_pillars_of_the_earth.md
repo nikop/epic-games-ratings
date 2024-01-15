@@ -1,22 +1,22 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 595)  
+Rating: 4.51 (Ranked 596)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~6,972 |
-| Man of politics | 34.00% | ~6,078 |
-| Yet another secret | 33.00% | ~5,899 |
+| Man of politics | 34.00% | ~6,079 |
+| Yet another secret | 33.00% | ~5,900 |
 | Friends of sorts | 32.00% | ~5,721 |
 | Let there be darkness | 31.00% | ~5,542 |
-| End of Book One | 29.00% | ~5,184 |
+| End of Book One | 29.00% | ~5,185 |
 | Wannabe knight | 23.00% | ~4,112 |
 | Garden of Eden | 23.00% | ~4,112 |
 | Full house | 23.00% | ~4,112 |
 | Help an old friend | 21.00% | ~3,754 |
-| Two of us | 20.00% | ~3,575 |
+| Two of us | 20.00% | ~3,576 |
 | Negotiation skills | 18.00% | ~3,218 |
 | Workers' union | 18.00% | ~3,218 |
 | End of Book Two | 18.00% | ~3,218 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~536 |
 | Boy of mystery | 2.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,877 (Ranked 165)  
+Progressed: 17,878 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 125 (0.70%) (Ranked 203)
 | 2024-01-12 | 17,816 | 125 |
 | 2024-01-13 | 17,839 | 125 |
 | 2024-01-14 | 17,861 | 125 |
-| 2024-01-15 | 17,877 | 125 |
+| 2024-01-15 | 17,878 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 328)  
 Sum: 200 (Ranked 418)  
