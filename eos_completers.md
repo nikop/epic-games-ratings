@@ -52,13 +52,13 @@
 | 50 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 51 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 51 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
-| 53 | [Ravenlok](games/r/ravenlok.md) | 7.67% |
+| 53 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.55% |
 | 54 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
-| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.52% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.47% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
-| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.98% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
