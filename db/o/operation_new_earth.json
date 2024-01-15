@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2252,
+  "EOS_Progressed": 2253,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8701,6 +8701,11 @@
       "Time": "2024-01-15T20:05:24.3397623+00:00",
       "NumProgressed": 2252,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T23:05:35.7885+00:00",
+      "NumProgressed": 2253,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8816,7 +8821,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8918,9 +8923,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 203
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -9015,7 +9020,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2252,
+      "Progressed": 2253,
       "Completed": 1
     }
   ],
@@ -9023,8 +9028,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:05:16.0496996+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:05:35.7884995+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:57:06.5871162+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:05:16.0497674+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:57:11.2091333+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:05:35.7885561+00:00"
 }

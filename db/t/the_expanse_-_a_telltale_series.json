@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19054,
+  "EOS_Progressed": 19055,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17479,6 +17479,11 @@
       "Time": "2024-01-15T22:05:13.8348562+00:00",
       "NumProgressed": 19054,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-15T23:05:33.6673773+00:00",
+      "NumProgressed": 19055,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17555,7 +17560,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "18",
@@ -17635,7 +17640,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "27",
@@ -17755,7 +17760,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "35",
@@ -17770,22 +17775,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19054,
+      "Progressed": 19055,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5008,
-      "Completed": 1330
+      "Progressed": 5009,
+      "Completed": 1331
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:05:13.8348557+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:05:33.6673769+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:58:45.3838833+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:05:13.8350019+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:58:49.962424+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:05:33.6674676+00:00"
 }

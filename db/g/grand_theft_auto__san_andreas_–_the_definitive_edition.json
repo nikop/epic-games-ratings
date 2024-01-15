@@ -2505,7 +2505,7 @@
   ],
   "EOS_Progressed": 19602,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20725,9 +20725,9 @@
       "ID": "ACH22",
       "SetID": "4ck5mbe",
       "Name": "What happens in Las Venturas...",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2744
+      "UsersEstimate": 2940
     },
     {
       "ID": "ACH23",
@@ -20846,8 +20846,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-15T18:57:10.6266101+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:09:59.3978193+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:29.7104004+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:57:11.2782741+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:09:59.3979307+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:57:16.1940651+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:29.7104907+00:00"
 }

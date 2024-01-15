@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.50% | ~84 |
 | Turreted Elephant | 0.50% | ~84 |
 | All Nations | 0.50% | ~84 |
+| Deposed Tribe | 0.50% | ~84 |
 | Jerwan Aqueduct | 0.50% | ~84 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
@@ -141,8 +142,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
-| Deposed Tribe | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
+| Jebel Barkal | 0.40% | ~68 |
 | Royal Library | 0.40% | ~68 |
 | Yazilikaya | 0.40% | ~68 |
 | Carthage - Ox Hide | 0.30% | ~51 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
-| Jebel Barkal | 0.30% | ~51 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,884 (Ranked 169)  
+Progressed: 16,887 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,884 | 5 |
+| 2024-01-15 | 16,887 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

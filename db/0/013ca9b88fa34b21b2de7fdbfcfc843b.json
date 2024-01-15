@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9092,
+  "EOS_Progressed": 9093,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -10313,6 +10313,11 @@
       "Time": "2024-01-15T22:10:03.9662891+00:00",
       "NumProgressed": 9092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T23:10:34.2354046+00:00",
+      "NumProgressed": 9093,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10515,9 +10520,9 @@
       "ID": "HARVEST_VEGETABLES_1",
       "SetID": "9eia0f5",
       "Name": "Fanatical Farmer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 73
     },
     {
       "ID": "HAVE_WEDDING",
@@ -10668,13 +10673,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9092,
+      "Progressed": 9093,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1709,
+      "Progressed": 1710,
       "Completed": 1050
     }
   ],
@@ -10682,8 +10687,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:10:03.9662886+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:34.2354043+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:03:19.4484729+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:10:03.9663627+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:03:36.0331572+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:34.2354663+00:00"
 }

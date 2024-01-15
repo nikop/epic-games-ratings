@@ -11,7 +11,7 @@ Rating: 4.63 (Ranked 355)
 | Walls Cannot Stop Us | 15.00% | ~1,088 |
 | From Friends to Family | 13.00% | ~943 |
 | Bone Peddler | 11.00% | ~798 |
-| Magical Synergy | 10.00% | ~725 |
+| Magical Synergy | 10.00% | ~726 |
 | Full Ascension | 9.00% | ~653 |
 | There Can Only Be One! | 8.00% | ~580 |
 | Stronger Together | 8.00% | ~580 |
@@ -55,7 +55,7 @@ Rating: 4.63 (Ranked 355)
 | Prometheus Avenged | 1.00% | ~73 |
 | Seal the Deal | 1.00% | ~73 |
 | A Conqueror's Cohort | 1.00% | ~73 |
-| Snap Out of It! | 0.60% | ~44 |
+| Snap Out of It! | 0.70% | ~51 |
 | The Magic That Empowers Me! | 0.60% | ~44 |
 | Jack of All Tomes | 0.50% | ~36 |
 | A Very Special Ring | 0.40% | ~29 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,254 (Ranked 197)  
+Progressed: 7,255 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 8 (0.11%) (Ranked 309)
 | 2024-01-12 | 7,210 | 8 |
 | 2024-01-13 | 7,228 | 8 |
 | 2024-01-14 | 7,246 | 8 |
-| 2024-01-15 | 7,254 | 8 |
+| 2024-01-15 | 7,255 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 484)  
 Sum: 238 (Ranked 407)  

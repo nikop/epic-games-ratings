@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5223,10 +5223,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5477,
       "NumberOfAwardsMax": 3204
+    },
+    {
+      "Time": "2024-01-15T22:59:11.6507853+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5478,
+      "NumberOfAwardsMax": 3204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5477,
+  "NumberOfAwards": 5478,
   "NumberOfAwardsMax": 3204,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5246,7 +5252,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 278
+      "Count": 279
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5291,9 +5297,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82832,
+  "EOS_Progressed": 82834,
   "EOS_Completed": 134,
-  "EOS_NewPlayers": 687,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30356,6 +30362,11 @@
       "Time": "2024-01-15T22:04:09.211181+00:00",
       "NumProgressed": 82832,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2024-01-15T23:04:27.6996712+00:00",
+      "NumProgressed": 82834,
+      "NumCompleted": 134
     }
   ],
   "TotalAchievements": 61,
@@ -30471,7 +30482,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "CLAYFACE_2",
@@ -30479,7 +30490,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14081
+      "UsersEstimate": 14082
     },
     {
       "ID": "CLAYFACE_3",
@@ -30487,7 +30498,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11596
+      "UsersEstimate": 11597
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -30599,7 +30610,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "FREEZE_2",
@@ -30615,7 +30626,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11596
+      "UsersEstimate": 11597
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -30671,7 +30682,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28163
+      "UsersEstimate": 28164
     },
     {
       "ID": "HARLEY_2",
@@ -30687,7 +30698,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "HARLEY_4",
@@ -30711,7 +30722,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41416
+      "UsersEstimate": 41417
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30735,7 +30746,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -30743,7 +30754,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21536
+      "UsersEstimate": 21537
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30783,7 +30794,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16566
+      "UsersEstimate": 16567
     },
     {
       "ID": "MYSTERY_05",
@@ -30791,7 +30802,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14081
+      "UsersEstimate": 14082
     },
     {
       "ID": "MYSTERY_06",
@@ -30799,7 +30810,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11596
+      "UsersEstimate": 11597
     },
     {
       "ID": "MYSTERY_07",
@@ -30854,22 +30865,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82832,
+      "Progressed": 82834,
       "Completed": 134
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53112,
+      "Progressed": 53114,
       "Completed": 2679
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-15T21:00:01.0280268+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:04:09.2111804+00:00",
+  "LastChanged": "2024-01-15T22:59:11.6507851+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:04:27.6996707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:59:06.3209875+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:04:09.2113576+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:59:11.650786+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:04:27.6998697+00:00"
 }

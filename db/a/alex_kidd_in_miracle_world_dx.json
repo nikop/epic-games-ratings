@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -1044,6 +1044,11 @@
       "Time": "2024-01-13T23:06:25.7909889+00:00",
       "NumProgressed": 445,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T23:05:56.9498698+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1085,9 +1090,9 @@
       "ID": "CHOKKINA_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Second Commander",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 71
+      "UsersEstimate": 67
     },
     {
       "ID": "EGLE_FREED",
@@ -1095,7 +1100,7 @@
       "Name": "Prisoner",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -1151,7 +1156,7 @@
       "Name": "Wild Ox",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1173,16 +1178,16 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 4
     }
   ],
@@ -1190,8 +1195,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:05:36.886935+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:05:56.9498694+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:26.0379231+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:59:03.3456054+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:05:36.886948+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:59:08.7746734+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:05:56.9498909+00:00"
 }

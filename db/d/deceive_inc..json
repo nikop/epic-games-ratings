@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 366,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19339,
+  "EOS_Progressed": 19341,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14755,6 +14755,11 @@
       "Time": "2024-01-15T21:04:46.7743868+00:00",
       "NumProgressed": 19339,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T23:04:11.4471749+00:00",
+      "NumProgressed": 19341,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14854,7 +14859,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "0013",
@@ -14870,7 +14875,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3094
+      "UsersEstimate": 3095
     },
     {
       "ID": "0015",
@@ -14974,7 +14979,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "0028",
@@ -15006,7 +15011,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "0032",
@@ -15014,7 +15019,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "0033",
@@ -15022,7 +15027,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "0034",
@@ -15053,7 +15058,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19339,
+      "Progressed": 19341,
       "Completed": 4
     }
   ],
@@ -15061,8 +15066,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:03:53.2550058+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:04:11.4471745+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:43.1243695+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:00:00.4744189+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:03:53.2551019+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:00:07.0683+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:04:11.4472692+00:00"
 }

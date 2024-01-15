@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,10 +431,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28786,
+  "EOS_Progressed": 28787,
   "EOS_Completed": 529,
   "EOS_NewPlayers": 491,
-  "EOS_NewCompleters": 9,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
     {
@@ -29586,6 +29586,11 @@
       "Time": "2024-01-15T22:03:33.6360042+00:00",
       "NumProgressed": 28786,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2024-01-15T23:03:51.494357+00:00",
+      "NumProgressed": 28787,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 20,
@@ -29629,7 +29634,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3166
+      "UsersEstimate": 3167
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -29717,7 +29722,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21877
+      "UsersEstimate": 21878
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29749,22 +29754,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5181
+      "UsersEstimate": 5182
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28786,
+      "Progressed": 28787,
       "Completed": 529
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:03:33.6360039+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:03:51.4943568+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:59:44.0029976+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:03:33.6361646+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:59:49.8937243+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:03:51.4945049+00:00"
 }

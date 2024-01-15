@@ -17,12 +17,12 @@
 | Omnia Vincit Amor | 21.00% | ~34 |
 | The Pride of Moozhaw | 20.00% | ~33 |
 | Stilt House | 15.00% | ~25 |
-| Armor Collector | 11.00% | ~18 |
+| Armor Collector | 12.00% | ~20 |
 | Corwid Hill | 11.00% | ~18 |
 | Total Eclipse | 9.00% | ~15 |
 | Dreamwalker | 9.00% | ~15 |
 | Your Training Is Complete | 6.00% | ~10 |
-| Red in Tooth and Claw | 5.00% | ~8 |
+| Red in Tooth and Claw | 6.00% | ~10 |
 | Vivid Dreams | 2.00% | ~3 |
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)

@@ -29,8 +29,8 @@ Rating: 4.64 (Ranked 343)
 | Fae Farmer | 0.80% | ~73 |
 | Got to Catch Them All | 0.80% | ~73 |
 | Rumble in the Jumble | 0.80% | ~73 |
+| Fanatical Farmer | 0.80% | ~73 |
 | Scattered Scroll Scrounger | 0.70% | ~64 |
-| Fanatical Farmer | 0.70% | ~64 |
 | Azorian Hat Dance | 0.70% | ~12 |
 | I Now Pronounce You... | 0.50% | ~45 |
 | Chatty Neighbor | 0.50% | ~45 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 343)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,092 (Ranked 187)  
+Progressed: 9,093 (Ranked 187)  
 Completed: 1 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 1 (0.01%) (Ranked 377)
 | 2024-01-12 | 9,008 | 1 |
 | 2024-01-13 | 9,044 | 1 |
 | 2024-01-14 | 9,068 | 1 |
-| 2024-01-15 | 9,092 | 1 |
+| 2024-01-15 | 9,093 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

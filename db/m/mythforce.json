@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6361,
+  "EOS_Progressed": 6362,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13306,6 +13306,11 @@
       "Time": "2024-01-15T22:05:34.1671508+00:00",
       "NumProgressed": 6361,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T23:05:54.2180617+00:00",
+      "NumProgressed": 6362,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13366,7 +13371,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13374,7 +13379,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13476,17 +13481,17 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 954
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1654
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13501,15 +13506,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6361,
+      "Progressed": 6362,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:05:34.1671504+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:05:54.2180613+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:59:48.4708917+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:05:34.1672322+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:59:54.4443542+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:05:54.2181335+00:00"
 }

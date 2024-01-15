@@ -365,9 +365,9 @@
       "Count": 143
     }
   ],
-  "EOS_Progressed": 11539,
+  "EOS_Progressed": 11541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 771,
+  "EOS_NewPlayers": 767,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5025,6 +5025,11 @@
       "Time": "2024-01-15T22:10:01.8211689+00:00",
       "NumProgressed": 11539,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T23:10:32.1022653+00:00",
+      "NumProgressed": 11541,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5037,7 +5042,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "03_TheStolenStar",
@@ -5149,7 +5154,7 @@
       "Name": "The Rise",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "17_TheExemplar",
@@ -5165,7 +5170,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5285,7 +5290,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5349,7 +5354,7 @@
       "Name": "Jungle Heat",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5389,7 +5394,7 @@
       "Name": "A Spark",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "47_AFlame",
@@ -5556,7 +5561,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11539,
+      "Progressed": 11541,
       "Completed": 1
     }
   ],
@@ -5564,8 +5569,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-15T17:58:07.3868021+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:10:01.8211682+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:32.102265+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:57:51.4860415+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:10:01.8212403+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:57:54.7444437+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:32.1023374+00:00"
 }

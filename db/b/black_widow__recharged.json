@@ -2,12 +2,12 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24994,
+  "EOS_Progressed": 24996,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23523,6 +23523,11 @@
       "Time": "2024-01-15T22:06:16.150816+00:00",
       "NumProgressed": 24994,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-15T23:06:36.3333515+00:00",
+      "NumProgressed": 24996,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23534,7 +23539,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19245
+      "UsersEstimate": 19247
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23550,7 +23555,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2500
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -23558,7 +23563,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -23590,7 +23595,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12747
+      "UsersEstimate": 12748
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23598,7 +23603,7 @@
       "Name": "In For The Kill",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -23606,7 +23611,7 @@
       "Name": "In My Own Time",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2999
+      "UsersEstimate": 3000
     },
     {
       "ID": "ACH_LOOK_AT_ME_NOW",
@@ -23614,7 +23619,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6498
+      "UsersEstimate": 6499
     },
     {
       "ID": "ACH_THE_FALL",
@@ -23645,15 +23650,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24994,
+      "Progressed": 24996,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:06:16.1508155+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:06:36.3333511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:58:39.9249633+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:06:16.1509922+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:58:44.471067+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:06:36.3335074+00:00"
 }

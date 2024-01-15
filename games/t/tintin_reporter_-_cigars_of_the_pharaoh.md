@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~110 |
 | A Loyal Friend | 43.00% | ~59 |
-| Abandon Ship! | 33.00% | ~45 |
-| The Tomb of Kih-Oskh | 28.00% | ~38 |
+| Abandon Ship! | 33.00% | ~46 |
+| The Tomb of Kih-Oskh | 28.00% | ~39 |
 | The Weighing of the Soul | 26.00% | ~36 |
-| The Curse of Kih-Oskh | 20.00% | ~27 |
-| It's a Deal! | 18.00% | ~25 |
-| Cat Lover | 15.00% | ~21 |
-| Dynamite, Treason and Coconuts | 15.00% | ~21 |
+| The Curse of Kih-Oskh | 20.00% | ~28 |
+| It's a Deal! | 17.00% | ~23 |
+| Cat Lover | 14.00% | ~19 |
+| Dynamite, Treason and Coconuts | 14.00% | ~19 |
 | Save a Friend | 14.00% | ~19 |
-| In the Name of the Law | 12.00% | ~16 |
-| Au Revoir, Abudin | 12.00% | ~16 |
-| Mysterious Bungalow | 12.00% | ~16 |
+| In the Name of the Law | 12.00% | ~17 |
+| Au Revoir, Abudin | 12.00% | ~17 |
+| Mysterious Bungalow | 12.00% | ~17 |
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
 | Keep the Doctor Away | 9.00% | ~12 |
@@ -29,7 +29,7 @@
 | Mummy Nightmare | 7.00% | ~10 |
 | Subtlety | 7.00% | ~10 |
 | Mountain Runner | 6.00% | ~8 |
-| A Yummy Detour | 4.00% | ~5 |
+| A Yummy Detour | 4.00% | ~6 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Jungle Runner | 2.00% | ~3 |
 | Guilt | 2.00% | ~3 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 476)  
+Progressed: 138 (Ranked 476)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,3 +97,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-11 | 133 | 0 |
 | 2024-01-13 | 134 | 0 |
 | 2024-01-14 | 137 | 0 |
+| 2024-01-15 | 138 | 0 |

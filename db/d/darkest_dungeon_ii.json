@@ -10902,9 +10902,9 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132932,
+  "EOS_Progressed": 132935,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40037,6 +40037,11 @@
       "Time": "2024-01-15T22:09:54.8729691+00:00",
       "NumProgressed": 132932,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T23:10:25.2483095+00:00",
+      "NumProgressed": 132935,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40270,9 +40275,9 @@
       "ID": "combat_kill_librarian",
       "SetID": "64l4lke",
       "Name": "Overdue Notice",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7976
+      "UsersEstimate": 9305
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40584,7 +40589,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "combat_kill_collector",
@@ -40679,21 +40684,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132932,
+      "Progressed": 132935,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7801,
+      "Progressed": 7804,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-15T20:59:06.7429117+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:09:54.8729688+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:25.2483093+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:58:27.4074382+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:09:54.8731295+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:58:30.8038809+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:25.2484766+00:00"
 }

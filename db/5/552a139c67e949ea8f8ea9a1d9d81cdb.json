@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1964,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5291,9 +5291,9 @@
       "ID": "ML_ACHIEVEMENT_29",
       "SetID": "5k00jcd",
       "Name": "\u2026Is half done",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -5448,8 +5448,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:08:18.9614728+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:08:48.3352667+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.6791346+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:00:53.2967666+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:08:18.9615347+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:03:00.0134808+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:08:48.3353475+00:00"
 }

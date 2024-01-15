@@ -13,10 +13,10 @@ Rating: 4.54 (Ranked 551)
 | Bosmang | 14.00% | ~2,668 |
 | Impossible Objects | 14.00% | ~2,668 |
 | Drone Dodger | 13.00% | ~2,477 |
-| Spore Taste | 12.00% | ~2,286 |
+| Spore Taste | 12.00% | ~2,287 |
 | Stogie for Fogey | 11.00% | ~2,096 |
 | Zen Master | 11.00% | ~551 |
-| Call it Even | 10.00% | ~1,905 |
+| Call it Even | 10.00% | ~1,906 |
 | Safe Cracker | 10.00% | ~501 |
 | Heal Thy Medic | 9.00% | ~1,715 |
 | Madame Undersecretary | 9.00% | ~451 |
@@ -27,7 +27,7 @@ Rating: 4.54 (Ranked 551)
 | Thorston Mayer | 7.00% | ~1,334 |
 | Doctor Approved | 6.00% | ~1,143 |
 | Bottoms up! | 6.00% | ~1,143 |
-| Master Negotiator | 6.00% | ~300 |
+| Master Negotiator | 6.00% | ~301 |
 | Data Logger | 5.00% | ~953 |
 | Miraculous Maya | 5.00% | ~953 |
 | Data Master | 4.00% | ~762 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 551)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,054 (Ranked 159)  
+Progressed: 19,055 (Ranked 159)  
 Completed: 66 (0.35%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 66 (0.35%) (Ranked 251)
 | 2024-01-12 | 18,914 | 64 |
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
-| 2024-01-15 | 19,054 | 66 |
+| 2024-01-15 | 19,055 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9539,10 +9539,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33512,
       "NumberOfAwardsMax": 5784
+    },
+    {
+      "Time": "2024-01-15T22:57:44.603543+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 33514,
+      "NumberOfAwardsMax": 5784
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33512,
+  "NumberOfAwards": 33514,
   "NumberOfAwardsMax": 5784,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9556,7 +9562,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5723
+      "Count": 5725
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9589,9 +9595,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254079,
+  "EOS_Progressed": 254088,
   "EOS_Completed": 2619,
-  "EOS_NewPlayers": 1293,
+  "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40269,6 +40275,11 @@
       "Time": "2024-01-15T22:10:13.1324759+00:00",
       "NumProgressed": 254079,
       "NumCompleted": 2619
+    },
+    {
+      "Time": "2024-01-15T23:10:44.1826591+00:00",
+      "NumProgressed": 254088,
+      "NumCompleted": 2619
     }
   ],
   "TotalAchievements": 546,
@@ -40280,7 +40291,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10163
+      "UsersEstimate": 10164
     },
     {
       "ID": "objective_completed_10",
@@ -41256,7 +41267,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "objective_completed_130",
@@ -44584,7 +44595,7 @@
       "Name": "Fast Food",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "objective_completed_1563",
@@ -44647,21 +44658,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220353,
+      "Progressed": 220362,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254079,
+      "Progressed": 254088,
       "Completed": 2619
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-15T18:57:37.6135042+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:10:13.1324752+00:00",
+  "LastChanged": "2024-01-15T22:57:44.6035429+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:44.1826586+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:57:40.3374182+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:10:13.1348474+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:57:44.6035435+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:44.184957+00:00"
 }

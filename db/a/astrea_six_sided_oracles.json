@@ -2,9 +2,9 @@
   "ID": "a940fa38f001486a9884640924119576",
   "Name": "Astrea Six Sided Oracles",
   "ProductSlug": "astrea-six-sided-oracles-33c949",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 382,
+  "EOS_Progressed": 383,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1599,6 +1599,11 @@
       "Time": "2024-01-15T12:09:43.5770534+00:00",
       "NumProgressed": 382,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T23:09:27.8673759+00:00",
+      "NumProgressed": 383,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1619,7 +1624,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "AnomalyMaster",
@@ -1835,7 +1840,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "EndlessTricks",
@@ -1963,15 +1968,15 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 169
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2067,7 +2072,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Sentinelphobic",
@@ -2107,7 +2112,7 @@
       "Name": "Star Killer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "StellarDismantler",
@@ -2243,7 +2248,7 @@
       "Name": "Wild\u0027s Keeper",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ApianChampion",
@@ -2299,7 +2304,7 @@
       "Name": "Behenian Champion",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "BehenianHero",
@@ -2323,7 +2328,7 @@
       "Name": "Eridanian Champion",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "EridanianHero",
@@ -2345,9 +2350,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 84
     },
     {
       "ID": "LacertianHero",
@@ -2394,14 +2399,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 382,
+      "Progressed": 383,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:08:58.2429243+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:09:27.8673754+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:58:05.1040135+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:08:58.2430125+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:58:07.7075187+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:09:27.8674657+00:00"
 }

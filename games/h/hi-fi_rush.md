@@ -5,28 +5,28 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 55.00% | ~9,474 |
-| Feeling the beat! | 55.00% | ~9,474 |
-| You can pet the cat! | 50.00% | ~8,613 |
+| Start with a bang! | 55.00% | ~9,475 |
+| Feeling the beat! | 55.00% | ~9,475 |
+| You can pet the cat! | 50.00% | ~8,614 |
 | Who put gears in there? | 41.00% | ~7,063 |
-| Cream of the Crop | 36.00% | ~6,201 |
+| Cream of the Crop | 36.00% | ~6,202 |
 | Thanks for the free chip, Peppermint! | 35.00% | ~6,029 |
 | You got this, Peppermint? | 31.00% | ~5,340 |
 | Perfect Parry | 29.00% | ~4,996 |
-| Alright, that felt AWESOME! | 28.00% | ~4,823 |
+| Alright, that felt AWESOME! | 28.00% | ~4,824 |
 | I play my own way! | 24.00% | ~4,134 |
 | This will cost you big time | 23.00% | ~3,962 |
 | Uh, they were broken when I got here | 22.00% | ~3,790 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,617 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,618 |
 | Kissing the sky! | 20.00% | ~3,445 |
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,101 |
-| The Negotiator | 17.00% | ~2,928 |
-| Does that say weakpoint? | 17.00% | ~2,928 |
+| The Negotiator | 17.00% | ~2,929 |
+| Does that say weakpoint? | 17.00% | ~2,929 |
 | You must like calling me in, Chai | 15.00% | ~2,584 |
 | Headliner | 14.00% | ~2,412 |
 | Out in a puff of smoke | 14.00% | ~2,412 |
-| Time to pay up! | 13.00% | ~2,239 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,239 |
+| Time to pay up! | 13.00% | ~2,240 |
+| I look cool. But I can look COOLER. | 13.00% | ~2,240 |
 | Who's the boss now? | 12.00% | ~2,067 |
 | I have to read these things? | 12.00% | ~2,067 |
 | Perfecter Parry-er! | 12.00% | ~2,067 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,226 (Ranked 168)  
+Progressed: 17,227 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-12 | 16,910 | 8 |
 | 2024-01-13 | 17,049 | 8 |
 | 2024-01-14 | 17,157 | 8 |
-| 2024-01-15 | 17,226 | 8 |
+| 2024-01-15 | 17,227 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

@@ -1,15 +1,15 @@
 # The Long Dark
 [Store](https://store.epicgames.com/en-US/p/the-long-dark)  
 [View Rawdata](../../db/t/the_long_dark.json)  
-Rating: 4.74 (Ranked 167)  
+Rating: 4.74 (Ranked 168)  
 Number of Ratings: 4,814  (23.09.2022)  
 ## Awards
-Max (Highly Recommended): 893  (Ranked 176)  
-Sum: 5,379 (Ranked 147)  
-Diff (max vs sum): 29  
+Max (Highly Recommended): 895  (Ranked 175)  
+Sum: 5,381 (Ranked 147)  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 893 |
+| This game is Highly Recommended | 895 |
 | This game is Extremely Fun | 812 |
 | This game is Relaxing | 779 |
 | This game has Quickly Understood Controls | 774 |
@@ -343,4 +343,4 @@ Diff (max vs sum): 29
 | 2024-01-12 | 4.74 | - | 890 | 5,361 |
 | 2024-01-13 | 4.74 | - | 891 | 5,368 |
 | 2024-01-14 | 4.74 | - | 893 | 5,374 |
-| 2024-01-15 | 4.74 | - | 893 | 5,379 |
+| 2024-01-15 | 4.74 | - | 895 | 5,381 |

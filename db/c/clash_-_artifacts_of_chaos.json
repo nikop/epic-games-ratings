@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 389,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -602,9 +602,9 @@
       "ID": "Achievement13",
       "SetID": "jf6ho5",
       "Name": "Armor Collector",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement14",
@@ -698,9 +698,9 @@
       "ID": "Achievement5",
       "SetID": "jf6ho5",
       "Name": "Red in Tooth and Claw",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement6",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:09:59.595705+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:29.9252727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:00:05.176817+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:09:59.5957191+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:00:12.3686763+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:29.9252843+00:00"
 }

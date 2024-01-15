@@ -7,20 +7,20 @@ Number of Ratings: 266  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 72.00% | ~3,447 |
-| Ready for Winter | 61.00% | ~2,920 |
+| Ready for Winter | 61.00% | ~2,921 |
 | Ready for Summer | 48.00% | ~2,298 |
 | Cordon Bleu | 40.00% | ~1,915 |
 | Tapped! | 34.00% | ~1,628 |
-| Eureka | 29.00% | ~1,388 |
+| Eureka | 29.00% | ~1,389 |
 | Scourge Slayer | 23.00% | ~1,101 |
 | Science, Troglodyte! | 21.00% | ~1,005 |
-| Exceptional Skill | 20.00% | ~957 |
-| Home Sweet Home | 20.00% | ~957 |
+| Exceptional Skill | 20.00% | ~958 |
+| Home Sweet Home | 20.00% | ~958 |
 | Encyclopedic! | 18.00% | ~862 |
 | The Power of Family | 15.00% | ~718 |
 | A Fortress Toppled! | 14.00% | ~670 |
 | Apex Predator | 14.00% | ~670 |
-| The Power of Faith | 12.00% | ~574 |
+| The Power of Faith | 12.00% | ~575 |
 | Strange amalgams | 11.00% | ~527 |
 | The Power of Freedom | 8.00% | ~383 |
 | Ace Detective | 7.00% | ~335 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 6.00% | ~287 |
 | Blood and justice | 5.00% | ~239 |
 | The stuff of legends. | 5.00% | ~239 |
-| Ancestor's Pride | 4.00% | ~191 |
-| For All Aurai | 4.00% | ~191 |
-| Memory of a legend | 4.00% | ~191 |
+| Ancestor's Pride | 4.00% | ~192 |
+| For All Aurai | 4.00% | ~192 |
+| Memory of a legend | 4.00% | ~192 |
 | Light of Levant | 3.00% | ~144 |
 | Crowd Pleaser. | 2.00% | ~96 |
 | Perfect Defense | 2.00% | ~96 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,787 (Ranked 208)  
+Progressed: 4,788 (Ranked 208)  
 Completed: 5 (0.10%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 5 (0.10%) (Ranked 314)
 | 2024-01-12 | 4,753 | 5 |
 | 2024-01-13 | 4,770 | 5 |
 | 2024-01-14 | 4,779 | 5 |
-| 2024-01-15 | 4,787 | 5 |
+| 2024-01-15 | 4,788 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 506)  
 Sum: 246 (Ranked 404)  

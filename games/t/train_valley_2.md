@@ -1,45 +1,45 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.45 (Ranked 693)  
+Rating: 4.45 (Ranked 692)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~316,184 |
-| Full garage | 61.00% | ~264,209 |
-| To the eyeballs! | 51.00% | ~220,896 |
-| Individual delivery | 47.00% | ~203,571 |
-| Non-Stop | 45.00% | ~194,908 |
-| Juggler | 36.00% | ~155,926 |
-| Forgot something | 35.00% | ~151,595 |
-| Close call! | 31.00% | ~134,270 |
-| Get out my way | 28.00% | ~121,276 |
-| Common cause | 26.00% | ~112,614 |
-| Critical care | 26.00% | ~112,614 |
-| Mega-railroad | 23.00% | ~99,620 |
-| Upgrade complete | 23.00% | ~99,620 |
-| Just in time! | 18.00% | ~77,963 |
-| Builder | 17.00% | ~73,632 |
-| Long Haul | 17.00% | ~73,520 |
-| Steam Age | 16.00% | ~69,301 |
-| Multilevel road | 15.00% | ~64,969 |
-| Bridgemania | 14.00% | ~60,638 |
-| Need to think | 14.00% | ~60,638 |
-| The Tortoise | 12.00% | ~51,975 |
-| Beginner | 11.00% | ~47,644 |
-| Without a lunch break | 11.00% | ~47,644 |
-| One way | 10.00% | ~43,313 |
-| Relocation | 10.00% | ~43,313 |
+| Dealmaker | 73.00% | ~316,189 |
+| Full garage | 61.00% | ~264,212 |
+| To the eyeballs! | 51.00% | ~220,899 |
+| Individual delivery | 47.00% | ~203,573 |
+| Non-Stop | 45.00% | ~194,911 |
+| Juggler | 36.00% | ~155,929 |
+| Forgot something | 35.00% | ~151,597 |
+| Close call! | 31.00% | ~134,272 |
+| Get out my way | 28.00% | ~121,278 |
+| Common cause | 26.00% | ~112,615 |
+| Critical care | 26.00% | ~112,615 |
+| Mega-railroad | 23.00% | ~99,621 |
+| Upgrade complete | 23.00% | ~99,621 |
+| Just in time! | 18.00% | ~77,964 |
+| Builder | 17.00% | ~73,633 |
+| Long Haul | 17.00% | ~73,521 |
+| Steam Age | 16.00% | ~69,302 |
+| Multilevel road | 15.00% | ~64,970 |
+| Bridgemania | 14.00% | ~60,639 |
+| Need to think | 14.00% | ~60,639 |
+| The Tortoise | 12.00% | ~51,976 |
+| Beginner | 11.00% | ~47,645 |
+| Without a lunch break | 11.00% | ~47,645 |
+| One way | 10.00% | ~43,314 |
+| Relocation | 10.00% | ~43,314 |
 | Industrial Age | 9.00% | ~38,982 |
-| Just One More Valley | 9.00% | ~38,922 |
-| Prick of conscience | 8.00% | ~34,650 |
+| Just One More Valley | 9.00% | ~38,923 |
+| Prick of conscience | 8.00% | ~34,651 |
 | Missed it! | 7.00% | ~30,319 |
 | At the last moment! | 6.00% | ~25,988 |
 | Overseer | 6.00% | ~25,988 |
-| Highlander | 5.00% | ~21,656 |
-| Jewelry accuracy | 5.00% | ~21,656 |
-| Stargazer | 5.00% | ~21,656 |
+| Highlander | 5.00% | ~21,657 |
+| Jewelry accuracy | 5.00% | ~21,657 |
+| Stargazer | 5.00% | ~21,657 |
 | Bridge builder | 4.00% | ~17,325 |
 | Electrical Age | 4.00% | ~17,325 |
 | Engineer | 4.00% | ~17,325 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,663 |
 | Will work | 2.00% | ~8,663 |
 | Woodcutter | 2.00% | ~8,663 |
-| Occupied! | 2.00% | ~8,649 |
+| Occupied! | 2.00% | ~8,650 |
 | Achiever | 1.00% | ~4,331 |
 | Environmental activist | 1.00% | ~4,331 |
 | Metro builder | 1.00% | ~4,331 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~432 |
 | World Zapper | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,129 (Ranked 46)  
+Progressed: 433,135 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 24 (0.01%) (Ranked 377)
 | 2024-01-12 | 432,334 | 24 |
 | 2024-01-13 | 432,639 | 24 |
 | 2024-01-14 | 432,946 | 24 |
-| 2024-01-15 | 433,129 | 24 |
+| 2024-01-15 | 433,135 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,055  (Ranked 159)  
-Sum: 2,180 (Ranked 215)  
+Sum: 2,181 (Ranked 215)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): -56
 | This game is Extremely Fun | 118 |
 | This game is Relaxing | 115 |
 | This game has Quickly Understood Controls | 112 |
-| This game is Highly Recommended | 104 |
+| This game is Highly Recommended | 105 |
 | This game has Challenging Combat | 94 |
 | This game has a Creative Community | 85 |
 | This game has Amazing Storytelling | 80 |
@@ -585,4 +585,4 @@ Diff (max vs sum): -56
 | 2024-01-12 | 4.45 | - | 1,051 | 2,161 |
 | 2024-01-13 | 4.45 | - | 1,051 | 2,168 |
 | 2024-01-14 | 4.45 | - | 1,053 | 2,173 |
-| 2024-01-15 | 4.45 | - | 1,055 | 2,180 |
+| 2024-01-15 | 4.45 | - | 1,055 | 2,181 |

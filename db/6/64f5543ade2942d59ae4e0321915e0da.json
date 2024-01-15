@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 523,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
@@ -2024,6 +2024,11 @@
       "Time": "2024-01-15T17:08:33.6877409+00:00",
       "NumProgressed": 522,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T23:03:45.2388296+00:00",
+      "NumProgressed": 523,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2044,7 +2049,7 @@
       "Name": "Empire",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -2092,7 +2097,7 @@
       "Name": "Gambler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2108,7 +2113,7 @@
       "Name": "Hunger",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "AC_BOSS_01",
@@ -2116,7 +2121,7 @@
       "Name": "Misery",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "AC_BOSS_02",
@@ -2140,7 +2145,7 @@
       "Name": "Heresy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_COMBO_1",
@@ -2148,7 +2153,7 @@
       "Name": "Pack",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "AC_COMBO_2",
@@ -2188,7 +2193,7 @@
       "Name": "Carcass",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_DEATH_3",
@@ -2204,7 +2209,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2212,7 +2217,7 @@
       "Name": "Psycopath",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2228,7 +2233,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2242,9 +2247,9 @@
       "ID": "AC_DISTANCE_3",
       "SetID": "16i2akc",
       "Name": "Voyage",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 151
+      "UsersEstimate": 146
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2292,7 +2297,7 @@
       "Name": "Winner",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2308,7 +2313,7 @@
       "Name": "Gun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -2371,14 +2376,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 523,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:03:27.4870907+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:03:45.2388292+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:58:51.3498479+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:03:27.4871377+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:58:56.1996488+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:03:45.2388684+00:00"
 }

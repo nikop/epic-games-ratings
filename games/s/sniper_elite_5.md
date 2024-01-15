@@ -8,18 +8,18 @@ Rating: 4.48 (Ranked 658)
 | Meeting Resistance | 47.00% | ~2,015 |
 | Confirming Suspicions | 42.00% | ~1,801 |
 | The Kraken Wakes | 38.00% | ~1,629 |
-| It's Starting to Crack | 35.00% | ~1,500 |
+| It's Starting to Crack | 35.00% | ~1,501 |
 | Change the Channel | 32.00% | ~1,372 |
 | Lord of War | 31.00% | ~1,329 |
 | Taking it back | 30.00% | ~1,286 |
-| Resourceful | 28.00% | ~1,200 |
-| Target America | 28.00% | ~1,200 |
+| Resourceful | 28.00% | ~1,201 |
+| Target America | 28.00% | ~1,201 |
 | The Kraken Sleeps | 25.00% | ~1,072 |
 | Liberté | 24.00% | ~1,029 |
 | Organ Grinder | 24.00% | ~1,029 |
 | As Quiet as a Mouse | 24.00% | ~1,029 |
 | Sharpshooter | 23.00% | ~986 |
-| Gunslinger | 20.00% | ~857 |
+| Gunslinger | 20.00% | ~858 |
 | Explosive Efficiency | 19.00% | ~815 |
 | Climbing the Ladder | 17.00% | ~729 |
 | Just a Flesh Wound | 17.00% | ~729 |
@@ -48,7 +48,7 @@ Rating: 4.48 (Ranked 658)
 | Last Resort | 5.00% | ~212 |
 | Siegebreaker | 5.00% | ~212 |
 | Ghost of Falaise | 5.00% | ~212 |
-| Locomotion Commotion | 4.00% | ~171 |
+| Locomotion Commotion | 4.00% | ~172 |
 | From Paris with Love | 3.00% | ~129 |
 | Burn after reading | 3.00% | ~129 |
 | Souvenir hunter | 3.00% | ~129 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 658)
 | Stroll in the Woods | 0.60% | ~25 |
 | Going Overboard | 0.60% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,287 (Ranked 213)  
+Progressed: 4,288 (Ranked 213)  
 Completed: 11 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 11 (0.26%) (Ranked 268)
 | 2024-01-12 | 4,273 | 11 |
 | 2024-01-13 | 4,276 | 11 |
 | 2024-01-14 | 4,284 | 11 |
-| 2024-01-15 | 4,287 | 11 |
+| 2024-01-15 | 4,288 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 529)  
 Sum: 29 (Ranked 549)  

@@ -46,8 +46,8 @@
 | It was worth a try | 2.00% | ~7 |
 | In One Take | 2.00% | ~7 |
 | Preferred Parent | 2.00% | ~7 |
+| Rocket Science | 1.00% | ~3 |
 | The Big Picture | 0.90% | ~3 |
-| Rocket Science | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
 | Letting go | 0.60% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |

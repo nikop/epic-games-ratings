@@ -561,9 +561,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 6449,
+  "EOS_Progressed": 6450,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9881,6 +9881,11 @@
       "Time": "2024-01-15T21:06:41.9206109+00:00",
       "NumProgressed": 6449,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T23:05:43.3946126+00:00",
+      "NumProgressed": 6450,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9900,7 +9905,7 @@
       "Name": "Flawless Victory",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -9932,7 +9937,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -9948,7 +9953,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10004,7 +10009,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3482
+      "UsersEstimate": 3483
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10012,7 +10017,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3740
+      "UsersEstimate": 3741
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10020,7 +10025,7 @@
       "Name": "Heavy Steps",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -10036,7 +10041,7 @@
       "Name": "Hardened In The Heat Of Battle",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_MAX_GUNNER",
@@ -10068,7 +10073,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1484
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10084,7 +10089,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3353
+      "UsersEstimate": 3354
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10164,7 +10169,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10188,7 +10193,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10204,7 +10209,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3224
+      "UsersEstimate": 3225
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10220,7 +10225,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10251,7 +10256,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6449,
+      "Progressed": 6450,
       "Completed": 3
     }
   ],
@@ -10259,8 +10264,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:05:23.5846554+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:05:43.3946122+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:58:03.920299+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:05:23.5847399+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:58:06.5753237+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:05:43.3946882+00:00"
 }

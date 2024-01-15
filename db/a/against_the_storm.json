@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3965,9 +3965,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 20809,
+  "EOS_Progressed": 20812,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19725,6 +19725,11 @@
       "Time": "2024-01-15T22:06:52.5562225+00:00",
       "NumProgressed": 20809,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-15T23:08:43.2505923+00:00",
+      "NumProgressed": 20812,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19953,7 +19958,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "WinNearRuins",
@@ -19993,7 +19998,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "WinOnCoral",
@@ -20208,15 +20213,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20809,
+      "Progressed": 20812,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-15T11:57:35.5109811+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:06:52.5562219+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:08:43.2505919+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:57:34.4548738+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:06:52.5563202+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:57:39.3976385+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:08:43.2507246+00:00"
 }

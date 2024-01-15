@@ -2298,9 +2298,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16884,
+  "EOS_Progressed": 16887,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20148,6 +20148,11 @@
       "Time": "2024-01-15T22:10:12.0689649+00:00",
       "NumProgressed": 16884,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T23:10:42.8321484+00:00",
+      "NumProgressed": 16887,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22445,9 +22450,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
       "SetID": "9201eeb",
       "Name": "Deposed Tribe",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -22949,9 +22954,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_JEBEL_BARKAL",
       "SetID": "9201eeb",
       "Name": "Jebel Barkal",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
@@ -23022,21 +23027,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16884,
+      "Progressed": 16887,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16884,
+      "Progressed": 16887,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T22:10:12.0689643+00:00",
+  "LastChanged_Achievements": "2024-01-15T23:10:42.8321481+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:00:28.990549+00:00",
-  "LastUpdate_Achievements": "2024-01-15T22:10:12.0699604+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:00:35.0256738+00:00",
+  "LastUpdate_Achievements": "2024-01-15T23:10:42.8333302+00:00"
 }
