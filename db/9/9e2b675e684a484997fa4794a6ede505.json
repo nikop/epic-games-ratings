@@ -2,9 +2,9 @@
   "ID": "9e2b675e684a484997fa4794a6ede505",
   "Name": "Quest Master",
   "ProductSlug": "quest-master-2d8729",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T05:57:09.1927402+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:59:45.9748599+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:04:21.0246661+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:55.2512665+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:03:33.0880924+00:00"
 }

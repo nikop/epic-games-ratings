@@ -3,11 +3,11 @@
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 380,
-  "Ranking_Popularity": 129,
+  "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 187,
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
@@ -897,6 +897,6 @@
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
   "LastChanged": "2024-01-15T18:03:08.6414797+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:27.8310131+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:03:29.6436155+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:05:52.8505278+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:02:53.1428199+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:04:45.4872564+00:00"
 }

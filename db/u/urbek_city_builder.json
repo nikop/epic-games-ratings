@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 515,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -1870,6 +1870,11 @@
       "Time": "2024-01-14T10:11:14.2971067+00:00",
       "NumProgressed": 514,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T22:10:06.4583709+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2095,9 +2100,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 52
     },
     {
       "ID": "FAITH_2",
@@ -2512,7 +2517,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 515,
       "Completed": 0
     }
   ],
@@ -2520,8 +2525,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:23.6336375+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:10:06.4583706+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.3885201+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:59:33.1071676+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:23.6337215+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:45.7255933+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:10:06.4584473+00:00"
 }

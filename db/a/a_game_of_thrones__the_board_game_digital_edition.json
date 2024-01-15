@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1416,9 +1416,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33526,
+  "EOS_Progressed": 33529,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30561,6 +30561,11 @@
       "Time": "2024-01-15T21:11:01.7987903+00:00",
       "NumProgressed": 33526,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-15T22:09:49.07634+00:00",
+      "NumProgressed": 33529,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30668,7 +30673,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "1028",
@@ -30676,7 +30681,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5699
+      "UsersEstimate": 5700
     },
     {
       "ID": "1029",
@@ -30692,7 +30697,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "1031",
@@ -30700,7 +30705,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "1032",
@@ -30708,7 +30713,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13410
+      "UsersEstimate": 13412
     },
     {
       "ID": "1033",
@@ -30747,15 +30752,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33526,
+      "Progressed": 33529,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-14T15:59:31.8862303+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:01.7987901+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:09:49.0763394+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:37.167898+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:01.7989387+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:18.9511369+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:49.0765165+00:00"
 }

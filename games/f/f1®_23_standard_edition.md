@@ -5,25 +5,25 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,600 |
-| On the Top Step | 83.00% | ~15,141 |
-| Setting up for Success | 69.00% | ~12,587 |
-| Team Orders | 68.00% | ~12,405 |
-| Engineer | 45.00% | ~8,209 |
-| Familiar Faces | 41.00% | ~7,479 |
+| Getting on the Step | 91.00% | ~16,602 |
+| On the Top Step | 83.00% | ~15,143 |
+| Setting up for Success | 69.00% | ~12,588 |
+| Team Orders | 68.00% | ~12,406 |
+| Engineer | 45.00% | ~8,210 |
+| Familiar Faces | 41.00% | ~7,480 |
 | Going the Extra Mile | 35.00% | ~6,385 |
-| Sharing the Love | 33.00% | ~6,020 |
-| Hitting a Season | 27.00% | ~4,925 |
-| Making History | 25.00% | ~4,560 |
-| A Dozen Pieces | 24.00% | ~4,378 |
+| Sharing the Love | 33.00% | ~6,021 |
+| Hitting a Season | 27.00% | ~4,926 |
+| Making History | 25.00% | ~4,561 |
+| A Dozen Pieces | 24.00% | ~4,379 |
 | Network Success | 23.00% | ~4,196 |
 | Challenge Yourself | 23.00% | ~4,196 |
 | Writing a new Chapter | 19.00% | ~3,466 |
 | Spring Cleaning | 18.00% | ~3,284 |
-| Ups and Downs | 15.00% | ~2,736 |
-| Reduce | 14.00% | ~2,554 |
-| Crucial Combo | 13.00% | ~2,371 |
-| Proving Them Wrong | 13.00% | ~2,371 |
+| Reduce | 15.00% | ~2,737 |
+| Ups and Downs | 15.00% | ~2,737 |
+| Crucial Combo | 13.00% | ~2,372 |
+| Proving Them Wrong | 13.00% | ~2,372 |
 | Reuse | 12.00% | ~2,189 |
 | Gathering Dust | 11.00% | ~2,007 |
 | All in a Weekend's Work | 10.00% | ~1,824 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 343)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,242 (Ranked 163)  
+Progressed: 18,244 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,10 +179,10 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 17,926 | 0 |
 | 2024-01-13 | 18,071 | 0 |
 | 2024-01-14 | 18,178 | 0 |
-| 2024-01-15 | 18,242 | 0 |
+| 2024-01-15 | 18,244 | 0 |
 ## Awards
 Max (Diverse Characters): 67  (Ranked 423)  
-Sum: 442 (Ranked 348)  
+Sum: 443 (Ranked 348)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -195,8 +195,8 @@ Diff (max vs sum): 75
 | This game has Challenging Combat | 39 |
 | This game is Great for Beginners | 36 |
 | This game has Amazing Storytelling | 36 |
+| This game has Competitive Players | 35 |
 | This game is Educational | 35 |
-| This game has Competitive Players | 34 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -325,4 +325,4 @@ Diff (max vs sum): 75
 | 2024-01-12 | 4.64 | 65 | 423 |
 | 2024-01-13 | 4.64 | 65 | 429 |
 | 2024-01-14 | 4.64 | 65 | 438 |
-| 2024-01-15 | 4.64 | 67 | 442 |
+| 2024-01-15 | 4.64 | 67 | 443 |

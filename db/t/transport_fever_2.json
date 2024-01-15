@@ -4,7 +4,7 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 283,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 353,
   "Ranking_EOS_NewPlayers": 235,
@@ -899,7 +899,7 @@
   ],
   "EOS_Progressed": 2480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7220,9 +7220,9 @@
       "ID": "achFirstCargoWaiting",
       "SetID": "dgl390n",
       "Name": "First cargo item waiting",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1686
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -7492,8 +7492,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:10:18.2578688+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:09:15.2008866+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:40.3828724+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:03:38.8352937+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:10:18.2579404+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:03:00.033652+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:15.2009654+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,952 |
-| Spectre Inductee | 66.00% | ~2,898 |
-| Medal of Exploration I | 56.00% | ~2,459 |
-| Recruit | 52.00% | ~2,283 |
-| Search and Rescue | 51.00% | ~2,239 |
+| Distinguished Service Medal | 90.00% | ~3,953 |
+| Spectre Inductee | 66.00% | ~2,899 |
+| Medal of Exploration I | 56.00% | ~2,460 |
+| Recruit | 52.00% | ~2,284 |
+| Search and Rescue | 51.00% | ~2,240 |
 | Quarian Ally | 49.00% | ~2,152 |
 | Honorarium of Corporate Service | 44.00% | ~1,932 |
-| Medal of Heroism | 43.00% | ~1,888 |
-| Turian Ally | 40.00% | ~1,756 |
-| Medal of Exploration II | 39.00% | ~1,712 |
+| Medal of Heroism | 43.00% | ~1,889 |
+| Turian Ally | 40.00% | ~1,757 |
+| Medal of Exploration II | 39.00% | ~1,713 |
 | Council Legion of Merit | 38.00% | ~1,669 |
 | Missing in Action | 37.00% | ~1,625 |
 | Soldier Ally | 36.00% | ~1,581 |
@@ -24,22 +24,22 @@
 | Asari Ally | 34.00% | ~1,493 |
 | Very Elusive | 34.00% | ~1,493 |
 | Colonial Savior | 32.00% | ~1,405 |
-| Medal of Exploration III | 31.00% | ~1,361 |
-| Principled | 31.00% | ~1,361 |
-| Merciless | 31.00% | ~1,361 |
-| Scientist | 31.00% | ~1,361 |
-| Paramour I | 30.00% | ~1,317 |
-| Sentinel Ally | 30.00% | ~1,317 |
-| Krogan Ally | 30.00% | ~1,317 |
-| Scholar | 30.00% | ~1,317 |
-| The Archangel | 29.00% | ~1,273 |
-| The Professor | 29.00% | ~1,273 |
-| Head Hunter | 29.00% | ~1,273 |
+| Medal of Exploration III | 31.00% | ~1,362 |
+| Principled | 31.00% | ~1,362 |
+| Merciless | 31.00% | ~1,362 |
+| Scientist | 31.00% | ~1,362 |
+| Paramour I | 30.00% | ~1,318 |
+| Sentinel Ally | 30.00% | ~1,318 |
+| Krogan Ally | 30.00% | ~1,318 |
+| Scholar | 30.00% | ~1,318 |
+| The Archangel | 29.00% | ~1,274 |
+| The Professor | 29.00% | ~1,274 |
+| Head Hunter | 29.00% | ~1,274 |
 | The Convict | 27.00% | ~1,186 |
 | Operative | 27.00% | ~1,186 |
+| Power Full | 27.00% | ~1,186 |
 | Colony Defense | 26.00% | ~1,142 |
 | The Krogan | 26.00% | ~1,142 |
-| Power Full | 26.00% | ~1,142 |
 | Veteran | 25.00% | ~1,098 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,098 |
 | Driven | 24.00% | ~1,054 |
@@ -76,25 +76,25 @@
 | Mission Accomplished | 19.00% | ~834 |
 | Suicide Mission | 19.00% | ~834 |
 | Against All Odds | 19.00% | ~834 |
-| First Aid Specialist | 18.00% | ~790 |
-| A House Divided | 18.00% | ~790 |
-| World Shaker | 18.00% | ~790 |
-| Pathfinder | 17.00% | ~746 |
-| Tunnel Rat | 17.00% | ~746 |
-| Liberator | 17.00% | ~746 |
+| A House Divided | 19.00% | ~834 |
+| First Aid Specialist | 18.00% | ~791 |
+| World Shaker | 18.00% | ~791 |
+| Pathfinder | 17.00% | ~747 |
+| Tunnel Rat | 17.00% | ~747 |
+| Liberator | 17.00% | ~747 |
 | Savior | 16.00% | ~703 |
 | Weapon Specialist | 16.00% | ~703 |
 | Arbiter | 16.00% | ~703 |
 | Lost and Found | 16.00% | ~703 |
 | Paramour II | 15.00% | ~659 |
 | Party Crasher | 15.00% | ~659 |
+| Fact Finder | 15.00% | ~659 |
 | Problem Solver | 15.00% | ~659 |
 | Under Pressure | 14.00% | ~615 |
 | Last Resort | 14.00% | ~615 |
 | Hard Target | 14.00% | ~615 |
 | Saboteur | 14.00% | ~615 |
 | Last Witness | 14.00% | ~615 |
-| Fact Finder | 14.00% | ~615 |
 | Pyromaniac | 13.00% | ~571 |
 | No One Left Behind | 13.00% | ~571 |
 | Well Connected | 13.00% | ~571 |
@@ -116,7 +116,7 @@
 | Bruiser | 7.00% | ~307 |
 | Lift Mastery | 7.00% | ~307 |
 | Overload Specialist | 7.00% | ~307 |
-| Hijacker | 6.00% | ~263 |
+| Hijacker | 6.00% | ~264 |
 | Damping Specialist | 4.00% | ~176 |
 | Singularity Mastery | 4.00% | ~176 |
 | Shield Breaker | 3.00% | ~132 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,391 (Ranked 212)  
+Progressed: 4,392 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,4 +254,4 @@ Completed: 13 (0.30%) (Ranked 259)
 | 2024-01-12 | 4,237 | 13 |
 | 2024-01-13 | 4,295 | 13 |
 | 2024-01-14 | 4,356 | 13 |
-| 2024-01-15 | 4,391 | 13 |
+| 2024-01-15 | 4,392 | 13 |

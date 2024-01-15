@@ -17,7 +17,7 @@ Rating: 4.59 (Ranked 453)
 | I Want One Too! | 21.00% | ~758 |
 | Restored and Ready | 20.00% | ~722 |
 | Legendary!!! | 20.00% | ~722 |
-| Go-Faster Stripes | 17.00% | ~614 |
+| Go-Faster Stripes | 18.00% | ~650 |
 | I'm Here Too! | 15.00% | ~541 |
 | We've Just Begun | 15.00% | ~541 |
 | Is It the Right Size? | 10.00% | ~361 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,609 (Ranked 225)  
+Progressed: 3,609 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |

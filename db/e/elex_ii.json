@@ -1772,9 +1772,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "BRINGTOYS",
@@ -2004,8 +2004,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:07:05.829205+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:05:42.2796992+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:00:44.5830728+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:07:05.8292614+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:38.7210145+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:42.2797452+00:00"
 }

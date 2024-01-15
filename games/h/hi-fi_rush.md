@@ -7,19 +7,19 @@ Rating: 4.86 (Ranked 33)
 | ---- | ---------- | ----- |
 | Start with a bang! | 55.00% | ~9,474 |
 | Feeling the beat! | 55.00% | ~9,474 |
-| You can pet the cat! | 50.00% | ~8,612 |
-| Who put gears in there? | 41.00% | ~7,062 |
+| You can pet the cat! | 50.00% | ~8,613 |
+| Who put gears in there? | 41.00% | ~7,063 |
 | Cream of the Crop | 36.00% | ~6,201 |
 | Thanks for the free chip, Peppermint! | 35.00% | ~6,029 |
 | You got this, Peppermint? | 31.00% | ~5,340 |
-| Perfect Parry | 29.00% | ~4,995 |
+| Perfect Parry | 29.00% | ~4,996 |
 | Alright, that felt AWESOME! | 28.00% | ~4,823 |
 | I play my own way! | 24.00% | ~4,134 |
 | This will cost you big time | 23.00% | ~3,962 |
 | Uh, they were broken when I got here | 22.00% | ~3,790 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,617 |
 | Kissing the sky! | 20.00% | ~3,445 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,100 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,101 |
 | The Negotiator | 17.00% | ~2,928 |
 | Does that say weakpoint? | 17.00% | ~2,928 |
 | You must like calling me in, Chai | 15.00% | ~2,584 |
@@ -39,13 +39,13 @@ Rating: 4.86 (Ranked 33)
 | Chip-tuned | 4.00% | ~689 |
 | Wanna hear my playlist? | 4.00% | ~689 |
 | Check out my moves! | 4.00% | ~689 |
-| I think I deserve some praise, here! | 2.00% | ~344 |
-| I think I found your calling, Macaron | 2.00% | ~344 |
-| We're Jammin' | 2.00% | ~344 |
-| I'm not done with you yet | 2.00% | ~344 |
-| First we parry, then we counter | 2.00% | ~344 |
-| I hit things with a guitar really well. | 2.00% | ~344 |
-| You ever parry a volcano? | 2.00% | ~344 |
+| I think I deserve some praise, here! | 2.00% | ~345 |
+| I think I found your calling, Macaron | 2.00% | ~345 |
+| We're Jammin' | 2.00% | ~345 |
+| I'm not done with you yet | 2.00% | ~345 |
+| First we parry, then we counter | 2.00% | ~345 |
+| I hit things with a guitar really well. | 2.00% | ~345 |
+| You ever parry a volcano? | 2.00% | ~345 |
 | Call me Turbo Chai | 2.00% | ~315 |
 | Easy Listening | 1.00% | ~172 |
 | This is a breeze! | 1.00% | ~172 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,225 (Ranked 168)  
+Progressed: 17,226 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-12 | 16,910 | 8 |
 | 2024-01-13 | 17,049 | 8 |
 | 2024-01-14 | 17,157 | 8 |
-| 2024-01-15 | 17,225 | 8 |
+| 2024-01-15 | 17,226 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

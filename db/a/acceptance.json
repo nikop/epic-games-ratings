@@ -2,9 +2,9 @@
   "ID": "bff2cecb631446d395112f4179ce8d0a",
   "Name": "Acceptance",
   "ProductSlug": "acceptance-beff58",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:41.8176483+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:09.1060399+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:07:52.2828625+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:56.8815997+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:06:18.440187+00:00"
 }

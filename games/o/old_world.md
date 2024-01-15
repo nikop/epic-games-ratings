@@ -10,20 +10,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 5.00% | ~844 |
 | Explorer | 4.00% | ~675 |
 | Friendly Family | 4.00% | ~675 |
-| Able | 3.00% | ~506 |
-| Architect | 3.00% | ~506 |
-| Good | 3.00% | ~506 |
-| Intrepid | 3.00% | ~506 |
-| Just | 3.00% | ~506 |
-| Learned | 3.00% | ~506 |
-| Mason | 3.00% | ~506 |
-| Noble | 3.00% | ~506 |
-| Pioneer | 3.00% | ~506 |
-| Strong | 3.00% | ~506 |
-| Hanging Gardens | 3.00% | ~506 |
-| Oracle | 3.00% | ~506 |
-| Judaism | 3.00% | ~506 |
-| Trade Caravan | 3.00% | ~506 |
+| Able | 3.00% | ~507 |
+| Architect | 3.00% | ~507 |
+| Good | 3.00% | ~507 |
+| Intrepid | 3.00% | ~507 |
+| Just | 3.00% | ~507 |
+| Learned | 3.00% | ~507 |
+| Mason | 3.00% | ~507 |
+| Noble | 3.00% | ~507 |
+| Pioneer | 3.00% | ~507 |
+| Strong | 3.00% | ~507 |
+| Hanging Gardens | 3.00% | ~507 |
+| Oracle | 3.00% | ~507 |
+| Judaism | 3.00% | ~507 |
+| Trade Caravan | 3.00% | ~507 |
 | Regicide | 2.00% | ~338 |
 | Ambitious | 2.00% | ~338 |
 | Brilliant | 2.00% | ~338 |
@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
+| Economic Reform | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
 | Legionary | 0.80% | ~135 |
 | Double Victory | 0.80% | ~135 |
@@ -101,13 +102,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.70% | ~118 |
 | Learn to Play 4 | 0.70% | ~118 |
 | Assyrian Paganism | 0.70% | ~118 |
-| Economic Reform | 0.70% | ~118 |
 | Military Prestige | 0.70% | ~118 |
 | Legalism | 0.70% | ~118 |
 | Cimmerian Archer | 0.70% | ~118 |
 | Kushite Pyramids | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
 | Capable | 0.60% | ~101 |
+| Devout | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
 | Lion | 0.60% | ~101 |
 | Peacemaker | 0.60% | ~101 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.60% | ~101 |
 | Phalangite | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
-| Devout | 0.50% | ~84 |
 | Clerics | 0.50% | ~84 |
 | Church of the Holy Sepulchre | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
 | Deposed Tribe | 0.40% | ~68 |
+| Poetic Leader | 0.40% | ~68 |
 | Royal Library | 0.40% | ~68 |
 | Yazilikaya | 0.40% | ~68 |
 | Carthage - Ox Hide | 0.30% | ~51 |
@@ -153,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
-| Poetic Leader | 0.30% | ~51 |
 | Jebel Barkal | 0.30% | ~51 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
@@ -166,6 +166,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
+| Circus Maximus in Roma | 0.20% | ~34 |
 | Capturing Cities | 0.20% | ~34 |
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
@@ -268,7 +269,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Punic Wars | 0.10% | ~17 |
 | Colossus in Rhodes | 0.10% | ~17 |
 | Roman Papacy | 0.10% | ~17 |
-| Circus Maximus in Roma | 0.10% | ~17 |
 | Pantheon in Roma | 0.10% | ~17 |
 | Word of God | 0.10% | ~17 |
 | Great Ziggurat in Ur | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,882 (Ranked 169)  
+Progressed: 16,884 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,882 | 5 |
+| 2024-01-15 | 16,884 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Steam Power | 11.00% | ~3 |
-| Connection Up | 7.00% | ~2 |
+| Steam Power | 15.00% | ~4 |
+| Connection Up | 11.00% | ~3 |
 | Capital Connection | 4.00% | ~1 |
 | Billionaire Club | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |

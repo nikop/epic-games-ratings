@@ -14,7 +14,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Capacity | 56.00% | ~343 |
 | Just the start | 50.00% | ~306 |
 | Perfect Storm | 47.00% | ~288 |
-| All That Glitters | 46.00% | ~282 |
+| All That Glitters | 47.00% | ~288 |
 | Enhance! | 43.00% | ~264 |
 | One Of the Chosen | 41.00% | ~251 |
 | Throne Potato | 41.00% | ~251 |
@@ -22,8 +22,8 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 40.00% | ~245 |
 | 25 to Life | 40.00% | ~245 |
 | Salvation | 39.00% | ~239 |
+| Soul Harvester | 37.00% | ~227 |
 | Unshakable Fortitude | 36.00% | ~221 |
-| Soul Harvester | 36.00% | ~221 |
 | I Wanna Rock | 35.00% | ~215 |
 | Delusions of Grandeur | 35.00% | ~215 |
 | Love Tap | 34.00% | ~208 |
@@ -32,7 +32,7 @@ Number of Ratings: 116  (23.09.2022)
 | Eat Your Heart Out | 30.00% | ~184 |
 | For Whom the Bell Tolls | 30.00% | ~184 |
 | Unyielding Strength | 27.00% | ~166 |
-| Can you restore the Balance? | 26.00% | ~159 |
+| Can you restore the Balance? | 27.00% | ~166 |
 | Crowd Source | 26.00% | ~159 |
 | Big Spender | 26.00% | ~159 |
 | Cleanup Crew | 24.00% | ~147 |

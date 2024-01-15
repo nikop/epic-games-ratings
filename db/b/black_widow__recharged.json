@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24991,
+  "EOS_Progressed": 24994,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23518,6 +23518,11 @@
       "Time": "2024-01-15T21:07:49.372413+00:00",
       "NumProgressed": 24991,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-15T22:06:16.150816+00:00",
+      "NumProgressed": 24994,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23529,7 +23534,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19243
+      "UsersEstimate": 19245
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23561,7 +23566,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -23585,7 +23590,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12745
+      "UsersEstimate": 12747
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23640,15 +23645,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24991,
+      "Progressed": 24994,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:07:49.3724125+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:06:16.1508155+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:59:25.017302+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:07:49.3725394+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:39.9249633+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:06:16.1509922+00:00"
 }

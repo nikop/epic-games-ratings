@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25252,
+  "EOS_Progressed": 25254,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -23245,6 +23245,11 @@
       "Time": "2024-01-15T21:06:41.4381396+00:00",
       "NumProgressed": 25252,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-15T22:05:23.1829497+00:00",
+      "NumProgressed": 25254,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 16,
@@ -23304,7 +23309,7 @@
       "Name": "Fireworks",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -23328,7 +23333,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9596
+      "UsersEstimate": 9597
     },
     {
       "ID": "Mirrors",
@@ -23352,7 +23357,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11868
+      "UsersEstimate": 11869
     },
     {
       "ID": "Sole_Survivor",
@@ -23368,7 +23373,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "The_Reaper",
@@ -23383,15 +23388,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25252,
+      "Progressed": 25254,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:06:41.4381393+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:05:23.1829492+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.5508236+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:57:10.8358967+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:06:41.4382634+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:56:59.6674842+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:23.1830614+00:00"
 }

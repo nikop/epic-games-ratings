@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.53 (Ranked 566)  
+Rating: 4.53 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,7 +28,7 @@ Rating: 4.53 (Ranked 566)
 | The Darwin Era Was Here | 25.00% | ~1,612 |
 | Deep Into Insanity | 24.00% | ~1,548 |
 | The Passenger | 24.00% | ~1,548 |
-| Come on, You Wanna Live Forever? | 22.00% | ~1,419 |
+| Come on, You Wanna Live Forever? | 23.00% | ~1,483 |
 | The Spire | 21.00% | ~1,354 |
 | El Riesgo Siempre Vive | 20.00% | ~1,290 |
 | Stuff Of Nightmares | 19.00% | ~1,225 |

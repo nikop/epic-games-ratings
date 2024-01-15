@@ -2,12 +2,12 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 1017,
+  "Ranking_Rating": 1018,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2345,
+  "EOS_Progressed": 2346,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4618,6 +4618,11 @@
       "Time": "2024-01-15T20:10:26.2848489+00:00",
       "NumProgressed": 2345,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T22:10:03.000081+00:00",
+      "NumProgressed": 2346,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4645,7 +4650,7 @@
       "Name": "Powerful Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_04",
@@ -4653,7 +4658,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_05",
@@ -4693,15 +4698,15 @@
       "Name": "The Mentor",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 797
+      "UsersEstimate": 821
     },
     {
       "ID": "ACH_11",
@@ -4739,9 +4744,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_16",
@@ -4869,7 +4874,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_33",
@@ -4916,7 +4921,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2345,
+      "Progressed": 2346,
       "Completed": 3
     }
   ],
@@ -4924,8 +4929,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:19.423443+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:10:03.0000805+00:00",
   "LastUpdate_AppInfo": "2024-01-08T23:57:15.0686874+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:00:22.6670597+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:19.4234765+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:23.0266882+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:10:03.0001319+00:00"
 }

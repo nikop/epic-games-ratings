@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1353,
+  "EOS_Progressed": 1354,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -3969,6 +3969,11 @@
       "Time": "2024-01-15T12:10:50.8477823+00:00",
       "NumProgressed": 1353,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T22:09:53.6214252+00:00",
+      "NumProgressed": 1354,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -3997,7 +4002,7 @@
       "Name": "Boxing Clever",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "Cartographer",
@@ -4037,7 +4042,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "DustDancing",
@@ -4053,7 +4058,7 @@
       "Name": "Everything is Dust",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "LightsOut",
@@ -4069,7 +4074,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -4085,7 +4090,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "Relic",
@@ -4093,7 +4098,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "SkeletonCrew",
@@ -4101,7 +4106,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "TerraTourGuide",
@@ -4133,21 +4138,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1353,
+      "Progressed": 1354,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:07.7905491+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:09:53.6214249+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.1590179+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:58:52.2165441+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:07.7905976+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:16.2470864+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:53.6214535+00:00"
 }

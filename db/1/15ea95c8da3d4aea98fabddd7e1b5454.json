@@ -2,9 +2,9 @@
   "ID": "15ea95c8da3d4aea98fabddd7e1b5454",
   "Name": "MASKA",
   "ProductSlug": "maska-20ee45",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-01T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-02T02:58:52.6164143+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.0816659+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:58:54.2643465+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:09:08.4952967+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:17.8455157+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:08:21.1144716+00:00"
 }

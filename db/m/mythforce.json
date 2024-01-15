@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6359,
+  "EOS_Progressed": 6361,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13301,6 +13301,11 @@
       "Time": "2024-01-15T21:06:55.5646666+00:00",
       "NumProgressed": 6359,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T22:05:34.1671508+00:00",
+      "NumProgressed": 6361,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13313,7 +13318,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13401,7 +13406,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13449,7 +13454,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13465,7 +13470,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13473,7 +13478,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13496,15 +13501,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6359,
+      "Progressed": 6361,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:06:55.5646663+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:05:34.1671504+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:00:57.8375284+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:06:55.5647404+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:48.4708917+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:34.1672322+00:00"
 }

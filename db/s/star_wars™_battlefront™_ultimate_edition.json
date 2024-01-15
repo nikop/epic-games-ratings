@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2976,
+  "EOS_Progressed": 2977,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8064,6 +8064,11 @@
       "Time": "2024-01-15T21:11:25.9900442+00:00",
       "NumProgressed": 2976,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T22:10:08.3863522+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8300,7 +8305,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "achievement_36",
@@ -8579,13 +8584,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2976,
+      "Progressed": 2977,
       "Completed": 1
     }
   ],
@@ -8593,8 +8598,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:25.9900439+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:10:08.3863518+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:58:15.0059104+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:25.9901964+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:57:48.8972221+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:10:08.3864552+00:00"
 }

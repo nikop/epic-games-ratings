@@ -1,9 +1,9 @@
 {
   "ID": "a763ba642aa24102a86875ebec54b486",
   "Name": "Catawba",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:30:55.1181482+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:58:36.655507+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:10:03.4866099+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:04.5751667+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:03.8359659+00:00"
 }

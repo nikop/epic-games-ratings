@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -77,7 +77,7 @@
   "Tags": [],
   "EOS_Progressed": 1330,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4464,9 +4464,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 213
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4497,8 +4497,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:25.6276332+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:10:08.0088569+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:00:07.4963424+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:25.6276786+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:11.4377202+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:10:08.00893+00:00"
 }

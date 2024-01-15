@@ -16,7 +16,7 @@
 | Face your fears | 32.00% | ~105 |
 | Finished it | 27.00% | ~88 |
 | Whispers long forgotten | 18.00% | ~59 |
-| Sound Bite | 14.00% | ~46 |
+| Sound Bite | 15.00% | ~49 |
 | The art of movement | 14.00% | ~46 |
 | Another perspective | 13.00% | ~43 |
 | A Slice of Life | 13.00% | ~43 |

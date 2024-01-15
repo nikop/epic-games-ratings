@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -2495,9 +2495,9 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -2527,9 +2527,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 166
     },
     {
       "ID": "TIME_JINX",
@@ -2606,8 +2606,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:07.5389603+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:09:53.2501668+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:48.2425501+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:58:19.0575438+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:07.538981+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:57:52.0612077+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:53.2501913+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1677,9 +1677,9 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "heavy_burden",
@@ -1892,8 +1892,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:09:51.365905+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:08:54.104412+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:58:03.6361686+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:09:51.3659581+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:57:39.0627701+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:08:54.1044583+00:00"
 }

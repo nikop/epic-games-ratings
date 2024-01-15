@@ -2,9 +2,9 @@
   "ID": "af77bbea5cb04f7db0a5b433394db027",
   "Name": "Depthris\u2122",
   "ProductSlug": "depthris-42ac0e",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T05:57:06.4463992+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:00:57.6558342+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:06:23.06038+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:48.3269391+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:08.9523662+00:00"
 }

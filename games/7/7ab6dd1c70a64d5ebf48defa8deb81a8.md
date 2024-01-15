@@ -1,12 +1,12 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.13 (Ranked 1,017)  
+Rating: 4.13 (Ranked 1,018)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 64.00% | ~1,501 |
-| Trinity | 34.00% | ~797 |
+| Trinity | 35.00% | ~821 |
 | The Collector | 28.00% | ~657 |
 | Find Allies | 27.00% | ~633 |
 | A Taste of Wrath | 27.00% | ~633 |
@@ -16,14 +16,14 @@ Rating: 4.13 (Ranked 1,017)
 | Scholar | 25.00% | ~586 |
 | I Found It | 25.00% | ~586 |
 | Fashion Victim | 24.00% | ~563 |
-| Stone Collection | 23.00% | ~539 |
-| Tributes of Caladrias | 22.00% | ~516 |
-| Powerful Allies | 21.00% | ~492 |
+| Tributes of Caladrias | 23.00% | ~540 |
+| Stone Collection | 23.00% | ~540 |
+| Powerful Allies | 21.00% | ~493 |
 | Big Bazar | 15.00% | ~352 |
 | Alchemist | 15.00% | ~352 |
 | Essence Blow | 14.00% | ~328 |
-| The Mentor | 12.00% | ~281 |
-| Calm before the Storm | 10.00% | ~234 |
+| The Mentor | 12.00% | ~282 |
+| Calm before the Storm | 10.00% | ~235 |
 | To Battle | 9.00% | ~211 |
 | Godslayer | 8.00% | ~188 |
 | Airborne | 8.00% | ~188 |
@@ -42,7 +42,7 @@ Rating: 4.13 (Ranked 1,017)
 | All That Gold | 0.80% | ~19 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,345 (Ranked 244)  
+Progressed: 2,346 (Ranked 244)  
 Completed: 3 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 3 (0.13%) (Ranked 302)
 | 2024-01-12 | 2,273 | 4 |
 | 2024-01-13 | 2,309 | 3 |
 | 2024-01-14 | 2,332 | 3 |
-| 2024-01-15 | 2,345 | 3 |
+| 2024-01-15 | 2,346 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

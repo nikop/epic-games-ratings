@@ -4,7 +4,7 @@
   "ProductSlug": "train-world-07e156",
   "Ranking_EOS_Progress": 611,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-19T21:00:00+00:00",
@@ -238,9 +238,9 @@
       "ID": "first_line",
       "SetID": "5ia1dkp",
       "Name": "Connection Up",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "five_cities_connected",
@@ -446,9 +446,9 @@
       "ID": "steam_engine",
       "SetID": "5ia1dkp",
       "Name": "Steam Power",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "task_complete",
@@ -581,8 +581,8 @@
   ],
   "FirstSeen": "2023-07-21T20:59:26.8070141+00:00",
   "FirstSeenAchievements": "2023-07-14T13:20:01.4168917+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:08:00.5177838+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:06:24.8369915+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:14.159447+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:03:44.5038804+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:08:00.5178144+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:03:04.347554+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:06:24.8370237+00:00"
 }

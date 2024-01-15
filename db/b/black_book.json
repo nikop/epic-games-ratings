@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67279,
+  "EOS_Progressed": 67282,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 1292,
+  "EOS_NewPlayers": 1287,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17036,6 +17036,11 @@
       "Time": "2024-01-15T21:07:28.8904775+00:00",
       "NumProgressed": 67279,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-15T22:06:00.1254816+00:00",
+      "NumProgressed": 67282,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17104,7 +17109,7 @@
       "Name": "Card Player",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "CHEATER",
@@ -17160,7 +17165,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14801
+      "UsersEstimate": 14802
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17168,7 +17173,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8073
+      "UsersEstimate": 8074
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -17248,7 +17253,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19511
+      "UsersEstimate": 19512
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -17264,7 +17269,7 @@
       "Name": "Dead Friend",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "MERMAID_NOT_FREE",
@@ -17296,7 +17301,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8073
+      "UsersEstimate": 8074
     },
     {
       "ID": "NORMAL_END",
@@ -17328,7 +17333,7 @@
       "Name": "Pine Tree",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5382
+      "UsersEstimate": 5383
     },
     {
       "ID": "PROSHKA_LOYAL",
@@ -17447,15 +17452,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67279,
+      "Progressed": 67282,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:07:28.8904772+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:06:00.1254806+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:36.8050792+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:07:28.8905963+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:18.605201+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:06:00.1255965+00:00"
 }

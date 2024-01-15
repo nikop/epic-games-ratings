@@ -2,12 +2,12 @@
   "ID": "eca39884bdf14f65af242a8e3ff5b2d9",
   "Name": "Avatar: Frontiers of Pandora",
   "ProductSlug": "avatar-frontiers-of-pandora",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 249,
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-07T05:00:00+00:00",
@@ -1401,10 +1401,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 1416,
       "NumberOfAwardsMax": 178
+    },
+    {
+      "Time": "2024-01-15T22:00:35.4825322+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1422,
+      "NumberOfAwardsMax": 178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1416,
+  "NumberOfAwards": 1422,
   "NumberOfAwardsMax": 178,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1424,7 +1430,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 145
+      "Count": 148
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1442,7 +1448,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 153
+      "Count": 156
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1487,8 +1493,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-01-15T17:01:30.3247156+00:00",
+  "LastChanged": "2024-01-15T22:00:35.4825321+00:00",
   "LastUpdate_AppInfo": "2024-01-15T08:57:05.2743108+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:58.4313878+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:04:15.304522+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:35.4825325+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:03:28.6032792+00:00"
 }

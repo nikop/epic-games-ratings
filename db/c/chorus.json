@@ -6,8 +6,8 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -331,11 +331,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 1423,
+  "EOS_Progressed": 1424,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:24.544527+00:00",
@@ -3111,6 +3111,11 @@
       "Time": "2024-01-15T04:10:55.5882456+00:00",
       "NumProgressed": 1423,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-15T22:09:48.5212923+00:00",
+      "NumProgressed": 1424,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 43,
@@ -3120,9 +3125,9 @@
       "ID": "AllTrophies",
       "SetID": "a6c395p",
       "Name": "Demigod",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 150,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1040
     },
     {
       "ID": "DieInPermadeath",
@@ -3138,15 +3143,15 @@
       "Name": "Voices from the Past",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "Finish5SideMissions",
       "SetID": "a6c395p",
       "Name": "Helping Hand",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 911
     },
     {
       "ID": "FinishAllSideMissions",
@@ -3162,7 +3167,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Kill3InOneDrift",
@@ -3178,7 +3183,7 @@
       "Name": "Born to Drift",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "KillWithALargeShip",
@@ -3224,9 +3229,9 @@
       "ID": "MissionAmaranthPart2",
       "SetID": "a6c395p",
       "Name": "Retaliate",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 299
     },
     {
       "ID": "MissionAncientRitual",
@@ -3266,7 +3271,7 @@
       "Name": "Full Arsenal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "MissionEosReturn",
@@ -3274,7 +3279,7 @@
       "Name": "Set in Motion",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -3314,15 +3319,15 @@
       "Name": "Rise as One",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "MissionOldFriend",
       "SetID": "a6c395p",
       "Name": "Old Days Born Anew",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 840
+      "UsersEstimate": 826
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -3338,7 +3343,7 @@
       "Name": "Shields Down",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 982
+      "UsersEstimate": 983
     },
     {
       "ID": "MissionScavengingJob",
@@ -3346,7 +3351,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "MissionShipyard",
@@ -3354,7 +3359,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MissionSlayingChimera",
@@ -3416,9 +3421,9 @@
       "ID": "RiteOfTheHunt",
       "SetID": "a6c395p",
       "Name": "Huntress",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 712
     },
     {
       "ID": "RiteOfTheStar",
@@ -3450,7 +3455,7 @@
       "Name": "Space Traveler",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "WinARace",
@@ -3465,15 +3470,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1423,
+      "Progressed": 1424,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-04T18:59:52.3353425+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:11:00.9705305+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:09:48.5212914+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:39.6396666+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:57:59.3929338+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:11:00.9705769+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:57:35.88332+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:48.5213453+00:00"
 }

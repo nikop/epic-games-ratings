@@ -1,7 +1,7 @@
 # Commandos 3 - HD Remaster
 [Store](https://store.epicgames.com/en-US/p/commandos-3-ba41db)  
 [View Rawdata](../../db/c/commandos_3_-_hd_remaster.json)  
-Rating: 4.12 (Ranked 1,022)  
+Rating: 4.15 (Ranked 1,003)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -12,3 +12,4 @@ Rating: 4.12 (Ranked 1,022)
 | 2023-11-15 | 4.09 | 0 | 0 |
 | 2023-11-28 | 4.08 | 0 | 0 |
 | 2024-01-03 | 4.12 | 0 | 0 |
+| 2024-01-15 | 4.15 | 0 | 0 |

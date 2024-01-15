@@ -2249,9 +2249,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22424,
+  "EOS_Progressed": 22427,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14019,6 +14019,11 @@
       "Time": "2024-01-15T21:10:51.2776456+00:00",
       "NumProgressed": 22424,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T22:09:40.8326872+00:00",
+      "NumProgressed": 22427,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14062,7 +14067,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14158,7 +14163,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4709
+      "UsersEstimate": 4710
     },
     {
       "ID": "KILL_ROBOT",
@@ -14174,7 +14179,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14182,7 +14187,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14190,7 +14195,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14214,7 +14219,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -14222,7 +14227,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14230,7 +14235,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3812
+      "UsersEstimate": 3813
     },
     {
       "ID": "STORY_HABITAT",
@@ -14246,7 +14251,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14262,7 +14267,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5830
+      "UsersEstimate": 5831
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14270,7 +14275,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "STORY_TOWER",
@@ -14374,7 +14379,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14405,13 +14410,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22424,
+      "Progressed": 22427,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10350,
+      "Progressed": 10353,
       "Completed": 29
     }
   ],
@@ -14419,8 +14424,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-15T11:03:39.3194832+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:10:51.2776451+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:09:40.8326867+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:04:02.8821253+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:10:51.2777238+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:03:19.050881+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:09:40.8327981+00:00"
 }

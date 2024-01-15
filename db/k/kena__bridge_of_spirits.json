@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1553,7 +1553,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430430,
+  "EOS_Progressed": 430431,
   "EOS_Completed": 556,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
@@ -19533,6 +19533,11 @@
       "Time": "2024-01-15T20:04:43.6796601+00:00",
       "NumProgressed": 430430,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2024-01-15T22:04:36.9842544+00:00",
+      "NumProgressed": 430431,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 41,
@@ -19544,7 +19549,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64564
+      "UsersEstimate": 64565
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -19560,7 +19565,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258258
+      "UsersEstimate": 258259
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -19624,7 +19629,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258258
+      "UsersEstimate": 258259
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -19656,7 +19661,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133433
+      "UsersEstimate": 133434
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -19680,7 +19685,7 @@
       "Name": "Between the Eyes",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 202302
+      "UsersEstimate": 202303
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -19712,7 +19717,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408908
+      "UsersEstimate": 408909
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -19744,7 +19749,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301301
+      "UsersEstimate": 301302
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -19760,7 +19765,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344344
+      "UsersEstimate": 344345
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -19816,7 +19821,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120520
+      "UsersEstimate": 120521
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -19832,7 +19837,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189389
+      "UsersEstimate": 189390
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -19840,7 +19845,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146346
+      "UsersEstimate": 146347
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -19856,7 +19861,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 133433
+      "UsersEstimate": 133434
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -19871,15 +19876,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430430,
+      "Progressed": 430431,
       "Completed": 556
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-15T20:57:43.9440665+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:05:41.8361872+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:04:36.9842538+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.7074577+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:57:43.9440668+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:05:41.8363099+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:57:24.3569166+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:04:36.9843811+00:00"
 }

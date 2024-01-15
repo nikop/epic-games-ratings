@@ -2,9 +2,9 @@
   "ID": "81de567b4b2d489ab9571bf6bccdbc97",
   "Name": "Hatone",
   "ProductSlug": "hatone-34a557",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T06:57:04.773276+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:02:00.7065997+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:05:55.056016+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:37.2390436+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:04:47.2453152+00:00"
 }

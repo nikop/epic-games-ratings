@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17225,
+  "EOS_Progressed": 17226,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 955,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12338,6 +12338,11 @@
       "Time": "2024-01-15T20:05:37.7517901+00:00",
       "NumProgressed": 17225,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T22:05:29.3990058+00:00",
+      "NumProgressed": 17226,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12421,7 +12426,7 @@
       "Name": "I think I deserve some praise, here!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach011",
@@ -12485,7 +12490,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "Ach019",
@@ -12565,7 +12570,7 @@
       "Name": "I think I found your calling, Macaron",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach029",
@@ -12589,7 +12594,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "Ach032",
@@ -12637,7 +12642,7 @@
       "Name": "We\u0027re Jammin\u0027",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach038",
@@ -12645,7 +12650,7 @@
       "Name": "I\u0027m not done with you yet",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach039",
@@ -12653,7 +12658,7 @@
       "Name": "First we parry, then we counter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach040",
@@ -12717,7 +12722,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7062
+      "UsersEstimate": 7063
     },
     {
       "ID": "Ach048",
@@ -12733,7 +12738,7 @@
       "Name": "I hit things with a guitar really well.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach050",
@@ -12749,7 +12754,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8612
+      "UsersEstimate": 8613
     },
     {
       "ID": "Ach052",
@@ -12781,7 +12786,7 @@
       "Name": "You ever parry a volcano?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "Ach056",
@@ -12916,13 +12921,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17225,
+      "Progressed": 17226,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15746,
+      "Progressed": 15747,
       "Completed": 1931
     }
   ],
@@ -12930,8 +12935,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:06:49.2753223+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:05:29.3990053+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:05.0598575+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:06:49.2754225+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:53.5631704+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:29.3991159+00:00"
 }

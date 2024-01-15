@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4117,
+  "EOS_Progressed": 4119,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -7126,6 +7126,11 @@
       "Time": "2024-01-15T21:06:33.3599657+00:00",
       "NumProgressed": 4117,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T22:05:17.0378395+00:00",
+      "NumProgressed": 4119,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7169,7 +7174,7 @@
       "Name": "The will to move on",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "REUNION",
@@ -7223,9 +7228,9 @@
       "ID": "TRANSMISSION",
       "SetID": "1a29mp6",
       "Name": "Transmission",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 371
+      "UsersEstimate": 330
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -7240,7 +7245,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4117,
+      "Progressed": 4119,
       "Completed": 6
     }
   ],
@@ -7248,8 +7253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:06:33.3599654+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:05:17.037839+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:33.446333+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:59:38.7645789+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:06:33.3600064+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:49.9134941+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:17.0378842+00:00"
 }

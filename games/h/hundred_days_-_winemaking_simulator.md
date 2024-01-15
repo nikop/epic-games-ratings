@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~21 |
 | Unsuitable Terroir | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,904 (Ranked 155)  
+Progressed: 20,905 (Ranked 155)  
 Completed: 13 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,11 +181,11 @@ Completed: 13 (0.06%) (Ranked 334)
 | 2024-01-12 | 20,376 | 13 |
 | 2024-01-13 | 20,580 | 13 |
 | 2024-01-14 | 20,778 | 13 |
-| 2024-01-15 | 20,904 | 13 |
+| 2024-01-15 | 20,905 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 298)  
-Sum: 1,739 (Ranked 229)  
-Diff (max vs sum): 69  
+Sum: 1,739 (Ranked 230)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 208 |

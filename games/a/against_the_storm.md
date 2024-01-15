@@ -13,13 +13,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Overgrown Library | 9.00% | ~1,873 |
 | The Marshlands | 8.00% | ~1,665 |
 | Petrified Necropolis | 8.00% | ~1,665 |
-| Overcoming Difficulty | 7.00% | ~1,456 |
-| Coral Forest | 7.00% | ~1,456 |
-| The Scarlet Orchard | 7.00% | ~1,456 |
-| Gathering Storm | 7.00% | ~1,456 |
-| Frosts | 6.00% | ~1,248 |
-| Land of Greed | 6.00% | ~1,248 |
-| Ominous Presence | 6.00% | ~1,248 |
+| Overcoming Difficulty | 7.00% | ~1,457 |
+| Coral Forest | 7.00% | ~1,457 |
+| The Scarlet Orchard | 7.00% | ~1,457 |
+| Gathering Storm | 7.00% | ~1,457 |
+| Frosts | 6.00% | ~1,249 |
+| Land of Greed | 6.00% | ~1,249 |
+| Ominous Presence | 6.00% | ~1,249 |
 | Royal Outpost | 5.00% | ~1,040 |
 | Watchtower | 5.00% | ~1,040 |
 | Homesick | 4.00% | ~832 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,807 (Ranked 156)  
+Progressed: 20,809 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-12 | 20,729 | 34 |
 | 2024-01-13 | 20,758 | 35 |
 | 2024-01-14 | 20,781 | 35 |
-| 2024-01-15 | 20,807 | 35 |
+| 2024-01-15 | 20,809 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,386 (Ranked 178)  

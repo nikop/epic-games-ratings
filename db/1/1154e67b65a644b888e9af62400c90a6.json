@@ -3,11 +3,11 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 153,
-  "Ranking_EOS_Progress": 832,
+  "Ranking_Popularity": 128,
+  "Ranking_PopularitySum": 152,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -3389,18 +3389,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 4940,
       "NumberOfAwardsMax": 1783
+    },
+    {
+      "Time": "2024-01-15T22:00:00.2142203+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 4980,
+      "NumberOfAwardsMax": 1816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4940,
-  "NumberOfAwardsMax": 1783,
+  "NumberOfAwards": 4980,
+  "NumberOfAwardsMax": 1816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1783
+      "Count": 1816
     },
     {
       "Text": "This game is Relaxing",
@@ -3430,7 +3436,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 305
+      "Count": 312
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3481,8 +3487,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-15T21:01:14.1661292+00:00",
+  "LastChanged": "2024-01-15T22:00:00.2142201+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:57:00.8695332+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:14.1661296+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:05:04.3571635+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:00.2142207+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:04:07.1728139+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,091 |
-| Lost and Found | 9.00% | ~701 |
-| Autodidact | 8.00% | ~10,634 |
+| Malpractice Assurance | 14.00% | ~1,092 |
+| Lost and Found | 9.00% | ~702 |
+| Autodidact | 8.00% | ~10,635 |
 | This Belongs in a Museum | 7.00% | ~9,305 |
 | This guy... again? | 7.00% | ~546 |
-| Serenity Now! | 6.00% | ~7,975 |
-| Creep and Sleep | 6.00% | ~7,975 |
-| Catch and Decease | 6.00% | ~7,975 |
-| Overdue Notice | 6.00% | ~7,975 |
-| Escape from the Black Hole | 6.00% | ~7,975 |
-| To Grandmother's House | 6.00% | ~7,975 |
+| Serenity Now! | 6.00% | ~7,976 |
+| Creep and Sleep | 6.00% | ~7,976 |
+| Catch and Decease | 6.00% | ~7,976 |
+| Overdue Notice | 6.00% | ~7,976 |
+| Escape from the Black Hole | 6.00% | ~7,976 |
+| To Grandmother's House | 6.00% | ~7,976 |
 | Ploughshares to Swords | 6.00% | ~468 |
 | Bloody Graduation | 6.00% | ~468 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,646 |
-| It Rings a Bell | 5.00% | ~6,646 |
-| Not Today! | 5.00% | ~6,646 |
-| Meat and Greet | 5.00% | ~6,646 |
-| It Happens | 5.00% | ~6,646 |
-| Rush Hour | 5.00% | ~6,646 |
-| Merry Time | 5.00% | ~6,646 |
-| Harvest Festival | 5.00% | ~6,646 |
-| Whale | 5.00% | ~6,646 |
-| A Place to Lay Your Head | 5.00% | ~6,646 |
-| FNG | 5.00% | ~6,646 |
-| Nope | 5.00% | ~6,646 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,647 |
+| It Rings a Bell | 5.00% | ~6,647 |
+| Not Today! | 5.00% | ~6,647 |
+| Meat and Greet | 5.00% | ~6,647 |
+| It Happens | 5.00% | ~6,647 |
+| Rush Hour | 5.00% | ~6,647 |
+| Merry Time | 5.00% | ~6,647 |
+| Harvest Festival | 5.00% | ~6,647 |
+| Whale | 5.00% | ~6,647 |
+| A Place to Lay Your Head | 5.00% | ~6,647 |
+| FNG | 5.00% | ~6,647 |
+| Nope | 5.00% | ~6,647 |
 | Resurrection | 4.00% | ~5,317 |
 | Unleash Hell | 4.00% | ~5,317 |
 | Funny Guy | 4.00% | ~5,317 |
@@ -52,14 +52,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 3.00% | ~3,988 |
 | When You Want Something Done Right | 3.00% | ~3,988 |
 | Utopia | 3.00% | ~3,988 |
+| Hot Air | 3.00% | ~3,988 |
 | Road Trip | 3.00% | ~3,988 |
-| This Looks Familiar | 2.00% | ~2,658 |
-| Ichthyophobic | 2.00% | ~2,658 |
-| No More Mouths to Feed | 2.00% | ~2,658 |
-| Worldly Traveller | 2.00% | ~2,658 |
-| Hot Air | 2.00% | ~2,658 |
-| Eyes Up | 2.00% | ~2,658 |
-| Handled | 2.00% | ~2,658 |
+| This Looks Familiar | 2.00% | ~2,659 |
+| Ichthyophobic | 2.00% | ~2,659 |
+| No More Mouths to Feed | 2.00% | ~2,659 |
+| Worldly Traveller | 2.00% | ~2,659 |
+| Eyes Up | 2.00% | ~2,659 |
+| Handled | 2.00% | ~2,659 |
 | Clearing the Ledger | 1.00% | ~1,329 |
 | Hat Trick | 1.00% | ~1,329 |
 | Shrine of Reflection | 1.00% | ~1,329 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~78 |
 | For Old Time' Sake | 1.00% | ~78 |
 | Et Tu, Riposte? | 0.90% | ~70 |
-| The World As It Was | 0.70% | ~930 |
+| The World As It Was | 0.70% | ~931 |
 | A Life Well Lived | 0.60% | ~798 |
 | Bacon Bits | 0.60% | ~798 |
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,924 (Ranked 92)  
+Progressed: 132,932 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,924 | 4 |
+| 2024-01-15 | 132,932 | 4 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,670 (Ranked 58)  

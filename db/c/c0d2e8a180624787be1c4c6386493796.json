@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1946,9 +1946,9 @@
       "ID": "KR4_ACHIEVEMENT_POLYX",
       "SetID": "caeik3h",
       "Name": "Much To Learn",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 130
     },
     {
       "ID": "KR4_ACHIEVEMENT_PUMPKIN",
@@ -2121,8 +2121,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:07:22.5622779+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:05:55.2250765+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:00:13.8832155+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:07:22.562371+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:59:15.9200462+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:55.2251419+00:00"
 }

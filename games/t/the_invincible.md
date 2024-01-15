@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 511)
 | Fierce fight | 22.00% | ~377 |
 | Evacuation | 21.00% | ~360 |
 | Beyond divisions | 19.00% | ~325 |
-| Flying Objects Operator | 17.00% | ~291 |
+| Flying Objects Operator | 18.00% | ~308 |
 | I remember everything! | 14.00% | ~240 |
 | Another giant | 14.00% | ~240 |
 | Violent solution | 10.00% | ~171 |

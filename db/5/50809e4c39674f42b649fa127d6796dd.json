@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1557,6 +1557,11 @@
       "Time": "2024-01-15T18:08:58.695615+00:00",
       "NumProgressed": 531,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T22:08:34.4015324+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1577,7 +1582,7 @@
       "Name": "Kronos Island Explorer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CHALLENGE_CLEAR_ISLAND2",
@@ -1633,7 +1638,7 @@
       "Name": "Perfect Run",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1641,7 +1646,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1649,7 +1654,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1665,7 +1670,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1673,7 +1678,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1721,7 +1726,7 @@
       "Name": "The Beginning",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1737,7 +1742,7 @@
       "Name": "Futile Resistance",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
@@ -1761,7 +1766,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1825,7 +1830,7 @@
       "Name": "Unrivaled Aptitude",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SPEED_STATUS_REACH_NUM",
@@ -1888,14 +1893,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:09:25.8920792+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:08:34.401532+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:55.9554345+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:01:40.2519668+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:09:25.8921071+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:21.3496832+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:08:34.4015641+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "63898a9ddbf54649adb26dd08a324c77",
   "Name": "Bridge Constructor",
   "ProductSlug": "bridge-constructor-c3ef67",
-  "Ranking_EOS_Progress": 832,
+  "Ranking_EOS_Progress": 834,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 571,
+  "Ranking_EOS_NewPlayers": 570,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-08T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-10T20:58:49.3769156+00:00",
   "LastUpdate_AppInfo": "2024-01-12T21:56:57.6658469+00:00",
-  "LastUpdate_Ratings": "2024-01-15T20:59:48.5843494+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:07:20.9600774+00:00"
+  "LastUpdate_Ratings": "2024-01-15T21:58:57.4367+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:05:53.8068454+00:00"
 }

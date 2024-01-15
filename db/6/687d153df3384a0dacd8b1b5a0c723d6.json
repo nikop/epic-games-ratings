@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
     "PcReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -188,9 +188,9 @@
       "ID": "EPIC_EIGHT_EXPLORER",
       "SetID": "44h0e32",
       "Name": "Epic Eight Explorer",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FANTASTIC_FOUR_CHOICES",
@@ -290,8 +290,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-15T21:08:36.3650379+00:00",
+  "LastChanged_Achievements": "2024-01-15T22:06:36.7326428+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:09.6857871+00:00",
-  "LastUpdate_Ratings": "2024-01-15T21:02:59.1846351+00:00",
-  "LastUpdate_Achievements": "2024-01-15T21:08:36.3650508+00:00"
+  "LastUpdate_Ratings": "2024-01-15T22:00:42.7857092+00:00",
+  "LastUpdate_Achievements": "2024-01-15T22:06:36.7326533+00:00"
 }
