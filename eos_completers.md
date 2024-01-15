@@ -28,7 +28,7 @@
 | 26 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.52% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.51% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -62,7 +62,7 @@
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
-| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.77% |
+| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.76% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
 | 65 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -80,7 +80,7 @@
 | 78 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.76% |
 | 80 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 80 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.55% |
+| 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.53% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.46% |
 | 83 | [JARS](games/j/jars.md) | 4.42% |
 | 84 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
@@ -144,7 +144,7 @@
 | 142 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 143 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 144 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.74% |
+| 145 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.75% |
 | 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.73% |
 | 147 | [Sifu](games/s/sifu.md) | 1.71% |
 | 148 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
@@ -160,7 +160,7 @@
 | 158 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.32% |
 | 159 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 160 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
-| 161 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.21% |
+| 161 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.20% |
 | 162 | [Late Shift](games/l/late_shift.md) | 1.19% |
 | 162 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 1.19% |
 | 164 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.17% |
@@ -270,12 +270,12 @@
 | 268 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 268 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 270 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
-| 271 | [Dead Space](games/d/dead_space.md) | 0.24% |
 | 271 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
 | 271 | [Them and Us](games/t/them_and_us.md) | 0.24% |
-| 274 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
-| 274 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
-| 274 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
+| 273 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
+| 273 | [Dead Space](games/d/dead_space.md) | 0.23% |
+| 273 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
+| 273 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
 | 277 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 277 | [Eternights](games/e/eternights.md) | 0.22% |
 | 279 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
@@ -826,4 +826,4 @@
 | 401 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 401 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 401 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,842 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,843 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
