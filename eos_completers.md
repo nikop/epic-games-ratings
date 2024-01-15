@@ -54,8 +54,8 @@
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.66% |
-| 55 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.53% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.57% |
+| 56 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.47% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
@@ -63,7 +63,7 @@
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
 | 63 | [Scorn](games/s/scorn.md) | 6.87% |
-| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.75% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.74% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -76,7 +76,7 @@
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.95% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.82% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.80% |
 | 78 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.76% |
 | 80 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
@@ -274,10 +274,10 @@
 | 271 | [Them and Us](games/t/them_and_us.md) | 0.24% |
 | 273 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 273 | [Dead Space](games/d/dead_space.md) | 0.23% |
+| 273 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
 | 273 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
-| 276 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
-| 276 | [Eternights](games/e/eternights.md) | 0.22% |
-| 276 | [It Takes Two](games/i/it_takes_two.md) | 0.22% |
+| 277 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
+| 277 | [Eternights](games/e/eternights.md) | 0.22% |
 | 279 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 279 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.21% |
 | 281 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
@@ -823,6 +823,7 @@
 | 401 | [Wreckfest](games/w/wreckfest.md) | 0.00% |
 | 401 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 0.00% |
 | 401 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
+| 401 | [Yars: Recharged](games/y/yars__recharged.md) | 0.00% |
 | 401 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 0.00% |
 | 401 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 401 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
