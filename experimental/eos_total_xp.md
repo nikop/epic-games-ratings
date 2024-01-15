@@ -94,6 +94,7 @@
 | [Aircraft Carrier Survival](../games/6/6c0cf3150f2647858f071175510cfcd4.md) | 18 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |
 | [Airport CEO](../games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 34 | 1,000 |
+| [Airship Kingdoms Adrift](../games/a/airship_kingdoms_adrift.md) | 148 | 1,000 |
 | [Alan Wake 2](../games/a/alan_wake_2.md) | 66 | 1,000 |
 | [ALAN-13 Reformation](../games/f/f514ca89c14c49858748fd9569d35d52.md) | 9 | 1,000 |
 | [Alekon](../games/9/947753e35eda434f9eafba17afa8f570.md) | 40 | 1,000 |

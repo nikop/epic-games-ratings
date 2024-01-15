@@ -7,6 +7,7 @@
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 232 | 5,585 |
 | [Three Kingdoms The Last Warlord](../games/t/three_kingdoms_the_last_warlord.md) | 192 | 1,000 |
 | [GPRO - Classic racing manager](../games/g/gpro_-_classic_racing_manager.md) | 162 | 1,000 |
+| [Airship Kingdoms Adrift](../games/a/airship_kingdoms_adrift.md) | 148 | 1,000 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 |
