@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -191,7 +191,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1539,
+  "EOS_Progressed": 1540,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
@@ -5336,6 +5336,11 @@
       "Time": "2024-01-15T13:10:51.1498734+00:00",
       "NumProgressed": 1539,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-15T14:05:11.8249746+00:00",
+      "NumProgressed": 1540,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5356,7 +5361,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "_03_FinishAct1",
@@ -5468,7 +5473,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5490,9 +5495,9 @@
       "ID": "_19_CrewTale_BSP",
       "SetID": "8a1io5d",
       "Name": "Persistent Parasite",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 246
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5555,7 +5560,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1539,
+      "Progressed": 1540,
       "Completed": 37
     }
   ],
@@ -5563,8 +5568,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-09T20:59:58.0673284+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:10:51.1498731+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:05:11.8249741+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:34.8262392+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:10:51.1499063+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:54.1468504+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:05:11.8250255+00:00"
 }

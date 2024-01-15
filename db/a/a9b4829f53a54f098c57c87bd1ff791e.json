@@ -2,10 +2,10 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -28,9 +28,203 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
+  "TotalAchievements": 24,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "233",
+      "SetID": "39bcm6",
+      "Name": "Powertrip",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AFTER_END",
+      "SetID": "39bcm6",
+      "Name": "Paradoxical Pataphysics",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BREAK_CAM",
+      "SetID": "39bcm6",
+      "Name": "Process THIS!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAIR_HELL",
+      "SetID": "39bcm6",
+      "Name": "BEWARE THE CHAIR",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEBUG_GLASSES",
+      "SetID": "39bcm6",
+      "Name": "Nice Job Four-Eyes",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMO_END",
+      "SetID": "39bcm6",
+      "Name": "The End...?",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "END_IS_NEVER",
+      "SetID": "39bcm6",
+      "Name": "Playtest Report",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FALL_DEATH",
+      "SetID": "39bcm6",
+      "Name": "Slippin Stanton",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GLITCH",
+      "SetID": "39bcm6",
+      "Name": "You found a Glitch!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HAMMER_ACQUIRE",
+      "SetID": "39bcm6",
+      "Name": "J-MC Hammer",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IMMOVABLE",
+      "SetID": "39bcm6",
+      "Name": "Immovable Object",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEAST_RESTARTS",
+      "SetID": "39bcm6",
+      "Name": "On the Clock",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_2_ENTER",
+      "SetID": "39bcm6",
+      "Name": "Not Out of the Metaphorical Woods",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_3_ENTER",
+      "SetID": "39bcm6",
+      "Name": "Just a Slight Detour",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MICROWAVE",
+      "SetID": "39bcm6",
+      "Name": "BRRRRRRRRRRRRRRRRRRRRRR",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MMM_SODER",
+      "SetID": "39bcm6",
+      "Name": "Stantaholic",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OAT_TRIUMPH",
+      "SetID": "39bcm6",
+      "Name": "What a Triumph",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OG_PENDING",
+      "SetID": "39bcm6",
+      "Name": "WE MUST TRAVEL BACK IN TIME",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OWEN_DEATH",
+      "SetID": "39bcm6",
+      "Name": "Cutting Room Floor",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAYTEST_END",
+      "SetID": "39bcm6",
+      "Name": "Congratulations!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SPEED",
+      "SetID": "39bcm6",
+      "Name": "game SUCK i go to BED",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VENT_ENDING",
+      "SetID": "39bcm6",
+      "Name": "Take a Break",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VENT_TRIUMPH",
+      "SetID": "39bcm6",
+      "Name": "Vent Ending",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WPD_HAHA_FUNNE",
+      "SetID": "39bcm6",
+      "Name": "No.",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "39bcm6",
@@ -40,8 +234,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:09:27.833176+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:03:48.1978219+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:03:15.4613623+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:27.8331796+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:57:35.53839+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:03:48.2298606+00:00"
 }

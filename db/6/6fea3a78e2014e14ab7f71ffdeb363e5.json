@@ -2,10 +2,10 @@
   "ID": "6fea3a78e2014e14ab7f71ffdeb363e5",
   "Name": "Xijiang Shipyard",
   "ProductSlug": "xijiangshipyard-c16d2a",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-01T08:00:00+00:00",
     "PcReleaseDate": "2024-01-01T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T01:46:07.7173407+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:22.0206586+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:48.2886407+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:42.4658629+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:08.6470437+00:00"
 }

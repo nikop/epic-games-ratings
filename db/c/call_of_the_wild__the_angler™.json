@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1027,7 +1027,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8328,
+  "EOS_Progressed": 8329,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
@@ -14097,6 +14097,11 @@
       "Time": "2024-01-15T12:09:15.631704+00:00",
       "NumProgressed": 8328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:08:40.668164+00:00",
+      "NumProgressed": 8329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14396,7 +14401,7 @@
       "Name": "Live by the Rod, Diez by the Rod!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -14404,7 +14409,7 @@
       "Name": "Aguas Claras Conquistador",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -14427,13 +14432,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8328,
+      "Progressed": 8329,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7700,
+      "Progressed": 7701,
       "Completed": 113
     }
   ],
@@ -14441,8 +14446,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:14:20.9289076+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:08:40.6681637+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:09.1663667+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:14:20.9289967+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:29.5444783+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:08:40.6682399+00:00"
 }

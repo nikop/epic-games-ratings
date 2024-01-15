@@ -2,10 +2,10 @@
   "ID": "d975114b43134558aa8413af2a0918c6",
   "Name": "Elders Grace - Unchained",
   "ProductSlug": "elders-grace-unchained-af86f6",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T08:57:05.1475876+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:20.3759122+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:46.8193348+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:39.328185+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:07.1797294+00:00"
 }

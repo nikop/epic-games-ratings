@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 306,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -59,7 +59,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 906,
+  "EOS_Progressed": 907,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -3384,6 +3384,11 @@
       "Time": "2024-01-15T05:09:15.8363633+00:00",
       "NumProgressed": 906,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-15T14:09:14.1325915+00:00",
+      "NumProgressed": 907,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3460,7 +3465,7 @@
       "Name": "Find myself",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3516,7 +3521,7 @@
       "Name": "TentacleMAN",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -3540,7 +3545,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3562,9 +3567,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 372
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3595,7 +3600,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 906,
+      "Progressed": 907,
       "Completed": 2
     }
   ],
@@ -3603,8 +3608,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:14:53.9520794+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:14.1325908+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:06:15.726866+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:14:53.9521175+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:00:36.6396401+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:14.1326253+00:00"
 }

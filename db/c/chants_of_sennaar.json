@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -134,10 +134,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2789,
-  "EOS_Completed": 210,
-  "EOS_NewPlayers": 245,
-  "EOS_NewCompleters": 33,
-  "EOS_Completed_Percentage": 7.53,
+  "EOS_Completed": 211,
+  "EOS_NewPlayers": 238,
+  "EOS_NewCompleters": 34,
+  "EOS_Completed_Percentage": 7.57,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7383,6 +7383,11 @@
       "Time": "2024-01-15T13:11:38.1039953+00:00",
       "NumProgressed": 2789,
       "NumCompleted": 210
+    },
+    {
+      "Time": "2024-01-15T14:05:59.4241564+00:00",
+      "NumProgressed": 2789,
+      "NumCompleted": 211
     }
   ],
   "TotalAchievements": 25,
@@ -7456,9 +7461,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 641
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7544,9 +7549,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 948
     },
     {
       "ID": "PROGRESS_N1",
@@ -7594,15 +7599,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 2789,
-      "Completed": 210
+      "Completed": 211
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:11:38.1039709+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:05:59.4241559+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:39.6162325+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:11:38.1040343+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:58.7074923+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:05:59.4242082+00:00"
 }

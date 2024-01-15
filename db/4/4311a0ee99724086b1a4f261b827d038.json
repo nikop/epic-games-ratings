@@ -4,11 +4,11 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 532,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -819,10 +819,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-01-15T13:58:05.7097015+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
+  "NumberOfAwards": 231,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -842,7 +848,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Diverse Characters",
@@ -893,9 +899,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 243496,
+  "EOS_Progressed": 243505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1323,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21338,6 +21344,11 @@
       "Time": "2024-01-15T13:15:37.4461732+00:00",
       "NumProgressed": 243496,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:09:57.7840123+00:00",
+      "NumProgressed": 243505,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21398,7 +21409,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -21406,7 +21417,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51134
+      "UsersEstimate": 51136
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21486,7 +21497,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -21494,7 +21505,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -21502,7 +21513,7 @@
       "Name": "Thaddis Sabbah Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "HW2_MISSION13_COMPLETE",
@@ -21518,7 +21529,7 @@
       "Name": "Balcora Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "HW2_MISSION15_COMPLETE",
@@ -21526,7 +21537,7 @@
       "Name": "Return to Hiigara Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "HW2_MISSION1_COMPLETE",
@@ -21534,7 +21545,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34089
+      "UsersEstimate": 34091
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -21574,7 +21585,7 @@
       "Name": "The Karos Graveyard Complete",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "HW2_MISSION7_COMPLETE",
@@ -21582,7 +21593,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -21590,7 +21601,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -21598,7 +21609,7 @@
       "Name": "Counter Attack Complete",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "HW2_TUTORIAL_COMPLETE",
@@ -21606,7 +21617,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60874
+      "UsersEstimate": 60876
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21621,16 +21632,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 243496,
+      "Progressed": 243505,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-13T09:02:55.5161505+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:37.4461728+00:00",
+  "LastChanged": "2024-01-15T13:58:05.7097013+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:57.7840119+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:03:45.1795051+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:37.4462647+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:05.7097019+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:57.7841512+00:00"
 }

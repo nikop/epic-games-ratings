@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 1709,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4746,9 +4746,9 @@
       "ID": "AchvTheEnd",
       "SetID": "1hj060c",
       "Name": "The End",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 55,
-      "UsersEstimate": 649
+      "UsersEstimate": 667
     },
     {
       "ID": "AchvUnity",
@@ -4771,8 +4771,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:18.8016164+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:39.0253788+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:06:18.188764+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:18.8016565+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:00:38.9271776+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:39.0254295+00:00"
 }

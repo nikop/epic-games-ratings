@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 497)  
+Rating: 4.57 (Ranked 498)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,6 +19,7 @@ Rating: 4.57 (Ranked 497)
 | Meet the Creatures from the Deep | 2.00% | ~47 |
 | Kitchen Ready To Cook | 2.00% | ~47 |
 | Smithy Ready to Craft | 2.00% | ~47 |
+| Throne Room Fit For A King | 2.00% | ~47 |
 | Rescue Redgi's Brothers | 2.00% | ~47 |
 | Return Power To The Depths | 2.00% | ~47 |
 | Defeat Croakhis Khan | 2.00% | ~19 |
@@ -31,7 +32,6 @@ Rating: 4.57 (Ranked 497)
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
-| Throne Room Fit For A King | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Defeat Avor Warden of the Northern Wastes | 0.90% | ~21 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 497)
 | Complete Ranger Faction | 0.60% | ~14 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,328 (Ranked 246)  
+Progressed: 2,329 (Ranked 246)  
 Completed: 12 (0.52%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,6 +265,7 @@ Completed: 12 (0.52%) (Ranked 221)
 | 2024-01-11 | 2,323 | 12 |
 | 2024-01-13 | 2,325 | 12 |
 | 2024-01-14 | 2,328 | 12 |
+| 2024-01-15 | 2,329 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

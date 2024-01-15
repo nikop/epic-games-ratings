@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4429,
+  "EOS_Progressed": 4430,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8708,6 +8708,11 @@
       "Time": "2024-01-15T13:14:18.2508786+00:00",
       "NumProgressed": 4429,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:08:38.1410656+00:00",
+      "NumProgressed": 4430,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8728,7 +8733,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "achievement_11",
@@ -8752,7 +8757,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "achievement_14",
@@ -8776,7 +8781,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "achievement_17",
@@ -8784,7 +8789,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_18",
@@ -8840,7 +8845,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_5",
@@ -8880,14 +8885,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4429,
+      "Progressed": 4430,
       "Completed": 0
     }
   ],
@@ -8895,8 +8900,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-09T22:00:12.8652525+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:14:18.250878+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:08:38.1410653+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:34.7544233+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:14:18.2509206+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:54.1434119+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:08:38.1411129+00:00"
 }

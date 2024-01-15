@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,389 |
-| Hotel California | 9.00% | ~72,350 |
-| Break A Leg | 8.00% | ~64,311 |
-| Coup de Grâce | 8.00% | ~64,311 |
-| Git Gutte! | 7.00% | ~56,272 |
-| Hazardous Materials | 7.00% | ~56,272 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,272 |
-| Bookworm | 6.00% | ~48,233 |
-| Friends Like These | 6.00% | ~48,233 |
-| Apex Predator | 6.00% | ~48,233 |
-| Dr. Reed, I Presume? | 5.00% | ~40,194 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,194 |
-| But Doctor, I am Butcho | 5.00% | ~40,194 |
-| Stacking the Deck | 5.00% | ~40,194 |
-| This is My Weapon | 5.00% | ~40,194 |
-| Anger Management | 4.00% | ~32,155 |
-| Perks of the Job | 4.00% | ~32,155 |
-| Slayer Squad | 4.00% | ~32,155 |
-| Can't Handle the Truth | 4.00% | ~32,155 |
-| Like Riding a Bike | 4.00% | ~32,155 |
-| Zombologist | 4.00% | ~32,155 |
-| Ooh, Shiny! | 4.00% | ~32,155 |
-| A Patton Emerges | 4.00% | ~32,155 |
-| Our True Nature | 4.00% | ~32,155 |
-| Whatever It Takes | 4.00% | ~5,177 |
-| Pork Chopped | 4.00% | ~5,177 |
+| Welcome To Hell-A | 10.00% | ~80,390 |
+| Hotel California | 9.00% | ~72,351 |
+| Break A Leg | 8.00% | ~64,312 |
+| Coup de Grâce | 8.00% | ~64,312 |
+| Git Gutte! | 7.00% | ~56,273 |
+| Hazardous Materials | 7.00% | ~56,273 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,273 |
+| Bookworm | 6.00% | ~48,234 |
+| Friends Like These | 6.00% | ~48,234 |
+| Apex Predator | 6.00% | ~48,234 |
+| Dr. Reed, I Presume? | 5.00% | ~40,195 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,195 |
+| But Doctor, I am Butcho | 5.00% | ~40,195 |
+| Stacking the Deck | 5.00% | ~40,195 |
+| This is My Weapon | 5.00% | ~40,195 |
+| Anger Management | 4.00% | ~32,156 |
+| Perks of the Job | 4.00% | ~32,156 |
+| Slayer Squad | 4.00% | ~32,156 |
+| Can't Handle the Truth | 4.00% | ~32,156 |
+| Like Riding a Bike | 4.00% | ~32,156 |
+| Zombologist | 4.00% | ~32,156 |
+| Ooh, Shiny! | 4.00% | ~32,156 |
+| A Patton Emerges | 4.00% | ~32,156 |
+| Our True Nature | 4.00% | ~32,156 |
+| Whatever It Takes | 4.00% | ~5,178 |
+| Pork Chopped | 4.00% | ~5,178 |
 | Making Your Mark | 3.00% | ~24,117 |
 | Humanity Distilled | 3.00% | ~24,117 |
 | I Am the Resurrection | 3.00% | ~24,117 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 550)
 | Sole Survivor | 0.90% | ~7,235 |
 | Sharpest Tool in the Box | 0.90% | ~7,235 |
 | Top That, Tisha! | 0.60% | ~777 |
-| Survival Skills | 0.50% | ~4,019 |
+| Survival Skills | 0.50% | ~4,020 |
 | Donk! | 0.30% | ~2,412 |
 | Lawn and Order | 0.30% | ~388 |
 | Bucket List | 0.10% | ~804 |
 | Wilhelm | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,887 (Ranked 23)  
+Progressed: 803,905 (Ranked 23)  
 Completed: 2,587 (0.32%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2,587 (0.32%) (Ranked 256)
 | 2024-01-12 | 801,737 | 2,574 |
 | 2024-01-13 | 802,693 | 2,581 |
 | 2024-01-14 | 803,623 | 2,587 |
-| 2024-01-15 | 803,887 | 2,587 |
+| 2024-01-15 | 803,905 | 2,587 |
 ## Awards
 Max (Great Boss Battles): 10,450  (Ranked 41)  
 Sum: 15,993 (Ranked 70)  

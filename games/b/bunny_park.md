@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lonely Bunny | 96.00% | ~301 |
-| Debris Finder | 83.00% | ~261 |
+| Lonely Bunny | 97.00% | ~305 |
+| Debris Finder | 84.00% | ~264 |
 | Debris Gatherer | 60.00% | ~188 |
 | Beginner Decorator | 50.00% | ~157 |
 | Helpful Bot-terfly | 46.00% | ~144 |

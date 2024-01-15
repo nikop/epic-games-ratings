@@ -2,10 +2,10 @@
   "ID": "22600f09e936468c8ecfc22b5eac7d7c",
   "Name": "Prince of Persia The Lost Crown",
   "ProductSlug": "prince-of-persia-the-lost-crown",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-18T11:00:00+00:00",
     "PcReleaseDate": "2024-01-18T11:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T09:57:11.118769+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:06:09.9738453+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:11:35.7391039+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:00:30.6490343+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:05:56.9621053+00:00"
 }

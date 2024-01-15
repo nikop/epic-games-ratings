@@ -4,8 +4,8 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 436,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 435,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
     "PcReleaseDate": "2022-08-26T19:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "BESTSTUDENT",
       "SetID": "bb2dp",
       "Name": "Best Student",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CHAPTER1",
@@ -314,17 +314,17 @@
       "ID": "CHAPTER5",
       "SetID": "bb2dp",
       "Name": "Chapter 5",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CHIPMUNK",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:11:09.2416284+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:05:29.9470312+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.4705583+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:02:57.2571489+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:11:09.241662+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:57:17.7874415+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:05:29.947054+00:00"
 }

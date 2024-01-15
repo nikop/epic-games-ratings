@@ -26,7 +26,7 @@ Rating: 4.73 (Ranked 182)
 | The Big Eaty | 56.00% | ~431 |
 | “… like son” | 54.00% | ~415 |
 | YOU SHALL NOT PASS! | 51.00% | ~392 |
-| The Cathedral of Light | 49.00% | ~377 |
+| The Cathedral of Light | 50.00% | ~384 |
 | Shame! Shame! Shame! | 49.00% | ~377 |
 | Tanos' Crusade Against Thalya | 47.00% | ~361 |
 | Pure Dynamite! | 46.00% | ~354 |

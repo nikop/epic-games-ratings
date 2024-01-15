@@ -27,8 +27,8 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 1.00% | ~83 |
 | Gonna Need a Bigger Boat | 0.80% | ~67 |
 | No Fin left to give | 0.60% | ~50 |
-| Live by the Rod, Diez by the Rod! | 0.50% | ~38 |
-| Aguas Claras Conquistador | 0.50% | ~38 |
+| Live by the Rod, Diez by the Rod! | 0.50% | ~39 |
+| Aguas Claras Conquistador | 0.50% | ~39 |
 | The Beetles | 0.40% | ~33 |
 | All Good Kings Must Come to an End | 0.40% | ~31 |
 | Lake Me up Before You Go Go | 0.30% | ~25 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,328 (Ranked 191)  
+Progressed: 8,329 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 8,296 | 0 |
 | 2024-01-13 | 8,309 | 0 |
 | 2024-01-14 | 8,321 | 0 |
-| 2024-01-15 | 8,328 | 0 |
+| 2024-01-15 | 8,329 | 0 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 484)  
 Sum: 213 (Ranked 413)  

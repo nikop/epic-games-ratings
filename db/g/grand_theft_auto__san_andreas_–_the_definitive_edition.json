@@ -2497,9 +2497,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 19583,
+  "EOS_Progressed": 19585,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -20502,6 +20502,11 @@
       "Time": "2024-01-15T13:15:39.1275943+00:00",
       "NumProgressed": 19583,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-15T14:09:59.6135491+00:00",
+      "NumProgressed": 19585,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 35,
@@ -20513,7 +20518,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15862
+      "UsersEstimate": 15864
     },
     {
       "ID": "ACH02",
@@ -20577,7 +20582,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH10",
@@ -20593,7 +20598,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "ACH12",
@@ -20641,7 +20646,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH18",
@@ -20737,7 +20742,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2938
     },
     {
       "ID": "ACH30",
@@ -20792,7 +20797,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19583,
+      "Progressed": 19585,
       "Completed": 78
     }
   ],
@@ -20800,8 +20805,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-15T12:03:05.045436+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:39.127594+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:59.6135488+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-15T12:03:05.0454367+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:39.1276999+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:57:12.2539602+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:59.6136522+00:00"
 }

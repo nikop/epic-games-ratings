@@ -2,10 +2,10 @@
   "ID": "7c7aa850307342108a352d7d56864bf7",
   "Name": "ZiDouQianWen",
   "ProductSlug": "zidouqianwen-865244",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-31T16:00:00+00:00",
     "PcReleaseDate": "2023-12-31T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-09T19:57:00.1730043+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:04.525426+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:10:50.5101594+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:23.3381295+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:05:11.2006793+00:00"
 }

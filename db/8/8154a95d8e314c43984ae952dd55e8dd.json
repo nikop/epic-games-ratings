@@ -2,10 +2,10 @@
   "ID": "8154a95d8e314c43984ae952dd55e8dd",
   "Name": "RetraceTheLight",
   "ProductSlug": "retracethelight-0f75e6",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.6517328+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:03:44.533579+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:43.9761149+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:05.027831+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:04.4503481+00:00"
 }

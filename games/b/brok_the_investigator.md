@@ -12,9 +12,9 @@
 | Chapter 4 | 34.00% | ~16 |
 | Your Days Are Numbered | 34.00% | ~16 |
 | All Materials | 34.00% | ~16 |
-| Chapter 5 | 30.00% | ~14 |
-| Chapter 6 | 23.00% | ~11 |
-| Best Student | 15.00% | ~7 |
+| Chapter 5 | 32.00% | ~15 |
+| Chapter 6 | 26.00% | ~12 |
+| Best Student | 17.00% | ~8 |
 | Food Thief | 13.00% | ~6 |
 | Ads Fan | 11.00% | ~5 |
 | Highway Survival | 11.00% | ~5 |

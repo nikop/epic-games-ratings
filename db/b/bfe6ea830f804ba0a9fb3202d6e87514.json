@@ -2,10 +2,10 @@
   "ID": "bfe6ea830f804ba0a9fb3202d6e87514",
   "Name": "Nirvana Noir",
   "ProductSlug": "nirvana-noir-cea13a",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.6568234+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:14.8634311+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:54.4571756+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:34.0926195+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:14.8375098+00:00"
 }

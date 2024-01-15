@@ -53,12 +53,12 @@ Number of Ratings: 20  (23.09.2022)
 | A Paris Sunset | 5.00% | ~22 |
 | The Director Perseveres | 5.00% | ~22 |
 | The Round Table | 5.00% | ~22 |
+| X Marks the Spot | 4.00% | ~17 |
 | Frugal | 4.00% | ~17 |
 | I Set Forth Again... and Again... and Again... | 4.00% | ~17 |
 | A Familiar Figure | 3.00% | ~13 |
 | Lunatic | 3.00% | ~13 |
 | A Perfect Map | 3.00% | ~13 |
-| X Marks the Spot | 3.00% | ~13 |
 | Risk/Reward | 3.00% | ~13 |
 | Look Ma, No Equipment! | 2.00% | ~9 |
 | It's Not Too Late | 0.90% | ~4 |

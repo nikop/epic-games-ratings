@@ -2,10 +2,10 @@
   "ID": "3a404cb5028b43b9a553312b7c965b42",
   "Name": "Coryphaeus Championships (Closed Beta)",
   "ProductSlug": "coryphaeus-championships-216f4a",
-  "Ranking_EOS_Progress": 670,
+  "Ranking_EOS_Progress": 666,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 517,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T20:30:00+00:00",
     "PcReleaseDate": "2023-12-07T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -69,6 +69,11 @@
       "Time": "2024-01-05T17:09:56.0934641+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:09:48.6295217+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-06T12:09:01.1092985+00:00",
@@ -79,7 +84,7 @@
       "ID": "Amateur",
       "SetID": "6gf78k7",
       "Name": "You are an Amateur!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "Become a Pro!",
       "SetID": "6gf78k7",
       "Name": "You are a true Pro!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -103,7 +108,7 @@
       "ID": "FirstWin",
       "SetID": "6gf78k7",
       "Name": "You are a Winner!",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -111,7 +116,7 @@
       "ID": "Prodigy",
       "SetID": "6gf78k7",
       "Name": "You are the real Prodigy of the Next Millennia!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -120,14 +125,14 @@
     {
       "ID": "6gf78k7",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-09T15:59:00.0551516+00:00",
   "FirstSeenAchievements": "2023-05-02T14:01:03.0189024+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:28.4181063+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:48.6295213+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:23.573107+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:47.8968856+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:28.4181122+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:06.6380014+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:48.6295286+00:00"
 }

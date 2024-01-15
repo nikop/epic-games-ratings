@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3827,
+  "EOS_Progressed": 3828,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2387,6 +2387,11 @@
       "Time": "2024-01-15T13:10:05.2687108+00:00",
       "NumProgressed": 3827,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:04:25.6500055+00:00",
+      "NumProgressed": 3828,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2430,7 +2435,7 @@
       "Name": "Totally Intentional",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -2438,7 +2443,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -2470,7 +2475,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -2492,9 +2497,9 @@
       "ID": "GAMEOVER_FIRST_TIME",
       "SetID": "kakdpn",
       "Name": "Tale in the Toilet",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1110
     },
     {
       "ID": "GET_MONEY_SINK_OR_SWIM",
@@ -2534,7 +2539,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -2542,7 +2547,7 @@
       "Name": "Super Trusting Friend!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "SUMMON_SEXY_INTERNS",
@@ -2582,7 +2587,7 @@
       "Name": "Don\u0027t Get Cocky",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "WIN_VAULTLANDER_BATTLE_CLAPTRAP",
@@ -2605,7 +2610,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3827,
+      "Progressed": 3828,
       "Completed": 0
     }
   ],
@@ -2613,8 +2618,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:10:05.2687104+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:04:25.650005+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:03.1321496+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:02:55.4716449+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:10:05.2687344+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:57:16.191248+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:25.6500302+00:00"
 }

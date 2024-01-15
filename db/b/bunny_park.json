@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -254,9 +254,9 @@
       "ID": "BP-01",
       "SetID": "7fc93f2",
       "Name": "Lonely Bunny",
-      "Percentage": 96,
+      "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 305
     },
     {
       "ID": "BP-02",
@@ -278,9 +278,9 @@
       "ID": "BP-04",
       "SetID": "7fc93f2",
       "Name": "Debris Finder",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 261
+      "UsersEstimate": 264
     },
     {
       "ID": "BP-05",
@@ -407,8 +407,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:35.3887347+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:55.6943935+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.3288679+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:22.2641196+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:35.388752+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:42.5451051+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:55.6944049+00:00"
 }

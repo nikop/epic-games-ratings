@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -1254,6 +1254,11 @@
       "Time": "2024-01-15T00:09:33.8762566+00:00",
       "NumProgressed": 278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:09:07.9782474+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1306,7 +1311,7 @@
       "Name": "Brand New Chorus",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -1338,7 +1343,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1561,14 +1566,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:14:47.889807+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:07.978247+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:58.9980201+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:14:47.8898366+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:17.5355671+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:07.9782765+00:00"
 }

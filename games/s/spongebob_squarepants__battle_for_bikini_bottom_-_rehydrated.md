@@ -15,9 +15,9 @@ Number of Ratings: 76  (23.09.2022)
 | Time For Tutorial | 13.00% | ~134 |
 | Super Spatula Seeker | 12.00% | ~124 |
 | Star Smasher | 12.00% | ~124 |
+| Surf's Up! | 12.00% | ~124 |
 | Uptown and Downtown | 11.00% | ~113 |
 | Squirrel Smasher | 11.00% | ~113 |
-| Surf's Up! | 11.00% | ~113 |
 | Life's as extreme as you wanna make it! | 9.00% | ~93 |
 | Toxic Terror | 9.00% | ~93 |
 | Hit Rock Bottom | 9.00% | ~93 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -986,9 +986,9 @@
       "ID": "ach-find-treasure-high",
       "SetID": "17ih7ma",
       "Name": "X Marks the Spot",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ach-firstExpedition",
@@ -1259,8 +1259,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:46.7711142+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:10:07.0135396+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:14.1481528+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:20.0369567+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:46.7711546+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:38.96434+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:10:07.0135851+00:00"
 }

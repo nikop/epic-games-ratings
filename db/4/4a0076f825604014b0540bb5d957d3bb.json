@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -787,9 +787,9 @@
       "ID": "CgkInO_K3eIdEAIQBg",
       "SetID": "6bj96in",
       "Name": "BACK TO THE FUTURE",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "CgkInO_K3eIdEAIQBw",
@@ -819,9 +819,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:35.5906074+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:56.0089101+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.5069577+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:14.1142709+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:35.5906334+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:33.3482446+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:56.0089233+00:00"
 }

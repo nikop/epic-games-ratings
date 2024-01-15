@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -409,9 +409,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 1954,
+  "EOS_Progressed": 1955,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3699,6 +3699,11 @@
       "Time": "2024-01-15T12:04:20.0822446+00:00",
       "NumProgressed": 1954,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-15T14:03:51.2002173+00:00",
+      "NumProgressed": 1955,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3710,7 +3715,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3718,7 +3723,7 @@
       "Name": "Great Doctor",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3726,7 +3731,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -3766,7 +3771,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3774,7 +3779,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3830,7 +3835,7 @@
       "Name": "Sociable",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENTS_17",
@@ -3838,7 +3843,7 @@
       "Name": "Kind-hearted",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -3846,7 +3851,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3878,7 +3883,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3950,7 +3955,7 @@
       "Name": "Ablutomaniac",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -3966,7 +3971,7 @@
       "Name": "Catch of the Day",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -3974,7 +3979,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -4013,7 +4018,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1954,
+      "Progressed": 1955,
       "Completed": 11
     }
   ],
@@ -4021,8 +4026,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-11T09:59:14.3189006+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:09:30.7519857+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:03:51.2002169+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3466172+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:03:45.3009413+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:30.7520319+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:05.8475996+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:03:51.2002651+00:00"
 }

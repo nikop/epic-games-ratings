@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 955,
+  "EOS_Progressed": 956,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2316,6 +2316,11 @@
       "Time": "2024-01-14T20:10:11.5023851+00:00",
       "NumProgressed": 955,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T14:09:40.9107509+00:00",
+      "NumProgressed": 956,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2421,9 +2426,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -2527,7 +2532,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2558,13 +2563,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 955,
+      "Progressed": 956,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 3
     }
   ],
@@ -2572,8 +2577,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:20.6484898+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:40.9107507+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:11.7292588+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:20.6485171+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:31.5373426+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:40.9107767+00:00"
 }

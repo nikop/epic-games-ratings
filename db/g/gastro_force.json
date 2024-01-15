@@ -2,10 +2,10 @@
   "ID": "dc35029c059a4a358819bf5f6d93dc33",
   "Name": "Gastro Force",
   "ProductSlug": "gastro-force-c9cd27",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:58:14.7091797+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:08:49.2694075+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:11:49.2963132+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:03:08.4818548+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:06:10.6194098+00:00"
 }

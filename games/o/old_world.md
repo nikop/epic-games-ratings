@@ -83,6 +83,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.80% | ~135 |
 | Patrons | 0.80% | ~135 |
 | Statesmen | 0.80% | ~135 |
+| Traders | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
 | Legionary | 0.80% | ~135 |
@@ -93,7 +94,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.70% | ~118 |
 | Victorious | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
-| Traders | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
 | Hagia Sophia | 0.70% | ~118 |
 | Pantheon | 0.70% | ~118 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.30% | ~51 |
 | Old World Order | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
+| Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
 | Poetic Leader | 0.30% | ~51 |
@@ -164,7 +165,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
-| Play a Network Game | 0.20% | ~34 |
 | Capturing Cities | 0.20% | ~34 |
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |

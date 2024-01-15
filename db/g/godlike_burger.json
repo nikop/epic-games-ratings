@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402706,
+  "EOS_Progressed": 402728,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 3227,
+  "EOS_NewPlayers": 3229,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13453,6 +13453,11 @@
       "Time": "2024-01-15T13:14:13.9773437+00:00",
       "NumProgressed": 402706,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-15T14:08:33.7994019+00:00",
+      "NumProgressed": 402728,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 28,
@@ -13464,7 +13469,7 @@
       "Name": "BUTCHER",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 24162
+      "UsersEstimate": 24164
     },
     {
       "ID": "GB_CELEBRITY",
@@ -13472,7 +13477,7 @@
       "Name": "CELEBRITY",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12081
+      "UsersEstimate": 12082
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -13488,7 +13493,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 80541
+      "UsersEstimate": 80546
     },
     {
       "ID": "GB_DEBTOR",
@@ -13512,7 +13517,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 161082
+      "UsersEstimate": 161091
     },
     {
       "ID": "GB_GOURMET",
@@ -13528,7 +13533,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 48325
+      "UsersEstimate": 48327
     },
     {
       "ID": "GB_GRATITUDE",
@@ -13536,7 +13541,7 @@
       "Name": "GRATITUDE",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -13544,7 +13549,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 16108
+      "UsersEstimate": 16109
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -13560,7 +13565,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 32216
+      "UsersEstimate": 32218
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -13568,7 +13573,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 20135
+      "UsersEstimate": 20136
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -13584,7 +13589,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 92622
+      "UsersEstimate": 92627
     },
     {
       "ID": "GB_KEVIN",
@@ -13592,7 +13597,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 120812
+      "UsersEstimate": 120818
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -13608,7 +13613,7 @@
       "Name": "MARTYR",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 12081
+      "UsersEstimate": 12082
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -13616,7 +13621,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 181218
+      "UsersEstimate": 181228
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -13632,7 +13637,7 @@
       "Name": "PATTY-KILLER",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "GB_PRUDENT",
@@ -13648,7 +13653,7 @@
       "Name": "RAMBO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20135
+      "UsersEstimate": 20136
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -13680,14 +13685,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 40271
+      "UsersEstimate": 40273
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 402706,
+      "Progressed": 402728,
       "Completed": 60
     }
   ],
@@ -13695,8 +13700,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-12-28T01:47:13.8742821+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:14:13.9773434+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:08:33.7994014+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.9482997+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:08:57.7957529+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:14:13.9774237+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:03:16.7155131+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:08:33.7994752+00:00"
 }

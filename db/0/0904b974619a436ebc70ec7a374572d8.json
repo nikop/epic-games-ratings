@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_picklock18",
@@ -542,9 +542,9 @@
       "ID": "ach_picklock2",
       "SetID": "753ghg2",
       "Name": "Keen eye",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_picklock20",
@@ -653,8 +653,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:15:36.5383743+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:09:56.8917956+00:00",
   "LastUpdate_AppInfo": "2024-01-10T10:57:41.0007701+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:15.0671624+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:15:36.5383883+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:34.1577536+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:09:56.8918099+00:00"
 }

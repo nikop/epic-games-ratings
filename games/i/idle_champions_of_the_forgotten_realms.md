@@ -13,13 +13,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 1.00% | ~2,540 |
 | Are Ya Chicken? | 0.90% | ~2,286 |
 | Were-verpowered | 0.80% | ~2,032 |
-| Welcome to Sigil | 0.80% | ~1,762 |
+| Welcome to Sigil | 0.80% | ~1,763 |
 | Seeking Allies | 0.70% | ~1,778 |
 | Mad Cow Disease | 0.70% | ~1,778 |
 | Friendly Imps | 0.70% | ~1,778 |
+| Fast Food | 0.70% | ~1,542 |
 | A Persistent Buzzing | 0.60% | ~1,524 |
 | Pure Energy | 0.60% | ~1,524 |
-| Fast Food | 0.60% | ~1,322 |
 | Maddening | 0.50% | ~1,270 |
 | Terror in the Dark | 0.50% | ~1,270 |
 | Unearthed Evil | 0.50% | ~1,270 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,038 (Ranked 70)  
+Progressed: 254,040 (Ranked 70)  
 Completed: 2,617 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -823,7 +823,7 @@ Completed: 2,617 (1.03%) (Ranked 177)
 | 2024-01-12 | 253,598 | 2,614 |
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
-| 2024-01-15 | 254,038 | 2,617 |
+| 2024-01-15 | 254,040 | 2,617 |
 ## Awards
 Max (Great for Beginners): 5,782  (Ranked 74)  
 Sum: 33,501 (Ranked 41)  

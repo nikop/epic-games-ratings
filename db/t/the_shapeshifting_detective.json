@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -995,9 +995,9 @@
       "ID": "play_me_by_the_hour",
       "SetID": "2db2j74",
       "Name": "Play Me By The Hour",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "poetent",
@@ -1076,8 +1076,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:09:55.7173219+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:04:16.1608794+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:08:53.8449626+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:55.7173361+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:03:12.3293886+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:16.1609173+00:00"
 }

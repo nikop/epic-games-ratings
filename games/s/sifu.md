@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,656 |
-| Life is your teacher | 5.00% | ~38,046 |
-| Lightning Hands | 5.00% | ~38,046 |
-| The Assault | 4.00% | ~30,437 |
+| The Old Grandmaster | 6.00% | ~45,657 |
+| Life is your teacher | 5.00% | ~38,047 |
+| Lightning Hands | 5.00% | ~38,047 |
+| The Assault | 4.00% | ~30,438 |
 | The Hateful Pole Fighter | 3.00% | ~22,828 |
 | Stuntmaster | 3.00% | ~22,828 |
 | Street Fighting | 3.00% | ~22,828 |
@@ -32,9 +32,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,609 |
 | Project Arena | 1.00% | ~702 |
 | Fight the way you practice | 0.80% | ~562 |
-| Muk Yan Master | 0.70% | ~5,326 |
-| Tiger on Fire | 0.70% | ~5,326 |
-| Detective Story | 0.70% | ~5,326 |
+| Muk Yan Master | 0.70% | ~5,327 |
+| Tiger on Fire | 0.70% | ~5,327 |
+| Detective Story | 0.70% | ~5,327 |
 | Martial Hub | 0.70% | ~492 |
 | Source of Flying Daggers | 0.60% | ~4,566 |
 | Iron Money | 0.60% | ~4,566 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760,927 (Ranked 26)  
+Progressed: 760,946 (Ranked 26)  
 Completed: 12,988 (1.71%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,10 +337,10 @@ Completed: 12,988 (1.71%) (Ranked 147)
 | 2024-01-12 | 760,019 | 12,984 |
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
-| 2024-01-15 | 760,927 | 12,988 |
+| 2024-01-15 | 760,946 | 12,988 |
 ## Awards
 Max (Great Boss Battles): 7,205  (Ranked 57)  
-Sum: 12,749 (Ranked 86)  
+Sum: 12,750 (Ranked 86)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +351,7 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 618 |
 | This game is Highly Recommended | 610 |
 | This game has Quickly Understood Controls | 601 |
-| This game is Extremely Fun | 590 |
+| This game is Extremely Fun | 591 |
 | This game has Unique Visuals | 588 |
 | This game is Relaxing | 565 |
 | This game has a Creative Community | 436 |
@@ -721,3 +721,4 @@ Diff (max vs sum): -29
 | 2024-01-12 | 4.82 | - | 7,179 | 12,710 |
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
+| 2024-01-15 | 4.82 | - | 7,205 | 12,750 |

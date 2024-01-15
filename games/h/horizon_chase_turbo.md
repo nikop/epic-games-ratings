@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~994,782 |
-| I Need a Bigger Garage | 63.00% | ~696,347 |
-| Pump my Ride | 47.00% | ~519,497 |
-| Ghostbuster | 34.00% | ~375,806 |
-| Call Roadside Assistance | 18.00% | ~198,956 |
-| That Was Close | 18.00% | ~198,956 |
-| Quickie | 11.00% | ~121,584 |
-| California Dreamer | 7.00% | ~77,372 |
+| The First of Many | 90.00% | ~994,792 |
+| I Need a Bigger Garage | 63.00% | ~696,355 |
+| Pump my Ride | 47.00% | ~519,503 |
+| Ghostbuster | 34.00% | ~375,810 |
+| Call Roadside Assistance | 18.00% | ~198,958 |
+| That Was Close | 18.00% | ~198,958 |
+| Quickie | 11.00% | ~121,586 |
+| California Dreamer | 7.00% | ~77,373 |
 | Can't Touch This | 5.00% | ~55,266 |
 | Carménère Taster | 4.00% | ~44,213 |
 | Comeback | 4.00% | ~44,213 |
-| Driver from Ipanema | 3.00% | ~33,159 |
-| Supersonic | 3.00% | ~33,159 |
-| Marathonist | 3.00% | ~33,159 |
-| Living Legend | 3.00% | ~33,159 |
+| Driver from Ipanema | 3.00% | ~33,160 |
+| Supersonic | 3.00% | ~33,160 |
+| Marathonist | 3.00% | ~33,160 |
+| Living Legend | 3.00% | ~33,160 |
 | God of Roads | 2.00% | ~22,106 |
 | Pathfinder | 2.00% | ~22,106 |
 | Go-Kart Champion | 2.00% | ~22,106 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,211 |
 | Transporter | 0.10% | ~1,105 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,313 (Ranked 15)  
+Progressed: 1,105,325 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 535 (0.05%) (Ranked 341)
 | 2024-01-12 | 1,104,077 | 535 |
 | 2024-01-13 | 1,104,634 | 535 |
 | 2024-01-14 | 1,105,137 | 535 |
-| 2024-01-15 | 1,105,313 | 535 |
+| 2024-01-15 | 1,105,325 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 309)  
 Sum: 1,652 (Ranked 235)  

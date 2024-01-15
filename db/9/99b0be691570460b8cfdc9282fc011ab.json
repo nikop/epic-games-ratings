@@ -2,10 +2,10 @@
   "ID": "99b0be691570460b8cfdc9282fc011ab",
   "Name": "Match Three Pirates 2",
   "ProductSlug": "match-three-pirates-2-13005e",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.4103661+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:08:36.7576612+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:10:40.4832543+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:02:54.9211798+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:05:01.0902844+00:00"
 }

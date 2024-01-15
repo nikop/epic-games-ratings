@@ -2,10 +2,10 @@
   "ID": "fb97b9ded17e4ee69ca977f84679614f",
   "Name": "Two World Portal - Mysterious Adventure",
   "ProductSlug": "two-world-portal-mysterious-adventure-ca391a",
-  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Progress": 830,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 569,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 570,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2023-04-13T22:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-28T06:58:26.6692534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:41.5575506+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:25.3799078+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:46.2661875+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:46.0137022+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:06.5942381+00:00"
 }

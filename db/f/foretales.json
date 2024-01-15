@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -344,9 +344,9 @@
       "ID": "chapter3",
       "SetID": "5bkacmp",
       "Name": "Is this the end?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "darkAndStinky",
@@ -641,8 +641,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:09:25.2638928+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:03:45.6362117+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.1478942+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:47.6594504+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:09:25.2639297+00:00"
+  "LastUpdate_Ratings": "2024-01-15T14:00:08.2103824+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:03:45.6362389+00:00"
 }

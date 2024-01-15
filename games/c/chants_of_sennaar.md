@@ -10,7 +10,7 @@ Rating: 4.86 (Ranked 33)
 | The great escape | 47.00% | ~1,311 |
 | The Preacher's fate | 44.00% | ~1,227 |
 | A new dawn | 38.00% | ~1,060 |
-| Scholar | 33.00% | ~920 |
+| Scholar | 34.00% | ~948 |
 | True G3M4R | 32.00% | ~892 |
 | The darkness | 32.00% | ~892 |
 | A good beginning | 31.00% | ~865 |
@@ -23,7 +23,7 @@ Rating: 4.86 (Ranked 33)
 | In this together | 26.00% | ~725 |
 | Champollion | 26.00% | ~725 |
 | Open door | 23.00% | ~641 |
-| Feels like springtime | 22.00% | ~614 |
+| Feels like springtime | 23.00% | ~641 |
 | Alchemists Express | 22.00% | ~614 |
 | Free at last | 20.00% | ~558 |
 | A Link to the Past | 17.00% | ~474 |
@@ -32,7 +32,7 @@ Rating: 4.86 (Ranked 33)
 | Fashion victim | 10.00% | ~279 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,789 (Ranked 235)  
-Completed: 210 (7.53%) (Ranked 56)  
+Completed: 211 (7.57%) (Ranked 55)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -208,7 +208,7 @@ Completed: 210 (7.53%) (Ranked 56)
 | 2024-01-12 | 2,719 | 200 |
 | 2024-01-13 | 2,740 | 204 |
 | 2024-01-14 | 2,773 | 208 |
-| 2024-01-15 | 2,789 | 210 |
+| 2024-01-15 | 2,789 | 211 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

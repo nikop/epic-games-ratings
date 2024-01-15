@@ -5,9 +5,9 @@ Rating: 4.21 (Ranked 959)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,049 |
-| The Outer Way | 27.00% | ~6,049 |
-| Desperate Times | 26.00% | ~5,825 |
+| Flesh Wound | 27.00% | ~6,050 |
+| The Outer Way | 27.00% | ~6,050 |
+| Desperate Times | 26.00% | ~5,826 |
 | Paper Jams | 23.00% | ~5,153 |
 | Get a Grip | 22.00% | ~4,929 |
 | Chew 'Em Up | 21.00% | ~4,705 |
@@ -18,15 +18,15 @@ Rating: 4.21 (Ranked 959)
 | Without A Paddle | 15.00% | ~3,361 |
 | In the Pipe, Five by Five | 13.00% | ~2,913 |
 | Crash Site | 13.00% | ~2,913 |
-| Two Heads Are Better Than One | 12.00% | ~2,688 |
-| Power Up | 12.00% | ~2,688 |
-| Giving Back | 11.00% | ~2,464 |
-| Terminated | 11.00% | ~2,464 |
-| What Lies Beneath | 11.00% | ~2,464 |
-| Full Circle | 11.00% | ~2,464 |
-| You Need a Gun | 9.00% | ~2,016 |
+| Two Heads Are Better Than One | 12.00% | ~2,689 |
+| Power Up | 12.00% | ~2,689 |
+| Giving Back | 11.00% | ~2,465 |
+| Terminated | 11.00% | ~2,465 |
+| What Lies Beneath | 11.00% | ~2,465 |
+| Full Circle | 11.00% | ~2,465 |
+| You Need a Gun | 9.00% | ~2,017 |
 | I Do Belong Here | 8.00% | ~1,792 |
-| Keep Fighting | 8.00% | ~826 |
+| Keep Fighting | 8.00% | ~827 |
 | The Commonality | 6.00% | ~1,344 |
 | It's Time | 6.00% | ~620 |
 | In Striking Distance | 5.00% | ~1,120 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 959)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,404 (Ranked 151)  
+Progressed: 22,406 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,404 | 82 |
+| 2024-01-15 | 22,406 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
 Sum: 654 (Ranked 318)  

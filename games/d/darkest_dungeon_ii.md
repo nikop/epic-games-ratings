@@ -31,16 +31,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,644 |
 | FNG | 5.00% | ~6,644 |
 | Nope | 5.00% | ~6,644 |
-| Unleash Hell | 4.00% | ~5,315 |
-| Funny Guy | 4.00% | ~5,315 |
-| Long Live the King | 4.00% | ~5,315 |
-| Unfulfilled Desires | 4.00% | ~5,315 |
-| Dissector | 4.00% | ~5,315 |
-| Banishment | 4.00% | ~5,315 |
-| Now Stay Dead | 4.00% | ~5,315 |
-| Spelunker | 4.00% | ~5,315 |
-| Ramble On | 4.00% | ~5,315 |
-| Unshackled | 4.00% | ~5,315 |
+| Unleash Hell | 4.00% | ~5,316 |
+| Funny Guy | 4.00% | ~5,316 |
+| Long Live the King | 4.00% | ~5,316 |
+| Unfulfilled Desires | 4.00% | ~5,316 |
+| Dissector | 4.00% | ~5,316 |
+| Banishment | 4.00% | ~5,316 |
+| Now Stay Dead | 4.00% | ~5,316 |
+| Spelunker | 4.00% | ~5,316 |
+| Ramble On | 4.00% | ~5,316 |
+| Unshackled | 4.00% | ~5,316 |
 | Friends 'Til the End | 4.00% | ~310 |
 | Resurrection | 3.00% | ~3,987 |
 | Wyrdly Reconstructed | 3.00% | ~3,987 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,885 (Ranked 92)  
+Progressed: 132,888 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,10 +346,10 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,885 | 4 |
+| 2024-01-15 | 132,888 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
-Sum: 21,656 (Ranked 58)  
+Sum: 21,658 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): -7
 | This game has Diverse Characters | 1,855 |
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,607 |
-| This game has Amazing Characters | 1,533 |
+| This game has Amazing Characters | 1,535 |
 | This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,472 |
 | This game has Amazing Storytelling | 1,448 |
@@ -720,4 +720,4 @@ Diff (max vs sum): -7
 | 2024-01-12 | 4.68 | - | 8,007 | 21,610 |
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
-| 2024-01-15 | 4.68 | - | 8,022 | 21,656 |
+| 2024-01-15 | 4.68 | - | 8,022 | 21,658 |

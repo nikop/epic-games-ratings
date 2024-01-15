@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -394,9 +394,9 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_COACH_OF_THE_SEASON",
@@ -538,9 +538,9 @@
       "ID": "ACH_SCORING_MACHINE",
       "SetID": "1lnhagg",
       "Name": "Cumpulsive Scorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_STAR_IS_BORN",
@@ -617,8 +617,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:14:28.6805239+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:08:48.5195115+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:05:21.2650043+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:14:28.6805491+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:59:41.4190222+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:08:48.5195326+00:00"
 }

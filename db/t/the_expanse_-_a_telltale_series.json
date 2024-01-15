@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19039,
+  "EOS_Progressed": 19041,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17439,6 +17439,11 @@
       "Time": "2024-01-15T13:10:37.1400876+00:00",
       "NumProgressed": 19039,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2024-01-15T14:04:57.6883684+00:00",
+      "NumProgressed": 19041,
+      "NumCompleted": 65
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17499,7 +17504,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "16",
@@ -17531,7 +17536,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "2",
@@ -17603,7 +17608,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "28",
@@ -17627,7 +17632,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "30",
@@ -17683,7 +17688,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "31",
@@ -17691,7 +17696,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "32",
@@ -17699,7 +17704,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "33",
@@ -17723,20 +17728,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19039,
+      "Progressed": 19041,
       "Completed": 65
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 4993,
+      "Progressed": 4995,
       "Completed": 1329
     }
   ],
@@ -17744,8 +17749,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-15T13:10:37.1400872+00:00",
+  "LastChanged_Achievements": "2024-01-15T14:04:57.6883679+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-15T13:04:19.7624481+00:00",
-  "LastUpdate_Achievements": "2024-01-15T13:10:37.1401889+00:00"
+  "LastUpdate_Ratings": "2024-01-15T13:58:38.7121502+00:00",
+  "LastUpdate_Achievements": "2024-01-15T14:04:57.6884751+00:00"
 }
