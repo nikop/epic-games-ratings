@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 220,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 451,
+  "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 112,
@@ -359,9 +359,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 11478,
+  "EOS_Progressed": 11480,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 826,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4924,6 +4924,11 @@
       "Time": "2024-01-15T02:03:14.8554659+00:00",
       "NumProgressed": 11478,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T02:37:43.1741102+00:00",
+      "NumProgressed": 11480,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -4936,7 +4941,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2410
+      "UsersEstimate": 2411
     },
     {
       "ID": "03_TheStolenStar",
@@ -4960,7 +4965,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5096,7 +5101,7 @@
       "Name": "Perfect Timing",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "23_DynastyRestored",
@@ -5144,7 +5149,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5455,7 +5460,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11478,
+      "Progressed": 11480,
       "Completed": 1
     }
   ],
@@ -5463,8 +5468,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-14T13:00:27.0890359+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:14.8554657+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:43.1741097+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:49:33.3703438+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:14.8555498+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:24:59.5040093+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:43.1742053+00:00"
 }

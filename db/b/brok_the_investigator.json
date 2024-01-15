@@ -290,9 +290,9 @@
       "ID": "CHAPTER2",
       "SetID": "bb2dp",
       "Name": "Chapter 2",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "CHAPTER3",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2024-01-15T01:58:34.3560713+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:32:59.1995642+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.4705583+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:53:48.101613+00:00",
-  "LastUpdate_Achievements": "2024-01-15T01:58:34.3560914+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:27:46.1838377+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:32:59.1995801+00:00"
 }

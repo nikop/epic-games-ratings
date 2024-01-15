@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,126 |
+| Genin | 12.00% | ~27,127 |
 | A thief's beginning | 11.00% | ~24,866 |
 | Thorough | 11.00% | ~24,866 |
-| Disguised | 9.00% | ~20,344 |
-| Rescue Takuma | 9.00% | ~20,344 |
-| Rollin' | 9.00% | ~20,344 |
-| Tanuki Time | 9.00% | ~20,344 |
+| Disguised | 9.00% | ~20,345 |
+| Rescue Takuma | 9.00% | ~20,345 |
+| Rollin' | 9.00% | ~20,345 |
+| Tanuki Time | 9.00% | ~20,345 |
 | Ice Ice Yuki | 8.00% | ~18,084 |
 | Jonin | 8.00% | ~18,084 |
 | Stoned Ox | 8.00% | ~18,084 |
@@ -22,10 +22,10 @@ Number of Ratings: 495  (23.09.2022)
 | Chunin | 6.00% | ~13,563 |
 | Flying Rocks | 6.00% | ~13,563 |
 | Warzone | 6.00% | ~13,563 |
-| Happy little accidents | 5.00% | ~11,302 |
-| Okkoto | 5.00% | ~11,302 |
-| Prisoners | 5.00% | ~11,302 |
-| Too Early | 5.00% | ~11,302 |
+| Happy little accidents | 5.00% | ~11,303 |
+| Okkoto | 5.00% | ~11,303 |
+| Prisoners | 5.00% | ~11,303 |
+| Too Early | 5.00% | ~11,303 |
 | Gear up | 4.00% | ~9,042 |
 | Noboru | 4.00% | ~9,042 |
 | Still Rollin' | 4.00% | ~9,042 |
@@ -37,9 +37,9 @@ Number of Ratings: 495  (23.09.2022)
 | Old Man | 2.00% | ~4,521 |
 | The End | 2.00% | ~4,521 |
 | Winner Winner | 2.00% | ~4,521 |
-| Meticulous | 1.00% | ~2,260 |
-| Undeserved Honor | 1.00% | ~2,260 |
-| When Cut Across the Neck | 1.00% | ~2,260 |
+| Meticulous | 1.00% | ~2,261 |
+| Undeserved Honor | 1.00% | ~2,261 |
+| When Cut Across the Neck | 1.00% | ~2,261 |
 | High Five the Moon | 0.90% | ~2,034 |
 | The Cave | 0.90% | ~2,034 |
 | Time Paradox | 0.60% | ~1,356 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,050 (Ranked 79)  
+Progressed: 226,055 (Ranked 79)  
 Completed: 107 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 107 (0.05%) (Ranked 341)
 | 2024-01-12 | 225,573 | 107 |
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
-| 2024-01-15 | 226,050 | 107 |
+| 2024-01-15 | 226,055 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
 Sum: 4,960 (Ranked 152)  

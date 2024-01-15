@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~46,701 |
-| Fashion Killa | 81.00% | ~45,034 |
-| Cool Whip | 74.00% | ~41,142 |
-| Drop the Beat | 65.00% | ~36,138 |
-| Hey Lakeshore | 61.00% | ~33,914 |
-| Public Enemy | 60.00% | ~33,358 |
-| 100 Miles and Runnin' | 58.00% | ~32,246 |
-| Rebel Without a Pause | 38.00% | ~21,127 |
-| Hey Speedie! | 37.00% | ~20,571 |
-| Most Wanted | 33.00% | ~18,347 |
-| New Crew | 32.00% | ~17,791 |
-| Serious Guap | 26.00% | ~14,455 |
-| Style it Out | 26.00% | ~14,455 |
-| Escape Artist | 26.00% | ~14,455 |
-| Rydell's Rydes | 25.00% | ~13,899 |
-| Untouchable | 25.00% | ~13,899 |
-| Oh, It's On | 23.00% | ~12,787 |
-| Cash Money Millionaire | 20.00% | ~11,119 |
-| Access All Areas | 17.00% | ~9,451 |
+| Throwing up Tags | 84.00% | ~46,705 |
+| Fashion Killa | 81.00% | ~45,037 |
+| Cool Whip | 74.00% | ~41,145 |
+| Drop the Beat | 65.00% | ~36,141 |
+| Hey Lakeshore | 61.00% | ~33,917 |
+| Public Enemy | 60.00% | ~33,361 |
+| 100 Miles and Runnin' | 58.00% | ~32,249 |
+| Rebel Without a Pause | 38.00% | ~21,128 |
+| Hey Speedie! | 37.00% | ~20,572 |
+| Most Wanted | 33.00% | ~18,348 |
+| New Crew | 32.00% | ~17,792 |
+| Serious Guap | 26.00% | ~14,456 |
+| Style it Out | 26.00% | ~14,456 |
+| Escape Artist | 26.00% | ~14,456 |
+| Rydell's Rydes | 25.00% | ~13,900 |
+| Untouchable | 25.00% | ~13,900 |
+| Oh, It's On | 23.00% | ~12,788 |
+| Cash Money Millionaire | 20.00% | ~11,120 |
+| Access All Areas | 17.00% | ~9,452 |
 | #Blessed | 16.00% | ~8,896 |
 | Lake Better Watch Out | 16.00% | ~8,896 |
 | Kick it | 12.00% | ~6,672 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 0.60% | ~334 |
 | Cleaning Up | 0.60% | ~334 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,597 (Ranked 122)  
+Progressed: 55,601 (Ranked 122)  
 Completed: 59 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,4 +168,4 @@ Completed: 59 (0.11%) (Ranked 309)
 | 2024-01-12 | 54,796 | 58 |
 | 2024-01-13 | 55,193 | 59 |
 | 2024-01-14 | 55,575 | 59 |
-| 2024-01-15 | 55,597 | 59 |
+| 2024-01-15 | 55,601 | 59 |

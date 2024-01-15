@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4497,9 +4497,9 @@
       "ID": "CompleteStoryDM",
       "SetID": "9lj35g4",
       "Name": "A new Warchief rises",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "DefeatAvor",
@@ -4704,8 +4704,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-15T01:57:02.9454338+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:31:54.7900534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:50:59.7969329+00:00",
-  "LastUpdate_Achievements": "2024-01-15T01:57:02.945495+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:25:55.7660306+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:31:54.7900925+00:00"
 }

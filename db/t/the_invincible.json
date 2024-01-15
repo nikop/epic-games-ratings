@@ -5,7 +5,7 @@
   "Ranking_Rating": 510,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 159,
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1705,
+  "EOS_Progressed": 1707,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4505,6 +4505,11 @@
       "Time": "2024-01-15T02:02:44.1362106+00:00",
       "NumProgressed": 1705,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T02:37:20.7127032+00:00",
+      "NumProgressed": 1707,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4517,7 +4522,7 @@
       "Name": "The Teleprobe",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "AchvAllMemories",
@@ -4533,7 +4538,7 @@
       "Name": "On her own",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "AchvBattleScore",
@@ -4541,7 +4546,7 @@
       "Name": "Fierce fight",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "AchvBombStop",
@@ -4549,7 +4554,7 @@
       "Name": "Peacemaker",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "AchvBombing",
@@ -4557,7 +4562,7 @@
       "Name": "Violent solution",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AchvConvoyList",
@@ -4581,7 +4586,7 @@
       "Name": "The Alliance",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "AchvDoom",
@@ -4613,7 +4618,7 @@
       "Name": "Krauta is alive",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "AchvLava",
@@ -4621,7 +4626,7 @@
       "Name": "Volcanologist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4629,7 +4634,7 @@
       "Name": "I leave no man behind",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -4653,7 +4658,7 @@
       "Name": "Innate curiosity",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "AchvNoHoles",
@@ -4685,7 +4690,7 @@
       "Name": "The field base",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "AchvReachCamp",
@@ -4693,7 +4698,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "AchvReachCity",
@@ -4701,7 +4706,7 @@
       "Name": "The City",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "AchvReachCondor",
@@ -4709,7 +4714,7 @@
       "Name": "The Condor",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "AchvSurvivors",
@@ -4717,7 +4722,7 @@
       "Name": "Survivors",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4733,7 +4738,7 @@
       "Name": "The End",
       "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "AchvUnity",
@@ -4748,7 +4753,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1705,
+      "Progressed": 1707,
       "Completed": 1
     }
   ],
@@ -4756,8 +4761,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:02:44.1362104+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:20.7127027+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:53:50.7278616+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:02:44.1362422+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:27:49.3270924+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:20.712754+00:00"
 }

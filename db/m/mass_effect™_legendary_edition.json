@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4360,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -9055,9 +9055,9 @@
       "ID": "achievement_74",
       "SetID": "d252ncf",
       "Name": "Power Full",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_75",
@@ -9291,8 +9291,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:26.1840038+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:52.2968855+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:55:51.6963033+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:26.1841811+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:31:03.9278382+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:52.2970706+00:00"
 }

@@ -2298,7 +2298,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16833,
+  "EOS_Progressed": 16835,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
@@ -20053,6 +20053,11 @@
       "Time": "2024-01-15T02:03:27.6660487+00:00",
       "NumProgressed": 16833,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T02:37:53.874929+00:00",
+      "NumProgressed": 16835,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20216,7 +20221,7 @@
       "Name": "Carthage - Ox Hide",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -20432,7 +20437,7 @@
       "Name": "Beloved",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -20624,7 +20629,7 @@
       "Name": "Mighty",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20816,7 +20821,7 @@
       "Name": "Good Difficulty",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -20848,7 +20853,7 @@
       "Name": "Noble Difficulty",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -20904,7 +20909,7 @@
       "Name": "Champions",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -21448,7 +21453,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -21456,7 +21461,7 @@
       "Name": "Cao\u0027an",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -21696,7 +21701,7 @@
       "Name": "Greece",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -21728,7 +21733,7 @@
       "Name": "Old World Order",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
@@ -21744,7 +21749,7 @@
       "Name": "Pantheon of Gods",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -21824,7 +21829,7 @@
       "Name": "Power to the People",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -21992,7 +21997,7 @@
       "Name": "Ten Crowns",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -22152,7 +22157,7 @@
       "Name": "Siege Tower",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
@@ -22232,7 +22237,7 @@
       "Name": "Points Victory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -22400,7 +22405,7 @@
       "Name": "Poetic Leader",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -22856,7 +22861,7 @@
       "Name": "Jebel Barkal",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
@@ -22872,7 +22877,7 @@
       "Name": "Royal Library",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
@@ -22880,7 +22885,7 @@
       "Name": "Yazilikaya",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -22927,21 +22932,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16833,
+      "Progressed": 16835,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16833,
+      "Progressed": 16835,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:27.6660485+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:53.8749287+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:53:10.6534403+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:27.6670666+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:27:21.2525783+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:53.8759243+00:00"
 }

@@ -40,7 +40,7 @@ Rating: 4.57 (Ranked 496)
 | Complete Redgi's Armory | 0.60% | ~14 |
 | King of Kings | 0.60% | ~14 |
 | Complete Ranger Faction | 0.60% | ~14 |
-| A new Warchief rises | 0.00% | ~0 |
+| A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,328 (Ranked 246)  
 Completed: 12 (0.52%) (Ranked 222)  

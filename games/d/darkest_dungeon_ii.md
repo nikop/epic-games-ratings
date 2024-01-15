@@ -10,7 +10,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Lost and Found | 9.00% | ~695 |
 | Autodidact | 8.00% | ~10,628 |
 | This Belongs in a Museum | 7.00% | ~9,300 |
-| This guy... again? | 7.00% | ~540 |
+| This guy... again? | 7.00% | ~541 |
 | Serenity Now! | 6.00% | ~7,971 |
 | Creep and Sleep | 6.00% | ~7,971 |
 | Overdue Notice | 6.00% | ~7,971 |
@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 1.00% | ~77 |
 | Slap on the Wrist | 1.00% | ~77 |
 | For Old Time' Sake | 1.00% | ~77 |
-| Et Tu, Riposte? | 0.90% | ~69 |
+| Et Tu, Riposte? | 0.90% | ~70 |
 | The World As It Was | 0.70% | ~930 |
 | A Life Well Lived | 0.60% | ~797 |
 | Bacon Bits | 0.60% | ~797 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,851 (Ranked 92)  
+Progressed: 132,855 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-12 | 132,589 | 4 |
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
-| 2024-01-15 | 132,851 | 4 |
+| 2024-01-15 | 132,855 | 4 |
 ## Awards
 Max (Character Customization): 8,022  (Ranked 51)  
 Sum: 21,652 (Ranked 58)  

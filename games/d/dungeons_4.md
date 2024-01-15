@@ -35,7 +35,7 @@ Rating: 4.73 (Ranked 182)
 | Mana Cannon | 42.00% | ~323 |
 | The Duel | 40.00% | ~307 |
 | If Looks Could Kill | 38.00% | ~292 |
-| Unstoppable Horde | 36.00% | ~276 |
+| Unstoppable Horde | 37.00% | ~284 |
 | Master of the Undead | 36.00% | ~276 |
 | The Finitude Drill | 36.00% | ~276 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~246 |

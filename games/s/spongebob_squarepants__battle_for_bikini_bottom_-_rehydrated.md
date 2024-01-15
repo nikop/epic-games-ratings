@@ -20,8 +20,8 @@ Number of Ratings: 76  (23.09.2022)
 | Surf's Up! | 11.00% | ~113 |
 | Life's as extreme as you wanna make it! | 9.00% | ~92 |
 | Toxic Terror | 9.00% | ~92 |
+| Hit Rock Bottom | 9.00% | ~92 |
 | Shrimp Catcher | 8.00% | ~82 |
-| Hit Rock Bottom | 8.00% | ~82 |
 | Are you ready now? | 7.00% | ~72 |
 | Hello, Bikini Bottom | 7.00% | ~72 |
 | Keep it Rolling | 7.00% | ~72 |

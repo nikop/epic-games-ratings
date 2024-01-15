@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3450,
+  "EOS_Progressed": 3451,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 380,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5585,6 +5585,11 @@
       "Time": "2024-01-15T02:03:11.3066666+00:00",
       "NumProgressed": 3450,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-15T02:37:40.4365783+00:00",
+      "NumProgressed": 3451,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5597,7 +5602,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "achievement_10",
@@ -5619,9 +5624,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_13",
@@ -5629,7 +5634,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "achievement_14",
@@ -5677,7 +5682,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_2",
@@ -5685,7 +5690,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "achievement_20",
@@ -5741,7 +5746,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "achievement_36",
@@ -5757,7 +5762,7 @@
       "Name": "Kitted Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_38",
@@ -5773,7 +5778,7 @@
       "Name": "No More Names",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "achievement_41",
@@ -5789,7 +5794,7 @@
       "Name": "Armaments Gules",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_43",
@@ -5805,7 +5810,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "achievement_45",
@@ -5813,7 +5818,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "achievement_46",
@@ -5835,9 +5840,9 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_5",
@@ -5869,7 +5874,7 @@
       "Name": "Master of Carmine",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_56",
@@ -5901,7 +5906,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_62",
@@ -5909,7 +5914,7 @@
       "Name": "Tip of the Spear",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_63",
@@ -5957,7 +5962,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_9",
@@ -5972,7 +5977,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3450,
+      "Progressed": 3451,
       "Completed": 5
     }
   ],
@@ -5980,8 +5985,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-14T22:57:10.8741075+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:11.3066663+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:40.4365779+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:49:09.6792297+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:11.3067279+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:24:42.8665789+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:40.4366382+00:00"
 }

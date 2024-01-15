@@ -72,14 +72,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~168 |
 | Building Wonders | 1.00% | ~168 |
 | Mythology | 1.00% | ~168 |
-| Beloved | 0.90% | ~151 |
-| Mighty | 0.90% | ~151 |
-| Good Difficulty | 0.90% | ~151 |
-| Champions | 0.90% | ~151 |
-| Temple of Solomon | 0.90% | ~151 |
-| Greece | 0.90% | ~151 |
-| Power to the People | 0.90% | ~151 |
-| Points Victory | 0.90% | ~151 |
+| Beloved | 0.90% | ~152 |
+| Mighty | 0.90% | ~152 |
+| Good Difficulty | 0.90% | ~152 |
+| Champions | 0.90% | ~152 |
+| Temple of Solomon | 0.90% | ~152 |
+| Greece | 0.90% | ~152 |
+| Power to the People | 0.90% | ~152 |
+| Points Victory | 0.90% | ~152 |
 | Patrons | 0.80% | ~135 |
 | Statesmen | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
@@ -142,17 +142,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~67 |
 | Deposed Tribe | 0.40% | ~67 |
 | Jerwan Aqueduct | 0.40% | ~67 |
-| Carthage - Ox Hide | 0.30% | ~50 |
-| Noble Difficulty | 0.30% | ~50 |
-| Cao'an | 0.30% | ~50 |
-| Old World Order | 0.30% | ~50 |
-| Pantheon of Gods | 0.30% | ~50 |
-| Ten Crowns | 0.30% | ~50 |
-| Siege Tower | 0.30% | ~50 |
-| Poetic Leader | 0.30% | ~50 |
-| Jebel Barkal | 0.30% | ~50 |
-| Royal Library | 0.30% | ~50 |
-| Yazilikaya | 0.30% | ~50 |
+| Carthage - Ox Hide | 0.30% | ~51 |
+| Noble Difficulty | 0.30% | ~51 |
+| Cao'an | 0.30% | ~51 |
+| Old World Order | 0.30% | ~51 |
+| Pantheon of Gods | 0.30% | ~51 |
+| Ten Crowns | 0.30% | ~51 |
+| Siege Tower | 0.30% | ~51 |
+| Poetic Leader | 0.30% | ~51 |
+| Jebel Barkal | 0.30% | ~51 |
+| Royal Library | 0.30% | ~51 |
+| Yazilikaya | 0.30% | ~51 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,833 (Ranked 169)  
+Progressed: 16,835 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -635,7 +635,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-12 | 16,554 | 5 |
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
-| 2024-01-15 | 16,833 | 5 |
+| 2024-01-15 | 16,835 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

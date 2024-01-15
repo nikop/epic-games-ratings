@@ -14415,7 +14415,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499161,
+  "EOS_Progressed": 499171,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 4457,
   "EOS_NewCompleters": 0,
@@ -45530,6 +45530,11 @@
       "Time": "2024-01-15T02:03:27.9148936+00:00",
       "NumProgressed": 499161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T02:37:54.1878534+00:00",
+      "NumProgressed": 499171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46061,7 +46066,7 @@
       "Name": "Cold War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "achievement_colonial_management",
@@ -46373,7 +46378,7 @@
       "Name": "For the Glory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "achievement_forever_golden",
@@ -46757,7 +46762,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -48133,7 +48138,7 @@
       "Name": "True Catholic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -48444,21 +48449,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499161,
+      "Progressed": 499171,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499161,
+      "Progressed": 499171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-14T23:59:58.5456129+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:27.9148931+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:54.1878529+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:52:58.2901707+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:27.9159724+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:27:13.9690229+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:54.1888838+00:00"
 }

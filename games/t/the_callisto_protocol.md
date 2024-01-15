@@ -5,17 +5,17 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,045 |
-| The Outer Way | 27.00% | ~6,045 |
-| Desperate Times | 26.00% | ~5,821 |
-| Paper Jams | 23.00% | ~5,149 |
+| Flesh Wound | 27.00% | ~6,046 |
+| The Outer Way | 27.00% | ~6,046 |
+| Desperate Times | 26.00% | ~5,822 |
+| Paper Jams | 23.00% | ~5,150 |
 | Get a Grip | 22.00% | ~4,926 |
 | Chew 'Em Up | 21.00% | ~4,702 |
 | Reforged | 20.00% | ~4,478 |
 | Float Like A Butterfly | 18.00% | ~4,030 |
 | Workplace Hazard | 17.00% | ~3,806 |
 | If the SHU Fits... | 17.00% | ~3,806 |
-| Without A Paddle | 15.00% | ~3,358 |
+| Without A Paddle | 15.00% | ~3,359 |
 | In the Pipe, Five by Five | 13.00% | ~2,911 |
 | Crash Site | 13.00% | ~2,911 |
 | Two Heads Are Better Than One | 12.00% | ~2,687 |
@@ -29,8 +29,8 @@ Rating: 4.22 (Ranked 955)
 | Keep Fighting | 8.00% | ~825 |
 | The Commonality | 6.00% | ~1,343 |
 | It's Time | 6.00% | ~619 |
-| In Striking Distance | 5.00% | ~1,119 |
-| One Last Job | 3.00% | ~309 |
+| In Striking Distance | 5.00% | ~1,120 |
+| One Last Job | 3.00% | ~310 |
 | Mugshot | 2.00% | ~448 |
 | Big Spender | 2.00% | ~206 |
 | This Isn't About Escape | 2.00% | ~206 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,389 (Ranked 151)  
+Progressed: 22,391 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-12 | 22,235 | 82 |
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
-| 2024-01-15 | 22,389 | 82 |
+| 2024-01-15 | 22,391 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 342)  
 Sum: 653 (Ranked 318)  

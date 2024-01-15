@@ -374,9 +374,9 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FRIENEMY",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:01:56.1182449+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:36:46.8624347+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.2115665+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:50:31.9695777+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:01:56.1182736+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:25:37.8850892+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:36:46.8624618+00:00"
 }

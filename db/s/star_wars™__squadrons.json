@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41323,
+  "EOS_Progressed": 41330,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2154,
+  "EOS_NewPlayers": 2157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13899,6 +13899,11 @@
       "Time": "2024-01-15T02:03:17.3638929+00:00",
       "NumProgressed": 41323,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-15T02:37:44.9628327+00:00",
+      "NumProgressed": 41330,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -13911,7 +13916,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6198
+      "UsersEstimate": 6200
     },
     {
       "ID": "achievement_10",
@@ -13959,7 +13964,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7851
+      "UsersEstimate": 7853
     },
     {
       "ID": "achievement_16",
@@ -13999,7 +14004,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "achievement_20",
@@ -14007,7 +14012,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "achievement_21",
@@ -14055,7 +14060,7 @@
       "Name": "Squadron Hunter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "achievement_27",
@@ -14119,7 +14124,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7438
+      "UsersEstimate": 7439
     },
     {
       "ID": "achievement_34",
@@ -14135,7 +14140,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 39257
+      "UsersEstimate": 39264
     },
     {
       "ID": "achievement_36",
@@ -14151,7 +14156,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "achievement_38",
@@ -14167,7 +14172,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9504
+      "UsersEstimate": 9506
     },
     {
       "ID": "achievement_4",
@@ -14215,7 +14220,7 @@
       "Name": "Combat Pilot",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "achievement_45",
@@ -14247,7 +14252,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "achievement_6",
@@ -14255,7 +14260,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5372
+      "UsersEstimate": 5373
     },
     {
       "ID": "achievement_7",
@@ -14271,7 +14276,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9504
+      "UsersEstimate": 9506
     },
     {
       "ID": "achievement_9",
@@ -14286,7 +14291,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 41323,
+      "Progressed": 41330,
       "Completed": 3
     }
   ],
@@ -14294,8 +14299,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:17.3638927+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:44.9628324+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.3811703+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:55:47.5628891+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:17.363987+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:31:00.61933+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:44.9629229+00:00"
 }

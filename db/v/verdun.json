@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 376,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1985,9 +1985,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69538,
+  "EOS_Progressed": 69539,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31750,6 +31750,11 @@
       "Time": "2024-01-15T01:58:58.2485439+00:00",
       "NumProgressed": 69538,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T02:33:15.9729179+00:00",
+      "NumProgressed": 69539,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31889,7 +31894,7 @@
       "Name": "This We\u0027ll Defend!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6258
+      "UsersEstimate": 6259
     },
     {
       "ID": "VERDUN_ACH_GOLD100",
@@ -32049,7 +32054,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43809
+      "UsersEstimate": 43810
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -32201,7 +32206,7 @@
       "Name": "Providentiea Memor",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6258
+      "UsersEstimate": 6259
     },
     {
       "ID": "VERDUN_ACH_TIRAILLEURS",
@@ -32217,7 +32222,7 @@
       "Name": "For King and Country",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6258
+      "UsersEstimate": 6259
     },
     {
       "ID": "VERDUN_ACH_TRIPLEEXPL",
@@ -32232,15 +32237,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69538,
+      "Progressed": 69539,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-14T16:58:57.2667517+00:00",
-  "LastChanged_Achievements": "2024-01-15T01:58:58.2485438+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:33:15.9729174+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.4776116+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:52:04.9228618+00:00",
-  "LastUpdate_Achievements": "2024-01-15T01:58:58.248717+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:26:39.2622742+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:33:15.9731258+00:00"
 }

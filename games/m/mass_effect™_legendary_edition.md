@@ -37,9 +37,9 @@
 | Head Hunter | 29.00% | ~1,264 |
 | The Convict | 27.00% | ~1,177 |
 | Operative | 27.00% | ~1,177 |
+| Power Full | 27.00% | ~1,177 |
 | Colony Defense | 26.00% | ~1,134 |
 | The Krogan | 26.00% | ~1,134 |
-| Power Full | 26.00% | ~1,134 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,090 |
 | Veteran | 24.00% | ~1,046 |
 | Driven | 24.00% | ~1,046 |

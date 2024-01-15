@@ -13,10 +13,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.40% | ~1,997 |
 | That's a Grand Navy | 0.40% | ~1,997 |
 | Seriously?! | 0.40% | ~1,997 |
-| Cold War | 0.30% | ~1,497 |
-| For the Glory | 0.30% | ~1,497 |
-| It's all about the money | 0.30% | ~1,497 |
-| True Catholic | 0.30% | ~1,497 |
+| Cold War | 0.30% | ~1,498 |
+| For the Glory | 0.30% | ~1,498 |
+| It's all about the money | 0.30% | ~1,498 |
+| True Catholic | 0.30% | ~1,498 |
 | Blockader | 0.20% | ~998 |
 | Combined Arms | 0.20% | ~998 |
 | Defender of the Faith | 0.20% | ~998 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where are the penguins? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,161 (Ranked 42)  
+Progressed: 499,171 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-12 | 497,567 | 1 |
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
-| 2024-01-15 | 499,161 | 1 |
+| 2024-01-15 | 499,171 | 1 |
 ## Awards
 Max (Educational): 7,836  (Ranked 52)  
 Sum: 64,631 (Ranked 24)  

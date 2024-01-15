@@ -20,8 +20,8 @@ Rating: 4.56 (Ranked 510)
 | Ferocious wild boars | 23.00% | ~47 |
 | Beast slayer | 21.00% | ~43 |
 | Death of a legend | 20.00% | ~41 |
+| Ogre friend | 20.00% | ~41 |
 | Archaeologist | 19.00% | ~39 |
-| Ogre friend | 19.00% | ~39 |
 | Sidelined | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
 | Little hero | 17.00% | ~35 |

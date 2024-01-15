@@ -5,34 +5,34 @@ Rating: 4.40 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 62.00% | ~214,000 |
-| Destroyer-In-Chief | 56.00% | ~193,290 |
-| There Is No Pancakes | 52.00% | ~179,484 |
-| First of Many | 41.00% | ~141,516 |
-| Woah. | 36.00% | ~124,258 |
-| Don't Look Down | 28.00% | ~96,645 |
-| Don't Panic | 27.00% | ~93,193 |
-| Ooo A Piece of Candy! | 22.00% | ~75,935 |
-| Ghost in the Machine | 17.00% | ~58,677 |
-| All Too Easy | 15.00% | ~51,774 |
-| Didn't Need to See Him Naked | 13.00% | ~44,871 |
-| Indomitable | 10.00% | ~34,516 |
-| Bow to the Boss! | 9.00% | ~31,064 |
-| About Time! | 8.00% | ~27,613 |
-| Blast from the Past | 8.00% | ~27,613 |
-| Friend of the Raptors | 8.00% | ~27,613 |
-| Betrayed | 7.00% | ~24,161 |
-| Maximum Stopping Power | 7.00% | ~24,161 |
+| Zero Saints Thirty | 62.00% | ~214,008 |
+| Destroyer-In-Chief | 56.00% | ~193,297 |
+| There Is No Pancakes | 52.00% | ~179,490 |
+| First of Many | 41.00% | ~141,521 |
+| Woah. | 36.00% | ~124,263 |
+| Don't Look Down | 28.00% | ~96,649 |
+| Don't Panic | 27.00% | ~93,197 |
+| Ooo A Piece of Candy! | 22.00% | ~75,938 |
+| Ghost in the Machine | 17.00% | ~58,680 |
+| All Too Easy | 15.00% | ~51,776 |
+| Didn't Need to See Him Naked | 13.00% | ~44,873 |
+| Indomitable | 10.00% | ~34,517 |
+| Bow to the Boss! | 9.00% | ~31,066 |
+| About Time! | 8.00% | ~27,614 |
+| Blast from the Past | 8.00% | ~27,614 |
+| Friend of the Raptors | 8.00% | ~27,614 |
+| Betrayed | 7.00% | ~24,162 |
+| Maximum Stopping Power | 7.00% | ~24,162 |
 | Actor-Turned-Politician | 6.00% | ~20,710 |
 | Keymaster | 6.00% | ~20,710 |
 | Poodle Skirt | 6.00% | ~20,710 |
 | You Chose... Poorly | 6.00% | ~20,710 |
-| Double Team | 5.00% | ~17,258 |
-| Imperator | 5.00% | ~17,258 |
-| *BEEP* YOU, CLAWZ! | 4.00% | ~13,806 |
-| Half Way Home | 4.00% | ~13,806 |
-| Machine Man | 4.00% | ~13,806 |
-| The Full Kinzie | 4.00% | ~13,806 |
+| Double Team | 5.00% | ~17,259 |
+| Imperator | 5.00% | ~17,259 |
+| *BEEP* YOU, CLAWZ! | 4.00% | ~13,807 |
+| Half Way Home | 4.00% | ~13,807 |
+| Machine Man | 4.00% | ~13,807 |
+| The Full Kinzie | 4.00% | ~13,807 |
 | ...A Saint Gets a Gun | 3.00% | ~10,355 |
 | And I Ran... | 3.00% | ~10,355 |
 | Chill Out | 3.00% | ~10,355 |
@@ -55,18 +55,18 @@ Rating: 4.40 (Ranked 771)
 | Minty Fresh! | 1.00% | ~3,452 |
 | Switch Hitter | 1.00% | ~3,452 |
 | The Whole Story | 1.00% | ~3,452 |
-| Make a List, Check it Twice | 0.90% | ~3,106 |
-| Zoo Keeper | 0.90% | ~3,106 |
+| Make a List, Check it Twice | 0.90% | ~3,107 |
+| Zoo Keeper | 0.90% | ~3,107 |
 | Dear Santa | 0.70% | ~2,416 |
 | Rigging the Race | 0.70% | ~2,416 |
 | Back in the Day | 0.60% | ~2,071 |
 | Health Inspector | 0.50% | ~1,726 |
 | Experimental Tech | 0.40% | ~1,381 |
-| Bringin' the Heat | 0.30% | ~1,035 |
-| Fist Meet Ground | 0.30% | ~1,035 |
-| Fourth and Forty | 0.30% | ~1,035 |
-| The Challenge King | 0.30% | ~1,035 |
-| Walking the Dinosaur | 0.30% | ~1,035 |
+| Bringin' the Heat | 0.30% | ~1,036 |
+| Fist Meet Ground | 0.30% | ~1,036 |
+| Fourth and Forty | 0.30% | ~1,036 |
+| The Challenge King | 0.30% | ~1,036 |
+| Walking the Dinosaur | 0.30% | ~1,036 |
 | A World Without Christmas | 0.10% | ~345 |
 | Epic Jump Quest | 0.10% | ~345 |
 | Get that Kid to a Psychologist | 0.10% | ~345 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 771)
 | Super Power Team Up! | 0.10% | ~345 |
 | Ultimate Hot Potato | 0.10% | ~345 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 345,161 (Ranked 60)  
+Progressed: 345,174 (Ranked 60)  
 Completed: 17 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 17 (0.00%) (Ranked 401)
 | 2024-01-12 | 343,544 | 17 |
 | 2024-01-13 | 344,342 | 17 |
 | 2024-01-14 | 345,076 | 17 |
-| 2024-01-15 | 345,161 | 17 |
+| 2024-01-15 | 345,174 | 17 |
 ## Awards
 Max (Great Boss Battles): 531  (Ranked 221)  
 Sum: 531 (Ranked 333)  

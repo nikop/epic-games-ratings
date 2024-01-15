@@ -2237,9 +2237,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22389,
+  "EOS_Progressed": 22391,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 762,
+  "EOS_NewPlayers": 760,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -13932,6 +13932,11 @@
       "Time": "2024-01-15T02:02:48.2256375+00:00",
       "NumProgressed": 22389,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-15T02:37:23.7540804+00:00",
+      "NumProgressed": 22391,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -13975,7 +13980,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14055,7 +14060,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "KILL_2HEAD",
@@ -14119,7 +14124,7 @@
       "Name": "Paper Jams",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14135,7 +14140,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6045
+      "UsersEstimate": 6046
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14151,7 +14156,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "STORY_HANGAR",
@@ -14175,7 +14180,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5821
+      "UsersEstimate": 5822
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14287,7 +14292,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14318,13 +14323,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22389,
+      "Progressed": 22391,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10315,
+      "Progressed": 10317,
       "Completed": 29
     }
   ],
@@ -14332,8 +14337,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-14T22:03:20.3675654+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:02:48.2256373+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:23.75408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:55:49.9904018+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:02:48.2257081+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:31:02.4550789+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:23.7541826+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 550)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,369 |
-| Hotel California | 9.00% | ~72,332 |
-| Break A Leg | 8.00% | ~64,295 |
-| Git Gutte! | 7.00% | ~56,258 |
-| Coup de Grâce | 7.00% | ~56,258 |
-| Hazardous Materials | 7.00% | ~56,258 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,258 |
-| Bookworm | 6.00% | ~48,221 |
-| Friends Like These | 6.00% | ~48,221 |
-| Apex Predator | 6.00% | ~48,221 |
+| Welcome To Hell-A | 10.00% | ~80,370 |
+| Hotel California | 9.00% | ~72,333 |
+| Break A Leg | 8.00% | ~64,296 |
+| Git Gutte! | 7.00% | ~56,259 |
+| Coup de Grâce | 7.00% | ~56,259 |
+| Hazardous Materials | 7.00% | ~56,259 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,259 |
+| Bookworm | 6.00% | ~48,222 |
+| Friends Like These | 6.00% | ~48,222 |
+| Apex Predator | 6.00% | ~48,222 |
 | Dr. Reed, I Presume? | 5.00% | ~40,185 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,185 |
 | But Doctor, I am Butcho | 5.00% | ~40,185 |
@@ -29,8 +29,8 @@ Rating: 4.54 (Ranked 550)
 | Ooh, Shiny! | 4.00% | ~32,148 |
 | A Patton Emerges | 4.00% | ~32,148 |
 | Our True Nature | 4.00% | ~32,148 |
-| Whatever It Takes | 4.00% | ~5,169 |
-| Pork Chopped | 4.00% | ~5,169 |
+| Whatever It Takes | 4.00% | ~5,170 |
+| Pork Chopped | 4.00% | ~5,170 |
 | Making Your Mark | 3.00% | ~24,111 |
 | Humanity Distilled | 3.00% | ~24,111 |
 | I Am the Resurrection | 3.00% | ~24,111 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 550)
 | Sole Survivor | 0.90% | ~7,233 |
 | Sharpest Tool in the Box | 0.90% | ~7,233 |
 | Top That, Tisha! | 0.60% | ~775 |
-| Survival Skills | 0.50% | ~4,018 |
+| Survival Skills | 0.50% | ~4,019 |
 | Donk! | 0.30% | ~2,411 |
 | Lawn and Order | 0.30% | ~388 |
 | Bucket List | 0.10% | ~804 |
 | Wilhelm | 0.10% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803,691 (Ranked 23)  
+Progressed: 803,702 (Ranked 23)  
 Completed: 2,587 (0.32%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2,587 (0.32%) (Ranked 256)
 | 2024-01-12 | 801,737 | 2,574 |
 | 2024-01-13 | 802,693 | 2,581 |
 | 2024-01-14 | 803,623 | 2,587 |
-| 2024-01-15 | 803,691 | 2,587 |
+| 2024-01-15 | 803,702 | 2,587 |
 ## Awards
 Max (Great Boss Battles): 10,373  (Ranked 41)  
 Sum: 15,895 (Ranked 70)  

@@ -25,11 +25,11 @@ Number of Ratings: 2,500  (23.09.2022)
 | Growing Strong | 5.00% | ~1,674 |
 | Hear me Roar! | 5.00% | ~1,674 |
 | What is Dead may Never Die | 3.00% | ~1,004 |
-| King in the North | 2.00% | ~669 |
-| The Swift | 2.00% | ~669 |
+| King in the North | 2.00% | ~670 |
+| The Swift | 2.00% | ~670 |
 | War of the Five Kings | 1.00% | ~335 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,474 (Ranked 141)  
+Progressed: 33,475 (Ranked 141)  
 Completed: 87 (0.26%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 87 (0.26%) (Ranked 268)
 | 2024-01-12 | 33,251 | 87 |
 | 2024-01-13 | 33,357 | 87 |
 | 2024-01-14 | 33,463 | 87 |
-| 2024-01-15 | 33,474 | 87 |
+| 2024-01-15 | 33,475 | 87 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 351)  
 Sum: 813 (Ranked 292)  

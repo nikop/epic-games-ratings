@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -275,7 +275,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75295,
+  "EOS_Progressed": 75299,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 1366,
   "EOS_NewCompleters": 11,
@@ -7340,6 +7340,11 @@
       "Time": "2024-01-15T02:01:22.451671+00:00",
       "NumProgressed": 75295,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2024-01-15T02:36:13.3675285+00:00",
+      "NumProgressed": 75299,
+      "NumCompleted": 123
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7352,7 +7357,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27859
+      "UsersEstimate": 27861
     },
     {
       "ID": "Achievement_10",
@@ -7440,7 +7445,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21083
+      "UsersEstimate": 21084
     },
     {
       "ID": "Achievement_20",
@@ -7528,7 +7533,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9035
+      "UsersEstimate": 9036
     },
     {
       "ID": "Achievement_30",
@@ -7623,7 +7628,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75295,
+      "Progressed": 75299,
       "Completed": 123
     }
   ],
@@ -7631,8 +7636,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-14T17:58:20.5473413+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:01:22.4516708+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:36:13.3675279+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:49:57.2862718+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:01:22.4517333+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:25:15.1512463+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:36:13.3676046+00:00"
 }

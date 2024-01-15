@@ -5,7 +5,7 @@ Rating: 4.15 (Ranked 1,003)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,145 |
+| Attachments | 13.00% | ~6,146 |
 | Unlocked Potential | 12.00% | ~5,673 |
 | Tinkerer | 9.00% | ~4,255 |
 | Leapfrogger | 8.00% | ~3,782 |
@@ -23,13 +23,13 @@ Rating: 4.15 (Ranked 1,003)
 | Damned If You Do... | 3.00% | ~1,418 |
 | Hop, Step, Jump | 3.00% | ~1,418 |
 | Endless Runner | 3.00% | ~1,418 |
-| What Must Be Done | 2.00% | ~945 |
-| Might and Main | 2.00% | ~945 |
-| The Hue of Blue | 2.00% | ~945 |
-| Breaking Point | 2.00% | ~945 |
-| Explorer: Pathfinder | 2.00% | ~945 |
-| Shocker | 2.00% | ~945 |
-| From Every Angle | 2.00% | ~945 |
+| What Must Be Done | 2.00% | ~946 |
+| Might and Main | 2.00% | ~946 |
+| The Hue of Blue | 2.00% | ~946 |
+| Breaking Point | 2.00% | ~946 |
+| Explorer: Pathfinder | 2.00% | ~946 |
+| Shocker | 2.00% | ~946 |
+| From Every Angle | 2.00% | ~946 |
 | The Truth Will Out | 1.00% | ~473 |
 | None the Wiser | 1.00% | ~473 |
 | Forspoken | 1.00% | ~473 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 1,003)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,273 (Ranked 127)  
+Progressed: 47,275 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 4 (0.01%) (Ranked 376)
 | 2024-01-12 | 47,151 | 4 |
 | 2024-01-13 | 47,215 | 4 |
 | 2024-01-14 | 47,269 | 4 |
-| 2024-01-15 | 47,273 | 4 |
+| 2024-01-15 | 47,275 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 451)  
 Sum: 78 (Ranked 487)  

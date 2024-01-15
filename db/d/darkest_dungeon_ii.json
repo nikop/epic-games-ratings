@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10872,7 +10872,7 @@
       "Count": 1095
     }
   ],
-  "EOS_Progressed": 132851,
+  "EOS_Progressed": 132855,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 732,
   "EOS_NewCompleters": 1,
@@ -39902,6 +39902,11 @@
       "Time": "2024-01-15T02:03:05.5702772+00:00",
       "NumProgressed": 132851,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-15T02:37:36.0396293+00:00",
+      "NumProgressed": 132855,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40457,7 +40462,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40489,7 +40494,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -40544,21 +40549,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132851,
+      "Progressed": 132855,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7720,
+      "Progressed": 7724,
       "Completed": 827
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-14T17:58:44.8735794+00:00",
-  "LastChanged_Achievements": "2024-01-15T02:03:05.5702771+00:00",
+  "LastChanged_Achievements": "2024-01-15T02:37:36.0396287+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-15T01:50:22.723722+00:00",
-  "LastUpdate_Achievements": "2024-01-15T02:03:05.5704648+00:00"
+  "LastUpdate_Ratings": "2024-01-15T02:25:31.6254761+00:00",
+  "LastUpdate_Achievements": "2024-01-15T02:37:36.0398125+00:00"
 }
