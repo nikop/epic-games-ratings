@@ -6,31 +6,31 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 27.00% | ~1,714 |
-| Hit 'Em Where It Hurts | 26.00% | ~1,651 |
-| Perk Shard Punch Card | 26.00% | ~1,651 |
-| Debuff Dogpile | 25.00% | ~1,587 |
-| That'll Leave a Mark | 25.00% | ~1,587 |
-| Mushroom Madness! | 23.00% | ~1,460 |
+| Faceroll the Bones | 27.00% | ~1,715 |
+| Hit 'Em Where It Hurts | 26.00% | ~1,652 |
+| Perk Shard Punch Card | 26.00% | ~1,652 |
+| Debuff Dogpile | 25.00% | ~1,588 |
+| That'll Leave a Mark | 25.00% | ~1,588 |
+| Mushroom Madness! | 23.00% | ~1,461 |
 | First Strike | 22.00% | ~1,397 |
-| Spending Spree | 19.00% | ~1,206 |
+| Spending Spree | 19.00% | ~1,207 |
 | Horder Better Faster Stronger | 18.00% | ~1,143 |
 | Ten Steps from the Grave | 16.00% | ~1,016 |
-| Everything Must Go! | 15.00% | ~952 |
-| Next Time on MythForce... | 15.00% | ~952 |
-| Cold-Blooded Critters | 11.00% | ~698 |
+| Everything Must Go! | 15.00% | ~953 |
+| Next Time on MythForce... | 15.00% | ~953 |
+| Cold-Blooded Critters | 11.00% | ~699 |
 | Death Becomes You | 8.00% | ~508 |
-| On this Episode! | 7.00% | ~444 |
+| On this Episode! | 7.00% | ~445 |
 | Flawless Victory | 6.00% | ~381 |
 | The Harder They Fall | 6.00% | ~381 |
 | Deadication | 4.00% | ~254 |
 | Season Finale | 4.00% | ~254 |
-| We've Got a Kaiju on the Field | 3.00% | ~190 |
+| We've Got a Kaiju on the Field | 3.00% | ~191 |
 | The Fourth Gate | 2.00% | ~127 |
 | Vexed Her | 0.50% | ~32 |
 | Deadalus and Loving It | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,349 (Ranked 201)  
+Progressed: 6,352 (Ranked 201)  
 Completed: 5 (0.08%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 5 (0.08%) (Ranked 328)
 | 2024-01-12 | 6,293 | 5 |
 | 2024-01-13 | 6,322 | 5 |
 | 2024-01-14 | 6,343 | 5 |
-| 2024-01-15 | 6,349 | 5 |
+| 2024-01-15 | 6,352 | 5 |
 ## Awards
 Max (Great for Beginners): 36  (Ranked 501)  
 Sum: 297 (Ranked 382)  

@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 402597,
+  "EOS_Progressed": 402604,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 3234,
+  "EOS_NewPlayers": 3229,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -13418,6 +13418,11 @@
       "Time": "2024-01-15T06:08:14.997355+00:00",
       "NumProgressed": 402597,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-15T07:08:55.7485386+00:00",
+      "NumProgressed": 402604,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 28,
@@ -13453,7 +13458,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 80519
+      "UsersEstimate": 80521
     },
     {
       "ID": "GB_DEBTOR",
@@ -13477,7 +13482,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 161039
+      "UsersEstimate": 161042
     },
     {
       "ID": "GB_GOURMET",
@@ -13549,7 +13554,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 92597
+      "UsersEstimate": 92599
     },
     {
       "ID": "GB_KEVIN",
@@ -13557,7 +13562,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 120779
+      "UsersEstimate": 120781
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -13581,7 +13586,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 181169
+      "UsersEstimate": 181172
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -13652,7 +13657,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 402597,
+      "Progressed": 402604,
       "Completed": 60
     }
   ],
@@ -13660,8 +13665,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-12-28T01:47:13.8742821+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:08:14.9973545+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:08:55.748538+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.9482997+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:03:01.7878393+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:08:14.9974448+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:03:40.2189025+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:08:55.7486133+00:00"
 }

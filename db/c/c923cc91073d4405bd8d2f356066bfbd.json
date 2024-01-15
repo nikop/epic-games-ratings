@@ -315,9 +315,9 @@
       "ID": "CHALLENGER_CHAOS",
       "SetID": "1fek4an",
       "Name": "Chaos Challenger",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COMBO_BULLETSIZE",
@@ -331,9 +331,9 @@
       "ID": "COMBO_CRIT",
       "SetID": "1fek4an",
       "Name": "Lock the Head",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "COMBO_DODGE",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:08:07.1789199+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:08:48.5126235+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:02:32.55722+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:08:07.1789693+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:03:10.9164185+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:08:48.5126785+00:00"
 }

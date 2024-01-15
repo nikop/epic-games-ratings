@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 573,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -734,9 +734,9 @@
       "ID": "ach_43_badend",
       "SetID": "16n29hg",
       "Name": "GG Bro",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_44_braveHaak",
@@ -798,9 +798,9 @@
       "ID": "ach_51_manOfFocus",
       "SetID": "16n29hg",
       "Name": "In the Limelight",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_52_fastrunner",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:20.6629701+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:09:56.9843278+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.0748057+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:57:49.8523552+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:20.6630077+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:58:16.2611728+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:09:56.9843811+00:00"
 }

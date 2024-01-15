@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1369,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4542,9 +4542,9 @@
       "ID": "achievement_17",
       "SetID": "2cpn27e",
       "Name": "Master of the Skies",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_18",
@@ -4830,9 +4830,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 849
     },
     {
       "ID": "achievement_7",
@@ -4868,8 +4868,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:21.4333763+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:09:57.7702662+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:59:21.9060377+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:21.4334276+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:59:41.1120034+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:09:57.7703261+00:00"
 }

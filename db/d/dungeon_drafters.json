@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -731,6 +731,11 @@
       "Time": "2024-01-12T17:04:39.510834+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T07:05:35.3613172+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -742,7 +747,7 @@
       "Name": "The Bodyguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GL_complete",
@@ -758,7 +763,7 @@
       "Name": "Treasure Hunting",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -782,7 +787,7 @@
       "Name": "The Familiar",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MC_complete",
@@ -790,7 +795,7 @@
       "Name": "The Steed",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "MGR_complete",
@@ -798,7 +803,7 @@
       "Name": "Ancient Nemesis",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MasterOracleQuestlineFirst",
@@ -822,7 +827,7 @@
       "Name": "Oracle Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MasterRaiderQuestlineFirst",
@@ -830,7 +835,7 @@
       "Name": "Friend!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MasterRaiderQuestlineLast",
@@ -910,7 +915,7 @@
       "Name": "Towards the Future",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "StrangerQuestlineThird",
@@ -958,7 +963,7 @@
       "Name": "Card Completionist",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "cards_discovered_half",
@@ -974,7 +979,7 @@
       "Name": "The Usurper",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "foil_card",
@@ -998,7 +1003,7 @@
       "Name": "Harmony",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "madking_free",
@@ -1022,7 +1027,7 @@
       "Name": "A New Tomorrow",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "portaltraveler_mirrors",
@@ -1054,14 +1059,14 @@
       "Name": "Gladiator",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
@@ -1069,8 +1074,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:05:04.2837783+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:05:35.3613168+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.1547329+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:56:58.1742685+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:05:04.2838016+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:57:27.5485871+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:05:35.3613468+00:00"
 }

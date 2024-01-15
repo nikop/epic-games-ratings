@@ -4,7 +4,7 @@
   "ProductSlug": "hyenas",
   "Ranking_EOS_Progress": 828,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 574,
+  "Ranking_EOS_NewPlayers": 573,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:57.5674689+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:00:19.2536131+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:15.5401573+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:00:32.3302567+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:09:52.1825125+00:00"
 }

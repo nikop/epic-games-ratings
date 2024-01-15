@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Land of the Rising Sun | 100.00% | ~1,369 |
 | Hidden History | 72.00% | ~986 |
-| Commencing of Quests | 61.00% | ~835 |
+| Commencing of Quests | 62.00% | ~849 |
 | Budding Conjuror | 61.00% | ~835 |
 | Man-Machine Master | 50.00% | ~684 |
 | Mountain Splitter | 49.00% | ~671 |
@@ -21,7 +21,7 @@
 | Flawless Crystal | 38.00% | ~520 |
 | Distance Devourer | 37.00% | ~507 |
 | Counter Specialist | 34.00% | ~465 |
-| Master of the Skies | 31.00% | ~424 |
+| Master of the Skies | 32.00% | ~438 |
 | Axer of Auspice | 29.00% | ~397 |
 | Kemono at Heart | 28.00% | ~383 |
 | Mighty Marmelizer | 27.00% | ~370 |

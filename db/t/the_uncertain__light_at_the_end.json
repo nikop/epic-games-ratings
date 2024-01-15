@@ -5,9 +5,9 @@
   "Ranking_Rating": 1078,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -1424,6 +1424,11 @@
       "Time": "2024-01-15T02:33:39.292777+00:00",
       "NumProgressed": 674,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T07:06:24.9523506+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1451,15 +1456,15 @@
       "Name": "The Butterfly Effect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 196
     },
     {
       "ID": "Doors_Closing",
@@ -1475,7 +1480,7 @@
       "Name": "Echoes of the Past",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Enjoyable_Read",
@@ -1491,7 +1496,7 @@
       "Name": "Casual Gamer",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Graffiti_Artist",
@@ -1515,7 +1520,7 @@
       "Name": "U Mad Bro?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Healthy_Child",
@@ -1523,7 +1528,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "Hitman",
@@ -1531,7 +1536,7 @@
       "Name": "Short Circuit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Illustrator",
@@ -1611,7 +1616,7 @@
       "Name": "A Familiar Face",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Paparazzi",
@@ -1666,7 +1671,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 6
     }
   ],
@@ -1674,8 +1679,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:05:59.0316653+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:06:24.95235+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:03:10.2031838+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:05:59.0316846+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:03:48.4077413+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:06:24.9523753+00:00"
 }

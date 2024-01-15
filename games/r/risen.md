@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.56 (Ranked 510)  
+Rating: 4.58 (Ranked 469)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -149,3 +149,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2023-12-23 | 4.52 | 0 | 0 |
 | 2023-12-28 | 4.55 | 0 | 0 |
 | 2024-01-07 | 4.56 | 0 | 0 |
+| 2024-01-15 | 4.58 | 0 | 0 |

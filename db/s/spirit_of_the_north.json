@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80109,
+  "EOS_Progressed": 80111,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 3,
@@ -30164,6 +30164,11 @@
       "Time": "2024-01-15T06:09:25.2237447+00:00",
       "NumProgressed": 80109,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-15T07:10:01.0885809+00:00",
+      "NumProgressed": 80111,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 24,
@@ -30191,7 +30196,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55275
+      "UsersEstimate": 55277
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30207,7 +30212,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20828
+      "UsersEstimate": 20829
     },
     {
       "ID": "ERADICATE",
@@ -30255,7 +30260,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42458
+      "UsersEstimate": 42459
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -30343,7 +30348,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12817
+      "UsersEstimate": 12818
     },
     {
       "ID": "WEIGHTLESS",
@@ -30359,14 +30364,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12817
+      "UsersEstimate": 12818
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80109,
+      "Progressed": 80111,
       "Completed": 434
     }
   ],
@@ -30374,8 +30379,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:25.2237443+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:10:01.0885805+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:00:03.3319655+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:25.2240455+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:00:18.8764835+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:10:01.0887473+00:00"
 }

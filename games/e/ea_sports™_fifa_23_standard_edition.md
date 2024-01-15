@@ -5,36 +5,36 @@ Rating: 4.26 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~160,056 |
-| Dead-ball specialist | 61.00% | ~130,179 |
-| European Legend | 52.00% | ~110,972 |
-| Multitasking | 51.00% | ~108,838 |
-| Balanced Path | 49.00% | ~104,570 |
-| High Grades | 48.00% | ~102,436 |
-| A Moment of Your Time | 46.00% | ~98,168 |
-| Let the Games Begin | 46.00% | ~98,168 |
-| Aiming High | 46.00% | ~98,168 |
-| Tactical Tinkerer | 40.00% | ~85,363 |
-| Intuition and Execution | 39.00% | ~83,229 |
-| Squad Building Connoisseur | 38.00% | ~81,095 |
-| The Winning Formula | 36.00% | ~76,827 |
-| Parking the Bus | 27.00% | ~57,620 |
-| Safe House | 26.00% | ~55,486 |
-| Best of Five | 26.00% | ~55,486 |
-| Football is Everything | 24.00% | ~51,218 |
+| Power Shot | 75.00% | ~160,058 |
+| Dead-ball specialist | 61.00% | ~130,181 |
+| European Legend | 52.00% | ~110,974 |
+| Multitasking | 51.00% | ~108,840 |
+| Balanced Path | 49.00% | ~104,571 |
+| High Grades | 48.00% | ~102,437 |
+| A Moment of Your Time | 46.00% | ~98,169 |
+| Let the Games Begin | 46.00% | ~98,169 |
+| Aiming High | 46.00% | ~98,169 |
+| Tactical Tinkerer | 40.00% | ~85,364 |
+| Intuition and Execution | 39.00% | ~83,230 |
+| Squad Building Connoisseur | 38.00% | ~81,096 |
+| The Winning Formula | 36.00% | ~76,828 |
+| Parking the Bus | 27.00% | ~57,621 |
+| Safe House | 26.00% | ~55,487 |
+| Best of Five | 26.00% | ~55,487 |
+| Football is Everything | 24.00% | ~51,219 |
 | The Chosen One | 22.00% | ~46,950 |
 | Fresh Fit | 20.00% | ~42,682 |
-| Bring it on | 17.00% | ~36,279 |
-| Life-Like | 14.00% | ~29,877 |
+| Bring it on | 17.00% | ~36,280 |
+| Life-Like | 14.00% | ~29,878 |
 | Make the Grade | 12.00% | ~25,609 |
 | I Played Them All | 10.00% | ~21,341 |
 | Specialist | 10.00% | ~21,341 |
 | Teamwork works | 9.00% | ~19,207 |
 | First of Many | 9.00% | ~19,207 |
-| Momentous Achievement | 6.00% | ~12,804 |
-| Becoming Unplayable | 5.00% | ~10,670 |
-| Shop till you drop | 5.00% | ~10,670 |
-| On the way up | 5.00% | ~10,670 |
+| Momentous Achievement | 6.00% | ~12,805 |
+| Becoming Unplayable | 5.00% | ~10,671 |
+| Shop till you drop | 5.00% | ~10,671 |
+| On the way up | 5.00% | ~10,671 |
 | Volta's best | 4.00% | ~8,536 |
 | In Cahoots | 4.00% | ~8,536 |
 | Tune Your Club | 4.00% | ~8,536 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 920)
 | Training Addict | 0.10% | ~213 |
 | Dazzling Personality | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,408 (Ranked 81)  
+Progressed: 213,411 (Ranked 81)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 212,656 | 0 |
 | 2024-01-13 | 213,012 | 0 |
 | 2024-01-14 | 213,338 | 0 |
-| 2024-01-15 | 213,408 | 0 |
+| 2024-01-15 | 213,411 | 0 |
 ## Awards
 Max (Diverse Characters): 22,269  (Ranked 21)  
 Sum: 110,474 (Ranked 17)  

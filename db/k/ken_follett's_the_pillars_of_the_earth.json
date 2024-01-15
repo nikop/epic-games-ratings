@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17865,
+  "EOS_Progressed": 17866,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18425,6 +18425,11 @@
       "Time": "2024-01-15T06:04:29.1578466+00:00",
       "NumProgressed": 17865,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-15T07:05:02.6313102+00:00",
+      "NumProgressed": 17866,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18436,7 +18441,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "tpote_achievement_10",
@@ -18500,7 +18505,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "tpote_achievement_18",
@@ -18508,7 +18513,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "tpote_achievement_19",
@@ -18524,7 +18529,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5895
+      "UsersEstimate": 5896
     },
     {
       "ID": "tpote_achievement_20",
@@ -18564,7 +18569,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "tpote_achievement_25",
@@ -18580,7 +18585,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "tpote_achievement_27",
@@ -18620,7 +18625,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "tpote_achievement_31",
@@ -18700,7 +18705,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6967
+      "UsersEstimate": 6968
     },
     {
       "ID": "tpote_achievement_40",
@@ -18763,15 +18768,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17865,
+      "Progressed": 17866,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:04:29.1578463+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:05:02.6313098+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-15T06:02:45.9575045+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:04:29.1579408+00:00"
+  "LastUpdate_Ratings": "2024-01-15T07:03:24.2967719+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:05:02.6314119+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 469,
-  "Ranking_Popularity": 279,
+  "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1675,18 +1675,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 567,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2024-01-15T06:59:21.0393957+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 569,
+      "NumberOfAwardsMax": 270
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 567,
-  "NumberOfAwardsMax": 268,
+  "NumberOfAwards": 569,
+  "NumberOfAwardsMax": 270,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 268
+      "Count": 270
     },
     {
       "Text": "This game is Relaxing",
@@ -1743,9 +1749,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248212,
+  "EOS_Progressed": 248214,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1012,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26233,6 +26239,11 @@
       "Time": "2024-01-15T06:09:55.6979808+00:00",
       "NumProgressed": 248212,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-15T07:10:29.6926789+00:00",
+      "NumProgressed": 248214,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26276,7 +26287,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9928
+      "UsersEstimate": 9929
     },
     {
       "ID": "BookCollection",
@@ -26308,7 +26319,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9928
+      "UsersEstimate": 9929
     },
     {
       "ID": "Chapter4",
@@ -26692,7 +26703,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91838
+      "UsersEstimate": 91839
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -26740,7 +26751,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27303
+      "UsersEstimate": 27304
     },
     {
       "ID": "FollowBraztok",
@@ -26940,28 +26951,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9928
+      "UsersEstimate": 9929
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248212,
+      "Progressed": 248214,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248212,
+      "Progressed": 248214,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-13T01:45:26.0782972+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:55.6979806+00:00",
+  "LastChanged": "2024-01-15T06:59:21.0393951+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:10:29.6926784+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:58:59.6593471+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:55.6981568+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:59:21.0393963+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:10:29.692864+00:00"
 }

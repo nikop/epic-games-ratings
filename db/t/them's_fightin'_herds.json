@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235404,
+  "EOS_Progressed": 235407,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27800,6 +27800,11 @@
       "Time": "2024-01-15T06:09:13.9524132+00:00",
       "NumProgressed": 235404,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-15T07:09:50.7484995+00:00",
+      "NumProgressed": 235407,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -27875,7 +27880,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84745
+      "UsersEstimate": 84747
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -27955,7 +27960,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 80037
+      "UsersEstimate": 80038
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -28034,7 +28039,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235404,
+      "Progressed": 235407,
       "Completed": 6
     }
   ],
@@ -28042,8 +28047,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:13.9524125+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:09:50.7484989+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:57:49.5503671+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:13.9525478+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:58:15.8433664+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:09:50.7486357+00:00"
 }

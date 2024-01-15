@@ -37,11 +37,11 @@ Rating: 3.96 (Ranked 1,064)
 | Cracked the Jack | 0.40% | ~374 |
 | Classy Joint | 0.40% | ~374 |
 | Rockay Knight | 0.30% | ~280 |
+| Privateer | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
 | Impossible Dreamer | 0.30% | ~280 |
 | All for One | 0.30% | ~65 |
 | Now You See Me | 0.30% | ~65 |
-| Privateer | 0.20% | ~187 |
 | Talent Scout | 0.20% | ~187 |
 | One for All | 0.20% | ~44 |
 | Full House | 0.10% | ~93 |

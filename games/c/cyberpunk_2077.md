@@ -6,43 +6,43 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 12.00% | ~126,190 |
-| The Fool | 11.00% | ~115,674 |
-| Right Back At Ya | 10.00% | ~105,158 |
-| Gun Fu | 9.00% | ~94,643 |
-| The Lovers | 9.00% | ~94,643 |
-| Full Body Conversion | 7.00% | ~73,611 |
-| Christmas Tree Attack | 6.00% | ~63,095 |
-| Stanislavski's Method | 6.00% | ~63,095 |
-| The Hermit | 6.00% | ~63,095 |
-| The Wheel of Fortune | 6.00% | ~63,095 |
-| True Soldier | 6.00% | ~63,095 |
-| All the President's Men | 6.00% | ~10,812 |
-| Arachnophobia | 6.00% | ~10,812 |
-| The High Priestess | 5.00% | ~52,579 |
-| Legend of The Afterlife | 5.00% | ~52,579 |
-| Master Crafter | 4.00% | ~42,063 |
-| The Quick and the Dead | 4.00% | ~42,063 |
-| Life of the Road | 4.00% | ~42,063 |
-| The World | 4.00% | ~42,063 |
-| True Warrior | 4.00% | ~42,063 |
-| Bushido and Chill | 3.00% | ~31,548 |
-| To Protect and Serve | 3.00% | ~31,548 |
-| I Am The Law | 3.00% | ~31,548 |
-| Two Heads, One Bullet | 3.00% | ~31,548 |
-| Judy vs Night City | 3.00% | ~31,548 |
-| Relic Ruler | 3.00% | ~5,406 |
-| The Wandering Fool | 2.00% | ~21,032 |
-| The Sun | 2.00% | ~21,032 |
-| Spin Doctor | 2.00% | ~3,604 |
-| King of Wands | 2.00% | ~3,604 |
-| Easy Come, Easy Go | 2.00% | ~3,604 |
+| V for Vendetta | 12.00% | ~126,195 |
+| The Fool | 11.00% | ~115,679 |
+| Right Back At Ya | 10.00% | ~105,163 |
+| Gun Fu | 9.00% | ~94,647 |
+| The Lovers | 9.00% | ~94,647 |
+| Full Body Conversion | 7.00% | ~73,614 |
+| Christmas Tree Attack | 6.00% | ~63,098 |
+| Stanislavski's Method | 6.00% | ~63,098 |
+| The Hermit | 6.00% | ~63,098 |
+| The Wheel of Fortune | 6.00% | ~63,098 |
+| True Soldier | 6.00% | ~63,098 |
+| All the President's Men | 6.00% | ~10,815 |
+| Arachnophobia | 6.00% | ~10,815 |
+| The High Priestess | 5.00% | ~52,581 |
+| Legend of The Afterlife | 5.00% | ~52,581 |
+| Master Crafter | 4.00% | ~42,065 |
+| The Quick and the Dead | 4.00% | ~42,065 |
+| Life of the Road | 4.00% | ~42,065 |
+| The World | 4.00% | ~42,065 |
+| True Warrior | 4.00% | ~42,065 |
+| Bushido and Chill | 3.00% | ~31,549 |
+| To Protect and Serve | 3.00% | ~31,549 |
+| I Am The Law | 3.00% | ~31,549 |
+| Two Heads, One Bullet | 3.00% | ~31,549 |
+| Judy vs Night City | 3.00% | ~31,549 |
+| Relic Ruler | 3.00% | ~5,408 |
+| The Wandering Fool | 2.00% | ~21,033 |
+| The Sun | 2.00% | ~21,033 |
+| Spin Doctor | 2.00% | ~3,605 |
+| King of Wands | 2.00% | ~3,605 |
+| Easy Come, Easy Go | 2.00% | ~3,605 |
 | To Bad Decisions! | 1.00% | ~10,516 |
 | Breathtaking | 1.00% | ~10,516 |
 | Ten out of Ten | 1.00% | ~10,516 |
 | The Star | 1.00% | ~10,516 |
-| Dirty Deeds | 1.00% | ~1,802 |
-| Autojock | 0.90% | ~9,464 |
+| Dirty Deeds | 1.00% | ~1,803 |
+| Autojock | 0.90% | ~9,465 |
 | The APB is Not Enough | 0.90% | ~1,622 |
 | Judgement Day | 0.90% | ~1,622 |
 | The Tower | 0.90% | ~1,622 |
@@ -51,10 +51,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.80% | ~1,442 |
 | King of Swords | 0.80% | ~1,442 |
 | King of Cups | 0.50% | ~901 |
-| City Lights | 0.40% | ~4,206 |
-| Little Tokyo | 0.40% | ~4,206 |
-| The Devil | 0.40% | ~4,206 |
-| The Jungle | 0.40% | ~4,206 |
+| City Lights | 0.40% | ~4,207 |
+| Little Tokyo | 0.40% | ~4,207 |
+| The Devil | 0.40% | ~4,207 |
+| The Jungle | 0.40% | ~4,207 |
 | Gunslinger | 0.30% | ~3,155 |
 | Mean Streets | 0.30% | ~3,155 |
 | The Wasteland | 0.30% | ~3,155 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,051,585 (Ranked 17)  
-Completed: 3,098 (0.29%) (Ranked 263)  
+Progressed: 1,051,628 (Ranked 17)  
+Completed: 3,099 (0.29%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,7 +344,7 @@ Completed: 3,098 (0.29%) (Ranked 263)
 | 2024-01-12 | 1,048,338 | 3,079 |
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
-| 2024-01-15 | 1,051,585 | 3,098 |
+| 2024-01-15 | 1,051,628 | 3,099 |
 ## Awards
 Max (Character Customization): 139,863  (Ranked 8)  
 Sum: 494,568 (Ranked 8)  

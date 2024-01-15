@@ -4,11 +4,11 @@
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 151,
   "Ranking_Popularity": 332,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1461,10 +1461,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1024,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2024-01-15T06:59:17.3913982+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1027,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1024,
+  "NumberOfAwards": 1027,
   "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1484,7 +1490,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 152
+      "Count": 153
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1514,7 +1520,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 113
+      "Count": 115
     },
     {
       "Text": "This game has Playful Visuals",
@@ -1537,7 +1543,7 @@
   ],
   "EOS_Progressed": 14736,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10213,9 +10219,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-13T20:58:12.0230932+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:00.3439247+00:00",
+  "LastChanged": "2024-01-15T06:59:17.391398+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:09:38.2097843+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:58:55.8290986+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:00.3439735+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:59:17.3913987+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:09:38.209852+00:00"
 }

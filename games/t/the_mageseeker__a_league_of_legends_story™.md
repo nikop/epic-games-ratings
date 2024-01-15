@@ -7,7 +7,7 @@ Rating: 4.77 (Ranked 120)
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~3,287 |
 | No more cages! | 90.00% | ~3,114 |
-| Everfrost | 76.00% | ~2,630 |
+| Everfrost | 77.00% | ~2,664 |
 | Dark Forest | 76.00% | ~2,630 |
 | Pentakill | 75.00% | ~2,595 |
 | The use of petricite | 73.00% | ~2,526 |

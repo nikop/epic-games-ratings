@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,838 |
-| Alt+F4 | 11.00% | ~27,303 |
+| Sowwy! | 37.00% | ~91,839 |
+| Alt+F4 | 11.00% | ~27,304 |
 | Where's that freaking Dwarf? | 9.00% | ~22,339 |
 | Déjà vu | 8.00% | ~19,857 |
 | Sock! SOCK! | 6.00% | ~14,893 |
@@ -15,9 +15,9 @@ Number of Ratings: 118  (23.09.2022)
 | A beer, two curses, three companions | 5.00% | ~12,411 |
 | GG EZ | 5.00% | ~12,411 |
 | DM intervention | 5.00% | ~12,411 |
-| Way of the Wimp | 4.00% | ~9,928 |
-| The plot thickens... At the tavern | 4.00% | ~9,928 |
-| Fireproof Wizardess | 4.00% | ~9,928 |
+| Way of the Wimp | 4.00% | ~9,929 |
+| The plot thickens... At the tavern | 4.00% | ~9,929 |
+| Fireproof Wizardess | 4.00% | ~9,929 |
 | Livin' in a dwarven paradise | 3.00% | ~7,446 |
 | The demons' feast | 3.00% | ~7,446 |
 | The Great Library | 3.00% | ~7,446 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,212 (Ranked 72)  
+Progressed: 248,214 (Ranked 72)  
 Completed: 9 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,14 +324,14 @@ Completed: 9 (0.00%) (Ranked 401)
 | 2024-01-12 | 247,819 | 8 |
 | 2024-01-13 | 247,988 | 9 |
 | 2024-01-14 | 248,183 | 9 |
-| 2024-01-15 | 248,212 | 9 |
+| 2024-01-15 | 248,214 | 9 |
 ## Awards
-Max (Character Customization): 268  (Ranked 279)  
-Sum: 567 (Ranked 330)  
-Diff (max vs sum): -51  
+Max (Character Customization): 270  (Ranked 278)  
+Sum: 569 (Ranked 330)  
+Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 268 |
+| This game has Inclusive Character Customization | 270 |
 | This game is Relaxing | 40 |
 | This game is Great for Beginners | 38 |
 | This game is Highly Recommended | 38 |
@@ -561,3 +561,4 @@ Diff (max vs sum): -51
 | 2024-01-10 | 4.59 | - | 268 | 564 |
 | 2024-01-11 | 4.58 | - | 268 | 565 |
 | 2024-01-13 | 4.58 | - | 268 | 567 |
+| 2024-01-15 | 4.58 | - | 270 | 569 |

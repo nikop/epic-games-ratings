@@ -359,9 +359,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 11485,
+  "EOS_Progressed": 11486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4944,6 +4944,11 @@
       "Time": "2024-01-15T06:09:48.0004623+00:00",
       "NumProgressed": 11485,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-15T07:10:22.4094995+00:00",
+      "NumProgressed": 11486,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5060,7 +5065,7 @@
       "Name": "Pentakill",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "16_TheRise",
@@ -5092,7 +5097,7 @@
       "Name": "Void Wolf",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5212,7 +5217,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5475,7 +5480,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11485,
+      "Progressed": 11486,
       "Completed": 1
     }
   ],
@@ -5483,8 +5488,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-14T13:00:27.0890359+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:48.000462+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:10:22.4094992+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:57:24.4410876+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:48.0005273+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:57:53.008594+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:10:22.4095798+00:00"
 }

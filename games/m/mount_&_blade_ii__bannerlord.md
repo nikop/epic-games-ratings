@@ -6,20 +6,20 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~40,970 |
-| Landlord | 34.00% | ~32,395 |
-| Trained | 30.00% | ~28,584 |
-| Bannerlord | 24.00% | ~22,867 |
-| Lawmaker | 23.00% | ~21,914 |
+| Lawbringer | 43.00% | ~40,971 |
+| Landlord | 34.00% | ~32,396 |
+| Trained | 30.00% | ~28,585 |
+| Bannerlord | 24.00% | ~22,868 |
+| Lawmaker | 23.00% | ~21,915 |
 | Horde breaker | 21.00% | ~20,009 |
-| The king is pleased | 19.00% | ~18,103 |
-| King Solomon | 18.00% | ~17,150 |
-| Apple of my eye | 17.00% | ~16,197 |
+| The king is pleased | 19.00% | ~18,104 |
+| King Solomon | 18.00% | ~17,151 |
+| Apple of my eye | 17.00% | ~16,198 |
 | This Is Our Land | 16.00% | ~15,245 |
 | Against all odds | 15.00% | ~14,292 |
 | I can do it | 15.00% | ~14,292 |
-| Duelist | 12.00% | ~11,433 |
-| God of the Arena | 12.00% | ~11,433 |
+| Duelist | 12.00% | ~11,434 |
+| God of the Arena | 12.00% | ~11,434 |
 | Swordbearer | 11.00% | ~10,481 |
 | Dynasty | 10.00% | ~9,528 |
 | I spit on your grave | 10.00% | ~9,528 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,279 (Ranked 103)  
+Progressed: 95,282 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 94,598 | 0 |
 | 2024-01-13 | 94,972 | 0 |
 | 2024-01-14 | 95,259 | 0 |
-| 2024-01-15 | 95,279 | 0 |
+| 2024-01-15 | 95,282 | 0 |
 ## Awards
 Max (Character Customization): 8,068  (Ranked 50)  
-Sum: 16,714 (Ranked 66)  
+Sum: 16,717 (Ranked 66)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -342,7 +342,7 @@ Diff (max vs sum): -16
 | This game is Extremely Fun | 945 |
 | This game has Amazing Characters | 930 |
 | This game has Amazing Storytelling | 929 |
-| This game is Relaxing | 904 |
+| This game is Relaxing | 907 |
 | This game has Quickly Understood Controls | 894 |
 | This game has a Creative Community | 698 |
 | This game has Obsessive Gameplay | 376 |
@@ -715,4 +715,4 @@ Diff (max vs sum): -16
 | 2024-01-12 | 4.74 | - | 8,027 | 16,652 |
 | 2024-01-13 | 4.74 | - | 8,050 | 16,687 |
 | 2024-01-14 | 4.74 | - | 8,050 | 16,696 |
-| 2024-01-15 | 4.74 | - | 8,068 | 16,714 |
+| 2024-01-15 | 4.74 | - | 8,068 | 16,717 |

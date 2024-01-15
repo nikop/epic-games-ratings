@@ -10660,10 +10660,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 16714,
       "NumberOfAwardsMax": 8068
+    },
+    {
+      "Time": "2024-01-15T06:58:25.33072+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16717,
+      "NumberOfAwardsMax": 8068
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16714,
+  "NumberOfAwards": 16717,
   "NumberOfAwardsMax": 8068,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10725,7 +10731,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 904
+      "Count": 907
     },
     {
       "Text": "This game has a Creative Community",
@@ -10740,9 +10746,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95279,
+  "EOS_Progressed": 95282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3657,
+  "EOS_NewPlayers": 3634,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39650,6 +39656,11 @@
       "Time": "2024-01-15T06:09:52.2963235+00:00",
       "NumProgressed": 95279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-15T07:10:26.421776+00:00",
+      "NumProgressed": 95282,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -39669,7 +39680,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16197
+      "UsersEstimate": 16198
     },
     {
       "ID": "Bannerlord",
@@ -39677,7 +39688,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 22867
+      "UsersEstimate": 22868
     },
     {
       "ID": "Best served cold",
@@ -39741,7 +39752,7 @@
       "Name": "Duelist",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11433
+      "UsersEstimate": 11434
     },
     {
       "ID": "Dynasty",
@@ -39789,7 +39800,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11433
+      "UsersEstimate": 11434
     },
     {
       "ID": "Great Granny",
@@ -39853,7 +39864,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17150
+      "UsersEstimate": 17151
     },
     {
       "ID": "Kingslayer",
@@ -39885,7 +39896,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 32395
+      "UsersEstimate": 32396
     },
     {
       "ID": "Lawbringer",
@@ -39893,7 +39904,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 40970
+      "UsersEstimate": 40971
     },
     {
       "ID": "Lawmaker",
@@ -39901,7 +39912,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 21914
+      "UsersEstimate": 21915
     },
     {
       "ID": "Long live the Empire",
@@ -40013,7 +40024,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 18103
+      "UsersEstimate": 18104
     },
     {
       "ID": "This Is Our Land",
@@ -40037,7 +40048,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28584
+      "UsersEstimate": 28585
     },
     {
       "ID": "Undercover",
@@ -40068,15 +40079,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95279,
+      "Progressed": 95282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-15T01:50:23.2320855+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:52.2963232+00:00",
+  "LastChanged": "2024-01-15T06:58:25.3307199+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:10:26.4217757+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:58:00.5868936+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:52.2964911+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:58:25.3307204+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:10:26.4219146+00:00"
 }

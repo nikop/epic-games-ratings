@@ -5,51 +5,51 @@ Rating: 4.73 (Ranked 182)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 89.00% | ~684 |
-| Thalya – Simply Immortal | 88.00% | ~676 |
-| For the Horde! | 82.00% | ~630 |
-| Hammer Time, Round Two | 81.00% | ~622 |
-| The Hellwoods | 77.00% | ~591 |
+| The Last Stand | 88.00% | ~677 |
+| Thalya – Simply Immortal | 88.00% | ~677 |
+| For the Horde! | 82.00% | ~631 |
+| Hammer Time, Round Two | 81.00% | ~623 |
+| The Hellwoods | 77.00% | ~592 |
 | The Plains of Strothalm | 73.00% | ~561 |
-| Experienced Thalya | 72.00% | ~553 |
-| Bad Elves Go Everywhere | 69.00% | ~530 |
-| Thalya's Concentrated Fury | 68.00% | ~522 |
-| Heroes’ Gorge | 65.00% | ~499 |
+| Experienced Thalya | 72.00% | ~554 |
+| Bad Elves Go Everywhere | 69.00% | ~531 |
+| Thalya's Concentrated Fury | 67.00% | ~515 |
+| Heroes’ Gorge | 65.00% | ~500 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~484 |
-| Master of Magic | 62.00% | ~476 |
-| The Ascent | 61.00% | ~468 |
-| It's Warm and Cozy at Home | 61.00% | ~468 |
-| Magic Accidents | 58.00% | ~445 |
-| Minions, Minions! | 56.00% | ~430 |
-| Hard Work | 56.00% | ~430 |
-| The Big Eaty | 56.00% | ~430 |
-| Trap Master | 55.00% | ~422 |
+| Master of Magic | 62.00% | ~477 |
+| The Ascent | 60.00% | ~461 |
+| It's Warm and Cozy at Home | 60.00% | ~461 |
+| Magic Accidents | 58.00% | ~446 |
+| Minions, Minions! | 56.00% | ~431 |
+| Hard Work | 56.00% | ~431 |
+| The Big Eaty | 56.00% | ~431 |
+| Trap Master | 55.00% | ~423 |
 | “… like son” | 54.00% | ~415 |
 | YOU SHALL NOT PASS! | 51.00% | ~392 |
-| The Cathedral of Light | 49.00% | ~376 |
-| Shame! Shame! Shame! | 49.00% | ~376 |
+| The Cathedral of Light | 49.00% | ~377 |
+| Shame! Shame! Shame! | 49.00% | ~377 |
 | Tanos' Crusade Against Thalya | 47.00% | ~361 |
-| Pure Dynamite! | 46.00% | ~353 |
-| Dungeonlord Gorgu | 46.00% | ~353 |
-| All’s Well That Ends Evil | 43.00% | ~330 |
+| Pure Dynamite! | 46.00% | ~354 |
+| Dungeonlord Gorgu | 46.00% | ~354 |
+| All’s Well That Ends Evil | 43.00% | ~331 |
 | Mana Cannon | 42.00% | ~323 |
-| The Duel | 40.00% | ~307 |
+| The Duel | 40.00% | ~308 |
 | If Looks Could Kill | 38.00% | ~292 |
-| Unstoppable Horde | 37.00% | ~284 |
-| Master of the Undead | 36.00% | ~276 |
-| The Finitude Drill | 36.00% | ~276 |
-| Ghost Pirates? Ghost Heroes! | 32.00% | ~246 |
+| Unstoppable Horde | 37.00% | ~285 |
+| Master of the Undead | 36.00% | ~277 |
+| The Finitude Drill | 36.00% | ~277 |
 | Doom Hill | 32.00% | ~246 |
-| Forbidden Knowledge | 30.00% | ~230 |
-| Brimstone Shaken, Not Stirred | 30.00% | ~230 |
+| Ghost Pirates? Ghost Heroes! | 31.00% | ~238 |
+| Forbidden Knowledge | 30.00% | ~231 |
+| Brimstone Shaken, Not Stirred | 30.00% | ~231 |
 | Hungry, Hungry Gorgu! | 29.00% | ~223 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~223 |
 | Sabotage! | 29.00% | ~223 |
 | Raiders of the Lost Stone | 29.00% | ~223 |
 | Stop Tanos! | 28.00% | ~215 |
 | The Rune Sockets of Finitude (Part 1) | 28.00% | ~215 |
-| Bonus Evilness | 27.00% | ~207 |
-| The Rune Sockets of Finitude (Part 2) | 27.00% | ~207 |
+| Bonus Evilness | 27.00% | ~208 |
+| The Rune Sockets of Finitude (Part 2) | 27.00% | ~208 |
 | The Last Stand - This Time For Real! | 26.00% | ~200 |
 | Rubble and Ashes | 23.00% | ~177 |
 | Lavalumps on Ice! | 22.00% | ~169 |
@@ -64,11 +64,11 @@ Rating: 4.73 (Ranked 182)
 | Hands Off My Stones | 15.00% | ~115 |
 | Laser Eyes Are So Useless | 14.00% | ~108 |
 | Gorgu is in the Best of Health | 13.00% | ~100 |
-| No Mana, No Cry | 11.00% | ~84 |
-| I Don't Need Any Help | 11.00% | ~84 |
+| No Mana, No Cry | 11.00% | ~85 |
+| I Don't Need Any Help | 11.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 319)  
-Completed: 33 (4.30%) (Ranked 87)  
+Progressed: 769 (Ranked 319)  
+Completed: 33 (4.29%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,7 +138,7 @@ Completed: 33 (4.30%) (Ranked 87)
 | 2024-01-12 | 761 | 31 |
 | 2024-01-13 | 763 | 31 |
 | 2024-01-14 | 767 | 33 |
-| 2024-01-15 | 768 | 33 |
+| 2024-01-15 | 769 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

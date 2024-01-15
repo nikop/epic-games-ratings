@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1327,
+  "EOS_Progressed": 1328,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4045,6 +4045,11 @@
       "Time": "2024-01-15T04:11:21.8384198+00:00",
       "NumProgressed": 1327,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-15T07:10:28.6851868+00:00",
+      "NumProgressed": 1328,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4144,7 +4149,7 @@
       "Name": "Entresol Explorer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ExamineFamilyPortrait",
@@ -4176,7 +4181,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4240,7 +4245,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "LacunaCompleted",
@@ -4296,7 +4301,7 @@
       "Name": "Time Flies",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ParryBoss",
@@ -4312,7 +4317,7 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4320,7 +4325,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4336,7 +4341,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "RewindDamage1",
@@ -4352,7 +4357,7 @@
       "Name": "Honest Mistake",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4416,7 +4421,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "TheaterChests1",
@@ -4479,7 +4484,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1327,
+      "Progressed": 1328,
       "Completed": 8
     }
   ],
@@ -4487,8 +4492,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-14T13:02:10.7225183+00:00",
-  "LastChanged_Achievements": "2024-01-15T06:09:54.6920546+00:00",
+  "LastChanged_Achievements": "2024-01-15T07:10:28.6851865+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-15T05:58:44.8202123+00:00",
-  "LastUpdate_Achievements": "2024-01-15T06:09:54.6921364+00:00"
+  "LastUpdate_Ratings": "2024-01-15T06:59:07.1652915+00:00",
+  "LastUpdate_Achievements": "2024-01-15T07:10:28.6852458+00:00"
 }

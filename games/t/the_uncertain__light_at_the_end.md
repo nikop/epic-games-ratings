@@ -5,19 +5,19 @@ Rating: 3.86 (Ranked 1,078)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 49.00% | ~330 |
+| Bundle of Joy | 49.00% | ~331 |
 | A Friend in Need... | 44.00% | ~297 |
-| Bosom Buddies | 30.00% | ~202 |
+| Bosom Buddies | 29.00% | ~196 |
 | Beat the Heat | 23.00% | ~155 |
-| A Familiar Face | 14.00% | ~94 |
+| A Familiar Face | 14.00% | ~95 |
 | Does Not Compute | 12.00% | ~81 |
 | Unexpected Consequences | 12.00% | ~81 |
 | Identity Theft | 11.00% | ~74 |
 | Mind the Gap | 11.00% | ~74 |
 | F is for Feline | 11.00% | ~74 |
 | A Trip to Remember | 11.00% | ~74 |
-| U Mad Bro? | 10.00% | ~67 |
-| Short Circuit | 10.00% | ~67 |
+| U Mad Bro? | 10.00% | ~68 |
+| Short Circuit | 10.00% | ~68 |
 | Catch You Later | 7.00% | ~47 |
 | A Stealthy Outlook | 6.00% | ~40 |
 | Den Mother | 5.00% | ~34 |
@@ -28,14 +28,14 @@ Rating: 3.86 (Ranked 1,078)
 | Everything Must Go! | 3.00% | ~20 |
 | Paparazzi | 3.00% | ~20 |
 | Life of the Party | 3.00% | ~20 |
-| The Butterfly Effect | 2.00% | ~13 |
-| Echoes of the Past | 2.00% | ~13 |
-| Casual Gamer | 2.00% | ~13 |
+| The Butterfly Effect | 2.00% | ~14 |
+| Echoes of the Past | 2.00% | ~14 |
+| Casual Gamer | 2.00% | ~14 |
 | Hardcore Gamer | 1.00% | ~7 |
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 333)  
+Progressed: 675 (Ranked 332)  
 Completed: 6 (0.89%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 6 (0.89%) (Ranked 189)
 | 2024-01-12 | 668 | 6 |
 | 2024-01-13 | 670 | 6 |
 | 2024-01-14 | 673 | 6 |
-| 2024-01-15 | 674 | 6 |
+| 2024-01-15 | 675 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

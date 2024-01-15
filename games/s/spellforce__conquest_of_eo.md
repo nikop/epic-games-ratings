@@ -38,9 +38,9 @@
 | A Master of Magic | 11.00% | ~16 |
 | Magic Academy | 11.00% | ~16 |
 | Friend of Windholme | 10.00% | ~15 |
+| Defeat Uram | 9.00% | ~13 |
 | Mage Teacher | 9.00% | ~13 |
 | Defeat Gor | 8.00% | ~12 |
-| Defeat Uram | 8.00% | ~12 |
 | Yngrid's Tale | 8.00% | ~12 |
 | The Forge of Regan Gor | 8.00% | ~12 |
 | A Joke | 8.00% | ~12 |
