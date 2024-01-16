@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1116,9 +1116,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232354,
+  "EOS_Progressed": 232355,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30871,6 +30871,11 @@
       "Time": "2024-01-16T05:10:53.9879606+00:00",
       "NumProgressed": 232354,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T06:10:13.5300003+00:00",
+      "NumProgressed": 232355,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30922,7 +30927,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23235
+      "UsersEstimate": 23236
     },
     {
       "ID": "ACH_BASE_16",
@@ -30930,7 +30935,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23235
+      "UsersEstimate": 23236
     },
     {
       "ID": "ACH_BASE_17",
@@ -30946,7 +30951,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23235
+      "UsersEstimate": 23236
     },
     {
       "ID": "ACH_BASE_19",
@@ -31153,7 +31158,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232354,
+      "Progressed": 232355,
       "Completed": 5
     }
   ],
@@ -31161,8 +31166,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:10:53.98796+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:10:13.5299998+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:01:52.4969741+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:10:53.9881247+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:00:33.2287759+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:10:13.5301702+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -3012,10 +3012,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544484,
+  "EOS_Progressed": 544485,
   "EOS_Completed": 1683,
-  "EOS_NewPlayers": 673,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 671,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -33087,6 +33087,11 @@
       "Time": "2024-01-16T05:04:23.0444284+00:00",
       "NumProgressed": 544484,
       "NumCompleted": 1683
+    },
+    {
+      "Time": "2024-01-16T06:04:04.7274663+00:00",
+      "NumProgressed": 544485,
+      "NumCompleted": 1683
     }
   ],
   "TotalAchievements": 37,
@@ -33154,7 +33159,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451922
+      "UsersEstimate": 451923
     },
     {
       "ID": "HONED",
@@ -33393,15 +33398,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544484,
+      "Progressed": 544485,
       "Completed": 1683
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-14T20:58:14.3687945+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:04:23.0444277+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:04:04.7274659+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:59:42.0616003+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:04:23.0445624+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:59:05.6709519+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:04:04.7276469+00:00"
 }

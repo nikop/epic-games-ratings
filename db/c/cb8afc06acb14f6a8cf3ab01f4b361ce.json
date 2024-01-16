@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 962,
+  "Ranking_Rating": 955,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-09-29T19:00:17.3026687+00:00",
@@ -471,6 +471,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 81,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-01-16T05:59:48.6593988+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
@@ -491,9 +497,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 346057,
+  "EOS_Progressed": 346075,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2907,
+  "EOS_NewPlayers": 2915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13546,6 +13552,11 @@
       "Time": "2024-01-16T05:09:30.6547631+00:00",
       "NumProgressed": 346057,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T06:09:13.9176453+00:00",
+      "NumProgressed": 346075,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13558,7 +13569,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17303
+      "UsersEstimate": 17304
     },
     {
       "ID": "S02_BRDA",
@@ -13566,7 +13577,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13842
+      "UsersEstimate": 13843
     },
     {
       "ID": "S03_OTWA",
@@ -13590,7 +13601,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "S06_LWTC",
@@ -13598,7 +13609,7 @@
       "Name": "They tricked me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "S07_INWA",
@@ -13606,7 +13617,7 @@
       "Name": "We need to talk",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "S08_MNSA",
@@ -13694,7 +13705,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17303
+      "UsersEstimate": 17304
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13726,7 +13737,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "S23_ETHEREAL",
@@ -13790,7 +13801,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -13870,23 +13881,23 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6921
+      "UsersEstimate": 6922
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 346057,
+      "Progressed": 346075,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2024-01-15T05:59:05.9889997+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:09:30.6547627+00:00",
+  "LastChanged": "2024-01-16T05:59:48.6593986+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:09:13.9176448+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:00:48.3532594+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:09:30.6548553+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:59:48.6593991+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:09:13.9177227+00:00"
 }

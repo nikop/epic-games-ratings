@@ -18,9 +18,9 @@ Rating: 3.68 (Ranked 1,098)
 | Enter of Your Own Free Will | 11.00% | ~263 |
 | Welcome to the Neighborhood | 11.00% | ~263 |
 | Throw The First Stone | 11.00% | ~263 |
-| Heart Attack | 10.00% | ~239 |
-| Grounded | 9.00% | ~215 |
-| Skin of Their Teeth | 9.00% | ~215 |
+| Heart Attack | 10.00% | ~240 |
+| Grounded | 9.00% | ~216 |
+| Skin of Their Teeth | 9.00% | ~216 |
 | Neighborhood Revitalization | 7.00% | ~168 |
 | Bad Wiring | 7.00% | ~168 |
 | Radio Silence | 7.00% | ~168 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,098)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,394 (Ranked 243)  
+Progressed: 2,395 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 2,384 | 0 |
 | 2024-01-14 | 2,390 | 0 |
 | 2024-01-15 | 2,393 | 0 |
-| 2024-01-16 | 2,394 | 0 |
+| 2024-01-16 | 2,395 | 0 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 547)  
 Sum: 26 (Ranked 559)  

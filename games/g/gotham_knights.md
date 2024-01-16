@@ -6,19 +6,19 @@ Rating: 4.19 (Ranked 975)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,426 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,169 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,170 |
 | Loose Ends | 33.00% | ~27,341 |
 | To the Victor Go the Spoils | 27.00% | ~22,370 |
-| Knighthood | 26.00% | ~21,541 |
-| Get ReQ'd | 24.00% | ~19,884 |
-| Whispered Words | 24.00% | ~19,884 |
-| The Batman Family | 22.00% | ~18,227 |
-| Lock and Key | 22.00% | ~18,227 |
-| Something in the Clay | 20.00% | ~16,570 |
-| Quartzer Life Crisis | 20.00% | ~16,570 |
-| Working Hard or Harley Working? | 20.00% | ~16,570 |
-| Unstoppable Force | 20.00% | ~16,570 |
-| Bad Apples in Every Orchard | 20.00% | ~16,570 |
+| Knighthood | 26.00% | ~21,542 |
+| Get ReQ'd | 24.00% | ~19,885 |
+| Whispered Words | 24.00% | ~19,885 |
+| The Batman Family | 22.00% | ~18,228 |
+| Lock and Key | 22.00% | ~18,228 |
+| Something in the Clay | 20.00% | ~16,571 |
+| Quartzer Life Crisis | 20.00% | ~16,571 |
+| Working Hard or Harley Working? | 20.00% | ~16,571 |
+| Unstoppable Force | 20.00% | ~16,571 |
+| Bad Apples in Every Orchard | 20.00% | ~16,571 |
 | Snow Problem | 19.00% | ~15,742 |
 | The Show Mud Go On | 17.00% | ~14,085 |
 | From Inside Gotham's Walls | 17.00% | ~14,085 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 975)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,851 (Ranked 110)  
+Progressed: 82,853 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 135 (0.16%) (Ranked 289)
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
-| 2024-01-16 | 82,851 | 135 |
+| 2024-01-16 | 82,853 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 102)  
 Sum: 5,486 (Ranked 143)  

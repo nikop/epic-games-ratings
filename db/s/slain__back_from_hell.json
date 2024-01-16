@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44275,
+  "EOS_Progressed": 44278,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29637,6 +29637,11 @@
       "Time": "2024-01-16T04:09:21.6287201+00:00",
       "NumProgressed": 44275,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-16T06:08:26.9151264+00:00",
+      "NumProgressed": 44278,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29648,7 +29653,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6641
+      "UsersEstimate": 6642
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -29680,7 +29685,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -29696,7 +29701,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -29800,7 +29805,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -29808,7 +29813,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -29879,7 +29884,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44275,
+      "Progressed": 44278,
       "Completed": 30
     }
   ],
@@ -29887,8 +29892,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:08:23.1244392+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:08:26.915126+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.9023781+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:03:10.2934703+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:08:23.1246135+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:03:14.9326658+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:08:26.9152839+00:00"
 }

@@ -1,23 +1,23 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 962)  
+Rating: 4.22 (Ranked 955)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,303 |
-| The touch of Chaos | 5.00% | ~17,303 |
-| A powerful aura was here | 4.00% | ~13,842 |
-| Let's raise the stakes!! | 2.00% | ~6,921 |
+| May the Torchbearer light our way | 5.00% | ~17,304 |
+| The touch of Chaos | 5.00% | ~17,304 |
+| A powerful aura was here | 4.00% | ~13,843 |
+| Let's raise the stakes!! | 2.00% | ~6,922 |
 | Rumors are true | 1.00% | ~3,461 |
 | We'll be careful | 1.00% | ~3,461 |
 | Pride is a sin, young Knight | 1.00% | ~3,461 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,461 |
-| Back to your senses | 0.80% | ~2,768 |
-| They won't last long | 0.80% | ~2,768 |
-| Bring it on! | 0.80% | ~2,768 |
-| They tricked me | 0.70% | ~2,422 |
-| We need to talk | 0.70% | ~2,422 |
+| Back to your senses | 0.80% | ~2,769 |
+| They won't last long | 0.80% | ~2,769 |
+| Bring it on! | 0.80% | ~2,769 |
+| They tricked me | 0.70% | ~2,423 |
+| We need to talk | 0.70% | ~2,423 |
 | I feel drawn to it | 0.60% | ~2,076 |
 | Here to stay | 0.60% | ~2,076 |
 | Counting on you | 0.60% | ~2,076 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 962)
 | Something... unnatural | 0.10% | ~346 |
 | We strike as one | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,057 (Ranked 59)  
+Progressed: 346,075 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 7 (0.00%) (Ranked 401)
 | 2024-01-13 | 345,102 | 7 |
 | 2024-01-14 | 345,610 | 7 |
 | 2024-01-15 | 345,977 | 7 |
-| 2024-01-16 | 346,057 | 7 |
+| 2024-01-16 | 346,075 | 7 |
 ## Awards
 Max (Great Boss Battles): 81  (Ranked 403)  
 Sum: 81 (Ranked 485)  
@@ -228,3 +228,4 @@ Diff (max vs sum): -82
 | 2024-01-13 | 4.21 | 81 | 81 |
 | 2024-01-14 | 4.22 | 81 | 81 |
 | 2024-01-15 | 4.21 | 81 | 81 |
+| 2024-01-16 | 4.22 | 81 | 81 |

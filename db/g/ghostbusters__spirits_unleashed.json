@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3943,10 +3943,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2965,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2024-01-16T06:03:05.6711034+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2966,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2965,
+  "NumberOfAwards": 2966,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3978,7 +3984,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 287
+      "Count": 288
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4023,9 +4029,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33708,
+  "EOS_Progressed": 33709,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25643,6 +25649,11 @@
       "Time": "2024-01-16T05:09:38.8858622+00:00",
       "NumProgressed": 33708,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-16T06:09:19.7423559+00:00",
+      "NumProgressed": 33709,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25742,7 +25753,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "Dont_Need_These",
@@ -25942,7 +25953,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "Stunner",
@@ -26061,16 +26072,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33708,
+      "Progressed": 33709,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:09:38.8858614+00:00",
+  "LastChanged": "2024-01-16T06:03:05.6711032+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:09:19.7423554+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:02:57.5487273+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:09:38.8859812+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:03:05.6711038+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:09:19.7425598+00:00"
 }

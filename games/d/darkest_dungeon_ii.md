@@ -31,18 +31,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,648 |
 | FNG | 5.00% | ~6,648 |
 | Nope | 5.00% | ~6,648 |
-| Friends 'Til the End | 5.00% | ~391 |
-| Resurrection | 4.00% | ~5,318 |
-| Unleash Hell | 4.00% | ~5,318 |
-| Funny Guy | 4.00% | ~5,318 |
-| Long Live the King | 4.00% | ~5,318 |
-| Unfulfilled Desires | 4.00% | ~5,318 |
-| Dissector | 4.00% | ~5,318 |
-| Banishment | 4.00% | ~5,318 |
-| Now Stay Dead | 4.00% | ~5,318 |
-| Spelunker | 4.00% | ~5,318 |
-| Ramble On | 4.00% | ~5,318 |
-| Unshackled | 4.00% | ~5,318 |
+| Friends 'Til the End | 5.00% | ~392 |
+| Resurrection | 4.00% | ~5,319 |
+| Unleash Hell | 4.00% | ~5,319 |
+| Funny Guy | 4.00% | ~5,319 |
+| Long Live the King | 4.00% | ~5,319 |
+| Unfulfilled Desires | 4.00% | ~5,319 |
+| Dissector | 4.00% | ~5,319 |
+| Banishment | 4.00% | ~5,319 |
+| Now Stay Dead | 4.00% | ~5,319 |
+| Spelunker | 4.00% | ~5,319 |
+| Ramble On | 4.00% | ~5,319 |
+| Unshackled | 4.00% | ~5,319 |
 | Wyrdly Reconstructed | 3.00% | ~3,989 |
 | Boxcar Kid | 3.00% | ~3,989 |
 | Hope Rekindled | 3.00% | ~3,989 |
@@ -69,8 +69,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~78 |
 | For Old Time' Sake | 1.00% | ~78 |
 | Et Tu, Riposte? | 0.90% | ~70 |
+| A Life Well Lived | 0.70% | ~931 |
 | The World As It Was | 0.70% | ~931 |
-| A Life Well Lived | 0.60% | ~798 |
 | Bacon Bits | 0.60% | ~798 |
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
 | Eidetic | 0.50% | ~665 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,960 (Ranked 92)  
+Progressed: 132,963 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,960 | 5 |
+| 2024-01-16 | 132,963 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,674 (Ranked 58)  

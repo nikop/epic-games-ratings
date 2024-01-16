@@ -19,12 +19,12 @@ Rating: 4.65 (Ranked 322)
 | Hardest Battle In The Game | 4.00% | ~1,006 |
 | Who's The Boss? | 4.00% | ~1,006 |
 | Fallout Doesn't Let You Do This | 4.00% | ~1,006 |
-| Lezduit! | 3.00% | ~754 |
-| Eye Scream, You Scream | 3.00% | ~754 |
-| Legendary Bounty Hunter | 3.00% | ~754 |
-| Self-Actualization | 3.00% | ~754 |
-| Spent 15 Hours At The Alien Strip Club | 3.00% | ~754 |
-| Series Wrap on Suit-O | 3.00% | ~754 |
+| Lezduit! | 3.00% | ~755 |
+| Eye Scream, You Scream | 3.00% | ~755 |
+| Legendary Bounty Hunter | 3.00% | ~755 |
+| Self-Actualization | 3.00% | ~755 |
+| Spent 15 Hours At The Alien Strip Club | 3.00% | ~755 |
+| Series Wrap on Suit-O | 3.00% | ~755 |
 | Eatin' Good in the Neighborhood | 2.00% | ~503 |
 | Bathe With A Giant Nude Alien | 2.00% | ~49 |
 | Gunning For Your Job | 1.00% | ~252 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 322)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,150 (Ranked 148)  
+Progressed: 25,151 (Ranked 148)  
 Completed: 14 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 14 (0.06%) (Ranked 334)
 | 2024-01-13 | 25,133 | 14 |
 | 2024-01-14 | 25,146 | 14 |
 | 2024-01-15 | 25,148 | 14 |
-| 2024-01-16 | 25,150 | 14 |
+| 2024-01-16 | 25,151 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

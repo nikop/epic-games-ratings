@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~69,303 |
-| Initial Capital | 61.00% | ~56,366 |
-| Junior Supply Officer | 39.00% | ~36,038 |
-| Moneybags | 38.00% | ~35,114 |
-| Naval Warfare. Arson | 29.00% | ~26,797 |
-| Naval Warfare. Ramming | 28.00% | ~25,873 |
-| Amateur | 26.00% | ~24,025 |
-| Naval Warfare. Tactics | 26.00% | ~24,025 |
-| Naval Constructor | 25.00% | ~23,101 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~17,557 |
-| Naval Warfare. Flooding | 16.00% | ~14,785 |
-| Naval Warfare. Lucky Shot | 16.00% | ~14,785 |
+| Junior Naval Designer | 75.00% | ~69,308 |
+| Initial Capital | 61.00% | ~56,370 |
+| Junior Supply Officer | 39.00% | ~36,040 |
+| Moneybags | 38.00% | ~35,116 |
+| Naval Warfare. Arson | 29.00% | ~26,799 |
+| Naval Warfare. Ramming | 28.00% | ~25,875 |
+| Amateur | 26.00% | ~24,027 |
+| Naval Warfare. Tactics | 26.00% | ~24,027 |
+| Naval Constructor | 25.00% | ~23,102 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~17,558 |
+| Naval Warfare. Flooding | 16.00% | ~14,786 |
+| Naval Warfare. Lucky Shot | 16.00% | ~14,786 |
 | Business Magnate | 13.00% | ~12,013 |
-| Battle Hero | 12.00% | ~11,088 |
-| Smooth Supply | 11.00% | ~10,164 |
-| Warrior | 10.00% | ~9,240 |
-| Supply Officer | 10.00% | ~9,240 |
+| Battle Hero | 12.00% | ~11,089 |
+| Smooth Supply | 11.00% | ~10,165 |
+| Warrior | 10.00% | ~9,241 |
+| Supply Officer | 10.00% | ~9,241 |
 | Veteran | 5.00% | ~4,620 |
 | Legend of the Seas | 3.00% | ~2,772 |
 | Shield | 3.00% | ~2,772 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~92 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~92 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,404 (Ranked 106)  
+Progressed: 92,410 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 91,184 | 0 |
 | 2024-01-14 | 91,847 | 0 |
 | 2024-01-15 | 92,312 | 0 |
-| 2024-01-16 | 92,404 | 0 |
+| 2024-01-16 | 92,410 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,720  (Ranked 134)  
 Sum: 15,712 (Ranked 72)  

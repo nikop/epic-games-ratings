@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 390,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -1384,9 +1384,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1433,8 +1433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:10:57.0127251+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:10:15.7916959+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.6529404+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:58:44.1948173+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:10:57.0127512+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:58:26.7825278+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:10:15.7917167+00:00"
 }

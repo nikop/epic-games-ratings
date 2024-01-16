@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 334,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5583,7 +5583,7 @@
       "Count": 541
     }
   ],
-  "EOS_Progressed": 93487,
+  "EOS_Progressed": 93488,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 1,
@@ -31523,6 +31523,11 @@
       "Time": "2024-01-16T03:04:31.0620202+00:00",
       "NumProgressed": 93487,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-16T06:04:12.5395379+00:00",
+      "NumProgressed": 93488,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31534,7 +31539,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     },
     {
       "ID": "ACH_0011",
@@ -31678,7 +31683,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     },
     {
       "ID": "ACH_0210",
@@ -31686,7 +31691,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3739
+      "UsersEstimate": 3740
     },
     {
       "ID": "ACH_0211",
@@ -31861,13 +31866,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93487,
+      "Progressed": 93488,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21834,
+      "Progressed": 21835,
       "Completed": 15601
     }
   ],
@@ -31875,8 +31880,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-15T10:59:19.7534624+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:04:34.3053832+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:04:12.5395374+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:00:46.986204+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:04:34.3055158+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:59:47.8094546+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:04:12.5396827+00:00"
 }

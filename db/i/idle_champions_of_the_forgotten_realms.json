@@ -9595,9 +9595,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254123,
+  "EOS_Progressed": 254128,
   "EOS_Completed": 2619,
-  "EOS_NewPlayers": 1272,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40305,6 +40305,11 @@
       "Time": "2024-01-16T05:11:12.4709052+00:00",
       "NumProgressed": 254123,
       "NumCompleted": 2619
+    },
+    {
+      "Time": "2024-01-16T06:10:28.5482268+00:00",
+      "NumProgressed": 254128,
+      "NumCompleted": 2619
     }
   ],
   "TotalAchievements": 546,
@@ -40684,7 +40689,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5083
     },
     {
       "ID": "objective_completed_110",
@@ -41420,7 +41425,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_149",
@@ -41508,7 +41513,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_165",
@@ -41540,7 +41545,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_17",
@@ -41988,7 +41993,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5083
     },
     {
       "ID": "objective_completed_34",
@@ -42188,7 +42193,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_400",
@@ -42460,7 +42465,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_540",
@@ -43388,7 +43393,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_690",
@@ -43460,7 +43465,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5083
     },
     {
       "ID": "objective_completed_70",
@@ -43492,7 +43497,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_75",
@@ -44683,21 +44688,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220397,
+      "Progressed": 220402,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254123,
+      "Progressed": 254128,
       "Completed": 2619
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-15T22:57:44.6035429+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:11:12.4709045+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:10:28.5482263+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:58:09.759169+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:11:12.4733153+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:58:04.0662849+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:10:28.5505395+00:00"
 }

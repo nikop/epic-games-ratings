@@ -5,21 +5,21 @@ Rating: 4.29 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,672 |
+| Corner Clout | 46.00% | ~166,674 |
 | Copacetic Coordination | 16.00% | ~57,973 |
 | Fronting the Money | 15.00% | ~54,350 |
-| The Dawn of Automation | 14.00% | ~50,726 |
-| Extraordinary Logistics | 14.00% | ~50,726 |
+| The Dawn of Automation | 14.00% | ~50,727 |
+| Extraordinary Logistics | 14.00% | ~50,727 |
 | Dirty Money | 13.00% | ~47,103 |
 | Family First | 13.00% | ~47,103 |
 | Cleaning House | 12.00% | ~43,480 |
 | Room in the Back | 12.00% | ~43,480 |
-| Beating the Heat | 11.00% | ~39,856 |
-| Booze Baron | 11.00% | ~39,856 |
+| Beating the Heat | 11.00% | ~39,857 |
+| Booze Baron | 11.00% | ~39,857 |
 | Friends on the Force | 10.00% | ~36,233 |
 | Neighborhood Watch | 10.00% | ~36,233 |
-| Core Corps | 8.00% | ~28,986 |
-| Sizeable Stash | 8.00% | ~28,986 |
+| Core Corps | 8.00% | ~28,987 |
+| Sizeable Stash | 8.00% | ~28,987 |
 | Street Fighter | 7.00% | ~25,363 |
 | Friendly Gestures | 7.00% | ~25,363 |
 | People Person | 7.00% | ~25,363 |
@@ -29,13 +29,13 @@ Rating: 4.29 (Ranked 883)
 | Wise Head | 6.00% | ~21,740 |
 | Show ‘em the Sugar | 6.00% | ~21,740 |
 | Killing Them Softly | 6.00% | ~21,740 |
-| Street Knowledge | 5.00% | ~18,116 |
-| Oh Captain | 5.00% | ~18,116 |
-| Branching Out | 5.00% | ~18,116 |
-| Improvement Missions | 5.00% | ~18,116 |
-| Opportunity Knocked | 5.00% | ~18,116 |
-| City of Big Shoulders | 5.00% | ~18,116 |
-| Mission Mastery | 5.00% | ~18,116 |
+| Street Knowledge | 5.00% | ~18,117 |
+| Oh Captain | 5.00% | ~18,117 |
+| Branching Out | 5.00% | ~18,117 |
+| Improvement Missions | 5.00% | ~18,117 |
+| Opportunity Knocked | 5.00% | ~18,117 |
+| City of Big Shoulders | 5.00% | ~18,117 |
+| Mission Mastery | 5.00% | ~18,117 |
 | Considerable Clams | 4.00% | ~14,493 |
 | Gin Joint | 4.00% | ~14,493 |
 | An Affront to the Enemy | 4.00% | ~14,493 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 883)
 | High Pillow | 0.10% | ~362 |
 | Station Master | 0.10% | ~362 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,330 (Ranked 58)  
+Progressed: 362,334 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -357,7 +357,7 @@ Completed: 7 (0.00%) (Ranked 401)
 | 2024-01-13 | 361,967 | 7 |
 | 2024-01-14 | 362,160 | 7 |
 | 2024-01-15 | 362,302 | 7 |
-| 2024-01-16 | 362,330 | 7 |
+| 2024-01-16 | 362,334 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 439)  
 Sum: 274 (Ranked 395)  

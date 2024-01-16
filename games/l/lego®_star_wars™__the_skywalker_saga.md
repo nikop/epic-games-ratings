@@ -1,7 +1,7 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.77 (Ranked 121)  
+Rating: 4.77 (Ranked 122)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -325,8 +325,8 @@ Completed: 261 (0.44%) (Ranked 236)
 | 2024-01-16 | 59,491 | 261 |
 ## Awards
 Max (Great Boss Battles): 2,501  (Ranked 110)  
-Sum: 6,860 (Ranked 130)  
-Diff (max vs sum): -20  
+Sum: 6,860 (Ranked 131)  
+Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,501 |

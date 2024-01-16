@@ -11,7 +11,7 @@ Number of Ratings: 85  (23.09.2022)
 | Lie Back and Think of Albion | 67.00% | ~338 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~323 |
 | I Look Up As I Walk to Takoshima | 62.00% | ~313 |
-| Yettisoned | 59.00% | ~298 |
+| Yettisoned | 60.00% | ~303 |
 | Pimp My Raid | 58.00% | ~293 |
 | Perfect Probulator | 58.00% | ~293 |
 | Lobster Blisque | 53.00% | ~268 |
@@ -30,9 +30,9 @@ Number of Ratings: 85  (23.09.2022)
 | Arkvoodle Doodle | 19.00% | ~96 |
 | Die Nasty | 18.00% | ~91 |
 | If You Know What I Mean | 17.00% | ~86 |
+| Mash Machine | 17.00% | ~86 |
 | Ouch of Body Experience | 16.00% | ~81 |
 | Hidden Human Hive Harvest | 16.00% | ~81 |
-| Mash Machine | 16.00% | ~81 |
 | Albion Bridge Is for Falling Down | 15.00% | ~76 |
 | Dusted | 13.00% | ~66 |
 | Higher Than the Futen Zoku | 12.00% | ~61 |

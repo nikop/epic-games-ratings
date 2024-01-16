@@ -431,7 +431,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28807,
+  "EOS_Progressed": 28809,
   "EOS_Completed": 529,
   "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 7,
@@ -29621,6 +29621,11 @@
       "Time": "2024-01-16T05:04:15.3249095+00:00",
       "NumProgressed": 28807,
       "NumCompleted": 529
+    },
+    {
+      "Time": "2024-01-16T06:03:59.3161715+00:00",
+      "NumProgressed": 28809,
+      "NumCompleted": 529
     }
   ],
   "TotalAchievements": 20,
@@ -29680,7 +29685,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -29712,7 +29717,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "FOUND_MAMBA",
@@ -29720,7 +29725,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -29736,7 +29741,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "GAME_FINISHED",
@@ -29752,7 +29757,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21893
+      "UsersEstimate": 21895
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29776,7 +29781,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1729
     },
     {
       "ID": "WEST_FINISHED",
@@ -29784,22 +29789,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5185
+      "UsersEstimate": 5186
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28807,
+      "Progressed": 28809,
       "Completed": 529
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:04:15.3249092+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:03:59.316171+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:01:02.6802337+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:04:15.3250785+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:59:58.3946008+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:03:59.3162988+00:00"
 }

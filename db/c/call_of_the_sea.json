@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139930,
+  "EOS_Progressed": 139931,
   "EOS_Completed": 1264,
-  "EOS_NewPlayers": 1124,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31320,6 +31320,11 @@
       "Time": "2024-01-16T05:08:02.5063013+00:00",
       "NumProgressed": 139930,
       "NumCompleted": 1264
+    },
+    {
+      "Time": "2024-01-16T06:06:40.0785717+00:00",
+      "NumProgressed": 139931,
+      "NumCompleted": 1264
     }
   ],
   "TotalAchievements": 34,
@@ -31387,7 +31392,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 111944
+      "UsersEstimate": 111945
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31411,7 +31416,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 39180
+      "UsersEstimate": 39181
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -31435,7 +31440,7 @@
       "Name": "Fawning Developers",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6996
+      "UsersEstimate": 6997
     },
     {
       "ID": "ACH_L03_BLACKBEACH_END",
@@ -31443,7 +31448,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43378
+      "UsersEstimate": 43379
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -31451,7 +31456,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 29385
+      "UsersEstimate": 29386
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -31459,7 +31464,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43378
+      "UsersEstimate": 43379
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -31507,7 +31512,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39180
+      "UsersEstimate": 39181
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -31515,7 +31520,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25187
+      "UsersEstimate": 25188
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -31539,7 +31544,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34982
+      "UsersEstimate": 34983
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -31547,7 +31552,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 34982
+      "UsersEstimate": 34983
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -31579,7 +31584,7 @@
       "Name": "Deep Cut",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 34982
+      "UsersEstimate": 34983
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -31595,14 +31600,14 @@
       "Name": "Candid Photo",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6996
+      "UsersEstimate": 6997
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 139930,
+      "Progressed": 139931,
       "Completed": 1264
     }
   ],
@@ -31610,8 +31615,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:08:02.5063007+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:06:40.0785711+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:58:08.2298651+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:08:02.5065649+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:58:03.053099+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:06:40.0787513+00:00"
 }

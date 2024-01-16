@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 2.00% | ~4,861 |
-| Matching | 2.00% | ~90 |
+| Matching | 2.00% | ~91 |
 | Nothing To Lose | 1.00% | ~2,430 |
 | Heavy Hitter | 1.00% | ~2,430 |
 | Getting A Glimpse | 1.00% | ~2,430 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,040 (Ranked 74)  
+Progressed: 243,046 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 306 (0.13%) (Ranked 302)
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
-| 2024-01-16 | 243,040 | 306 |
+| 2024-01-16 | 243,046 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,798 (Ranked 90)  

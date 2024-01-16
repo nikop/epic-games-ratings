@@ -8,12 +8,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 11.00% | ~16,650 |
 | Titan's First Steps | 11.00% | ~16,650 |
-| Basic in Bulk | 10.00% | ~15,136 |
-| Tinkle of Coins | 10.00% | ~15,136 |
+| Basic in Bulk | 10.00% | ~15,137 |
+| Tinkle of Coins | 10.00% | ~15,137 |
 | Disintermediation | 8.00% | ~12,109 |
 | Capitalism Ho! | 8.00% | ~12,109 |
-| It's Free Real Estate | 7.00% | ~10,595 |
-| Budding Merchant | 7.00% | ~10,595 |
+| It's Free Real Estate | 7.00% | ~10,596 |
+| Budding Merchant | 7.00% | ~10,596 |
 | One Easy Payment | 6.00% | ~9,082 |
 | Some Assembly Required | 6.00% | ~9,082 |
 | Another Satisfied Customer | 6.00% | ~9,082 |
@@ -22,15 +22,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Daily Grind | 5.00% | ~7,568 |
 | One-Armed Bandit | 5.00% | ~7,568 |
 | Through Repetition, Perfection | 5.00% | ~7,568 |
-| Bounty Hunters | 4.00% | ~6,054 |
-| Demand for Supplies | 4.00% | ~6,054 |
-| Flooding the Market | 4.00% | ~6,054 |
-| Where it Hurts | 4.00% | ~6,054 |
-| Gild-Gotten Goods | 4.00% | ~6,054 |
-| Accomplished Merchant | 4.00% | ~6,054 |
-| Dungeon Imports | 4.00% | ~6,054 |
-| Did we pack lunch? | 4.00% | ~6,054 |
-| Arcane Industries | 4.00% | ~6,054 |
+| Bounty Hunters | 4.00% | ~6,055 |
+| Demand for Supplies | 4.00% | ~6,055 |
+| Flooding the Market | 4.00% | ~6,055 |
+| Where it Hurts | 4.00% | ~6,055 |
+| Gild-Gotten Goods | 4.00% | ~6,055 |
+| Accomplished Merchant | 4.00% | ~6,055 |
+| Dungeon Imports | 4.00% | ~6,055 |
+| Did we pack lunch? | 4.00% | ~6,055 |
+| Arcane Industries | 4.00% | ~6,055 |
 | On the Path to Greatness | 3.00% | ~4,541 |
 | Ascended | 3.00% | ~4,541 |
 | Tax not Included | 3.00% | ~4,541 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~605 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,361 (Ranked 87)  
+Progressed: 151,366 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 355 (0.23%) (Ranked 274)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,361 | 355 |
+| 2024-01-16 | 151,366 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 81)  
 Sum: 28,002 (Ranked 52)  

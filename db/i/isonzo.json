@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,7 +1087,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9956,
+  "EOS_Progressed": 9957,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
@@ -11207,6 +11207,11 @@
       "Time": "2024-01-16T01:58:09.2901928+00:00",
       "NumProgressed": 9956,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-16T06:09:43.9837302+00:00",
+      "NumProgressed": 9957,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11266,7 +11271,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3087
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11410,7 +11415,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11522,7 +11527,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -11538,7 +11543,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -11577,7 +11582,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9956,
+      "Progressed": 9957,
       "Completed": 10
     }
   ],
@@ -11585,8 +11590,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:10:13.5585665+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:09:43.9837299+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:00:06.5584529+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:10:13.5586639+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:59:22.2077247+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:09:43.9838196+00:00"
 }

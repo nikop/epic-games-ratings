@@ -4,10 +4,10 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 820,
   "Ranking_Popularity": 542,
-  "Ranking_PopularitySum": 464,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80180,
+  "EOS_Progressed": 80181,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -30274,6 +30274,11 @@
       "Time": "2024-01-16T05:10:29.0583731+00:00",
       "NumProgressed": 80180,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-16T06:09:55.0727783+00:00",
+      "NumProgressed": 80181,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 24,
@@ -30301,7 +30306,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55324
+      "UsersEstimate": 55325
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30333,7 +30338,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22450
+      "UsersEstimate": 22451
     },
     {
       "ID": "FOXIN_AROUND",
@@ -30357,7 +30362,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 14432
+      "UsersEstimate": 14433
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -30365,7 +30370,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42495
+      "UsersEstimate": 42496
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -30476,7 +30481,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80180,
+      "Progressed": 80181,
       "Completed": 434
     }
   ],
@@ -30484,8 +30489,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:10:29.0583728+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:09:55.0727779+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:02:35.0247888+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:10:29.0585298+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:00:40.5732055+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:09:55.0729458+00:00"
 }

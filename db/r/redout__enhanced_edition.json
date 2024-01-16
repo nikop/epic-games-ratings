@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239422,
+  "EOS_Progressed": 239423,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 0,
@@ -28763,6 +28763,11 @@
       "Time": "2024-01-16T05:08:51.8222489+00:00",
       "NumProgressed": 239422,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-16T06:08:46.7634442+00:00",
+      "NumProgressed": 239423,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28806,7 +28811,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26336
+      "UsersEstimate": 26337
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -28862,7 +28867,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47884
+      "UsersEstimate": 47885
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -28910,7 +28915,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 79009
+      "UsersEstimate": 79010
     },
     {
       "ID": "NOBUNAGA",
@@ -29045,15 +29050,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239422,
+      "Progressed": 239423,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-16T05:08:51.8222483+00:00",
+  "LastChanged_Achievements": "2024-01-16T06:08:46.7634436+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:58:31.0954032+00:00",
-  "LastUpdate_Achievements": "2024-01-16T05:08:51.8224118+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:58:18.6518221+00:00",
+  "LastUpdate_Achievements": "2024-01-16T06:08:46.7636066+00:00"
 }

@@ -1,25 +1,25 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.18 (Ranked 985)  
+Rating: 4.19 (Ranked 975)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,087 |
-| Battlefields Have Memories | 81.00% | ~2,810 |
+| Unforeseen | 89.00% | ~3,088 |
+| Battlefields Have Memories | 81.00% | ~2,811 |
 | Enlisted | 75.00% | ~2,602 |
-| Maybe Engage a Little | 70.00% | ~2,428 |
-| No More Names | 54.00% | ~1,873 |
+| Maybe Engage a Little | 70.00% | ~2,429 |
+| No More Names | 54.00% | ~1,874 |
 | Initiate | 40.00% | ~1,388 |
 | Thrada-Kul | 37.00% | ~1,284 |
 | Gravity-Challenged Rocks | 30.00% | ~1,041 |
 | Soldier | 26.00% | ~902 |
-| Socialite | 25.00% | ~867 |
-| All the Major Food Groups | 25.00% | ~867 |
+| Socialite | 25.00% | ~868 |
+| All the Major Food Groups | 25.00% | ~868 |
 | Beggars Would Ride | 23.00% | ~798 |
 | Control is an Illusion | 22.00% | ~763 |
 | The Means to Save It | 19.00% | ~659 |
-| Resilience to Sin | 18.00% | ~624 |
+| Resilience to Sin | 18.00% | ~625 |
 | A Familiar Nest | 17.00% | ~590 |
 | Periapt Alizarin | 17.00% | ~590 |
 | Geas Aristeya | 16.00% | ~555 |
@@ -32,8 +32,8 @@ Rating: 4.18 (Ranked 985)
 | Periapt Viridian | 7.00% | ~243 |
 | Shroudfane Explorer | 7.00% | ~243 |
 | Best Dressed | 6.00% | ~208 |
-| Kitted Out | 5.00% | ~173 |
-| Armaments Gules | 5.00% | ~173 |
+| Kitted Out | 5.00% | ~174 |
+| Armaments Gules | 5.00% | ~174 |
 | Scholar | 4.00% | ~139 |
 | Armaments Azure | 4.00% | ~139 |
 | Armaments Vert | 4.00% | ~139 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 985)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,469 (Ranked 228)  
+Progressed: 3,470 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.14%) (Ranked 298)
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
-| 2024-01-16 | 3,469 | 5 |
+| 2024-01-16 | 3,470 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  
@@ -226,3 +226,4 @@ Diff (max vs sum): -2
 | 2024-01-13 | 4.21 | 21 | 21 |
 | 2024-01-14 | 4.21 | 21 | 21 |
 | 2024-01-15 | 4.18 | 21 | 21 |
+| 2024-01-16 | 4.19 | 21 | 21 |

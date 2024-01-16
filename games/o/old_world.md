@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 4.00% | ~676 |
 | Able | 3.00% | ~507 |
 | Architect | 3.00% | ~507 |
+| Enlightened | 3.00% | ~507 |
 | Good | 3.00% | ~507 |
 | Intrepid | 3.00% | ~507 |
 | Just | 3.00% | ~507 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~338 |
 | Ambitious | 2.00% | ~338 |
 | Brilliant | 2.00% | ~338 |
-| Enlightened | 2.00% | ~338 |
 | Fountainhead | 2.00% | ~338 |
 | Glorious | 2.00% | ~338 |
 | Great | 2.00% | ~338 |
