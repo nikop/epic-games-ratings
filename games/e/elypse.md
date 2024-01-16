@@ -8,7 +8,7 @@
 | A bottomless pit | 80.00% | ~110 |
 | Pigeon | 77.00% | ~105 |
 | Baited | 66.00% | ~90 |
-| "Swoosh" | 58.00% | ~79 |
+| "Swoosh" | 59.00% | ~81 |
 | The light at the end of the tunnel | 58.00% | ~79 |
 | Masochistic | 53.00% | ~73 |
 | Soft skin | 49.00% | ~67 |

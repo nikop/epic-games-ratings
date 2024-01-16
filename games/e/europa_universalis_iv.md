@@ -7,8 +7,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,498 |
-| That's a Grand Army | 0.60% | ~2,998 |
-| Victorious! | 0.60% | ~2,998 |
+| That's a Grand Army | 0.60% | ~2,999 |
+| Victorious! | 0.60% | ~2,999 |
 | That is mine! | 0.50% | ~2,499 |
 | Brothers in Arms | 0.40% | ~1,999 |
 | That's a Grand Navy | 0.40% | ~1,999 |
@@ -17,16 +17,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,499 |
 | It's all about the money | 0.30% | ~1,499 |
 | True Catholic | 0.30% | ~1,499 |
-| Blockader | 0.20% | ~999 |
-| Combined Arms | 0.20% | ~999 |
-| Defender of the Faith | 0.20% | ~999 |
-| Double the Love | 0.20% | ~999 |
-| It's all about luck | 0.20% | ~999 |
-| Respected | 0.20% | ~999 |
-| Royal Authority | 0.20% | ~999 |
-| The Princess is in this Castle | 0.20% | ~999 |
-| Total Control | 0.20% | ~999 |
-| Truly Divine Ruler | 0.20% | ~999 |
+| Blockader | 0.20% | ~1,000 |
+| Combined Arms | 0.20% | ~1,000 |
+| Defender of the Faith | 0.20% | ~1,000 |
+| Double the Love | 0.20% | ~1,000 |
+| It's all about luck | 0.20% | ~1,000 |
+| Respected | 0.20% | ~1,000 |
+| Royal Authority | 0.20% | ~1,000 |
+| The Princess is in this Castle | 0.20% | ~1,000 |
+| Total Control | 0.20% | ~1,000 |
+| Truly Divine Ruler | 0.20% | ~1,000 |
 | The 52 Garhs | 0.10% | ~500 |
 | I don't like sand | 0.10% | ~500 |
 | A Blessed Nation | 0.10% | ~500 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,739 (Ranked 42)  
+Progressed: 499,754 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
-| 2024-01-16 | 499,739 | 1 |
+| 2024-01-16 | 499,754 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
 Sum: 64,739 (Ranked 24)  

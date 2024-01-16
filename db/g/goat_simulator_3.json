@@ -6631,9 +6631,9 @@
       "Count": 376
     }
   ],
-  "EOS_Progressed": 267594,
+  "EOS_Progressed": 267595,
   "EOS_Completed": 953,
-  "EOS_NewPlayers": 1375,
+  "EOS_NewPlayers": 1365,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -36421,6 +36421,11 @@
       "Time": "2024-01-16T04:11:46.6911773+00:00",
       "NumProgressed": 267594,
       "NumCompleted": 953
+    },
+    {
+      "Time": "2024-01-16T05:10:59.0545802+00:00",
+      "NumProgressed": 267595,
+      "NumCompleted": 953
     }
   ],
   "TotalAchievements": 39,
@@ -36432,7 +36437,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 66898
+      "UsersEstimate": 66899
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -36464,7 +36469,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 69574
+      "UsersEstimate": 69575
     },
     {
       "ID": "AchievementBigFootID",
@@ -36488,7 +36493,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 69574
+      "UsersEstimate": 69575
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -36520,7 +36525,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 74926
+      "UsersEstimate": 74927
     },
     {
       "ID": "AchievementEggID",
@@ -36592,7 +36597,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 117741
+      "UsersEstimate": 117742
     },
     {
       "ID": "AchievementIntroID",
@@ -36680,7 +36685,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 133797
+      "UsersEstimate": 133798
     },
     {
       "ID": "AchievementStreakingID",
@@ -36712,7 +36717,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 125769
+      "UsersEstimate": 125770
     },
     {
       "ID": "AchievementTrinketID",
@@ -36728,7 +36733,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171260
+      "UsersEstimate": 171261
     },
     {
       "ID": "AchievementWhaleID",
@@ -36736,14 +36741,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 72250
+      "UsersEstimate": 72251
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 267594,
+      "Progressed": 267595,
       "Completed": 953
     }
   ],
@@ -36751,8 +36756,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-15T18:57:40.8885625+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:11:46.6911769+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:10:59.0545797+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.7490682+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:58:34.4272064+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:11:46.6914091+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:58:13.9573733+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:10:59.0547494+00:00"
 }

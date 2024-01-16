@@ -332,9 +332,9 @@
       "ID": "BOSS_KILL5",
       "SetID": "1icc7kd",
       "Name": "Bye-Bye, Butcher",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BOSS_KILL6",
@@ -372,9 +372,9 @@
       "ID": "CLEAR1",
       "SetID": "1icc7kd",
       "Name": "Setting Off",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CLEAR2",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:11:45.182059+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:10:57.5313958+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.640396+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:59:24.2983378+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:11:45.1820905+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:59:08.3010933+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:10:57.5314162+00:00"
 }

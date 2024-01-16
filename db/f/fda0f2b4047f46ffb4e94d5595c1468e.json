@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5211,9 +5211,9 @@
       "Count": 624
     }
   ],
-  "EOS_Progressed": 23893,
+  "EOS_Progressed": 23894,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16671,6 +16671,11 @@
       "Time": "2024-01-16T04:10:07.8967557+00:00",
       "NumProgressed": 23893,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T05:09:13.3976443+00:00",
+      "NumProgressed": 23894,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16723,7 +16728,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 16008
+      "UsersEstimate": 16009
     },
     {
       "ID": "ach07",
@@ -16803,7 +16808,7 @@
       "Name": "Test Your Might",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ach17",
@@ -16811,7 +16816,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9796
+      "UsersEstimate": 9797
     },
     {
       "ID": "ach18",
@@ -16883,7 +16888,7 @@
       "Name": "Running On Empty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ach27",
@@ -16891,7 +16896,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5973
+      "UsersEstimate": 5974
     },
     {
       "ID": "ach28",
@@ -16899,7 +16904,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5734
+      "UsersEstimate": 5735
     },
     {
       "ID": "ach29",
@@ -16923,7 +16928,7 @@
       "Name": "Not So Big Now, Are You??",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "ach32",
@@ -16947,7 +16952,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5734
+      "UsersEstimate": 5735
     },
     {
       "ID": "ach35",
@@ -17003,7 +17008,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5734
+      "UsersEstimate": 5735
     },
     {
       "ID": "ach42",
@@ -17082,7 +17087,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23893,
+      "Progressed": 23894,
       "Completed": 2
     }
   ],
@@ -17090,8 +17095,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-16T01:51:39.1143012+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:10:07.8967552+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:09:13.3976439+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:03:58.2700457+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:10:07.8968552+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:03:09.1406802+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:09:13.3977243+00:00"
 }

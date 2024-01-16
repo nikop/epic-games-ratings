@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_NewPlayers": 432,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -733,9 +733,9 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:10:43.1692398+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:09:51.6860214+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.9507506+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:57:37.1099622+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:10:43.1692687+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:57:13.3091679+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:09:51.6860495+00:00"
 }

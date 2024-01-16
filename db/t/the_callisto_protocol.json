@@ -2255,9 +2255,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22441,
+  "EOS_Progressed": 22443,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14060,6 +14060,11 @@
       "Time": "2024-01-16T04:11:21.5494824+00:00",
       "NumProgressed": 22441,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T05:10:32.3888651+00:00",
+      "NumProgressed": 22443,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14103,7 +14108,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14175,7 +14180,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5161
+      "UsersEstimate": 5162
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14223,7 +14228,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14231,7 +14236,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4040
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14239,7 +14244,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14263,7 +14268,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6059
+      "UsersEstimate": 6060
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14271,7 +14276,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4040
     },
     {
       "ID": "STORY_HABITAT",
@@ -14287,7 +14292,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2918
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14311,7 +14316,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2917
+      "UsersEstimate": 2918
     },
     {
       "ID": "STORY_TOWER",
@@ -14423,7 +14428,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14446,13 +14451,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22441,
+      "Progressed": 22443,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10367,
+      "Progressed": 10369,
       "Completed": 29
     }
   ],
@@ -14460,8 +14465,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-16T01:52:02.5131442+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:11:21.5494819+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:10:32.3888647+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:04:31.5799647+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:11:21.5495699+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:03:44.202429+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:10:32.3889472+00:00"
 }

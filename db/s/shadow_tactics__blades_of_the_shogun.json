@@ -5,7 +5,7 @@
   "Ranking_Rating": 283,
   "Ranking_Popularity": 212,
   "Ranking_PopularitySum": 153,
-  "Ranking_EOS_Progress": 79,
+  "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 341,
   "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 83,
@@ -2474,10 +2474,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4960,
       "NumberOfAwardsMax": 594
+    },
+    {
+      "Time": "2024-01-16T04:57:00.174297+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4961,
+      "NumberOfAwardsMax": 594
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4960,
+  "NumberOfAwards": 4961,
   "NumberOfAwardsMax": 594,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2539,7 +2545,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 508
+      "Count": 509
     },
     {
       "Text": "This game has a Creative Community",
@@ -2548,9 +2554,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226242,
+  "EOS_Progressed": 226245,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1319,
+  "EOS_NewPlayers": 1315,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33723,6 +33729,11 @@
       "Time": "2024-01-16T04:04:40.1959824+00:00",
       "NumProgressed": 226242,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-16T05:03:54.5906213+00:00",
+      "NumProgressed": 226245,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33838,7 +33849,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18099
+      "UsersEstimate": 18100
     },
     {
       "ID": "ItsRainingMen",
@@ -33854,7 +33865,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18099
+      "UsersEstimate": 18100
     },
     {
       "ID": "Mercyful",
@@ -33982,7 +33993,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18099
+      "UsersEstimate": 18100
     },
     {
       "ID": "TanukiTime",
@@ -34078,22 +34089,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18099
+      "UsersEstimate": 18100
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226242,
+      "Progressed": 226245,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-01-14T14:59:34.4621361+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:04:40.1959811+00:00",
+  "LastChanged": "2024-01-16T04:57:00.1742969+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:03:54.5906207+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:01:46.1153709+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:04:40.1970798+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:57:00.1742974+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:03:54.5908171+00:00"
 }

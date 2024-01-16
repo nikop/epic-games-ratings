@@ -12,8 +12,8 @@ Number of Ratings: 54  (23.09.2022)
 | One shot, one kill | 25.00% | ~435 |
 | Traveler | 22.00% | ~383 |
 | Grave Robber | 17.00% | ~296 |
+| Explorer | 16.00% | ~278 |
 | Head Burst | 16.00% | ~278 |
-| Explorer | 15.00% | ~261 |
 | Paranoia | 15.00% | ~261 |
 | Double agent | 14.00% | ~243 |
 | Savant | 10.00% | ~174 |

@@ -8129,10 +8129,16 @@
       "Rating": 4,
       "NumberOfAwards": 28000,
       "NumberOfAwardsMax": 4963
+    },
+    {
+      "Time": "2024-01-16T05:03:39.7092638+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28002,
+      "NumberOfAwardsMax": 4963
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28000,
+  "NumberOfAwards": 28002,
   "NumberOfAwardsMax": 4963,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8164,7 +8170,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4073
+      "Count": 4075
     },
     {
       "Text": "This game is Relaxing",
@@ -8185,9 +8191,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151355,
+  "EOS_Progressed": 151361,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36875,6 +36881,11 @@
       "Time": "2024-01-16T04:10:25.0606407+00:00",
       "NumProgressed": 151355,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-16T05:09:32.0392908+00:00",
+      "NumProgressed": 151361,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -36966,7 +36977,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9081
+      "UsersEstimate": 9082
     },
     {
       "ID": "bigsale02",
@@ -36990,7 +37001,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9081
+      "UsersEstimate": 9082
     },
     {
       "ID": "blueprint02",
@@ -37054,7 +37065,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16649
+      "UsersEstimate": 16650
     },
     {
       "ID": "chest02",
@@ -37110,7 +37121,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "commonres01",
@@ -37150,7 +37161,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12108
+      "UsersEstimate": 12109
     },
     {
       "ID": "craft02",
@@ -37230,7 +37241,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "energy01",
@@ -37238,7 +37249,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9081
+      "UsersEstimate": 9082
     },
     {
       "ID": "energy02",
@@ -37366,7 +37377,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9081
+      "UsersEstimate": 9082
     },
     {
       "ID": "gold03",
@@ -37454,7 +37465,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "legenchant01",
@@ -37662,7 +37673,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12108
+      "UsersEstimate": 12109
     },
     {
       "ID": "sell02",
@@ -37702,7 +37713,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16649
+      "UsersEstimate": 16650
     },
     {
       "ID": "twinenchant01",
@@ -37750,7 +37761,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9081
+      "UsersEstimate": 9082
     },
     {
       "ID": "workers02",
@@ -37781,15 +37792,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151355,
+      "Progressed": 151361,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-15T11:03:36.7538365+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:10:25.0606403+00:00",
+  "LastChanged": "2024-01-16T05:03:39.7092636+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:09:32.0392903+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:04:27.3156086+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:10:25.060864+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:03:39.7092642+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:09:32.039507+00:00"
 }

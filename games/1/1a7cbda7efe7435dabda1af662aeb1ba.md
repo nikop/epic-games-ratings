@@ -9,9 +9,9 @@
 | Boulder Breaker | 27.00% | ~13 |
 | Fence-Sitter | 14.00% | ~7 |
 | Green Thumb | 12.00% | ~6 |
+| Setting Off | 12.00% | ~6 |
 | Crystal Hunter | 10.00% | ~5 |
-| Setting Off | 10.00% | ~5 |
-| Bye-Bye, Butcher | 6.00% | ~3 |
+| Bye-Bye, Butcher | 8.00% | ~4 |
 | Equivalent Exchange | 6.00% | ~3 |
 | Rejected Parasite | 4.00% | ~2 |
 | Danger | 4.00% | ~2 |

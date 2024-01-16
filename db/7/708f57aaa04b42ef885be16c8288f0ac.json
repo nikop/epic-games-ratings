@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14936,
+  "EOS_Progressed": 14939,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10543,6 +10543,11 @@
       "Time": "2024-01-16T04:11:45.0875824+00:00",
       "NumProgressed": 14936,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-16T05:10:57.4144779+00:00",
+      "NumProgressed": 14939,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10563,7 +10568,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6124
+      "UsersEstimate": 6125
     },
     {
       "ID": "BeLikeWater",
@@ -10587,7 +10592,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ConnectionLost",
@@ -10627,7 +10632,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8215
+      "UsersEstimate": 8216
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10635,7 +10640,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "GarbageMan",
@@ -10699,7 +10704,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4331
+      "UsersEstimate": 4332
     },
     {
       "ID": "NoMoreTotems",
@@ -10747,7 +10752,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "TheQuarterback",
@@ -10755,7 +10760,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6422
+      "UsersEstimate": 6424
     },
     {
       "ID": "ThisIsDharma",
@@ -10771,7 +10776,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3286
+      "UsersEstimate": 3287
     },
     {
       "ID": "UnResurrected",
@@ -10826,7 +10831,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14936,
+      "Progressed": 14939,
       "Completed": 27
     }
   ],
@@ -10834,8 +10839,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:11:45.0875821+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:10:57.4144774+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:00:47.4870058+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:11:45.0876756+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:00:41.5000637+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:10:57.4145447+00:00"
 }

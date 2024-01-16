@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 315,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 431,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 803,
+  "EOS_Progressed": 804,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.47,
+  "EOS_Completed_Percentage": 7.46,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -846,6 +846,11 @@
       "Time": "2024-01-14T14:08:46.3362411+00:00",
       "NumProgressed": 803,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-16T05:09:46.9590073+00:00",
+      "NumProgressed": 804,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -873,7 +878,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -881,15 +886,15 @@
       "Name": "All Bark, No Bite",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACHIEVEMENT005",
       "SetID": "dejhjd5",
       "Name": "Magical Mineral Golem",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 410
     },
     {
       "ID": "ACHIEVEMENT006",
@@ -937,7 +942,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -983,9 +988,9 @@
       "ID": "ACHIEVEMENT017",
       "SetID": "dejhjd5",
       "Name": "Adept, for an Acting Mayor",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 257
     },
     {
       "ID": "ACHIEVEMENT018",
@@ -1049,7 +1054,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -1113,7 +1118,7 @@
       "Name": "Rune Scholar",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHIEVEMENT034",
@@ -1129,7 +1134,7 @@
       "Name": "First Time Fishing",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -1137,7 +1142,7 @@
       "Name": "First Time Hunting",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -1145,7 +1150,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -1256,15 +1261,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 803,
+      "Progressed": 804,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:10:38.7761118+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:09:46.9590067+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:58.5913799+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:57:55.0003232+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:10:38.7761761+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:57:31.4815429+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:09:46.9590426+00:00"
 }

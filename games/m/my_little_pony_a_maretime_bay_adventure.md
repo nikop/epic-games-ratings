@@ -7,8 +7,8 @@
 | An Adorable Thief | 86.00% | ~42 |
 | Unicycling 101 | 84.00% | ~41 |
 | Mane Street Awaits! | 73.00% | ~36 |
+| Amateur Detective | 63.00% | ~31 |
 | Pipp Pipp Parade! | 61.00% | ~30 |
-| Amateur Detective | 61.00% | ~30 |
 | Glowing Up | 59.00% | ~29 |
 | Sheriff's Apprentice | 53.00% | ~26 |
 | Pro Herder | 53.00% | ~26 |

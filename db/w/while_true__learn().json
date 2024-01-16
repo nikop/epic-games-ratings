@@ -3,7 +3,7 @@
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 340,
+  "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 321,
@@ -523,7 +523,7 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 618727,
+  "EOS_Progressed": 618728,
   "EOS_Completed": 566,
   "EOS_NewPlayers": 856,
   "EOS_NewCompleters": 2,
@@ -31153,6 +31153,11 @@
       "Time": "2024-01-16T04:10:40.0749279+00:00",
       "NumProgressed": 618727,
       "NumCompleted": 566
+    },
+    {
+      "Time": "2024-01-16T05:09:48.3626781+00:00",
+      "NumProgressed": 618728,
+      "NumCompleted": 566
     }
   ],
   "TotalAchievements": 28,
@@ -31228,7 +31233,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 377423
+      "UsersEstimate": 377424
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -31292,7 +31297,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 575416
+      "UsersEstimate": 575417
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -31300,7 +31305,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 148494
+      "UsersEstimate": 148495
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -31340,7 +31345,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 327925
+      "UsersEstimate": 327926
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -31387,15 +31392,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 618727,
+      "Progressed": 618728,
       "Completed": 566
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:10:40.0749273+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:09:48.3626775+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.8433302+00:00",
-  "LastUpdate_Ratings": "2024-01-16T04:00:25.5341618+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:10:40.0750851+00:00"
+  "LastUpdate_Ratings": "2024-01-16T05:00:16.5179659+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:09:48.3628237+00:00"
 }

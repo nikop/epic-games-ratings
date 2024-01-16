@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,372 |
-| Hidden History | 72.00% | ~988 |
+| Land of the Rising Sun | 100.00% | ~1,373 |
+| Hidden History | 72.00% | ~989 |
 | Commencing of Quests | 62.00% | ~851 |
-| Budding Conjuror | 61.00% | ~837 |
+| Budding Conjuror | 61.00% | ~838 |
 | Man-Machine Master | 50.00% | ~686 |
 | Mountain Splitter | 50.00% | ~686 |
 | Charmed by the Hunt | 50.00% | ~686 |
@@ -15,23 +15,23 @@
 | Subsistence Skills | 48.00% | ~659 |
 | Fusion Conjuror | 47.00% | ~645 |
 | Kemono Hunter | 44.00% | ~604 |
-| Helpful Heart | 41.00% | ~563 |
 | Expert Conjuror | 41.00% | ~563 |
+| Helpful Heart | 40.00% | ~549 |
 | Bonds of Enmity | 39.00% | ~535 |
-| Flawless Crystal | 38.00% | ~521 |
+| Flawless Crystal | 38.00% | ~522 |
 | Distance Devourer | 37.00% | ~508 |
-| Counter Specialist | 34.00% | ~466 |
+| Counter Specialist | 34.00% | ~467 |
 | Master of the Skies | 32.00% | ~439 |
 | Axer of Auspice | 29.00% | ~398 |
 | Kemono at Heart | 28.00% | ~384 |
-| Mighty Marmelizer | 27.00% | ~370 |
-| Fair Means or Foul | 27.00% | ~370 |
+| Mighty Marmelizer | 27.00% | ~371 |
+| Fair Means or Foul | 27.00% | ~371 |
 | Single Minded | 26.00% | ~357 |
-| Snare Specialist | 24.00% | ~329 |
+| Snare Specialist | 24.00% | ~330 |
 | Karakuri Trail | 23.00% | ~316 |
 | Team Hunter | 21.00% | ~288 |
 | Artful Assister | 21.00% | ~288 |
-| Karakuri Isle | 20.00% | ~274 |
+| Karakuri Isle | 20.00% | ~275 |
 | Reincarnation Cycle Stopper | 19.00% | ~261 |
 | Left Arm Leverager | 17.00% | ~233 |
 | Human Believer | 17.00% | ~233 |
@@ -45,7 +45,7 @@
 | Karakuri Fortress | 11.00% | ~151 |
 | Tender Touch | 10.00% | ~137 |
 | Haven Hunter | 10.00% | ~137 |
-| Volatile Vocation | 9.00% | ~123 |
+| Volatile Vocation | 9.00% | ~124 |
 | Superlative View | 8.00% | ~110 |
 | Relentless Kemono Hunter | 7.00% | ~96 |
 | Vanquisher of the Volatile | 6.00% | ~82 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 4.00% | ~55 |
 | Tsukumo Whisperer | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,372 (Ranked 277)  
+Progressed: 1,373 (Ranked 277)  
 Completed: 8 (0.58%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,3 +176,4 @@ Completed: 8 (0.58%) (Ranked 215)
 | 2024-01-13 | 1,360 | 8 |
 | 2024-01-14 | 1,366 | 8 |
 | 2024-01-15 | 1,372 | 8 |
+| 2024-01-16 | 1,373 | 8 |

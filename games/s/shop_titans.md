@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,649 |
-| Titan's First Steps | 11.00% | ~16,649 |
+| Sponsored by Argon | 11.00% | ~16,650 |
+| Titan's First Steps | 11.00% | ~16,650 |
 | Basic in Bulk | 10.00% | ~15,136 |
 | Tinkle of Coins | 10.00% | ~15,136 |
-| Disintermediation | 8.00% | ~12,108 |
-| Capitalism Ho! | 8.00% | ~12,108 |
+| Disintermediation | 8.00% | ~12,109 |
+| Capitalism Ho! | 8.00% | ~12,109 |
 | It's Free Real Estate | 7.00% | ~10,595 |
 | Budding Merchant | 7.00% | ~10,595 |
-| One Easy Payment | 6.00% | ~9,081 |
-| Some Assembly Required | 6.00% | ~9,081 |
-| Another Satisfied Customer | 6.00% | ~9,081 |
-| Pretty Penny | 6.00% | ~9,081 |
-| Own the Means of Production | 6.00% | ~9,081 |
+| One Easy Payment | 6.00% | ~9,082 |
+| Some Assembly Required | 6.00% | ~9,082 |
+| Another Satisfied Customer | 6.00% | ~9,082 |
+| Pretty Penny | 6.00% | ~9,082 |
+| Own the Means of Production | 6.00% | ~9,082 |
 | The Daily Grind | 5.00% | ~7,568 |
 | One-Armed Bandit | 5.00% | ~7,568 |
 | Through Repetition, Perfection | 5.00% | ~7,568 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Marvels from the World Over | 0.90% | ~1,362 |
 | Bane of Legends | 0.80% | ~1,211 |
 | Anything not Nailed Down | 0.80% | ~1,211 |
-| Ultimate Collector | 0.70% | ~1,059 |
-| Unleashed Potential | 0.70% | ~1,059 |
-| JACKPOT!!! | 0.70% | ~1,059 |
+| Ultimate Collector | 0.70% | ~1,060 |
+| Unleashed Potential | 0.70% | ~1,060 |
+| JACKPOT!!! | 0.70% | ~1,060 |
 | Oligarch Monarch | 0.50% | ~757 |
 | Merchant Extraordinaire | 0.50% | ~757 |
 | To Hell and Back | 0.40% | ~605 |
 | Cash Only Please | 0.40% | ~605 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,355 (Ranked 87)  
+Progressed: 151,361 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,16 +390,16 @@ Completed: 355 (0.23%) (Ranked 274)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,355 | 355 |
+| 2024-01-16 | 151,361 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 81)  
-Sum: 28,000 (Ranked 52)  
+Sum: 28,002 (Ranked 52)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,963 |
 | This game is Relaxing | 4,080 |
-| This game has Quickly Understood Controls | 4,073 |
+| This game has Quickly Understood Controls | 4,075 |
 | This game has Diverse Characters | 4,037 |
 | This game is Highly Recommended | 3,824 |
 | This game has Easy Combat | 3,776 |
@@ -758,3 +758,4 @@ Diff (max vs sum): 29
 | 2024-01-13 | 4.00 | - | 4,954 | 27,989 |
 | 2024-01-14 | 4.00 | - | 4,959 | 27,994 |
 | 2024-01-15 | 4.00 | - | 4,963 | 28,000 |
+| 2024-01-16 | 4.00 | - | 4,963 | 28,002 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83671,
+  "EOS_Progressed": 83672,
   "EOS_Completed": 940,
-  "EOS_NewPlayers": 573,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -30362,6 +30362,11 @@
       "Time": "2024-01-16T04:09:09.2016757+00:00",
       "NumProgressed": 83671,
       "NumCompleted": 940
+    },
+    {
+      "Time": "2024-01-16T05:07:59.6681269+00:00",
+      "NumProgressed": 83672,
+      "NumCompleted": 940
     }
   ],
   "TotalAchievements": 25,
@@ -30389,7 +30394,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15897
+      "UsersEstimate": 15898
     },
     {
       "ID": "Audiophile",
@@ -30493,7 +30498,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15897
+      "UsersEstimate": 15898
     },
     {
       "ID": "Nice Try",
@@ -30501,7 +30506,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13387
+      "UsersEstimate": 13388
     },
     {
       "ID": "Nothing Left to Say",
@@ -30572,7 +30577,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83671,
+      "Progressed": 83672,
       "Completed": 940
     }
   ],
@@ -30580,8 +30585,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-16T04:09:09.2016752+00:00",
+  "LastChanged_Achievements": "2024-01-16T05:07:59.6681264+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:59:25.0274415+00:00",
-  "LastUpdate_Achievements": "2024-01-16T04:09:09.2018221+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:59:09.059791+00:00",
+  "LastUpdate_Achievements": "2024-01-16T05:07:59.6682992+00:00"
 }
