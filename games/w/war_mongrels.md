@@ -6,17 +6,17 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~530 |
+| Explorer | 68.00% | ~531 |
 | Cowardice | 61.00% | ~476 |
-| The Breaking Point | 44.00% | ~343 |
-| NO LIFE IS WORTH SAVING... | 44.00% | ~343 |
+| The Breaking Point | 44.00% | ~344 |
+| NO LIFE IS WORTH SAVING... | 44.00% | ~344 |
 | Eat Lead! | 42.00% | ~328 |
 | Here Comes the Boom | 40.00% | ~312 |
-| Prospector | 39.00% | ~304 |
-| Sniper Wolf | 38.00% | ~296 |
-| Treasure Hunter | 36.00% | ~281 |
+| Prospector | 39.00% | ~305 |
+| Sniper Wolf | 38.00% | ~297 |
 | The Motivation | 36.00% | ~281 |
-| Heroism | 34.00% | ~265 |
+| Treasure Hunter | 35.00% | ~273 |
+| Heroism | 34.00% | ~266 |
 | Collectibles of Chapter I | 32.00% | ~250 |
 | Missing in Action | 32.00% | ~250 |
 | Consequences | 31.00% | ~242 |
@@ -35,9 +35,9 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 17.00% | ~133 |
 | Collectibles of Chapter III | 14.00% | ~109 |
 | Without a Second Thought | 14.00% | ~109 |
-| Collectibles of Chapter IV | 13.00% | ~101 |
-| Tiptoe Around | 11.00% | ~86 |
+| Collectibles of Chapter IV | 13.00% | ~102 |
 | Collectibles of Chapter V | 10.00% | ~78 |
+| Tiptoe Around | 10.00% | ~78 |
 | Such is War! | 8.00% | ~62 |
 | Piece of Cake | 7.00% | ~55 |
 | Collectibles of Chapter VII | 6.00% | ~47 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 780 (Ranked 318)  
+Progressed: 781 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 774 | 0 |
 | 2024-01-13 | 777 | 0 |
 | 2024-01-14 | 779 | 0 |
-| 2024-01-16 | 780 | 0 |
+| 2024-01-16 | 781 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

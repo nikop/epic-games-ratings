@@ -13,10 +13,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.40% | ~1,999 |
 | That's a Grand Navy | 0.40% | ~1,999 |
 | Seriously?! | 0.40% | ~1,999 |
-| Cold War | 0.30% | ~1,499 |
-| For the Glory | 0.30% | ~1,499 |
-| It's all about the money | 0.30% | ~1,499 |
-| True Catholic | 0.30% | ~1,499 |
+| Cold War | 0.30% | ~1,500 |
+| For the Glory | 0.30% | ~1,500 |
+| It's all about the money | 0.30% | ~1,500 |
+| True Catholic | 0.30% | ~1,500 |
 | Blockader | 0.20% | ~1,000 |
 | Combined Arms | 0.20% | ~1,000 |
 | Defender of the Faith | 0.20% | ~1,000 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,820 (Ranked 42)  
+Progressed: 499,845 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,19 +641,19 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
-| 2024-01-16 | 499,820 | 1 |
+| 2024-01-16 | 499,845 | 1 |
 ## Awards
-Max (Educational): 7,850  (Ranked 53)  
-Sum: 64,747 (Ranked 24)  
+Max (Educational): 7,857  (Ranked 53)  
+Sum: 64,762 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,850 |
+| This game is Educational | 7,857 |
 | This game has Diverse Characters | 7,704 |
 | This game is Highly Recommended | 7,535 |
 | This game has Challenging Combat | 7,473 |
 | This game is Extremely Fun | 7,358 |
-| This game is Relaxing | 7,196 |
+| This game is Relaxing | 7,204 |
 | This game has Competitive Players | 7,033 |
 | This game has Amazing Storytelling | 6,544 |
 | This game has Amazing Characters | 6,054 |
@@ -1025,4 +1025,4 @@ Diff (max vs sum): 29
 | 2024-01-13 | 4.69 | - | 7,836 | 64,538 |
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
 | 2024-01-15 | 4.69 | - | 7,850 | 64,731 |
-| 2024-01-16 | 4.69 | - | 7,850 | 64,747 |
+| 2024-01-16 | 4.69 | - | 7,857 | 64,762 |

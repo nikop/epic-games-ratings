@@ -1626,9 +1626,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28370,
+  "EOS_Progressed": 28371,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14271,6 +14271,11 @@
       "Time": "2024-01-16T10:10:14.3314222+00:00",
       "NumProgressed": 28370,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-16T11:09:47.808807+00:00",
+      "NumProgressed": 28371,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14346,7 +14351,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -14408,9 +14413,9 @@
       "ID": "BossForestDefeated",
       "SetID": "3ojhj46",
       "Name": "Harvest and Home",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 1135
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -14474,7 +14479,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "EndTimerFail",
@@ -14593,21 +14598,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28370,
+      "Progressed": 28371,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7300,
+      "Progressed": 7301,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-16T02:26:45.6025028+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:14.3314213+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:47.8088064+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:02:40.8740846+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:14.3315078+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:00:30.93355+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:47.8088918+00:00"
 }

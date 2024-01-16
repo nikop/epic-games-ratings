@@ -4,7 +4,7 @@
   "ProductSlug": "whispers-of-a-machine",
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 567,
+  "Ranking_EOS_NewPlayers": 566,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-11-24T13:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:25.0517771+00:00",
   "LastChanged": "2023-03-31T05:58:25.0517773+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:17.5139165+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:59:17.7272285+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:03:40.145516+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:59:13.1065951+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:03:37.3949244+00:00"
 }

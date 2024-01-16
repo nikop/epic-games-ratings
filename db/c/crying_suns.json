@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473945,
+  "EOS_Progressed": 473946,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28689,6 +28689,11 @@
       "Time": "2024-01-16T08:10:12.6845256+00:00",
       "NumProgressed": 473945,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-16T11:09:58.9025516+00:00",
+      "NumProgressed": 473946,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28740,7 +28745,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47394
+      "UsersEstimate": 47395
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -28884,7 +28889,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161141
+      "UsersEstimate": 161142
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29148,7 +29153,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56873
+      "UsersEstimate": 56874
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -29331,21 +29336,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17879,
+      "Progressed": 17880,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473945,
+      "Progressed": 473946,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:24.8750485+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:58.9025511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:59:52.5668393+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:24.8752174+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:59:49.4231418+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:58.9027122+00:00"
 }

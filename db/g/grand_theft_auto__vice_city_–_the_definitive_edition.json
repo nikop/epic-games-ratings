@@ -1068,9 +1068,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16455,
+  "EOS_Progressed": 16459,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18293,6 +18293,11 @@
       "Time": "2024-01-16T10:10:07.9779806+00:00",
       "NumProgressed": 16455,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-16T11:09:41.4582591+00:00",
+      "NumProgressed": 16459,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18392,7 +18397,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH13",
@@ -18408,7 +18413,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "ACH15",
@@ -18464,7 +18469,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7734
+      "UsersEstimate": 7736
     },
     {
       "ID": "ACH22",
@@ -18480,7 +18485,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "ACH24",
@@ -18496,7 +18501,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2468
+      "UsersEstimate": 2469
     },
     {
       "ID": "ACH26",
@@ -18520,7 +18525,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "ACH29",
@@ -18575,7 +18580,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16455,
+      "Progressed": 16459,
       "Completed": 100
     }
   ],
@@ -18583,8 +18588,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-16T06:57:22.4598154+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:07.9779803+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:41.4582587+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:57:17.9548051+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:07.9780888+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:57:12.3019502+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:41.4583618+00:00"
 }

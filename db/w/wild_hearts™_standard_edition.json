@@ -4650,9 +4650,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_28",
@@ -4888,8 +4888,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:09:55.2609273+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:28.2742981+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:59:54.7881196+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:09:55.260984+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:59:51.9834605+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:28.2743644+00:00"
 }

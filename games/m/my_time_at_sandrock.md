@@ -43,7 +43,7 @@ Number of Ratings: 892  (23.09.2022)
 | Martle's Dream | 60.00% | ~553 |
 | Anti-Santa | 60.00% | ~553 |
 | Who Ya Gonna Call...? | 60.00% | ~553 |
-| You Don't Win Friends With Salad | 59.00% | ~543 |
+| You Don't Win Friends With Salad | 60.00% | ~553 |
 | Happier-est Place on Earth | 57.00% | ~525 |
 | Time Flies | 56.00% | ~516 |
 | Call Me Fishmael | 55.00% | ~507 |
@@ -150,13 +150,13 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-16 | 925 | 0 |
 ## Awards
 Max (Character Customization): 639  (Ranked 203)  
-Sum: 1,476 (Ranked 246)  
+Sum: 1,545 (Ranked 246)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 639 |
 | This game is Great for Beginners | 129 |
-| This game is Highly Recommended | 101 |
+| This game is Highly Recommended | 102 |
 | This game is Extremely Fun | 97 |
 | This game has Diverse Characters | 93 |
 | This game has Quickly Understood Controls | 91 |
@@ -164,7 +164,7 @@ Diff (max vs sum): -43
 | This game has Amazing Characters | 81 |
 | This game has Amazing Storytelling | 79 |
 | This game has Easy Combat | 78 |
-| This game has a Creative Community | 66 |
+| This game has a Creative Community | 68 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
 ## Ratings History
@@ -389,4 +389,4 @@ Diff (max vs sum): -43
 | 2024-01-13 | 4.68 | - | 639 | 1,468 |
 | 2024-01-14 | 4.68 | - | 639 | 1,473 |
 | 2024-01-15 | 4.68 | - | 639 | 1,474 |
-| 2024-01-16 | 4.68 | - | 639 | 1,476 |
+| 2024-01-16 | 4.68 | - | 639 | 1,545 |

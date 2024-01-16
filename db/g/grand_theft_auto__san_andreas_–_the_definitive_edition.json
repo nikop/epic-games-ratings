@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2521,9 +2521,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 19616,
+  "EOS_Progressed": 19617,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20606,6 +20606,11 @@
       "Time": "2024-01-16T10:10:16.3037789+00:00",
       "NumProgressed": 19616,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-16T11:09:49.8276852+00:00",
+      "NumProgressed": 19617,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20617,7 +20622,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15889
+      "UsersEstimate": 15890
     },
     {
       "ID": "ACH02",
@@ -20681,7 +20686,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH10",
@@ -20697,7 +20702,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "ACH12",
@@ -20745,7 +20750,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH18",
@@ -20785,7 +20790,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "ACH23",
@@ -20841,7 +20846,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "ACH30",
@@ -20879,9 +20884,9 @@
       "ID": "ACH34",
       "SetID": "4ck5mbe",
       "Name": "...Here we go again",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH35",
@@ -20896,7 +20901,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19616,
+      "Progressed": 19617,
       "Completed": 80
     }
   ],
@@ -20904,8 +20909,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-16T09:57:33.9834119+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:16.3037787+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:49.8276847+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:57:33.9834125+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:16.3038754+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:57:27.8504429+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:49.8277683+00:00"
 }

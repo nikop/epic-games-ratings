@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -265,9 +265,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1722,
+  "EOS_Progressed": 1723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4475,6 +4475,11 @@
       "Time": "2024-01-15T19:10:04.4353807+00:00",
       "NumProgressed": 1722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T11:09:56.1345175+00:00",
+      "NumProgressed": 1723,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4502,7 +4507,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4630,7 +4635,7 @@
       "Name": "Editor Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ENDGAME",
@@ -4654,7 +4659,7 @@
       "Name": "Experienced",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "FIRESTARTER",
@@ -4662,7 +4667,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4670,7 +4675,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4686,7 +4691,7 @@
       "Name": "Fratricide",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FROM_DARKNESS",
@@ -4702,7 +4707,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "GOAL",
@@ -4710,7 +4715,7 @@
       "Name": "Goaaaaal!",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GUN_FOR_HIRE",
@@ -4718,7 +4723,7 @@
       "Name": "Gun for Hire",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -4726,7 +4731,7 @@
       "Name": "Hold The Line",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "IM_THE_LAW",
@@ -4774,7 +4779,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -4790,7 +4795,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "RECYCLER",
@@ -4838,7 +4843,7 @@
       "Name": "Side Order",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "SILENT_BUT_VIOLENT",
@@ -4870,7 +4875,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "THE_WATCHERS",
@@ -4893,7 +4898,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1722,
+      "Progressed": 1723,
       "Completed": 0
     }
   ],
@@ -4901,8 +4906,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-02T20:02:58.7354435+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:22.4078352+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:56.134517+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.6324876+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:03:08.2606417+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:22.407909+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:03:01.5885135+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:56.1345753+00:00"
 }

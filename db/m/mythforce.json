@@ -5,9 +5,9 @@
   "Ranking_Rating": 659,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 383,
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6369,
+  "EOS_Progressed": 6370,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13336,6 +13336,11 @@
       "Time": "2024-01-16T09:05:19.3437875+00:00",
       "NumProgressed": 6369,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T11:05:33.7622329+00:00",
+      "NumProgressed": 6370,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13388,7 +13393,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13444,7 +13449,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13468,7 +13473,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13508,7 +13513,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13531,15 +13536,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6369,
+      "Progressed": 6370,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:05:52.3745562+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:05:33.7622326+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:59:55.0250225+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:05:52.3746352+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:59:52.2131236+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:05:33.7622862+00:00"
 }

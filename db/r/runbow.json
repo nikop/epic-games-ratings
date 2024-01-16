@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253518,
+  "EOS_Progressed": 253519,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24252,6 +24252,11 @@
       "Time": "2024-01-16T10:10:13.5568757+00:00",
       "NumProgressed": 253518,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T11:09:46.8992666+00:00",
+      "NumProgressed": 253519,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24479,7 +24484,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20281
+      "UsersEstimate": 20282
     },
     {
       "ID": "lockupLockdown",
@@ -24503,7 +24508,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126759
+      "UsersEstimate": 126760
     },
     {
       "ID": "notScared",
@@ -24535,7 +24540,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20281
+      "UsersEstimate": 20282
     },
     {
       "ID": "rideTheWave",
@@ -24630,7 +24635,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253518,
+      "Progressed": 253519,
       "Completed": 6
     }
   ],
@@ -24638,8 +24643,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:13.5568753+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:46.8992661+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:57:36.6139348+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:13.5569908+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:57:30.4835245+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:46.8994047+00:00"
 }

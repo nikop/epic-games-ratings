@@ -33,7 +33,7 @@ Rating: 4.73 (Ranked 180)
 | Pure Dynamite! | 46.00% | ~355 |
 | All’s Well That Ends Evil | 43.00% | ~332 |
 | Mana Cannon | 42.00% | ~324 |
-| The Duel | 40.00% | ~308 |
+| The Duel | 41.00% | ~316 |
 | If Looks Could Kill | 38.00% | ~293 |
 | Unstoppable Horde | 37.00% | ~285 |
 | Master of the Undead | 37.00% | ~285 |

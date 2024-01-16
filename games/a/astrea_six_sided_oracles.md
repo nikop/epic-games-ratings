@@ -9,7 +9,7 @@
 | Mechanical Buddy | 74.00% | ~286 |
 | Dicesmithing Time! | 65.00% | ~251 |
 | Sanctuary Guardian | 55.00% | ~212 |
-| Endless Tricks | 51.00% | ~197 |
+| Endless Tricks | 52.00% | ~201 |
 | Wild's Keeper | 49.00% | ~189 |
 | Mind Illuminator | 45.00% | ~174 |
 | Stellar Dismantler | 39.00% | ~151 |
@@ -34,10 +34,10 @@
 | The Corruption Goddess | 7.00% | ~27 |
 | The Goddes Avatar | 7.00% | ~27 |
 | Favored by the Cosmos | 6.00% | ~23 |
+| Anomaly Control | 5.00% | ~19 |
 | Artificer | 5.00% | ~19 |
 | Can't touch this | 5.00% | ~19 |
 | Prestidigitation | 5.00% | ~19 |
-| Anomaly Control | 4.00% | ~15 |
 | Astrarium of Holding | 4.00% | ~15 |
 | Denying Destiny | 4.00% | ~15 |
 | If I Had Failed... | 4.00% | ~15 |

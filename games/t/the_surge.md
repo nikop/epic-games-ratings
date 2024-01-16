@@ -1,20 +1,20 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 707)  
+Rating: 4.44 (Ranked 708)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,108 |
+| On My Own Two Feet | 94.00% | ~5,109 |
 | I'll Be Back | 84.00% | ~4,565 |
-| Sorry, I Dropped This | 76.00% | ~4,130 |
-| First Day on the Job | 76.00% | ~4,130 |
-| Butcher's Bill | 54.00% | ~2,934 |
-| P.A.X | 36.00% | ~1,956 |
-| Hey Listen | 36.00% | ~1,956 |
+| Sorry, I Dropped This | 76.00% | ~4,131 |
+| First Day on the Job | 76.00% | ~4,131 |
+| Butcher's Bill | 54.00% | ~2,935 |
+| P.A.X | 36.00% | ~1,957 |
+| Hey Listen | 36.00% | ~1,957 |
 | OPERATOR | 35.00% | ~1,902 |
-| It's Blue Light | 33.00% | ~1,793 |
+| It's Blue Light | 33.00% | ~1,794 |
 | Most Wanted | 26.00% | ~1,413 |
 | Infidel | 23.00% | ~1,250 |
 | Firebug | 20.00% | ~1,087 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~598 |
 | Who's in Charge Here? | 11.00% | ~598 |
 | Shall Not Pass | 11.00% | ~598 |
-| Right Tool for the Job | 10.00% | ~543 |
+| Right Tool for the Job | 10.00% | ~544 |
 | Raging Drones | 9.00% | ~489 |
 | Overconfident | 9.00% | ~489 |
 | Pusher Man | 8.00% | ~435 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,434 (Ranked 205)  
+Progressed: 5,435 (Ranked 205)  
 Completed: 18 (0.33%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 18 (0.33%) (Ranked 253)
 | 2024-01-13 | 5,415 | 18 |
 | 2024-01-14 | 5,424 | 18 |
 | 2024-01-15 | 5,430 | 18 |
-| 2024-01-16 | 5,434 | 18 |
+| 2024-01-16 | 5,435 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 526)  
 Sum: 30 (Ranked 548)  

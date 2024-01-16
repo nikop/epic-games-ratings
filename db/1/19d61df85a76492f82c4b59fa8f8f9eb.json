@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 544,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.39,
+  "EOS_Completed_Percentage": 9.38,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2539,6 +2539,11 @@
       "Time": "2024-01-15T05:09:08.1625325+00:00",
       "NumProgressed": 543,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-16T11:08:56.914046+00:00",
+      "NumProgressed": 544,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 6,
@@ -2558,7 +2563,7 @@
       "Name": "File-cutter",
       "Percentage": 65,
       "XP": 165,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2574,7 +2579,7 @@
       "Name": "Scythed Chariot",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
@@ -2582,7 +2587,7 @@
       "Name": "Revolving Bridge",
       "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2590,21 +2595,21 @@
       "Name": "Flying Machine",
       "Percentage": 33,
       "XP": 165,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 544,
       "Completed": 51
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:09:24.3821028+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:08:56.9140456+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9161554+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:58:36.5472061+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:09:24.3821238+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:58:30.1242783+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:08:56.9140603+00:00"
 }

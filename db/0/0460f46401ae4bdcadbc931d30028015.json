@@ -3,7 +3,7 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 1002,
-  "Ranking_Popularity": 390,
+  "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 401,
@@ -1725,9 +1725,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 10834,
+  "EOS_Progressed": 10835,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1169,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11655,6 +11655,11 @@
       "Time": "2024-01-16T10:05:53.8802463+00:00",
       "NumProgressed": 10834,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T11:05:35.3898159+00:00",
+      "NumProgressed": 10835,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11675,7 +11680,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "achievement_11",
@@ -11683,7 +11688,7 @@
       "Name": "Big Spender",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "achievement_12",
@@ -11707,7 +11712,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "achievement_15",
@@ -11795,7 +11800,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "achievement_6",
@@ -11803,7 +11808,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "achievement_7",
@@ -11827,14 +11832,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10834,
+      "Progressed": 10835,
       "Completed": 0
     }
   ],
@@ -11842,8 +11847,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-16T01:49:09.6937103+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:05:53.8802458+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:05:35.3898156+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:02:42.5139919+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:05:53.8803039+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:00:32.751004+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:05:35.3898807+00:00"
 }

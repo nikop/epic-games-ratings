@@ -2255,9 +2255,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22444,
+  "EOS_Progressed": 22445,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14070,6 +14070,11 @@
       "Time": "2024-01-16T10:09:59.413496+00:00",
       "NumProgressed": 22444,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T11:09:32.5234911+00:00",
+      "NumProgressed": 22445,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14225,7 +14230,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3816
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14313,7 +14318,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14456,13 +14461,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22444,
+      "Progressed": 22445,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10370,
+      "Progressed": 10371,
       "Completed": 29
     }
   ],
@@ -14470,8 +14475,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-16T01:52:02.5131442+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:09:59.4134958+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:09:32.5234907+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:03:16.9201115+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:09:59.4135673+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:03:10.6410843+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:09:32.5235951+00:00"
 }

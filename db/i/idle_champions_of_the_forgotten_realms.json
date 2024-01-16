@@ -9595,9 +9595,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254146,
+  "EOS_Progressed": 254149,
   "EOS_Completed": 2619,
-  "EOS_NewPlayers": 1251,
+  "EOS_NewPlayers": 1246,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40330,6 +40330,11 @@
       "Time": "2024-01-16T10:10:29.2361603+00:00",
       "NumProgressed": 254146,
       "NumCompleted": 2619
+    },
+    {
+      "Time": "2024-01-16T11:10:03.6105457+00:00",
+      "NumProgressed": 254149,
+      "NumCompleted": 2619
     }
   ],
   "TotalAchievements": 546,
@@ -42235,9 +42240,9 @@
       "ID": "objective_completed_403",
       "SetID": "cc37lbc",
       "Name": "Fugitives",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 508
     },
     {
       "ID": "objective_completed_404",
@@ -44708,21 +44713,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220420,
+      "Progressed": 220423,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254146,
+      "Progressed": 254149,
       "Completed": 2619
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-15T22:57:44.6035429+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:10:29.23616+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:10:03.6105449+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:57:59.4053026+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:10:29.2384703+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:57:53.2921231+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:10:03.6129126+00:00"
 }

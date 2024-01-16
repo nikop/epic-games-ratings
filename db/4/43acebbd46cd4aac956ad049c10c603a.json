@@ -4189,9 +4189,9 @@
       "ID": "AnthropicHills",
       "SetID": "1n308hc",
       "Name": "Anthropic Hills",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 156
     },
     {
       "ID": "Archaeologist",
@@ -4654,8 +4654,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:05:37.9622352+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:05:19.0227631+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:58:31.8617179+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:05:37.9622974+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:58:24.4422832+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:05:19.0228357+00:00"
 }

@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~508 |
 | The Death Curse | 0.20% | ~508 |
 | Nimble Escape | 0.20% | ~508 |
+| Fugitives | 0.20% | ~508 |
 | Premature Betrayal | 0.20% | ~508 |
 | A Tale of Two Cities | 0.20% | ~508 |
 | The Dead Three | 0.20% | ~508 |
@@ -285,7 +286,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimblest Escape | 0.10% | ~254 |
 | Stumbling Escape | 0.10% | ~254 |
 | Distracted Escape | 0.10% | ~220 |
-| Fugitives | 0.10% | ~254 |
 | From The Shadows | 0.10% | ~254 |
 | Spined Nuisances | 0.10% | ~254 |
 | Twilight Twist | 0.10% | ~220 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,146 (Ranked 70)  
+Progressed: 254,149 (Ranked 70)  
 Completed: 2,619 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -824,7 +824,7 @@ Completed: 2,619 (1.03%) (Ranked 177)
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
-| 2024-01-16 | 254,146 | 2,619 |
+| 2024-01-16 | 254,149 | 2,619 |
 ## Awards
 Max (Great for Beginners): 5,784  (Ranked 74)  
 Sum: 33,514 (Ranked 41)  

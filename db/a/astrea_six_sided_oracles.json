@@ -1624,9 +1624,9 @@
       "ID": "AnomalyControl",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Control",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "AnomalyDestroyer",
@@ -1856,9 +1856,9 @@
       "ID": "EndlessTricks",
       "SetID": "1jeo1g7",
       "Name": "Endless Tricks",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 201
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -2415,8 +2415,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-16T10:09:20.9004991+00:00",
+  "LastChanged_Achievements": "2024-01-16T11:08:53.3437272+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:58:22.0742611+00:00",
-  "LastUpdate_Achievements": "2024-01-16T10:09:20.9005799+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:58:14.1956232+00:00",
+  "LastUpdate_Achievements": "2024-01-16T11:08:53.3438282+00:00"
 }
