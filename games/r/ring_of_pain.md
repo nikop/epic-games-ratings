@@ -43,13 +43,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Walker | 0.80% | ~1,945 |
 | Flesh Wound | 0.80% | ~1,945 |
 | Consecutive Curses | 0.70% | ~1,701 |
+| Just Chilling | 0.70% | ~1,701 |
 | Save Our Souls | 0.70% | ~1,701 |
 | New Perspectives | 0.70% | ~1,701 |
 | Shapeshifting | 0.70% | ~1,701 |
 | What Doesn't Kill You | 0.70% | ~32 |
 | To The Death! | 0.60% | ~1,458 |
 | Well Prepared | 0.60% | ~1,458 |
-| Just Chilling | 0.60% | ~1,458 |
 | All Consuming | 0.60% | ~1,458 |
 | Stop Hitting Yourself | 0.60% | ~1,458 |
 | Doing Time | 0.60% | ~1,458 |

@@ -1,16 +1,16 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 113)  
+Rating: 4.78 (Ranked 112)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,293 |
-| No more cages! | 90.00% | ~3,119 |
-| Everfrost | 76.00% | ~2,634 |
-| Dark Forest | 76.00% | ~2,634 |
+| For Demacia | 95.00% | ~3,294 |
+| No more cages! | 90.00% | ~3,120 |
+| Everfrost | 76.00% | ~2,635 |
+| Dark Forest | 76.00% | ~2,635 |
 | Pentakill | 75.00% | ~2,600 |
-| The use of petricite | 73.00% | ~2,530 |
+| The use of petricite | 73.00% | ~2,531 |
 | You can pet the dog | 60.00% | ~2,080 |
 | Thornbarrow | 44.00% | ~1,525 |
 | Big Helmet Bro | 41.00% | ~1,421 |
@@ -19,15 +19,15 @@ Rating: 4.78 (Ranked 113)
 | Elemental master | 38.00% | ~1,317 |
 | Past trauma | 38.00% | ~1,317 |
 | Cypress Glen Headquarters | 35.00% | ~1,213 |
-| Petricite Burst | 34.00% | ~1,178 |
+| Petricite Burst | 34.00% | ~1,179 |
 | Old friend | 33.00% | ~1,144 |
 | Devineur | 33.00% | ~1,144 |
-| Hijack | 31.00% | ~1,074 |
-| Whispers in the Woods I | 28.00% | ~970 |
-| I chose my shackles | 28.00% | ~970 |
-| Ancient power | 28.00% | ~970 |
+| Hijack | 31.00% | ~1,075 |
+| Whispers in the Woods I | 28.00% | ~971 |
+| I chose my shackles | 28.00% | ~971 |
+| Ancient power | 28.00% | ~971 |
 | Sacred Woods | 27.00% | ~936 |
-| Little light | 25.00% | ~866 |
+| Little light | 25.00% | ~867 |
 | Glyndemere | 24.00% | ~832 |
 | Capelworth | 24.00% | ~832 |
 | Full equipped | 24.00% | ~832 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 113)
 | Silverwing nest | 3.00% | ~104 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,466 (Ranked 229)  
+Progressed: 3,467 (Ranked 229)  
 Completed: 30 (0.87%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 30 (0.87%) (Ranked 193)
 | 2024-01-13 | 3,446 | 26 |
 | 2024-01-14 | 3,456 | 28 |
 | 2024-01-15 | 3,463 | 28 |
-| 2024-01-16 | 3,466 | 30 |
+| 2024-01-16 | 3,467 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

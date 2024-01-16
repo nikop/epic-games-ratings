@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 1423,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4442,9 +4442,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 285
     },
     {
       "ID": "PrometheusUnbound",
@@ -4659,8 +4659,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:05:45.5158311+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:05:34.1872071+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:58:44.0720144+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:05:45.5159036+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:58:52.9318136+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:05:34.1872682+00:00"
 }

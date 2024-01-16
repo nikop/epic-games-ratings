@@ -40,11 +40,11 @@
 | Mage Teacher | 10.00% | ~15 |
 | Friend of Windholme | 10.00% | ~15 |
 | Defeat Uram | 9.00% | ~13 |
+| A Joke | 9.00% | ~13 |
 | Defeat Gor | 8.00% | ~12 |
 | Yngrid's Tale | 8.00% | ~12 |
 | The Forge of Regan Gor | 8.00% | ~12 |
 | A Monopoly of Might | 8.00% | ~12 |
-| A Joke | 8.00% | ~12 |
 | Defeat Hokan | 7.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Tuscari Sea Portal | 7.00% | ~10 |

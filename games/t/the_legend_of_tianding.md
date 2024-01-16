@@ -11,8 +11,8 @@
 | Phantom Kunoichi | 43.00% | ~38 |
 | Divine Retribution | 42.00% | ~37 |
 | Captain Mustache | 40.00% | ~35 |
-| Final Showdown | 36.00% | ~32 |
-| The End of an Outlaw | 36.00% | ~32 |
+| Final Showdown | 38.00% | ~33 |
+| The End of an Outlaw | 38.00% | ~33 |
 | Dispel Rumors | 35.00% | ~31 |
 | Demon Slayer | 32.00% | ~28 |
 | Steal Her Away | 30.00% | ~26 |

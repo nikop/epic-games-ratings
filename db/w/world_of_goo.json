@@ -2,13 +2,13 @@
   "ID": "anemone",
   "Name": "World of Goo",
   "ProductSlug": "world-of-goo",
-  "Ranking_Rating": 194,
+  "Ranking_Rating": 179,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 563,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2008-10-13T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -230,6 +230,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-16T16:00:20.4804977+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -247,8 +253,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:07.5057967+00:00",
-  "LastChanged": "2023-12-27T15:58:53.9211986+00:00",
+  "LastChanged": "2024-01-16T16:00:20.4804975+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.3914734+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:00:14.2338753+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:04:03.9378824+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:00:20.4804985+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:03:53.5925937+00:00"
 }

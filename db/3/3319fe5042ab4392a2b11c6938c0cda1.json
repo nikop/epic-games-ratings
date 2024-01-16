@@ -4,8 +4,8 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2024-01-16T15:03:56.1139673+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T16:03:45.7468535+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -879,7 +884,7 @@
       "Name": "Hidden Agenda",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -925,9 +930,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -957,9 +962,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -1086,14 +1091,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:03:56.1139671+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:03:45.7468528+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.492546+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:00:04.0784053+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:03:56.1139902+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:00:09.7923042+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:03:45.7469158+00:00"
 }

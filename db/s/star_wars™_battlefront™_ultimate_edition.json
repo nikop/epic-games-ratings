@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2986,
+  "EOS_Progressed": 2987,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -8104,6 +8104,11 @@
       "Time": "2024-01-16T15:10:23.8998492+00:00",
       "NumProgressed": 2986,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T16:09:56.4845805+00:00",
+      "NumProgressed": 2987,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8212,7 +8217,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_21",
@@ -8340,7 +8345,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2569
     },
     {
       "ID": "achievement_36",
@@ -8619,13 +8624,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2986,
+      "Progressed": 2987,
       "Completed": 1
     }
   ],
@@ -8633,8 +8638,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:10:23.8998489+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:09:56.48458+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:58:19.3227848+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:10:23.8999411+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:58:28.8574719+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:09:56.4847249+00:00"
 }

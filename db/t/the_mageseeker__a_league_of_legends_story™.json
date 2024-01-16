@@ -2,7 +2,7 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 229,
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3466,
+  "EOS_Progressed": 3467,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -6582,6 +6582,11 @@
       "Time": "2024-01-16T14:06:52.8557461+00:00",
       "NumProgressed": 3466,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-16T16:05:19.7516457+00:00",
+      "NumProgressed": 3467,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 53,
@@ -6601,7 +6606,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6633,7 +6638,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6657,7 +6662,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6673,7 +6678,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6705,7 +6710,7 @@
       "Name": "I chose my shackles",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6721,7 +6726,7 @@
       "Name": "Little light",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6777,7 +6782,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6809,7 +6814,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2634
+      "UsersEstimate": 2635
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6969,7 +6974,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2530
+      "UsersEstimate": 2531
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7001,7 +7006,7 @@
       "Name": "Ancient power",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -7009,14 +7014,14 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3466,
+      "Progressed": 3467,
       "Completed": 30
     }
   ],
@@ -7024,8 +7029,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:05:30.7015964+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:05:19.7516452+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:57:47.8035995+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:05:30.7016549+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:57:59.9851432+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:05:19.7517433+00:00"
 }

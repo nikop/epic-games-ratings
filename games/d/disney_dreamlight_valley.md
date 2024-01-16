@@ -1,18 +1,18 @@
 # Disney Dreamlight Valley
 [Store](https://store.epicgames.com/en-US/p/disney-dreamlight-valley)  
 [View Rawdata](../../db/d/disney_dreamlight_valley.json)  
-Rating: 4.76 (Ranked 135)  
+Rating: 4.76 (Ranked 134)  
 Number of Ratings: 1,396  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,495 |
-| Photographer | 67.00% | ~9,495 |
-| Valley's Helper | 59.00% | ~8,361 |
+| Goofy's Investor | 67.00% | ~9,496 |
+| Photographer | 67.00% | ~9,496 |
+| Valley's Helper | 59.00% | ~8,362 |
 | Constructor | 50.00% | ~7,086 |
 | Renovator | 50.00% | ~7,086 |
 | Bestest Friend | 44.00% | ~6,236 |
-| Banker | 38.00% | ~5,385 |
+| Banker | 38.00% | ~5,386 |
 | Gardener | 30.00% | ~4,252 |
 | Generous | 25.00% | ~3,543 |
 | Chef Cook | 19.00% | ~2,693 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~850 |
 | Chit Chatter | 3.00% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,172 (Ranked 176)  
+Progressed: 14,173 (Ranked 176)  
 Completed: 352 (2.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 352 (2.48%) (Ranked 127)
 | 2024-01-13 | 14,104 | 351 |
 | 2024-01-14 | 14,145 | 351 |
 | 2024-01-15 | 14,165 | 351 |
-| 2024-01-16 | 14,172 | 352 |
+| 2024-01-16 | 14,173 | 352 |
 ## Awards
 Max (Great for Beginners): 1,185  (Ranked 151)  
 Sum: 8,410 (Ranked 112)  

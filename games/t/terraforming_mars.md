@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,586 |
-| Final touch | 34.00% | ~30,862 |
-| Prop-M Rover | 32.00% | ~29,047 |
-| Changing the Planet | 28.00% | ~25,416 |
-| Sojourner | 26.00% | ~23,601 |
+| It's a steal! | 37.00% | ~33,587 |
+| Final touch | 34.00% | ~30,864 |
+| Prop-M Rover | 32.00% | ~29,048 |
+| Changing the Planet | 28.00% | ~25,417 |
+| Sojourner | 26.00% | ~23,602 |
 | New Home | 23.00% | ~20,878 |
 | Beagle 2 | 23.00% | ~20,878 |
-| Winner Winner Terraformer | 20.00% | ~18,154 |
+| Winner Winner Terraformer | 20.00% | ~18,155 |
 | Project Manager | 19.00% | ~17,247 |
 | Collector | 19.00% | ~17,247 |
-| Curiosity | 18.00% | ~16,339 |
-| Master | 18.00% | ~16,339 |
-| No Longer Red | 17.00% | ~15,431 |
-| Self-sufficient | 17.00% | ~15,431 |
+| Curiosity | 18.00% | ~16,340 |
+| Master | 18.00% | ~16,340 |
+| No Longer Red | 17.00% | ~15,432 |
+| Self-sufficient | 17.00% | ~15,432 |
 | Money money | 15.00% | ~13,616 |
-| First Journey | 14.00% | ~12,708 |
-| Biggest Reward | 13.00% | ~11,800 |
+| First Journey | 14.00% | ~12,709 |
+| Biggest Reward | 13.00% | ~11,801 |
 | Acquired knowledge | 12.00% | ~10,893 |
 | Landlord | 11.00% | ~9,985 |
 | Most Achievements | 11.00% | ~9,985 |
 | Hellenic Elysium | 11.00% | ~9,985 |
 | Grand champion | 11.00% | ~9,985 |
-| Spirit | 10.00% | ~9,077 |
-| Variety Expert | 9.00% | ~8,169 |
-| Ultimate success | 9.00% | ~8,169 |
+| Spirit | 10.00% | ~9,078 |
+| Variety Expert | 9.00% | ~8,170 |
+| Ultimate success | 9.00% | ~8,170 |
 | Frequent tester | 8.00% | ~7,262 |
 | Determined | 7.00% | ~6,354 |
 | Terraformer | 4.00% | ~3,631 |
 | Team Effort | 3.00% | ~2,723 |
 | Opportunity | 3.00% | ~2,723 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,772 (Ranked 107)  
+Progressed: 90,776 (Ranked 107)  
 Completed: 184 (0.20%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,11 +308,11 @@ Completed: 184 (0.20%) (Ranked 282)
 | 2024-01-13 | 90,475 | 184 |
 | 2024-01-14 | 90,639 | 184 |
 | 2024-01-15 | 90,735 | 184 |
-| 2024-01-16 | 90,772 | 184 |
+| 2024-01-16 | 90,776 | 184 |
 ## Awards
-Max (Relaxing): 543  (Ranked 218)  
+Max (Relaxing): 543  (Ranked 219)  
 Sum: 3,345 (Ranked 180)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 543 |

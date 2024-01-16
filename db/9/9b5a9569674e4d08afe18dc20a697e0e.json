@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 502,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 472,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -704,6 +704,11 @@
       "Time": "2024-01-13T13:06:55.4535369+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T16:05:23.0560605+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T20:03:47.3726007+00:00",
@@ -716,7 +721,7 @@
       "Name": "Adventure awaits",
       "Percentage": 80,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "BARON",
@@ -796,7 +801,7 @@
       "Name": "The Rescue",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GREEDY",
@@ -876,7 +881,7 @@
       "Name": "Moist",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MOUNTAINEER",
@@ -924,23 +929,23 @@
       "Name": "Sneaky",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "SOUL",
       "SetID": "40o4f14",
       "Name": "A restless soul",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "WASHING",
       "SetID": "40o4f14",
       "Name": "Needs washing",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "WITCH",
@@ -963,14 +968,14 @@
     {
       "ID": "40o4f14",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:05:34.0633237+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:05:23.05606+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:10.85047+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:58:42.6167617+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:05:34.0633479+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:58:51.31151+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:05:23.0561106+00:00"
 }

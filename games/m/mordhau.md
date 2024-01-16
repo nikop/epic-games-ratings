@@ -5,22 +5,22 @@ Rating: 4.38 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~779,633 |
-| The ABCs | 43.00% | ~684,167 |
-| Home Run | 41.00% | ~652,346 |
-| Keeps Coming Off | 41.00% | ~652,346 |
-| Guts | 19.00% | ~302,307 |
-| Meat Grinder | 19.00% | ~302,307 |
-| Burning Man | 16.00% | ~254,574 |
-| Lived to Tell the Tale | 12.00% | ~190,930 |
-| Highlander | 10.00% | ~159,109 |
-| Unstoppable | 10.00% | ~159,109 |
-| Just a Scratch | 9.00% | ~143,198 |
-| Tough Nut to Crack | 6.00% | ~95,465 |
-| Yoink | 6.00% | ~95,465 |
-| Long List of Names | 4.00% | ~63,643 |
-| Pyromaniac | 4.00% | ~63,643 |
-| The Queen of Weapons | 4.00% | ~63,643 |
+| Justice from the Grave | 49.00% | ~779,639 |
+| The ABCs | 43.00% | ~684,173 |
+| Home Run | 41.00% | ~652,351 |
+| Keeps Coming Off | 41.00% | ~652,351 |
+| Guts | 19.00% | ~302,309 |
+| Meat Grinder | 19.00% | ~302,309 |
+| Burning Man | 16.00% | ~254,576 |
+| Lived to Tell the Tale | 12.00% | ~190,932 |
+| Highlander | 10.00% | ~159,110 |
+| Unstoppable | 10.00% | ~159,110 |
+| Just a Scratch | 9.00% | ~143,199 |
+| Tough Nut to Crack | 6.00% | ~95,466 |
+| Yoink | 6.00% | ~95,466 |
+| Long List of Names | 4.00% | ~63,644 |
+| Pyromaniac | 4.00% | ~63,644 |
+| The Queen of Weapons | 4.00% | ~63,644 |
 | This isn’t Sparta | 3.00% | ~47,733 |
 | Crybaby | 2.00% | ~31,822 |
 | Eagle Eye | 2.00% | ~31,822 |
@@ -36,7 +36,7 @@ Rating: 4.38 (Ranked 798)
 | Friend Indeed | 0.70% | ~11,138 |
 | Rock’n’Roll | 0.70% | ~11,138 |
 | Virtuoso | 0.70% | ~11,138 |
-| Vlad the Impaler | 0.50% | ~7,955 |
+| Vlad the Impaler | 0.50% | ~7,956 |
 | Whack-A-Mole | 0.40% | ~6,364 |
 | Clobbered | 0.20% | ~3,182 |
 | Ended Rightly | 0.10% | ~1,591 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 798)
 | That’s No Ordinary Cold | 0.10% | ~1,591 |
 | Stairway to Hell | 0.10% | ~1,591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,591,087 (Ranked 7)  
+Progressed: 1,591,101 (Ranked 7)  
 Completed: 78 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 78 (0.00%) (Ranked 402)
 | 2024-01-13 | 1,589,830 | 77 |
 | 2024-01-14 | 1,590,419 | 77 |
 | 2024-01-15 | 1,590,862 | 78 |
-| 2024-01-16 | 1,591,087 | 78 |
+| 2024-01-16 | 1,591,101 | 78 |
 ## Awards
 Max (Diverse Characters): 1,232  (Ranked 149)  
-Sum: 6,347 (Ranked 136)  
+Sum: 6,351 (Ranked 136)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 13
 | This game has Amazing Characters | 820 |
 | This game is Extremely Fun | 806 |
 | This game has Competitive Players | 789 |
-| This game has Amazing Storytelling | 673 |
+| This game has Amazing Storytelling | 677 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
@@ -610,4 +610,4 @@ Diff (max vs sum): 13
 | 2024-01-13 | 4.38 | 1,218 | 6,298 |
 | 2024-01-14 | 4.38 | 1,223 | 6,314 |
 | 2024-01-15 | 4.38 | 1,232 | 6,345 |
-| 2024-01-16 | 4.38 | 1,232 | 6,347 |
+| 2024-01-16 | 4.38 | 1,232 | 6,351 |

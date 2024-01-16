@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16463,
+  "EOS_Progressed": 16464,
   "EOS_Completed": 100,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18313,6 +18313,11 @@
       "Time": "2024-01-16T15:10:07.3061317+00:00",
       "NumProgressed": 16463,
       "NumCompleted": 100
+    },
+    {
+      "Time": "2024-01-16T16:09:40.0780466+00:00",
+      "NumProgressed": 16464,
+      "NumCompleted": 100
     }
   ],
   "TotalAchievements": 34,
@@ -18428,7 +18433,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7079
+      "UsersEstimate": 7080
     },
     {
       "ID": "ACH15",
@@ -18516,7 +18521,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "ACH26",
@@ -18595,7 +18600,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16463,
+      "Progressed": 16464,
       "Completed": 100
     }
   ],
@@ -18603,8 +18608,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-16T06:57:22.4598154+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:10:07.3061314+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:09:40.0780461+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:57:28.7528896+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:10:07.3062284+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:57:42.3165845+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:09:40.0781808+00:00"
 }

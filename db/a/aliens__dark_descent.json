@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -547,6 +547,12 @@
       "Rating": 4.53,
       "NumberOfAwards": 66,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-01-16T15:58:42.2022862+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 66,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
@@ -561,9 +567,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 6460,
+  "EOS_Progressed": 6461,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9926,6 +9932,11 @@
       "Time": "2024-01-16T15:05:51.5955938+00:00",
       "NumProgressed": 6460,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T16:05:39.8833048+00:00",
+      "NumProgressed": 6461,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9993,7 +10004,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10033,7 +10044,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10049,7 +10060,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3488
+      "UsersEstimate": 3489
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10129,7 +10140,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3359
+      "UsersEstimate": 3360
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10145,7 +10156,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10153,7 +10164,7 @@
       "Name": "Making a Stand",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "ACH_MISSION_05",
@@ -10161,7 +10172,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10185,7 +10196,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10193,7 +10204,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10209,7 +10220,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10233,7 +10244,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4134
+      "UsersEstimate": 4135
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10241,7 +10252,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10273,7 +10284,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10296,16 +10307,16 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6460,
+      "Progressed": 6461,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:05:51.5955934+00:00",
+  "LastChanged": "2024-01-16T15:58:42.202286+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:05:39.8833042+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:58:32.8229546+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:05:51.5956612+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:58:42.2022865+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:05:39.8833996+00:00"
 }

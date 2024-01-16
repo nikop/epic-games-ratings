@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~537 |
 | Boy of mystery | 2.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,899 (Ranked 165)  
+Progressed: 17,900 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 125 (0.70%) (Ranked 204)
 | 2024-01-13 | 17,839 | 125 |
 | 2024-01-14 | 17,861 | 125 |
 | 2024-01-15 | 17,891 | 125 |
-| 2024-01-16 | 17,899 | 125 |
+| 2024-01-16 | 17,900 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 418)  

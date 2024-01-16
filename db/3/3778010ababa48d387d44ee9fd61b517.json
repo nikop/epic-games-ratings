@@ -2,10 +2,10 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2024-01-16T14:07:17.1266065+00:00",
       "NumProgressed": 152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T16:05:35.9934548+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -637,9 +642,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "A_AVATAR",
@@ -669,7 +674,7 @@
       "ID": "A_CHESTS_2",
       "SetID": "324h56e",
       "Name": "Treasure Hunter",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -711,13 +716,13 @@
       "Name": "Evolution",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -735,7 +740,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -757,9 +762,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 42
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -773,9 +778,9 @@
       "ID": "A_LEGENDARY",
       "SetID": "324h56e",
       "Name": "Loot of Legends",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 23
     },
     {
       "ID": "A_LEGIONNAIRES",
@@ -791,7 +796,7 @@
       "Name": "Ding!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "A_MEAT meat (0-10000)",
@@ -799,7 +804,7 @@
       "Name": "Fresh Meat!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -815,7 +820,7 @@
       "Name": "Miner",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "A_NOFISH",
@@ -829,9 +834,9 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "A_POPULATION",
@@ -847,7 +852,7 @@
       "Name": "Mother of Insectoids",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "A_RESS",
@@ -869,9 +874,9 @@
       "ID": "A_SHIP",
       "SetID": "324h56e",
       "Name": "What\u0027s this?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
@@ -879,7 +884,7 @@
       "Name": "Silencer",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "A_SUN",
@@ -903,7 +908,7 @@
       "Name": "All About That Base",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "A_TURTLES",
@@ -925,9 +930,9 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "A_WRAITH",
@@ -942,14 +947,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:05:47.3759517+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:05:35.9934543+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:58:47.2672337+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:05:47.375987+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:58:56.165318+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:05:35.9934996+00:00"
 }

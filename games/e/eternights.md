@@ -1,11 +1,11 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.79 (Ranked 100)  
+Rating: 4.72 (Ranked 194)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 76.00% | ~693 |
+| New arm | 77.00% | ~702 |
 | Shelter Escape | 75.00% | ~684 |
 | The First Bond | 64.00% | ~584 |
 | Novice Scavenger | 57.00% | ~520 |
@@ -155,3 +155,4 @@ Completed: 2 (0.22%) (Ranked 278)
 | 2024-01-06 | 4.77 | 0 | 0 |
 | 2024-01-08 | 4.78 | 0 | 0 |
 | 2024-01-10 | 4.79 | 0 | 0 |
+| 2024-01-16 | 4.72 | 0 | 0 |

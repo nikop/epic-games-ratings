@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~451,955 |
-| The Three | 64.00% | ~348,495 |
-| The Banquet | 40.00% | ~217,810 |
-| Devara's Light | 31.00% | ~168,802 |
+| Find Sanctuary | 83.00% | ~451,957 |
+| The Three | 64.00% | ~348,497 |
+| The Banquet | 40.00% | ~217,811 |
+| Devara's Light | 31.00% | ~168,803 |
 | The Iron Ones | 19.00% | ~103,460 |
-| The Village | 17.00% | ~92,569 |
+| The Village | 17.00% | ~92,570 |
 | The Forest | 15.00% | ~81,679 |
-| Branded | 14.00% | ~76,233 |
-| The Imposter | 14.00% | ~76,233 |
-| The Keep | 14.00% | ~76,233 |
+| Branded | 14.00% | ~76,234 |
+| The Imposter | 14.00% | ~76,234 |
+| The Keep | 14.00% | ~76,234 |
 | The Castle | 11.00% | ~59,898 |
 | The Dome | 9.00% | ~49,007 |
 | The Red Hall | 9.00% | ~49,007 |
@@ -24,10 +24,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ziggurat | 8.00% | ~43,562 |
 | The Mire | 7.00% | ~38,117 |
 | The Stone Roots | 7.00% | ~38,117 |
-| Storied | 6.00% | ~32,671 |
-| The Construct | 6.00% | ~32,671 |
-| The Lake | 6.00% | ~32,671 |
-| The Ruins | 6.00% | ~32,671 |
+| Storied | 6.00% | ~32,672 |
+| The Construct | 6.00% | ~32,672 |
+| The Lake | 6.00% | ~32,672 |
+| The Ruins | 6.00% | ~32,672 |
 | The Alkymancery | 5.00% | ~27,226 |
 | The Pitchwoods | 5.00% | ~27,226 |
 | Honed | 4.00% | ~21,781 |
@@ -37,14 +37,14 @@ Number of Ratings: 3,114  (23.09.2022)
 | Coastrock | 3.00% | ~16,336 |
 | Find Salvation | 3.00% | ~16,336 |
 | The Unspeakable Deep | 3.00% | ~16,336 |
-| Devoted | 2.00% | ~10,890 |
-| Dominion | 2.00% | ~10,890 |
-| Keepers of Fire and Sky | 2.00% | ~10,890 |
-| Order of the Betrayer | 2.00% | ~10,890 |
-| Wise Words | 2.00% | ~10,890 |
+| Devoted | 2.00% | ~10,891 |
+| Dominion | 2.00% | ~10,891 |
+| Keepers of Fire and Sky | 2.00% | ~10,891 |
+| Order of the Betrayer | 2.00% | ~10,891 |
+| Wise Words | 2.00% | ~10,891 |
 | Fading Fast | 1.00% | ~5,445 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,524 (Ranked 36)  
+Progressed: 544,527 (Ranked 36)  
 Completed: 1,685 (0.31%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 1,685 (0.31%) (Ranked 258)
 | 2024-01-13 | 544,258 | 1,682 |
 | 2024-01-14 | 544,363 | 1,683 |
 | 2024-01-15 | 544,465 | 1,683 |
-| 2024-01-16 | 544,524 | 1,685 |
+| 2024-01-16 | 544,527 | 1,685 |
 ## Awards
 Max (Challenging Combat): 299  (Ranked 263)  
 Sum: 2,041 (Ranked 220)  

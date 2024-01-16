@@ -4,8 +4,8 @@
   "ProductSlug": "engine-evolution-2023-7d9eb7",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2240,
+  "EOS_Progressed": 2242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3034,6 +3034,11 @@
       "Time": "2024-01-16T15:09:32.7766406+00:00",
       "NumProgressed": 2240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T16:09:05.2133842+00:00",
+      "NumProgressed": 2242,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3070,7 +3075,7 @@
       "Name": "Fastest lap",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "FASTEST_LAP_10",
@@ -3094,7 +3099,7 @@
       "Name": "Greener",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "FINISHED_10",
@@ -3126,7 +3131,7 @@
       "Name": "One formula race",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "FINISHED_RACE_MOTORBIKE_1",
@@ -3134,7 +3139,7 @@
       "Name": "One motorbike race",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ONE_LAP",
@@ -3142,7 +3147,7 @@
       "Name": "First lap",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1480
     },
     {
       "ID": "PODIUM_1",
@@ -3150,7 +3155,7 @@
       "Name": "Podium finisher",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "PODIUM_10",
@@ -3158,7 +3163,7 @@
       "Name": "Upcoming force",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "PODIUM_3",
@@ -3166,7 +3171,7 @@
       "Name": "Good driver",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "REGISTER",
@@ -3174,7 +3179,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2106
+      "UsersEstimate": 2107
     },
     {
       "ID": "RESEARCHED_2",
@@ -3190,7 +3195,7 @@
       "Name": "Generation 3",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "RESEARCHED_4",
@@ -3286,7 +3291,7 @@
       "Name": "Newcomer",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1053
+      "UsersEstimate": 1054
     },
     {
       "ID": "XP_1000",
@@ -3300,9 +3305,9 @@
       "ID": "XP_10000",
       "SetID": "4nk2039",
       "Name": "Learner",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 45
     },
     {
       "ID": "XP_100000",
@@ -3325,14 +3330,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2240,
+      "Progressed": 2242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:09:32.7766403+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:09:05.2133839+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:59:01.1446347+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:09:32.7766934+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:59:09.1303149+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:09:05.2134427+00:00"
 }

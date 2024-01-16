@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4035,7 +4035,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33716,
+  "EOS_Progressed": 33717,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
@@ -25690,6 +25690,11 @@
       "Time": "2024-01-16T14:09:57.2635749+00:00",
       "NumProgressed": 33716,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-16T16:08:53.5061629+00:00",
+      "NumProgressed": 33717,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25709,7 +25714,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Back_Off",
@@ -25717,7 +25722,7 @@
       "Name": "Back Off",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Best_Insurance",
@@ -25725,7 +25730,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -25805,7 +25810,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Efficient",
@@ -25813,7 +25818,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "Escape_Artist",
@@ -25861,7 +25866,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Legions",
@@ -25869,7 +25874,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Liability",
@@ -25917,7 +25922,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Reckless",
@@ -25933,7 +25938,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Rift_Seeker",
@@ -25965,7 +25970,7 @@
       "Name": "Seasoned",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Side_Hustle",
@@ -25973,7 +25978,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Skilled",
@@ -26013,7 +26018,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "Surprise",
@@ -26108,7 +26113,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33716,
+      "Progressed": 33717,
       "Completed": 71
     }
   ],
@@ -26116,8 +26121,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-16T09:57:10.644261+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:09:20.7171896+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:08:53.5061624+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:57:21.1428009+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:09:20.7173493+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:57:34.9260381+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:08:53.5063411+00:00"
 }

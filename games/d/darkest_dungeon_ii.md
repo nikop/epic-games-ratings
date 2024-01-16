@@ -17,33 +17,33 @@ Number of Ratings: 7,767  (23.09.2022)
 | Catch and Decease | 6.00% | ~7,979 |
 | Escape from the Black Hole | 6.00% | ~7,979 |
 | To Grandmother's House | 6.00% | ~7,979 |
-| Ploughshares to Swords | 6.00% | ~471 |
-| Bloody Graduation | 6.00% | ~471 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,649 |
-| It Rings a Bell | 5.00% | ~6,649 |
-| Not Today! | 5.00% | ~6,649 |
-| Meat and Greet | 5.00% | ~6,649 |
-| It Happens | 5.00% | ~6,649 |
-| Rush Hour | 5.00% | ~6,649 |
-| Merry Time | 5.00% | ~6,649 |
-| Harvest Festival | 5.00% | ~6,649 |
-| Whale | 5.00% | ~6,649 |
-| A Place to Lay Your Head | 5.00% | ~6,649 |
-| FNG | 5.00% | ~6,649 |
-| Nope | 5.00% | ~6,649 |
+| Ploughshares to Swords | 6.00% | ~472 |
+| Bloody Graduation | 6.00% | ~472 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,650 |
+| It Rings a Bell | 5.00% | ~6,650 |
+| Not Today! | 5.00% | ~6,650 |
+| Meat and Greet | 5.00% | ~6,650 |
+| It Happens | 5.00% | ~6,650 |
+| Rush Hour | 5.00% | ~6,650 |
+| Merry Time | 5.00% | ~6,650 |
+| Harvest Festival | 5.00% | ~6,650 |
+| Whale | 5.00% | ~6,650 |
+| A Place to Lay Your Head | 5.00% | ~6,650 |
+| FNG | 5.00% | ~6,650 |
+| Nope | 5.00% | ~6,650 |
 | Friends 'Til the End | 5.00% | ~393 |
-| Resurrection | 4.00% | ~5,319 |
-| Unleash Hell | 4.00% | ~5,319 |
-| Funny Guy | 4.00% | ~5,319 |
-| Long Live the King | 4.00% | ~5,319 |
-| Wyrdly Reconstructed | 4.00% | ~5,319 |
-| Unfulfilled Desires | 4.00% | ~5,319 |
-| Dissector | 4.00% | ~5,319 |
-| Banishment | 4.00% | ~5,319 |
-| Now Stay Dead | 4.00% | ~5,319 |
-| Spelunker | 4.00% | ~5,319 |
-| Ramble On | 4.00% | ~5,319 |
-| Unshackled | 4.00% | ~5,319 |
+| Resurrection | 4.00% | ~5,320 |
+| Unleash Hell | 4.00% | ~5,320 |
+| Funny Guy | 4.00% | ~5,320 |
+| Long Live the King | 4.00% | ~5,320 |
+| Wyrdly Reconstructed | 4.00% | ~5,320 |
+| Unfulfilled Desires | 4.00% | ~5,320 |
+| Dissector | 4.00% | ~5,320 |
+| Banishment | 4.00% | ~5,320 |
+| Now Stay Dead | 4.00% | ~5,320 |
+| Spelunker | 4.00% | ~5,320 |
+| Ramble On | 4.00% | ~5,320 |
+| Unshackled | 4.00% | ~5,320 |
 | Boxcar Kid | 3.00% | ~3,990 |
 | Hope Rekindled | 3.00% | ~3,990 |
 | Predator | 3.00% | ~3,990 |
@@ -69,8 +69,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~79 |
 | For Old Time' Sake | 1.00% | ~79 |
 | Et Tu, Riposte? | 0.90% | ~71 |
+| The World As It Was | 0.80% | ~1,064 |
 | A Life Well Lived | 0.70% | ~931 |
-| The World As It Was | 0.70% | ~931 |
 | Bacon Bits | 0.60% | ~798 |
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
 | Eidetic | 0.50% | ~665 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,985 (Ranked 92)  
+Progressed: 132,991 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 5 (0.00%) (Ranked 402)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,985 | 5 |
+| 2024-01-16 | 132,991 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
-Sum: 21,676 (Ranked 58)  
+Sum: 21,679 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -359,7 +359,7 @@ Diff (max vs sum): -7
 | This game has Challenging Combat | 1,679 |
 | This game is Highly Recommended | 1,608 |
 | This game has Amazing Characters | 1,535 |
-| This game is Extremely Fun | 1,524 |
+| This game is Extremely Fun | 1,527 |
 | This game has Unique Visuals | 1,472 |
 | This game has Amazing Storytelling | 1,451 |
 | This game has Quickly Understood Controls | 1,423 |
@@ -722,4 +722,4 @@ Diff (max vs sum): -7
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
-| 2024-01-16 | 4.68 | - | 8,026 | 21,676 |
+| 2024-01-16 | 4.68 | - | 8,026 | 21,679 |

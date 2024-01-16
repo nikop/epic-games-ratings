@@ -1,21 +1,21 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.77 (Ranked 122)  
+Rating: 4.77 (Ranked 121)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,125 |
-| ''I don't like you either!'' | 77.00% | ~45,819 |
-| ''Impressive, most impressive'' | 69.00% | ~41,058 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,058 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,126 |
+| ''I don't like you either!'' | 77.00% | ~45,820 |
+| ''Impressive, most impressive'' | 69.00% | ~41,059 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,059 |
 | The Phantom Menace | 56.00% | ~33,323 |
 | ''Aggressive Negotiations'' | 56.00% | ~33,323 |
 | ''I can fly anything'' | 54.00% | ~32,133 |
 | ''And who gave you permission...?'' | 51.00% | ~30,348 |
-| A New Hope | 45.00% | ~26,777 |
-| Attack of the Clones | 44.00% | ~26,182 |
+| A New Hope | 45.00% | ~26,778 |
+| Attack of the Clones | 44.00% | ~26,183 |
 | Revenge of the Sith | 38.00% | ~22,612 |
 | The Empire Strikes Back | 35.00% | ~20,827 |
 | ''A fine addition to my collection'' | 35.00% | ~20,827 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~595 |
 | ''I've never seen a real one!'' | 0.90% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,505 (Ranked 120)  
+Progressed: 59,506 (Ranked 120)  
 Completed: 261 (0.44%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 261 (0.44%) (Ranked 237)
 | 2024-01-13 | 59,360 | 260 |
 | 2024-01-14 | 59,430 | 261 |
 | 2024-01-15 | 59,484 | 261 |
-| 2024-01-16 | 59,505 | 261 |
+| 2024-01-16 | 59,506 | 261 |
 ## Awards
 Max (Great Boss Battles): 2,503  (Ranked 110)  
 Sum: 6,863 (Ranked 131)  

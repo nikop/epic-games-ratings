@@ -1,16 +1,16 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 581)  
+Rating: 4.52 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,490 |
-| I've Had Enough! | 15.00% | ~18,545 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,600 |
-| Seasoned Fighter | 9.00% | ~11,127 |
-| All For One and One For All | 8.00% | ~9,891 |
-| Home Sweet Home? | 6.00% | ~7,418 |
+| All Grown Up! | 19.00% | ~23,493 |
+| I've Had Enough! | 15.00% | ~18,547 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,601 |
+| Seasoned Fighter | 9.00% | ~11,128 |
+| All For One and One For All | 8.00% | ~9,892 |
+| Home Sweet Home? | 6.00% | ~7,419 |
 | A New Age | 5.00% | ~6,182 |
 | Oh Baby, A Triple | 3.00% | ~3,709 |
 | Master of Disguise | 3.00% | ~3,709 |
@@ -25,7 +25,7 @@ Rating: 4.52 (Ranked 581)
 | Martyrdom | 1.00% | ~1,236 |
 | Ninja Reflex | 0.90% | ~1,113 |
 | Zero-sum Game | 0.90% | ~1,113 |
-| Taste Your Own Medicine | 0.70% | ~865 |
+| Taste Your Own Medicine | 0.70% | ~866 |
 | This is GigaBash! | 0.50% | ~618 |
 | Sidetracked... | 0.50% | ~618 |
 | Eye of the Titan | 0.40% | ~495 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 581)
 | What's Mine is Yours | 0.10% | ~124 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,634 (Ranked 94)  
+Progressed: 123,648 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
 | 2024-01-15 | 123,364 | 0 |
-| 2024-01-16 | 123,634 | 0 |
+| 2024-01-16 | 123,648 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 442)  
 Sum: 57 (Ranked 505)  

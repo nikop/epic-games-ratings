@@ -4,8 +4,8 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -611,9 +611,9 @@
       "ID": "LEVEL_COMPLETE_0_8",
       "SetID": "1fek4an",
       "Name": "Grass(L8)",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_COMPLETE_1_0",
@@ -651,9 +651,9 @@
       "ID": "LEVEL_COMPLETE_1_4",
       "SetID": "1fek4an",
       "Name": "Boneyard(L4)",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LEVEL_COMPLETE_1_8",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:03:49.7248801+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:03:39.749321+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:03:03.9718594+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:03:49.724986+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:02:55.7742931+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:03:39.7494182+00:00"
 }

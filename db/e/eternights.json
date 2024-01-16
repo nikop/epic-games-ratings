@@ -2,13 +2,13 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 194,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 278,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2023-12-27T15:59:49.1136696+00:00",
@@ -51,6 +51,12 @@
     {
       "Time": "2024-01-10T15:58:31.5106154+00:00",
       "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-16T15:57:40.8541909+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3424,9 +3430,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 702
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3632,9 +3638,9 @@
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged": "2024-01-10T15:58:31.5106151+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:09:31.0167988+00:00",
+  "LastChanged": "2024-01-16T15:57:40.8541905+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:09:03.514821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:57:27.2034018+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:09:31.0168339+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:57:40.8541913+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:09:03.5148573+00:00"
 }

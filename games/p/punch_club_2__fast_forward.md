@@ -21,7 +21,7 @@
 | Hello, world! | 62.00% | ~365 |
 | Fighting is cool | 61.00% | ~359 |
 | Pal of your father? | 59.00% | ~347 |
-| Spirit of the past | 57.00% | ~335 |
+| Spirit of the past | 58.00% | ~341 |
 | Employee of the month | 57.00% | ~335 |
 | Law student | 55.00% | ~323 |
 | Handyman | 53.00% | ~312 |

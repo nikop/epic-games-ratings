@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2733,9 +2733,9 @@
       "ID": "mick_house",
       "SetID": "69co12a",
       "Name": "Spirit of the past",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 341
     },
     {
       "ID": "mike_resurect",
@@ -2964,8 +2964,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:10:16.2802639+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:09:49.1054736+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:03.3260875+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:00:29.7135464+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:10:16.2803158+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:00:34.3796507+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:09:49.1055576+00:00"
 }

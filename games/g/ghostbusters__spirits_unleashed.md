@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 616)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,709 |
-| Meticulously Efficient | 9.00% | ~3,034 |
+| Meticulously Efficient | 9.00% | ~3,035 |
 | Advancement | 8.00% | ~2,697 |
 | Swift Rift Removers | 7.00% | ~2,360 |
 | Discovery | 6.00% | ~2,023 |
@@ -22,17 +22,17 @@ Rating: 4.50 (Ranked 616)
 | Daily Dose | 4.00% | ~1,349 |
 | Ghostbuster In Training | 4.00% | ~1,349 |
 | Right back at ya | 4.00% | ~1,349 |
-| Animated | 3.00% | ~1,011 |
-| Back Off | 3.00% | ~1,011 |
-| We have the best insurance | 3.00% | ~1,011 |
-| Ectoplasmic Entity | 3.00% | ~1,011 |
-| Icing on the Cake | 3.00% | ~1,011 |
-| Legions | 3.00% | ~1,011 |
-| Pesky Jerks | 3.00% | ~1,011 |
-| Rift Destroyer | 3.00% | ~1,011 |
-| Seasoned | 3.00% | ~1,011 |
-| Side Hustle | 3.00% | ~1,011 |
-| Summoner | 3.00% | ~1,011 |
+| Animated | 3.00% | ~1,012 |
+| Back Off | 3.00% | ~1,012 |
+| We have the best insurance | 3.00% | ~1,012 |
+| Ectoplasmic Entity | 3.00% | ~1,012 |
+| Icing on the Cake | 3.00% | ~1,012 |
+| Legions | 3.00% | ~1,012 |
+| Pesky Jerks | 3.00% | ~1,012 |
+| Rift Destroyer | 3.00% | ~1,012 |
+| Seasoned | 3.00% | ~1,012 |
+| Side Hustle | 3.00% | ~1,012 |
+| Summoner | 3.00% | ~1,012 |
 | Collector | 2.00% | ~674 |
 | Escape Artist | 2.00% | ~674 |
 | Reckless | 2.00% | ~674 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 616)
 | Ultimate Defense | 0.20% | ~67 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,716 (Ranked 140)  
+Progressed: 33,717 (Ranked 140)  
 Completed: 71 (0.21%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 71 (0.21%) (Ranked 280)
 | 2024-01-13 | 33,613 | 71 |
 | 2024-01-14 | 33,664 | 71 |
 | 2024-01-15 | 33,702 | 71 |
-| 2024-01-16 | 33,716 | 71 |
+| 2024-01-16 | 33,717 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,967 (Ranked 188)  

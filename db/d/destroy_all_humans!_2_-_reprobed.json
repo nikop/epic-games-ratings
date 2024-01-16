@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2216,9 +2216,9 @@
       "ID": "ACH_KILL_PONSONBY",
       "SetID": "4n84pon",
       "Name": "Die Nasty",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
@@ -2377,8 +2377,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-16T15:09:40.8964687+00:00",
+  "LastChanged_Achievements": "2024-01-16T16:09:13.535653+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:58:12.2632989+00:00",
-  "LastUpdate_Achievements": "2024-01-16T15:09:40.8965158+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:58:21.9073106+00:00",
+  "LastUpdate_Achievements": "2024-01-16T16:09:13.5357034+00:00"
 }
