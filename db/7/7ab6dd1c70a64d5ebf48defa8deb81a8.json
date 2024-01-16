@@ -3,11 +3,11 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 1018,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2356,
+  "EOS_Progressed": 2357,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -4663,6 +4663,11 @@
       "Time": "2024-01-16T20:10:22.4509285+00:00",
       "NumProgressed": 2356,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T21:10:22.1980784+00:00",
+      "NumProgressed": 2357,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4674,7 +4679,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "ACH_02",
@@ -4690,7 +4695,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_04",
@@ -4778,7 +4783,7 @@
       "Name": "Airborne",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_15",
@@ -4786,7 +4791,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_16",
@@ -4834,7 +4839,7 @@
       "Name": "Big Bazar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_22",
@@ -4866,7 +4871,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "ACH_26",
@@ -4906,7 +4911,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_31",
@@ -4922,7 +4927,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_34",
@@ -4961,7 +4966,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2356,
+      "Progressed": 2357,
       "Completed": 3
     }
   ],
@@ -4969,8 +4974,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:22.4509281+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:22.1980782+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:55.3434231+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:22.4509713+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:53.2883227+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:22.1981215+00:00"
 }

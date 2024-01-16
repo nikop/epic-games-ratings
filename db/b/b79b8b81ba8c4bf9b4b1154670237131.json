@@ -2,13 +2,13 @@
   "ID": "b79b8b81ba8c4bf9b4b1154670237131",
   "Name": "Invincible Presents: Atom Eve",
   "ProductSlug": "atom-eve-ff090d",
-  "Ranking_Rating": 866,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Rating": 874,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-11-18T01:43:33.9893593+00:00",
@@ -185,15 +185,21 @@
       "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-16T20:58:45.8429286+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16727,
+  "EOS_Progressed": 16729,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6791,6 +6797,11 @@
       "Time": "2024-01-16T20:09:51.8538453+00:00",
       "NumProgressed": 16727,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-16T21:09:42.8661481+00:00",
+      "NumProgressed": 16729,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6803,7 +6814,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6356
+      "UsersEstimate": 6357
     },
     {
       "ID": "ACH_AE_10",
@@ -6811,7 +6822,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACH_AE_11",
@@ -6835,7 +6846,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12545
+      "UsersEstimate": 12547
     },
     {
       "ID": "ACH_AE_14",
@@ -6843,7 +6854,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3346
     },
     {
       "ID": "ACH_AE_15",
@@ -6891,7 +6902,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ACH_AE_20",
@@ -6915,7 +6926,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4014
+      "UsersEstimate": 4015
     },
     {
       "ID": "ACH_AE_23",
@@ -6979,7 +6990,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "ACH_AE_30",
@@ -7051,7 +7062,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACH_AE_7",
@@ -7075,23 +7086,23 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16727,
+      "Progressed": 16729,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-11-14T21:00:09.5142789+00:00",
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
-  "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:09:51.8538448+00:00",
+  "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:09:42.8661475+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:46.1742079+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:51.8539041+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:45.8429288+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:42.8662081+00:00"
 }

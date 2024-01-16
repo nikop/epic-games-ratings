@@ -32,13 +32,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.90% | ~2,188 |
 | The Bestiary | 0.90% | ~2,188 |
 | What's Yours Is Mine | 0.90% | ~2,188 |
+| Shootout | 0.90% | ~2,188 |
 | Toxic | 0.90% | ~2,188 |
 | Dig Your Own Grave | 0.80% | ~1,945 |
 | Who To Trust? | 0.80% | ~1,945 |
 | Walk It Off | 0.80% | ~1,945 |
 | I Am Overburdened | 0.80% | ~1,945 |
 | Destroy Your Fears | 0.80% | ~1,945 |
-| Shootout | 0.80% | ~1,945 |
 | Stone Touch | 0.80% | ~1,945 |
 | Shadow Walker | 0.80% | ~1,945 |
 | Flesh Wound | 0.80% | ~1,945 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,076 (Ranked 75)  
-Completed: 307 (0.13%) (Ranked 302)  
+Progressed: 243,077 (Ranked 75)  
+Completed: 307 (0.13%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -416,7 +416,7 @@ Completed: 307 (0.13%) (Ranked 302)
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
-| 2024-01-16 | 243,076 | 307 |
+| 2024-01-16 | 243,077 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,798 (Ranked 90)  

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1835,10 +1835,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 461,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-01-16T20:59:20.2590654+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 463,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 461,
+  "NumberOfAwards": 463,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1858,7 +1864,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has a Creative Community",
@@ -1897,7 +1903,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168524,
+  "EOS_Progressed": 168530,
   "EOS_Completed": 461,
   "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 8,
@@ -23332,6 +23338,11 @@
       "Time": "2024-01-16T20:04:26.0221344+00:00",
       "NumProgressed": 168524,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-16T21:04:04.5872923+00:00",
+      "NumProgressed": 168530,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23416,7 +23427,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23711,21 +23722,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168107,
+      "Progressed": 168113,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168524,
+      "Progressed": 168530,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-16T05:59:05.5507651+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:04:26.0221339+00:00",
+  "LastChanged": "2024-01-16T20:59:20.2590652+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:04:04.5872918+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:21.3666527+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:04:26.0222461+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:20.2590656+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:04:04.5874067+00:00"
 }

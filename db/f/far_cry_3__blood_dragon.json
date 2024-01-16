@@ -3,11 +3,11 @@
   "Name": "Far Cry 3: Blood Dragon",
   "ProductSlug": "far-cry-3-blood-dragon",
   "Ranking_Rating": 355,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-02-18T16:00:00+00:00",
@@ -289,6 +289,6 @@
   "FirstSeen": "2022-07-22T20:29:24.1119308+00:00",
   "LastChanged": "2024-01-04T21:01:48.6962707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:13.9971067+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:29.1465023+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:04:14.5395585+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:28.7783806+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:03:53.3403106+00:00"
 }

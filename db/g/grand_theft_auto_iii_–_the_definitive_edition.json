@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 955,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12360,
+  "EOS_Progressed": 12363,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15916,6 +15916,11 @@
       "Time": "2024-01-16T20:06:29.7457853+00:00",
       "NumProgressed": 12360,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-16T21:06:06.6248893+00:00",
+      "NumProgressed": 12363,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15927,7 +15932,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10259
+      "UsersEstimate": 10261
     },
     {
       "ID": "ACH02",
@@ -15935,7 +15940,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "ACH03",
@@ -15951,7 +15956,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4820
+      "UsersEstimate": 4822
     },
     {
       "ID": "ACH05",
@@ -15967,7 +15972,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "ACH07",
@@ -15999,7 +16004,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "ACH11",
@@ -16039,7 +16044,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ACH16",
@@ -16055,7 +16060,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH18",
@@ -16158,7 +16163,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12360,
+      "Progressed": 12363,
       "Completed": 91
     }
   ],
@@ -16166,8 +16171,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:06:29.7457849+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:06:06.6248889+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:32.3770323+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:06:29.74586+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:32.2924514+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:06:06.624983+00:00"
 }

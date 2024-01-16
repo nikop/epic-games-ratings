@@ -3,8 +3,8 @@
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2447,17 +2447,17 @@
       "ID": "ACHV_NANONIC1",
       "SetID": "cceobco",
       "Name": "Nanonic I",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -2582,8 +2582,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:09:59.4663938+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:00.0716046+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:12.9236849+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:59.4664192+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:11.8755428+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:00.0716322+00:00"
 }

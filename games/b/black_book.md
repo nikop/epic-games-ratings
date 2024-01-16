@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,557 |
-| Student | 22.00% | ~14,836 |
+| Initiation | 29.00% | ~19,558 |
+| Student | 22.00% | ~14,837 |
 | Knower | 16.00% | ~10,790 |
 | Listener | 15.00% | ~10,116 |
-| Aspen Tree | 14.00% | ~9,441 |
-| Healer | 14.00% | ~9,441 |
+| Aspen Tree | 14.00% | ~9,442 |
+| Healer | 14.00% | ~9,442 |
 | Scientist | 12.00% | ~8,093 |
 | Soldier | 12.00% | ~8,093 |
 | Cow Level | 11.00% | ~7,418 |
 | Old Friend | 10.00% | ~6,744 |
 | Herbalist | 10.00% | ~6,744 |
 | Water | 10.00% | ~6,744 |
-| New Spirits | 9.00% | ~6,069 |
-| Voipel | 9.00% | ~6,069 |
-| Collector | 9.00% | ~6,069 |
-| Wolf | 9.00% | ~6,069 |
-| Black Mage | 9.00% | ~6,069 |
+| New Spirits | 9.00% | ~6,070 |
+| Voipel | 9.00% | ~6,070 |
+| Collector | 9.00% | ~6,070 |
+| Wolf | 9.00% | ~6,070 |
+| Black Mage | 9.00% | ~6,070 |
 | Card Player | 8.00% | ~5,395 |
 | Dead Friend | 8.00% | ~5,395 |
 | Pine Tree | 8.00% | ~5,395 |
@@ -57,8 +57,8 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,349 |
 | Word Master | 0.20% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,438 (Ranked 118)  
-Completed: 74 (0.11%) (Ranked 310)  
+Progressed: 67,440 (Ranked 118)  
+Completed: 74 (0.11%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -200,7 +200,7 @@ Completed: 74 (0.11%) (Ranked 310)
 | 2024-01-13 | 66,870 | 72 |
 | 2024-01-14 | 67,123 | 73 |
 | 2024-01-15 | 67,288 | 73 |
-| 2024-01-16 | 67,438 | 74 |
+| 2024-01-16 | 67,440 | 74 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

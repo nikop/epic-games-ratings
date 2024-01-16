@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,741 |
 | The Hunt | 3.00% | ~5,056 |
 | Ravenous | 3.00% | ~5,056 |
-| Weeper | 2.00% | ~3,370 |
+| Weeper | 2.00% | ~3,371 |
 | Harmless | 1.00% | ~1,685 |
 | Silenced Whispers | 1.00% | ~1,685 |
 | Devourer | 1.00% | ~1,685 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,524 (Ranked 85)  
-Completed: 461 (0.27%) (Ranked 266)  
+Progressed: 168,530 (Ranked 85)  
+Completed: 461 (0.27%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,16 +301,16 @@ Completed: 461 (0.27%) (Ranked 266)
 | 2024-01-13 | 168,053 | 457 |
 | 2024-01-14 | 168,234 | 458 |
 | 2024-01-15 | 168,384 | 461 |
-| 2024-01-16 | 168,524 | 461 |
+| 2024-01-16 | 168,530 | 461 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 433)  
-Sum: 461 (Ranked 344)  
+Sum: 463 (Ranked 344)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 63 |
+| This game has Challenging Combat | 63 |
 | This game has Unique Visuals | 62 |
-| This game has Challenging Combat | 61 |
 | This game is Extremely Fun | 61 |
 | This game has Quickly Understood Controls | 59 |
 | This game has Amazing Storytelling | 59 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 89
 | 2024-01-12 | 4.59 | - | 62 | 459 |
 | 2024-01-13 | 4.59 | - | 63 | 460 |
 | 2024-01-14 | 4.59 | - | 63 | 461 |
-| 2024-01-16 | 4.60 | - | 63 | 461 |
+| 2024-01-16 | 4.60 | - | 63 | 463 |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -4035,9 +4035,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33720,
+  "EOS_Progressed": 33723,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25710,6 +25710,11 @@
       "Time": "2024-01-16T20:09:20.6408457+00:00",
       "NumProgressed": 33720,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-16T21:09:04.5934534+00:00",
+      "NumProgressed": 33723,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26025,7 +26030,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3709
+      "UsersEstimate": 3710
     },
     {
       "ID": "Summoner",
@@ -26049,7 +26054,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "Teamwork",
@@ -26128,7 +26133,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33720,
+      "Progressed": 33723,
       "Completed": 71
     }
   ],
@@ -26136,8 +26141,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-16T09:57:10.644261+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:09:20.6408452+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:09:04.5934532+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:27.9397288+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:20.640967+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:27.4540785+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:04.5935785+00:00"
 }

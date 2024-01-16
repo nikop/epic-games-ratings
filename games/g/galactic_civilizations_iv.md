@@ -53,6 +53,7 @@ Number of Ratings: 429  (23.09.2022)
 | Relic Hoarder | 0.20% | ~15 |
 | Recruit a Leader | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
+| Solid Economy | 0.10% | ~8 |
 | Ask Not What Your Empire Can Do For You | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
@@ -66,7 +67,6 @@ Number of Ratings: 429  (23.09.2022)
 | Recruit a Dozen Leaders | 0.10% | ~8 |
 | Commodity Selling Guru | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
-| Solid Economy | 0.00% | ~0 |
 | Commodity Guru | 0.00% | ~0 |
 | Yor Dead Iconians | 0.00% | ~0 |
 | Against the Tide | 0.00% | ~0 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,557 (Ranked 195)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,9 +351,9 @@ Completed: 0 (0.00%) (Ranked 403)
 | 2024-01-15 | 7,556 | 0 |
 | 2024-01-16 | 7,557 | 0 |
 ## Awards
-Max (Diverse Characters): 99  (Ranked 383)  
+Max (Diverse Characters): 99  (Ranked 384)  
 Sum: 701 (Ranked 313)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |

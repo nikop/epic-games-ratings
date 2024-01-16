@@ -3,10 +3,10 @@
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
   "Ranking_Rating": 471,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -1341,9 +1341,9 @@
       "ID": "id_51",
       "SetID": "bk9jib6",
       "Name": "The fourth triplet",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "id_52",
@@ -1453,9 +1453,9 @@
       "ID": "id_7",
       "SetID": "bk9jib6",
       "Name": "Ladies\u0027 man",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "id_8",
@@ -1486,8 +1486,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:22.7534722+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:22.5160431+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:26.4698722+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:22.7535149+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:25.4911156+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:22.5160818+00:00"
 }

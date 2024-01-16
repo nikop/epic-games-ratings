@@ -3,10 +3,10 @@
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
   "Ranking_Rating": 884,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 418,
-  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -571,7 +571,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 258,
+  "EOS_Progressed": 259,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -1601,6 +1601,11 @@
       "Time": "2024-01-16T17:06:03.8739524+00:00",
       "NumProgressed": 258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T21:05:59.265919+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1627,9 +1632,9 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "100HEALS",
@@ -1677,7 +1682,7 @@
       "Name": "Peddler",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1685,7 +1690,7 @@
       "Name": "Weaponsmith",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "300QUESTS",
@@ -1701,7 +1706,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "30POTIONS",
@@ -1739,9 +1744,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ALLCOMBAT",
@@ -1829,7 +1834,7 @@
       "Name": "Cleric",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CHOSEMOR",
@@ -1877,7 +1882,7 @@
       "Name": "Commander",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "FINDBILLY",
@@ -1893,15 +1898,15 @@
       "Name": "Civilian",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "FINDMAP",
@@ -1941,7 +1946,7 @@
       "Name": "Pass A38",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "KILL200MONSTER",
@@ -2012,15 +2017,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 258,
+      "Progressed": 259,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:06:22.3612792+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:59.2659186+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:00:09.9778727+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:06:22.3613236+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:00:08.3501155+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:59.265952+00:00"
 }

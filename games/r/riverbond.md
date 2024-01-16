@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,022 |
-| Now You're Talking | 62.00% | ~332,162 |
-| Steel Yourself | 62.00% | ~332,162 |
-| Window Dressing | 50.00% | ~267,872 |
-| Trigger Happy | 46.00% | ~246,443 |
-| Riverborn | 45.00% | ~241,085 |
-| Starry Eyed | 34.00% | ~182,153 |
-| Poking Around | 34.00% | ~182,153 |
+| First Step | 70.00% | ~375,023 |
+| Now You're Talking | 62.00% | ~332,163 |
+| Steel Yourself | 62.00% | ~332,163 |
+| Window Dressing | 50.00% | ~267,874 |
+| Trigger Happy | 46.00% | ~246,444 |
+| Riverborn | 45.00% | ~241,086 |
+| Starry Eyed | 34.00% | ~182,154 |
+| Poking Around | 34.00% | ~182,154 |
 | Talk of the Town | 24.00% | ~128,579 |
-| AAARR! | 23.00% | ~123,221 |
-| Hello Darkness | 23.00% | ~123,221 |
+| AAARR! | 23.00% | ~123,222 |
+| Hello Darkness | 23.00% | ~123,222 |
 | Wind At Our Backs | 22.00% | ~117,864 |
 | To the Beat | 20.00% | ~107,149 |
 | Sunny Shores | 17.00% | ~91,077 |
-| Sunday Best | 16.00% | ~85,719 |
+| Sunday Best | 16.00% | ~85,720 |
 | To Victory! | 15.00% | ~80,362 |
-| Two of a Kind | 14.00% | ~75,004 |
+| Two of a Kind | 14.00% | ~75,005 |
 | Keep On Trucking | 13.00% | ~69,647 |
-| Going on an Adventure | 12.00% | ~64,289 |
+| Going on an Adventure | 12.00% | ~64,290 |
 | Make Peace, Not War | 11.00% | ~58,932 |
-| Walking The Line | 10.00% | ~53,574 |
-| Not So Cute Anymore | 10.00% | ~53,574 |
+| Walking The Line | 10.00% | ~53,575 |
+| Not So Cute Anymore | 10.00% | ~53,575 |
 | Road Less Travelled | 9.00% | ~48,217 |
 | Lost and Found | 9.00% | ~48,217 |
 | Under the Radar | 8.00% | ~42,860 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,607 |
 | Point Taken | 0.20% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,745 (Ranked 37)  
-Completed: 523 (0.10%) (Ranked 315)  
+Progressed: 535,747 (Ranked 37)  
+Completed: 523 (0.10%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,10 +335,10 @@ Completed: 523 (0.10%) (Ranked 315)
 | 2024-01-13 | 535,539 | 522 |
 | 2024-01-14 | 535,647 | 522 |
 | 2024-01-15 | 535,692 | 523 |
-| 2024-01-16 | 535,745 | 523 |
+| 2024-01-16 | 535,747 | 523 |
 ## Awards
-Max (Relaxing): 21  (Ranked 576)  
-Sum: 21 (Ranked 578)  
+Max (Relaxing): 21  (Ranked 575)  
+Sum: 21 (Ranked 577)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |

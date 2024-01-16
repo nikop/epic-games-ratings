@@ -17,8 +17,8 @@ Number of Ratings: 22  (23.09.2022)
 | Dirty Dozen | 21.00% | ~108 |
 | Fan Service | 19.00% | ~97 |
 | Lion Tamer | 18.00% | ~92 |
+| King of District 1 | 17.00% | ~87 |
 | Amazing! | 17.00% | ~87 |
-| King of District 1 | 16.00% | ~82 |
 | Lucky Day | 15.00% | ~77 |
 | Bar Brawler | 15.00% | ~77 |
 | Flawless Presentation | 15.00% | ~77 |
@@ -58,7 +58,7 @@ Number of Ratings: 22  (23.09.2022)
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 513 (Ranked 356)  
-Completed: 1 (0.19%) (Ranked 284)  
+Completed: 1 (0.19%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

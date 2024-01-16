@@ -4,8 +4,8 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 443,
-  "EOS_Completed": 106,
+  "EOS_Completed": 107,
   "EOS_NewPlayers": 16,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 23.93,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 24.15,
   "EosHistory": [
     {
       "Time": "2023-07-22T13:07:04.2774208+00:00",
@@ -2364,6 +2364,11 @@
       "Time": "2024-01-16T17:05:18.0448412+00:00",
       "NumProgressed": 443,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-16T21:05:13.8257722+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 107
     }
   ],
   "AchievementsAdded": "2023-07-04T15:00:48.8668077+00:00",
@@ -2390,9 +2395,9 @@
       "ID": "Compiling",
       "SetID": "7jbi7el",
       "Name": "Job completed!",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "FallDeath",
@@ -2488,13 +2493,13 @@
       "ID": "7jbi7el",
       "IsBase": true,
       "Progressed": 443,
-      "Completed": 106
+      "Completed": 107
     }
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:05:36.8915425+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:13.8257717+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.7874531+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:51.6381492+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:36.8915674+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:52.4669392+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:13.8257938+00:00"
 }

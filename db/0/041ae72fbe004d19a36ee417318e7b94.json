@@ -3,8 +3,8 @@
   "Name": "Winter Survival",
   "ProductSlug": "winter-survival-58df2c",
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-16T02:57:13.7138094+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:17.9168203+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:06:07.1593255+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:17.8874227+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:44.0086913+00:00"
 }

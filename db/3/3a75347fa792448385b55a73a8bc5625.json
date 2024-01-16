@@ -3,11 +3,11 @@
   "Name": "Torque Drift 2",
   "ProductSlug": "torque-drift-2-b08765",
   "Ranking_Rating": 1087,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-02T23:00:00+00:00",
@@ -187,6 +187,6 @@
   "FirstSeenRating": "2023-12-08T05:58:56.9310331+00:00",
   "LastChanged": "2024-01-15T00:00:11.0799782+00:00",
   "LastUpdate_AppInfo": "2024-01-15T13:02:51.2672632+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:34.9691416+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:33.9324612+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:34.819616+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:16.9859718+00:00"
 }

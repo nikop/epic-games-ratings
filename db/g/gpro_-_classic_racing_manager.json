@@ -3,8 +3,8 @@
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 349,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 543,
+  "EOS_Progressed": 545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1254,6 +1254,11 @@
       "Time": "2024-01-14T08:11:35.2409316+00:00",
       "NumProgressed": 543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T21:10:29.4134492+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1265,7 +1270,7 @@
       "Name": "First taste",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1329,7 +1334,7 @@
       "Name": "Newbie",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2560,14 +2565,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 543,
+      "Progressed": 545,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:29.5416496+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:29.4134491+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:55.7013663+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:00:05.0151353+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:29.5418832+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:00:03.2394889+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:29.4136975+00:00"
 }

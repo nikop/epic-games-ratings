@@ -2,9 +2,9 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_Progress": 465,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -744,6 +744,11 @@
       "Time": "2024-01-14T23:09:55.1623764+00:00",
       "NumProgressed": 147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T21:10:02.748652+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -762,9 +767,9 @@
       "ID": "Build_First_Lodge",
       "SetID": "7b9f97e",
       "Name": "Expansion",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 81
     },
     {
       "ID": "Build_First_Room",
@@ -772,7 +777,7 @@
       "Name": "Enough rooms to swing a cat",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -786,9 +791,9 @@
       "ID": "Capture_Own_Tower",
       "SetID": "7b9f97e",
       "Name": "Home Sweet Home",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     },
     {
       "ID": "Cast_First_Spell",
@@ -796,7 +801,7 @@
       "Name": "A kind of Magic",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Circle_Page",
@@ -812,23 +817,23 @@
       "Name": "Artificer\u0027s Apprentice",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Craft_First_Potion",
       "SetID": "7b9f97e",
       "Name": "Alchemist\u0027s Apprentice",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Defeat_Gor",
@@ -908,7 +913,7 @@
       "Name": "Slave to the rhythm",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "First_LevelUp",
@@ -916,15 +921,15 @@
       "Name": "First to the post",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 86
     },
     {
       "ID": "Harvest_First_Plant",
@@ -932,7 +937,7 @@
       "Name": "Harvest Time",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "HeroStory_Elynn",
@@ -962,9 +967,9 @@
       "ID": "HeroStory_Philo",
       "SetID": "7b9f97e",
       "Name": "Philo\u0027s Tale",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "HeroStory_Yngrid",
@@ -980,7 +985,7 @@
       "Name": "Castle Meldec",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Landmark_CryptRevenant",
@@ -1028,7 +1033,7 @@
       "Name": "Sevenkeeps Seat of Kings",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Landmark_TuscariPortal",
@@ -1082,9 +1087,9 @@
       "ID": "MainCampaign_CirclePage_Apprentices",
       "SetID": "7b9f97e",
       "Name": "Mage Teacher",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "MainCampaign_CirclePage_Heroes",
@@ -1188,7 +1193,7 @@
       "Name": "Friend of Sevenkeeps",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Max_Reputation_SilverDriftHollow",
@@ -1234,17 +1239,17 @@
       "ID": "Max_Tower_And_Apprentices",
       "SetID": "7b9f97e",
       "Name": "Magic Academy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "Mine_First_Ore",
       "SetID": "7b9f97e",
       "Name": "Mine!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "Recipes_All_Alchemy",
@@ -1284,7 +1289,7 @@
       "Name": "Get out of here!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Start_Of_A_Joke",
@@ -1315,7 +1320,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 0
     }
   ],
@@ -1323,8 +1328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:02.0820705+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:02.7486519+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:03:00.9075061+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:02.0821283+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:02:39.354847+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:02.7487033+00:00"
 }

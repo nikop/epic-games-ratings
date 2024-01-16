@@ -3,10 +3,10 @@
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
   "Ranking_Rating": 812,
-  "Ranking_Popularity": 116,
+  "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 164,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -2503,9 +2503,9 @@
       "Count": 105
     }
   ],
-  "EOS_Progressed": 49504,
+  "EOS_Progressed": 49505,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -32053,6 +32053,11 @@
       "Time": "2024-01-16T20:04:03.338862+00:00",
       "NumProgressed": 49504,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-01-16T21:03:42.361586+00:00",
+      "NumProgressed": 49505,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 75,
@@ -32096,7 +32101,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 28217
+      "UsersEstimate": 28218
     },
     {
       "ID": "achievements_14",
@@ -32120,7 +32125,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 17326
+      "UsersEstimate": 17327
     },
     {
       "ID": "achievements_19",
@@ -32168,7 +32173,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 29702
+      "UsersEstimate": 29703
     },
     {
       "ID": "achievements_24",
@@ -32176,7 +32181,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 26732
+      "UsersEstimate": 26733
     },
     {
       "ID": "achievements_25",
@@ -32216,7 +32221,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 15841
+      "UsersEstimate": 15842
     },
     {
       "ID": "achievements_3",
@@ -32232,7 +32237,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 15346
+      "UsersEstimate": 15347
     },
     {
       "ID": "achievements_31",
@@ -32248,7 +32253,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16831
+      "UsersEstimate": 16832
     },
     {
       "ID": "achievements_33",
@@ -32360,7 +32365,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     },
     {
       "ID": "achievements_46",
@@ -32368,7 +32373,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 42078
+      "UsersEstimate": 42079
     },
     {
       "ID": "achievements_47",
@@ -32432,7 +32437,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 28217
+      "UsersEstimate": 28218
     },
     {
       "ID": "achievements_54",
@@ -32488,7 +32493,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 16831
+      "UsersEstimate": 16832
     },
     {
       "ID": "achievements_61",
@@ -32640,7 +32645,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 36138
+      "UsersEstimate": 36139
     },
     {
       "ID": "achievements_8",
@@ -32663,15 +32668,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 49504,
+      "Progressed": 49505,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2024-01-15T21:58:11.5355804+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:04:03.3388617+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:03:42.3615857+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:18.2485315+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:47.7491384+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:04:03.3391398+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:47.6423626+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:03:42.3617776+00:00"
 }

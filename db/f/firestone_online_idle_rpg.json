@@ -6,8 +6,8 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 209,
-  "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_Completed": 355,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4536,
+  "EOS_Progressed": 4545,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12747,6 +12747,11 @@
       "Time": "2024-01-16T20:06:04.3099358+00:00",
       "NumProgressed": 4536,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T21:05:41.2356+00:00",
+      "NumProgressed": 4545,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12758,7 +12763,7 @@
       "Name": "Active Member",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ancientknowledge",
@@ -12766,7 +12771,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "angelpower",
@@ -12790,7 +12795,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "beastwarmachines",
@@ -12822,7 +12827,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "conqueror",
@@ -12846,7 +12851,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "doingmypart",
@@ -12854,7 +12859,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "dragonclicker",
@@ -12862,7 +12867,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 682
     },
     {
       "ID": "dragonmaster",
@@ -12870,7 +12875,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "dragonslayer",
@@ -12878,7 +12883,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ebonyjungleliberator",
@@ -12894,7 +12899,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "enchantingskillx5",
@@ -12926,7 +12931,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "exoticmerchant",
@@ -12934,7 +12939,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "fellowshippower",
@@ -12942,7 +12947,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1909
     },
     {
       "ID": "fourleafclover",
@@ -12958,7 +12963,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "fullparty",
@@ -12966,7 +12971,7 @@
       "Name": "Full Party",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1364
     },
     {
       "ID": "gearenchanting",
@@ -12990,7 +12995,7 @@
       "Name": "Guild Power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1045
     },
     {
       "ID": "herewegoagain",
@@ -13006,7 +13011,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "howdoyouturnthison",
@@ -13022,7 +13027,7 @@
       "Name": "Hunter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "inspection",
@@ -13030,7 +13035,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "jewelenchanting",
@@ -13046,7 +13051,7 @@
       "Name": "Legendary",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "lieutenant",
@@ -13054,7 +13059,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "lockandload",
@@ -13078,7 +13083,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "milestonecollector",
@@ -13094,7 +13099,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 682
     },
     {
       "ID": "missionsdedication",
@@ -13110,7 +13115,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "mysteriousrock",
@@ -13118,7 +13123,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "mythicpower",
@@ -13134,7 +13139,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "pokerface",
@@ -13148,9 +13153,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2359
+      "UsersEstimate": 2409
     },
     {
       "ID": "prestigiousx10",
@@ -13158,7 +13163,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 907
+      "UsersEstimate": 909
     },
     {
       "ID": "relicofthepast",
@@ -13166,7 +13171,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "sailor",
@@ -13190,7 +13195,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "silverwoodliberator",
@@ -13206,7 +13211,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "templeofeternals",
@@ -13214,7 +13219,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2540
+      "UsersEstimate": 2545
     },
     {
       "ID": "thealchemist",
@@ -13222,7 +13227,7 @@
       "Name": "The Alchemist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "theexpeditioner",
@@ -13230,7 +13235,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "thefatherofdragons",
@@ -13246,7 +13251,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 818
     },
     {
       "ID": "thepowerofawakening",
@@ -13254,7 +13259,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "theunstoppable",
@@ -13262,7 +13267,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "titanpower",
@@ -13318,7 +13323,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4227
     },
     {
       "ID": "warmachinesarmy",
@@ -13334,7 +13339,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "whatliesbehindthebush",
@@ -13350,14 +13355,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3538
+      "UsersEstimate": 3545
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4536,
+      "Progressed": 4545,
       "Completed": 2
     }
   ],
@@ -13365,8 +13370,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-16T05:57:17.3089904+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:06:04.3099355+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:41.2355996+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:29.9015664+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:06:04.3100622+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:29.580904+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:41.2357107+00:00"
 }

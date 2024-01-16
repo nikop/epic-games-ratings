@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 417,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2024-01-16T12:10:54.8702836+00:00",
       "NumProgressed": 126,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T21:10:17.9735343+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -680,7 +685,7 @@
       "Name": "Cultipedia",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "drowned_sorrows",
@@ -752,7 +757,7 @@
       "Name": "Poor Gracie Ray",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "skipper",
@@ -814,17 +819,17 @@
       "ID": "the_pageant",
       "SetID": "7i36ba9",
       "Name": "The Pageant",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "the_petition",
       "SetID": "7i36ba9",
       "Name": "The Petition",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 95,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "the_price_is_right",
@@ -848,29 +853,29 @@
       "Name": "Time Waster",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "who_is_d",
       "SetID": "7i36ba9",
       "Name": "Who is D?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:17.6337303+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:17.9735341+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9806702+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:05.2530842+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:17.633754+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:06.7395676+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:17.973552+00:00"
 }

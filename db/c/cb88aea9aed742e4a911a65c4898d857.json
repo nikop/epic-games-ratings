@@ -6,7 +6,7 @@
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -383,9 +383,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 11614,
+  "EOS_Progressed": 11615,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5148,6 +5148,11 @@
       "Time": "2024-01-16T20:10:21.5654547+00:00",
       "NumProgressed": 11614,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T21:10:21.3514614+00:00",
+      "NumProgressed": 11615,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5264,15 +5269,15 @@
       "Name": "Pentakill",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "16_TheRise",
       "SetID": "37a94m8",
       "Name": "The Rise",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1742
     },
     {
       "ID": "17_TheExemplar",
@@ -5296,7 +5301,7 @@
       "Name": "Void Wolf",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5416,7 +5421,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5480,7 +5485,7 @@
       "Name": "Iron Judgement",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5679,7 +5684,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11614,
+      "Progressed": 11615,
       "Completed": 1
     }
   ],
@@ -5687,8 +5692,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-16T18:59:08.7286101+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:21.5654542+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:21.3514611+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:29.8728996+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:21.5655269+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:28.582818+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:21.351532+00:00"
 }

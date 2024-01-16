@@ -6,7 +6,7 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -2310,9 +2310,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16920,
+  "EOS_Progressed": 16925,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20250,6 +20250,11 @@
       "Time": "2024-01-16T20:10:31.4476269+00:00",
       "NumProgressed": 16920,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T21:10:31.2426346+00:00",
+      "NumProgressed": 16925,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20747,9 +20752,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
       "SetID": "9201eeb",
       "Name": "Intrepid",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 677
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -20819,9 +20824,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_MIGHTY",
       "SetID": "9201eeb",
       "Name": "Mighty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -21891,9 +21896,9 @@
       "ID": "ACHIEVEMENT_NATION_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greece",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 169
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -23035,9 +23040,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COTHON",
       "SetID": "9201eeb",
       "Name": "Cothon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HELIOPOLIS",
@@ -23124,21 +23129,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16920,
+      "Progressed": 16925,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16920,
+      "Progressed": 16925,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-16T20:02:58.5251439+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:31.4476266+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:31.2426342+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:02:58.5251443+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:31.4486169+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:02:37.0676222+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:31.2436401+00:00"
 }

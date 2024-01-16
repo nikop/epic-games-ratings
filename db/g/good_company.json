@@ -3,11 +3,11 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 693,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5850,
+  "EOS_Progressed": 5851,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5464,6 +5464,11 @@
       "Time": "2024-01-16T20:04:27.9049798+00:00",
       "NumProgressed": 5850,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T21:04:06.4987399+00:00",
+      "NumProgressed": 5851,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5539,7 +5544,7 @@
       "Name": "Level: A Happy Taskforce",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_campaign_progress11",
@@ -5587,7 +5592,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5595,7 +5600,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ach_campaign_progress7",
@@ -5619,7 +5624,7 @@
       "Name": "Level: The Machinery",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_campaign_special1",
@@ -5739,7 +5744,7 @@
       "Name": "Extra Life: Knowledge Cap",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_campaign_special7",
@@ -5755,7 +5760,7 @@
       "Name": "Merry-Go-Around: Debt-Be-Gone",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_campaign_special9",
@@ -5883,7 +5888,7 @@
       "Name": "Entrepreneur",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_frp_many_products5",
@@ -5907,7 +5912,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -5923,7 +5928,7 @@
       "Name": "Data Churn Type IV",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_frp_veryhigh_networth",
@@ -5995,7 +6000,7 @@
       "Name": "Keen Eye",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_prof_goals",
@@ -6067,7 +6072,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ach_trait_overload",
@@ -6082,15 +6087,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5850,
+      "Progressed": 5851,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:04:27.904979+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:04:06.4987395+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.4885671+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:33.8768317+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:04:27.905055+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:31.9088042+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:04:06.4988313+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1104,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 354,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_Completed": 355,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2263,
+  "EOS_Progressed": 2265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8746,6 +8746,11 @@
       "Time": "2024-01-16T20:05:56.5028502+00:00",
       "NumProgressed": 2263,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T21:05:33.1615325+00:00",
+      "NumProgressed": 2265,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8869,7 +8874,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8931,9 +8936,9 @@
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 634
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9060,7 +9065,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2263,
+      "Progressed": 2265,
       "Completed": 1
     }
   ],
@@ -9068,8 +9073,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:05:56.5028498+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:33.1615322+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:46.5841234+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:56.5029073+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:46.9765767+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:33.1615834+00:00"
 }

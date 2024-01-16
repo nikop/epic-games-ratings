@@ -3,10 +3,10 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1176,
+  "EOS_Progressed": 1177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2972,6 +2972,11 @@
       "Time": "2024-01-16T20:09:12.8195374+00:00",
       "NumProgressed": 1176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T21:08:57.3165569+00:00",
+      "NumProgressed": 1177,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2992,7 +2997,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "CareerChamp1",
@@ -3000,7 +3005,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "CareerChamp2",
@@ -3040,7 +3045,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "CollectVehiclesA",
@@ -3104,7 +3109,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "PlayerRankC",
@@ -3128,7 +3133,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "WreckOpponentsBus",
@@ -3143,7 +3148,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1176,
+      "Progressed": 1177,
       "Completed": 0
     }
   ],
@@ -3151,8 +3156,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:09:12.8195369+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:08:57.3165564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:00:18.2339727+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:12.8195571+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:00:16.7724892+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:08:57.316583+00:00"
 }

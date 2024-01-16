@@ -25,17 +25,17 @@
 | For the greater good | 10.00% | ~8 |
 | The champion of the arena | 9.00% | ~7 |
 | Punish the Punisher | 9.00% | ~7 |
+| The End | 9.00% | ~7 |
+| Collector | 8.00% | ~6 |
 | Overplay the rogue | 8.00% | ~6 |
 | Stronger than Gellian steel | 8.00% | ~6 |
-| The End | 8.00% | ~6 |
-| Collector | 6.00% | ~5 |
+| First among Frisians | 6.00% | ~5 |
 | Protect the Healer! | 6.00% | ~5 |
 | Cunning plan | 6.00% | ~5 |
+| Nothing is settled | 6.00% | ~5 |
 | The best apprentice | 5.00% | ~4 |
-| First among Frisians | 5.00% | ~4 |
 | Defeat the bear | 5.00% | ~4 |
 | By own strength | 5.00% | ~4 |
-| Nothing is settled | 5.00% | ~4 |
 | Supplier | 4.00% | ~3 |
 | Deadly strike | 4.00% | ~3 |
 | Do it yourself | 4.00% | ~3 |
@@ -44,9 +44,9 @@
 | The power of persuasion | 3.00% | ~2 |
 | A solo player | 3.00% | ~2 |
 | Happily ever after | 3.00% | ~2 |
+| Master of the Way | 1.00% | ~1 |
 | By someone else's hands | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
-| Master of the Way | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 80 (Ranked 523)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,11 +3,11 @@
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
   "Ranking_Rating": 676,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253524,
+  "EOS_Progressed": 253527,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24272,6 +24272,11 @@
       "Time": "2024-01-16T18:10:53.8263229+00:00",
       "NumProgressed": 253524,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T21:10:15.7573477+00:00",
+      "NumProgressed": 253527,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24299,7 +24304,7 @@
       "Name": "And You\u0027re Okay",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "beAgressive",
@@ -24307,7 +24312,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53240
+      "UsersEstimate": 53241
     },
     {
       "ID": "blotbuster",
@@ -24315,7 +24320,7 @@
       "Name": "Blotbuster",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "breakingOut",
@@ -24331,7 +24336,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15211
+      "UsersEstimate": 15212
     },
     {
       "ID": "canYouDigIt",
@@ -24339,7 +24344,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43099
+      "UsersEstimate": 43100
     },
     {
       "ID": "cantBeKeptDown",
@@ -24379,7 +24384,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45634
+      "UsersEstimate": 45635
     },
     {
       "ID": "curator",
@@ -24459,7 +24464,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134368
+      "UsersEstimate": 134369
     },
     {
       "ID": "indegestible",
@@ -24483,7 +24488,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65916
+      "UsersEstimate": 65917
     },
     {
       "ID": "justABit",
@@ -24515,7 +24520,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35493
+      "UsersEstimate": 35494
     },
     {
       "ID": "myFirstRunbow",
@@ -24523,7 +24528,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126762
+      "UsersEstimate": 126764
     },
     {
       "ID": "notScared",
@@ -24595,7 +24600,7 @@
       "Name": "Thunderstruck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "toasty",
@@ -24603,7 +24608,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32958
+      "UsersEstimate": 32959
     },
     {
       "ID": "treeMedalist",
@@ -24650,7 +24655,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253524,
+      "Progressed": 253527,
       "Completed": 6
     }
   ],
@@ -24658,8 +24663,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:15.2961569+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:15.7573472+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:54.0436964+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:15.2963291+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:54.8822056+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:15.757475+00:00"
 }

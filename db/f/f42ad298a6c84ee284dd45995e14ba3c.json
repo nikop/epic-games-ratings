@@ -3,11 +3,11 @@
   "Name": "Raid Shadow Legends",
   "ProductSlug": "raid-shadow-legends-b70e14",
   "Ranking_Rating": 938,
-  "Ranking_Popularity": 568,
-  "Ranking_PopularitySum": 572,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-07-20T10:30:00+00:00",
@@ -566,9 +566,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -597,6 +596,6 @@
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
   "LastChanged": "2024-01-16T06:57:35.4787983+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.0327391+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:49.0068977+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:50.8741251+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:49.434091+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:40.7827042+00:00"
 }

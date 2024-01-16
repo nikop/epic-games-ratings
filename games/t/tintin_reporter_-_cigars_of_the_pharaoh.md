@@ -25,8 +25,8 @@
 | Long Live Gaipajama! | 9.00% | ~13 |
 | Eyes Shut | 9.00% | ~13 |
 | Barking Dog | 9.00% | ~13 |
+| Tintin, Reporter | 7.00% | ~10 |
 | Mummy Nightmare | 7.00% | ~10 |
-| Tintin, Reporter | 6.00% | ~8 |
 | Mountain Runner | 6.00% | ~8 |
 | Subtlety | 6.00% | ~8 |
 | A Yummy Detour | 4.00% | ~6 |
@@ -43,7 +43,7 @@
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 476)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

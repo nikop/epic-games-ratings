@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 469,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2024-01-14T15:08:59.1878197+00:00",
       "NumProgressed": 350,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T21:09:01.4352193+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -1010,7 +1015,7 @@
       "Name": "Green Thumb",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_GROUSE_HEALED",
@@ -1026,7 +1031,7 @@
       "Name": "Bird Butcherer",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_HEALER_MET",
@@ -1034,7 +1039,7 @@
       "Name": "Found the Healer",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -1090,7 +1095,7 @@
       "Name": "First Shard",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1146,14 +1151,14 @@
       "Name": "Finished Iron Danger",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 4
     }
   ],
@@ -1161,8 +1166,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:09:17.2327077+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:09:01.4352189+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:14.4760106+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:17.9467296+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:17.2327279+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:16.8876229+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:01.4352385+00:00"
 }

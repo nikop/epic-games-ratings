@@ -74,7 +74,7 @@ Rating: 4.34 (Ranked 844)
 | Meat Child | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,248 (Ranked 172)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

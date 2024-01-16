@@ -3,7 +3,7 @@
   "Name": "Chased by Darkness",
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -4173,9 +4173,9 @@
       "ID": "FREEM_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Where Is Houdini?",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 266
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -4253,9 +4253,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 516
+      "UsersEstimate": 531
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4468,8 +4468,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:28.842683+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:28.8343409+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:25.9143715+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:28.8427438+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:24.691483+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:28.8344033+00:00"
 }

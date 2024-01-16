@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_Rating": 1095,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -41,7 +41,7 @@
   "Tags": [],
   "EOS_Progressed": 647,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
@@ -1438,8 +1438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:19.0367152+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:19.5194385+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.6529404+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:42.9646393+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:19.0367396+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:42.5529371+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:19.5194658+00:00"
 }

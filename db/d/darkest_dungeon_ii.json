@@ -6,7 +6,7 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
@@ -10852,18 +10852,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21685,
       "NumberOfAwardsMax": 8026
+    },
+    {
+      "Time": "2024-01-16T20:59:01.785323+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21690,
+      "NumberOfAwardsMax": 8031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21685,
-  "NumberOfAwardsMax": 8026,
+  "NumberOfAwards": 21690,
+  "NumberOfAwardsMax": 8031,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8026
+      "Count": 8031
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10932,9 +10938,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 133002,
+  "EOS_Progressed": 133005,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40162,6 +40168,11 @@
       "Time": "2024-01-16T20:10:15.0471736+00:00",
       "NumProgressed": 133002,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T21:10:15.5227094+00:00",
+      "NumProgressed": 133005,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40773,7 +40784,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40804,21 +40815,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133002,
+      "Progressed": 133005,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7871,
+      "Progressed": 7874,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-16T18:59:54.2045049+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:15.0471731+00:00",
+  "LastChanged": "2024-01-16T20:59:01.7853228+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:15.5227091+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:02.9985261+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:15.0473546+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:01.7853233+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:15.5229074+00:00"
 }

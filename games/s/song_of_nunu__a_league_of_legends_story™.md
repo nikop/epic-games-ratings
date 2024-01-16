@@ -36,7 +36,7 @@ Rating: 4.61 (Ranked 399)
 | It Is Not Over | 36.00% | ~561 |
 | Bullseye | 36.00% | ~561 |
 | On The Rocks | 34.00% | ~530 |
-| Snowy Poro | 32.00% | ~499 |
+| Snowy Poro | 33.00% | ~514 |
 | Never Gets Old | 32.00% | ~499 |
 | Vertical Power | 26.00% | ~405 |
 | One From The Heart | 14.00% | ~218 |
@@ -51,7 +51,7 @@ Rating: 4.61 (Ranked 399)
 | We Are Speed | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,559 (Ranked 267)  
-Completed: 9 (0.58%) (Ranked 216)  
+Completed: 9 (0.58%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,30 +6,30 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,163 |
-| A thief's beginning | 11.00% | ~24,899 |
-| Thorough | 11.00% | ~24,899 |
-| Disguised | 9.00% | ~20,372 |
-| Rescue Takuma | 9.00% | ~20,372 |
-| Rollin' | 9.00% | ~20,372 |
-| Tanuki Time | 9.00% | ~20,372 |
-| Ice Ice Yuki | 8.00% | ~18,109 |
-| Jonin | 8.00% | ~18,109 |
-| Stoned Ox | 8.00% | ~18,109 |
-| Yabu | 8.00% | ~18,109 |
-| Happy Planning | 7.00% | ~15,845 |
-| Mugen Unchained | 7.00% | ~15,845 |
-| Chunin | 6.00% | ~13,581 |
-| Flying Rocks | 6.00% | ~13,581 |
-| Warzone | 6.00% | ~13,581 |
+| Genin | 12.00% | ~27,164 |
+| A thief's beginning | 11.00% | ~24,901 |
+| Thorough | 11.00% | ~24,901 |
+| Disguised | 9.00% | ~20,373 |
+| Rescue Takuma | 9.00% | ~20,373 |
+| Rollin' | 9.00% | ~20,373 |
+| Tanuki Time | 9.00% | ~20,373 |
+| Ice Ice Yuki | 8.00% | ~18,110 |
+| Jonin | 8.00% | ~18,110 |
+| Stoned Ox | 8.00% | ~18,110 |
+| Yabu | 8.00% | ~18,110 |
+| Happy Planning | 7.00% | ~15,846 |
+| Mugen Unchained | 7.00% | ~15,846 |
+| Chunin | 6.00% | ~13,582 |
+| Flying Rocks | 6.00% | ~13,582 |
+| Warzone | 6.00% | ~13,582 |
 | Happy little accidents | 5.00% | ~11,318 |
 | Okkoto | 5.00% | ~11,318 |
 | Prisoners | 5.00% | ~11,318 |
 | Too Early | 5.00% | ~11,318 |
-| Gear up | 4.00% | ~9,054 |
-| Noboru | 4.00% | ~9,054 |
-| Still Rollin' | 4.00% | ~9,054 |
-| Stoned | 4.00% | ~9,054 |
+| Gear up | 4.00% | ~9,055 |
+| Noboru | 4.00% | ~9,055 |
+| Still Rollin' | 4.00% | ~9,055 |
+| Stoned | 4.00% | ~9,055 |
 | It's raining men | 3.00% | ~6,791 |
 | The Old Way | 3.00% | ~6,791 |
 | Atheist Ox | 2.00% | ~4,527 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,358 (Ranked 80)  
-Completed: 107 (0.05%) (Ranked 342)  
+Progressed: 226,369 (Ranked 80)  
+Completed: 107 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 107 (0.05%) (Ranked 342)
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
-| 2024-01-16 | 226,358 | 107 |
+| 2024-01-16 | 226,369 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
 Sum: 4,962 (Ranked 153)  

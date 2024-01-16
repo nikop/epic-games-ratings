@@ -20,8 +20,8 @@ Rating: 4.66 (Ranked 303)
 | Fast Learner | 26.00% | ~346 |
 | The Steel Shadow | 25.00% | ~333 |
 | Breaking Down Barriers | 24.00% | ~320 |
+| The Wicked Twins | 24.00% | ~320 |
 | Right On Time | 23.00% | ~306 |
-| The Wicked Twins | 23.00% | ~306 |
 | Golem Chaser | 23.00% | ~306 |
 | Like Clockwork | 22.00% | ~293 |
 | The Betrayer | 22.00% | ~293 |
@@ -60,7 +60,7 @@ Rating: 4.66 (Ranked 303)
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,332 (Ranked 281)  
-Completed: 8 (0.60%) (Ranked 212)  
+Completed: 8 (0.60%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

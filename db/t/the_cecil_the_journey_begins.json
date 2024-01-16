@@ -3,8 +3,8 @@
   "Name": "The Cecil The Journey Begins",
   "ProductSlug": "the-cecil-the-journey-begins-f9a1f3",
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.6315796+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:46.7136959+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:04:40.2636844+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:46.542251+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:04:18.9345921+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_Rating": 580,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 273,
@@ -5256,9 +5256,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 788
+      "UsersEstimate": 802
     },
     {
       "ID": "MQ02_2",
@@ -5473,8 +5473,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:05:34.677961+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:11.7117072+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:03:28.4747974+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:34.6780094+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:03:06.2335772+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:11.7117469+00:00"
 }

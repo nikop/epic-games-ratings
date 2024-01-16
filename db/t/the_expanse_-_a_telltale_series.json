@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 550,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19080,
+  "EOS_Progressed": 19081,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17564,6 +17564,11 @@
       "Time": "2024-01-16T20:05:54.0179389+00:00",
       "NumProgressed": 19080,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T21:05:30.8254747+00:00",
+      "NumProgressed": 19081,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17680,7 +17685,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2480
+      "UsersEstimate": 2481
     },
     {
       "ID": "22",
@@ -17824,7 +17829,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "33",
@@ -17855,13 +17860,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19080,
+      "Progressed": 19081,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5034,
+      "Progressed": 5035,
       "Completed": 1333
     }
   ],
@@ -17869,8 +17874,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:05:54.0179382+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:30.8254743+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:20.6015681+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:54.0180311+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:19.5023492+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:30.8255845+00:00"
 }

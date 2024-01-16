@@ -6,8 +6,8 @@
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_Completed": 270,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1422,9 +1422,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33598,
+  "EOS_Progressed": 33610,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30682,6 +30682,11 @@
       "Time": "2024-01-16T20:10:08.3114232+00:00",
       "NumProgressed": 33598,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-16T21:10:08.738887+00:00",
+      "NumProgressed": 33610,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30701,7 +30706,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "1017",
@@ -30709,7 +30714,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "1018",
@@ -30725,7 +30730,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "1020",
@@ -30749,7 +30754,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "1023",
@@ -30765,7 +30770,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "1025",
@@ -30781,7 +30786,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "1027",
@@ -30789,7 +30794,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "1028",
@@ -30797,7 +30802,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5712
+      "UsersEstimate": 5714
     },
     {
       "ID": "1029",
@@ -30805,7 +30810,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "1030",
@@ -30813,7 +30818,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6384
+      "UsersEstimate": 6386
     },
     {
       "ID": "1031",
@@ -30821,7 +30826,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "1032",
@@ -30829,7 +30834,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13439
+      "UsersEstimate": 13444
     },
     {
       "ID": "1033",
@@ -30845,7 +30850,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "1035",
@@ -30853,7 +30858,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "1036",
@@ -30861,22 +30866,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33598,
+      "Progressed": 33610,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-16T05:01:49.8697711+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:08.3114228+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:08.7388868+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:17.0057219+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:08.3115727+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:16.98246+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:08.7390306+00:00"
 }

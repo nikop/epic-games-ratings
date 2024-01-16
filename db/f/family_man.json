@@ -3,11 +3,11 @@
   "Name": "Family Man",
   "ProductSlug": "family-man-bbc679",
   "Ranking_Rating": 996,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -96,6 +96,6 @@
   "FirstSeenRating": "2022-08-17T17:01:52.6476845+00:00",
   "LastChanged": "2023-03-31T05:58:22.238126+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.1656367+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:00.1163747+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:00.6735075+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:59.1247433+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:04:38.9507871+00:00"
 }

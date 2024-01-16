@@ -3,8 +3,8 @@
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1256,6 +1256,11 @@
       "Time": "2024-01-16T20:08:38.3094203+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T21:08:23.3912558+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1265,9 +1270,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 56
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1395,7 +1400,7 @@
       "Name": "Scholar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -1467,7 +1472,7 @@
       "Name": "The More the Merrier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -1497,9 +1502,9 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 56
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1523,7 +1528,7 @@
       "Name": "Harbinger",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -1819,7 +1824,7 @@
       "Name": "Press-ganged",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1947,7 +1952,7 @@
       "Name": "The Package",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1955,7 +1960,7 @@
       "Name": "Pilgrimage\u0027s End",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_TheReturnOfTheWyrms",
@@ -1995,7 +2000,7 @@
       "Name": "Merchant",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
@@ -2058,7 +2063,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 0
     }
   ],
@@ -2066,8 +2071,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:08:38.30942+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:08:23.3912554+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:35.0174568+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:53.7885262+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:08:38.3095299+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:54.5495894+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:08:23.3913446+00:00"
 }

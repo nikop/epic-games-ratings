@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -540,17 +540,17 @@
       "ID": "16",
       "SetID": "d37idgg",
       "Name": "Bread and bocaua",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "17",
       "SetID": "d37idgg",
       "Name": "Fanatacism is... poisonous",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "18",
@@ -628,9 +628,9 @@
       "ID": "26",
       "SetID": "d37idgg",
       "Name": "The adventurer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "27",
@@ -676,9 +676,9 @@
       "ID": "31",
       "SetID": "d37idgg",
       "Name": "Pulp! Tales from the Crypt",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "32",
@@ -780,9 +780,9 @@
       "ID": "43",
       "SetID": "d37idgg",
       "Name": "ECO mode",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "44",
@@ -812,9 +812,9 @@
       "ID": "47",
       "SetID": "d37idgg",
       "Name": "A new Hindenburg",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "5",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:05:27.7696508+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:04.7071825+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:27.2394932+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:08.9678057+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:27.7696889+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:08.1429498+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:04.7072166+00:00"
 }

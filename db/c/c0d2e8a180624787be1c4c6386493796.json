@@ -3,10 +3,10 @@
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_Rating": 7,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 208,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -1743,9 +1743,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -1863,9 +1863,9 @@
       "ID": "KR4_ACHIEVEMENT_MADAGASCAR",
       "SetID": "caeik3h",
       "Name": "You Didn\u0027t See Nothing",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "KR4_ACHIEVEMENT_MELTINGFURNACE",
@@ -2126,8 +2126,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:06:35.0219746+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:06:12.0989512+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:59:49.4286119+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:06:35.0220463+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:59:47.4358581+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:06:12.0990273+00:00"
 }

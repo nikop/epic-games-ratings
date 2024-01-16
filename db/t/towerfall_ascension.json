@@ -3,11 +3,11 @@
   "Name": "TowerFall Ascension",
   "ProductSlug": "towerfall-ascension",
   "Ranking_Rating": 220,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2019-12-31T15:00:00+00:00",
@@ -177,6 +177,6 @@
   "FirstSeenRating": "2022-08-10T22:30:46.7475035+00:00",
   "LastChanged": "2023-10-12T01:42:36.4055508+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.641505+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:32.0596746+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:41.434166+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:30.8225538+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:24.4739714+00:00"
 }

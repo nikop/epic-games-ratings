@@ -3,12 +3,12 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1101,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 585,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83728,
+  "EOS_Progressed": 83729,
   "EOS_Completed": 944,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30442,6 +30442,11 @@
       "Time": "2024-01-16T20:08:25.2637126+00:00",
       "NumProgressed": 83728,
       "NumCompleted": 944
+    },
+    {
+      "Time": "2024-01-16T21:06:30.7072042+00:00",
+      "NumProgressed": 83729,
+      "NumCompleted": 944
     }
   ],
   "TotalAchievements": 25,
@@ -30469,7 +30474,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "Audiophile",
@@ -30573,7 +30578,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15908
+      "UsersEstimate": 15909
     },
     {
       "ID": "Nice Try",
@@ -30581,7 +30586,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 13396
+      "UsersEstimate": 13397
     },
     {
       "ID": "Nothing Left to Say",
@@ -30652,7 +30657,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83728,
+      "Progressed": 83729,
       "Completed": 944
     }
   ],
@@ -30660,8 +30665,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:08:25.2637122+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:06:30.7072038+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:59.7391333+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:08:25.2638773+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:58.9191593+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:06:30.7073497+00:00"
 }

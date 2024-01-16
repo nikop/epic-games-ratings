@@ -9,12 +9,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 5.00% | ~846 |
 | Play a Single Player Game | 5.00% | ~846 |
 | Explorer | 4.00% | ~677 |
+| Intrepid | 4.00% | ~677 |
 | Friendly Family | 4.00% | ~677 |
 | Able | 3.00% | ~508 |
 | Architect | 3.00% | ~508 |
 | Enlightened | 3.00% | ~508 |
 | Good | 3.00% | ~508 |
-| Intrepid | 3.00% | ~508 |
 | Just | 3.00% | ~508 |
 | Keystone | 3.00% | ~508 |
 | Learned | 3.00% | ~508 |
@@ -59,6 +59,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens in Babylon | 1.00% | ~169 |
 | Drillmaster | 1.00% | ~169 |
 | Intercessor | 1.00% | ~169 |
+| Mighty | 1.00% | ~169 |
 | Valiant | 1.00% | ~169 |
 | Legendary Cities | 1.00% | ~169 |
 | Just Difficulty | 1.00% | ~169 |
@@ -71,18 +72,17 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mausoleum | 1.00% | ~169 |
 | Musaeum | 1.00% | ~169 |
 | Learn to Play 3 | 1.00% | ~169 |
+| Greece | 1.00% | ~169 |
 | Power to the People | 1.00% | ~169 |
 | Persian Paganism | 1.00% | ~169 |
 | Building Wonders | 1.00% | ~169 |
 | Mythology | 1.00% | ~169 |
 | Points Victory | 1.00% | ~169 |
 | Beloved | 0.90% | ~152 |
-| Mighty | 0.90% | ~152 |
 | Good Difficulty | 0.90% | ~152 |
 | Patrons | 0.90% | ~152 |
 | Statesmen | 0.90% | ~152 |
 | Hittite Iron | 0.90% | ~152 |
-| Greece | 0.90% | ~152 |
 | Win a Single Player Game | 0.90% | ~152 |
 | Victorious | 0.80% | ~135 |
 | Landowners | 0.80% | ~135 |
@@ -155,6 +155,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
+| Cothon | 0.30% | ~51 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
@@ -175,7 +176,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beja Archer | 0.20% | ~34 |
 | Al Khazneh | 0.20% | ~34 |
 | Colosseum | 0.20% | ~34 |
-| Cothon | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,920 (Ranked 169)  
-Completed: 5 (0.03%) (Ranked 359)  
+Progressed: 16,925 (Ranked 169)  
+Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 359)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,920 | 5 |
+| 2024-01-16 | 16,925 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,933 (Ranked 223)  

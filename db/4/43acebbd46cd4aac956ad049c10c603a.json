@@ -6,8 +6,8 @@
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 1427,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4228,9 +4228,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 528
     },
     {
       "ID": "BreakTheLoop",
@@ -4324,9 +4324,9 @@
       "ID": "GnothiSeauton",
       "SetID": "1n308hc",
       "Name": "Gnothi Seauton",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 114
     },
     {
       "ID": "GoodCitizen",
@@ -4669,8 +4669,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:05:58.3523671+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:35.0990861+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:51.5911669+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:05:58.3524494+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:51.4081887+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:35.0991421+00:00"
 }

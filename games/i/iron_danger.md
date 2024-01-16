@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 82.00% | ~287 |
-| Found the Healer | 35.00% | ~122 |
+| First Shard | 82.00% | ~288 |
+| Found the Healer | 35.00% | ~123 |
 | Second Shard | 9.00% | ~32 |
 | Champion of Kalevala | 7.00% | ~25 |
 | Death is Merely a Setback | 7.00% | ~25 |
@@ -17,9 +17,9 @@
 | Tastes Like Chicken | 5.00% | ~18 |
 | Fourth Shard | 5.00% | ~18 |
 | Fifth Shard | 4.00% | ~14 |
-| Green Thumb | 3.00% | ~10 |
-| Bird Butcherer | 3.00% | ~10 |
-| Finished Iron Danger | 3.00% | ~10 |
+| Green Thumb | 3.00% | ~11 |
+| Bird Butcherer | 3.00% | ~11 |
+| Finished Iron Danger | 3.00% | ~11 |
 | Mushroom Forager | 2.00% | ~7 |
 | Good Stew | 2.00% | ~7 |
 | Avian Veterinarian | 2.00% | ~7 |
@@ -28,7 +28,7 @@
 | Trolled | 1.00% | ~4 |
 | Troll Hunter | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 350 (Ranked 382)  
+Progressed: 351 (Ranked 382)  
 Completed: 4 (1.14%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,6 +155,7 @@ Completed: 4 (1.14%) (Ranked 167)
 | 2024-01-08 | 348 | 4 |
 | 2024-01-13 | 349 | 4 |
 | 2024-01-14 | 350 | 4 |
+| 2024-01-16 | 351 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

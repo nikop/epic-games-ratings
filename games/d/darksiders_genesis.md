@@ -38,7 +38,7 @@ Number of Ratings: 67  (23.09.2022)
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 678 (Ranked 332)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,9 +73,9 @@ Completed: 0 (0.00%) (Ranked 403)
 | 2024-01-15 | 671 | 0 |
 | 2024-01-16 | 678 | 0 |
 ## Awards
-Max (Great Boss Battles): 45  (Ranked 475)  
+Max (Great Boss Battles): 45  (Ranked 476)  
 Sum: 45 (Ranked 523)  
-Diff (max vs sum): -48  
+Diff (max vs sum): -47  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 45 |

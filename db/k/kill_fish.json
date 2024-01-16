@@ -3,8 +3,8 @@
   "Name": "Kill Fish",
   "ProductSlug": "kill-fish-1c85e9",
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 403,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-03-07T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.4206925+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:00:06.1250758+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:45.8277731+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:00:04.2253822+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:09:28.4854361+00:00"
 }

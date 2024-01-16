@@ -6,8 +6,8 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 329,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_Completed": 330,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6375,
+  "EOS_Progressed": 6376,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13361,6 +13361,11 @@
       "Time": "2024-01-16T19:07:24.4761243+00:00",
       "NumProgressed": 6375,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T21:05:50.1452669+00:00",
+      "NumProgressed": 6376,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13421,7 +13426,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13429,7 +13434,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13437,7 +13442,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -13453,7 +13458,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -13461,7 +13466,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13556,15 +13561,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6375,
+      "Progressed": 6376,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:06:13.1155103+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:05:50.1452664+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:00:19.2309202+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:06:13.115592+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:00:17.9105611+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:05:50.1453504+00:00"
 }

@@ -1,24 +1,24 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 875)  
+Rating: 4.31 (Ranked 874)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~161,947 |
-| Doubled Pawn | 57.00% | ~130,014 |
-| Check | 56.00% | ~127,733 |
-| Absolute pin | 47.00% | ~107,205 |
-| Promotion | 31.00% | ~70,709 |
-| Checkmate | 30.00% | ~68,428 |
-| O-O | 24.00% | ~54,743 |
-| Spanish Bishop | 21.00% | ~47,900 |
-| Queen Sacrifice | 20.00% | ~45,619 |
-| Stalemate | 18.00% | ~41,057 |
-| O-O-O | 13.00% | ~29,652 |
-| Octopus | 13.00% | ~29,652 |
-| Stranger Danger | 12.00% | ~27,371 |
-| En Passant | 9.00% | ~20,529 |
+| Chop Wood | 71.00% | ~161,956 |
+| Doubled Pawn | 57.00% | ~130,021 |
+| Check | 56.00% | ~127,740 |
+| Absolute pin | 47.00% | ~107,210 |
+| Promotion | 31.00% | ~70,713 |
+| Checkmate | 30.00% | ~68,432 |
+| O-O | 24.00% | ~54,746 |
+| Spanish Bishop | 21.00% | ~47,902 |
+| Queen Sacrifice | 20.00% | ~45,621 |
+| Stalemate | 18.00% | ~41,059 |
+| O-O-O | 13.00% | ~29,654 |
+| Octopus | 13.00% | ~29,654 |
+| Stranger Danger | 12.00% | ~27,373 |
+| En Passant | 9.00% | ~20,530 |
 | Double Check | 7.00% | ~15,967 |
 | Family Fork | 6.00% | ~13,686 |
 | Piece Collector | 6.00% | ~13,686 |
@@ -44,8 +44,8 @@ Rating: 4.31 (Ranked 875)
 | Tournament Master | 0.10% | ~228 |
 | Tournament Pro | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,095 (Ranked 79)  
-Completed: 2 (0.00%) (Ranked 403)  
+Progressed: 228,107 (Ranked 79)  
+Completed: 2 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 2 (0.00%) (Ranked 403)
 | 2024-01-13 | 227,615 | 2 |
 | 2024-01-14 | 227,836 | 2 |
 | 2024-01-15 | 227,980 | 2 |
-| 2024-01-16 | 228,095 | 2 |
+| 2024-01-16 | 228,107 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,17 +6,17 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,866 |
+| Level: Returning Home | 49.00% | ~2,867 |
 | Returning Home: Quick Learner | 26.00% | ~1,521 |
 | Level: Charlie's Circuits | 22.00% | ~1,287 |
-| Level: Rising Markets | 9.00% | ~526 |
+| Level: Rising Markets | 9.00% | ~527 |
 | Peddler | 8.00% | ~468 |
 | Level: Extra Life | 7.00% | ~410 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~410 |
 | Data Churn Type I | 7.00% | ~410 |
 | Millionaire | 6.00% | ~351 |
-| Data Churn Type II | 5.00% | ~292 |
-| Speedy | 5.00% | ~292 |
+| Data Churn Type II | 5.00% | ~293 |
+| Speedy | 5.00% | ~293 |
 | Extra Life: Wish Granted | 4.00% | ~234 |
 | High Five! | 4.00% | ~234 |
 | Modular Progress | 4.00% | ~234 |
@@ -35,13 +35,13 @@ Number of Ratings: 75  (23.09.2022)
 | Module Maniac | 2.00% | ~117 |
 | Overproducer | 2.00% | ~117 |
 | Natural Talent | 2.00% | ~117 |
-| Level: A Happy Taskforce | 1.00% | ~58 |
-| Level: The Machinery | 1.00% | ~58 |
-| Extra Life: Knowledge Cap | 1.00% | ~58 |
-| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~58 |
-| Entrepreneur | 1.00% | ~58 |
-| Data Churn Type IV | 1.00% | ~58 |
-| Keen Eye | 1.00% | ~58 |
+| Level: A Happy Taskforce | 1.00% | ~59 |
+| Level: The Machinery | 1.00% | ~59 |
+| Extra Life: Knowledge Cap | 1.00% | ~59 |
+| Merry-Go-Around: Debt-Be-Gone | 1.00% | ~59 |
+| Entrepreneur | 1.00% | ~59 |
+| Data Churn Type IV | 1.00% | ~59 |
+| Keen Eye | 1.00% | ~59 |
 | Level: Topple The Top | 0.90% | ~53 |
 | Bet On Bots: Safety First | 0.90% | ~53 |
 | Tycoon | 0.90% | ~53 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,850 (Ranked 204)  
-Completed: 1 (0.02%) (Ranked 367)  
+Progressed: 5,851 (Ranked 204)  
+Completed: 1 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -348,7 +348,7 @@ Completed: 1 (0.02%) (Ranked 367)
 | 2024-01-13 | 5,834 | 1 |
 | 2024-01-14 | 5,839 | 1 |
 | 2024-01-15 | 5,845 | 1 |
-| 2024-01-16 | 5,850 | 1 |
+| 2024-01-16 | 5,851 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

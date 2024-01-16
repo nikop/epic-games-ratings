@@ -15,7 +15,7 @@ Rating: 4.58 (Ranked 471)
 | Well-to-do | 33.00% | ~67 |
 | Samaritan | 30.00% | ~61 |
 | The merciful one | 29.00% | ~59 |
-| Ladies' man | 28.00% | ~57 |
+| Ladies' man | 29.00% | ~59 |
 | Idiot | 24.00% | ~49 |
 | Ferocious wild boars | 23.00% | ~47 |
 | Beast slayer | 21.00% | ~43 |
@@ -23,9 +23,9 @@ Rating: 4.58 (Ranked 471)
 | Ogre friend | 20.00% | ~41 |
 | Archaeologist | 19.00% | ~39 |
 | Little hero | 18.00% | ~37 |
+| The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
-| The fourth triplet | 17.00% | ~35 |
 | Fence | 16.00% | ~32 |
 | Wise man | 15.00% | ~30 |
 | Ghost hunter | 15.00% | ~30 |
@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 471)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 433)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1694,9 +1694,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139419,
+  "EOS_Progressed": 139422,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 969,
+  "EOS_NewPlayers": 963,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28794,6 +28794,11 @@
       "Time": "2024-01-16T20:09:03.2090339+00:00",
       "NumProgressed": 139419,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-16T21:08:47.8556478+00:00",
+      "NumProgressed": 139422,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28837,7 +28842,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25095
+      "UsersEstimate": 25096
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28861,7 +28866,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32066
+      "UsersEstimate": 32067
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28885,7 +28890,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39037
+      "UsersEstimate": 39038
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28909,7 +28914,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22307
+      "UsersEstimate": 22308
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -28933,7 +28938,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18124
+      "UsersEstimate": 18125
     },
     {
       "ID": "ACH_COP_STAR",
@@ -29124,15 +29129,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139419,
+      "Progressed": 139422,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-16T19:58:51.2592543+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:09:03.2090334+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:08:47.8556476+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:51.2592548+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:09:03.2092071+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:51.0353589+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:08:47.8558224+00:00"
 }

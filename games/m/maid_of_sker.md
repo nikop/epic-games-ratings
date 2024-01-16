@@ -36,7 +36,7 @@
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 303 (Ranked 404)  
-Completed: 0 (0.00%) (Ranked 403)  
+Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

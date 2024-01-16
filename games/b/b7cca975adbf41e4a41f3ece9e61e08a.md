@@ -7,7 +7,7 @@ Rating: 4.70 (Ranked 220)
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 88.00% | ~16,469 |
 | I Challenge You To Save More Money! | 81.00% | ~15,159 |
-| I Love How Tough You Are | 65.00% | ~12,165 |
+| I Love How Tough You Are | 66.00% | ~12,352 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,042 |
 | What I Want Is You | 53.00% | ~9,919 |
 | To Be Or Not To Be | 50.00% | ~9,358 |

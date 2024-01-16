@@ -30,19 +30,19 @@
 | Blessed antennas | 15.00% | ~14 |
 | The bully | 15.00% | ~14 |
 | Pulp! The Beyond | 14.00% | ~13 |
+| Bread and bocaua | 13.00% | ~12 |
+| Fanatacism is... poisonous | 13.00% | ~12 |
 | The beast in the Oval Office | 12.00% | ~11 |
 | Blood Red Island | 12.00% | ~11 |
-| Bread and bocaua | 12.00% | ~11 |
-| Fanatacism is... poisonous | 12.00% | ~11 |
+| The adventurer | 12.00% | ~11 |
 | Pulp! True Adventures | 12.00% | ~11 |
-| The adventurer | 11.00% | ~10 |
+| ECO mode | 11.00% | ~10 |
 | America had no Faith | 11.00% | ~10 |
 | The scholar | 10.00% | ~9 |
 | The barbarian invasions | 10.00% | ~9 |
-| ECO mode | 10.00% | ~9 |
 | Vaccine fans | 9.00% | ~8 |
-| A new Hindenburg | 7.00% | ~6 |
-| Pulp! Tales from the Crypt | 5.00% | ~5 |
+| A new Hindenburg | 8.00% | ~7 |
+| Pulp! Tales from the Crypt | 7.00% | ~6 |
 | Thirst for Oleum | 4.00% | ~4 |
 | Pulp! Weird Science | 3.00% | ~3 |
 | Pulp! Heart Throbs | 3.00% | ~3 |

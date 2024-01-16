@@ -3,7 +3,7 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 359,
+  "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2993,
+  "EOS_Progressed": 2995,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8124,6 +8124,11 @@
       "Time": "2024-01-16T20:10:27.7641567+00:00",
       "NumProgressed": 2993,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T21:10:27.7143382+00:00",
+      "NumProgressed": 2995,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8240,7 +8245,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_22",
@@ -8352,7 +8357,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_35",
@@ -8360,7 +8365,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2576
     },
     {
       "ID": "achievement_36",
@@ -8376,7 +8381,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "achievement_38",
@@ -8408,7 +8413,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "achievement_41",
@@ -8440,7 +8445,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "achievement_45",
@@ -8639,13 +8644,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2993,
+      "Progressed": 2995,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2993,
+      "Progressed": 2995,
       "Completed": 1
     }
   ],
@@ -8653,8 +8658,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:27.7641563+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:27.7143378+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:58:27.2012791+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:27.7642404+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:58:26.139203+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:27.7144371+00:00"
 }

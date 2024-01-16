@@ -6,9 +6,9 @@
   "Ranking_Popularity": 139,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3928,9 +3928,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243076,
+  "EOS_Progressed": 243077,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32058,6 +32058,11 @@
       "Time": "2024-01-16T20:10:30.7455184+00:00",
       "NumProgressed": 243076,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-16T21:10:30.5285305+00:00",
+      "NumProgressed": 243077,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -32603,9 +32608,9 @@
       "ID": "KILLSPITTER",
       "SetID": "5l8oe0h",
       "Name": "Shootout",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1945
+      "UsersEstimate": 2188
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -33172,13 +33177,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243076,
+      "Progressed": 243077,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4556,
+      "Progressed": 4557,
       "Completed": 428
     }
   ],
@@ -33186,8 +33191,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-15T23:57:18.1179809+00:00",
-  "LastChanged_Achievements": "2024-01-16T20:10:30.745518+00:00",
+  "LastChanged_Achievements": "2024-01-16T21:10:30.5285302+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:57:54.2991042+00:00",
-  "LastUpdate_Achievements": "2024-01-16T20:10:30.7457842+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:57:55.0542856+00:00",
+  "LastUpdate_Achievements": "2024-01-16T21:10:30.5288168+00:00"
 }

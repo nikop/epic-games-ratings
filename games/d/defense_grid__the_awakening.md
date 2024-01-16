@@ -95,7 +95,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 494,231 (Ranked 43)  
-Completed: 5 (0.00%) (Ranked 403)  
+Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
