@@ -91,6 +91,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.80% | ~135 |
 | Via Recta Souk | 0.80% | ~135 |
 | Economic Reform | 0.80% | ~135 |
+| Military Prestige | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
 | Legalism | 0.80% | ~135 |
 | Legionary | 0.80% | ~135 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.70% | ~118 |
 | Assyrian Paganism | 0.70% | ~118 |
 | Industrial Progress | 0.70% | ~118 |
-| Military Prestige | 0.70% | ~118 |
 | Cimmerian Archer | 0.70% | ~118 |
 | Ambition Victory | 0.70% | ~118 |
 | Kushite Pyramids | 0.70% | ~118 |
@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.60% | ~102 |
 | Strong Difficulty | 0.60% | ~102 |
 | Hunters | 0.60% | ~102 |
+| Adur Burzen-Mihr | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
 | Gnosticism | 0.60% | ~102 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.60% | ~102 |
 | Clerics | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
-| Adur Burzen-Mihr | 0.50% | ~85 |
 | Carthage | 0.50% | ~85 |
 | Rome | 0.50% | ~85 |
 | Hittite Paganism | 0.50% | ~85 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,926 (Ranked 169)  
+Progressed: 16,928 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,926 | 5 |
+| 2024-01-16 | 16,928 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,933 (Ranked 223)  

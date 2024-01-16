@@ -2,10 +2,10 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2034,6 +2034,11 @@
       "Time": "2024-01-16T19:04:42.1119287+00:00",
       "NumProgressed": 524,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T23:03:56.8796343+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2046,7 +2051,7 @@
       "Name": "Sound",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -2086,7 +2091,7 @@
       "Name": "Arsenal",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -2094,7 +2099,7 @@
       "Name": "Armory",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -2116,9 +2121,9 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 268
     },
     {
       "ID": "AC_BOSS_01",
@@ -2190,7 +2195,7 @@
       "Name": "Corpse",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "AC_DEATH_2",
@@ -2238,7 +2243,7 @@
       "Name": "Excursion",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2260,9 +2265,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 158
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2324,9 +2329,9 @@
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2381,14 +2386,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:05:10.3243557+00:00",
-  "LastUpdate_AppInfo": "2024-01-09T22:56:59.4542445+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:00:30.9477556+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:05:10.3243897+00:00"
+  "LastChanged_Achievements": "2024-01-16T23:03:56.879634+00:00",
+  "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
+  "LastUpdate_Ratings": "2024-01-16T22:59:13.5064513+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:03:56.8796697+00:00"
 }

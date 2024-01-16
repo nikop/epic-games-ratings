@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -2965,9 +2965,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 150
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2981,9 +2981,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 72
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -3012,8 +3012,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:07:48.6943142+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:05:52.5343346+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.7712536+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:03:05.9731778+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:07:48.6943354+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:00:10.4761853+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:05:52.5343571+00:00"
 }

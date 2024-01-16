@@ -12,12 +12,12 @@ Rating: 4.22 (Ranked 955)
 | Get a Grip | 23.00% | ~5,167 |
 | Chew 'Em Up | 21.00% | ~4,718 |
 | Reforged | 20.00% | ~4,493 |
-| Float Like A Butterfly | 19.00% | ~4,268 |
+| Float Like A Butterfly | 19.00% | ~4,269 |
 | If the SHU Fits... | 18.00% | ~4,044 |
 | Workplace Hazard | 17.00% | ~3,819 |
 | Without A Paddle | 15.00% | ~3,370 |
-| In the Pipe, Five by Five | 13.00% | ~2,920 |
-| Crash Site | 13.00% | ~2,920 |
+| In the Pipe, Five by Five | 13.00% | ~2,921 |
+| Crash Site | 13.00% | ~2,921 |
 | Two Heads Are Better Than One | 12.00% | ~2,696 |
 | Power Up | 12.00% | ~2,696 |
 | Giving Back | 11.00% | ~2,471 |
@@ -28,7 +28,7 @@ Rating: 4.22 (Ranked 955)
 | I Do Belong Here | 8.00% | ~1,797 |
 | Keep Fighting | 8.00% | ~831 |
 | The Commonality | 6.00% | ~1,348 |
-| It's Time | 6.00% | ~623 |
+| It's Time | 6.00% | ~624 |
 | In Striking Distance | 5.00% | ~1,123 |
 | One Last Job | 3.00% | ~312 |
 | Mugshot | 2.00% | ~449 |
@@ -53,8 +53,8 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,465 (Ranked 151)  
-Completed: 82 (0.37%) (Ranked 248)  
+Progressed: 22,467 (Ranked 151)  
+Completed: 82 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,7 +316,7 @@ Completed: 82 (0.37%) (Ranked 248)
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
-| 2024-01-16 | 22,465 | 82 |
+| 2024-01-16 | 22,467 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 345)  
 Sum: 656 (Ranked 318)  

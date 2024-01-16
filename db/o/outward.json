@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4793,
+  "EOS_Progressed": 4794,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8439,6 +8439,11 @@
       "Time": "2024-01-16T20:04:19.9919016+00:00",
       "NumProgressed": 4793,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T23:04:06.3125807+00:00",
+      "NumProgressed": 4794,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8490,7 +8495,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     },
     {
       "ID": "CrowdPleaser",
@@ -8658,7 +8663,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8722,7 +8727,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "TheStuffOfLegends",
@@ -8770,7 +8775,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8785,15 +8790,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4793,
+      "Progressed": 4794,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:05:23.2486849+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:04:06.3125803+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:04:02.145679+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:05:23.248748+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:03:08.0153356+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:04:06.3126499+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-08-17T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1587,10 +1587,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 990,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2024-01-16T23:00:11.7708363+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 991,
+      "NumberOfAwardsMax": 117
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 990,
+  "NumberOfAwards": 991,
   "NumberOfAwardsMax": 117,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1640,7 +1646,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 84
+      "Count": 85
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1678,8 +1684,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2024-01-14T20:00:13.7205352+00:00",
+  "LastChanged": "2024-01-16T23:00:11.7708361+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:01.7372156+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:03:07.8581863+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:05:18.8774369+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:00:11.7708366+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:04:02.8764669+00:00"
 }

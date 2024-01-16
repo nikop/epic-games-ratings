@@ -14,8 +14,8 @@ Rating: 4.59 (Ranked 452)
 | Champagne Spray | 30.00% | ~1,087 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,014 |
 | Quick Pit Stop | 23.00% | ~833 |
+| Restored and Ready | 21.00% | ~761 |
 | I Want One Too! | 21.00% | ~761 |
-| Restored and Ready | 20.00% | ~725 |
 | Legendary!!! | 20.00% | ~725 |
 | Go-Faster Stripes | 18.00% | ~652 |
 | I'm Here Too! | 15.00% | ~543 |

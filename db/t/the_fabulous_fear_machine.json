@@ -2,9 +2,9 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 470,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-09-21T16:04:08.4521224+00:00",
@@ -474,6 +474,11 @@
       "Time": "2024-01-12T19:07:38.1696174+00:00",
       "NumProgressed": 92,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T23:05:08.7669679+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -572,7 +577,7 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -588,7 +593,7 @@
       "ID": "21",
       "SetID": "d37idgg",
       "Name": "Et in arcadia ego",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -676,7 +681,7 @@
       "ID": "31",
       "SetID": "d37idgg",
       "Name": "Pulp! Tales from the Crypt",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -708,7 +713,7 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -724,7 +729,7 @@
       "ID": "37",
       "SetID": "d37idgg",
       "Name": "Pulp! Adventures into the Unknown",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -861,14 +866,14 @@
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:06:49.0160606+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:05:08.7669675+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:27.2394932+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:00:07.803703+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:06:49.0160895+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:58:57.7446508+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:05:08.7670035+00:00"
 }

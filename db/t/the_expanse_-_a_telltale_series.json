@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19083,
+  "EOS_Progressed": 19084,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17574,6 +17574,11 @@
       "Time": "2024-01-16T22:07:23.4736722+00:00",
       "NumProgressed": 19083,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T23:05:34.1647074+00:00",
+      "NumProgressed": 19084,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17656,9 +17661,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1336
     },
     {
       "ID": "19",
@@ -17706,7 +17711,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "24",
@@ -17770,7 +17775,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "4",
@@ -17794,7 +17799,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "7",
@@ -17865,13 +17870,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19083,
+      "Progressed": 19084,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5037,
+      "Progressed": 5038,
       "Completed": 1333
     }
   ],
@@ -17879,8 +17884,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:07:23.4736718+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:05:34.1647071+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:00:23.7257752+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:07:23.4737884+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:59:08.4045921+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:05:34.1648376+00:00"
 }

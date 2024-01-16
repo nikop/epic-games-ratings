@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 1722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4614,9 +4614,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 396
     },
     {
       "ID": "AchvBombStop",
@@ -4831,8 +4831,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:11:05.6547595+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:09:44.510004+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:58:10.5598941+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:11:05.6547938+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:57:36.9040189+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:09:44.5100524+00:00"
 }

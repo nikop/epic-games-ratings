@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 54.00% | ~50 |
-| You have three wishes left | 49.00% | ~45 |
+| You have three wishes left | 48.00% | ~45 |
 | Jung's dream | 39.00% | ~36 |
 | The battle of Great Britain | 39.00% | ~36 |
-| Pulp! Where Monsters Dwell | 32.00% | ~29 |
+| Pulp! Where Monsters Dwell | 31.00% | ~29 |
 | A continent with chemistry | 30.00% | ~28 |
 | The happy farmer girl | 28.00% | ~26 |
 | Giant | 27.00% | ~25 |
@@ -19,8 +19,8 @@
 | Diagnosis: fear | 24.00% | ~22 |
 | Ambition is... blind | 24.00% | ~22 |
 | You have two wishes left | 22.00% | ~20 |
-| Et in arcadia ego | 21.00% | ~19 |
-| Pulp! Adventures into the Unknown | 21.00% | ~19 |
+| Et in arcadia ego | 20.00% | ~19 |
+| Pulp! Adventures into the Unknown | 20.00% | ~19 |
 | The seer | 18.00% | ~17 |
 | Welcome to Hellville | 18.00% | ~17 |
 | You had one wish left | 17.00% | ~16 |
@@ -42,7 +42,7 @@
 | The barbarian invasions | 10.00% | ~9 |
 | Vaccine fans | 9.00% | ~8 |
 | A new Hindenburg | 8.00% | ~7 |
-| Pulp! Tales from the Crypt | 7.00% | ~6 |
+| Pulp! Tales from the Crypt | 6.00% | ~6 |
 | Thirst for Oleum | 4.00% | ~4 |
 | Pulp! Weird Science | 3.00% | ~3 |
 | Pulp! Heart Throbs | 3.00% | ~3 |
@@ -52,8 +52,8 @@
 | Pulp! Skeleton Hand | 2.00% | ~2 |
 | Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 505)  
-Completed: 1 (1.09%) (Ranked 172)  
+Progressed: 93 (Ranked 503)  
+Completed: 1 (1.08%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,3 +104,4 @@ Completed: 1 (1.09%) (Ranked 172)
 | 2024-01-09 | 90 | 0 |
 | 2024-01-11 | 91 | 0 |
 | 2024-01-12 | 92 | 1 |
+| 2024-01-16 | 93 | 1 |

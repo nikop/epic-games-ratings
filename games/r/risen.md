@@ -32,8 +32,8 @@ Rating: 4.58 (Ranked 471)
 | Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
 | Master detective | 14.00% | ~28 |
+| Peacekeeper | 13.00% | ~26 |
 | Defender | 12.00% | ~24 |
-| Peacekeeper | 12.00% | ~24 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
 | Titan Lord | 9.00% | ~18 |

@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1040,
+  "Ranking_Rating": 1037,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.07,
   "NumberOfRatings": 9041,
   "RatingHistory": [
     {
@@ -9569,10 +9569,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 33530,
       "NumberOfAwardsMax": 5786
+    },
+    {
+      "Time": "2024-01-16T22:58:12.5483928+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33532,
+      "NumberOfAwardsMax": 5786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33530,
+  "NumberOfAwards": 33532,
   "NumberOfAwardsMax": 5786,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9586,7 +9592,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5725
+      "Count": 5727
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9619,9 +9625,9 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254260,
+  "EOS_Progressed": 254278,
   "EOS_Completed": 2621,
-  "EOS_NewPlayers": 1228,
+  "EOS_NewPlayers": 1234,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40414,6 +40420,11 @@
       "Time": "2024-01-16T22:11:46.79979+00:00",
       "NumProgressed": 254260,
       "NumCompleted": 2621
+    },
+    {
+      "Time": "2024-01-16T23:10:16.9681141+00:00",
+      "NumProgressed": 254278,
+      "NumCompleted": 2621
     }
   ],
   "TotalAchievements": 546,
@@ -40425,7 +40436,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10170
+      "UsersEstimate": 10171
     },
     {
       "ID": "objective_completed_10",
@@ -40793,7 +40804,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "objective_completed_110",
@@ -42097,7 +42108,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "objective_completed_34",
@@ -42289,7 +42300,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "objective_completed_40",
@@ -43569,7 +43580,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5085
+      "UsersEstimate": 5086
     },
     {
       "ID": "objective_completed_70",
@@ -44792,21 +44803,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220534,
+      "Progressed": 220552,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254260,
+      "Progressed": 254278,
       "Completed": 2621
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-16T21:59:01.7558381+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:11:46.7997894+00:00",
+  "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:10:16.9681137+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:59:01.7558386+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:11:46.8021745+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:58:12.5483936+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:10:16.970428+00:00"
 }

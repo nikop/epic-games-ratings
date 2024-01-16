@@ -8,7 +8,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.20% | ~2,106 |
 | Right Back At Ya | 0.20% | ~2,106 |
+| The Hermit | 0.20% | ~2,106 |
 | The Wheel of Fortune | 0.20% | ~2,106 |
+| True Soldier | 0.20% | ~2,106 |
 | City Lights | 0.10% | ~1,053 |
 | To Bad Decisions! | 0.10% | ~1,053 |
 | Bushido and Chill | 0.10% | ~1,053 |
@@ -35,7 +37,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.10% | ~1,053 |
 | The Devil | 0.10% | ~1,053 |
 | The Fool | 0.10% | ~1,053 |
-| The Hermit | 0.10% | ~1,053 |
 | The High Priestess | 0.10% | ~1,053 |
 | The Lovers | 0.10% | ~1,053 |
 | The Star | 0.10% | ~1,053 |
@@ -43,7 +44,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.10% | ~1,053 |
 | Greetings from Pacifica! | 0.10% | ~1,053 |
 | The Jungle | 0.10% | ~1,053 |
-| True Soldier | 0.10% | ~1,053 |
 | True Warrior | 0.10% | ~1,053 |
 | Two Heads, One Bullet | 0.10% | ~1,053 |
 | Judy vs Night City | 0.10% | ~1,053 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,055 (Ranked 17)  
+Progressed: 1,053,067 (Ranked 17)  
 Completed: 3,109 (0.30%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 3,109 (0.30%) (Ranked 261)
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
-| 2024-01-16 | 1,053,055 | 3,109 |
+| 2024-01-16 | 1,053,067 | 3,109 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
-Sum: 499,026 (Ranked 8)  
+Sum: 499,146 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 28,500 |
 | This game is Relaxing | 27,635 |
 | This game has Quickly Understood Controls | 27,564 |
-| This game has a Creative Community | 19,123 |
+| This game has a Creative Community | 19,243 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -728,4 +728,4 @@ Diff (max vs sum): 0
 | 2024-01-13 | 4.67 | - | 139,040 | 490,370 |
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
-| 2024-01-16 | 4.67 | - | 141,060 | 499,026 |
+| 2024-01-16 | 4.67 | - | 141,060 | 499,146 |

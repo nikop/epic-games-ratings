@@ -15,8 +15,8 @@
 | Subsistence Skills | 48.00% | ~660 |
 | Fusion Conjuror | 47.00% | ~647 |
 | Kemono Hunter | 44.00% | ~605 |
+| Expert Conjuror | 42.00% | ~578 |
 | Helpful Heart | 41.00% | ~564 |
-| Expert Conjuror | 41.00% | ~564 |
 | Bonds of Enmity | 39.00% | ~537 |
 | Flawless Crystal | 38.00% | ~523 |
 | Distance Devourer | 37.00% | ~509 |

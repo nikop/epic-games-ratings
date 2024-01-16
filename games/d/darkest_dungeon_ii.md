@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,103 |
+| Malpractice Assurance | 14.00% | ~1,104 |
 | Lost and Found | 9.00% | ~709 |
 | Autodidact | 8.00% | ~10,641 |
 | This Belongs in a Museum | 7.00% | ~9,311 |
@@ -32,18 +32,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 5.00% | ~6,651 |
 | Nope | 5.00% | ~6,651 |
 | Friends 'Til the End | 5.00% | ~394 |
-| Resurrection | 4.00% | ~5,320 |
-| Unleash Hell | 4.00% | ~5,320 |
-| Funny Guy | 4.00% | ~5,320 |
-| Long Live the King | 4.00% | ~5,320 |
-| Wyrdly Reconstructed | 4.00% | ~5,320 |
-| Unfulfilled Desires | 4.00% | ~5,320 |
-| Dissector | 4.00% | ~5,320 |
-| Banishment | 4.00% | ~5,320 |
-| Now Stay Dead | 4.00% | ~5,320 |
-| Spelunker | 4.00% | ~5,320 |
-| Ramble On | 4.00% | ~5,320 |
-| Unshackled | 4.00% | ~5,320 |
+| Resurrection | 4.00% | ~5,321 |
+| Unleash Hell | 4.00% | ~5,321 |
+| Funny Guy | 4.00% | ~5,321 |
+| Long Live the King | 4.00% | ~5,321 |
+| Wyrdly Reconstructed | 4.00% | ~5,321 |
+| Unfulfilled Desires | 4.00% | ~5,321 |
+| Dissector | 4.00% | ~5,321 |
+| Banishment | 4.00% | ~5,321 |
+| Now Stay Dead | 4.00% | ~5,321 |
+| Spelunker | 4.00% | ~5,321 |
+| Ramble On | 4.00% | ~5,321 |
+| Unshackled | 4.00% | ~5,321 |
 | Boxcar Kid | 3.00% | ~3,990 |
 | Hope Rekindled | 3.00% | ~3,990 |
 | Predator | 3.00% | ~3,990 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,011 (Ranked 92)  
+Progressed: 133,014 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 133,011 | 5 |
+| 2024-01-16 | 133,014 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 51)  
 Sum: 21,690 (Ranked 58)  

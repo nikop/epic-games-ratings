@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5315,9 +5315,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82887,
+  "EOS_Progressed": 82888,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30485,6 +30485,11 @@
       "Time": "2024-01-16T22:06:03.0455063+00:00",
       "NumProgressed": 82887,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-16T23:04:34.8942296+00:00",
+      "NumProgressed": 82888,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30576,7 +30581,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9946
+      "UsersEstimate": 9947
     },
     {
       "ID": "APPLY_STATUS",
@@ -30600,7 +30605,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16577
+      "UsersEstimate": 16578
     },
     {
       "ID": "CLAYFACE_2",
@@ -30632,7 +30637,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3315
+      "UsersEstimate": 3316
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -30656,7 +30661,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9946
+      "UsersEstimate": 9947
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -30672,7 +30677,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9946
+      "UsersEstimate": 9947
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -30720,7 +30725,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22379
+      "UsersEstimate": 22380
     },
     {
       "ID": "FREEZE_1_5",
@@ -30728,7 +30733,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16577
+      "UsersEstimate": 16578
     },
     {
       "ID": "FREEZE_2",
@@ -30816,7 +30821,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16577
+      "UsersEstimate": 16578
     },
     {
       "ID": "HARLEY_4",
@@ -30864,7 +30869,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16577
+      "UsersEstimate": 16578
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -30912,7 +30917,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16577
+      "UsersEstimate": 16578
     },
     {
       "ID": "MYSTERY_05",
@@ -30944,7 +30949,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9946
+      "UsersEstimate": 9947
     },
     {
       "ID": "SECRET_CACHE",
@@ -30983,13 +30988,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82887,
+      "Progressed": 82888,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53167,
+      "Progressed": 53168,
       "Completed": 2679
     }
   ],
@@ -30997,8 +31002,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-16T08:59:21.3312471+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:06:03.0455061+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:04:34.8942293+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:00:51.5089702+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:06:03.0456473+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:59:27.547481+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:04:34.8944206+00:00"
 }

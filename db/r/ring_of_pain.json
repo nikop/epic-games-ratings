@@ -3854,10 +3854,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11798,
       "NumberOfAwardsMax": 1516
+    },
+    {
+      "Time": "2024-01-16T22:57:50.2839627+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11799,
+      "NumberOfAwardsMax": 1516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11798,
+  "NumberOfAwards": 11799,
   "NumberOfAwardsMax": 1516,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3883,7 +3889,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1237
+      "Count": 1238
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3928,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243079,
+  "EOS_Progressed": 243080,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32068,6 +32074,11 @@
       "Time": "2024-01-16T22:11:44.8148593+00:00",
       "NumProgressed": 243079,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-16T23:10:14.8219963+00:00",
+      "NumProgressed": 243080,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -33182,22 +33193,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243079,
+      "Progressed": 243080,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4559,
+      "Progressed": 4560,
       "Completed": 428
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-15T23:57:18.1179809+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:11:44.8148588+00:00",
+  "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:10:14.8219959+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:58:29.5470373+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:11:44.8151319+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:57:50.2839631+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:10:14.822282+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 426,
-  "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 362,
+  "Ranking_Popularity": 423,
+  "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-20T14:00:00+00:00",
     "PcReleaseDate": "2023-09-20T14:00:00+00:00",
@@ -1337,11 +1337,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 394,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-01-16T22:59:59.0644391+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 395,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 394,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 395,
+  "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1354,7 +1360,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1417,8 +1423,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-01-15T18:59:29.286525+00:00",
+  "LastChanged": "2024-01-16T22:59:59.0644389+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.9191533+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:01:39.0631908+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:10:13.3336722+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:59:59.0644395+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:09:05.7086588+00:00"
 }

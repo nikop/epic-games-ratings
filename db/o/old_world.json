@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2310,9 +2310,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16926,
+  "EOS_Progressed": 16928,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20260,6 +20260,11 @@
       "Time": "2024-01-16T22:11:45.6169702+00:00",
       "NumProgressed": 16926,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T23:10:15.656455+00:00",
+      "NumProgressed": 16928,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21669,9 +21674,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
       "SetID": "9201eeb",
       "Name": "Adur Burzen-Mihr",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -22221,9 +22226,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -23134,21 +23139,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16926,
+      "Progressed": 16928,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16926,
+      "Progressed": 16928,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-16T20:02:58.5251439+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:11:45.6169699+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:10:15.6564548+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:03:32.2765515+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:11:45.6179623+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:02:48.118094+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:10:15.6574025+00:00"
 }

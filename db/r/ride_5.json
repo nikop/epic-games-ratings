@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 161,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -9022,9 +9022,9 @@
       "ID": "ML_ACHIEVEMENT_05",
       "SetID": "c7hf6a4",
       "Name": "Restored and Ready",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 761
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9391,8 +9391,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-16T22:04:55.5420492+00:00",
+  "LastChanged_Achievements": "2024-01-16T23:03:45.8780237+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:58:10.9591694+00:00",
-  "LastUpdate_Achievements": "2024-01-16T22:04:55.5421591+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:57:37.2382336+00:00",
+  "LastUpdate_Achievements": "2024-01-16T23:03:45.8781154+00:00"
 }

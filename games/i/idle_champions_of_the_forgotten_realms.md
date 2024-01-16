@@ -1,17 +1,17 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 1,040)  
+Rating: 4.07 (Ranked 1,037)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,170 |
-| Beast Intentions | 2.00% | ~5,085 |
-| The Cursed Farmer | 2.00% | ~5,085 |
-| The Mad Wizard | 2.00% | ~5,085 |
+| A Brief Tour of the Realms | 4.00% | ~10,171 |
+| Beast Intentions | 2.00% | ~5,086 |
+| The Cursed Farmer | 2.00% | ~5,086 |
+| The Mad Wizard | 2.00% | ~5,086 |
 | The Ring of Regeneration | 1.00% | ~2,543 |
-| Are Ya Chicken? | 0.90% | ~2,288 |
+| Are Ya Chicken? | 0.90% | ~2,289 |
 | Were-verpowered | 0.80% | ~2,034 |
 | Seeking Allies | 0.80% | ~2,034 |
 | Friendly Imps | 0.80% | ~2,034 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,260 (Ranked 70)  
+Progressed: 254,278 (Ranked 70)  
 Completed: 2,621 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -824,15 +824,15 @@ Completed: 2,621 (1.03%) (Ranked 178)
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
-| 2024-01-16 | 254,260 | 2,621 |
+| 2024-01-16 | 254,278 | 2,621 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
-Sum: 33,530 (Ranked 41)  
+Sum: 33,532 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,786 |
-| This game has Diverse Characters | 5,725 |
+| This game has Diverse Characters | 5,727 |
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,788 |
 | This game is Highly Recommended | 4,335 |
@@ -1196,4 +1196,4 @@ Diff (max vs sum): 33
 | 2024-01-13 | 4.06 | - | 5,777 | 33,477 |
 | 2024-01-14 | 4.06 | - | 5,782 | 33,493 |
 | 2024-01-15 | 4.06 | - | 5,784 | 33,514 |
-| 2024-01-16 | 4.06 | - | 5,786 | 33,530 |
+| 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
