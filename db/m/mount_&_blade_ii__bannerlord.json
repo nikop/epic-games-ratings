@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 168,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 103,
@@ -10788,9 +10788,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95471,
+  "EOS_Progressed": 95472,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3227,
+  "EOS_NewPlayers": 3224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39793,6 +39793,11 @@
       "Time": "2024-01-16T01:58:46.0142989+00:00",
       "NumProgressed": 95471,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T03:10:59.6736313+00:00",
+      "NumProgressed": 95472,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40156,7 +40161,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 18139
+      "UsersEstimate": 18140
     },
     {
       "ID": "This Is Our Land",
@@ -40164,7 +40169,7 @@
       "Name": "This Is Our Land",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15275
+      "UsersEstimate": 15276
     },
     {
       "ID": "This is Sparta",
@@ -40180,7 +40185,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28641
+      "UsersEstimate": 28642
     },
     {
       "ID": "Undercover",
@@ -40211,15 +40216,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95471,
+      "Progressed": 95472,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-16T01:47:12.2776398+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:34:36.1993377+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:10:59.673631+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:22:54.4841784+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:34:36.1994831+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:59:19.3797065+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:10:59.6737689+00:00"
 }

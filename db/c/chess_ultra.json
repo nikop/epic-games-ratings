@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228005,
+  "EOS_Progressed": 228006,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31486,6 +31486,11 @@
       "Time": "2024-01-16T02:27:44.9493174+00:00",
       "NumProgressed": 228005,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T03:04:00.2386084+00:00",
+      "NumProgressed": 228006,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -31497,7 +31502,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 107162
+      "UsersEstimate": 107163
     },
     {
       "ID": "AlekhinesGun",
@@ -31617,7 +31622,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20520
+      "UsersEstimate": 20521
     },
     {
       "ID": "EpauletteMate",
@@ -31800,7 +31805,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 228005,
+      "Progressed": 228006,
       "Completed": 2
     }
   ],
@@ -31808,8 +31813,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:27:44.949317+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:04:00.238608+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:16.5488117+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:26:49.1203229+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:27:44.9494796+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:02:44.6634735+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:04:00.2388009+00:00"
 }

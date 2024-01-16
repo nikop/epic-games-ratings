@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 98833,
+  "EOS_Progressed": 98842,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6175,
+  "EOS_NewPlayers": 6163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13883,6 +13883,11 @@
       "Time": "2024-01-16T02:34:25.2027642+00:00",
       "NumProgressed": 98833,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T03:10:46.8360191+00:00",
+      "NumProgressed": 98842,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -13903,7 +13908,7 @@
       "Name": "Globetrotter",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 5930
+      "UsersEstimate": 5931
     },
     {
       "ID": "achievement_11",
@@ -13927,7 +13932,7 @@
       "Name": "Grim Reaper",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 65230
+      "UsersEstimate": 65236
     },
     {
       "ID": "achievement_14",
@@ -13935,7 +13940,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 28662
+      "UsersEstimate": 28664
     },
     {
       "ID": "achievement_15",
@@ -13943,7 +13948,7 @@
       "Name": "Combat Engineer",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 39533
+      "UsersEstimate": 39537
     },
     {
       "ID": "achievement_16",
@@ -13951,7 +13956,7 @@
       "Name": "Heads Down",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 62265
+      "UsersEstimate": 62270
     },
     {
       "ID": "achievement_17",
@@ -13967,7 +13972,7 @@
       "Name": "Eager Beaver",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 30638
+      "UsersEstimate": 30641
     },
     {
       "ID": "achievement_19",
@@ -13975,7 +13980,7 @@
       "Name": "Elite",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 12848
+      "UsersEstimate": 12849
     },
     {
       "ID": "achievement_2",
@@ -13991,7 +13996,7 @@
       "Name": "Last Man Standing",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 89938
+      "UsersEstimate": 89946
     },
     {
       "ID": "achievement_21",
@@ -13999,7 +14004,7 @@
       "Name": "Not On My Watch",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 59300
+      "UsersEstimate": 59305
     },
     {
       "ID": "achievement_3",
@@ -14015,7 +14020,7 @@
       "Name": "Lovely",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 27673
+      "UsersEstimate": 27676
     },
     {
       "ID": "achievement_5",
@@ -14023,7 +14028,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 16802
+      "UsersEstimate": 16803
     },
     {
       "ID": "achievement_6",
@@ -14031,7 +14036,7 @@
       "Name": "Ou La Mort",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 13837
+      "UsersEstimate": 13838
     },
     {
       "ID": "achievement_7",
@@ -14047,7 +14052,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 66218
+      "UsersEstimate": 66224
     },
     {
       "ID": "achievement_9",
@@ -14055,20 +14060,20 @@
       "Name": "Hoist the Flag",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     }
   ],
   "AchievementSets": [
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 98833,
+      "Progressed": 98842,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:34:25.202764+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:10:46.8360189+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.6918031+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:23:22.3827251+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:34:25.2028592+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:59:56.0644268+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:10:46.8361152+00:00"
 }

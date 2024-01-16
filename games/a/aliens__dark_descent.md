@@ -17,7 +17,7 @@ Rating: 4.53 (Ranked 567)
 | Use The Bumper, That's What It's For | 45.00% | ~2,903 |
 | First Steps Into Madness | 45.00% | ~2,903 |
 | Colonial Barrels | 43.00% | ~2,774 |
-| Harper's Hell | 38.00% | ~2,451 |
+| Harper's Hell | 39.00% | ~2,516 |
 | Making a Stand | 37.00% | ~2,387 |
 | Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,258 |
 | Where It All Begun | 34.00% | ~2,193 |

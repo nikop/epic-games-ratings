@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.73 (Ranked 182)  
+Rating: 4.73 (Ranked 181)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,9 +21,9 @@ Rating: 4.73 (Ranked 182)
 | It's Warm and Cozy at Home | 60.00% | ~463 |
 | Magic Accidents | 59.00% | ~455 |
 | Trap Master | 56.00% | ~432 |
+| Minions, Minions! | 56.00% | ~432 |
 | Hard Work | 56.00% | ~432 |
 | The Big Eaty | 56.00% | ~432 |
-| Minions, Minions! | 55.00% | ~424 |
 | “… like son” | 54.00% | ~416 |
 | YOU SHALL NOT PASS! | 51.00% | ~393 |
 | The Cathedral of Light | 50.00% | ~386 |

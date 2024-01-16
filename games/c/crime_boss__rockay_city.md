@@ -40,14 +40,14 @@ Rating: 3.96 (Ranked 1,064)
 | Privateer | 0.30% | ~280 |
 | Red Star | 0.30% | ~280 |
 | Impossible Dreamer | 0.30% | ~280 |
-| All for One | 0.30% | ~65 |
-| Now You See Me | 0.30% | ~65 |
+| All for One | 0.30% | ~66 |
+| Now You See Me | 0.30% | ~66 |
 | Talent Scout | 0.20% | ~187 |
 | One for All | 0.20% | ~44 |
 | Full House | 0.10% | ~93 |
 | Geek Out | 0.10% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,486 (Ranked 104)  
+Progressed: 93,487 (Ranked 104)  
 Completed: 59 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 59 (0.06%) (Ranked 334)
 | 2024-01-13 | 93,444 | 59 |
 | 2024-01-14 | 93,479 | 59 |
 | 2024-01-15 | 93,483 | 59 |
-| 2024-01-16 | 93,486 | 59 |
+| 2024-01-16 | 93,487 | 59 |
 ## Awards
 Max (Diverse Characters): 600  (Ranked 210)  
 Sum: 2,838 (Ranked 192)  

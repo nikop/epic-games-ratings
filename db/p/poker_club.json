@@ -1153,9 +1153,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 551757,
+  "EOS_Progressed": 551759,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1564,
+  "EOS_NewPlayers": 1556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32083,6 +32083,11 @@
       "Time": "2024-01-16T02:28:28.5419238+00:00",
       "NumProgressed": 551757,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T03:04:54.0073512+00:00",
+      "NumProgressed": 551759,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32094,7 +32099,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 148974
+      "UsersEstimate": 148975
     },
     {
       "ID": "Backdoor",
@@ -32190,7 +32195,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 220703
+      "UsersEstimate": 220704
     },
     {
       "ID": "DeadlyAssassin",
@@ -32222,7 +32227,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33105
+      "UsersEstimate": 33106
     },
     {
       "ID": "GoForIt",
@@ -32246,7 +32251,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 231738
+      "UsersEstimate": 231739
     },
     {
       "ID": "HoldingYourOwn",
@@ -32342,7 +32347,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 419335
+      "UsersEstimate": 419337
     },
     {
       "ID": "ProPlayer",
@@ -32406,7 +32411,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71728
+      "UsersEstimate": 71729
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -32453,7 +32458,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 551757,
+      "Progressed": 551759,
       "Completed": 2
     }
   ],
@@ -32461,8 +32466,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-14T04:59:35.0713982+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:28:28.5419233+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:04:54.0073506+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.9152089+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:23:49.6409854+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:28:28.5420699+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:00:23.9492512+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:04:54.0075175+00:00"
 }

@@ -10914,9 +10914,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 132946,
+  "EOS_Progressed": 132950,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40064,6 +40064,11 @@
       "Time": "2024-01-16T02:34:25.4044284+00:00",
       "NumProgressed": 132946,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T03:10:47.1661365+00:00",
+      "NumProgressed": 132950,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40075,7 +40080,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -40091,7 +40096,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -40227,7 +40232,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -40275,7 +40280,7 @@
       "Name": "Meat and Greet",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40283,7 +40288,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "combat_kill_leviathan",
@@ -40347,7 +40352,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -40355,7 +40360,7 @@
       "Name": "Hat Trick",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -40371,7 +40376,7 @@
       "Name": "Rush Hour",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -40379,7 +40384,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -40387,7 +40392,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -40435,7 +40440,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "hero_story_complete_any",
@@ -40451,7 +40456,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "hospital_full_service",
@@ -40459,7 +40464,7 @@
       "Name": "Triage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "inn_first_time",
@@ -40467,7 +40472,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -40483,7 +40488,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "inn_visit_all_variants",
@@ -40523,7 +40528,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6647
+      "UsersEstimate": 6648
     },
     {
       "ID": "run_victory_act01",
@@ -40563,7 +40568,7 @@
       "Name": "Body of Work",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -40611,7 +40616,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "combat_kill_collector",
@@ -40675,15 +40680,15 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "relationships_positive_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "Friends \u0027Til the End",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 391
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40706,21 +40711,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132946,
+      "Progressed": 132950,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7815,
+      "Progressed": 7819,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-16T01:47:11.8252941+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:34:25.4044281+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:10:47.166136+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:22:54.0069163+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:34:25.4046043+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:59:18.0280664+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:10:47.16633+00:00"
 }

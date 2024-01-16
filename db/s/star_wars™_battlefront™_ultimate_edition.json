@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2979,
+  "EOS_Progressed": 2981,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8079,6 +8079,11 @@
       "Time": "2024-01-16T01:58:48.3516887+00:00",
       "NumProgressed": 2979,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T03:11:02.7141833+00:00",
+      "NumProgressed": 2981,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8121,9 +8126,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_14",
@@ -8163,7 +8168,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_19",
@@ -8235,7 +8240,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_27",
@@ -8315,7 +8320,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2564
     },
     {
       "ID": "achievement_36",
@@ -8331,7 +8336,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1789
     },
     {
       "ID": "achievement_38",
@@ -8355,7 +8360,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "achievement_40",
@@ -8363,7 +8368,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "achievement_41",
@@ -8443,7 +8448,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "achievement_50",
@@ -8577,9 +8582,9 @@
       "ID": "achievement_8",
       "SetID": "271ol84",
       "Name": "Don\u0027t underestimate the Force",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 89
     },
     {
       "ID": "achievement_9",
@@ -8594,13 +8599,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2979,
+      "Progressed": 2981,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2979,
+      "Progressed": 2981,
       "Completed": 1
     }
   ],
@@ -8608,8 +8613,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:34:38.8490569+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:11:02.714183+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:22:17.3755544+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:34:38.849137+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:58:28.2691072+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:11:02.714281+00:00"
 }

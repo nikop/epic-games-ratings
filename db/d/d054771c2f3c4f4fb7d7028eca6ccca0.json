@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4205,
+  "EOS_Progressed": 4206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5119,6 +5119,11 @@
       "Time": "2024-01-16T02:32:42.867051+00:00",
       "NumProgressed": 4205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T03:08:40.0976381+00:00",
+      "NumProgressed": 4206,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5195,7 +5200,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -5331,7 +5336,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5506,14 +5511,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4205,
+      "Progressed": 4206,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:32:42.8670508+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:08:40.0976376+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:23:54.1077911+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:32:42.8671069+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:00:29.9376004+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:08:40.0977165+00:00"
 }

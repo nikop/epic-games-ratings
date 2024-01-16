@@ -1,21 +1,21 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 168)  
+Rating: 4.74 (Ranked 167)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 43.00% | ~41,053 |
 | Landlord | 34.00% | ~32,460 |
-| Trained | 30.00% | ~28,641 |
+| Trained | 30.00% | ~28,642 |
 | Bannerlord | 24.00% | ~22,913 |
 | Lawmaker | 24.00% | ~22,913 |
 | Horde breaker | 21.00% | ~20,049 |
-| The king is pleased | 19.00% | ~18,139 |
+| The king is pleased | 19.00% | ~18,140 |
 | King Solomon | 18.00% | ~17,185 |
 | Apple of my eye | 17.00% | ~16,230 |
-| This Is Our Land | 16.00% | ~15,275 |
+| This Is Our Land | 16.00% | ~15,276 |
 | Against all odds | 15.00% | ~14,321 |
 | I can do it | 15.00% | ~14,321 |
 | Duelist | 12.00% | ~11,457 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,471 (Ranked 103)  
+Progressed: 95,472 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 94,972 | 0 |
 | 2024-01-14 | 95,259 | 0 |
 | 2024-01-15 | 95,467 | 0 |
-| 2024-01-16 | 95,471 | 0 |
+| 2024-01-16 | 95,472 | 0 |
 ## Awards
 Max (Character Customization): 8,089  (Ranked 50)  
 Sum: 16,754 (Ranked 66)  

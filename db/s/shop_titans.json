@@ -3,11 +3,11 @@
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 1053,
-  "Ranking_Popularity": 80,
+  "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8185,9 +8185,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151344,
+  "EOS_Progressed": 151346,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 983,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36865,6 +36865,11 @@
       "Time": "2024-01-16T02:33:23.4118268+00:00",
       "NumProgressed": 151344,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-16T03:09:30.3542595+00:00",
+      "NumProgressed": 151346,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -37108,7 +37113,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15134
+      "UsersEstimate": 15135
     },
     {
       "ID": "commonres02",
@@ -37348,7 +37353,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15134
+      "UsersEstimate": 15135
     },
     {
       "ID": "gold02",
@@ -37771,15 +37776,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151344,
+      "Progressed": 151346,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-15T11:03:36.7538365+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:33:23.4118265+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:09:30.3542589+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:27:31.067393+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:33:23.4120741+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:03:40.6833128+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:09:30.3544925+00:00"
 }

@@ -10,8 +10,8 @@ Rating: 4.08 (Ranked 1,027)
 | Each Sold Separately | 38.00% | ~1,455 |
 | We're In | 33.00% | ~1,263 |
 | You're Not Naked | 30.00% | ~1,148 |
+| Tale in the Toilet | 30.00% | ~1,148 |
 | From Zeroes... | 29.00% | ~1,110 |
-| Tale in the Toilet | 29.00% | ~1,110 |
 | Don't Get Cocky | 27.00% | ~1,034 |
 | Shard Snatchers | 25.00% | ~957 |
 | You Rich Now! | 23.00% | ~880 |

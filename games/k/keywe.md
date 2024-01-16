@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 97.00% | ~175 |
-| Learn the Ropes | 66.00% | ~119 |
-| Fun in the Bungalow Basin Sun | 38.00% | ~68 |
-| Working for the Kiweekend | 38.00% | ~68 |
-| Practice Makes Postmasters | 37.00% | ~67 |
+| You're Hired | 97.00% | ~177 |
+| Learn the Ropes | 66.00% | ~120 |
+| Working for the Kiweekend | 39.00% | ~71 |
+| Fun in the Bungalow Basin Sun | 38.00% | ~69 |
+| Practice Makes Postmasters | 36.00% | ~66 |
 | A Startling Discovery | 31.00% | ~56 |
-| Pumpkins and Postage Stamps | 19.00% | ~34 |
-| Kiwinter Kiwonderland | 6.00% | ~11 |
+| Pumpkins and Postage Stamps | 19.00% | ~35 |
+| Kiwinter Kiwonderland | 5.00% | ~9 |
 | Secrets of the Telepost | 3.00% | ~5 |
 | Summer Postmasters | 2.00% | ~4 |
 | Against All Odds | 1.00% | ~2 |
 | Autumn Postmasters | 1.00% | ~2 |
-| Postmasters General | 0.60% | ~1 |
-| Winter Postmasters | 0.60% | ~1 |
-| Stocking Up | 0.60% | ~1 |
+| Postmasters General | 0.50% | ~1 |
+| Winter Postmasters | 0.50% | ~1 |
+| Stocking Up | 0.50% | ~1 |
 | Off to the Races | 0.00% | ~0 |
 | KeyWe are the Champions | 0.00% | ~0 |
 | Tournamasters | 0.00% | ~0 |
 | Fully Stocked | 0.00% | ~0 |
 | Working Overtime | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 441)  
+Progressed: 182 (Ranked 440)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 175 | 0 |
 | 2024-01-13 | 177 | 0 |
 | 2024-01-14 | 179 | 0 |
-| 2024-01-16 | 180 | 0 |
+| 2024-01-16 | 182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

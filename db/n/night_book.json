@@ -3,8 +3,8 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 396,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -726,6 +726,11 @@
       "Time": "2024-01-15T21:09:03.6953026+00:00",
       "NumProgressed": 316,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T03:08:43.1941057+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -793,7 +798,7 @@
       "Name": "No One Is Safe",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "off_his_meds",
@@ -825,7 +830,7 @@
       "Name": "Personal Life",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "save_dad",
@@ -865,14 +870,14 @@
       "Name": "Will This Help?",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 7
     }
   ],
@@ -880,8 +885,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:32:45.4474266+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:08:43.1941053+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:12.3594089+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:22:53.7171317+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:32:45.447441+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:59:17.6732294+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:08:43.1941187+00:00"
 }

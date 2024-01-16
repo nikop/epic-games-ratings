@@ -5,9 +5,9 @@
   "Ranking_Rating": 113,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3465,
+  "EOS_Progressed": 3466,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -6567,6 +6567,11 @@
       "Time": "2024-01-16T01:53:41.5047071+00:00",
       "NumProgressed": 3465,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-16T03:06:04.2108231+00:00",
+      "NumProgressed": 3466,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -6602,7 +6607,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6642,7 +6647,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3293
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6658,7 +6663,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6714,7 +6719,7 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6754,7 +6759,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6762,7 +6767,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3119
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6794,7 +6799,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6818,7 +6823,7 @@
       "Name": "Devineur",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6850,7 +6855,7 @@
       "Name": "Terbisia",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -6882,7 +6887,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6914,7 +6919,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6938,7 +6943,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -6954,7 +6959,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6962,7 +6967,7 @@
       "Name": "Spellcrafting",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -7001,7 +7006,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3465,
+      "Progressed": 3466,
       "Completed": 28
     }
   ],
@@ -7009,8 +7014,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:29:23.6692751+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:06:04.2108229+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:21:43.5720958+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:29:23.6693489+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:57:45.6429276+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:06:04.2108778+00:00"
 }

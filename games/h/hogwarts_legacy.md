@@ -1,43 +1,43 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.75 (Ranked 152)  
+Rating: 4.75 (Ranked 151)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,051 |
-| First Class Student | 28.00% | ~107,670 |
-| Troll with the Punches | 26.00% | ~99,979 |
-| A Keen Sense of Spell | 23.00% | ~88,443 |
-| A Talent for Spending | 19.00% | ~73,061 |
-| That's a Keeper | 19.00% | ~73,061 |
-| Loom for Improvement | 15.00% | ~57,680 |
-| Followed the Butterflies | 14.00% | ~53,835 |
-| The Defender of Dragons | 13.00% | ~49,989 |
-| Challenge Accepted | 13.00% | ~49,989 |
-| Coasting Along | 13.00% | ~49,989 |
-| Grappling with a Graphorn | 12.00% | ~46,144 |
-| The One Who Mastered Memories | 12.00% | ~46,144 |
-| The Hallowed Hero | 12.00% | ~46,144 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,053 |
+| First Class Student | 28.00% | ~107,671 |
+| Troll with the Punches | 26.00% | ~99,980 |
+| A Keen Sense of Spell | 23.00% | ~88,444 |
+| A Talent for Spending | 19.00% | ~73,063 |
+| That's a Keeper | 19.00% | ~73,063 |
+| Loom for Improvement | 15.00% | ~57,681 |
+| Followed the Butterflies | 14.00% | ~53,836 |
+| The Defender of Dragons | 13.00% | ~49,990 |
+| Challenge Accepted | 13.00% | ~49,990 |
+| Coasting Along | 13.00% | ~49,990 |
+| Grappling with a Graphorn | 12.00% | ~46,145 |
+| The One Who Mastered Memories | 12.00% | ~46,145 |
+| The Hallowed Hero | 12.00% | ~46,145 |
 | The Hero of Hogwarts | 11.00% | ~42,299 |
-| The Spell Master | 10.00% | ~38,453 |
-| Rising From the Ashes | 10.00% | ~38,453 |
-| A Sallow Grave | 9.00% | ~34,608 |
-| Flight the Good Flight | 9.00% | ~34,608 |
+| The Spell Master | 10.00% | ~38,454 |
+| Rising From the Ashes | 10.00% | ~38,454 |
+| A Sallow Grave | 9.00% | ~34,609 |
+| Flight the Good Flight | 9.00% | ~34,609 |
 | The Avenging Gazelle | 8.00% | ~30,763 |
 | Beast Friends | 8.00% | ~30,763 |
 | Raising Expectations | 8.00% | ~30,763 |
-| The Toast of the Town | 7.00% | ~26,917 |
-| The Root of the Problem | 7.00% | ~26,917 |
-| Third Time's a Charm | 7.00% | ~26,917 |
-| The Gryffindor in the Graveyard | 7.00% | ~26,917 |
+| The Toast of the Town | 7.00% | ~26,918 |
+| The Root of the Problem | 7.00% | ~26,918 |
+| Third Time's a Charm | 7.00% | ~26,918 |
+| The Gryffindor in the Graveyard | 7.00% | ~26,918 |
 | The Seeker of Knowledge | 6.00% | ~23,072 |
 | The Ends Petrify the Means | 6.00% | ~23,072 |
 | The Wise Owl | 6.00% | ~23,072 |
 | Going Through the Potions | 5.00% | ~19,227 |
-| The Auror's Apprentice | 4.00% | ~15,381 |
-| Room with a View | 4.00% | ~15,381 |
-| The Intrepid Explorer | 4.00% | ~15,381 |
+| The Auror's Apprentice | 4.00% | ~15,382 |
+| Room with a View | 4.00% | ~15,382 |
+| The Intrepid Explorer | 4.00% | ~15,382 |
 | Put Down Roots | 3.00% | ~11,536 |
 | Floo Around the World | 3.00% | ~11,536 |
 | The Good Samaritan | 2.00% | ~7,691 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 152)
 | The Nature of the Beast | 0.70% | ~2,692 |
 | Collector's Edition | 0.30% | ~1,154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384,534 (Ranked 55)  
+Progressed: 384,540 (Ranked 55)  
 Completed: 566 (0.15%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 566 (0.15%) (Ranked 292)
 | 2024-01-13 | 383,308 | 563 |
 | 2024-01-14 | 384,018 | 564 |
 | 2024-01-15 | 384,481 | 566 |
-| 2024-01-16 | 384,534 | 566 |
+| 2024-01-16 | 384,540 | 566 |
 ## Awards
 Max (Character Customization): 31,083  (Ranked 16)  
-Sum: 63,174 (Ranked 25)  
+Sum: 63,191 (Ranked 25)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): -9
 | This game has Diverse Characters | 1,657 |
 | This game has Amazing Characters | 1,638 |
 | This game is Highly Recommended | 1,624 |
-| This game has Quickly Understood Controls | 1,537 |
+| This game has Quickly Understood Controls | 1,554 |
 | This game has Beautiful Visuals | 1,436 |
 | This game has a Creative Community | 1,056 |
 ## Ratings History
@@ -642,4 +642,4 @@ Diff (max vs sum): -9
 | 2024-01-13 | 4.75 | 30,668 | 61,960 |
 | 2024-01-14 | 4.75 | 30,899 | 62,547 |
 | 2024-01-15 | 4.75 | 31,083 | 63,052 |
-| 2024-01-16 | 4.75 | 31,083 | 63,174 |
+| 2024-01-16 | 4.75 | 31,083 | 63,191 |

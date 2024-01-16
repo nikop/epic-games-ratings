@@ -15,6 +15,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good | 3.00% | ~507 |
 | Intrepid | 3.00% | ~507 |
 | Just | 3.00% | ~507 |
+| Keystone | 3.00% | ~507 |
 | Learned | 3.00% | ~507 |
 | Mason | 3.00% | ~507 |
 | Noble | 3.00% | ~507 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Fountainhead | 2.00% | ~338 |
 | Glorious | 2.00% | ~338 |
 | Great | 2.00% | ~338 |
-| Keystone | 2.00% | ~338 |
 | Magnificent | 2.00% | ~338 |
 | Warrior | 2.00% | ~338 |
 | Wise | 2.00% | ~338 |
@@ -83,19 +83,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greece | 0.90% | ~152 |
 | Power to the People | 0.90% | ~152 |
 | Win a Single Player Game | 0.90% | ~152 |
+| Victorious | 0.80% | ~135 |
 | Landowners | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
 | Economic Reform | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
+| Legalism | 0.80% | ~135 |
 | Legionary | 0.80% | ~135 |
 | Double Victory | 0.80% | ~135 |
 | The Clergy | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
+| Capable | 0.70% | ~118 |
 | Conqueror | 0.70% | ~118 |
+| Ready | 0.70% | ~118 |
 | Subjugator | 0.70% | ~118 |
-| Victorious | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
 | Pantheon | 0.70% | ~118 |
@@ -103,16 +106,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.70% | ~118 |
 | Assyrian Paganism | 0.70% | ~118 |
 | Military Prestige | 0.70% | ~118 |
-| Legalism | 0.70% | ~118 |
 | Cimmerian Archer | 0.70% | ~118 |
 | Kushite Pyramids | 0.70% | ~118 |
 | Bad Heir Day | 0.60% | ~101 |
-| Capable | 0.60% | ~101 |
 | Devout | 0.60% | ~101 |
 | Invincible | 0.60% | ~101 |
 | Lion | 0.60% | ~101 |
 | Peacemaker | 0.60% | ~101 |
-| Ready | 0.60% | ~101 |
 | Strong Difficulty | 0.60% | ~101 |
 | Hunters | 0.60% | ~101 |
 | Babylonia | 0.60% | ~101 |
@@ -124,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.60% | ~101 |
 | Phalangite | 0.60% | ~101 |
 | Ambition Victory | 0.60% | ~101 |
+| Jerwan Aqueduct | 0.60% | ~101 |
 | Clerics | 0.50% | ~84 |
 | Church of the Holy Sepulchre | 0.50% | ~84 |
 | Adur Burzen-Mihr | 0.50% | ~84 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~84 |
 | All Nations | 0.50% | ~84 |
 | Deposed Tribe | 0.50% | ~84 |
-| Jerwan Aqueduct | 0.50% | ~84 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
@@ -158,6 +158,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
+| Magnificent Difficulty | 0.20% | ~34 |
 | Event Level High | 0.20% | ~34 |
 | Run, Pheidippides, Run! | 0.20% | ~34 |
 | Nenikekamen | 0.20% | ~34 |
@@ -216,7 +217,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | White Death | 0.10% | ~17 |
 | Via Recta Souk in Damascus | 0.10% | ~17 |
 | Great Difficulty | 0.10% | ~17 |
-| Magnificent Difficulty | 0.10% | ~17 |
 | Elephant in Elephantine | 0.10% | ~17 |
 | Et tu Brutus? | 0.10% | ~17 |
 | Battle of the Fertile Crescent | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,892 (Ranked 169)  
+Progressed: 16,893 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,892 | 5 |
+| 2024-01-16 | 16,893 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

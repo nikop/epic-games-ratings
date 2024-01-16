@@ -7,7 +7,7 @@ Rating: 3.85 (Ranked 1,081)
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,916 |
 | The First Step | 87.00% | ~1,701 |
-| Moonbury Traveller | 62.00% | ~1,212 |
+| Moonbury Traveller | 63.00% | ~1,232 |
 | Rookie Chemist | 60.00% | ~1,173 |
 | Great Doctor | 50.00% | ~978 |
 | Dog Whisperer | 47.00% | ~919 |
@@ -30,7 +30,7 @@ Rating: 3.85 (Ranked 1,081)
 | Ablutomaniac | 12.00% | ~235 |
 | Production Sorter | 11.00% | ~215 |
 | Good Samaritan | 10.00% | ~196 |
-| Acrobatic Adventurer | 9.00% | ~176 |
+| Acrobatic Adventurer | 10.00% | ~196 |
 | Animal Exterminator | 9.00% | ~176 |
 | Adolescent Love | 6.00% | ~117 |
 | Mail Carrier | 6.00% | ~117 |

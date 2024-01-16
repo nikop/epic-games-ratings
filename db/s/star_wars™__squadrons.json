@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41587,
+  "EOS_Progressed": 41589,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2109,
+  "EOS_NewPlayers": 2105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14024,6 +14024,11 @@
       "Time": "2024-01-16T02:34:33.7853949+00:00",
       "NumProgressed": 41587,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T03:10:56.8228194+00:00",
+      "NumProgressed": 41589,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -14148,7 +14153,7 @@
       "Name": "Fearless",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "achievement_23",
@@ -14156,7 +14161,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "achievement_24",
@@ -14260,7 +14265,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 39508
+      "UsersEstimate": 39510
     },
     {
       "ID": "achievement_36",
@@ -14276,7 +14281,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4990
+      "UsersEstimate": 4991
     },
     {
       "ID": "achievement_38",
@@ -14308,7 +14313,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "achievement_41",
@@ -14380,7 +14385,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5406
+      "UsersEstimate": 5407
     },
     {
       "ID": "achievement_7",
@@ -14404,14 +14409,14 @@
       "Name": "A Promising Career",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 41587,
+      "Progressed": 41589,
       "Completed": 3
     }
   ],
@@ -14419,8 +14424,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:34:33.7853944+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:10:56.8228192+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.3811703+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:27:32.1786883+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:34:33.7855127+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:03:42.2907424+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:10:56.8228964+00:00"
 }

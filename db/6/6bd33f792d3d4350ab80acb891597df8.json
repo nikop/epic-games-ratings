@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -779,9 +779,9 @@
       "ID": "CgkIxYDzrbcPEAIQCA",
       "SetID": "4egpam7",
       "Name": "Secrets of Justice",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "CgkIxYDzrbcPEAIQCQ",
@@ -970,8 +970,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:28:50.9482483+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:05:22.2173873+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.2024911+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:21:25.5196323+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:28:50.9482819+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:57:23.4556223+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:05:22.2174031+00:00"
 }

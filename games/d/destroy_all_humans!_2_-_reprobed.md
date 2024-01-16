@@ -31,7 +31,7 @@ Number of Ratings: 90  (23.09.2022)
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~31 |
 | Ultimate Smoothie | 5.00% | ~22 |
 | Yettisoned | 5.00% | ~22 |
-| Arkvoodle Doodle | 4.00% | ~18 |
+| Arkvoodle Doodle | 5.00% | ~22 |
 | Deincarnated | 3.00% | ~13 |
 | Forbidden Donut | 2.00% | ~9 |
 | Against All Odds | 1.00% | ~4 |

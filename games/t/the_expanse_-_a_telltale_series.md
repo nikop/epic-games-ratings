@@ -25,8 +25,8 @@ Rating: 4.54 (Ranked 551)
 | Khan's Revenge | 8.00% | ~1,525 |
 | Keep Arjun in Check | 8.00% | ~401 |
 | Thorston Mayer | 7.00% | ~1,334 |
-| Doctor Approved | 6.00% | ~1,143 |
-| Bottoms up! | 6.00% | ~1,143 |
+| Doctor Approved | 6.00% | ~1,144 |
+| Bottoms up! | 6.00% | ~1,144 |
 | Master Negotiator | 6.00% | ~301 |
 | Data Logger | 5.00% | ~953 |
 | Miraculous Maya | 5.00% | ~953 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 551)
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,058 (Ranked 159)  
+Progressed: 19,059 (Ranked 159)  
 Completed: 66 (0.35%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 66 (0.35%) (Ranked 251)
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
 | 2024-01-15 | 19,055 | 66 |
-| 2024-01-16 | 19,058 | 66 |
+| 2024-01-16 | 19,059 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

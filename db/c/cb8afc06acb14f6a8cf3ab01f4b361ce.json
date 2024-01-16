@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 59,
@@ -491,9 +491,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 346019,
+  "EOS_Progressed": 346026,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2916,
+  "EOS_NewPlayers": 2914,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13531,6 +13531,11 @@
       "Time": "2024-01-16T02:33:22.5762562+00:00",
       "NumProgressed": 346019,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T03:09:29.1811446+00:00",
+      "NumProgressed": 346026,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13855,14 +13860,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6920
+      "UsersEstimate": 6921
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 346019,
+      "Progressed": 346026,
       "Completed": 7
     }
   ],
@@ -13870,8 +13875,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-15T05:59:05.9889997+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:33:22.5762557+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:09:29.181144+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:24:05.7389385+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:33:22.5763731+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:00:44.5796556+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:09:29.1812214+00:00"
 }

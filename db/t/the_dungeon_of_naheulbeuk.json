@@ -1755,9 +1755,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248313,
+  "EOS_Progressed": 248314,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1001,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26345,6 +26345,11 @@
       "Time": "2024-01-16T02:34:39.7054922+00:00",
       "NumProgressed": 248313,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-16T03:11:03.6961225+00:00",
+      "NumProgressed": 248314,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26852,7 +26857,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27314
+      "UsersEstimate": 27315
     },
     {
       "ID": "FollowBraztok",
@@ -27059,21 +27064,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248313,
+      "Progressed": 248314,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248313,
+      "Progressed": 248314,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-15T09:59:27.1713683+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:34:39.7054917+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:11:03.6961222+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:23:59.1152762+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:34:39.7057343+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:00:36.4241378+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:11:03.6962816+00:00"
 }

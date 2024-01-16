@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 182,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 228,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 162,
@@ -839,9 +839,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18327,
+  "EOS_Progressed": 18328,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -16134,6 +16134,11 @@
       "Time": "2024-01-16T02:30:10.5745527+00:00",
       "NumProgressed": 18327,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T03:07:02.5615582+00:00",
+      "NumProgressed": 18328,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -16161,7 +16166,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 12829
+      "UsersEstimate": 12830
     },
     {
       "ID": "ACH_04",
@@ -16177,7 +16182,7 @@
       "Name": "In our Wake",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 11729
+      "UsersEstimate": 11730
     },
     {
       "ID": "ACH_06",
@@ -16185,7 +16190,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 11179
+      "UsersEstimate": 11180
     },
     {
       "ID": "ACH_07",
@@ -16201,7 +16206,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 10446
+      "UsersEstimate": 10447
     },
     {
       "ID": "ACH_09",
@@ -16209,7 +16214,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 9713
+      "UsersEstimate": 9714
     },
     {
       "ID": "ACH_10",
@@ -16225,7 +16230,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8247
+      "UsersEstimate": 8248
     },
     {
       "ID": "ACH_12",
@@ -16233,7 +16238,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7697
+      "UsersEstimate": 7698
     },
     {
       "ID": "ACH_13",
@@ -16249,7 +16254,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6231
+      "UsersEstimate": 6232
     },
     {
       "ID": "ACH_15",
@@ -16257,7 +16262,7 @@
       "Name": "Dying Sun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "ACH_16",
@@ -16337,7 +16342,7 @@
       "Name": "Effective instruments",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "ACH_26",
@@ -16401,7 +16406,7 @@
       "Name": "Perfect throw",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "ACH_34",
@@ -16424,7 +16429,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18327,
+      "Progressed": 18328,
       "Completed": 66
     }
   ],
@@ -16432,8 +16437,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-14T11:02:38.12957+00:00",
-  "LastChanged_Achievements": "2024-01-16T02:30:10.5745524+00:00",
+  "LastChanged_Achievements": "2024-01-16T03:07:02.5615577+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.7609626+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:21:26.4747445+00:00",
-  "LastUpdate_Achievements": "2024-01-16T02:30:10.574666+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:57:24.8239657+00:00",
+  "LastUpdate_Achievements": "2024-01-16T03:07:02.5616645+00:00"
 }

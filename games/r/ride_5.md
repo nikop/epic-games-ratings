@@ -17,7 +17,7 @@ Rating: 4.59 (Ranked 453)
 | I Want One Too! | 21.00% | ~759 |
 | Restored and Ready | 20.00% | ~722 |
 | Legendary!!! | 20.00% | ~722 |
-| Go-Faster Stripes | 17.00% | ~614 |
+| Go-Faster Stripes | 18.00% | ~650 |
 | I'm Here Too! | 15.00% | ~542 |
 | We've Just Begun | 15.00% | ~542 |
 | Is It the Right Size? | 10.00% | ~361 |

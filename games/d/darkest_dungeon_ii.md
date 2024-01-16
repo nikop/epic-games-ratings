@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,094 |
-| Lost and Found | 9.00% | ~703 |
+| Malpractice Assurance | 14.00% | ~1,095 |
+| Lost and Found | 9.00% | ~704 |
 | Autodidact | 8.00% | ~10,636 |
 | This Belongs in a Museum | 7.00% | ~9,306 |
 | Overdue Notice | 7.00% | ~9,306 |
@@ -19,18 +19,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,977 |
 | Ploughshares to Swords | 6.00% | ~469 |
 | Bloody Graduation | 6.00% | ~469 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,647 |
-| It Rings a Bell | 5.00% | ~6,647 |
-| Not Today! | 5.00% | ~6,647 |
-| Meat and Greet | 5.00% | ~6,647 |
-| It Happens | 5.00% | ~6,647 |
-| Rush Hour | 5.00% | ~6,647 |
-| Merry Time | 5.00% | ~6,647 |
-| Harvest Festival | 5.00% | ~6,647 |
-| Whale | 5.00% | ~6,647 |
-| A Place to Lay Your Head | 5.00% | ~6,647 |
-| FNG | 5.00% | ~6,647 |
-| Nope | 5.00% | ~6,647 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,648 |
+| It Rings a Bell | 5.00% | ~6,648 |
+| Not Today! | 5.00% | ~6,648 |
+| Meat and Greet | 5.00% | ~6,648 |
+| It Happens | 5.00% | ~6,648 |
+| Rush Hour | 5.00% | ~6,648 |
+| Merry Time | 5.00% | ~6,648 |
+| Harvest Festival | 5.00% | ~6,648 |
+| Whale | 5.00% | ~6,648 |
+| A Place to Lay Your Head | 5.00% | ~6,648 |
+| FNG | 5.00% | ~6,648 |
+| Nope | 5.00% | ~6,648 |
+| Friends 'Til the End | 5.00% | ~391 |
 | Resurrection | 4.00% | ~5,318 |
 | Unleash Hell | 4.00% | ~5,318 |
 | Funny Guy | 4.00% | ~5,318 |
@@ -42,7 +43,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 4.00% | ~5,318 |
 | Ramble On | 4.00% | ~5,318 |
 | Unshackled | 4.00% | ~5,318 |
-| Friends 'Til the End | 4.00% | ~313 |
 | Wyrdly Reconstructed | 3.00% | ~3,988 |
 | Boxcar Kid | 3.00% | ~3,988 |
 | Hope Rekindled | 3.00% | ~3,988 |
@@ -60,11 +60,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,659 |
 | Eyes Up | 2.00% | ~2,659 |
 | Handled | 2.00% | ~2,659 |
-| Clearing the Ledger | 1.00% | ~1,329 |
-| Hat Trick | 1.00% | ~1,329 |
-| Shrine of Reflection | 1.00% | ~1,329 |
-| Triage | 1.00% | ~1,329 |
-| Body of Work | 1.00% | ~1,329 |
+| Clearing the Ledger | 1.00% | ~1,330 |
+| Hat Trick | 1.00% | ~1,330 |
+| Shrine of Reflection | 1.00% | ~1,330 |
+| Triage | 1.00% | ~1,330 |
+| Body of Work | 1.00% | ~1,330 |
 | No Mercy | 1.00% | ~78 |
 | Slap on the Wrist | 1.00% | ~78 |
 | For Old Time' Sake | 1.00% | ~78 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,946 (Ranked 92)  
+Progressed: 132,950 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,946 | 4 |
+| 2024-01-16 | 132,950 | 4 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,674 (Ranked 58)  
