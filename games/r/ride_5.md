@@ -5,15 +5,15 @@ Rating: 4.59 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,805 |
+| Eat My Dust | 50.00% | ~1,806 |
 | First Love | 46.00% | ~1,661 |
-| Clean Race | 45.00% | ~1,624 |
-| Hear That Roar! | 43.00% | ~1,552 |
+| Clean Race | 45.00% | ~1,625 |
+| Hear That Roar! | 43.00% | ~1,553 |
 | Bitter Rivalry | 31.00% | ~1,119 |
 | Rivals to the End | 31.00% | ~1,119 |
 | Champagne Spray | 30.00% | ~1,083 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,011 |
-| Quick Pit Stop | 23.00% | ~830 |
+| Quick Pit Stop | 23.00% | ~831 |
 | I Want One Too! | 21.00% | ~758 |
 | Restored and Ready | 20.00% | ~722 |
 | Legendary!!! | 20.00% | ~722 |
@@ -23,9 +23,9 @@ Rating: 4.59 (Ranked 453)
 | Is It the Right Size? | 10.00% | ~361 |
 | Stamina Star | 9.00% | ~325 |
 | Evangelist | 7.00% | ~253 |
-| Make It Your Own! | 5.00% | ~180 |
-| Cherry Blossom and Temples | 5.00% | ~180 |
-| The Road to Liberty | 5.00% | ~180 |
+| Make It Your Own! | 5.00% | ~181 |
+| Cherry Blossom and Temples | 5.00% | ~181 |
+| The Road to Liberty | 5.00% | ~181 |
 | Romantic Races | 4.00% | ~144 |
 | I Make the Rules! | 4.00% | ~144 |
 | My Work Here Is Done | 4.00% | ~144 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,610 (Ranked 226)  
+Progressed: 3,611 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 3,582 | 0 |
 | 2024-01-14 | 3,601 | 0 |
 | 2024-01-15 | 3,609 | 0 |
-| 2024-01-16 | 3,610 | 0 |
+| 2024-01-16 | 3,611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

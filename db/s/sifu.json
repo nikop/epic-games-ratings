@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9027,9 +9027,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761020,
+  "EOS_Progressed": 761025,
   "EOS_Completed": 12989,
-  "EOS_NewPlayers": 3475,
+  "EOS_NewPlayers": 3450,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33957,6 +33957,11 @@
       "Time": "2024-01-16T00:09:43.9765012+00:00",
       "NumProgressed": 761020,
       "NumCompleted": 12989
+    },
+    {
+      "Time": "2024-01-16T01:58:09.4902584+00:00",
+      "NumProgressed": 761025,
+      "NumCompleted": 12989
     }
   ],
   "TotalAchievements": 60,
@@ -33968,7 +33973,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45661
+      "UsersEstimate": 45662
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34312,7 +34317,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -34447,21 +34452,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70321,
+      "Progressed": 70326,
       "Completed": 10811
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761020,
+      "Progressed": 761025,
       "Completed": 12989
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-15T22:03:06.6765791+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:43.9765008+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:09.4902582+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:03:13.0730668+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:43.9766903+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:51:51.42507+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:09.4903894+00:00"
 }

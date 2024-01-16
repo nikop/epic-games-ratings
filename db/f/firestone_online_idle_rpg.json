@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -781,9 +781,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4513,
+  "EOS_Progressed": 4515,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12686,6 +12686,11 @@
       "Time": "2024-01-15T21:06:43.1349464+00:00",
       "NumProgressed": 4513,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T01:54:03.2182676+00:00",
+      "NumProgressed": 4515,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12881,7 +12886,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "fourleafclover",
@@ -13025,7 +13030,7 @@
       "Name": "Milestone collector",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "minerclicker",
@@ -13057,7 +13062,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "mythicpower",
@@ -13073,7 +13078,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "pokerface",
@@ -13089,7 +13094,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "prestigiousx10",
@@ -13121,7 +13126,7 @@
       "Name": "Scientist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "scrollmaster",
@@ -13145,7 +13150,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "templeofeternals",
@@ -13153,7 +13158,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "thealchemist",
@@ -13185,7 +13190,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "thepowerofawakening",
@@ -13201,7 +13206,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "titanpower",
@@ -13257,7 +13262,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4199
     },
     {
       "ID": "warmachinesarmy",
@@ -13289,14 +13294,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3522
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4513,
+      "Progressed": 4515,
       "Completed": 2
     }
   ],
@@ -13304,8 +13309,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-13T18:00:48.4471764+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:34.4145445+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:54:03.2182672+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:00:31.2034498+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:34.4146632+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:49:03.5429048+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:54:03.2183688+00:00"
 }

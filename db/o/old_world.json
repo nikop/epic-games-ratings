@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2300,7 +2300,7 @@
   ],
   "EOS_Progressed": 16888,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22439,9 +22439,9 @@
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Win a Single Player Game",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -23045,8 +23045,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:10:31.1672668+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:51.8585242+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:00:29.9099933+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:10:31.1682403+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:49:02.3857105+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:51.859479+00:00"
 }

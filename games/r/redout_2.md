@@ -5,8 +5,8 @@ Rating: 4.53 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 27.00% | ~327 |
-| Increasing your Power Level | 27.00% | ~327 |
+| Rookie No More | 27.00% | ~328 |
+| Increasing your Power Level | 27.00% | ~328 |
 | Enter the Speed Gauntlet | 25.00% | ~303 |
 | I just can't choose | 25.00% | ~303 |
 | A Cheese Grater to the Face | 19.00% | ~230 |
@@ -27,13 +27,13 @@ Rating: 4.53 (Ranked 567)
 | Even Faster! | 6.00% | ~73 |
 | Longshot | 6.00% | ~73 |
 | B-asic! | 5.00% | ~61 |
-| Under the neon lights | 4.00% | ~48 |
-| All Power to Engines! | 4.00% | ~48 |
-| Had to sweat a bit | 4.00% | ~48 |
-| Almost broke the game | 4.00% | ~48 |
-| Better luck next time | 4.00% | ~48 |
-| Dev, this! | 4.00% | ~48 |
-| He who laughs last... | 4.00% | ~48 |
+| Under the neon lights | 4.00% | ~49 |
+| All Power to Engines! | 4.00% | ~49 |
+| Had to sweat a bit | 4.00% | ~49 |
+| Almost broke the game | 4.00% | ~49 |
+| Better luck next time | 4.00% | ~49 |
+| Dev, this! | 4.00% | ~49 |
+| He who laughs last... | 4.00% | ~49 |
 | Try them all | 3.00% | ~36 |
 | A-mazing! | 3.00% | ~36 |
 | To infinity and gravity! | 3.00% | ~36 |
@@ -58,7 +58,7 @@ Rating: 4.53 (Ranked 567)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,212 (Ranked 285)  
+Progressed: 1,213 (Ranked 285)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,6 +214,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 1,210 | 0 |
 | 2024-01-13 | 1,211 | 0 |
 | 2024-01-14 | 1,212 | 0 |
+| 2024-01-16 | 1,213 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

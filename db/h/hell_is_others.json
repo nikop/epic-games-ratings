@@ -1507,9 +1507,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260699,
+  "EOS_Progressed": 260704,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27352,6 +27352,11 @@
       "Time": "2024-01-15T23:05:24.5157209+00:00",
       "NumProgressed": 260699,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T01:53:45.5446742+00:00",
+      "NumProgressed": 260704,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27395,7 +27400,7 @@
       "Name": "The Descent",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -27411,7 +27416,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80817
+      "UsersEstimate": 80818
     },
     {
       "ID": "BackHomeNTimes",
@@ -27651,7 +27656,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59961
+      "UsersEstimate": 59962
     },
     {
       "ID": "KillOthers2",
@@ -27667,7 +27672,7 @@
       "Name": "Predator III",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "KillUnstableThing",
@@ -27810,7 +27815,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260699,
+      "Progressed": 260704,
       "Completed": 3
     }
   ],
@@ -27818,8 +27823,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-15T13:03:04.4373001+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:15.1877896+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:53:45.5446739+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:29.1452808+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:15.1879221+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:18.7436074+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:53:45.5448491+00:00"
 }

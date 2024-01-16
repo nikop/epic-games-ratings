@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-fx",
   "Ranking_Rating": 1036,
   "Ranking_Popularity": 294,
-  "Ranking_PopularitySum": 235,
+  "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 401,
   "Ranking_EOS_NewPlayers": 60,
@@ -2299,9 +2299,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 295400,
+  "EOS_Progressed": 295420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2098,
+  "EOS_NewPlayers": 2101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33354,6 +33354,11 @@
       "Time": "2024-01-16T00:04:34.0025131+00:00",
       "NumProgressed": 295400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T01:53:07.4247621+00:00",
+      "NumProgressed": 295420,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -33485,7 +33490,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -33589,7 +33594,7 @@
       "Name": "Ball Launched",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11816
+      "UsersEstimate": 11817
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -33676,21 +33681,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 295400,
+      "Progressed": 295420,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 13559,
+      "Progressed": 13579,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-15T19:03:11.5947763+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:04:34.0025078+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:53:07.4247618+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.2652437+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:03:30.0280831+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:04:34.0027144+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:52:06.2456482+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:53:07.4249722+00:00"
 }

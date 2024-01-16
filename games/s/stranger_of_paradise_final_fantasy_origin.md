@@ -6,32 +6,32 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~80,033 |
-| No Escape | 86.00% | ~70,957 |
-| Seeker of Power | 84.00% | ~69,307 |
-| Hopes and Dreams | 82.00% | ~67,657 |
-| Lantern Smasher | 78.00% | ~64,356 |
-| The Pirate's Way | 73.00% | ~60,231 |
-| Dark Crystal, Warrior's Heart | 70.00% | ~57,756 |
-| The King of the Dark Elves | 67.00% | ~55,280 |
-| Memories of the Distant Past | 66.00% | ~54,455 |
-| Distortion's Progeny | 62.00% | ~51,155 |
-| Savant | 61.00% | ~50,330 |
-| A Landscape of Memory | 58.00% | ~47,855 |
-| The Wind's Light | 54.00% | ~44,554 |
-| Vague Remembrances | 49.00% | ~40,429 |
-| The Fire's Light | 47.00% | ~38,779 |
-| Phantom Memories | 47.00% | ~38,779 |
-| Imbued Memories | 46.00% | ~37,954 |
-| The Earth's Light | 45.00% | ~37,129 |
-| Shared Recollections | 42.00% | ~34,653 |
-| The Water's Light | 40.00% | ~33,003 |
-| Path of the Sage | 39.00% | ~32,178 |
-| Malice Takes Root | 37.00% | ~30,528 |
-| Path of the Dark Knight | 37.00% | ~30,528 |
-| Path of the Breaker | 37.00% | ~30,528 |
-| Duty's Course | 36.00% | ~29,703 |
-| Path of the Paladin | 36.00% | ~29,703 |
+| Manifestation of the Soul | 97.00% | ~80,035 |
+| No Escape | 86.00% | ~70,959 |
+| Seeker of Power | 84.00% | ~69,308 |
+| Hopes and Dreams | 82.00% | ~67,658 |
+| Lantern Smasher | 78.00% | ~64,358 |
+| The Pirate's Way | 73.00% | ~60,232 |
+| Dark Crystal, Warrior's Heart | 70.00% | ~57,757 |
+| The King of the Dark Elves | 67.00% | ~55,282 |
+| Memories of the Distant Past | 66.00% | ~54,457 |
+| Distortion's Progeny | 62.00% | ~51,156 |
+| Savant | 61.00% | ~50,331 |
+| A Landscape of Memory | 58.00% | ~47,856 |
+| The Wind's Light | 54.00% | ~44,555 |
+| Vague Remembrances | 49.00% | ~40,430 |
+| The Fire's Light | 47.00% | ~38,780 |
+| Phantom Memories | 47.00% | ~38,780 |
+| Imbued Memories | 46.00% | ~37,955 |
+| The Earth's Light | 45.00% | ~37,130 |
+| Shared Recollections | 42.00% | ~34,654 |
+| The Water's Light | 40.00% | ~33,004 |
+| Path of the Sage | 39.00% | ~32,179 |
+| Malice Takes Root | 37.00% | ~30,529 |
+| Path of the Dark Knight | 37.00% | ~30,529 |
+| Path of the Breaker | 37.00% | ~30,529 |
+| Duty's Course | 36.00% | ~29,704 |
+| Path of the Paladin | 36.00% | ~29,704 |
 | Path of the Liberator | 35.00% | ~28,878 |
 | Led by the Nose | 34.00% | ~28,053 |
 | Path of the Void Knight | 34.00% | ~28,053 |
@@ -47,13 +47,13 @@ Number of Ratings: 1,919  (23.09.2022)
 | Origin of True Chaos | 20.00% | ~16,502 |
 | Master's Awakening | 19.00% | ~15,677 |
 | Jack-of-All-Trades | 19.00% | ~15,677 |
-| Cycle of Darkness | 16.00% | ~13,201 |
+| Cycle of Darkness | 16.00% | ~13,202 |
 | Job Master | 8.00% | ~6,601 |
 | Crest Bearer | 7.00% | ~5,776 |
 | Strangers' Memories | 3.00% | ~2,475 |
 | A Tale of Origins and Endings | 2.00% | ~1,650 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,508 (Ranked 111)  
+Progressed: 82,510 (Ranked 111)  
 Completed: 2,236 (2.71%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,15 +323,15 @@ Completed: 2,236 (2.71%) (Ranked 118)
 | 2024-01-13 | 82,463 | 2,230 |
 | 2024-01-14 | 82,487 | 2,232 |
 | 2024-01-15 | 82,505 | 2,236 |
-| 2024-01-16 | 82,508 | 2,236 |
+| 2024-01-16 | 82,510 | 2,236 |
 ## Awards
-Max (Great Boss Battles): 782  (Ranked 188)  
-Sum: 1,610 (Ranked 242)  
-Diff (max vs sum): -54  
+Max (Great Boss Battles): 783  (Ranked 187)  
+Sum: 1,611 (Ranked 242)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |
-| This game has Great Boss Battles | 782 |
+| This game has Great Boss Battles | 783 |
 | This game is Extremely Fun | 115 |
 | This game is Highly Recommended | 114 |
 | This game has Diverse Characters | 111 |
@@ -476,3 +476,4 @@ Diff (max vs sum): -54
 | 2024-01-12 | 4.51 | - | 781 | 1,608 |
 | 2024-01-13 | 4.51 | - | 781 | 1,609 |
 | 2024-01-14 | 4.51 | - | 782 | 1,610 |
+| 2024-01-16 | 4.51 | - | 783 | 1,611 |

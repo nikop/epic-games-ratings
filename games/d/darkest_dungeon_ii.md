@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,093 |
-| Lost and Found | 9.00% | ~702 |
+| Malpractice Assurance | 14.00% | ~1,094 |
+| Lost and Found | 9.00% | ~703 |
 | Autodidact | 8.00% | ~10,635 |
-| This Belongs in a Museum | 7.00% | ~9,305 |
-| Overdue Notice | 7.00% | ~9,305 |
-| This guy... again? | 7.00% | ~546 |
-| Serenity Now! | 6.00% | ~7,976 |
-| Creep and Sleep | 6.00% | ~7,976 |
-| Catch and Decease | 6.00% | ~7,976 |
-| Escape from the Black Hole | 6.00% | ~7,976 |
-| To Grandmother's House | 6.00% | ~7,976 |
-| Ploughshares to Swords | 6.00% | ~468 |
-| Bloody Graduation | 6.00% | ~468 |
+| This Belongs in a Museum | 7.00% | ~9,306 |
+| Overdue Notice | 7.00% | ~9,306 |
+| This guy... again? | 7.00% | ~547 |
+| Serenity Now! | 6.00% | ~7,977 |
+| Creep and Sleep | 6.00% | ~7,977 |
+| Catch and Decease | 6.00% | ~7,977 |
+| Escape from the Black Hole | 6.00% | ~7,977 |
+| To Grandmother's House | 6.00% | ~7,977 |
+| Ploughshares to Swords | 6.00% | ~469 |
+| Bloody Graduation | 6.00% | ~469 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,647 |
 | It Rings a Bell | 5.00% | ~6,647 |
 | Not Today! | 5.00% | ~6,647 |
@@ -31,17 +31,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,647 |
 | FNG | 5.00% | ~6,647 |
 | Nope | 5.00% | ~6,647 |
-| Resurrection | 4.00% | ~5,317 |
-| Unleash Hell | 4.00% | ~5,317 |
-| Funny Guy | 4.00% | ~5,317 |
-| Long Live the King | 4.00% | ~5,317 |
-| Unfulfilled Desires | 4.00% | ~5,317 |
-| Dissector | 4.00% | ~5,317 |
-| Banishment | 4.00% | ~5,317 |
-| Now Stay Dead | 4.00% | ~5,317 |
-| Spelunker | 4.00% | ~5,317 |
-| Ramble On | 4.00% | ~5,317 |
-| Unshackled | 4.00% | ~5,317 |
+| Resurrection | 4.00% | ~5,318 |
+| Unleash Hell | 4.00% | ~5,318 |
+| Funny Guy | 4.00% | ~5,318 |
+| Long Live the King | 4.00% | ~5,318 |
+| Unfulfilled Desires | 4.00% | ~5,318 |
+| Dissector | 4.00% | ~5,318 |
+| Banishment | 4.00% | ~5,318 |
+| Now Stay Dead | 4.00% | ~5,318 |
+| Spelunker | 4.00% | ~5,318 |
+| Ramble On | 4.00% | ~5,318 |
+| Unshackled | 4.00% | ~5,318 |
 | Friends 'Til the End | 4.00% | ~312 |
 | Wyrdly Reconstructed | 3.00% | ~3,988 |
 | Boxcar Kid | 3.00% | ~3,988 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,935 (Ranked 92)  
+Progressed: 132,943 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,9 +347,10 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
+| 2024-01-16 | 132,943 | 4 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
-Sum: 21,671 (Ranked 58)  
+Sum: 21,674 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +363,7 @@ Diff (max vs sum): -7
 | This game has Unique Visuals | 1,472 |
 | This game has Amazing Storytelling | 1,451 |
 | This game has Quickly Understood Controls | 1,421 |
-| This game has a Creative Community | 1,095 |
+| This game has a Creative Community | 1,098 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -721,3 +722,4 @@ Diff (max vs sum): -7
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
+| 2024-01-16 | 4.68 | - | 8,026 | 21,674 |

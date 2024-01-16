@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24997,
+  "EOS_Progressed": 25002,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23533,6 +23533,11 @@
       "Time": "2024-01-16T00:06:26.3277617+00:00",
       "NumProgressed": 24997,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-16T01:54:51.3916986+00:00",
+      "NumProgressed": 25002,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23544,7 +23549,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19248
+      "UsersEstimate": 19252
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23568,7 +23573,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6249
+      "UsersEstimate": 6250
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -23576,7 +23581,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 17,
       "XP": 90,
-      "UsersEstimate": 4249
+      "UsersEstimate": 4250
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -23600,7 +23605,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12748
+      "UsersEstimate": 12751
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23624,7 +23629,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6501
     },
     {
       "ID": "ACH_THE_FALL",
@@ -23655,15 +23660,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 24997,
+      "Progressed": 25002,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:06:26.3277611+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:54:51.3916981+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:58:42.0454451+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:06:26.327875+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:47:23.5311967+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:54:51.391817+00:00"
 }

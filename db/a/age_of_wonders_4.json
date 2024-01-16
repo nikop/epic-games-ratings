@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7255,
+  "EOS_Progressed": 7257,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11277,6 +11277,11 @@
       "Time": "2024-01-15T23:05:53.253877+00:00",
       "NumProgressed": 7255,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T01:54:11.3388097+00:00",
+      "NumProgressed": 7257,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11304,7 +11309,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "12",
@@ -11408,7 +11413,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "24",
@@ -11424,7 +11429,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "26",
@@ -11456,7 +11461,7 @@
       "Name": "Stronger Together",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "3",
@@ -11496,7 +11501,7 @@
       "Name": "Seat of Power",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "34",
@@ -11767,13 +11772,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7255,
+      "Progressed": 7257,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7255,
+      "Progressed": 7257,
       "Completed": 8
     }
   ],
@@ -11781,8 +11786,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-11T22:58:38.2332491+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:43.1857144+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:54:11.3388092+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:02:41.8725296+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:43.1858371+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:49:12.0379599+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:54:11.33894+00:00"
 }

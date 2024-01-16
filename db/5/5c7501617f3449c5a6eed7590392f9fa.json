@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -1319,9 +1319,9 @@
       "ID": "Ach-02-orchestrion",
       "SetID": "2pjo9pi",
       "Name": "Orchestrion",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 127
     },
     {
       "ID": "Ach-02-parazit",
@@ -1335,9 +1335,9 @@
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -1670,8 +1670,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:27.6004406+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:57:54.2676902+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:59:34.9061079+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:27.6004846+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:48:12.5680257+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:57:54.2677358+00:00"
 }

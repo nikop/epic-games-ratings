@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1599,9 +1599,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7159,
+  "EOS_Progressed": 7160,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16839,6 +16839,11 @@
       "Time": "2024-01-15T22:05:44.2297894+00:00",
       "NumProgressed": 7159,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T01:54:21.5468459+00:00",
+      "NumProgressed": 7160,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16946,7 +16951,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -16954,7 +16959,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17002,7 +17007,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17010,7 +17015,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5226
+      "UsersEstimate": 5227
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17169,15 +17174,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7159,
+      "Progressed": 7160,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-14T20:59:02.4962913+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:54.2841748+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:54:21.5468456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:59:36.2217986+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:54.2842714+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:48:13.5529472+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:54:21.546933+00:00"
 }

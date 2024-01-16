@@ -2,9 +2,9 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 485,
+  "Ranking_EOS_Progress": 484,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2024-01-14T20:08:45.5851721+00:00",
       "NumProgressed": 124,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T01:57:22.0486035+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -537,7 +542,7 @@
       "Name": "Starry Night",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_100_CHARGE",
@@ -545,7 +550,7 @@
       "Name": "Ascending Will",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_100_FLUX",
@@ -583,9 +588,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -649,7 +654,7 @@
       "Name": "The Gang prevails",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_COOP",
@@ -663,9 +668,9 @@
       "ID": "ACH_COMPLETE_TUTO",
       "SetID": "5akmpni",
       "Name": "Oo-De-Lally",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_COOP_MISSIONS",
@@ -687,9 +692,9 @@
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -697,7 +702,7 @@
       "Name": "Watch your Step!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_ENEMY_LEDGE_THROW",
@@ -735,15 +740,15 @@
       "ID": "ACH_FINISHER",
       "SetID": "5akmpni",
       "Name": "Finish Him!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 5,
       "UsersEstimate": 109
     },
@@ -759,9 +764,9 @@
       "ID": "ACH_HEADSHOT_KILL",
       "SetID": "5akmpni",
       "Name": "Right between the eyes",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_HIGH_FIVE",
@@ -785,15 +790,15 @@
       "Name": "Locksley\u0027s Tears",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
       "SetID": "5akmpni",
       "Name": "Hidden Experiment",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_KILL_PRIORESS_ROBIN",
@@ -847,9 +852,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -960,14 +965,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:08:52.8244012+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:57:22.0486033+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.0262154+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:02:48.3703819+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:08:52.8244612+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:51:28.1251167+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:57:22.0486461+00:00"
 }

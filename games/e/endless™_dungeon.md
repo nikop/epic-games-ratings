@@ -7,7 +7,7 @@
 | Leap Before You Look | 68.00% | ~1,055 |
 | Getting the Hang of It | 42.00% | ~652 |
 | Hoarder | 33.00% | ~512 |
-| Pest Control | 28.00% | ~435 |
+| Pest Control | 29.00% | ~450 |
 | Blobmeister | 27.00% | ~419 |
 | Exhaustive Explorer | 27.00% | ~419 |
 | How Low Can We Go? | 24.00% | ~372 |

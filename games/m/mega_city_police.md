@@ -14,6 +14,7 @@
 | The Hunt | 10.00% | ~4 |
 | Gibbing Love | 7.00% | ~3 |
 | Escape From M.C. | 7.00% | ~3 |
+| Restore Honor | 5.00% | ~2 |
 | Head of the Snake | 2.00% | ~1 |
 | Barbecue Time | 2.00% | ~1 |
 | Vehicular Mayhem | 2.00% | ~1 |
@@ -23,7 +24,6 @@
 | Dust to Dust | 2.00% | ~1 |
 | Flawless Victory | 2.00% | ~1 |
 | For Science | 2.00% | ~1 |
-| Restore Honor | 2.00% | ~1 |
 | Bring Down the Corp | 2.00% | ~1 |
 | Millionaire | 2.00% | ~1 |
 | Fashionista | 2.00% | ~1 |

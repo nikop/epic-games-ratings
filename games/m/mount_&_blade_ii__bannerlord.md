@@ -6,20 +6,20 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,052 |
-| Landlord | 34.00% | ~32,459 |
+| Lawbringer | 43.00% | ~41,053 |
+| Landlord | 34.00% | ~32,460 |
 | Trained | 30.00% | ~28,641 |
 | Bannerlord | 24.00% | ~22,913 |
 | Lawmaker | 24.00% | ~22,913 |
-| Horde breaker | 21.00% | ~20,048 |
+| Horde breaker | 21.00% | ~20,049 |
 | The king is pleased | 19.00% | ~18,139 |
-| King Solomon | 18.00% | ~17,184 |
+| King Solomon | 18.00% | ~17,185 |
 | Apple of my eye | 17.00% | ~16,230 |
 | This Is Our Land | 16.00% | ~15,275 |
-| Against all odds | 15.00% | ~14,320 |
-| I can do it | 15.00% | ~14,320 |
-| Duelist | 12.00% | ~11,456 |
-| God of the Arena | 12.00% | ~11,456 |
+| Against all odds | 15.00% | ~14,321 |
+| I can do it | 15.00% | ~14,321 |
+| Duelist | 12.00% | ~11,457 |
+| God of the Arena | 12.00% | ~11,457 |
 | Swordbearer | 11.00% | ~10,502 |
 | Dynasty | 10.00% | ~9,547 |
 | I spit on your grave | 10.00% | ~9,547 |
@@ -27,7 +27,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 9.00% | ~8,592 |
 | Know your enemy | 7.00% | ~6,683 |
 | Mastery | 7.00% | ~6,683 |
-| My way | 5.00% | ~4,773 |
+| My way | 5.00% | ~4,774 |
 | Crowdfunded | 4.00% | ~3,819 |
 | Crush your enemies | 4.00% | ~3,819 |
 | Veni vidi vici | 4.00% | ~3,819 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,469 (Ranked 103)  
+Progressed: 95,471 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,14 +329,14 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 94,972 | 0 |
 | 2024-01-14 | 95,259 | 0 |
 | 2024-01-15 | 95,467 | 0 |
-| 2024-01-16 | 95,469 | 0 |
+| 2024-01-16 | 95,471 | 0 |
 ## Awards
-Max (Character Customization): 8,068  (Ranked 50)  
-Sum: 16,733 (Ranked 66)  
+Max (Character Customization): 8,089  (Ranked 50)  
+Sum: 16,754 (Ranked 66)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,068 |
+| This game has Inclusive Character Customization | 8,089 |
 | This game is Great for Beginners | 1,217 |
 | This game has Diverse Characters | 1,116 |
 | This game is Highly Recommended | 1,022 |
@@ -717,3 +717,4 @@ Diff (max vs sum): -16
 | 2024-01-13 | 4.74 | - | 8,050 | 16,687 |
 | 2024-01-14 | 4.74 | - | 8,050 | 16,696 |
 | 2024-01-15 | 4.74 | - | 8,068 | 16,733 |
+| 2024-01-16 | 4.74 | - | 8,089 | 16,754 |

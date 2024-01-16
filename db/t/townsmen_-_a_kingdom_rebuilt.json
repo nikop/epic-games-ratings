@@ -2862,9 +2862,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
       "SetID": "9eacipp",
       "Name": "Time for some trade",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 401
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION04",
@@ -2910,8 +2910,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2024-01-13T19:57:35.6004403+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:10:30.3875969+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:51.2186242+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.9011339+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:58:23.8945811+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:10:30.3876909+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:47:07.2790148+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:51.2187144+00:00"
 }

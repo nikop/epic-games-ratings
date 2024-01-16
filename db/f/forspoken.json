@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1003,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 127,
@@ -667,9 +667,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47311,
+  "EOS_Progressed": 47315,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18947,6 +18947,11 @@
       "Time": "2024-01-16T00:03:47.0277614+00:00",
       "NumProgressed": 47311,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T01:52:23.4576893+00:00",
+      "NumProgressed": 47315,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19006,7 +19011,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6150
+      "UsersEstimate": 6151
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19022,7 +19027,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -19222,7 +19227,7 @@
       "Name": "Wildfire",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MAGIC_TANTA",
@@ -19294,7 +19299,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5677
+      "UsersEstimate": 5678
     },
     {
       "ID": "SPRING_ALL",
@@ -19381,22 +19386,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47311,
+      "Progressed": 47315,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12148,
-      "Completed": 12148
+      "Progressed": 12152,
+      "Completed": 12152
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:03:47.0277611+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:52:23.457689+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:03:06.6803212+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:03:47.0278969+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:51:45.643562+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:52:23.4578497+00:00"
 }

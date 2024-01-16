@@ -43,8 +43,8 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~165 |
 | Knuckle Sandwich | 8.00% | ~165 |
 | Getting the Gang Back Together | 7.00% | ~145 |
+| Healing Old Wounds | 6.00% | ~124 |
 | Who You Gonna Call? | 6.00% | ~124 |
-| Healing Old Wounds | 5.00% | ~103 |
 | This Is Sparta | 5.00% | ~103 |
 | What’s in the Box? | 5.00% | ~103 |
 | Ghost Town | 3.00% | ~62 |

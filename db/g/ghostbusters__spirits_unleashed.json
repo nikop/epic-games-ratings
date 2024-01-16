@@ -4023,9 +4023,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33703,
+  "EOS_Progressed": 33706,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25633,6 +25633,11 @@
       "Time": "2024-01-16T00:09:17.4344134+00:00",
       "NumProgressed": 33703,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-16T01:57:44.9789977+00:00",
+      "NumProgressed": 33706,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25756,7 +25761,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "Escape_Artist",
@@ -25948,7 +25953,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "Summoner",
@@ -26042,16 +26047,16 @@
       "ID": "Whoopsie",
       "SetID": "819popo",
       "Name": "Whoopsie",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1685
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33703,
+      "Progressed": 33706,
       "Completed": 71
     }
   ],
@@ -26059,8 +26064,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-13T18:02:51.6107489+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:17.4344131+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:57:44.9789975+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:02:52.0328111+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:17.4345243+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:51:31.5489971+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:57:44.9791145+00:00"
 }

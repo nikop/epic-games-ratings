@@ -339,7 +339,7 @@
   ],
   "EOS_Progressed": 1418,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4432,9 +4432,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 298
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4633,8 +4633,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-14T21:57:41.4867657+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:27.10315+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:53:56.6546962+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:58:17.3777138+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:27.1032177+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:47:01.9391321+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:53:56.6547469+00:00"
 }

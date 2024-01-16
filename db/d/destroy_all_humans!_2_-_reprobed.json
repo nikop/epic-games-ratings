@@ -6,8 +6,8 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,11 +306,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-12-01T10:05:16.7894965+00:00",
@@ -1996,6 +1996,11 @@
       "Time": "2024-01-15T22:09:21.3391759+00:00",
       "NumProgressed": 439,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T01:58:04.6772822+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2008,7 +2013,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2024,7 +2029,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2120,7 +2125,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2136,7 +2141,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2144,7 +2149,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2256,7 +2261,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2350,16 +2355,16 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 2
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:38.8041994+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:04.677282+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:42.4377567+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:38.8042403+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:30.8780965+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:04.6773135+00:00"
 }

@@ -18,7 +18,7 @@
 | The Steed | 9.00% | ~14 |
 | Card Completionist | 9.00% | ~14 |
 | The Bodyguard | 7.00% | ~11 |
-| The Apprentice | 6.00% | ~9 |
+| The Apprentice | 7.00% | ~11 |
 | Braving Miasma | 6.00% | ~9 |
 | No Stone Unturned | 6.00% | ~9 |
 | The Familiar | 5.00% | ~8 |

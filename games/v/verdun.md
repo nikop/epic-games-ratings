@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,293 |
-| Worth it | 63.00% | ~43,852 |
-| Eagle Eye | 55.00% | ~38,283 |
-| Corpseman I | 39.00% | ~27,146 |
-| Blast fishing | 37.00% | ~25,754 |
-| Not alone | 32.00% | ~22,274 |
-| Headhunter I | 26.00% | ~18,098 |
-| Developers, Developers, Developers | 24.00% | ~16,705 |
-| Manual Labour I | 24.00% | ~16,705 |
-| Basic Training | 23.00% | ~16,009 |
+| Setting an example | 78.00% | ~54,297 |
+| Worth it | 63.00% | ~43,855 |
+| Eagle Eye | 55.00% | ~38,286 |
+| Corpseman I | 39.00% | ~27,148 |
+| Blast fishing | 37.00% | ~25,756 |
+| Not alone | 32.00% | ~22,276 |
+| Headhunter I | 26.00% | ~18,099 |
+| Developers, Developers, Developers | 24.00% | ~16,707 |
+| Manual Labour I | 24.00% | ~16,707 |
+| Basic Training | 23.00% | ~16,011 |
 | Furchtlos und Treu | 13.00% | ~9,049 |
 | Gott Mit Uns | 12.00% | ~8,353 |
 | This We'll Defend! | 9.00% | ~6,265 |
 | Providentiea Memor | 9.00% | ~6,265 |
 | For King and Country | 9.00% | ~6,265 |
-| Battle hardened | 8.00% | ~5,568 |
-| Anker wirf! | 8.00% | ~5,568 |
-| Semper Fidelis! | 7.00% | ~4,872 |
-| Honneur et Patrie | 7.00% | ~4,872 |
-| In Treue Fest | 5.00% | ~3,480 |
-| Voor De Koning | 5.00% | ~3,480 |
-| Extreme Headhunter | 5.00% | ~3,480 |
+| Battle hardened | 8.00% | ~5,569 |
+| Anker wirf! | 8.00% | ~5,569 |
+| Semper Fidelis! | 7.00% | ~4,873 |
+| Honneur et Patrie | 7.00% | ~4,873 |
+| In Treue Fest | 5.00% | ~3,481 |
+| Voor De Koning | 5.00% | ~3,481 |
+| Extreme Headhunter | 5.00% | ~3,481 |
 | Advance Australia | 4.00% | ~2,784 |
 | We Stand on Guard | 4.00% | ~2,784 |
 | Sidi Brahim | 4.00% | ~2,784 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,606 (Ranked 116)  
+Progressed: 69,611 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 4 (0.01%) (Ranked 377)
 | 2024-01-13 | 69,417 | 4 |
 | 2024-01-14 | 69,530 | 4 |
 | 2024-01-15 | 69,603 | 4 |
-| 2024-01-16 | 69,606 | 4 |
+| 2024-01-16 | 69,611 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 374)  
 Sum: 838 (Ranked 290)  

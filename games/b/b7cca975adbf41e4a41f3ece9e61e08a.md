@@ -5,32 +5,32 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,429 |
-| I Challenge You To Save More Money! | 81.00% | ~15,122 |
-| I Love How Tough You Are | 65.00% | ~12,135 |
+| Last Night...Did We... | 88.00% | ~16,430 |
+| I Challenge You To Save More Money! | 81.00% | ~15,123 |
+| I Love How Tough You Are | 65.00% | ~12,136 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,015 |
 | What I Want Is You | 53.00% | ~9,895 |
-| To Be Or Not To Be | 50.00% | ~9,334 |
-| Are You Alright? | 47.00% | ~8,774 |
+| To Be Or Not To Be | 50.00% | ~9,335 |
+| Are You Alright? | 47.00% | ~8,775 |
 | Love Actually | 42.00% | ~7,841 |
 | Drama King | 36.00% | ~6,721 |
 | Go Clean up In Your Own Way | 33.00% | ~6,161 |
 | You're Really Something Else | 32.00% | ~5,974 |
-| Drama CP: Reel to Real | 31.00% | ~5,787 |
+| Drama CP: Reel to Real | 31.00% | ~5,788 |
 | Happy Family | 30.00% | ~5,601 |
 | FIRST LOVE | 30.00% | ~5,601 |
 | Worthless Speech | 30.00% | ~5,601 |
-| Absolutely Elegant | 28.00% | ~5,227 |
-| Still Single | 28.00% | ~5,227 |
-| ONE PUNCH | 28.00% | ~5,227 |
+| Absolutely Elegant | 28.00% | ~5,228 |
+| Still Single | 28.00% | ~5,228 |
+| ONE PUNCH | 28.00% | ~5,228 |
 | Days Of Innocence | 26.00% | ~4,854 |
 | David | 26.00% | ~4,854 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,667 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,668 |
 | A Slap In The Face! | 22.00% | ~4,107 |
 | That's So You | 22.00% | ~4,107 |
-| All I Have Is Money | 21.00% | ~3,920 |
-| Lover In Dark Alley | 21.00% | ~3,920 |
-| SALUTE | 21.00% | ~3,920 |
+| All I Have Is Money | 21.00% | ~3,921 |
+| Lover In Dark Alley | 21.00% | ~3,921 |
+| SALUTE | 21.00% | ~3,921 |
 | Let Me Be Your Toy Boy | 20.00% | ~3,734 |
 | Off We Sail Tonight | 15.00% | ~2,800 |
 | Can You Do This Or Not? | 14.00% | ~2,614 |
@@ -48,7 +48,7 @@ Rating: 4.70 (Ranked 220)
 | Tall; Grande; Venti | 2.00% | ~373 |
 | Limerence | 2.00% | ~373 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,669 (Ranked 161)  
+Progressed: 18,670 (Ranked 161)  
 Completed: 329 (1.76%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,6 +149,7 @@ Completed: 329 (1.76%) (Ranked 146)
 | 2024-01-13 | 18,544 | 320 |
 | 2024-01-14 | 18,602 | 324 |
 | 2024-01-15 | 18,669 | 329 |
+| 2024-01-16 | 18,670 | 329 |
 ## Awards
 Max (Impact the Story): 38  (Ranked 493)  
 Sum: 38 (Ranked 531)  

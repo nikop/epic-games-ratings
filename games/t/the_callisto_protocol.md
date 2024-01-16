@@ -1,25 +1,25 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.21 (Ranked 960)  
+Rating: 4.22 (Ranked 956)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 27.00% | ~6,057 |
-| The Outer Way | 27.00% | ~6,057 |
-| Desperate Times | 26.00% | ~5,833 |
-| Paper Jams | 24.00% | ~5,384 |
-| Get a Grip | 23.00% | ~5,160 |
-| Chew 'Em Up | 21.00% | ~4,711 |
-| Reforged | 20.00% | ~4,487 |
-| Float Like A Butterfly | 18.00% | ~4,038 |
+| Flesh Wound | 27.00% | ~6,058 |
+| The Outer Way | 27.00% | ~6,058 |
+| Desperate Times | 26.00% | ~5,834 |
+| Paper Jams | 24.00% | ~5,385 |
+| Get a Grip | 23.00% | ~5,161 |
+| Chew 'Em Up | 21.00% | ~4,712 |
+| Reforged | 20.00% | ~4,488 |
+| Float Like A Butterfly | 18.00% | ~4,039 |
+| If the SHU Fits... | 18.00% | ~4,039 |
 | Workplace Hazard | 17.00% | ~3,814 |
-| If the SHU Fits... | 17.00% | ~3,814 |
-| Without A Paddle | 15.00% | ~3,365 |
-| In the Pipe, Five by Five | 13.00% | ~2,916 |
-| Crash Site | 13.00% | ~2,916 |
-| Two Heads Are Better Than One | 12.00% | ~2,692 |
-| Power Up | 12.00% | ~2,692 |
+| Without A Paddle | 15.00% | ~3,366 |
+| In the Pipe, Five by Five | 13.00% | ~2,917 |
+| Crash Site | 13.00% | ~2,917 |
+| Two Heads Are Better Than One | 12.00% | ~2,693 |
+| Power Up | 12.00% | ~2,693 |
 | Giving Back | 11.00% | ~2,468 |
 | Terminated | 11.00% | ~2,468 |
 | What Lies Beneath | 11.00% | ~2,468 |
@@ -53,7 +53,7 @@ Rating: 4.21 (Ranked 960)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,433 (Ranked 151)  
+Progressed: 22,438 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 82 (0.37%) (Ranked 246)
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
-| 2024-01-16 | 22,433 | 82 |
+| 2024-01-16 | 22,438 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 344)  
 Sum: 654 (Ranked 318)  
@@ -536,3 +536,4 @@ Diff (max vs sum): 26
 | 2024-01-13 | 4.22 | 134 | 649 |
 | 2024-01-14 | 4.22 | 135 | 653 |
 | 2024-01-15 | 4.22 | 135 | 654 |
+| 2024-01-16 | 4.22 | 135 | 654 |

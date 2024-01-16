@@ -866,7 +866,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6362,
+  "EOS_Progressed": 6363,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
@@ -13311,6 +13311,11 @@
       "Time": "2024-01-15T23:05:54.2180617+00:00",
       "NumProgressed": 6362,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T01:54:12.0869621+00:00",
+      "NumProgressed": 6363,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13339,7 +13344,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13355,7 +13360,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13467,7 +13472,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13506,15 +13511,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6362,
+      "Progressed": 6363,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:44.0552283+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:54:12.0869617+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:59:50.0868242+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:44.0553271+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:48:26.5828061+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:54:12.087038+00:00"
 }

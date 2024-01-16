@@ -20,11 +20,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.70% | ~1,779 |
 | Fast Food | 0.70% | ~1,543 |
 | A Persistent Buzzing | 0.60% | ~1,525 |
-| Maddening | 0.50% | ~1,270 |
-| Terror in the Dark | 0.50% | ~1,270 |
-| Unearthed Evil | 0.50% | ~1,270 |
-| The Crumbling Temple | 0.50% | ~1,270 |
-| The Contagious Curse | 0.50% | ~1,270 |
+| Maddening | 0.50% | ~1,271 |
+| Terror in the Dark | 0.50% | ~1,271 |
+| Unearthed Evil | 0.50% | ~1,271 |
+| The Crumbling Temple | 0.50% | ~1,271 |
+| The Contagious Curse | 0.50% | ~1,271 |
 | The Overgrown Grove | 0.50% | ~1,102 |
 | Flames of Avernus | 0.50% | ~1,102 |
 | Mental Gymnastics | 0.50% | ~1,102 |
@@ -36,12 +36,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.40% | ~1,016 |
 | Escort to Waterdeep | 0.40% | ~1,016 |
 | Waterdeep Detours | 0.40% | ~1,016 |
-| Arcane Suppression | 0.40% | ~881 |
-| Welcome to the Vrocks | 0.40% | ~881 |
-| Misaligned in Sigil | 0.40% | ~881 |
-| Chaos Theory | 0.40% | ~881 |
-| When Tentacles Attack | 0.40% | ~881 |
-| Mind Spike | 0.40% | ~881 |
+| Arcane Suppression | 0.40% | ~882 |
+| Welcome to the Vrocks | 0.40% | ~882 |
+| Misaligned in Sigil | 0.40% | ~882 |
+| Chaos Theory | 0.40% | ~882 |
+| When Tentacles Attack | 0.40% | ~882 |
+| Mind Spike | 0.40% | ~882 |
 | The Silken Swamp | 0.30% | ~762 |
 | Low Initiative | 0.30% | ~762 |
 | March of the Undead | 0.30% | ~762 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,091 (Ranked 70)  
+Progressed: 254,103 (Ranked 70)  
 Completed: 2,619 (1.03%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -824,7 +824,7 @@ Completed: 2,619 (1.03%) (Ranked 177)
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
-| 2024-01-16 | 254,091 | 2,619 |
+| 2024-01-16 | 254,103 | 2,619 |
 ## Awards
 Max (Great for Beginners): 5,784  (Ranked 74)  
 Sum: 33,514 (Ranked 41)  

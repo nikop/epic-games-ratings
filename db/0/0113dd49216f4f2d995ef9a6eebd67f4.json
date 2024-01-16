@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1259,6 +1259,11 @@
       "Time": "2024-01-15T14:09:07.9782474+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T01:57:49.3239532+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1341,9 +1346,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 199
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1375,7 +1380,7 @@
       "Name": "Heartbreaker",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1383,7 +1388,7 @@
       "Name": "Like Heroes Before You",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SG_LOSTINASONG",
@@ -1407,7 +1412,7 @@
       "Name": "Meant To Be",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "SG_MYTIMETOSHINE",
@@ -1566,14 +1571,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:22.2392171+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:57:49.3239529+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:59:28.0797877+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:22.2392686+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:48:06.5038841+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:57:49.3239843+00:00"
 }

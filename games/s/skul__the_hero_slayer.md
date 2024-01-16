@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,730 |
-| What should I buy? | 80.00% | ~11,810 |
-| Focus! | 60.00% | ~8,858 |
-| Rescued Elder Ent | 60.00% | ~8,858 |
-| The End of the Gold Mane Knights | 48.00% | ~7,086 |
-| False Goddess, Disappear | 39.00% | ~5,758 |
-| Rules of Etiquette | 37.00% | ~5,462 |
-| Inventory Management | 32.00% | ~4,724 |
-| The Fall of the Leonia Order | 30.00% | ~4,429 |
-| Quick Movements | 30.00% | ~4,429 |
+| The Legend Begins | 93.00% | ~13,732 |
+| What should I buy? | 80.00% | ~11,813 |
+| Focus! | 60.00% | ~8,860 |
+| Rescued Elder Ent | 60.00% | ~8,860 |
+| The End of the Gold Mane Knights | 48.00% | ~7,088 |
+| False Goddess, Disappear | 39.00% | ~5,759 |
+| Rules of Etiquette | 37.00% | ~5,463 |
+| Inventory Management | 32.00% | ~4,725 |
+| The Fall of the Leonia Order | 30.00% | ~4,430 |
+| Quick Movements | 30.00% | ~4,430 |
 | Go Home... | 28.00% | ~4,134 |
-| The Final Battle of the First Hero | 27.00% | ~3,986 |
-| The Hero Killer | 25.00% | ~3,691 |
+| The Final Battle of the First Hero | 27.00% | ~3,987 |
+| The Hero Killer | 25.00% | ~3,692 |
 | Brain at Full Throttle | 20.00% | ~2,953 |
-| Rookies Welcome | 18.00% | ~2,657 |
-| Deadly Power | 16.00% | ~2,362 |
-| Castle Restoration Plans | 13.00% | ~1,919 |
-| The Dwarven Chandelier | 10.00% | ~1,476 |
+| Rookies Welcome | 17.00% | ~2,510 |
+| Deadly Power | 16.00% | ~2,363 |
+| Castle Restoration Plans | 13.00% | ~1,920 |
+| The Dwarven Chandelier | 10.00% | ~1,477 |
 | Master of Speed | 9.00% | ~1,329 |
 | The Levitator | 8.00% | ~1,181 |
 | The God of Battle | 4.00% | ~591 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,763 (Ranked 175)  
+Progressed: 14,766 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 22 (0.15%) (Ranked 292)
 | 2024-01-13 | 14,691 | 22 |
 | 2024-01-14 | 14,732 | 22 |
 | 2024-01-15 | 14,763 | 22 |
+| 2024-01-16 | 14,766 | 22 |
 ## Awards
 Max (Great for Beginners): 154  (Ranked 332)  
 Sum: 1,028 (Ranked 273)  

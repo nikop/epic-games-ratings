@@ -9,7 +9,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 0.70% | ~3,498 |
 | That's a Grand Army | 0.60% | ~2,998 |
 | Victorious! | 0.60% | ~2,998 |
-| That is mine! | 0.50% | ~2,498 |
+| That is mine! | 0.50% | ~2,499 |
 | Brothers in Arms | 0.40% | ~1,999 |
 | That's a Grand Navy | 0.40% | ~1,999 |
 | Seriously?! | 0.40% | ~1,999 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,682 (Ranked 42)  
+Progressed: 499,708 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,10 +641,10 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
-| 2024-01-16 | 499,682 | 1 |
+| 2024-01-16 | 499,708 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
-Sum: 64,731 (Ranked 24)  
+Sum: 64,739 (Ranked 24)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -652,7 +652,7 @@ Diff (max vs sum): 28
 | This game has Diverse Characters | 7,704 |
 | This game is Highly Recommended | 7,535 |
 | This game has Challenging Combat | 7,473 |
-| This game is Extremely Fun | 7,350 |
+| This game is Extremely Fun | 7,358 |
 | This game is Relaxing | 7,196 |
 | This game has Competitive Players | 7,033 |
 | This game has Amazing Storytelling | 6,544 |
@@ -1025,3 +1025,4 @@ Diff (max vs sum): 28
 | 2024-01-13 | 4.69 | - | 7,836 | 64,538 |
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
 | 2024-01-15 | 4.69 | - | 7,850 | 64,731 |
+| 2024-01-16 | 4.69 | - | 7,850 | 64,739 |

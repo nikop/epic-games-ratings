@@ -5,9 +5,9 @@
   "Ranking_Rating": 261,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 246,
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2282,7 +2282,7 @@
   ],
   "EOS_Progressed": 915,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10535,9 +10535,9 @@
       "ID": "M_HOME_RANK",
       "SetID": "80dcan0",
       "Name": "Builder of the Month",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 695
+      "UsersEstimate": 705
     },
     {
       "ID": "M_HOME_STAR",
@@ -10583,9 +10583,9 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 549
     },
     {
       "ID": "P_FOREST",
@@ -10695,9 +10695,9 @@
       "ID": "S_BRIGHTSUN",
       "SetID": "80dcan0",
       "Name": "Anti-Santa",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 549
     },
     {
       "ID": "S_CARD",
@@ -10727,9 +10727,9 @@
       "ID": "S_FRIEND",
       "SetID": "80dcan0",
       "Name": "One of the Cool Kids",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 897
     },
     {
       "ID": "S_GAMECOIN",
@@ -10823,9 +10823,9 @@
       "ID": "S_WINTERSOLSTICE",
       "SetID": "80dcan0",
       "Name": "You Don\u0027t Win Friends With Salad",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 540
+      "UsersEstimate": 549
     },
     {
       "ID": "S_YAKMEL",
@@ -10839,9 +10839,9 @@
       "ID": "X_CHEST",
       "SetID": "80dcan0",
       "Name": "Unboxing",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 805
     },
     {
       "ID": "X_CLEAN",
@@ -10903,8 +10903,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-15T14:58:48.2879499+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:15.6843774+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:57:43.3595201+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.134628+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:58:46.2269353+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:15.6844716+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:47:27.1892875+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:57:43.3595856+00:00"
 }

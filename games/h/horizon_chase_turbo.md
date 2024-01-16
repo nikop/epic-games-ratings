@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~994,946 |
-| I Need a Bigger Garage | 63.00% | ~696,462 |
-| Pump my Ride | 47.00% | ~519,583 |
-| Ghostbuster | 34.00% | ~375,868 |
-| Call Roadside Assistance | 18.00% | ~198,989 |
-| That Was Close | 18.00% | ~198,989 |
-| Quickie | 11.00% | ~121,604 |
-| California Dreamer | 7.00% | ~77,385 |
-| Can't Touch This | 5.00% | ~55,275 |
-| Carménère Taster | 4.00% | ~44,220 |
-| Comeback | 4.00% | ~44,220 |
+| The First of Many | 90.00% | ~994,964 |
+| I Need a Bigger Garage | 63.00% | ~696,475 |
+| Pump my Ride | 47.00% | ~519,593 |
+| Ghostbuster | 34.00% | ~375,875 |
+| Call Roadside Assistance | 18.00% | ~198,993 |
+| That Was Close | 18.00% | ~198,993 |
+| Quickie | 11.00% | ~121,607 |
+| California Dreamer | 7.00% | ~77,386 |
+| Can't Touch This | 5.00% | ~55,276 |
+| Carménère Taster | 4.00% | ~44,221 |
+| Comeback | 4.00% | ~44,221 |
 | Driver from Ipanema | 3.00% | ~33,165 |
 | Supersonic | 3.00% | ~33,165 |
 | Marathonist | 3.00% | ~33,165 |
@@ -34,17 +34,17 @@ Number of Ratings: 1,343  (23.09.2022)
 | Oil Tycoon | 1.00% | ~11,055 |
 | Golden Passport | 1.00% | ~11,055 |
 | Brave and Bold | 1.00% | ~11,055 |
-| Volcano Surfer | 0.90% | ~9,949 |
-| Otaku | 0.90% | ~9,949 |
+| Volcano Surfer | 0.90% | ~9,950 |
+| Otaku | 0.90% | ~9,950 |
 | Survivor | 0.60% | ~6,633 |
 | King of the World | 0.60% | ~6,633 |
-| Getting Famous | 0.50% | ~5,527 |
-| Now Go Play Outside | 0.30% | ~3,316 |
+| Getting Famous | 0.50% | ~5,528 |
+| Now Go Play Outside | 0.30% | ~3,317 |
 | Master of the Racetrack | 0.20% | ~2,211 |
 | Look Mom, No Hands! | 0.20% | ~2,211 |
-| Transporter | 0.10% | ~1,105 |
+| Transporter | 0.10% | ~1,106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,495 (Ranked 15)  
+Progressed: 1,105,516 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 535 (0.05%) (Ranked 341)
 | 2024-01-13 | 1,104,634 | 535 |
 | 2024-01-14 | 1,105,137 | 535 |
 | 2024-01-15 | 1,105,479 | 535 |
-| 2024-01-16 | 1,105,495 | 535 |
+| 2024-01-16 | 1,105,516 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 309)  
-Sum: 1,652 (Ranked 235)  
+Sum: 1,653 (Ranked 235)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 74
 | This game has Quickly Understood Controls | 151 |
 | This game is Relaxing | 146 |
 | This game is Highly Recommended | 142 |
-| This game has Competitive Players | 134 |
+| This game has Competitive Players | 135 |
 | This game has Playful Visuals | 134 |
 | This game is Extremely Fun | 130 |
 | This game has Amazing Storytelling | 112 |
@@ -633,3 +633,4 @@ Diff (max vs sum): 74
 | 2024-01-13 | 4.54 | - | 185 | 1,645 |
 | 2024-01-14 | 4.54 | - | 185 | 1,649 |
 | 2024-01-15 | 4.54 | - | 187 | 1,652 |
+| 2024-01-16 | 4.54 | - | 187 | 1,653 |

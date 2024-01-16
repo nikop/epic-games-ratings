@@ -22,14 +22,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 6.00% | ~1,249 |
 | Royal Outpost | 5.00% | ~1,041 |
 | Watchtower | 5.00% | ~1,041 |
-| Homesick | 4.00% | ~832 |
-| Ruined Armory | 4.00% | ~832 |
-| Fertile Meadows | 4.00% | ~832 |
-| Levitating Monument | 4.00% | ~832 |
-| Monastery of the Holy Flame | 4.00% | ~832 |
-| A Real Challenge | 4.00% | ~832 |
-| Trade Baron | 4.00% | ~832 |
-| Untamed Wilds | 4.00% | ~832 |
+| Homesick | 4.00% | ~833 |
+| Ruined Armory | 4.00% | ~833 |
+| Fertile Meadows | 4.00% | ~833 |
+| Levitating Monument | 4.00% | ~833 |
+| Monastery of the Holy Flame | 4.00% | ~833 |
+| A Real Challenge | 4.00% | ~833 |
+| Trade Baron | 4.00% | ~833 |
+| Untamed Wilds | 4.00% | ~833 |
 | Against All Odds | 3.00% | ~624 |
 | Bandit Camp | 3.00% | ~624 |
 | Barren Lands | 3.00% | ~624 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~21 |
 | Ruins | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,812 (Ranked 156)  
+Progressed: 20,813 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,6 +337,7 @@ Completed: 35 (0.17%) (Ranked 288)
 | 2024-01-13 | 20,758 | 35 |
 | 2024-01-14 | 20,781 | 35 |
 | 2024-01-15 | 20,812 | 35 |
+| 2024-01-16 | 20,813 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,386 (Ranked 178)  

@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14933,
+  "EOS_Progressed": 14935,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 712,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10533,6 +10533,11 @@
       "Time": "2024-01-16T00:10:19.4897814+00:00",
       "NumProgressed": 14933,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-16T01:58:40.6738797+00:00",
+      "NumProgressed": 14935,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10617,7 +10622,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8213
+      "UsersEstimate": 8214
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10697,7 +10702,7 @@
       "Name": "No More Totems",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "NotLikeTheOthers",
@@ -10745,7 +10750,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6421
+      "UsersEstimate": 6422
     },
     {
       "ID": "ThisIsDharma",
@@ -10753,7 +10758,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10761,7 +10766,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "UnResurrected",
@@ -10769,7 +10774,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -10785,7 +10790,7 @@
       "Name": "Digestive Issues",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -10801,7 +10806,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "k01101110",
@@ -10809,14 +10814,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14933,
+      "Progressed": 14935,
       "Completed": 27
     }
   ],
@@ -10824,8 +10829,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:10:19.4897812+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:40.6738794+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:59:29.5486461+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:10:19.489848+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:48:07.8611018+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:40.6739594+00:00"
 }

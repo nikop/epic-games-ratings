@@ -4,7 +4,7 @@
   "ProductSlug": "loopmancer",
   "Ranking_EOS_Progress": 492,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 513,
+  "Ranking_EOS_NewPlayers": 511,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-07-27T03:58:00+00:00",
@@ -824,9 +824,9 @@
       "ID": "ACH_KILL_XFGZ_SEABASE",
       "SetID": "6d82akp",
       "Name": "Elimination",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_LET_GANGSTER_GO",
@@ -864,9 +864,9 @@
       "ID": "ACH_NOT_TUMBLE_DOWN",
       "SetID": "6d82akp",
       "Name": "Once Bitten, Twice Shy",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_ONCE_OVERKILL_MANY_DIE",
@@ -904,17 +904,17 @@
       "ID": "ACH_SAVE_LIZBETH",
       "SetID": "6d82akp",
       "Name": "Fleet-footed",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SAVE_LIZBETH_WIFE",
       "SetID": "6d82akp",
       "Name": "Invincible",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_SAVE_WIFE",
@@ -1081,8 +1081,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.2220083+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.6600084+00:00",
   "LastChanged": "2023-03-31T05:58:38.2220085+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:58.5380907+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:22.6006029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.0139311+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:02:50.8297451+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:58.5381513+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:51:30.4993136+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:22.6006376+00:00"
 }

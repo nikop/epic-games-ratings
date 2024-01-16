@@ -389,9 +389,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7349,
+  "EOS_Progressed": 7350,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9014,6 +9014,11 @@
       "Time": "2024-01-15T22:09:01.6512338+00:00",
       "NumProgressed": 7349,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T01:57:46.7569129+00:00",
+      "NumProgressed": 7350,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -9033,7 +9038,7 @@
       "Name": "Amy",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Amy_Scav",
@@ -9145,7 +9150,7 @@
       "Name": "Drunk and Disorderly: Ashley",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "DnD_Madison",
@@ -9257,7 +9262,7 @@
       "Name": "IRL Let\u0027s Player",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "IceBath",
@@ -9273,7 +9278,7 @@
       "Name": "Inspector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ItSmellsLikeRoses",
@@ -9321,7 +9326,7 @@
       "Name": "Newcomer: Vickie",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "NoticeMe",
@@ -9393,7 +9398,7 @@
       "Name": "Smooth Operator: Madison",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "SmellBlood",
@@ -9409,7 +9414,7 @@
       "Name": "Social Butterfly",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Stephanie",
@@ -9465,7 +9470,7 @@
       "Name": "The Muse: Madison",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ThatsANiceBush",
@@ -9576,21 +9581,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4388,
+      "Progressed": 4389,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7349,
+      "Progressed": 7350,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-01-07T21:02:34.7200227+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:09:19.4141205+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:57:46.756912+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.0286843+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:18.9176334+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:09:19.414206+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:09.3208546+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:57:46.7569917+00:00"
 }

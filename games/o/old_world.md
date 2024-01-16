@@ -81,6 +81,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Temple of Solomon | 0.90% | ~152 |
 | Greece | 0.90% | ~152 |
 | Power to the People | 0.90% | ~152 |
+| Win a Single Player Game | 0.90% | ~152 |
 | Landowners | 0.80% | ~135 |
 | Patrons | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
@@ -90,7 +91,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.80% | ~135 |
 | Legionary | 0.80% | ~135 |
 | Double Victory | 0.80% | ~135 |
-| Win a Single Player Game | 0.80% | ~135 |
 | The Clergy | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
 | Conqueror | 0.70% | ~118 |

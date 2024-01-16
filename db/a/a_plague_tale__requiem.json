@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -839,9 +839,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18324,
+  "EOS_Progressed": 18325,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -16124,6 +16124,11 @@
       "Time": "2024-01-16T00:05:56.7872687+00:00",
       "NumProgressed": 18324,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T01:54:23.9268035+00:00",
+      "NumProgressed": 18325,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -16135,7 +16140,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16675
+      "UsersEstimate": 16676
     },
     {
       "ID": "ACH_02",
@@ -16143,7 +16148,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13926
+      "UsersEstimate": 13927
     },
     {
       "ID": "ACH_03",
@@ -16151,7 +16156,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 12827
+      "UsersEstimate": 12828
     },
     {
       "ID": "ACH_04",
@@ -16167,7 +16172,7 @@
       "Name": "In our Wake",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 11727
+      "UsersEstimate": 11728
     },
     {
       "ID": "ACH_06",
@@ -16247,7 +16252,7 @@
       "Name": "Dying Sun",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "ACH_16",
@@ -16407,14 +16412,14 @@
       "Name": "Mercy",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4032
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18324,
+      "Progressed": 18325,
       "Completed": 66
     }
   ],
@@ -16422,8 +16427,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-14T11:02:38.12957+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:56.7872683+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:54:23.9268032+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.7609626+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:00.8988895+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:56.7873633+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:45:52.9486193+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:54:23.9268791+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 1552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3556,9 +3556,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 450
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3747,8 +3747,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:05:13.4034611+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:53:43.8248564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:46.2470782+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:05:13.4035038+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:34.0819429+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:53:43.8248981+00:00"
 }

@@ -304,7 +304,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1955,
+  "EOS_Progressed": 1956,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -4874,6 +4874,11 @@
       "Time": "2024-01-15T15:10:05.8967569+00:00",
       "NumProgressed": 1955,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T01:58:26.3326968+00:00",
+      "NumProgressed": 1956,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4885,7 +4890,7 @@
       "Name": "Agent 47",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Auditor",
@@ -4965,7 +4970,7 @@
       "Name": "E1M1",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 899
+      "UsersEstimate": 900
     },
     {
       "ID": "Everyone_is_here",
@@ -4973,7 +4978,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Experienced_strategist",
@@ -5069,15 +5074,15 @@
       "Name": "Bomberman",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "MoskitoBite",
       "SetID": "85nb4h3",
       "Name": "Mosquito bite",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 743
     },
     {
       "ID": "Scout",
@@ -5124,15 +5129,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1955,
+      "Progressed": 1956,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:10:03.0809883+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:26.3326967+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.1126482+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:58:09.1378666+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:10:03.0810293+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:54.6480519+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:26.3327513+00:00"
 }

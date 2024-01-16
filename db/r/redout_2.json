@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 422,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1212,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1341,6 +1341,11 @@
       "Time": "2024-01-14T14:03:19.4848155+00:00",
       "NumProgressed": 1212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T01:52:55.1174162+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1464,7 +1469,7 @@
       "Name": "Under the neon lights",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ALLTROPHIES",
@@ -1480,7 +1485,7 @@
       "Name": "Rookie No More",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "CAREERADVANCED",
@@ -1520,7 +1525,7 @@
       "Name": "All Power to Engines!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CAREERTRIALSA",
@@ -1528,7 +1533,7 @@
       "Name": "Had to sweat a bit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CAREERTRIALSB",
@@ -1600,7 +1605,7 @@
       "Name": "Almost broke the game",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "GRANDMASTER",
@@ -1640,7 +1645,7 @@
       "Name": "Better luck next time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ONEAESTHETIC",
@@ -1664,7 +1669,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ONEPAINT",
@@ -1680,7 +1685,7 @@
       "Name": "Dev, this!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ONETROPHY",
@@ -1744,7 +1749,7 @@
       "Name": "He who laughs last...",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "WINONEONLINE",
@@ -1767,7 +1772,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1212,
+      "Progressed": 1213,
       "Completed": 0
     }
   ],
@@ -1775,8 +1780,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:04:21.1615053+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:52:55.1174158+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.5377466+00:00",
-  "LastUpdate_Ratings": "2024-01-16T00:03:17.0463653+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:04:21.1615517+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:51:54.9085361+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:52:55.1174591+00:00"
 }

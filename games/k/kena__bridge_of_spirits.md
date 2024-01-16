@@ -39,8 +39,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | Curse Collector | 8.00% | ~34,434 |
 | Zen Master | 8.00% | ~34,434 |
 | The Last Stop | 7.00% | ~30,130 |
+| Restoration Master | 5.00% | ~21,522 |
 | Hat Collector | 4.00% | ~17,217 |
-| Restoration Master | 4.00% | ~17,217 |
 | No Stone Unturned | 4.00% | ~17,217 |
 | Sharpshooter | 2.00% | ~8,609 |
 | Triple Tap | 1.00% | ~4,304 |

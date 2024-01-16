@@ -3928,9 +3928,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243029,
+  "EOS_Progressed": 243031,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31968,6 +31968,11 @@
       "Time": "2024-01-16T00:10:30.3194085+00:00",
       "NumProgressed": 243029,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-16T01:58:50.8794804+00:00",
+      "NumProgressed": 243031,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -33073,22 +33078,22 @@
       "ID": "WEARSAMESETINSLOTS",
       "SetID": "1peahb6",
       "Name": "Matching",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243029,
+      "Progressed": 243031,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4509,
+      "Progressed": 4511,
       "Completed": 427
     }
   ],
@@ -33096,8 +33101,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-15T23:57:18.1179809+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:10:30.3194079+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:50.8794801+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:18.1179816+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:10:30.3196691+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:08.6749801+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:50.8797687+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9595,9 +9595,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254091,
+  "EOS_Progressed": 254103,
   "EOS_Completed": 2619,
-  "EOS_NewPlayers": 1289,
+  "EOS_NewPlayers": 1274,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40285,6 +40285,11 @@
       "Time": "2024-01-16T00:10:32.4524034+00:00",
       "NumProgressed": 254091,
       "NumCompleted": 2619
+    },
+    {
+      "Time": "2024-01-16T01:58:53.0607886+00:00",
+      "NumProgressed": 254103,
+      "NumCompleted": 2619
     }
   ],
   "TotalAchievements": 546,
@@ -40304,7 +40309,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "objective_completed_100",
@@ -41416,7 +41421,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "objective_completed_150",
@@ -41624,7 +41629,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "objective_completed_20",
@@ -41984,7 +41989,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "objective_completed_36",
@@ -42840,7 +42845,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "objective_completed_60",
@@ -44568,7 +44573,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_1352",
@@ -44576,7 +44581,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_1557",
@@ -44592,7 +44597,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_1562",
@@ -44608,7 +44613,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_598",
@@ -44624,7 +44629,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "objective_completed_678",
@@ -44656,28 +44661,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220365,
+      "Progressed": 220377,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254091,
+      "Progressed": 254103,
       "Completed": 2619
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-15T22:57:44.6035429+00:00",
-  "LastChanged_Achievements": "2024-01-16T00:10:32.4524029+00:00",
+  "LastChanged_Achievements": "2024-01-16T01:58:53.0607883+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:57:43.2739085+00:00",
-  "LastUpdate_Achievements": "2024-01-16T00:10:32.4549557+00:00"
+  "LastUpdate_Ratings": "2024-01-16T01:46:31.407551+00:00",
+  "LastUpdate_Achievements": "2024-01-16T01:58:53.0631811+00:00"
 }

@@ -22,13 +22,13 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 40.00% | ~247 |
 | 25 to Life | 40.00% | ~247 |
 | Salvation | 39.00% | ~241 |
-| Unshakable Fortitude | 36.00% | ~222 |
+| Unshakable Fortitude | 37.00% | ~228 |
 | Soul Harvester | 36.00% | ~222 |
 | I Wanna Rock | 35.00% | ~216 |
 | Delusions of Grandeur | 35.00% | ~216 |
 | Love Tap | 34.00% | ~210 |
 | Maximum Vigor | 33.00% | ~204 |
-| Freeze Frame | 30.00% | ~185 |
+| Freeze Frame | 31.00% | ~191 |
 | Eat Your Heart Out | 30.00% | ~185 |
 | For Whom the Bell Tolls | 30.00% | ~185 |
 | Unyielding Strength | 27.00% | ~167 |

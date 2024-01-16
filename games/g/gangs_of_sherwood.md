@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Act of Kindness | 88.00% | ~109 |
-| Air Fighter | 73.00% | ~91 |
-| Oo-De-Lally | 73.00% | ~91 |
+| Act of Kindness | 87.00% | ~109 |
+| Air Fighter | 72.00% | ~90 |
+| Oo-De-Lally | 72.00% | ~90 |
 | Treasure Hunter | 65.00% | ~81 |
-| The Altruist | 65.00% | ~81 |
-| Watch your Step! | 54.00% | ~67 |
+| The Altruist | 64.00% | ~80 |
+| Watch your Step! | 54.00% | ~68 |
 | MAX LEVEL | 53.00% | ~66 |
-| Tap Dancing | 51.00% | ~63 |
-| Right between the eyes | 40.00% | ~50 |
-| Starry Night | 38.00% | ~47 |
+| Tap Dancing | 50.00% | ~62 |
+| Right between the eyes | 39.00% | ~49 |
+| Starry Night | 38.00% | ~48 |
 | Spring Board | 37.00% | ~46 |
-| Locksley's Tears | 35.00% | ~43 |
+| Locksley's Tears | 35.00% | ~44 |
 | Rebel Unleashed | 34.00% | ~42 |
 | Merry Co-operation | 32.00% | ~40 |
 | Assault on the Ram | 24.00% | ~30 |
-| Finish Him! | 23.00% | ~29 |
+| Finish Him! | 22.00% | ~28 |
 | Ultra Rebel Instinct | 21.00% | ~26 |
 | First Aid | 21.00% | ~26 |
 | Merry Go Round | 19.00% | ~24 |
 | Savior | 16.00% | ~20 |
 | Ultra Combo | 15.00% | ~19 |
-| Hidden Experiment | 15.00% | ~19 |
 | Take Action! | 15.00% | ~19 |
-| Ascending Will | 14.00% | ~17 |
+| Ascending Will | 14.00% | ~18 |
+| Hidden Experiment | 14.00% | ~18 |
 | Into the Lion's Den | 10.00% | ~12 |
 | Sky High Fighter | 9.00% | ~11 |
 | Haute Couture | 8.00% | ~10 |
-| The Gang prevails | 6.00% | ~7 |
+| The Gang prevails | 6.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |
 | Bold and Bossy | 4.00% | ~5 |
 | Power of Friendship! | 4.00% | ~5 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 485)  
+Progressed: 125 (Ranked 484)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,3 +106,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-10 | 121 | 0 |
 | 2024-01-11 | 122 | 0 |
 | 2024-01-14 | 124 | 0 |
+| 2024-01-16 | 125 | 0 |
