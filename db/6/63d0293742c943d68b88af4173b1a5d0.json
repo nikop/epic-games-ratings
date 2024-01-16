@@ -3,9 +3,9 @@
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2614,6 +2614,11 @@
       "Time": "2024-01-16T11:03:27.1928713+00:00",
       "NumProgressed": 812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T12:04:16.9414287+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2690,7 +2695,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "REMAKE_004",
@@ -2698,7 +2703,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Remake_005",
@@ -2722,7 +2727,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Remake_008",
@@ -2738,7 +2743,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Remake_010",
@@ -2754,7 +2759,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "Remake_12",
@@ -2810,7 +2815,7 @@
       "Name": "Disobedient",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Remake_19",
@@ -2818,7 +2823,7 @@
       "Name": "Pan Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "Remake_20",
@@ -2849,14 +2854,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 814,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:03:27.192871+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:04:16.9414284+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:50.744148+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:03:27.1928989+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:23.8650929+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:04:16.941459+00:00"
 }

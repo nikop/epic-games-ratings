@@ -6,8 +6,8 @@
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 107,
-  "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_Completed": 282,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3595,9 +3595,9 @@
       "Count": 263
     }
   ],
-  "EOS_Progressed": 90765,
+  "EOS_Progressed": 90766,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -33945,6 +33945,11 @@
       "Time": "2024-01-16T11:04:19.3214227+00:00",
       "NumProgressed": 90765,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-16T12:05:28.9336806+00:00",
+      "NumProgressed": 90766,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -34004,7 +34009,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11799
+      "UsersEstimate": 11800
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -34028,7 +34033,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 17245
+      "UsersEstimate": 17246
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -34060,7 +34065,7 @@
       "Name": "Spirit",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -34100,7 +34105,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 17245
+      "UsersEstimate": 17246
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -34195,15 +34200,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90765,
+      "Progressed": 90766,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-15T22:59:55.6693191+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:04:19.3214224+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:05:28.9336804+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:53.3474171+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:04:19.3215888+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:01:28.1687294+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:05:28.9338487+00:00"
 }

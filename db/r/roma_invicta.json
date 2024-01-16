@@ -3,9 +3,9 @@
   "Name": "Roma Invicta",
   "ProductSlug": "roma-invicta-cf7a51",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-20T08:00:00+00:00",
     "PcReleaseDate": "2022-02-11T08:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-21T22:58:38.3866365+00:00",
   "LastChanged": "2023-04-21T22:58:38.3866366+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.4524799+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:02:49.1090712+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:04:59.9387637+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:03:20.4094079+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:06:27.1659163+00:00"
 }

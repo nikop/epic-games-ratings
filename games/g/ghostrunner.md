@@ -6,41 +6,41 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~459,550 |
-| Sword Runner | 24.00% | ~275,730 |
-| Running out of breath | 19.00% | ~218,286 |
-| Wallrunner | 18.00% | ~206,798 |
-| I call it luck | 14.00% | ~160,843 |
-| Out of order | 12.00% | ~137,865 |
-| Homerunner | 11.00% | ~126,376 |
-| Back to hell | 9.00% | ~103,399 |
-| Running Wild | 9.00% | ~103,399 |
-| Sword to a gunfight | 8.00% | ~91,910 |
-| Where are my Keys? | 8.00% | ~91,910 |
-| Perfection | 7.00% | ~80,421 |
-| Artificial selection | 6.00% | ~68,932 |
-| Finish line | 6.00% | ~68,932 |
-| Control freak | 6.00% | ~68,932 |
-| Upgrades not mandatory | 6.00% | ~68,932 |
-| Why not both | 6.00% | ~68,932 |
-| Unstoppable force | 5.00% | ~57,444 |
-| Dead in the air | 4.00% | ~45,955 |
-| Wave of mutilation | 4.00% | ~45,955 |
-| Can't Run Can't Hide | 3.00% | ~34,466 |
-| Improvise, adapt, overrun | 2.00% | ~22,978 |
-| Pre-empative strike | 2.00% | ~22,978 |
-| R is for Running | 2.00% | ~22,978 |
-| Strike | 2.00% | ~22,978 |
-| Triple A | 2.00% | ~22,978 |
-| More than human | 1.00% | ~11,489 |
-| Push it to the limit | 0.80% | ~9,191 |
-| Fine addition | 0.60% | ~6,893 |
-| About Adam | 0.40% | ~4,596 |
-| Hit me if you can | 0.20% | ~2,298 |
-| Junkrunner | 0.20% | ~2,298 |
-| One man's trash | 0.20% | ~2,298 |
-| One Of Those Days | 0.20% | ~2,298 |
-| Where He Stood | 0.20% | ~2,298 |
+| Longrunner | 40.00% | ~459,793 |
+| Sword Runner | 24.00% | ~275,876 |
+| Running out of breath | 19.00% | ~218,402 |
+| Wallrunner | 18.00% | ~206,907 |
+| I call it luck | 14.00% | ~160,927 |
+| Out of order | 12.00% | ~137,938 |
+| Homerunner | 11.00% | ~126,443 |
+| Back to hell | 9.00% | ~103,453 |
+| Running Wild | 9.00% | ~103,453 |
+| Sword to a gunfight | 8.00% | ~91,959 |
+| Where are my Keys? | 8.00% | ~91,959 |
+| Perfection | 7.00% | ~80,464 |
+| Artificial selection | 6.00% | ~68,969 |
+| Finish line | 6.00% | ~68,969 |
+| Control freak | 6.00% | ~68,969 |
+| Upgrades not mandatory | 6.00% | ~68,969 |
+| Why not both | 6.00% | ~68,969 |
+| Unstoppable force | 5.00% | ~57,474 |
+| Dead in the air | 4.00% | ~45,979 |
+| Wave of mutilation | 4.00% | ~45,979 |
+| Can't Run Can't Hide | 3.00% | ~34,484 |
+| Improvise, adapt, overrun | 2.00% | ~22,990 |
+| Pre-empative strike | 2.00% | ~22,990 |
+| R is for Running | 2.00% | ~22,990 |
+| Strike | 2.00% | ~22,990 |
+| Triple A | 2.00% | ~22,990 |
+| More than human | 1.00% | ~11,495 |
+| Push it to the limit | 0.80% | ~9,196 |
+| Fine addition | 0.60% | ~6,897 |
+| About Adam | 0.40% | ~4,598 |
+| Hit me if you can | 0.20% | ~2,299 |
+| Junkrunner | 0.20% | ~2,299 |
+| One man's trash | 0.20% | ~2,299 |
+| One Of Those Days | 0.20% | ~2,299 |
+| Where He Stood | 0.20% | ~2,299 |
 | A Grade | 0.10% | ~1,149 |
 | Everyone Needs A Hobby | 0.10% | ~1,149 |
 | GR Project Complete | 0.10% | ~1,149 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,149 |
 | Up Close And Personal | 0.10% | ~1,149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,148,875 (Ranked 14)  
-Completed: 225 (0.02%) (Ranked 366)  
+Progressed: 1,149,482 (Ranked 14)  
+Completed: 225 (0.02%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,10 +323,10 @@ Completed: 225 (0.02%) (Ranked 366)
 | 2024-01-13 | 1,118,951 | 212 |
 | 2024-01-14 | 1,133,737 | 220 |
 | 2024-01-15 | 1,144,294 | 224 |
-| 2024-01-16 | 1,148,875 | 225 |
+| 2024-01-16 | 1,149,482 | 225 |
 ## Awards
 Max (Great Boss Battles): 1,443  (Ranked 141)  
-Sum: 1,772 (Ranked 226)  
+Sum: 1,775 (Ranked 226)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
@@ -337,8 +337,8 @@ Diff (max vs sum): -85
 | This game has a Creative Community | 42 |
 | This game has Amazing Characters | 38 |
 | This game has Unique Visuals | 37 |
+| This game is Highly Recommended | 37 |
 | This game is Relaxing | 34 |
-| This game is Highly Recommended | 34 |
 | This game has Amazing Storytelling | 31 |
 | This game has Challenging Combat | 28 |
 ## Ratings History
@@ -546,4 +546,4 @@ Diff (max vs sum): -85
 | 2024-01-13 | 4.60 | - | 1,364 | 1,669 |
 | 2024-01-14 | 4.60 | - | 1,408 | 1,723 |
 | 2024-01-15 | 4.59 | - | 1,443 | 1,771 |
-| 2024-01-16 | 4.59 | - | 1,443 | 1,772 |
+| 2024-01-16 | 4.59 | - | 1,443 | 1,775 |

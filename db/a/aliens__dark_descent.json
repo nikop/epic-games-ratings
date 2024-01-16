@@ -6,9 +6,9 @@
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 341,
+  "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 6457,
+  "EOS_Progressed": 6458,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9911,6 +9911,11 @@
       "Time": "2024-01-16T11:05:24.76585+00:00",
       "NumProgressed": 6457,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T12:07:02.3428844+00:00",
+      "NumProgressed": 6458,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10018,7 +10023,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10026,7 +10031,7 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -10042,7 +10047,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3745
+      "UsersEstimate": 3746
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10074,7 +10079,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -10130,7 +10135,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10146,7 +10151,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10218,7 +10223,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4132
+      "UsersEstimate": 4133
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10226,7 +10231,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4972
+      "UsersEstimate": 4973
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10234,7 +10239,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10242,7 +10247,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10258,7 +10263,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10274,14 +10279,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6457,
+      "Progressed": 6458,
       "Completed": 3
     }
   ],
@@ -10289,8 +10294,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:05:24.7658496+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:07:02.342884+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:58:13.2475575+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:05:24.7659249+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:58.0698194+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:07:02.3429808+00:00"
 }

@@ -14,7 +14,7 @@
 | Harvest Time | 52.00% | ~76 |
 | Artificer's Apprentice | 45.00% | ~66 |
 | Fly the friendly Sky | 42.00% | ~62 |
-| Get out of here! | 40.00% | ~59 |
+| Get out of here! | 41.00% | ~60 |
 | Alchemist's Apprentice | 37.00% | ~54 |
 | Necromancer's Apprentice | 37.00% | ~54 |
 | Friend of Lyraine | 32.00% | ~47 |
@@ -75,8 +75,8 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 465)  
-Completed: 0 (0.00%) (Ranked 401)  
+Progressed: 147 (Ranked 466)  
+Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

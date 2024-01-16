@@ -3,9 +3,9 @@
   "Name": "Undying",
   "ProductSlug": "undying",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-19T13:00:00+00:00",
     "PcReleaseDate": "2021-10-19T13:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:32.7113981+00:00",
   "LastChanged": "2023-03-31T05:58:32.7113982+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.3715091+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:17.6799275+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:08:39.2872099+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:57:32.715918+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:09:15.5382287+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,947 |
-| Photogenic | 82.00% | ~8,531 |
-| Surge Gauntlet Jockey | 79.00% | ~8,219 |
-| Plug It In | 78.00% | ~8,115 |
-| Adventure Time | 74.00% | ~7,699 |
-| Playing With Power | 72.00% | ~7,491 |
-| Coup d'Etat | 55.00% | ~5,722 |
-| You're Fired | 54.00% | ~5,618 |
-| Get Furious | 53.00% | ~5,514 |
-| Hacks In Stacks | 52.00% | ~5,410 |
-| Gunplay And Cosplay | 51.00% | ~5,306 |
+| Let's Get This Party Started | 86.00% | ~8,948 |
+| Photogenic | 82.00% | ~8,532 |
+| Surge Gauntlet Jockey | 79.00% | ~8,220 |
+| Plug It In | 78.00% | ~8,116 |
+| Adventure Time | 74.00% | ~7,700 |
+| Playing With Power | 72.00% | ~7,492 |
+| Coup d'Etat | 55.00% | ~5,723 |
+| You're Fired | 54.00% | ~5,619 |
+| Get Furious | 53.00% | ~5,515 |
+| Hacks In Stacks | 52.00% | ~5,411 |
+| Gunplay And Cosplay | 51.00% | ~5,307 |
 | Meching Enemies | 46.00% | ~4,786 |
 | Ticket Toddler | 41.00% | ~4,266 |
-| Booty Bashing | 36.00% | ~3,745 |
-| Field Medic | 36.00% | ~3,745 |
-| Here Comes a New Challenger | 35.00% | ~3,641 |
-| Rapid Response | 31.00% | ~3,225 |
+| Booty Bashing | 36.00% | ~3,746 |
+| Field Medic | 36.00% | ~3,746 |
+| Here Comes a New Challenger | 35.00% | ~3,642 |
+| Rapid Response | 31.00% | ~3,226 |
 | Surge Ahead | 29.00% | ~3,017 |
 | The Full Monty | 29.00% | ~3,017 |
 | Guardian Angel | 26.00% | ~2,705 |
@@ -32,8 +32,8 @@ Number of Ratings: 801  (23.09.2022)
 | Boss of Bosses | 14.00% | ~1,457 |
 | The Final Blow | 14.00% | ~1,457 |
 | To Be Continued | 13.00% | ~1,353 |
-| Light My Fire | 11.00% | ~1,144 |
-| Seasoned Adventurer | 11.00% | ~1,144 |
+| Light My Fire | 11.00% | ~1,145 |
+| Seasoned Adventurer | 11.00% | ~1,145 |
 | Get In The Ring! | 9.00% | ~936 |
 | 1.21 Gigawatts | 9.00% | ~936 |
 | This Is My Boomstick! | 9.00% | ~936 |
@@ -57,8 +57,8 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,404 (Ranked 183)  
-Completed: 2 (0.02%) (Ranked 366)  
+Progressed: 10,405 (Ranked 183)  
+Completed: 2 (0.02%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,7 +328,7 @@ Completed: 2 (0.02%) (Ranked 366)
 | 2024-01-13 | 10,381 | 2 |
 | 2024-01-14 | 10,390 | 2 |
 | 2024-01-15 | 10,403 | 2 |
-| 2024-01-16 | 10,404 | 2 |
+| 2024-01-16 | 10,405 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 428)  
 Sum: 465 (Ranked 343)  

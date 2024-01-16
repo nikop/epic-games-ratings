@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1030,
+  "EOS_Progressed": 1031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4444,6 +4444,11 @@
       "Time": "2024-01-16T02:34:18.3607346+00:00",
       "NumProgressed": 1030,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T12:10:41.5960003+00:00",
+      "NumProgressed": 1031,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4511,7 +4516,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "Clothes10",
@@ -4631,7 +4636,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "Packing20",
@@ -4679,7 +4684,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ServiceMaxClient",
@@ -4774,7 +4779,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1030,
+      "Progressed": 1031,
       "Completed": 0
     }
   ],
@@ -4782,8 +4787,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:39.494877+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:10:41.596+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.839172+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:00:24.9156698+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:39.4949203+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:02:48.1300569+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:41.5960499+00:00"
 }

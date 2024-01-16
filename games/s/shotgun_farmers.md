@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Seeds of War | 81.00% | ~309 |
 | First Blood | 64.00% | ~244 |
-| Triple Kill | 63.00% | ~240 |
-| Aspairagus | 59.00% | ~195 |
-| No Asperascope | 57.00% | ~217 |
-| Survivor | 56.00% | ~185 |
-| Cornivore | 54.00% | ~206 |
+| Triple Kill | 63.00% | ~241 |
+| Aspairagus | 59.00% | ~196 |
+| No Asperascope | 58.00% | ~222 |
+| Survivor | 56.00% | ~186 |
+| Cornivore | 53.00% | ~202 |
 | I Believe I Can Fly | 49.00% | ~187 |
 | No Diggity | 44.00% | ~146 |
 | Early Survivor | 39.00% | ~129 |
@@ -18,14 +18,14 @@
 | 10K | 28.00% | ~107 |
 | Amateur Survivor | 28.00% | ~93 |
 | 15K | 26.00% | ~99 |
-| Grave Digger | 23.00% | ~76 |
+| Grave Digger | 24.00% | ~80 |
 | Drinking Problem | 22.00% | ~84 |
-| Quick-Draw Pod | 22.00% | ~73 |
+| Quick-Draw Pod | 21.00% | ~70 |
 | Pork Chop Express | 20.00% | ~76 |
 | Professional Survivor | 19.00% | ~63 |
-| Skin Of Your Teeth | 17.00% | ~65 |
 | Carrocketeer | 17.00% | ~65 |
 | Getting Started | 16.00% | ~61 |
+| Skin Of Your Teeth | 16.00% | ~61 |
 | This Is My Boomstick | 15.00% | ~50 |
 | Eggtraordinary | 14.00% | ~53 |
 | Oh My Gourd | 14.00% | ~46 |
@@ -35,7 +35,7 @@
 | Fresh Pancake | 10.00% | ~38 |
 | Quadsparagus | 10.00% | ~33 |
 | Bring Home The Bacon | 9.00% | ~34 |
-| Expert Survivor | 8.00% | ~26 |
+| Expert Survivor | 8.00% | ~27 |
 | Early Bird | 7.00% | ~27 |
 | Chick Magnet | 5.00% | ~19 |
 | I Have The High Ground | 5.00% | ~19 |
@@ -79,8 +79,8 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 381 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 401)  
+Progressed: 382 (Ranked 377)  
+Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -246,6 +246,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 376 | 0 |
 | 2024-01-14 | 380 | 0 |
 | 2024-01-15 | 381 | 0 |
+| 2024-01-16 | 382 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

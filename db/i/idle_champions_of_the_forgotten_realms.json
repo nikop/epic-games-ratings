@@ -6,7 +6,7 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
@@ -9595,9 +9595,9 @@
       "Count": 3643
     }
   ],
-  "EOS_Progressed": 254149,
+  "EOS_Progressed": 254157,
   "EOS_Completed": 2619,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1244,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40335,6 +40335,11 @@
       "Time": "2024-01-16T11:10:03.6105457+00:00",
       "NumProgressed": 254149,
       "NumCompleted": 2619
+    },
+    {
+      "Time": "2024-01-16T12:11:11.4864795+00:00",
+      "NumProgressed": 254157,
+      "NumCompleted": 2619
     }
   ],
   "TotalAchievements": 546,
@@ -42026,7 +42031,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "objective_completed_35",
@@ -42136,9 +42141,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 2033
     },
     {
       "ID": "objective_completed_390",
@@ -44713,21 +44718,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220423,
+      "Progressed": 220431,
       "Completed": 4150
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254149,
+      "Progressed": 254157,
       "Completed": 2619
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-15T22:57:44.6035429+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:10:03.6105449+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:11:11.4864793+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:53.2921231+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:10:03.6129126+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:27.7809439+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:11:11.4889017+00:00"
 }

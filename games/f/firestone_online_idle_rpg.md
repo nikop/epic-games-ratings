@@ -5,23 +5,23 @@ Rating: 4.12 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,203 |
-| World Map | 78.00% | ~3,525 |
-| Temple of Eternals | 56.00% | ~2,531 |
-| Prestigious | 53.00% | ~2,395 |
-| Fellowship Power | 42.00% | ~1,898 |
+| Victor | 93.00% | ~4,205 |
+| World Map | 78.00% | ~3,526 |
+| Temple of Eternals | 56.00% | ~2,532 |
+| Prestigious | 52.00% | ~2,351 |
+| Fellowship Power | 42.00% | ~1,899 |
 | Full Party | 30.00% | ~1,356 |
-| Guild Power | 23.00% | ~1,039 |
+| Guild Power | 23.00% | ~1,040 |
 | Prestigious x10 | 20.00% | ~904 |
-| The game is on | 18.00% | ~813 |
+| The game is on | 18.00% | ~814 |
 | Exotic Merchant | 16.00% | ~723 |
 | Dragon Clicker | 15.00% | ~678 |
 | Miner Clicker | 15.00% | ~678 |
 | Inspection | 14.00% | ~633 |
-| Dragon Master | 13.00% | ~587 |
-| Enlightenment | 13.00% | ~587 |
-| Hero inspection | 13.00% | ~587 |
-| Lieutenant | 12.00% | ~542 |
+| Dragon Master | 13.00% | ~588 |
+| Enlightenment | 13.00% | ~588 |
+| Hero inspection | 13.00% | ~588 |
+| Lieutenant | 12.00% | ~543 |
 | Mysterious Rock | 11.00% | ~497 |
 | Natural Talent | 11.00% | ~497 |
 | Superior | 11.00% | ~497 |
@@ -61,11 +61,11 @@ Rating: 4.12 (Ranked 1,023)
 | The Alchemist | 4.00% | ~181 |
 | Arena Challenger | 3.00% | ~136 |
 | Ebony Jungle Liberator | 3.00% | ~136 |
-| Mythic Power | 3.00% | ~136 |
 | Cauldron Liberator | 2.00% | ~90 |
 | Enchanting skill x5 | 2.00% | ~90 |
 | Gear Enchanting | 2.00% | ~90 |
 | Guardian Master | 2.00% | ~90 |
+| Mythic Power | 2.00% | ~90 |
 | Pokerface | 2.00% | ~90 |
 | What lies behind the bush | 2.00% | ~90 |
 | Conqueror | 1.00% | ~45 |
@@ -81,8 +81,8 @@ Rating: 4.12 (Ranked 1,023)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,519 (Ranked 209)  
-Completed: 2 (0.04%) (Ranked 353)  
+Progressed: 4,521 (Ranked 209)  
+Completed: 2 (0.04%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -347,7 +347,7 @@ Completed: 2 (0.04%) (Ranked 353)
 | 2024-01-13 | 4,472 | 2 |
 | 2024-01-14 | 4,499 | 2 |
 | 2024-01-15 | 4,513 | 2 |
-| 2024-01-16 | 4,519 | 2 |
+| 2024-01-16 | 4,521 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 441)  

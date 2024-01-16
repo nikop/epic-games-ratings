@@ -1,20 +1,20 @@
 # Haven
 [Store](https://store.epicgames.com/en-US/p/haven)  
 [View Rawdata](../../db/h/haven.json)  
-Rating: 4.76 (Ranked 136)  
+Rating: 4.76 (Ranked 135)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 70.00% | ~1,406 |
-| Lovebirds | 41.00% | ~823 |
-| Life’s short, ride long | 37.00% | ~743 |
-| Hug therapy | 36.00% | ~723 |
+| Balding bloot! | 70.00% | ~1,407 |
+| Lovebirds | 41.00% | ~824 |
+| Life’s short, ride long | 37.00% | ~744 |
+| Hug therapy | 36.00% | ~724 |
 | Over my dead body | 33.00% | ~663 |
-| Shake the rust off their feet | 17.00% | ~341 |
-| My little pony | 16.00% | ~321 |
-| Strike! | 15.00% | ~301 |
-| A love supreme | 15.00% | ~301 |
+| Shake the rust off their feet | 17.00% | ~342 |
+| My little pony | 16.00% | ~322 |
+| Strike! | 15.00% | ~302 |
+| A love supreme | 15.00% | ~302 |
 | In my shoes | 14.00% | ~281 |
 | Like new! | 12.00% | ~241 |
 | Head in the clouds | 12.00% | ~241 |
@@ -25,7 +25,7 @@ Number of Ratings: 38  (23.09.2022)
 | Perfect timing | 8.00% | ~161 |
 | Unstoppable | 8.00% | ~161 |
 | Ain't no mountain high enough | 7.00% | ~141 |
-| Self-sustainability | 6.00% | ~120 |
+| Self-sustainability | 6.00% | ~121 |
 | An eye for an eye | 5.00% | ~100 |
 | Can't get wetter... | 4.00% | ~80 |
 | Spring cleaning | 4.00% | ~80 |
@@ -37,8 +37,8 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~40 |
 | À la carte | 1.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,008 (Ranked 253)  
-Completed: 10 (0.50%) (Ranked 225)  
+Progressed: 2,010 (Ranked 253)  
+Completed: 10 (0.50%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 10 (0.50%) (Ranked 225)
 | 2024-01-13 | 1,985 | 10 |
 | 2024-01-14 | 1,996 | 10 |
 | 2024-01-15 | 2,005 | 10 |
-| 2024-01-16 | 2,008 | 10 |
+| 2024-01-16 | 2,010 | 10 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

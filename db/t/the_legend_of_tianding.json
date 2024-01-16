@@ -3,9 +3,9 @@
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.9,
+  "EOS_Completed_Percentage": 6.82,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -485,6 +485,11 @@
       "Time": "2024-01-14T07:04:36.9123561+00:00",
       "NumProgressed": 87,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T12:07:08.8441763+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -495,7 +500,7 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -503,7 +508,7 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -519,7 +524,7 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -535,7 +540,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 53
     },
@@ -543,7 +548,7 @@
       "ID": "BigEater",
       "SetID": "123m9l1",
       "Name": "Big Eater",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -551,7 +556,7 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -583,7 +588,7 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
       "UsersEstimate": 32
     },
@@ -591,7 +596,7 @@
       "ID": "FinishTutorialStage",
       "SetID": "123m9l1",
       "Name": "Hero Arrives",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 5,
       "UsersEstimate": 79
     },
@@ -623,7 +628,7 @@
       "ID": "MilitaryFactoryExplorer",
       "SetID": "123m9l1",
       "Name": "Urban Explorer",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -655,7 +660,7 @@
       "ID": "SewerExplorer",
       "SetID": "123m9l1",
       "Name": "Sewer Rat",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -704,7 +709,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 6
     }
   ],
@@ -712,8 +717,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:05:29.2525118+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:07:08.844176+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.2162952+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:46.2193231+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:05:29.2525331+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:17.1084094+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:07:08.8441945+00:00"
 }

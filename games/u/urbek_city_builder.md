@@ -85,7 +85,7 @@
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 516 (Ranked 355)  
-Completed: 0 (0.00%) (Ranked 401)  
+Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

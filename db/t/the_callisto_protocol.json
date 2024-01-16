@@ -6,9 +6,9 @@
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2255,9 +2255,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22445,
+  "EOS_Progressed": 22447,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14075,6 +14075,11 @@
       "Time": "2024-01-16T11:09:32.5234911+00:00",
       "NumProgressed": 22445,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T12:10:31.8712466+00:00",
+      "NumProgressed": 22447,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14118,7 +14123,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14190,7 +14195,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5162
+      "UsersEstimate": 5163
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14206,7 +14211,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14214,7 +14219,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4713
+      "UsersEstimate": 4714
     },
     {
       "ID": "KILL_ROBOT",
@@ -14278,7 +14283,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6060
+      "UsersEstimate": 6061
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14342,7 +14347,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "DISMEMBER_100",
@@ -14461,13 +14466,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22445,
+      "Progressed": 22447,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10371,
+      "Progressed": 10373,
       "Completed": 29
     }
   ],
@@ -14475,8 +14480,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-16T01:52:02.5131442+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:32.5234907+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:10:31.8712462+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:03:10.6410843+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:32.5235951+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:03:51.0798421+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:31.8713831+00:00"
 }

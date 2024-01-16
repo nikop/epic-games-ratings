@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,372 |
-| FIRST BLOOD | 40.00% | ~161,219 |
-| KEVIN! | 30.00% | ~120,914 |
-| JACK OF ALL TRADES | 23.00% | ~92,701 |
-| CRIMINAL | 20.00% | ~80,610 |
+| MASTER CHEF | 45.00% | ~181,374 |
+| FIRST BLOOD | 40.00% | ~161,222 |
+| KEVIN! | 30.00% | ~120,916 |
+| JACK OF ALL TRADES | 23.00% | ~92,702 |
+| CRIMINAL | 20.00% | ~80,611 |
 | GRANDMA WOULD BE PROUD | 12.00% | ~48,366 |
 | WITHOUT BREAKING A SWEAT | 10.00% | ~40,305 |
 | HONORS STUDENT | 8.00% | ~32,244 |
 | BUTCHER | 6.00% | ~24,183 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,152 |
-| RAMBO | 5.00% | ~20,152 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,153 |
+| RAMBO | 5.00% | ~20,153 |
 | HELL'S KITCHEN | 4.00% | ~16,122 |
-| CELEBRITY | 3.00% | ~12,091 |
-| MARTYR | 3.00% | ~12,091 |
+| CELEBRITY | 3.00% | ~12,092 |
+| MARTYR | 3.00% | ~12,092 |
 | GRATITUDE | 2.00% | ~8,061 |
 | PATTY-KILLER | 2.00% | ~8,061 |
-| EXPERIMENTALIST | 1.00% | ~4,030 |
-| GOURMET | 1.00% | ~4,030 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,030 |
-| PRUDENT | 1.00% | ~4,030 |
+| EXPERIMENTALIST | 1.00% | ~4,031 |
+| GOURMET | 1.00% | ~4,031 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,031 |
+| PRUDENT | 1.00% | ~4,031 |
 | SCATTERBRAIN | 0.80% | ~3,224 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,821 |
 | TASTE UNTASTY | 0.60% | ~2,418 |
@@ -34,8 +34,8 @@ Rating: 4.51 (Ranked 597)
 | MISTER ALL THUMBS | 0.10% | ~403 |
 | TRAVELER | 0.10% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,048 (Ranked 50)  
-Completed: 61 (0.02%) (Ranked 366)  
+Progressed: 403,054 (Ranked 50)  
+Completed: 61 (0.02%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,7 +232,7 @@ Completed: 61 (0.02%) (Ranked 366)
 | 2024-01-13 | 401,958 | 59 |
 | 2024-01-14 | 402,485 | 59 |
 | 2024-01-15 | 402,893 | 61 |
-| 2024-01-16 | 403,048 | 61 |
+| 2024-01-16 | 403,054 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

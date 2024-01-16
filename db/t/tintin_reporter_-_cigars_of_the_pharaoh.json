@@ -3,9 +3,9 @@
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 476,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -649,6 +649,11 @@
       "Time": "2024-01-15T23:05:25.0596848+00:00",
       "NumProgressed": 138,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T12:06:37.3758792+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -661,7 +666,7 @@
       "Name": "My Papyrus!",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Achievement10",
@@ -701,7 +706,7 @@
       "Name": "Keep the Doctor Away",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement15",
@@ -709,7 +714,7 @@
       "Name": "Just a Palm Tree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement16",
@@ -717,7 +722,7 @@
       "Name": "Under the Hood",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement17",
@@ -725,7 +730,7 @@
       "Name": "Long Live Gaipajama!",
       "Percentage": 9,
       "XP": 85,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement18",
@@ -739,9 +744,9 @@
       "ID": "Achievement19",
       "SetID": "9fa3l5n",
       "Name": "Tintin, Reporter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 85,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement2",
@@ -749,7 +754,7 @@
       "Name": "A Loyal Friend",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Achievement20",
@@ -765,7 +770,7 @@
       "Name": "Eyes Shut",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement22",
@@ -835,9 +840,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "Achievement30",
@@ -869,7 +874,7 @@
       "Name": "Barking Dog",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Achievement34",
@@ -883,9 +888,9 @@
       "ID": "Achievement35",
       "SetID": "9fa3l5n",
       "Name": "Subtlety",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement36",
@@ -933,7 +938,7 @@
       "Name": "It\u0027s a Deal!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement8",
@@ -956,14 +961,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:05:07.2202378+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:06:37.3758788+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.4986492+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:36.6840649+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:05:07.2202622+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:01:02.6307549+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:06:37.3759206+00:00"
 }

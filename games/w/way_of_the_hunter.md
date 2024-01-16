@@ -6,6 +6,8 @@ Number of Ratings: 190  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Like the Back of My Hand | 0.10% | ~3 |
+| Sportsman stage | 0.10% | ~3 |
 | Ahoooooooooy! | 0.00% | ~0 |
 | Arctic Edge | 0.00% | ~0 |
 | Aurora Gazer | 0.00% | ~0 |
@@ -19,12 +21,10 @@ Number of Ratings: 190  (23.09.2022)
 | Hours of Work | 0.00% | ~0 |
 | In Need of New Shoes | 0.00% | ~0 |
 | Like Father, Like Son | 0.00% | ~0 |
-| Like the Back of My Hand | 0.00% | ~0 |
 | Nice to Meet You | 0.00% | ~0 |
 | Not Great, Not Terrible | 0.00% | ~0 |
 | Number One Dad | 0.00% | ~0 |
 | Plain Assessment | 0.00% | ~0 |
-| Sportsman stage | 0.00% | ~0 |
 | Springbok Namibia | 0.00% | ~0 |
 | Surefire Assessment | 0.00% | ~0 |
 | Swinging Duck | 0.00% | ~0 |
@@ -34,8 +34,8 @@ Number of Ratings: 190  (23.09.2022)
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,521 (Ranked 240)  
-Completed: 0 (0.00%) (Ranked 401)  
+Progressed: 2,523 (Ranked 240)  
+Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 2,437 | 0 |
 | 2024-01-14 | 2,482 | 0 |
 | 2024-01-15 | 2,514 | 0 |
-| 2024-01-16 | 2,521 | 0 |
+| 2024-01-16 | 2,523 | 0 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 429)  
 Sum: 384 (Ranked 365)  

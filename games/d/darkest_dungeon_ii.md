@@ -12,11 +12,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,308 |
 | Overdue Notice | 7.00% | ~9,308 |
 | This guy... again? | 7.00% | ~549 |
-| Serenity Now! | 6.00% | ~7,978 |
-| Creep and Sleep | 6.00% | ~7,978 |
-| Catch and Decease | 6.00% | ~7,978 |
-| Escape from the Black Hole | 6.00% | ~7,978 |
-| To Grandmother's House | 6.00% | ~7,978 |
+| Serenity Now! | 6.00% | ~7,979 |
+| Creep and Sleep | 6.00% | ~7,979 |
+| Catch and Decease | 6.00% | ~7,979 |
+| Escape from the Black Hole | 6.00% | ~7,979 |
+| To Grandmother's House | 6.00% | ~7,979 |
 | Ploughshares to Swords | 6.00% | ~471 |
 | Bloody Graduation | 6.00% | ~471 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,649 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,989 |
 | Hot Air | 3.00% | ~3,989 |
 | Road Trip | 3.00% | ~3,989 |
-| This Looks Familiar | 2.00% | ~2,659 |
-| Ichthyophobic | 2.00% | ~2,659 |
-| No More Mouths to Feed | 2.00% | ~2,659 |
-| Worldly Traveller | 2.00% | ~2,659 |
-| Eyes Up | 2.00% | ~2,659 |
-| Handled | 2.00% | ~2,659 |
-| Body of Work | 2.00% | ~2,659 |
+| This Looks Familiar | 2.00% | ~2,660 |
+| Ichthyophobic | 2.00% | ~2,660 |
+| No More Mouths to Feed | 2.00% | ~2,660 |
+| Worldly Traveller | 2.00% | ~2,660 |
+| Eyes Up | 2.00% | ~2,660 |
+| Handled | 2.00% | ~2,660 |
+| Body of Work | 2.00% | ~2,660 |
 | Clearing the Ledger | 1.00% | ~1,330 |
 | Hat Trick | 1.00% | ~1,330 |
 | Shrine of Reflection | 1.00% | ~1,330 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,973 (Ranked 92)  
-Completed: 5 (0.00%) (Ranked 401)  
+Progressed: 132,976 (Ranked 92)  
+Completed: 5 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,973 | 5 |
+| 2024-01-16 | 132,976 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,676 (Ranked 58)  

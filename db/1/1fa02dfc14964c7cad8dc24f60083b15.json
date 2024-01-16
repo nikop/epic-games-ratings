@@ -3,9 +3,9 @@
   "Name": "Horror Adventure",
   "ProductSlug": "horror-adventure-26ec62",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-24T18:30:00+00:00",
     "PcReleaseDate": "2023-02-17T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-30T14:58:22.1759397+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.6021272+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:40.3043568+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:04:12.6238763+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:01:07.9121219+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:05:19.2932842+00:00"
 }

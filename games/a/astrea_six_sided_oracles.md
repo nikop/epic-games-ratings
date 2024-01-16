@@ -46,6 +46,7 @@
 | Apian Hero | 4.00% | ~15 |
 | Behenian Hero | 4.00% | ~15 |
 | Noctuan Hero | 4.00% | ~15 |
+| Pocket Astrarium | 3.00% | ~12 |
 | Purification Avatar | 3.00% | ~12 |
 | The Ardent Prince | 3.00% | ~12 |
 | The Distorted Sage | 3.00% | ~12 |
@@ -53,7 +54,6 @@
 | Lacertian Hero | 3.00% | ~12 |
 | Astromancer | 2.00% | ~8 |
 | Critical Twist | 2.00% | ~8 |
-| Pocket Astrarium | 2.00% | ~8 |
 | Reflexive Mind | 2.00% | ~8 |
 | Sentinelphobic | 2.00% | ~8 |
 | The Abyssal Terror | 2.00% | ~8 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 386 (Ranked 375)  
-Completed: 0 (0.00%) (Ranked 401)  
+Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

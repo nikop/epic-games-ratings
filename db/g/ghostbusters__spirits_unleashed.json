@@ -6,9 +6,9 @@
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4035,9 +4035,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33712,
+  "EOS_Progressed": 33714,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25675,6 +25675,11 @@
       "Time": "2024-01-16T11:08:54.8316293+00:00",
       "NumProgressed": 33712,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-16T12:09:37.5188787+00:00",
+      "NumProgressed": 33714,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25750,7 +25755,7 @@
       "Name": "Cultured",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "Daily_Dose",
@@ -25758,7 +25763,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "Diabolical",
@@ -25830,7 +25835,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "Ghost_Expert",
@@ -25934,7 +25939,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "Rivalry",
@@ -25990,7 +25995,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "Summoner",
@@ -26093,7 +26098,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33712,
+      "Progressed": 33714,
       "Completed": 71
     }
   ],
@@ -26101,8 +26106,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-16T09:57:10.644261+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:08:54.8316289+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:09:37.5188783+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:03.6218936+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:08:54.8317464+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:57:11.7479861+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:09:37.5190164+00:00"
 }

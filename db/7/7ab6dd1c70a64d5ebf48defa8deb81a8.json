@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -103,7 +103,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2352,
+  "EOS_Progressed": 2353,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
@@ -4648,6 +4648,11 @@
       "Time": "2024-01-16T11:09:53.3362594+00:00",
       "NumProgressed": 2352,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T12:11:00.3111478+00:00",
+      "NumProgressed": 2353,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4659,7 +4664,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACH_02",
@@ -4697,9 +4702,9 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 212
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_07",
@@ -4731,7 +4736,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_11",
@@ -4771,7 +4776,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_16",
@@ -4851,7 +4856,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH_26",
@@ -4946,7 +4951,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2352,
+      "Progressed": 2353,
       "Completed": 3
     }
   ],
@@ -4954,8 +4959,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:53.336259+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:11:00.3111476+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:28.3939234+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:53.3363017+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:00:49.9573032+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:11:00.3111991+00:00"
 }

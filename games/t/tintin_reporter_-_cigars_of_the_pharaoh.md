@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 80.00% | ~110 |
-| A Loyal Friend | 43.00% | ~59 |
-| Abandon Ship! | 33.00% | ~46 |
+| My Papyrus! | 80.00% | ~111 |
+| A Loyal Friend | 43.00% | ~60 |
+| Abandon Ship! | 32.00% | ~44 |
 | The Tomb of Kih-Oskh | 28.00% | ~39 |
 | The Weighing of the Soul | 26.00% | ~36 |
 | The Curse of Kih-Oskh | 20.00% | ~28 |
-| It's a Deal! | 17.00% | ~23 |
+| It's a Deal! | 17.00% | ~24 |
 | Cat Lover | 14.00% | ~19 |
 | Dynamite, Treason and Coconuts | 14.00% | ~19 |
 | Save a Friend | 14.00% | ~19 |
@@ -19,16 +19,16 @@
 | Mysterious Bungalow | 12.00% | ~17 |
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
-| Keep the Doctor Away | 9.00% | ~12 |
-| Just a Palm Tree | 9.00% | ~12 |
-| Under the Hood | 9.00% | ~12 |
-| Long Live Gaipajama! | 9.00% | ~12 |
-| Eyes Shut | 9.00% | ~12 |
-| Barking Dog | 9.00% | ~12 |
-| Tintin, Reporter | 7.00% | ~10 |
+| Keep the Doctor Away | 9.00% | ~13 |
+| Just a Palm Tree | 9.00% | ~13 |
+| Under the Hood | 9.00% | ~13 |
+| Long Live Gaipajama! | 9.00% | ~13 |
+| Eyes Shut | 9.00% | ~13 |
+| Barking Dog | 9.00% | ~13 |
 | Mummy Nightmare | 7.00% | ~10 |
-| Subtlety | 7.00% | ~10 |
+| Tintin, Reporter | 6.00% | ~8 |
 | Mountain Runner | 6.00% | ~8 |
+| Subtlety | 6.00% | ~8 |
 | A Yummy Detour | 4.00% | ~6 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Jungle Runner | 2.00% | ~3 |
@@ -42,8 +42,8 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 476)  
-Completed: 0 (0.00%) (Ranked 401)  
+Progressed: 139 (Ranked 476)  
+Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,3 +98,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 134 | 0 |
 | 2024-01-14 | 137 | 0 |
 | 2024-01-15 | 138 | 0 |
+| 2024-01-16 | 139 | 0 |

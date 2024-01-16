@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 91.00% | ~79 |
-| Eat the Rich | 61.00% | ~53 |
+| Hero Arrives | 90.00% | ~79 |
+| Eat the Rich | 60.00% | ~53 |
 | Killing Machine | 47.00% | ~41 |
-| Death Battle | 43.00% | ~37 |
-| Phantom Kunoichi | 43.00% | ~37 |
+| Death Battle | 42.00% | ~37 |
+| Phantom Kunoichi | 42.00% | ~37 |
 | Divine Retribution | 41.00% | ~36 |
 | Captain Mustache | 40.00% | ~35 |
-| Final Showdown | 37.00% | ~32 |
-| The End of an Outlaw | 37.00% | ~32 |
-| Dispel Rumors | 36.00% | ~31 |
+| Final Showdown | 36.00% | ~32 |
+| The End of an Outlaw | 36.00% | ~32 |
+| Dispel Rumors | 35.00% | ~31 |
 | Demon Slayer | 32.00% | ~28 |
 | Steal Her Away | 30.00% | ~26 |
 | Fight Fire With Fire | 30.00% | ~26 |
-| Sewer Rat | 29.00% | ~25 |
-| Big Eater | 28.00% | ~24 |
-| Urban Explorer | 28.00% | ~24 |
+| Sewer Rat | 28.00% | ~25 |
+| Big Eater | 27.00% | ~24 |
+| Urban Explorer | 27.00% | ~24 |
 | Not Today | 26.00% | ~23 |
 | Tour Guide | 24.00% | ~21 |
 | Coward | 24.00% | ~21 |
@@ -31,8 +31,8 @@
 | Taoist | 9.00% | ~8 |
 | The Legend | 7.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 510)  
-Completed: 6 (6.90%) (Ranked 61)  
+Progressed: 88 (Ranked 510)  
+Completed: 6 (6.82%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 6 (6.90%) (Ranked 61)
 | 2024-01-10 | 83 | 6 |
 | 2024-01-13 | 86 | 6 |
 | 2024-01-14 | 87 | 6 |
+| 2024-01-16 | 88 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

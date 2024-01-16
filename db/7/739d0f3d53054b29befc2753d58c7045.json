@@ -3,9 +3,9 @@
   "Name": "MUSYNX",
   "ProductSlug": "musynx-fb5190",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-09T04:00:00+00:00",
     "PcReleaseDate": "2018-12-04T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-21T15:57:47.3717951+00:00",
   "LastUpdate_AppInfo": "2024-01-12T21:56:57.8031232+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:36.3193755+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:36.7636052+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:01:02.2344955+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:37.8662617+00:00"
 }

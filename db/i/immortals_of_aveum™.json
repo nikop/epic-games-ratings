@@ -2,11 +2,11 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 975,
+  "Ranking_Rating": 976,
   "Ranking_Popularity": 576,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3470,
+  "EOS_Progressed": 3471,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5677,6 +5677,11 @@
       "Time": "2024-01-16T06:10:14.729846+00:00",
       "NumProgressed": 3470,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T12:10:55.145733+00:00",
+      "NumProgressed": 3471,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5689,7 +5694,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "achievement_10",
@@ -5697,7 +5702,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "achievement_11",
@@ -5737,7 +5742,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_16",
@@ -5745,7 +5750,7 @@
       "Name": "Recruit",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_17",
@@ -5777,7 +5782,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "achievement_20",
@@ -5833,7 +5838,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2430
     },
     {
       "ID": "achievement_36",
@@ -5921,7 +5926,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "achievement_49",
@@ -6064,7 +6069,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3470,
+      "Progressed": 3471,
       "Completed": 5
     }
   ],
@@ -6072,8 +6077,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:49.371722+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:10:55.1457327+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:46.5762619+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:49.3717688+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:17.6536577+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:55.1457903+00:00"
 }

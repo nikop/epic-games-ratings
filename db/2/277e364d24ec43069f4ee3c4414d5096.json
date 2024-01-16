@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 95,
-  "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_Completed": 342,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120167,
+  "EOS_Progressed": 120168,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25062,6 +25062,11 @@
       "Time": "2024-01-16T10:10:19.1591075+00:00",
       "NumProgressed": 120167,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-16T12:10:59.5578963+00:00",
+      "NumProgressed": 120168,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25217,7 +25222,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 24033
+      "UsersEstimate": 24034
     },
     {
       "ID": "EAwards_26",
@@ -25257,7 +25262,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24033
+      "UsersEstimate": 24034
     },
     {
       "ID": "EAwards_30",
@@ -25464,7 +25469,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120167,
+      "Progressed": 120168,
       "Completed": 61
     }
   ],
@@ -25472,8 +25477,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:52.7202022+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:10:59.557896+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:55.2297591+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:52.7203204+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:30.6855328+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:59.5581045+00:00"
 }

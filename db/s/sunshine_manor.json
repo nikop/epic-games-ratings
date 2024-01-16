@@ -3,9 +3,9 @@
   "Name": "Sunshine Manor",
   "ProductSlug": "sunshine-manor-bc9b28",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-10-28T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:47.8137821+00:00",
   "LastChanged": "2023-03-31T05:58:47.8137822+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:41.9468113+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:59.8702211+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:08:40.8672506+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:01:43.1121838+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:09:17.8230461+00:00"
 }

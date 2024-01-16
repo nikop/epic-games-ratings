@@ -2,10 +2,10 @@
   "ID": "ed8b8463b9a34638b64bb8e5575b8f4e",
   "Name": "The Isle Tide Hotel",
   "ProductSlug": "the-isle-tide-hotel-adf588",
-  "Ranking_EOS_Progress": 484,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 431,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Progress": 483,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 125,
+  "EOS_Progressed": 126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.8,
+  "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
     {
       "Time": "2023-09-12T13:07:07.5986891+00:00",
@@ -639,6 +639,11 @@
       "Time": "2024-01-15T16:10:39.5523518+00:00",
       "NumProgressed": 125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T12:10:54.8702836+00:00",
+      "NumProgressed": 126,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -667,7 +672,7 @@
       "Name": "Cold Feet",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "cultipedia",
@@ -721,9 +726,9 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "lessons_never_learnt",
@@ -731,7 +736,7 @@
       "Name": "Lessons Never Learnt",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "passive_fist",
@@ -755,7 +760,7 @@
       "Name": "Skipper",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "taxi_drivers_knowledge",
@@ -787,13 +792,13 @@
       "Name": "The Fall",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "the_four_doors",
       "SetID": "7i36ba9",
       "Name": "The Four Doors",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 95,
       "UsersEstimate": 42
     },
@@ -811,7 +816,7 @@
       "Name": "The Pageant",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "the_petition",
@@ -819,7 +824,7 @@
       "Name": "The Petition",
       "Percentage": 10,
       "XP": 95,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "the_price_is_right",
@@ -841,9 +846,9 @@
       "ID": "time_waster",
       "SetID": "7i36ba9",
       "Name": "Time Waster",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "who_is_d",
@@ -851,21 +856,21 @@
       "Name": "Who is D?",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 125,
+      "Progressed": 126,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:49.0755182+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:10:54.8702832+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9806702+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:41.0390653+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:49.0755364+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:58:09.2680202+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:54.870299+00:00"
 }

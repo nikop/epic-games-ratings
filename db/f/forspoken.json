@@ -6,9 +6,9 @@
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 377,
+  "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47334,
+  "EOS_Progressed": 47338,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18992,6 +18992,11 @@
       "Time": "2024-01-16T11:03:45.2518513+00:00",
       "NumProgressed": 47334,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T12:04:40.8902729+00:00",
+      "NumProgressed": 47338,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19051,7 +19056,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6153
+      "UsersEstimate": 6154
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19067,7 +19072,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -19339,7 +19344,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5680
+      "UsersEstimate": 5681
     },
     {
       "ID": "SPRING_ALL",
@@ -19355,7 +19360,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "STAYING_AIR",
@@ -19426,22 +19431,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47334,
+      "Progressed": 47338,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12171,
-      "Completed": 12171
+      "Progressed": 12175,
+      "Completed": 12175
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:03:45.2518511+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:04:40.8902725+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:02:52.956477+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:03:45.2519645+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:03:25.9455814+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:04:40.8903932+00:00"
 }

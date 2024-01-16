@@ -3,9 +3,9 @@
   "Name": "DINOSAURS: Mission Dino Camp",
   "ProductSlug": "dinosaurs-mision-dino-camp-acded6",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-01T23:00:00+00:00",
     "PcReleaseDate": "2023-11-01T23:00:00+00:00",
@@ -213,8 +213,8 @@
   ],
   "FirstSeen": "2023-11-03T19:58:09.3498164+00:00",
   "FirstSeenAchievements": "2023-10-18T10:07:51.842628+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:04:13.1342486+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:05:20.1125834+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:10.4428723+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:00:01.7874138+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:04:13.1342666+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:01:47.0237532+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:05:20.1126011+00:00"
 }

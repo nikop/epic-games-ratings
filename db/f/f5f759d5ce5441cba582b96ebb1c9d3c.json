@@ -3,9 +3,9 @@
   "Name": "Eden Island",
   "ProductSlug": "eden-island-8cd344",
   "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 566,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-18T12:00:00+00:00",
     "PcReleaseDate": "2023-11-18T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-19T04:00:00.1502556+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:56.3240311+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:57:21.9725907+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:04:25.5553684+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:57:40.0672312+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:05:38.0240224+00:00"
 }

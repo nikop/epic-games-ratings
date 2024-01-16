@@ -3,9 +3,9 @@
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
     "PcReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -1040,6 +1040,11 @@
       "Time": "2024-01-16T01:57:18.1632202+00:00",
       "NumProgressed": 214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T12:08:59.1031181+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -1108,7 +1113,7 @@
       "Name": "Awaken",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_CLARITY",
@@ -1148,7 +1153,7 @@
       "Name": "Hope",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_HUNGER",
@@ -1156,7 +1161,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_JIGSAW",
@@ -1188,7 +1193,7 @@
       "Name": "Morgengrauen",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -1228,7 +1233,7 @@
       "Name": "Path of Despair",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1252,7 +1257,7 @@
       "Name": "Rage",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_REFLECTIONS",
@@ -1274,23 +1279,23 @@
       "ID": "ACH_THESHINING",
       "SetID": "88d7anj",
       "Name": "The shining",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:08:27.3826826+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:08:59.1031176+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.6210321+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:58:29.3907989+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:08:27.382705+00:00"
+  "LastUpdate_Ratings": "2024-01-16T11:59:20.9022976+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:08:59.1031462+00:00"
 }

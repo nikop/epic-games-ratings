@@ -6,8 +6,8 @@
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_Completed": 287,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14948,
+  "EOS_Progressed": 14949,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10573,6 +10573,11 @@
       "Time": "2024-01-16T11:09:50.7267005+00:00",
       "NumProgressed": 14948,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-16T12:10:57.0319384+00:00",
+      "NumProgressed": 14949,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10657,7 +10662,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8221
+      "UsersEstimate": 8222
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10777,7 +10782,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "TheQuarterback",
@@ -10791,9 +10796,9 @@
       "ID": "ThisIsDharma",
       "SetID": "acc6ea0",
       "Name": "This... Is... Dharma!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2541
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10856,7 +10861,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14948,
+      "Progressed": 14949,
       "Completed": 27
     }
   ],
@@ -10864,8 +10869,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:09:50.7267001+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:10:57.0319376+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-16T10:59:33.2684709+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:09:50.7267539+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:00:57.5467108+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:10:57.0320211+00:00"
 }

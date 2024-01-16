@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40600,
+  "EOS_Progressed": 40602,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24208,6 +24208,11 @@
       "Time": "2024-01-16T11:08:32.5683201+00:00",
       "NumProgressed": 40600,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-16T12:09:06.2550703+00:00",
+      "NumProgressed": 40602,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -24235,7 +24240,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10556
+      "UsersEstimate": 10557
     },
     {
       "ID": "allItems",
@@ -24307,7 +24312,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30856
+      "UsersEstimate": 30858
     },
     {
       "ID": "roots",
@@ -24330,15 +24335,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40600,
+      "Progressed": 40602,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:08:32.5683196+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:09:06.2550698+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.6261434+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:00:22.8656812+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:08:32.5684349+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:02:45.802009+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:09:06.2552332+00:00"
 }

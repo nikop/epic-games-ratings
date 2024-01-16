@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,11 +89,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 678,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -1434,6 +1434,11 @@
       "Time": "2024-01-15T20:06:41.2273502+00:00",
       "NumProgressed": 676,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T12:08:26.3424676+00:00",
+      "NumProgressed": 678,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1453,7 +1458,7 @@
       "Name": "Identity Theft",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Butterfly",
@@ -1467,9 +1472,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 197
     },
     {
       "ID": "Doors_Closing",
@@ -1477,7 +1482,7 @@
       "Name": "Mind the Gap",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Echoes",
@@ -1533,7 +1538,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Hitman",
@@ -1549,7 +1554,7 @@
       "Name": "F is for Feline",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Investigative",
@@ -1565,7 +1570,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "Leisurely_Strol",
@@ -1573,7 +1578,7 @@
       "Name": "A Trip to Remember",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "MISSING_DATA",
@@ -1635,9 +1640,9 @@
       "ID": "Park",
       "SetID": "ek310c",
       "Name": "Catch You Later",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 41
     },
     {
       "ID": "Party",
@@ -1661,7 +1666,7 @@
       "Name": "Beat the Heat",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1676,7 +1681,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 678,
       "Completed": 6
     }
   ],
@@ -1684,8 +1689,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-16T11:06:23.0777543+00:00",
+  "LastChanged_Achievements": "2024-01-16T12:08:26.3424672+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:03:14.2669067+00:00",
-  "LastUpdate_Achievements": "2024-01-16T11:06:23.0777849+00:00"
+  "LastUpdate_Ratings": "2024-01-16T12:03:55.8557406+00:00",
+  "LastUpdate_Achievements": "2024-01-16T12:08:26.3425148+00:00"
 }

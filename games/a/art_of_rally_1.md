@@ -6,52 +6,52 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~337,189 |
-| good drivers have dead flies on the side windows | 32.00% | ~134,876 |
-| keep it tidy | 26.00% | ~109,586 |
-| brail | 26.00% | ~109,586 |
-| car wash | 23.00% | ~96,942 |
-| the artist | 23.00% | ~96,942 |
-| podium | 20.00% | ~84,297 |
-| medium attack | 17.00% | ~71,653 |
-| bicycle race | 6.00% | ~25,289 |
-| grocery-getter | 5.00% | ~21,074 |
-| autopilot | 4.00% | ~16,859 |
-| rwd only | 3.00% | ~12,645 |
-| where is the stage? | 3.00% | ~12,645 |
-| night ride | 3.00% | ~12,645 |
-| snorkel | 3.00% | ~12,645 |
-| food tour: pasta | 3.00% | ~12,645 |
-| to finish first, first you must finish | 2.00% | ~8,430 |
-| perkele | 2.00% | ~8,430 |
-| turbo | 2.00% | ~8,430 |
-| if in doubt, flat out! | 2.00% | ~8,430 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,430 |
-| mittens | 2.00% | ~8,430 |
-| food tour: pretzel | 2.00% | ~8,430 |
-| espresso | 1.00% | ~4,215 |
-| monster | 1.00% | ~4,215 |
-| in like a lamb, out like a lion | 1.00% | ~4,215 |
-| eurobeat | 0.70% | ~2,950 |
+| light attack | 80.00% | ~337,264 |
+| good drivers have dead flies on the side windows | 32.00% | ~134,906 |
+| keep it tidy | 26.00% | ~109,611 |
+| brail | 26.00% | ~109,611 |
+| car wash | 23.00% | ~96,963 |
+| the artist | 23.00% | ~96,963 |
+| podium | 20.00% | ~84,316 |
+| medium attack | 17.00% | ~71,669 |
+| bicycle race | 6.00% | ~25,295 |
+| grocery-getter | 5.00% | ~21,079 |
+| autopilot | 4.00% | ~16,863 |
+| rwd only | 3.00% | ~12,647 |
+| where is the stage? | 3.00% | ~12,647 |
+| night ride | 3.00% | ~12,647 |
+| snorkel | 3.00% | ~12,647 |
+| food tour: pasta | 3.00% | ~12,647 |
+| to finish first, first you must finish | 2.00% | ~8,432 |
+| perkele | 2.00% | ~8,432 |
+| turbo | 2.00% | ~8,432 |
+| if in doubt, flat out! | 2.00% | ~8,432 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,432 |
+| mittens | 2.00% | ~8,432 |
+| food tour: pretzel | 2.00% | ~8,432 |
+| espresso | 1.00% | ~4,216 |
+| monster | 1.00% | ~4,216 |
+| in like a lamb, out like a lion | 1.00% | ~4,216 |
+| eurobeat | 0.70% | ~2,951 |
 | viking | 0.60% | ~2,529 |
 | parallel universe | 0.60% | ~2,529 |
-| oktoberfest | 0.50% | ~2,107 |
-| group b | 0.50% | ~2,107 |
-| maximum attack | 0.50% | ~2,107 |
-| samir | 0.50% | ~2,107 |
+| oktoberfest | 0.50% | ~2,108 |
+| group b | 0.50% | ~2,108 |
+| maximum attack | 0.50% | ~2,108 |
+| samir | 0.50% | ~2,108 |
 | master of rally | 0.40% | ~1,686 |
 | antilag | 0.40% | ~1,686 |
 | real roads, real fast | 0.40% | ~1,686 |
-| parking lot | 0.30% | ~1,264 |
+| parking lot | 0.30% | ~1,265 |
 | comfy seats | 0.20% | ~843 |
 | simulator | 0.20% | ~843 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~421 |
-| absolute drift | 0.10% | ~421 |
-| barely keeping it together | 0.10% | ~421 |
-| you're here for a good time, not a long time | 0.10% | ~421 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~422 |
+| absolute drift | 0.10% | ~422 |
+| barely keeping it together | 0.10% | ~422 |
+| you're here for a good time, not a long time | 0.10% | ~422 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 421,486 (Ranked 49)  
-Completed: 22 (0.01%) (Ranked 377)  
+Progressed: 421,580 (Ranked 49)  
+Completed: 22 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,11 +251,11 @@ Completed: 22 (0.01%) (Ranked 377)
 | 2024-01-13 | 416,658 | 22 |
 | 2024-01-14 | 419,155 | 22 |
 | 2024-01-15 | 420,823 | 22 |
-| 2024-01-16 | 421,486 | 22 |
+| 2024-01-16 | 421,580 | 22 |
 ## Awards
 Max (Quickly Understood Controls): 44  (Ranked 479)  
-Sum: 255 (Ranked 399)  
-Diff (max vs sum): 80  
+Sum: 257 (Ranked 398)  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 44 |
@@ -263,8 +263,8 @@ Diff (max vs sum): 80
 | This game is Great for Quick Sessions | 35 |
 | This game is Relaxing | 32 |
 | This game is Extremely Fun | 31 |
+| This game has Amazing Storytelling | 30 |
 | This game is Great for Beginners | 28 |
-| This game has Amazing Storytelling | 28 |
 | This game has Amazing Characters | 26 |
 | This game has Competitive Players | 23 |
 ## Ratings History
@@ -331,3 +331,4 @@ Diff (max vs sum): 80
 | 2024-01-13 | 4.64 | - | 41 | 239 |
 | 2024-01-14 | 4.64 | - | 41 | 246 |
 | 2024-01-15 | 4.63 | - | 44 | 255 |
+| 2024-01-16 | 4.63 | - | 44 | 257 |
