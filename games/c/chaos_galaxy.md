@@ -9,8 +9,8 @@
 | Great Civil War | 13.00% | ~8 |
 | Assassination | 11.00% | ~7 |
 | Princess Crowned | 8.00% | ~5 |
-| Secret War | 7.00% | ~4 |
-| Investment | 7.00% | ~4 |
+| Secret War | 6.00% | ~4 |
+| Investment | 6.00% | ~4 |
 | Tech Breakthrough | 5.00% | ~3 |
 | 2nd AI War | 3.00% | ~2 |
 | Punish Eastgalaxy | 3.00% | ~2 |
@@ -53,7 +53,7 @@
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 547)  
+Progressed: 62 (Ranked 545)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,3 +100,4 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-03 | 59 | 0 |
 | 2024-01-04 | 60 | 0 |
 | 2024-01-10 | 61 | 0 |
+| 2024-01-16 | 62 | 0 |

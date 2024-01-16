@@ -14,13 +14,13 @@
 | Blue Rapids | 5.00% | ~525 |
 | Speed walkers | 5.00% | ~525 |
 | Sunset Ridge | 3.00% | ~315 |
-| Robot lives matter too | 0.10% | ~10 |
-| Trend hunters | 0.10% | ~10 |
-| I can do this alone | 0.10% | ~10 |
-| Reaching for the stars | 0.10% | ~10 |
+| Robot lives matter too | 0.10% | ~11 |
+| Trend hunters | 0.10% | ~11 |
+| I can do this alone | 0.10% | ~11 |
+| Reaching for the stars | 0.10% | ~11 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,499 (Ranked 182)  
+Progressed: 10,501 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 10,414 | 0 |
 | 2024-01-14 | 10,465 | 0 |
 | 2024-01-15 | 10,496 | 0 |
-| 2024-01-16 | 10,499 | 0 |
+| 2024-01-16 | 10,501 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -800,9 +800,9 @@
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "beat_c1_bronze",
@@ -1399,8 +1399,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:07:08.3366421+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:07:48.3557458+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:01:03.4370144+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:07:08.3367348+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:01:12.3713861+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:07:48.3558289+00:00"
 }

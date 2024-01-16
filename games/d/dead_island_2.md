@@ -5,33 +5,33 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,436 |
-| Hotel California | 9.00% | ~72,392 |
-| Break A Leg | 8.00% | ~64,349 |
-| Coup de Grâce | 8.00% | ~64,349 |
-| Git Gutte! | 7.00% | ~56,305 |
-| Hazardous Materials | 7.00% | ~56,305 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,305 |
-| Bookworm | 6.00% | ~48,261 |
-| Friends Like These | 6.00% | ~48,261 |
-| Apex Predator | 6.00% | ~48,261 |
+| Welcome To Hell-A | 10.00% | ~80,437 |
+| Hotel California | 9.00% | ~72,393 |
+| Break A Leg | 8.00% | ~64,350 |
+| Coup de Grâce | 8.00% | ~64,350 |
+| Git Gutte! | 7.00% | ~56,306 |
+| Hazardous Materials | 7.00% | ~56,306 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,306 |
+| Bookworm | 6.00% | ~48,262 |
+| Friends Like These | 6.00% | ~48,262 |
+| Apex Predator | 6.00% | ~48,262 |
 | Dr. Reed, I Presume? | 5.00% | ~40,218 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,218 |
 | But Doctor, I am Butcho | 5.00% | ~40,218 |
 | Stacking the Deck | 5.00% | ~40,218 |
 | This is My Weapon | 5.00% | ~40,218 |
-| Anger Management | 4.00% | ~32,174 |
-| Perks of the Job | 4.00% | ~32,174 |
-| Slayer Squad | 4.00% | ~32,174 |
-| Can't Handle the Truth | 4.00% | ~32,174 |
-| Like Riding a Bike | 4.00% | ~32,174 |
-| Zombologist | 4.00% | ~32,174 |
-| Ooh, Shiny! | 4.00% | ~32,174 |
-| A Patton Emerges | 4.00% | ~32,174 |
-| I Am the Resurrection | 4.00% | ~32,174 |
-| Our True Nature | 4.00% | ~32,174 |
-| Whatever It Takes | 4.00% | ~5,196 |
-| Pork Chopped | 4.00% | ~5,196 |
+| Anger Management | 4.00% | ~32,175 |
+| Perks of the Job | 4.00% | ~32,175 |
+| Slayer Squad | 4.00% | ~32,175 |
+| Can't Handle the Truth | 4.00% | ~32,175 |
+| Like Riding a Bike | 4.00% | ~32,175 |
+| Zombologist | 4.00% | ~32,175 |
+| Ooh, Shiny! | 4.00% | ~32,175 |
+| A Patton Emerges | 4.00% | ~32,175 |
+| I Am the Resurrection | 4.00% | ~32,175 |
+| Our True Nature | 4.00% | ~32,175 |
+| Whatever It Takes | 4.00% | ~5,197 |
+| Pork Chopped | 4.00% | ~5,197 |
 | Making Your Mark | 3.00% | ~24,131 |
 | Humanity Distilled | 3.00% | ~24,131 |
 | Down with the Sickness | 3.00% | ~24,131 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~804 |
 | Wilhelm | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804,357 (Ranked 23)  
+Progressed: 804,369 (Ranked 23)  
 Completed: 2,591 (0.32%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 2,591 (0.32%) (Ranked 255)
 | 2024-01-13 | 802,693 | 2,581 |
 | 2024-01-14 | 803,623 | 2,587 |
 | 2024-01-15 | 804,269 | 2,590 |
-| 2024-01-16 | 804,357 | 2,591 |
+| 2024-01-16 | 804,369 | 2,591 |
 ## Awards
 Max (Great Boss Battles): 10,450  (Ranked 41)  
 Sum: 16,018 (Ranked 70)  

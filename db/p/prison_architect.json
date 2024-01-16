@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewPlayers": 48,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
@@ -8343,9 +8343,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 217151,
+  "EOS_Progressed": 217159,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3339,
+  "EOS_NewPlayers": 3332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39463,6 +39463,11 @@
       "Time": "2024-01-16T03:10:27.2018441+00:00",
       "NumProgressed": 217151,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-16T04:11:19.7925948+00:00",
+      "NumProgressed": 217159,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -39506,7 +39511,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32573
+      "UsersEstimate": 32574
     },
     {
       "ID": "Achievement_13",
@@ -39554,7 +39559,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 54288
+      "UsersEstimate": 54290
     },
     {
       "ID": "Achievement_5",
@@ -39601,15 +39606,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 217151,
+      "Progressed": 217159,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-15T23:57:56.9843082+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:27.2018438+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:19.7925942+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.7759679+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:58:35.9352195+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:27.2020027+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:58:47.730575+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:19.7928023+00:00"
 }

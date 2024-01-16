@@ -7,32 +7,32 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~530 |
-| Cowardice | 61.00% | ~475 |
+| Cowardice | 61.00% | ~476 |
 | The Breaking Point | 44.00% | ~343 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~343 |
-| Eat Lead! | 42.00% | ~327 |
+| Eat Lead! | 42.00% | ~328 |
 | Here Comes the Boom | 40.00% | ~312 |
 | Prospector | 39.00% | ~304 |
 | Sniper Wolf | 38.00% | ~296 |
-| Treasure Hunter | 36.00% | ~280 |
-| The Motivation | 36.00% | ~280 |
+| Treasure Hunter | 36.00% | ~281 |
+| The Motivation | 36.00% | ~281 |
 | Heroism | 34.00% | ~265 |
-| Collectibles of Chapter I | 32.00% | ~249 |
-| Missing in Action | 32.00% | ~249 |
-| Consequences | 31.00% | ~241 |
+| Collectibles of Chapter I | 32.00% | ~250 |
+| Missing in Action | 32.00% | ~250 |
+| Consequences | 31.00% | ~242 |
 | Opportunities | 30.00% | ~234 |
 | King of Knives | 30.00% | ~234 |
-| The Horror | 27.00% | ~210 |
+| The Horror | 27.00% | ~211 |
 | The Difference | 25.00% | ~195 |
 | It's Just an Accident | 25.00% | ~195 |
 | Vengeance | 24.00% | ~187 |
-| Collectibles of Chapter II | 22.00% | ~171 |
+| Collectibles of Chapter II | 22.00% | ~172 |
 | Broken Hopes | 21.00% | ~164 |
 | Bullseye! | 21.00% | ~164 |
 | Sorrow | 19.00% | ~148 |
-| Atonement | 17.00% | ~132 |
-| Helping Hand | 17.00% | ~132 |
-| Food Massacre | 17.00% | ~132 |
+| Atonement | 17.00% | ~133 |
+| Helping Hand | 17.00% | ~133 |
+| Food Massacre | 17.00% | ~133 |
 | Collectibles of Chapter III | 14.00% | ~109 |
 | Without a Second Thought | 14.00% | ~109 |
 | Collectibles of Chapter IV | 13.00% | ~101 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 779 (Ranked 318)  
+Progressed: 780 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,6 +276,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-12 | 774 | 0 |
 | 2024-01-13 | 777 | 0 |
 | 2024-01-14 | 779 | 0 |
+| 2024-01-16 | 780 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

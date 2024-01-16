@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -1523,7 +1523,7 @@
   ],
   "EOS_Progressed": 18257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1235,
+  "EOS_NewPlayers": 1224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12090,9 +12090,9 @@
       "ID": "achievement_0029",
       "SetID": "9123ogc",
       "Name": "Reduce",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2739
     },
     {
       "ID": "achievement_0030",
@@ -12267,8 +12267,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-15T22:59:56.6093476+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:05:43.8389995+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:06:26.7483194+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:01:06.8605721+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:05:43.8391046+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:01:15.7394827+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:06:26.7483987+00:00"
 }

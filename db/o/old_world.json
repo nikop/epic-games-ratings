@@ -2298,9 +2298,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16893,
+  "EOS_Progressed": 16894,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20168,6 +20168,11 @@
       "Time": "2024-01-16T03:11:06.8032282+00:00",
       "NumProgressed": 16893,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T04:11:58.3920547+00:00",
+      "NumProgressed": 16894,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21489,9 +21494,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -23042,21 +23047,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16893,
+      "Progressed": 16894,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16893,
+      "Progressed": 16894,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:11:06.8032277+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:58.3920542+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:02:35.6611918+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:11:06.8045851+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:03:23.0877213+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:58.3932791+00:00"
 }

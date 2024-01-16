@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1576,6 +1576,11 @@
       "Time": "2024-01-15T19:09:42.0287587+00:00",
       "NumProgressed": 524,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T04:11:23.3991539+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1627,7 +1632,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ryan_date2_all",
@@ -1635,7 +1640,7 @@
       "Name": "More than browsing",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ryan_date3_all",
@@ -1715,7 +1720,7 @@
       "Name": "The athlete",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "success_ty",
@@ -1738,7 +1743,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 7
     }
   ],
@@ -1746,8 +1751,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:30.971964+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:23.3991533+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:18.7829189+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:59:15.6777062+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:30.9720078+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:59:26.3130891+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:23.3991831+00:00"
 }

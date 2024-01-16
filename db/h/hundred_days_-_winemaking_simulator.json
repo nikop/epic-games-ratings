@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 155,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 20930,
+  "EOS_Progressed": 20934,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17458,6 +17458,11 @@
       "Time": "2024-01-16T03:10:31.2607557+00:00",
       "NumProgressed": 20930,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-16T04:11:23.6192998+00:00",
+      "NumProgressed": 20934,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17518,7 +17523,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9209
+      "UsersEstimate": 9211
     },
     {
       "ID": "a_19",
@@ -17526,7 +17531,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "a_2",
@@ -17534,7 +17539,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "a_20",
@@ -17566,7 +17571,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "a_25",
@@ -17574,7 +17579,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "a_26",
@@ -17717,7 +17722,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 20930,
+      "Progressed": 20934,
       "Completed": 13
     }
   ],
@@ -17725,8 +17730,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:31.2607553+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:23.6192993+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:00:11.8178864+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:31.2608438+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:00:21.402087+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:23.6194153+00:00"
 }

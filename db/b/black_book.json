@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67309,
+  "EOS_Progressed": 67314,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 1286,
+  "EOS_NewPlayers": 1287,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17066,6 +17066,11 @@
       "Time": "2024-01-16T03:07:19.4605126+00:00",
       "NumProgressed": 67309,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-16T04:07:58.9339591+00:00",
+      "NumProgressed": 67314,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17102,7 +17107,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "BAD_END",
@@ -17150,7 +17155,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "DEAD_MAN",
@@ -17190,7 +17195,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14808
+      "UsersEstimate": 14809
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17198,7 +17203,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -17230,7 +17235,7 @@
       "Name": "Righteous",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "GREAT_SORCERER",
@@ -17254,7 +17259,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9423
+      "UsersEstimate": 9424
     },
     {
       "ID": "HERBS_2",
@@ -17278,7 +17283,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19520
+      "UsersEstimate": 19521
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -17310,7 +17315,7 @@
       "Name": "Musician",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "NEW_SPIRITS",
@@ -17326,7 +17331,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8077
+      "UsersEstimate": 8078
     },
     {
       "ID": "NORMAL_END",
@@ -17334,7 +17339,7 @@
       "Name": "Koldun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "OLD_SPIRITS",
@@ -17390,7 +17395,7 @@
       "Name": "Susanin",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "TALES_1",
@@ -17398,7 +17403,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10096
+      "UsersEstimate": 10097
     },
     {
       "ID": "TALES_2",
@@ -17422,7 +17427,7 @@
       "Name": "Traveller",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3365
+      "UsersEstimate": 3366
     },
     {
       "ID": "WATER",
@@ -17454,7 +17459,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10769
+      "UsersEstimate": 10770
     },
     {
       "ID": "ZNATKOST_2",
@@ -17477,15 +17482,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67309,
+      "Progressed": 67314,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:07:19.4605122+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:07:58.9339587+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:01:42.5546645+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:07:19.4606502+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:01:50.6715335+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:07:58.9340633+00:00"
 }

@@ -389,9 +389,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7350,
+  "EOS_Progressed": 7351,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -9019,6 +9019,11 @@
       "Time": "2024-01-16T01:57:46.7569129+00:00",
       "NumProgressed": 7350,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T04:10:33.8432377+00:00",
+      "NumProgressed": 7351,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -9086,7 +9091,7 @@
       "Name": "The Brahdyssey",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Bride",
@@ -9118,7 +9123,7 @@
       "Name": "Caught in the Act",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "CongratsACelebrityHatesYou",
@@ -9206,7 +9211,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "GoodRiddance",
@@ -9294,7 +9299,7 @@
       "Name": "Katherine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "LCA",
@@ -9350,7 +9355,7 @@
       "Name": "Relentless",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "Penguinfucker",
@@ -9438,7 +9443,7 @@
       "Name": "If at First You Don\u0027t Succeed...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "SuckerPunch",
@@ -9581,21 +9586,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 4389,
+      "Progressed": 4390,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 7350,
+      "Progressed": 7351,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-01-07T21:02:34.7200227+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:09:39.3971643+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:10:33.8432373+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.0286843+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:57:47.0736366+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:09:39.3972635+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:57:59.4104453+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:10:33.8433373+00:00"
 }

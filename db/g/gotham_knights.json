@@ -4,7 +4,7 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 975,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 120,
@@ -5309,9 +5309,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82844,
+  "EOS_Progressed": 82846,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30399,6 +30399,11 @@
       "Time": "2024-01-16T03:04:58.11456+00:00",
       "NumProgressed": 82844,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-16T04:05:43.0319246+00:00",
+      "NumProgressed": 82846,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30410,7 +30415,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -30434,7 +30439,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -30442,7 +30447,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -30474,7 +30479,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -30490,7 +30495,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9941
+      "UsersEstimate": 9942
     },
     {
       "ID": "APPLY_STATUS",
@@ -30522,7 +30527,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "CLAYFACE_3",
@@ -30570,7 +30575,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9941
+      "UsersEstimate": 9942
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -30586,7 +30591,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9941
+      "UsersEstimate": 9942
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -30650,7 +30655,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15740
+      "UsersEstimate": 15741
     },
     {
       "ID": "FREEZE_3",
@@ -30714,7 +30719,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28167
+      "UsersEstimate": 28168
     },
     {
       "ID": "HARLEY_2",
@@ -30754,7 +30759,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41422
+      "UsersEstimate": 41423
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30786,7 +30791,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21539
+      "UsersEstimate": 21540
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30834,7 +30839,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14083
+      "UsersEstimate": 14084
     },
     {
       "ID": "MYSTERY_06",
@@ -30858,7 +30863,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9941
+      "UsersEstimate": 9942
     },
     {
       "ID": "SECRET_CACHE",
@@ -30897,13 +30902,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82844,
+      "Progressed": 82846,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53124,
+      "Progressed": 53126,
       "Completed": 2679
     }
   ],
@@ -30911,8 +30916,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-16T01:47:48.4748464+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:04:58.1145595+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:05:43.0319244+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:00:10.5227377+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:04:58.1147411+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:00:20.1760534+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:05:43.0320721+00:00"
 }

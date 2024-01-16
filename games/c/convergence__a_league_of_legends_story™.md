@@ -28,8 +28,8 @@ Rating: 4.68 (Ranked 261)
 | Check Your Pulse | 21.00% | ~280 |
 | The Loose Cannon | 20.00% | ~266 |
 | Street Style | 19.00% | ~253 |
+| The Family Fortune | 19.00% | ~253 |
 | The Man Who Shattered Time | 18.00% | ~240 |
-| The Family Fortune | 18.00% | ~240 |
 | Good Neighbor | 16.00% | ~213 |
 | Whiz Kid | 15.00% | ~200 |
 | Family Memories | 14.00% | ~186 |

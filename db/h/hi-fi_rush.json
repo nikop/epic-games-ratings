@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17236,
+  "EOS_Progressed": 17237,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12363,6 +12363,11 @@
       "Time": "2024-01-16T02:29:53.2629562+00:00",
       "NumProgressed": 17236,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T04:07:21.1847983+00:00",
+      "NumProgressed": 17237,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12390,7 +12395,7 @@
       "Name": "This will cost you big time",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "Ach004",
@@ -12510,7 +12515,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "Ach019",
@@ -12574,7 +12579,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "Ach027",
@@ -12614,7 +12619,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "Ach032",
@@ -12941,13 +12946,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17236,
+      "Progressed": 17237,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15757,
+      "Progressed": 15758,
       "Completed": 1931
     }
   ],
@@ -12955,8 +12960,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:06:40.3461339+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:07:21.184798+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:01:11.6268184+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:06:40.3462732+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:01:20.0051704+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:07:21.1849373+00:00"
 }

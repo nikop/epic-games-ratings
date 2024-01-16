@@ -12,17 +12,17 @@ Rating: 4.86 (Ranked 33)
 | Cream of the Crop | 36.00% | ~6,205 |
 | Thanks for the free chip, Peppermint! | 35.00% | ~6,033 |
 | You got this, Peppermint? | 31.00% | ~5,343 |
-| Perfect Parry | 29.00% | ~4,998 |
+| Perfect Parry | 29.00% | ~4,999 |
 | Alright, that felt AWESOME! | 28.00% | ~4,826 |
 | I play my own way! | 24.00% | ~4,137 |
-| This will cost you big time | 23.00% | ~3,964 |
+| This will cost you big time | 23.00% | ~3,965 |
 | Uh, they were broken when I got here | 22.00% | ~3,792 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,620 |
 | Kissing the sky! | 20.00% | ~3,447 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,102 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,103 |
 | The Negotiator | 17.00% | ~2,930 |
 | Does that say weakpoint? | 17.00% | ~2,930 |
-| You must like calling me in, Chai | 15.00% | ~2,585 |
+| You must like calling me in, Chai | 15.00% | ~2,586 |
 | Headliner | 14.00% | ~2,413 |
 | Out in a puff of smoke | 14.00% | ~2,413 |
 | Time to pay up! | 13.00% | ~2,241 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,236 (Ranked 168)  
+Progressed: 17,237 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-13 | 17,049 | 8 |
 | 2024-01-14 | 17,157 | 8 |
 | 2024-01-15 | 17,227 | 8 |
-| 2024-01-16 | 17,236 | 8 |
+| 2024-01-16 | 17,237 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

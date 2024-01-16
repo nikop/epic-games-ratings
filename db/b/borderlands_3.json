@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 569,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -17741,10 +17741,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 379029,
       "NumberOfAwardsMax": 125519
+    },
+    {
+      "Time": "2024-01-16T04:01:33.8732743+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 379052,
+      "NumberOfAwardsMax": 125519
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 379029,
+  "NumberOfAwards": 379052,
   "NumberOfAwardsMax": 125519,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17806,7 +17812,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 26767
+      "Count": 26790
     },
     {
       "Text": "This game has a Creative Community",
@@ -17826,8 +17832,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-01-16T02:24:38.3938889+00:00",
+  "LastChanged": "2024-01-16T04:01:33.8732741+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.6512202+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:01:25.4371384+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:04:29.2339865+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:01:33.8732751+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:05:15.4118502+00:00"
 }

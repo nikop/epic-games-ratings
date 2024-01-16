@@ -5,75 +5,75 @@ Rating: 4.81 (Ranked 83)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hunting Season | 94.00% | ~357,748 |
-| Nightmare Territory | 92.00% | ~350,136 |
-| Not the Last | 83.00% | ~315,884 |
-| Somebody's Home | 76.00% | ~289,243 |
-| Coffee Thermos | 72.00% | ~274,020 |
-| Secret Stashes | 72.00% | ~274,020 |
-| Grew Bigger | 70.00% | ~266,408 |
-| Darkness Coiled | 70.00% | ~266,408 |
-| Chased the Source | 69.00% | ~262,602 |
-| Felt Good | 68.00% | ~258,796 |
-| Lawman | 67.00% | ~254,991 |
-| Into the Overlap | 67.00% | ~254,991 |
-| Bring It | 64.00% | ~243,573 |
-| Talk Show | 62.00% | ~235,961 |
-| Find the Light | 60.00% | ~228,350 |
-| Aimed Ahead | 60.00% | ~228,350 |
-| Carry his Words | 57.00% | ~216,932 |
-| Storm Cloud | 51.00% | ~194,097 |
-| New York City | 51.00% | ~194,097 |
-| Return | 51.00% | ~194,097 |
-| The Other Side | 51.00% | ~194,097 |
-| Shining in the Night | 47.00% | ~178,874 |
-| Growing Stronger | 46.00% | ~175,068 |
-| Finding a Way | 44.00% | ~167,457 |
-| Filling the Shape | 44.00% | ~167,457 |
-| Greatest Hits | 43.00% | ~163,651 |
-| This is the Moment | 43.00% | ~163,651 |
-| Stop the Monster | 43.00% | ~163,651 |
-| Lights Shining | 42.00% | ~159,845 |
-| All His Life | 42.00% | ~159,845 |
-| Yippee Ki-yay | 41.00% | ~156,039 |
-| Bright Falls' Finest | 41.00% | ~156,039 |
-| Back in Watery | 41.00% | ~156,039 |
-| Escape its Gravity | 40.00% | ~152,233 |
-| We Watch in the Night | 39.00% | ~148,427 |
-| In a Fancy Hotel | 36.00% | ~137,010 |
-| In One Go | 35.00% | ~133,204 |
-| Girl in Love | 34.00% | ~129,398 |
-| The Old Gods | 34.00% | ~129,398 |
-| Told and Retold | 34.00% | ~129,398 |
-| Cut Short | 34.00% | ~129,398 |
-| Behind the Masks | 33.00% | ~125,592 |
-| Seeing Double | 32.00% | ~121,787 |
-| Stunning Vistas | 31.00% | ~117,981 |
-| The Cult of the Word | 31.00% | ~117,981 |
-| Strange Reality | 30.00% | ~114,175 |
-| Stop Right There | 30.00% | ~114,175 |
-| Filled with Rage | 29.00% | ~110,369 |
-| Rock n' Roll, Baby | 29.00% | ~110,369 |
-| His Way Out | 29.00% | ~110,369 |
-| Ready for a Fight | 28.00% | ~106,563 |
-| The Story Come True | 28.00% | ~106,563 |
-| The Final Deerfest | 28.00% | ~106,563 |
-| End of the Road | 28.00% | ~106,563 |
-| Gone for Good | 24.00% | ~91,340 |
-| The Trail of the Writer | 23.00% | ~87,534 |
-| All Accounted For | 22.00% | ~83,728 |
-| Back to Life | 18.00% | ~68,505 |
-| The Koskela Brothers | 16.00% | ~60,893 |
-| All Smiles | 12.00% | ~45,670 |
-| The Nice Things in Life | 10.00% | ~38,058 |
-| I'll Find You | 9.00% | ~34,252 |
-| Shift in Reality | 8.00% | ~30,447 |
-| Hidden by the Trees | 7.00% | ~26,641 |
-| Coffee-Themed Fun | 7.00% | ~26,641 |
-| Rustic Charm | 7.00% | ~26,641 |
+| Hunting Season | 94.00% | ~357,792 |
+| Nightmare Territory | 92.00% | ~350,180 |
+| Not the Last | 83.00% | ~315,923 |
+| Somebody's Home | 76.00% | ~289,279 |
+| Coffee Thermos | 72.00% | ~274,054 |
+| Secret Stashes | 72.00% | ~274,054 |
+| Grew Bigger | 70.00% | ~266,441 |
+| Darkness Coiled | 70.00% | ~266,441 |
+| Chased the Source | 69.00% | ~262,635 |
+| Felt Good | 68.00% | ~258,828 |
+| Lawman | 67.00% | ~255,022 |
+| Into the Overlap | 67.00% | ~255,022 |
+| Bring It | 64.00% | ~243,603 |
+| Talk Show | 62.00% | ~235,991 |
+| Find the Light | 60.00% | ~228,378 |
+| Aimed Ahead | 60.00% | ~228,378 |
+| Carry his Words | 57.00% | ~216,959 |
+| Storm Cloud | 51.00% | ~194,121 |
+| New York City | 51.00% | ~194,121 |
+| Return | 51.00% | ~194,121 |
+| The Other Side | 51.00% | ~194,121 |
+| Shining in the Night | 47.00% | ~178,896 |
+| Growing Stronger | 46.00% | ~175,090 |
+| Finding a Way | 44.00% | ~167,477 |
+| Filling the Shape | 44.00% | ~167,477 |
+| Greatest Hits | 43.00% | ~163,671 |
+| This is the Moment | 43.00% | ~163,671 |
+| Stop the Monster | 43.00% | ~163,671 |
+| Lights Shining | 42.00% | ~159,865 |
+| All His Life | 42.00% | ~159,865 |
+| Yippee Ki-yay | 41.00% | ~156,058 |
+| Bright Falls' Finest | 41.00% | ~156,058 |
+| Back in Watery | 41.00% | ~156,058 |
+| Escape its Gravity | 40.00% | ~152,252 |
+| We Watch in the Night | 39.00% | ~148,446 |
+| In a Fancy Hotel | 36.00% | ~137,027 |
+| In One Go | 35.00% | ~133,220 |
+| Girl in Love | 34.00% | ~129,414 |
+| The Old Gods | 34.00% | ~129,414 |
+| Told and Retold | 34.00% | ~129,414 |
+| Cut Short | 34.00% | ~129,414 |
+| Behind the Masks | 33.00% | ~125,608 |
+| Seeing Double | 32.00% | ~121,802 |
+| Stunning Vistas | 31.00% | ~117,995 |
+| The Cult of the Word | 31.00% | ~117,995 |
+| Strange Reality | 30.00% | ~114,189 |
+| Stop Right There | 30.00% | ~114,189 |
+| Filled with Rage | 29.00% | ~110,383 |
+| Rock n' Roll, Baby | 29.00% | ~110,383 |
+| His Way Out | 29.00% | ~110,383 |
+| Ready for a Fight | 28.00% | ~106,576 |
+| The Story Come True | 28.00% | ~106,576 |
+| The Final Deerfest | 28.00% | ~106,576 |
+| End of the Road | 28.00% | ~106,576 |
+| Gone for Good | 24.00% | ~91,351 |
+| The Trail of the Writer | 23.00% | ~87,545 |
+| All Accounted For | 22.00% | ~83,739 |
+| Back to Life | 18.00% | ~68,513 |
+| The Koskela Brothers | 16.00% | ~60,901 |
+| All Smiles | 12.00% | ~45,676 |
+| The Nice Things in Life | 10.00% | ~38,063 |
+| I'll Find You | 9.00% | ~34,257 |
+| Shift in Reality | 8.00% | ~30,450 |
+| Hidden by the Trees | 7.00% | ~26,644 |
+| Coffee-Themed Fun | 7.00% | ~26,644 |
+| Rustic Charm | 7.00% | ~26,644 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 380,583 (Ranked 56)  
-Completed: 6,618 (1.74%) (Ranked 147)  
+Progressed: 380,630 (Ranked 56)  
+Completed: 6,620 (1.74%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -167,7 +167,7 @@ Completed: 6,618 (1.74%) (Ranked 147)
 | 2024-01-13 | 377,436 | 6,409 |
 | 2024-01-14 | 379,135 | 6,528 |
 | 2024-01-15 | 380,360 | 6,607 |
-| 2024-01-16 | 380,583 | 6,618 |
+| 2024-01-16 | 380,630 | 6,620 |
 ## Awards
 Max (Diverse Characters): 731  (Ranked 194)  
 Sum: 4,463 (Ranked 158)  

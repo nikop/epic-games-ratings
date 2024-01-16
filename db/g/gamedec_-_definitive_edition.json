@@ -531,7 +531,7 @@
       "Count": 98
     }
   ],
-  "EOS_Progressed": 257968,
+  "EOS_Progressed": 257969,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
@@ -30881,6 +30881,11 @@
       "Time": "2024-01-16T02:30:30.7157624+00:00",
       "NumProgressed": 257968,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T04:08:46.7896633+00:00",
+      "NumProgressed": 257969,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -30892,7 +30897,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69651
+      "UsersEstimate": 69652
     },
     {
       "ID": "ACH_AON",
@@ -31196,7 +31201,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20637
+      "UsersEstimate": 20638
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -31204,7 +31209,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20637
+      "UsersEstimate": 20638
     },
     {
       "ID": "ACH_SCRATCH",
@@ -31284,7 +31289,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20637
+      "UsersEstimate": 20638
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -31307,7 +31312,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 257968,
+      "Progressed": 257969,
       "Completed": 8
     }
   ],
@@ -31315,8 +31320,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-07T06:59:33.5120789+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:07:27.9282623+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:08:46.7896629+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:02:49.5965842+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:07:27.9284268+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:03:38.3307017+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:08:46.7898131+00:00"
 }

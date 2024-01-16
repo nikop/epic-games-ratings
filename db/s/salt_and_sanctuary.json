@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -3012,9 +3012,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544480,
+  "EOS_Progressed": 544482,
   "EOS_Completed": 1683,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33077,6 +33077,11 @@
       "Time": "2024-01-16T02:28:01.0802691+00:00",
       "NumProgressed": 544480,
       "NumCompleted": 1683
+    },
+    {
+      "Time": "2024-01-16T04:05:06.4110128+00:00",
+      "NumProgressed": 544482,
+      "NumCompleted": 1683
     }
   ],
   "TotalAchievements": 37,
@@ -33144,7 +33149,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 451918
+      "UsersEstimate": 451920
     },
     {
       "ID": "HONED",
@@ -33200,7 +33205,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217792
+      "UsersEstimate": 217793
     },
     {
       "ID": "THE_CASTLE",
@@ -33216,7 +33221,7 @@
       "Name": "The Cave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 43558
+      "UsersEstimate": 43559
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -33264,7 +33269,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103451
+      "UsersEstimate": 103452
     },
     {
       "ID": "THE_KEEP",
@@ -33344,7 +33349,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 348467
+      "UsersEstimate": 348468
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -33368,7 +33373,7 @@
       "Name": "The Ziggurat",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 43558
+      "UsersEstimate": 43559
     },
     {
       "ID": "WISE_WORDS",
@@ -33383,15 +33388,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544480,
+      "Progressed": 544482,
       "Completed": 1683
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-14T20:58:14.3687945+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:04:20.3211668+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:05:06.4110121+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:59:44.6502252+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:04:20.3213072+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:59:54.1765428+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:05:06.4111492+00:00"
 }

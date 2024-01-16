@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewPlayers": 46,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8947,10 +8947,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12761,
       "NumberOfAwardsMax": 7215
+    },
+    {
+      "Time": "2024-01-16T04:04:16.2987112+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12763,
+      "NumberOfAwardsMax": 7215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12761,
+  "NumberOfAwards": 12763,
   "NumberOfAwardsMax": 7215,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9000,7 +9006,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 648
+      "Count": 650
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9027,9 +9033,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761034,
+  "EOS_Progressed": 761043,
   "EOS_Completed": 12989,
-  "EOS_NewPlayers": 3436,
+  "EOS_NewPlayers": 3421,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -33972,6 +33978,11 @@
       "Time": "2024-01-16T03:10:11.1877339+00:00",
       "NumProgressed": 761034,
       "NumCompleted": 12989
+    },
+    {
+      "Time": "2024-01-16T04:11:04.2111402+00:00",
+      "NumProgressed": 761043,
+      "NumCompleted": 12989
     }
   ],
   "TotalAchievements": 60,
@@ -33983,7 +33994,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45662
+      "UsersEstimate": 45663
     },
     {
       "ID": "02_Vengeance_H1",
@@ -33991,7 +34002,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30441
+      "UsersEstimate": 30442
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34462,21 +34473,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70335,
+      "Progressed": 70344,
       "Completed": 10811
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761034,
+      "Progressed": 761043,
       "Completed": 12989
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-15T22:03:06.6765791+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:11.1877336+00:00",
+  "LastChanged": "2024-01-16T04:04:16.298711+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:04.2111399+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:03:29.0940118+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:11.1878945+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:04:16.2987117+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:04.2113035+00:00"
 }

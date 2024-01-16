@@ -17,11 +17,11 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 47.00% | ~290 |
 | Enhance! | 43.00% | ~265 |
 | One Of the Chosen | 42.00% | ~259 |
+| Devil's in the Details | 41.00% | ~253 |
 | Throne Potato | 41.00% | ~253 |
 | Five's a Crowd | 41.00% | ~253 |
-| Devil's in the Details | 40.00% | ~247 |
+| Salvation | 40.00% | ~247 |
 | 25 to Life | 40.00% | ~247 |
-| Salvation | 39.00% | ~241 |
 | Unshakable Fortitude | 37.00% | ~228 |
 | Soul Harvester | 36.00% | ~222 |
 | I Wanna Rock | 35.00% | ~216 |
@@ -29,7 +29,7 @@ Number of Ratings: 116  (23.09.2022)
 | Love Tap | 34.00% | ~210 |
 | Maximum Vigor | 33.00% | ~204 |
 | Freeze Frame | 31.00% | ~191 |
-| Eat Your Heart Out | 30.00% | ~185 |
+| Eat Your Heart Out | 31.00% | ~191 |
 | For Whom the Bell Tolls | 30.00% | ~185 |
 | Unyielding Strength | 27.00% | ~167 |
 | Can you restore the Balance? | 27.00% | ~167 |

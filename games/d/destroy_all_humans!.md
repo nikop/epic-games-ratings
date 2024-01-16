@@ -10,7 +10,7 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 71.00% | ~359 |
 | Lie Back and Think of Albion | 67.00% | ~338 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 63.00% | ~318 |
-| I Look Up As I Walk to Takoshima | 61.00% | ~308 |
+| I Look Up As I Walk to Takoshima | 62.00% | ~313 |
 | Yettisoned | 59.00% | ~298 |
 | Pimp My Raid | 58.00% | ~293 |
 | Perfect Probulator | 58.00% | ~293 |
@@ -35,7 +35,7 @@ Number of Ratings: 85  (23.09.2022)
 | Mash Machine | 16.00% | ~81 |
 | Albion Bridge Is for Falling Down | 15.00% | ~76 |
 | Dusted | 13.00% | ~66 |
-| Higher Than the Futen Zoku | 11.00% | ~56 |
+| Higher Than the Futen Zoku | 12.00% | ~61 |
 | Scuttled | 10.00% | ~50 |
 | PK Slam Dunk | 10.00% | ~50 |
 | Arty Facts | 10.00% | ~50 |

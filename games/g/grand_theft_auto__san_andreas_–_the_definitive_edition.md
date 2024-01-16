@@ -8,7 +8,7 @@ Rating: 4.56 (Ranked 511)
 | Getting Started | 81.00% | ~15,882 |
 | Pay 'n' Spray | 50.00% | ~9,804 |
 | All Dressed Up for San Fierro | 25.00% | ~4,902 |
-| The American Dream | 19.00% | ~3,725 |
+| The American Dream | 19.00% | ~3,726 |
 | School's Out | 18.00% | ~3,529 |
 | Smooth Moves | 17.00% | ~3,333 |
 | What happens in Las Venturas... | 15.00% | ~2,941 |
@@ -16,8 +16,8 @@ Rating: 4.56 (Ranked 511)
 | Horror of the Santa Maria | 11.00% | ~2,157 |
 | Liberty City State of Mind | 9.00% | ~1,765 |
 | Original Gangster | 8.00% | ~1,569 |
-| With Extra Dip | 7.00% | ~1,372 |
-| The End of the Line | 7.00% | ~1,372 |
+| With Extra Dip | 7.00% | ~1,373 |
+| The End of the Line | 7.00% | ~1,373 |
 | Saviour | 6.00% | ~1,176 |
 | They Can’t Stop All of Us | 5.00% | ~980 |
 | Rescue a Kitten Too? | 5.00% | ~980 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 511)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,607 (Ranked 157)  
+Progressed: 19,608 (Ranked 157)  
 Completed: 79 (0.40%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 79 (0.40%) (Ranked 242)
 | 2024-01-13 | 19,514 | 77 |
 | 2024-01-14 | 19,569 | 78 |
 | 2024-01-15 | 19,602 | 79 |
-| 2024-01-16 | 19,607 | 79 |
+| 2024-01-16 | 19,608 | 79 |
 ## Awards
 Max (Great Boss Battles): 677  (Ranked 199)  
 Sum: 1,097 (Ranked 269)  

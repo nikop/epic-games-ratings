@@ -10788,9 +10788,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95472,
+  "EOS_Progressed": 95474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3224,
+  "EOS_NewPlayers": 3211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39798,6 +39798,11 @@
       "Time": "2024-01-16T03:10:59.6736313+00:00",
       "NumProgressed": 95472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T04:11:51.4154072+00:00",
+      "NumProgressed": 95474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -39817,7 +39822,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16230
+      "UsersEstimate": 16231
     },
     {
       "ID": "Bannerlord",
@@ -39825,7 +39830,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 22913
+      "UsersEstimate": 22914
     },
     {
       "ID": "Best served cold",
@@ -39849,7 +39854,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 8592
+      "UsersEstimate": 8593
     },
     {
       "ID": "Catch",
@@ -39969,7 +39974,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 20049
+      "UsersEstimate": 20050
     },
     {
       "ID": "I can do it",
@@ -40033,7 +40038,7 @@
       "Name": "Landlord",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 32460
+      "UsersEstimate": 32461
     },
     {
       "ID": "Lawbringer",
@@ -40041,7 +40046,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41053
+      "UsersEstimate": 41054
     },
     {
       "ID": "Lawmaker",
@@ -40049,7 +40054,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 22913
+      "UsersEstimate": 22914
     },
     {
       "ID": "Long live the Empire",
@@ -40216,15 +40221,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95472,
+      "Progressed": 95474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-16T01:47:12.2776398+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:59.673631+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:51.4154067+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:59:19.3797065+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:59.6737689+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:59:29.2811662+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:51.4156329+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~12,881 |
-| Overkill | 33.00% | ~11,186 |
-| Vaccine Incoming | 31.00% | ~10,508 |
-| A normal day in Gloomhaven | 29.00% | ~9,830 |
-| Spread the plague | 26.00% | ~8,813 |
-| Get over here! | 24.00% | ~8,135 |
-| Just when I thought I was out... | 19.00% | ~6,440 |
+| I'm not dead yet | 38.00% | ~12,882 |
+| Overkill | 33.00% | ~11,187 |
+| Vaccine Incoming | 31.00% | ~10,509 |
+| A normal day in Gloomhaven | 29.00% | ~9,831 |
+| Spread the plague | 26.00% | ~8,814 |
+| Get over here! | 24.00% | ~8,136 |
+| Just when I thought I was out... | 19.00% | ~6,441 |
 | Mine... All Mine... | 16.00% | ~5,424 |
 | Precious! | 15.00% | ~5,085 |
 | Grizzled veteran | 15.00% | ~5,085 |
@@ -51,9 +51,9 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~339 |
 | Spoiler police! | 1.00% | ~339 |
 | New Blood | 1.00% | ~339 |
-| The Pacifist | 0.50% | ~169 |
-| The evil that men do | 0.50% | ~169 |
-| Born Support | 0.50% | ~169 |
+| The Pacifist | 0.50% | ~170 |
+| The evil that men do | 0.50% | ~170 |
+| Born Support | 0.50% | ~170 |
 | MacReady Steady.. Go! | 0.40% | ~136 |
 | A tough job | 0.30% | ~102 |
 | The Jaws of victory! | 0.30% | ~102 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~34 |
 | Hard-travelling Heroes | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,897 (Ranked 139)  
+Progressed: 33,901 (Ranked 139)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-13 | 33,304 | 1 |
 | 2024-01-14 | 33,596 | 1 |
 | 2024-01-15 | 33,858 | 1 |
-| 2024-01-16 | 33,897 | 1 |
+| 2024-01-16 | 33,901 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
 Sum: 8,485 (Ranked 110)  

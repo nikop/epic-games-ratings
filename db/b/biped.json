@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10499,
+  "EOS_Progressed": 10501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17064,6 +17064,11 @@
       "Time": "2024-01-16T03:05:04.1941317+00:00",
       "NumProgressed": 10499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T04:05:48.728992+00:00",
+      "NumProgressed": 10501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17083,7 +17088,7 @@
       "Name": "Robot\u00A0lives\u00A0matter\u00A0too",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "11",
@@ -17099,7 +17104,7 @@
       "Name": "Trend\u00A0hunters",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "13",
@@ -17107,7 +17112,7 @@
       "Name": "I\u00A0can\u00A0do\u00A0this\u00A0alone",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "14",
@@ -17123,7 +17128,7 @@
       "Name": "Reaching\u00A0for\u00A0the\u00A0stars",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "2",
@@ -17194,7 +17199,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10499,
+      "Progressed": 10501,
       "Completed": 0
     }
   ],
@@ -17202,8 +17207,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:05:04.1941313+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:05:48.7289915+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:58:41.2265435+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:05:04.1942151+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:58:52.7332347+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:05:48.7290849+00:00"
 }

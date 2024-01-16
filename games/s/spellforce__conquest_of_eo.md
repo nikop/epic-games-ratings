@@ -26,8 +26,8 @@
 | Castle Meldec | 20.00% | ~29 |
 | Sevenkeeps Seat of Kings | 18.00% | ~26 |
 | Friend of Alluvyan | 16.00% | ~24 |
+| Friend of Connach | 16.00% | ~24 |
 | Friend of Gillyshire | 15.00% | ~22 |
-| Friend of Connach | 15.00% | ~22 |
 | Friend of Orgash | 14.00% | ~21 |
 | Friend of Silver Drift Hollow | 14.00% | ~21 |
 | Stormwatch Faste | 13.00% | ~19 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 464)  
+Progressed: 147 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |

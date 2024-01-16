@@ -8,7 +8,7 @@
 | Learn the Ropes | 66.00% | ~120 |
 | Working for the Kiweekend | 39.00% | ~71 |
 | Fun in the Bungalow Basin Sun | 38.00% | ~69 |
-| Practice Makes Postmasters | 36.00% | ~66 |
+| Practice Makes Postmasters | 37.00% | ~67 |
 | A Startling Discovery | 31.00% | ~56 |
 | Pumpkins and Postage Stamps | 19.00% | ~35 |
 | Kiwinter Kiwonderland | 5.00% | ~9 |

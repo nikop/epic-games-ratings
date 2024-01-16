@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3466,
+  "EOS_Progressed": 3468,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5656,6 +5656,11 @@
       "Time": "2024-01-16T02:34:29.1670216+00:00",
       "NumProgressed": 3466,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T04:11:43.3871482+00:00",
+      "NumProgressed": 3468,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5668,7 +5673,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3087
     },
     {
       "ID": "achievement_10",
@@ -5700,7 +5705,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_14",
@@ -5748,7 +5753,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "achievement_2",
@@ -5756,7 +5761,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2809
     },
     {
       "ID": "achievement_20",
@@ -5812,7 +5817,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2428
     },
     {
       "ID": "achievement_36",
@@ -5844,7 +5849,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "achievement_41",
@@ -5884,7 +5889,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "achievement_46",
@@ -5900,7 +5905,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2601
     },
     {
       "ID": "achievement_49",
@@ -5908,7 +5913,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_5",
@@ -5916,7 +5921,7 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "achievement_50",
@@ -5964,7 +5969,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "achievement_60",
@@ -6028,7 +6033,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "achievement_9",
@@ -6036,14 +6041,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3466,
+      "Progressed": 3468,
       "Completed": 5
     }
   ],
@@ -6051,8 +6056,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-15T10:57:33.8717079+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:51.5885672+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:43.3871477+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:58:09.3041416+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:51.588638+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:58:21.4195904+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:43.3872043+00:00"
 }

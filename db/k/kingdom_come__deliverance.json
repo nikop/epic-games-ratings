@@ -10125,9 +10125,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 817705,
+  "EOS_Progressed": 817706,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1069,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40755,6 +40755,11 @@
       "Time": "2024-01-16T03:11:01.2039992+00:00",
       "NumProgressed": 817705,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-16T04:11:52.8978104+00:00",
+      "NumProgressed": 817706,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -40878,7 +40883,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212603
+      "UsersEstimate": 212604
     },
     {
       "ID": "Chivalrous",
@@ -40926,7 +40931,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81770
+      "UsersEstimate": 81771
     },
     {
       "ID": "DavidHorak",
@@ -41046,7 +41051,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 73593
+      "UsersEstimate": 73594
     },
     {
       "ID": "HardcoreHenry",
@@ -41421,15 +41426,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 817705,
+      "Progressed": 817706,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-15T20:58:42.9927128+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:11:01.203999+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:52.8978098+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:58:54.7571679+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:11:01.2042082+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:59:05.6666272+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:52.8979875+00:00"
 }

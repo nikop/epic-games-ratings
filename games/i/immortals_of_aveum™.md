@@ -5,23 +5,23 @@ Rating: 4.18 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,085 |
-| Battlefields Have Memories | 81.00% | ~2,807 |
-| Enlisted | 75.00% | ~2,600 |
-| Maybe Engage a Little | 70.00% | ~2,426 |
-| No More Names | 54.00% | ~1,872 |
-| Initiate | 40.00% | ~1,386 |
-| Thrada-Kul | 37.00% | ~1,282 |
+| Unforeseen | 89.00% | ~3,087 |
+| Battlefields Have Memories | 81.00% | ~2,809 |
+| Enlisted | 75.00% | ~2,601 |
+| Maybe Engage a Little | 70.00% | ~2,428 |
+| No More Names | 54.00% | ~1,873 |
+| Initiate | 40.00% | ~1,387 |
+| Thrada-Kul | 37.00% | ~1,283 |
 | Gravity-Challenged Rocks | 30.00% | ~1,040 |
-| Soldier | 26.00% | ~901 |
-| Socialite | 25.00% | ~866 |
-| All the Major Food Groups | 25.00% | ~866 |
-| Beggars Would Ride | 23.00% | ~797 |
+| Soldier | 26.00% | ~902 |
+| Socialite | 25.00% | ~867 |
+| All the Major Food Groups | 25.00% | ~867 |
+| Beggars Would Ride | 23.00% | ~798 |
 | Control is an Illusion | 22.00% | ~763 |
 | The Means to Save It | 19.00% | ~659 |
 | Resilience to Sin | 18.00% | ~624 |
-| A Familiar Nest | 17.00% | ~589 |
-| Periapt Alizarin | 17.00% | ~589 |
+| A Familiar Nest | 17.00% | ~590 |
+| Periapt Alizarin | 17.00% | ~590 |
 | Geas Aristeya | 16.00% | ~555 |
 | A Perfect Cycle | 15.00% | ~520 |
 | Recruit | 15.00% | ~520 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 985)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,466 (Ranked 228)  
+Progressed: 3,468 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.14%) (Ranked 298)
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
-| 2024-01-16 | 3,466 | 5 |
+| 2024-01-16 | 3,468 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

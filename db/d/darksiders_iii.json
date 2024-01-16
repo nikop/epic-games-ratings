@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 617,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2454,9 +2454,9 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 247
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2622,9 +2622,9 @@
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 253
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2662,9 +2662,9 @@
       "ID": "Kill_Sin_Gluttony",
       "SetID": "7a5k76n",
       "Name": "Eat Your Heart Out",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -2822,8 +2822,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:04:53.5092585+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:05:38.6629292+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:02:54.5067356+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:04:53.5093124+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:03:43.109179+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:05:38.6629939+00:00"
 }

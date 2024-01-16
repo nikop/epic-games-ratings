@@ -182,9 +182,9 @@
       "ID": "DOUBLE_UP_DECISIONS",
       "SetID": "44h0e32",
       "Name": "Double Up Decisions",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "DYNAMIC_DOZEN_DECISIONIST",
@@ -206,9 +206,9 @@
       "ID": "FANTASTIC_FOUR_CHOICES",
       "SetID": "44h0e32",
       "Name": "Fantastic Four Choices",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "FOURTEENSTAR_STRATEGIST",
@@ -222,17 +222,17 @@
       "ID": "HIGH_FIVE_DECISION_MAKER",
       "SetID": "44h0e32",
       "Name": "High Five Decision Maker",
-      "Percentage": 69,
+      "Percentage": 72,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LUCKY_SEVEN_NAVIGATOR",
       "SetID": "44h0e32",
       "Name": "Lucky Seven Navigator",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MASTERFUL_ELEVEN",
@@ -262,17 +262,17 @@
       "ID": "SIXTH_SENSE_STRATEGIES",
       "SetID": "44h0e32",
       "Name": "Sixth Sense Strategies",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "STARTER_SCORE",
       "SetID": "44h0e32",
       "Name": "Starter Score",
-      "Percentage": 94,
+      "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TRAILBLAZING_THIRTEEN",
@@ -286,9 +286,9 @@
       "ID": "TRIPLE_THREAT_CHOICES",
       "SetID": "44h0e32",
       "Name": "Triple Threat Choices",
-      "Percentage": 78,
+      "Percentage": 81,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
@@ -300,8 +300,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:08:22.4582431+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:09:19.3644626+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:09.6857871+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:02:47.0815022+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:08:22.458253+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:03:35.8606164+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:09:19.3644785+00:00"
 }

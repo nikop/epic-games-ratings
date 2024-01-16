@@ -36,6 +36,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Who To Trust? | 0.80% | ~1,944 |
 | Walk It Off | 0.80% | ~1,944 |
 | I Am Overburdened | 0.80% | ~1,944 |
+| Destroy Your Fears | 0.80% | ~1,944 |
 | Shootout | 0.80% | ~1,944 |
 | Stone Touch | 0.80% | ~1,944 |
 | Toxic | 0.80% | ~1,944 |
@@ -43,7 +44,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Flesh Wound | 0.80% | ~1,944 |
 | Consecutive Curses | 0.70% | ~1,701 |
 | Save Our Souls | 0.70% | ~1,701 |
-| Destroy Your Fears | 0.70% | ~1,701 |
 | New Perspectives | 0.70% | ~1,701 |
 | Shapeshifting | 0.70% | ~1,701 |
 | What Doesn't Kill You | 0.70% | ~32 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,032 (Ranked 74)  
+Progressed: 243,034 (Ranked 74)  
 Completed: 306 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 306 (0.13%) (Ranked 302)
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
-| 2024-01-16 | 243,032 | 306 |
+| 2024-01-16 | 243,034 | 306 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,798 (Ranked 90)  

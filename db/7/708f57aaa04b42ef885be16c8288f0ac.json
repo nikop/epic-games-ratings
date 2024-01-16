@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14935,
+  "EOS_Progressed": 14936,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 698,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10538,6 +10538,11 @@
       "Time": "2024-01-16T01:58:40.6738797+00:00",
       "NumProgressed": 14935,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-16T04:11:45.0875824+00:00",
+      "NumProgressed": 14936,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10558,7 +10563,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6123
+      "UsersEstimate": 6124
     },
     {
       "ID": "BeLikeWater",
@@ -10590,7 +10595,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "Eavesdropper",
@@ -10606,7 +10611,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "FasterThanLight",
@@ -10622,7 +10627,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8214
+      "UsersEstimate": 8215
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10654,7 +10659,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10782,7 +10787,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -10821,7 +10826,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14935,
+      "Progressed": 14936,
       "Completed": 27
     }
   ],
@@ -10829,8 +10834,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:53.2516316+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:45.0875821+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:00:38.3259234+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:53.2516955+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:00:47.4870058+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:45.0876756+00:00"
 }

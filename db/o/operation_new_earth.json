@@ -101,7 +101,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2256,
+  "EOS_Progressed": 2257,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -8721,6 +8721,11 @@
       "Time": "2024-01-16T03:06:23.3343766+00:00",
       "NumProgressed": 2256,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T04:07:04.7505637+00:00",
+      "NumProgressed": 2257,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8740,7 +8745,7 @@
       "Name": "Exterminator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8748,7 +8753,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_defeat_players_100",
@@ -8796,7 +8801,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -8844,7 +8849,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8868,7 +8873,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -8980,7 +8985,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -9035,7 +9040,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2256,
+      "Progressed": 2257,
       "Completed": 1
     }
   ],
@@ -9043,8 +9048,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:06:23.3343762+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:07:04.7505632+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:57:35.4861251+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:06:23.3344484+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:57:47.9661809+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:07:04.750619+00:00"
 }

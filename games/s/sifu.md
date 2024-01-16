@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,662 |
+| The Old Grandmaster | 6.00% | ~45,663 |
 | Life is your teacher | 5.00% | ~38,052 |
 | Lightning Hands | 5.00% | ~38,052 |
-| The Assault | 4.00% | ~30,441 |
+| The Assault | 4.00% | ~30,442 |
 | The Hateful Pole Fighter | 3.00% | ~22,831 |
 | Stuntmaster | 3.00% | ~22,831 |
 | Street Fighting | 3.00% | ~22,831 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,034 (Ranked 26)  
+Progressed: 761,043 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,16 +338,16 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
-| 2024-01-16 | 761,034 | 12,989 |
+| 2024-01-16 | 761,043 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,215  (Ranked 57)  
-Sum: 12,761 (Ranked 86)  
+Sum: 12,763 (Ranked 86)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,215 |
 | This game has Diverse Characters | 703 |
-| This game has Challenging Combat | 648 |
+| This game has Challenging Combat | 650 |
 | This game has Amazing Storytelling | 622 |
 | This game has Amazing Characters | 618 |
 | This game is Highly Recommended | 610 |
@@ -723,3 +723,4 @@ Diff (max vs sum): -29
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
+| 2024-01-16 | 4.82 | - | 7,215 | 12,763 |

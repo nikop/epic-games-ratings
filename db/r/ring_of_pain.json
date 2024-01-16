@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3928,9 +3928,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243032,
+  "EOS_Progressed": 243034,
   "EOS_Completed": 306,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -31978,6 +31978,11 @@
       "Time": "2024-01-16T03:11:05.6494079+00:00",
       "NumProgressed": 243032,
       "NumCompleted": 306
+    },
+    {
+      "Time": "2024-01-16T04:11:57.2027808+00:00",
+      "NumProgressed": 243034,
+      "NumCompleted": 306
     }
   ],
   "TotalAchievements": 138,
@@ -32395,9 +32400,9 @@
       "ID": "KILL1000",
       "SetID": "5l8oe0h",
       "Name": "Destroy Your Fears",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1944
     },
     {
       "ID": "KILL10000",
@@ -33092,13 +33097,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243032,
+      "Progressed": 243034,
       "Completed": 306
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4512,
+      "Progressed": 4514,
       "Completed": 427
     }
   ],
@@ -33106,8 +33111,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-15T23:57:18.1179809+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:11:05.6494076+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:11:57.2027802+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-16T02:57:46.1861762+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:11:05.6497037+00:00"
+  "LastUpdate_Ratings": "2024-01-16T03:57:58.5343416+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:11:57.2030618+00:00"
 }

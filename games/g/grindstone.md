@@ -6,27 +6,27 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,140 |
-| The Journey Begins | 98.00% | ~5,140 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,091 |
-| There is No Escape | 71.00% | ~3,724 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,304 |
-| Royal Flush | 62.00% | ~3,252 |
-| Timber! | 60.00% | ~3,147 |
+| Quinceañera Time | 98.00% | ~5,141 |
+| The Journey Begins | 98.00% | ~5,141 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,092 |
+| There is No Escape | 71.00% | ~3,725 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,305 |
+| Royal Flush | 62.00% | ~3,253 |
+| Timber! | 60.00% | ~3,148 |
 | Survive the Bombsequences | 59.00% | ~3,095 |
-| Killed 20 Jerks | 54.00% | ~2,832 |
-| Death Defied | 54.00% | ~2,832 |
-| Fortunate Soul | 49.00% | ~2,570 |
-| Jerk-Slayer | 43.00% | ~2,255 |
+| Killed 20 Jerks | 54.00% | ~2,833 |
+| Death Defied | 54.00% | ~2,833 |
+| Fortunate Soul | 49.00% | ~2,571 |
+| Jerk-Slayer | 43.00% | ~2,256 |
 | Employee of the Month | 37.00% | ~1,941 |
 | I Believe I Can Fly | 37.00% | ~1,941 |
 | Bone Collector | 35.00% | ~1,836 |
 | Fe-Festival | 35.00% | ~1,836 |
 | Pardon my Slob | 33.00% | ~1,731 |
-| Top of the Food Chain | 32.00% | ~1,678 |
-| Humerus Achievement | 32.00% | ~1,678 |
+| Top of the Food Chain | 32.00% | ~1,679 |
+| Humerus Achievement | 32.00% | ~1,679 |
 | Ghost Facers! | 28.00% | ~1,469 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,101 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,102 |
 | Royal Flush, Again | 19.00% | ~997 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~944 |
 | Can't Touch This | 18.00% | ~944 |
@@ -40,7 +40,7 @@ Number of Ratings: 63  (23.09.2022)
 | Stop Hitting Each Other | 14.00% | ~734 |
 | Ultimate Jerk | 13.00% | ~682 |
 | Hot Potato | 11.00% | ~577 |
-| Off the Beaten Path | 10.00% | ~524 |
+| Off the Beaten Path | 10.00% | ~525 |
 | It's Been a Blast | 9.00% | ~472 |
 | For Rock and Stone! | 9.00% | ~472 |
 | Don't Get Too Greedy | 7.00% | ~367 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,245 (Ranked 206)  
+Progressed: 5,246 (Ranked 206)  
 Completed: 31 (0.59%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 31 (0.59%) (Ranked 213)
 | 2024-01-13 | 5,243 | 31 |
 | 2024-01-14 | 5,244 | 31 |
 | 2024-01-15 | 5,245 | 31 |
+| 2024-01-16 | 5,246 | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

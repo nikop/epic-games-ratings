@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,095 |
+| Malpractice Assurance | 14.00% | ~1,096 |
 | Lost and Found | 9.00% | ~704 |
-| Autodidact | 8.00% | ~10,636 |
-| This Belongs in a Museum | 7.00% | ~9,306 |
-| Overdue Notice | 7.00% | ~9,306 |
-| This guy... again? | 7.00% | ~547 |
+| Autodidact | 8.00% | ~10,637 |
+| This Belongs in a Museum | 7.00% | ~9,307 |
+| Overdue Notice | 7.00% | ~9,307 |
+| This guy... again? | 7.00% | ~548 |
 | Serenity Now! | 6.00% | ~7,977 |
 | Creep and Sleep | 6.00% | ~7,977 |
 | Catch and Decease | 6.00% | ~7,977 |
 | Escape from the Black Hole | 6.00% | ~7,977 |
 | To Grandmother's House | 6.00% | ~7,977 |
-| Ploughshares to Swords | 6.00% | ~469 |
-| Bloody Graduation | 6.00% | ~469 |
+| Ploughshares to Swords | 6.00% | ~470 |
+| Bloody Graduation | 6.00% | ~470 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,648 |
 | It Rings a Bell | 5.00% | ~6,648 |
 | Not Today! | 5.00% | ~6,648 |
@@ -43,17 +43,17 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 4.00% | ~5,318 |
 | Ramble On | 4.00% | ~5,318 |
 | Unshackled | 4.00% | ~5,318 |
-| Wyrdly Reconstructed | 3.00% | ~3,988 |
-| Boxcar Kid | 3.00% | ~3,988 |
-| Hope Rekindled | 3.00% | ~3,988 |
-| Predator | 3.00% | ~3,988 |
-| Deprogramming | 3.00% | ~3,988 |
-| Reverse Banditry | 3.00% | ~3,988 |
-| A Clear Conscience | 3.00% | ~3,988 |
-| When You Want Something Done Right | 3.00% | ~3,988 |
-| Utopia | 3.00% | ~3,988 |
-| Hot Air | 3.00% | ~3,988 |
-| Road Trip | 3.00% | ~3,988 |
+| Wyrdly Reconstructed | 3.00% | ~3,989 |
+| Boxcar Kid | 3.00% | ~3,989 |
+| Hope Rekindled | 3.00% | ~3,989 |
+| Predator | 3.00% | ~3,989 |
+| Deprogramming | 3.00% | ~3,989 |
+| Reverse Banditry | 3.00% | ~3,989 |
+| A Clear Conscience | 3.00% | ~3,989 |
+| When You Want Something Done Right | 3.00% | ~3,989 |
+| Utopia | 3.00% | ~3,989 |
+| Hot Air | 3.00% | ~3,989 |
+| Road Trip | 3.00% | ~3,989 |
 | This Looks Familiar | 2.00% | ~2,659 |
 | Ichthyophobic | 2.00% | ~2,659 |
 | No More Mouths to Feed | 2.00% | ~2,659 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,950 (Ranked 92)  
+Progressed: 132,957 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,950 | 4 |
+| 2024-01-16 | 132,957 | 4 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,674 (Ranked 58)  

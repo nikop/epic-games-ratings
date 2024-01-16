@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9123,
+  "EOS_Progressed": 9129,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1278,
+  "EOS_NewPlayers": 1279,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3064,6 +3064,11 @@
       "Time": "2024-01-16T02:33:48.5944327+00:00",
       "NumProgressed": 9123,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-16T04:10:54.9536348+00:00",
+      "NumProgressed": 9129,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3076,7 +3081,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4470
+      "UsersEstimate": 4473
     },
     {
       "ID": "Document1",
@@ -3100,7 +3105,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Document4",
@@ -3124,7 +3129,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Untraceable2",
@@ -3132,21 +3137,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9123,
+      "Progressed": 9129,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-16T03:10:01.1389507+00:00",
+  "LastChanged_Achievements": "2024-01-16T04:10:54.9536343+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-16T03:00:53.4761827+00:00",
-  "LastUpdate_Achievements": "2024-01-16T03:10:01.1389668+00:00"
+  "LastUpdate_Ratings": "2024-01-16T04:01:02.2290298+00:00",
+  "LastUpdate_Achievements": "2024-01-16T04:10:54.9536655+00:00"
 }
