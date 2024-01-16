@@ -169,8 +169,8 @@
 | 167 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.15% |
 | 168 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.14% |
 | 168 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
-| 170 | [Adios](games/a/adios.md) | 1.12% |
-| 170 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
+| 170 | [Adios](games/a/adios.md) | 1.13% |
+| 171 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 172 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.09% |
 | 173 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 174 | [The Devil's Face](games/t/the_devil's_face.md) | 1.07% |
