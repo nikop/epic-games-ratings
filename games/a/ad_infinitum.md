@@ -14,8 +14,8 @@
 | Rage | 32.00% | ~69 |
 | Path of Pain | 25.00% | ~54 |
 | Mayhem | 21.00% | ~45 |
+| The shining | 21.00% | ~45 |
 | Reflections | 20.00% | ~43 |
-| The shining | 20.00% | ~43 |
 | Clarity | 18.00% | ~39 |
 | Health | 16.00% | ~34 |
 | Awaiting orders | 15.00% | ~32 |

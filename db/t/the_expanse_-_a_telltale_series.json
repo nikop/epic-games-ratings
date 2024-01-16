@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19067,
+  "EOS_Progressed": 19068,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17534,6 +17534,11 @@
       "Time": "2024-01-16T12:06:48.0224677+00:00",
       "NumProgressed": 19067,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T13:11:04.5568417+00:00",
+      "NumProgressed": 19068,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17562,7 +17567,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "12",
@@ -17626,7 +17631,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "2",
@@ -17698,7 +17703,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "28",
@@ -17778,7 +17783,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "31",
@@ -17825,13 +17830,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19067,
+      "Progressed": 19068,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5021,
+      "Progressed": 5022,
       "Completed": 1333
     }
   ],
@@ -17839,8 +17844,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:06:48.0224675+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:11:04.5568414+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:59:57.0018314+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:06:48.0225984+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:04:26.0970918+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:11:04.5569244+00:00"
 }

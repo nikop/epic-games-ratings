@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 241,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2453,10 +2453,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1105,
       "NumberOfAwardsMax": 682
+    },
+    {
+      "Time": "2024-01-16T13:02:57.2303154+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1107,
+      "NumberOfAwardsMax": 682
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1105,
+  "NumberOfAwards": 1107,
   "NumberOfAwardsMax": 682,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2506,7 +2512,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2521,9 +2527,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 19617,
+  "EOS_Progressed": 19619,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20611,6 +20617,11 @@
       "Time": "2024-01-16T11:09:49.8276852+00:00",
       "NumProgressed": 19617,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-16T13:15:40.0818848+00:00",
+      "NumProgressed": 19619,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20622,7 +20633,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15890
+      "UsersEstimate": 15891
     },
     {
       "ID": "ACH02",
@@ -20670,7 +20681,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "ACH08",
@@ -20678,7 +20689,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9808
+      "UsersEstimate": 9810
     },
     {
       "ID": "ACH09",
@@ -20798,7 +20809,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4904
+      "UsersEstimate": 4905
     },
     {
       "ID": "ACH24",
@@ -20838,7 +20849,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ACH29",
@@ -20901,16 +20912,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19617,
+      "Progressed": 19619,
       "Completed": 80
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-16T09:57:33.9834119+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:55.6780241+00:00",
+  "LastChanged": "2024-01-16T13:02:57.2303152+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:40.0818844+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:57:48.9998677+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:55.678144+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:02:57.2303157+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:40.0819747+00:00"
 }

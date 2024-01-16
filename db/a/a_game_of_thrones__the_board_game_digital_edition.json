@@ -1422,7 +1422,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33566,
+  "EOS_Progressed": 33569,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 2,
@@ -30642,6 +30642,11 @@
       "Time": "2024-01-16T12:10:42.4724848+00:00",
       "NumProgressed": 33566,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-16T13:15:30.4389294+00:00",
+      "NumProgressed": 33569,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30725,7 +30730,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "1025",
@@ -30757,7 +30762,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5706
+      "UsersEstimate": 5707
     },
     {
       "ID": "1029",
@@ -30765,7 +30770,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "1030",
@@ -30789,7 +30794,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13426
+      "UsersEstimate": 13428
     },
     {
       "ID": "1033",
@@ -30828,15 +30833,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33566,
+      "Progressed": 33569,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-16T05:01:49.8697711+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:42.4724846+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:30.4389291+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
   "LastUpdate_Ratings": "2024-01-16T12:02:42.3029116+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:42.4726651+00:00"
+  "LastUpdate_Achievements": "2024-01-16T13:15:30.4390714+00:00"
 }

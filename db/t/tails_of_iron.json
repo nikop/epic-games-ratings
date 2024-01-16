@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4514,9 +4514,9 @@
       "ID": "CompleteHunterFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Ranger Faction",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteStoryDM",
@@ -4722,15 +4722,15 @@
       "ID": "cbf1i0c",
       "IsBase": false,
       "Progressed": 974,
-      "Completed": 921
+      "Completed": 922
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:06:04.0597934+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:10:34.213227+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-16T12:00:08.0437268+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:06:04.0598469+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:04:33.7934194+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:10:34.2133078+00:00"
 }

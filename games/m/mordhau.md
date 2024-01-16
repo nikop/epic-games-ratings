@@ -5,22 +5,22 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~779,604 |
-| The ABCs | 43.00% | ~684,142 |
-| Home Run | 41.00% | ~652,321 |
-| Keeps Coming Off | 41.00% | ~652,321 |
-| Guts | 19.00% | ~302,295 |
-| Meat Grinder | 19.00% | ~302,295 |
-| Burning Man | 16.00% | ~254,564 |
-| Lived to Tell the Tale | 12.00% | ~190,923 |
-| Highlander | 10.00% | ~159,103 |
-| Unstoppable | 10.00% | ~159,103 |
-| Just a Scratch | 9.00% | ~143,193 |
+| Justice from the Grave | 49.00% | ~779,610 |
+| The ABCs | 43.00% | ~684,148 |
+| Home Run | 41.00% | ~652,327 |
+| Keeps Coming Off | 41.00% | ~652,327 |
+| Guts | 19.00% | ~302,298 |
+| Meat Grinder | 19.00% | ~302,298 |
+| Burning Man | 16.00% | ~254,567 |
+| Lived to Tell the Tale | 12.00% | ~190,925 |
+| Highlander | 10.00% | ~159,104 |
+| Unstoppable | 10.00% | ~159,104 |
+| Just a Scratch | 9.00% | ~143,194 |
 | Tough Nut to Crack | 6.00% | ~95,462 |
 | Yoink | 6.00% | ~95,462 |
-| Long List of Names | 4.00% | ~63,641 |
-| Pyromaniac | 4.00% | ~63,641 |
-| The Queen of Weapons | 4.00% | ~63,641 |
+| Long List of Names | 4.00% | ~63,642 |
+| Pyromaniac | 4.00% | ~63,642 |
+| The Queen of Weapons | 4.00% | ~63,642 |
 | This isn’t Sparta | 3.00% | ~47,731 |
 | Crybaby | 2.00% | ~31,821 |
 | Eagle Eye | 2.00% | ~31,821 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 797)
 | That’s No Ordinary Cold | 0.10% | ~1,591 |
 | Stairway to Hell | 0.10% | ~1,591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,591,028 (Ranked 7)  
+Progressed: 1,591,041 (Ranked 7)  
 Completed: 78 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,10 +315,10 @@ Completed: 78 (0.00%) (Ranked 402)
 | 2024-01-13 | 1,589,830 | 77 |
 | 2024-01-14 | 1,590,419 | 77 |
 | 2024-01-15 | 1,590,862 | 78 |
-| 2024-01-16 | 1,591,028 | 78 |
+| 2024-01-16 | 1,591,041 | 78 |
 ## Awards
 Max (Diverse Characters): 1,232  (Ranked 149)  
-Sum: 6,345 (Ranked 136)  
+Sum: 6,347 (Ranked 136)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
@@ -327,7 +327,7 @@ Diff (max vs sum): 13
 | This game is Highly Recommended | 973 |
 | This game has Amazing Characters | 820 |
 | This game is Extremely Fun | 806 |
-| This game has Competitive Players | 787 |
+| This game has Competitive Players | 789 |
 | This game has Amazing Storytelling | 673 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -610,3 +610,4 @@ Diff (max vs sum): 13
 | 2024-01-13 | 4.38 | 1,218 | 6,298 |
 | 2024-01-14 | 4.38 | 1,223 | 6,314 |
 | 2024-01-15 | 4.38 | 1,232 | 6,345 |
+| 2024-01-16 | 4.38 | 1,232 | 6,347 |

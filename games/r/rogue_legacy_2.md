@@ -11,11 +11,11 @@ Number of Ratings: 1,331  (23.09.2022)
 | No Harm in Looking | 5.00% | ~1,419 |
 | Harvest and Home | 4.00% | ~1,135 |
 | Poise and Poisons | 3.00% | ~851 |
-| Hands and Hammers | 2.00% | ~567 |
-| King and Kin | 2.00% | ~567 |
-| Progenitor and Protégé | 2.00% | ~567 |
-| Suns and Soldiers | 2.00% | ~567 |
-| Prequel to the Sequel | 2.00% | ~567 |
+| Hands and Hammers | 2.00% | ~568 |
+| King and Kin | 2.00% | ~568 |
+| Progenitor and Protégé | 2.00% | ~568 |
+| Suns and Soldiers | 2.00% | ~568 |
+| Prequel to the Sequel | 2.00% | ~568 |
 | For Glory | 1.00% | ~284 |
 | Truly Blessed | 0.80% | ~227 |
 | Pillow Investments | 0.80% | ~227 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.60% | ~170 |
 | Good Boy! | 0.60% | ~170 |
 | For Survival | 0.50% | ~142 |
-| For Love | 0.40% | ~113 |
-| K.O. | 0.40% | ~113 |
-| Just the Beginning | 0.40% | ~113 |
-| Jack of all Trades | 0.40% | ~113 |
+| For Love | 0.40% | ~114 |
+| K.O. | 0.40% | ~114 |
+| Just the Beginning | 0.40% | ~114 |
+| Jack of all Trades | 0.40% | ~114 |
 | For Wrath | 0.30% | ~85 |
 | For Pride | 0.30% | ~85 |
 | Maybe Wax Doesn't Melt | 0.30% | ~85 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,373 (Ranked 145)  
+Progressed: 28,375 (Ranked 145)  
 Completed: 35 (0.12%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 35 (0.12%) (Ranked 308)
 | 2024-01-13 | 28,301 | 35 |
 | 2024-01-14 | 28,340 | 35 |
 | 2024-01-15 | 28,361 | 35 |
-| 2024-01-16 | 28,373 | 35 |
+| 2024-01-16 | 28,375 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 291)  
 Sum: 1,569 (Ranked 245)  

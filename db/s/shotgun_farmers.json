@@ -2084,9 +2084,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -2220,9 +2220,9 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "ach_x_victims_using_bow",
@@ -2307,8 +2307,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:08:59.2588366+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:14:17.6361974+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.5124585+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:59:15.5836959+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:08:59.258903+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:03:57.91619+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:14:17.6362895+00:00"
 }

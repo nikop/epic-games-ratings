@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 39.00% | ~6,980 |
 | Man of politics | 34.00% | ~6,085 |
+| Yet another secret | 33.00% | ~5,906 |
 | Friends of sorts | 32.00% | ~5,727 |
-| Yet another secret | 32.00% | ~5,727 |
 | Let there be darkness | 31.00% | ~5,548 |
 | End of Book One | 29.00% | ~5,190 |
 | Wannabe knight | 23.00% | ~4,117 |
@@ -321,9 +321,9 @@ Completed: 125 (0.70%) (Ranked 204)
 | 2024-01-15 | 17,891 | 125 |
 | 2024-01-16 | 17,898 | 125 |
 ## Awards
-Max (Easy Puzzles): 156  (Ranked 329)  
+Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 418)  
-Diff (max vs sum): -89  
+Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 156 |

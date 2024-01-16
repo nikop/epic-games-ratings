@@ -6,7 +6,7 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 77.00% | ~390 |
+| Shop Til They Drop | 78.00% | ~395 |
 | Kaijuiced | 72.00% | ~364 |
 | Lie Back and Think of Albion | 67.00% | ~339 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~324 |
@@ -34,7 +34,7 @@ Number of Ratings: 85  (23.09.2022)
 | Ouch of Body Experience | 16.00% | ~81 |
 | Hidden Human Hive Harvest | 16.00% | ~81 |
 | Albion Bridge Is for Falling Down | 15.00% | ~76 |
-| Dusted | 13.00% | ~66 |
+| Dusted | 14.00% | ~71 |
 | Higher Than the Futen Zoku | 12.00% | ~61 |
 | Scuttled | 11.00% | ~56 |
 | PK Slam Dunk | 10.00% | ~51 |

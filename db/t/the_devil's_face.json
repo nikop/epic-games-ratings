@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 353,
+  "Ranking_EOS_NewPlayers": 352,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -2899,9 +2899,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "296pn27",
       "Name": "The crucifixion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2987,9 +2987,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
@@ -3002,8 +3002,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:07:15.6921105+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:11:24.356975+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.7712536+00:00",
-  "LastUpdate_Ratings": "2024-01-16T12:01:42.1152486+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:07:15.6921382+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:05:34.8904137+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:11:24.3570053+00:00"
 }

@@ -10920,9 +10920,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 132976,
+  "EOS_Progressed": 132981,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40110,6 +40110,11 @@
       "Time": "2024-01-16T12:10:51.2827279+00:00",
       "NumProgressed": 132976,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T13:15:36.7791253+00:00",
+      "NumProgressed": 132981,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40249,7 +40254,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9308
+      "UsersEstimate": 9309
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40345,7 +40350,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9308
+      "UsersEstimate": 9309
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40657,7 +40662,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "combat_kill_collector",
@@ -40665,7 +40670,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40752,21 +40757,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132976,
+      "Progressed": 132981,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7845,
+      "Progressed": 7850,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-16T06:58:42.611332+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:51.2827275+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:36.7791251+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:59:30.1717474+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:51.2829373+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:04:07.3551301+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:36.7793658+00:00"
 }

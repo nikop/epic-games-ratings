@@ -3,12 +3,12 @@
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 821,
-  "Ranking_Popularity": 543,
+  "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,10 +339,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80194,
-  "EOS_Completed": 434,
-  "EOS_NewPlayers": 624,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 80195,
+  "EOS_Completed": 435,
+  "EOS_NewPlayers": 620,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
@@ -30309,6 +30309,11 @@
       "Time": "2024-01-16T12:10:28.2845118+00:00",
       "NumProgressed": 80194,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-16T13:15:20.3368837+00:00",
+      "NumProgressed": 80195,
+      "NumCompleted": 435
     }
   ],
   "TotalAchievements": 24,
@@ -30336,7 +30341,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55334
+      "UsersEstimate": 55335
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30352,7 +30357,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20850
+      "UsersEstimate": 20851
     },
     {
       "ID": "ERADICATE",
@@ -30368,7 +30373,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22454
+      "UsersEstimate": 22455
     },
     {
       "ID": "FOXIN_AROUND",
@@ -30376,7 +30381,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23256
+      "UsersEstimate": 23257
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -30440,7 +30445,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7217
+      "UsersEstimate": 7218
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -30448,7 +30453,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 7217
+      "UsersEstimate": 7218
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -30511,16 +30516,16 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80194,
-      "Completed": 434
+      "Progressed": 80195,
+      "Completed": 435
     }
   ],
   "FirstSeen": "2022-07-22T20:24:16.4673584+00:00",
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:28.2845115+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:20.3368833+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-16T12:02:53.8051245+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:28.2847357+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:08:20.8246504+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:20.3370324+00:00"
 }

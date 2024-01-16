@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -2009,6 +2009,11 @@
       "Time": "2024-01-16T12:07:41.028063+00:00",
       "NumProgressed": 610,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T13:11:42.7413248+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2027,9 +2032,9 @@
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 305
+      "UsersEstimate": 299
     },
     {
       "ID": "ach3",
@@ -2037,7 +2042,7 @@
       "Name": "Blue Bean",
       "Percentage": 5,
       "XP": 145,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach4",
@@ -2076,14 +2081,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:07:41.0280625+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:11:42.7413244+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:59:28.7469796+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:07:41.0280833+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:04:06.4711699+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:11:42.7413393+00:00"
 }

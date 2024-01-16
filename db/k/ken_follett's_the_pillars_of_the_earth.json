@@ -3,11 +3,11 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 329,
+  "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -572,7 +572,7 @@
   ],
   "EOS_Progressed": 17898,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18617,9 +18617,9 @@
       "ID": "tpote_achievement_2",
       "SetID": "3jcf6c3",
       "Name": "Yet another secret",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5727
+      "UsersEstimate": 5906
     },
     {
       "ID": "tpote_achievement_20",
@@ -18865,8 +18865,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:06:33.7621795+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:10:54.8100272+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-16T12:03:22.8636294+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:06:33.7623421+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:08:39.2958654+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:10:54.8101295+00:00"
 }

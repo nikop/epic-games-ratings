@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 90.00% | ~3,963 |
-| Spectre Inductee | 66.00% | ~2,906 |
+| Spectre Inductee | 67.00% | ~2,950 |
 | Medal of Exploration I | 56.00% | ~2,466 |
 | Recruit | 52.00% | ~2,290 |
 | Search and Rescue | 51.00% | ~2,246 |
 | Quarian Ally | 49.00% | ~2,157 |
+| Medal of Heroism | 44.00% | ~1,937 |
 | Honorarium of Corporate Service | 44.00% | ~1,937 |
-| Medal of Heroism | 43.00% | ~1,893 |
 | Turian Ally | 40.00% | ~1,761 |
 | Medal of Exploration II | 39.00% | ~1,717 |
 | Council Legion of Merit | 38.00% | ~1,673 |

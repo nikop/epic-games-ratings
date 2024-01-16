@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewPlayers": 414,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "poor_gracie_ray",
@@ -869,8 +869,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:54.8702832+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:39.305093+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9806702+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:58:09.2680202+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:54.870299+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:03:11.3271462+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:39.3051109+00:00"
 }

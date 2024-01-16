@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44339,
+  "EOS_Progressed": 44341,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28598,6 +28598,11 @@
       "Time": "2024-01-16T12:07:21.7612929+00:00",
       "NumProgressed": 44339,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T13:11:28.711491+00:00",
+      "NumProgressed": 44341,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28673,7 +28678,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4878
     },
     {
       "ID": "ach_cursestone",
@@ -28697,7 +28702,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4878
     },
     {
       "ID": "ach_deathofermod",
@@ -28729,7 +28734,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "ach_die10",
@@ -28777,7 +28782,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4878
     },
     {
       "ID": "ach_invictus",
@@ -28817,7 +28822,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6207
+      "UsersEstimate": 6208
     },
     {
       "ID": "ach_legacysalvager",
@@ -28833,7 +28838,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4877
+      "UsersEstimate": 4878
     },
     {
       "ID": "ach_newstories",
@@ -29040,15 +29045,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44339,
+      "Progressed": 44341,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:07:21.7612925+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:11:28.7114907+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:58:51.5055462+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:07:21.7615129+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:03:41.1634348+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:11:28.7116445+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.13 (Ranked 1,018)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,506 |
+| Break Out | 65.00% | ~1,529 |
 | Trinity | 35.00% | ~824 |
 | The Collector | 28.00% | ~659 |
 | Find Allies | 27.00% | ~635 |
@@ -43,7 +43,7 @@ Rating: 4.13 (Ranked 1,018)
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,353 (Ranked 244)  
-Completed: 3 (0.13%) (Ranked 303)  
+Completed: 3 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

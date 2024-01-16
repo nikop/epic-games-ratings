@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 55.00% | ~292 |
-| Starting Skyward | 48.00% | ~254 |
-| Grime is Not Good | 41.00% | ~217 |
+| In the Black | 54.00% | ~287 |
+| Starting Skyward | 48.00% | ~255 |
+| Grime is Not Good | 41.00% | ~218 |
 | Floor Galore | 36.00% | ~191 |
 | Campaign Launch | 35.00% | ~186 |
 | Dinner Dash | 35.00% | ~186 |
 | Need a Consult | 33.00% | ~175 |
 | Upgrade Unlock | 32.00% | ~170 |
 | It's Technical | 32.00% | ~170 |
-| Proper Walls | 28.00% | ~148 |
-| Delegate Maintenance | 28.00% | ~148 |
-| Destination Destiny | 28.00% | ~148 |
+| Proper Walls | 28.00% | ~149 |
+| Delegate Maintenance | 28.00% | ~149 |
+| Destination Destiny | 28.00% | ~149 |
 | Happy Tenants | 23.00% | ~122 |
 | Your Prestige is Rising | 22.00% | ~117 |
 | Potent Potables | 22.00% | ~117 |
 | Smooth Service | 22.00% | ~117 |
-| Retail Revenue | 21.00% | ~111 |
+| Retail Revenue | 21.00% | ~112 |
 | Don't Feel a Loan | 20.00% | ~106 |
-| Artfully Done | 18.00% | ~95 |
-| People Mover | 18.00% | ~95 |
-| Leveled Up Shops | 18.00% | ~95 |
-| We Don't Need No Education | 18.00% | ~95 |
+| Artfully Done | 18.00% | ~96 |
+| People Mover | 18.00% | ~96 |
+| Leveled Up Shops | 18.00% | ~96 |
+| We Don't Need No Education | 18.00% | ~96 |
 | Lux Living | 17.00% | ~90 |
 | Emporium Empire | 17.00% | ~90 |
 | Get Electrified | 17.00% | ~90 |
@@ -49,14 +49,14 @@
 | Phoning It In | 7.00% | ~37 |
 | Water Features | 6.00% | ~32 |
 | Golden Opportunity | 6.00% | ~32 |
-| I'm Busy Ruling | 5.00% | ~26 |
-| Careful Constructor | 5.00% | ~26 |
-| Meet Me at HQ | 5.00% | ~26 |
-| Profound Proceeds | 5.00% | ~26 |
-| Maximum Reuse | 5.00% | ~26 |
-| Revenue Royalty | 5.00% | ~26 |
-| It's a Gas | 5.00% | ~26 |
-| Pipe Up | 5.00% | ~26 |
+| I'm Busy Ruling | 5.00% | ~27 |
+| Careful Constructor | 5.00% | ~27 |
+| Meet Me at HQ | 5.00% | ~27 |
+| Profound Proceeds | 5.00% | ~27 |
+| Maximum Reuse | 5.00% | ~27 |
+| Revenue Royalty | 5.00% | ~27 |
+| It's a Gas | 5.00% | ~27 |
+| Pipe Up | 5.00% | ~27 |
 | Meet ADA/360 | 4.00% | ~21 |
 | Penthouse in the Sky | 4.00% | ~21 |
 | Baron of Business | 4.00% | ~21 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 352)  
+Progressed: 531 (Ranked 351)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-12 | 523 | 0 |
 | 2024-01-13 | 526 | 0 |
 | 2024-01-14 | 530 | 0 |
+| 2024-01-16 | 531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

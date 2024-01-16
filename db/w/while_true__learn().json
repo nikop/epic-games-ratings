@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 618749,
+  "EOS_Progressed": 618750,
   "EOS_Completed": 566,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 846,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -31193,6 +31193,11 @@
       "Time": "2024-01-16T12:09:46.7047912+00:00",
       "NumProgressed": 618749,
       "NumCompleted": 566
+    },
+    {
+      "Time": "2024-01-16T13:14:51.1860176+00:00",
+      "NumProgressed": 618750,
+      "NumCompleted": 566
     }
   ],
   "TotalAchievements": 28,
@@ -31244,7 +31249,7 @@
       "Name": "The hoarder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -31268,7 +31273,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 377437
+      "UsersEstimate": 377438
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -31308,7 +31313,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 80437
+      "UsersEstimate": 80438
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -31324,7 +31329,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 309374
+      "UsersEstimate": 309375
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -31332,7 +31337,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 575437
+      "UsersEstimate": 575438
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -31356,7 +31361,7 @@
       "Name": "Ping",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -31364,7 +31369,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 408374
+      "UsersEstimate": 408375
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -31380,7 +31385,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 327937
+      "UsersEstimate": 327938
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -31420,22 +31425,22 @@
       "Name": "Magna cum laude",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 618749,
+      "Progressed": 618750,
       "Completed": 566
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:09:46.7047908+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:14:51.1860171+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.8433302+00:00",
-  "LastUpdate_Ratings": "2024-01-16T12:00:32.3293944+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:09:46.7049624+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:04:49.9109523+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:14:51.1861817+00:00"
 }

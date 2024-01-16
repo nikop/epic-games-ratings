@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewPlayers": 376,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -1916,9 +1916,9 @@
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -2061,8 +2061,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:08:38.7030197+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:14:03.0409783+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:35.0174568+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:57:52.7696188+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:08:38.7031414+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:02:59.7282729+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:14:03.0411016+00:00"
 }

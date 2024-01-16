@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,653 |
-| Titan's First Steps | 11.00% | ~16,653 |
-| Basic in Bulk | 10.00% | ~15,139 |
-| Tinkle of Coins | 10.00% | ~15,139 |
-| Disintermediation | 8.00% | ~12,111 |
-| Capitalism Ho! | 8.00% | ~12,111 |
+| Sponsored by Argon | 11.00% | ~16,654 |
+| Titan's First Steps | 11.00% | ~16,654 |
+| Basic in Bulk | 10.00% | ~15,140 |
+| Tinkle of Coins | 10.00% | ~15,140 |
+| Disintermediation | 8.00% | ~12,112 |
+| Capitalism Ho! | 8.00% | ~12,112 |
 | It's Free Real Estate | 7.00% | ~10,598 |
 | Budding Merchant | 7.00% | ~10,598 |
 | One Easy Payment | 6.00% | ~9,084 |
@@ -32,6 +32,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 4.00% | ~6,056 |
 | Arcane Industries | 4.00% | ~6,056 |
 | On the Path to Greatness | 3.00% | ~4,542 |
+| A Notch Above the Rest | 3.00% | ~4,542 |
 | Ascended | 3.00% | ~4,542 |
 | Tax not Included | 3.00% | ~4,542 |
 | Research & Development | 3.00% | ~4,542 |
@@ -55,7 +56,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Magical Harmony | 3.00% | ~4,542 |
 | Special Ingredient | 3.00% | ~4,542 |
 | Complete Monopoly | 3.00% | ~4,542 |
-| A Notch Above the Rest | 2.00% | ~3,028 |
 | Cream of the Crop | 2.00% | ~3,028 |
 | Top of the World | 2.00% | ~3,028 |
 | Proud Paladin | 2.00% | ~3,028 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~606 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,393 (Ranked 87)  
+Progressed: 151,397 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 355 (0.23%) (Ranked 275)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,393 | 355 |
+| 2024-01-16 | 151,397 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 81)  
 Sum: 28,002 (Ranked 52)  

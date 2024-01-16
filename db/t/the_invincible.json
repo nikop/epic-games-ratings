@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1715,
+  "EOS_Progressed": 1716,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4550,6 +4550,11 @@
       "Time": "2024-01-16T11:09:29.820018+00:00",
       "NumProgressed": 1715,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T13:15:20.1369807+00:00",
+      "NumProgressed": 1716,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4578,7 +4583,7 @@
       "Name": "On her own",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AchvBattleScore",
@@ -4586,7 +4591,7 @@
       "Name": "Fierce fight",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "AchvBombStop",
@@ -4594,7 +4599,7 @@
       "Name": "Peacemaker",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AchvBombing",
@@ -4658,7 +4663,7 @@
       "Name": "Krauta is alive",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "AchvLava",
@@ -4666,7 +4671,7 @@
       "Name": "Volcanologist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4730,7 +4735,7 @@
       "Name": "The field base",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "AchvReachCamp",
@@ -4760,9 +4765,9 @@
       "ID": "AchvSurvivors",
       "SetID": "1hj060c",
       "Name": "Survivors",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 704
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4793,7 +4798,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1715,
+      "Progressed": 1716,
       "Completed": 1
     }
   ],
@@ -4801,8 +4806,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:27.8895097+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:20.1369805+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:57:31.9529348+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:27.8895643+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:02:46.4890816+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:20.1370128+00:00"
 }

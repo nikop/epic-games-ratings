@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.50% | ~1,271 |
 | The Contagious Curse | 0.50% | ~1,271 |
 | The Overgrown Grove | 0.50% | ~1,102 |
+| When Tentacles Attack | 0.50% | ~1,102 |
 | Flames of Avernus | 0.50% | ~1,102 |
 | Mental Gymnastics | 0.50% | ~1,102 |
 | Don't Lose Your Head | 0.50% | ~1,102 |
@@ -40,7 +41,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Vrocks | 0.40% | ~882 |
 | Misaligned in Sigil | 0.40% | ~882 |
 | Chaos Theory | 0.40% | ~882 |
-| When Tentacles Attack | 0.40% | ~882 |
 | Mind Spike | 0.40% | ~882 |
 | The Silken Swamp | 0.30% | ~762 |
 | Low Initiative | 0.30% | ~762 |
@@ -61,6 +61,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Homecoming | 0.20% | ~508 |
 | The Lost Heir of Omu | 0.20% | ~508 |
 | The Forbidden City | 0.20% | ~508 |
+| Captured! | 0.20% | ~508 |
 | Street War | 0.20% | ~508 |
 | Wisdom Check | 0.20% | ~508 |
 | The Mists of Ravenloft | 0.20% | ~508 |
@@ -218,7 +219,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Periodic Petrification | 0.10% | ~254 |
 | No Good at All | 0.10% | ~254 |
 | Fall From Grace | 0.10% | ~254 |
-| Captured! | 0.10% | ~254 |
 | Home Field Advantage | 0.10% | ~254 |
 | Double Vision | 0.10% | ~254 |
 | Underground Railroad | 0.10% | ~254 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,157 (Ranked 70)  
-Completed: 2,619 (1.03%) (Ranked 178)  
+Progressed: 254,159 (Ranked 70)  
+Completed: 2,620 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -824,7 +824,7 @@ Completed: 2,619 (1.03%) (Ranked 178)
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
-| 2024-01-16 | 254,157 | 2,619 |
+| 2024-01-16 | 254,159 | 2,620 |
 ## Awards
 Max (Great for Beginners): 5,784  (Ranked 74)  
 Sum: 33,514 (Ranked 41)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2205,10 +2205,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 654,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-16T13:08:59.7579552+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 655,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 654,
+  "NumberOfAwards": 655,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2222,7 +2228,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2255,9 +2261,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22447,
+  "EOS_Progressed": 22448,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14080,6 +14086,11 @@
       "Time": "2024-01-16T12:10:31.8712466+00:00",
       "NumProgressed": 22447,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T13:15:22.9246166+00:00",
+      "NumProgressed": 22448,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14251,7 +14262,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14259,7 +14270,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4490
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14267,7 +14278,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5387
+      "UsersEstimate": 5388
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14291,7 +14302,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "STORY_HABITAT",
@@ -14466,22 +14477,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22447,
+      "Progressed": 22448,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10373,
+      "Progressed": 10374,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-16T01:52:02.5131442+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:31.8712462+00:00",
+  "LastChanged": "2024-01-16T13:08:59.757955+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:22.9246163+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T12:03:51.0798421+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:31.8713831+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:08:59.7579555+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:22.9247072+00:00"
 }

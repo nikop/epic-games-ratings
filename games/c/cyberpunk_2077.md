@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 283)  
+Rating: 4.67 (Ranked 282)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,686 (Ranked 17)  
+Progressed: 1,052,736 (Ranked 17)  
 Completed: 3,107 (0.30%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 3,107 (0.30%) (Ranked 260)
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
-| 2024-01-16 | 1,052,686 | 3,107 |
+| 2024-01-16 | 1,052,736 | 3,107 |
 ## Awards
 Max (Character Customization): 140,483  (Ranked 8)  
 Sum: 497,755 (Ranked 8)  

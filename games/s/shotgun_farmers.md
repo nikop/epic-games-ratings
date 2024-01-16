@@ -12,7 +12,7 @@
 | Survivor | 56.00% | ~186 |
 | Cornivore | 53.00% | ~202 |
 | I Believe I Can Fly | 49.00% | ~187 |
-| No Diggity | 44.00% | ~146 |
+| No Diggity | 45.00% | ~149 |
 | Early Survivor | 39.00% | ~129 |
 | Bouncemato | 31.00% | ~103 |
 | 10K | 28.00% | ~107 |
@@ -20,7 +20,7 @@
 | 15K | 26.00% | ~99 |
 | Grave Digger | 24.00% | ~80 |
 | Drinking Problem | 22.00% | ~84 |
-| Quick-Draw Pod | 21.00% | ~70 |
+| Quick-Draw Pod | 22.00% | ~73 |
 | Pork Chop Express | 20.00% | ~76 |
 | Professional Survivor | 19.00% | ~63 |
 | Carrocketeer | 17.00% | ~65 |

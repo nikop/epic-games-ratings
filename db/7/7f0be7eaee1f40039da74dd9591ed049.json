@@ -4,8 +4,8 @@
   "ProductSlug": "quick-race-293d39",
   "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 353,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "1_RACE",
       "SetID": "2g288ag",
       "Name": "Rookie Racer",
-      "Percentage": 91,
+      "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "20_RACES",
@@ -491,9 +491,9 @@
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "WIN_AGAINST_BOT",
@@ -513,8 +513,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:04:47.867537+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:09:39.8845968+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.2005969+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:58:01.6256363+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:04:47.8675466+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:03:06.0108283+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:09:39.884606+00:00"
 }

@@ -6,15 +6,15 @@ Rating: 4.12 (Ranked 1,023)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 93.00% | ~4,205 |
-| World Map | 78.00% | ~3,526 |
+| World Map | 78.00% | ~3,527 |
 | Temple of Eternals | 56.00% | ~2,532 |
 | Prestigious | 52.00% | ~2,351 |
 | Fellowship Power | 42.00% | ~1,899 |
-| Full Party | 30.00% | ~1,356 |
+| Full Party | 30.00% | ~1,357 |
 | Guild Power | 23.00% | ~1,040 |
 | Prestigious x10 | 20.00% | ~904 |
 | The game is on | 18.00% | ~814 |
-| Exotic Merchant | 16.00% | ~723 |
+| Exotic Merchant | 16.00% | ~724 |
 | Dragon Clicker | 15.00% | ~678 |
 | Miner Clicker | 15.00% | ~678 |
 | Inspection | 14.00% | ~633 |
@@ -38,11 +38,11 @@ Rating: 4.12 (Ranked 1,023)
 | Moving Up The Ladder | 8.00% | ~362 |
 | Relic Of The Past | 8.00% | ~362 |
 | Scroll Master | 8.00% | ~362 |
-| Four Leaf Clover | 7.00% | ~316 |
-| Here We Go Again | 7.00% | ~316 |
-| Master Enchanter | 7.00% | ~316 |
-| The father of Dragons | 7.00% | ~316 |
-| Trader | 7.00% | ~316 |
+| Four Leaf Clover | 7.00% | ~317 |
+| Here We Go Again | 7.00% | ~317 |
+| Master Enchanter | 7.00% | ~317 |
+| The father of Dragons | 7.00% | ~317 |
+| Trader | 7.00% | ~317 |
 | Dragon Slayer | 6.00% | ~271 |
 | Enchanting skill | 6.00% | ~271 |
 | The Expeditioner | 6.00% | ~271 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 1,023)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,521 (Ranked 209)  
+Progressed: 4,522 (Ranked 209)  
 Completed: 2 (0.04%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,11 +347,11 @@ Completed: 2 (0.04%) (Ranked 354)
 | 2024-01-13 | 4,472 | 2 |
 | 2024-01-14 | 4,499 | 2 |
 | 2024-01-15 | 4,513 | 2 |
-| 2024-01-16 | 4,521 | 2 |
+| 2024-01-16 | 4,522 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
-Sum: 162 (Ranked 441)  
-Diff (max vs sum): 41  
+Sum: 162 (Ranked 442)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |

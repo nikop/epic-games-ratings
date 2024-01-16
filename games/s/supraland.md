@@ -6,37 +6,37 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,046 |
-| The Blues | 85.00% | ~629,382 |
-| Fast | 66.00% | ~488,697 |
-| Healthbar | 55.00% | ~407,248 |
-| Force Cube | 53.00% | ~392,438 |
-| Double Jump | 48.00% | ~355,416 |
-| Regeneration | 47.00% | ~348,012 |
-| Triple Jump | 43.00% | ~318,394 |
-| Climb the hill | 42.00% | ~310,989 |
-| Through the fire pipe | 39.00% | ~288,776 |
-| MacGuffin | 38.00% | ~281,371 |
-| Just once | 37.00% | ~273,966 |
-| Armor | 30.00% | ~222,135 |
-| True holy spirit | 28.00% | ~207,326 |
-| That's how electronics work obviously | 27.00% | ~199,922 |
-| Force Cube Catapult | 25.00% | ~185,112 |
+| Out of bed | 99.00% | ~733,049 |
+| The Blues | 85.00% | ~629,386 |
+| Fast | 66.00% | ~488,700 |
+| Healthbar | 55.00% | ~407,250 |
+| Force Cube | 53.00% | ~392,441 |
+| Double Jump | 48.00% | ~355,418 |
+| Regeneration | 47.00% | ~348,013 |
+| Triple Jump | 43.00% | ~318,395 |
+| Climb the hill | 42.00% | ~310,991 |
+| Through the fire pipe | 39.00% | ~288,777 |
+| MacGuffin | 38.00% | ~281,373 |
+| Just once | 37.00% | ~273,968 |
+| Armor | 30.00% | ~222,136 |
+| True holy spirit | 28.00% | ~207,327 |
+| That's how electronics work obviously | 27.00% | ~199,923 |
+| Force Cube Catapult | 25.00% | ~185,114 |
 | Holy Sword | 23.00% | ~170,304 |
 | Telefrag | 23.00% | ~170,304 |
-| Freed from prison | 22.00% | ~162,899 |
-| Stomp | 21.00% | ~155,494 |
+| Freed from prison | 22.00% | ~162,900 |
+| Stomp | 21.00% | ~155,495 |
 | Double Health | 19.00% | ~140,686 |
-| Buckle | 18.00% | ~133,281 |
-| Green Keycard | 18.00% | ~133,281 |
-| Rattle Hag | 16.00% | ~118,472 |
+| Buckle | 18.00% | ~133,282 |
+| Green Keycard | 18.00% | ~133,282 |
+| Rattle Hag | 16.00% | ~118,473 |
 | All Shells | 15.00% | ~111,068 |
-| Beam | 14.00% | ~103,663 |
-| 9 | 14.00% | ~103,663 |
-| Supraball Noob | 14.00% | ~103,663 |
-| Health Drink | 13.00% | ~96,258 |
-| Helped a star | 13.00% | ~96,258 |
-| Purple Cube | 13.00% | ~96,258 |
+| Beam | 14.00% | ~103,664 |
+| 9 | 14.00% | ~103,664 |
+| Supraball Noob | 14.00% | ~103,664 |
+| Health Drink | 13.00% | ~96,259 |
+| Helped a star | 13.00% | ~96,259 |
+| Purple Cube | 13.00% | ~96,259 |
 | Strong | 12.00% | ~88,854 |
 | Blue King's lair | 11.00% | ~81,450 |
 | Payback | 11.00% | ~81,450 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~74,045 |
 | Translocator | 10.00% | ~74,045 |
 | Yellow Shot Button | 10.00% | ~74,045 |
-| Moon Door | 9.00% | ~66,640 |
-| Momentum | 9.00% | ~66,640 |
-| Through the tiny pipe | 9.00% | ~66,640 |
-| Win! | 9.00% | ~66,640 |
+| Moon Door | 9.00% | ~66,641 |
+| Momentum | 9.00% | ~66,641 |
+| Through the tiny pipe | 9.00% | ~66,641 |
+| Win! | 9.00% | ~66,641 |
 | The real real teleported man | 8.00% | ~59,236 |
 | Well deserved | 6.00% | ~44,427 |
 | Super Sword | 4.00% | ~29,618 |
@@ -63,9 +63,9 @@ Number of Ratings: 25,175  (23.09.2022)
 | Poor ancestors | 2.00% | ~14,809 |
 | Shelf filled | 2.00% | ~14,809 |
 | Invisible Wall | 2.00% | ~14,809 |
-| Groupies | 1.00% | ~7,404 |
-| Jesus Christ Suprastar | 1.00% | ~7,404 |
-| Redstone Pickaxe | 1.00% | ~7,404 |
+| Groupies | 1.00% | ~7,405 |
+| Jesus Christ Suprastar | 1.00% | ~7,405 |
+| Redstone Pickaxe | 1.00% | ~7,405 |
 | DLC: Crashed | 0.60% | ~4,443 |
 | DLC: Gotta Jump High | 0.60% | ~4,443 |
 | DLC: Gotta Run Fast | 0.60% | ~4,443 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~740 |
 | DLC: Top of the world | 0.10% | ~740 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,450 (Ranked 27)  
+Progressed: 740,454 (Ranked 27)  
 Completed: 782 (0.11%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -376,7 +376,7 @@ Completed: 782 (0.11%) (Ranked 310)
 | 2024-01-13 | 740,152 | 782 |
 | 2024-01-14 | 740,297 | 782 |
 | 2024-01-15 | 740,402 | 782 |
-| 2024-01-16 | 740,450 | 782 |
+| 2024-01-16 | 740,454 | 782 |
 ## Awards
 Max (Challenging Puzzles): 7,779  (Ranked 55)  
 Sum: 10,163 (Ranked 95)  

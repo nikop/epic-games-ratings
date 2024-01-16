@@ -25,8 +25,8 @@
 | Ms. Camilla B. Culsham | 34.00% | ~39 |
 | An odd series of events | 33.00% | ~38 |
 | The Apartment | 33.00% | ~38 |
+| Nathaniel Dryden | 31.00% | ~36 |
 | A rude awakening | 30.00% | ~34 |
-| Nathaniel Dryden | 30.00% | ~34 |
 | Bartholomew | 30.00% | ~34 |
 | Well-acquainted | 28.00% | ~32 |
 | Anastasia Babanin | 28.00% | ~32 |

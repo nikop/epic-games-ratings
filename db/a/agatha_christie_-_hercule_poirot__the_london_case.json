@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -900,9 +900,9 @@
       "ID": "ACH_043",
       "SetID": "7b646ck",
       "Name": "Nathaniel Dryden",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_044",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-16T12:10:49.4045024+00:00",
+  "LastChanged_Achievements": "2024-01-16T13:15:35.3786914+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.0301644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T11:57:46.672392+00:00",
-  "LastUpdate_Achievements": "2024-01-16T12:10:49.4045307+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:02:55.9623134+00:00",
+  "LastUpdate_Achievements": "2024-01-16T13:15:35.3787281+00:00"
 }
