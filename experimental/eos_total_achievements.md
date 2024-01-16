@@ -712,6 +712,7 @@
 | [Argol - Kronoss' Castle](../games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 16 | 1,000 |
 | [Asteroids: Recharged](../games/a/asteroids__recharged.md) | 16 | 1,000 |
 | [Centipede: Recharged](../games/c/centipede__recharged.md) | 16 | 1,000 |
+| [Chicken Journey](../games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 16 | 1,000 |
 | [Cursed Castilla (Maldita Castilla EX)](../games/c/cursed_castilla_(maldita_castilla_ex).md) | 16 | 1,000 |
 | [Cymatically Muffed](../games/c/cymatically_muffed.md) | 16 | 1,000 |
 | [Echo Storm](../games/0/0b4313e25d17431b901edda54d678ab4.md) | 16 | 1,000 |

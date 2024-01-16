@@ -25,9 +25,9 @@
 | 23 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 17.03% |
+| 26 | [Island Cities](games/i/island_cities.md) | 17.01% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.33% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.32% |
 | 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.22% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -42,7 +42,7 @@
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.10% |
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.56% |
+| 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.54% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.32% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
@@ -102,8 +102,8 @@
 | 98 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 101 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.55% |
 | 102 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.51% |
-| 103 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.48% |
-| 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
+| 103 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
+| 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.42% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
 | 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.29% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.24% |
@@ -121,8 +121,8 @@
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 120 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.64% |
-| 122 | [The Complex](games/t/the_complex.md) | 2.61% |
-| 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.60% |
+| 122 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.60% |
+| 122 | [The Complex](games/t/the_complex.md) | 2.60% |
 | 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.56% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -289,9 +289,9 @@
 | 287 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 287 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 289 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
-| 290 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.16% |
-| 290 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 290 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 289 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
+| 291 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 291 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 293 | [Blanc](games/b/blanc.md) | 0.15% |
 | 293 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 293 | [Scathe](games/s/scathe.md) | 0.15% |
@@ -466,6 +466,7 @@
 | 402 | [Chased by Darkness](games/e/e6059b123f9045878919974afd435691.md) | 0.00% |
 | 402 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 0.00% |
 | 402 | [Chess Ultra](games/c/chess_ultra.md) | 0.00% |
+| 402 | [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 0.00% |
 | 402 | [Children of Silentown](games/c/children_of_silentown.md) | 0.00% |
 | 402 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
 | 402 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
@@ -833,4 +834,4 @@
 | 402 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 402 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 402 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,848 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,849 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
