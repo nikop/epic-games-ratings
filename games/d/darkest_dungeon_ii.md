@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,650 |
 | FNG | 5.00% | ~6,650 |
 | Nope | 5.00% | ~6,650 |
-| Friends 'Til the End | 5.00% | ~393 |
+| Friends 'Til the End | 5.00% | ~394 |
 | Resurrection | 4.00% | ~5,320 |
 | Unleash Hell | 4.00% | ~5,320 |
 | Funny Guy | 4.00% | ~5,320 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,000 (Ranked 92)  
-Completed: 5 (0.00%) (Ranked 402)  
+Progressed: 133,002 (Ranked 92)  
+Completed: 5 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 402)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 133,000 | 5 |
+| 2024-01-16 | 133,002 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,685 (Ranked 58)  

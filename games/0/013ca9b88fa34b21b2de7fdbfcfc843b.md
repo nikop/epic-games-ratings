@@ -32,10 +32,10 @@ Rating: 4.64 (Ranked 344)
 | Fanatical Farmer | 0.80% | ~73 |
 | Scattered Scroll Scrounger | 0.70% | ~64 |
 | Azorian Hat Dance | 0.70% | ~12 |
-| I Now Pronounce You... | 0.50% | ~45 |
-| Chatty Neighbor | 0.50% | ~45 |
-| Right Tool For the Job | 0.50% | ~45 |
-| House Proud | 0.50% | ~45 |
+| I Now Pronounce You... | 0.50% | ~46 |
+| Chatty Neighbor | 0.50% | ~46 |
+| Right Tool For the Job | 0.50% | ~46 |
+| House Proud | 0.50% | ~46 |
 | Going Down | 0.50% | ~9 |
 | Captain of Cozy | 0.30% | ~27 |
 | Polyglot | 0.30% | ~5 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 344)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,098 (Ranked 187)  
+Progressed: 9,100 (Ranked 187)  
 Completed: 1 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1 (0.01%) (Ranked 378)
 | 2024-01-13 | 9,044 | 1 |
 | 2024-01-14 | 9,068 | 1 |
 | 2024-01-15 | 9,093 | 1 |
-| 2024-01-16 | 9,098 | 1 |
+| 2024-01-16 | 9,100 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -133,10 +133,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2811,
+  "EOS_Progressed": 2812,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 195,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 193,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
@@ -7463,6 +7463,11 @@
       "Time": "2024-01-16T19:04:12.9167093+00:00",
       "NumProgressed": 2811,
       "NumCompleted": 215
+    },
+    {
+      "Time": "2024-01-16T20:03:47.6404831+00:00",
+      "NumProgressed": 2812,
+      "NumCompleted": 215
     }
   ],
   "TotalAchievements": 25,
@@ -7570,7 +7575,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7592,9 +7597,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1237
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7642,7 +7647,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1322
     },
     {
       "ID": "PROGRESS_N3",
@@ -7650,7 +7655,7 @@
       "Name": "A new dawn",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "PROGRESS_N4",
@@ -7673,7 +7678,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2811,
+      "Progressed": 2812,
       "Completed": 215
     }
   ],
@@ -7681,8 +7686,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:04:12.9167087+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:03:47.6404826+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:47.7495795+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:04:12.916775+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:40.3788073+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:03:47.6405408+00:00"
 }

@@ -67,9 +67,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 1.00% | ~169 |
 | Acropolis | 1.00% | ~169 |
 | Colossus | 1.00% | ~169 |
+| Temple of Solomon | 1.00% | ~169 |
 | Mausoleum | 1.00% | ~169 |
 | Musaeum | 1.00% | ~169 |
 | Learn to Play 3 | 1.00% | ~169 |
+| Power to the People | 1.00% | ~169 |
 | Persian Paganism | 1.00% | ~169 |
 | Building Wonders | 1.00% | ~169 |
 | Mythology | 1.00% | ~169 |
@@ -80,9 +82,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.90% | ~152 |
 | Statesmen | 0.90% | ~152 |
 | Hittite Iron | 0.90% | ~152 |
-| Temple of Solomon | 0.90% | ~152 |
 | Greece | 0.90% | ~152 |
-| Power to the People | 0.90% | ~152 |
 | Win a Single Player Game | 0.90% | ~152 |
 | Victorious | 0.80% | ~135 |
 | Landowners | 0.80% | ~135 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,918 (Ranked 169)  
+Progressed: 16,920 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,10 +636,10 @@ Completed: 5 (0.03%) (Ranked 359)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,918 | 5 |
+| 2024-01-16 | 16,920 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,932 (Ranked 223)  
+Sum: 1,933 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -648,7 +648,7 @@ Diff (max vs sum): 64
 | This game is Extremely Fun | 225 |
 | This game is Highly Recommended | 223 |
 | This game is Educational | 220 |
-| This game has Challenging Combat | 210 |
+| This game has Challenging Combat | 211 |
 | This game has Amazing Characters | 202 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Amazing Storytelling | 198 |
@@ -850,4 +850,4 @@ Diff (max vs sum): 64
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
 | 2024-01-13 | 4.65 | - | 230 | 1,927 |
 | 2024-01-14 | 4.65 | - | 230 | 1,931 |
-| 2024-01-16 | 4.65 | - | 230 | 1,932 |
+| 2024-01-16 | 4.65 | - | 230 | 1,933 |

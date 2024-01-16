@@ -6,21 +6,21 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,424 |
-| Finding Your Footing | 25.00% | ~13,772 |
-| Nomad | 17.00% | ~9,365 |
-| Picking Up Speed | 15.00% | ~8,263 |
-| Welcome Maya | 14.00% | ~7,712 |
-| Scout | 12.00% | ~6,610 |
-| Sightseer | 11.00% | ~6,060 |
-| Amateur | 10.00% | ~5,509 |
-| Unlock Maya | 8.00% | ~4,407 |
-| Wanderer | 8.00% | ~4,407 |
-| Enter Paz | 7.00% | ~3,856 |
-| Aviator | 5.00% | ~2,754 |
-| My Little Friend | 5.00% | ~2,754 |
-| One With The Board | 5.00% | ~2,754 |
-| Voyager | 4.00% | ~2,203 |
+| Rookie | 28.00% | ~15,427 |
+| Finding Your Footing | 25.00% | ~13,774 |
+| Nomad | 17.00% | ~9,366 |
+| Picking Up Speed | 15.00% | ~8,265 |
+| Welcome Maya | 14.00% | ~7,714 |
+| Scout | 12.00% | ~6,612 |
+| Sightseer | 11.00% | ~6,061 |
+| Amateur | 10.00% | ~5,510 |
+| Unlock Maya | 8.00% | ~4,408 |
+| Wanderer | 8.00% | ~4,408 |
+| Enter Paz | 7.00% | ~3,857 |
+| Aviator | 5.00% | ~2,755 |
+| My Little Friend | 5.00% | ~2,755 |
+| One With The Board | 5.00% | ~2,755 |
+| Voyager | 4.00% | ~2,204 |
 | Junkie | 3.00% | ~1,653 |
 | Traveler | 3.00% | ~1,653 |
 | Unlock Paz | 3.00% | ~1,653 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~55 |
 | Windswept | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,087 (Ranked 123)  
+Progressed: 55,097 (Ranked 123)  
 Completed: 5 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,15 +317,15 @@ Completed: 5 (0.01%) (Ranked 378)
 | 2024-01-13 | 54,736 | 5 |
 | 2024-01-14 | 54,869 | 5 |
 | 2024-01-15 | 55,001 | 5 |
-| 2024-01-16 | 55,087 | 5 |
+| 2024-01-16 | 55,097 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 460)  
-Sum: 399 (Ranked 360)  
+Sum: 400 (Ranked 360)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 51 |
-| This game is Great for Beginners | 47 |
+| This game is Great for Beginners | 48 |
 | This game is Highly Recommended | 47 |
 | This game has Beautiful Visuals | 43 |
 | This game is Extremely Fun | 41 |
@@ -466,4 +466,4 @@ Diff (max vs sum): 100
 | 2024-01-07 | 4.70 | - | 51 | 395 |
 | 2024-01-08 | 4.70 | - | 51 | 396 |
 | 2024-01-12 | 4.70 | - | 51 | 397 |
-| 2024-01-16 | 4.70 | - | 51 | 399 |
+| 2024-01-16 | 4.70 | - | 51 | 400 |

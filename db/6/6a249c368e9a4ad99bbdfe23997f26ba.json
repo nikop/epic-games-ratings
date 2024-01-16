@@ -2,9 +2,9 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 499,
-  "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 562,
+  "Ranking_EOS_Progress": 498,
+  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_NewPlayers": 501,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -499,6 +499,11 @@
       "Time": "2024-01-12T21:05:17.3257453+00:00",
       "NumProgressed": 101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T20:04:28.0247638+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -511,7 +516,7 @@
       "Name": "Level 1 Completed",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "A10",
@@ -535,7 +540,7 @@
       "Name": "White House Destroyed",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "A13",
@@ -581,7 +586,7 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -589,9 +594,9 @@
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "A2",
@@ -741,9 +746,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "A6",
@@ -782,14 +787,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:05:06.5034642+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:28.024763+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.823645+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:42.0704863+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:05:06.5034905+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:36.8713145+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:28.024784+00:00"
 }

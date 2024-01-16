@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -492,9 +492,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2317,6 +2317,11 @@
       "Time": "2024-01-16T17:04:29.9206022+00:00",
       "NumProgressed": 622,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T20:04:47.9693857+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2353,7 +2358,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -2361,7 +2366,7 @@
       "Name": "Holy Keeper",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Collect_Artifact_Demon_50",
@@ -2377,7 +2382,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2385,7 +2390,7 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -2401,7 +2406,7 @@
       "Name": "Increased Vigor",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2409,7 +2414,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2417,7 +2422,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2441,7 +2446,7 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2449,7 +2454,7 @@
       "Name": "Soul Harvester",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -2505,7 +2510,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2599,9 +2604,9 @@
       "ID": "Keeper_Kill_Flame",
       "SetID": "7a5k76n",
       "Name": "Keeper of the Bonfire",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "Keeper_Kill_Force",
@@ -2623,9 +2628,9 @@
       "ID": "Keeper_Kill_Storm",
       "SetID": "7a5k76n",
       "Name": "Keeper of the Sky",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 25
     },
     {
       "ID": "Kill_Demon_Abraxis",
@@ -2633,7 +2638,7 @@
       "Name": "Demon Meddler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2641,15 +2646,15 @@
       "Name": "Love Tap",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Kill_Enemies_666",
       "SetID": "7a5k76n",
       "Name": "Devil\u0027s in the Details",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 249
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2665,7 +2670,7 @@
       "Name": "All That Glitters",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2681,7 +2686,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2737,15 +2742,15 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 162
     },
     {
       "ID": "Save_Humans_15",
@@ -2785,7 +2790,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2825,30 +2830,30 @@
       "Name": "Just the start",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Upgrade_Weapon_Max",
       "SetID": "7a5k76n",
       "Name": "Take it to the Limit",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:05:32.2471906+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:47.9693849+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:41.8254991+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:05:32.2472484+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:25.6091304+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:47.9694408+00:00"
 }

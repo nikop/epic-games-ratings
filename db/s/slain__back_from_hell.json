@@ -3,11 +3,11 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 884,
-  "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 456,
+  "Ranking_Popularity": 353,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 334,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44311,
+  "EOS_Progressed": 44312,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29707,6 +29707,11 @@
       "Time": "2024-01-16T19:08:31.4061179+00:00",
       "NumProgressed": 44311,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-16T20:08:33.111571+00:00",
+      "NumProgressed": 44312,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29726,7 +29731,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9305
+      "UsersEstimate": 9306
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -29949,7 +29954,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44311,
+      "Progressed": 44312,
       "Completed": 30
     }
   ],
@@ -29957,8 +29962,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:08:31.4061173+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:08:33.1115705+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.9023781+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:03:25.0890174+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:08:31.406246+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:03:12.6269019+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:08:33.1117303+00:00"
 }

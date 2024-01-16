@@ -23,11 +23,11 @@
 | The Bigger They Are | 8.00% | ~77 |
 | Up Close And Personal | 7.00% | ~67 |
 | Eden Heights | 6.00% | ~57 |
+| Inner Core | 5.00% | ~48 |
 | Outer Core | 5.00% | ~48 |
-| Inner Core | 4.00% | ~38 |
 | Integration | 4.00% | ~38 |
+| Destruction | 2.00% | ~19 |
 | Trickshot | 2.00% | ~19 |
-| Destruction | 1.00% | ~10 |
 | Hard Boiled | 0.50% | ~5 |
 | Ripperdoc | 0.50% | ~5 |
 | Weaponsmith | 0.30% | ~3 |
@@ -35,7 +35,7 @@
 | Hell Raiser | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 958 (Ranked 304)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

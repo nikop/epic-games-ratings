@@ -3,8 +3,8 @@
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 523,
-  "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 416,
+  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -448,9 +448,9 @@
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "collect3",
@@ -496,9 +496,9 @@
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "fights1",
@@ -576,9 +576,9 @@
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "special11",
@@ -841,8 +841,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:10:50.1968287+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:09:56.7773782+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.0857431+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:27.6957298+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:10:50.1968649+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:13.5406693+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:09:56.7774183+00:00"
 }

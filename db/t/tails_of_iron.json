@@ -4466,9 +4466,9 @@
       "ID": "CollectAllWeaponsAndGear",
       "SetID": "9lj35g4",
       "Name": "Complete Redgi\u0027s Armory",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "CompleteAll",
@@ -4729,8 +4729,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:06:17.3202993+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:05:21.981184+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:29.8713181+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:06:17.3203376+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:27.4199409+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:05:21.9812295+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3474,
+  "EOS_Progressed": 3475,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 291,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5692,6 +5692,11 @@
       "Time": "2024-01-16T19:11:18.1468723+00:00",
       "NumProgressed": 3474,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T20:10:18.3699868+00:00",
+      "NumProgressed": 3475,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5704,7 +5709,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3092
+      "UsersEstimate": 3093
     },
     {
       "ID": "achievement_10",
@@ -5728,7 +5733,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "achievement_13",
@@ -5776,7 +5781,7 @@
       "Name": "Grand Magnus",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_19",
@@ -5784,7 +5789,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "achievement_2",
@@ -5792,7 +5797,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "achievement_20",
@@ -5880,7 +5885,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "achievement_41",
@@ -5944,7 +5949,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_5",
@@ -6000,7 +6005,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "achievement_60",
@@ -6064,7 +6069,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_9",
@@ -6079,7 +6084,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3474,
+      "Progressed": 3475,
       "Completed": 5
     }
   ],
@@ -6087,8 +6092,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:11:18.1468716+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:10:18.3699862+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:58:46.5392658+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:11:18.1469517+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:58:12.8973946+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:10:18.370044+00:00"
 }

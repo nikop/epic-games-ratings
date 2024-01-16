@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Right Back At Ya | 0.20% | ~2,106 |
 | City Lights | 0.10% | ~1,053 |
 | To Bad Decisions! | 0.10% | ~1,053 |
 | Bushido and Chill | 0.10% | ~1,053 |
 | Full Body Conversion | 0.10% | ~1,053 |
-| Right Back At Ya | 0.10% | ~1,053 |
 | To Protect and Serve | 0.10% | ~1,053 |
 | The Wandering Fool | 0.10% | ~1,053 |
 | Autojock | 0.10% | ~1,053 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,974 (Ranked 17)  
-Completed: 3,108 (0.30%) (Ranked 260)  
+Progressed: 1,053,002 (Ranked 17)  
+Completed: 3,109 (0.30%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -345,14 +345,14 @@ Completed: 3,108 (0.30%) (Ranked 260)
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
-| 2024-01-16 | 1,052,974 | 3,108 |
+| 2024-01-16 | 1,053,002 | 3,109 |
 ## Awards
-Max (Character Customization): 140,483  (Ranked 8)  
-Sum: 498,249 (Ranked 8)  
+Max (Character Customization): 141,060  (Ranked 8)  
+Sum: 498,826 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 140,483 |
+| This game has Inclusive Character Customization | 141,060 |
 | This game has Great Boss Battles | 104,673 |
 | This game is Great for Beginners | 31,682 |
 | This game has Diverse Characters | 31,051 |
@@ -728,4 +728,4 @@ Diff (max vs sum): 0
 | 2024-01-13 | 4.67 | - | 139,040 | 490,370 |
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
-| 2024-01-16 | 4.67 | - | 140,483 | 498,249 |
+| 2024-01-16 | 4.67 | - | 141,060 | 498,826 |

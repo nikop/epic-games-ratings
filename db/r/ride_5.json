@@ -6,7 +6,7 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_Completed": 403,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3620,
+  "EOS_Progressed": 3621,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8965,6 +8965,11 @@
       "Time": "2024-01-16T19:04:26.7465595+00:00",
       "NumProgressed": 3620,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T20:03:58.0770533+00:00",
+      "NumProgressed": 3621,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8977,7 +8982,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1666
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9265,7 +9270,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9329,7 +9334,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9368,7 +9373,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3620,
+      "Progressed": 3621,
       "Completed": 0
     }
   ],
@@ -9376,8 +9381,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:04:26.7465593+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:03:58.0770527+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:58:02.2683657+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:04:26.7466231+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:40.4713889+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:03:58.0771324+00:00"
 }

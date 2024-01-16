@@ -14,15 +14,15 @@
 | Surpass the teacher | 21.00% | ~17 |
 | A hidden snake | 21.00% | ~17 |
 | All for one! | 19.00% | ~15 |
+| Power of Inquisition | 18.00% | ~14 |
 | Help of the Gell | 18.00% | ~14 |
-| Power of Inquisition | 16.00% | ~13 |
 | She-Wolf | 16.00% | ~13 |
 | Crimson rivers | 15.00% | ~12 |
 | Vene, vidi, vici | 15.00% | ~12 |
-| Rage | 14.00% | ~11 |
+| Rage | 15.00% | ~12 |
 | Trial by cold | 14.00% | ~11 |
 | Berkanan Borgia | 13.00% | ~10 |
-| For the greater good | 9.00% | ~7 |
+| For the greater good | 10.00% | ~8 |
 | The champion of the arena | 9.00% | ~7 |
 | Punish the Punisher | 9.00% | ~7 |
 | Overplay the rogue | 8.00% | ~6 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 80 (Ranked 523)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

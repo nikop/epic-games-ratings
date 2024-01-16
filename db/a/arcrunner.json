@@ -3,8 +3,8 @@
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2391,9 +2391,9 @@
       "ID": "ACHV_DESTRUCTION",
       "SetID": "cceobco",
       "Name": "Destruction",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_DOCKS",
@@ -2431,9 +2431,9 @@
       "ID": "ACHV_INNERCORE",
       "SetID": "cceobco",
       "Name": "Inner Core",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHV_INTEGRATION",
@@ -2582,8 +2582,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:10:54.0809381+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:09:59.4663938+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:08.3668805+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:10:54.0809713+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:12.9236849+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:09:59.4664192+00:00"
 }

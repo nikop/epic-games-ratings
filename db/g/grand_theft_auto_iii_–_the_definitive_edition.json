@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12359,
+  "EOS_Progressed": 12360,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15911,6 +15911,11 @@
       "Time": "2024-01-16T19:07:46.9551484+00:00",
       "NumProgressed": 12359,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-16T20:06:29.7457853+00:00",
+      "NumProgressed": 12360,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15922,7 +15927,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10258
+      "UsersEstimate": 10259
     },
     {
       "ID": "ACH02",
@@ -16042,7 +16047,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "ACH17",
@@ -16058,7 +16063,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH19",
@@ -16153,7 +16158,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12359,
+      "Progressed": 12360,
       "Completed": 91
     }
   ],
@@ -16161,8 +16166,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:07:46.955148+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:06:29.7457849+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:51.1244155+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:07:46.9552165+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:32.3770323+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:06:29.74586+00:00"
 }

@@ -36,9 +36,9 @@ Rating: 4.57 (Ranked 498)
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Defeat Avor Warden of the Northern Wastes | 0.90% | ~21 |
 | Discover the mystery of the Kings Chambers | 0.80% | ~19 |
+| Complete Redgi's Armory | 0.70% | ~16 |
 | Complete Arena Faction | 0.70% | ~16 |
 | Complete Ranger Faction | 0.70% | ~16 |
-| Complete Redgi's Armory | 0.60% | ~14 |
 | King of Kings | 0.60% | ~14 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

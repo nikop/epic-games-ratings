@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1458,
+  "EOS_Progressed": 1459,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 4,
@@ -5226,6 +5226,11 @@
       "Time": "2024-01-16T00:05:04.1993029+00:00",
       "NumProgressed": 1458,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-16T20:05:34.6779615+00:00",
+      "NumProgressed": 1459,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -5245,15 +5250,15 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 802
+      "UsersEstimate": 788
     },
     {
       "ID": "MQ02_2",
@@ -5277,7 +5282,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "MQ03_1",
@@ -5301,7 +5306,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "MQ03_4",
@@ -5333,7 +5338,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "MQ04_3",
@@ -5341,7 +5346,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ05_1",
@@ -5357,7 +5362,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ05_3",
@@ -5405,7 +5410,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ07_1",
@@ -5445,7 +5450,7 @@
       "Name": "Fhtagn!",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "PLTN",
@@ -5460,7 +5465,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1458,
+      "Progressed": 1459,
       "Completed": 48
     }
   ],
@@ -5468,8 +5473,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:06:34.105807+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:05:34.677961+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:03:47.6979978+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:06:34.1058425+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:03:28.4747974+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:05:34.6780094+00:00"
 }

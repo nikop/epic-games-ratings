@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5438,
+  "EOS_Progressed": 5439,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5350,6 +5350,11 @@
       "Time": "2024-01-16T18:04:52.4330173+00:00",
       "NumProgressed": 5438,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-16T20:04:23.2833135+00:00",
+      "NumProgressed": 5439,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5409,7 +5414,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5417,7 +5422,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5425,7 +5430,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5575,9 +5580,9 @@
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4079
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5593,7 +5598,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5649,7 +5654,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5681,7 +5686,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5689,7 +5694,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5705,7 +5710,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5896,15 +5901,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5438,
+      "Progressed": 5439,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:04:59.9790047+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:23.2833131+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:58:38.8955619+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:04:59.9790754+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:58:05.5047723+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:23.2833835+00:00"
 }

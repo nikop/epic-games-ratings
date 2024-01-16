@@ -17,9 +17,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 7.00% | ~1,458 |
 | The Scarlet Orchard | 7.00% | ~1,458 |
 | Gathering Storm | 7.00% | ~1,458 |
-| Frosts | 6.00% | ~1,249 |
-| Land of Greed | 6.00% | ~1,249 |
-| Ominous Presence | 6.00% | ~1,249 |
+| Frosts | 6.00% | ~1,250 |
+| Land of Greed | 6.00% | ~1,250 |
+| Ominous Presence | 6.00% | ~1,250 |
 | Royal Outpost | 5.00% | ~1,041 |
 | Watchtower | 5.00% | ~1,041 |
 | Homesick | 4.00% | ~833 |
@@ -41,13 +41,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 3.00% | ~625 |
 | Corrosive Torrent | 3.00% | ~625 |
 | Cursed Lands | 3.00% | ~625 |
-| Serving Ale | 2.00% | ~416 |
-| Efficient Explorer | 2.00% | ~416 |
-| Refinery | 2.00% | ~416 |
-| Fishmen Ritual Site | 2.00% | ~416 |
-| Victory Through Prosperity | 2.00% | ~416 |
-| Defying the Crown | 2.00% | ~416 |
-| Into the Forest | 2.00% | ~416 |
+| Serving Ale | 2.00% | ~417 |
+| Efficient Explorer | 2.00% | ~417 |
+| Refinery | 2.00% | ~417 |
+| Fishmen Ritual Site | 2.00% | ~417 |
+| Victory Through Prosperity | 2.00% | ~417 |
+| Defying the Crown | 2.00% | ~417 |
+| Into the Forest | 2.00% | ~417 |
 | Dangerous Lands | 1.00% | ~208 |
 | Forbidden Lands | 1.00% | ~208 |
 | Forsaken Gods Temple | 1.00% | ~208 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,824 (Ranked 156)  
+Progressed: 20,826 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 35 (0.17%) (Ranked 289)
 | 2024-01-13 | 20,758 | 35 |
 | 2024-01-14 | 20,781 | 35 |
 | 2024-01-15 | 20,812 | 35 |
-| 2024-01-16 | 20,824 | 35 |
+| 2024-01-16 | 20,826 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,387 (Ranked 179)  

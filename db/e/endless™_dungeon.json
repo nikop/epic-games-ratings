@@ -3,8 +3,8 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1554,
+  "EOS_Progressed": 1555,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3500,6 +3500,11 @@
       "Time": "2024-01-16T14:06:55.6377898+00:00",
       "NumProgressed": 1554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T20:05:44.5993088+00:00",
+      "NumProgressed": 1555,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3552,7 +3557,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3616,7 +3621,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3712,7 +3717,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3751,14 +3756,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1554,
+      "Progressed": 1555,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:06:46.949529+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:05:44.5993084+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:58:59.5156811+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:06:46.949563+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:58:22.8934628+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:05:44.5993735+00:00"
 }

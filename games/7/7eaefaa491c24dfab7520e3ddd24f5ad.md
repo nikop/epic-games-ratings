@@ -50,7 +50,7 @@
 | Voodoo Doll | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 423 (Ranked 370)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

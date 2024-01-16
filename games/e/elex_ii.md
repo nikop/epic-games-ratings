@@ -12,7 +12,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 34.00% | ~88 |
 | Creator | 31.00% | ~80 |
 | Military Leader | 29.00% | ~75 |
-| Festival-goer | 28.00% | ~72 |
+| Festival-goer | 29.00% | ~75 |
 | Peddler | 25.00% | ~64 |
 | Commander | 25.00% | ~64 |
 | Irissa's Fate | 20.00% | ~52 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 258 (Ranked 418)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

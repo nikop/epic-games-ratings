@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2560,9 +2560,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226351,
+  "EOS_Progressed": 226358,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1324,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33810,6 +33810,11 @@
       "Time": "2024-01-16T19:04:30.1523425+00:00",
       "NumProgressed": 226351,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-16T20:04:00.5798909+00:00",
+      "NumProgressed": 226358,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33893,7 +33898,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27162
+      "UsersEstimate": 27163
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33925,7 +33930,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18108
+      "UsersEstimate": 18109
     },
     {
       "ID": "ItsRainingMen",
@@ -33941,7 +33946,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18108
+      "UsersEstimate": 18109
     },
     {
       "ID": "Mercyful",
@@ -34069,7 +34074,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18108
+      "UsersEstimate": 18109
     },
     {
       "ID": "TanukiTime",
@@ -34165,22 +34170,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18108
+      "UsersEstimate": 18109
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226351,
+      "Progressed": 226358,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-16T09:57:12.9192169+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:04:30.1523422+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:00.5798905+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:48.2730002+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:04:30.1524933+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:30.4167105+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:00.5800433+00:00"
 }

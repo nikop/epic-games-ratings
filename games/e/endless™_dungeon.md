@@ -14,9 +14,9 @@
 | Team Builder | 20.00% | ~311 |
 | Long Live Rock | 17.00% | ~264 |
 | Aggressive Antivirus | 15.00% | ~233 |
-| Unblurred Lines | 12.00% | ~186 |
-| Obsessively Thorough | 12.00% | ~186 |
-| Effective Efficiency | 12.00% | ~186 |
+| Unblurred Lines | 12.00% | ~187 |
+| Obsessively Thorough | 12.00% | ~187 |
+| Effective Efficiency | 12.00% | ~187 |
 | Endlessly Effective | 11.00% | ~171 |
 | What's Behind Every Door? | 6.00% | ~93 |
 | No Stone Unturned | 5.00% | ~78 |
@@ -35,8 +35,8 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,554 (Ranked 268)  
-Completed: 0 (0.00%) (Ranked 402)  
+Progressed: 1,555 (Ranked 268)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,4 +128,4 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 1,538 | 0 |
 | 2024-01-14 | 1,547 | 0 |
 | 2024-01-15 | 1,552 | 0 |
-| 2024-01-16 | 1,554 | 0 |
+| 2024-01-16 | 1,555 | 0 |

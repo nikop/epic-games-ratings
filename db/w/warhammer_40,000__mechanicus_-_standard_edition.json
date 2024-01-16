@@ -6,7 +6,7 @@
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_Completed": 403,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -1116,9 +1116,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232395,
+  "EOS_Progressed": 232398,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30926,6 +30926,11 @@
       "Time": "2024-01-16T19:11:16.0882229+00:00",
       "NumProgressed": 232395,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T20:10:16.781325+00:00",
+      "NumProgressed": 232398,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30937,7 +30942,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46479
+      "UsersEstimate": 46480
     },
     {
       "ID": "ACH_BASE_10",
@@ -31185,7 +31190,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30211
+      "UsersEstimate": 30212
     },
     {
       "ID": "ACH_BASE_8",
@@ -31208,7 +31213,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232395,
+      "Progressed": 232398,
       "Completed": 5
     }
   ],
@@ -31216,8 +31221,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:11:16.0882228+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:10:16.7813245+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:32.2238687+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:11:16.0883993+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:18.5938933+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:10:16.7814812+00:00"
 }

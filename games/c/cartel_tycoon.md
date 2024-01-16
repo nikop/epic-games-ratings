@@ -21,7 +21,7 @@ Number of Ratings: 101  (23.09.2022)
 | Pampered Life | 21.00% | ~218 |
 | Spreading Fear | 8.00% | ~83 |
 | Follow the Money | 7.00% | ~73 |
-| I'm Going To Call You Kitty | 6.00% | ~62 |
+| I'm Going To Call You Kitty | 7.00% | ~73 |
 | Operation Odessa | 1.00% | ~10 |
 | Iron Lady | 0.60% | ~6 |
 | Sense Of Style | 0.40% | ~4 |

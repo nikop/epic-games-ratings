@@ -7,8 +7,8 @@
 | Complete 25 levels | 8.00% | ~7 |
 | Use 10 hints | 8.00% | ~7 |
 | Use 20 hints | 7.00% | ~6 |
+| Complete 50 levels | 6.00% | ~5 |
 | Fast 6x6 | 5.00% | ~4 |
-| Complete 50 levels | 5.00% | ~4 |
 | By Yourself 5x5 | 3.00% | ~3 |
 | By Yourself 7x7 | 3.00% | ~3 |
 | Play for 5 hours | 3.00% | ~3 |
@@ -49,7 +49,7 @@
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 511)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5315,9 +5315,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82880,
+  "EOS_Progressed": 82882,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30470,6 +30470,11 @@
       "Time": "2024-01-16T19:05:36.448309+00:00",
       "NumProgressed": 82880,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-16T20:04:50.9553361+00:00",
+      "NumProgressed": 82882,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30689,7 +30694,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10774
+      "UsersEstimate": 10775
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30721,7 +30726,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15747
+      "UsersEstimate": 15748
     },
     {
       "ID": "FREEZE_3",
@@ -30785,7 +30790,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28179
+      "UsersEstimate": 28180
     },
     {
       "ID": "HARLEY_2",
@@ -30793,7 +30798,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19891
+      "UsersEstimate": 19892
     },
     {
       "ID": "HARLEY_3",
@@ -30825,7 +30830,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41440
+      "UsersEstimate": 41441
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30873,7 +30878,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27350
+      "UsersEstimate": 27351
     },
     {
       "ID": "MYSTERY_02",
@@ -30881,7 +30886,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19891
+      "UsersEstimate": 19892
     },
     {
       "ID": "MYSTERY_03",
@@ -30921,7 +30926,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10774
+      "UsersEstimate": 10775
     },
     {
       "ID": "MYSTERY_08",
@@ -30945,7 +30950,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6630
+      "UsersEstimate": 6631
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -30968,13 +30973,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82880,
+      "Progressed": 82882,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53160,
+      "Progressed": 53162,
       "Completed": 2679
     }
   ],
@@ -30982,8 +30987,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-16T08:59:21.3312471+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:05:36.4483087+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:50.9553359+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:48.8319142+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:05:36.4484797+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:41.0865629+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:50.955507+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
-  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_Completed": 403,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10932,9 +10932,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 133000,
+  "EOS_Progressed": 133002,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 707,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40157,6 +40157,11 @@
       "Time": "2024-01-16T19:11:14.1275404+00:00",
       "NumProgressed": 133000,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T20:10:15.0471736+00:00",
+      "NumProgressed": 133002,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40776,7 +40781,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40799,21 +40804,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133000,
+      "Progressed": 133002,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7869,
+      "Progressed": 7871,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-16T18:59:54.2045049+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:11:14.1275402+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:10:15.0471731+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:59:54.2045056+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:11:14.127716+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:02.9985261+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:10:15.0473546+00:00"
 }

@@ -7,7 +7,7 @@
 | Star Power | 84.00% | ~829 |
 | From Way Downtown | 55.00% | ~543 |
 | Makin' the Cut | 53.00% | ~523 |
-| Clean Sheet | 50.00% | ~494 |
+| Clean Sheet | 51.00% | ~503 |
 | Winner's Circle | 44.00% | ~434 |
 | Holey Moley | 42.00% | ~415 |
 | Bomb's Away | 39.00% | ~385 |
@@ -19,7 +19,7 @@
 | A Tradition Unlike Any Other | 18.00% | ~178 |
 | A Passion for Excellence | 18.00% | ~178 |
 | Golf's Original Championship | 17.00% | ~168 |
-| The Ultimate Prize | 12.00% | ~118 |
+| The Ultimate Prize | 13.00% | ~128 |
 | Golfer Versus Golfer | 10.00% | ~99 |
 | Victory Lap | 6.00% | ~59 |
 ## Popularity (Based on EOS Achievements)

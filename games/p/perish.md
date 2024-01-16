@@ -56,10 +56,10 @@
 | Athenian Treasury | 0.90% | ~36 |
 | Invicta | 0.80% | ~32 |
 | Olympian | 0.60% | ~24 |
-| Elephantine | 0.50% | ~20 |
 | Hipparchia's Labour | 0.40% | ~16 |
 | Debauchery | 0.40% | ~16 |
 | Interrupt the Interloper | 0.40% | ~16 |
+| Elephantine | 0.40% | ~16 |
 | Window Shopping | 0.30% | ~12 |
 | Blessing of Spring | 0.30% | ~12 |
 | Buyer's Remorse | 0.20% | ~8 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,996 (Ranked 220)  
-Completed: 0 (0.00%) (Ranked 402)  
+Progressed: 4,000 (Ranked 220)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,7 +319,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 3,980 | 0 |
 | 2024-01-14 | 3,988 | 0 |
 | 2024-01-15 | 3,992 | 0 |
-| 2024-01-16 | 3,996 | 0 |
+| 2024-01-16 | 4,000 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~283 |
+| Something important | 87.00% | ~286 |
 | A piece of the story | 66.00% | ~217 |
 | It's covered up for a reason | 60.00% | ~197 |
-| Wanderer | 55.00% | ~181 |
+| Wanderer | 56.00% | ~184 |
 | Scraps of love | 52.00% | ~171 |
 | The artist’s impression | 50.00% | ~164 |
 | Do what you have to | 45.00% | ~148 |
@@ -58,7 +58,7 @@
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 329 (Ranked 392)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

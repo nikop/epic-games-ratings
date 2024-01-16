@@ -20,7 +20,7 @@
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
 | Keep the Doctor Away | 10.00% | ~14 |
-| Just a Palm Tree | 9.00% | ~13 |
+| Just a Palm Tree | 10.00% | ~14 |
 | Under the Hood | 9.00% | ~13 |
 | Long Live Gaipajama! | 9.00% | ~13 |
 | Eyes Shut | 9.00% | ~13 |
@@ -43,7 +43,7 @@
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 139 (Ranked 476)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

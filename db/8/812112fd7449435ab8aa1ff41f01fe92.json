@@ -3,8 +3,8 @@
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 555,
-  "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -321,9 +321,9 @@
       "ID": "DEATH_CANON",
       "SetID": "5629o35",
       "Name": "Hold that for a second",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEATH_FLOWER",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:09:29.2153044+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:08:52.7812422+00:00",
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.6907208+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:54.7284144+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:09:29.2153179+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:35.0915705+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:08:52.7812557+00:00"
 }

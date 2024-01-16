@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~175 |
+| A Second Chance | 57.00% | ~176 |
 | Press-ganged | 43.00% | ~132 |
 | The Package | 28.00% | ~86 |
-| Randomized | 19.00% | ~58 |
-| Conquered | 19.00% | ~58 |
+| Randomized | 19.00% | ~59 |
+| Conquered | 19.00% | ~59 |
 | Scribe | 11.00% | ~34 |
 | Breached | 11.00% | ~34 |
 | Tactician | 10.00% | ~31 |
 | Conciliator | 9.00% | ~28 |
 | Taskmaster | 9.00% | ~28 |
 | Fight Another Day | 8.00% | ~25 |
-| The More the Merrier | 7.00% | ~21 |
-| Acquaintance | 7.00% | ~21 |
-| Tail-wind | 7.00% | ~21 |
+| Acquaintance | 7.00% | ~22 |
+| Tail-wind | 7.00% | ~22 |
 | Scholar | 6.00% | ~18 |
+| The More the Merrier | 6.00% | ~18 |
 | Harbinger | 6.00% | ~18 |
 | Pilgrimage's End | 6.00% | ~18 |
 | Merchant | 6.00% | ~18 |
@@ -60,17 +60,17 @@
 | The Darkness Within | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
 | Voracity Confronted | 1.00% | ~3 |
-| Embellished | 0.70% | ~2 |
-| Manticore | 0.70% | ~2 |
-| Huntsmaster | 0.70% | ~2 |
-| Mercenary | 0.70% | ~2 |
-| Escort | 0.70% | ~2 |
-| Despoiler | 0.70% | ~2 |
-| Ruiner | 0.70% | ~2 |
-| Arcanite | 0.70% | ~2 |
-| What Lies Below | 0.70% | ~2 |
-| The Last Voyage | 0.70% | ~2 |
-| Theory to Practice | 0.70% | ~2 |
+| Embellished | 0.60% | ~2 |
+| Manticore | 0.60% | ~2 |
+| Huntsmaster | 0.60% | ~2 |
+| Mercenary | 0.60% | ~2 |
+| Escort | 0.60% | ~2 |
+| Despoiler | 0.60% | ~2 |
+| Ruiner | 0.60% | ~2 |
+| Arcanite | 0.60% | ~2 |
+| What Lies Below | 0.60% | ~2 |
+| The Last Voyage | 0.60% | ~2 |
+| Theory to Practice | 0.60% | ~2 |
 | And the Sky Full of Stars | 0.30% | ~1 |
 | Carpenter | 0.30% | ~1 |
 | General | 0.30% | ~1 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 400)  
-Completed: 0 (0.00%) (Ranked 402)  
+Progressed: 308 (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-12 | 302 | 0 |
 | 2024-01-13 | 303 | 0 |
 | 2024-01-14 | 306 | 0 |
-| 2024-01-16 | 307 | 0 |
+| 2024-01-16 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

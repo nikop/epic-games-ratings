@@ -10,8 +10,8 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 76.00% | ~6,065 |
 | Reap What You Sow | 73.00% | ~5,825 |
 | The First Day | 70.00% | ~5,586 |
+| Novice Researcher | 69.00% | ~5,506 |
 | Green Thumb | 68.00% | ~5,426 |
-| Novice Researcher | 68.00% | ~5,426 |
 | Home Cooked Meal | 63.00% | ~5,027 |
 | Onward | 58.00% | ~4,628 |
 | The First Week | 56.00% | ~4,469 |

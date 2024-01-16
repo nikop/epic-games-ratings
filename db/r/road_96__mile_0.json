@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 734,
+  "EOS_Progressed": 735,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
@@ -2702,6 +2702,11 @@
       "Time": "2024-01-16T07:10:00.1173103+00:00",
       "NumProgressed": 734,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T20:10:15.481816+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2729,7 +2734,7 @@
       "Name": "On the Road",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "findalltapes",
@@ -2753,7 +2758,7 @@
       "Name": "Truthseeker",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "scoreminrankrb2",
@@ -2793,7 +2798,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "scoreminrankrp2",
@@ -2817,7 +2822,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "scoreminrankrv2",
@@ -2832,7 +2837,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 734,
+      "Progressed": 735,
       "Completed": 3
     }
   ],
@@ -2840,8 +2845,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:11:14.7378269+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:10:15.4818155+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:06.0742103+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:11:14.7378459+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:11.1511131+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:10:15.4818356+00:00"
 }

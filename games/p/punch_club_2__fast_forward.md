@@ -24,8 +24,8 @@
 | Spirit of the past | 58.00% | ~341 |
 | Employee of the month | 57.00% | ~335 |
 | Law student | 55.00% | ~323 |
+| Workout professional | 53.00% | ~312 |
 | Handyman | 53.00% | ~312 |
-| Workout professional | 52.00% | ~306 |
 | Fight for life | 52.00% | ~306 |
 | Little hacker | 52.00% | ~306 |
 | Champion – starter pack | 52.00% | ~306 |

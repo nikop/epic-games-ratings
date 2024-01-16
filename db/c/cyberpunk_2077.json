@@ -18456,18 +18456,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 498249,
       "NumberOfAwardsMax": 140483
+    },
+    {
+      "Time": "2024-01-16T20:03:27.2081523+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 498826,
+      "NumberOfAwardsMax": 141060
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 498249,
-  "NumberOfAwardsMax": 140483,
+  "NumberOfAwards": 498826,
+  "NumberOfAwardsMax": 141060,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 140483
+      "Count": 141060
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18536,10 +18542,10 @@
       "Count": 19123
     }
   ],
-  "EOS_Progressed": 1052974,
-  "EOS_Completed": 3108,
-  "EOS_NewPlayers": 12955,
-  "EOS_NewCompleters": 49,
+  "EOS_Progressed": 1053002,
+  "EOS_Completed": 3109,
+  "EOS_NewPlayers": 12819,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49606,6 +49612,11 @@
       "Time": "2024-01-16T19:09:47.3887796+00:00",
       "NumProgressed": 1052974,
       "NumCompleted": 3108
+    },
+    {
+      "Time": "2024-01-16T20:09:06.7082023+00:00",
+      "NumProgressed": 1053002,
+      "NumCompleted": 3109
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49648,9 +49659,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "FollowingTheRiver",
@@ -50153,21 +50164,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1052974,
-      "Completed": 3108
+      "Progressed": 1053002,
+      "Completed": 3109
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 181597,
+      "Progressed": 181625,
       "Completed": 10633
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-16T17:03:10.8680512+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:09:47.3887793+00:00",
+  "LastChanged": "2024-01-16T20:03:27.2081522+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:09:06.7082019+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:03:45.8492106+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:09:47.3889262+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:03:27.2081527+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:09:06.7083998+00:00"
 }

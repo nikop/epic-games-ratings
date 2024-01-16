@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75567,
+  "EOS_Progressed": 75577,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 1355,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7551,6 +7551,11 @@
       "Time": "2024-01-16T19:09:33.6977122+00:00",
       "NumProgressed": 75567,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-16T20:08:56.2833741+00:00",
+      "NumProgressed": 75577,
+      "NumCompleted": 125
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7563,7 +7568,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27960
+      "UsersEstimate": 27963
     },
     {
       "ID": "Achievement_10",
@@ -7603,7 +7608,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "Achievement_15",
@@ -7651,7 +7656,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21159
+      "UsersEstimate": 21162
     },
     {
       "ID": "Achievement_20",
@@ -7675,7 +7680,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "Achievement_23",
@@ -7739,7 +7744,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9068
+      "UsersEstimate": 9069
     },
     {
       "ID": "Achievement_30",
@@ -7763,7 +7768,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "Achievement_33",
@@ -7787,7 +7792,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6801
+      "UsersEstimate": 6802
     },
     {
       "ID": "Achievement_5",
@@ -7834,7 +7839,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75567,
+      "Progressed": 75577,
       "Completed": 125
     }
   ],
@@ -7842,8 +7847,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-16T17:59:18.435336+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:09:33.6977115+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:08:56.2833736+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:59:31.954934+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:09:33.6977601+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:58:46.0411924+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:08:56.2834282+00:00"
 }

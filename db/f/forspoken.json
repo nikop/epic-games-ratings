@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -647,6 +647,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 78,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-16T20:03:17.8782355+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 78,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
@@ -667,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47351,
+  "EOS_Progressed": 47354,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19027,6 +19033,11 @@
       "Time": "2024-01-16T19:04:55.0343902+00:00",
       "NumProgressed": 47351,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T20:04:19.758946+00:00",
+      "NumProgressed": 47354,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19461,22 +19472,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47351,
+      "Progressed": 47354,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12188,
-      "Completed": 12188
+      "Progressed": 12191,
+      "Completed": 12191
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:04:55.0343898+00:00",
+  "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:19.7589456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:03:32.6466886+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:04:55.0345372+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:03:17.8782358+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:19.7590591+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
   "Ranking_Rating": 962,
-  "Ranking_Popularity": 352,
+  "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1422,9 +1422,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33595,
+  "EOS_Progressed": 33598,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30677,6 +30677,11 @@
       "Time": "2024-01-16T19:11:05.4050157+00:00",
       "NumProgressed": 33595,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-16T20:10:08.3114232+00:00",
+      "NumProgressed": 33598,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30792,7 +30797,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5711
+      "UsersEstimate": 5712
     },
     {
       "ID": "1029",
@@ -30808,7 +30813,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6384
     },
     {
       "ID": "1031",
@@ -30816,7 +30821,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4367
+      "UsersEstimate": 4368
     },
     {
       "ID": "1032",
@@ -30824,7 +30829,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13438
+      "UsersEstimate": 13439
     },
     {
       "ID": "1033",
@@ -30848,7 +30853,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4031
+      "UsersEstimate": 4032
     },
     {
       "ID": "1036",
@@ -30863,15 +30868,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33595,
+      "Progressed": 33598,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-16T05:01:49.8697711+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:11:05.4050154+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:10:08.3114228+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:30.0535003+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:11:05.4051447+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:17.0057219+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:10:08.3115727+00:00"
 }

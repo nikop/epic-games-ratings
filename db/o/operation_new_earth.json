@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2262,
+  "EOS_Progressed": 2263,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8741,6 +8741,11 @@
       "Time": "2024-01-16T13:11:06.7536864+00:00",
       "NumProgressed": 2262,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T20:05:56.5028502+00:00",
+      "NumProgressed": 2263,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8784,7 +8789,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -8856,7 +8861,7 @@
       "Name": "Facility Online",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8936,7 +8941,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -8968,7 +8973,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -9055,7 +9060,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2262,
+      "Progressed": 2263,
       "Completed": 1
     }
   ],
@@ -9063,8 +9068,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:07:02.3965478+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:05:56.5028498+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:58:10.6152668+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:07:02.3966037+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:46.5841234+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:05:56.5029073+00:00"
 }

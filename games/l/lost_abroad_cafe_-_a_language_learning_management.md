@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get Lost! | 91.00% | ~641 |
-| Barista | 53.00% | ~373 |
+| Get Lost! | 91.00% | ~642 |
+| Barista | 53.00% | ~374 |
 | Tea-ser | 39.00% | ~275 |
 | Coffee Connoisseur | 20.00% | ~141 |
-| Tea Master | 12.00% | ~84 |
+| Tea Master | 11.00% | ~78 |
 | Brew Master | 8.00% | ~56 |
 | Tea Guru | 5.00% | ~35 |
 | Countertop Champion | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704 (Ranked 327)  
+Progressed: 705 (Ranked 327)  
 Completed: 12 (1.70%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,3 +233,4 @@ Completed: 12 (1.70%) (Ranked 149)
 | 2024-01-09 | 703 | 11 |
 | 2024-01-10 | 703 | 12 |
 | 2024-01-13 | 704 | 12 |
+| 2024-01-16 | 705 | 12 |

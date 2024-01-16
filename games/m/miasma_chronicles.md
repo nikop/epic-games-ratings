@@ -44,10 +44,10 @@ Rating: 4.39 (Ranked 786)
 | Bot Whisperer | 9.00% | ~155 |
 | Chain Reaction | 9.00% | ~155 |
 | Curveball | 8.00% | ~138 |
+| Dressed To Kill | 7.00% | ~121 |
 | Master Editor | 7.00% | ~121 |
 | Wipe Out | 7.00% | ~121 |
 | Attenborough | 6.00% | ~103 |
-| Dressed To Kill | 6.00% | ~103 |
 | Bookworm | 3.00% | ~52 |
 | Cruelty | 3.00% | ~52 |
 | Five Finger Deathcount | 1.00% | ~17 |
@@ -58,7 +58,7 @@ Rating: 4.39 (Ranked 786)
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,723 (Ranked 262)  
-Completed: 0 (0.00%) (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 403)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9098,
+  "EOS_Progressed": 9100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10338,6 +10338,11 @@
       "Time": "2024-01-16T15:10:19.8127254+00:00",
       "NumProgressed": 9098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T20:10:23.4702687+00:00",
+      "NumProgressed": 9100,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10550,7 +10555,7 @@
       "Name": "I Now Pronounce You...",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "MAKE_FRIENDS_1",
@@ -10558,7 +10563,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -10598,7 +10603,7 @@
       "Name": "Right Tool For the Job",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "UPGRADE_COZYMAX",
@@ -10614,7 +10619,7 @@
       "Name": "House Proud",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -10693,13 +10698,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9098,
+      "Progressed": 9100,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1715,
+      "Progressed": 1717,
       "Completed": 1050
     }
   ],
@@ -10707,8 +10712,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:11:23.9357983+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:10:23.4702682+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:03:57.4591722+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:11:23.9358753+00:00"
+  "LastUpdate_Ratings": "2024-01-16T20:03:35.2829727+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:10:23.4704087+00:00"
 }

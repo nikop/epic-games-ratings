@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1559,9 +1559,9 @@
       "ID": "KR4_ACHIEVEMENT_BUILD_TOWERS_EASY",
       "SetID": "caeik3h",
       "Name": "We Can Build It!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 270
     },
     {
       "ID": "KR4_ACHIEVEMENT_CALL_EARLY_WAVES",
@@ -2126,8 +2126,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:07:53.8037881+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:06:35.0219746+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:01:01.6169662+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:07:53.8038562+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:49.4286119+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:06:35.0220463+00:00"
 }

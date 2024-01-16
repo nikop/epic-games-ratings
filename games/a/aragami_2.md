@@ -6,14 +6,14 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,036 |
-| First Steps | 80.00% | ~36,160 |
-| Control the Shadows | 67.00% | ~30,284 |
-| Tools of the Trade | 63.00% | ~28,476 |
-| Apprentice | 60.00% | ~27,120 |
-| Secret Seeker | 57.00% | ~25,764 |
-| Forge of Assassins | 55.00% | ~24,860 |
-| Revenant | 52.00% | ~23,504 |
+| Awakening | 93.00% | ~42,037 |
+| First Steps | 80.00% | ~36,161 |
+| Control the Shadows | 67.00% | ~30,285 |
+| Tools of the Trade | 63.00% | ~28,477 |
+| Apprentice | 60.00% | ~27,121 |
+| Secret Seeker | 57.00% | ~25,765 |
+| Forge of Assassins | 55.00% | ~24,861 |
+| Revenant | 52.00% | ~23,505 |
 | I don’t Care! | 46.00% | ~20,792 |
 | Bird of Prey | 37.00% | ~16,724 |
 | Engraved with Power | 32.00% | ~14,464 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~904 |
 | Legacy | 2.00% | ~904 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,200 (Ranked 129)  
+Progressed: 45,201 (Ranked 129)  
 Completed: 250 (0.55%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 250 (0.55%) (Ranked 220)
 | 2024-01-13 | 45,111 | 248 |
 | 2024-01-14 | 45,146 | 249 |
 | 2024-01-15 | 45,175 | 250 |
-| 2024-01-16 | 45,200 | 250 |
+| 2024-01-16 | 45,201 | 250 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

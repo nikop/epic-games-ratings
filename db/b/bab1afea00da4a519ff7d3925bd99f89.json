@@ -3,7 +3,7 @@
   "Name": "TAGLINE",
   "ProductSlug": "tagline-a80066",
   "Ranking_EOS_Progress": 836,
-  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_Completed": 403,
   "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-12T17:03:48.268208+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:06:36.0024282+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:05:36.0093588+00:00",
   "LastUpdate_AppInfo": "2024-01-12T16:56:58.0900282+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:14.8241561+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:06:36.0024347+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:17.0053576+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:05:36.0093627+00:00"
 }

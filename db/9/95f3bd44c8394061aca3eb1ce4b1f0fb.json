@@ -2,9 +2,9 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 449,
-  "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 428,
+  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Completed": 403,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -794,6 +794,11 @@
       "Time": "2024-01-14T23:09:25.6324247+00:00",
       "NumProgressed": 172,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T20:09:31.3215097+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -811,17 +816,17 @@
       "ID": "CreateTemplate",
       "SetID": "9ajogia",
       "Name": "Creator",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "FourPlayers",
       "SetID": "9ajogia",
       "Name": "Socialite",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "NotPermitted",
@@ -835,23 +840,23 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:10:17.6309261+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:09:31.3215092+00:00",
   "LastUpdate_AppInfo": "2024-01-12T09:57:07.7017035+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:57:50.9379161+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:10:17.6309352+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:57:32.2298867+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:09:31.3215205+00:00"
 }

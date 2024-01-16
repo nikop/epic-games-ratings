@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 367,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5849,
+  "EOS_Progressed": 5850,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5459,6 +5459,11 @@
       "Time": "2024-01-16T15:04:19.6688538+00:00",
       "NumProgressed": 5849,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T20:04:27.9049798+00:00",
+      "NumProgressed": 5850,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5502,7 +5507,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -5558,7 +5563,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ach_campaign_progress3",
@@ -5566,7 +5571,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_campaign_progress4",
@@ -5718,7 +5723,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ach_campaign_special5",
@@ -5838,7 +5843,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -5862,7 +5867,7 @@
       "Name": "Salesperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_frp_many_products3",
@@ -5894,7 +5899,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -6077,15 +6082,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5849,
+      "Progressed": 5850,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-16T19:05:06.2832891+00:00",
+  "LastChanged_Achievements": "2024-01-16T20:04:27.904979+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.4885671+00:00",
-  "LastUpdate_Ratings": "2024-01-16T19:00:37.5662859+00:00",
-  "LastUpdate_Achievements": "2024-01-16T19:05:06.2834048+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:59:33.8768317+00:00",
+  "LastUpdate_Achievements": "2024-01-16T20:04:27.905055+00:00"
 }
