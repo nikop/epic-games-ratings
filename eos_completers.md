@@ -240,11 +240,11 @@
 | 236 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
 | 239 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 240 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.41% |
+| 240 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
 | 240 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.41% |
-| 242 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
-| 242 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
-| 242 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.40% |
-| 242 | [Tchia](games/t/tchia.md) | 0.40% |
+| 243 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
+| 243 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
+| 243 | [Tchia](games/t/tchia.md) | 0.40% |
 | 246 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 246 | [Remnant 2](games/r/remnant_2.md) | 0.37% |
 | 246 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.37% |
