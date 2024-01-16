@@ -16,15 +16,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,831 |
 | Qi Gong: Essence | 3.00% | ~22,831 |
 | Old Child | 3.00% | ~22,831 |
-| A Lady's Blood in the Snow | 2.00% | ~15,220 |
-| Lady Wing Chun | 2.00% | ~15,220 |
-| Furious Fists | 2.00% | ~15,220 |
-| Kill Nil | 2.00% | ~15,220 |
-| Qi Gong: Breath | 2.00% | ~15,220 |
-| I know Kung-Fu | 2.00% | ~15,220 |
-| Path of the Prospect | 2.00% | ~15,220 |
-| Rumble in the Hangar | 2.00% | ~15,220 |
-| Take damage to save time | 2.00% | ~15,220 |
+| A Lady's Blood in the Snow | 2.00% | ~15,221 |
+| Lady Wing Chun | 2.00% | ~15,221 |
+| Furious Fists | 2.00% | ~15,221 |
+| Kill Nil | 2.00% | ~15,221 |
+| Qi Gong: Breath | 2.00% | ~15,221 |
+| I know Kung-Fu | 2.00% | ~15,221 |
+| Path of the Prospect | 2.00% | ~15,221 |
+| Rumble in the Hangar | 2.00% | ~15,221 |
+| Take damage to save time | 2.00% | ~15,221 |
 | Diligence as a goal | 2.00% | ~1,407 |
 | Scareless | 1.00% | ~7,610 |
 | Dance of the Praying Mantis | 1.00% | ~7,610 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,025 (Ranked 26)  
+Progressed: 761,028 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
-| 2024-01-16 | 761,025 | 12,989 |
+| 2024-01-16 | 761,028 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,215  (Ranked 57)  
 Sum: 12,761 (Ranked 86)  

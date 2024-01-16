@@ -1521,9 +1521,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 18255,
+  "EOS_Progressed": 18256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1246,
+  "EOS_NewPlayers": 1242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11846,6 +11846,11 @@
       "Time": "2024-01-16T01:53:27.0951447+00:00",
       "NumProgressed": 18255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T02:29:07.8878917+00:00",
+      "NumProgressed": 18256,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -11898,7 +11903,7 @@
       "Name": "Setting up for Success",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 12596
+      "UsersEstimate": 12597
     },
     {
       "ID": "achievement_0007",
@@ -11906,7 +11911,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16612
+      "UsersEstimate": 16613
     },
     {
       "ID": "achievement_0008",
@@ -12018,7 +12023,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12413
+      "UsersEstimate": 12414
     },
     {
       "ID": "achievement_0022",
@@ -12040,9 +12045,9 @@
       "ID": "achievement_0024",
       "SetID": "9123ogc",
       "Name": "Loyal Bond",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 548
     },
     {
       "ID": "achievement_0025",
@@ -12080,9 +12085,9 @@
       "ID": "achievement_0029",
       "SetID": "9123ogc",
       "Name": "Reduce",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2738
+      "UsersEstimate": 2556
     },
     {
       "ID": "achievement_0030",
@@ -12202,7 +12207,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6389
+      "UsersEstimate": 6390
     },
     {
       "ID": "achievement_0045",
@@ -12218,7 +12223,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3468
+      "UsersEstimate": 3469
     },
     {
       "ID": "achievement_0047",
@@ -12249,7 +12254,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18255,
+      "Progressed": 18256,
       "Completed": 0
     }
   ],
@@ -12257,8 +12262,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-15T22:59:56.6093476+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:53:27.0951444+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:29:07.8878913+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:48:28.2631511+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:53:27.0952408+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:24:23.5072155+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:29:07.8879692+00:00"
 }

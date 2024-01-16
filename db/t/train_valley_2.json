@@ -4343,9 +4343,9 @@
       "Count": 63
     }
   ],
-  "EOS_Progressed": 433156,
+  "EOS_Progressed": 433158,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 1702,
+  "EOS_NewPlayers": 1700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -26773,6 +26773,11 @@
       "Time": "2024-01-16T01:52:53.0186243+00:00",
       "NumProgressed": 433156,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2024-01-16T02:28:31.5094836+00:00",
+      "NumProgressed": 433158,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 89,
@@ -26888,7 +26893,7 @@
       "Name": "Close call!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 134278
+      "UsersEstimate": 134279
     },
     {
       "ID": "AchievementCommonCause",
@@ -26912,7 +26917,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 316204
+      "UsersEstimate": 316205
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -26968,7 +26973,7 @@
       "Name": "Full garage",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 264225
+      "UsersEstimate": 264226
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -27008,7 +27013,7 @@
       "Name": "Individual delivery",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 203583
+      "UsersEstimate": 203584
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -27064,7 +27069,7 @@
       "Name": "Juggler",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 155936
+      "UsersEstimate": 155937
     },
     {
       "ID": "AchievementJustInTime",
@@ -27144,7 +27149,7 @@
       "Name": "Multilevel road",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 64973
+      "UsersEstimate": 64974
     },
     {
       "ID": "AchievementNeedToThink",
@@ -27160,7 +27165,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 194920
+      "UsersEstimate": 194921
     },
     {
       "ID": "AchievementOneWay",
@@ -27200,7 +27205,7 @@
       "Name": "Prick of conscience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34652
+      "UsersEstimate": 34653
     },
     {
       "ID": "AchievementRailroadTycoon",
@@ -27296,7 +27301,7 @@
       "Name": "To the eyeballs!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 220910
+      "UsersEstimate": 220911
     },
     {
       "ID": "AchievementTourismAge",
@@ -27408,7 +27413,7 @@
       "Name": "Long Haul",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 73524
+      "UsersEstimate": 73525
     },
     {
       "ID": "AchievementMaidenvoyage",
@@ -27495,21 +27500,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 432497,
+      "Progressed": 432499,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 433156,
+      "Progressed": 433158,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2024-01-15T22:58:20.5528511+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:52:53.018624+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:28:31.5094832+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.9365403+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:47:03.0275204+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:52:53.01878+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:44.1486685+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:28:31.5097045+00:00"
 }

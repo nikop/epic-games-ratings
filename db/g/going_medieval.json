@@ -1697,9 +1697,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 7964,
+  "EOS_Progressed": 7965,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16882,6 +16882,11 @@
       "Time": "2024-01-16T01:53:17.4895301+00:00",
       "NumProgressed": 7964,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-16T02:28:57.7540507+00:00",
+      "NumProgressed": 7965,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16933,7 +16938,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6132
+      "UsersEstimate": 6133
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17013,7 +17018,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17053,7 +17058,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17099,9 +17104,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 5495
+      "UsersEstimate": 5416
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17117,7 +17122,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -17125,7 +17130,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4619
+      "UsersEstimate": 4620
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17140,15 +17145,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7964,
+      "Progressed": 7965,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-14T12:00:22.1691049+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:53:17.4895298+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:28:57.7540503+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:46:34.5314267+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:53:17.4896031+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:13.6455995+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:28:57.754138+00:00"
 }

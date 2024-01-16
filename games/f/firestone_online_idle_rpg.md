@@ -29,11 +29,11 @@ Rating: 4.11 (Ranked 1,023)
 | Milestone collector | 10.00% | ~452 |
 | Scientist | 10.00% | ~452 |
 | Doing My Part | 9.00% | ~406 |
+| Hunter | 9.00% | ~406 |
 | The power of Awakening | 9.00% | ~406 |
 | Challenger | 8.00% | ~361 |
 | Daily Quest Completionist | 8.00% | ~361 |
 | Frostfire Liberator | 8.00% | ~361 |
-| Hunter | 8.00% | ~361 |
 | Mastery | 8.00% | ~361 |
 | Moving Up The Ladder | 8.00% | ~361 |
 | Relic Of The Past | 8.00% | ~361 |
@@ -69,11 +69,11 @@ Rating: 4.11 (Ranked 1,023)
 | Pokerface | 2.00% | ~90 |
 | What lies behind the bush | 2.00% | ~90 |
 | Conqueror | 1.00% | ~45 |
+| Enhanced War Machines | 1.00% | ~45 |
 | Titan Power | 1.00% | ~45 |
 | Transmute | 1.00% | ~45 |
 | Tree of Life | 1.00% | ~45 |
 | Angel Power | 0.90% | ~41 |
-| Enhanced War Machines | 0.90% | ~41 |
 | Silverwood liberator | 0.80% | ~36 |
 | Training makes a Pro player | 0.80% | ~36 |
 | Beast War Machines | 0.70% | ~32 |

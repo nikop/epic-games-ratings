@@ -1416,9 +1416,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33541,
+  "EOS_Progressed": 33542,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30581,6 +30581,11 @@
       "Time": "2024-01-16T01:58:30.0888325+00:00",
       "NumProgressed": 33541,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-16T02:34:19.0916383+00:00",
+      "NumProgressed": 33542,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30600,7 +30605,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "1017",
@@ -30608,7 +30613,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "1018",
@@ -30648,7 +30653,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "1023",
@@ -30728,7 +30733,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13416
+      "UsersEstimate": 13417
     },
     {
       "ID": "1033",
@@ -30767,15 +30772,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33541,
+      "Progressed": 33542,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-14T15:59:31.8862303+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:30.0888321+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:19.0916379+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:48:53.6902357+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:30.088982+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:24:51.2463205+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:19.0918145+00:00"
 }

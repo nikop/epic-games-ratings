@@ -324,9 +324,9 @@
       "ID": "ACH_01_SADDLE_UP",
       "SetID": "9loam6m",
       "Name": "Saddled up and away",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_02_PHOTO_TEAM",
@@ -588,9 +588,9 @@
       "ID": "ACH_34_HAZELWOOD",
       "SetID": "9loam6m",
       "Name": "Hazelwood",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_35_RIDING_LESSON",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:53:53.4730625+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:29:36.9367434+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:11.6252135+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:46:52.6940958+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:53:53.4730858+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:32.8885733+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:29:36.9367801+00:00"
 }

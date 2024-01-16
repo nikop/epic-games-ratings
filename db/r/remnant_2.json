@@ -7173,9 +7173,9 @@
       "Count": 890
     }
   ],
-  "EOS_Progressed": 294163,
+  "EOS_Progressed": 294173,
   "EOS_Completed": 1080,
-  "EOS_NewPlayers": 6584,
+  "EOS_NewPlayers": 6563,
   "EOS_NewCompleters": 157,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -28428,6 +28428,11 @@
       "Time": "2024-01-16T01:58:25.5924366+00:00",
       "NumProgressed": 294163,
       "NumCompleted": 1080
+    },
+    {
+      "Time": "2024-01-16T02:34:14.1149731+00:00",
+      "NumProgressed": 294173,
+      "NumCompleted": 1080
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -28440,7 +28445,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23533
+      "UsersEstimate": 23534
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -28456,7 +28461,7 @@
       "Name": "Am I Seeing This?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "Defeat_Abberations_B",
@@ -28480,7 +28485,7 @@
       "Name": "Chaos",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "Defeat_Cube",
@@ -28488,7 +28493,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 20591
+      "UsersEstimate": 20592
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -28520,7 +28525,7 @@
       "Name": "The Killing Jar",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35300
+      "UsersEstimate": 35301
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -28536,7 +28541,7 @@
       "Name": "Dark Designs",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -28544,7 +28549,7 @@
       "Name": "Not So Special Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20591
+      "UsersEstimate": 20592
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -28560,7 +28565,7 @@
       "Name": "Quest for Survival",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23533
+      "UsersEstimate": 23534
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -28592,7 +28597,7 @@
       "Name": "Familiar Face",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20591
+      "UsersEstimate": 20592
     },
     {
       "ID": "Meet_Meidra",
@@ -28624,7 +28629,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35300
+      "UsersEstimate": 35301
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -28648,7 +28653,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -28664,7 +28669,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 14708
+      "UsersEstimate": 14709
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -28672,7 +28677,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23533
+      "UsersEstimate": 23534
     },
     {
       "ID": "Obtain_Guns_A",
@@ -28744,7 +28749,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29416
+      "UsersEstimate": 29417
     },
     {
       "ID": "Obtain_Traits_B",
@@ -28816,7 +28821,7 @@
       "Name": "Trait Chaser",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20591
+      "UsersEstimate": 20592
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -28879,22 +28884,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 294163,
+      "Progressed": 294173,
       "Completed": 1080
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 73328,
-      "Completed": 693
+      "Progressed": 73338,
+      "Completed": 694
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2024-01-16T01:52:06.9504772+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:25.5924363+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:14.1149727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.7445744+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:52:06.9504777+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:25.592587+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:27:39.2081336+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:14.1151198+00:00"
 }

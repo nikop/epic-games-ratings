@@ -10,7 +10,7 @@ Rating: 4.19 (Ranked 975)
 | Battlesuit Victory | 8.00% | ~16,255 |
 | Flawless Victory | 5.00% | ~10,159 |
 | Baby Steps | 5.00% | ~10,159 |
-| First Co-Op Win | 4.00% | ~8,127 |
+| First Co-Op Win | 4.00% | ~8,128 |
 | Gated Community | 3.00% | ~6,096 |
 | Tag Team Champions | 2.00% | ~4,064 |
 | Total Destruction | 1.00% | ~2,032 |
@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 975)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~203 |
 | Many More to Come | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,187 (Ranked 84)  
+Progressed: 203,188 (Ranked 84)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-13 | 203,069 | 4 |
 | 2024-01-14 | 203,141 | 4 |
 | 2024-01-15 | 203,183 | 4 |
-| 2024-01-16 | 203,187 | 4 |
+| 2024-01-16 | 203,188 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

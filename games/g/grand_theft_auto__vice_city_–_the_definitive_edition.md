@@ -8,19 +8,19 @@ Rating: 4.53 (Ranked 567)
 | Legal Counsel | 47.00% | ~7,732 |
 | Greasy Palms | 43.00% | ~7,074 |
 | South American Connection | 27.00% | ~4,442 |
-| Life of the Party | 21.00% | ~3,454 |
+| Life of the Party | 21.00% | ~3,455 |
 | Big Heat from Little Havana | 16.00% | ~2,632 |
 | Tommy Two-Wheels | 16.00% | ~2,632 |
 | Chauffeur | 15.00% | ~2,468 |
 | Salutations My Little Friend | 12.00% | ~1,974 |
 | Iron-y | 10.00% | ~1,645 |
-| Gun for Hire | 9.00% | ~1,480 |
-| Mischief Managed | 9.00% | ~1,480 |
+| Gun for Hire | 9.00% | ~1,481 |
+| Mischief Managed | 9.00% | ~1,481 |
 | Vice City Mogul | 7.00% | ~1,152 |
 | Catch Me if You Can | 6.00% | ~987 |
 | Bloodstained Hands | 6.00% | ~987 |
-| Not my First Time | 5.00% | ~822 |
-| Grand Theft Auto | 5.00% | ~822 |
+| Not my First Time | 5.00% | ~823 |
+| Grand Theft Auto | 5.00% | ~823 |
 | Pie Guy | 4.00% | ~658 |
 | Running Rampant | 3.00% | ~494 |
 | Point A to Point B | 3.00% | ~494 |
@@ -33,14 +33,14 @@ Rating: 4.53 (Ranked 567)
 | One is Better Than Two | 2.00% | ~329 |
 | Take the Cannoli | 2.00% | ~329 |
 | Chopper’d Up | 2.00% | ~329 |
-| Born in the 80’s | 1.00% | ~164 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~164 |
-| I'm Famous! | 1.00% | ~164 |
-| Daredevil | 1.00% | ~164 |
-| Done it All | 1.00% | ~164 |
+| Born in the 80’s | 1.00% | ~165 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~165 |
+| I'm Famous! | 1.00% | ~165 |
+| Daredevil | 1.00% | ~165 |
+| Done it All | 1.00% | ~165 |
 | Kingpin | 0.60% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,450 (Ranked 171)  
+Progressed: 16,451 (Ranked 171)  
 Completed: 100 (0.61%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 100 (0.61%) (Ranked 208)
 | 2024-01-13 | 16,366 | 98 |
 | 2024-01-14 | 16,420 | 100 |
 | 2024-01-15 | 16,446 | 100 |
-| 2024-01-16 | 16,450 | 100 |
+| 2024-01-16 | 16,451 | 100 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

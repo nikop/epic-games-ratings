@@ -18,16 +18,16 @@
 | Reflections | 20.00% | ~43 |
 | Clarity | 18.00% | ~39 |
 | Health | 16.00% | ~34 |
-| Awaiting orders | 14.00% | ~30 |
+| Awaiting orders | 15.00% | ~32 |
 | Art critic | 12.00% | ~26 |
 | Jigsaw | 12.00% | ~26 |
 | Peace | 12.00% | ~26 |
-| Lost | 8.00% | ~17 |
+| Lost | 9.00% | ~19 |
 | An act of courage | 7.00% | ~15 |
 | All knowing | 7.00% | ~15 |
 | Corruption | 6.00% | ~13 |
+| An act of mercy | 4.00% | ~9 |
 | An act of compassion | 3.00% | ~6 |
-| An act of mercy | 3.00% | ~6 |
 | Ad Infinitum | 0.90% | ~2 |
 | Pain | 0.90% | ~2 |
 | Despair | 0.50% | ~1 |

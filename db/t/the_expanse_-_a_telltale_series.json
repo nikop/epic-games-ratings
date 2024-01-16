@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19057,
+  "EOS_Progressed": 19058,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 378,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17494,6 +17494,11 @@
       "Time": "2024-01-16T01:53:53.3760275+00:00",
       "NumProgressed": 19057,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T02:29:36.8901578+00:00",
+      "NumProgressed": 19058,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17610,7 +17615,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "22",
@@ -17785,13 +17790,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19057,
+      "Progressed": 19058,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5011,
+      "Progressed": 5012,
       "Completed": 1332
     }
   ],
@@ -17799,8 +17804,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:53:53.3760271+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:29:36.8901574+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:47:28.4224733+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:53:53.3761319+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:23:12.6747603+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:29:36.8902712+00:00"
 }

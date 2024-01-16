@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7657,
+  "EOS_Progressed": 7658,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 450,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -8364,6 +8364,11 @@
       "Time": "2024-01-16T01:54:19.3725133+00:00",
       "NumProgressed": 7657,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-16T02:30:05.5928587+00:00",
+      "NumProgressed": 7658,
+      "NumCompleted": 71
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -8400,7 +8405,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2450
+      "UsersEstimate": 2451
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -8424,7 +8429,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4365
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -8432,7 +8437,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6049
+      "UsersEstimate": 6050
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -8503,14 +8508,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7657,
+      "Progressed": 7658,
       "Completed": 71
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:54:19.372513+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:30:05.5928583+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.0248408+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:46:57.5861453+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:54:19.3725497+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:38.199926+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:30:05.5929122+00:00"
 }

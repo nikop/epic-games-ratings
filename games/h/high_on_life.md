@@ -8,12 +8,12 @@ Rating: 4.65 (Ranked 322)
 | Satisfied Gus-tomer | 6.00% | ~1,509 |
 | First Bounty Down | 6.00% | ~1,509 |
 | Cold-Blooded Driller | 6.00% | ~1,509 |
-| Are You Packin'? | 5.00% | ~1,257 |
-| Bring A Knife to a Gun Fight | 5.00% | ~1,257 |
-| Sweezy Like Sunday Morning | 5.00% | ~1,257 |
-| We're All Very Impressed, Trust Me | 5.00% | ~1,257 |
-| G3 Graduation | 5.00% | ~1,257 |
-| Don't Knife The Hand That Feeds | 5.00% | ~1,257 |
+| Are You Packin'? | 5.00% | ~1,258 |
+| Bring A Knife to a Gun Fight | 5.00% | ~1,258 |
+| Sweezy Like Sunday Morning | 5.00% | ~1,258 |
+| We're All Very Impressed, Trust Me | 5.00% | ~1,258 |
+| G3 Graduation | 5.00% | ~1,258 |
+| Don't Knife The Hand That Feeds | 5.00% | ~1,258 |
 | Creature Feature | 4.00% | ~1,006 |
 | RIP Davey Glutes | 4.00% | ~1,006 |
 | Hardest Battle In The Game | 4.00% | ~1,006 |
@@ -27,8 +27,8 @@ Rating: 4.65 (Ranked 322)
 | Series Wrap on Suit-O | 3.00% | ~754 |
 | Eatin' Good in the Neighborhood | 2.00% | ~503 |
 | Bathe With A Giant Nude Alien | 2.00% | ~49 |
-| Gunning For Your Job | 1.00% | ~251 |
-| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~251 |
+| Gunning For Your Job | 1.00% | ~252 |
+| We Paid For The Rights To Put A Whole Movie In Here | 1.00% | ~252 |
 | We Came, We Chainsaw, We Conquered | 1.00% | ~24 |
 | Mux Ado About Shipping | 0.90% | ~22 |
 | Fall In Love With A Parasite | 0.60% | ~15 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 322)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,149 (Ranked 148)  
+Progressed: 25,150 (Ranked 148)  
 Completed: 14 (0.06%) (Ranked 334)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 14 (0.06%) (Ranked 334)
 | 2024-01-13 | 25,133 | 14 |
 | 2024-01-14 | 25,146 | 14 |
 | 2024-01-15 | 25,148 | 14 |
-| 2024-01-16 | 25,149 | 14 |
+| 2024-01-16 | 25,150 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

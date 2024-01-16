@@ -103,7 +103,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2348,
+  "EOS_Progressed": 2349,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
@@ -4628,6 +4628,11 @@
       "Time": "2024-01-15T23:10:33.2918001+00:00",
       "NumProgressed": 2348,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T02:34:33.3115881+00:00",
+      "NumProgressed": 2349,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 36,
@@ -4895,7 +4900,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH_35",
@@ -4926,7 +4931,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2348,
+      "Progressed": 2349,
       "Completed": 3
     }
   ],
@@ -4934,8 +4939,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:43.2111206+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:33.3115879+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:48:03.1812795+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:43.21117+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:23:54.9911977+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:33.3116372+00:00"
 }

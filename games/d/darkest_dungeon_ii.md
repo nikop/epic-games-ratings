@@ -8,7 +8,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,094 |
 | Lost and Found | 9.00% | ~703 |
-| Autodidact | 8.00% | ~10,635 |
+| Autodidact | 8.00% | ~10,636 |
 | This Belongs in a Museum | 7.00% | ~9,306 |
 | Overdue Notice | 7.00% | ~9,306 |
 | This guy... again? | 7.00% | ~547 |
@@ -42,7 +42,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 4.00% | ~5,318 |
 | Ramble On | 4.00% | ~5,318 |
 | Unshackled | 4.00% | ~5,318 |
-| Friends 'Til the End | 4.00% | ~312 |
+| Friends 'Til the End | 4.00% | ~313 |
 | Wyrdly Reconstructed | 3.00% | ~3,988 |
 | Boxcar Kid | 3.00% | ~3,988 |
 | Hope Rekindled | 3.00% | ~3,988 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,943 (Ranked 92)  
+Progressed: 132,946 (Ranked 92)  
 Completed: 4 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 4 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,943 | 4 |
+| 2024-01-16 | 132,946 | 4 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,674 (Ranked 58)  

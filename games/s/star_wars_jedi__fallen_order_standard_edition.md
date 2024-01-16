@@ -5,30 +5,30 @@ Rating: 4.68 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~35,358 |
-| A Long Time Ago | 91.00% | ~32,176 |
-| Sabersmith | 78.00% | ~27,579 |
-| The Obstacle is the Way | 75.00% | ~26,518 |
-| Back At You | 70.00% | ~24,751 |
-| Happy Go Wookiee | 66.00% | ~23,336 |
-| Everything is Connected | 57.00% | ~20,154 |
-| Her Name Was Masana Tide | 52.00% | ~18,386 |
-| Bank Shot | 51.00% | ~18,033 |
-| Perfect Timing | 50.00% | ~17,679 |
-| Gorgara Falls | 48.00% | ~16,972 |
-| The Full Glow-Up | 48.00% | ~16,972 |
-| For A More Civilized Age | 46.00% | ~16,265 |
-| I Knew He Was No Good | 45.00% | ~15,911 |
+| The Mantis | 100.00% | ~35,360 |
+| A Long Time Ago | 91.00% | ~32,178 |
+| Sabersmith | 78.00% | ~27,581 |
+| The Obstacle is the Way | 75.00% | ~26,520 |
+| Back At You | 70.00% | ~24,752 |
+| Happy Go Wookiee | 66.00% | ~23,338 |
+| Everything is Connected | 57.00% | ~20,155 |
+| Her Name Was Masana Tide | 52.00% | ~18,387 |
+| Bank Shot | 51.00% | ~18,034 |
+| Perfect Timing | 50.00% | ~17,680 |
+| Gorgara Falls | 48.00% | ~16,973 |
+| The Full Glow-Up | 48.00% | ~16,973 |
+| For A More Civilized Age | 46.00% | ~16,266 |
+| I Knew He Was No Good | 45.00% | ~15,912 |
 | The Holocron Awaits | 44.00% | ~15,558 |
-| Trust Only In The Force | 42.00% | ~14,850 |
-| Look Out Below | 41.00% | ~14,497 |
-| Scum and Villainy | 41.00% | ~14,497 |
+| Trust Only In The Force | 42.00% | ~14,851 |
+| Look Out Below | 41.00% | ~14,498 |
+| Scum and Villainy | 41.00% | ~14,498 |
 | Don't Mess with BD-1 | 39.00% | ~13,790 |
-| Blade Master | 36.00% | ~12,729 |
+| Blade Master | 36.00% | ~12,730 |
 | Full House | 34.00% | ~12,022 |
 | Legendary Beasts | 20.00% | ~7,072 |
 | Echo Location | 19.00% | ~6,718 |
-| Visiting Alderaan Places | 16.00% | ~5,657 |
+| Visiting Alderaan Places | 16.00% | ~5,658 |
 | Triple Take | 13.00% | ~4,597 |
 | Cal Got Your Tongue? | 12.00% | ~4,243 |
 | Big Bang | 10.00% | ~3,536 |
@@ -36,7 +36,7 @@ Rating: 4.68 (Ranked 261)
 | Can't Touch This | 8.00% | ~2,829 |
 | Medical Droid | 7.00% | ~2,475 |
 | Data Collector | 7.00% | ~2,475 |
-| Data Disk | 6.00% | ~2,121 |
+| Data Disk | 6.00% | ~2,122 |
 | Collector | 5.00% | ~1,768 |
 | Green Thumb | 4.00% | ~1,414 |
 | Kickoff | 3.00% | ~1,061 |
@@ -45,7 +45,7 @@ Rating: 4.68 (Ranked 261)
 | What Goes Around... | 2.00% | ~707 |
 | Not So Fast | 1.00% | ~354 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,358 (Ranked 137)  
+Progressed: 35,360 (Ranked 137)  
 Completed: 341 (0.96%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 341 (0.96%) (Ranked 181)
 | 2024-01-13 | 34,805 | 334 |
 | 2024-01-14 | 35,127 | 338 |
 | 2024-01-15 | 35,343 | 341 |
-| 2024-01-16 | 35,358 | 341 |
+| 2024-01-16 | 35,360 | 341 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

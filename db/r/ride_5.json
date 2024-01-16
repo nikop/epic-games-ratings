@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3611,
+  "EOS_Progressed": 3612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8930,6 +8930,11 @@
       "Time": "2024-01-16T01:55:08.0997697+00:00",
       "NumProgressed": 3611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T02:32:27.3259052+00:00",
+      "NumProgressed": 3612,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8942,7 +8947,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -8956,9 +8961,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "c7hf6a4",
       "Name": "Go-Faster Stripes",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 614
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -8998,7 +9003,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9230,7 +9235,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9246,7 +9251,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9294,7 +9299,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9333,7 +9338,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3611,
+      "Progressed": 3612,
       "Completed": 0
     }
   ],
@@ -9341,8 +9346,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:55:08.0997694+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:32:27.3259047+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:45:54.7066963+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:55:08.0998346+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:21:28.7384136+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:32:27.3259813+00:00"
 }

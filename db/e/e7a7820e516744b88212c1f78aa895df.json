@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 370,
+  "EOS_Progressed": 371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1535,6 +1535,11 @@
       "Time": "2024-01-15T23:10:17.4721421+00:00",
       "NumProgressed": 370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T02:34:17.2949886+00:00",
+      "NumProgressed": 371,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1635,7 +1640,7 @@
       "Name": "Schmoozer",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achSponsor20",
@@ -1651,7 +1656,7 @@
       "Name": "In the Good Books",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achSponsorMain1",
@@ -1770,14 +1775,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 370,
+      "Progressed": 371,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:28.4535326+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:17.2949882+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:23.5284761+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:47:59.9638472+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:28.4535553+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:23:51.4366662+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:17.2950137+00:00"
 }

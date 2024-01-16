@@ -10914,9 +10914,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 132943,
+  "EOS_Progressed": 132946,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40059,6 +40059,11 @@
       "Time": "2024-01-16T01:58:35.7133688+00:00",
       "NumProgressed": 132943,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T02:34:25.4044284+00:00",
+      "NumProgressed": 132946,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 79,
@@ -40422,7 +40427,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10635
+      "UsersEstimate": 10636
     },
     {
       "ID": "hero_story_complete_all",
@@ -40678,7 +40683,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40701,21 +40706,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132943,
+      "Progressed": 132946,
       "Completed": 4
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7812,
+      "Progressed": 7815,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-16T01:47:11.8252941+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:35.7133685+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:25.4044281+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:47:11.8252948+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:35.7135451+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:54.0069163+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:25.4046043+00:00"
 }

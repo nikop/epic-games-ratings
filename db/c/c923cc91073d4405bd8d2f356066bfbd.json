@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:57:08.5361336+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:32:48.630273+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:51:31.7604284+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:57:08.5361937+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:27:00.2425544+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:32:48.6303642+00:00"
 }

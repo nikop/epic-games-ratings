@@ -89,12 +89,12 @@
 | Paramour II | 15.00% | ~659 |
 | Party Crasher | 15.00% | ~659 |
 | Fact Finder | 15.00% | ~659 |
+| Problem Solver | 15.00% | ~659 |
 | Under Pressure | 14.00% | ~615 |
 | Last Resort | 14.00% | ~615 |
 | Hard Target | 14.00% | ~615 |
 | Saboteur | 14.00% | ~615 |
 | Last Witness | 14.00% | ~615 |
-| Problem Solver | 14.00% | ~615 |
 | Pyromaniac | 13.00% | ~571 |
 | No One Left Behind | 13.00% | ~571 |
 | Well Connected | 13.00% | ~571 |

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 407,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -1682,17 +1682,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1753,8 +1753,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:52:49.5842486+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:28:27.5273463+00:00",
   "LastUpdate_AppInfo": "2024-01-14T05:57:06.5888113+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:49:07.6384816+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:52:49.584271+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:26:46.5684692+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:28:27.5273644+00:00"
 }

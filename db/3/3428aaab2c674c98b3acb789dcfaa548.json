@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -10511,9 +10511,9 @@
       "Count": 1645
     }
   ],
-  "EOS_Progressed": 890198,
+  "EOS_Progressed": 890211,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 5040,
+  "EOS_NewPlayers": 5027,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -38266,6 +38266,11 @@
       "Time": "2024-01-16T01:58:08.5793277+00:00",
       "NumProgressed": 890198,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2024-01-16T02:33:55.2625168+00:00",
+      "NumProgressed": 890211,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 75,
@@ -38277,7 +38282,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 249255
+      "UsersEstimate": 249259
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -38357,7 +38362,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53412
+      "UsersEstimate": 53413
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -38373,7 +38378,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 53412
+      "UsersEstimate": 53413
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -38501,7 +38506,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -38573,7 +38578,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53412
+      "UsersEstimate": 53413
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -38597,7 +38602,7 @@
       "Name": "No Tumbler Fumbler",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     },
     {
       "ID": "ACHIEVEMENT_OLD_TYME_BRAWLER",
@@ -38613,7 +38618,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53412
+      "UsersEstimate": 53413
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -38685,7 +38690,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -38749,7 +38754,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 62314
+      "UsersEstimate": 62315
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -38797,7 +38802,7 @@
       "Name": "Up and Comer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     },
     {
       "ID": "ACHIEVEMENT_UP_TO_THE_CHALLENGE",
@@ -38829,7 +38834,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -38869,20 +38874,20 @@
       "Name": "You Run Barter Town",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     }
   ],
   "AchievementSets": [
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 890198,
+      "Progressed": 890211,
       "Completed": 295
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 890198,
+      "Progressed": 890211,
       "Completed": 249
     }
   ],
@@ -38890,8 +38895,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2024-01-16T01:47:15.8697219+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:08.5793275+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:33:55.2625165+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:36.8702466+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:47:15.869723+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:08.5795238+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:58.3184692+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:33:55.262716+00:00"
 }

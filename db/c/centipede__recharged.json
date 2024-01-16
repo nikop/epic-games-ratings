@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25265,
+  "EOS_Progressed": 25266,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
@@ -23265,6 +23265,11 @@
       "Time": "2024-01-16T01:54:01.9138552+00:00",
       "NumProgressed": 25265,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-16T02:29:46.4090248+00:00",
+      "NumProgressed": 25266,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 16,
@@ -23300,7 +23305,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 2526
+      "UsersEstimate": 2527
     },
     {
       "ID": "Eyes_On_Fire",
@@ -23388,7 +23393,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4042
+      "UsersEstimate": 4043
     },
     {
       "ID": "The_Reaper",
@@ -23403,15 +23408,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25265,
+      "Progressed": 25266,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:54:01.9138548+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:29:46.4090243+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.5508236+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:45:54.667398+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:54:01.9139695+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:21:28.6001532+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:29:46.4091634+00:00"
 }

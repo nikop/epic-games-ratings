@@ -141,9 +141,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83668,
+  "EOS_Progressed": 83669,
   "EOS_Completed": 939,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -30346,6 +30346,11 @@
       "Time": "2024-01-16T01:54:59.9825247+00:00",
       "NumProgressed": 83668,
       "NumCompleted": 939
+    },
+    {
+      "Time": "2024-01-16T02:30:48.9477327+00:00",
+      "NumProgressed": 83669,
+      "NumCompleted": 939
     }
   ],
   "TotalAchievements": 25,
@@ -30501,7 +30506,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9203
+      "UsersEstimate": 9204
     },
     {
       "ID": "Right On Target",
@@ -30549,14 +30554,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6693
+      "UsersEstimate": 6694
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83668,
+      "Progressed": 83669,
       "Completed": 939
     }
   ],
@@ -30564,8 +30569,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-04T04:02:50.3920545+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:54:59.9825243+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:30:48.9477322+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:47:09.2864804+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:54:59.9826828+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:50.9538961+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:30:48.9478929+00:00"
 }

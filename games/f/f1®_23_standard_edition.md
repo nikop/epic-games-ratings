@@ -5,23 +5,23 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,612 |
+| Getting on the Step | 91.00% | ~16,613 |
 | On the Top Step | 83.00% | ~15,152 |
-| Setting up for Success | 69.00% | ~12,596 |
-| Team Orders | 68.00% | ~12,413 |
+| Setting up for Success | 69.00% | ~12,597 |
+| Team Orders | 68.00% | ~12,414 |
 | Engineer | 45.00% | ~8,215 |
 | Familiar Faces | 41.00% | ~7,485 |
-| Going the Extra Mile | 35.00% | ~6,389 |
+| Going the Extra Mile | 35.00% | ~6,390 |
 | Sharing the Love | 33.00% | ~6,024 |
 | Hitting a Season | 27.00% | ~4,929 |
 | Making History | 25.00% | ~4,564 |
 | A Dozen Pieces | 24.00% | ~4,381 |
 | Network Success | 23.00% | ~4,199 |
 | Challenge Yourself | 23.00% | ~4,199 |
-| Writing a new Chapter | 19.00% | ~3,468 |
+| Writing a new Chapter | 19.00% | ~3,469 |
 | Spring Cleaning | 18.00% | ~3,286 |
-| Reduce | 15.00% | ~2,738 |
 | Ups and Downs | 15.00% | ~2,738 |
+| Reduce | 14.00% | ~2,556 |
 | Crucial Combo | 13.00% | ~2,373 |
 | Proving Them Wrong | 13.00% | ~2,373 |
 | Reuse | 12.00% | ~2,191 |
@@ -43,8 +43,8 @@ Rating: 4.64 (Ranked 343)
 | Smooth Operator | 4.00% | ~730 |
 | Peak Performance | 4.00% | ~730 |
 | Seasoned Rookie | 3.00% | ~548 |
+| Loyal Bond | 3.00% | ~548 |
 | Hitting a Century | 2.00% | ~365 |
-| Loyal Bond | 2.00% | ~365 |
 | Wait, I know you? | 2.00% | ~365 |
 | Filling in the Gaps | 1.00% | ~183 |
 | Media Darling | 1.00% | ~183 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 343)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,255 (Ranked 163)  
+Progressed: 18,256 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 18,071 | 0 |
 | 2024-01-14 | 18,178 | 0 |
 | 2024-01-15 | 18,246 | 0 |
-| 2024-01-16 | 18,255 | 0 |
+| 2024-01-16 | 18,256 | 0 |
 ## Awards
 Max (Diverse Characters): 67  (Ranked 423)  
 Sum: 444 (Ranked 348)  

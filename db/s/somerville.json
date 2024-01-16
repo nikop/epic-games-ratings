@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1697,
+  "EOS_Progressed": 1698,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
@@ -923,6 +923,11 @@
       "Time": "2024-01-14T20:09:56.635801+00:00",
       "NumProgressed": 1697,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-16T02:33:58.0795659+00:00",
+      "NumProgressed": 1698,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 11,
@@ -1012,16 +1017,16 @@
       "ID": "SomervilleWorldsBestDad",
       "SetID": "3mk3nll",
       "Name": "Worlds best dad",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1697,
+      "Progressed": 1698,
       "Completed": 33
     }
   ],
@@ -1029,8 +1034,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-10-28T10:01:15.5603382+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:11.2478193+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:33:58.0795655+00:00",
   "LastUpdate_AppInfo": "2024-01-13T23:57:00.6830853+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:46:37.6412233+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:11.2478323+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:22:16.9540049+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:33:58.0795788+00:00"
 }

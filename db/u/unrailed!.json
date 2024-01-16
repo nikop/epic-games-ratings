@@ -3029,9 +3029,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 681018,
+  "EOS_Progressed": 681021,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 1762,
+  "EOS_NewPlayers": 1758,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34149,6 +34149,11 @@
       "Time": "2024-01-16T01:58:44.8422874+00:00",
       "NumProgressed": 681018,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-16T02:34:35.3904376+00:00",
+      "NumProgressed": 681021,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -34168,7 +34173,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81722
+      "UsersEstimate": 81723
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -34200,7 +34205,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129393
+      "UsersEstimate": 129394
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -34408,7 +34413,7 @@
       "Name": "Incurious",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122583
+      "UsersEstimate": 122584
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -34480,7 +34485,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115773
+      "UsersEstimate": 115774
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -34575,15 +34580,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 681018,
+      "Progressed": 681021,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-15T16:03:34.1603883+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:44.8422872+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:35.3904372+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:18.3022187+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:51:35.9966081+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:44.8424369+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:27:05.584943+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:35.3906246+00:00"
 }

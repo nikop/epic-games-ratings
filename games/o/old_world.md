@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~844 |
-| Play a Single Player Game | 5.00% | ~844 |
+| Settler | 5.00% | ~845 |
+| Play a Single Player Game | 5.00% | ~845 |
 | Explorer | 4.00% | ~676 |
 | Friendly Family | 4.00% | ~676 |
 | Able | 3.00% | ~507 |
@@ -77,13 +77,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 0.90% | ~152 |
 | Mighty | 0.90% | ~152 |
 | Good Difficulty | 0.90% | ~152 |
+| Patrons | 0.90% | ~152 |
 | Statesmen | 0.90% | ~152 |
 | Temple of Solomon | 0.90% | ~152 |
 | Greece | 0.90% | ~152 |
 | Power to the People | 0.90% | ~152 |
 | Win a Single Player Game | 0.90% | ~152 |
 | Landowners | 0.80% | ~135 |
-| Patrons | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
 | Hittite Iron | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,888 (Ranked 169)  
+Progressed: 16,892 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,888 | 5 |
+| 2024-01-16 | 16,892 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

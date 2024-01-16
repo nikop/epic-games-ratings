@@ -58,8 +58,8 @@ Number of Ratings: 9,133  (23.09.2022)
 | Mercenary's Honour | 0.70% | ~5,724 |
 | Saviour | 0.70% | ~5,724 |
 | Edward Kelly | 0.60% | ~4,906 |
-| I Can Quit Anytime | 0.50% | ~4,088 |
-| Perfectionist | 0.50% | ~4,088 |
+| I Can Quit Anytime | 0.50% | ~4,089 |
+| Perfectionist | 0.50% | ~4,089 |
 | Alcoholic | 0.30% | ~2,453 |
 | Sniper | 0.30% | ~2,453 |
 | Angel of Mercy | 0.20% | ~1,635 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~818 |
 | Wingman | 0.10% | ~818 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,699 (Ranked 21)  
+Progressed: 817,701 (Ranked 21)  
 Completed: 53 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 53 (0.01%) (Ranked 377)
 | 2024-01-13 | 817,324 | 53 |
 | 2024-01-14 | 817,535 | 53 |
 | 2024-01-15 | 817,694 | 53 |
-| 2024-01-16 | 817,699 | 53 |
+| 2024-01-16 | 817,701 | 53 |
 ## Awards
 Max (Character Customization): 7,780  (Ranked 53)  
 Sum: 28,850 (Ranked 50)  

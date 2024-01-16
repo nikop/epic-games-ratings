@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17233,
+  "EOS_Progressed": 17236,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 936,
+  "EOS_NewPlayers": 939,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12358,6 +12358,11 @@
       "Time": "2024-01-16T01:54:07.7329779+00:00",
       "NumProgressed": 17233,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T02:29:53.2629562+00:00",
+      "NumProgressed": 17236,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12369,7 +12374,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9480
     },
     {
       "ID": "Ach002",
@@ -12377,7 +12382,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6204
+      "UsersEstimate": 6205
     },
     {
       "ID": "Ach003",
@@ -12409,7 +12414,7 @@
       "Name": "Time to pay up!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "Ach007",
@@ -12481,7 +12486,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6032
+      "UsersEstimate": 6033
     },
     {
       "ID": "Ach016",
@@ -12497,7 +12502,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4136
+      "UsersEstimate": 4137
     },
     {
       "ID": "Ach018",
@@ -12545,7 +12550,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9478
+      "UsersEstimate": 9480
     },
     {
       "ID": "Ach024",
@@ -12553,7 +12558,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "Ach025",
@@ -12561,7 +12566,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5342
+      "UsersEstimate": 5343
     },
     {
       "ID": "Ach026",
@@ -12577,7 +12582,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "Ach028",
@@ -12625,7 +12630,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "Ach034",
@@ -12633,7 +12638,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "Ach035",
@@ -12697,7 +12702,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "Ach043",
@@ -12737,7 +12742,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "Ach048",
@@ -12745,7 +12750,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "Ach049",
@@ -12769,7 +12774,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8616
+      "UsersEstimate": 8618
     },
     {
       "ID": "Ach052",
@@ -12936,13 +12941,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17233,
+      "Progressed": 17236,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15754,
+      "Progressed": 15757,
       "Completed": 1931
     }
   ],
@@ -12950,8 +12955,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:54:07.7329776+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:29:53.2629559+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:48:31.1896832+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:54:07.7331024+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:24:27.3674818+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:29:53.2630789+00:00"
 }

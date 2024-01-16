@@ -27,7 +27,7 @@ Rating: 4.73 (Ranked 182)
 | “… like son” | 54.00% | ~416 |
 | YOU SHALL NOT PASS! | 51.00% | ~393 |
 | The Cathedral of Light | 50.00% | ~386 |
-| Shame! Shame! Shame! | 49.00% | ~378 |
+| Shame! Shame! Shame! | 50.00% | ~386 |
 | Tanos' Crusade Against Thalya | 48.00% | ~370 |
 | Dungeonlord Gorgu | 47.00% | ~362 |
 | Pure Dynamite! | 46.00% | ~355 |

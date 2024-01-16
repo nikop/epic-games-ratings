@@ -635,9 +635,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 111014,
+  "EOS_Progressed": 111015,
   "EOS_Completed": 1133,
-  "EOS_NewPlayers": 1081,
+  "EOS_NewPlayers": 1080,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -31770,6 +31770,11 @@
       "Time": "2024-01-16T01:58:43.6865117+00:00",
       "NumProgressed": 111014,
       "NumCompleted": 1133
+    },
+    {
+      "Time": "2024-01-16T02:34:33.8839483+00:00",
+      "NumProgressed": 111015,
+      "NumCompleted": 1133
     }
   ],
   "TotalAchievements": 56,
@@ -31781,7 +31786,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 35524
+      "UsersEstimate": 35525
     },
     {
       "ID": "ach_001_game_complete",
@@ -31821,7 +31826,7 @@
       "Name": "The Machinist Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "ach_006_beetle_mask",
@@ -31877,7 +31882,7 @@
       "Name": "The Cartographer Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "ach_013_collect_masks",
@@ -31909,7 +31914,7 @@
       "Name": "The Dunboyne",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 18872
+      "UsersEstimate": 18873
     },
     {
       "ID": "ach_017_door_trellicks_pillar",
@@ -31949,7 +31954,7 @@
       "Name": "Balfron Connection",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "ach_022_reveal_any_monument",
@@ -31981,7 +31986,7 @@
       "Name": "Ceiling Of Stars",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "ach_026_fix_wind_tower",
@@ -32037,7 +32042,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26643
+      "UsersEstimate": 26644
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -32077,7 +32082,7 @@
       "Name": "Badge Hobbyist",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 18872
+      "UsersEstimate": 18873
     },
     {
       "ID": "ach_038_collect_badges_2",
@@ -32109,7 +32114,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26643
+      "UsersEstimate": 26644
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -32189,7 +32194,7 @@
       "Name": "Playing Dress Up",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "ach_052_spend_cuts_1",
@@ -32228,15 +32233,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 111014,
+      "Progressed": 111015,
       "Completed": 1133
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-14T22:59:00.5442398+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:58:43.6865114+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:34:33.8839479+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.3687916+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:48:02.8129623+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:58:43.6866625+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:23:54.5403525+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:34:33.8841127+00:00"
 }

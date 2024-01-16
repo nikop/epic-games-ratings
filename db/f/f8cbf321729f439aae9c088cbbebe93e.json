@@ -372,9 +372,9 @@
       "ID": "_01",
       "SetID": "670ak8f",
       "Name": "Let there be light",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_02",
@@ -404,17 +404,17 @@
       "ID": "_05",
       "SetID": "670ak8f",
       "Name": "Lazy bones",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "_07",
@@ -459,8 +459,8 @@
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-01-16T01:57:45.6279808+00:00",
+  "LastChanged_Achievements": "2024-01-16T02:33:29.5706403+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:56.5614774+00:00",
-  "LastUpdate_Ratings": "2024-01-16T01:48:40.8378824+00:00",
-  "LastUpdate_Achievements": "2024-01-16T01:57:45.6279903+00:00"
+  "LastUpdate_Ratings": "2024-01-16T02:24:37.1734341+00:00",
+  "LastUpdate_Achievements": "2024-01-16T02:33:29.5706515+00:00"
 }
