@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 118472,
+  "EOS_Progressed": 118479,
   "EOS_Completed": 270,
-  "EOS_NewPlayers": 11977,
+  "EOS_NewPlayers": 11965,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -13858,6 +13858,11 @@
       "Time": "2024-01-15T23:10:01.4725525+00:00",
       "NumProgressed": 118472,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2024-01-16T00:09:48.9957501+00:00",
+      "NumProgressed": 118479,
+      "NumCompleted": 270
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -13870,7 +13875,7 @@
       "Name": "It Took Two",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 36726
+      "UsersEstimate": 36728
     },
     {
       "ID": "achievement_10",
@@ -13878,7 +13883,7 @@
       "Name": "Snackosaurus",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7108
+      "UsersEstimate": 7109
     },
     {
       "ID": "achievement_11",
@@ -13894,7 +13899,7 @@
       "Name": "On Rails Experience",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 53312
+      "UsersEstimate": 53316
     },
     {
       "ID": "achievement_13",
@@ -13902,7 +13907,7 @@
       "Name": "Platforming Prodigy",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7108
+      "UsersEstimate": 7109
     },
     {
       "ID": "achievement_14",
@@ -13918,7 +13923,7 @@
       "Name": "Lost And Found",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7108
+      "UsersEstimate": 7109
     },
     {
       "ID": "achievement_16",
@@ -13934,7 +13939,7 @@
       "Name": "Something Fishy",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8293
+      "UsersEstimate": 8294
     },
     {
       "ID": "achievement_18",
@@ -13942,7 +13947,7 @@
       "Name": "Terror Of The Seven Seas",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 11847
+      "UsersEstimate": 11848
     },
     {
       "ID": "achievement_19",
@@ -13950,7 +13955,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 16586
+      "UsersEstimate": 16587
     },
     {
       "ID": "achievement_2",
@@ -13958,7 +13963,7 @@
       "Name": "Minigame Megalomania",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "achievement_20",
@@ -13974,7 +13979,7 @@
       "Name": "Fried Friendship",
       "Percentage": 83,
       "XP": 50,
-      "UsersEstimate": 98332
+      "UsersEstimate": 98338
     },
     {
       "ID": "achievement_4",
@@ -13982,7 +13987,7 @@
       "Name": "Struck A Pose",
       "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 97147
+      "UsersEstimate": 97153
     },
     {
       "ID": "achievement_5",
@@ -13990,7 +13995,7 @@
       "Name": "Plastic Prison Breakers",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 15401
+      "UsersEstimate": 15402
     },
     {
       "ID": "achievement_6",
@@ -14006,7 +14011,7 @@
       "Name": "Look At Him Go",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 81746
+      "UsersEstimate": 81751
     },
     {
       "ID": "achievement_8",
@@ -14014,7 +14019,7 @@
       "Name": "Break the Bank",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 39096
+      "UsersEstimate": 39098
     },
     {
       "ID": "achievement_9",
@@ -14022,20 +14027,20 @@
       "Name": "A Daring Devil",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 52128
+      "UsersEstimate": 52131
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 118472,
+      "Progressed": 118479,
       "Completed": 270
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:10:01.4725522+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:09:48.9957496+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.9468507+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:00:20.1586022+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:10:01.4726348+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:00:14.024265+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:09:48.9958281+00:00"
 }

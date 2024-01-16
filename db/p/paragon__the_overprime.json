@@ -5,9 +5,9 @@
   "Ranking_Rating": 928,
   "Ranking_Popularity": 170,
   "Ranking_PopularitySum": 133,
-  "Ranking_EOS_Progress": 834,
+  "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -8743,10 +8743,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 6718,
       "NumberOfAwardsMax": 934
+    },
+    {
+      "Time": "2024-01-15T23:59:17.4014833+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 6724,
+      "NumberOfAwardsMax": 934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6718,
+  "NumberOfAwards": 6724,
   "NumberOfAwardsMax": 934,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8760,7 +8766,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 750
+      "Count": 751
     },
     {
       "Text": "This game has Competitive Players",
@@ -8790,7 +8796,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 744
+      "Count": 746
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8820,7 +8826,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 705
+      "Count": 708
     },
     {
       "Text": "This game has Unique Visuals",
@@ -8841,8 +8847,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-01-15T21:59:15.3804143+00:00",
+  "LastChanged": "2024-01-15T23:59:17.4014828+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.6935138+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:59:21.7906638+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:09:43.5478983+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:59:17.4014837+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:09:31.3860035+00:00"
 }

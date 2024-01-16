@@ -491,9 +491,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 345977,
+  "EOS_Progressed": 345991,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2919,
+  "EOS_NewPlayers": 2923,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13516,6 +13516,11 @@
       "Time": "2024-01-15T23:09:23.1425917+00:00",
       "NumProgressed": 345977,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T00:09:11.3846705+00:00",
+      "NumProgressed": 345991,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13528,7 +13533,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17299
+      "UsersEstimate": 17300
     },
     {
       "ID": "S02_BRDA",
@@ -13536,7 +13541,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13839
+      "UsersEstimate": 13840
     },
     {
       "ID": "S03_OTWA",
@@ -13664,7 +13669,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17299
+      "UsersEstimate": 17300
     },
     {
       "ID": "S19_CHALLENGES",
@@ -13847,7 +13852,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 345977,
+      "Progressed": 345991,
       "Completed": 7
     }
   ],
@@ -13855,8 +13860,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-15T05:59:05.9889997+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:09:23.1425915+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:09:11.3846701+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:59:38.8996476+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:09:23.1426684+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:59:34.4342788+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:09:11.384776+00:00"
 }

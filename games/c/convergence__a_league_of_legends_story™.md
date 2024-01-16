@@ -5,9 +5,9 @@ Rating: 4.68 (Ranked 261)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~625 |
+| Time Heals All Wounds | 47.00% | ~626 |
 | Rail Rat | 36.00% | ~479 |
-| The Mysterious Stranger | 35.00% | ~465 |
+| The Mysterious Stranger | 35.00% | ~466 |
 | Immaculate Aim | 30.00% | ~399 |
 | The Brass Boss | 29.00% | ~386 |
 | Time Flies | 27.00% | ~359 |
@@ -18,7 +18,7 @@ Rating: 4.68 (Ranked 261)
 | The Harder They Fall | 26.00% | ~346 |
 | Fast Learner | 26.00% | ~346 |
 | Immaculate Aim | 26.00% | ~346 |
-| The Steel Shadow | 25.00% | ~332 |
+| The Steel Shadow | 25.00% | ~333 |
 | Breaking Down Barriers | 24.00% | ~319 |
 | Right On Time | 23.00% | ~306 |
 | The Wicked Twins | 23.00% | ~306 |
@@ -28,8 +28,8 @@ Rating: 4.68 (Ranked 261)
 | The Loose Cannon | 20.00% | ~266 |
 | Check Your Pulse | 20.00% | ~266 |
 | Street Style | 19.00% | ~253 |
-| The Man Who Shattered Time | 18.00% | ~239 |
-| The Family Fortune | 18.00% | ~239 |
+| The Man Who Shattered Time | 18.00% | ~240 |
+| The Family Fortune | 18.00% | ~240 |
 | Good Neighbor | 16.00% | ~213 |
 | Whiz Kid | 15.00% | ~200 |
 | Family Memories | 14.00% | ~186 |
@@ -40,16 +40,16 @@ Rating: 4.68 (Ranked 261)
 | Cartographer | 12.00% | ~160 |
 | Sump Explorer | 12.00% | ~160 |
 | Factorywood Explorer | 11.00% | ~146 |
+| Theater Explorer | 11.00% | ~146 |
 | Cultivair Explorer | 10.00% | ~133 |
 | Fairgrounds Explorer | 10.00% | ~133 |
-| Theater Explorer | 10.00% | ~133 |
 | Entresol Explorer | 9.00% | ~120 |
 | Corin Goes Home | 8.00% | ~106 |
 | Sartorialist | 8.00% | ~106 |
 | Golem Hunter | 7.00% | ~93 |
 | Clovemary for Remembering | 6.00% | ~80 |
 | Hexlock for Protection | 6.00% | ~80 |
-| Rungs Was Right | 5.00% | ~66 |
+| Rungs Was Right | 5.00% | ~67 |
 | Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~27 |
 | Fitting In | 2.00% | ~27 |
@@ -59,7 +59,7 @@ Rating: 4.68 (Ranked 261)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,330 (Ranked 281)  
+Progressed: 1,331 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 8 (0.60%) (Ranked 211)
 | 2024-01-13 | 1,319 | 8 |
 | 2024-01-14 | 1,326 | 8 |
 | 2024-01-15 | 1,330 | 8 |
+| 2024-01-16 | 1,331 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

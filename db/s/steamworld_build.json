@@ -4,7 +4,7 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1306,9 +1306,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "UpUpAndAway",
@@ -1345,8 +1345,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:06:39.215353+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:06:29.1284861+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.8775637+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:03:32.4627798+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:06:39.2153799+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:03:22.0613398+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:06:29.1285102+00:00"
 }

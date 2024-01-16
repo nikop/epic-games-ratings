@@ -10782,9 +10782,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95467,
+  "EOS_Progressed": 95469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3270,
+  "EOS_NewPlayers": 3253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39777,6 +39777,11 @@
       "Time": "2024-01-15T23:10:36.731704+00:00",
       "NumProgressed": 95467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T00:10:25.0964988+00:00",
+      "NumProgressed": 95469,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -39796,7 +39801,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16229
+      "UsersEstimate": 16230
     },
     {
       "ID": "Bannerlord",
@@ -39804,7 +39809,7 @@
       "Name": "Bannerlord",
       "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 22912
+      "UsersEstimate": 22913
     },
     {
       "ID": "Best served cold",
@@ -40020,7 +40025,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41051
+      "UsersEstimate": 41052
     },
     {
       "ID": "Lawmaker",
@@ -40028,7 +40033,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 22912
+      "UsersEstimate": 22913
     },
     {
       "ID": "Long live the Empire",
@@ -40132,7 +40137,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10501
+      "UsersEstimate": 10502
     },
     {
       "ID": "The king is pleased",
@@ -40164,7 +40169,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28640
+      "UsersEstimate": 28641
     },
     {
       "ID": "Undercover",
@@ -40195,15 +40200,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95467,
+      "Progressed": 95469,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-15T22:58:31.3014411+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:10:36.7317038+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:10:25.0964984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:58:31.3014416+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:10:36.7318499+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:58:29.5215417+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:10:25.0966506+00:00"
 }

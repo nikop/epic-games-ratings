@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3463,
+  "EOS_Progressed": 3465,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5646,6 +5646,11 @@
       "Time": "2024-01-15T22:09:58.9765035+00:00",
       "NumProgressed": 3463,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T00:10:18.0869831+00:00",
+      "NumProgressed": 3465,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5658,7 +5663,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3084
     },
     {
       "ID": "achievement_10",
@@ -5682,7 +5687,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "achievement_13",
@@ -5706,7 +5711,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_16",
@@ -5714,7 +5719,7 @@
       "Name": "Recruit",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "achievement_17",
@@ -5746,7 +5751,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2807
     },
     {
       "ID": "achievement_20",
@@ -5802,15 +5807,15 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2426
     },
     {
       "ID": "achievement_36",
       "SetID": "18al4io",
       "Name": "Armsman",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_37",
@@ -5834,7 +5839,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "achievement_41",
@@ -5882,7 +5887,7 @@
       "Name": "Periapt Viridian",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_48",
@@ -5890,7 +5895,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2599
     },
     {
       "ID": "achievement_49",
@@ -5898,7 +5903,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_5",
@@ -5906,7 +5911,7 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "achievement_50",
@@ -5946,7 +5951,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_6",
@@ -5954,7 +5959,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "achievement_60",
@@ -6010,7 +6015,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "achievement_8",
@@ -6026,14 +6031,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3463,
+      "Progressed": 3465,
       "Completed": 5
     }
   ],
@@ -6041,8 +6046,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-15T10:57:33.8717079+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:10:29.2653046+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:10:18.0869828+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:57:37.7356806+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:10:29.2653587+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:57:35.8715125+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:10:18.0870364+00:00"
 }

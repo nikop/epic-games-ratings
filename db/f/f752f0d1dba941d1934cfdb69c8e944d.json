@@ -2,9 +2,9 @@
   "ID": "f752f0d1dba941d1934cfdb69c8e944d",
   "Name": "Star Vortex",
   "ProductSlug": "star-vortex-a093bc",
-  "Ranking_EOS_Progress": 834,
+  "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-11T01:46:04.4454601+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:59:06.1862622+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:04:58.8921023+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:59:02.7624483+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:04:49.7954353+00:00"
 }

@@ -1,17 +1,17 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,514 |
-| Student | 22.00% | ~14,803 |
-| Knower | 16.00% | ~10,766 |
-| Listener | 15.00% | ~10,093 |
-| Aspen Tree | 14.00% | ~9,420 |
-| Healer | 14.00% | ~9,420 |
+| Initiation | 29.00% | ~19,515 |
+| Student | 22.00% | ~14,804 |
+| Knower | 16.00% | ~10,767 |
+| Listener | 15.00% | ~10,094 |
+| Aspen Tree | 14.00% | ~9,421 |
+| Healer | 14.00% | ~9,421 |
 | Scientist | 12.00% | ~8,075 |
 | Soldier | 12.00% | ~8,075 |
 | Cow Level | 11.00% | ~7,402 |
@@ -26,23 +26,23 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,383 |
 | Dead Friend | 8.00% | ~5,383 |
 | Pine Tree | 8.00% | ~5,383 |
-| Worthy | 7.00% | ~4,710 |
-| Black Book | 7.00% | ~4,710 |
-| Black Sorcerer | 7.00% | ~4,710 |
-| Dead Man | 7.00% | ~4,710 |
-| Fern | 7.00% | ~4,710 |
-| 100 Friends | 7.00% | ~4,710 |
-| Researcher | 7.00% | ~4,710 |
-| Savvy | 7.00% | ~4,710 |
-| Encyclopedist | 6.00% | ~4,037 |
-| Witch | 6.00% | ~4,037 |
-| Vorsa | 6.00% | ~4,037 |
-| Old Spirits | 6.00% | ~4,037 |
-| Sinner | 6.00% | ~4,037 |
-| Folklorist | 6.00% | ~4,037 |
-| Keeper of Knowledge | 6.00% | ~4,037 |
-| Susanin | 5.00% | ~3,364 |
-| Traveller | 5.00% | ~3,364 |
+| Worthy | 7.00% | ~4,711 |
+| Black Book | 7.00% | ~4,711 |
+| Black Sorcerer | 7.00% | ~4,711 |
+| Dead Man | 7.00% | ~4,711 |
+| Fern | 7.00% | ~4,711 |
+| 100 Friends | 7.00% | ~4,711 |
+| Researcher | 7.00% | ~4,711 |
+| Savvy | 7.00% | ~4,711 |
+| Encyclopedist | 6.00% | ~4,038 |
+| Witch | 6.00% | ~4,038 |
+| Vorsa | 6.00% | ~4,038 |
+| Old Spirits | 6.00% | ~4,038 |
+| Sinner | 6.00% | ~4,038 |
+| Folklorist | 6.00% | ~4,038 |
+| Keeper of Knowledge | 6.00% | ~4,038 |
+| Susanin | 5.00% | ~3,365 |
+| Traveller | 5.00% | ~3,365 |
 | Righteous | 4.00% | ~2,692 |
 | Musician | 4.00% | ~2,692 |
 | Koldun | 4.00% | ~2,692 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,346 |
 | Word Master | 0.20% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,288 (Ranked 118)  
+Progressed: 67,293 (Ranked 118)  
 Completed: 73 (0.11%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,6 +200,7 @@ Completed: 73 (0.11%) (Ranked 309)
 | 2024-01-13 | 66,870 | 72 |
 | 2024-01-14 | 67,123 | 73 |
 | 2024-01-15 | 67,288 | 73 |
+| 2024-01-16 | 67,293 | 73 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

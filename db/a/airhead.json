@@ -2,9 +2,9 @@
   "ID": "4107042361cf49c582f6f307cdc2c88e",
   "Name": "Airhead",
   "ProductSlug": "airhead-945e54",
-  "Ranking_EOS_Progress": 834,
+  "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T20:08:47.5308925+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:08:59.0389697+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:08:47.5274052+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.5522297+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:02:54.1038366+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:08:59.0389714+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:02:46.3651171+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:08:47.5274065+00:00"
 }

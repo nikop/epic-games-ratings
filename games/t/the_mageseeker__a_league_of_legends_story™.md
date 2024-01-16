@@ -5,12 +5,12 @@ Rating: 4.78 (Ranked 113)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,290 |
-| No more cages! | 90.00% | ~3,117 |
-| Everfrost | 76.00% | ~2,632 |
-| Dark Forest | 76.00% | ~2,632 |
-| Pentakill | 75.00% | ~2,597 |
-| The use of petricite | 73.00% | ~2,528 |
+| For Demacia | 95.00% | ~3,291 |
+| No more cages! | 90.00% | ~3,118 |
+| Everfrost | 76.00% | ~2,633 |
+| Dark Forest | 76.00% | ~2,633 |
+| Pentakill | 75.00% | ~2,598 |
+| The use of petricite | 73.00% | ~2,529 |
 | You can pet the dog | 60.00% | ~2,078 |
 | Thornbarrow | 44.00% | ~1,524 |
 | Big Helmet Bro | 41.00% | ~1,420 |
@@ -19,7 +19,7 @@ Rating: 4.78 (Ranked 113)
 | Elemental master | 38.00% | ~1,316 |
 | Past trauma | 38.00% | ~1,316 |
 | Cypress Glen Headquarters | 35.00% | ~1,212 |
-| Petricite Burst | 34.00% | ~1,177 |
+| Petricite Burst | 34.00% | ~1,178 |
 | Old friend | 33.00% | ~1,143 |
 | Devineur | 33.00% | ~1,143 |
 | Hijack | 31.00% | ~1,074 |
@@ -31,20 +31,20 @@ Rating: 4.78 (Ranked 113)
 | Glyndemere | 24.00% | ~831 |
 | Capelworth | 24.00% | ~831 |
 | Full equipped | 24.00% | ~831 |
-| Iffighain Headquarters | 23.00% | ~796 |
+| Iffighain Headquarters | 23.00% | ~797 |
 | No more holding back | 20.00% | ~693 |
 | Whispers in the Woods II | 19.00% | ~658 |
 | Terbisia | 19.00% | ~658 |
 | Quickmoore Headquarters | 19.00% | ~658 |
-| Whispers in the Woods III | 18.00% | ~623 |
-| Friendly fire | 18.00% | ~623 |
-| The Central Headquarters | 18.00% | ~623 |
+| Whispers in the Woods III | 18.00% | ~624 |
+| Friendly fire | 18.00% | ~624 |
+| The Central Headquarters | 18.00% | ~624 |
 | My heart and sword always for Demacia | 17.00% | ~589 |
 | True power | 17.00% | ~589 |
 | Meltridge | 17.00% | ~589 |
 | Cloven Dell Headquarters | 17.00% | ~589 |
-| I smell fear | 15.00% | ~519 |
-| The Great City of Demacia | 15.00% | ~519 |
+| I smell fear | 15.00% | ~520 |
+| The Great City of Demacia | 15.00% | ~520 |
 | Embrace the darkness | 14.00% | ~485 |
 | Whispers in the Woods IV | 14.00% | ~485 |
 | The end of the experiments | 14.00% | ~485 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 113)
 | Silverwing nest | 2.00% | ~69 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,463 (Ranked 228)  
+Progressed: 3,464 (Ranked 229)  
 Completed: 28 (0.81%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 28 (0.81%) (Ranked 193)
 | 2024-01-13 | 3,446 | 26 |
 | 2024-01-14 | 3,456 | 28 |
 | 2024-01-15 | 3,463 | 28 |
+| 2024-01-16 | 3,464 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

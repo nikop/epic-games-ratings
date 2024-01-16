@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4392,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 398,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -9088,9 +9088,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1230
     },
     {
       "ID": "achievement_71",
@@ -9356,8 +9356,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:10:41.6886669+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:10:29.9581008+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:03:37.1422122+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:10:41.6888322+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:03:27.5164965+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:10:29.958288+00:00"
 }

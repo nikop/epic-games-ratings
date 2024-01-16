@@ -2,9 +2,9 @@
   "ID": "8797ed433a424908b26ff4a89f08cc65",
   "Name": "Rails Across America",
   "ProductSlug": "rails-across-america-958ba8",
-  "Ranking_EOS_Progress": 834,
+  "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-01-09T13:29:14.523+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-13T14:56:57.713084+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:58:29.8755433+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:04:50.4306988+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:58:28.2537136+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:04:41.5789956+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "cd9345b512a544e38b7ff0165111e35c",
   "Name": "Island of Fear",
   "ProductSlug": "island-of-fear-00a3a6",
-  "Ranking_EOS_Progress": 834,
+  "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-02-01T21:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T18:03:39.6095567+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:03:48.53983+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:03:40.9908542+00:00",
   "LastUpdate_AppInfo": "2024-01-15T17:57:19.101115+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:57:08.666445+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:03:48.5398378+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:57:07.5550748+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:03:40.9908621+00:00"
 }

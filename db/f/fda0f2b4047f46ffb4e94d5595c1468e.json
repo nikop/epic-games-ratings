@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 377,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5207,7 +5207,7 @@
   ],
   "EOS_Progressed": 23888,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1243,
+  "EOS_NewPlayers": 1230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16684,9 +16684,9 @@
       "ID": "ach04",
       "SetID": "47in8n6",
       "Name": "What Just Happened??",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7166
+      "UsersEstimate": 7405
     },
     {
       "ID": "ach05",
@@ -17069,8 +17069,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-15T22:02:53.3444071+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:09:09.5877668+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:08:58.1013728+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:03:09.9879345+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:09:09.5878459+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:03:00.1188988+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:08:58.1014854+00:00"
 }

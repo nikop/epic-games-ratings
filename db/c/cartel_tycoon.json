@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3717,6 +3717,11 @@
       "Time": "2024-01-15T20:08:43.3060878+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T00:08:39.8183391+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3792,7 +3797,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "play-at-night",
@@ -3832,7 +3837,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "sell-variety",
@@ -3862,9 +3867,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 821
     },
     {
       "ID": "use-submarine",
@@ -3879,15 +3884,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-05T21:03:11.6844011+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:08:51.1644679+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:08:39.8183386+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:03:16.7112294+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:08:51.1644983+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:03:06.157023+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:08:39.8183681+00:00"
 }

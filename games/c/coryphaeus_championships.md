@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You are a Winner! | 30.00% | ~3 |
-| You are an Amateur! | 10.00% | ~1 |
+| You are an Amateur! | 20.00% | ~2 |
 | You are a true Pro! | 10.00% | ~1 |
 | You are the real Prodigy of the Next Millennia! | 10.00% | ~1 |
 | You are a CHAMPION! | 0.00% | ~0 |

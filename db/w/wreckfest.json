@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1169,
+  "EOS_Progressed": 1170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2931,6 +2931,11 @@
       "Time": "2024-01-15T21:09:49.7822462+00:00",
       "NumProgressed": 1169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T00:09:10.6667812+00:00",
+      "NumProgressed": 1170,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2951,7 +2956,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "CareerChamp1",
@@ -2959,7 +2964,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "CareerChamp2",
@@ -2967,7 +2972,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "CareerChamp3",
@@ -2981,9 +2986,9 @@
       "ID": "CareerChamp4",
       "SetID": "5hd282c",
       "Name": "Pro Internationals Champion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 82
+      "UsersEstimate": 70
     },
     {
       "ID": "CareerComplete",
@@ -2999,7 +3004,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "CollectVehiclesA",
@@ -3087,7 +3092,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "WreckOpponentsBus",
@@ -3102,7 +3107,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1169,
+      "Progressed": 1170,
       "Completed": 0
     }
   ],
@@ -3110,8 +3115,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:09:22.3607688+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:09:10.6667808+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:59:53.485222+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:09:22.3607921+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:59:49.0878522+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:09:10.6668073+00:00"
 }

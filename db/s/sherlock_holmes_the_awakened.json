@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1457,
+  "EOS_Progressed": 1458,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.29,
   "EosHistory": [
@@ -5221,6 +5221,11 @@
       "Time": "2024-01-15T20:05:01.8932216+00:00",
       "NumProgressed": 1457,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-16T00:05:04.1993029+00:00",
+      "NumProgressed": 1458,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -5232,7 +5237,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "MQ01_2",
@@ -5256,7 +5261,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "MQ02_3",
@@ -5278,9 +5283,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 743
+      "UsersEstimate": 729
     },
     {
       "ID": "MQ03_2",
@@ -5304,7 +5309,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ03_5",
@@ -5312,7 +5317,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 699
+      "UsersEstimate": 700
     },
     {
       "ID": "MQ04_1",
@@ -5344,7 +5349,7 @@
       "Name": "Open Sesame",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ05_2",
@@ -5360,7 +5365,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ05_4",
@@ -5368,7 +5373,7 @@
       "Name": "Knives Out",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MQ06_1",
@@ -5408,7 +5413,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "MQ07_2",
@@ -5416,7 +5421,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "MQ08_1",
@@ -5432,7 +5437,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "MQ08_3",
@@ -5455,7 +5460,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 48
     }
   ],
@@ -5463,8 +5468,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:05:13.4364152+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:05:04.1993024+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:03:29.2296097+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:05:13.4364517+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:03:18.5434418+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:05:04.19935+00:00"
 }

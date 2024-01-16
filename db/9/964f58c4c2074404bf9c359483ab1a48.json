@@ -2409,9 +2409,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 1301207,
+  "EOS_Progressed": 1301210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29174,6 +29174,11 @@
       "Time": "2024-01-15T23:04:12.3799992+00:00",
       "NumProgressed": 1301207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T00:04:04.1811024+00:00",
+      "NumProgressed": 1301210,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29321,7 +29326,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 208193
+      "UsersEstimate": 208194
     },
     {
       "ID": "10_hunter_wins",
@@ -29329,7 +29334,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 78072
+      "UsersEstimate": 78073
     },
     {
       "ID": "10_prop_headshots",
@@ -29481,7 +29486,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767712
+      "UsersEstimate": 767714
     },
     {
       "ID": "hunter_win",
@@ -29489,7 +29494,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702652
+      "UsersEstimate": 702653
     },
     {
       "ID": "master_of_loadouts",
@@ -29520,7 +29525,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1301207,
+      "Progressed": 1301210,
       "Completed": 0
     }
   ],
@@ -29528,8 +29533,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-15T12:01:12.3648199+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:04:12.3799988+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:04:04.1811019+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.9954537+00:00",
-  "LastUpdate_Ratings": "2024-01-15T23:00:30.1235458+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:04:12.3801196+00:00"
+  "LastUpdate_Ratings": "2024-01-16T00:00:24.8327133+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:04:04.181311+00:00"
 }

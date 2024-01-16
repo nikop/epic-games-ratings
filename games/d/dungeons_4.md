@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 182)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~678 |
+| The Last Stand | 89.00% | ~685 |
 | Thalya – Simply Immortal | 88.00% | ~678 |
 | For the Horde! | 82.00% | ~631 |
 | Hammer Time, Round Two | 81.00% | ~624 |
@@ -20,9 +20,9 @@ Rating: 4.73 (Ranked 182)
 | The Ascent | 61.00% | ~470 |
 | It's Warm and Cozy at Home | 61.00% | ~470 |
 | Magic Accidents | 59.00% | ~454 |
+| Trap Master | 56.00% | ~431 |
 | Hard Work | 56.00% | ~431 |
 | The Big Eaty | 56.00% | ~431 |
-| Trap Master | 55.00% | ~424 |
 | Minions, Minions! | 55.00% | ~424 |
 | “… like son” | 54.00% | ~416 |
 | YOU SHALL NOT PASS! | 51.00% | ~393 |

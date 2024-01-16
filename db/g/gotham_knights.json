@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5229,10 +5229,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5478,
       "NumberOfAwardsMax": 3204
+    },
+    {
+      "Time": "2024-01-15T23:59:08.7542823+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5479,
+      "NumberOfAwardsMax": 3204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5478,
+  "NumberOfAwards": 5479,
   "NumberOfAwardsMax": 3204,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5276,7 +5282,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 289
+      "Count": 290
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5297,10 +5303,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82834,
-  "EOS_Completed": 134,
-  "EOS_NewPlayers": 683,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 82836,
+  "EOS_Completed": 135,
+  "EOS_NewPlayers": 679,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -30367,6 +30373,11 @@
       "Time": "2024-01-15T23:04:27.6996712+00:00",
       "NumProgressed": 82834,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2024-01-16T00:04:19.2217757+00:00",
+      "NumProgressed": 82836,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30426,7 +30437,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18223
+      "UsersEstimate": 18224
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30474,7 +30485,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13253
+      "UsersEstimate": 13254
     },
     {
       "ID": "CLAYFACE_1",
@@ -30522,7 +30533,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5798
+      "UsersEstimate": 5799
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -30586,7 +30597,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10768
+      "UsersEstimate": 10769
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30602,7 +30613,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22365
+      "UsersEstimate": 22366
     },
     {
       "ID": "FREEZE_1_5",
@@ -30618,7 +30629,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15738
+      "UsersEstimate": 15739
     },
     {
       "ID": "FREEZE_3",
@@ -30690,7 +30701,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19880
+      "UsersEstimate": 19881
     },
     {
       "ID": "HARLEY_3",
@@ -30722,7 +30733,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41417
+      "UsersEstimate": 41418
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30770,7 +30781,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27335
+      "UsersEstimate": 27336
     },
     {
       "ID": "MYSTERY_02",
@@ -30778,7 +30789,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19880
+      "UsersEstimate": 19881
     },
     {
       "ID": "MYSTERY_03",
@@ -30786,7 +30797,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18223
+      "UsersEstimate": 18224
     },
     {
       "ID": "MYSTERY_04",
@@ -30818,7 +30829,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10768
+      "UsersEstimate": 10769
     },
     {
       "ID": "MYSTERY_08",
@@ -30865,22 +30876,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82834,
-      "Completed": 134
+      "Progressed": 82836,
+      "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53114,
+      "Progressed": 53116,
       "Completed": 2679
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-15T22:59:11.6507851+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:04:27.6996707+00:00",
+  "LastChanged": "2024-01-15T23:59:08.7542821+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:04:19.2217751+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:59:11.650786+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:04:27.6998697+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:59:08.7542828+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:04:19.2219691+00:00"
 }

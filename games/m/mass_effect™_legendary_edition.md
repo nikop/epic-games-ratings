@@ -35,8 +35,8 @@
 | The Archangel | 29.00% | ~1,274 |
 | The Professor | 29.00% | ~1,274 |
 | Head Hunter | 29.00% | ~1,274 |
+| Operative | 28.00% | ~1,230 |
 | The Convict | 27.00% | ~1,186 |
-| Operative | 27.00% | ~1,186 |
 | Power Full | 27.00% | ~1,186 |
 | Colony Defense | 26.00% | ~1,142 |
 | The Krogan | 26.00% | ~1,142 |

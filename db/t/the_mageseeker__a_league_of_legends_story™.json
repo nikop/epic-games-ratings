@@ -5,9 +5,9 @@
   "Ranking_Rating": 113,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,7 +187,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3463,
+  "EOS_Progressed": 3464,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 6,
@@ -6557,6 +6557,11 @@
       "Time": "2024-01-15T21:06:12.6877528+00:00",
       "NumProgressed": 3463,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-16T00:05:10.8329055+00:00",
+      "NumProgressed": 3464,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 53,
@@ -6600,7 +6605,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -6632,7 +6637,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6648,7 +6653,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6656,7 +6661,7 @@
       "Name": "I smell fear",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -6664,7 +6669,7 @@
       "Name": "Friendly fire",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -6744,7 +6749,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6752,7 +6757,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6784,7 +6789,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6848,7 +6853,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -6856,7 +6861,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -6920,7 +6925,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -6944,7 +6949,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -6984,14 +6989,14 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1177
+      "UsersEstimate": 1178
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3463,
+      "Progressed": 3464,
       "Completed": 28
     }
   ],
@@ -6999,8 +7004,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:05:20.0615397+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:05:10.8329051+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:57:18.8025423+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:05:20.0616047+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:57:17.6077654+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:05:10.8329651+00:00"
 }

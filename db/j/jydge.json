@@ -4,7 +4,7 @@
   "ProductSlug": "jydge-14242d",
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 568,
+  "Ranking_EOS_NewPlayers": 567,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T10:00:00+00:00",
@@ -259,8 +259,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2024-01-15T23:04:57.7108145+00:00",
+  "LastChanged_Achievements": "2024-01-16T00:04:48.8213276+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:51.8116776+00:00",
-  "LastUpdate_Ratings": "2024-01-15T22:59:25.9674995+00:00",
-  "LastUpdate_Achievements": "2024-01-15T23:04:57.7108279+00:00"
+  "LastUpdate_Ratings": "2024-01-15T23:59:21.7560145+00:00",
+  "LastUpdate_Achievements": "2024-01-16T00:04:48.8213374+00:00"
 }

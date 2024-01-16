@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,480 |
-| Safety in the Storm | 23.00% | ~9,558 |
-| A Better Idea | 23.00% | ~9,558 |
-| Begin the Ceremony | 19.00% | ~7,896 |
-| Mission Accomplished | 18.00% | ~7,480 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,234 |
+| Fracture at Fostar Haven | 95.00% | ~39,486 |
+| Safety in the Storm | 23.00% | ~9,560 |
+| A Better Idea | 23.00% | ~9,560 |
+| Begin the Ceremony | 19.00% | ~7,897 |
+| Mission Accomplished | 18.00% | ~7,482 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,235 |
 | A Starfighter of Your Own | 13.00% | ~5,403 |
-| Asset Secured | 12.00% | ~4,987 |
+| Asset Secured | 12.00% | ~4,988 |
 | Unkillable | 7.00% | ~2,909 |
 | Together, Vanguard | 7.00% | ~2,909 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,493 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,494 |
 | Sound Strategy | 5.00% | ~2,078 |
 | Stomped | 5.00% | ~2,078 |
-| Fearless | 4.00% | ~1,662 |
-| Back From the Brink | 4.00% | ~1,662 |
-| Flames Over Mon Cala | 4.00% | ~1,662 |
-| A Promising Career | 4.00% | ~1,662 |
+| Fearless | 4.00% | ~1,663 |
+| Back From the Brink | 4.00% | ~1,663 |
+| Flames Over Mon Cala | 4.00% | ~1,663 |
+| A Promising Career | 4.00% | ~1,663 |
 | Great Shot, Kid | 3.00% | ~1,247 |
 | Stronger Together | 3.00% | ~1,247 |
 | Temporary Guardian | 3.00% | ~1,247 |
@@ -31,7 +31,7 @@
 | Combat Pilot | 2.00% | ~831 |
 | Dressed for the Job You Want | 2.00% | ~831 |
 | I Have You Now | 1.00% | ~416 |
-| Against the Current | 0.80% | ~332 |
+| Against the Current | 0.80% | ~333 |
 | Denied | 0.70% | ~291 |
 | Found Your Place | 0.60% | ~249 |
 | Unstoppable Ace | 0.50% | ~208 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~42 |
 | Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,558 (Ranked 135)  
+Progressed: 41,564 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 3 (0.01%) (Ranked 377)
 | 2024-01-13 | 40,936 | 3 |
 | 2024-01-14 | 41,296 | 3 |
 | 2024-01-15 | 41,558 | 3 |
+| 2024-01-16 | 41,564 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

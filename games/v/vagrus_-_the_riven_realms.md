@@ -10,8 +10,8 @@
 | Randomized | 18.00% | ~55 |
 | Conquered | 18.00% | ~55 |
 | Scribe | 11.00% | ~34 |
+| Breached | 11.00% | ~34 |
 | Tactician | 10.00% | ~31 |
-| Breached | 10.00% | ~31 |
 | Conciliator | 9.00% | ~28 |
 | Fight Another Day | 8.00% | ~24 |
 | Taskmaster | 8.00% | ~24 |

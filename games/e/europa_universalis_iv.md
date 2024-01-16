@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,663 (Ranked 42)  
+Progressed: 499,682 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,6 +641,7 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
+| 2024-01-16 | 499,682 | 1 |
 ## Awards
 Max (Educational): 7,850  (Ranked 52)  
 Sum: 64,731 (Ranked 24)  

@@ -40,8 +40,8 @@
 | Unrivaled in Arms | 15.00% | ~206 |
 | Threaded Harmony | 15.00% | ~206 |
 | Karakuri Minato | 14.00% | ~192 |
+| Canyon of Karakuri | 13.00% | ~178 |
 | Jack of All Trades | 13.00% | ~178 |
-| Canyon of Karakuri | 12.00% | ~165 |
 | Karakuri Fortress | 11.00% | ~151 |
 | Tender Touch | 10.00% | ~137 |
 | Haven Hunter | 10.00% | ~137 |

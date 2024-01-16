@@ -5,32 +5,32 @@ Rating: 4.18 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,082 |
-| Battlefields Have Memories | 81.00% | ~2,805 |
-| Enlisted | 75.00% | ~2,597 |
-| Maybe Engage a Little | 70.00% | ~2,424 |
-| No More Names | 54.00% | ~1,870 |
-| Initiate | 40.00% | ~1,385 |
-| Thrada-Kul | 37.00% | ~1,281 |
-| Gravity-Challenged Rocks | 30.00% | ~1,039 |
-| Soldier | 26.00% | ~900 |
+| Unforeseen | 89.00% | ~3,084 |
+| Battlefields Have Memories | 81.00% | ~2,807 |
+| Enlisted | 75.00% | ~2,599 |
+| Maybe Engage a Little | 70.00% | ~2,426 |
+| No More Names | 54.00% | ~1,871 |
+| Initiate | 40.00% | ~1,386 |
+| Thrada-Kul | 37.00% | ~1,282 |
+| Gravity-Challenged Rocks | 30.00% | ~1,040 |
+| Soldier | 26.00% | ~901 |
 | Socialite | 25.00% | ~866 |
 | All the Major Food Groups | 25.00% | ~866 |
-| Beggars Would Ride | 23.00% | ~796 |
+| Beggars Would Ride | 23.00% | ~797 |
 | Control is an Illusion | 22.00% | ~762 |
 | The Means to Save It | 19.00% | ~658 |
-| Resilience to Sin | 18.00% | ~623 |
+| Resilience to Sin | 18.00% | ~624 |
 | A Familiar Nest | 17.00% | ~589 |
 | Periapt Alizarin | 17.00% | ~589 |
 | Geas Aristeya | 16.00% | ~554 |
-| A Perfect Cycle | 15.00% | ~519 |
-| Recruit | 15.00% | ~519 |
-| Armsman | 12.00% | ~416 |
+| A Perfect Cycle | 15.00% | ~520 |
+| Recruit | 15.00% | ~520 |
+| Armsman | 13.00% | ~450 |
 | Lights Army | 11.00% | ~381 |
 | Periapt Cerulean | 9.00% | ~312 |
 | Good Boy | 8.00% | ~277 |
-| Periapt Viridian | 7.00% | ~242 |
-| Shroudfane Explorer | 7.00% | ~242 |
+| Periapt Viridian | 7.00% | ~243 |
+| Shroudfane Explorer | 7.00% | ~243 |
 | Best Dressed | 6.00% | ~208 |
 | Kitted Out | 5.00% | ~173 |
 | Armaments Gules | 5.00% | ~173 |
@@ -53,7 +53,7 @@ Rating: 4.18 (Ranked 985)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,463 (Ranked 228)  
+Progressed: 3,465 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 5 (0.14%) (Ranked 298)
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
+| 2024-01-16 | 3,465 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  
