@@ -15,11 +15,11 @@
 | The end | 6.00% | ~248 |
 | Sliders | 3.00% | ~124 |
 | Sheltered by the fallen tree | 2.00% | ~83 |
-| Snow-covered ruins | 0.30% | ~12 |
+| Snow-covered ruins | 0.40% | ~17 |
 | Another ride! | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,128 (Ranked 216)  
-Completed: 6 (0.15%) (Ranked 294)  
+Completed: 6 (0.15%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -11,7 +11,7 @@ Rating: 4.56 (Ranked 511)
 | The field base | 48.00% | ~827 |
 | The Alliance | 45.00% | ~775 |
 | Survivors | 42.00% | ~723 |
-| The Condor | 39.00% | ~672 |
+| The Condor | 40.00% | ~689 |
 | The End | 39.00% | ~672 |
 | The Necroevolution | 31.00% | ~534 |
 | Krauta is alive | 30.00% | ~517 |
@@ -19,7 +19,7 @@ Rating: 4.56 (Ranked 511)
 | Peacemaker | 23.00% | ~396 |
 | Volcanologist | 23.00% | ~396 |
 | Fierce fight | 22.00% | ~379 |
-| Evacuation | 21.00% | ~362 |
+| Evacuation | 22.00% | ~379 |
 | Beyond divisions | 19.00% | ~327 |
 | Flying Objects Operator | 18.00% | ~310 |
 | I remember everything! | 14.00% | ~241 |

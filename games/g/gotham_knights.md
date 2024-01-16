@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,443 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,181 |
-| Loose Ends | 33.00% | ~27,352 |
+| First Step Into the Knight | 50.00% | ~41,444 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,182 |
+| Loose Ends | 33.00% | ~27,353 |
 | To the Victor Go the Spoils | 27.00% | ~22,379 |
-| Knighthood | 26.00% | ~21,550 |
+| Knighthood | 26.00% | ~21,551 |
 | Get ReQ'd | 24.00% | ~19,893 |
 | Whispered Words | 24.00% | ~19,893 |
 | The Batman Family | 22.00% | ~18,235 |
@@ -19,7 +19,7 @@ Rating: 4.19 (Ranked 976)
 | Working Hard or Harley Working? | 20.00% | ~16,577 |
 | Unstoppable Force | 20.00% | ~16,577 |
 | Bad Apples in Every Orchard | 20.00% | ~16,577 |
-| Snow Problem | 19.00% | ~15,748 |
+| Snow Problem | 19.00% | ~15,749 |
 | The Show Mud Go On | 17.00% | ~14,091 |
 | From Inside Gotham's Walls | 17.00% | ~14,091 |
 | Protector of Gotham | 16.00% | ~13,262 |
@@ -34,7 +34,7 @@ Rating: 4.19 (Ranked 976)
 | Not On My Watch | 12.00% | ~9,946 |
 | Bulldozed | 12.00% | ~9,946 |
 | Gotham Knight | 12.00% | ~9,946 |
-| Gotham City Confidential | 11.00% | ~9,117 |
+| Gotham City Confidential | 11.00% | ~9,118 |
 | Out of Their League | 9.00% | ~7,460 |
 | Drone You Out | 9.00% | ~7,460 |
 | Solid Alibi | 8.00% | ~6,631 |
@@ -63,12 +63,12 @@ Rating: 4.19 (Ranked 976)
 | Renewable Enemy Source | 0.40% | ~213 |
 | Crime Is a Terrible Thing to Waste | 0.40% | ~213 |
 | Showdown Sovereign | 0.40% | ~213 |
-| Element of Surprise | 0.30% | ~159 |
-| The Cold, the Bad and the Ugly | 0.30% | ~159 |
+| Element of Surprise | 0.30% | ~160 |
+| The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,886 (Ranked 110)  
-Completed: 135 (0.16%) (Ranked 292)  
+Progressed: 82,887 (Ranked 110)  
+Completed: 135 (0.16%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,7 +338,7 @@ Completed: 135 (0.16%) (Ranked 292)
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
-| 2024-01-16 | 82,886 | 135 |
+| 2024-01-16 | 82,887 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 102)  
 Sum: 5,487 (Ranked 143)  

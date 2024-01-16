@@ -6,9 +6,9 @@
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5315,10 +5315,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82886,
+  "EOS_Progressed": 82887,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 590,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 586,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -30480,6 +30480,11 @@
       "Time": "2024-01-16T21:04:29.0687521+00:00",
       "NumProgressed": 82886,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-16T22:06:03.0455063+00:00",
+      "NumProgressed": 82887,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30499,7 +30504,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -30531,7 +30536,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -30731,7 +30736,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15748
+      "UsersEstimate": 15749
     },
     {
       "ID": "FREEZE_3",
@@ -30795,7 +30800,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28181
+      "UsersEstimate": 28182
     },
     {
       "ID": "HARLEY_2",
@@ -30835,7 +30840,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41443
+      "UsersEstimate": 41444
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -30867,7 +30872,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21550
+      "UsersEstimate": 21551
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30883,7 +30888,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27352
+      "UsersEstimate": 27353
     },
     {
       "ID": "MYSTERY_02",
@@ -30947,7 +30952,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -30978,13 +30983,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82886,
+      "Progressed": 82887,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53166,
+      "Progressed": 53167,
       "Completed": 2679
     }
   ],
@@ -30992,8 +30997,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-16T08:59:21.3312471+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:04:29.0687516+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:06:03.0455061+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:59:38.9925614+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:04:29.0689687+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:00:51.5089702+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:06:03.0456473+00:00"
 }

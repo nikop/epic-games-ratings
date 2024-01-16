@@ -13,7 +13,7 @@ Number of Ratings: 98  (23.09.2022)
 | Mamma Mia! | 35.00% | ~3,489 |
 | Gabriele D'Annunzio | 32.00% | ~3,190 |
 | Conrad von Hotzensocks | 31.00% | ~3,090 |
-| Silver Lining | 27.00% | ~2,691 |
+| Silver Lining | 27.00% | ~2,692 |
 | Aurelio Baruzzi | 20.00% | ~1,994 |
 | Decimation | 20.00% | ~1,994 |
 | Donatello | 19.00% | ~1,894 |
@@ -27,21 +27,21 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 13.00% | ~1,296 |
 | Die Bosniaken Kommen! | 12.00% | ~1,196 |
 | Dirty Dozen | 12.00% | ~1,196 |
-| Machiavelli | 11.00% | ~1,096 |
+| Machiavelli | 11.00% | ~1,097 |
 | The Devil's Paintbrush | 10.00% | ~997 |
 | Thus With A Kiss | 10.00% | ~997 |
 | Dante's Inferno | 9.00% | ~897 |
 | I Have the High Ground | 9.00% | ~897 |
 | Millenial | 9.00% | ~897 |
-| The Show Must Go On | 8.00% | ~797 |
-| Tosca | 8.00% | ~797 |
+| The Show Must Go On | 8.00% | ~798 |
+| Tosca | 8.00% | ~798 |
 | 12th Bottle of the Isonzo | 6.00% | ~598 |
 | The Enlightment | 6.00% | ~598 |
 | Cercatore d'Oro | 5.00% | ~498 |
 | Generalissimo | 4.00% | ~399 |
+| Farewell to Arms | 3.00% | ~299 |
 | "O La Vittoria, O Tutti Accoppati" | 3.00% | ~299 |
 | Seeing Red | 3.00% | ~299 |
-| Farewell to Arms | 2.00% | ~199 |
 | Ponte of No Return | 2.00% | ~199 |
 | Soča Drag | 2.00% | ~199 |
 | Saboteur | 2.00% | ~199 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,968 (Ranked 184)  
+Progressed: 9,969 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 10 (0.10%) (Ranked 316)
 | 2024-01-13 | 9,929 | 10 |
 | 2024-01-14 | 9,942 | 10 |
 | 2024-01-15 | 9,955 | 10 |
-| 2024-01-16 | 9,968 | 10 |
+| 2024-01-16 | 9,969 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 481)  
 Sum: 343 (Ranked 371)  

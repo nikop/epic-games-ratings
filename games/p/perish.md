@@ -37,7 +37,6 @@
 | Rock and a Hard Place | 2.00% | ~80 |
 | The Midas Touch | 2.00% | ~80 |
 | Hapax Legomenon | 2.00% | ~80 |
-| Don't Pay the Ferryman | 2.00% | ~80 |
 | Veneration of Hephaestus | 2.00% | ~80 |
 | Vandili | 2.00% | ~80 |
 | No Scylla in Sight | 2.00% | ~80 |
@@ -48,19 +47,20 @@
 | The Nameless One | 1.00% | ~40 |
 | Rule of Thirds | 1.00% | ~40 |
 | Pyr Demon | 1.00% | ~40 |
+| Don't Pay the Ferryman | 1.00% | ~40 |
 | Biotechnology | 1.00% | ~40 |
 | The Archimedes Principle | 1.00% | ~40 |
 | Rites at Sea | 1.00% | ~40 |
 | Close Shut the Doors | 1.00% | ~40 |
 | Scrap Metal | 1.00% | ~40 |
-| Athenian Treasury | 0.90% | ~36 |
+| Athenian Treasury | 0.80% | ~32 |
 | Invicta | 0.80% | ~32 |
 | Olympian | 0.60% | ~24 |
 | Hipparchia's Labour | 0.40% | ~16 |
-| Debauchery | 0.40% | ~16 |
 | Interrupt the Interloper | 0.40% | ~16 |
 | Elephantine | 0.40% | ~16 |
 | Window Shopping | 0.30% | ~12 |
+| Debauchery | 0.30% | ~12 |
 | Blessing of Spring | 0.30% | ~12 |
 | Buyer's Remorse | 0.20% | ~8 |
 | Library of Alexandria | 0.10% | ~4 |

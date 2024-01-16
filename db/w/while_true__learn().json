@@ -4,11 +4,11 @@
   "ProductSlug": "while-true-learn",
   "Ranking_Rating": 597,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 449,
+  "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 618799,
+  "EOS_Progressed": 618806,
   "EOS_Completed": 566,
-  "EOS_NewPlayers": 845,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -31238,6 +31238,11 @@
       "Time": "2024-01-16T21:09:11.1633169+00:00",
       "NumProgressed": 618799,
       "NumCompleted": 566
+    },
+    {
+      "Time": "2024-01-16T22:10:28.5342532+00:00",
+      "NumProgressed": 618806,
+      "NumCompleted": 566
     }
   ],
   "TotalAchievements": 28,
@@ -31313,7 +31318,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 377467
+      "UsersEstimate": 377472
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -31329,7 +31334,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 272272
+      "UsersEstimate": 272275
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -31345,7 +31350,7 @@
       "Name": "Cosplay",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 86632
+      "UsersEstimate": 86633
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -31353,7 +31358,7 @@
       "Name": "Evolution in progress...",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 80444
+      "UsersEstimate": 80445
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -31361,7 +31366,7 @@
       "Name": "Beauty and harmony",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 297024
+      "UsersEstimate": 297027
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -31369,7 +31374,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 309400
+      "UsersEstimate": 309403
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -31377,7 +31382,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 575483
+      "UsersEstimate": 575490
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -31385,7 +31390,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 148512
+      "UsersEstimate": 148513
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -31409,7 +31414,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 408407
+      "UsersEstimate": 408412
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -31417,7 +31422,7 @@
       "Name": "RNG is my best friend now",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 111384
+      "UsersEstimate": 111385
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -31425,7 +31430,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 327963
+      "UsersEstimate": 327967
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -31472,15 +31477,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 618799,
+      "Progressed": 618806,
       "Completed": 566
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:09:11.1633167+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:10:28.5342529+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.8433302+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:59:42.5147071+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:09:11.1634413+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:00:56.3864468+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:10:28.5344221+00:00"
 }

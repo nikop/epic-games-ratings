@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1608,18 +1608,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1171,
       "NumberOfAwardsMax": 767
+    },
+    {
+      "Time": "2024-01-16T21:59:44.1602289+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1173,
+      "NumberOfAwardsMax": 769
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1171,
-  "NumberOfAwardsMax": 767,
+  "NumberOfAwards": 1173,
+  "NumberOfAwardsMax": 769,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 767
+      "Count": 769
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1694,9 +1700,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139422,
+  "EOS_Progressed": 139425,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 960,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28799,6 +28805,11 @@
       "Time": "2024-01-16T21:08:47.8556478+00:00",
       "NumProgressed": 139422,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-16T22:09:58.5136138+00:00",
+      "NumProgressed": 139425,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28866,7 +28877,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32067
+      "UsersEstimate": 32068
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28890,7 +28901,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39038
+      "UsersEstimate": 39039
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28922,7 +28933,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27884
+      "UsersEstimate": 27885
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28946,7 +28957,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20913
+      "UsersEstimate": 20914
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -28954,7 +28965,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15336
+      "UsersEstimate": 15337
     },
     {
       "ID": "ACH_CUNO",
@@ -29002,7 +29013,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8365
+      "UsersEstimate": 8366
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -29026,7 +29037,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19519
+      "UsersEstimate": 19520
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -29090,7 +29101,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19519
+      "UsersEstimate": 19520
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -29129,15 +29140,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139422,
+      "Progressed": 139425,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-01-16T19:58:51.2592543+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:08:47.8556476+00:00",
+  "LastChanged": "2024-01-16T21:59:44.1602287+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:09:58.5136136+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:58:51.0353589+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:08:47.8558224+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:59:44.1602292+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:09:58.5137321+00:00"
 }

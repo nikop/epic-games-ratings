@@ -5,21 +5,21 @@ Rating: 4.50 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~441 |
-| Vanquisher of Robots | 78.00% | ~391 |
-| Party | 50.00% | ~250 |
-| Impossible Cube | 45.00% | ~225 |
-| Through the Darkness | 45.00% | ~225 |
-| Knowledge is Power | 44.00% | ~220 |
-| No Mercy | 43.00% | ~215 |
-| The Return of a Rat | 40.00% | ~200 |
-| Fat of the Earth | 36.00% | ~180 |
-| Last Man Standing | 31.00% | ~155 |
-| He's Seen It All | 28.00% | ~140 |
-| Great Hero | 28.00% | ~140 |
-| Campaigning | 27.00% | ~135 |
-| Catch Jonathan_tostar | 27.00% | ~135 |
-| Rookie | 27.00% | ~135 |
+| Good start! | 88.00% | ~442 |
+| Vanquisher of Robots | 78.00% | ~392 |
+| Party | 50.00% | ~251 |
+| Impossible Cube | 45.00% | ~226 |
+| Knowledge is Power | 44.00% | ~221 |
+| Through the Darkness | 44.00% | ~221 |
+| No Mercy | 43.00% | ~216 |
+| The Return of a Rat | 40.00% | ~201 |
+| Fat of the Earth | 36.00% | ~181 |
+| Last Man Standing | 31.00% | ~156 |
+| He's Seen It All | 28.00% | ~141 |
+| Great Hero | 28.00% | ~141 |
+| Campaigning | 27.00% | ~136 |
+| Rookie | 27.00% | ~136 |
+| Catch Jonathan_tostar | 26.00% | ~131 |
 | Assemble a Meganewbie | 24.00% | ~120 |
 | Frugal | 21.00% | ~105 |
 | Feed a God | 21.00% | ~105 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 617)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501 (Ranked 359)  
+Progressed: 502 (Ranked 359)  
 Completed: 1 (0.20%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 1 (0.20%) (Ranked 283)
 | 2024-01-08 | 499 | 1 |
 | 2024-01-10 | 500 | 1 |
 | 2024-01-15 | 501 | 1 |
+| 2024-01-16 | 502 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

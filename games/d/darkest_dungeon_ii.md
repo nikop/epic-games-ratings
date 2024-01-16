@@ -1,36 +1,36 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 261)  
+Rating: 4.68 (Ranked 262)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,102 |
+| Malpractice Assurance | 14.00% | ~1,103 |
 | Lost and Found | 9.00% | ~709 |
-| Autodidact | 8.00% | ~10,640 |
-| This Belongs in a Museum | 7.00% | ~9,310 |
-| Overdue Notice | 7.00% | ~9,310 |
-| This guy... again? | 7.00% | ~551 |
-| Serenity Now! | 6.00% | ~7,980 |
-| Creep and Sleep | 6.00% | ~7,980 |
-| Catch and Decease | 6.00% | ~7,980 |
-| Escape from the Black Hole | 6.00% | ~7,980 |
-| To Grandmother's House | 6.00% | ~7,980 |
-| Ploughshares to Swords | 6.00% | ~472 |
-| Bloody Graduation | 6.00% | ~472 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,650 |
-| It Rings a Bell | 5.00% | ~6,650 |
-| Not Today! | 5.00% | ~6,650 |
-| Meat and Greet | 5.00% | ~6,650 |
-| It Happens | 5.00% | ~6,650 |
-| Rush Hour | 5.00% | ~6,650 |
-| Merry Time | 5.00% | ~6,650 |
-| Harvest Festival | 5.00% | ~6,650 |
-| Whale | 5.00% | ~6,650 |
-| A Place to Lay Your Head | 5.00% | ~6,650 |
-| FNG | 5.00% | ~6,650 |
-| Nope | 5.00% | ~6,650 |
+| Autodidact | 8.00% | ~10,641 |
+| This Belongs in a Museum | 7.00% | ~9,311 |
+| Overdue Notice | 7.00% | ~9,311 |
+| This guy... again? | 7.00% | ~552 |
+| Serenity Now! | 6.00% | ~7,981 |
+| Creep and Sleep | 6.00% | ~7,981 |
+| Catch and Decease | 6.00% | ~7,981 |
+| Escape from the Black Hole | 6.00% | ~7,981 |
+| To Grandmother's House | 6.00% | ~7,981 |
+| Ploughshares to Swords | 6.00% | ~473 |
+| Bloody Graduation | 6.00% | ~473 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,651 |
+| It Rings a Bell | 5.00% | ~6,651 |
+| Not Today! | 5.00% | ~6,651 |
+| Meat and Greet | 5.00% | ~6,651 |
+| It Happens | 5.00% | ~6,651 |
+| Rush Hour | 5.00% | ~6,651 |
+| Merry Time | 5.00% | ~6,651 |
+| Harvest Festival | 5.00% | ~6,651 |
+| Whale | 5.00% | ~6,651 |
+| A Place to Lay Your Head | 5.00% | ~6,651 |
+| FNG | 5.00% | ~6,651 |
+| Nope | 5.00% | ~6,651 |
 | Friends 'Til the End | 5.00% | ~394 |
 | Resurrection | 4.00% | ~5,320 |
 | Unleash Hell | 4.00% | ~5,320 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
 | Battle Hardened | 0.50% | ~39 |
 | Tears in the Rain | 0.40% | ~532 |
-| Maître De La Lame | 0.40% | ~31 |
+| Maître De La Lame | 0.40% | ~32 |
 | Circle of Life | 0.30% | ~399 |
 | Grand Slam | 0.30% | ~399 |
 | 20,000 Leagues Above the Sea | 0.20% | ~266 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,005 (Ranked 92)  
+Progressed: 133,011 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 133,005 | 5 |
+| 2024-01-16 | 133,011 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 51)  
 Sum: 21,690 (Ranked 58)  

@@ -31,7 +31,7 @@ Rating: 4.73 (Ranked 179)
 | Tanos' Crusade Against Thalya | 48.00% | ~371 |
 | Dungeonlord Gorgu | 47.00% | ~363 |
 | Pure Dynamite! | 46.00% | ~355 |
-| All’s Well That Ends Evil | 43.00% | ~332 |
+| All’s Well That Ends Evil | 44.00% | ~340 |
 | Mana Cannon | 42.00% | ~324 |
 | The Duel | 41.00% | ~317 |
 | If Looks Could Kill | 38.00% | ~293 |

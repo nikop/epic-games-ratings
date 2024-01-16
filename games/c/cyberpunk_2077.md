@@ -6,11 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Full Body Conversion | 0.20% | ~2,106 |
 | Right Back At Ya | 0.20% | ~2,106 |
+| The Wheel of Fortune | 0.20% | ~2,106 |
 | City Lights | 0.10% | ~1,053 |
 | To Bad Decisions! | 0.10% | ~1,053 |
 | Bushido and Chill | 0.10% | ~1,053 |
-| Full Body Conversion | 0.10% | ~1,053 |
 | To Protect and Serve | 0.10% | ~1,053 |
 | The Wandering Fool | 0.10% | ~1,053 |
 | Autojock | 0.10% | ~1,053 |
@@ -39,7 +40,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.10% | ~1,053 |
 | The Star | 0.10% | ~1,053 |
 | The Sun | 0.10% | ~1,053 |
-| The Wheel of Fortune | 0.10% | ~1,053 |
 | The World | 0.10% | ~1,053 |
 | Greetings from Pacifica! | 0.10% | ~1,053 |
 | The Jungle | 0.10% | ~1,053 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,032 (Ranked 17)  
+Progressed: 1,053,055 (Ranked 17)  
 Completed: 3,109 (0.30%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 3,109 (0.30%) (Ranked 261)
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
-| 2024-01-16 | 1,053,032 | 3,109 |
+| 2024-01-16 | 1,053,055 | 3,109 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
 Sum: 499,026 (Ranked 8)  

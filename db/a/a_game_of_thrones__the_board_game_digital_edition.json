@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1422,9 +1422,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33610,
+  "EOS_Progressed": 33613,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30687,6 +30687,11 @@
       "Time": "2024-01-16T21:10:08.738887+00:00",
       "NumProgressed": 33610,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-16T22:11:18.7477358+00:00",
+      "NumProgressed": 33613,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30722,7 +30727,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "1019",
@@ -30738,7 +30743,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "1021",
@@ -30746,7 +30751,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "1022",
@@ -30826,7 +30831,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4369
+      "UsersEstimate": 4370
     },
     {
       "ID": "1032",
@@ -30834,7 +30839,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13444
+      "UsersEstimate": 13445
     },
     {
       "ID": "1033",
@@ -30858,7 +30863,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4034
     },
     {
       "ID": "1036",
@@ -30873,15 +30878,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33610,
+      "Progressed": 33613,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-16T05:01:49.8697711+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:10:08.7388868+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:11:18.7477354+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:57:16.98246+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:10:08.7390306+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:57:38.6737912+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:11:18.7478678+00:00"
 }

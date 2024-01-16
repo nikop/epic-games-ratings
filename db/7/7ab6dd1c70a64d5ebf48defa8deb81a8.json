@@ -6,9 +6,9 @@
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 303,
+  "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -104,10 +104,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2357,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 220,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.13,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 216,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -4668,6 +4668,11 @@
       "Time": "2024-01-16T21:10:22.1980784+00:00",
       "NumProgressed": 2357,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T22:11:35.6476785+00:00",
+      "NumProgressed": 2357,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4789,9 +4794,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 542
     },
     {
       "ID": "ACH_16",
@@ -4967,15 +4972,15 @@
       "ID": "efe2lj",
       "IsBase": true,
       "Progressed": 2357,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:10:22.1980782+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:11:35.6476781+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:59:53.2883227+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:10:22.1981215+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:01:11.5090162+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:11:35.6477213+00:00"
 }

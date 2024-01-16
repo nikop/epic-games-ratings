@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 469,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -773,6 +773,11 @@
       "Time": "2024-01-15T10:08:28.9035642+00:00",
       "NumProgressed": 501,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T22:09:26.0934569+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -832,7 +837,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "different-items1",
@@ -840,7 +845,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "different-items2",
@@ -856,7 +861,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "finished-quest-cube",
@@ -864,7 +869,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "finished-quest-flight",
@@ -880,7 +885,7 @@
       "Name": "Campaigning",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "finished-quest-nurgle",
@@ -904,15 +909,15 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 131
     },
     {
       "ID": "finished-quest-sci",
@@ -920,7 +925,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "finished-quest-secret",
@@ -952,7 +957,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "last-hero",
@@ -960,7 +965,7 @@
       "Name": "Last Man Standing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "save-zombie",
@@ -992,7 +997,7 @@
       "Name": "Great Hero",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "win-first-biom",
@@ -1000,7 +1005,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "win-first-level",
@@ -1008,7 +1013,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "win-koth-fights1",
@@ -1016,7 +1021,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "win-koth-fights2",
@@ -1038,9 +1043,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 225
+      "UsersEstimate": 221
     },
     {
       "ID": "win-with-3-cultists",
@@ -1063,7 +1068,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 1
     }
   ],
@@ -1071,8 +1076,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:08:23.5929945+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:09:26.0934567+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:11.1690349+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:02:45.2123807+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:08:23.5930207+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:03:43.6214326+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:09:26.0934791+00:00"
 }

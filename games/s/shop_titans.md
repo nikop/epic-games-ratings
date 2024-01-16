@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,664 |
-| Titan's First Steps | 11.00% | ~16,664 |
-| Basic in Bulk | 10.00% | ~15,149 |
-| Tinkle of Coins | 10.00% | ~15,149 |
-| Disintermediation | 8.00% | ~12,119 |
-| Capitalism Ho! | 8.00% | ~12,119 |
-| It's Free Real Estate | 7.00% | ~10,605 |
-| Budding Merchant | 7.00% | ~10,605 |
+| Sponsored by Argon | 11.00% | ~16,666 |
+| Titan's First Steps | 11.00% | ~16,666 |
+| Basic in Bulk | 10.00% | ~15,151 |
+| Tinkle of Coins | 10.00% | ~15,151 |
+| Disintermediation | 8.00% | ~12,121 |
+| Capitalism Ho! | 8.00% | ~12,121 |
+| It's Free Real Estate | 7.00% | ~10,606 |
+| Budding Merchant | 7.00% | ~10,606 |
 | One Easy Payment | 6.00% | ~9,090 |
 | Some Assembly Required | 6.00% | ~9,090 |
 | Another Satisfied Customer | 6.00% | ~9,090 |
@@ -106,20 +106,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 1.00% | ~1,515 |
 | All or Nothing! | 1.00% | ~1,515 |
 | Eternal Crusade | 1.00% | ~1,515 |
-| The Greatest Grind | 0.90% | ~1,363 |
-| Marvels from the World Over | 0.90% | ~1,363 |
+| The Greatest Grind | 0.90% | ~1,364 |
+| Marvels from the World Over | 0.90% | ~1,364 |
 | Bane of Legends | 0.80% | ~1,212 |
 | Anything not Nailed Down | 0.80% | ~1,212 |
-| Ultimate Collector | 0.70% | ~1,060 |
-| Unleashed Potential | 0.70% | ~1,060 |
-| JACKPOT!!! | 0.70% | ~1,060 |
-| Oligarch Monarch | 0.50% | ~757 |
-| Merchant Extraordinaire | 0.50% | ~757 |
+| Ultimate Collector | 0.70% | ~1,061 |
+| Unleashed Potential | 0.70% | ~1,061 |
+| JACKPOT!!! | 0.70% | ~1,061 |
+| Oligarch Monarch | 0.50% | ~758 |
+| Merchant Extraordinaire | 0.50% | ~758 |
 | To Hell and Back | 0.40% | ~606 |
 | Cash Only Please | 0.40% | ~606 |
-| Capitalist Camaraderie | 0.30% | ~454 |
+| Capitalist Camaraderie | 0.30% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,493 (Ranked 87)  
+Progressed: 151,508 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,14 +390,14 @@ Completed: 355 (0.23%) (Ranked 276)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,493 | 355 |
+| 2024-01-16 | 151,508 | 355 |
 ## Awards
-Max (Great for Beginners): 4,963  (Ranked 81)  
-Sum: 28,002 (Ranked 52)  
+Max (Great for Beginners): 4,964  (Ranked 81)  
+Sum: 28,003 (Ranked 52)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,963 |
+| This game is Great for Beginners | 4,964 |
 | This game is Relaxing | 4,080 |
 | This game has Quickly Understood Controls | 4,075 |
 | This game has Diverse Characters | 4,037 |
@@ -758,4 +758,4 @@ Diff (max vs sum): 29
 | 2024-01-13 | 4.00 | - | 4,954 | 27,989 |
 | 2024-01-14 | 4.00 | - | 4,959 | 27,994 |
 | 2024-01-15 | 4.00 | - | 4,963 | 28,000 |
-| 2024-01-16 | 4.00 | - | 4,963 | 28,002 |
+| 2024-01-16 | 4.00 | - | 4,964 | 28,003 |

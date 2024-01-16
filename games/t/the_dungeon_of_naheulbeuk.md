@@ -6,27 +6,27 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,911 |
-| Alt+F4 | 11.00% | ~27,325 |
-| Where's that freaking Dwarf? | 9.00% | ~22,357 |
+| Sowwy! | 37.00% | ~91,914 |
+| Alt+F4 | 11.00% | ~27,326 |
+| Where's that freaking Dwarf? | 9.00% | ~22,358 |
 | Déjà vu | 8.00% | ~19,873 |
-| Sock! SOCK! | 6.00% | ~14,904 |
-| Speedrun | 6.00% | ~14,904 |
-| A beer, two curses, three companions | 5.00% | ~12,420 |
-| GG EZ | 5.00% | ~12,420 |
-| DM intervention | 5.00% | ~12,420 |
-| Way of the Wimp | 4.00% | ~9,936 |
-| The plot thickens... At the tavern | 4.00% | ~9,936 |
-| Fireproof Wizardess | 4.00% | ~9,936 |
-| Livin' in a dwarven paradise | 3.00% | ~7,452 |
-| The demons' feast | 3.00% | ~7,452 |
-| The Great Library | 3.00% | ~7,452 |
-| Torture and Sensibility | 3.00% | ~7,452 |
-| Urik's Depths | 3.00% | ~7,452 |
-| The Dungeon Master | 3.00% | ~7,452 |
-| The Woman in the High Castle | 3.00% | ~7,452 |
-| Team Building Exercise | 3.00% | ~7,452 |
-| Oh, when I'll be level 10... | 3.00% | ~7,452 |
+| Sock! SOCK! | 6.00% | ~14,905 |
+| Speedrun | 6.00% | ~14,905 |
+| A beer, two curses, three companions | 5.00% | ~12,421 |
+| GG EZ | 5.00% | ~12,421 |
+| DM intervention | 5.00% | ~12,421 |
+| Way of the Wimp | 4.00% | ~9,937 |
+| The plot thickens... At the tavern | 4.00% | ~9,937 |
+| Fireproof Wizardess | 4.00% | ~9,937 |
+| Livin' in a dwarven paradise | 3.00% | ~7,453 |
+| The demons' feast | 3.00% | ~7,453 |
+| The Great Library | 3.00% | ~7,453 |
+| Torture and Sensibility | 3.00% | ~7,453 |
+| Urik's Depths | 3.00% | ~7,453 |
+| The Dungeon Master | 3.00% | ~7,453 |
+| The Woman in the High Castle | 3.00% | ~7,453 |
+| Team Building Exercise | 3.00% | ~7,453 |
+| Oh, when I'll be level 10... | 3.00% | ~7,453 |
 | Shiny and Crôm | 2.00% | ~4,968 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,968 |
 | Res Judicata | 2.00% | ~4,968 |
@@ -50,7 +50,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.80% | ~1,987 |
 | Holistic Adventuring Party | 0.70% | ~1,739 |
 | Law and Order | 0.70% | ~1,739 |
-| Scholar of the Lands of Fangh | 0.60% | ~1,490 |
+| Scholar of the Lands of Fangh | 0.60% | ~1,491 |
 | It's been a hard day's night | 0.50% | ~1,242 |
 | Friendly fire | 0.40% | ~994 |
 | I'd rather... Just... Sing! | 0.40% | ~994 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~248 |
 | Dwarf Candy | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,408 (Ranked 72)  
+Progressed: 248,417 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 9 (0.00%) (Ranked 404)
 | 2024-01-13 | 247,988 | 9 |
 | 2024-01-14 | 248,183 | 9 |
 | 2024-01-15 | 248,300 | 9 |
-| 2024-01-16 | 248,408 | 9 |
+| 2024-01-16 | 248,417 | 9 |
 ## Awards
 Max (Character Customization): 272  (Ranked 278)  
 Sum: 572 (Ranked 331)  

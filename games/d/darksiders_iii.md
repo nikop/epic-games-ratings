@@ -33,7 +33,7 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 30.00% | ~187 |
 | Unyielding Strength | 27.00% | ~168 |
 | Can you restore the Balance? | 27.00% | ~168 |
-| Crowd Source | 26.00% | ~162 |
+| Crowd Source | 27.00% | ~168 |
 | Big Spender | 26.00% | ~162 |
 | Cleanup Crew | 25.00% | ~156 |
 | Seeing Red | 25.00% | ~156 |
@@ -45,8 +45,8 @@ Number of Ratings: 116  (23.09.2022)
 | Path of the Horseman | 15.00% | ~93 |
 | Community Outreach | 15.00% | ~93 |
 | A Parting Gift | 14.00% | ~87 |
+| Take it to the Limit | 14.00% | ~87 |
 | Unbreakable Will | 13.00% | ~81 |
-| Take it to the Limit | 13.00% | ~81 |
 | Demon Keeper | 12.00% | ~75 |
 | Holy Keeper | 11.00% | ~69 |
 | Humanitarian | 9.00% | ~56 |

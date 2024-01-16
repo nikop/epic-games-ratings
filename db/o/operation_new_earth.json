@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2265,
+  "EOS_Progressed": 2267,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8751,6 +8751,11 @@
       "Time": "2024-01-16T21:05:33.1615325+00:00",
       "NumProgressed": 2265,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T22:07:26.4435894+00:00",
+      "NumProgressed": 2267,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8768,9 +8773,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8890,7 +8895,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8938,7 +8943,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8954,7 +8959,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8986,7 +8991,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -9018,7 +9023,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -9048,9 +9053,9 @@
       "ID": "objective_research_unlock_light_infantry_tier_4",
       "SetID": "bm61c2p",
       "Name": "Jet Troops",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -9065,7 +9070,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2265,
+      "Progressed": 2267,
       "Completed": 1
     }
   ],
@@ -9073,8 +9078,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:05:33.1615322+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:07:26.4435891+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:57:46.9765767+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:05:33.1615834+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:58:19.0740197+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:07:26.4436572+00:00"
 }

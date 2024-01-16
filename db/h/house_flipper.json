@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2313,9 +2313,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22166,
+  "EOS_Progressed": 22167,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13488,6 +13488,11 @@
       "Time": "2024-01-16T19:04:47.8738161+00:00",
       "NumProgressed": 22166,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-16T22:05:15.9152492+00:00",
+      "NumProgressed": 22167,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13547,7 +13552,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21058
+      "UsersEstimate": 21059
     },
     {
       "ID": "GameOver",
@@ -13571,7 +13576,7 @@
       "Name": "Wall Street Shark",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "JimmyTraitor",
@@ -13619,7 +13624,7 @@
       "Name": "Negotiator",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "Perfectionist",
@@ -13659,7 +13664,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6871
+      "UsersEstimate": 6872
     },
     {
       "ID": "VeronicaLiptson",
@@ -13682,15 +13687,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22166,
+      "Progressed": 22167,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-15T13:03:18.735213+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:03:52.8938101+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:05:15.9152488+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.8721647+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:58:19.9648644+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:03:52.8938647+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:59:02.4641261+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:05:15.9153104+00:00"
 }

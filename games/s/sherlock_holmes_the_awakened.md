@@ -5,36 +5,36 @@ Rating: 4.52 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~919 |
+| Read Between The Lines | 63.00% | ~920 |
 | To Hell In A Handcart | 62.00% | ~905 |
-| High Profile | 55.00% | ~802 |
+| High Profile | 55.00% | ~803 |
 | Whispers In The Dark | 52.00% | ~759 |
-| Fond Memories | 51.00% | ~744 |
-| A Method To His Madness | 48.00% | ~700 |
+| Fond Memories | 50.00% | ~730 |
+| A Method To His Madness | 48.00% | ~701 |
 | History Check | 47.00% | ~686 |
 | The New World | 45.00% | ~657 |
 | Gaze Into The Abyss | 44.00% | ~642 |
 | Open Sesame | 44.00% | ~642 |
 | Sticky Fingers | 44.00% | ~642 |
 | Knives Out | 44.00% | ~642 |
-| Lock, Stock, And Barrel | 43.00% | ~627 |
-| Land, Ho! | 43.00% | ~627 |
+| Lock, Stock, And Barrel | 43.00% | ~628 |
+| Land, Ho! | 43.00% | ~628 |
 | Back In The Saddle | 42.00% | ~613 |
 | No Man Is An Island | 42.00% | ~613 |
-| At Wits' End | 41.00% | ~598 |
+| At Wits' End | 41.00% | ~599 |
 | Fhtagn! | 40.00% | ~584 |
 | Up In Flames | 39.00% | ~569 |
-| Bookworm | 38.00% | ~554 |
-| Going Once... | 36.00% | ~525 |
+| Bookworm | 38.00% | ~555 |
+| Going Once... | 36.00% | ~526 |
 | Let Me Be Frank | 35.00% | ~511 |
-| No Stone Unturned | 33.00% | ~481 |
-| Brain Food | 31.00% | ~452 |
+| No Stone Unturned | 33.00% | ~482 |
+| Brain Food | 31.00% | ~453 |
 | Read It And Weep | 20.00% | ~292 |
 | Curiosity Killed The Cat | 19.00% | ~277 |
 | Big Breakthrough | 13.00% | ~190 |
 | Reawakened | 4.00% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,459 (Ranked 273)  
+Progressed: 1,460 (Ranked 273)  
 Completed: 48 (3.29%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 48 (3.29%) (Ranked 106)
 | 2024-01-13 | 1,448 | 47 |
 | 2024-01-14 | 1,453 | 47 |
 | 2024-01-15 | 1,457 | 48 |
-| 2024-01-16 | 1,459 | 48 |
+| 2024-01-16 | 1,460 | 48 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

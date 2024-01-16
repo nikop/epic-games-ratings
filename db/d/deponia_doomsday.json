@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 391,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 533,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.32,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -955,6 +955,11 @@
       "Time": "2024-01-16T18:06:37.5117975+00:00",
       "NumProgressed": 532,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T22:07:05.4561233+00:00",
+      "NumProgressed": 533,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -964,9 +969,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 448
     },
     {
       "ID": "dep4_achievement_10",
@@ -1022,7 +1027,7 @@
       "Name": "Brainfreeze",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "dep4_achievement_17",
@@ -1038,7 +1043,7 @@
       "Name": "Chunky",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "dep4_achievement_19",
@@ -1046,7 +1051,7 @@
       "Name": "FunScore",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "dep4_achievement_2",
@@ -1094,7 +1099,7 @@
       "Name": "Thuna...?",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "dep4_achievement_25",
@@ -1102,15 +1107,15 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 192
+      "UsersEstimate": 187
     },
     {
       "ID": "dep4_achievement_27",
@@ -1126,7 +1131,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "dep4_achievement_29",
@@ -1142,7 +1147,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "dep4_achievement_30",
@@ -1150,7 +1155,7 @@
       "Name": "Elysian Minigame-Master",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "dep4_achievement_31",
@@ -1174,7 +1179,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "dep4_achievement_34",
@@ -1204,9 +1209,9 @@
       "ID": "dep4_achievement_4",
       "SetID": "5d32b60",
       "Name": "Funtime\u0027s over",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 266
     },
     {
       "ID": "dep4_achievement_5",
@@ -1214,7 +1219,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "dep4_achievement_6",
@@ -1222,7 +1227,7 @@
       "Name": "School\u0027s out",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "dep4_achievement_7",
@@ -1230,7 +1235,7 @@
       "Name": "Portals come in packs",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "dep4_achievement_8",
@@ -1253,7 +1258,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 533,
       "Completed": 7
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:05:17.288002+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:07:05.456123+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.9256921+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:03:05.8428154+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:05:17.2880241+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:04:11.9372477+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:07:05.4561453+00:00"
 }

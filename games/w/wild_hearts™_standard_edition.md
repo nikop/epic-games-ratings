@@ -11,7 +11,7 @@
 | Man-Machine Master | 50.00% | ~688 |
 | Mountain Splitter | 50.00% | ~688 |
 | Charmed by the Hunt | 50.00% | ~688 |
-| Memory Rouser | 48.00% | ~660 |
+| Memory Rouser | 49.00% | ~674 |
 | Subsistence Skills | 48.00% | ~660 |
 | Fusion Conjuror | 47.00% | ~647 |
 | Kemono Hunter | 44.00% | ~605 |
@@ -20,7 +20,7 @@
 | Bonds of Enmity | 39.00% | ~537 |
 | Flawless Crystal | 38.00% | ~523 |
 | Distance Devourer | 37.00% | ~509 |
-| Counter Specialist | 34.00% | ~468 |
+| Counter Specialist | 35.00% | ~482 |
 | Master of the Skies | 32.00% | ~440 |
 | Axer of Auspice | 29.00% | ~399 |
 | Mighty Marmelizer | 28.00% | ~385 |

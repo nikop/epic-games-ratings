@@ -6,15 +6,15 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,039 |
-| First Steps | 80.00% | ~36,162 |
-| Control the Shadows | 67.00% | ~30,286 |
-| Tools of the Trade | 63.00% | ~28,478 |
+| Awakening | 93.00% | ~42,040 |
+| First Steps | 80.00% | ~36,163 |
+| Control the Shadows | 67.00% | ~30,287 |
+| Tools of the Trade | 63.00% | ~28,479 |
 | Apprentice | 60.00% | ~27,122 |
 | Secret Seeker | 57.00% | ~25,766 |
 | Forge of Assassins | 55.00% | ~24,862 |
 | Revenant | 52.00% | ~23,506 |
-| I don’t Care! | 46.00% | ~20,793 |
+| I don’t Care! | 46.00% | ~20,794 |
 | Bird of Prey | 37.00% | ~16,725 |
 | Engraved with Power | 32.00% | ~14,465 |
 | Lady | 31.00% | ~14,013 |
@@ -26,10 +26,10 @@ Number of Ratings: 88  (23.09.2022)
 | Clinging to Life | 18.00% | ~8,137 |
 | Burning | 17.00% | ~7,685 |
 | Look Behind You | 17.00% | ~7,685 |
-| Sleeping on the Job | 16.00% | ~7,232 |
-| Family | 14.00% | ~6,328 |
-| War Engines | 14.00% | ~6,328 |
-| Signature Move | 14.00% | ~6,328 |
+| Sleeping on the Job | 16.00% | ~7,233 |
+| Family | 14.00% | ~6,329 |
+| War Engines | 14.00% | ~6,329 |
+| Signature Move | 14.00% | ~6,329 |
 | Ruse | 12.00% | ~5,424 |
 | Master Ninja | 11.00% | ~4,972 |
 | Hatching | 10.00% | ~4,520 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~904 |
 | Legacy | 2.00% | ~904 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,203 (Ranked 129)  
+Progressed: 45,204 (Ranked 129)  
 Completed: 250 (0.55%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 250 (0.55%) (Ranked 221)
 | 2024-01-13 | 45,111 | 248 |
 | 2024-01-14 | 45,146 | 249 |
 | 2024-01-15 | 45,175 | 250 |
-| 2024-01-16 | 45,203 | 250 |
+| 2024-01-16 | 45,204 | 250 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

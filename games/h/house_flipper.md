@@ -6,8 +6,8 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 95.00% | ~21,058 |
-| Strongman | 31.00% | ~6,871 |
+| First money | 95.00% | ~21,059 |
+| Strongman | 31.00% | ~6,872 |
 | Just Enough | 20.00% | ~4,433 |
 | Alpha Male | 20.00% | ~4,433 |
 | Pro-creative | 19.00% | ~4,212 |
@@ -22,15 +22,15 @@ Number of Ratings: 1,023  (23.09.2022)
 | I'm Belieber | 3.00% | ~665 |
 | Knock, knock | 1.00% | ~222 |
 | You do it wrong | 1.00% | ~222 |
-| Wall Street Shark | 0.90% | ~199 |
-| Negotiator | 0.90% | ~199 |
+| Wall Street Shark | 0.90% | ~200 |
+| Negotiator | 0.90% | ~200 |
 | Car Mechanic | 0.80% | ~177 |
 | Game Over | 0.80% | ~177 |
 | Nerd | 0.60% | ~133 |
 | Do it ASAP | 0.60% | ~133 |
 | Senior Estate Agent | 0.60% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,166 (Ranked 153)  
+Progressed: 22,167 (Ranked 153)  
 Completed: 21 (0.09%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 21 (0.09%) (Ranked 324)
 | 2024-01-13 | 22,136 | 21 |
 | 2024-01-14 | 22,149 | 21 |
 | 2024-01-15 | 22,154 | 21 |
-| 2024-01-16 | 22,166 | 21 |
+| 2024-01-16 | 22,167 | 21 |
 ## Awards
 Max (Great for Beginners): 331  (Ranked 255)  
 Sum: 2,304 (Ranked 210)  

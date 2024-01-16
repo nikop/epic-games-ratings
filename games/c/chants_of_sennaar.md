@@ -5,34 +5,34 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 61.00% | ~1,715 |
-| Welcome to the Tower | 54.00% | ~1,518 |
-| The great escape | 47.00% | ~1,322 |
-| The Preacher's fate | 44.00% | ~1,237 |
-| A new dawn | 38.00% | ~1,069 |
-| Scholar | 34.00% | ~956 |
-| The darkness | 33.00% | ~928 |
-| A good beginning | 32.00% | ~900 |
-| True G3M4R | 32.00% | ~900 |
-| One last step | 29.00% | ~815 |
-| I did it | 28.00% | ~787 |
-| Cable guy | 28.00% | ~787 |
-| Half the way | 28.00% | ~787 |
-| Peace walker | 27.00% | ~759 |
-| Rascal | 27.00% | ~759 |
-| Champollion | 27.00% | ~759 |
-| In this together | 26.00% | ~731 |
-| Open door | 23.00% | ~647 |
-| Feels like springtime | 23.00% | ~647 |
-| Alchemists Express | 22.00% | ~619 |
-| Free at last | 20.00% | ~562 |
-| A Link to the Past | 17.00% | ~478 |
+| That's the spirit | 61.00% | ~1,718 |
+| Welcome to the Tower | 54.00% | ~1,521 |
+| The great escape | 47.00% | ~1,324 |
+| The Preacher's fate | 44.00% | ~1,239 |
+| A new dawn | 38.00% | ~1,070 |
+| Scholar | 34.00% | ~957 |
+| The darkness | 33.00% | ~929 |
+| True G3M4R | 32.00% | ~901 |
+| A good beginning | 31.00% | ~873 |
+| One last step | 29.00% | ~817 |
+| I did it | 28.00% | ~788 |
+| Cable guy | 28.00% | ~788 |
+| Half the way | 28.00% | ~788 |
+| Peace walker | 27.00% | ~760 |
+| Rascal | 27.00% | ~760 |
+| Champollion | 27.00% | ~760 |
+| In this together | 26.00% | ~732 |
+| Open door | 23.00% | ~648 |
+| Feels like springtime | 23.00% | ~648 |
+| Alchemists Express | 22.00% | ~620 |
+| Free at last | 20.00% | ~563 |
+| A Link to the Past | 17.00% | ~479 |
 | A great audience | 15.00% | ~422 |
 | For its own good | 15.00% | ~422 |
-| Fashion victim | 10.00% | ~281 |
+| Fashion victim | 10.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,812 (Ranked 235)  
-Completed: 215 (7.65%) (Ranked 54)  
+Progressed: 2,816 (Ranked 235)  
+Completed: 215 (7.63%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,7 +209,7 @@ Completed: 215 (7.65%) (Ranked 54)
 | 2024-01-13 | 2,740 | 204 |
 | 2024-01-14 | 2,773 | 208 |
 | 2024-01-15 | 2,799 | 211 |
-| 2024-01-16 | 2,812 | 215 |
+| 2024-01-16 | 2,816 | 215 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

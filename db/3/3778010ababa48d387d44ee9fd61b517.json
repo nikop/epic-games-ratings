@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -650,9 +650,9 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "A_CHAINBOLT",
@@ -898,9 +898,9 @@
       "ID": "A_SUNKEN",
       "SetID": "324h56e",
       "Name": "The Sunken City",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "A_TURRET",
@@ -953,8 +953,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:05:36.8764393+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:07:31.3276538+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:58:54.6871268+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:05:36.8764671+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:59:49.0544349+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:07:31.3276754+00:00"
 }

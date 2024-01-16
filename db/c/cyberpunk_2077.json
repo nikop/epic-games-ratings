@@ -18548,9 +18548,9 @@
       "Count": 19123
     }
   ],
-  "EOS_Progressed": 1053032,
+  "EOS_Progressed": 1053055,
   "EOS_Completed": 3109,
-  "EOS_NewPlayers": 12692,
+  "EOS_NewPlayers": 12585,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -49628,6 +49628,11 @@
       "Time": "2024-01-16T21:08:51.2820032+00:00",
       "NumProgressed": 1053032,
       "NumCompleted": 3109
+    },
+    {
+      "Time": "2024-01-16T22:10:03.0232+00:00",
+      "NumProgressed": 1053055,
+      "NumCompleted": 3109
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49662,9 +49667,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "Denied",
@@ -49902,9 +49907,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "TheWorld",
@@ -50175,21 +50180,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1053032,
+      "Progressed": 1053055,
       "Completed": 3109
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 181655,
-      "Completed": 10633
+      "Progressed": 181678,
+      "Completed": 10634
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-16T21:03:04.9307258+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:08:51.2820028+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:10:03.0231997+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:03:04.9307266+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:08:51.2822136+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:04:10.6543983+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:10:03.0233962+00:00"
 }

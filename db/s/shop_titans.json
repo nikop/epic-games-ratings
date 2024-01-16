@@ -8135,11 +8135,17 @@
       "Rating": 4,
       "NumberOfAwards": 28002,
       "NumberOfAwardsMax": 4963
+    },
+    {
+      "Time": "2024-01-16T22:04:18.3866428+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28003,
+      "NumberOfAwardsMax": 4964
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28002,
-  "NumberOfAwardsMax": 4963,
+  "NumberOfAwards": 28003,
+  "NumberOfAwardsMax": 4964,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8158,7 +8164,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4963
+      "Count": 4964
     },
     {
       "Text": "This game has Easy Combat",
@@ -8191,9 +8197,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151493,
+  "EOS_Progressed": 151508,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1025,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36966,6 +36972,11 @@
       "Time": "2024-01-16T21:09:00.179253+00:00",
       "NumProgressed": 151493,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-16T22:10:14.3368596+00:00",
+      "NumProgressed": 151508,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -37145,7 +37156,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16666
     },
     {
       "ID": "chest02",
@@ -37201,7 +37212,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "commonres01",
@@ -37209,7 +37220,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15149
+      "UsersEstimate": 15151
     },
     {
       "ID": "commonres02",
@@ -37241,7 +37252,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12119
+      "UsersEstimate": 12121
     },
     {
       "ID": "craft02",
@@ -37273,7 +37284,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "damage01",
@@ -37321,7 +37332,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "energy01",
@@ -37353,7 +37364,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10605
+      "UsersEstimate": 10606
     },
     {
       "ID": "expansion02",
@@ -37449,7 +37460,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15149
+      "UsersEstimate": 15151
     },
     {
       "ID": "gold02",
@@ -37513,7 +37524,7 @@
       "Name": "Capitalist Camaraderie",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "hemma_a",
@@ -37545,7 +37556,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1060
+      "UsersEstimate": 1061
     },
     {
       "ID": "legenchant01",
@@ -37561,7 +37572,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10605
+      "UsersEstimate": 10606
     },
     {
       "ID": "level02",
@@ -37585,7 +37596,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "lilu_a",
@@ -37665,7 +37676,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "masterpiece",
@@ -37737,7 +37748,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "rudo_a",
@@ -37753,7 +37764,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12119
+      "UsersEstimate": 12121
     },
     {
       "ID": "sell02",
@@ -37793,7 +37804,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16664
+      "UsersEstimate": 16666
     },
     {
       "ID": "twinenchant01",
@@ -37872,15 +37883,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151493,
+      "Progressed": 151508,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-16T05:03:39.7092636+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:09:00.1792526+00:00",
+  "LastChanged": "2024-01-16T22:04:18.3866426+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:10:14.3368593+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:03:10.2339913+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:09:00.179513+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:04:18.3866431+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:10:14.3371037+00:00"
 }

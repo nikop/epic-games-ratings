@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -1985,9 +1985,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69669,
+  "EOS_Progressed": 69672,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31955,6 +31955,11 @@
       "Time": "2024-01-16T21:06:21.7709019+00:00",
       "NumProgressed": 69669,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T22:08:59.0899412+00:00",
+      "NumProgressed": 69672,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31966,7 +31971,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 38318
+      "UsersEstimate": 38320
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -32006,7 +32011,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -32022,7 +32027,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -32190,7 +32195,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3483
+      "UsersEstimate": 3484
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -32198,7 +32203,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18114
+      "UsersEstimate": 18115
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -32222,7 +32227,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22294
+      "UsersEstimate": 22295
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -32230,7 +32235,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27171
+      "UsersEstimate": 27172
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -32254,7 +32259,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43891
+      "UsersEstimate": 43893
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -32262,7 +32267,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8360
+      "UsersEstimate": 8361
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -32278,7 +32283,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 16024
+      "UsersEstimate": 16025
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -32334,7 +32339,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 54342
+      "UsersEstimate": 54344
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -32430,22 +32435,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25778
+      "UsersEstimate": 25779
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69669,
+      "Progressed": 69672,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-14T16:58:57.2667517+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:06:21.7709017+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:08:59.0899409+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.4776116+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:00:11.3809322+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:06:21.7710629+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:01:37.3665888+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:08:59.0901409+00:00"
 }

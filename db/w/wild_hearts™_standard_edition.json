@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1376,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4556,9 +4556,9 @@
       "ID": "achievement_15",
       "SetID": "2cpn27e",
       "Name": "Memory Rouser",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 660
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_16",
@@ -4588,9 +4588,9 @@
       "ID": "achievement_19",
       "SetID": "2cpn27e",
       "Name": "Counter Specialist",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 482
     },
     {
       "ID": "achievement_2",
@@ -4898,8 +4898,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:09:57.1168334+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:11:03.9505261+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-16T21:00:17.8792344+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:09:57.1168893+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:01:45.9905823+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:11:03.9505699+00:00"
 }

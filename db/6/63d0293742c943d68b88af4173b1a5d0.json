@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 817,
+  "EOS_Progressed": 818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2634,6 +2634,11 @@
       "Time": "2024-01-16T17:03:43.9835902+00:00",
       "NumProgressed": 817,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T22:04:59.2995023+00:00",
+      "NumProgressed": 818,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2686,7 +2691,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "9",
@@ -2710,7 +2715,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "REMAKE_004",
@@ -2869,14 +2874,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 817,
+      "Progressed": 818,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:03:40.1232273+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:04:59.2994962+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:58:16.8714297+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:03:40.1232567+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:58:57.7887847+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:04:59.2995282+00:00"
 }

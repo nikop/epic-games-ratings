@@ -16,9 +16,9 @@ Rating: 4.13 (Ranked 1,018)
 | Scholar | 25.00% | ~589 |
 | I Found It | 25.00% | ~589 |
 | Fashion Victim | 24.00% | ~566 |
+| Tributes of Caladrias | 23.00% | ~542 |
 | Stone Collection | 23.00% | ~542 |
 | Powerful Allies | 22.00% | ~519 |
-| Tributes of Caladrias | 22.00% | ~519 |
 | Big Bazar | 15.00% | ~354 |
 | Alchemist | 15.00% | ~354 |
 | Essence Blow | 14.00% | ~330 |
@@ -43,7 +43,7 @@ Rating: 4.13 (Ranked 1,018)
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,357 (Ranked 244)  
-Completed: 3 (0.13%) (Ranked 303)  
+Completed: 4 (0.17%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,7 +138,7 @@ Completed: 3 (0.13%) (Ranked 303)
 | 2024-01-13 | 2,309 | 3 |
 | 2024-01-14 | 2,332 | 3 |
 | 2024-01-15 | 2,348 | 3 |
-| 2024-01-16 | 2,357 | 3 |
+| 2024-01-16 | 2,357 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

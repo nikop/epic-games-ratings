@@ -19,7 +19,7 @@ Rating: 4.52 (Ranked 580)
 | Colonial Barrels | 43.00% | ~2,781 |
 | Harper's Hell | 39.00% | ~2,522 |
 | Making a Stand | 37.00% | ~2,393 |
-| Damn Dude, You Gotta Lose Some Weight! | 35.00% | ~2,263 |
+| Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,328 |
 | Where It All Begun | 34.00% | ~2,199 |
 | Recouped Investment | 32.00% | ~2,069 |
 | The More The Merrier | 29.00% | ~1,875 |
@@ -47,8 +47,8 @@ Rating: 4.52 (Ranked 580)
 | The True Experience | 5.00% | ~323 |
 | Archivist | 2.00% | ~129 |
 | Fair And Square | 2.00% | ~129 |
+| Chalk It Up To Experience | 0.80% | ~52 |
 | Perfect Organism | 0.70% | ~45 |
-| Chalk It Up To Experience | 0.70% | ~45 |
 | This Ain't No Picnic | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,467 (Ranked 202)  

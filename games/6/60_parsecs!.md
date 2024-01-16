@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~825 |
-| Space Colonization | 80.00% | ~681 |
-| Friendzone | 79.00% | ~672 |
-| Hello World | 74.00% | ~630 |
-| Space Engineer | 64.00% | ~545 |
-| Tinkerer | 63.00% | ~536 |
-| Dust to Dust | 59.00% | ~502 |
-| Across The Stars | 48.00% | ~408 |
-| Crafty | 48.00% | ~408 |
-| All Seats Taken | 39.00% | ~332 |
-| For Science! | 35.00% | ~298 |
-| Meet the Petersons | 32.00% | ~272 |
-| Stay Cool | 29.00% | ~247 |
-| KIA | 27.00% | ~230 |
-| Mutiny in making | 24.00% | ~204 |
-| Eco-Shuttle | 20.00% | ~170 |
-| Et tu, Astrocitizen? | 20.00% | ~170 |
-| Space Explorer | 17.00% | ~145 |
-| Hands Full | 13.00% | ~111 |
-| Gold Medalist | 12.00% | ~102 |
-| Non-Fiction | 12.00% | ~102 |
-| No Man Left Behind | 9.00% | ~77 |
-| Fix-It Felix | 8.00% | ~68 |
-| Intergalactic Breakup | 8.00% | ~68 |
-| Second Life | 8.00% | ~68 |
+| Don't Panic! | 97.00% | ~836 |
+| Space Colonization | 80.00% | ~690 |
+| Friendzone | 79.00% | ~681 |
+| Hello World | 74.00% | ~638 |
+| Space Engineer | 64.00% | ~552 |
+| Tinkerer | 63.00% | ~543 |
+| Dust to Dust | 58.00% | ~500 |
+| Across The Stars | 47.00% | ~405 |
+| Crafty | 47.00% | ~405 |
+| All Seats Taken | 39.00% | ~336 |
+| For Science! | 34.00% | ~293 |
+| Meet the Petersons | 32.00% | ~276 |
+| Stay Cool | 29.00% | ~250 |
+| KIA | 27.00% | ~233 |
+| Mutiny in making | 24.00% | ~207 |
+| Eco-Shuttle | 20.00% | ~172 |
+| Et tu, Astrocitizen? | 20.00% | ~172 |
+| Space Explorer | 16.00% | ~138 |
+| Hands Full | 13.00% | ~112 |
+| Gold Medalist | 12.00% | ~103 |
+| Non-Fiction | 11.00% | ~95 |
+| No Man Left Behind | 9.00% | ~78 |
+| Fix-It Felix | 8.00% | ~69 |
+| Intergalactic Breakup | 8.00% | ~69 |
+| Second Life | 8.00% | ~69 |
 | First of April | 7.00% | ~60 |
 | Flawless Maegangement | 7.00% | ~60 |
-| Axel jump in space! | 6.00% | ~51 |
+| Axel jump in space! | 6.00% | ~52 |
 | Extreme Makeover | 5.00% | ~43 |
 | The Improvinator | 4.00% | ~34 |
 | The Last Supper | 4.00% | ~34 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 851 (Ranked 312)  
+Progressed: 862 (Ranked 310)  
 Completed: 1 (0.12%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,7 +204,7 @@ Completed: 1 (0.12%) (Ranked 309)
 | 2024-01-13 | 827 | 1 |
 | 2024-01-14 | 829 | 1 |
 | 2024-01-15 | 830 | 1 |
-| 2024-01-16 | 851 | 1 |
+| 2024-01-16 | 862 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

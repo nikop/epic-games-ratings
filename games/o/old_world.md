@@ -26,36 +26,36 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 3.00% | ~508 |
 | Pyramids | 3.00% | ~508 |
 | Judaism | 3.00% | ~508 |
+| Naming Landmarks | 3.00% | ~508 |
 | Trade Caravan | 3.00% | ~508 |
-| Regicide | 2.00% | ~338 |
-| Ambitious | 2.00% | ~338 |
-| Brilliant | 2.00% | ~338 |
-| Fountainhead | 2.00% | ~338 |
-| Glorious | 2.00% | ~338 |
-| Great | 2.00% | ~338 |
-| Magnificent | 2.00% | ~338 |
-| Warrior | 2.00% | ~338 |
-| Wise | 2.00% | ~338 |
-| Developing Cities | 2.00% | ~338 |
-| Strong Cities | 2.00% | ~338 |
-| Able Difficulty | 2.00% | ~338 |
-| Furious Family | 2.00% | ~338 |
-| Apadana | 2.00% | ~338 |
-| Great Ziggurat | 2.00% | ~338 |
-| Ishtar Gate | 2.00% | ~338 |
-| Lighthouse | 2.00% | ~338 |
-| Necropolis | 2.00% | ~338 |
-| Learn to Play 1 | 2.00% | ~338 |
-| Learn to Play 2 | 2.00% | ~338 |
-| Christianity | 2.00% | ~338 |
-| Manichaeism | 2.00% | ~338 |
-| Babylonian Paganism | 2.00% | ~338 |
-| Carthaginian Paganism | 2.00% | ~338 |
-| Egyptian Paganism | 2.00% | ~338 |
-| Greek Paganism | 2.00% | ~338 |
-| Roman Paganism | 2.00% | ~338 |
-| Zoroastrianism | 2.00% | ~338 |
-| Naming Landmarks | 2.00% | ~338 |
+| Regicide | 2.00% | ~339 |
+| Ambitious | 2.00% | ~339 |
+| Brilliant | 2.00% | ~339 |
+| Fountainhead | 2.00% | ~339 |
+| Glorious | 2.00% | ~339 |
+| Great | 2.00% | ~339 |
+| Magnificent | 2.00% | ~339 |
+| Warrior | 2.00% | ~339 |
+| Wise | 2.00% | ~339 |
+| Developing Cities | 2.00% | ~339 |
+| Strong Cities | 2.00% | ~339 |
+| Able Difficulty | 2.00% | ~339 |
+| Furious Family | 2.00% | ~339 |
+| Apadana | 2.00% | ~339 |
+| Great Ziggurat | 2.00% | ~339 |
+| Ishtar Gate | 2.00% | ~339 |
+| Lighthouse | 2.00% | ~339 |
+| Necropolis | 2.00% | ~339 |
+| Learn to Play 1 | 2.00% | ~339 |
+| Learn to Play 2 | 2.00% | ~339 |
+| Christianity | 2.00% | ~339 |
+| Manichaeism | 2.00% | ~339 |
+| Babylonian Paganism | 2.00% | ~339 |
+| Carthaginian Paganism | 2.00% | ~339 |
+| Egyptian Paganism | 2.00% | ~339 |
+| Greek Paganism | 2.00% | ~339 |
+| Roman Paganism | 2.00% | ~339 |
+| Zoroastrianism | 2.00% | ~339 |
 | Hanging Gardens in Babylon | 1.00% | ~169 |
 | Drillmaster | 1.00% | ~169 |
 | Intercessor | 1.00% | ~169 |
@@ -88,6 +88,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
+| Pantheon | 0.80% | ~135 |
+| Via Recta Souk | 0.80% | ~135 |
 | Economic Reform | 0.80% | ~135 |
 | Dualism | 0.80% | ~135 |
 | Legalism | 0.80% | ~135 |
@@ -101,10 +103,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.70% | ~118 |
 | Riders | 0.70% | ~118 |
 | Circus Maximus | 0.70% | ~118 |
-| Pantheon | 0.70% | ~118 |
-| Via Recta Souk | 0.70% | ~118 |
 | Learn to Play 4 | 0.70% | ~118 |
 | Assyrian Paganism | 0.70% | ~118 |
+| Industrial Progress | 0.70% | ~118 |
 | Military Prestige | 0.70% | ~118 |
 | Cimmerian Archer | 0.70% | ~118 |
 | Ambition Victory | 0.70% | ~118 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.60% | ~102 |
 | Hunters | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |
-| Industrial Progress | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
 | Gnosticism | 0.60% | ~102 |
 | Redemption | 0.60% | ~102 |
@@ -135,6 +135,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
+| Royal Library | 0.50% | ~85 |
+| Yazilikaya | 0.50% | ~85 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
@@ -145,8 +147,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
 | Jebel Barkal | 0.40% | ~68 |
-| Royal Library | 0.40% | ~68 |
-| Yazilikaya | 0.40% | ~68 |
 | Carthage - Ox Hide | 0.30% | ~51 |
 | Noble Difficulty | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,925 (Ranked 169)  
+Progressed: 16,926 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,925 | 5 |
+| 2024-01-16 | 16,926 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,933 (Ranked 223)  

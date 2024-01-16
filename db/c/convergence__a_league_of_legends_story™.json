@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1332,
+  "EOS_Progressed": 1333,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
@@ -4071,6 +4071,11 @@
       "Time": "2024-01-16T15:10:23.6402169+00:00",
       "NumProgressed": 1332,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T22:11:41.4548417+00:00",
+      "NumProgressed": 1333,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4114,7 +4119,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4178,7 +4183,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "FactorywoodChests1",
@@ -4202,7 +4207,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4266,7 +4271,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "LacunaCompleted",
@@ -4274,7 +4279,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MapCompletion1",
@@ -4330,7 +4335,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "ParryRepeated1",
@@ -4370,7 +4375,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "RewindParry",
@@ -4394,7 +4399,7 @@
       "Name": "Golem Chaser",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "SkillCompletion1",
@@ -4410,7 +4415,7 @@
       "Name": "Fast Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "SpeedRun",
@@ -4464,9 +4469,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 347
     },
     {
       "ID": "WatcherFought",
@@ -4474,7 +4479,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "WatcherSpared",
@@ -4490,7 +4495,7 @@
       "Name": "The Brass Boss",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4505,7 +4510,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1332,
+      "Progressed": 1333,
       "Completed": 8
     }
   ],
@@ -4513,8 +4518,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:10:27.4293135+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:11:41.4548413+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:59:43.1721822+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:10:27.4293744+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:00:57.3857049+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:11:41.4548913+00:00"
 }

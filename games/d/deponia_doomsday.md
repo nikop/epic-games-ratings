@@ -5,29 +5,29 @@ Rating: 4.55 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 85.00% | ~452 |
+| Huzza, he's back. | 84.00% | ~448 |
 | And again, and again, and... | 62.00% | ~330 |
-| Kuvaq Minigame-Master | 60.00% | ~319 |
-| Burn, Elysium, burn! | 60.00% | ~319 |
-| FunScore | 54.00% | ~287 |
-| Funtime's over | 51.00% | ~271 |
-| Chunky | 48.00% | ~255 |
-| Boat of love, boat of love | 47.00% | ~250 |
+| Kuvaq Minigame-Master | 60.00% | ~320 |
+| Burn, Elysium, burn! | 60.00% | ~320 |
+| FunScore | 54.00% | ~288 |
+| Funtime's over | 50.00% | ~266 |
+| Chunky | 48.00% | ~256 |
+| Boat of love, boat of love | 47.00% | ~251 |
 | Shall we play a game? | 46.00% | ~245 |
-| School's out | 42.00% | ~223 |
+| School's out | 42.00% | ~224 |
 | Sole Music | 36.00% | ~192 |
-| Scaffolding Expert | 36.00% | ~192 |
-| Elysian Minigame-Master | 35.00% | ~186 |
-| Portals come in packs | 29.00% | ~154 |
+| Scaffolding Expert | 35.00% | ~187 |
+| Elysian Minigame-Master | 35.00% | ~187 |
+| Portals come in packs | 29.00% | ~155 |
 | No man left behind! | 28.00% | ~149 |
 | Photo Friend | 25.00% | ~133 |
-| Brainfreeze | 20.00% | ~106 |
+| Brainfreeze | 20.00% | ~107 |
 | Masseltov | 19.00% | ~101 |
 | And everything comes full circle. | 19.00% | ~101 |
 | Quickdraw | 15.00% | ~80 |
-| Thuna...? | 14.00% | ~74 |
-| Monstrous Harassment | 14.00% | ~74 |
-| Heading the inverter | 14.00% | ~74 |
+| Thuna...? | 14.00% | ~75 |
+| Monstrous Harassment | 14.00% | ~75 |
+| Heading the inverter | 14.00% | ~75 |
 | Blast from the Past | 12.00% | ~64 |
 | Play it again, Ronny | 11.00% | ~59 |
 | Paradox! | 10.00% | ~53 |
@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 532)
 | Every man for himself! | 5.00% | ~27 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532 (Ranked 350)  
-Completed: 7 (1.32%) (Ranked 159)  
+Progressed: 533 (Ranked 350)  
+Completed: 7 (1.31%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -156,7 +156,7 @@ Completed: 7 (1.32%) (Ranked 159)
 | 2024-01-11 | 527 | 7 |
 | 2024-01-12 | 528 | 7 |
 | 2024-01-13 | 531 | 7 |
-| 2024-01-16 | 532 | 7 |
+| 2024-01-16 | 533 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

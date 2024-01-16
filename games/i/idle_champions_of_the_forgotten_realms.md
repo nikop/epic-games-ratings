@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 2.00% | ~5,085 |
 | The Cursed Farmer | 2.00% | ~5,085 |
 | The Mad Wizard | 2.00% | ~5,085 |
-| The Ring of Regeneration | 1.00% | ~2,542 |
+| The Ring of Regeneration | 1.00% | ~2,543 |
 | Are Ya Chicken? | 0.90% | ~2,288 |
 | Were-verpowered | 0.80% | ~2,034 |
 | Seeking Allies | 0.80% | ~2,034 |
@@ -19,7 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.70% | ~1,780 |
 | Pure Energy | 0.70% | ~1,780 |
 | Fast Food | 0.70% | ~1,544 |
-| A Persistent Buzzing | 0.60% | ~1,525 |
+| A Persistent Buzzing | 0.60% | ~1,526 |
 | Maddening | 0.50% | ~1,271 |
 | Terror in the Dark | 0.50% | ~1,271 |
 | Unearthed Evil | 0.50% | ~1,271 |
@@ -53,42 +53,42 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~763 |
 | The Templar's Camp | 0.30% | ~763 |
 | Rescue in the Jungle | 0.30% | ~763 |
-| Pros and CONs | 0.20% | ~508 |
-| Wet Feet | 0.20% | ~508 |
-| Hatchlings Underfoot | 0.20% | ~508 |
-| Supply Run | 0.20% | ~508 |
+| Pros and CONs | 0.20% | ~509 |
+| Wet Feet | 0.20% | ~509 |
+| Hatchlings Underfoot | 0.20% | ~509 |
+| Supply Run | 0.20% | ~509 |
 | Vecna Lives! | 0.20% | ~441 |
-| Homecoming | 0.20% | ~508 |
-| The Lost Heir of Omu | 0.20% | ~508 |
-| The Forbidden City | 0.20% | ~508 |
-| Captured! | 0.20% | ~508 |
-| Street War | 0.20% | ~508 |
-| Wisdom Check | 0.20% | ~508 |
-| The Mists of Ravenloft | 0.20% | ~508 |
-| Family Entanglements | 0.20% | ~508 |
-| The Botched Kidnapping | 0.20% | ~508 |
-| Tower on the Lake | 0.20% | ~508 |
-| Seeds of Deceit | 0.20% | ~508 |
-| Trollskull Manor | 0.20% | ~508 |
-| Attack on the Manor | 0.20% | ~508 |
-| The Death Curse | 0.20% | ~508 |
-| Nimble Escape | 0.20% | ~508 |
-| Fugitives | 0.20% | ~508 |
-| Premature Betrayal | 0.20% | ~508 |
-| A Tale of Two Cities | 0.20% | ~508 |
-| The Dead Three | 0.20% | ~508 |
-| Flying Monkey Skulls of Doom | 0.20% | ~508 |
-| The Darkness Runs Deeper | 0.20% | ~508 |
-| Difficult Terrain | 0.20% | ~508 |
-| Dinosaur Racing | 0.20% | ~508 |
-| Close Escort | 0.20% | ~508 |
-| Constant Banditry | 0.20% | ~508 |
-| The Long Haul | 0.20% | ~508 |
-| Lost in the Deep | 0.20% | ~508 |
-| Easily Distracted | 0.20% | ~508 |
-| Rude Welcome | 0.20% | ~508 |
-| Durable Deep | 0.20% | ~508 |
-| The Haunted Jungle | 0.20% | ~508 |
+| Homecoming | 0.20% | ~509 |
+| The Lost Heir of Omu | 0.20% | ~509 |
+| The Forbidden City | 0.20% | ~509 |
+| Captured! | 0.20% | ~509 |
+| Street War | 0.20% | ~509 |
+| Wisdom Check | 0.20% | ~509 |
+| The Mists of Ravenloft | 0.20% | ~509 |
+| Family Entanglements | 0.20% | ~509 |
+| The Botched Kidnapping | 0.20% | ~509 |
+| Tower on the Lake | 0.20% | ~509 |
+| Seeds of Deceit | 0.20% | ~509 |
+| Trollskull Manor | 0.20% | ~509 |
+| Attack on the Manor | 0.20% | ~509 |
+| The Death Curse | 0.20% | ~509 |
+| Nimble Escape | 0.20% | ~509 |
+| Fugitives | 0.20% | ~509 |
+| Premature Betrayal | 0.20% | ~509 |
+| A Tale of Two Cities | 0.20% | ~509 |
+| The Dead Three | 0.20% | ~509 |
+| Flying Monkey Skulls of Doom | 0.20% | ~509 |
+| The Darkness Runs Deeper | 0.20% | ~509 |
+| Difficult Terrain | 0.20% | ~509 |
+| Dinosaur Racing | 0.20% | ~509 |
+| Close Escort | 0.20% | ~509 |
+| Constant Banditry | 0.20% | ~509 |
+| The Long Haul | 0.20% | ~509 |
+| Lost in the Deep | 0.20% | ~509 |
+| Easily Distracted | 0.20% | ~509 |
+| Rude Welcome | 0.20% | ~509 |
+| Durable Deep | 0.20% | ~509 |
+| The Haunted Jungle | 0.20% | ~509 |
 | The Beginning is the End | 0.20% | ~441 |
 | The Brains of an Illithid's Desire | 0.20% | ~441 |
 | Upholding the Law | 0.10% | ~254 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,240 (Ranked 70)  
+Progressed: 254,260 (Ranked 70)  
 Completed: 2,621 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -824,10 +824,10 @@ Completed: 2,621 (1.03%) (Ranked 178)
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
-| 2024-01-16 | 254,240 | 2,621 |
+| 2024-01-16 | 254,260 | 2,621 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
-Sum: 33,528 (Ranked 41)  
+Sum: 33,530 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -836,7 +836,7 @@ Diff (max vs sum): 33
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,788 |
 | This game is Highly Recommended | 4,335 |
-| This game has Amazing Characters | 4,331 |
+| This game has Amazing Characters | 4,333 |
 | This game has Playful Visuals | 3,647 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1196,4 +1196,4 @@ Diff (max vs sum): 33
 | 2024-01-13 | 4.06 | - | 5,777 | 33,477 |
 | 2024-01-14 | 4.06 | - | 5,782 | 33,493 |
 | 2024-01-15 | 4.06 | - | 5,784 | 33,514 |
-| 2024-01-16 | 4.06 | - | 5,786 | 33,528 |
+| 2024-01-16 | 4.06 | - | 5,786 | 33,530 |

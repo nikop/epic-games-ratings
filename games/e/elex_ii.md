@@ -10,7 +10,7 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 39.00% | ~101 |
 | Civilian | 35.00% | ~91 |
 | Role Model | 34.00% | ~88 |
-| Creator | 31.00% | ~80 |
+| Creator | 32.00% | ~83 |
 | Military Leader | 30.00% | ~78 |
 | Festival-goer | 29.00% | ~75 |
 | Peddler | 25.00% | ~65 |
@@ -22,8 +22,8 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 16.00% | ~41 |
 | Banker | 14.00% | ~36 |
 | Storyteller | 14.00% | ~36 |
+| Berserker | 14.00% | ~36 |
 | Globetrotter | 13.00% | ~34 |
-| Berserker | 13.00% | ~34 |
 | Alb | 11.00% | ~28 |
 | Hunter | 11.00% | ~28 |
 | Lover | 10.00% | ~26 |

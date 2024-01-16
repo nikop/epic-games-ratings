@@ -4,11 +4,11 @@
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 928,
   "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 134,
+  "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -8761,10 +8761,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 6732,
       "NumberOfAwardsMax": 938
+    },
+    {
+      "Time": "2024-01-16T22:01:02.6087993+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 6739,
+      "NumberOfAwardsMax": 938
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6732,
+  "NumberOfAwards": 6739,
   "NumberOfAwardsMax": 938,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8802,7 +8808,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 795
+      "Count": 798
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8826,7 +8832,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 539
+      "Count": 543
     },
     {
       "Text": "This game is Relaxing",
@@ -8859,8 +8865,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2024-01-16T19:59:48.9349537+00:00",
+  "LastChanged": "2024-01-16T22:01:02.6087991+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.6935138+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:59:46.9218969+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:09:16.8294473+00:00"
+  "LastUpdate_Ratings": "2024-01-16T22:01:02.6087996+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:10:35.4478339+00:00"
 }

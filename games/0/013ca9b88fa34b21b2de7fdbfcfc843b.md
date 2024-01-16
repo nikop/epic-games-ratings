@@ -37,9 +37,9 @@ Rating: 4.64 (Ranked 344)
 | Right Tool For the Job | 0.50% | ~46 |
 | House Proud | 0.50% | ~46 |
 | Going Down | 0.50% | ~9 |
+| Angling Authority | 0.30% | ~27 |
 | Captain of Cozy | 0.30% | ~27 |
 | Polyglot | 0.30% | ~5 |
-| Angling Authority | 0.20% | ~18 |
 | Cloverfield Island | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
 | Giving the People What They Want | 0.10% | ~9 |

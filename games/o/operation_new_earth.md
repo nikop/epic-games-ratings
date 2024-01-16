@@ -5,23 +5,23 @@ Rating: 3.33 (Ranked 1,104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~634 |
-| Defenses Online | 25.00% | ~566 |
+| It's Good to have Allies | 28.00% | ~635 |
+| Defenses Online | 25.00% | ~567 |
 | Facility Online | 20.00% | ~453 |
 | Corporal | 15.00% | ~340 |
 | Covert Operative | 12.00% | ~272 |
 | Sergeant | 11.00% | ~249 |
-| Lieutenant | 10.00% | ~226 |
-| Getting Deployment | 10.00% | ~226 |
-| On Target | 10.00% | ~226 |
+| Lieutenant | 10.00% | ~227 |
+| Getting Deployment | 10.00% | ~227 |
+| On Target | 10.00% | ~227 |
 | Keeping Busy | 9.00% | ~204 |
 | Stocking Up | 9.00% | ~204 |
 | Infantry Reporting | 9.00% | ~204 |
-| Exterminator | 8.00% | ~181 |
 | Fighting for Survival | 8.00% | ~181 |
 | Silver Competitor | 8.00% | ~181 |
 | Captain | 8.00% | ~181 |
 | Factory Expansion | 8.00% | ~181 |
+| Exterminator | 7.00% | ~159 |
 | Know The Enemy | 6.00% | ~136 |
 | Silver Achiever | 6.00% | ~136 |
 | Moving On Up | 6.00% | ~136 |
@@ -39,12 +39,12 @@ Rating: 3.33 (Ranked 1,104)
 | Advanced Interceptors | 1.00% | ~23 |
 | Titan Tanks | 1.00% | ~23 |
 | Shock Troops | 1.00% | ~23 |
-| Jet Troops | 0.80% | ~18 |
+| Jet Troops | 0.70% | ~16 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,265 (Ranked 248)  
+Progressed: 2,267 (Ranked 248)  
 Completed: 1 (0.04%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 1 (0.04%) (Ranked 355)
 | 2024-01-13 | 2,237 | 1 |
 | 2024-01-14 | 2,246 | 1 |
 | 2024-01-15 | 2,253 | 1 |
-| 2024-01-16 | 2,265 | 1 |
+| 2024-01-16 | 2,267 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

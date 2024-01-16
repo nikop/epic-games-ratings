@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 161,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2995,
+  "EOS_Progressed": 2997,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8129,6 +8129,11 @@
       "Time": "2024-01-16T21:10:27.7143382+00:00",
       "NumProgressed": 2995,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T22:11:41.7949996+00:00",
+      "NumProgressed": 2997,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8213,7 +8218,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_19",
@@ -8237,7 +8242,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "achievement_21",
@@ -8285,7 +8290,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_27",
@@ -8333,7 +8338,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_32",
@@ -8341,7 +8346,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_33",
@@ -8365,7 +8370,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "achievement_36",
@@ -8381,7 +8386,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "achievement_38",
@@ -8413,7 +8418,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "achievement_41",
@@ -8493,7 +8498,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_50",
@@ -8581,7 +8586,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "achievement_60",
@@ -8644,13 +8649,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2995,
+      "Progressed": 2997,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2995,
+      "Progressed": 2997,
       "Completed": 1
     }
   ],
@@ -8658,8 +8663,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-16T21:10:27.7143378+00:00",
+  "LastChanged_Achievements": "2024-01-16T22:11:41.7949991+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-16T20:58:26.139203+00:00",
-  "LastUpdate_Achievements": "2024-01-16T21:10:27.7144371+00:00"
+  "LastUpdate_Ratings": "2024-01-16T21:59:11.250065+00:00",
+  "LastUpdate_Achievements": "2024-01-16T22:11:41.7950894+00:00"
 }
