@@ -37,7 +37,7 @@
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
 | 36 | [Remains](games/r/remains.md) | 12.70% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.10% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.10% |
@@ -59,7 +59,7 @@
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 58 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.45% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
+| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.96% |
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.88% |
 | 63 | [Scorn](games/s/scorn.md) | 6.86% |
@@ -93,7 +93,7 @@
 | 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 92 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.87% |
-| 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
+| 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
 | 95 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.66% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.65% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.60% |
@@ -145,7 +145,7 @@
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.76% |
+| 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.77% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.74% |
 | 148 | [Sifu](games/s/sifu.md) | 1.71% |
 | 149 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
@@ -192,7 +192,7 @@
 | 190 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 190 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.88% |
 | 192 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.86% |
-| 193 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.81% |
+| 193 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.84% |
 | 194 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.80% |
 | 195 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 196 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
