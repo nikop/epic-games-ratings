@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 11,
@@ -2415,9 +2415,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 1301290,
+  "EOS_Progressed": 1301293,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1236,
+  "EOS_NewPlayers": 1231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29250,6 +29250,11 @@
       "Time": "2024-01-16T14:05:23.7810466+00:00",
       "NumProgressed": 1301290,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T15:04:28.4406618+00:00",
+      "NumProgressed": 1301293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29397,7 +29402,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 208206
+      "UsersEstimate": 208207
     },
     {
       "ID": "10_hunter_wins",
@@ -29405,7 +29410,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 78077
+      "UsersEstimate": 78078
     },
     {
       "ID": "10_prop_headshots",
@@ -29557,7 +29562,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767761
+      "UsersEstimate": 767763
     },
     {
       "ID": "hunter_win",
@@ -29565,7 +29570,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702697
+      "UsersEstimate": 702698
     },
     {
       "ID": "master_of_loadouts",
@@ -29596,7 +29601,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1301290,
+      "Progressed": 1301293,
       "Completed": 0
     }
   ],
@@ -29604,8 +29609,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-16T10:56:58.0982957+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:05:23.7810462+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:28.4406615+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.9954537+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:57:26.7805109+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:05:23.7812156+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:57:14.9309555+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:28.4408373+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Progress": 446,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2024-01-15T16:08:54.2152084+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T15:03:56.1139673+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -842,7 +847,7 @@
       "Name": "Health Hazard",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -880,9 +885,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "ae95dh3",
       "Name": "Quickly Pick a Lucky Lock",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -920,9 +925,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -938,13 +943,13 @@
       "Name": "Two Faced",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 121
     },
@@ -984,9 +989,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "ae95dh3",
       "Name": "A Friend in Need",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1010,7 +1015,7 @@
       "Name": "Mint Condition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1058,7 +1063,7 @@
       "Name": "The Hidden City",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -1066,7 +1071,7 @@
       "Name": "The Dawn\u0027s Light",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -1081,14 +1086,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:04:38.2608209+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:03:56.1139671+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.492546+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:01:37.627446+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:04:38.2608626+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:00:04.0784053+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:03:56.1139902+00:00"
 }

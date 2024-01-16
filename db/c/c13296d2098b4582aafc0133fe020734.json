@@ -4,7 +4,7 @@
   "ProductSlug": "scott-whiskers-inthe-search-for-mr-fumbleclaw-3fd734",
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -28,9 +28,211 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-16T15:08:15.58419+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Albus",
+      "SetID": "20j62l8",
+      "Name": "Lord Albus Percival Longbottom",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Alfred",
+      "SetID": "20j62l8",
+      "Name": "Alfred Stringer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Alfredo",
+      "SetID": "20j62l8",
+      "Name": "Alfredo",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Axel",
+      "SetID": "20j62l8",
+      "Name": "Axel",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Bob",
+      "SetID": "20j62l8",
+      "Name": "Bob",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Buddy",
+      "SetID": "20j62l8",
+      "Name": "Buddy",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chucky",
+      "SetID": "20j62l8",
+      "Name": "Chucky",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Clint",
+      "SetID": "20j62l8",
+      "Name": "Clint Ackenthorpe",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Craddock",
+      "SetID": "20j62l8",
+      "Name": "Inspector Craddock",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Diane",
+      "SetID": "20j62l8",
+      "Name": "Lady Diane Longbottom",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Eddy",
+      "SetID": "20j62l8",
+      "Name": "Eddy Enderby",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Jenny",
+      "SetID": "20j62l8",
+      "Name": "Jenny",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Jimmy",
+      "SetID": "20j62l8",
+      "Name": "Jimmy",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Johnny",
+      "SetID": "20j62l8",
+      "Name": "Johnny",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mary",
+      "SetID": "20j62l8",
+      "Name": "Mary Rutherford",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mr. Fumbleclaw",
+      "SetID": "20j62l8",
+      "Name": "Mr. Fumbleclaw",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Mr. Snuggels",
+      "SetID": "20j62l8",
+      "Name": "Mr. Snuggels",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Paul",
+      "SetID": "20j62l8",
+      "Name": "Sergeant Paul",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Pollock",
+      "SetID": "20j62l8",
+      "Name": "James Pollock",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Rhumstone",
+      "SetID": "20j62l8",
+      "Name": "Rhumstone",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ricky",
+      "SetID": "20j62l8",
+      "Name": "Ricky",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Smith",
+      "SetID": "20j62l8",
+      "Name": "Constable Smith",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Steve",
+      "SetID": "20j62l8",
+      "Name": "Steve",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Susie",
+      "SetID": "20j62l8",
+      "Name": "Susie Longbottom",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Vlad",
+      "SetID": "20j62l8",
+      "Name": "Vlad Popescu",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "20j62l8",
@@ -40,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-16T08:06:29.3089879+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:08:24.3662778+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:08:15.5841889+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:11.6327319+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:03:16.1329487+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:08:24.3662806+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:03:00.0779617+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:08:15.6165974+00:00"
 }

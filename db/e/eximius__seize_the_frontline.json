@@ -339,9 +339,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203212,
+  "EOS_Progressed": 203220,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28824,6 +28824,11 @@
       "Time": "2024-01-16T14:05:08.1723636+00:00",
       "NumProgressed": 203212,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T15:04:16.8099632+00:00",
+      "NumProgressed": 203220,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -28835,7 +28840,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 16257
+      "UsersEstimate": 16258
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -28843,7 +28848,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 144281
+      "UsersEstimate": 144286
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -28859,15 +28864,15 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "ACH_INITIATION",
       "SetID": "1kj8hdc",
       "Name": "Initiation",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 36578
+      "UsersEstimate": 34547
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -28955,14 +28960,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 8128
+      "UsersEstimate": 8129
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 203212,
+      "Progressed": 203220,
       "Completed": 4
     }
   ],
@@ -28970,8 +28975,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:05:08.1723633+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:16.809963+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.0694277+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:01:56.0047908+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:05:08.1725416+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:00:16.5676062+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:16.8101009+00:00"
 }

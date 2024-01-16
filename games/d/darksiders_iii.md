@@ -12,7 +12,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 61.00% | ~379 |
 | Fight Fire with Fire | 59.00% | ~366 |
 | Increased Capacity | 56.00% | ~348 |
-| Just the start | 50.00% | ~310 |
+| Just the start | 51.00% | ~317 |
 | Perfect Storm | 47.00% | ~292 |
 | All That Glitters | 47.00% | ~292 |
 | Enhance! | 43.00% | ~267 |
@@ -23,7 +23,7 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 40.00% | ~248 |
 | Salvation | 39.00% | ~242 |
 | Unshakable Fortitude | 37.00% | ~230 |
-| Soul Harvester | 36.00% | ~224 |
+| Soul Harvester | 37.00% | ~230 |
 | I Wanna Rock | 35.00% | ~217 |
 | Delusions of Grandeur | 35.00% | ~217 |
 | Love Tap | 34.00% | ~211 |
@@ -33,7 +33,7 @@ Number of Ratings: 116  (23.09.2022)
 | For Whom the Bell Tolls | 30.00% | ~186 |
 | Unyielding Strength | 27.00% | ~168 |
 | Can you restore the Balance? | 27.00% | ~168 |
-| Crowd Source | 26.00% | ~161 |
+| Crowd Source | 27.00% | ~168 |
 | Big Spender | 26.00% | ~161 |
 | Cleanup Crew | 25.00% | ~155 |
 | Seeing Red | 25.00% | ~155 |

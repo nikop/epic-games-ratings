@@ -20,7 +20,7 @@
 | Friend of Lyraine | 32.00% | ~47 |
 | The Circle | 30.00% | ~44 |
 | Redecorating | 29.00% | ~43 |
-| Bad JuJu | 24.00% | ~35 |
+| Bad JuJu | 25.00% | ~37 |
 | Friend of Sevenkeeps | 22.00% | ~32 |
 | Slave to the rhythm | 20.00% | ~29 |
 | Castle Meldec | 20.00% | ~29 |

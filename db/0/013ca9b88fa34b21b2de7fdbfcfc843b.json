@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9096,
+  "EOS_Progressed": 9098,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10333,6 +10333,11 @@
       "Time": "2024-01-16T11:09:54.155287+00:00",
       "NumProgressed": 9096,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T15:10:19.8127254+00:00",
+      "NumProgressed": 9098,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10639,9 +10644,9 @@
       "ID": "DLC1_ACHIEVEMENT_03",
       "SetID": "6p01o4j",
       "Name": "Polyglot",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DLC1_ACHIEVEMENT_04",
@@ -10688,13 +10693,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9096,
+      "Progressed": 9098,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1713,
+      "Progressed": 1715,
       "Completed": 1050
     }
   ],
@@ -10702,8 +10707,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:11:21.3280889+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:10:19.8127251+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:04:07.5185193+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:11:21.3281574+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:03:34.4297345+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:10:19.8127833+00:00"
 }

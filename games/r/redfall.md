@@ -14,10 +14,10 @@ Rating: 3.68 (Ranked 1,098)
 | Blood Will Have Blood | 13.00% | ~311 |
 | Fly Fisher | 13.00% | ~311 |
 | Peek-a-boo | 13.00% | ~311 |
-| Sucks To Be You | 12.00% | ~287 |
-| Enter of Your Own Free Will | 11.00% | ~263 |
-| Welcome to the Neighborhood | 11.00% | ~263 |
-| Throw The First Stone | 11.00% | ~263 |
+| Sucks To Be You | 12.00% | ~288 |
+| Enter of Your Own Free Will | 11.00% | ~264 |
+| Welcome to the Neighborhood | 11.00% | ~264 |
+| Throw The First Stone | 11.00% | ~264 |
 | Heart Attack | 10.00% | ~240 |
 | Grounded | 9.00% | ~216 |
 | Skin of Their Teeth | 9.00% | ~216 |
@@ -48,10 +48,10 @@ Rating: 3.68 (Ranked 1,098)
 | Good Samaritan | 1.00% | ~24 |
 | What Lies Below | 0.90% | ~22 |
 | Empty Nest Syndrome | 0.90% | ~22 |
+| Sisterhood | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
 | Monster Hunters Club | 0.70% | ~17 |
-| Sisterhood | 0.70% | ~17 |
 | Under a Bushel | 0.70% | ~17 |
 | Friendgineering | 0.60% | ~14 |
 | Enemy of My Enemy | 0.50% | ~12 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,098)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,395 (Ranked 243)  
+Progressed: 2,396 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -220,7 +220,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 2,384 | 0 |
 | 2024-01-14 | 2,390 | 0 |
 | 2024-01-15 | 2,393 | 0 |
-| 2024-01-16 | 2,395 | 0 |
+| 2024-01-16 | 2,396 | 0 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 548)  
 Sum: 26 (Ranked 559)  

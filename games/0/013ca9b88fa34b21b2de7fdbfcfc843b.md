@@ -38,8 +38,8 @@ Rating: 4.64 (Ranked 344)
 | House Proud | 0.50% | ~45 |
 | Going Down | 0.50% | ~9 |
 | Captain of Cozy | 0.30% | ~27 |
+| Polyglot | 0.30% | ~5 |
 | Angling Authority | 0.20% | ~18 |
-| Polyglot | 0.20% | ~3 |
 | Cloverfield Island | 0.10% | ~9 |
 | Workaholic | 0.10% | ~9 |
 | Giving the People What They Want | 0.10% | ~9 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 344)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,096 (Ranked 187)  
+Progressed: 9,098 (Ranked 187)  
 Completed: 1 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 1 (0.01%) (Ranked 378)
 | 2024-01-13 | 9,044 | 1 |
 | 2024-01-14 | 9,068 | 1 |
 | 2024-01-15 | 9,093 | 1 |
-| 2024-01-16 | 9,096 | 1 |
+| 2024-01-16 | 9,098 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

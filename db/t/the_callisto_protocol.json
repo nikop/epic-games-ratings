@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2261,9 +2261,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22449,
+  "EOS_Progressed": 22450,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14096,6 +14096,11 @@
       "Time": "2024-01-16T14:10:51.1735339+00:00",
       "NumProgressed": 22449,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T15:09:58.3720483+00:00",
+      "NumProgressed": 22450,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14123,7 +14128,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14139,7 +14144,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14211,7 +14216,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5163
+      "UsersEstimate": 5164
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14243,7 +14248,7 @@
       "Name": "Terminated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14251,7 +14256,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3816
+      "UsersEstimate": 3817
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14299,7 +14304,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14315,7 +14320,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3367
+      "UsersEstimate": 3368
     },
     {
       "ID": "STORY_HANGAR",
@@ -14331,7 +14336,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14355,7 +14360,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14467,7 +14472,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -14482,13 +14487,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22449,
+      "Progressed": 22450,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10375,
+      "Progressed": 10376,
       "Completed": 29
     }
   ],
@@ -14496,8 +14501,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-16T13:08:59.757955+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:10:51.1735335+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:09:58.3720481+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:04:06.6614509+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:10:51.1736096+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:03:33.6696933+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:09:58.3721197+00:00"
 }

@@ -55,8 +55,8 @@ Rating: 4.73 (Ranked 180)
 | Lavalumps on Ice! | 22.00% | ~170 |
 | To the Max! | 20.00% | ~154 |
 | To Infinity And Beyond! | 20.00% | ~154 |
+| Evilification | 20.00% | ~154 |
 | My Little Torture Chamber | 19.00% | ~146 |
-| Evilification | 19.00% | ~146 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~139 |
 | Mirror, Mirror | 18.00% | ~139 |
 | Heal Heal Blessing | 18.00% | ~139 |
@@ -68,7 +68,7 @@ Rating: 4.73 (Ranked 180)
 | I Don't Need Any Help | 11.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 771 (Ranked 320)  
-Completed: 33 (4.28%) (Ranked 86)  
+Completed: 34 (4.41%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,7 +139,7 @@ Completed: 33 (4.28%) (Ranked 86)
 | 2024-01-13 | 763 | 31 |
 | 2024-01-14 | 767 | 33 |
 | 2024-01-15 | 770 | 33 |
-| 2024-01-16 | 771 | 33 |
+| 2024-01-16 | 771 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

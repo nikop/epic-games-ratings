@@ -1,25 +1,25 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.53 (Ranked 568)  
+Rating: 4.52 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,488 |
-| I've Had Enough! | 15.00% | ~18,543 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,598 |
-| Seasoned Fighter | 9.00% | ~11,126 |
-| All For One and One For All | 8.00% | ~9,890 |
-| Home Sweet Home? | 6.00% | ~7,417 |
-| A New Age | 5.00% | ~6,181 |
+| All Grown Up! | 19.00% | ~23,490 |
+| I've Had Enough! | 15.00% | ~18,545 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,600 |
+| Seasoned Fighter | 9.00% | ~11,127 |
+| All For One and One For All | 8.00% | ~9,891 |
+| Home Sweet Home? | 6.00% | ~7,418 |
+| A New Age | 5.00% | ~6,182 |
 | Oh Baby, A Triple | 3.00% | ~3,709 |
 | Master of Disguise | 3.00% | ~3,709 |
 | Symbiotic | 3.00% | ~3,709 |
-| Battle Hardened | 2.00% | ~2,472 |
-| Double Punch! | 2.00% | ~2,472 |
-| It's Mayhem! | 2.00% | ~2,472 |
-| Right back at'cha | 2.00% | ~2,472 |
-| Spectacular Finisher | 2.00% | ~2,472 |
+| Battle Hardened | 2.00% | ~2,473 |
+| Double Punch! | 2.00% | ~2,473 |
+| It's Mayhem! | 2.00% | ~2,473 |
+| Right back at'cha | 2.00% | ~2,473 |
+| Spectacular Finisher | 2.00% | ~2,473 |
 | Cautious Veteran | 1.00% | ~1,236 |
 | Katamari | 1.00% | ~1,236 |
 | Martyrdom | 1.00% | ~1,236 |
@@ -28,9 +28,9 @@ Rating: 4.53 (Ranked 568)
 | Taste Your Own Medicine | 0.70% | ~865 |
 | This is GigaBash! | 0.50% | ~618 |
 | Sidetracked... | 0.50% | ~618 |
-| Eye of the Titan | 0.40% | ~494 |
-| Just Getting Warmed Up | 0.40% | ~494 |
-| Top of the Food Chain | 0.40% | ~494 |
+| Eye of the Titan | 0.40% | ~495 |
+| Just Getting Warmed Up | 0.40% | ~495 |
+| Top of the Food Chain | 0.40% | ~495 |
 | Let Them Fight | 0.20% | ~247 |
 | Apex Mode | 0.20% | ~247 |
 | 5 Stages of Grief | 0.10% | ~124 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 568)
 | What's Mine is Yours | 0.10% | ~124 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,619 (Ranked 94)  
+Progressed: 123,634 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,14 +83,14 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
 | 2024-01-15 | 123,364 | 0 |
-| 2024-01-16 | 123,619 | 0 |
+| 2024-01-16 | 123,634 | 0 |
 ## Awards
-Max (Great Boss Battles): 56  (Ranked 444)  
-Sum: 56 (Ranked 505)  
-Diff (max vs sum): -61  
+Max (Great Boss Battles): 57  (Ranked 442)  
+Sum: 57 (Ranked 505)  
+Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 56 |
+| This game has Great Boss Battles | 57 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -142,3 +142,4 @@ Diff (max vs sum): -61
 | 2024-01-09 | 4.52 | 54 | 54 |
 | 2024-01-13 | 4.52 | 55 | 55 |
 | 2024-01-14 | 4.53 | 56 | 56 |
+| 2024-01-16 | 4.52 | 57 | 57 |

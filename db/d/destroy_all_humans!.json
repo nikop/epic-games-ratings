@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -2040,6 +2040,11 @@
       "Time": "2024-01-16T14:05:07.6660173+00:00",
       "NumProgressed": 507,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T15:04:16.5012223+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2060,7 +2065,7 @@
       "Name": "Arkvoodle Doodle",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -2092,7 +2097,7 @@
       "Name": "Yettisoned",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2116,7 +2121,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2204,15 +2209,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2220,7 +2225,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2268,7 +2273,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -2282,9 +2287,9 @@
       "ID": "ACH_INVADE_ROCKWELL",
       "SetID": "cefn62b",
       "Name": "Pimp My Raid",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2298,9 +2303,9 @@
       "ID": "ACH_INVADE_TURNIPSEED",
       "SetID": "cefn62b",
       "Name": "Shop Til They Drop",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 391
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2348,7 +2353,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2356,7 +2361,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2371,15 +2376,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:05:07.6660168+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:16.501222+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:01:53.4428249+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:05:07.666066+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:00:15.073915+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:16.5012506+00:00"
 }

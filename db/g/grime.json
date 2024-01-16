@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1897,10 +1897,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168478,
+  "EOS_Progressed": 168485,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1090,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 1085,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -23302,6 +23302,11 @@
       "Time": "2024-01-16T14:05:09.7990851+00:00",
       "NumProgressed": 168478,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-16T15:04:17.9145697+00:00",
+      "NumProgressed": 168485,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23362,7 +23367,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -23418,7 +23423,7 @@
       "Name": "Scion",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1344
+      "UsersEstimate": 1345
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -23586,7 +23591,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5054
+      "UsersEstimate": 5055
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -23681,21 +23686,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168061,
+      "Progressed": 168068,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168478,
+      "Progressed": 168485,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-16T05:59:05.5507651+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:05:09.7990847+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:17.9145692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:00:25.3214955+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:05:09.7992707+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:59:14.1692637+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:17.9146755+00:00"
 }

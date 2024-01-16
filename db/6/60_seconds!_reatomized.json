@@ -299,7 +299,7 @@
   "Tags": [],
   "EOS_Progressed": 6378,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -9917,9 +9917,9 @@
       "ID": "ACH_FAMILY_GUY",
       "SetID": "5nj1ea3",
       "Name": "Family guy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4847
+      "UsersEstimate": 4911
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -10190,8 +10190,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-14T20:01:32.0501475+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:04:33.5515844+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:03:52.7482379+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.5941782+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:03:18.0701383+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:04:33.5516636+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:03:01.3327411+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:03:52.7483586+00:00"
 }

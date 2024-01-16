@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -189,7 +189,7 @@
   "Tags": [],
   "EOS_Progressed": 3466,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -6863,9 +6863,9 @@
       "ID": "STB_MISSION6_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Terbisia",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 693
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -7024,8 +7024,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:06:52.8557454+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:05:30.7015964+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:58:14.6666592+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:06:52.8558202+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:57:47.8035995+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:05:30.7016549+00:00"
 }

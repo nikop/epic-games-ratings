@@ -2,9 +2,9 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2332,
+  "EOS_Progressed": 2333,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4485,6 +4485,11 @@
       "Time": "2024-01-16T13:15:35.4596492+00:00",
       "NumProgressed": 2332,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-16T15:10:10.7726233+00:00",
+      "NumProgressed": 2333,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4496,7 +4501,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "booty_call",
@@ -4520,7 +4525,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2239
+      "UsersEstimate": 2240
     },
     {
       "ID": "hold_my_beer",
@@ -4566,9 +4571,9 @@
       "ID": "nueva_beginnings",
       "SetID": "c4ipj3h",
       "Name": "Nueva Beginnings",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 630
+      "UsersEstimate": 653
     },
     {
       "ID": "only_thyme_will_tell",
@@ -4615,7 +4620,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2332,
+      "Progressed": 2333,
       "Completed": 12
     }
   ],
@@ -4623,8 +4628,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:11:08.2935266+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:10:10.772623+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.1751476+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:01:09.608258+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:11:08.2935698+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:59:45.6195017+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:10:10.7726446+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 832,
   "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 563,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -2694,10 +2694,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2200,
       "NumberOfAwardsMax": 782
+    },
+    {
+      "Time": "2024-01-16T14:58:33.0700584+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2201,
+      "NumberOfAwardsMax": 782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2200,
+  "NumberOfAwards": 2201,
   "NumberOfAwardsMax": 782,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2741,7 +2747,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 130
+      "Count": 131
     },
     {
       "Text": "This game has Easy Combat",
@@ -2791,8 +2797,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2024-01-14T21:57:30.268376+00:00",
+  "LastChanged": "2024-01-16T14:58:33.0700583+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3644443+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:59:24.3624123+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:09:21.9838195+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:58:33.0700586+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:08:55.4014695+00:00"
 }

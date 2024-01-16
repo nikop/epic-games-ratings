@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1331,
+  "EOS_Progressed": 1332,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
@@ -4066,6 +4066,11 @@
       "Time": "2024-01-16T00:10:27.2873114+00:00",
       "NumProgressed": 1331,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T15:10:23.6402169+00:00",
+      "NumProgressed": 1332,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4117,7 +4122,7 @@
       "Name": "Corin Goes Home",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ClockworkProgress1",
@@ -4141,7 +4146,7 @@
       "Name": "Sartorialist",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CosmeticProgress1",
@@ -4181,7 +4186,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "FairgroundsChests1",
@@ -4237,7 +4242,7 @@
       "Name": "Rail Rat",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "HexlockGift",
@@ -4333,7 +4338,7 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4341,7 +4346,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4357,7 +4362,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "RewindDamage1",
@@ -4373,7 +4378,7 @@
       "Name": "Honest Mistake",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4445,7 +4450,7 @@
       "Name": "Theater Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -4453,7 +4458,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "WarwickDefeated",
@@ -4500,7 +4505,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1331,
+      "Progressed": 1332,
       "Completed": 8
     }
   ],
@@ -4508,8 +4513,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:11:26.2814694+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:10:23.6402166+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:00:59.7297233+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:11:26.2815185+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:59:38.5083048+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:10:23.6402611+00:00"
 }

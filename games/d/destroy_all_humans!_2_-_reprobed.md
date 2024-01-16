@@ -11,11 +11,11 @@ Number of Ratings: 90  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 55.00% | ~243 |
 | Furon Fashion | 48.00% | ~212 |
 | Shop Til They Drop | 40.00% | ~176 |
-| Bodied Sattva | 37.00% | ~163 |
+| Bodied Sattva | 38.00% | ~168 |
 | Cult Following | 35.00% | ~154 |
 | Earthly Pleasures | 34.00% | ~150 |
 | Lie Back and Think of Albion | 29.00% | ~128 |
-| Upgreatest | 27.00% | ~119 |
+| Upgreatest | 28.00% | ~123 |
 | Pimp My Raid | 26.00% | ~115 |
 | Freshly Squeezed | 23.00% | ~101 |
 | I Look Up As I Walk to Takoshima | 21.00% | ~93 |

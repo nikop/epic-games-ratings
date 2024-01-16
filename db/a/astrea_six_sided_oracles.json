@@ -1968,9 +1968,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 290
     },
     {
       "ID": "MeissasSavior",
@@ -2415,8 +2415,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:09:54.944935+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:09:18.9707215+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:59:25.3937181+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:09:54.9450262+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:58:33.6975783+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:09:18.9708186+00:00"
 }

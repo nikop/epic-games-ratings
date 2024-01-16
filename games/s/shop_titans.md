@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,655 |
-| Titan's First Steps | 11.00% | ~16,655 |
-| Basic in Bulk | 10.00% | ~15,141 |
-| Tinkle of Coins | 10.00% | ~15,141 |
-| Disintermediation | 8.00% | ~12,112 |
-| Capitalism Ho! | 8.00% | ~12,112 |
-| It's Free Real Estate | 7.00% | ~10,598 |
-| Budding Merchant | 7.00% | ~10,598 |
-| One Easy Payment | 6.00% | ~9,084 |
-| Some Assembly Required | 6.00% | ~9,084 |
-| Another Satisfied Customer | 6.00% | ~9,084 |
-| Pretty Penny | 6.00% | ~9,084 |
-| Own the Means of Production | 6.00% | ~9,084 |
-| The Daily Grind | 5.00% | ~7,570 |
-| One-Armed Bandit | 5.00% | ~7,570 |
-| Through Repetition, Perfection | 5.00% | ~7,570 |
-| Bounty Hunters | 4.00% | ~6,056 |
-| Demand for Supplies | 4.00% | ~6,056 |
-| Flooding the Market | 4.00% | ~6,056 |
-| Where it Hurts | 4.00% | ~6,056 |
-| Gild-Gotten Goods | 4.00% | ~6,056 |
-| Accomplished Merchant | 4.00% | ~6,056 |
-| Dungeon Imports | 4.00% | ~6,056 |
-| Did we pack lunch? | 4.00% | ~6,056 |
-| Arcane Industries | 4.00% | ~6,056 |
+| Sponsored by Argon | 11.00% | ~16,656 |
+| Titan's First Steps | 11.00% | ~16,656 |
+| Basic in Bulk | 10.00% | ~15,142 |
+| Tinkle of Coins | 10.00% | ~15,142 |
+| Disintermediation | 8.00% | ~12,113 |
+| Capitalism Ho! | 8.00% | ~12,113 |
+| It's Free Real Estate | 7.00% | ~10,599 |
+| Budding Merchant | 7.00% | ~10,599 |
+| One Easy Payment | 6.00% | ~9,085 |
+| Some Assembly Required | 6.00% | ~9,085 |
+| Another Satisfied Customer | 6.00% | ~9,085 |
+| Pretty Penny | 6.00% | ~9,085 |
+| Own the Means of Production | 6.00% | ~9,085 |
+| The Daily Grind | 5.00% | ~7,571 |
+| One-Armed Bandit | 5.00% | ~7,571 |
+| Through Repetition, Perfection | 5.00% | ~7,571 |
+| Bounty Hunters | 4.00% | ~6,057 |
+| Demand for Supplies | 4.00% | ~6,057 |
+| Flooding the Market | 4.00% | ~6,057 |
+| Where it Hurts | 4.00% | ~6,057 |
+| Gild-Gotten Goods | 4.00% | ~6,057 |
+| Accomplished Merchant | 4.00% | ~6,057 |
+| Dungeon Imports | 4.00% | ~6,057 |
+| Did we pack lunch? | 4.00% | ~6,057 |
+| Arcane Industries | 4.00% | ~6,057 |
 | On the Path to Greatness | 3.00% | ~4,542 |
 | A Notch Above the Rest | 3.00% | ~4,542 |
 | Ascended | 3.00% | ~4,542 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~606 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,406 (Ranked 87)  
+Progressed: 151,416 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 355 (0.23%) (Ranked 275)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,406 | 355 |
+| 2024-01-16 | 151,416 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 81)  
 Sum: 28,002 (Ranked 52)  

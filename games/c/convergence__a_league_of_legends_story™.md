@@ -6,20 +6,20 @@ Rating: 4.66 (Ranked 303)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 47.00% | ~626 |
-| Rail Rat | 36.00% | ~479 |
+| Rail Rat | 36.00% | ~480 |
 | The Mysterious Stranger | 35.00% | ~466 |
-| Immaculate Aim | 30.00% | ~399 |
+| Immaculate Aim | 30.00% | ~400 |
 | The Brass Boss | 29.00% | ~386 |
 | Time Flies | 28.00% | ~373 |
-| No, Thanks! | 27.00% | ~359 |
-| The Prince in Heels | 27.00% | ~359 |
-| Honest Mistake | 27.00% | ~359 |
+| No, Thanks! | 27.00% | ~360 |
+| The Prince in Heels | 27.00% | ~360 |
+| Honest Mistake | 27.00% | ~360 |
 | Make Up For Lost Time | 26.00% | ~346 |
 | The Harder They Fall | 26.00% | ~346 |
 | Fast Learner | 26.00% | ~346 |
 | Immaculate Aim | 26.00% | ~346 |
 | The Steel Shadow | 25.00% | ~333 |
-| Breaking Down Barriers | 24.00% | ~319 |
+| Breaking Down Barriers | 24.00% | ~320 |
 | Right On Time | 23.00% | ~306 |
 | The Wicked Twins | 23.00% | ~306 |
 | Golem Chaser | 23.00% | ~306 |
@@ -39,13 +39,13 @@ Rating: 4.66 (Ranked 303)
 | Treasure Trove | 12.00% | ~160 |
 | Cartographer | 12.00% | ~160 |
 | Sump Explorer | 12.00% | ~160 |
-| Factorywood Explorer | 11.00% | ~146 |
-| Theater Explorer | 11.00% | ~146 |
+| Factorywood Explorer | 11.00% | ~147 |
+| Theater Explorer | 11.00% | ~147 |
 | Cultivair Explorer | 10.00% | ~133 |
 | Fairgrounds Explorer | 10.00% | ~133 |
 | Entresol Explorer | 9.00% | ~120 |
-| Corin Goes Home | 8.00% | ~106 |
-| Sartorialist | 8.00% | ~106 |
+| Corin Goes Home | 8.00% | ~107 |
+| Sartorialist | 8.00% | ~107 |
 | Golem Hunter | 7.00% | ~93 |
 | Clovemary for Remembering | 6.00% | ~80 |
 | Hexlock for Protection | 6.00% | ~80 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 303)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,331 (Ranked 281)  
+Progressed: 1,332 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 8 (0.60%) (Ranked 212)
 | 2024-01-13 | 1,319 | 8 |
 | 2024-01-14 | 1,326 | 8 |
 | 2024-01-15 | 1,330 | 8 |
-| 2024-01-16 | 1,331 | 8 |
+| 2024-01-16 | 1,332 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

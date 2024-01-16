@@ -393,7 +393,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2395,
+  "EOS_Progressed": 2396,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
@@ -4558,6 +4558,11 @@
       "Time": "2024-01-16T06:05:12.9690726+00:00",
       "NumProgressed": 2395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T15:05:23.4969298+00:00",
+      "NumProgressed": 2396,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4593,7 +4598,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Achievement_006",
@@ -4633,7 +4638,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Achievement_011",
@@ -4785,7 +4790,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Achievement_030",
@@ -4801,7 +4806,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Achievement_032",
@@ -4847,9 +4852,9 @@
       "ID": "Achievement_037",
       "SetID": "6b34g18",
       "Name": "Sisterhood",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_038",
@@ -5096,7 +5101,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2395,
+      "Progressed": 2396,
       "Completed": 0
     }
   ],
@@ -5104,8 +5109,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-15T18:59:32.955991+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:06:42.3694395+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:05:23.4969295+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:01:48.5774566+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:06:42.3695289+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:00:11.8727332+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:05:23.497068+00:00"
 }

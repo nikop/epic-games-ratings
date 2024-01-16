@@ -5,37 +5,37 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,458 |
-| Hotel California | 9.00% | ~72,413 |
-| Break A Leg | 8.00% | ~64,367 |
-| Coup de Grâce | 8.00% | ~64,367 |
-| Git Gutte! | 7.00% | ~56,321 |
-| Hazardous Materials | 7.00% | ~56,321 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,321 |
-| Bookworm | 6.00% | ~48,275 |
-| Friends Like These | 6.00% | ~48,275 |
-| Apex Predator | 6.00% | ~48,275 |
-| Dr. Reed, I Presume? | 5.00% | ~40,229 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,229 |
-| But Doctor, I am Butcho | 5.00% | ~40,229 |
-| Stacking the Deck | 5.00% | ~40,229 |
-| This is My Weapon | 5.00% | ~40,229 |
-| Anger Management | 4.00% | ~32,183 |
-| Perks of the Job | 4.00% | ~32,183 |
-| Slayer Squad | 4.00% | ~32,183 |
-| Can't Handle the Truth | 4.00% | ~32,183 |
-| Like Riding a Bike | 4.00% | ~32,183 |
-| Zombologist | 4.00% | ~32,183 |
-| Ooh, Shiny! | 4.00% | ~32,183 |
-| A Patton Emerges | 4.00% | ~32,183 |
-| I Am the Resurrection | 4.00% | ~32,183 |
-| Our True Nature | 4.00% | ~32,183 |
-| Whatever It Takes | 4.00% | ~5,205 |
-| Pork Chopped | 4.00% | ~5,205 |
+| Welcome To Hell-A | 10.00% | ~80,461 |
+| Hotel California | 9.00% | ~72,415 |
+| Break A Leg | 8.00% | ~64,369 |
+| Coup de Grâce | 8.00% | ~64,369 |
+| Git Gutte! | 7.00% | ~56,323 |
+| Hazardous Materials | 7.00% | ~56,323 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,323 |
+| Bookworm | 6.00% | ~48,277 |
+| Friends Like These | 6.00% | ~48,277 |
+| Apex Predator | 6.00% | ~48,277 |
+| Dr. Reed, I Presume? | 5.00% | ~40,231 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,231 |
+| But Doctor, I am Butcho | 5.00% | ~40,231 |
+| Stacking the Deck | 5.00% | ~40,231 |
+| This is My Weapon | 5.00% | ~40,231 |
+| Anger Management | 4.00% | ~32,184 |
+| Perks of the Job | 4.00% | ~32,184 |
+| Slayer Squad | 4.00% | ~32,184 |
+| Can't Handle the Truth | 4.00% | ~32,184 |
+| Like Riding a Bike | 4.00% | ~32,184 |
+| Zombologist | 4.00% | ~32,184 |
+| Ooh, Shiny! | 4.00% | ~32,184 |
+| A Patton Emerges | 4.00% | ~32,184 |
+| I Am the Resurrection | 4.00% | ~32,184 |
+| Our True Nature | 4.00% | ~32,184 |
+| Whatever It Takes | 4.00% | ~5,206 |
+| Pork Chopped | 4.00% | ~5,206 |
 | Making Your Mark | 3.00% | ~24,138 |
 | Humanity Distilled | 3.00% | ~24,138 |
 | Down with the Sickness | 3.00% | ~24,138 |
-| One of Us | 3.00% | ~3,904 |
+| One of Us | 3.00% | ~3,905 |
 | Smorgasbord | 2.00% | ~16,092 |
 | Not Even My Final Form | 2.00% | ~16,092 |
 | Internet Famous | 2.00% | ~16,092 |
@@ -48,8 +48,8 @@ Rating: 4.54 (Ranked 551)
 | On Safari | 1.00% | ~8,046 |
 | Gore Horse | 1.00% | ~8,046 |
 | Variety is the Spice of Death | 1.00% | ~8,046 |
-| Sole Survivor | 0.90% | ~7,241 |
-| Sharpest Tool in the Box | 0.90% | ~7,241 |
+| Sole Survivor | 0.90% | ~7,242 |
+| Sharpest Tool in the Box | 0.90% | ~7,242 |
 | Top That, Tisha! | 0.60% | ~781 |
 | Survival Skills | 0.50% | ~4,023 |
 | Donk! | 0.30% | ~2,414 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~805 |
 | Wilhelm | 0.10% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804,584 (Ranked 23)  
+Progressed: 804,612 (Ranked 23)  
 Completed: 2,591 (0.32%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 2,591 (0.32%) (Ranked 256)
 | 2024-01-13 | 802,693 | 2,581 |
 | 2024-01-14 | 803,623 | 2,587 |
 | 2024-01-15 | 804,269 | 2,590 |
-| 2024-01-16 | 804,584 | 2,591 |
+| 2024-01-16 | 804,612 | 2,591 |
 ## Awards
 Max (Great Boss Battles): 10,503  (Ranked 40)  
-Sum: 16,091 (Ranked 70)  
+Sum: 16,100 (Ranked 70)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): -30
 | This game has Quickly Understood Controls | 730 |
 | This game is Relaxing | 686 |
 | This game has Amazing Storytelling | 682 |
-| This game is Highly Recommended | 658 |
+| This game is Highly Recommended | 667 |
 | This game is Extremely Fun | 645 |
 | This game has Amazing Characters | 605 |
 ## Ratings History
@@ -617,4 +617,4 @@ Diff (max vs sum): -30
 | 2024-01-13 | 4.54 | 10,280 | 15,739 |
 | 2024-01-14 | 4.54 | 10,373 | 15,895 |
 | 2024-01-15 | 4.54 | 10,450 | 16,016 |
-| 2024-01-16 | 4.54 | 10,503 | 16,091 |
+| 2024-01-16 | 4.54 | 10,503 | 16,100 |

@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44341,
+  "EOS_Progressed": 44342,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28603,6 +28603,11 @@
       "Time": "2024-01-16T13:11:28.711491+00:00",
       "NumProgressed": 44341,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T15:06:05.690418+00:00",
+      "NumProgressed": 44342,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28830,7 +28835,7 @@
       "Name": "Salvager",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ach_legacyshipmate",
@@ -28846,7 +28851,7 @@
       "Name": "Open Your Ears",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ach_portbell",
@@ -28966,7 +28971,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7981
+      "UsersEstimate": 7982
     },
     {
       "ID": "ach_terror100",
@@ -29045,15 +29050,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44341,
+      "Progressed": 44342,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:07:42.3792862+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:06:05.6904178+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:59:16.7447844+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:07:42.3794639+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:58:28.6025644+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:06:05.69056+00:00"
 }

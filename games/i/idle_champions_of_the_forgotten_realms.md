@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,166 |
+| A Brief Tour of the Realms | 4.00% | ~10,167 |
 | Beast Intentions | 2.00% | ~5,083 |
 | The Cursed Farmer | 2.00% | ~5,083 |
 | The Mad Wizard | 2.00% | ~5,083 |
 | The Ring of Regeneration | 1.00% | ~2,542 |
-| Are Ya Chicken? | 0.90% | ~2,287 |
+| Are Ya Chicken? | 0.90% | ~2,288 |
 | Were-verpowered | 0.80% | ~2,033 |
 | Seeking Allies | 0.80% | ~2,033 |
 | Friendly Imps | 0.80% | ~2,033 |
-| Welcome to Sigil | 0.80% | ~1,763 |
+| Welcome to Sigil | 0.80% | ~1,764 |
 | Mad Cow Disease | 0.70% | ~1,779 |
 | Pure Energy | 0.70% | ~1,779 |
 | Fast Food | 0.70% | ~1,543 |
@@ -42,17 +42,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.40% | ~882 |
 | Chaos Theory | 0.40% | ~882 |
 | Mind Spike | 0.40% | ~882 |
-| The Silken Swamp | 0.30% | ~762 |
-| Low Initiative | 0.30% | ~762 |
-| March of the Undead | 0.30% | ~762 |
-| No Time To Rest | 0.30% | ~762 |
-| Invisible Shadows | 0.30% | ~762 |
-| The Dinner Party | 0.30% | ~762 |
-| Running of the Saurs | 0.30% | ~762 |
-| Underdeep Cartography | 0.30% | ~762 |
-| Overdue Rendezvous | 0.30% | ~762 |
-| The Templar's Camp | 0.30% | ~762 |
-| Rescue in the Jungle | 0.30% | ~762 |
+| The Silken Swamp | 0.30% | ~763 |
+| Low Initiative | 0.30% | ~763 |
+| March of the Undead | 0.30% | ~763 |
+| No Time To Rest | 0.30% | ~763 |
+| Invisible Shadows | 0.30% | ~763 |
+| The Dinner Party | 0.30% | ~763 |
+| Running of the Saurs | 0.30% | ~763 |
+| Underdeep Cartography | 0.30% | ~763 |
+| Overdue Rendezvous | 0.30% | ~763 |
+| The Templar's Camp | 0.30% | ~763 |
+| Rescue in the Jungle | 0.30% | ~763 |
 | Pros and CONs | 0.20% | ~508 |
 | Wet Feet | 0.20% | ~508 |
 | Hatchlings Underfoot | 0.20% | ~508 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~220 |
 | A Wise Approach | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,162 (Ranked 70)  
+Progressed: 254,169 (Ranked 70)  
 Completed: 2,620 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -824,7 +824,7 @@ Completed: 2,620 (1.03%) (Ranked 178)
 | 2024-01-13 | 253,790 | 2,616 |
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
-| 2024-01-16 | 254,162 | 2,620 |
+| 2024-01-16 | 254,169 | 2,620 |
 ## Awards
 Max (Great for Beginners): 5,784  (Ranked 74)  
 Sum: 33,514 (Ranked 41)  

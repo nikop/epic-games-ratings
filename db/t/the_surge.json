@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5435,
+  "EOS_Progressed": 5437,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5340,6 +5340,11 @@
       "Time": "2024-01-16T11:03:48.7600748+00:00",
       "NumProgressed": 5435,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-16T15:04:15.2953658+00:00",
+      "NumProgressed": 5437,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5367,7 +5372,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5399,7 +5404,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4565
+      "UsersEstimate": 4567
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5407,7 +5412,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5109
+      "UsersEstimate": 5111
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5415,7 +5420,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4132
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5543,7 +5548,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5559,15 +5564,15 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ID_ACHIEV_28",
       "SetID": "98bke8c",
       "Name": "First Day on the Job",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4131
+      "UsersEstimate": 4078
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5575,7 +5580,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5599,7 +5604,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2935
+      "UsersEstimate": 2936
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5615,7 +5620,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5623,7 +5628,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5695,7 +5700,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5703,7 +5708,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5879,22 +5884,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5435,
+      "Progressed": 5437,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:05:06.0042561+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:15.2953654+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:58:33.067618+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:05:06.0043664+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:57:59.0911531+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:15.2954486+00:00"
 }

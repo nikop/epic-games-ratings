@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1985,9 +1985,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69643,
+  "EOS_Progressed": 69644,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31920,6 +31920,11 @@
       "Time": "2024-01-16T14:08:19.5419999+00:00",
       "NumProgressed": 69643,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T15:06:32.6138993+00:00",
+      "NumProgressed": 69644,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31931,7 +31936,7 @@
       "Name": "Eagle Eye",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 37607
+      "UsersEstimate": 37608
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -32051,7 +32056,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16714
+      "UsersEstimate": 16715
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -32219,7 +32224,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43875
+      "UsersEstimate": 43876
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -32251,7 +32256,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -32275,7 +32280,7 @@
       "Name": "Manual Labour I",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16714
+      "UsersEstimate": 16715
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -32307,7 +32312,7 @@
       "Name": "Anker wirf!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "VERDUN_ACH_POILUS",
@@ -32402,15 +32407,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69643,
+      "Progressed": 69644,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-14T16:58:57.2667517+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:08:19.5419995+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:06:32.613899+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.4776116+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:01:41.0260301+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:08:19.5421807+00:00"
+  "LastUpdate_Ratings": "2024-01-16T15:00:06.3313546+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:06:32.6140966+00:00"
 }

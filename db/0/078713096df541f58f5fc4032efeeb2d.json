@@ -2,9 +2,9 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 495,
+  "Ranking_EOS_Progress": 493,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 353,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 104,
+  "EOS_Progressed": 105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -514,6 +514,11 @@
       "Time": "2024-01-15T21:08:43.0793343+00:00",
       "NumProgressed": 104,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T15:08:34.8504135+00:00",
+      "NumProgressed": 105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -540,9 +545,9 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "creepytale3_ach_12",
@@ -572,7 +577,7 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 33
     },
@@ -638,7 +643,7 @@
       "Name": "Boring book!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "creepytale3_ach_26",
@@ -652,7 +657,7 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 12
     },
@@ -748,9 +753,9 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "creepytale3_ach_6",
@@ -789,14 +794,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 104,
+      "Progressed": 105,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:08:51.9989877+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:08:34.8504132+00:00",
   "LastUpdate_AppInfo": "2024-01-10T08:56:56.6839985+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:00:35.7516734+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:08:51.9990147+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:59:20.8267281+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:08:34.8504378+00:00"
 }

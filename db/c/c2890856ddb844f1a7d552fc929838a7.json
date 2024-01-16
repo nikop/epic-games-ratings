@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2545,
+  "EOS_Progressed": 2546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6123,6 +6123,11 @@
       "Time": "2024-01-16T14:04:56.5653532+00:00",
       "NumProgressed": 2545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T15:04:08.8392402+00:00",
+      "NumProgressed": 2546,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6143,7 +6148,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "AC02",
@@ -6151,7 +6156,7 @@
       "Name": "Blood and Dust",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "AC03",
@@ -6159,7 +6164,7 @@
       "Name": "Blood and Gold",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "AC04",
@@ -6167,7 +6172,7 @@
       "Name": "Blood and Iron",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "AC05",
@@ -6175,7 +6180,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "AC06",
@@ -6191,7 +6196,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "AC08",
@@ -6207,7 +6212,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "AC10",
@@ -6279,7 +6284,7 @@
       "Name": "Acquired Taste",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "AC19",
@@ -6311,7 +6316,7 @@
       "Name": "Empty Handed",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "AC23",
@@ -6359,7 +6364,7 @@
       "Name": "The Punished One",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "AC29",
@@ -6375,7 +6380,7 @@
       "Name": "The Anointed One",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "AC31",
@@ -6399,7 +6404,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "AC34",
@@ -6439,7 +6444,7 @@
       "Name": "Edge of Orison",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "AC39",
@@ -6463,7 +6468,7 @@
       "Name": "Happy New Year!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "AC42",
@@ -6502,7 +6507,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2545,
+      "Progressed": 2546,
       "Completed": 0
     }
   ],
@@ -6510,8 +6515,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:04:56.5653529+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:08.8392399+00:00",
   "LastUpdate_AppInfo": "2024-01-10T04:57:09.7051995+00:00",
-  "LastUpdate_Ratings": "2024-01-16T14:00:26.2893612+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:04:56.5654213+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:59:15.178709+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:08.8393057+00:00"
 }

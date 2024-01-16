@@ -6,18 +6,18 @@ Number of Ratings: 85  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shop Til They Drop | 78.00% | ~395 |
-| Kaijuiced | 72.00% | ~365 |
+| Shop Til They Drop | 77.00% | ~391 |
+| Kaijuiced | 71.00% | ~361 |
 | Lie Back and Think of Albion | 67.00% | ~340 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~324 |
-| I Look Up As I Walk to Takoshima | 61.00% | ~309 |
-| Yettisoned | 60.00% | ~304 |
-| Pimp My Raid | 58.00% | ~294 |
-| Perfect Probulator | 58.00% | ~294 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~325 |
+| I Look Up As I Walk to Takoshima | 61.00% | ~310 |
+| Yettisoned | 60.00% | ~305 |
+| Perfect Probulator | 58.00% | ~295 |
+| Pimp My Raid | 57.00% | ~290 |
 | Lobster Blisque | 53.00% | ~269 |
 | Fly Me to the Moon Base | 51.00% | ~259 |
-| Earthly Pleasures | 48.00% | ~243 |
-| Ducks in a Row, Fish in a Barrel | 47.00% | ~238 |
+| Earthly Pleasures | 48.00% | ~244 |
+| Ducks in a Row, Fish in a Barrel | 47.00% | ~239 |
 | Bodied Sattva | 38.00% | ~193 |
 | Forbidden Donut | 37.00% | ~188 |
 | Freshly Squeezed | 37.00% | ~188 |
@@ -26,8 +26,8 @@ Number of Ratings: 85  (23.09.2022)
 | Deincarnated | 29.00% | ~147 |
 | Rock of the Bay | 28.00% | ~142 |
 | Trans-Siberian Express | 26.00% | ~132 |
-| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~106 |
-| Arkvoodle Doodle | 19.00% | ~96 |
+| Re-Return of the Clone of the Invasion II-2 | 21.00% | ~107 |
+| Arkvoodle Doodle | 19.00% | ~97 |
 | Die Nasty | 18.00% | ~91 |
 | If You Know What I Mean | 17.00% | ~86 |
 | Mash Machine | 17.00% | ~86 |
@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~10 |
 | Against All Odds | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 507 (Ranked 357)  
+Progressed: 508 (Ranked 357)  
 Completed: 6 (1.18%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 6 (1.18%) (Ranked 163)
 | 2024-01-13 | 480 | 5 |
 | 2024-01-14 | 493 | 5 |
 | 2024-01-15 | 505 | 6 |
-| 2024-01-16 | 507 | 6 |
+| 2024-01-16 | 508 | 6 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

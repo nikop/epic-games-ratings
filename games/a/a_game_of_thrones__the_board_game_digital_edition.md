@@ -18,18 +18,18 @@ Number of Ratings: 2,500  (23.09.2022)
 | Oathkeeper | 7.00% | ~2,350 |
 | Influential | 7.00% | ~2,350 |
 | A Long Journey | 7.00% | ~2,350 |
-| Ours is the Fury | 6.00% | ~2,014 |
-| We Do Not Sow | 6.00% | ~2,014 |
-| Defender of the Wall | 6.00% | ~2,014 |
+| Ours is the Fury | 6.00% | ~2,015 |
+| We Do Not Sow | 6.00% | ~2,015 |
+| Defender of the Wall | 6.00% | ~2,015 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,679 |
 | Growing Strong | 5.00% | ~1,679 |
 | Hear me Roar! | 5.00% | ~1,679 |
 | What is Dead may Never Die | 3.00% | ~1,007 |
-| King in the North | 2.00% | ~671 |
-| The Swift | 2.00% | ~671 |
+| King in the North | 2.00% | ~672 |
+| The Swift | 2.00% | ~672 |
 | War of the Five Kings | 1.00% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,574 (Ranked 141)  
+Progressed: 33,576 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 88 (0.26%) (Ranked 269)
 | 2024-01-13 | 33,357 | 87 |
 | 2024-01-14 | 33,463 | 87 |
 | 2024-01-15 | 33,534 | 88 |
-| 2024-01-16 | 33,574 | 88 |
+| 2024-01-16 | 33,576 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 352)  
 Sum: 814 (Ranked 292)  

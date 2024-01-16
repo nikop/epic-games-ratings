@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.70% | ~3,499 |
+| Until death do us apart | 0.70% | ~3,500 |
 | That's a Grand Army | 0.60% | ~3,000 |
 | Victorious! | 0.60% | ~3,000 |
 | That is mine! | 0.50% | ~2,500 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,919 (Ranked 42)  
+Progressed: 499,943 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,17 +641,17 @@ Completed: 1 (0.00%) (Ranked 402)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
-| 2024-01-16 | 499,919 | 1 |
+| 2024-01-16 | 499,943 | 1 |
 ## Awards
 Max (Educational): 7,857  (Ranked 53)  
-Sum: 64,801 (Ranked 24)  
+Sum: 64,813 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,857 |
 | This game has Diverse Characters | 7,717 |
 | This game is Highly Recommended | 7,535 |
-| This game has Challenging Combat | 7,473 |
+| This game has Challenging Combat | 7,485 |
 | This game is Extremely Fun | 7,358 |
 | This game is Relaxing | 7,204 |
 | This game has Competitive Players | 7,039 |
@@ -1025,4 +1025,4 @@ Diff (max vs sum): 29
 | 2024-01-13 | 4.69 | - | 7,836 | 64,538 |
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
 | 2024-01-15 | 4.69 | - | 7,850 | 64,731 |
-| 2024-01-16 | 4.69 | - | 7,857 | 64,801 |
+| 2024-01-16 | 4.69 | - | 7,857 | 64,813 |

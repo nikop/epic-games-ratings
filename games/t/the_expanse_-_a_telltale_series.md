@@ -22,9 +22,9 @@ Rating: 4.54 (Ranked 551)
 | Madame Undersecretary | 9.00% | ~452 |
 | Data Archivist | 8.00% | ~1,525 |
 | Drug Gifter | 8.00% | ~1,525 |
+| Thorston Mayer | 8.00% | ~1,525 |
 | Khan's Revenge | 8.00% | ~1,525 |
 | Keep Arjun in Check | 8.00% | ~402 |
-| Thorston Mayer | 7.00% | ~1,335 |
 | Doctor Approved | 6.00% | ~1,144 |
 | Bottoms up! | 6.00% | ~1,144 |
 | Master Negotiator | 6.00% | ~301 |

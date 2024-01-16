@@ -1,15 +1,15 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 70)  
+Rating: 4.82 (Ranked 69)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,669 |
-| Life is your teacher | 5.00% | ~38,058 |
-| Lightning Hands | 5.00% | ~38,058 |
-| The Assault | 4.00% | ~30,446 |
+| The Old Grandmaster | 6.00% | ~45,670 |
+| Life is your teacher | 5.00% | ~38,059 |
+| Lightning Hands | 5.00% | ~38,059 |
+| The Assault | 4.00% | ~30,447 |
 | The Hateful Pole Fighter | 3.00% | ~22,835 |
 | Stuntmaster | 3.00% | ~22,835 |
 | Street Fighting | 3.00% | ~22,835 |
@@ -38,19 +38,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.70% | ~493 |
 | Source of Flying Daggers | 0.60% | ~4,567 |
 | Iron Money | 0.60% | ~4,567 |
+| Legendary Talismans of Wuxing | 0.60% | ~4,567 |
 | Sword Stained With Blood | 0.60% | ~4,567 |
 | Bloody Sport | 0.60% | ~423 |
-| Legendary Talismans of Wuxing | 0.50% | ~3,806 |
 | Prodigal Child | 0.50% | ~3,806 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,806 |
 | Knowledge Greed | 0.40% | ~3,045 |
 | The Pit Protector | 0.40% | ~3,045 |
 | Come Snap With Me | 0.40% | ~3,045 |
 | The best strikes are the ones we avoid | 0.40% | ~282 |
-| Drunken Fighter | 0.30% | ~2,283 |
-| Martial Artist | 0.30% | ~2,283 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,283 |
-| Be like water my friend | 0.30% | ~2,283 |
+| Drunken Fighter | 0.30% | ~2,284 |
+| Martial Artist | 0.30% | ~2,284 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,284 |
+| Be like water my friend | 0.30% | ~2,284 |
 | Deadly Venom | 0.30% | ~211 |
 | A Touch of Acumen | 0.30% | ~211 |
 | Healing Memory | 0.20% | ~1,522 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,157 (Ranked 26)  
+Progressed: 761,172 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
-| 2024-01-16 | 761,157 | 12,989 |
+| 2024-01-16 | 761,172 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,215  (Ranked 57)  
 Sum: 12,763 (Ranked 86)  

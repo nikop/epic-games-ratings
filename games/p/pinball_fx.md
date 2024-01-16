@@ -9,26 +9,26 @@ Number of Ratings: 756  (23.09.2022)
 | Ball Launched | 4.00% | ~11,820 |
 | I Found it! | 1.00% | ~2,955 |
 | Ready Steady Score | 0.60% | ~1,773 |
-| First but not Last | 0.30% | ~886 |
-| Full Loot Madness | 0.30% | ~886 |
-| Contender | 0.10% | ~295 |
-| My Table, my Rules | 0.10% | ~295 |
-| Collect Them All | 0.10% | ~295 |
-| Shiny Memento | 0.10% | ~295 |
-| Table Mastered, part 10 | 0.10% | ~295 |
-| Medal Hunter | 0.10% | ~295 |
-| Medal Wizard | 0.10% | ~295 |
-| Pinball Hoarder | 0.10% | ~295 |
-| Virtual Pinball Museum | 0.10% | ~295 |
-| Nine Zeroes | 0.10% | ~295 |
-| Challenge Accepted! | 0.10% | ~295 |
-| Relic Hunter | 0.10% | ~295 |
-| Interior Designer | 0.10% | ~295 |
-| Show Them | 0.10% | ~295 |
-| Totally Furnished | 0.10% | ~295 |
-| Dress Code | 0.10% | ~295 |
-| Customizer | 0.10% | ~295 |
-| I know the Rules | 0.10% | ~295 |
+| First but not Last | 0.30% | ~887 |
+| Full Loot Madness | 0.30% | ~887 |
+| Contender | 0.10% | ~296 |
+| My Table, my Rules | 0.10% | ~296 |
+| Collect Them All | 0.10% | ~296 |
+| Shiny Memento | 0.10% | ~296 |
+| Table Mastered, part 10 | 0.10% | ~296 |
+| Medal Hunter | 0.10% | ~296 |
+| Medal Wizard | 0.10% | ~296 |
+| Pinball Hoarder | 0.10% | ~296 |
+| Virtual Pinball Museum | 0.10% | ~296 |
+| Nine Zeroes | 0.10% | ~296 |
+| Challenge Accepted! | 0.10% | ~296 |
+| Relic Hunter | 0.10% | ~296 |
+| Interior Designer | 0.10% | ~296 |
+| Show Them | 0.10% | ~296 |
+| Totally Furnished | 0.10% | ~296 |
+| Dress Code | 0.10% | ~296 |
+| Customizer | 0.10% | ~296 |
+| I know the Rules | 0.10% | ~296 |
 | Catomic Bomb | 0.10% | ~14 |
 | Terraformer | 0.10% | ~14 |
 | The Captain | 0.10% | ~14 |
@@ -46,7 +46,7 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,490 (Ranked 63)  
+Progressed: 295,501 (Ranked 63)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 294,809 | 0 |
 | 2024-01-14 | 295,127 | 0 |
 | 2024-01-15 | 295,392 | 0 |
-| 2024-01-16 | 295,490 | 0 |
+| 2024-01-16 | 295,501 | 0 |
 ## Awards
 Max (Great for Beginners): 215  (Ranked 294)  
 Sum: 1,653 (Ranked 235)  

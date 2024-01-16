@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 256,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 621,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2442,9 +2442,9 @@
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -2738,9 +2738,9 @@
       "ID": "Save_Humans_10",
       "SetID": "7a5k76n",
       "Name": "Crowd Source",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 168
     },
     {
       "ID": "Save_Humans_15",
@@ -2818,9 +2818,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 317
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -2842,8 +2842,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-16T14:05:39.171053+00:00",
+  "LastChanged_Achievements": "2024-01-16T15:04:39.0569371+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:57:31.9491403+00:00",
-  "LastUpdate_Achievements": "2024-01-16T14:05:39.1711184+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:57:19.2417663+00:00",
+  "LastUpdate_Achievements": "2024-01-16T15:04:39.0570154+00:00"
 }
