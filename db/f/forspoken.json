@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -667,9 +667,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47344,
+  "EOS_Progressed": 47347,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 450,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19017,6 +19017,11 @@
       "Time": "2024-01-16T16:04:01.6035506+00:00",
       "NumProgressed": 47344,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T18:04:47.65959+00:00",
+      "NumProgressed": 47347,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19364,7 +19369,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5681
+      "UsersEstimate": 5682
     },
     {
       "ID": "SPRING_ALL",
@@ -19451,22 +19456,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47344,
+      "Progressed": 47347,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12181,
-      "Completed": 12181
+      "Progressed": 12184,
+      "Completed": 12184
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:04:02.1780079+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:04:47.6595896+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:03:01.433702+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:04:02.1781488+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:03:20.9741211+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:04:47.6597187+00:00"
 }

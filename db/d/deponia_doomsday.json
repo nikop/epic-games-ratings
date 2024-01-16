@@ -5,10 +5,10 @@
   "Ranking_Rating": 532,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 351,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 414,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2024-01-13T21:03:51.9359282+00:00",
       "NumProgressed": 531,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T18:06:37.5117975+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -961,7 +966,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "dep4_achievement_10",
@@ -969,7 +974,7 @@
       "Name": "Sole Music",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "dep4_achievement_11",
@@ -1001,7 +1006,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "dep4_achievement_15",
@@ -1009,7 +1014,7 @@
       "Name": "Weapons 101",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "dep4_achievement_16",
@@ -1049,7 +1054,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "dep4_achievement_20",
@@ -1105,7 +1110,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "dep4_achievement_27",
@@ -1161,7 +1166,7 @@
       "Name": "Play it again, Ronny",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "dep4_achievement_33",
@@ -1248,7 +1253,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 7
     }
   ],
@@ -1256,8 +1261,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:05:21.4382162+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:06:37.5117971+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.9256921+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:03:11.7384233+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:05:21.4382552+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:03:36.3023683+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:06:37.5118307+00:00"
 }

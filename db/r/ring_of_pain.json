@@ -3928,9 +3928,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243064,
+  "EOS_Progressed": 243066,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32043,6 +32043,11 @@
       "Time": "2024-01-16T17:10:23.1640545+00:00",
       "NumProgressed": 243064,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-16T18:11:12.0671145+00:00",
+      "NumProgressed": 243066,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -32508,9 +32513,9 @@
       "ID": "KILLATTENTION",
       "SetID": "5l8oe0h",
       "Name": "Don\u0027t Ignore Me!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1458
     },
     {
       "ID": "KILLBOSSHARD",
@@ -33157,13 +33162,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243064,
+      "Progressed": 243066,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4544,
+      "Progressed": 4546,
       "Completed": 428
     }
   ],
@@ -33171,8 +33176,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-15T23:57:18.1179809+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:10:23.1640541+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:11:12.067114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:52.7926183+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:10:23.164313+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:58:04.3005273+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:11:12.0673754+00:00"
 }

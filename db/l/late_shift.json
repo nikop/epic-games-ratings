@@ -4,8 +4,8 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1107,
+  "EOS_Progressed": 1108,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
@@ -3135,6 +3135,11 @@
       "Time": "2024-01-16T16:09:27.6226934+00:00",
       "NumProgressed": 1107,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-16T18:10:29.540766+00:00",
+      "NumProgressed": 1108,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3146,7 +3151,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3194,7 +3199,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ENDING_6",
@@ -3298,14 +3303,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1107,
+      "Progressed": 1108,
       "Completed": 13
     }
   ],
@@ -3313,8 +3318,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:09:50.4389052+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:10:29.5407656+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:00:51.2774496+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:09:50.4389591+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:02:22.8024326+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:10:29.5407991+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,965 |
+| Sink Beneath the Waves | 36.00% | ~15,966 |
 | Sweet Sorrow | 18.00% | ~7,983 |
-| Rules the Waves | 17.00% | ~7,539 |
+| Rules the Waves | 17.00% | ~7,540 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,652 |
 | Rival | 14.00% | ~6,209 |
 | Correspondent | 12.00% | ~5,322 |
@@ -19,11 +19,11 @@ Number of Ratings: 401  (23.09.2022)
 | The Fall of the House | 11.00% | ~4,878 |
 | Shipmate | 11.00% | ~4,878 |
 | One Year at Zee | 8.00% | ~3,548 |
-| Pupil | 7.00% | ~3,104 |
-| The Ascent of Man | 7.00% | ~3,104 |
+| Pupil | 7.00% | ~3,105 |
+| The Ascent of Man | 7.00% | ~3,105 |
 | Salvager | 6.00% | ~2,661 |
 | Open Your Ears | 6.00% | ~2,661 |
-| Zee Fever | 5.00% | ~2,217 |
+| Zee Fever | 5.00% | ~2,218 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,774 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,774 |
 | Storm's Curse | 3.00% | ~1,330 |
@@ -31,11 +31,11 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,330 |
 | Roaring Rise | 2.00% | ~887 |
 | I am the Captain of my Soul | 2.00% | ~887 |
-| A buoyant escape | 1.00% | ~443 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~443 |
-| The Bell Tolls | 1.00% | ~443 |
-| Knife, Cup and Bone | 1.00% | ~443 |
-| A current under zee | 1.00% | ~443 |
+| A buoyant escape | 1.00% | ~444 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~444 |
+| The Bell Tolls | 1.00% | ~444 |
+| Knife, Cup and Bone | 1.00% | ~444 |
+| A current under zee | 1.00% | ~444 |
 | Never Stop Sinking... | 0.90% | ~399 |
 | His bones in whispers | 0.90% | ~399 |
 | The beauty of the deep | 0.90% | ~399 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,348 (Ranked 131)  
+Progressed: 44,350 (Ranked 131)  
 Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 4 (0.01%) (Ranked 378)
 | 2024-01-13 | 44,187 | 4 |
 | 2024-01-14 | 44,263 | 4 |
 | 2024-01-15 | 44,319 | 4 |
-| 2024-01-16 | 44,348 | 4 |
+| 2024-01-16 | 44,350 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 377)  

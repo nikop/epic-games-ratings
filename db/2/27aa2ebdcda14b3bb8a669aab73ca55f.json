@@ -3,12 +3,12 @@
   "Name": "The Elder Scrolls Online",
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 832,
-  "Ranking_Popularity": 93,
+  "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -6381,18 +6381,24 @@
       "Rating": 4.35,
       "NumberOfAwards": 9888,
       "NumberOfAwardsMax": 4007
+    },
+    {
+      "Time": "2024-01-16T18:01:24.555197+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 9907,
+      "NumberOfAwardsMax": 4017
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9888,
-  "NumberOfAwardsMax": 4007,
+  "NumberOfAwards": 9907,
+  "NumberOfAwardsMax": 4017,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4007
+      "Count": 4017
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6404,7 +6410,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1009
+      "Count": 1013
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6428,7 +6434,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 549
+      "Count": 554
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6461,8 +6467,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2024-01-16T17:00:11.5000134+00:00",
+  "LastChanged": "2024-01-16T18:01:24.5551968+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:00.4300341+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:00:11.5000139+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:08:46.0768852+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:01:24.5551974+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:09:00.7070079+00:00"
 }

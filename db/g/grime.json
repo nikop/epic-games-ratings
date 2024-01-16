@@ -1897,9 +1897,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168498,
+  "EOS_Progressed": 168504,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1084,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23317,6 +23317,11 @@
       "Time": "2024-01-16T17:04:08.4709185+00:00",
       "NumProgressed": 168498,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-16T18:04:56.4004805+00:00",
+      "NumProgressed": 168504,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23345,7 +23350,7 @@
       "Name": "Skinmaker",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -23353,7 +23358,7 @@
       "Name": "Assimilation",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -23361,7 +23366,7 @@
       "Name": "Instruments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACQUIRE_FETALPEARLS",
@@ -23385,7 +23390,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -23425,7 +23430,7 @@
       "Name": "Shapely",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -23489,7 +23494,7 @@
       "Name": "Celebration",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -23503,9 +23508,9 @@
       "ID": "DEFEAT_VULTURE",
       "SetID": "ccc0dlh",
       "Name": "Feast",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1517
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -23513,7 +23518,7 @@
       "Name": "Watcher",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -23569,7 +23574,7 @@
       "Name": "Weakness",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -23585,7 +23590,7 @@
       "Name": "Yank",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -23609,7 +23614,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -23617,7 +23622,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "QUEST_CHILD",
@@ -23633,7 +23638,7 @@
       "Name": "Generous",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "QUEST_KIN",
@@ -23657,7 +23662,7 @@
       "Name": "Proportions",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -23696,21 +23701,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168081,
+      "Progressed": 168087,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168498,
+      "Progressed": 168504,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-16T05:59:05.5507651+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:04:08.4709183+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:04:56.4004802+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:59:20.7885409+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:04:08.4710333+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:00:11.0828132+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:04:56.4005975+00:00"
 }

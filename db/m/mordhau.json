@@ -2,7 +2,7 @@
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
-  "Ranking_Rating": 798,
+  "Ranking_Rating": 797,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 7,
@@ -7539,9 +7539,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1591137,
+  "EOS_Progressed": 1591169,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 3458,
+  "EOS_NewPlayers": 3468,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38799,6 +38799,11 @@
       "Time": "2024-01-16T17:04:21.7992833+00:00",
       "NumProgressed": 1591137,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-16T18:05:14.9055346+00:00",
+      "NumProgressed": 1591169,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 38,
@@ -38810,7 +38815,7 @@
       "Name": "Boxer",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 14320
+      "UsersEstimate": 14321
     },
     {
       "ID": "BurningMan",
@@ -38818,7 +38823,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 254582
+      "UsersEstimate": 254587
     },
     {
       "ID": "Chambermaid",
@@ -38826,7 +38831,7 @@
       "Name": "Chambermaid",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 15911
+      "UsersEstimate": 15912
     },
     {
       "ID": "Clobbered",
@@ -38842,7 +38847,7 @@
       "Name": "Coming Through",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15911
+      "UsersEstimate": 15912
     },
     {
       "ID": "Crybaby",
@@ -38874,7 +38879,7 @@
       "Name": "Flyswatter",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 14320
+      "UsersEstimate": 14321
     },
     {
       "ID": "FriendIndeed",
@@ -38890,7 +38895,7 @@
       "Name": "Guts",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 302316
+      "UsersEstimate": 302322
     },
     {
       "ID": "Highlander",
@@ -38898,7 +38903,7 @@
       "Name": "Highlander",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 159114
+      "UsersEstimate": 159117
     },
     {
       "ID": "HomeRun",
@@ -38906,7 +38911,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 652366
+      "UsersEstimate": 652379
     },
     {
       "ID": "JustScratch",
@@ -38914,7 +38919,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 143202
+      "UsersEstimate": 143205
     },
     {
       "ID": "JusticeFromGrave",
@@ -38922,7 +38927,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 779657
+      "UsersEstimate": 779673
     },
     {
       "ID": "KeepsComingOff",
@@ -38930,7 +38935,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 652366
+      "UsersEstimate": 652379
     },
     {
       "ID": "KungFu",
@@ -38946,7 +38951,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 190936
+      "UsersEstimate": 190940
     },
     {
       "ID": "LivingSculpture",
@@ -38962,7 +38967,7 @@
       "Name": "Long List of Names",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 63645
+      "UsersEstimate": 63647
     },
     {
       "ID": "MeatGrinder",
@@ -38970,7 +38975,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 302316
+      "UsersEstimate": 302322
     },
     {
       "ID": "NoOrdinaryCold",
@@ -38986,7 +38991,7 @@
       "Name": "This isn\u2019t Sparta",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 47734
+      "UsersEstimate": 47735
     },
     {
       "ID": "Poacher",
@@ -39010,7 +39015,7 @@
       "Name": "Pyromaniac",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 63645
+      "UsersEstimate": 63647
     },
     {
       "ID": "QueenOfWeapons",
@@ -39018,7 +39023,7 @@
       "Name": "The Queen of Weapons",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 63645
+      "UsersEstimate": 63647
     },
     {
       "ID": "Rocknroll",
@@ -39042,7 +39047,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 684189
+      "UsersEstimate": 684203
     },
     {
       "ID": "ToughNut",
@@ -39050,7 +39055,7 @@
       "Name": "Tough Nut to Crack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 95468
+      "UsersEstimate": 95470
     },
     {
       "ID": "TrainingAccident",
@@ -39058,7 +39063,7 @@
       "Name": "Training Accident",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 14320
+      "UsersEstimate": 14321
     },
     {
       "ID": "Unstoppable",
@@ -39066,7 +39071,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 159114
+      "UsersEstimate": 159117
     },
     {
       "ID": "Virtuoso",
@@ -39098,7 +39103,7 @@
       "Name": "Yoink",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 95468
+      "UsersEstimate": 95470
     },
     {
       "ID": "YoureWelcome",
@@ -39113,7 +39118,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1591137,
+      "Progressed": 1591169,
       "Completed": 78
     }
   ],
@@ -39121,8 +39126,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2024-01-16T15:57:53.9445966+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:04:21.7992828+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:05:14.9055342+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:59.3778847+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:45.8920188+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:04:21.7995137+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:57:54.0807858+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:05:14.9056809+00:00"
 }

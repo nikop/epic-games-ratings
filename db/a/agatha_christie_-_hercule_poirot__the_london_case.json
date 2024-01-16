@@ -3,9 +3,9 @@
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 488,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 115,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 11,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.61,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 3.48,
   "EosHistory": [
     {
       "Time": "2023-08-28T17:08:21.3912781+00:00",
@@ -594,6 +594,11 @@
       "Time": "2024-01-15T15:10:15.0041879+00:00",
       "NumProgressed": 115,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T18:10:51.4205697+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-28T09:06:47.8073027+00:00",
@@ -612,9 +617,9 @@
       "ID": "ACH_010",
       "SetID": "7b646ck",
       "Name": "The Denouement",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_011",
@@ -684,9 +689,9 @@
       "ID": "ACH_019",
       "SetID": "7b646ck",
       "Name": "A treasured heirloom",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_02",
@@ -772,9 +777,9 @@
       "ID": "ACH_029",
       "SetID": "7b646ck",
       "Name": "The Penitent Magdalene",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_03",
@@ -788,9 +793,9 @@
       "ID": "ACH_030",
       "SetID": "7b646ck",
       "Name": "A true performance",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_031",
@@ -974,13 +979,13 @@
       "ID": "7b646ck",
       "IsBase": true,
       "Progressed": 115,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:10:06.9309347+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:10:51.4205693+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.0301644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:48.4441352+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:10:06.9309607+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:57:58.0271732+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:10:51.420598+00:00"
 }

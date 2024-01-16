@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -67,7 +67,7 @@
   "Tags": [],
   "EOS_Progressed": 912,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3542,9 +3542,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -3639,8 +3639,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-16T15:57:40.8541905+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:09:24.9537717+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:09:53.8495407+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:32.7462112+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:09:24.9538029+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:57:34.5589293+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:09:53.8495746+00:00"
 }

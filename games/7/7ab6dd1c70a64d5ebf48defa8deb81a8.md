@@ -10,9 +10,9 @@ Rating: 4.13 (Ranked 1,018)
 | The Collector | 28.00% | ~659 |
 | Find Allies | 27.00% | ~636 |
 | A Taste of Wrath | 27.00% | ~636 |
+| Geared Up | 26.00% | ~612 |
 | Adventurer | 25.00% | ~588 |
 | Shatter Them All | 25.00% | ~588 |
-| Geared Up | 25.00% | ~588 |
 | Scholar | 25.00% | ~588 |
 | I Found It | 25.00% | ~588 |
 | Fashion Victim | 24.00% | ~565 |
@@ -23,7 +23,7 @@ Rating: 4.13 (Ranked 1,018)
 | Alchemist | 15.00% | ~353 |
 | Essence Blow | 14.00% | ~330 |
 | The Mentor | 12.00% | ~282 |
-| Calm before the Storm | 10.00% | ~235 |
+| Calm before the Storm | 11.00% | ~259 |
 | To Battle | 9.00% | ~212 |
 | Godslayer | 9.00% | ~212 |
 | Airborne | 8.00% | ~188 |

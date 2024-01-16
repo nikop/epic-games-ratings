@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Maupiroa | 48.00% | ~16 |
 | Recycling newbie | 42.00% | ~14 |
-| New recruit | 24.00% | ~8 |
+| New recruit | 27.00% | ~9 |
 | Interesting | 24.00% | ~8 |
 | Amateur photographer | 18.00% | ~6 |
 | In search of knowledge | 15.00% | ~5 |

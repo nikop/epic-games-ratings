@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1011,7 +1011,7 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7556,
+  "EOS_Progressed": 7557,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -9821,6 +9821,11 @@
       "Time": "2024-01-15T08:11:11.523013+00:00",
       "NumProgressed": 7556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T18:11:03.4311441+00:00",
+      "NumProgressed": 7557,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9864,7 +9869,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2191
+      "UsersEstimate": 2192
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9896,7 +9901,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9912,7 +9917,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2342
+      "UsersEstimate": 2343
     },
     {
       "ID": "First_Major_Ally",
@@ -9936,7 +9941,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5818
+      "UsersEstimate": 5819
     },
     {
       "ID": "First_Race_Met",
@@ -9944,7 +9949,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "First_Ship_Designed",
@@ -10024,7 +10029,7 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "Level_5_Ship",
@@ -10110,9 +10115,9 @@
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "Sell_10_Resource",
@@ -10136,7 +10141,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -10320,7 +10325,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4911
+      "UsersEstimate": 4912
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10328,7 +10333,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "Win_Conquest",
@@ -10407,15 +10412,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7556,
+      "Progressed": 7557,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-12T16:57:40.5503057+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:10:15.9767428+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:11:03.4311438+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:59:48.0776562+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:10:15.9768265+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:00:49.770604+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:11:03.431302+00:00"
 }

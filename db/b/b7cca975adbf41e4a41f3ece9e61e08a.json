@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18713,
-  "EOS_Completed": 331,
-  "EOS_NewPlayers": 549,
+  "EOS_Progressed": 18714,
+  "EOS_Completed": 332,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
@@ -10105,6 +10105,11 @@
       "Time": "2024-01-16T17:09:51.8060445+00:00",
       "NumProgressed": 18713,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2024-01-16T18:10:31.3213319+00:00",
+      "NumProgressed": 18714,
+      "NumCompleted": 332
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10117,7 +10122,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16467
+      "UsersEstimate": 16468
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10197,7 +10202,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -10213,7 +10218,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 12163
+      "UsersEstimate": 12164
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10253,7 +10258,7 @@
       "Name": "Love Actually",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7859
+      "UsersEstimate": 7860
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -10285,7 +10290,7 @@
       "Name": "The Flash",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -10333,7 +10338,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -10373,7 +10378,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8795
+      "UsersEstimate": 8796
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -10381,7 +10386,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -10397,7 +10402,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -10452,16 +10457,16 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18713,
-      "Completed": 331
+      "Progressed": 18714,
+      "Completed": 332
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-16T14:57:41.318493+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:09:51.8060442+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:10:31.3213315+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:45.6730282+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:09:51.8061248+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:57:53.8963501+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:10:31.321423+00:00"
 }

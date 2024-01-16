@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 1002,
   "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 358,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1657,10 +1657,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 404,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-01-16T18:02:27.4768418+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 405,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 404,
+  "NumberOfAwards": 405,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1686,7 +1692,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1725,9 +1731,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 10844,
+  "EOS_Progressed": 10846,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11685,6 +11691,11 @@
       "Time": "2024-01-16T17:05:56.6016029+00:00",
       "NumProgressed": 10844,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T18:07:26.9932443+00:00",
+      "NumProgressed": 10846,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11793,7 +11804,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6398
+      "UsersEstimate": 6399
     },
     {
       "ID": "achievement_21",
@@ -11833,7 +11844,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "achievement_7",
@@ -11849,7 +11860,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "achievement_9",
@@ -11864,16 +11875,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10844,
+      "Progressed": 10846,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-16T01:49:09.6937103+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:05:56.6016025+00:00",
+  "LastChanged": "2024-01-16T18:02:27.4768416+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:07:26.9932439+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:02:45.6386574+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:05:56.6016709+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:02:27.4768423+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:07:26.9933042+00:00"
 }

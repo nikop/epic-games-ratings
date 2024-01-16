@@ -10,23 +10,23 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 5.00% | ~846 |
 | Explorer | 4.00% | ~677 |
 | Friendly Family | 4.00% | ~677 |
-| Able | 3.00% | ~507 |
-| Architect | 3.00% | ~507 |
-| Enlightened | 3.00% | ~507 |
-| Good | 3.00% | ~507 |
-| Intrepid | 3.00% | ~507 |
-| Just | 3.00% | ~507 |
-| Keystone | 3.00% | ~507 |
-| Learned | 3.00% | ~507 |
-| Mason | 3.00% | ~507 |
-| Noble | 3.00% | ~507 |
-| Pioneer | 3.00% | ~507 |
-| Strong | 3.00% | ~507 |
-| Hanging Gardens | 3.00% | ~507 |
-| Oracle | 3.00% | ~507 |
-| Pyramids | 3.00% | ~507 |
-| Judaism | 3.00% | ~507 |
-| Trade Caravan | 3.00% | ~507 |
+| Able | 3.00% | ~508 |
+| Architect | 3.00% | ~508 |
+| Enlightened | 3.00% | ~508 |
+| Good | 3.00% | ~508 |
+| Intrepid | 3.00% | ~508 |
+| Just | 3.00% | ~508 |
+| Keystone | 3.00% | ~508 |
+| Learned | 3.00% | ~508 |
+| Mason | 3.00% | ~508 |
+| Noble | 3.00% | ~508 |
+| Pioneer | 3.00% | ~508 |
+| Strong | 3.00% | ~508 |
+| Hanging Gardens | 3.00% | ~508 |
+| Oracle | 3.00% | ~508 |
+| Pyramids | 3.00% | ~508 |
+| Judaism | 3.00% | ~508 |
+| Trade Caravan | 3.00% | ~508 |
 | Regicide | 2.00% | ~338 |
 | Ambitious | 2.00% | ~338 |
 | Brilliant | 2.00% | ~338 |
@@ -109,22 +109,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.70% | ~118 |
 | Ambition Victory | 0.70% | ~118 |
 | Kushite Pyramids | 0.70% | ~118 |
-| Bad Heir Day | 0.60% | ~101 |
-| Devout | 0.60% | ~101 |
-| Invincible | 0.60% | ~101 |
-| Lion | 0.60% | ~101 |
-| Peacemaker | 0.60% | ~101 |
-| Strong Difficulty | 0.60% | ~101 |
-| Hunters | 0.60% | ~101 |
-| Babylonia | 0.60% | ~101 |
-| Industrial Progress | 0.60% | ~101 |
-| Enlightenment | 0.60% | ~101 |
-| Gnosticism | 0.60% | ~101 |
-| Redemption | 0.60% | ~101 |
-| Veneration | 0.60% | ~101 |
-| Kushite Cavalry | 0.60% | ~101 |
-| Phalangite | 0.60% | ~101 |
-| Jerwan Aqueduct | 0.60% | ~101 |
+| Bad Heir Day | 0.60% | ~102 |
+| Devout | 0.60% | ~102 |
+| Invincible | 0.60% | ~102 |
+| Lion | 0.60% | ~102 |
+| Peacemaker | 0.60% | ~102 |
+| Strong Difficulty | 0.60% | ~102 |
+| Hunters | 0.60% | ~102 |
+| Babylonia | 0.60% | ~102 |
+| Industrial Progress | 0.60% | ~102 |
+| Enlightenment | 0.60% | ~102 |
+| Gnosticism | 0.60% | ~102 |
+| Redemption | 0.60% | ~102 |
+| Veneration | 0.60% | ~102 |
+| Kushite Cavalry | 0.60% | ~102 |
+| Phalangite | 0.60% | ~102 |
+| Jerwan Aqueduct | 0.60% | ~102 |
 | Clerics | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Adur Burzen-Mihr | 0.50% | ~85 |
@@ -137,6 +137,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Deposed Tribe | 0.50% | ~85 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
+| Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
 | Egypt | 0.40% | ~68 |
 | One True Faith | 0.40% | ~68 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~51 |
 | Noble Difficulty | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
-| Cao'an | 0.30% | ~51 |
 | Old World Order | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,916 (Ranked 169)  
+Progressed: 16,917 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 359)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,916 | 5 |
+| 2024-01-16 | 16,917 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

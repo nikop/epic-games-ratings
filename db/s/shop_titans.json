@@ -8191,9 +8191,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151426,
+  "EOS_Progressed": 151430,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 971,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36946,6 +36946,11 @@
       "Time": "2024-01-16T17:09:09.8110852+00:00",
       "NumProgressed": 151426,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-16T18:09:33.1520003+00:00",
+      "NumProgressed": 151430,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -36957,7 +36962,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "advlevel02",
@@ -37509,7 +37514,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "jackslot02",
@@ -37613,7 +37618,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "master02",
@@ -37852,15 +37857,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151426,
+      "Progressed": 151430,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-16T05:03:39.7092636+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:09:09.8110847+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:09:33.152+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:03:17.3723968+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:09:09.8113366+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:03:43.1886598+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:09:33.1522392+00:00"
 }

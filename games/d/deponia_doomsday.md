@@ -5,18 +5,18 @@ Rating: 4.55 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 85.00% | ~451 |
-| And again, and again, and... | 62.00% | ~329 |
+| Huzza, he's back. | 85.00% | ~452 |
+| And again, and again, and... | 62.00% | ~330 |
 | Kuvaq Minigame-Master | 60.00% | ~319 |
 | Burn, Elysium, burn! | 60.00% | ~319 |
 | FunScore | 54.00% | ~287 |
 | Funtime's over | 51.00% | ~271 |
 | Chunky | 48.00% | ~255 |
 | Boat of love, boat of love | 47.00% | ~250 |
-| Shall we play a game? | 46.00% | ~244 |
+| Shall we play a game? | 46.00% | ~245 |
 | School's out | 42.00% | ~223 |
-| Sole Music | 36.00% | ~191 |
-| Scaffolding Expert | 36.00% | ~191 |
+| Sole Music | 36.00% | ~192 |
+| Scaffolding Expert | 36.00% | ~192 |
 | Elysian Minigame-Master | 35.00% | ~186 |
 | Portals come in packs | 29.00% | ~154 |
 | No man left behind! | 28.00% | ~149 |
@@ -29,10 +29,10 @@ Rating: 4.55 (Ranked 532)
 | Monstrous Harassment | 14.00% | ~74 |
 | Heading the inverter | 14.00% | ~74 |
 | Blast from the Past | 12.00% | ~64 |
-| Play it again, Ronny | 11.00% | ~58 |
+| Play it again, Ronny | 11.00% | ~59 |
 | Paradox! | 10.00% | ~53 |
 | Goat Team | 9.00% | ~48 |
-| Weapons 101 | 8.00% | ~42 |
+| Weapons 101 | 8.00% | ~43 |
 | Sadist | 7.00% | ~37 |
 | The customer is always right | 6.00% | ~32 |
 | Pacifist | 6.00% | ~32 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 532)
 | Every man for himself! | 5.00% | ~27 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531 (Ranked 351)  
+Progressed: 532 (Ranked 350)  
 Completed: 7 (1.32%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 7 (1.32%) (Ranked 159)
 | 2024-01-11 | 527 | 7 |
 | 2024-01-12 | 528 | 7 |
 | 2024-01-13 | 531 | 7 |
+| 2024-01-16 | 532 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

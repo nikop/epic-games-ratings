@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
     "PcReleaseDate": "2017-09-28T11:20:00+00:00",
@@ -7976,10 +7976,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 15244,
       "NumberOfAwardsMax": 4837
+    },
+    {
+      "Time": "2024-01-16T18:03:13.633717+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 15248,
+      "NumberOfAwardsMax": 4837
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15244,
+  "NumberOfAwards": 15248,
   "NumberOfAwardsMax": 4837,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8005,7 +8011,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1096
+      "Count": 1097
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8035,7 +8041,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1047
+      "Count": 1049
     },
     {
       "Text": "This game is Relaxing",
@@ -8059,7 +8065,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 966
+      "Count": 967
     }
   ],
   "EOS_Progressed": 0,
@@ -8073,8 +8079,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2024-01-16T03:03:13.2579975+00:00",
+  "LastChanged": "2024-01-16T18:03:13.6337168+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.4254847+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:02:56.6489452+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:05:21.4108818+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:03:13.6337175+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:06:37.3662015+00:00"
 }

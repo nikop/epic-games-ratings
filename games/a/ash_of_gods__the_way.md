@@ -11,8 +11,8 @@
 | First blood | 34.00% | ~27 |
 | Royal blessing | 30.00% | ~24 |
 | Surpass the teacher | 21.00% | ~17 |
+| A hidden snake | 21.00% | ~17 |
 | Blood and sand | 21.00% | ~17 |
-| A hidden snake | 20.00% | ~16 |
 | All for one! | 19.00% | ~15 |
 | Help of the Gell | 18.00% | ~14 |
 | Power of Inquisition | 16.00% | ~13 |

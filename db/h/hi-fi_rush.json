@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 342,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -273,9 +273,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 17275,
+  "EOS_Progressed": 17276,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 836,
+  "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12433,6 +12433,11 @@
       "Time": "2024-01-16T17:05:51.4444903+00:00",
       "NumProgressed": 17275,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T18:07:20.0670961+00:00",
+      "NumProgressed": 17276,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12444,7 +12449,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9501
+      "UsersEstimate": 9502
     },
     {
       "ID": "Ach002",
@@ -12556,7 +12561,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6046
+      "UsersEstimate": 6047
     },
     {
       "ID": "Ach016",
@@ -12620,7 +12625,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9674
+      "UsersEstimate": 9675
     },
     {
       "ID": "Ach024",
@@ -12636,7 +12641,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "Ach026",
@@ -12674,9 +12679,9 @@
       "ID": "Ach030",
       "SetID": "12n4k20",
       "Name": "This is a breeze!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 173
+      "UsersEstimate": 346
     },
     {
       "ID": "Ach031",
@@ -12700,7 +12705,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "Ach034",
@@ -12722,9 +12727,9 @@
       "ID": "Ach036",
       "SetID": "12n4k20",
       "Name": "Kissing the sky!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3455
+      "UsersEstimate": 3628
     },
     {
       "ID": "Ach037",
@@ -13011,13 +13016,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17275,
+      "Progressed": 17276,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15796,
+      "Progressed": 15797,
       "Completed": 1931
     }
   ],
@@ -13025,8 +13030,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:05:51.4444897+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:07:20.0670957+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:00:26.0422583+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:05:51.4446304+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:01:45.7035977+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:07:20.0672051+00:00"
 }

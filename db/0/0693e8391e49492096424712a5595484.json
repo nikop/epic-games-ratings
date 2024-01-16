@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 793,
-  "EOS_Completed": 55,
+  "EOS_Completed": 56,
   "EOS_NewPlayers": 48,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.94,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 7.06,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3249,6 +3249,11 @@
       "Time": "2024-01-16T16:06:18.1579016+00:00",
       "NumProgressed": 793,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2024-01-16T18:08:07.0828317+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 45,
@@ -3570,9 +3575,9 @@
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 151
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3586,9 +3591,9 @@
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 135
     },
     {
       "ID": "SwordDiamond",
@@ -3620,13 +3625,13 @@
       "ID": "db30heh",
       "IsBase": true,
       "Progressed": 793,
-      "Completed": 55
+      "Completed": 56
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:06:25.8875275+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:08:07.0828311+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:22.4223567+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:06:25.8875857+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:57:20.9518672+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:08:07.0828909+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,101 |
+| Malpractice Assurance | 14.00% | ~1,102 |
 | Lost and Found | 9.00% | ~708 |
 | Autodidact | 8.00% | ~10,640 |
 | This Belongs in a Museum | 7.00% | ~9,310 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.50% | ~39 |
 | Tears in the Rain | 0.40% | ~532 |
 | Maître De La Lame | 0.40% | ~31 |
+| Circle of Life | 0.30% | ~399 |
 | Grand Slam | 0.30% | ~399 |
-| Circle of Life | 0.20% | ~266 |
 | 20,000 Leagues Above the Sea | 0.20% | ~266 |
 | These Boots Are Made For Kickin' | 0.20% | ~16 |
 | Loop Year | 0.10% | ~133 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,996 (Ranked 92)  
+Progressed: 132,999 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 402)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,996 | 5 |
+| 2024-01-16 | 132,999 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,679 (Ranked 58)  

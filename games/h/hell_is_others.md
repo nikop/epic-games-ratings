@@ -5,13 +5,13 @@ Rating: 4.39 (Ranked 786)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,824 |
+| Survivor | 31.00% | ~80,825 |
 | Predator I | 23.00% | ~59,967 |
-| Fixer I | 10.00% | ~26,072 |
-| A week in Century City | 10.00% | ~26,072 |
+| Fixer I | 10.00% | ~26,073 |
+| A week in Century City | 10.00% | ~26,073 |
 | The Wait | 7.00% | ~18,251 |
-| Green thumb I | 6.00% | ~15,643 |
-| Cleaning Company | 6.00% | ~15,643 |
+| Green thumb I | 6.00% | ~15,644 |
+| Cleaning Company | 6.00% | ~15,644 |
 | Well-oiled machine | 5.00% | ~13,036 |
 | Saver I | 5.00% | ~13,036 |
 | The Ascent | 4.00% | ~10,429 |
@@ -22,12 +22,12 @@ Rating: 4.39 (Ranked 786)
 | It took a while | 3.00% | ~7,822 |
 | Adrenaline | 3.00% | ~7,822 |
 | Predator II | 3.00% | ~7,822 |
-| By a hair | 2.00% | ~5,214 |
-| Samurai | 2.00% | ~5,214 |
-| I Left You a Present | 2.00% | ~5,214 |
-| Truffle Dog | 2.00% | ~5,214 |
-| Don't try this at home | 2.00% | ~5,214 |
-| A month in Century City | 2.00% | ~5,214 |
+| By a hair | 2.00% | ~5,215 |
+| Samurai | 2.00% | ~5,215 |
+| I Left You a Present | 2.00% | ~5,215 |
+| Truffle Dog | 2.00% | ~5,215 |
+| Don't try this at home | 2.00% | ~5,215 |
+| A month in Century City | 2.00% | ~5,215 |
 | The Strengthening | 1.00% | ~2,607 |
 | Saver II | 1.00% | ~2,607 |
 | It's the last one, I swear | 1.00% | ~2,607 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 786)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,724 (Ranked 68)  
+Progressed: 260,726 (Ranked 68)  
 Completed: 3 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 3 (0.00%) (Ranked 402)
 | 2024-01-13 | 260,622 | 3 |
 | 2024-01-14 | 260,668 | 3 |
 | 2024-01-15 | 260,699 | 3 |
-| 2024-01-16 | 260,724 | 3 |
+| 2024-01-16 | 260,726 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 447)  
 Sum: 381 (Ranked 367)  

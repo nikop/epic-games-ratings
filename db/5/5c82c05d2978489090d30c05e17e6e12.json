@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 113,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2023-11-20T03:59:04.4319756+00:00",
@@ -269,15 +269,21 @@
       "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-16T17:59:18.4353362+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75554,
+  "EOS_Progressed": 75563,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1361,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7535,6 +7541,11 @@
       "Time": "2024-01-16T17:08:50.6572921+00:00",
       "NumProgressed": 75554,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-16T18:09:06.9379422+00:00",
+      "NumProgressed": 75563,
+      "NumCompleted": 124
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7547,7 +7558,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27955
+      "UsersEstimate": 27958
     },
     {
       "ID": "Achievement_10",
@@ -7579,7 +7590,7 @@
       "Name": "Supreme Scavenger",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3022
+      "UsersEstimate": 3023
     },
     {
       "ID": "Achievement_14",
@@ -7635,7 +7646,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21155
+      "UsersEstimate": 21158
     },
     {
       "ID": "Achievement_20",
@@ -7667,7 +7678,7 @@
       "Name": "Festival Masters",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "Achievement_24",
@@ -7675,7 +7686,7 @@
       "Name": "Custodian of Scrollroads",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3022
+      "UsersEstimate": 3023
     },
     {
       "ID": "Achievement_25",
@@ -7699,7 +7710,7 @@
       "Name": "Critter King",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "Achievement_28",
@@ -7723,7 +7734,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9066
+      "UsersEstimate": 9068
     },
     {
       "ID": "Achievement_30",
@@ -7771,7 +7782,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6800
+      "UsersEstimate": 6801
     },
     {
       "ID": "Achievement_5",
@@ -7787,7 +7798,7 @@
       "Name": "The Red-Haired Enigma",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3022
+      "UsersEstimate": 3023
     },
     {
       "ID": "Achievement_7",
@@ -7818,16 +7829,16 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75554,
+      "Progressed": 75563,
       "Completed": 124
     }
   ],
   "FirstSeen": "2023-11-16T18:57:39.5657505+00:00",
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged": "2024-01-14T17:58:20.5473413+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:08:50.6572917+00:00",
+  "LastChanged": "2024-01-16T17:59:18.435336+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:09:06.9379417+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:58:44.1442269+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:08:50.6573803+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:59:18.4353364+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:09:06.937999+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4791,
+  "EOS_Progressed": 4792,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8429,6 +8429,11 @@
       "Time": "2024-01-16T11:03:45.565317+00:00",
       "NumProgressed": 4791,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T18:04:47.9350498+00:00",
+      "NumProgressed": 4792,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8480,7 +8485,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "CrowdPleaser",
@@ -8496,7 +8501,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "Eureka_23",
@@ -8504,7 +8509,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8536,7 +8541,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "HomeSweetHome_25",
@@ -8552,7 +8557,7 @@
       "Name": "House of Cards",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -8568,7 +8573,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "LightofLevant_18",
@@ -8688,7 +8693,7 @@
       "Name": "The power of ambition",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -8760,7 +8765,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3498
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8775,15 +8780,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4791,
+      "Progressed": 4792,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:04:02.3949009+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:04:47.9350493+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:03:04.4354327+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:04:02.394966+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:03:25.464211+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:04:47.9351316+00:00"
 }

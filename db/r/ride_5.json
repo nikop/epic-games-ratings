@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3617,
+  "EOS_Progressed": 3618,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8955,6 +8955,11 @@
       "Time": "2024-01-16T17:03:41.1525378+00:00",
       "NumProgressed": 3617,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T18:04:18.6498114+00:00",
+      "NumProgressed": 3618,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8975,7 +8980,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -8999,7 +9004,7 @@
       "Name": "Restored and Ready",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9055,7 +9060,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9255,7 +9260,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9263,7 +9268,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9319,7 +9324,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9358,7 +9363,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3617,
+      "Progressed": 3618,
       "Completed": 0
     }
   ],
@@ -9366,8 +9371,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:03:41.1525372+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:04:18.6498109+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:57:39.1393222+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:03:41.152637+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:57:44.1058553+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:04:18.6498987+00:00"
 }

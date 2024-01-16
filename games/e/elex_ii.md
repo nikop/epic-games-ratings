@@ -20,10 +20,10 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 18.00% | ~46 |
 | Pass A38 | 18.00% | ~46 |
 | Eternal Oblivion | 16.00% | ~41 |
+| Banker | 14.00% | ~36 |
 | Storyteller | 14.00% | ~36 |
-| Banker | 13.00% | ~34 |
+| Globetrotter | 13.00% | ~34 |
 | Berserker | 13.00% | ~34 |
-| Globetrotter | 12.00% | ~31 |
 | Alb | 11.00% | ~28 |
 | Hunter | 11.00% | ~28 |
 | Lover | 10.00% | ~26 |

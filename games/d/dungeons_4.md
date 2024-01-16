@@ -46,8 +46,8 @@ Rating: 4.73 (Ranked 179)
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~224 |
 | Sabotage! | 29.00% | ~224 |
 | Raiders of the Lost Stone | 29.00% | ~224 |
+| The Rune Sockets of Finitude (Part 1) | 29.00% | ~224 |
 | Stop Tanos! | 28.00% | ~216 |
-| The Rune Sockets of Finitude (Part 1) | 28.00% | ~216 |
 | Bonus Evilness | 27.00% | ~208 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~208 |
 | The Last Stand - This Time For Real! | 26.00% | ~201 |

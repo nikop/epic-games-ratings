@@ -2,10 +2,10 @@
   "ID": "a7ec33941949459cab07e39c65ca4309",
   "Name": "Funtoon\u0027s World",
   "ProductSlug": "funtoons-world-0e63dd",
-  "Ranking_EOS_Progress": 725,
+  "Ranking_EOS_Progress": 707,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
     "PcReleaseDate": "2015-04-30T18:30:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2023-12-22T01:48:45.3286181+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T18:05:54.6048222+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T05:03:22.0575895+00:00",
@@ -62,9 +67,9 @@
       "ID": "azure_world",
       "SetID": "42bl17n",
       "Name": "Azure World Completed",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "jungle_world",
@@ -103,14 +108,14 @@
     {
       "ID": "42bl17n",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-22T22:01:27.662818+00:00",
   "FirstSeenAchievements": "2023-12-01T05:03:22.0575894+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:04:50.1039311+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:05:54.6048214+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:01.7544199+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:58:17.7309542+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:04:50.1039575+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:58:40.1148622+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:05:54.6048445+00:00"
 }

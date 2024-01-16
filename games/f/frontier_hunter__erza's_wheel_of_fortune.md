@@ -1,34 +1,34 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 798)  
+Rating: 4.38 (Ranked 797)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~702 |
-| Training Simulation | 79.00% | ~596 |
-| Kuku Bird Hunter | 66.00% | ~498 |
-| Storm Traveller | 60.00% | ~453 |
-| Wolf King Killer | 55.00% | ~415 |
-| Fashion Connoisseur | 53.00% | ~400 |
+| Travel Streamer | 93.00% | ~703 |
+| Training Simulation | 79.00% | ~597 |
+| Kuku Bird Hunter | 65.00% | ~491 |
+| Storm Traveller | 60.00% | ~454 |
+| Wolf King Killer | 55.00% | ~416 |
+| Fashion Connoisseur | 53.00% | ~401 |
 | Arms Mechanic | 49.00% | ~370 |
-| Flower Thief | 44.00% | ~332 |
+| Flower Thief | 44.00% | ~333 |
 | Apostle of Flame | 40.00% | ~302 |
 | Beginner Cook | 38.00% | ~287 |
 | Beginner Artificer | 38.00% | ~287 |
 | Seal Breaker | 32.00% | ~242 |
-| Handyman | 28.00% | ~211 |
+| Handyman | 28.00% | ~212 |
 | Giant Lizard Killer | 27.00% | ~204 |
-| Guardian | 26.00% | ~196 |
-| Nosebleeder | 26.00% | ~196 |
+| Guardian | 26.00% | ~197 |
+| Nosebleeder | 26.00% | ~197 |
 | Trader | 22.00% | ~166 |
 | Weapon Boost | 21.00% | ~159 |
-| Flying Kobold Killer | 19.00% | ~143 |
-| Youth Magnet | 19.00% | ~143 |
-| Furious Scorpion Killer | 17.00% | ~128 |
-| Lethal Blade Mantis Killer | 17.00% | ~128 |
-| Squeaky Clean | 17.00% | ~128 |
-| Master Artificer | 17.00% | ~128 |
+| Flying Kobold Killer | 19.00% | ~144 |
+| Youth Magnet | 19.00% | ~144 |
+| Furious Scorpion Killer | 17.00% | ~129 |
+| Lethal Blade Mantis Killer | 17.00% | ~129 |
+| Squeaky Clean | 17.00% | ~129 |
+| Master Artificer | 17.00% | ~129 |
 | Kind Adventurer | 16.00% | ~121 |
 | Mermaid Killer | 15.00% | ~113 |
 | Cave Master | 15.00% | ~113 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 798)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755 (Ranked 323)  
+Progressed: 756 (Ranked 322)  
 Completed: 3 (0.40%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,6 +183,7 @@ Completed: 3 (0.40%) (Ranked 244)
 | 2024-01-13 | 749 | 3 |
 | 2024-01-14 | 754 | 3 |
 | 2024-01-15 | 755 | 3 |
+| 2024-01-16 | 756 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

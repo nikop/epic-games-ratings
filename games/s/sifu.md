@@ -35,7 +35,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.70% | ~5,328 |
 | Tiger on Fire | 0.70% | ~5,328 |
 | Detective Story | 0.70% | ~5,328 |
-| Martial Hub | 0.70% | ~493 |
+| Martial Hub | 0.70% | ~494 |
 | Source of Flying Daggers | 0.60% | ~4,567 |
 | Iron Money | 0.60% | ~4,567 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,567 |
@@ -51,8 +51,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Artist | 0.30% | ~2,284 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,284 |
 | Be like water my friend | 0.30% | ~2,284 |
-| Deadly Venom | 0.30% | ~211 |
-| A Touch of Acumen | 0.30% | ~211 |
+| Deadly Venom | 0.30% | ~212 |
+| A Touch of Acumen | 0.30% | ~212 |
 | Healing Memory | 0.20% | ~1,522 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,522 |
 | Secure, Protect, Leave | 0.20% | ~141 |
@@ -61,13 +61,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Flying Assassins | 0.20% | ~141 |
 | Beatmaker | 0.20% | ~141 |
 | Warriors from the Mountain | 0.10% | ~761 |
-| Hidden Dragon | 0.10% | ~70 |
-| Here Cometh the Iceman | 0.10% | ~70 |
-| Fighter in the Pond | 0.10% | ~70 |
-| Bonus Stage | 0.10% | ~70 |
-| A Bit Of Everything, Simultaneously | 0.10% | ~70 |
+| Hidden Dragon | 0.10% | ~71 |
+| Here Cometh the Iceman | 0.10% | ~71 |
+| Fighter in the Pond | 0.10% | ~71 |
+| Bonus Stage | 0.10% | ~71 |
+| A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,193 (Ranked 26)  
+Progressed: 761,203 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,11 +338,11 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
-| 2024-01-16 | 761,193 | 12,989 |
+| 2024-01-16 | 761,203 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,215  (Ranked 57)  
-Sum: 12,763 (Ranked 86)  
-Diff (max vs sum): -29  
+Sum: 12,764 (Ranked 87)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,215 |
@@ -352,7 +352,7 @@ Diff (max vs sum): -29
 | This game has Amazing Characters | 618 |
 | This game is Highly Recommended | 610 |
 | This game has Quickly Understood Controls | 601 |
-| This game is Extremely Fun | 591 |
+| This game is Extremely Fun | 592 |
 | This game has Unique Visuals | 588 |
 | This game is Relaxing | 565 |
 | This game has a Creative Community | 436 |
@@ -723,4 +723,4 @@ Diff (max vs sum): -29
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
-| 2024-01-16 | 4.82 | - | 7,215 | 12,763 |
+| 2024-01-16 | 4.82 | - | 7,215 | 12,764 |

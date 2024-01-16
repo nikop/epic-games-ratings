@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,427 |
-| FIRST BLOOD | 40.00% | ~161,268 |
-| KEVIN! | 30.00% | ~120,951 |
-| JACK OF ALL TRADES | 23.00% | ~92,729 |
-| CRIMINAL | 20.00% | ~80,634 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,381 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,317 |
-| HONORS STUDENT | 8.00% | ~32,254 |
-| BUTCHER | 6.00% | ~24,190 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,159 |
-| RAMBO | 5.00% | ~20,159 |
-| HELL'S KITCHEN | 4.00% | ~16,127 |
-| CELEBRITY | 3.00% | ~12,095 |
-| MARTYR | 3.00% | ~12,095 |
-| GRATITUDE | 2.00% | ~8,063 |
-| PATTY-KILLER | 2.00% | ~8,063 |
+| MASTER CHEF | 45.00% | ~181,436 |
+| FIRST BLOOD | 40.00% | ~161,276 |
+| KEVIN! | 30.00% | ~120,957 |
+| JACK OF ALL TRADES | 23.00% | ~92,734 |
+| CRIMINAL | 20.00% | ~80,638 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,383 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,319 |
+| HONORS STUDENT | 8.00% | ~32,255 |
+| BUTCHER | 6.00% | ~24,191 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,160 |
+| RAMBO | 5.00% | ~20,160 |
+| HELL'S KITCHEN | 4.00% | ~16,128 |
+| CELEBRITY | 3.00% | ~12,096 |
+| MARTYR | 3.00% | ~12,096 |
+| GRATITUDE | 2.00% | ~8,064 |
+| PATTY-KILLER | 2.00% | ~8,064 |
 | EXPERIMENTALIST | 1.00% | ~4,032 |
 | GOURMET | 1.00% | ~4,032 |
 | LAW-ABIDING CITIZEN | 1.00% | ~4,032 |
 | PRUDENT | 1.00% | ~4,032 |
-| SCATTERBRAIN | 0.80% | ~3,225 |
+| SCATTERBRAIN | 0.80% | ~3,226 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,822 |
 | TASTE UNTASTY | 0.60% | ~2,419 |
 | DEBTOR | 0.20% | ~806 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 597)
 | MISTER ALL THUMBS | 0.10% | ~403 |
 | TRAVELER | 0.10% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,171 (Ranked 50)  
+Progressed: 403,191 (Ranked 50)  
 Completed: 61 (0.02%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 61 (0.02%) (Ranked 367)
 | 2024-01-13 | 401,958 | 59 |
 | 2024-01-14 | 402,485 | 59 |
 | 2024-01-15 | 402,893 | 61 |
-| 2024-01-16 | 403,171 | 61 |
+| 2024-01-16 | 403,191 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

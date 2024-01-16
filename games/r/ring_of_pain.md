@@ -50,6 +50,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.70% | ~32 |
 | To The Death! | 0.60% | ~1,458 |
 | Well Prepared | 0.60% | ~1,458 |
+| Don't Ignore Me! | 0.60% | ~1,458 |
 | All Consuming | 0.60% | ~1,458 |
 | Stop Hitting Yourself | 0.60% | ~1,458 |
 | Doing Time | 0.60% | ~1,458 |
@@ -60,7 +61,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.50% | ~1,215 |
 | Max Damage! | 0.50% | ~1,215 |
 | A Rough Road | 0.50% | ~1,215 |
-| Don't Ignore Me! | 0.50% | ~1,215 |
 | Illuminate, Eliminate | 0.50% | ~1,215 |
 | Chain Reaction | 0.50% | ~1,215 |
 | Antivenom | 0.50% | ~1,215 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,064 (Ranked 74)  
+Progressed: 243,066 (Ranked 74)  
 Completed: 307 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 307 (0.13%) (Ranked 302)
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
-| 2024-01-16 | 243,064 | 307 |
+| 2024-01-16 | 243,066 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,798 (Ranked 90)  

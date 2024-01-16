@@ -20,7 +20,7 @@ Rating: 4.72 (Ranked 194)
 | Find myself | 24.00% | ~219 |
 | Min's Promise | 17.00% | ~155 |
 | Sia's Promise | 17.00% | ~155 |
-| Truebro | 16.00% | ~146 |
+| Truebro | 17.00% | ~155 |
 | Romantic | 13.00% | ~119 |
 | TentacleMAN | 8.00% | ~73 |
 | Flawless | 5.00% | ~46 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1599,9 +1599,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7164,
+  "EOS_Progressed": 7165,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16854,6 +16854,11 @@
       "Time": "2024-01-16T10:06:02.0543463+00:00",
       "NumProgressed": 7164,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T18:07:39.7647994+00:00",
+      "NumProgressed": 7165,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -16993,7 +16998,7 @@
       "Name": "Firestarter",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -17121,7 +17126,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17137,7 +17142,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17145,7 +17150,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -17169,7 +17174,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -17184,15 +17189,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7164,
+      "Progressed": 7165,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-14T20:59:02.4962913+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:06:06.0024149+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:07:39.764799+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:00:06.9168315+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:06:06.002539+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:01:17.9884267+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:07:39.7649024+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 33.00% | ~213,569 |
-| 50 HEADSHOTS | 31.00% | ~200,625 |
-| SCIENCE AND INDUSTRY | 30.00% | ~194,153 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,682 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,907 |
-| 200 HEADSHOTS | 19.00% | ~122,964 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,492 |
-| FINISHED CHAPTER 4 | 15.00% | ~97,077 |
-| FINISH CHAPTER 5 | 13.00% | ~84,133 |
-| FINISH CHAPTER 6 | 11.00% | ~71,190 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,190 |
-| 1000 KILLS | 10.00% | ~64,718 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,887 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,944 |
-| FIRST BLOOD | 2.00% | ~12,944 |
+| 100 KILLS | 33.00% | ~213,563 |
+| 50 HEADSHOTS | 31.00% | ~200,620 |
+| SCIENCE AND INDUSTRY | 30.00% | ~194,148 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,676 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,904 |
+| 200 HEADSHOTS | 19.00% | ~122,960 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,489 |
+| FINISHED CHAPTER 4 | 15.00% | ~97,074 |
+| FINISH CHAPTER 5 | 13.00% | ~84,131 |
+| FINISH CHAPTER 6 | 11.00% | ~71,188 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,188 |
+| 1000 KILLS | 10.00% | ~64,716 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,886 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,943 |
+| FIRST BLOOD | 2.00% | ~12,943 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,472 |
 | OUT OF ORDER | 1.00% | ~6,472 |
 | PACEMAKER | 1.00% | ~6,472 |
@@ -28,9 +28,9 @@ Rating: 4.69 (Ranked 240)
 | NEW GAME PLUS | 0.70% | ~4,530 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,883 |
 | CHURCH | 0.40% | ~2,589 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~1,942 |
-| REMEMBER THE ARMORY | 0.30% | ~1,942 |
-| 5 RUNS | 0.30% | ~1,942 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~1,941 |
+| REMEMBER THE ARMORY | 0.30% | ~1,941 |
+| 5 RUNS | 0.30% | ~1,941 |
 | CHALET | 0.20% | ~1,294 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,294 |
 | FIREFIGHT LEVEL 70 | 0.20% | ~1,294 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 240)
 | THE GAMBLER | 0.10% | ~647 |
 | WARRIOR IN A GARDEN | 0.10% | ~647 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 647,178 (Ranked 32)  
+Progressed: 647,160 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |

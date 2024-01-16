@@ -4,7 +4,7 @@
   "ProductSlug": "sifu",
   "Ranking_Rating": 69,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 51,
@@ -8953,10 +8953,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12763,
       "NumberOfAwardsMax": 7215
+    },
+    {
+      "Time": "2024-01-16T18:03:29.9192703+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12764,
+      "NumberOfAwardsMax": 7215
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12763,
+  "NumberOfAwards": 12764,
   "NumberOfAwardsMax": 7215,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8970,7 +8976,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 591
+      "Count": 592
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9033,9 +9039,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761193,
+  "EOS_Progressed": 761203,
   "EOS_Completed": 12989,
-  "EOS_NewPlayers": 3063,
+  "EOS_NewPlayers": 3036,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34048,6 +34054,11 @@
       "Time": "2024-01-16T17:09:40.5731397+00:00",
       "NumProgressed": 761193,
       "NumCompleted": 12989
+    },
+    {
+      "Time": "2024-01-16T18:10:15.9308275+00:00",
+      "NumProgressed": 761203,
+      "NumCompleted": 12989
     }
   ],
   "TotalAchievements": 60,
@@ -34419,7 +34430,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -34427,7 +34438,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -34451,7 +34462,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -34467,7 +34478,7 @@
       "Name": "Hidden Dragon",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "53_Arena_HighStamps",
@@ -34491,7 +34502,7 @@
       "Name": "Here Cometh the Iceman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "56_Arena_LakeKill",
@@ -34499,7 +34510,7 @@
       "Name": "Fighter in the Pond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "57_Arena_Car",
@@ -34507,7 +34518,7 @@
       "Name": "Bonus Stage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "58_Arena_Music",
@@ -34531,28 +34542,28 @@
       "Name": "A Bit Of Everything, Simultaneously",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70494,
+      "Progressed": 70504,
       "Completed": 10811
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761193,
+      "Progressed": 761203,
       "Completed": 12989
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-16T04:04:16.298711+00:00",
-  "LastChanged_Achievements": "2024-01-16T17:09:40.5731394+00:00",
+  "LastChanged": "2024-01-16T18:03:29.9192701+00:00",
+  "LastChanged_Achievements": "2024-01-16T18:10:15.9308271+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:03:07.354035+00:00",
-  "LastUpdate_Achievements": "2024-01-16T17:09:40.5732836+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:03:29.9192708+00:00",
+  "LastUpdate_Achievements": "2024-01-16T18:10:15.9310394+00:00"
 }

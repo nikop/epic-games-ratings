@@ -36,7 +36,7 @@
 | Matthew's mistakes | 0.60% | ~2 |
 | Sly as a fox | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 328 (Ranked 392)  
+Progressed: 328 (Ranked 393)  
 Completed: 2 (0.61%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |

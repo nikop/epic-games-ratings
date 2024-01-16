@@ -1,27 +1,27 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 991)  
+Rating: 4.17 (Ranked 992)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,818 |
+| Colonize a Planet | 77.00% | ~5,819 |
 | Worker Specialization | 76.00% | ~5,743 |
-| First Contact | 72.00% | ~5,440 |
-| Win a Battle | 65.00% | ~4,911 |
+| First Contact | 72.00% | ~5,441 |
+| Win a Battle | 65.00% | ~4,912 |
 | Anomaly Researcher | 60.00% | ~4,534 |
 | Unleash My Power | 60.00% | ~4,534 |
 | Own 30 Planets | 32.00% | ~2,418 |
-| Xenocide | 31.00% | ~2,342 |
-| Design a Civilization | 31.00% | ~2,342 |
-| Commodity Trader | 29.00% | ~2,191 |
+| Xenocide | 31.00% | ~2,343 |
+| Design a Civilization | 31.00% | ~2,343 |
+| Commodity Trader | 29.00% | ~2,192 |
 | Design a Ship | 27.00% | ~2,040 |
-| Commodity Seller | 24.00% | ~1,813 |
+| Commodity Seller | 24.00% | ~1,814 |
 | Prestige Victory! | 13.00% | ~982 |
 | Galactic War | 10.00% | ~756 |
-| Trading Partner | 8.00% | ~604 |
-| Fleet Victory | 8.00% | ~604 |
+| Trading Partner | 8.00% | ~605 |
+| Fleet Victory | 8.00% | ~605 |
 | Gain an Ally | 6.00% | ~453 |
 | Win as Terrans | 6.00% | ~453 |
 | Win with a Custom Faction | 6.00% | ~453 |
@@ -51,6 +51,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.50% | ~38 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
+| Recruit a Leader | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
 | Ask Not What Your Empire Can Do For You | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
@@ -63,7 +64,6 @@ Number of Ratings: 429  (23.09.2022)
 | Play a Multiplayer Game | 0.10% | ~8 |
 | It's OUR Homeworld | 0.10% | ~8 |
 | Recruit a Dozen Leaders | 0.10% | ~8 |
-| Recruit a Leader | 0.10% | ~8 |
 | Commodity Selling Guru | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
 | Solid Economy | 0.00% | ~0 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,556 (Ranked 195)  
+Progressed: 7,557 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,6 +349,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 7,549 | 0 |
 | 2024-01-14 | 7,554 | 0 |
 | 2024-01-15 | 7,556 | 0 |
+| 2024-01-16 | 7,557 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 383)  
 Sum: 701 (Ranked 313)  
