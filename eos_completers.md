@@ -25,9 +25,9 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.14% |
-| 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
-| 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 26 | [Island Cities](games/i/island_cities.md) | 17.03% |
+| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
 | 29 | [The Riflemen](games/t/the_riflemen.md) | 16.40% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -61,7 +61,7 @@
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 6.97% |
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
-| 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
+| 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.88% |
 | 63 | [Scorn](games/s/scorn.md) | 6.86% |
 | 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.81% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
@@ -93,8 +93,8 @@
 | 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 92 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 93 | [The Bunker](games/t/the_bunker.md) | 3.87% |
-| 94 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.70% |
 | 94 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.70% |
+| 95 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.66% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.65% |
 | 97 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 98 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 3.57% |
@@ -133,8 +133,8 @@
 | 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.35% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
-| 134 | [Night Book](games/n/night_book.md) | 2.22% |
 | 134 | [tERRORbane](games/t/terrorbane.md) | 2.22% |
+| 135 | [Night Book](games/n/night_book.md) | 2.21% |
 | 136 | [Bloodshore](games/b/bloodshore.md) | 2.11% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
 | 138 | [Strange House](games/s/strange_house.md) | 2.04% |
