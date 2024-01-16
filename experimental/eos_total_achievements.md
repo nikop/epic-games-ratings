@@ -867,6 +867,7 @@
 | [Funtoon's World](../games/a/a7ec33941949459cab07e39c65ca4309.md) | 6 | 1,000 |
 | [Gladiator : Blades of Fury](../games/2/285b64782090429a8c055d913b2c93f1.md) | 6 | 1,000 |
 | [Hide and Seek](../games/2/2918f07c226a49308895622ed4937eb1.md) | 6 | 1,000 |
+| [NINJA KATO 2](../games/1/1690366171dd46809de64fdb4169d17c.md) | 6 | 1,000 |
 | [Strange House](../games/s/strange_house.md) | 6 | 1,000 |
 | [The House of Da Vinci](../games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 6 | 1,000 |
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](../games/6/6416a7e47acb440da6f7fc0eff798318.md) | 6 | 1,000 |

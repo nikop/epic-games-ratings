@@ -25,7 +25,7 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.65% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.14% |
 | 27 | [Island Cities](games/i/island_cities.md) | 17.03% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [The Riflemen](games/t/the_riflemen.md) | 16.42% |
@@ -54,8 +54,8 @@
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 52 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
-| 55 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
-| 56 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.54% |
+| 55 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.57% |
+| 56 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.47% |
 | 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.39% |
@@ -63,7 +63,7 @@
 | 61 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.90% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.89% |
 | 63 | [Scorn](games/s/scorn.md) | 6.86% |
-| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.83% |
+| 64 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.81% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -164,9 +164,9 @@
 | 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
 | 163 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.19% |
 | 164 | [Late Shift](games/l/late_shift.md) | 1.18% |
-| 165 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.16% |
 | 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
 | 165 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.16% |
+| 167 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.15% |
 | 168 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.14% |
 | 168 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
 | 170 | [Adios](games/a/adios.md) | 1.12% |
@@ -650,6 +650,7 @@
 | 401 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 0.00% |
 | 401 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 0.00% |
 | 401 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 0.00% |
+| 401 | [NINJA KATO 2](games/1/1690366171dd46809de64fdb4169d17c.md) | 0.00% |
 | 401 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 0.00% |
 | 401 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 0.00% |
 | 401 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 0.00% |
