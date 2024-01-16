@@ -40,6 +40,7 @@
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
 | [PAYDAY 2](../games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 1,328 | 15,000 | 2 |
 | [Pinball FX](../games/p/pinball_fx.md) | 39 | 1,180 | 2 |
+| [Pinball M](../games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 47 | 1,000 | 2 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 | 2 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 | 2 |
 | [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |

@@ -650,6 +650,7 @@
 | [Saturnalia](../games/s/saturnalia.md) | 20 | 1,000 |
 | [Scathe](../games/s/scathe.md) | 30 | 1,000 |
 | [Scorn](../games/s/scorn.md) | 12 | 1,000 |
+| [Scott Whiskers in: the Search for Mr. Fumbleclaw](../games/c/c13296d2098b4582aafc0133fe020734.md) | 25 | 1,000 |
 | [Scrapnaut](../games/s/scrapnaut.md) | 31 | 1,000 |
 | [Scribble It!](../games/d/dc989527f6684c218eb8f5992e85cfea.md) | 25 | 1,000 |
 | [Sea Horizon](../games/b/bcd479d96de045fa8805f2bf4962475e.md) | 17 | 1,000 |

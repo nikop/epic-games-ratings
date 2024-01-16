@@ -542,6 +542,7 @@
 | [Poi](../games/p/poi.md) | 25 | 1,000 |
 | [Quest of Dungeons](../games/q/quest_of_dungeons.md) | 25 | 1,000 |
 | [Railbreak](../games/b/b8877a4db3f04eec83b7410484e80473.md) | 25 | 1,000 |
+| [Scott Whiskers in: the Search for Mr. Fumbleclaw](../games/c/c13296d2098b4582aafc0133fe020734.md) | 25 | 1,000 |
 | [Scribble It!](../games/d/dc989527f6684c218eb8f5992e85cfea.md) | 25 | 1,000 |
 | [Shalnor Legends 2: Trials of Thunder](../games/d/d26c3a62ed20492f90a07c3a27e8db97.md) | 25 | 1,000 |
 | [tERRORbane](../games/t/terrorbane.md) | 25 | 1,000 |
