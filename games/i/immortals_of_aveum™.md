@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,090 |
-| Battlefields Have Memories | 82.00% | ~2,847 |
-| Enlisted | 75.00% | ~2,604 |
-| Maybe Engage a Little | 70.00% | ~2,430 |
-| No More Names | 54.00% | ~1,875 |
-| Initiate | 40.00% | ~1,389 |
+| Unforeseen | 89.00% | ~3,092 |
+| Battlefields Have Memories | 81.00% | ~2,814 |
+| Enlisted | 75.00% | ~2,606 |
+| Maybe Engage a Little | 70.00% | ~2,432 |
+| No More Names | 54.00% | ~1,876 |
+| Initiate | 40.00% | ~1,390 |
 | Thrada-Kul | 37.00% | ~1,285 |
 | Gravity-Challenged Rocks | 30.00% | ~1,042 |
 | Soldier | 26.00% | ~903 |
 | All the Major Food Groups | 26.00% | ~903 |
 | Socialite | 25.00% | ~868 |
-| Beggars Would Ride | 23.00% | ~799 |
+| Beggars Would Ride | 24.00% | ~834 |
 | Control is an Illusion | 22.00% | ~764 |
-| The Means to Save It | 20.00% | ~694 |
+| The Means to Save It | 20.00% | ~695 |
 | Resilience to Sin | 18.00% | ~625 |
-| A Familiar Nest | 17.00% | ~590 |
-| Periapt Alizarin | 17.00% | ~590 |
+| A Familiar Nest | 17.00% | ~591 |
+| Periapt Alizarin | 17.00% | ~591 |
 | Geas Aristeya | 16.00% | ~556 |
 | A Perfect Cycle | 15.00% | ~521 |
 | Recruit | 15.00% | ~521 |
-| Armsman | 13.00% | ~451 |
+| Armsman | 13.00% | ~452 |
 | Lights Army | 11.00% | ~382 |
-| Periapt Cerulean | 9.00% | ~312 |
+| Periapt Cerulean | 9.00% | ~313 |
 | Good Boy | 8.00% | ~278 |
 | Best Dressed | 7.00% | ~243 |
 | Periapt Viridian | 7.00% | ~243 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 976)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,472 (Ranked 228)  
+Progressed: 3,474 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 5 (0.14%) (Ranked 299)
 | 2024-01-13 | 3,410 | 4 |
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
-| 2024-01-16 | 3,472 | 5 |
+| 2024-01-16 | 3,474 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 576)  
 Sum: 21 (Ranked 578)  

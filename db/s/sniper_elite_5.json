@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -673,7 +673,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4291,
+  "EOS_Progressed": 4292,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -9753,6 +9753,11 @@
       "Time": "2024-01-16T18:10:35.4955675+00:00",
       "NumProgressed": 4291,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-16T19:10:56.7304072+00:00",
+      "NumProgressed": 4292,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9764,7 +9769,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -9820,7 +9825,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -9908,7 +9913,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -9932,7 +9937,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -9972,7 +9977,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9988,7 +9993,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -9996,7 +10001,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -10132,7 +10137,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10156,7 +10161,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1202
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -10331,13 +10336,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4242,
+      "Progressed": 4243,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4291,
+      "Progressed": 4292,
       "Completed": 11
     }
   ],
@@ -10345,8 +10350,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:35.495567+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:10:56.7304068+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:58:27.9502916+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:35.4956667+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:58:44.5449225+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:56.7305202+00:00"
 }

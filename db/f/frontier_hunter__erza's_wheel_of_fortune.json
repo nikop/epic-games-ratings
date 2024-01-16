@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 332,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -45,7 +45,7 @@
   "Tags": [],
   "EOS_Progressed": 756,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2866,9 +2866,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 166
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -3051,8 +3051,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:16.4804737+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:10:38.7832233+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.6411785+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:01:17.4189863+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:16.4805151+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:01:24.0857595+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:38.7832585+00:00"
 }

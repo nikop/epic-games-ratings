@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 321)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,917 (Ranked 169)  
+Progressed: 16,918 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,16 +636,16 @@ Completed: 5 (0.03%) (Ranked 359)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,917 | 5 |
+| 2024-01-16 | 16,918 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,931 (Ranked 223)  
+Sum: 1,932 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
 | This game has Diverse Characters | 226 |
-| This game is Extremely Fun | 224 |
+| This game is Extremely Fun | 225 |
 | This game is Highly Recommended | 223 |
 | This game is Educational | 220 |
 | This game has Challenging Combat | 210 |
@@ -850,3 +850,4 @@ Diff (max vs sum): 64
 | 2024-01-11 | 4.65 | - | 230 | 1,921 |
 | 2024-01-13 | 4.65 | - | 230 | 1,927 |
 | 2024-01-14 | 4.65 | - | 230 | 1,931 |
+| 2024-01-16 | 4.65 | - | 230 | 1,932 |

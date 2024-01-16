@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -783,9 +783,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7259,
+  "EOS_Progressed": 7260,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11298,6 +11298,11 @@
       "Time": "2024-01-16T18:07:24.7712656+00:00",
       "NumProgressed": 7259,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-16T19:07:24.9631184+00:00",
+      "NumProgressed": 7260,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11323,9 +11328,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 653
     },
     {
       "ID": "12",
@@ -11421,7 +11426,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "23",
@@ -11453,7 +11458,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "27",
@@ -11788,13 +11793,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7259,
+      "Progressed": 7260,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7259,
+      "Progressed": 7260,
       "Completed": 8
     }
   ],
@@ -11802,8 +11807,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-16T11:57:01.1215381+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:07:24.7712652+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:07:24.9631182+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:57:14.474085+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:07:24.7713534+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:57:34.1948268+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:07:24.9631958+00:00"
 }

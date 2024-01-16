@@ -14,12 +14,12 @@
 | Cat Lover | 15.00% | ~21 |
 | Dynamite, Treason and Coconuts | 15.00% | ~21 |
 | Save a Friend | 14.00% | ~19 |
-| In the Name of the Law | 12.00% | ~17 |
+| In the Name of the Law | 13.00% | ~18 |
 | Au Revoir, Abudin | 12.00% | ~17 |
 | Mysterious Bungalow | 12.00% | ~17 |
 | The Eyes! | 11.00% | ~15 |
 | Punctual | 11.00% | ~15 |
-| Keep the Doctor Away | 9.00% | ~13 |
+| Keep the Doctor Away | 10.00% | ~14 |
 | Just a Palm Tree | 9.00% | ~13 |
 | Under the Hood | 9.00% | ~13 |
 | Long Live Gaipajama! | 9.00% | ~13 |

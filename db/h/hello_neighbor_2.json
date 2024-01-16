@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4083,
+  "EOS_Progressed": 4084,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.55,
   "EosHistory": [
@@ -7432,6 +7432,11 @@
       "Time": "2024-01-16T17:04:15.4803338+00:00",
       "NumProgressed": 4083,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-16T19:05:12.8424731+00:00",
+      "NumProgressed": 4084,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 14,
@@ -7483,7 +7488,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7554,7 +7559,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4083,
+      "Progressed": 4084,
       "Completed": 145
     }
   ],
@@ -7562,8 +7567,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:05:06.1903239+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:05:12.8424727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:01:07.936988+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:05:06.1903691+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:01:15.5841362+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:05:12.8425169+00:00"
 }

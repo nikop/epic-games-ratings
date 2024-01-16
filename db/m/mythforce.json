@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6374,
+  "EOS_Progressed": 6375,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13356,6 +13356,11 @@
       "Time": "2024-01-16T15:06:00.8672811+00:00",
       "NumProgressed": 6374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T19:07:24.4761243+00:00",
+      "NumProgressed": 6375,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13440,7 +13445,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -13464,7 +13469,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13504,7 +13509,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13536,7 +13541,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1658
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13551,15 +13556,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6374,
+      "Progressed": 6375,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:07:24.0246555+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:07:24.4761239+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:01:37.1043561+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:07:24.0247213+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:01:43.6782231+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:07:24.4761924+00:00"
 }

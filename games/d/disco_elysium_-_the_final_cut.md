@@ -6,22 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,034 |
-| Biggest Communism Builder | 23.00% | ~32,064 |
-| The World's Most Laughable Centrist | 20.00% | ~27,882 |
-| Il Coppo Del'Arte! | 18.00% | ~25,093 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,305 |
-| Hyperstellar Law Official | 15.00% | ~20,911 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,517 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,517 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,123 |
+| Goodest Of The Good Cops | 28.00% | ~39,036 |
+| Biggest Communism Builder | 23.00% | ~32,065 |
+| The World's Most Laughable Centrist | 20.00% | ~27,883 |
+| Il Coppo Del'Arte! | 18.00% | ~25,094 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,306 |
+| Hyperstellar Law Official | 15.00% | ~20,912 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,518 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,518 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,124 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,335 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,547 |
 | Unbelievably Boring **** | 8.00% | ~11,153 |
 | Enemy Of The Physical Realm | 8.00% | ~11,153 |
-| Hardie's Heroes | 6.00% | ~8,364 |
-| The Lawbringer | 4.00% | ~5,576 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,576 |
+| Hardie's Heroes | 6.00% | ~8,365 |
+| The Lawbringer | 4.00% | ~5,577 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,577 |
 | The Opener Of The Eighth Seal | 3.00% | ~4,182 |
 | Bother Kim After Hours | 3.00% | ~4,182 |
 | Baddest Of the Bad Cops | 2.00% | ~2,788 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,408 (Ranked 91)  
+Progressed: 139,413 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 29 (0.02%) (Ranked 367)
 | 2024-01-13 | 139,075 | 29 |
 | 2024-01-14 | 139,209 | 29 |
 | 2024-01-15 | 139,320 | 29 |
-| 2024-01-16 | 139,408 | 29 |
+| 2024-01-16 | 139,413 | 29 |
 ## Awards
 Max (Character Customization): 767  (Ranked 192)  
 Sum: 1,169 (Ranked 266)  

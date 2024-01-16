@@ -6,15 +6,15 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,284 |
-| Wallbanger | 5.00% | ~26,284 |
-| Exploitative | 4.00% | ~21,027 |
-| High Speed Low Drag | 4.00% | ~21,027 |
-| Wet Feet | 4.00% | ~21,027 |
-| Checkpoint Victory | 3.00% | ~15,770 |
-| Lucky | 3.00% | ~15,770 |
-| Stylin' | 3.00% | ~15,770 |
-| Turf War | 3.00% | ~15,770 |
+| Point Shooting | 5.00% | ~26,285 |
+| Wallbanger | 5.00% | ~26,285 |
+| Exploitative | 4.00% | ~21,028 |
+| High Speed Low Drag | 4.00% | ~21,028 |
+| Wet Feet | 4.00% | ~21,028 |
+| Checkpoint Victory | 3.00% | ~15,771 |
+| Lucky | 3.00% | ~15,771 |
+| Stylin' | 3.00% | ~15,771 |
+| Turf War | 3.00% | ~15,771 |
 | Banged | 2.00% | ~10,514 |
 | First Blood | 2.00% | ~10,514 |
 | Flaccid Paralysis | 2.00% | ~10,514 |
@@ -27,12 +27,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Efficient | 0.90% | ~4,731 |
 | Mount & Gun | 0.90% | ~4,731 |
 | Personal | 0.90% | ~4,731 |
-| Grounded | 0.80% | ~4,205 |
-| Play to Win | 0.80% | ~4,205 |
+| Grounded | 0.80% | ~4,206 |
+| Play to Win | 0.80% | ~4,206 |
 | Special Delivery | 0.70% | ~3,680 |
 | Firefight Victory | 0.60% | ~3,154 |
 | #1 | 0.60% | ~3,154 |
-| Cinematic | 0.50% | ~2,628 |
+| Cinematic | 0.50% | ~2,629 |
 | Thanks Station! | 0.40% | ~2,103 |
 | Knock Knock | 0.30% | ~1,577 |
 | There For You | 0.30% | ~1,577 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~526 |
 | Road Hazard | 0.10% | ~526 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 525,683 (Ranked 40)  
+Progressed: 525,709 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 2 (0.00%) (Ranked 402)
 | 2024-01-13 | 524,351 | 2 |
 | 2024-01-14 | 524,890 | 2 |
 | 2024-01-15 | 525,387 | 2 |
-| 2024-01-16 | 525,683 | 2 |
+| 2024-01-16 | 525,709 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 419  (Ranked 237)  
-Sum: 3,387 (Ranked 178)  
+Sum: 3,392 (Ranked 178)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -327,8 +327,8 @@ Diff (max vs sum): 59
 | This game is Highly Recommended | 377 |
 | This game has Realistic Visuals | 370 |
 | This game has Amazing Characters | 357 |
-| This game has Amazing Storytelling | 348 |
-| This game has a Competitive Community | 322 |
+| This game has Amazing Storytelling | 352 |
+| This game has a Competitive Community | 323 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -674,4 +674,4 @@ Diff (max vs sum): 59
 | 2024-01-13 | 4.61 | - | 419 | 3,372 |
 | 2024-01-14 | 4.61 | - | 419 | 3,374 |
 | 2024-01-15 | 4.61 | - | 419 | 3,385 |
-| 2024-01-16 | 4.61 | - | 419 | 3,387 |
+| 2024-01-16 | 4.61 | - | 419 | 3,392 |

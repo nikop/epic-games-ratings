@@ -8,7 +8,7 @@
 | Enough rooms to swing a cat | 79.00% | ~116 |
 | First to the post | 79.00% | ~116 |
 | A kind of Magic | 70.00% | ~103 |
-| Connected | 58.00% | ~85 |
+| Connected | 59.00% | ~87 |
 | Expansion | 56.00% | ~82 |
 | Mine! | 54.00% | ~79 |
 | Harvest Time | 52.00% | ~76 |

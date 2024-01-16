@@ -5,18 +5,18 @@ Rating: 4.70 (Ranked 220)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,468 |
-| I Challenge You To Save More Money! | 81.00% | ~15,158 |
-| I Love How Tough You Are | 65.00% | ~12,164 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,041 |
-| What I Want Is You | 53.00% | ~9,918 |
-| To Be Or Not To Be | 50.00% | ~9,357 |
+| Last Night...Did We... | 88.00% | ~16,469 |
+| I Challenge You To Save More Money! | 81.00% | ~15,159 |
+| I Love How Tough You Are | 65.00% | ~12,165 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,042 |
+| What I Want Is You | 53.00% | ~9,919 |
+| To Be Or Not To Be | 50.00% | ~9,358 |
 | Are You Alright? | 47.00% | ~8,796 |
 | Love Actually | 42.00% | ~7,860 |
 | Drama King | 36.00% | ~6,737 |
 | Go Clean up In Your Own Way | 33.00% | ~6,176 |
-| You're Really Something Else | 32.00% | ~5,988 |
-| Drama CP: Reel to Real | 31.00% | ~5,801 |
+| You're Really Something Else | 32.00% | ~5,989 |
+| Drama CP: Reel to Real | 31.00% | ~5,802 |
 | Happy Family | 30.00% | ~5,614 |
 | FIRST LOVE | 30.00% | ~5,614 |
 | Worthless Speech | 30.00% | ~5,614 |
@@ -25,7 +25,7 @@ Rating: 4.70 (Ranked 220)
 | ONE PUNCH | 28.00% | ~5,240 |
 | Days Of Innocence | 26.00% | ~4,866 |
 | David | 26.00% | ~4,866 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,678 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,679 |
 | All I Have Is Money | 22.00% | ~4,117 |
 | A Slap In The Face! | 22.00% | ~4,117 |
 | That's So You | 22.00% | ~4,117 |
@@ -37,7 +37,7 @@ Rating: 4.70 (Ranked 220)
 | Love You Three Thousand | 13.00% | ~2,433 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,246 |
 | The Flash | 11.00% | ~2,059 |
-| New Yoga Pose Unlocked | 10.00% | ~1,871 |
+| New Yoga Pose Unlocked | 10.00% | ~1,872 |
 | My Dear Love! | 8.00% | ~1,497 |
 | Counting Sheep? | 8.00% | ~1,497 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,497 |
@@ -48,7 +48,7 @@ Rating: 4.70 (Ranked 220)
 | Tall; Grande; Venti | 2.00% | ~374 |
 | Limerence | 2.00% | ~374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,714 (Ranked 161)  
+Progressed: 18,715 (Ranked 161)  
 Completed: 332 (1.77%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 332 (1.77%) (Ranked 146)
 | 2024-01-13 | 18,544 | 320 |
 | 2024-01-14 | 18,602 | 324 |
 | 2024-01-15 | 18,669 | 329 |
-| 2024-01-16 | 18,714 | 332 |
+| 2024-01-16 | 18,715 | 332 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 488)  
 Sum: 40 (Ranked 528)  

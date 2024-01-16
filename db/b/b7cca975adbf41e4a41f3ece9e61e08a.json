@@ -325,7 +325,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18714,
+  "EOS_Progressed": 18715,
   "EOS_Completed": 332,
   "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 22,
@@ -10110,6 +10110,11 @@
       "Time": "2024-01-16T18:10:31.3213319+00:00",
       "NumProgressed": 18714,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2024-01-16T19:10:52.7174063+00:00",
+      "NumProgressed": 18715,
+      "NumCompleted": 332
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10122,7 +10127,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16468
+      "UsersEstimate": 16469
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10130,7 +10135,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15158
+      "UsersEstimate": 15159
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10194,7 +10199,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4678
+      "UsersEstimate": 4679
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -10218,7 +10223,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 12164
+      "UsersEstimate": 12165
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10306,7 +10311,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 11041
+      "UsersEstimate": 11042
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -10314,7 +10319,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -10330,7 +10335,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9918
+      "UsersEstimate": 9919
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10338,7 +10343,7 @@
       "Name": "To Be Or Not To Be",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 9357
+      "UsersEstimate": 9358
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -10394,7 +10399,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5801
+      "UsersEstimate": 5802
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -10418,7 +10423,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5988
+      "UsersEstimate": 5989
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -10457,7 +10462,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18714,
+      "Progressed": 18715,
       "Completed": 332
     }
   ],
@@ -10465,8 +10470,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-16T14:57:41.318493+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:31.3213315+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:10:52.7174059+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:57:53.8963501+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:31.321423+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:58:11.5175381+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:52.7174811+00:00"
 }

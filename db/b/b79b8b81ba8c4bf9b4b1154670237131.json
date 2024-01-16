@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -191,9 +191,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16722,
+  "EOS_Progressed": 16723,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6781,6 +6781,11 @@
       "Time": "2024-01-16T18:10:21.9667954+00:00",
       "NumProgressed": 16722,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-16T19:10:43.8949916+00:00",
+      "NumProgressed": 16723,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6793,7 +6798,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "ACH_AE_10",
@@ -6833,7 +6838,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3344
+      "UsersEstimate": 3345
     },
     {
       "ID": "ACH_AE_15",
@@ -6881,7 +6886,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ACH_AE_20",
@@ -6905,7 +6910,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4013
+      "UsersEstimate": 4014
     },
     {
       "ID": "ACH_AE_23",
@@ -6913,7 +6918,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_AE_24",
@@ -6921,7 +6926,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_AE_25",
@@ -6937,7 +6942,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ACH_AE_27",
@@ -7072,7 +7077,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16722,
+      "Progressed": 16723,
       "Completed": 16
     }
   ],
@@ -7080,8 +7085,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-13T20:57:02.2758637+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:21.9667949+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:10:43.8949913+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.6965527+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:59:18.6353933+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:21.9668486+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:59:32.1371755+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:43.8950455+00:00"
 }

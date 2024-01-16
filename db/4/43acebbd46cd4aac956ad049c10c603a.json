@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 1425,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4543,9 +4543,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 299
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4575,9 +4575,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 428
     },
     {
       "ID": "TheThiefOfFire",
@@ -4664,8 +4664,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:07:02.572571+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:07:04.7672929+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:59:26.5459709+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:07:02.5726483+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:59:39.9962725+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:07:04.7673489+00:00"
 }

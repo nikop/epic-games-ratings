@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 2.00% | ~91 |
 | Nothing To Lose | 1.00% | ~2,431 |
 | Heavy Hitter | 1.00% | ~2,431 |
+| Delving Deeper | 1.00% | ~2,431 |
 | Getting A Glimpse | 1.00% | ~2,431 |
 | That Was Quick | 1.00% | ~2,431 |
 | Colorful Corpse | 1.00% | ~2,431 |
@@ -26,7 +27,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | An Offering | 1.00% | ~2,431 |
 | Not Touching You | 1.00% | ~45 |
 | Ambitious Intent | 0.90% | ~2,188 |
-| Delving Deeper | 0.90% | ~2,188 |
 | R.I.P | 0.90% | ~2,188 |
 | Cold Hearted | 0.90% | ~2,188 |
 | The Bestiary | 0.90% | ~2,188 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,066 (Ranked 74)  
+Progressed: 243,069 (Ranked 74)  
 Completed: 307 (0.13%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -416,7 +416,7 @@ Completed: 307 (0.13%) (Ranked 302)
 | 2024-01-13 | 242,911 | 305 |
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
-| 2024-01-16 | 243,066 | 307 |
+| 2024-01-16 | 243,069 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,798 (Ranked 90)  

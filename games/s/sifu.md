@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,672 |
-| Life is your teacher | 5.00% | ~38,060 |
-| Lightning Hands | 5.00% | ~38,060 |
+| The Old Grandmaster | 6.00% | ~45,673 |
+| Life is your teacher | 5.00% | ~38,061 |
+| Lightning Hands | 5.00% | ~38,061 |
 | The Assault | 4.00% | ~30,448 |
 | The Hateful Pole Fighter | 3.00% | ~22,836 |
 | Stuntmaster | 3.00% | ~22,836 |
@@ -43,10 +43,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.60% | ~423 |
 | Prodigal Child | 0.50% | ~3,806 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,806 |
+| The best strikes are the ones we avoid | 0.50% | ~353 |
 | Knowledge Greed | 0.40% | ~3,045 |
 | The Pit Protector | 0.40% | ~3,045 |
 | Come Snap With Me | 0.40% | ~3,045 |
-| The best strikes are the ones we avoid | 0.40% | ~282 |
 | Drunken Fighter | 0.30% | ~2,284 |
 | Martial Artist | 0.30% | ~2,284 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,284 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,203 (Ranked 26)  
+Progressed: 761,211 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,14 +338,14 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
-| 2024-01-16 | 761,203 | 12,989 |
+| 2024-01-16 | 761,211 | 12,989 |
 ## Awards
-Max (Great Boss Battles): 7,215  (Ranked 57)  
-Sum: 12,764 (Ranked 87)  
+Max (Great Boss Battles): 7,221  (Ranked 57)  
+Sum: 12,770 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,215 |
+| This game has Great Boss Battles | 7,221 |
 | This game has Diverse Characters | 703 |
 | This game has Challenging Combat | 650 |
 | This game has Amazing Storytelling | 622 |
@@ -723,4 +723,4 @@ Diff (max vs sum): -30
 | 2024-01-13 | 4.82 | - | 7,194 | 12,731 |
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
-| 2024-01-16 | 4.82 | - | 7,215 | 12,764 |
+| 2024-01-16 | 4.82 | - | 7,221 | 12,770 |

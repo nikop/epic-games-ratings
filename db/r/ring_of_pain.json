@@ -3928,7 +3928,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243066,
+  "EOS_Progressed": 243069,
   "EOS_Completed": 307,
   "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 3,
@@ -32048,6 +32048,11 @@
       "Time": "2024-01-16T18:11:12.0671145+00:00",
       "NumProgressed": 243066,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-16T19:11:32.1653146+00:00",
+      "NumProgressed": 243069,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -32153,9 +32158,9 @@
       "ID": "DEPTH12",
       "SetID": "5l8oe0h",
       "Name": "Delving Deeper",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2431
     },
     {
       "ID": "DEPTH12HARD",
@@ -33162,13 +33167,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243066,
+      "Progressed": 243069,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4546,
+      "Progressed": 4549,
       "Completed": 428
     }
   ],
@@ -33176,8 +33181,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-15T23:57:18.1179809+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:11:12.067114+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:11:32.1653143+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:58:04.3005273+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:11:12.0673754+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:58:22.0224876+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:11:32.16556+00:00"
 }

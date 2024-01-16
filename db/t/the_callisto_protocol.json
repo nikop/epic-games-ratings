@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2211,10 +2211,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 655,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-16T19:03:56.5718555+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 656,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 655,
+  "NumberOfAwards": 656,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2246,7 +2252,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2261,9 +2267,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22455,
+  "EOS_Progressed": 22458,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14111,6 +14117,11 @@
       "Time": "2024-01-16T17:09:54.1428668+00:00",
       "NumProgressed": 22455,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T19:10:55.9593774+00:00",
+      "NumProgressed": 22458,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14154,7 +14165,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6063
+      "UsersEstimate": 6064
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14186,7 +14197,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14266,7 +14277,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14282,7 +14293,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4266
+      "UsersEstimate": 4267
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14290,7 +14301,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4491
+      "UsersEstimate": 4492
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14298,7 +14309,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14314,7 +14325,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6063
+      "UsersEstimate": 6064
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14330,7 +14341,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3368
+      "UsersEstimate": 3369
     },
     {
       "ID": "STORY_HANGAR",
@@ -14338,7 +14349,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14354,7 +14365,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5838
+      "UsersEstimate": 5839
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14362,7 +14373,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2919
+      "UsersEstimate": 2920
     },
     {
       "ID": "STORY_TOWER",
@@ -14466,7 +14477,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14474,7 +14485,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14497,22 +14508,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22455,
+      "Progressed": 22458,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10381,
+      "Progressed": 10384,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-16T13:08:59.757955+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:34.5762662+00:00",
+  "LastChanged": "2024-01-16T19:03:56.5718553+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:10:55.959377+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:03:46.1901246+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:34.5763453+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:03:56.5718559+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:55.9594907+00:00"
 }

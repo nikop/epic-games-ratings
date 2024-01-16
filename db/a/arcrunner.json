@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 956,
+  "EOS_Progressed": 958,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2321,6 +2321,11 @@
       "Time": "2024-01-15T14:09:40.9107509+00:00",
       "NumProgressed": 956,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T19:10:54.0809385+00:00",
+      "NumProgressed": 958,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2332,7 +2337,7 @@
       "Name": "Augmented",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACHV_BIGGERTHEYARE",
@@ -2340,7 +2345,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -2348,7 +2353,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -2362,17 +2367,17 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 201
     },
     {
       "ID": "ACHV_CYBERNETIC",
       "SetID": "cceobco",
       "Name": "Cybernetic",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_CYBORG",
@@ -2412,7 +2417,7 @@
       "Name": "Fully Modded",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHV_HARDBOILED",
@@ -2444,7 +2449,7 @@
       "Name": "Nanonic I",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2452,7 +2457,7 @@
       "Name": "Nanonic II",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -2500,7 +2505,7 @@
       "Name": "Terminated I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACHV_TERMINATED2",
@@ -2508,7 +2513,7 @@
       "Name": "Terminated II",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -2530,9 +2535,9 @@
       "ID": "ACHV_UNLOCKEDANDLOADED",
       "SetID": "cceobco",
       "Name": "Unlocked and Loaded",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2563,13 +2568,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 956,
+      "Progressed": 958,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 382,
+      "Progressed": 384,
       "Completed": 3
     }
   ],
@@ -2577,8 +2582,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:32.739095+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:10:54.0809381+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:59:57.2818748+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:32.7391473+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:00:08.3668805+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:54.0809713+00:00"
 }

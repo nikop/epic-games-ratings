@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,657 |
-| Titan's First Steps | 11.00% | ~16,657 |
-| Basic in Bulk | 10.00% | ~15,143 |
-| Tinkle of Coins | 10.00% | ~15,143 |
-| Disintermediation | 8.00% | ~12,114 |
-| Capitalism Ho! | 8.00% | ~12,114 |
-| It's Free Real Estate | 7.00% | ~10,600 |
-| Budding Merchant | 7.00% | ~10,600 |
-| One Easy Payment | 6.00% | ~9,086 |
-| Some Assembly Required | 6.00% | ~9,086 |
-| Another Satisfied Customer | 6.00% | ~9,086 |
-| Pretty Penny | 6.00% | ~9,086 |
-| Own the Means of Production | 6.00% | ~9,086 |
+| Sponsored by Argon | 11.00% | ~16,659 |
+| Titan's First Steps | 11.00% | ~16,659 |
+| Basic in Bulk | 10.00% | ~15,145 |
+| Tinkle of Coins | 10.00% | ~15,145 |
+| Disintermediation | 8.00% | ~12,116 |
+| Capitalism Ho! | 8.00% | ~12,116 |
+| It's Free Real Estate | 7.00% | ~10,601 |
+| Budding Merchant | 7.00% | ~10,601 |
+| One Easy Payment | 6.00% | ~9,087 |
+| Some Assembly Required | 6.00% | ~9,087 |
+| Another Satisfied Customer | 6.00% | ~9,087 |
+| Pretty Penny | 6.00% | ~9,087 |
+| Own the Means of Production | 6.00% | ~9,087 |
 | The Daily Grind | 5.00% | ~7,572 |
 | One-Armed Bandit | 5.00% | ~7,572 |
 | Through Repetition, Perfection | 5.00% | ~7,572 |
-| Bounty Hunters | 4.00% | ~6,057 |
-| Demand for Supplies | 4.00% | ~6,057 |
-| Flooding the Market | 4.00% | ~6,057 |
-| Where it Hurts | 4.00% | ~6,057 |
-| Gild-Gotten Goods | 4.00% | ~6,057 |
-| Accomplished Merchant | 4.00% | ~6,057 |
-| Dungeon Imports | 4.00% | ~6,057 |
-| Did we pack lunch? | 4.00% | ~6,057 |
-| Arcane Industries | 4.00% | ~6,057 |
+| Bounty Hunters | 4.00% | ~6,058 |
+| Demand for Supplies | 4.00% | ~6,058 |
+| Flooding the Market | 4.00% | ~6,058 |
+| Where it Hurts | 4.00% | ~6,058 |
+| Gild-Gotten Goods | 4.00% | ~6,058 |
+| Accomplished Merchant | 4.00% | ~6,058 |
+| Dungeon Imports | 4.00% | ~6,058 |
+| Did we pack lunch? | 4.00% | ~6,058 |
+| Arcane Industries | 4.00% | ~6,058 |
 | On the Path to Greatness | 3.00% | ~4,543 |
 | A Notch Above the Rest | 3.00% | ~4,543 |
 | Ascended | 3.00% | ~4,543 |
@@ -108,8 +108,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,514 |
 | The Greatest Grind | 0.90% | ~1,363 |
 | Marvels from the World Over | 0.90% | ~1,363 |
-| Bane of Legends | 0.80% | ~1,211 |
-| Anything not Nailed Down | 0.80% | ~1,211 |
+| Bane of Legends | 0.80% | ~1,212 |
+| Anything not Nailed Down | 0.80% | ~1,212 |
 | Ultimate Collector | 0.70% | ~1,060 |
 | Unleashed Potential | 0.70% | ~1,060 |
 | JACKPOT!!! | 0.70% | ~1,060 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~606 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,430 (Ranked 87)  
+Progressed: 151,448 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 355 (0.23%) (Ranked 275)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,430 | 355 |
+| 2024-01-16 | 151,448 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 81)  
 Sum: 28,002 (Ranked 52)  

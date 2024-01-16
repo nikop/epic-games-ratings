@@ -4,7 +4,7 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -289,9 +289,9 @@
       "ID": "4PLAYERS",
       "SetID": "5629o35",
       "Name": "Party on",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEATH_ACID",
@@ -313,9 +313,9 @@
       "ID": "DEATH_CACTI",
       "SetID": "5629o35",
       "Name": "Spikey boy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DEATH_CANON",
@@ -401,9 +401,9 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SCORE_600",
@@ -425,9 +425,9 @@
       "ID": "WIN_VERSUS",
       "SetID": "5629o35",
       "Name": "Tower Champion",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:09:02.2408482+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:09:29.2153044+00:00",
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.6907208+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:57:36.0544722+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:09:02.2408605+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:57:54.7284144+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:09:29.2153179+00:00"
 }

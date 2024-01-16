@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 937,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 289,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:07.236765+00:00",
@@ -355,15 +355,21 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-16T19:01:42.2629779+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2956,6 +2962,11 @@
       "Time": "2024-01-16T17:09:07.2697626+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T19:09:55.3749766+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2976,7 +2987,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "CareerChamp1",
@@ -2992,7 +3003,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "CareerChamp3",
@@ -3016,7 +3027,7 @@
       "Name": "World Masters Champion",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CareerFirstWin",
@@ -3040,7 +3051,7 @@
       "Name": "Junk Collector",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CreditsEarnedA",
@@ -3080,7 +3091,7 @@
       "Name": "Dirty Roller",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "PlayerRankB",
@@ -3096,7 +3107,7 @@
       "Name": "Showing Some Dedication",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RocketSpeedReached",
@@ -3127,16 +3138,16 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-03-11T06:58:06.4643937+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
-  "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:09:29.6740824+00:00",
+  "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:09:55.3749762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:01:35.5736051+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:09:29.6741037+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:01:42.2629784+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:09:55.3750009+00:00"
 }

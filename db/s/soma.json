@@ -2,12 +2,12 @@
   "ID": "8a6a94901c8248fca1f5c78931c85cbd",
   "Name": "SOMA",
   "ProductSlug": "soma",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 835,
+  "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 564,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 160,
   "Store": {
     "ReleaseDate": "2015-09-22T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 295,
   "RatingHistory": [
     {
@@ -456,6 +456,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-16T19:01:14.4541882+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -473,8 +479,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:55.9508799+00:00",
-  "LastChanged": "2023-12-10T03:58:44.5263683+00:00",
+  "LastChanged": "2024-01-16T19:01:14.4541876+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.1757965+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:01:06.7220178+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:09:53.6016544+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:01:14.4541884+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:10:18.1789577+00:00"
 }

@@ -34,11 +34,11 @@ Rating: 4.13 (Ranked 1,018)
 | Slayer | 3.00% | ~71 |
 | Flawless Victory | 3.00% | ~71 |
 | A Queen's Tale | 3.00% | ~71 |
+| Forgemaster | 2.00% | ~47 |
 | Shardbearer | 2.00% | ~47 |
 | All There Is | 2.00% | ~47 |
 | False God | 2.00% | ~47 |
 | Summiter | 2.00% | ~47 |
-| Forgemaster | 1.00% | ~24 |
 | All That Gold | 0.80% | ~19 |
 | Feeling Fancy | 0.40% | ~9 |
 ## Popularity (Based on EOS Achievements)

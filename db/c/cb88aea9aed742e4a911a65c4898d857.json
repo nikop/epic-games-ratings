@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 220,
-  "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 438,
+  "Ranking_Popularity": 336,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 111,
@@ -357,18 +357,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 165,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2024-01-16T18:59:08.7286103+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 167,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 165,
-  "NumberOfAwardsMax": 143,
+  "NumberOfAwards": 167,
+  "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 143
+      "Count": 145
     },
     {
       "Text": "This game has Diverse Characters",
@@ -377,9 +383,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 11607,
+  "EOS_Progressed": 11612,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5132,6 +5138,11 @@
       "Time": "2024-01-16T18:11:01.3605046+00:00",
       "NumProgressed": 11607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T19:11:21.5174694+00:00",
+      "NumProgressed": 11612,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5144,7 +5155,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2437
+      "UsersEstimate": 2439
     },
     {
       "ID": "03_TheStolenStar",
@@ -5152,7 +5163,7 @@
       "Name": "Stolen Star",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5168,7 +5179,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5256,7 +5267,7 @@
       "Name": "The Rise",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "17_TheExemplar",
@@ -5264,7 +5275,7 @@
       "Name": "Exemplar",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -5272,7 +5283,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5304,7 +5315,7 @@
       "Name": "Perfect Timing",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "23_DynastyRestored",
@@ -5320,7 +5331,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "25_DynastyProspers",
@@ -5352,7 +5363,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5496,7 +5507,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "47_AFlame",
@@ -5528,7 +5539,7 @@
       "Name": "Whodunit?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -5663,16 +5674,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11607,
+      "Progressed": 11612,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-16T13:03:34.5311204+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:11:01.3605042+00:00",
+  "LastChanged": "2024-01-16T18:59:08.7286101+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:11:21.5174691+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:58:53.927722+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:11:01.360566+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:59:08.7286106+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:11:21.5175266+00:00"
 }

@@ -578,9 +578,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Achievement11",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:58.0237345+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:11:18.294426+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-16T18:02:01.7040217+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:58.0237502+00:00"
+  "LastUpdate_Ratings": "2024-01-16T19:02:06.3022698+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:11:18.2944395+00:00"
 }

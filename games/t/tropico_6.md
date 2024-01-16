@@ -6,19 +6,19 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,230 |
+| Just One...More...Term... | 73.00% | ~5,231 |
 | Un-Lonely Island | 44.00% | ~3,153 |
 | The Beginning of a Servantship | 43.00% | ~3,081 |
 | Trade Is My Trait | 35.00% | ~2,508 |
 | Number 18 | 23.00% | ~1,648 |
 | We Don't Have Time For That | 18.00% | ~1,290 |
-| The Legend of Langostino | 16.00% | ~1,146 |
-| The Governator | 16.00% | ~1,146 |
+| The Legend of Langostino | 16.00% | ~1,147 |
+| The Governator | 16.00% | ~1,147 |
 | Caribbean Comrade | 15.00% | ~1,075 |
 | The Dreamer of Dreams | 15.00% | ~1,075 |
-| Happy Ending? | 10.00% | ~716 |
-| Go Sovereigns! | 10.00% | ~716 |
-| For Science! | 10.00% | ~716 |
+| Happy Ending? | 10.00% | ~717 |
+| Go Sovereigns! | 10.00% | ~717 |
+| For Science! | 10.00% | ~717 |
 | Of Seals And Men | 9.00% | ~645 |
 | Shackadelic | 9.00% | ~645 |
 | Double Trouble | 8.00% | ~573 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~57 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,165 (Ranked 198)  
+Progressed: 7,166 (Ranked 198)  
 Completed: 2 (0.03%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,10 +318,10 @@ Completed: 2 (0.03%) (Ranked 359)
 | 2024-01-13 | 7,124 | 2 |
 | 2024-01-14 | 7,146 | 2 |
 | 2024-01-15 | 7,159 | 2 |
-| 2024-01-16 | 7,165 | 2 |
+| 2024-01-16 | 7,166 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 373)  
-Sum: 766 (Ranked 302)  
+Sum: 767 (Ranked 302)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -329,7 +329,7 @@ Diff (max vs sum): 71
 | This game is Great for Beginners | 106 |
 | This game is Relaxing | 105 |
 | This game has Quickly Understood Controls | 103 |
-| This game is Extremely Fun | 97 |
+| This game is Extremely Fun | 98 |
 | This game has Amazing Storytelling | 97 |
 | This game is Educational | 94 |
 | This game has Amazing Characters | 92 |
@@ -527,3 +527,4 @@ Diff (max vs sum): 71
 | 2024-01-12 | 4.66 | - | 107 | 764 |
 | 2024-01-13 | 4.65 | - | 107 | 765 |
 | 2024-01-14 | 4.64 | - | 107 | 766 |
+| 2024-01-16 | 4.64 | - | 107 | 767 |

@@ -358,9 +358,9 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BFT_CH3",
@@ -567,8 +567,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-16T18:10:52.4457471+00:00",
+  "LastChanged_Achievements": "2024-01-16T19:11:13.2987428+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:17.1798878+00:00",
-  "LastUpdate_Ratings": "2024-01-16T17:59:16.5447943+00:00",
-  "LastUpdate_Achievements": "2024-01-16T18:10:52.4457661+00:00"
+  "LastUpdate_Ratings": "2024-01-16T18:59:30.0059703+00:00",
+  "LastUpdate_Achievements": "2024-01-16T19:11:13.2987674+00:00"
 }
