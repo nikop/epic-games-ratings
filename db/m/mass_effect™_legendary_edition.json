@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4399,
+  "EOS_Progressed": 4401,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -8343,6 +8343,11 @@
       "Time": "2024-01-16T09:09:58.5562195+00:00",
       "NumProgressed": 4399,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-16T10:10:27.0645568+00:00",
+      "NumProgressed": 4401,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8579,7 +8584,7 @@
       "Name": "Recruit",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2289
     },
     {
       "ID": "achievement_125",
@@ -8665,9 +8670,9 @@
       "ID": "achievement_2",
       "SetID": "b9pe172",
       "Name": "Medal of Heroism",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1892
     },
     {
       "ID": "achievement_20",
@@ -8683,7 +8688,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2465
     },
     {
       "ID": "achievement_22",
@@ -8755,7 +8760,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 3959
+      "UsersEstimate": 3961
     },
     {
       "ID": "achievement_30",
@@ -8771,7 +8776,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2905
     },
     {
       "ID": "achievement_32",
@@ -8787,7 +8792,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2245
     },
     {
       "ID": "achievement_34",
@@ -9177,9 +9182,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 968
+      "UsersEstimate": 924
     },
     {
       "ID": "achievement_79",
@@ -9265,9 +9270,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 748
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_89",
@@ -9370,19 +9375,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4399,
+      "Progressed": 4401,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4399,
+      "Progressed": 4401,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:09:58.5562191+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:10:27.0645564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:03:03.3627528+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:09:58.5564054+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:03:18.4069107+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:10:27.0647303+00:00"
 }

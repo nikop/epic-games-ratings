@@ -25,7 +25,7 @@ Rating: 4.13 (Ranked 1,018)
 | The Mentor | 12.00% | ~282 |
 | Calm before the Storm | 10.00% | ~235 |
 | To Battle | 9.00% | ~212 |
-| Godslayer | 8.00% | ~188 |
+| Godslayer | 9.00% | ~212 |
 | Airborne | 8.00% | ~188 |
 | Miner | 8.00% | ~188 |
 | Clear Sight | 5.00% | ~118 |

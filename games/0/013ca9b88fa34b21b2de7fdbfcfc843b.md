@@ -20,12 +20,12 @@ Rating: 4.64 (Ranked 343)
 | Oui, Chef! | 2.00% | ~182 |
 | Exit Through The Gift Shop | 2.00% | ~34 |
 | Search for the Hairy Grell | 1.00% | ~91 |
+| Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
 | Higher Tax Bracket | 1.00% | ~91 |
 | Botanical Breakthrough | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
-| Flaming Hot Completos | 0.90% | ~82 |
 | Fae Farmer | 0.80% | ~73 |
 | Got to Catch Them All | 0.80% | ~73 |
 | Rumble in the Jumble | 0.80% | ~73 |

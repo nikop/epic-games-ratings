@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Proving Your Skills | 91.00% | ~178 |
-| Bakery Startup | 44.00% | ~86 |
+| Proving Your Skills | 91.00% | ~179 |
+| Bakery Startup | 44.00% | ~87 |
 | Apprentice Baker | 35.00% | ~69 |
 | The Kitchen Is On Fire | 34.00% | ~67 |
-| Perfect Server | 16.00% | ~31 |
-| Adept Baker | 13.00% | ~25 |
+| Perfect Server | 16.00% | ~32 |
+| Adept Baker | 13.00% | ~26 |
 | Verdant Greenhouse | 11.00% | ~22 |
 | Luxury Kitchen | 11.00% | ~22 |
 | Bustling Store | 11.00% | ~22 |
@@ -22,7 +22,7 @@
 | Bakery Empire | 6.00% | ~12 |
 | A Loving Home | 6.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 196 (Ranked 434)  
+Progressed: 197 (Ranked 434)  
 Completed: 2 (1.02%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 2 (1.02%) (Ranked 178)
 | 2024-01-10 | 191 | 2 |
 | 2024-01-11 | 193 | 2 |
 | 2024-01-13 | 196 | 2 |
+| 2024-01-16 | 197 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

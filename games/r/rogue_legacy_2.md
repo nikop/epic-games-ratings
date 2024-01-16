@@ -29,13 +29,13 @@ Number of Ratings: 1,331  (23.09.2022)
 | Jack of all Trades | 0.40% | ~113 |
 | For Wrath | 0.30% | ~85 |
 | For Pride | 0.30% | ~85 |
+| Maybe Wax Doesn't Melt | 0.30% | ~85 |
 | Wasted Betrayal | 0.30% | ~85 |
 | Color Coordination | 0.30% | ~85 |
 | Black-shoppe | 0.20% | ~57 |
 | For Greed | 0.20% | ~57 |
 | For Penance | 0.20% | ~57 |
 | Good Practice | 0.20% | ~57 |
-| Maybe Wax Doesn't Melt | 0.20% | ~57 |
 | A Glimpse of the Future | 0.20% | ~57 |
 | Full House | 0.10% | ~28 |
 | Erebus Purified | 0.10% | ~28 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,369 (Ranked 145)  
+Progressed: 28,370 (Ranked 145)  
 Completed: 35 (0.12%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 35 (0.12%) (Ranked 307)
 | 2024-01-13 | 28,301 | 35 |
 | 2024-01-14 | 28,340 | 35 |
 | 2024-01-15 | 28,361 | 35 |
-| 2024-01-16 | 28,369 | 35 |
+| 2024-01-16 | 28,370 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 291)  
 Sum: 1,569 (Ranked 245)  

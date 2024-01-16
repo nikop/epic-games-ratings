@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2982,
+  "EOS_Progressed": 2983,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8089,6 +8089,11 @@
       "Time": "2024-01-16T04:11:54.2519961+00:00",
       "NumProgressed": 2982,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T10:10:24.6316264+00:00",
+      "NumProgressed": 2983,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8293,7 +8298,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_32",
@@ -8301,7 +8306,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_33",
@@ -8341,7 +8346,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "achievement_38",
@@ -8604,13 +8609,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 2982,
+      "Progressed": 2983,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 2982,
+      "Progressed": 2983,
       "Completed": 1
     }
   ],
@@ -8618,8 +8623,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:09:56.1434405+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:10:24.631626+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:58:05.949314+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:09:56.1435345+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:58:06.2359328+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:10:24.6317376+00:00"
 }

@@ -4747,9 +4747,9 @@
       "ID": "AchvReachCondor",
       "SetID": "1hj060c",
       "Name": "The Condor",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 686
     },
     {
       "ID": "AchvSurvivors",
@@ -4796,8 +4796,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:09:27.7599843+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:09:56.7993655+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:57:19.7839911+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:09:27.7600292+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:57:23.008021+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:09:56.7993995+00:00"
 }

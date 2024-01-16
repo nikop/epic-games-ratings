@@ -3,7 +3,7 @@
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
   "Ranking_Rating": 240,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 401,
@@ -14377,10 +14377,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 64739,
       "NumberOfAwardsMax": 7850
+    },
+    {
+      "Time": "2024-01-16T10:00:22.828249+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 64747,
+      "NumberOfAwardsMax": 7850
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64739,
+  "NumberOfAwards": 64747,
   "NumberOfAwardsMax": 7850,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14442,7 +14448,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6046
+      "Count": 6054
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14451,9 +14457,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 499806,
+  "EOS_Progressed": 499820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4382,
+  "EOS_NewPlayers": 4381,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45726,6 +45732,11 @@
       "Time": "2024-01-16T09:10:00.2275649+00:00",
       "NumProgressed": 499806,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T10:10:28.7606919+00:00",
+      "NumProgressed": 499820,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -48640,21 +48651,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 499806,
+      "Progressed": 499820,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 499806,
+      "Progressed": 499820,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-16T01:48:55.2767668+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:10:00.2275648+00:00",
+  "LastChanged": "2024-01-16T10:00:22.8282489+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:10:28.7606915+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:00:34.3585664+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:10:00.2286424+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:00:22.8282498+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:10:28.7617606+00:00"
 }

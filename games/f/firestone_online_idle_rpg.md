@@ -61,11 +61,11 @@ Rating: 4.12 (Ranked 1,023)
 | The Alchemist | 4.00% | ~181 |
 | Arena Challenger | 3.00% | ~136 |
 | Ebony Jungle Liberator | 3.00% | ~136 |
+| Mythic Power | 3.00% | ~136 |
 | Cauldron Liberator | 2.00% | ~90 |
 | Enchanting skill x5 | 2.00% | ~90 |
 | Gear Enchanting | 2.00% | ~90 |
 | Guardian Master | 2.00% | ~90 |
-| Mythic Power | 2.00% | ~90 |
 | Pokerface | 2.00% | ~90 |
 | What lies behind the bush | 2.00% | ~90 |
 | Conqueror | 1.00% | ~45 |

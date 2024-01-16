@@ -7169,9 +7169,9 @@
       "ID": "achCreateLine",
       "SetID": "dgl390n",
       "Name": "First line",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1836
     },
     {
       "ID": "achCrowdInATrain",
@@ -7225,9 +7225,9 @@
       "ID": "achFirstCargoWaiting",
       "SetID": "dgl390n",
       "Name": "First cargo item waiting",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1687
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -7497,8 +7497,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:09:07.4842711+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:09:36.8192764+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:40.3828724+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:02:45.2908343+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:09:07.4843402+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:03:00.9982667+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:09:36.8193391+00:00"
 }

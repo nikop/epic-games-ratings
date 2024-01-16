@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -789,7 +789,7 @@
   ],
   "EOS_Progressed": 4519,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13084,9 +13084,9 @@
       "ID": "mythicpower",
       "SetID": "3nl4bcg",
       "Name": "Mythic Power",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 136
     },
     {
       "ID": "naturaltalent",
@@ -13325,8 +13325,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-16T05:57:17.3089904+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:05:10.3701059+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:05:43.9047599+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:57:09.221324+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:05:10.3702154+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:57:12.4374363+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:05:43.9048604+00:00"
 }

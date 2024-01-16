@@ -3,11 +3,11 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 454,
-  "Ranking_Popularity": 535,
-  "Ranking_PopularitySum": 515,
+  "Ranking_Popularity": 536,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235444,
+  "EOS_Progressed": 235445,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27905,6 +27905,11 @@
       "Time": "2024-01-16T09:09:18.8227976+00:00",
       "NumProgressed": 235444,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T10:09:47.9740159+00:00",
+      "NumProgressed": 235445,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -28124,7 +28129,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 40025
+      "UsersEstimate": 40026
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -28139,7 +28144,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235444,
+      "Progressed": 235445,
       "Completed": 6
     }
   ],
@@ -28147,8 +28152,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:09:18.8227973+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:09:47.9740156+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:58:34.121162+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:09:18.8229521+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:58:32.6726233+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:09:47.9741538+00:00"
 }

@@ -721,7 +721,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12353,
+  "EOS_Progressed": 12355,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 8,
@@ -15891,6 +15891,11 @@
       "Time": "2024-01-16T07:06:00.4043126+00:00",
       "NumProgressed": 12353,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-16T10:06:07.9298335+00:00",
+      "NumProgressed": 12355,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15902,7 +15907,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10253
+      "UsersEstimate": 10255
     },
     {
       "ID": "ACH02",
@@ -15966,7 +15971,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACH10",
@@ -15974,7 +15979,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "ACH11",
@@ -16030,7 +16035,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "ACH18",
@@ -16094,7 +16099,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "ACH26",
@@ -16133,7 +16138,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12353,
+      "Progressed": 12355,
       "Completed": 91
     }
   ],
@@ -16141,8 +16146,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:05:35.4488517+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:06:07.9298325+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:57:11.9163209+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:05:35.4489316+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:57:14.7070463+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:06:07.9299156+00:00"
 }

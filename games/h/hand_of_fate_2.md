@@ -6,24 +6,24 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~480,553 |
-| Apprentice | 58.00% | ~387,112 |
-| Close Shave | 25.00% | ~166,859 |
-| Mercenary | 23.00% | ~153,510 |
-| Ninja | 23.00% | ~153,510 |
-| Northern Scourge | 17.00% | ~113,464 |
+| The Fool | 72.00% | ~480,556 |
+| Apprentice | 58.00% | ~387,115 |
+| Close Shave | 25.00% | ~166,860 |
+| Mercenary | 23.00% | ~153,511 |
+| Ninja | 23.00% | ~153,511 |
+| Northern Scourge | 17.00% | ~113,465 |
 | Thief Bane | 14.00% | ~93,441 |
-| Master of Arms | 12.00% | ~80,092 |
+| Master of Arms | 12.00% | ~80,093 |
 | Gambler | 10.00% | ~66,744 |
 | Dice Master | 10.00% | ~66,744 |
-| Swordsman | 9.00% | ~60,069 |
+| Swordsman | 9.00% | ~60,070 |
 | Knight | 8.00% | ~53,395 |
 | Cure for Corruption | 8.00% | ~53,395 |
 | Focused | 8.00% | ~53,395 |
 | Flurry of Fury | 8.00% | ~53,395 |
-| Long Shot | 7.00% | ~46,720 |
-| Devil Dice | 7.00% | ~46,720 |
-| Broken Heart | 7.00% | ~46,720 |
+| Long Shot | 7.00% | ~46,721 |
+| Devil Dice | 7.00% | ~46,721 |
+| Broken Heart | 7.00% | ~46,721 |
 | Adventurer | 6.00% | ~40,046 |
 | Empire's Bane | 6.00% | ~40,046 |
 | Jack of all Trades | 5.00% | ~33,372 |
@@ -40,7 +40,7 @@ Number of Ratings: 780  (23.09.2022)
 | Champion | 1.00% | ~6,674 |
 | Final Death | 1.00% | ~6,674 |
 | Thomas' Bane | 0.90% | ~6,007 |
-| Ally | 0.80% | ~5,339 |
+| Ally | 0.80% | ~5,340 |
 | Gamester | 0.70% | ~4,672 |
 | Hero | 0.60% | ~4,005 |
 | Rebel | 0.60% | ~4,005 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~667 |
 | Blood Pact | 0.10% | ~667 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 667,435 (Ranked 31)  
+Progressed: 667,439 (Ranked 31)  
 Completed: 174 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 174 (0.03%) (Ranked 358)
 | 2024-01-13 | 667,323 | 174 |
 | 2024-01-14 | 667,379 | 174 |
 | 2024-01-15 | 667,422 | 174 |
-| 2024-01-16 | 667,435 | 174 |
+| 2024-01-16 | 667,439 | 174 |
 ## Awards
 Max (Amazing Storytelling): 36  (Ranked 501)  
 Sum: 196 (Ranked 419)  

@@ -1,31 +1,31 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 771)  
+Rating: 4.40 (Ranked 772)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~111,954 |
-| 74 miles East of Otaheité | 56.00% | ~78,368 |
-| Interesting... | 42.00% | ~58,776 |
-| The Everhart Expedition | 40.00% | ~55,977 |
-| The Vanishing of the Lady Shannon | 31.00% | ~43,382 |
-| Seaside Serenade | 31.00% | ~43,382 |
-| Halfway there | 30.00% | ~41,983 |
-| A brigantine, a brig and a barque | 28.00% | ~39,184 |
-| 506 East Hampden Avenue | 28.00% | ~39,184 |
-| Weekend at Walakea's | 27.00% | ~37,784 |
-| Quite a Show | 27.00% | ~37,784 |
+| A Family Heirloom | 80.00% | ~111,957 |
+| 74 miles East of Otaheité | 56.00% | ~78,370 |
+| Interesting... | 42.00% | ~58,777 |
+| The Everhart Expedition | 40.00% | ~55,978 |
+| The Vanishing of the Lady Shannon | 31.00% | ~43,383 |
+| Seaside Serenade | 31.00% | ~43,383 |
+| Halfway there | 30.00% | ~41,984 |
+| A brigantine, a brig and a barque | 28.00% | ~39,185 |
+| 506 East Hampden Avenue | 28.00% | ~39,185 |
+| Weekend at Walakea's | 27.00% | ~37,785 |
+| Quite a Show | 27.00% | ~37,785 |
 | Dark Water Ride | 25.00% | ~34,986 |
 | Sunken | 25.00% | ~34,986 |
 | Deep Cut | 25.00% | ~34,986 |
-| FHALGOF'N' | 23.00% | ~32,187 |
-| Marsh Cannery | 21.00% | ~29,388 |
+| FHALGOF'N' | 23.00% | ~32,188 |
+| Marsh Cannery | 21.00% | ~29,389 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~25,190 |
-| The only thing I have now | 17.00% | ~23,790 |
+| The only thing I have now | 17.00% | ~23,791 |
 | Not Another Boring Slideshow! | 16.00% | ~22,391 |
 | Naacalvision | 16.00% | ~22,391 |
-| The Norahnomicon | 10.00% | ~13,994 |
+| The Norahnomicon | 10.00% | ~13,995 |
 | I'll make a note of that... | 9.00% | ~12,595 |
 | Written in Stone | 7.00% | ~9,796 |
 | Play it again, Norah | 7.00% | ~9,796 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 771)
 | Soundcheck | 2.00% | ~2,799 |
 | Meta-reference | 1.00% | ~1,399 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,942 (Ranked 90)  
+Progressed: 139,946 (Ranked 90)  
 Completed: 1,264 (0.90%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 1,264 (0.90%) (Ranked 186)
 | 2024-01-13 | 139,547 | 1,256 |
 | 2024-01-14 | 139,759 | 1,260 |
 | 2024-01-15 | 139,904 | 1,264 |
-| 2024-01-16 | 139,942 | 1,264 |
+| 2024-01-16 | 139,946 | 1,264 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

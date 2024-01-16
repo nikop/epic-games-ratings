@@ -2,9 +2,9 @@
   "ID": "812112fd7449435ab8aa1ff41f01fe92",
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
-  "Ranking_EOS_Progress": 561,
+  "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 52,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -269,6 +269,11 @@
       "Time": "2024-01-14T20:08:42.1658289+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T10:08:56.9437511+00:00",
+      "NumProgressed": 52,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -327,7 +332,7 @@
       "ID": "DEATH_LAVA",
       "SetID": "5629o35",
       "Name": "The floor is lava. Literally.",
-      "Percentage": 92,
+      "Percentage": 90,
       "XP": 50,
       "UsersEstimate": 47
     },
@@ -351,7 +356,7 @@
       "ID": "FIRST_DEATH",
       "SetID": "5629o35",
       "Name": "Welcome to the jumping challenge!",
-      "Percentage": 94,
+      "Percentage": 92,
       "XP": 50,
       "UsersEstimate": 48
     },
@@ -383,7 +388,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 25,
       "UsersEstimate": 29
     },
@@ -391,7 +396,7 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -424,14 +429,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 52,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:08:27.2989239+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:08:56.9437509+00:00",
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.6907208+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:57:14.6063855+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:08:27.2989338+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:57:17.6994839+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:08:56.9437606+00:00"
 }

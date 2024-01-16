@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2802,
+  "EOS_Progressed": 2803,
   "EOS_Completed": 213,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 33,
   "EOS_Completed_Percentage": 7.6,
   "EosHistory": [
@@ -7433,6 +7433,11 @@
       "Time": "2024-01-16T05:07:52.2447453+00:00",
       "NumProgressed": 2802,
       "NumCompleted": 213
+    },
+    {
+      "Time": "2024-01-16T10:08:22.3056764+00:00",
+      "NumProgressed": 2803,
+      "NumCompleted": 213
     }
   ],
   "TotalAchievements": 25,
@@ -7492,7 +7497,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7500,7 +7505,7 @@
       "Name": "Free at last",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7508,7 +7513,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7532,7 +7537,7 @@
       "Name": "A Link to the Past",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7540,7 +7545,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7588,7 +7593,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1709
+      "UsersEstimate": 1710
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7604,7 +7609,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1542
     },
     {
       "ID": "PROGRESS_N2",
@@ -7643,7 +7648,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2802,
+      "Progressed": 2803,
       "Completed": 213
     }
   ],
@@ -7651,8 +7656,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:06:00.9181334+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:08:22.305676+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:59:20.9632338+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:06:00.9181886+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:59:17.7413273+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:08:22.3057272+00:00"
 }

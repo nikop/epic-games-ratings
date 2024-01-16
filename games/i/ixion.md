@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 454)
 | Gregor Spinoza | 1.00% | ~42 |
 | Work Harder | 0.70% | ~29 |
 | Soylent Green | 0.60% | ~25 |
-| Crunch Culture | 0.40% | ~17 |
+| Crunch Culture | 0.50% | ~21 |
 | A Junker's Dream | 0.30% | ~13 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~5 |

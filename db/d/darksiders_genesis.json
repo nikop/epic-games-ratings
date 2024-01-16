@@ -2,7 +2,7 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 642,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 335,
@@ -447,7 +447,7 @@
   ],
   "EOS_Progressed": 673,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2643,8 +2643,8 @@
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:09:44.5984362+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:10:13.1843048+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:28.2193344+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:58:19.7939396+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:09:44.598464+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:58:18.0002557+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:10:13.1843399+00:00"
 }

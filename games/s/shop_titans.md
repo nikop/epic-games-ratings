@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,651 |
-| Titan's First Steps | 11.00% | ~16,651 |
+| Sponsored by Argon | 11.00% | ~16,652 |
+| Titan's First Steps | 11.00% | ~16,652 |
 | Basic in Bulk | 10.00% | ~15,138 |
 | Tinkle of Coins | 10.00% | ~15,138 |
 | Disintermediation | 8.00% | ~12,110 |
 | Capitalism Ho! | 8.00% | ~12,110 |
-| It's Free Real Estate | 7.00% | ~10,596 |
-| Budding Merchant | 7.00% | ~10,596 |
+| It's Free Real Estate | 7.00% | ~10,597 |
+| Budding Merchant | 7.00% | ~10,597 |
 | One Easy Payment | 6.00% | ~9,083 |
 | Some Assembly Required | 6.00% | ~9,083 |
 | Another Satisfied Customer | 6.00% | ~9,083 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~606 |
 | Capitalist Camaraderie | 0.30% | ~454 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,377 (Ranked 87)  
+Progressed: 151,381 (Ranked 87)  
 Completed: 355 (0.23%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 355 (0.23%) (Ranked 274)
 | 2024-01-13 | 151,062 | 352 |
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
-| 2024-01-16 | 151,377 | 355 |
+| 2024-01-16 | 151,381 | 355 |
 ## Awards
 Max (Great for Beginners): 4,963  (Ranked 81)  
 Sum: 28,002 (Ranked 52)  

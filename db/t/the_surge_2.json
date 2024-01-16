@@ -2,7 +2,7 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 238,
@@ -308,7 +308,7 @@
   "Tags": [],
   "EOS_Progressed": 2595,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5062,9 +5062,9 @@
       "ID": "ACHV_35",
       "SetID": "8p5mlmc",
       "Name": "Sleeping With The Fishes",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 882
+      "UsersEstimate": 908
     },
     {
       "ID": "ACHV_36",
@@ -5255,8 +5255,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:03:54.5846093+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:04:29.5882698+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:02:38.3177942+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:03:54.5846822+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:02:54.7788795+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:04:29.5883289+00:00"
 }

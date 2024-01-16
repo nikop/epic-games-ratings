@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,959 |
-| Spectre Inductee | 66.00% | ~2,903 |
-| Medal of Exploration I | 56.00% | ~2,463 |
-| Recruit | 52.00% | ~2,287 |
-| Search and Rescue | 51.00% | ~2,243 |
+| Distinguished Service Medal | 90.00% | ~3,961 |
+| Spectre Inductee | 66.00% | ~2,905 |
+| Medal of Exploration I | 56.00% | ~2,465 |
+| Recruit | 52.00% | ~2,289 |
+| Search and Rescue | 51.00% | ~2,245 |
 | Quarian Ally | 49.00% | ~2,156 |
-| Medal of Heroism | 44.00% | ~1,936 |
 | Honorarium of Corporate Service | 44.00% | ~1,936 |
+| Medal of Heroism | 43.00% | ~1,892 |
 | Turian Ally | 40.00% | ~1,760 |
 | Medal of Exploration II | 39.00% | ~1,716 |
 | Council Legion of Merit | 38.00% | ~1,672 |
@@ -55,7 +55,6 @@
 | The Cure | 22.00% | ~968 |
 | Galactic Explorer | 22.00% | ~968 |
 | Revenge! | 22.00% | ~968 |
-| Heart of Darkness | 22.00% | ~968 |
 | Bringer of War | 22.00% | ~968 |
 | Shopaholic | 22.00% | ~968 |
 | Archivist | 21.00% | ~924 |
@@ -63,6 +62,7 @@
 | Treason | 21.00% | ~924 |
 | Big Game Hunter | 21.00% | ~924 |
 | Digital Exorcist | 21.00% | ~924 |
+| Heart of Darkness | 21.00% | ~924 |
 | Focused | 20.00% | ~880 |
 | Completionist | 20.00% | ~880 |
 | Suicide Mission | 20.00% | ~880 |
@@ -82,9 +82,9 @@
 | Liberator | 18.00% | ~792 |
 | Pathfinder | 17.00% | ~748 |
 | Tunnel Rat | 17.00% | ~748 |
-| Arbiter | 17.00% | ~748 |
 | Savior | 16.00% | ~704 |
 | Weapon Specialist | 16.00% | ~704 |
+| Arbiter | 16.00% | ~704 |
 | Lost and Found | 16.00% | ~704 |
 | Paramour II | 15.00% | ~660 |
 | Party Crasher | 15.00% | ~660 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,399 (Ranked 212)  
+Progressed: 4,401 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,4 +255,4 @@ Completed: 13 (0.30%) (Ranked 259)
 | 2024-01-13 | 4,295 | 13 |
 | 2024-01-14 | 4,356 | 13 |
 | 2024-01-15 | 4,392 | 13 |
-| 2024-01-16 | 4,399 | 13 |
+| 2024-01-16 | 4,401 | 13 |

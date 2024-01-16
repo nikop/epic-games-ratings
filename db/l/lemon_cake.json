@@ -4,7 +4,7 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 429,
+  "Ranking_EOS_NewPlayers": 416,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -445,6 +445,11 @@
       "Time": "2024-01-13T20:08:58.9460711+00:00",
       "NumProgressed": 196,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T10:09:18.5053888+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -456,7 +461,7 @@
       "Name": "Proving Your Skills",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "LC-02",
@@ -464,7 +469,7 @@
       "Name": "Bakery Startup",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LC-03",
@@ -496,7 +501,7 @@
       "Name": "Adept Baker",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LC-07",
@@ -584,14 +589,14 @@
       "Name": "Perfect Server",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 2
     }
   ],
@@ -599,8 +604,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:08:49.3302103+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:09:18.5053879+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.3389094+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:57:51.6562628+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:08:49.3302279+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:57:53.6183277+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:09:18.5054051+00:00"
 }

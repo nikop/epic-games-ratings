@@ -56,11 +56,11 @@ Rating: 4.78 (Ranked 113)
 | Chains master | 11.00% | ~381 |
 | You can pet the... horse | 11.00% | ~381 |
 | Spellcrafting | 10.00% | ~347 |
-| Silverwing nest | 2.00% | ~69 |
+| Silverwing nest | 3.00% | ~104 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,466 (Ranked 229)  
-Completed: 28 (0.81%) (Ranked 193)  
+Completed: 29 (0.84%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -277,7 +277,7 @@ Completed: 28 (0.81%) (Ranked 193)
 | 2024-01-13 | 3,446 | 26 |
 | 2024-01-14 | 3,456 | 28 |
 | 2024-01-15 | 3,463 | 28 |
-| 2024-01-16 | 3,466 | 28 |
+| 2024-01-16 | 3,466 | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

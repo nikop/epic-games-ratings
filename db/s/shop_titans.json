@@ -8191,9 +8191,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151377,
+  "EOS_Progressed": 151381,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 988,
+  "EOS_NewPlayers": 984,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36906,6 +36906,11 @@
       "Time": "2024-01-16T09:08:48.5692326+00:00",
       "NumProgressed": 151377,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-16T10:09:17.8902283+00:00",
+      "NumProgressed": 151381,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -37085,7 +37090,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16651
+      "UsersEstimate": 16652
     },
     {
       "ID": "chest02",
@@ -37293,7 +37298,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10596
+      "UsersEstimate": 10597
     },
     {
       "ID": "expansion02",
@@ -37501,7 +37506,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10596
+      "UsersEstimate": 10597
     },
     {
       "ID": "level02",
@@ -37733,7 +37738,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16651
+      "UsersEstimate": 16652
     },
     {
       "ID": "twinenchant01",
@@ -37812,15 +37817,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151377,
+      "Progressed": 151381,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-16T05:03:39.7092636+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:08:48.5692323+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:09:17.8902279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-16T09:02:59.3260924+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:08:48.5694669+00:00"
+  "LastUpdate_Ratings": "2024-01-16T10:03:14.3829176+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:09:17.8904892+00:00"
 }

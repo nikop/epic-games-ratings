@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19064,
+  "EOS_Progressed": 19066,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17524,6 +17524,11 @@
       "Time": "2024-01-16T08:05:33.2062168+00:00",
       "NumProgressed": 19064,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T10:05:34.2884796+00:00",
+      "NumProgressed": 19066,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17568,7 +17573,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3622
+      "UsersEstimate": 3623
     },
     {
       "ID": "14",
@@ -17632,7 +17637,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "21",
@@ -17640,7 +17645,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "22",
@@ -17680,7 +17685,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "27",
@@ -17712,7 +17717,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "30",
@@ -17776,7 +17781,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "32",
@@ -17815,13 +17820,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19064,
+      "Progressed": 19066,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5018,
+      "Progressed": 5020,
       "Completed": 1332
     }
   ],
@@ -17829,8 +17834,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:05:00.7019074+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:05:34.2884793+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:59:01.5184405+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:05:00.7020101+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:58:58.3499841+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:05:34.2885787+00:00"
 }

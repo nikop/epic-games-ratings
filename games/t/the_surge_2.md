@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.27 (Ranked 911)  
+Rating: 4.27 (Ranked 912)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.27 (Ranked 911)
 | Jailbreak | 64.00% | ~1,661 |
 | HEADSHOT! | 37.00% | ~960 |
 | Suited and Booted | 37.00% | ~960 |
-| Sleeping With The Fishes | 34.00% | ~882 |
+| Sleeping With The Fishes | 35.00% | ~908 |
 | High Performance | 30.00% | ~778 |
 | Overheated | 29.00% | ~753 |
 | Powered Up | 27.00% | ~701 |

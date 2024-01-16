@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -188,10 +188,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3466,
-  "EOS_Completed": 28,
+  "EOS_Completed": 29,
   "EOS_NewPlayers": 94,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -6572,6 +6572,11 @@
       "Time": "2024-01-16T03:06:04.2108231+00:00",
       "NumProgressed": 3466,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-16T10:05:23.310948+00:00",
+      "NumProgressed": 3466,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 53,
@@ -6741,9 +6746,9 @@
       "ID": "STB_FIND_ALL_SILVERWINGS",
       "SetID": "3pe2bac",
       "Name": "Silverwing nest",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 69
+      "UsersEstimate": 104
     },
     {
       "ID": "STB_HOOK_CHALLENGE",
@@ -7007,15 +7012,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 3466,
-      "Completed": 28
+      "Completed": 29
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:04:49.4797786+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:05:23.3109472+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:57:32.9886546+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:04:49.4798483+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:57:36.3803516+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:05:23.3110025+00:00"
 }

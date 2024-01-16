@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4214,
+  "EOS_Progressed": 4216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5154,6 +5154,11 @@
       "Time": "2024-01-16T09:08:13.0691451+00:00",
       "NumProgressed": 4214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T10:08:43.1033754+00:00",
+      "NumProgressed": 4216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5214,7 +5219,7 @@
       "Name": "Power Overwhelming",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -5270,7 +5275,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5366,7 +5371,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5541,14 +5546,14 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4214,
+      "Progressed": 4216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:08:13.0691447+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:08:43.103375+00:00",
   "LastUpdate_AppInfo": "2024-01-09T13:13:37.5527845+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:59:36.9145187+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:08:13.0692139+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:59:31.5946312+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:08:43.1034234+00:00"
 }

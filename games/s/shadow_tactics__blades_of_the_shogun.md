@@ -6,13 +6,13 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,152 |
+| Genin | 12.00% | ~27,153 |
 | A thief's beginning | 11.00% | ~24,890 |
 | Thorough | 11.00% | ~24,890 |
-| Disguised | 9.00% | ~20,364 |
-| Rescue Takuma | 9.00% | ~20,364 |
-| Rollin' | 9.00% | ~20,364 |
-| Tanuki Time | 9.00% | ~20,364 |
+| Disguised | 9.00% | ~20,365 |
+| Rescue Takuma | 9.00% | ~20,365 |
+| Rollin' | 9.00% | ~20,365 |
+| Tanuki Time | 9.00% | ~20,365 |
 | Ice Ice Yuki | 8.00% | ~18,102 |
 | Jonin | 8.00% | ~18,102 |
 | Stoned Ox | 8.00% | ~18,102 |
@@ -32,11 +32,11 @@ Number of Ratings: 495  (23.09.2022)
 | Stoned | 4.00% | ~9,051 |
 | It's raining men | 3.00% | ~6,788 |
 | The Old Way | 3.00% | ~6,788 |
-| Atheist Ox | 2.00% | ~4,525 |
-| No Gimmicks | 2.00% | ~4,525 |
-| Old Man | 2.00% | ~4,525 |
-| The End | 2.00% | ~4,525 |
-| Winner Winner | 2.00% | ~4,525 |
+| Atheist Ox | 2.00% | ~4,526 |
+| No Gimmicks | 2.00% | ~4,526 |
+| Old Man | 2.00% | ~4,526 |
+| The End | 2.00% | ~4,526 |
+| Winner Winner | 2.00% | ~4,526 |
 | Meticulous | 1.00% | ~2,263 |
 | Undeserved Honor | 1.00% | ~2,263 |
 | When Cut Across the Neck | 1.00% | ~2,263 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,270 (Ranked 80)  
+Progressed: 226,275 (Ranked 80)  
 Completed: 107 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,17 +322,17 @@ Completed: 107 (0.05%) (Ranked 341)
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
-| 2024-01-16 | 226,270 | 107 |
+| 2024-01-16 | 226,275 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
-Sum: 4,961 (Ranked 153)  
+Sum: 4,962 (Ranked 153)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 594 |
 | This game has Diverse Characters | 552 |
 | This game is Extremely Fun | 545 |
-| This game has Amazing Storytelling | 524 |
+| This game has Amazing Storytelling | 525 |
 | This game has Amazing Characters | 509 |
 | This game is Highly Recommended | 505 |
 | This game is Relaxing | 502 |
@@ -599,4 +599,4 @@ Diff (max vs sum): 59
 | 2024-01-10 | 4.66 | - | 593 | 4,955 |
 | 2024-01-12 | 4.67 | - | 593 | 4,957 |
 | 2024-01-14 | 4.67 | - | 594 | 4,960 |
-| 2024-01-16 | 4.67 | - | 594 | 4,961 |
+| 2024-01-16 | 4.67 | - | 594 | 4,962 |

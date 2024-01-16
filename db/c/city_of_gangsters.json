@@ -2,12 +2,12 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1066,9 +1066,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 362346,
+  "EOS_Progressed": 362348,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1184,
+  "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32036,6 +32036,11 @@
       "Time": "2024-01-16T09:04:20.809319+00:00",
       "NumProgressed": 362346,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T10:04:55.4334217+00:00",
+      "NumProgressed": 362348,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -32255,7 +32260,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166679
+      "UsersEstimate": 166680
     },
     {
       "ID": "ach028",
@@ -32559,7 +32564,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50728
+      "UsersEstimate": 50729
     },
     {
       "ID": "ach067",
@@ -32575,7 +32580,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 57975
+      "UsersEstimate": 57976
     },
     {
       "ID": "ach069",
@@ -32583,7 +32588,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50728
+      "UsersEstimate": 50729
     },
     {
       "ID": "ach070",
@@ -32686,7 +32691,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 362346,
+      "Progressed": 362348,
       "Completed": 7
     }
   ],
@@ -32694,8 +32699,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-15T21:00:19.3263555+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:04:20.8093187+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:04:55.4334213+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:21.5232848+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:59:34.5787402+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:04:20.8094948+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:59:30.4873711+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:04:55.4336042+00:00"
 }

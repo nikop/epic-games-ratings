@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 883,
+  "Ranking_Rating": 884,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1833,9 +1833,9 @@
       "ID": "CHOSEOUT",
       "SetID": "a1angca",
       "Name": "Outlaw",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "CONSTRUCTION",
@@ -2009,8 +2009,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-16T09:05:27.6922872+00:00",
+  "LastChanged_Achievements": "2024-01-16T10:06:00.314179+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:59:56.0750222+00:00",
-  "LastUpdate_Achievements": "2024-01-16T09:05:27.6923217+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:59:46.4083572+00:00",
+  "LastUpdate_Achievements": "2024-01-16T10:06:00.31422+00:00"
 }
