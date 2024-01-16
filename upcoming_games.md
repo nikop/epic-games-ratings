@@ -18,6 +18,7 @@
 | [Fairytale Solitaire: Red Riding Hood](games/4/4f08134bd1c74665a7372714be114f6a.md) | 2024-01-23 | - |  | - | - |
 | [Toribash Next](games/2/2bee239ee96643fbb2afab3013004136.md) | 2024-01-24 | - |  | - | - |
 | [Red Glare](games/f/fb88fc36cd3b4e0da545c51c4a908474.md) | 2024-01-24 | - |  | - | - |
+| [Vacation Adventures Park Ranger 14 Collectors Edition](games/7/7f64b29c49554ab488c286c8de796571.md) | 2024-01-25 | - |  | - | - |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | - |  | - | - |
 | [Alice's Jigsaw. Wonderland Chronicles 2](games/6/6445bb085c274bb58007a3febb1df67e.md) | 2024-01-26 | - |  | - | - |
 | [Rainbow Pixel - Color by Number](games/5/58c551d60fa348e899b68bbc6381ea42.md) | 2024-01-29 | - |  | - | - |
