@@ -8,24 +8,24 @@ Number of Ratings: 90  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rock of the Bay | 84.00% | ~370 |
 | Mash Machine | 74.00% | ~326 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~242 |
-| Furon Fashion | 48.00% | ~211 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~243 |
+| Furon Fashion | 48.00% | ~212 |
 | Shop Til They Drop | 40.00% | ~176 |
-| Bodied Sattva | 38.00% | ~167 |
+| Bodied Sattva | 37.00% | ~163 |
 | Cult Following | 35.00% | ~154 |
 | Earthly Pleasures | 34.00% | ~150 |
 | Lie Back and Think of Albion | 29.00% | ~128 |
-| Upgreatest | 28.00% | ~123 |
-| Pimp My Raid | 26.00% | ~114 |
+| Upgreatest | 27.00% | ~119 |
+| Pimp My Raid | 26.00% | ~115 |
 | Freshly Squeezed | 23.00% | ~101 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~92 |
+| I Look Up As I Walk to Takoshima | 21.00% | ~93 |
 | Perfect Probulator | 19.00% | ~84 |
 | Die Nasty | 18.00% | ~79 |
-| Transmitting From Sol-3 | 16.00% | ~70 |
+| Transmitting From Sol-3 | 16.00% | ~71 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~62 |
-| Fly Me to the Moon Base | 11.00% | ~48 |
-| Kaijuiced | 11.00% | ~48 |
-| Dusted | 11.00% | ~48 |
+| Fly Me to the Moon Base | 11.00% | ~49 |
+| Kaijuiced | 11.00% | ~49 |
+| Dusted | 11.00% | ~49 |
 | Scuttled | 9.00% | ~40 |
 | Lobster Blisque | 7.00% | ~31 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~31 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.50% | ~2 |
 | Trans-Siberian Express | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440 (Ranked 366)  
-Completed: 2 (0.45%) (Ranked 236)  
+Progressed: 441 (Ranked 366)  
+Completed: 2 (0.45%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 2 (0.45%) (Ranked 236)
 | 2024-01-13 | 427 | 2 |
 | 2024-01-14 | 432 | 2 |
 | 2024-01-15 | 439 | 2 |
-| 2024-01-16 | 440 | 2 |
+| 2024-01-16 | 441 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

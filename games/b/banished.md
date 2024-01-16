@@ -1,7 +1,7 @@
 # Banished
 [Store](https://store.epicgames.com/en-US/p/banished-a8eee5)  
 [View Rawdata](../../db/b/banished.json)  
-Rating: 4.07 (Ranked 1,036)  
+Rating: 4.11 (Ranked 1,024)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.07 (Ranked 1,036)
 | 2023-07-07 | 4.04 | 0 | 0 |
 | 2023-08-08 | 4.08 | 0 | 0 |
 | 2023-11-12 | 4.07 | 0 | 0 |
+| 2024-01-16 | 4.11 | 0 | 0 |

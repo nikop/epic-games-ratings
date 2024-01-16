@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 1716,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4629,9 +4629,9 @@
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 755
+      "UsersEstimate": 772
     },
     {
       "ID": "AchvDoom",
@@ -4806,8 +4806,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:20.1369805+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:10:47.1779474+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:46.4890816+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:20.1370128+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:57:54.59362+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:10:47.1779881+00:00"
 }

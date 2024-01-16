@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -191,11 +191,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.45,
+  "EOS_Completed_Percentage": 7.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:45.6416158+00:00",
@@ -856,6 +856,11 @@
       "Time": "2024-01-16T08:09:14.1943652+00:00",
       "NumProgressed": 805,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-16T14:10:04.964566+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 50,
@@ -867,7 +872,7 @@
       "Name": "Plenty More to Go",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "ACHIEVEMENT002",
@@ -883,7 +888,7 @@
       "Name": "...And Your Tax Money",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACHIEVEMENT004",
@@ -931,7 +936,7 @@
       "Name": "The Road to Recovery",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -939,7 +944,7 @@
       "Name": "One-Hundred Resident Record",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT011",
@@ -947,7 +952,7 @@
       "Name": "A Girl About the Town",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACHIEVEMENT012",
@@ -971,7 +976,7 @@
       "Name": "A Local Hero",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACHIEVEMENT015",
@@ -1033,9 +1038,9 @@
       "ID": "ACHIEVEMENT022",
       "SetID": "dejhjd5",
       "Name": "Arms Master",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT023",
@@ -1051,7 +1056,7 @@
       "Name": "Amateur Adventurer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ACHIEVEMENT025",
@@ -1059,7 +1064,7 @@
       "Name": "Hopeful Hunter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHIEVEMENT026",
@@ -1081,9 +1086,9 @@
       "ID": "ACHIEVEMENT028",
       "SetID": "dejhjd5",
       "Name": "On Outlander Lane",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 403
     },
     {
       "ID": "ACHIEVEMENT029",
@@ -1099,7 +1104,7 @@
       "Name": "Gourmand",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT031",
@@ -1107,7 +1112,7 @@
       "Name": "Accessorizer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT032",
@@ -1139,7 +1144,7 @@
       "Name": "First Time Fishing",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "ACHIEVEMENT036",
@@ -1147,7 +1152,7 @@
       "Name": "First Time Hunting",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -1155,7 +1160,7 @@
       "Name": "Rune Wall Wreckage",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHIEVEMENT038",
@@ -1195,7 +1200,7 @@
       "Name": "The Quarry...On Foot!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACHIEVEMENT043",
@@ -1203,7 +1208,7 @@
       "Name": "The Snowpeak...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT044",
@@ -1211,7 +1216,7 @@
       "Name": "The Lava Ruins...On Foot!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACHIEVEMENT045",
@@ -1219,7 +1224,7 @@
       "Name": "The Runebarrows...On Foot!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT046",
@@ -1235,7 +1240,7 @@
       "Name": "Champion of the Quarry",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT048",
@@ -1251,7 +1256,7 @@
       "Name": "Champion of the Lava Ruins",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT050",
@@ -1266,15 +1271,15 @@
     {
       "ID": "dejhjd5",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 60
     }
   ],
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2023-12-03T09:59:31.596296+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:14:50.1664731+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:10:04.9645618+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:58.5913799+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:57.6497623+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:14:50.1665376+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:11.432054+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:10:04.9646065+00:00"
 }

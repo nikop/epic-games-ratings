@@ -1626,9 +1626,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28375,
+  "EOS_Progressed": 28377,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14286,6 +14286,11 @@
       "Time": "2024-01-16T13:15:38.0873014+00:00",
       "NumProgressed": 28375,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-16T14:11:12.6718087+00:00",
+      "NumProgressed": 28377,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14343,9 +14348,9 @@
       "ID": "AllSkills",
       "SetID": "3ojhj46",
       "Name": "Looks Familiar",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 199
+      "UsersEstimate": 227
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -14608,21 +14613,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28375,
+      "Progressed": 28377,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7305,
+      "Progressed": 7307,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-16T02:26:45.6025028+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:38.0873009+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:11:12.6718083+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:08:22.0765534+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:38.0873795+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:02:41.6960924+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:11:12.6718968+00:00"
 }

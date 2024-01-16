@@ -313,9 +313,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 422091,
+  "EOS_Progressed": 422130,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9841,
+  "EOS_NewPlayers": 9825,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3598,6 +3598,11 @@
       "Time": "2024-01-16T13:10:12.1319735+00:00",
       "NumProgressed": 422091,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T14:05:53.2704212+00:00",
+      "NumProgressed": 422130,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -3618,7 +3623,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29546
+      "UsersEstimate": 29549
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3642,7 +3647,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97081
+      "UsersEstimate": 97090
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3666,7 +3671,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109744
+      "UsersEstimate": 109754
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3674,7 +3679,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 92860
+      "UsersEstimate": 92869
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3706,7 +3711,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16884
+      "UsersEstimate": 16885
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3722,7 +3727,7 @@
       "Name": "Barely Alive",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3754,7 +3759,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8443
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -3770,7 +3775,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37988
+      "UsersEstimate": 37992
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3778,7 +3783,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12663
+      "UsersEstimate": 12664
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3786,7 +3791,7 @@
       "Name": "Performance Examination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -3810,7 +3815,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12663
+      "UsersEstimate": 12664
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -3818,7 +3823,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33767
+      "UsersEstimate": 33770
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -3834,7 +3839,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12663
+      "UsersEstimate": 12664
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -3850,7 +3855,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8443
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -3858,7 +3863,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8442
+      "UsersEstimate": 8443
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -3914,7 +3919,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12663
+      "UsersEstimate": 12664
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -3953,7 +3958,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 422091,
+      "Progressed": 422130,
       "Completed": 3
     }
   ],
@@ -3961,8 +3966,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-16T13:08:46.166105+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:10:12.1319732+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:05:53.2704206+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:08:46.1661055+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:10:12.1320307+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:03:47.4915245+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:05:53.2704804+00:00"
 }

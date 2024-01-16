@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253519,
+  "EOS_Progressed": 253520,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24257,6 +24257,11 @@
       "Time": "2024-01-16T11:09:46.8992666+00:00",
       "NumProgressed": 253519,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-16T14:11:10.8367248+00:00",
+      "NumProgressed": 253520,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24364,7 +24369,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45633
+      "UsersEstimate": 45634
     },
     {
       "ID": "curator",
@@ -24444,7 +24449,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134365
+      "UsersEstimate": 134366
     },
     {
       "ID": "indegestible",
@@ -24572,7 +24577,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58309
+      "UsersEstimate": 58310
     },
     {
       "ID": "thunderstruck",
@@ -24588,7 +24593,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32957
+      "UsersEstimate": 32958
     },
     {
       "ID": "treeMedalist",
@@ -24635,7 +24640,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253519,
+      "Progressed": 253520,
       "Completed": 6
     }
   ],
@@ -24643,8 +24648,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:37.2346187+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:11:10.8367246+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:59.9797171+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:37.2347592+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:14.8629137+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:11:10.8368729+00:00"
 }

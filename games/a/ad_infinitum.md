@@ -8,7 +8,7 @@
 | Morgengrauen | 87.00% | ~187 |
 | Not alone | 61.00% | ~131 |
 | Hunger | 52.00% | ~112 |
-| Awaken | 44.00% | ~95 |
+| Awaken | 45.00% | ~97 |
 | Path of Corruption | 36.00% | ~77 |
 | Hope | 32.00% | ~69 |
 | Rage | 32.00% | ~69 |
@@ -17,7 +17,7 @@
 | The shining | 21.00% | ~45 |
 | Reflections | 20.00% | ~43 |
 | Clarity | 18.00% | ~39 |
-| Health | 16.00% | ~34 |
+| Health | 17.00% | ~37 |
 | Awaiting orders | 15.00% | ~32 |
 | Art critic | 12.00% | ~26 |
 | Jigsaw | 12.00% | ~26 |

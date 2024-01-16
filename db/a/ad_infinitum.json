@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 215,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1111,9 +1111,9 @@
       "ID": "ACH_AWAKEN",
       "SetID": "88d7anj",
       "Name": "Awaken",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_CLARITY",
@@ -1143,9 +1143,9 @@
       "ID": "ACH_HEALTH",
       "SetID": "88d7anj",
       "Name": "Health",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_HOPE",
@@ -1294,8 +1294,8 @@
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:14:17.526055+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:09:18.5522233+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.6210321+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:04:01.3969591+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:14:17.5260879+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:59:48.0163893+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:09:18.5522544+00:00"
 }

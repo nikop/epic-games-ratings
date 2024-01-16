@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~132 |
-| A Forest Walk | 29.00% | ~127 |
+| A Forest Walk | 29.00% | ~128 |
 | Baby's First Car | 28.00% | ~123 |
 | Amateur Mechanic | 27.00% | ~119 |
 | Pushover | 27.00% | ~119 |
@@ -24,11 +24,11 @@
 | Car-Tapult | 20.00% | ~88 |
 | Goodbye cruel world | 20.00% | ~88 |
 | Beach Party! | 20.00% | ~88 |
-| First Come, First Serve | 19.00% | ~83 |
-| Disoriented | 19.00% | ~83 |
-| Anger Issues | 19.00% | ~83 |
-| Take that Frosty! | 19.00% | ~83 |
-| Your Highness | 19.00% | ~83 |
+| First Come, First Serve | 19.00% | ~84 |
+| Disoriented | 19.00% | ~84 |
+| Anger Issues | 19.00% | ~84 |
+| Take that Frosty! | 19.00% | ~84 |
+| Your Highness | 19.00% | ~84 |
 | Event Amateur | 17.00% | ~75 |
 | Feeling Hot Hot Hot! | 16.00% | ~70 |
 | Feeling Dizzy? | 16.00% | ~70 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 439 (Ranked 367)  
-Completed: 2 (0.46%) (Ranked 232)  
+Progressed: 440 (Ranked 367)  
+Completed: 2 (0.45%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,6 +175,7 @@ Completed: 2 (0.46%) (Ranked 232)
 | 2024-01-07 | 437 | 2 |
 | 2024-01-08 | 438 | 2 |
 | 2024-01-15 | 439 | 2 |
+| 2024-01-16 | 440 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4410,9 +4410,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 114
     },
     {
       "ID": "NewMorality",
@@ -4458,9 +4458,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 299
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4659,8 +4659,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:11:08.4384961+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:07:14.4790108+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:57.2600773+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:11:08.4385642+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:59:40.6990281+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:07:14.4790794+00:00"
 }

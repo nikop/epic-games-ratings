@@ -5,7 +5,7 @@
   "Ranking_Rating": 568,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 499,
-  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 342,
   "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 158,
@@ -561,9 +561,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 6458,
+  "EOS_Progressed": 6459,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9916,6 +9916,11 @@
       "Time": "2024-01-16T12:07:02.3428844+00:00",
       "NumProgressed": 6458,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T14:07:22.7670084+00:00",
+      "NumProgressed": 6459,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9959,7 +9964,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10039,7 +10044,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10095,7 +10100,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10103,7 +10108,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10119,7 +10124,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3358
+      "UsersEstimate": 3359
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10127,7 +10132,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10143,7 +10148,7 @@
       "Name": "Making a Stand",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "ACH_MISSION_05",
@@ -10159,7 +10164,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10167,7 +10172,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1614
+      "UsersEstimate": 1615
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10207,7 +10212,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10223,7 +10228,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10239,7 +10244,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10255,7 +10260,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10271,7 +10276,7 @@
       "Name": "The More The Merrier",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10286,7 +10291,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6458,
+      "Progressed": 6459,
       "Completed": 3
     }
   ],
@@ -10294,8 +10299,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:11:14.4012719+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:07:22.7670079+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:45.88961+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:11:14.4013627+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:59:23.9936957+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:07:22.7670717+00:00"
 }

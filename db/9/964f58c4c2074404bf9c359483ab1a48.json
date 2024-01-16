@@ -2415,9 +2415,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 1301288,
+  "EOS_Progressed": 1301290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1238,
+  "EOS_NewPlayers": 1236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29245,6 +29245,11 @@
       "Time": "2024-01-16T13:09:51.0296028+00:00",
       "NumProgressed": 1301288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T14:05:23.7810466+00:00",
+      "NumProgressed": 1301290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29552,7 +29557,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767760
+      "UsersEstimate": 767761
     },
     {
       "ID": "hunter_win",
@@ -29560,7 +29565,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702696
+      "UsersEstimate": 702697
     },
     {
       "ID": "master_of_loadouts",
@@ -29584,14 +29589,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 286283
+      "UsersEstimate": 286284
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1301288,
+      "Progressed": 1301290,
       "Completed": 0
     }
   ],
@@ -29599,8 +29604,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-16T10:56:58.0982957+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:09:51.0296025+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:05:23.7810462+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.9954537+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:28.4024991+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:09:51.0297402+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:57:26.7805109+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:05:23.7812156+00:00"
 }

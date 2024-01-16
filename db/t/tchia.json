@@ -11622,9 +11622,9 @@
       "ID": "BODY_AND_SOUL",
       "SetID": "3cck1g6",
       "Name": "Body and Soul",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 53
+      "UsersEstimate": 62
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -11775,8 +11775,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-13T23:02:30.805727+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:10:38.0969865+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:06:30.8122585+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.9281715+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:38.8995132+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:10:38.0970464+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:59:13.010978+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:06:30.8123386+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,499 |
-| That's a Grand Army | 0.60% | ~2,999 |
-| Victorious! | 0.60% | ~2,999 |
-| That is mine! | 0.50% | ~2,499 |
+| That's a Grand Army | 0.60% | ~3,000 |
+| Victorious! | 0.60% | ~3,000 |
+| That is mine! | 0.50% | ~2,500 |
 | Brothers in Arms | 0.40% | ~2,000 |
 | That's a Grand Navy | 0.40% | ~2,000 |
 | Seriously?! | 0.40% | ~2,000 |
@@ -302,6 +302,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Power of Three | 0.10% | ~500 |
 | The Re-Reconquista | 0.10% | ~500 |
 | The Rising Sun | 0.10% | ~500 |
+| The Third Way | 0.10% | ~500 |
 | The Three Mountains | 0.10% | ~500 |
 | The Uncommonwealth | 0.10% | ~500 |
 | The White Company | 0.10% | ~500 |
@@ -366,11 +367,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| The Third Way | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,894 (Ranked 42)  
+Progressed: 499,919 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 1 (0.00%) (Ranked 402)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
-| 2024-01-16 | 499,894 | 1 |
+| 2024-01-16 | 499,919 | 1 |
 ## Awards
 Max (Educational): 7,857  (Ranked 53)  
 Sum: 64,801 (Ranked 24)  

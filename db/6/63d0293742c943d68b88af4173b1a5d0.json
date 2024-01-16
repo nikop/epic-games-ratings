@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 814,
+  "EOS_Progressed": 815,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2619,6 +2619,11 @@
       "Time": "2024-01-16T12:04:16.9414287+00:00",
       "NumProgressed": 814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T14:04:36.299776+00:00",
+      "NumProgressed": 815,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2671,7 +2676,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "9",
@@ -2695,7 +2700,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "REMAKE_004",
@@ -2703,7 +2708,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "Remake_005",
@@ -2847,21 +2852,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 814,
+      "Progressed": 815,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:09:17.7957843+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:04:36.2997755+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:22.3378833+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:09:17.7958165+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:49.000064+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:04:36.299805+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 477,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 440,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 138,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2024-01-14T18:10:39.8286413+00:00",
       "NumProgressed": 137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T14:10:09.2694201+00:00",
+      "NumProgressed": 138,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -693,9 +698,9 @@
       "ID": "Ach_AllSlashDashUnlock",
       "SetID": "4o5gjp0",
       "Name": "Full power",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_AllSucces",
@@ -709,17 +714,17 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "Ach_BossFinal",
       "SetID": "4o5gjp0",
       "Name": "GG EZ",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach_BossGolem",
@@ -741,9 +746,9 @@
       "ID": "Ach_BossSlugMk2",
       "SetID": "4o5gjp0",
       "Name": "\u0022Ah sh*t... Here we go again!\u0022",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_BuyAllItemAndUpgrade",
@@ -759,7 +764,7 @@
       "Name": "Pigeon",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -775,7 +780,7 @@
       "Name": "The beast within",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Ach_DeathXTime",
@@ -799,7 +804,7 @@
       "Name": "The light at the end of the tunnel",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -823,7 +828,7 @@
       "Name": "It\u0027s getting dark",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -831,7 +836,7 @@
       "Name": "A path of no return",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Ach_DiveDeath",
@@ -855,7 +860,7 @@
       "Name": "Baited",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -869,15 +874,15 @@
       "ID": "Ach_FinishElypse",
       "SetID": "4o5gjp0",
       "Name": "Comeback",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
       "UsersEstimate": 68
     },
@@ -895,7 +900,7 @@
       "Name": "Big badaboom!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Ach_LavaDeath",
@@ -959,21 +964,21 @@
       "Name": "Sensitive soul",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:14:53.5628126+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:10:09.2694199+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.9507506+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:45.2273412+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:14:53.5628357+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:57:52.4424316+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:10:09.2694426+00:00"
 }

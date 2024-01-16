@@ -7,7 +7,7 @@ Rating: 4.22 (Ranked 955)
 | ---- | ---------- | ----- |
 | Flesh Wound | 27.00% | ~6,061 |
 | The Outer Way | 27.00% | ~6,061 |
-| Desperate Times | 26.00% | ~5,836 |
+| Desperate Times | 26.00% | ~5,837 |
 | Paper Jams | 24.00% | ~5,388 |
 | Get a Grip | 23.00% | ~5,163 |
 | Chew 'Em Up | 21.00% | ~4,714 |
@@ -32,8 +32,8 @@ Rating: 4.22 (Ranked 955)
 | In Striking Distance | 5.00% | ~1,122 |
 | One Last Job | 3.00% | ~311 |
 | Mugshot | 2.00% | ~449 |
-| Big Spender | 2.00% | ~207 |
-| This Isn't About Escape | 2.00% | ~207 |
+| Big Spender | 2.00% | ~208 |
+| This Isn't About Escape | 2.00% | ~208 |
 | Armed to the Teeth | 1.00% | ~104 |
 | Grim Reaper | 1.00% | ~224 |
 | Instigator | 1.00% | ~104 |
@@ -42,7 +42,7 @@ Rating: 4.22 (Ranked 955)
 | Quick Pick | 0.80% | ~83 |
 | Subject Alpha | 0.70% | ~73 |
 | The Protocol is About Life | 0.40% | ~90 |
-| Don't Let It Mellow | 0.40% | ~41 |
+| Don't Let It Mellow | 0.40% | ~42 |
 | Recidivist | 0.30% | ~31 |
 | Hoard Mode | 0.30% | ~31 |
 | Bear Trap | 0.20% | ~21 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,448 (Ranked 151)  
+Progressed: 22,449 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 82 (0.37%) (Ranked 247)
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
-| 2024-01-16 | 22,448 | 82 |
+| 2024-01-16 | 22,449 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 345)  
 Sum: 655 (Ranked 318)  

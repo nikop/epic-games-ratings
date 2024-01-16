@@ -16,8 +16,8 @@
 | Vanquisher! | 29.00% | ~26 |
 | Twin slayer! | 29.00% | ~26 |
 | Snakehead! | 29.00% | ~26 |
+| Fly, you fool! | 29.00% | ~26 |
 | Mercenary! | 29.00% | ~26 |
-| Fly, you fool! | 28.00% | ~25 |
 | Beast Knight | 26.00% | ~23 |
 | Relic Collector | 24.00% | ~21 |
 | God of the Tower! | 22.00% | ~20 |
@@ -36,7 +36,7 @@
 | True Titan | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89 (Ranked 508)  
-Completed: 4 (4.49%) (Ranked 81)  
+Completed: 4 (4.49%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

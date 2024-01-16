@@ -23,8 +23,8 @@ Number of Ratings: 53  (23.09.2022)
 | Megalomania | 28.00% | ~347 |
 | Christening | 27.00% | ~334 |
 | Groundskeeper | 25.00% | ~310 |
+| Wholesale | 22.00% | ~272 |
 | Walk the plank | 21.00% | ~260 |
-| Wholesale | 21.00% | ~260 |
 | My precious! | 18.00% | ~223 |
 | Pearly gates | 17.00% | ~210 |
 | Conquistador | 14.00% | ~173 |

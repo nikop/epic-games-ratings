@@ -2,11 +2,11 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 343,
+  "Ranking_Rating": 344,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -2883,6 +2883,11 @@
       "Time": "2024-01-16T13:13:46.9511477+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-16T14:08:34.5899155+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2903,7 +2908,7 @@
       "Name": "Are you ready now?",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -2935,7 +2940,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -2951,7 +2956,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -3103,7 +3108,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3111,7 +3116,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3119,7 +3124,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -3150,15 +3155,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:13:46.9511473+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:08:34.5899151+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:08:15.6633164+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:13:46.9511889+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:02:31.2393198+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:08:34.5899535+00:00"
 }

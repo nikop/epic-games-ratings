@@ -3621,7 +3621,7 @@
   ],
   "EOS_Progressed": 47090,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -33975,9 +33975,9 @@
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
       "SetID": "cda475f",
       "Name": "The Gehenna Stones",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 23074
+      "UsersEstimate": 23545
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -34351,8 +34351,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-13T13:59:43.4237185+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:10:54.2878737+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:06:53.7477397+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:50.841571+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:10:54.2880591+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:01.2112123+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:06:53.7479519+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -377,7 +377,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 11582,
+  "EOS_Progressed": 11585,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 0,
@@ -5107,6 +5107,11 @@
       "Time": "2024-01-16T13:15:42.3057358+00:00",
       "NumProgressed": 11582,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T14:11:18.7180139+00:00",
+      "NumProgressed": 11585,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5119,7 +5124,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "03_TheStolenStar",
@@ -5127,7 +5132,7 @@
       "Name": "Stolen Star",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5151,7 +5156,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "07_TheGrandFinale",
@@ -5207,7 +5212,7 @@
       "Name": "Doom Trader",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -5231,7 +5236,7 @@
       "Name": "The Rise",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "17_TheExemplar",
@@ -5247,7 +5252,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5263,7 +5268,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "21_PreciseDefense",
@@ -5335,7 +5340,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "30_The GreatestExploration",
@@ -5343,7 +5348,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "31_DontTouchThis",
@@ -5447,7 +5452,7 @@
       "Name": "No Place Like Home",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5463,7 +5468,7 @@
       "Name": "Polyglot",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "46_ASpark",
@@ -5471,7 +5476,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1738
     },
     {
       "ID": "47_AFlame",
@@ -5519,7 +5524,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "53_GardensOfMadness",
@@ -5638,7 +5643,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11582,
+      "Progressed": 11585,
       "Completed": 1
     }
   ],
@@ -5646,8 +5651,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-16T13:03:34.5311204+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:42.3057356+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:11:18.7180136+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:34.5311209+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:42.3058169+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:59:06.8165023+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:11:18.7180944+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.53 (Ranked 568)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,482 |
-| I've Had Enough! | 15.00% | ~18,539 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,595 |
-| Seasoned Fighter | 9.00% | ~11,123 |
-| All For One and One For All | 8.00% | ~9,887 |
-| Home Sweet Home? | 6.00% | ~7,416 |
-| A New Age | 5.00% | ~6,180 |
-| Oh Baby, A Triple | 3.00% | ~3,708 |
-| Master of Disguise | 3.00% | ~3,708 |
-| Symbiotic | 3.00% | ~3,708 |
+| All Grown Up! | 19.00% | ~23,488 |
+| I've Had Enough! | 15.00% | ~18,543 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,598 |
+| Seasoned Fighter | 9.00% | ~11,126 |
+| All For One and One For All | 8.00% | ~9,890 |
+| Home Sweet Home? | 6.00% | ~7,417 |
+| A New Age | 5.00% | ~6,181 |
+| Oh Baby, A Triple | 3.00% | ~3,709 |
+| Master of Disguise | 3.00% | ~3,709 |
+| Symbiotic | 3.00% | ~3,709 |
 | Battle Hardened | 2.00% | ~2,472 |
 | Double Punch! | 2.00% | ~2,472 |
 | It's Mayhem! | 2.00% | ~2,472 |
@@ -23,8 +23,8 @@ Rating: 4.53 (Ranked 568)
 | Cautious Veteran | 1.00% | ~1,236 |
 | Katamari | 1.00% | ~1,236 |
 | Martyrdom | 1.00% | ~1,236 |
-| Ninja Reflex | 0.90% | ~1,112 |
-| Zero-sum Game | 0.90% | ~1,112 |
+| Ninja Reflex | 0.90% | ~1,113 |
+| Zero-sum Game | 0.90% | ~1,113 |
 | Taste Your Own Medicine | 0.70% | ~865 |
 | This is GigaBash! | 0.50% | ~618 |
 | Sidetracked... | 0.50% | ~618 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 568)
 | What's Mine is Yours | 0.10% | ~124 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,592 (Ranked 94)  
+Progressed: 123,619 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
 | 2024-01-15 | 123,364 | 0 |
-| 2024-01-16 | 123,592 | 0 |
+| 2024-01-16 | 123,619 | 0 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 444)  
 Sum: 56 (Ranked 505)  

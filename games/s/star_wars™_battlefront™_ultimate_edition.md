@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,565 |
-| Off to a good start | 60.00% | ~1,790 |
-| Do... or do not. There is no try | 52.00% | ~1,551 |
+| New Recruit | 86.00% | ~2,567 |
+| Off to a good start | 60.00% | ~1,791 |
+| Do... or do not. There is no try | 52.00% | ~1,552 |
 | A good blaster at your side | 24.00% | ~716 |
 | I suggest a new strategy | 17.00% | ~507 |
-| Great shot, kid! | 16.00% | ~477 |
+| Great shot, kid! | 16.00% | ~478 |
 | Scrap collector | 14.00% | ~418 |
 | All right, I'll give it a try | 14.00% | ~418 |
 | The power of the Force | 12.00% | ~358 |
@@ -29,9 +29,9 @@
 | Impressive. Most impressive. | 4.00% | ~119 |
 | Not bad for a little furball | 4.00% | ~119 |
 | Support the troops | 4.00% | ~119 |
-| Safety ain't the point of a joyride | 3.00% | ~89 |
-| Patience you must have | 3.00% | ~89 |
-| Don't underestimate the Force | 3.00% | ~89 |
+| Safety ain't the point of a joyride | 3.00% | ~90 |
+| Patience you must have | 3.00% | ~90 |
+| Don't underestimate the Force | 3.00% | ~90 |
 | The Force is strong with this one | 2.00% | ~60 |
 | I've been waiting for you | 2.00% | ~60 |
 | When 900 years old you reach... | 2.00% | ~60 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,983 (Ranked 233)  
+Progressed: 2,985 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.03%) (Ranked 359)
 | 2024-01-13 | 2,938 | 1 |
 | 2024-01-14 | 2,961 | 1 |
 | 2024-01-15 | 2,978 | 1 |
-| 2024-01-16 | 2,983 | 1 |
+| 2024-01-16 | 2,985 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

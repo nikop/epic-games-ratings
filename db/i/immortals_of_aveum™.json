@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3471,
+  "EOS_Progressed": 3472,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5682,6 +5682,11 @@
       "Time": "2024-01-16T12:10:55.145733+00:00",
       "NumProgressed": 3471,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T14:11:15.3553692+00:00",
+      "NumProgressed": 3472,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5694,7 +5699,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3089
+      "UsersEstimate": 3090
     },
     {
       "ID": "achievement_10",
@@ -5710,7 +5715,7 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "achievement_12",
@@ -5734,7 +5739,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "achievement_15",
@@ -5870,7 +5875,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "achievement_41",
@@ -5926,7 +5931,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "achievement_49",
@@ -5934,7 +5939,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_5",
@@ -5942,7 +5947,7 @@
       "Name": "Initiate",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "achievement_50",
@@ -5990,7 +5995,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1284
+      "UsersEstimate": 1285
     },
     {
       "ID": "achievement_60",
@@ -6046,7 +6051,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "achievement_8",
@@ -6054,7 +6059,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_9",
@@ -6062,14 +6067,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3471,
+      "Progressed": 3472,
       "Completed": 5
     }
   ],
@@ -6077,8 +6082,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:39.7016843+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:11:15.3553689+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:16.9484706+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:39.7017575+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:41.1702591+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:11:15.355427+00:00"
 }

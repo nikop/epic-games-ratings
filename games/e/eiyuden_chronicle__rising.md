@@ -6,19 +6,19 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~684 |
+| Plenty More to Go | 85.00% | ~685 |
 | All Bark, No Bite | 73.00% | ~588 |
-| Hopeful Hunter | 63.00% | ~507 |
-| Amateur Adventurer | 61.00% | ~491 |
-| The Road to Recovery | 60.00% | ~483 |
+| Hopeful Hunter | 63.00% | ~508 |
+| Amateur Adventurer | 61.00% | ~492 |
+| The Road to Recovery | 60.00% | ~484 |
 | Partners? | 58.00% | ~467 |
 | Magical Mineral Golem | 51.00% | ~411 |
-| On Outlander Lane | 51.00% | ~411 |
-| First Time Fishing | 48.00% | ~386 |
-| A Girl About the Town | 47.00% | ~378 |
-| First Time Hunting | 46.00% | ~370 |
-| Rune Wall Wreckage | 45.00% | ~362 |
-| ...And Your Tax Money | 44.00% | ~354 |
+| On Outlander Lane | 50.00% | ~403 |
+| First Time Fishing | 48.00% | ~387 |
+| A Girl About the Town | 47.00% | ~379 |
+| First Time Hunting | 46.00% | ~371 |
+| Rune Wall Wreckage | 45.00% | ~363 |
+| ...And Your Tax Money | 44.00% | ~355 |
 | The Lords of the Snowpeak | 37.00% | ~298 |
 | The Go-To Girl | 34.00% | ~274 |
 | Scavenger's Honor | 34.00% | ~274 |
@@ -29,27 +29,27 @@ Number of Ratings: 48  (23.09.2022)
 | The Great Forest...On Foot! | 33.00% | ~266 |
 | Adept, for an Acting Mayor | 32.00% | ~258 |
 | Rune Wall Master | 31.00% | ~250 |
-| The Quarry...On Foot! | 29.00% | ~233 |
-| The Runebarrows...On Foot! | 27.00% | ~217 |
-| The Snowpeak...On Foot! | 25.00% | ~201 |
-| The Lava Ruins...On Foot! | 25.00% | ~201 |
+| The Quarry...On Foot! | 29.00% | ~234 |
+| The Runebarrows...On Foot! | 27.00% | ~218 |
+| The Snowpeak...On Foot! | 25.00% | ~202 |
+| The Lava Ruins...On Foot! | 25.00% | ~202 |
 | Meat Master | 24.00% | ~193 |
 | Fishing Master | 23.00% | ~185 |
 | Armor Master | 22.00% | ~177 |
 | The Pride of the Town | 21.00% | ~169 |
 | This Treasure I've Found | 19.00% | ~153 |
 | New Nevaeh's Number One Customer | 19.00% | ~153 |
-| Arms Master | 18.00% | ~145 |
+| Arms Master | 17.00% | ~137 |
 | Rune Scholar | 15.00% | ~121 |
 | No Treasure Left Behind | 12.00% | ~97 |
 | Sommelier | 11.00% | ~89 |
 | Champion of the Great Forest | 11.00% | ~89 |
-| One-Hundred Resident Record | 10.00% | ~80 |
-| A Local Hero | 10.00% | ~80 |
-| Gourmand | 9.00% | ~72 |
-| Accessorizer | 9.00% | ~72 |
-| Champion of the Quarry | 9.00% | ~72 |
-| Champion of the Lava Ruins | 9.00% | ~72 |
+| One-Hundred Resident Record | 10.00% | ~81 |
+| A Local Hero | 10.00% | ~81 |
+| Gourmand | 9.00% | ~73 |
+| Accessorizer | 9.00% | ~73 |
+| Champion of the Quarry | 9.00% | ~73 |
+| Champion of the Lava Ruins | 9.00% | ~73 |
 | No One Better | 8.00% | ~64 |
 | Full Force - CJ | 8.00% | ~64 |
 | Champion of the Snowpeak | 8.00% | ~64 |
@@ -57,8 +57,8 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~56 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805 (Ranked 315)  
-Completed: 60 (7.45%) (Ranked 58)  
+Progressed: 806 (Ranked 315)  
+Completed: 60 (7.44%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -132,7 +132,7 @@ Completed: 60 (7.45%) (Ranked 58)
 | 2024-01-10 | 799 | 60 |
 | 2024-01-13 | 801 | 60 |
 | 2024-01-14 | 803 | 60 |
-| 2024-01-16 | 805 | 60 |
+| 2024-01-16 | 806 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

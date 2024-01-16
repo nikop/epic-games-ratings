@@ -5,20 +5,20 @@ Rating: 4.27 (Ranked 912)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,024 |
-| Don't I Know You...? | 75.00% | ~1,946 |
+| Rigged And Ready | 78.00% | ~2,025 |
+| Don't I Know You...? | 75.00% | ~1,947 |
 | Jailbreak | 64.00% | ~1,661 |
-| HEADSHOT! | 37.00% | ~960 |
-| Suited and Booted | 37.00% | ~960 |
-| Sleeping With The Fishes | 35.00% | ~908 |
-| High Performance | 30.00% | ~778 |
+| HEADSHOT! | 37.00% | ~961 |
+| Suited and Booted | 37.00% | ~961 |
+| Sleeping With The Fishes | 35.00% | ~909 |
+| High Performance | 30.00% | ~779 |
 | Overheated | 29.00% | ~753 |
 | Powered Up | 27.00% | ~701 |
 | Studied The Blade | 24.00% | ~623 |
 | Home Invasion | 22.00% | ~571 |
 | Luminary | 22.00% | ~571 |
-| It's a Trap | 22.00% | ~571 |
 | True Survivor | 21.00% | ~545 |
+| It's a Trap | 21.00% | ~545 |
 | Offensive Defense | 20.00% | ~519 |
 | Shocking | 20.00% | ~519 |
 | Court Martial | 19.00% | ~493 |
@@ -32,9 +32,9 @@ Rating: 4.27 (Ranked 912)
 | Where It All Began | 13.00% | ~337 |
 | Risk Tolerant | 13.00% | ~337 |
 | What A Catchy Song | 13.00% | ~337 |
-| Sorry, Didn't See You There | 12.00% | ~311 |
-| Corrupted Beauty | 11.00% | ~285 |
-| Marked For Success | 11.00% | ~285 |
+| Sorry, Didn't See You There | 12.00% | ~312 |
+| Corrupted Beauty | 11.00% | ~286 |
+| Marked For Success | 11.00% | ~286 |
 | Stimulating The Local Economy | 10.00% | ~260 |
 | Triplets | 10.00% | ~260 |
 | Denying Prophecy | 9.00% | ~234 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 912)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,595 (Ranked 238)  
+Progressed: 2,596 (Ranked 238)  
 Completed: 13 (0.50%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,6 +271,7 @@ Completed: 13 (0.50%) (Ranked 227)
 | 2024-01-13 | 2,585 | 13 |
 | 2024-01-14 | 2,591 | 13 |
 | 2024-01-15 | 2,595 | 13 |
+| 2024-01-16 | 2,596 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,8 +3,8 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 367,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 503,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 473,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 439,
+  "EOS_Progressed": 440,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -754,6 +754,11 @@
       "Time": "2024-01-15T19:09:11.4451732+00:00",
       "NumProgressed": 439,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T14:10:09.9749295+00:00",
+      "NumProgressed": 440,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -877,7 +882,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -893,7 +898,7 @@
       "Name": "Disoriented",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -941,7 +946,7 @@
       "Name": "Anger Issues",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -965,7 +970,7 @@
       "Name": "Take that Frosty!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -1005,7 +1010,7 @@
       "Name": "Your Highness",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LEFT_LEVEL",
@@ -1029,7 +1034,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -1204,7 +1209,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 439,
+      "Progressed": 440,
       "Completed": 2
     }
   ],
@@ -1212,8 +1217,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:14:54.115259+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:10:09.9749291+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.3078107+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:17.9417618+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:14:54.1153135+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:42.5381845+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:10:09.974985+00:00"
 }

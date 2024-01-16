@@ -914,9 +914,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "book_em_danny",
@@ -1091,8 +1091,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:10:23.0627792+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:06:09.0124795+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:08:49.5812001+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:10:23.0628012+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:03:53.8354438+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:06:09.0124936+00:00"
 }

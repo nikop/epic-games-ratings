@@ -6,8 +6,8 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2001,6 +2001,11 @@
       "Time": "2024-01-16T01:58:04.6772822+00:00",
       "NumProgressed": 440,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T14:10:25.8339514+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2045,7 +2050,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2093,7 +2098,7 @@
       "Name": "Transmitting From Sol-3",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -2125,7 +2130,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2157,7 +2162,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTER_TAKOSHIMA",
@@ -2165,7 +2170,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2179,9 +2184,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2189,7 +2194,7 @@
       "Name": "Kaijuiced",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2267,9 +2272,9 @@
       "ID": "ACH_PURCHASE_CAPSTONE",
       "SetID": "4n84pon",
       "Name": "Upgreatest",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2301,7 +2306,7 @@
       "Name": "Dusted",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2357,14 +2362,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 2
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:05.1158616+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:10:25.8339513+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:03:24.8905968+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:05.1159046+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:58:51.8575015+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:10:25.8339844+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,155 |
-| A thief's beginning | 11.00% | ~24,892 |
-| Thorough | 11.00% | ~24,892 |
+| Genin | 12.00% | ~27,157 |
+| A thief's beginning | 11.00% | ~24,894 |
+| Thorough | 11.00% | ~24,894 |
 | Disguised | 9.00% | ~20,367 |
 | Rescue Takuma | 9.00% | ~20,367 |
 | Rollin' | 9.00% | ~20,367 |
@@ -43,7 +43,7 @@ Number of Ratings: 495  (23.09.2022)
 | High Five the Moon | 0.90% | ~2,037 |
 | The Cave | 0.90% | ~2,037 |
 | Time Paradox | 0.60% | ~1,358 |
-| Merciful | 0.50% | ~1,131 |
+| Merciful | 0.50% | ~1,132 |
 | Five Shadows | 0.40% | ~905 |
 | Complete Mastery | 0.20% | ~453 |
 | Praise the Shogun | 0.20% | ~453 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,295 (Ranked 80)  
+Progressed: 226,305 (Ranked 80)  
 Completed: 107 (0.05%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 107 (0.05%) (Ranked 342)
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
-| 2024-01-16 | 226,295 | 107 |
+| 2024-01-16 | 226,305 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
 Sum: 4,962 (Ranked 153)  

@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 20965,
+  "EOS_Progressed": 20973,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1085,
+  "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17508,6 +17508,11 @@
       "Time": "2024-01-16T13:15:24.2684908+00:00",
       "NumProgressed": 20965,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-16T14:10:52.8481109+00:00",
+      "NumProgressed": 20973,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17520,7 +17525,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "a_10",
@@ -17568,7 +17573,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9225
+      "UsersEstimate": 9228
     },
     {
       "ID": "a_19",
@@ -17576,7 +17581,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "a_2",
@@ -17584,7 +17589,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "a_20",
@@ -17616,7 +17621,7 @@
       "Name": "Quack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "a_25",
@@ -17624,7 +17629,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "a_26",
@@ -17767,7 +17772,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 20965,
+      "Progressed": 20973,
       "Completed": 13
     }
   ],
@@ -17775,8 +17780,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:15:24.2684905+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:10:52.8481105+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:04:47.1475651+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:15:24.2685873+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:00:54.9060628+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:10:52.8482356+00:00"
 }

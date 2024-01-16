@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,7 +75,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3613,
+  "EOS_Progressed": 3614,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -8940,6 +8940,11 @@
       "Time": "2024-01-16T10:03:28.1442812+00:00",
       "NumProgressed": 3613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T14:04:32.1769034+00:00",
+      "NumProgressed": 3614,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -8968,7 +8973,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -9248,7 +9253,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9343,7 +9348,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3613,
+      "Progressed": 3614,
       "Completed": 0
     }
   ],
@@ -9351,8 +9356,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:09:14.946718+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:04:32.176903+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:02:46.7283494+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:09:14.9467877+00:00"
+  "LastUpdate_Ratings": "2024-01-16T13:57:54.9759349+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:04:32.1769683+00:00"
 }

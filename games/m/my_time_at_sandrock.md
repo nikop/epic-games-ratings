@@ -6,59 +6,59 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 208.00% | ~1,928 |
-| Super Spelunker | 154.00% | ~1,428 |
-| Iron Chef | 144.00% | ~1,335 |
-| Officially Official | 125.00% | ~1,159 |
-| The Little Wood that Could | 123.00% | ~1,140 |
-| On that Grindset | 118.00% | ~1,094 |
-| Greeno-B-Gone | 111.00% | ~1,029 |
-| Better Late than Never | 107.00% | ~992 |
-| Got Served | 98.00% | ~908 |
-| One of the Cool Kids | 97.00% | ~899 |
-| Diamonds are Forever | 97.00% | ~899 |
-| Pack Mule | 96.00% | ~890 |
-| Knowledge is Power | 95.00% | ~881 |
-| Mole Masher | 94.00% | ~871 |
-| Financially Secure | 93.00% | ~862 |
-| Your Especially Earned Trajectory | 93.00% | ~862 |
-| Big Game Hunter | 88.00% | ~816 |
+| Adept Assembler | 209.00% | ~1,935 |
+| Super Spelunker | 154.00% | ~1,426 |
+| Iron Chef | 144.00% | ~1,333 |
+| Officially Official | 125.00% | ~1,158 |
+| The Little Wood that Could | 124.00% | ~1,148 |
+| On that Grindset | 118.00% | ~1,093 |
+| Greeno-B-Gone | 111.00% | ~1,028 |
+| Better Late than Never | 107.00% | ~991 |
+| Got Served | 98.00% | ~907 |
+| One of the Cool Kids | 97.00% | ~898 |
+| Diamonds are Forever | 97.00% | ~898 |
+| Pack Mule | 96.00% | ~889 |
+| Knowledge is Power | 95.00% | ~880 |
+| Mole Masher | 94.00% | ~870 |
+| Financially Secure | 93.00% | ~861 |
+| Your Especially Earned Trajectory | 93.00% | ~861 |
+| Big Game Hunter | 88.00% | ~815 |
 | Unboxing | 87.00% | ~806 |
-| What Plants Crave | 85.00% | ~788 |
-| Yakmel Whisperer | 84.00% | ~779 |
+| What Plants Crave | 85.00% | ~787 |
+| Yakmel Whisperer | 84.00% | ~778 |
 | Panda-kin | 83.00% | ~769 |
-| Chatterbox | 80.00% | ~742 |
-| First Love | 80.00% | ~742 |
+| Chatterbox | 81.00% | ~750 |
+| First Love | 80.00% | ~741 |
 | No Mountain Wide Enough | 79.00% | ~732 |
 | I Do! | 79.00% | ~732 |
-| Builder of the Month | 76.00% | ~705 |
-| Can We Keep It? | 76.00% | ~705 |
-| Bridging the Gap | 75.00% | ~695 |
+| Builder of the Month | 76.00% | ~704 |
+| Can We Keep It? | 76.00% | ~704 |
+| Bridging the Gap | 75.00% | ~694 |
 | Waste Not Want Not | 72.00% | ~667 |
-| Commissions, commissions...! | 69.00% | ~640 |
-| Elementary, My Dear | 69.00% | ~640 |
-| Got the Flow Back | 69.00% | ~640 |
+| Commissions, commissions...! | 70.00% | ~648 |
+| Elementary, My Dear | 69.00% | ~639 |
+| Got the Flow Back | 69.00% | ~639 |
 | Lifeline Pipeline | 64.00% | ~593 |
 | Sepia Toned Memories | 61.00% | ~565 |
 | Who Ya Gonna Call...? | 60.00% | ~556 |
-| Martle's Dream | 59.00% | ~547 |
-| Anti-Santa | 59.00% | ~547 |
-| You Don't Win Friends With Salad | 59.00% | ~547 |
+| Martle's Dream | 59.00% | ~546 |
+| Anti-Santa | 59.00% | ~546 |
+| You Don't Win Friends With Salad | 59.00% | ~546 |
 | Time Flies | 56.00% | ~519 |
 | Happier-est Place on Earth | 56.00% | ~519 |
-| Finishing Touches | 54.00% | ~501 |
-| Call Me Fishmael | 54.00% | ~501 |
+| Finishing Touches | 54.00% | ~500 |
+| Call Me Fishmael | 54.00% | ~500 |
 | Kind of a Big Deal | 52.00% | ~482 |
-| Just What I Always Wanted! | 51.00% | ~473 |
+| Just What I Always Wanted! | 51.00% | ~472 |
 | Jewel of the Eufaula | 45.00% | ~417 |
 | Sandrunning Speedster | 45.00% | ~417 |
-| Santa In Training | 44.00% | ~408 |
+| Santa In Training | 44.00% | ~407 |
 | My Time Mansion | 42.00% | ~389 |
 | He Can Spin A Yarn... | 41.00% | ~380 |
-| Do Your Part | 40.00% | ~371 |
-| It Belongs in a Museum! | 39.00% | ~362 |
+| Do Your Part | 40.00% | ~370 |
+| It Belongs in a Museum! | 39.00% | ~361 |
 | Newton | 37.00% | ~343 |
-| Pro Gamer | 35.00% | ~324 |
+| Pro Gamer | 36.00% | ~333 |
 | Winner and Still Champeen | 30.00% | ~278 |
 | Cardistry | 29.00% | ~269 |
 | It's High Noon... | 19.00% | ~176 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | Jack of All Trades | 8.00% | ~74 |
 | Sandrock's Hottest Club | 5.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927 (Ranked 305)  
+Progressed: 926 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |

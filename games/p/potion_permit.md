@@ -7,7 +7,7 @@ Rating: 3.86 (Ranked 1,078)
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,917 |
 | The First Step | 87.00% | ~1,702 |
-| Moonbury Traveller | 62.00% | ~1,213 |
+| Moonbury Traveller | 63.00% | ~1,232 |
 | Rookie Chemist | 60.00% | ~1,174 |
 | Great Doctor | 50.00% | ~978 |
 | Dog Whisperer | 47.00% | ~919 |
@@ -243,8 +243,8 @@ Completed: 11 (0.56%) (Ranked 219)
 | 2024-01-16 | 1,956 | 11 |
 ## Awards
 Max (Character Customization): 70  (Ranked 420)  
-Sum: 70 (Ranked 494)  
-Diff (max vs sum): -74  
+Sum: 70 (Ranked 495)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 70 |

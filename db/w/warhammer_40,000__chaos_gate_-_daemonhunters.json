@@ -799,10 +799,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 507,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2024-01-16T14:04:00.7582031+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -840,7 +846,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game is Highly Recommended",
@@ -869,7 +875,7 @@
   ],
   "EOS_Progressed": 3904,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6608,9 +6614,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-01-16T02:27:29.5231416+00:00",
-  "LastChanged_Achievements": "2024-01-16T13:10:35.3501977+00:00",
+  "LastChanged": "2024-01-16T14:04:00.758203+00:00",
+  "LastChanged_Achievements": "2024-01-16T14:06:26.8919676+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-16T13:08:54.8270239+00:00",
-  "LastUpdate_Achievements": "2024-01-16T13:10:35.3502992+00:00"
+  "LastUpdate_Ratings": "2024-01-16T14:04:00.7582036+00:00",
+  "LastUpdate_Achievements": "2024-01-16T14:06:26.8920593+00:00"
 }
