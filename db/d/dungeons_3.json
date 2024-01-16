@@ -3619,7 +3619,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47064,
+  "EOS_Progressed": 47065,
   "EOS_Completed": 373,
   "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 3,
@@ -33819,6 +33819,11 @@
       "Time": "2024-01-16T06:05:21.4449672+00:00",
       "NumProgressed": 47064,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-16T07:05:16.8372753+00:00",
+      "NumProgressed": 47065,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -33838,7 +33843,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21649
+      "UsersEstimate": 21650
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -33846,7 +33851,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27297
+      "UsersEstimate": 27298
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -33974,7 +33979,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11296
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -33998,7 +34003,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11296
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -34014,7 +34019,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11296
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -34022,7 +34027,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 17884
+      "UsersEstimate": 17885
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -34062,7 +34067,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19296
+      "UsersEstimate": 19297
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -34070,7 +34075,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12707
+      "UsersEstimate": 12708
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -34086,7 +34091,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12707
+      "UsersEstimate": 12708
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -34182,7 +34187,7 @@
       "Name": "The Force disturbed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 9883
+      "UsersEstimate": 9884
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -34206,7 +34211,7 @@
       "Name": "Damned good",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 15060
+      "UsersEstimate": 15061
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -34214,7 +34219,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21649
+      "UsersEstimate": 21650
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -34230,7 +34235,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 32945
+      "UsersEstimate": 32946
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -34270,7 +34275,7 @@
       "Name": "Hearts are trump",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3294
+      "UsersEstimate": 3295
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_Completed",
@@ -34309,15 +34314,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47064,
+      "Progressed": 47065,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-13T13:59:43.4237185+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:05:21.4449667+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:05:16.837275+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:57:32.3637625+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:05:21.4452074+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:57:31.6139266+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:05:16.8374483+00:00"
 }

@@ -10834,10 +10834,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21674,
       "NumberOfAwardsMax": 8026
+    },
+    {
+      "Time": "2024-01-16T06:58:42.6113322+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21676,
+      "NumberOfAwardsMax": 8026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21674,
+  "NumberOfAwards": 21676,
   "NumberOfAwardsMax": 8026,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10875,7 +10881,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1421
+      "Count": 1423
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10914,9 +10920,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 132963,
+  "EOS_Progressed": 132966,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40084,6 +40090,11 @@
       "Time": "2024-01-16T06:10:11.3077038+00:00",
       "NumProgressed": 132963,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T07:09:58.8683919+00:00",
+      "NumProgressed": 132966,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40223,7 +40234,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9307
+      "UsersEstimate": 9308
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40319,7 +40330,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9307
+      "UsersEstimate": 9308
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40581,9 +40592,9 @@
       "ID": "run_victory_act05",
       "SetID": "64l4lke",
       "Name": "Body of Work",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1330
+      "UsersEstimate": 2659
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -40631,7 +40642,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "combat_kill_collector",
@@ -40671,7 +40682,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -40726,21 +40737,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 132963,
+      "Progressed": 132966,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7832,
+      "Progressed": 7835,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-16T01:47:11.8252941+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:10:11.3077034+00:00",
+  "LastChanged": "2024-01-16T06:58:42.611332+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:09:58.8683916+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:58:47.7249677+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:10:11.3078693+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:58:42.6113327+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:09:58.8686088+00:00"
 }

@@ -14,7 +14,7 @@
 | Soft skin | 50.00% | ~68 |
 | Splash! | 48.00% | ~66 |
 | Squid game | 42.00% | ~58 |
-| Rock Solid | 33.00% | ~45 |
+| Rock Solid | 34.00% | ~47 |
 | Sensitive soul | 33.00% | ~45 |
 | The beast within | 32.00% | ~44 |
 | It's getting dark | 32.00% | ~44 |

@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 734,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -2697,6 +2697,11 @@
       "Time": "2024-01-15T21:11:11.938739+00:00",
       "NumProgressed": 733,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T07:10:00.1173103+00:00",
+      "NumProgressed": 734,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2786,17 +2791,17 @@
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 95
     },
     {
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 29
     },
     {
       "ID": "scoreminrankrp3",
@@ -2827,7 +2832,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 734,
       "Completed": 3
     }
   ],
@@ -2835,8 +2840,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:10:12.7911546+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:10:00.11731+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:58:55.8679939+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:10:12.7911819+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:58:50.5509357+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:10:00.1173412+00:00"
 }

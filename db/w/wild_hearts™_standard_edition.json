@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1373,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4514,9 +4514,9 @@
       "ID": "achievement_11",
       "SetID": "2cpn27e",
       "Name": "Karakuri Isle",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_12",
@@ -4666,9 +4666,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_3",
@@ -4888,8 +4888,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:09:53.2631789+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:09:41.6936031+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:00:02.8741805+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:09:53.2632336+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:59:56.5747313+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:09:41.6936683+00:00"
 }

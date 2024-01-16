@@ -1803,9 +1803,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 87868,
+  "EOS_Progressed": 87874,
   "EOS_Completed": 72,
-  "EOS_NewPlayers": 2361,
+  "EOS_NewPlayers": 2358,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -16923,6 +16923,11 @@
       "Time": "2024-01-16T06:05:48.24823+00:00",
       "NumProgressed": 87868,
       "NumCompleted": 72
+    },
+    {
+      "Time": "2024-01-16T07:05:42.6378163+00:00",
+      "NumProgressed": 87874,
+      "NumCompleted": 72
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -16935,7 +16940,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 40419
+      "UsersEstimate": 40422
     },
     {
       "ID": "10",
@@ -16975,7 +16980,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7029
+      "UsersEstimate": 7030
     },
     {
       "ID": "15",
@@ -16999,7 +17004,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18452
+      "UsersEstimate": 18454
     },
     {
       "ID": "3",
@@ -17015,7 +17020,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7908
+      "UsersEstimate": 7909
     },
     {
       "ID": "5",
@@ -17039,7 +17044,7 @@
       "Name": "More Power to You",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 21088
+      "UsersEstimate": 21090
     },
     {
       "ID": "8",
@@ -17062,7 +17067,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 87868,
+      "Progressed": 87874,
       "Completed": 72
     }
   ],
@@ -17070,8 +17075,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-15T21:57:17.4256838+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:05:48.2482296+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:05:42.637816+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:17.7168256+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:57:44.0311138+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:05:48.2483419+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:57:42.7209575+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:05:42.6379201+00:00"
 }

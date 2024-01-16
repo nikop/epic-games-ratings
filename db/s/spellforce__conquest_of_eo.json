@@ -754,9 +754,9 @@
       "ID": "Adventure_Airship",
       "SetID": "7b9f97e",
       "Name": "Get to the Airship!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Build_First_Lodge",
@@ -1154,9 +1154,9 @@
       "ID": "Max_Reputation_Coldmark",
       "SetID": "7b9f97e",
       "Name": "Friend of Grey Dusk Vale",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Max_Reputation_Gillyshire",
@@ -1234,9 +1234,9 @@
       "ID": "Max_Tower_And_Apprentices",
       "SetID": "7b9f97e",
       "Name": "Magic Academy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "Mine_First_Ore",
@@ -1323,8 +1323,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:09:59.0149919+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:09:47.2176534+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:02:55.9850285+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:09:59.0151237+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:00:35.8785473+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:09:47.217728+00:00"
 }

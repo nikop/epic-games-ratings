@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 338,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4824,6 +4824,11 @@
       "Time": "2024-01-15T13:15:46.2285474+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T07:10:09.2951033+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4835,7 +4840,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "adventurous_2",
@@ -5329,9 +5334,9 @@
       "ID": "taste_of_victory_3",
       "SetID": "53c1p3k",
       "Name": "Taste of Victory 3",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "tomb_raider_1",
@@ -5362,14 +5367,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:10:22.1512947+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:10:09.295103+00:00",
   "LastUpdate_AppInfo": "2024-01-09T19:56:59.3851219+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:57:31.3529231+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:10:22.1513618+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:57:30.5619107+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:10:09.2951849+00:00"
 }

@@ -34,9 +34,9 @@
 | Friend of Bastion | 13.00% | ~19 |
 | Philo's Tale | 12.00% | ~18 |
 | Silver Drift Hollow Mine | 12.00% | ~18 |
+| Magic Academy | 12.00% | ~18 |
 | Break Free | 12.00% | ~18 |
 | A Master of Magic | 11.00% | ~16 |
-| Magic Academy | 11.00% | ~16 |
 | Friend of Windholme | 10.00% | ~15 |
 | Defeat Uram | 9.00% | ~13 |
 | Mage Teacher | 9.00% | ~13 |
@@ -50,11 +50,12 @@
 | Fireforge | 7.00% | ~10 |
 | A Monopoly of Might | 7.00% | ~10 |
 | Friend of Uram Gor | 7.00% | ~10 |
+| Get to the Airship! | 6.00% | ~9 |
 | Defeat Ianna | 6.00% | ~9 |
 | Defeat Raith | 6.00% | ~9 |
 | Master Artificer | 6.00% | ~9 |
 | Heroes | 6.00% | ~9 |
-| Get to the Airship! | 5.00% | ~7 |
+| Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Defeat Undergast | 5.00% | ~7 |
 | Elynn's Tale | 5.00% | ~7 |
 | Lore's Tale | 5.00% | ~7 |
@@ -62,7 +63,6 @@
 | My Friends! | 5.00% | ~7 |
 | Balanced | 5.00% | ~7 |
 | Master Necromancer | 5.00% | ~7 |
-| Friend of Grey Dusk Vale | 5.00% | ~7 |
 | Defeat Yria | 4.00% | ~6 |
 | Lytra's Tale | 4.00% | ~6 |
 | Breaking the circle | 4.00% | ~6 |

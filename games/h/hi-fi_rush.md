@@ -5,28 +5,28 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 55.00% | ~9,483 |
-| Feeling the beat! | 55.00% | ~9,483 |
-| You can pet the cat! | 50.00% | ~8,620 |
-| Who put gears in there? | 41.00% | ~7,069 |
+| Start with a bang! | 55.00% | ~9,484 |
+| Feeling the beat! | 55.00% | ~9,484 |
+| You can pet the cat! | 50.00% | ~8,622 |
+| Who put gears in there? | 41.00% | ~7,070 |
 | Cream of the Crop | 36.00% | ~6,207 |
-| Thanks for the free chip, Peppermint! | 35.00% | ~6,034 |
+| Thanks for the free chip, Peppermint! | 35.00% | ~6,035 |
 | You got this, Peppermint? | 31.00% | ~5,345 |
 | Perfect Parry | 29.00% | ~5,000 |
-| Alright, that felt AWESOME! | 28.00% | ~4,827 |
+| Alright, that felt AWESOME! | 28.00% | ~4,828 |
 | I play my own way! | 24.00% | ~4,138 |
-| This will cost you big time | 23.00% | ~3,965 |
+| This will cost you big time | 23.00% | ~3,966 |
 | Uh, they were broken when I got here | 22.00% | ~3,793 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,621 |
-| Kissing the sky! | 20.00% | ~3,448 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,103 |
+| Kissing the sky! | 20.00% | ~3,449 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,104 |
 | The Negotiator | 17.00% | ~2,931 |
 | Does that say weakpoint? | 17.00% | ~2,931 |
 | You must like calling me in, Chai | 15.00% | ~2,586 |
 | Headliner | 14.00% | ~2,414 |
 | Out in a puff of smoke | 14.00% | ~2,414 |
-| Time to pay up! | 13.00% | ~2,241 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,241 |
+| Time to pay up! | 13.00% | ~2,242 |
+| I look cool. But I can look COOLER. | 13.00% | ~2,242 |
 | Who's the boss now? | 12.00% | ~2,069 |
 | I have to read these things? | 12.00% | ~2,069 |
 | Perfecter Parry-er! | 12.00% | ~2,069 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,241 (Ranked 168)  
+Progressed: 17,243 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 8 (0.05%) (Ranked 341)
 | 2024-01-13 | 17,049 | 8 |
 | 2024-01-14 | 17,157 | 8 |
 | 2024-01-15 | 17,227 | 8 |
-| 2024-01-16 | 17,241 | 8 |
+| 2024-01-16 | 17,243 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

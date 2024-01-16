@@ -9,11 +9,11 @@ Number of Ratings: 68  (23.09.2022)
 | I'm not dead yet | 38.00% | ~12,888 |
 | Overkill | 33.00% | ~11,192 |
 | Vaccine Incoming | 31.00% | ~10,514 |
-| A normal day in Gloomhaven | 29.00% | ~9,835 |
+| A normal day in Gloomhaven | 29.00% | ~9,836 |
 | Spread the plague | 26.00% | ~8,818 |
 | Get over here! | 24.00% | ~8,140 |
 | Just when I thought I was out... | 19.00% | ~6,444 |
-| Mine... All Mine... | 16.00% | ~5,426 |
+| Mine... All Mine... | 16.00% | ~5,427 |
 | Precious! | 15.00% | ~5,087 |
 | Grizzled veteran | 15.00% | ~5,087 |
 | Anatomy Lesson | 14.00% | ~4,748 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Lara Who? | 0.10% | ~34 |
 | Hard-travelling Heroes | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,915 (Ranked 139)  
+Progressed: 33,916 (Ranked 139)  
 Completed: 1 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,17 +193,17 @@ Completed: 1 (0.00%) (Ranked 401)
 | 2024-01-13 | 33,304 | 1 |
 | 2024-01-14 | 33,596 | 1 |
 | 2024-01-15 | 33,858 | 1 |
-| 2024-01-16 | 33,915 | 1 |
+| 2024-01-16 | 33,916 | 1 |
 ## Awards
 Max (Character Customization): 3,618  (Ranked 95)  
-Sum: 8,485 (Ranked 110)  
+Sum: 8,486 (Ranked 110)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,618 |
 | This game has Diverse Characters | 616 |
 | This game has Challenging Combat | 558 |
-| This game is Highly Recommended | 556 |
+| This game is Highly Recommended | 557 |
 | This game is Extremely Fun | 552 |
 | This game is Relaxing | 496 |
 | This game has Quickly Understood Controls | 495 |
@@ -479,3 +479,4 @@ Diff (max vs sum): -15
 | 2024-01-11 | 4.47 | - | 3,617 | 8,475 |
 | 2024-01-13 | 4.47 | - | 3,618 | 8,481 |
 | 2024-01-14 | 4.47 | - | 3,618 | 8,485 |
+| 2024-01-16 | 4.47 | - | 3,618 | 8,486 |

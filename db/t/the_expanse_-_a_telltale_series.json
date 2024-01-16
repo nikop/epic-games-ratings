@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19062,
+  "EOS_Progressed": 19063,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17514,6 +17514,11 @@
       "Time": "2024-01-16T06:05:32.0817222+00:00",
       "NumProgressed": 19062,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T07:05:27.190307+00:00",
+      "NumProgressed": 19063,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17590,7 +17595,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "18",
@@ -17726,7 +17731,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "6",
@@ -17742,7 +17747,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "8",
@@ -17798,20 +17803,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19062,
+      "Progressed": 19063,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5016,
+      "Progressed": 5017,
       "Completed": 1332
     }
   ],
@@ -17819,8 +17824,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:05:32.0817218+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:05:27.1903067+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:59:04.5643039+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:05:32.0818311+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:58:58.9377041+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:05:27.1904287+00:00"
 }

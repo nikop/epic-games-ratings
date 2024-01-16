@@ -6,11 +6,11 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,096 |
+| Malpractice Assurance | 14.00% | ~1,097 |
 | Lost and Found | 9.00% | ~705 |
 | Autodidact | 8.00% | ~10,637 |
-| This Belongs in a Museum | 7.00% | ~9,307 |
-| Overdue Notice | 7.00% | ~9,307 |
+| This Belongs in a Museum | 7.00% | ~9,308 |
+| Overdue Notice | 7.00% | ~9,308 |
 | This guy... again? | 7.00% | ~548 |
 | Serenity Now! | 6.00% | ~7,978 |
 | Creep and Sleep | 6.00% | ~7,978 |
@@ -60,15 +60,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Worldly Traveller | 2.00% | ~2,659 |
 | Eyes Up | 2.00% | ~2,659 |
 | Handled | 2.00% | ~2,659 |
+| Body of Work | 2.00% | ~2,659 |
 | Clearing the Ledger | 1.00% | ~1,330 |
 | Hat Trick | 1.00% | ~1,330 |
 | Shrine of Reflection | 1.00% | ~1,330 |
 | Triage | 1.00% | ~1,330 |
-| Body of Work | 1.00% | ~1,330 |
 | No Mercy | 1.00% | ~78 |
 | Slap on the Wrist | 1.00% | ~78 |
 | For Old Time' Sake | 1.00% | ~78 |
-| Et Tu, Riposte? | 0.90% | ~70 |
+| Et Tu, Riposte? | 0.90% | ~71 |
 | A Life Well Lived | 0.70% | ~931 |
 | The World As It Was | 0.70% | ~931 |
 | Bacon Bits | 0.60% | ~798 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,963 (Ranked 92)  
+Progressed: 132,966 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 5 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,963 | 5 |
+| 2024-01-16 | 132,966 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
-Sum: 21,674 (Ranked 58)  
+Sum: 21,676 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): -7
 | This game is Extremely Fun | 1,524 |
 | This game has Unique Visuals | 1,472 |
 | This game has Amazing Storytelling | 1,451 |
-| This game has Quickly Understood Controls | 1,421 |
+| This game has Quickly Understood Controls | 1,423 |
 | This game has a Creative Community | 1,098 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -722,4 +722,4 @@ Diff (max vs sum): -7
 | 2024-01-13 | 4.68 | - | 8,016 | 21,636 |
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
-| 2024-01-16 | 4.68 | - | 8,026 | 21,674 |
+| 2024-01-16 | 4.68 | - | 8,026 | 21,676 |

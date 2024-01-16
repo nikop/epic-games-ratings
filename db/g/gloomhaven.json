@@ -2901,10 +2901,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 8485,
       "NumberOfAwardsMax": 3618
+    },
+    {
+      "Time": "2024-01-16T06:59:04.7657266+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8486,
+      "NumberOfAwardsMax": 3618
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8485,
+  "NumberOfAwards": 8486,
   "NumberOfAwardsMax": 3618,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2936,7 +2942,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 556
+      "Count": 557
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2981,9 +2987,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 33915,
+  "EOS_Progressed": 33916,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1579,
+  "EOS_NewPlayers": 1574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17191,6 +17197,11 @@
       "Time": "2024-01-16T06:09:53.9421402+00:00",
       "NumProgressed": 33915,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T07:09:42.3898688+00:00",
+      "NumProgressed": 33916,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -17443,7 +17454,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9835
+      "UsersEstimate": 9836
     },
     {
       "ID": "Achievement_Trophy32",
@@ -17499,7 +17510,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     },
     {
       "ID": "Achievement_Trophy39",
@@ -17690,16 +17701,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 33915,
+      "Progressed": 33916,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2024-01-14T21:58:19.363681+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:09:53.9421398+00:00",
+  "LastChanged": "2024-01-16T06:59:04.7657264+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:09:42.3898685+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.646849+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:59:10.7538079+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:09:53.9422766+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:59:04.7657271+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:09:42.3899767+00:00"
 }

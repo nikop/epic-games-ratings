@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535717,
+  "EOS_Progressed": 535718,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29369,6 +29369,11 @@
       "Time": "2024-01-16T06:08:55.5695876+00:00",
       "NumProgressed": 535717,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-16T07:08:45.2871654+00:00",
+      "NumProgressed": 535718,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 57,
@@ -29396,7 +29401,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375002
+      "UsersEstimate": 375003
     },
     {
       "ID": "12",
@@ -29604,7 +29609,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267858
+      "UsersEstimate": 267859
     },
     {
       "ID": "36",
@@ -29716,7 +29721,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 107143
+      "UsersEstimate": 107144
     },
     {
       "ID": "49",
@@ -29740,7 +29745,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 75000
+      "UsersEstimate": 75001
     },
     {
       "ID": "51",
@@ -29835,15 +29840,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535717,
+      "Progressed": 535718,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:08:55.569587+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:08:45.2871651+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:57:33.1031474+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:08:55.5698045+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:57:32.2976034+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:08:45.2873718+00:00"
 }

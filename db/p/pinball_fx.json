@@ -2299,7 +2299,7 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 295448,
+  "EOS_Progressed": 295454,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 2080,
   "EOS_NewCompleters": 0,
@@ -33384,6 +33384,11 @@
       "Time": "2024-01-16T06:04:46.1853051+00:00",
       "NumProgressed": 295448,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T07:04:42.5725488+00:00",
+      "NumProgressed": 295454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -33555,7 +33560,7 @@
       "Name": "I Found it!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -33706,21 +33711,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 295448,
+      "Progressed": 295454,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 13607,
+      "Progressed": 13613,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-15T19:03:11.5947763+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:04:46.1853045+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:04:42.5725482+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.2652437+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:03:41.7152279+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:04:46.1854508+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:03:38.4258388+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:04:42.572727+00:00"
 }

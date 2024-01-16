@@ -13,13 +13,13 @@ Rating: 4.54 (Ranked 551)
 | Bosmang | 14.00% | ~2,669 |
 | Impossible Objects | 14.00% | ~2,669 |
 | Drone Dodger | 13.00% | ~2,478 |
-| Spore Taste | 12.00% | ~2,287 |
+| Spore Taste | 12.00% | ~2,288 |
 | Stogie for Fogey | 11.00% | ~2,097 |
 | Zen Master | 11.00% | ~552 |
 | Call it Even | 10.00% | ~1,906 |
 | Safe Cracker | 10.00% | ~502 |
 | Heal Thy Medic | 9.00% | ~1,716 |
-| Madame Undersecretary | 9.00% | ~451 |
+| Madame Undersecretary | 9.00% | ~452 |
 | Data Archivist | 8.00% | ~1,525 |
 | Drug Gifter | 8.00% | ~1,525 |
 | Khan's Revenge | 8.00% | ~1,525 |
@@ -30,18 +30,18 @@ Rating: 4.54 (Ranked 551)
 | Master Negotiator | 6.00% | ~301 |
 | Data Logger | 5.00% | ~953 |
 | Miraculous Maya | 5.00% | ~953 |
-| Data Master | 4.00% | ~762 |
+| Data Master | 4.00% | ~763 |
 | No Belter Left Behind | 3.00% | ~572 |
 | Brother's Reaper | 2.00% | ~381 |
 | Debris Spree | 2.00% | ~381 |
 | Data Recoverer | 2.00% | ~381 |
 | Urshanabi Hoarder | 1.00% | ~191 |
-| Grave Robber | 0.80% | ~152 |
+| Grave Robber | 0.80% | ~153 |
 | Data Miner | 0.70% | ~133 |
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,062 (Ranked 159)  
+Progressed: 19,063 (Ranked 159)  
 Completed: 66 (0.35%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 66 (0.35%) (Ranked 251)
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
 | 2024-01-15 | 19,055 | 66 |
-| 2024-01-16 | 19,062 | 66 |
+| 2024-01-16 | 19,063 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

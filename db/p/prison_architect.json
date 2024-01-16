@@ -8269,10 +8269,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4911,
       "NumberOfAwardsMax": 640
+    },
+    {
+      "Time": "2024-01-16T06:58:14.4661736+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4912,
+      "NumberOfAwardsMax": 640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4911,
+  "NumberOfAwards": 4912,
   "NumberOfAwardsMax": 640,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8280,7 +8286,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 519
+      "Count": 520
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8343,9 +8349,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 217177,
+  "EOS_Progressed": 217186,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3327,
+  "EOS_NewPlayers": 3317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39478,6 +39484,11 @@
       "Time": "2024-01-16T06:09:56.1309272+00:00",
       "NumProgressed": 217177,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-16T07:09:44.4959932+00:00",
+      "NumProgressed": 217186,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -39505,7 +39516,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "Achievement_11",
@@ -39513,7 +39524,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "Achievement_12",
@@ -39521,7 +39532,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32577
+      "UsersEstimate": 32578
     },
     {
       "ID": "Achievement_13",
@@ -39545,7 +39556,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "Achievement_2",
@@ -39569,7 +39580,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 54294
+      "UsersEstimate": 54296
     },
     {
       "ID": "Achievement_5",
@@ -39601,7 +39612,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19546
+      "UsersEstimate": 19547
     },
     {
       "ID": "Achievement_9",
@@ -39616,15 +39627,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 217177,
+      "Progressed": 217186,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-15T23:57:56.9843082+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:09:56.1309267+00:00",
+  "LastChanged": "2024-01-16T06:58:14.4661734+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:09:44.4959929+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.7759679+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:58:16.6247825+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:09:56.1311089+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:58:14.4661739+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:09:44.4961591+00:00"
 }

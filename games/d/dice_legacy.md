@@ -11,7 +11,7 @@ Rating: 4.29 (Ranked 883)
 | Full house | 7.00% | ~94 |
 | Burn and Pillage | 7.00% | ~94 |
 | Hear me out | 7.00% | ~94 |
-| Listening to the crowd | 6.00% | ~80 |
+| Listening to the crowd | 6.00% | ~81 |
 | The Penitent Ones | 5.00% | ~67 |
 | Greedy | 5.00% | ~67 |
 | Hidden Secrets | 5.00% | ~67 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 883)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341 (Ranked 279)  
+Progressed: 1,342 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 1,339 | 0 |
 | 2024-01-14 | 1,340 | 0 |
 | 2024-01-15 | 1,341 | 0 |
+| 2024-01-16 | 1,342 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

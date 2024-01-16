@@ -2,12 +2,12 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 568,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 377,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1985,9 +1985,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69620,
+  "EOS_Progressed": 69621,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31885,6 +31885,11 @@
       "Time": "2024-01-16T06:06:21.3428421+00:00",
       "NumProgressed": 69620,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T07:06:13.7794852+00:00",
+      "NumProgressed": 69621,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31896,7 +31901,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 38291
+      "UsersEstimate": 38292
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -32152,7 +32157,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22278
+      "UsersEstimate": 22279
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -32192,7 +32197,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8354
+      "UsersEstimate": 8355
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -32360,22 +32365,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25759
+      "UsersEstimate": 25760
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69620,
+      "Progressed": 69621,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-14T16:58:57.2667517+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:06:21.3428418+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:06:13.7794849+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.4776116+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:59:56.2813729+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:06:21.343022+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:59:50.1198142+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:06:13.7797093+00:00"
 }

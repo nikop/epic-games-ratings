@@ -6,27 +6,27 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~995,013 |
-| I Need a Bigger Garage | 63.00% | ~696,509 |
-| Pump my Ride | 47.00% | ~519,618 |
-| Ghostbuster | 34.00% | ~375,894 |
-| Call Roadside Assistance | 18.00% | ~199,003 |
-| That Was Close | 18.00% | ~199,003 |
-| Quickie | 11.00% | ~121,613 |
-| California Dreamer | 7.00% | ~77,390 |
-| Can't Touch This | 5.00% | ~55,278 |
+| The First of Many | 90.00% | ~995,026 |
+| I Need a Bigger Garage | 63.00% | ~696,518 |
+| Pump my Ride | 47.00% | ~519,624 |
+| Ghostbuster | 34.00% | ~375,899 |
+| Call Roadside Assistance | 18.00% | ~199,005 |
+| That Was Close | 18.00% | ~199,005 |
+| Quickie | 11.00% | ~121,614 |
+| California Dreamer | 7.00% | ~77,391 |
+| Can't Touch This | 5.00% | ~55,279 |
 | Carménère Taster | 4.00% | ~44,223 |
 | Comeback | 4.00% | ~44,223 |
-| Driver from Ipanema | 3.00% | ~33,167 |
-| Supersonic | 3.00% | ~33,167 |
-| Marathonist | 3.00% | ~33,167 |
-| Living Legend | 3.00% | ~33,167 |
-| God of Roads | 2.00% | ~22,111 |
-| Pathfinder | 2.00% | ~22,111 |
-| Go-Kart Champion | 2.00% | ~22,111 |
-| Round the Globe | 2.00% | ~22,111 |
-| Completionist | 2.00% | ~22,111 |
-| Harder, Better, Faster, Stronger | 2.00% | ~22,111 |
+| Driver from Ipanema | 3.00% | ~33,168 |
+| Supersonic | 3.00% | ~33,168 |
+| Marathonist | 3.00% | ~33,168 |
+| Living Legend | 3.00% | ~33,168 |
+| God of Roads | 2.00% | ~22,112 |
+| Pathfinder | 2.00% | ~22,112 |
+| Go-Kart Champion | 2.00% | ~22,112 |
+| Round the Globe | 2.00% | ~22,112 |
+| Completionist | 2.00% | ~22,112 |
+| Harder, Better, Faster, Stronger | 2.00% | ~22,112 |
 | Crocodile Hunter | 1.00% | ~11,056 |
 | Old Master | 1.00% | ~11,056 |
 | The Iceman | 1.00% | ~11,056 |
@@ -36,15 +36,15 @@ Number of Ratings: 1,343  (23.09.2022)
 | Brave and Bold | 1.00% | ~11,056 |
 | Volcano Surfer | 0.90% | ~9,950 |
 | Otaku | 0.90% | ~9,950 |
-| Survivor | 0.60% | ~6,633 |
-| King of the World | 0.60% | ~6,633 |
+| Survivor | 0.60% | ~6,634 |
+| King of the World | 0.60% | ~6,634 |
 | Getting Famous | 0.50% | ~5,528 |
 | Now Go Play Outside | 0.30% | ~3,317 |
 | Master of the Racetrack | 0.20% | ~2,211 |
 | Look Mom, No Hands! | 0.20% | ~2,211 |
 | Transporter | 0.10% | ~1,106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,570 (Ranked 15)  
+Progressed: 1,105,584 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 341)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 535 (0.05%) (Ranked 341)
 | 2024-01-13 | 1,104,634 | 535 |
 | 2024-01-14 | 1,105,137 | 535 |
 | 2024-01-15 | 1,105,479 | 535 |
-| 2024-01-16 | 1,105,570 | 535 |
+| 2024-01-16 | 1,105,584 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 309)  
 Sum: 1,653 (Ranked 235)  

@@ -40,7 +40,7 @@ Rating: 4.85 (Ranked 41)
 | Sword Master | 1.00% | ~7 |
 | Weapon Master | 1.00% | ~7 |
 | Witch | 1.00% | ~7 |
-| Assassin | 0.70% | ~5 |
+| Assassin | 0.90% | ~6 |
 | Art Collector | 0.40% | ~3 |
 | Necromancer | 0.40% | ~3 |
 | Cryomancer | 0.30% | ~2 |

@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 568,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 200,
@@ -561,9 +561,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 6451,
+  "EOS_Progressed": 6452,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9891,6 +9891,11 @@
       "Time": "2024-01-16T00:05:33.3910064+00:00",
       "NumProgressed": 6451,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T07:05:36.1635339+00:00",
+      "NumProgressed": 6452,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9950,7 +9955,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -9998,7 +10003,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4193
+      "UsersEstimate": 4194
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10126,7 +10131,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10134,7 +10139,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10164,9 +10169,9 @@
       "ID": "ACH_MISSION_10",
       "SetID": "816efe",
       "Name": "The Spire",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1355
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10206,7 +10211,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10222,7 +10227,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10238,7 +10243,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2064
+      "UsersEstimate": 2065
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10246,7 +10251,7 @@
       "Name": "The More The Merrier",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10254,14 +10259,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6451,
+      "Progressed": 6452,
       "Completed": 3
     }
   ],
@@ -10269,8 +10274,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-14T15:57:23.760525+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:05:41.4635093+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:05:36.1635335+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:58:24.6766255+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:05:41.4635824+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:58:21.9922267+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:05:36.1636033+00:00"
 }

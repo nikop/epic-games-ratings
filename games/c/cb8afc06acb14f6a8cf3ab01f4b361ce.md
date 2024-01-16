@@ -5,9 +5,9 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,304 |
-| The touch of Chaos | 5.00% | ~17,304 |
-| A powerful aura was here | 4.00% | ~13,843 |
+| May the Torchbearer light our way | 5.00% | ~17,305 |
+| The touch of Chaos | 5.00% | ~17,305 |
+| A powerful aura was here | 4.00% | ~13,844 |
 | Let's raise the stakes!! | 2.00% | ~6,922 |
 | Rumors are true | 1.00% | ~3,461 |
 | We'll be careful | 1.00% | ~3,461 |
@@ -18,11 +18,11 @@ Rating: 4.22 (Ranked 955)
 | Bring it on! | 0.80% | ~2,769 |
 | They tricked me | 0.70% | ~2,423 |
 | We need to talk | 0.70% | ~2,423 |
-| I feel drawn to it | 0.60% | ~2,076 |
-| Here to stay | 0.60% | ~2,076 |
-| Counting on you | 0.60% | ~2,076 |
-| This is the end | 0.60% | ~2,076 |
-| We can choose to fight | 0.60% | ~2,076 |
+| I feel drawn to it | 0.60% | ~2,077 |
+| Here to stay | 0.60% | ~2,077 |
+| Counting on you | 0.60% | ~2,077 |
+| This is the end | 0.60% | ~2,077 |
+| We can choose to fight | 0.60% | ~2,077 |
 | I took a risk | 0.50% | ~1,730 |
 | Their fate is sealed | 0.40% | ~1,384 |
 | Not even from this world | 0.30% | ~1,038 |
@@ -46,7 +46,7 @@ Rating: 4.22 (Ranked 955)
 | Something... unnatural | 0.10% | ~346 |
 | We strike as one | 0.10% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,075 (Ranked 59)  
+Progressed: 346,092 (Ranked 59)  
 Completed: 7 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -161,7 +161,7 @@ Completed: 7 (0.00%) (Ranked 401)
 | 2024-01-13 | 345,102 | 7 |
 | 2024-01-14 | 345,610 | 7 |
 | 2024-01-15 | 345,977 | 7 |
-| 2024-01-16 | 346,075 | 7 |
+| 2024-01-16 | 346,092 | 7 |
 ## Awards
 Max (Great Boss Battles): 81  (Ranked 403)  
 Sum: 81 (Ranked 485)  

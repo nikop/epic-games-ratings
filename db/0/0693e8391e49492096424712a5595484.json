@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -3605,8 +3605,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:06:20.3740195+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:06:12.8721463+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:03:01.7474396+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:06:20.3740673+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:00:41.6265441+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:06:12.872191+00:00"
 }

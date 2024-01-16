@@ -1,25 +1,25 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.53 (Ranked 567)  
+Rating: 4.53 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,459 |
-| I've Had Enough! | 15.00% | ~18,520 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,582 |
-| Seasoned Fighter | 9.00% | ~11,112 |
-| All For One and One For All | 8.00% | ~9,878 |
-| Home Sweet Home? | 6.00% | ~7,408 |
-| A New Age | 5.00% | ~6,173 |
+| All Grown Up! | 19.00% | ~23,462 |
+| I've Had Enough! | 15.00% | ~18,522 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,583 |
+| Seasoned Fighter | 9.00% | ~11,113 |
+| All For One and One For All | 8.00% | ~9,879 |
+| Home Sweet Home? | 6.00% | ~7,409 |
+| A New Age | 5.00% | ~6,174 |
 | Oh Baby, A Triple | 3.00% | ~3,704 |
 | Master of Disguise | 3.00% | ~3,704 |
 | Symbiotic | 3.00% | ~3,704 |
-| Battle Hardened | 2.00% | ~2,469 |
-| Double Punch! | 2.00% | ~2,469 |
-| It's Mayhem! | 2.00% | ~2,469 |
-| Right back at'cha | 2.00% | ~2,469 |
-| Spectacular Finisher | 2.00% | ~2,469 |
+| Battle Hardened | 2.00% | ~2,470 |
+| Double Punch! | 2.00% | ~2,470 |
+| It's Mayhem! | 2.00% | ~2,470 |
+| Right back at'cha | 2.00% | ~2,470 |
+| Spectacular Finisher | 2.00% | ~2,470 |
 | Cautious Veteran | 1.00% | ~1,235 |
 | Katamari | 1.00% | ~1,235 |
 | Martyrdom | 1.00% | ~1,235 |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 567)
 | What's Mine is Yours | 0.10% | ~123 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,469 (Ranked 94)  
+Progressed: 123,483 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
 | 2024-01-15 | 123,364 | 0 |
-| 2024-01-16 | 123,469 | 0 |
+| 2024-01-16 | 123,483 | 0 |
 ## Awards
 Max (Great Boss Battles): 56  (Ranked 443)  
 Sum: 56 (Ranked 505)  

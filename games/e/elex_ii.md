@@ -14,7 +14,7 @@ Number of Ratings: 124  (23.09.2022)
 | Military Leader | 29.00% | ~74 |
 | Festival-goer | 28.00% | ~71 |
 | Peddler | 25.00% | ~64 |
-| Commander | 24.00% | ~61 |
+| Commander | 25.00% | ~64 |
 | Irissa's Fate | 20.00% | ~51 |
 | Long-Haul Flyer | 18.00% | ~46 |
 | Family Reunion | 18.00% | ~46 |

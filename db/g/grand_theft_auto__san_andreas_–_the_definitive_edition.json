@@ -6,9 +6,9 @@
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2441,10 +2441,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1097,
       "NumberOfAwardsMax": 677
+    },
+    {
+      "Time": "2024-01-16T06:57:37.5102247+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1100,
+      "NumberOfAwardsMax": 677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1097,
+  "NumberOfAwards": 1100,
   "NumberOfAwardsMax": 677,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2476,7 +2482,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 56
+      "Count": 59
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2509,11 +2515,11 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 19612,
-  "EOS_Completed": 79,
-  "EOS_NewPlayers": 548,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.4,
+  "EOS_Progressed": 19613,
+  "EOS_Completed": 80,
+  "EOS_NewPlayers": 544,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:18.653518+00:00",
@@ -20579,6 +20585,11 @@
       "Time": "2024-01-16T06:10:15.2994934+00:00",
       "NumProgressed": 19612,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2024-01-16T07:10:02.5794479+00:00",
+      "NumProgressed": 19613,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20590,7 +20601,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15886
+      "UsersEstimate": 15887
     },
     {
       "ID": "ACH02",
@@ -20782,7 +20793,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH26",
@@ -20869,16 +20880,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19612,
-      "Completed": 79
+      "Progressed": 19613,
+      "Completed": 80
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-16T01:46:05.4324408+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:10:15.2994929+00:00",
+  "LastChanged": "2024-01-16T06:57:37.5102245+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:10:02.5794477+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-16T05:57:38.533081+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:10:15.2995933+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:57:37.510225+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:10:02.5795514+00:00"
 }

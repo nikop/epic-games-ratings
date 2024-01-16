@@ -2,7 +2,7 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 568,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 107,
@@ -3595,9 +3595,9 @@
       "Count": 263
     }
   ],
-  "EOS_Progressed": 90752,
+  "EOS_Progressed": 90754,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 905,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -33920,6 +33920,11 @@
       "Time": "2024-01-16T06:04:36.8865389+00:00",
       "NumProgressed": 90752,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-16T07:04:33.6843577+00:00",
+      "NumProgressed": 90754,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -33931,7 +33936,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12705
+      "UsersEstimate": 12706
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -34011,7 +34016,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33578
+      "UsersEstimate": 33579
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34051,7 +34056,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16335
+      "UsersEstimate": 16336
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -34083,7 +34088,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 18150
+      "UsersEstimate": 18151
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -34155,7 +34160,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16335
+      "UsersEstimate": 16336
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -34170,15 +34175,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90752,
+      "Progressed": 90754,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-15T22:59:55.6693191+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:04:36.8865385+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:04:33.6843573+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:00:04.5161058+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:04:36.8866702+00:00"
+  "LastUpdate_Ratings": "2024-01-16T06:59:58.1932147+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:04:33.6844903+00:00"
 }

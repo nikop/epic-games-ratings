@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80181,
+  "EOS_Progressed": 80182,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 3,
@@ -30279,6 +30279,11 @@
       "Time": "2024-01-16T06:09:55.0727783+00:00",
       "NumProgressed": 80181,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-16T07:09:43.5414729+00:00",
+      "NumProgressed": 80182,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 24,
@@ -30306,7 +30311,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55325
+      "UsersEstimate": 55326
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30346,7 +30351,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23252
+      "UsersEstimate": 23253
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -30386,7 +30391,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6414
+      "UsersEstimate": 6415
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -30402,7 +30407,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 6414
+      "UsersEstimate": 6415
     },
     {
       "ID": "OLD_COMPANION",
@@ -30426,7 +30431,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6414
+      "UsersEstimate": 6415
     },
     {
       "ID": "SPIRIT_BARK",
@@ -30481,7 +30486,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80181,
+      "Progressed": 80182,
       "Completed": 434
     }
   ],
@@ -30489,8 +30494,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-16T06:09:55.0727779+00:00",
+  "LastChanged_Achievements": "2024-01-16T07:09:43.5414726+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:00:40.5732055+00:00",
-  "LastUpdate_Achievements": "2024-01-16T06:09:55.0729458+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:00:32.8204279+00:00",
+  "LastUpdate_Achievements": "2024-01-16T07:09:43.5416398+00:00"
 }
