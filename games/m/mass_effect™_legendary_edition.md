@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,958 |
+| Distinguished Service Medal | 90.00% | ~3,959 |
 | Spectre Inductee | 66.00% | ~2,903 |
 | Medal of Exploration I | 56.00% | ~2,463 |
 | Recruit | 52.00% | ~2,287 |
 | Search and Rescue | 51.00% | ~2,243 |
-| Quarian Ally | 49.00% | ~2,155 |
-| Medal of Heroism | 44.00% | ~1,935 |
-| Honorarium of Corporate Service | 44.00% | ~1,935 |
-| Turian Ally | 40.00% | ~1,759 |
-| Medal of Exploration II | 39.00% | ~1,715 |
-| Council Legion of Merit | 38.00% | ~1,671 |
-| Missing in Action | 37.00% | ~1,627 |
-| Medal of Honor | 36.00% | ~1,583 |
-| Soldier Ally | 36.00% | ~1,583 |
-| Soldier | 35.00% | ~1,539 |
-| Meritorious Service Medal | 35.00% | ~1,539 |
-| Charismatic | 35.00% | ~1,539 |
-| Asari Ally | 34.00% | ~1,495 |
-| Very Elusive | 34.00% | ~1,495 |
-| Colonial Savior | 32.00% | ~1,407 |
-| Medal of Exploration III | 31.00% | ~1,363 |
-| Principled | 31.00% | ~1,363 |
-| Merciless | 31.00% | ~1,363 |
-| Scientist | 31.00% | ~1,363 |
-| Paramour I | 30.00% | ~1,319 |
-| Sentinel Ally | 30.00% | ~1,319 |
-| Krogan Ally | 30.00% | ~1,319 |
-| Scholar | 30.00% | ~1,319 |
-| The Archangel | 29.00% | ~1,275 |
-| The Professor | 29.00% | ~1,275 |
-| Head Hunter | 29.00% | ~1,275 |
-| The Convict | 27.00% | ~1,187 |
-| Operative | 27.00% | ~1,187 |
-| Power Full | 27.00% | ~1,187 |
-| Colony Defense | 26.00% | ~1,143 |
-| The Krogan | 26.00% | ~1,143 |
+| Quarian Ally | 49.00% | ~2,156 |
+| Medal of Heroism | 44.00% | ~1,936 |
+| Honorarium of Corporate Service | 44.00% | ~1,936 |
+| Turian Ally | 40.00% | ~1,760 |
+| Medal of Exploration II | 39.00% | ~1,716 |
+| Council Legion of Merit | 38.00% | ~1,672 |
+| Missing in Action | 37.00% | ~1,628 |
+| Medal of Honor | 36.00% | ~1,584 |
+| Soldier Ally | 36.00% | ~1,584 |
+| Soldier | 35.00% | ~1,540 |
+| Meritorious Service Medal | 35.00% | ~1,540 |
+| Charismatic | 35.00% | ~1,540 |
+| Asari Ally | 34.00% | ~1,496 |
+| Very Elusive | 34.00% | ~1,496 |
+| Colonial Savior | 32.00% | ~1,408 |
+| Medal of Exploration III | 31.00% | ~1,364 |
+| Principled | 31.00% | ~1,364 |
+| Merciless | 31.00% | ~1,364 |
+| Scientist | 31.00% | ~1,364 |
+| Paramour I | 30.00% | ~1,320 |
+| Sentinel Ally | 30.00% | ~1,320 |
+| Krogan Ally | 30.00% | ~1,320 |
+| Scholar | 30.00% | ~1,320 |
+| The Archangel | 29.00% | ~1,276 |
+| The Professor | 29.00% | ~1,276 |
+| Head Hunter | 29.00% | ~1,276 |
+| The Convict | 27.00% | ~1,188 |
+| Operative | 27.00% | ~1,188 |
+| Power Full | 27.00% | ~1,188 |
+| Colony Defense | 26.00% | ~1,144 |
+| The Krogan | 26.00% | ~1,144 |
 | Veteran | 25.00% | ~1,100 |
 | Broke, Blind, and Bedlam | 25.00% | ~1,100 |
 | Driven | 24.00% | ~1,056 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,398 (Ranked 212)  
+Progressed: 4,399 (Ranked 212)  
 Completed: 13 (0.30%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,4 +255,4 @@ Completed: 13 (0.30%) (Ranked 259)
 | 2024-01-13 | 4,295 | 13 |
 | 2024-01-14 | 4,356 | 13 |
 | 2024-01-15 | 4,392 | 13 |
-| 2024-01-16 | 4,398 | 13 |
+| 2024-01-16 | 4,399 | 13 |

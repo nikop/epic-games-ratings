@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,018 |
-| Biggest Communism Builder | 23.00% | ~32,050 |
-| The World's Most Laughable Centrist | 20.00% | ~27,870 |
-| Il Coppo Del'Arte! | 18.00% | ~25,083 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,296 |
-| Hyperstellar Law Official | 15.00% | ~20,902 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,509 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,509 |
+| Goodest Of The Good Cops | 28.00% | ~39,020 |
+| Biggest Communism Builder | 23.00% | ~32,052 |
+| The World's Most Laughable Centrist | 20.00% | ~27,871 |
+| Il Coppo Del'Arte! | 18.00% | ~25,084 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,297 |
+| Hyperstellar Law Official | 15.00% | ~20,903 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,510 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,510 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~18,116 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,328 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,329 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,542 |
 | Unbelievably Boring **** | 8.00% | ~11,148 |
 | Enemy Of The Physical Realm | 8.00% | ~11,148 |
 | Hardie's Heroes | 6.00% | ~8,361 |
 | The Lawbringer | 4.00% | ~5,574 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,574 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,180 |
-| Bother Kim After Hours | 3.00% | ~4,180 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,181 |
+| Bother Kim After Hours | 3.00% | ~4,181 |
 | Baddest Of the Bad Cops | 2.00% | ~2,787 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,787 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,787 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,350 (Ranked 91)  
+Progressed: 139,356 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 29 (0.02%) (Ranked 366)
 | 2024-01-13 | 139,075 | 29 |
 | 2024-01-14 | 139,209 | 29 |
 | 2024-01-15 | 139,320 | 29 |
-| 2024-01-16 | 139,350 | 29 |
+| 2024-01-16 | 139,356 | 29 |
 ## Awards
 Max (Character Customization): 767  (Ranked 191)  
 Sum: 1,169 (Ranked 266)  

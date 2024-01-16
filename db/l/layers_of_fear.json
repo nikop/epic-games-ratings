@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1474,9 +1474,9 @@
       "ID": "a_new_way",
       "SetID": "f2im8d",
       "Name": "A new way",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "another_perspective",
@@ -1754,9 +1754,9 @@
       "ID": "playtime",
       "SetID": "f2im8d",
       "Name": "Playtime",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "preferred_parent",
@@ -1897,8 +1897,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:09:03.0416009+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:08:47.3714301+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:58:08.0461078+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:09:03.0416462+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:57:56.5847562+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:08:47.3714716+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,533 |
-| Safety in the Storm | 23.00% | ~9,571 |
-| A Better Idea | 23.00% | ~9,571 |
+| Fracture at Fostar Haven | 95.00% | ~39,536 |
+| Safety in the Storm | 23.00% | ~9,572 |
+| A Better Idea | 23.00% | ~9,572 |
 | Begin the Ceremony | 19.00% | ~7,907 |
 | Mission Accomplished | 18.00% | ~7,491 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,242 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,243 |
 | A Starfighter of Your Own | 13.00% | ~5,410 |
 | Asset Secured | 12.00% | ~4,994 |
 | Unkillable | 7.00% | ~2,913 |
@@ -21,11 +21,11 @@
 | Back From the Brink | 4.00% | ~1,665 |
 | Flames Over Mon Cala | 4.00% | ~1,665 |
 | A Promising Career | 4.00% | ~1,665 |
-| Great Shot, Kid | 3.00% | ~1,248 |
-| Stronger Together | 3.00% | ~1,248 |
-| Temporary Guardian | 3.00% | ~1,248 |
-| Baited | 3.00% | ~1,248 |
-| Punch It | 3.00% | ~1,248 |
+| Great Shot, Kid | 3.00% | ~1,249 |
+| Stronger Together | 3.00% | ~1,249 |
+| Temporary Guardian | 3.00% | ~1,249 |
+| Baited | 3.00% | ~1,249 |
+| Punch It | 3.00% | ~1,249 |
 | Stun 'Em | 2.00% | ~832 |
 | Squadron Hunter | 2.00% | ~832 |
 | Combat Pilot | 2.00% | ~832 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~42 |
 | Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,614 (Ranked 135)  
+Progressed: 41,617 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 3 (0.01%) (Ranked 377)
 | 2024-01-13 | 40,936 | 3 |
 | 2024-01-14 | 41,296 | 3 |
 | 2024-01-15 | 41,558 | 3 |
-| 2024-01-16 | 41,614 | 3 |
+| 2024-01-16 | 41,617 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

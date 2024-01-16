@@ -7,9 +7,9 @@ Rating: 4.19 (Ranked 975)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,430 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,172 |
-| Loose Ends | 33.00% | ~27,343 |
+| Loose Ends | 33.00% | ~27,344 |
 | To the Victor Go the Spoils | 27.00% | ~22,372 |
-| Knighthood | 26.00% | ~21,543 |
+| Knighthood | 26.00% | ~21,544 |
 | Get ReQ'd | 24.00% | ~19,886 |
 | Whispered Words | 24.00% | ~19,886 |
 | The Batman Family | 22.00% | ~18,229 |
@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 975)
 | Snow Problem | 19.00% | ~15,743 |
 | The Show Mud Go On | 17.00% | ~14,086 |
 | From Inside Gotham's Walls | 17.00% | ~14,086 |
-| Protector of Gotham | 16.00% | ~13,257 |
+| Protector of Gotham | 16.00% | ~13,258 |
 | In Your Element | 15.00% | ~12,429 |
 | Universal Health Scare | 15.00% | ~12,429 |
 | Rock and a Hard Place | 14.00% | ~11,600 |
@@ -34,7 +34,7 @@ Rating: 4.19 (Ranked 975)
 | Not On My Watch | 12.00% | ~9,943 |
 | Bulldozed | 12.00% | ~9,943 |
 | Gotham Knight | 12.00% | ~9,943 |
-| Gotham City Confidential | 11.00% | ~9,114 |
+| Gotham City Confidential | 11.00% | ~9,115 |
 | Out of Their League | 9.00% | ~7,457 |
 | Drone You Out | 9.00% | ~7,457 |
 | Solid Alibi | 8.00% | ~6,629 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 975)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,859 (Ranked 110)  
+Progressed: 82,860 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 135 (0.16%) (Ranked 289)
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
-| 2024-01-16 | 82,859 | 135 |
+| 2024-01-16 | 82,860 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 102)  
-Sum: 5,486 (Ranked 143)  
+Sum: 5,487 (Ranked 143)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -41
 | This game is Great for Beginners | 291 |
 | This game is Relaxing | 290 |
 | This game is Extremely Fun | 289 |
-| This game has Quickly Understood Controls | 284 |
+| This game has Quickly Understood Controls | 285 |
 | This game has Amazing Characters | 279 |
 | This game has Amazing Storytelling | 278 |
 | This game is Highly Recommended | 271 |
@@ -682,4 +682,4 @@ Diff (max vs sum): -41
 | 2024-01-13 | 4.19 | 3,191 | 5,452 |
 | 2024-01-14 | 4.19 | 3,204 | 5,475 |
 | 2024-01-15 | 4.19 | 3,204 | 5,479 |
-| 2024-01-16 | 4.19 | 3,211 | 5,486 |
+| 2024-01-16 | 4.19 | 3,211 | 5,487 |

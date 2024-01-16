@@ -9,13 +9,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 6.00% | ~45,665 |
 | Life is your teacher | 5.00% | ~38,054 |
 | Lightning Hands | 5.00% | ~38,054 |
-| The Assault | 4.00% | ~30,443 |
-| The Hateful Pole Fighter | 3.00% | ~22,832 |
-| Stuntmaster | 3.00% | ~22,832 |
-| Street Fighting | 3.00% | ~22,832 |
-| State of constant learning | 3.00% | ~22,832 |
-| Qi Gong: Essence | 3.00% | ~22,832 |
-| Old Child | 3.00% | ~22,832 |
+| The Assault | 4.00% | ~30,444 |
+| The Hateful Pole Fighter | 3.00% | ~22,833 |
+| Stuntmaster | 3.00% | ~22,833 |
+| Street Fighting | 3.00% | ~22,833 |
+| State of constant learning | 3.00% | ~22,833 |
+| Qi Gong: Essence | 3.00% | ~22,833 |
+| Old Child | 3.00% | ~22,833 |
 | A Lady's Blood in the Snow | 2.00% | ~15,222 |
 | Lady Wing Chun | 2.00% | ~15,222 |
 | Furious Fists | 2.00% | ~15,222 |
@@ -36,9 +36,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~5,328 |
 | Detective Story | 0.70% | ~5,328 |
 | Martial Hub | 0.70% | ~493 |
-| Source of Flying Daggers | 0.60% | ~4,566 |
-| Iron Money | 0.60% | ~4,566 |
-| Sword Stained With Blood | 0.60% | ~4,566 |
+| Source of Flying Daggers | 0.60% | ~4,567 |
+| Iron Money | 0.60% | ~4,567 |
+| Sword Stained With Blood | 0.60% | ~4,567 |
 | Bloody Sport | 0.60% | ~422 |
 | Legendary Talismans of Wuxing | 0.50% | ~3,805 |
 | Prodigal Child | 0.50% | ~3,805 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~70 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,080 (Ranked 26)  
+Progressed: 761,088 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-13 | 760,418 | 12,986 |
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
-| 2024-01-16 | 761,080 | 12,989 |
+| 2024-01-16 | 761,088 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,215  (Ranked 57)  
 Sum: 12,763 (Ranked 86)  

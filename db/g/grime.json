@@ -3,8 +3,8 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 427,
-  "Ranking_Popularity": 431,
-  "Ranking_PopularitySum": 343,
+  "Ranking_Popularity": 432,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 95,
@@ -1897,9 +1897,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168433,
+  "EOS_Progressed": 168439,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1081,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23272,6 +23272,11 @@
       "Time": "2024-01-16T08:04:10.4644254+00:00",
       "NumProgressed": 168433,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-16T09:03:38.1973169+00:00",
+      "NumProgressed": 168439,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23348,7 +23353,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23428,7 +23433,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -23436,7 +23441,7 @@
       "Name": "Jawstag",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -23460,7 +23465,7 @@
       "Name": "Feast",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -23500,7 +23505,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6737
+      "UsersEstimate": 6738
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23651,21 +23656,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168016,
+      "Progressed": 168022,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168433,
+      "Progressed": 168439,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-16T05:59:05.5507651+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:04:10.464425+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:03:38.1973166+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:59:11.0283356+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:04:10.4645284+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:59:02.5191145+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:03:38.1974505+00:00"
 }

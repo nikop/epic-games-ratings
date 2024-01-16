@@ -5241,10 +5241,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5486,
       "NumberOfAwardsMax": 3211
+    },
+    {
+      "Time": "2024-01-16T08:59:21.3312473+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5487,
+      "NumberOfAwardsMax": 3211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5486,
+  "NumberOfAwards": 5487,
   "NumberOfAwardsMax": 3211,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5258,7 +5264,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 284
+      "Count": 285
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5309,9 +5315,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82859,
+  "EOS_Progressed": 82860,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30424,6 +30430,11 @@
       "Time": "2024-01-16T08:04:33.9970446+00:00",
       "NumProgressed": 82859,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-16T09:04:01.8133867+00:00",
+      "NumProgressed": 82860,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30531,7 +30542,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13257
+      "UsersEstimate": 13258
     },
     {
       "ID": "CLAYFACE_1",
@@ -30811,7 +30822,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21543
+      "UsersEstimate": 21544
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -30827,7 +30838,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27343
+      "UsersEstimate": 27344
     },
     {
       "ID": "MYSTERY_02",
@@ -30891,7 +30902,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9114
+      "UsersEstimate": 9115
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -30922,22 +30933,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82859,
+      "Progressed": 82860,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53139,
+      "Progressed": 53140,
       "Completed": 2679
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-16T01:47:48.4748464+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:04:33.9970443+00:00",
+  "LastChanged": "2024-01-16T08:59:21.3312471+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:04:01.8133862+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:59:29.1553953+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:04:33.9971761+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:59:21.3312476+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:04:01.813564+00:00"
 }

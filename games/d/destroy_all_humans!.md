@@ -20,10 +20,10 @@ Number of Ratings: 85  (23.09.2022)
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~242 |
 | Bodied Sattva | 38.00% | ~192 |
 | Forbidden Donut | 37.00% | ~187 |
-| Freshly Squeezed | 36.00% | ~182 |
+| Freshly Squeezed | 37.00% | ~187 |
 | Upgreatest | 36.00% | ~182 |
+| Deincarnated | 30.00% | ~152 |
 | Furon Fashion | 30.00% | ~152 |
-| Deincarnated | 29.00% | ~146 |
 | Rock of the Bay | 28.00% | ~141 |
 | Trans-Siberian Express | 26.00% | ~131 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~106 |
@@ -36,7 +36,7 @@ Number of Ratings: 85  (23.09.2022)
 | Albion Bridge Is for Falling Down | 15.00% | ~76 |
 | Dusted | 13.00% | ~66 |
 | Higher Than the Futen Zoku | 12.00% | ~61 |
-| Scuttled | 10.00% | ~50 |
+| Scuttled | 11.00% | ~56 |
 | PK Slam Dunk | 10.00% | ~50 |
 | Arty Facts | 10.00% | ~50 |
 | Cult Following | 6.00% | ~30 |

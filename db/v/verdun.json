@@ -3,7 +3,7 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 568,
-  "Ranking_Popularity": 374,
+  "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 377,
@@ -1985,9 +1985,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69621,
+  "EOS_Progressed": 69624,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31890,6 +31890,11 @@
       "Time": "2024-01-16T07:06:13.7794852+00:00",
       "NumProgressed": 69621,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T09:05:49.4694301+00:00",
+      "NumProgressed": 69624,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -31901,7 +31906,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 38292
+      "UsersEstimate": 38293
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -32021,7 +32026,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16709
+      "UsersEstimate": 16710
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -32133,7 +32138,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18101
+      "UsersEstimate": 18102
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -32157,7 +32162,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22279
+      "UsersEstimate": 22280
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -32165,7 +32170,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27152
+      "UsersEstimate": 27153
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -32189,7 +32194,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 43861
+      "UsersEstimate": 43863
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -32213,7 +32218,7 @@
       "Name": "Basic Training",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 16013
+      "UsersEstimate": 16014
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -32237,7 +32242,7 @@
       "Name": "Semper Fidelis!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS1",
@@ -32245,7 +32250,7 @@
       "Name": "Manual Labour I",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16709
+      "UsersEstimate": 16710
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -32269,7 +32274,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 54304
+      "UsersEstimate": 54307
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -32285,7 +32290,7 @@
       "Name": "Honneur et Patrie",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "VERDUN_ACH_SAMEFRIEND1",
@@ -32365,22 +32370,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25760
+      "UsersEstimate": 25761
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69621,
+      "Progressed": 69624,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-14T16:58:57.2667517+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:06:23.8239413+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:05:49.4694299+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.4776116+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:00:00.9126227+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:06:23.8241192+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:59:58.6763695+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:05:49.4696098+00:00"
 }

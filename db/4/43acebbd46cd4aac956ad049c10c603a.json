@@ -3,7 +3,7 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 360,
+  "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 298,
@@ -343,7 +343,7 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1420,
+  "EOS_Progressed": 1421,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -4158,6 +4158,11 @@
       "Time": "2024-01-16T05:06:32.0429628+00:00",
       "NumProgressed": 1420,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T09:05:04.3122754+00:00",
+      "NumProgressed": 1421,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4210,7 +4215,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "BreakTheLoop",
@@ -4226,15 +4231,15 @@
       "Name": "Bridge Builder",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 242
     },
     {
       "ID": "Chicken",
@@ -4250,7 +4255,7 @@
       "Name": "Circular Oasis",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "DesolateIsland",
@@ -4354,7 +4359,7 @@
       "Name": "Lord of the Files",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "LostMarshes",
@@ -4370,7 +4375,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Mnemosyne",
@@ -4474,7 +4479,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Signatory",
@@ -4594,7 +4599,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "VerdantCanyon",
@@ -4602,7 +4607,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Wanderers",
@@ -4610,7 +4615,7 @@
       "Name": "Wanderers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "WesternDelta",
@@ -4641,7 +4646,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1420,
+      "Progressed": 1421,
       "Completed": 2
     }
   ],
@@ -4649,8 +4654,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:05:38.7951503+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:05:04.3122749+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:58:40.9063802+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:05:38.7952245+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:58:33.1340685+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:05:04.3123343+00:00"
 }

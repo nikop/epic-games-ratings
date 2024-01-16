@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4288,
+  "EOS_Progressed": 4289,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9738,6 +9738,11 @@
       "Time": "2024-01-15T23:10:11.1329858+00:00",
       "NumProgressed": 4288,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-16T09:09:31.0641291+00:00",
+      "NumProgressed": 4289,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9829,7 +9834,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9957,7 +9962,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -9997,7 +10002,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10117,7 +10122,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1286
+      "UsersEstimate": 1287
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10316,13 +10321,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4239,
+      "Progressed": 4240,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4288,
+      "Progressed": 4289,
       "Completed": 11
     }
   ],
@@ -10330,8 +10335,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:09:47.531901+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:09:31.064129+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:58:00.9135507+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:09:47.5320105+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:57:48.0918213+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:09:31.0642553+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3595,9 +3595,9 @@
       "Count": 263
     }
   ],
-  "EOS_Progressed": 90760,
+  "EOS_Progressed": 90761,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 908,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -33930,6 +33930,11 @@
       "Time": "2024-01-16T08:04:38.126689+00:00",
       "NumProgressed": 90760,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-16T09:04:05.8114489+00:00",
+      "NumProgressed": 90761,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -33941,7 +33946,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12706
+      "UsersEstimate": 12707
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -34013,7 +34018,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 17244
+      "UsersEstimate": 17245
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -34021,7 +34026,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33581
+      "UsersEstimate": 33582
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34037,7 +34042,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29043
+      "UsersEstimate": 29044
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -34085,7 +34090,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 17244
+      "UsersEstimate": 17245
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -34117,7 +34122,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30858
+      "UsersEstimate": 30859
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -34180,15 +34185,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90760,
+      "Progressed": 90761,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-15T22:59:55.6693191+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:04:38.1266886+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:04:05.8114486+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:00:08.8507259+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:04:38.1268407+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:00:05.9743025+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:04:05.8115946+00:00"
 }

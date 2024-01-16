@@ -6,22 +6,22 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~316,229 |
-| Full garage | 61.00% | ~264,247 |
-| To the eyeballs! | 51.00% | ~220,927 |
-| Individual delivery | 47.00% | ~203,600 |
-| Non-Stop | 45.00% | ~194,936 |
-| Juggler | 36.00% | ~155,949 |
-| Forgot something | 35.00% | ~151,617 |
-| Close call! | 31.00% | ~134,289 |
-| Get out my way | 28.00% | ~121,293 |
+| Dealmaker | 73.00% | ~316,232 |
+| Full garage | 61.00% | ~264,248 |
+| To the eyeballs! | 51.00% | ~220,929 |
+| Individual delivery | 47.00% | ~203,601 |
+| Non-Stop | 45.00% | ~194,937 |
+| Juggler | 36.00% | ~155,950 |
+| Forgot something | 35.00% | ~151,618 |
+| Close call! | 31.00% | ~134,290 |
+| Get out my way | 28.00% | ~121,294 |
 | Common cause | 26.00% | ~112,630 |
 | Critical care | 26.00% | ~112,630 |
-| Mega-railroad | 23.00% | ~99,634 |
-| Upgrade complete | 23.00% | ~99,634 |
-| Just in time! | 18.00% | ~77,974 |
-| Builder | 17.00% | ~73,642 |
-| Long Haul | 17.00% | ~73,530 |
+| Mega-railroad | 23.00% | ~99,635 |
+| Upgrade complete | 23.00% | ~99,635 |
+| Just in time! | 18.00% | ~77,975 |
+| Builder | 17.00% | ~73,643 |
+| Long Haul | 17.00% | ~73,531 |
 | Steam Age | 16.00% | ~69,311 |
 | Multilevel road | 15.00% | ~64,979 |
 | Bridgemania | 14.00% | ~60,647 |
@@ -33,10 +33,10 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 10.00% | ~43,319 |
 | Industrial Age | 9.00% | ~38,987 |
 | Just One More Valley | 9.00% | ~38,928 |
-| Prick of conscience | 8.00% | ~34,655 |
-| Missed it! | 7.00% | ~30,323 |
-| At the last moment! | 6.00% | ~25,991 |
-| Overseer | 6.00% | ~25,991 |
+| Prick of conscience | 8.00% | ~34,656 |
+| Missed it! | 7.00% | ~30,324 |
+| At the last moment! | 6.00% | ~25,992 |
+| Overseer | 6.00% | ~25,992 |
 | Highlander | 5.00% | ~21,660 |
 | Jewelry accuracy | 5.00% | ~21,660 |
 | Stargazer | 5.00% | ~21,660 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,191 (Ranked 46)  
+Progressed: 433,194 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 24 (0.01%) (Ranked 377)
 | 2024-01-13 | 432,639 | 24 |
 | 2024-01-14 | 432,946 | 24 |
 | 2024-01-15 | 433,135 | 24 |
-| 2024-01-16 | 433,191 | 24 |
+| 2024-01-16 | 433,194 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,055  (Ranked 159)  
 Sum: 2,181 (Ranked 215)  

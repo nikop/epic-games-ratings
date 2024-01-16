@@ -303,8 +303,8 @@ Completed: 2 (0.05%) (Ranked 341)
 | 2024-01-15 | 3,683 | 2 |
 | 2024-01-16 | 3,685 | 2 |
 ## Awards
-Max (Great for Quick Sessions): 64  (Ranked 428)  
-Sum: 588 (Ranked 328)  
+Max (Great for Quick Sessions): 64  (Ranked 429)  
+Sum: 588 (Ranked 329)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |

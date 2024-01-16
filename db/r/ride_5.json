@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -9289,9 +9289,9 @@
       "ID": "ML_ACHIEVEMENT_44",
       "SetID": "c7hf6a4",
       "Name": "Overtaking the Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 108
     },
     {
       "ID": "ML_ACHIEVEMENT_45",
@@ -9346,8 +9346,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:03:44.6317352+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:03:11.810605+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:57:31.0111645+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:03:44.6318379+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:57:20.0314216+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:03:11.8106993+00:00"
 }

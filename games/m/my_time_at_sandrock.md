@@ -8,15 +8,15 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 209.00% | ~1,927 |
 | Super Spelunker | 154.00% | ~1,420 |
-| Iron Chef | 144.00% | ~1,328 |
+| Iron Chef | 145.00% | ~1,337 |
 | Officially Official | 126.00% | ~1,162 |
 | The Little Wood that Could | 124.00% | ~1,143 |
 | On that Grindset | 118.00% | ~1,088 |
 | Greeno-B-Gone | 112.00% | ~1,033 |
 | Better Late than Never | 107.00% | ~987 |
 | Got Served | 98.00% | ~904 |
+| Diamonds are Forever | 98.00% | ~904 |
 | One of the Cool Kids | 97.00% | ~894 |
-| Diamonds are Forever | 97.00% | ~894 |
 | Knowledge is Power | 96.00% | ~885 |
 | Pack Mule | 96.00% | ~885 |
 | Mole Masher | 95.00% | ~876 |

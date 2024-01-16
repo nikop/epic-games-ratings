@@ -3,7 +3,7 @@
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
   "Ranking_Rating": 616,
-  "Ranking_Popularity": 395,
+  "Ranking_Popularity": 396,
   "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 401,
@@ -1207,11 +1207,17 @@
       "Rating": 4.5,
       "NumberOfAwards": 618,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2024-01-16T09:00:23.2663131+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 619,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 618,
-  "NumberOfAwardsMax": 90,
+  "NumberOfAwards": 619,
+  "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -1242,7 +1248,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1292,8 +1298,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-01-15T07:00:00.2931752+00:00",
+  "LastChanged": "2024-01-16T09:00:23.266313+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:04.5566018+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:00:27.9410944+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:06:19.6087947+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:00:23.2663134+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:05:45.2298967+00:00"
 }

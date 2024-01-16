@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,578 |
-| Skillful | 7.00% | ~82,578 |
-| Zealous | 6.00% | ~70,781 |
-| Not half bad | 5.00% | ~58,984 |
-| Apt Survivor | 5.00% | ~58,984 |
-| Survival Treasures | 5.00% | ~58,984 |
-| Make Some Noise | 5.00% | ~58,984 |
-| No one left behind | 4.00% | ~47,187 |
-| Handyman | 4.00% | ~47,187 |
-| I | 4.00% | ~47,187 |
-| Sorted | 4.00% | ~47,187 |
-| Resurgence | 4.00% | ~47,187 |
-| Preemptive Strike | 4.00% | ~47,187 |
-| The Grand Sacrifice | 3.00% | ~35,391 |
-| Agonizing Escape | 3.00% | ~35,391 |
-| Backdoor Escape | 3.00% | ~35,391 |
-| I've got your back | 3.00% | ~35,391 |
-| Medic | 3.00% | ~35,391 |
-| Perfect Escape | 3.00% | ~35,391 |
-| Perfect Killing | 3.00% | ~35,391 |
-| Bloody Millionaire | 3.00% | ~35,391 |
-| Risk it all | 3.00% | ~35,391 |
-| II | 3.00% | ~35,391 |
-| Engineer | 3.00% | ~35,391 |
-| Healthy Obsession | 3.00% | ~35,391 |
-| Close Shave | 3.00% | ~35,391 |
-| Humanitarian | 3.00% | ~35,391 |
+| It wakes | 7.00% | ~82,581 |
+| Skillful | 7.00% | ~82,581 |
+| Zealous | 6.00% | ~70,783 |
+| Not half bad | 5.00% | ~58,986 |
+| Apt Survivor | 5.00% | ~58,986 |
+| Survival Treasures | 5.00% | ~58,986 |
+| Make Some Noise | 5.00% | ~58,986 |
+| No one left behind | 4.00% | ~47,189 |
+| Handyman | 4.00% | ~47,189 |
+| I | 4.00% | ~47,189 |
+| Sorted | 4.00% | ~47,189 |
+| Resurgence | 4.00% | ~47,189 |
+| Preemptive Strike | 4.00% | ~47,189 |
+| The Grand Sacrifice | 3.00% | ~35,392 |
+| Agonizing Escape | 3.00% | ~35,392 |
+| Backdoor Escape | 3.00% | ~35,392 |
+| I've got your back | 3.00% | ~35,392 |
+| Medic | 3.00% | ~35,392 |
+| Perfect Escape | 3.00% | ~35,392 |
+| Perfect Killing | 3.00% | ~35,392 |
+| Bloody Millionaire | 3.00% | ~35,392 |
+| Risk it all | 3.00% | ~35,392 |
+| II | 3.00% | ~35,392 |
+| Engineer | 3.00% | ~35,392 |
+| Healthy Obsession | 3.00% | ~35,392 |
+| Close Shave | 3.00% | ~35,392 |
+| Humanitarian | 3.00% | ~35,392 |
 | Blood on your hands | 2.00% | ~23,594 |
 | Escape Artist | 2.00% | ~23,594 |
 | Apt Killer | 2.00% | ~23,594 |
@@ -87,15 +87,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 1.00% | ~11,797 |
 | MU/TH/UR Dearest | 1.00% | ~11,797 |
 | Outta Nowhere | 1.00% | ~11,797 |
-| Jump Scares | 0.90% | ~10,617 |
-| Game Over | 0.90% | ~10,617 |
-| Party Crasher | 0.90% | ~10,617 |
-| High Speed Pursuit | 0.90% | ~10,617 |
-| Complete the Evolution | 0.90% | ~10,617 |
-| Deep Cleansing | 0.80% | ~9,437 |
-| Texas BBQ | 0.80% | ~9,437 |
-| Outrage | 0.80% | ~9,437 |
-| I See You | 0.80% | ~9,437 |
+| Jump Scares | 0.90% | ~10,618 |
+| Game Over | 0.90% | ~10,618 |
+| Party Crasher | 0.90% | ~10,618 |
+| High Speed Pursuit | 0.90% | ~10,618 |
+| Complete the Evolution | 0.90% | ~10,618 |
+| Deep Cleansing | 0.80% | ~9,438 |
+| Texas BBQ | 0.80% | ~9,438 |
+| Outrage | 0.80% | ~9,438 |
+| I See You | 0.80% | ~9,438 |
 | Blood in your mouth | 0.70% | ~8,258 |
 | Heavy Burden | 0.70% | ~8,258 |
 | Punch Drunk | 0.70% | ~8,258 |
@@ -104,11 +104,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.70% | ~8,258 |
 | Whiffing to Success | 0.60% | ~7,078 |
 | Power Moves | 0.60% | ~7,078 |
-| Looter | 0.50% | ~5,898 |
-| Death of Ignorance | 0.50% | ~5,898 |
-| Ghost in the Machine | 0.50% | ~5,898 |
-| Hack the Mainframe | 0.50% | ~5,898 |
-| Disarm and Dismember | 0.50% | ~5,898 |
+| Looter | 0.50% | ~5,899 |
+| Death of Ignorance | 0.50% | ~5,899 |
+| Ghost in the Machine | 0.50% | ~5,899 |
+| Hack the Mainframe | 0.50% | ~5,899 |
+| Disarm and Dismember | 0.50% | ~5,899 |
 | Mad House | 0.40% | ~4,719 |
 | Dismantle | 0.40% | ~4,719 |
 | Denied! | 0.40% | ~4,719 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,180 |
 | Adept Good Guy | 0.10% | ~1,180 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,179,686 (Ranked 13)  
+Progressed: 1,179,724 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -510,7 +510,7 @@ Completed: 68 (0.01%) (Ranked 377)
 | 2024-01-13 | 1,174,924 | 67 |
 | 2024-01-14 | 1,177,363 | 68 |
 | 2024-01-15 | 1,179,156 | 68 |
-| 2024-01-16 | 1,179,686 | 68 |
+| 2024-01-16 | 1,179,724 | 68 |
 ## Awards
 Max (Diverse Characters): 39,781  (Ranked 15)  
 Sum: 299,606 (Ranked 12)  

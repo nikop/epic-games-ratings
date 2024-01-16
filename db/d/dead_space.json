@@ -959,9 +959,9 @@
       "Count": 285
     }
   ],
-  "EOS_Progressed": 17985,
+  "EOS_Progressed": 17986,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 1707,
+  "EOS_NewPlayers": 1699,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -11304,6 +11304,11 @@
       "Time": "2024-01-16T08:04:19.0836939+00:00",
       "NumProgressed": 17985,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2024-01-16T09:03:47.0759223+00:00",
+      "NumProgressed": 17986,
+      "NumCompleted": 43
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -11316,7 +11321,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 14748
+      "UsersEstimate": 14749
     },
     {
       "ID": "achievement_10",
@@ -11324,7 +11329,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "achievement_11",
@@ -11404,7 +11409,7 @@
       "Name": "Lab Rat",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 12050
+      "UsersEstimate": 12051
     },
     {
       "ID": "achievement_20",
@@ -11412,7 +11417,7 @@
       "Name": "Autofire",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "achievement_21",
@@ -11476,7 +11481,7 @@
       "Name": "Story Teller",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8093
+      "UsersEstimate": 8094
     },
     {
       "ID": "achievement_29",
@@ -11508,7 +11513,7 @@
       "Name": "Marksman",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 17266
+      "UsersEstimate": 17267
     },
     {
       "ID": "achievement_32",
@@ -11572,7 +11577,7 @@
       "Name": "Z-Baller",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "achievement_4",
@@ -11580,7 +11585,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 8992
+      "UsersEstimate": 8993
     },
     {
       "ID": "achievement_40",
@@ -11636,7 +11641,7 @@
       "Name": "Marked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "achievement_47",
@@ -11652,7 +11657,7 @@
       "Name": "True Believer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8273
+      "UsersEstimate": 8274
     },
     {
       "ID": "achievement_6",
@@ -11668,7 +11673,7 @@
       "Name": "S.O.S.",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 6654
+      "UsersEstimate": 6655
     },
     {
       "ID": "achievement_8",
@@ -11691,7 +11696,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 17985,
+      "Progressed": 17986,
       "Completed": 43
     }
   ],
@@ -11699,8 +11704,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-15T00:02:53.6087387+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:04:19.0836936+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:03:47.075922+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.351068+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:03:08.3727453+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:04:19.0837874+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:00:53.1439786+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:03:47.0760201+00:00"
 }

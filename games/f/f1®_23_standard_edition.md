@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 343)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,617 |
-| On the Top Step | 83.00% | ~15,156 |
-| Setting up for Success | 69.00% | ~12,599 |
+| Getting on the Step | 91.00% | ~16,618 |
+| On the Top Step | 83.00% | ~15,157 |
+| Setting up for Success | 69.00% | ~12,600 |
 | Team Orders | 68.00% | ~12,417 |
 | Engineer | 45.00% | ~8,217 |
 | Familiar Faces | 41.00% | ~7,487 |
@@ -15,10 +15,10 @@ Rating: 4.64 (Ranked 343)
 | Sharing the Love | 33.00% | ~6,026 |
 | Hitting a Season | 27.00% | ~4,930 |
 | Making History | 25.00% | ~4,565 |
-| A Dozen Pieces | 24.00% | ~4,382 |
+| A Dozen Pieces | 24.00% | ~4,383 |
 | Network Success | 23.00% | ~4,200 |
 | Challenge Yourself | 23.00% | ~4,200 |
-| Writing a new Chapter | 19.00% | ~3,469 |
+| Writing a new Chapter | 19.00% | ~3,470 |
 | Spring Cleaning | 18.00% | ~3,287 |
 | Reduce | 15.00% | ~2,739 |
 | Ups and Downs | 15.00% | ~2,739 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 343)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,260 (Ranked 163)  
+Progressed: 18,261 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,16 +180,16 @@ Completed: 0 (0.00%) (Ranked 401)
 | 2024-01-13 | 18,071 | 0 |
 | 2024-01-14 | 18,178 | 0 |
 | 2024-01-15 | 18,246 | 0 |
-| 2024-01-16 | 18,260 | 0 |
+| 2024-01-16 | 18,261 | 0 |
 ## Awards
-Max (Diverse Characters): 67  (Ranked 423)  
-Sum: 444 (Ranked 348)  
-Diff (max vs sum): 75  
+Max (Diverse Characters): 67  (Ranked 424)  
+Sum: 445 (Ranked 348)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 67 |
 | This game has a Competitive Community | 52 |
-| This game has Amazing Characters | 48 |
+| This game has Amazing Characters | 49 |
 | This game is Highly Recommended | 47 |
 | This game is Extremely Fun | 44 |
 | This game has Quickly Understood Controls | 41 |
@@ -327,3 +327,4 @@ Diff (max vs sum): 75
 | 2024-01-13 | 4.64 | 65 | 429 |
 | 2024-01-14 | 4.64 | 65 | 438 |
 | 2024-01-15 | 4.64 | 67 | 444 |
+| 2024-01-16 | 4.64 | 67 | 445 |

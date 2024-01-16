@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 388,
+  "Ranking_EOS_NewPlayers": 377,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 646,
+  "EOS_Progressed": 647,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
@@ -1159,6 +1159,11 @@
       "Time": "2024-01-16T05:10:57.0127261+00:00",
       "NumProgressed": 646,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-16T09:09:48.3891991+00:00",
+      "NumProgressed": 647,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1170,7 +1175,7 @@
       "Name": "Ace",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ANNOYING",
@@ -1194,7 +1199,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1202,7 +1207,7 @@
       "Name": "Concrete painting",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "CURIOUS",
@@ -1210,7 +1215,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1234,7 +1239,7 @@
       "Name": "Found it!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "GOODY",
@@ -1322,7 +1327,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -1346,7 +1351,7 @@
       "Name": "Please oh pleeease!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "POOL",
@@ -1362,7 +1367,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1384,9 +1389,9 @@
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 136
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
@@ -1425,7 +1430,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 646,
+      "Progressed": 647,
       "Completed": 19
     }
   ],
@@ -1433,8 +1438,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:10:04.5872928+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:09:48.3891988+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.6529404+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:58:32.512822+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:10:04.5873175+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:58:24.8029296+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:09:48.3892218+00:00"
 }

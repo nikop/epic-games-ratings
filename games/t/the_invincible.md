@@ -10,7 +10,7 @@ Rating: 4.56 (Ranked 511)
 | The City | 52.00% | ~891 |
 | The field base | 47.00% | ~806 |
 | The Alliance | 45.00% | ~771 |
-| Survivors | 41.00% | ~703 |
+| Survivors | 42.00% | ~720 |
 | The Condor | 39.00% | ~668 |
 | The End | 39.00% | ~668 |
 | The Necroevolution | 31.00% | ~531 |

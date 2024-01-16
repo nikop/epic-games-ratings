@@ -3,11 +3,11 @@
   "Name": "Darksiders III",
   "ProductSlug": "darksiders3",
   "Ranking_Rating": 658,
-  "Ranking_Popularity": 382,
+  "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -492,9 +492,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 619,
+  "EOS_Progressed": 620,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2302,6 +2302,11 @@
       "Time": "2024-01-16T06:04:28.7784568+00:00",
       "NumProgressed": 619,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-16T09:03:58.4155799+00:00",
+      "NumProgressed": 620,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2314,7 +2319,7 @@
       "Name": "Unbreakable Will",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Collect_AdamantineMedium_30",
@@ -2378,7 +2383,7 @@
       "Name": "Maximum Capacity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2394,7 +2399,7 @@
       "Name": "Maximum Vigor",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2402,7 +2407,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2466,7 +2471,7 @@
       "Name": "Salvation",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2490,7 +2495,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2626,7 +2631,7 @@
       "Name": "Love Tap",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2690,7 +2695,7 @@
       "Name": "Egomaniac",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2722,7 +2727,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Save_Humans_10",
@@ -2770,7 +2775,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2825,15 +2830,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 619,
+      "Progressed": 620,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:04:30.5936323+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:03:58.4155797+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:00:42.3303251+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:04:30.5936938+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:57:05.1976566+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:03:58.4156336+00:00"
 }

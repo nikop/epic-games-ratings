@@ -3,11 +3,11 @@
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 283,
-  "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 328,
+  "Ranking_Popularity": 429,
+  "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 341,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -1389,7 +1389,7 @@
   ],
   "EOS_Progressed": 3685,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8473,8 +8473,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-14T16:58:15.9684577+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:05:09.4184864+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:04:37.0521313+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.9535453+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:59:18.9555343+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:05:09.4185476+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:59:10.7528974+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:04:37.0521918+00:00"
 }

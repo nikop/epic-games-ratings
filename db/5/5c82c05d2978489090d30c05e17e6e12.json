@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75498,
+  "EOS_Progressed": 75503,
   "EOS_Completed": 124,
-  "EOS_NewPlayers": 1373,
+  "EOS_NewPlayers": 1372,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -7490,6 +7490,11 @@
       "Time": "2024-01-16T08:08:46.6673419+00:00",
       "NumProgressed": 75498,
       "NumCompleted": 124
+    },
+    {
+      "Time": "2024-01-16T09:08:30.9352103+00:00",
+      "NumProgressed": 75503,
+      "NumCompleted": 124
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7502,7 +7507,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27934
+      "UsersEstimate": 27936
     },
     {
       "ID": "Achievement_10",
@@ -7550,7 +7555,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Achievement_16",
@@ -7566,7 +7571,7 @@
       "Name": "Great Wave Alumni",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Achievement_18",
@@ -7574,7 +7579,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Achievement_19",
@@ -7590,7 +7595,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21139
+      "UsersEstimate": 21141
     },
     {
       "ID": "Achievement_20",
@@ -7598,7 +7603,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Achievement_21",
@@ -7662,7 +7667,7 @@
       "Name": "A Better World",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "Achievement_29",
@@ -7670,7 +7675,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Achievement_3",
@@ -7773,7 +7778,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75498,
+      "Progressed": 75503,
       "Completed": 124
     }
   ],
@@ -7781,8 +7786,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-14T17:58:20.5473413+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:08:46.6673416+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:08:30.93521+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:58:35.267736+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:08:46.6674082+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:58:27.4678644+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:08:30.9352686+00:00"
 }

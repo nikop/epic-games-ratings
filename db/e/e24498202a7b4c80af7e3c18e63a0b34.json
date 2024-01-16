@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8624,
+  "EOS_Progressed": 8625,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -10058,6 +10058,11 @@
       "Time": "2024-01-16T00:05:22.7336608+00:00",
       "NumProgressed": 8624,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-16T09:05:00.1907617+00:00",
+      "NumProgressed": 8625,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -10070,7 +10075,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7589
+      "UsersEstimate": 7590
     },
     {
       "ID": "achievement_01_02",
@@ -10094,7 +10099,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6468
+      "UsersEstimate": 6469
     },
     {
       "ID": "achievement_01_05",
@@ -10118,7 +10123,7 @@
       "Name": "Car Workshop",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "achievement_01_08",
@@ -10126,7 +10131,7 @@
       "Name": "Trophy Collector",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "achievement_01_09",
@@ -10134,7 +10139,7 @@
       "Name": "Right Foot",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "achievement_01_10",
@@ -10142,7 +10147,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4829
+      "UsersEstimate": 4830
     },
     {
       "ID": "achievement_02_01",
@@ -10166,7 +10171,7 @@
       "Name": "Professional Champion",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_02_04",
@@ -10214,7 +10219,7 @@
       "Name": "USA - Check!",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2587
+      "UsersEstimate": 2588
     },
     {
       "ID": "achievement_03_02",
@@ -10318,7 +10323,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4657
+      "UsersEstimate": 4658
     },
     {
       "ID": "achievement_04_04",
@@ -10334,7 +10339,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 3018
+      "UsersEstimate": 3019
     },
     {
       "ID": "achievement_04_06",
@@ -10350,7 +10355,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "achievement_04_08",
@@ -10358,7 +10363,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7503
+      "UsersEstimate": 7504
     },
     {
       "ID": "achievement_04_09",
@@ -10366,14 +10371,14 @@
       "Name": "Nitro on a curve? Better not.",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     }
   ],
   "AchievementSets": [
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8624,
+      "Progressed": 8625,
       "Completed": 54
     }
   ],
@@ -10381,8 +10386,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-12T20:57:15.3154982+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:05:32.649797+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:05:00.1907614+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:08.2542069+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:59:19.0934801+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:05:32.6499028+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:59:11.0027712+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:05:00.1908518+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,745 |
-| What should I buy? | 80.00% | ~11,824 |
-| Focus! | 60.00% | ~8,868 |
-| Rescued Elder Ent | 60.00% | ~8,868 |
-| The End of the Gold Mane Knights | 48.00% | ~7,094 |
-| False Goddess, Disappear | 39.00% | ~5,764 |
+| The Legend Begins | 93.00% | ~13,746 |
+| What should I buy? | 80.00% | ~11,825 |
+| Focus! | 60.00% | ~8,869 |
+| Rescued Elder Ent | 60.00% | ~8,869 |
+| The End of the Gold Mane Knights | 48.00% | ~7,095 |
+| False Goddess, Disappear | 39.00% | ~5,765 |
 | Rules of Etiquette | 37.00% | ~5,469 |
 | Inventory Management | 32.00% | ~4,730 |
 | The Fall of the Leonia Order | 30.00% | ~4,434 |
 | Quick Movements | 30.00% | ~4,434 |
-| Go Home... | 28.00% | ~4,138 |
+| Go Home... | 28.00% | ~4,139 |
 | The Final Battle of the First Hero | 27.00% | ~3,991 |
 | The Hero Killer | 25.00% | ~3,695 |
 | Brain at Full Throttle | 20.00% | ~2,956 |
-| Rookies Welcome | 18.00% | ~2,660 |
+| Rookies Welcome | 18.00% | ~2,661 |
 | Deadly Power | 16.00% | ~2,365 |
-| Castle Restoration Plans | 13.00% | ~1,921 |
+| Castle Restoration Plans | 13.00% | ~1,922 |
 | The Dwarven Chandelier | 10.00% | ~1,478 |
 | Master of Speed | 9.00% | ~1,330 |
 | The Levitator | 8.00% | ~1,182 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,780 (Ranked 175)  
+Progressed: 14,781 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,11 +281,11 @@ Completed: 22 (0.15%) (Ranked 292)
 | 2024-01-13 | 14,691 | 22 |
 | 2024-01-14 | 14,732 | 22 |
 | 2024-01-15 | 14,763 | 22 |
-| 2024-01-16 | 14,780 | 22 |
+| 2024-01-16 | 14,781 | 22 |
 ## Awards
-Max (Great for Beginners): 154  (Ranked 332)  
+Max (Great for Beginners): 154  (Ranked 333)  
 Sum: 1,028 (Ranked 274)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 154 |

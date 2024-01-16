@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 353,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2258,
+  "EOS_Progressed": 2260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8731,6 +8731,11 @@
       "Time": "2024-01-16T05:06:30.0861876+00:00",
       "NumProgressed": 2258,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T09:05:02.6714154+00:00",
+      "NumProgressed": 2260,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8742,7 +8747,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -8814,7 +8819,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "objective_headquarters_10",
@@ -8830,7 +8835,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "objective_headquarters_20",
@@ -8910,7 +8915,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8918,7 +8923,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -8998,7 +9003,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -9045,7 +9050,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2258,
+      "Progressed": 2260,
       "Completed": 1
     }
   ],
@@ -9053,8 +9058,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:05:35.7451811+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:05:02.671415+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:57:37.2869908+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:05:35.7452391+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:57:25.7700873+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:05:02.6714932+00:00"
 }

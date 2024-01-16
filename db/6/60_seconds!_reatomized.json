@@ -9892,9 +9892,9 @@
       "ID": "ACH_FAMILY_GUY",
       "SetID": "5nj1ea3",
       "Name": "Family guy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4907
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -10165,8 +10165,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2024-01-14T20:01:32.0501475+00:00",
-  "LastChanged_Achievements": "2024-01-16T08:03:45.3017091+00:00",
+  "LastChanged_Achievements": "2024-01-16T09:03:12.5379434+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.5941782+00:00",
-  "LastUpdate_Ratings": "2024-01-16T08:00:52.7476821+00:00",
-  "LastUpdate_Achievements": "2024-01-16T08:03:45.3017886+00:00"
+  "LastUpdate_Ratings": "2024-01-16T09:00:48.7449476+00:00",
+  "LastUpdate_Achievements": "2024-01-16T09:03:12.5380678+00:00"
 }
