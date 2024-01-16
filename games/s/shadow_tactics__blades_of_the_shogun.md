@@ -6,26 +6,26 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,159 |
-| A thief's beginning | 11.00% | ~24,896 |
-| Thorough | 11.00% | ~24,896 |
-| Disguised | 9.00% | ~20,369 |
-| Rescue Takuma | 9.00% | ~20,369 |
-| Rollin' | 9.00% | ~20,369 |
-| Tanuki Time | 9.00% | ~20,369 |
-| Ice Ice Yuki | 8.00% | ~18,106 |
-| Jonin | 8.00% | ~18,106 |
-| Stoned Ox | 8.00% | ~18,106 |
-| Yabu | 8.00% | ~18,106 |
+| Genin | 12.00% | ~27,160 |
+| A thief's beginning | 11.00% | ~24,897 |
+| Thorough | 11.00% | ~24,897 |
+| Disguised | 9.00% | ~20,370 |
+| Rescue Takuma | 9.00% | ~20,370 |
+| Rollin' | 9.00% | ~20,370 |
+| Tanuki Time | 9.00% | ~20,370 |
+| Ice Ice Yuki | 8.00% | ~18,107 |
+| Jonin | 8.00% | ~18,107 |
+| Stoned Ox | 8.00% | ~18,107 |
+| Yabu | 8.00% | ~18,107 |
 | Happy Planning | 7.00% | ~15,843 |
 | Mugen Unchained | 7.00% | ~15,843 |
 | Chunin | 6.00% | ~13,580 |
 | Flying Rocks | 6.00% | ~13,580 |
 | Warzone | 6.00% | ~13,580 |
-| Happy little accidents | 5.00% | ~11,316 |
-| Okkoto | 5.00% | ~11,316 |
-| Prisoners | 5.00% | ~11,316 |
-| Too Early | 5.00% | ~11,316 |
+| Happy little accidents | 5.00% | ~11,317 |
+| Okkoto | 5.00% | ~11,317 |
+| Prisoners | 5.00% | ~11,317 |
+| Too Early | 5.00% | ~11,317 |
 | Gear up | 4.00% | ~9,053 |
 | Noboru | 4.00% | ~9,053 |
 | Still Rollin' | 4.00% | ~9,053 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,326 (Ranked 80)  
+Progressed: 226,335 (Ranked 80)  
 Completed: 107 (0.05%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 107 (0.05%) (Ranked 342)
 | 2024-01-13 | 225,798 | 107 |
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
-| 2024-01-16 | 226,326 | 107 |
+| 2024-01-16 | 226,335 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 212)  
 Sum: 4,962 (Ranked 153)  

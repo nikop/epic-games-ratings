@@ -135,8 +135,8 @@
   "Tags": [],
   "EOS_Progressed": 2810,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 206,
-  "EOS_NewCompleters": 32,
+  "EOS_NewPlayers": 200,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 7.65,
   "EosHistory": [
     {
@@ -7499,9 +7499,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 899
     },
     {
       "ID": "META_HALF_LINK",
@@ -7676,8 +7676,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:03:32.0648729+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:03:30.7884684+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:38.7788502+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:03:32.0649456+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:59:39.1324844+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:03:30.788533+00:00"
 }

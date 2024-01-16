@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
@@ -2389,6 +2389,11 @@
       "Time": "2024-01-16T16:06:27.3411004+00:00",
       "NumProgressed": 577,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T17:08:15.3607725+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2399,9 +2404,9 @@
       "ID": "ACQUAINTANCE_EARL",
       "SetID": "aniflfk",
       "Name": "Holy Macaroni!",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 526
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2457,7 +2462,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2465,7 +2470,7 @@
       "Name": "Farmer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "HOUSEWARMING",
@@ -2473,15 +2478,15 @@
       "Name": "A Party to Remember!",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 260
+      "UsersEstimate": 254
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2497,7 +2502,7 @@
       "Name": "Tough Guy",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2513,7 +2518,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2545,7 +2550,7 @@
       "Name": "Uppies!",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2560,14 +2565,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:06:27.3410999+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:08:15.360772+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:44.7150623+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:06:27.3411303+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:59:46.8524032+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:08:15.3608048+00:00"
 }

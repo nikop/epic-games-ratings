@@ -1,12 +1,12 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 19.00% | ~3,623 |
-| Captain Drummer | 16.00% | ~3,051 |
+| Oyedang, Kopengs | 19.00% | ~3,624 |
+| Captain Drummer | 16.00% | ~3,052 |
 | Celebrations are in Order | 15.00% | ~2,861 |
 | The Pit and the Pirates | 14.00% | ~2,670 |
 | Martian Music | 14.00% | ~2,670 |
@@ -17,7 +17,7 @@ Rating: 4.54 (Ranked 551)
 | Spore Taste | 12.00% | ~2,289 |
 | Zen Master | 11.00% | ~553 |
 | Call it Even | 10.00% | ~1,907 |
-| Safe Cracker | 10.00% | ~502 |
+| Safe Cracker | 10.00% | ~503 |
 | Heal Thy Medic | 9.00% | ~1,716 |
 | Madame Undersecretary | 9.00% | ~452 |
 | Data Archivist | 8.00% | ~1,526 |
@@ -37,11 +37,11 @@ Rating: 4.54 (Ranked 551)
 | Data Recoverer | 2.00% | ~381 |
 | Urshanabi Hoarder | 1.00% | ~191 |
 | Grave Robber | 0.80% | ~153 |
-| Data Miner | 0.70% | ~133 |
+| Data Miner | 0.70% | ~134 |
 | Scavenger Star | 0.40% | ~76 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,071 (Ranked 159)  
+Progressed: 19,072 (Ranked 159)  
 Completed: 66 (0.35%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,7 +219,7 @@ Completed: 66 (0.35%) (Ranked 252)
 | 2024-01-13 | 18,972 | 64 |
 | 2024-01-14 | 19,023 | 65 |
 | 2024-01-15 | 19,055 | 66 |
-| 2024-01-16 | 19,071 | 66 |
+| 2024-01-16 | 19,072 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

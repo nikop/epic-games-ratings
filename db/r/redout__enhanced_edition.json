@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 367,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239444,
+  "EOS_Progressed": 239445,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
@@ -28808,6 +28808,11 @@
       "Time": "2024-01-16T16:06:51.2385547+00:00",
       "NumProgressed": 239444,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-16T17:08:40.8785376+00:00",
+      "NumProgressed": 239445,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28835,7 +28840,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 67044
+      "UsersEstimate": 67045
     },
     {
       "ID": "CENTAUR",
@@ -29090,15 +29095,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239444,
+      "Progressed": 239445,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:06:51.2385542+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:08:40.8785372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:36.6653432+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:06:51.2387349+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:32.5790832+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:08:40.8786867+00:00"
 }

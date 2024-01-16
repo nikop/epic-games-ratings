@@ -23,12 +23,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Transformation | 5.00% | ~665 |
 | The Legacy | 5.00% | ~665 |
 | Voice from Your Dreams | 5.00% | ~665 |
+| A Flame | 5.00% | ~665 |
 | Next-Door Play | 5.00% | ~665 |
 | Get the Toad | 5.00% | ~665 |
 | Heart of the Fallen Land | 4.00% | ~532 |
 | Divide and Rule | 4.00% | ~532 |
 | Mythic Reinforcements | 4.00% | ~532 |
-| A Flame | 4.00% | ~532 |
 | Hey, I Know You! | 4.00% | ~532 |
 | Path of the Trickster | 3.00% | ~399 |
 | Path of the Lich | 3.00% | ~399 |

@@ -3,7 +3,7 @@
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 242,
+  "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 195,
@@ -3619,9 +3619,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47099,
+  "EOS_Progressed": 47100,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -33864,6 +33864,11 @@
       "Time": "2024-01-16T16:05:20.3734439+00:00",
       "NumProgressed": 47099,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-16T17:05:24.484002+00:00",
+      "NumProgressed": 47100,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -33875,7 +33880,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27317
+      "UsersEstimate": 27318
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -33891,7 +33896,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27317
+      "UsersEstimate": 27318
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -34275,7 +34280,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 32969
+      "UsersEstimate": 32970
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -34354,15 +34359,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47099,
+      "Progressed": 47100,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-13T13:59:43.4237185+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:20.3734434+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:24.4840016+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:57:51.260266+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:20.3736014+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:57:43.3594281+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:24.4842225+00:00"
 }

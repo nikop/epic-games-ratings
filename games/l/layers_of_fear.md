@@ -23,10 +23,10 @@
 | Debut | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
 | Playtime | 11.00% | ~36 |
+| The tragedy unfolds | 11.00% | ~36 |
 | Tough conversation | 11.00% | ~36 |
 | A new way | 10.00% | ~33 |
 | First steps | 10.00% | ~33 |
-| The tragedy unfolds | 10.00% | ~33 |
 | Breaking free | 9.00% | ~30 |
 | Heavy Burden | 8.00% | ~26 |
 | True Reflection | 8.00% | ~26 |

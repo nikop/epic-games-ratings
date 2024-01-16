@@ -18450,10 +18450,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 498078,
       "NumberOfAwardsMax": 140483
+    },
+    {
+      "Time": "2024-01-16T17:03:10.8680514+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 498249,
+      "NumberOfAwardsMax": 140483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 498078,
+  "NumberOfAwards": 498249,
   "NumberOfAwardsMax": 140483,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18497,7 +18503,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 29478
+      "Count": 29649
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18530,10 +18536,10 @@
       "Count": 19123
     }
   ],
-  "EOS_Progressed": 1052871,
+  "EOS_Progressed": 1052904,
   "EOS_Completed": 3108,
-  "EOS_NewPlayers": 13409,
-  "EOS_NewCompleters": 50,
+  "EOS_NewPlayers": 13243,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49585,6 +49591,11 @@
       "Time": "2024-01-16T16:08:40.723239+00:00",
       "NumProgressed": 1052871,
       "NumCompleted": 3108
+    },
+    {
+      "Time": "2024-01-16T17:09:01.2602537+00:00",
+      "NumProgressed": 1052904,
+      "NumCompleted": 3108
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49973,7 +49984,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Easycomeeasygo",
@@ -49997,7 +50008,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Kingofcups",
@@ -50037,7 +50048,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "UltimateSurvivor",
@@ -50053,7 +50064,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "HydraIsDead",
@@ -50061,7 +50072,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "IHateSpider",
@@ -50069,7 +50080,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "KingOfTheCups",
@@ -50077,7 +50088,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "KingOfThePentacles",
@@ -50085,7 +50096,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "KingOfTheSwords",
@@ -50093,7 +50104,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "KingOfTheWands",
@@ -50101,7 +50112,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "TheTower",
@@ -50109,7 +50120,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "DirtyWork",
@@ -50117,7 +50128,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "EasyComeEasyGo",
@@ -50125,28 +50136,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1052871,
+      "Progressed": 1052904,
       "Completed": 3108
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 181494,
+      "Progressed": 181527,
       "Completed": 10632
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-16T16:03:16.5695776+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:08:40.7232381+00:00",
+  "LastChanged": "2024-01-16T17:03:10.8680512+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:01.2602533+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:03:16.5695784+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:08:40.7234249+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:03:10.8680519+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:01.2604682+00:00"
 }

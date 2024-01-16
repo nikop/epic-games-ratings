@@ -50,19 +50,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.10% | ~1,053 |
 | It's Elementary | 0.10% | ~1,053 |
 | Legend of The Afterlife | 0.10% | ~1,053 |
-| The APB is Not Enough | 0.10% | ~181 |
-| Spin Doctor | 0.10% | ~181 |
-| Relic Ruler | 0.10% | ~181 |
-| All the President's Men | 0.10% | ~181 |
-| Judgement Day | 0.10% | ~181 |
-| Arachnophobia | 0.10% | ~181 |
-| King of Cups | 0.10% | ~181 |
-| King of Pentacles | 0.10% | ~181 |
-| King of Swords | 0.10% | ~181 |
-| King of Wands | 0.10% | ~181 |
-| The Tower | 0.10% | ~181 |
-| Dirty Deeds | 0.10% | ~181 |
-| Easy Come, Easy Go | 0.10% | ~181 |
+| The APB is Not Enough | 0.10% | ~182 |
+| Spin Doctor | 0.10% | ~182 |
+| Relic Ruler | 0.10% | ~182 |
+| All the President's Men | 0.10% | ~182 |
+| Judgement Day | 0.10% | ~182 |
+| Arachnophobia | 0.10% | ~182 |
+| King of Cups | 0.10% | ~182 |
+| King of Pentacles | 0.10% | ~182 |
+| King of Swords | 0.10% | ~182 |
+| King of Wands | 0.10% | ~182 |
+| The Tower | 0.10% | ~182 |
+| Dirty Deeds | 0.10% | ~182 |
+| Easy Come, Easy Go | 0.10% | ~182 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052,871 (Ranked 17)  
+Progressed: 1,052,904 (Ranked 17)  
 Completed: 3,108 (0.30%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 3,108 (0.30%) (Ranked 260)
 | 2024-01-13 | 1,050,029 | 3,086 |
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
-| 2024-01-16 | 1,052,871 | 3,108 |
+| 2024-01-16 | 1,052,904 | 3,108 |
 ## Awards
 Max (Character Customization): 140,483  (Ranked 8)  
-Sum: 498,078 (Ranked 8)  
+Sum: 498,249 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -356,7 +356,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 104,673 |
 | This game is Great for Beginners | 31,682 |
 | This game has Diverse Characters | 31,051 |
-| This game is Highly Recommended | 29,478 |
+| This game is Highly Recommended | 29,649 |
 | This game has Amazing Storytelling | 29,087 |
 | This game is Extremely Fun | 28,802 |
 | This game has Amazing Characters | 28,500 |
@@ -728,4 +728,4 @@ Diff (max vs sum): 0
 | 2024-01-13 | 4.67 | - | 139,040 | 490,370 |
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
-| 2024-01-16 | 4.67 | - | 140,483 | 498,078 |
+| 2024-01-16 | 4.67 | - | 140,483 | 498,249 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44346,
+  "EOS_Progressed": 44348,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28613,6 +28613,11 @@
       "Time": "2024-01-16T16:05:53.1549376+00:00",
       "NumProgressed": 44346,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T17:05:59.8355684+00:00",
+      "NumProgressed": 44348,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28832,7 +28837,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6208
+      "UsersEstimate": 6209
     },
     {
       "ID": "ach_legacysalvager",
@@ -28976,7 +28981,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7982
+      "UsersEstimate": 7983
     },
     {
       "ID": "ach_terror100",
@@ -29055,15 +29060,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44346,
+      "Progressed": 44348,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:53.1549372+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:59.835568+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:37.9781197+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:53.1551518+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:34.032604+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:59.8357362+00:00"
 }

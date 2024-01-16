@@ -9,8 +9,8 @@ Rating: 4.22 (Ranked 955)
 | The Outer Way | 27.00% | ~6,063 |
 | Desperate Times | 26.00% | ~5,838 |
 | Paper Jams | 24.00% | ~5,389 |
-| Get a Grip | 23.00% | ~5,164 |
-| Chew 'Em Up | 21.00% | ~4,715 |
+| Get a Grip | 23.00% | ~5,165 |
+| Chew 'Em Up | 21.00% | ~4,716 |
 | Reforged | 20.00% | ~4,491 |
 | Float Like A Butterfly | 19.00% | ~4,266 |
 | If the SHU Fits... | 18.00% | ~4,042 |
@@ -18,8 +18,8 @@ Rating: 4.22 (Ranked 955)
 | Without A Paddle | 15.00% | ~3,368 |
 | In the Pipe, Five by Five | 13.00% | ~2,919 |
 | Crash Site | 13.00% | ~2,919 |
-| Two Heads Are Better Than One | 12.00% | ~2,694 |
-| Power Up | 12.00% | ~2,694 |
+| Two Heads Are Better Than One | 12.00% | ~2,695 |
+| Power Up | 12.00% | ~2,695 |
 | Giving Back | 11.00% | ~2,470 |
 | Terminated | 11.00% | ~2,470 |
 | What Lies Beneath | 11.00% | ~2,470 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,454 (Ranked 151)  
+Progressed: 22,455 (Ranked 151)  
 Completed: 82 (0.37%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 82 (0.37%) (Ranked 247)
 | 2024-01-13 | 22,312 | 82 |
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
-| 2024-01-16 | 22,454 | 82 |
+| 2024-01-16 | 22,455 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 345)  
 Sum: 655 (Ranked 318)  

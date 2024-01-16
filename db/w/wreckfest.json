@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1173,
+  "EOS_Progressed": 1174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2951,6 +2951,11 @@
       "Time": "2024-01-16T16:08:46.9333833+00:00",
       "NumProgressed": 1173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T17:09:07.2697626+00:00",
+      "NumProgressed": 1174,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -2977,9 +2982,9 @@
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 376
     },
     {
       "ID": "CareerChamp2",
@@ -2993,9 +2998,9 @@
       "ID": "CareerChamp3",
       "SetID": "5hd282c",
       "Name": "Challengers Champion",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 117
+      "UsersEstimate": 129
     },
     {
       "ID": "CareerChamp4",
@@ -3019,7 +3024,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "CollectVehiclesA",
@@ -3027,7 +3032,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "CollectVehiclesB",
@@ -3081,9 +3086,9 @@
       "ID": "PlayerRankB",
       "SetID": "5hd282c",
       "Name": "Trashing Around",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 176
     },
     {
       "ID": "PlayerRankC",
@@ -3122,7 +3127,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1173,
+      "Progressed": 1174,
       "Completed": 0
     }
   ],
@@ -3130,8 +3135,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-13T19:58:54.2131387+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:08:46.9333827+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:07.269762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:00:18.2840581+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:08:46.9334233+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:00:20.1800849+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:07.2697938+00:00"
 }

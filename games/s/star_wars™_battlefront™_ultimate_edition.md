@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,569 |
-| Off to a good start | 60.00% | ~1,792 |
-| Do... or do not. There is no try | 52.00% | ~1,553 |
+| New Recruit | 86.00% | ~2,570 |
+| Off to a good start | 60.00% | ~1,793 |
+| Do... or do not. There is no try | 52.00% | ~1,554 |
 | A good blaster at your side | 24.00% | ~717 |
 | I suggest a new strategy | 17.00% | ~508 |
 | Great shot, kid! | 16.00% | ~478 |
 | Scrap collector | 14.00% | ~418 |
 | All right, I'll give it a try | 14.00% | ~418 |
-| The power of the Force | 12.00% | ~358 |
-| Together we can rule the galaxy | 12.00% | ~358 |
-| Shoot first | 12.00% | ~358 |
+| The power of the Force | 12.00% | ~359 |
+| Together we can rule the galaxy | 12.00% | ~359 |
+| Shoot first | 12.00% | ~359 |
 | Collector | 11.00% | ~329 |
 | Tell Jabba that I've got his money | 8.00% | ~239 |
 | Best star-pilot in the galaxy | 8.00% | ~239 |
@@ -24,11 +24,11 @@
 | What's the cargo? | 5.00% | ~149 |
 | "Gonk? Gonk!" | 5.00% | ~149 |
 | Judge me by my size, do you? | 5.00% | ~149 |
-| Distinguished | 4.00% | ~119 |
-| A tremor in the Force | 4.00% | ~119 |
-| Impressive. Most impressive. | 4.00% | ~119 |
-| Not bad for a little furball | 4.00% | ~119 |
-| Support the troops | 4.00% | ~119 |
+| Distinguished | 4.00% | ~120 |
+| A tremor in the Force | 4.00% | ~120 |
+| Impressive. Most impressive. | 4.00% | ~120 |
+| Not bad for a little furball | 4.00% | ~120 |
+| Support the troops | 4.00% | ~120 |
 | Safety ain't the point of a joyride | 3.00% | ~90 |
 | Patience you must have | 3.00% | ~90 |
 | Don't underestimate the Force | 3.00% | ~90 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,987 (Ranked 233)  
+Progressed: 2,988 (Ranked 233)  
 Completed: 1 (0.03%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -190,7 +190,7 @@ Completed: 1 (0.03%) (Ranked 359)
 | 2024-01-13 | 2,938 | 1 |
 | 2024-01-14 | 2,961 | 1 |
 | 2024-01-15 | 2,978 | 1 |
-| 2024-01-16 | 2,987 | 1 |
+| 2024-01-16 | 2,988 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

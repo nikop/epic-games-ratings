@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -377,9 +377,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 11598,
+  "EOS_Progressed": 11602,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 752,
+  "EOS_NewPlayers": 753,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5122,6 +5122,11 @@
       "Time": "2024-01-16T16:09:50.6665121+00:00",
       "NumProgressed": 11598,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T17:10:14.4492286+00:00",
+      "NumProgressed": 11602,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5300,9 +5305,9 @@
       "ID": "23_DynastyRestored",
       "SetID": "37a94m8",
       "Name": "The Dynasty Restored",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 928
+      "UsersEstimate": 1044
     },
     {
       "ID": "24_TheHighrise",
@@ -5476,9 +5481,9 @@
       "ID": "45_ThePolygloth",
       "SetID": "37a94m8",
       "Name": "Polyglot",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 81
     },
     {
       "ID": "46_ASpark",
@@ -5524,9 +5529,9 @@
       "ID": "51_AmendsToTheDead",
       "SetID": "37a94m8",
       "Name": "Amends to the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 23
     },
     {
       "ID": "52_TheGoldenFrog",
@@ -5653,7 +5658,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11598,
+      "Progressed": 11602,
       "Completed": 1
     }
   ],
@@ -5661,8 +5666,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-16T13:03:34.5311204+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:09:50.6665117+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:10:14.4492284+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:31.1262106+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:09:50.6665976+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:27.25454+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:10:14.4493147+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10519,
+  "EOS_Progressed": 10521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17114,6 +17114,11 @@
       "Time": "2024-01-16T16:04:35.281511+00:00",
       "NumProgressed": 10519,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T17:04:37.15891+00:00",
+      "NumProgressed": 10521,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17125,7 +17130,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3892
+      "UsersEstimate": 3893
     },
     {
       "ID": "10",
@@ -17197,7 +17202,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "5",
@@ -17244,7 +17249,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10519,
+      "Progressed": 10521,
       "Completed": 0
     }
   ],
@@ -17252,8 +17257,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:04:35.2815106+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:04:37.1589093+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:38.0813724+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:04:35.2816524+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:34.0398893+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:04:37.1590303+00:00"
 }

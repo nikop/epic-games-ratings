@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47594,
+  "EOS_Progressed": 47596,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14416,6 +14416,11 @@
       "Time": "2024-01-16T16:09:15.175209+00:00",
       "NumProgressed": 47594,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2024-01-16T17:09:37.2046646+00:00",
+      "NumProgressed": 47596,
+      "NumCompleted": 241
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14588,7 +14593,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24749
+      "UsersEstimate": 24750
     },
     {
       "ID": "ACH_PEAK",
@@ -14620,7 +14625,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32364
+      "UsersEstimate": 32365
     },
     {
       "ID": "ACH_S4",
@@ -14628,7 +14633,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23797
+      "UsersEstimate": 23798
     },
     {
       "ID": "ACH_S5",
@@ -14636,7 +14641,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17610
+      "UsersEstimate": 17611
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -14644,7 +14649,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35696
+      "UsersEstimate": 35697
     },
     {
       "ID": "ACH_STATUE",
@@ -14652,22 +14657,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20465
+      "UsersEstimate": 20466
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47594,
+      "Progressed": 47596,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:09:15.1752086+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:37.2046643+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:10.3647225+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:09:15.1753026+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:59:08.7644055+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:37.2047506+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1449,6 +1449,11 @@
       "Time": "2024-01-16T00:06:27.7880185+00:00",
       "NumProgressed": 339,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T17:06:33.4882806+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1629,7 +1634,7 @@
       "Name": "A simple mistake leads to grave consequences",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "5",
@@ -1676,14 +1681,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:06:25.0193311+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:06:33.4882801+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:13.0818555+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:03:15.4390867+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:06:25.0193554+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:03:09.607522+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:06:33.488311+00:00"
 }

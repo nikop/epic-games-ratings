@@ -2,13 +2,13 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -5997,18 +5997,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 4451,
       "NumberOfAwardsMax": 1969
+    },
+    {
+      "Time": "2024-01-16T17:02:52.2262056+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 4471,
+      "NumberOfAwardsMax": 1987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4451,
-  "NumberOfAwardsMax": 1969,
+  "NumberOfAwards": 4471,
+  "NumberOfAwardsMax": 1987,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1969
+      "Count": 1987
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6056,7 +6062,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 281
+      "Count": 283
     },
     {
       "Text": "This game has a Creative Community",
@@ -6083,8 +6089,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-01-16T12:03:11.658376+00:00",
+  "LastChanged": "2024-01-16T17:02:52.2262054+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.2074565+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:02:58.8308127+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:08:24.7334831+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:02:52.2262063+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:08:43.8627952+00:00"
 }

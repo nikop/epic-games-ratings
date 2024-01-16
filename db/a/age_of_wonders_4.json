@@ -785,7 +785,7 @@
   ],
   "EOS_Progressed": 7258,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11318,9 +11318,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 653
     },
     {
       "ID": "12",
@@ -11797,8 +11797,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-16T11:57:01.1215381+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:48.5871604+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:54.7976019+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:57:28.0427045+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:48.5872686+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:57:16.057046+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:54.7976891+00:00"
 }

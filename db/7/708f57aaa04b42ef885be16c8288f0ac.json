@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14956,
+  "EOS_Progressed": 14957,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10598,6 +10598,11 @@
       "Time": "2024-01-16T16:09:49.0873715+00:00",
       "NumProgressed": 14956,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-16T17:10:12.6082157+00:00",
+      "NumProgressed": 14957,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10634,7 +10639,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ChewingTheScenery",
@@ -10650,7 +10655,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3590
     },
     {
       "ID": "Eavesdropper",
@@ -10690,7 +10695,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "GarbageMan",
@@ -10754,7 +10759,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4337
+      "UsersEstimate": 4338
     },
     {
       "ID": "NoMoreTotems",
@@ -10810,7 +10815,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6431
+      "UsersEstimate": 6432
     },
     {
       "ID": "ThisIsDharma",
@@ -10826,7 +10831,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "UnResurrected",
@@ -10881,7 +10886,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14956,
+      "Progressed": 14957,
       "Completed": 27
     }
   ],
@@ -10889,8 +10894,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:09:49.087371+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:10:12.6082155+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:58.9024725+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:09:49.0874557+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:00:00.899302+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:10:12.6082894+00:00"
 }

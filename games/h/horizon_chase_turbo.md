@@ -1,32 +1,32 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 550)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~995,151 |
-| I Need a Bigger Garage | 63.00% | ~696,605 |
-| Pump my Ride | 47.00% | ~519,690 |
-| Ghostbuster | 34.00% | ~375,946 |
-| Call Roadside Assistance | 18.00% | ~199,030 |
-| That Was Close | 18.00% | ~199,030 |
-| Quickie | 11.00% | ~121,630 |
+| The First of Many | 90.00% | ~995,161 |
+| I Need a Bigger Garage | 63.00% | ~696,612 |
+| Pump my Ride | 47.00% | ~519,695 |
+| Ghostbuster | 34.00% | ~375,950 |
+| Call Roadside Assistance | 18.00% | ~199,032 |
+| That Was Close | 18.00% | ~199,032 |
+| Quickie | 11.00% | ~121,631 |
 | California Dreamer | 7.00% | ~77,401 |
-| Can't Touch This | 5.00% | ~55,286 |
+| Can't Touch This | 5.00% | ~55,287 |
 | Carménère Taster | 4.00% | ~44,229 |
 | Comeback | 4.00% | ~44,229 |
 | Driver from Ipanema | 3.00% | ~33,172 |
 | Supersonic | 3.00% | ~33,172 |
 | Marathonist | 3.00% | ~33,172 |
 | Living Legend | 3.00% | ~33,172 |
-| God of Roads | 2.00% | ~22,114 |
-| Pathfinder | 2.00% | ~22,114 |
-| Go-Kart Champion | 2.00% | ~22,114 |
-| Round the Globe | 2.00% | ~22,114 |
-| Completionist | 2.00% | ~22,114 |
-| Harder, Better, Faster, Stronger | 2.00% | ~22,114 |
+| God of Roads | 2.00% | ~22,115 |
+| Pathfinder | 2.00% | ~22,115 |
+| Go-Kart Champion | 2.00% | ~22,115 |
+| Round the Globe | 2.00% | ~22,115 |
+| Completionist | 2.00% | ~22,115 |
+| Harder, Better, Faster, Stronger | 2.00% | ~22,115 |
 | Crocodile Hunter | 1.00% | ~11,057 |
 | Old Master | 1.00% | ~11,057 |
 | The Iceman | 1.00% | ~11,057 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,211 |
 | Transporter | 0.10% | ~1,106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,105,723 (Ranked 15)  
+Progressed: 1,105,734 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,7 +315,7 @@ Completed: 535 (0.05%) (Ranked 342)
 | 2024-01-13 | 1,104,634 | 535 |
 | 2024-01-14 | 1,105,137 | 535 |
 | 2024-01-15 | 1,105,479 | 535 |
-| 2024-01-16 | 1,105,723 | 535 |
+| 2024-01-16 | 1,105,734 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 309)  
 Sum: 1,653 (Ranked 235)  

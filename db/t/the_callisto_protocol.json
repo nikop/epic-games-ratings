@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2261,9 +2261,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22454,
+  "EOS_Progressed": 22455,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -14106,6 +14106,11 @@
       "Time": "2024-01-16T16:09:31.1663352+00:00",
       "NumProgressed": 22454,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-16T17:09:54.1428668+00:00",
+      "NumProgressed": 22455,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14221,7 +14226,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5164
+      "UsersEstimate": 5165
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14237,7 +14242,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14245,7 +14250,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4715
+      "UsersEstimate": 4716
     },
     {
       "ID": "KILL_ROBOT",
@@ -14373,7 +14378,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "DISMEMBER_100",
@@ -14492,13 +14497,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22454,
+      "Progressed": 22455,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10380,
+      "Progressed": 10381,
       "Completed": 29
     }
   ],
@@ -14506,8 +14511,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-16T13:08:59.757955+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:09:31.1663347+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:54.1428664+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:03:23.5381963+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:09:31.1664366+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:03:19.292809+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:54.1429491+00:00"
 }

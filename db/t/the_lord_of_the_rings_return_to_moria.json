@@ -2934,9 +2934,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 385152,
+  "EOS_Progressed": 385183,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 7713,
+  "EOS_NewPlayers": 7637,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13019,6 +13019,11 @@
       "Time": "2024-01-16T16:09:04.6969014+00:00",
       "NumProgressed": 385152,
       "NumCompleted": 354
+    },
+    {
+      "Time": "2024-01-16T17:09:26.1984187+00:00",
+      "NumProgressed": 385183,
+      "NumCompleted": 354
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -13031,7 +13036,7 @@
       "Name": "Shadow\u0027s Bane",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 38515
+      "UsersEstimate": 38518
     },
     {
       "ID": "CraftedDurinsAxe",
@@ -13039,7 +13044,7 @@
       "Name": "Baruk Khaz\u00E2d!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 50070
+      "UsersEstimate": 50074
     },
     {
       "ID": "CraftedFullSetBelegost",
@@ -13047,7 +13052,7 @@
       "Name": "Decked Out",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19258
+      "UsersEstimate": 19259
     },
     {
       "ID": "CraftedFullSetBrews",
@@ -13063,7 +13068,7 @@
       "Name": "Guarded from Despair",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19258
+      "UsersEstimate": 19259
     },
     {
       "ID": "CraftedFullSetErebor",
@@ -13071,7 +13076,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 127100
+      "UsersEstimate": 127110
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -13079,7 +13084,7 @@
       "Name": "Suit Up",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 207982
+      "UsersEstimate": 207999
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -13087,7 +13092,7 @@
       "Name": "Battering Ram",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 50070
+      "UsersEstimate": 50074
     },
     {
       "ID": "CraftedFullSetMetaElven",
@@ -13103,7 +13108,7 @@
       "Name": "Hard-headed",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3467
     },
     {
       "ID": "CraftedFullSetMetaMasterwork",
@@ -13111,7 +13116,7 @@
       "Name": "Master of All Trades",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 15406
+      "UsersEstimate": 15407
     },
     {
       "ID": "CraftedFullSetMetaShield",
@@ -13135,7 +13140,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 34664
+      "UsersEstimate": 34666
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -13143,7 +13148,7 @@
       "Name": "Deeps Weaponcraft",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 30812
+      "UsersEstimate": 30815
     },
     {
       "ID": "CraftedFullSetWeaponsCh4",
@@ -13159,7 +13164,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 227240
+      "UsersEstimate": 227258
     },
     {
       "ID": "DefeatedBolgakh",
@@ -13167,7 +13172,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 119397
+      "UsersEstimate": 119407
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -13175,7 +13180,7 @@
       "Name": "Darkness Is Passing",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 26961
+      "UsersEstimate": 26963
     },
     {
       "ID": "DefeatedTrollKing",
@@ -13183,7 +13188,7 @@
       "Name": "False King, Deposed",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 53921
+      "UsersEstimate": 53926
     },
     {
       "ID": "DiscoveredAngryCaverns",
@@ -13191,7 +13196,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69327
+      "UsersEstimate": 69333
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -13199,7 +13204,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 119397
+      "UsersEstimate": 119407
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -13207,7 +13212,7 @@
       "Name": "Speak Friend",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 315825
+      "UsersEstimate": 315850
     },
     {
       "ID": "DiscoveredHighway",
@@ -13215,7 +13220,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69327
+      "UsersEstimate": 69333
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -13223,7 +13228,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 188724
+      "UsersEstimate": 188740
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -13231,7 +13236,7 @@
       "Name": "Delving Onward",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 261903
+      "UsersEstimate": 261924
     },
     {
       "ID": "DiscoveredTomb",
@@ -13239,14 +13244,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 130952
+      "UsersEstimate": 130962
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 385152,
+      "Progressed": 385183,
       "Completed": 354
     }
   ],
@@ -13254,8 +13259,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2024-01-16T01:48:10.1174596+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:09:04.696901+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:26.1984182+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:25.3374963+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:00:01.3393098+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:09:04.6969965+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:00:03.3867651+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:26.1984676+00:00"
 }

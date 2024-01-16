@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -393,9 +393,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2396,
+  "EOS_Progressed": 2398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4563,6 +4563,11 @@
       "Time": "2024-01-16T15:05:23.4969298+00:00",
       "NumProgressed": 2396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T17:05:15.9594485+00:00",
+      "NumProgressed": 2398,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4590,7 +4595,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "Achievement_004",
@@ -4620,9 +4625,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 336
     },
     {
       "ID": "Achievement_009",
@@ -4630,7 +4635,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "Achievement_010",
@@ -4710,7 +4715,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "Achievement_020",
@@ -4766,7 +4771,7 @@
       "Name": "Fly Fisher",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Achievement_027",
@@ -4774,7 +4779,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "Achievement_028",
@@ -4798,7 +4803,7 @@
       "Name": "ICU",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "Achievement_031",
@@ -4822,7 +4827,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Achievement_034",
@@ -4830,7 +4835,7 @@
       "Name": "Catch and Release",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "Achievement_035",
@@ -5101,7 +5106,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2396,
+      "Progressed": 2398,
       "Completed": 0
     }
   ],
@@ -5109,8 +5114,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-15T18:59:32.955991+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:12.4081505+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:15.9594482+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:00:18.0585903+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:12.4082339+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:00:19.9440589+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:15.9595365+00:00"
 }

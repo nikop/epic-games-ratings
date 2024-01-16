@@ -107,6 +107,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dracula's Revenge | 0.10% | ~500 |
 | Dude, Where's my Boat? | 0.10% | ~500 |
 | Early-Modern Warfare | 0.10% | ~500 |
+| Eat your Greens | 0.10% | ~500 |
 | Electable! | 0.10% | ~500 |
 | Emperor of Hindustan | 0.10% | ~500 |
 | The Emperors new clothes | 0.10% | ~500 |
@@ -354,7 +355,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Zoro-Austrians | 0.10% | ~500 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
-| Eat your Greens | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 499,983 (Ranked 42)  
+Progressed: 500,021 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 1 (0.00%) (Ranked 402)
 | 2024-01-13 | 498,376 | 1 |
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
-| 2024-01-16 | 499,983 | 1 |
+| 2024-01-16 | 500,021 | 1 |
 ## Awards
 Max (Educational): 7,857  (Ranked 53)  
 Sum: 64,813 (Ranked 24)  

@@ -5,33 +5,33 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,672 |
-| Start with a bang! | 55.00% | ~9,500 |
-| You can pet the cat! | 50.00% | ~8,636 |
-| Who put gears in there? | 41.00% | ~7,082 |
-| Cream of the Crop | 36.00% | ~6,218 |
-| Thanks for the free chip, Peppermint! | 35.00% | ~6,045 |
-| You got this, Peppermint? | 31.00% | ~5,354 |
-| Perfect Parry | 29.00% | ~5,009 |
-| Alright, that felt AWESOME! | 28.00% | ~4,836 |
-| I play my own way! | 24.00% | ~4,145 |
+| Feeling the beat! | 56.00% | ~9,674 |
+| Start with a bang! | 55.00% | ~9,501 |
+| You can pet the cat! | 50.00% | ~8,638 |
+| Who put gears in there? | 41.00% | ~7,083 |
+| Cream of the Crop | 36.00% | ~6,219 |
+| Thanks for the free chip, Peppermint! | 35.00% | ~6,046 |
+| You got this, Peppermint? | 31.00% | ~5,355 |
+| Perfect Parry | 29.00% | ~5,010 |
+| Alright, that felt AWESOME! | 28.00% | ~4,837 |
+| I play my own way! | 24.00% | ~4,146 |
 | This will cost you big time | 23.00% | ~3,973 |
 | Uh, they were broken when I got here | 22.00% | ~3,800 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,627 |
-| Kissing the sky! | 21.00% | ~3,627 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,109 |
-| The Negotiator | 17.00% | ~2,936 |
-| Does that say weakpoint? | 17.00% | ~2,936 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,628 |
+| Kissing the sky! | 20.00% | ~3,455 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,110 |
+| The Negotiator | 17.00% | ~2,937 |
+| Does that say weakpoint? | 17.00% | ~2,937 |
 | You must like calling me in, Chai | 15.00% | ~2,591 |
-| Headliner | 14.00% | ~2,418 |
-| Out in a puff of smoke | 14.00% | ~2,418 |
-| Time to pay up! | 13.00% | ~2,245 |
-| Perfecter Parry-er! | 13.00% | ~2,245 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,245 |
+| Headliner | 14.00% | ~2,419 |
+| Out in a puff of smoke | 14.00% | ~2,419 |
+| Time to pay up! | 13.00% | ~2,246 |
+| Perfecter Parry-er! | 13.00% | ~2,246 |
+| I look cool. But I can look COOLER. | 13.00% | ~2,246 |
 | Who's the boss now? | 12.00% | ~2,073 |
 | I have to read these things? | 12.00% | ~2,073 |
-| There's such a thing as TOO helpful | 9.00% | ~1,554 |
-| NOW we got a kickass hideout! | 9.00% | ~1,421 |
+| There's such a thing as TOO helpful | 9.00% | ~1,555 |
+| NOW we got a kickass hideout! | 9.00% | ~1,422 |
 | Well that was a rush! | 8.00% | ~1,382 |
 | Beat-hit mania | 7.00% | ~1,209 |
 | That's a lot of junk metal… | 7.00% | ~1,209 |
@@ -39,13 +39,13 @@ Rating: 4.86 (Ranked 33)
 | Chip-tuned | 4.00% | ~691 |
 | Wanna hear my playlist? | 4.00% | ~691 |
 | Check out my moves! | 4.00% | ~691 |
-| I think I deserve some praise, here! | 2.00% | ~345 |
-| I think I found your calling, Macaron | 2.00% | ~345 |
-| We're Jammin' | 2.00% | ~345 |
-| I'm not done with you yet | 2.00% | ~345 |
-| First we parry, then we counter | 2.00% | ~345 |
-| I hit things with a guitar really well. | 2.00% | ~345 |
-| You ever parry a volcano? | 2.00% | ~345 |
+| I think I deserve some praise, here! | 2.00% | ~346 |
+| I think I found your calling, Macaron | 2.00% | ~346 |
+| We're Jammin' | 2.00% | ~346 |
+| I'm not done with you yet | 2.00% | ~346 |
+| First we parry, then we counter | 2.00% | ~346 |
+| I hit things with a guitar really well. | 2.00% | ~346 |
+| You ever parry a volcano? | 2.00% | ~346 |
 | Call me Turbo Chai | 2.00% | ~316 |
 | Easy Listening | 1.00% | ~173 |
 | This is a breeze! | 1.00% | ~173 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,272 (Ranked 168)  
+Progressed: 17,275 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 8 (0.05%) (Ranked 342)
 | 2024-01-13 | 17,049 | 8 |
 | 2024-01-14 | 17,157 | 8 |
 | 2024-01-15 | 17,227 | 8 |
-| 2024-01-16 | 17,272 | 8 |
+| 2024-01-16 | 17,275 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

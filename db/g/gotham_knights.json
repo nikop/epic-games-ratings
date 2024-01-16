@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5315,9 +5315,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82876,
+  "EOS_Progressed": 82877,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30460,6 +30460,11 @@
       "Time": "2024-01-16T16:04:31.4216739+00:00",
       "NumProgressed": 82876,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-16T17:04:32.9283101+00:00",
+      "NumProgressed": 82877,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30559,7 +30564,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12431
+      "UsersEstimate": 12432
     },
     {
       "ID": "CHALLENGES_1",
@@ -30711,7 +30716,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15746
+      "UsersEstimate": 15747
     },
     {
       "ID": "FREEZE_3",
@@ -30799,7 +30804,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12431
+      "UsersEstimate": 12432
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -30958,13 +30963,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82876,
+      "Progressed": 82877,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53156,
+      "Progressed": 53157,
       "Completed": 2679
     }
   ],
@@ -30972,8 +30977,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-16T08:59:21.3312471+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:04:31.4216736+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:04:32.9283098+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:39.481566+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:04:31.421885+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:59:39.7803343+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:04:32.928456+00:00"
 }

@@ -7,28 +7,28 @@ Number of Ratings: 1,225  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~400,321 |
-| Happy Returns | 78.00% | ~385,494 |
-| Hey! That's mine! | 78.00% | ~385,494 |
-| Field Promotion | 74.00% | ~365,725 |
-| Leadhead | 71.00% | ~350,898 |
+| Happy Returns | 78.00% | ~385,495 |
+| Hey! That's mine! | 78.00% | ~385,495 |
+| Field Promotion | 74.00% | ~365,726 |
+| Leadhead | 71.00% | ~350,899 |
 | Eradicator | 68.00% | ~336,072 |
-| Surplus | 66.00% | ~326,187 |
+| Surplus | 66.00% | ~326,188 |
 | I Spy | 64.00% | ~316,303 |
 | Burn Baby Burn | 59.00% | ~291,592 |
 | Yellow Beats Green | 56.00% | ~276,765 |
-| Salvage Rights | 53.00% | ~261,938 |
+| Salvage Rights | 53.00% | ~261,939 |
 | What IS that? | 51.00% | ~252,054 |
 | Close Call | 50.00% | ~247,112 |
 | Pew Pew | 50.00% | ~247,112 |
-| Penny Pincher | 49.00% | ~242,169 |
+| Penny Pincher | 49.00% | ~242,170 |
 | Arsenal | 46.00% | ~227,343 |
 | Boot Camp | 46.00% | ~227,343 |
 | Flawless Victory | 42.00% | ~207,574 |
-| Confident | 41.00% | ~202,631 |
-| Exterminator | 36.00% | ~177,920 |
+| Confident | 41.00% | ~202,632 |
+| Exterminator | 36.00% | ~177,921 |
 | Sharpshooter | 34.00% | ~168,036 |
 | Not So Fast | 33.00% | ~163,094 |
-| Great Ball of Fire | 32.00% | ~158,151 |
+| Great Ball of Fire | 32.00% | ~158,152 |
 | No Sale | 31.00% | ~153,209 |
 | Kaboom! | 30.00% | ~148,267 |
 | Liquidator | 29.00% | ~143,325 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,223 (Ranked 43)  
+Progressed: 494,224 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -365,7 +365,7 @@ Completed: 5 (0.00%) (Ranked 402)
 | 2024-01-13 | 494,049 | 5 |
 | 2024-01-14 | 494,126 | 5 |
 | 2024-01-15 | 494,194 | 5 |
-| 2024-01-16 | 494,223 | 5 |
+| 2024-01-16 | 494,224 | 5 |
 ## Awards
 Max (Great for Beginners): 263  (Ranked 280)  
 Sum: 1,747 (Ranked 229)  

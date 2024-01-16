@@ -6,39 +6,39 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~115 |
-| Best Buddy | 39.00% | ~99 |
-| Civilian | 36.00% | ~92 |
-| Role Model | 34.00% | ~87 |
-| Creator | 32.00% | ~82 |
-| Military Leader | 29.00% | ~74 |
-| Festival-goer | 29.00% | ~74 |
+| Entrepreneur | 45.00% | ~116 |
+| Best Buddy | 38.00% | ~98 |
+| Civilian | 35.00% | ~90 |
+| Role Model | 34.00% | ~88 |
+| Creator | 31.00% | ~80 |
+| Military Leader | 29.00% | ~75 |
+| Festival-goer | 28.00% | ~72 |
 | Peddler | 25.00% | ~64 |
-| Commander | 25.00% | ~64 |
-| Irissa's Fate | 20.00% | ~51 |
-| Family Reunion | 19.00% | ~48 |
+| Commander | 24.00% | ~62 |
+| Irissa's Fate | 20.00% | ~52 |
+| Family Reunion | 19.00% | ~49 |
 | Long-Haul Flyer | 18.00% | ~46 |
 | Pass A38 | 18.00% | ~46 |
 | Eternal Oblivion | 16.00% | ~41 |
 | Storyteller | 14.00% | ~36 |
-| Banker | 13.00% | ~33 |
-| Globetrotter | 13.00% | ~33 |
-| Berserker | 13.00% | ~33 |
+| Banker | 13.00% | ~34 |
+| Berserker | 13.00% | ~34 |
+| Globetrotter | 12.00% | ~31 |
 | Alb | 11.00% | ~28 |
 | Hunter | 11.00% | ~28 |
-| Lover | 11.00% | ~28 |
+| Lover | 10.00% | ~26 |
 | Beam Me Up | 9.00% | ~23 |
 | Perfectionist | 9.00% | ~23 |
-| Treasure Hunter | 8.00% | ~20 |
-| Free as a Bird | 8.00% | ~20 |
+| Treasure Hunter | 8.00% | ~21 |
+| Free as a Bird | 8.00% | ~21 |
 | Hotshot | 7.00% | ~18 |
 | Detective | 7.00% | ~18 |
 | Weaponsmith | 6.00% | ~15 |
 | Cleric | 6.00% | ~15 |
 | Alchemist | 5.00% | ~13 |
-| Self-Sufficient | 4.00% | ~10 |
-| Unbreakable | 4.00% | ~10 |
+| Self-Sufficient | 3.00% | ~8 |
 | Idealist | 3.00% | ~8 |
+| Unbreakable | 3.00% | ~8 |
 | Morkon | 3.00% | ~8 |
 | Legendary | 3.00% | ~8 |
 | Toy Time | 2.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defender | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255 (Ranked 419)  
+Progressed: 258 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 242 | 0 |
 | 2024-01-14 | 249 | 0 |
 | 2024-01-15 | 253 | 0 |
-| 2024-01-16 | 255 | 0 |
+| 2024-01-16 | 258 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

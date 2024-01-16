@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1507,9 +1507,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260721,
+  "EOS_Progressed": 260724,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27402,6 +27402,11 @@
       "Time": "2024-01-16T15:05:34.3005463+00:00",
       "NumProgressed": 260721,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T17:05:27.5141602+00:00",
+      "NumProgressed": 260724,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27413,7 +27418,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "Act2",
@@ -27701,7 +27706,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59966
+      "UsersEstimate": 59967
     },
     {
       "ID": "KillOthers2",
@@ -27860,7 +27865,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260721,
+      "Progressed": 260724,
       "Completed": 3
     }
   ],
@@ -27868,8 +27873,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-15T13:03:04.4373001+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:23.2882406+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:27.5141597+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:10.3888649+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:23.2884578+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:04.1538432+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:27.5143481+00:00"
 }

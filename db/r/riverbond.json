@@ -509,9 +509,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535733,
+  "EOS_Progressed": 535734,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29409,6 +29409,11 @@
       "Time": "2024-01-16T15:08:55.9306341+00:00",
       "NumProgressed": 535733,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-16T17:08:48.7219444+00:00",
+      "NumProgressed": 535734,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 57,
@@ -29436,7 +29441,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375013
+      "UsersEstimate": 375014
     },
     {
       "ID": "12",
@@ -29500,7 +29505,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 332154
+      "UsersEstimate": 332155
     },
     {
       "ID": "2",
@@ -29644,7 +29649,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 267866
+      "UsersEstimate": 267867
     },
     {
       "ID": "36",
@@ -29676,7 +29681,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 182149
+      "UsersEstimate": 182150
     },
     {
       "ID": "4",
@@ -29748,7 +29753,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 332154
+      "UsersEstimate": 332155
     },
     {
       "ID": "48",
@@ -29764,7 +29769,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 182149
+      "UsersEstimate": 182150
     },
     {
       "ID": "5",
@@ -29796,7 +29801,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246437
+      "UsersEstimate": 246438
     },
     {
       "ID": "53",
@@ -29875,15 +29880,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535733,
+      "Progressed": 535734,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:08:29.3046946+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:08:48.7219439+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:57:51.8652177+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:08:29.3049459+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:57:44.0046637+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:08:48.7221146+00:00"
 }

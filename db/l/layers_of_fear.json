@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1842,9 +1842,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "tough_conversation",
@@ -1897,8 +1897,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:08:48.0066081+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:08.5197601+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:21.5264775+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:08:48.0066678+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:16.5729971+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:08.5198067+00:00"
 }

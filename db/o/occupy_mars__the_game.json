@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1890,
+  "EOS_Progressed": 1891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5080,6 +5080,11 @@
       "Time": "2024-01-16T13:15:15.8111707+00:00",
       "NumProgressed": 1890,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T17:09:46.402164+00:00",
+      "NumProgressed": 1891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5251,7 +5256,7 @@
       "Name": "DeDust",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -5281,9 +5286,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 473
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5323,7 +5328,7 @@
       "Name": "ITS crash site",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -5339,7 +5344,7 @@
       "Name": "Miner",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5474,7 +5479,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1890,
+      "Progressed": 1891,
       "Completed": 0
     }
   ],
@@ -5482,8 +5487,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-16T15:59:32.5251341+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:09:23.9143256+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:46.4021635+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.4882555+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:32.5251346+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:09:23.9144383+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:59:32.8483527+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:46.402231+00:00"
 }

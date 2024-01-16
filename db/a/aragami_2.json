@@ -2,12 +2,12 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -259,7 +259,7 @@
   "Tags": [],
   "EOS_Progressed": 45196,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -21550,9 +21550,9 @@
       "ID": "ACHIEVEMENT_45",
       "SetID": "db84117",
       "Name": "I don\u2019t Care!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20338
+      "UsersEstimate": 20790
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -21607,8 +21607,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:03:59.7494132+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:04:00.4004384+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:03:18.5002694+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:03:59.7496163+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:03:13.3238787+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:04:00.4005858+00:00"
 }

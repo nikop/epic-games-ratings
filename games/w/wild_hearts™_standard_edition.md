@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,375 |
-| Hidden History | 72.00% | ~990 |
-| Commencing of Quests | 62.00% | ~852 |
+| Land of the Rising Sun | 100.00% | ~1,376 |
+| Hidden History | 72.00% | ~991 |
+| Commencing of Quests | 62.00% | ~853 |
 | Budding Conjuror | 61.00% | ~839 |
 | Man-Machine Master | 50.00% | ~688 |
 | Mountain Splitter | 50.00% | ~688 |
 | Charmed by the Hunt | 50.00% | ~688 |
 | Memory Rouser | 48.00% | ~660 |
 | Subsistence Skills | 48.00% | ~660 |
-| Fusion Conjuror | 47.00% | ~646 |
+| Fusion Conjuror | 47.00% | ~647 |
 | Kemono Hunter | 44.00% | ~605 |
 | Helpful Heart | 41.00% | ~564 |
 | Expert Conjuror | 41.00% | ~564 |
-| Bonds of Enmity | 39.00% | ~536 |
-| Flawless Crystal | 38.00% | ~522 |
+| Bonds of Enmity | 39.00% | ~537 |
+| Flawless Crystal | 38.00% | ~523 |
 | Distance Devourer | 37.00% | ~509 |
 | Counter Specialist | 34.00% | ~468 |
 | Master of the Skies | 32.00% | ~440 |
@@ -27,8 +27,8 @@
 | Fair Means or Foul | 28.00% | ~385 |
 | Kemono at Heart | 28.00% | ~385 |
 | Single Minded | 26.00% | ~358 |
+| Karakuri Trail | 24.00% | ~330 |
 | Snare Specialist | 24.00% | ~330 |
-| Karakuri Trail | 23.00% | ~316 |
 | Karakuri Isle | 21.00% | ~289 |
 | Team Hunter | 21.00% | ~289 |
 | Artful Assister | 21.00% | ~289 |
@@ -48,12 +48,12 @@
 | Volatile Vocation | 9.00% | ~124 |
 | Superlative View | 8.00% | ~110 |
 | Relentless Kemono Hunter | 7.00% | ~96 |
-| Vanquisher of the Volatile | 6.00% | ~82 |
-| Big Spender | 6.00% | ~82 |
+| Vanquisher of the Volatile | 6.00% | ~83 |
+| Big Spender | 6.00% | ~83 |
 | Bewitched by Bathing | 4.00% | ~55 |
 | Tsukumo Whisperer | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,375 (Ranked 277)  
+Progressed: 1,376 (Ranked 277)  
 Completed: 8 (0.58%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 8 (0.58%) (Ranked 216)
 | 2024-01-13 | 1,360 | 8 |
 | 2024-01-14 | 1,366 | 8 |
 | 2024-01-15 | 1,372 | 8 |
-| 2024-01-16 | 1,375 | 8 |
+| 2024-01-16 | 1,376 | 8 |

@@ -507,9 +507,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4082,
+  "EOS_Progressed": 4083,
   "EOS_Completed": 145,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.55,
   "EosHistory": [
@@ -7427,6 +7427,11 @@
       "Time": "2024-01-16T16:04:14.548865+00:00",
       "NumProgressed": 4082,
       "NumCompleted": 145
+    },
+    {
+      "Time": "2024-01-16T17:04:15.4803338+00:00",
+      "NumProgressed": 4083,
+      "NumCompleted": 145
     }
   ],
   "TotalAchievements": 14,
@@ -7438,7 +7443,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7486,7 +7491,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7542,14 +7547,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4082,
+      "Progressed": 4083,
       "Completed": 145
     }
   ],
@@ -7557,8 +7562,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-05T23:57:59.2122093+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:04:14.5488646+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:04:15.4803333+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:58.2010223+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:04:14.5489159+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:00:00.1024272+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:04:15.4803735+00:00"
 }

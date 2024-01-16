@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 835,
   "Ranking_EOS_Completed": 402,
   "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -15445,11 +15445,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 92321,
       "NumberOfAwardsMax": 14004
+    },
+    {
+      "Time": "2024-01-16T17:02:58.7162902+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 92387,
+      "NumberOfAwardsMax": 14035
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92321,
-  "NumberOfAwardsMax": 14004,
+  "NumberOfAwards": 92387,
+  "NumberOfAwardsMax": 14035,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -15462,7 +15468,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 11437
+      "Count": 11461
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15474,7 +15480,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 14004
+      "Count": 14035
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15504,7 +15510,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 7327
+      "Count": 7338
     },
     {
       "Text": "This game has a Creative Community",
@@ -15524,8 +15530,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-01-16T16:03:05.0251558+00:00",
+  "LastChanged": "2024-01-16T17:02:58.71629+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:48.4107759+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:03:05.0251564+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:03:55.8742419+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:02:58.7162906+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:03:56.0977503+00:00"
 }

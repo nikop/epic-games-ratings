@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 178,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -1167,9 +1167,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -1334,8 +1334,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:06:40.7599219+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:08:29.7148532+00:00",
   "LastUpdate_AppInfo": "2024-01-09T22:56:58.8135864+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:39.9951418+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:06:40.7599764+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:36.1045951+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:08:29.7149+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.52 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,493 |
-| I've Had Enough! | 15.00% | ~18,547 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,601 |
-| Seasoned Fighter | 9.00% | ~11,128 |
-| All For One and One For All | 8.00% | ~9,892 |
-| Home Sweet Home? | 6.00% | ~7,419 |
-| A New Age | 5.00% | ~6,182 |
-| Oh Baby, A Triple | 3.00% | ~3,709 |
-| Master of Disguise | 3.00% | ~3,709 |
-| Symbiotic | 3.00% | ~3,709 |
+| All Grown Up! | 19.00% | ~23,496 |
+| I've Had Enough! | 15.00% | ~18,550 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,603 |
+| Seasoned Fighter | 9.00% | ~11,130 |
+| All For One and One For All | 8.00% | ~9,893 |
+| Home Sweet Home? | 6.00% | ~7,420 |
+| A New Age | 5.00% | ~6,183 |
+| Oh Baby, A Triple | 3.00% | ~3,710 |
+| Master of Disguise | 3.00% | ~3,710 |
+| Symbiotic | 3.00% | ~3,710 |
 | Battle Hardened | 2.00% | ~2,473 |
 | Double Punch! | 2.00% | ~2,473 |
 | It's Mayhem! | 2.00% | ~2,473 |
 | Right back at'cha | 2.00% | ~2,473 |
 | Spectacular Finisher | 2.00% | ~2,473 |
-| Cautious Veteran | 1.00% | ~1,236 |
-| Katamari | 1.00% | ~1,236 |
-| Martyrdom | 1.00% | ~1,236 |
+| Cautious Veteran | 1.00% | ~1,237 |
+| Katamari | 1.00% | ~1,237 |
+| Martyrdom | 1.00% | ~1,237 |
 | Ninja Reflex | 0.90% | ~1,113 |
 | Zero-sum Game | 0.90% | ~1,113 |
 | Taste Your Own Medicine | 0.70% | ~866 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 580)
 | What's Mine is Yours | 0.10% | ~124 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,648 (Ranked 94)  
+Progressed: 123,665 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,11 +83,11 @@ Completed: 0 (0.00%) (Ranked 402)
 | 2024-01-13 | 122,385 | 0 |
 | 2024-01-14 | 122,954 | 0 |
 | 2024-01-15 | 123,364 | 0 |
-| 2024-01-16 | 123,648 | 0 |
+| 2024-01-16 | 123,665 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 442)  
-Sum: 57 (Ranked 505)  
-Diff (max vs sum): -63  
+Sum: 57 (Ranked 506)  
+Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 57 |

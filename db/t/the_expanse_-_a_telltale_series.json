@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19071,
+  "EOS_Progressed": 19072,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17544,6 +17544,11 @@
       "Time": "2024-01-16T16:05:30.4342229+00:00",
       "NumProgressed": 19071,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T17:05:35.0150029+00:00",
+      "NumProgressed": 19072,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17564,7 +17569,7 @@
       "Name": "Data Miner",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "11",
@@ -17588,7 +17593,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "14",
@@ -17732,7 +17737,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3051
+      "UsersEstimate": 3052
     },
     {
       "ID": "30",
@@ -17804,7 +17809,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "33",
@@ -17835,13 +17840,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19071,
+      "Progressed": 19072,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5025,
+      "Progressed": 5026,
       "Completed": 1333
     }
   ],
@@ -17849,8 +17854,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:30.4342222+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:35.0150025+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:59:20.252164+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:30.4343786+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:59:20.02607+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:35.0151125+00:00"
 }

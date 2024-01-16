@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,031 |
-| Biggest Communism Builder | 23.00% | ~32,061 |
-| The World's Most Laughable Centrist | 20.00% | ~27,879 |
-| Il Coppo Del'Arte! | 18.00% | ~25,091 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,303 |
-| Hyperstellar Law Official | 15.00% | ~20,909 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,515 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,515 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,121 |
+| Goodest Of The Good Cops | 28.00% | ~39,033 |
+| Biggest Communism Builder | 23.00% | ~32,062 |
+| The World's Most Laughable Centrist | 20.00% | ~27,880 |
+| Il Coppo Del'Arte! | 18.00% | ~25,092 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,304 |
+| Hyperstellar Law Official | 15.00% | ~20,910 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,516 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,516 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,122 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,334 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,546 |
 | Unbelievably Boring **** | 8.00% | ~11,152 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,396 (Ranked 91)  
+Progressed: 139,402 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 367)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 29 (0.02%) (Ranked 367)
 | 2024-01-13 | 139,075 | 29 |
 | 2024-01-14 | 139,209 | 29 |
 | 2024-01-15 | 139,320 | 29 |
-| 2024-01-16 | 139,396 | 29 |
+| 2024-01-16 | 139,402 | 29 |
 ## Awards
-Max (Character Customization): 767  (Ranked 191)  
+Max (Character Customization): 767  (Ranked 192)  
 Sum: 1,169 (Ranked 266)  
-Diff (max vs sum): -75  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 767 |

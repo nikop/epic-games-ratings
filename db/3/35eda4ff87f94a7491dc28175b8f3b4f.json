@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22229,
+  "EOS_Progressed": 22235,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8282,6 +8282,11 @@
       "Time": "2024-01-16T16:04:08.7730113+00:00",
       "NumProgressed": 22229,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2024-01-16T17:04:09.4085144+00:00",
+      "NumProgressed": 22235,
+      "NumCompleted": 113
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8334,7 +8339,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -8342,7 +8347,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2890
+      "UsersEstimate": 2891
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8373,7 +8378,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22229,
+      "Progressed": 22235,
       "Completed": 113
     }
   ],
@@ -8381,8 +8386,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:04:08.773011+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:04:09.4085139+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:58:39.3010637+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:04:08.7730892+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:58:35.4277535+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:04:09.4085753+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,432 |
-| Battering Crew | 19.00% | ~6,380 |
-| The Kingsroad | 17.00% | ~5,708 |
-| Well Stocked | 13.00% | ~4,365 |
-| Royal Fleet | 12.00% | ~4,029 |
+| Conqueror | 40.00% | ~13,433 |
+| Battering Crew | 19.00% | ~6,381 |
+| The Kingsroad | 17.00% | ~5,709 |
+| Well Stocked | 13.00% | ~4,366 |
+| Royal Fleet | 12.00% | ~4,030 |
 | The Kraken’s Grasp | 9.00% | ~3,022 |
-| Daggers in the Dark | 8.00% | ~2,686 |
-| Alliance | 8.00% | ~2,686 |
+| Daggers in the Dark | 8.00% | ~2,687 |
+| Alliance | 8.00% | ~2,687 |
 | Winter is Coming | 7.00% | ~2,351 |
 | Oathkeeper | 7.00% | ~2,351 |
 | Influential | 7.00% | ~2,351 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~672 |
 | War of the Five Kings | 1.00% | ~336 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,579 (Ranked 141)  
+Progressed: 33,583 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 88 (0.26%) (Ranked 269)
 | 2024-01-13 | 33,357 | 87 |
 | 2024-01-14 | 33,463 | 87 |
 | 2024-01-15 | 33,534 | 88 |
-| 2024-01-16 | 33,579 | 88 |
+| 2024-01-16 | 33,583 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 352)  
 Sum: 814 (Ranked 292)  

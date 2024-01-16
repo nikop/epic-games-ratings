@@ -1,7 +1,7 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 533)  
+Rating: 4.55 (Ranked 532)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,7 +14,7 @@ Number of Ratings: 88  (23.09.2022)
 | Secret Seeker | 57.00% | ~25,762 |
 | Forge of Assassins | 55.00% | ~24,858 |
 | Revenant | 52.00% | ~23,502 |
-| I don’t Care! | 45.00% | ~20,338 |
+| I don’t Care! | 46.00% | ~20,790 |
 | Bird of Prey | 37.00% | ~16,723 |
 | Engraved with Power | 32.00% | ~14,463 |
 | Lady | 31.00% | ~14,011 |

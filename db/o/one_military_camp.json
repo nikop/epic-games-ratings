@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 402,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -1442,9 +1442,9 @@
       "ID": "ACHIEVEMENT_ID_19",
       "SetID": "c504de6",
       "Name": "Health Care",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_ID_2",
@@ -1474,9 +1474,9 @@
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -1690,9 +1690,9 @@
       "ID": "ACHIEVEMENT_ID_8",
       "SetID": "c504de6",
       "Name": "Green Energy",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1713,8 +1713,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:05:40.3429737+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:05:45.9160564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.4606605+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:57:42.0669439+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:05:40.3430327+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:57:33.7956272+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:05:45.9161029+00:00"
 }

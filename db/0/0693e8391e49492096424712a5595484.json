@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 793,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 6.94,
   "EosHistory": [
@@ -3274,9 +3274,9 @@
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 167
+      "UsersEstimate": 174
     },
     {
       "ID": "BearBroom",
@@ -3458,9 +3458,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 309
     },
     {
       "ID": "PitSoul",
@@ -3625,8 +3625,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:06:18.1579012+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:06:25.8875275+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-16T15:57:32.2861733+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:06:18.1579931+00:00"
+  "LastUpdate_Ratings": "2024-01-16T16:57:22.4223567+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:06:25.8875857+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,100 |
-| Lost and Found | 9.00% | ~707 |
-| Autodidact | 8.00% | ~10,639 |
-| This Belongs in a Museum | 7.00% | ~9,309 |
-| Overdue Notice | 7.00% | ~9,309 |
-| This guy... again? | 7.00% | ~550 |
-| Serenity Now! | 6.00% | ~7,979 |
-| Creep and Sleep | 6.00% | ~7,979 |
-| Catch and Decease | 6.00% | ~7,979 |
-| Escape from the Black Hole | 6.00% | ~7,979 |
-| To Grandmother's House | 6.00% | ~7,979 |
+| Malpractice Assurance | 14.00% | ~1,101 |
+| Lost and Found | 9.00% | ~708 |
+| Autodidact | 8.00% | ~10,640 |
+| This Belongs in a Museum | 7.00% | ~9,310 |
+| Overdue Notice | 7.00% | ~9,310 |
+| This guy... again? | 7.00% | ~551 |
+| Serenity Now! | 6.00% | ~7,980 |
+| Creep and Sleep | 6.00% | ~7,980 |
+| Catch and Decease | 6.00% | ~7,980 |
+| Escape from the Black Hole | 6.00% | ~7,980 |
+| To Grandmother's House | 6.00% | ~7,980 |
 | Ploughshares to Swords | 6.00% | ~472 |
 | Bloody Graduation | 6.00% | ~472 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,650 |
@@ -72,8 +72,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.80% | ~1,064 |
 | A Life Well Lived | 0.70% | ~931 |
 | Bacon Bits | 0.60% | ~798 |
+| Eidetic | 0.60% | ~798 |
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
-| Eidetic | 0.50% | ~665 |
 | Battle Hardened | 0.50% | ~39 |
 | Tears in the Rain | 0.40% | ~532 |
 | Maître De La Lame | 0.40% | ~31 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,991 (Ranked 92)  
+Progressed: 132,996 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 402)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,991 | 5 |
+| 2024-01-16 | 132,996 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,679 (Ranked 58)  

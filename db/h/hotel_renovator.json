@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1467,
+  "EOS_Progressed": 1468,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -3687,6 +3687,11 @@
       "Time": "2024-01-13T17:09:09.6855717+00:00",
       "NumProgressed": 1467,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-16T17:09:05.1402868+00:00",
+      "NumProgressed": 1468,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3698,7 +3703,7 @@
       "Name": "Humble beginnings",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ACH_BOOK_ALL",
@@ -3714,7 +3719,7 @@
       "Name": "Soulmate?",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -3722,7 +3727,7 @@
       "Name": "Roll with it",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3730,7 +3735,7 @@
       "Name": "Kaboom",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -3746,7 +3751,7 @@
       "Name": "Love is in the air",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3762,7 +3767,7 @@
       "Name": "No need to call anyone",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -3794,7 +3799,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3802,15 +3807,15 @@
       "Name": "And so it begins",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
       "SetID": "7k95e4n",
       "Name": "Hotel sleuthing",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_NEWSPAPER_ARTICLE",
@@ -3850,7 +3855,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "ACH_STAR_2",
@@ -3866,7 +3871,7 @@
       "Name": "Still more work ahead",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACH_STAR_4",
@@ -3882,7 +3887,7 @@
       "Name": "You\u0027re a star",
       "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -3898,7 +3903,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -3913,7 +3918,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1467,
+      "Progressed": 1468,
       "Completed": 18
     }
   ],
@@ -3921,8 +3926,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-16T04:01:08.6870618+00:00",
-  "LastChanged_Achievements": "2024-01-16T16:08:44.7849758+00:00",
+  "LastChanged_Achievements": "2024-01-16T17:09:05.1402863+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:25.9171529+00:00",
-  "LastUpdate_Ratings": "2024-01-16T16:00:16.0301499+00:00",
-  "LastUpdate_Achievements": "2024-01-16T16:08:44.7850252+00:00"
+  "LastUpdate_Ratings": "2024-01-16T17:00:16.4781169+00:00",
+  "LastUpdate_Achievements": "2024-01-16T17:09:05.1403352+00:00"
 }
