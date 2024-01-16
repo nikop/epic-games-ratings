@@ -3619,7 +3619,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47065,
+  "EOS_Progressed": 47066,
   "EOS_Completed": 373,
   "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 3,
@@ -33824,6 +33824,11 @@
       "Time": "2024-01-16T07:05:16.8372753+00:00",
       "NumProgressed": 47065,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-16T08:05:22.6122984+00:00",
+      "NumProgressed": 47066,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -33835,7 +33840,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 27768
+      "UsersEstimate": 27769
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -33875,7 +33880,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10354
+      "UsersEstimate": 10355
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -33939,7 +33944,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -33947,7 +33952,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 23532
+      "UsersEstimate": 23533
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -34059,7 +34064,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 16943
+      "UsersEstimate": 16944
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -34107,7 +34112,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8942
+      "UsersEstimate": 8943
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -34267,7 +34272,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8942
+      "UsersEstimate": 8943
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -34299,7 +34304,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -34314,15 +34319,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47065,
+      "Progressed": 47066,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-13T13:59:43.4237185+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:05:16.837275+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:05:22.6122981+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:57:31.6139266+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:05:16.8374483+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:57:35.5326146+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:05:22.6124508+00:00"
 }

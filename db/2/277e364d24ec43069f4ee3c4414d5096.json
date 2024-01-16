@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120160,
+  "EOS_Progressed": 120161,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25047,6 +25047,11 @@
       "Time": "2024-01-16T07:10:05.3853469+00:00",
       "NumProgressed": 120160,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-16T08:10:06.9229906+00:00",
+      "NumProgressed": 120161,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25066,7 +25071,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92523
+      "UsersEstimate": 92524
     },
     {
       "ID": "EAwards_10",
@@ -25130,7 +25135,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44459
+      "UsersEstimate": 44460
     },
     {
       "ID": "EAwards_18",
@@ -25154,7 +25159,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58878
+      "UsersEstimate": 58879
     },
     {
       "ID": "EAwards_20",
@@ -25449,7 +25454,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120160,
+      "Progressed": 120161,
       "Completed": 61
     }
   ],
@@ -25457,8 +25462,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:10:05.3853466+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:10:06.9229902+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:05.2095459+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:10:05.3854877+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:11.7013204+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:10:06.9231427+00:00"
 }

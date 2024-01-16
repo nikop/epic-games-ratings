@@ -8,7 +8,7 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~112 |
 | Best Buddy | 39.00% | ~99 |
-| Civilian | 35.00% | ~89 |
+| Civilian | 36.00% | ~91 |
 | Role Model | 33.00% | ~84 |
 | Creator | 32.00% | ~81 |
 | Military Leader | 29.00% | ~74 |
@@ -29,9 +29,9 @@ Number of Ratings: 124  (23.09.2022)
 | Lover | 10.00% | ~25 |
 | Beam Me Up | 9.00% | ~23 |
 | Perfectionist | 9.00% | ~23 |
+| Free as a Bird | 8.00% | ~20 |
 | Treasure Hunter | 7.00% | ~18 |
 | Hotshot | 7.00% | ~18 |
-| Free as a Bird | 7.00% | ~18 |
 | Detective | 7.00% | ~18 |
 | Weaponsmith | 6.00% | ~15 |
 | Cleric | 6.00% | ~15 |

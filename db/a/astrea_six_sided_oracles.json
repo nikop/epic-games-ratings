@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 401,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1627,9 +1627,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 123
     },
     {
       "ID": "AnomalyMaster",
@@ -1843,9 +1843,9 @@
       "ID": "DicesmithingTime",
       "SetID": "1jeo1g7",
       "Name": "Dicesmithing Time!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 246
+      "UsersEstimate": 250
     },
     {
       "ID": "EndlessTricks",
@@ -1979,9 +1979,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2410,8 +2410,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:09:08.0266242+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:09:07.4085417+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:22.844683+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:09:08.0267172+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:31.305804+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:09:07.4086444+00:00"
 }

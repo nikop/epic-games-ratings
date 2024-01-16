@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41611,
+  "EOS_Progressed": 41614,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2101,
+  "EOS_NewPlayers": 2098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14049,6 +14049,11 @@
       "Time": "2024-01-16T07:10:06.213044+00:00",
       "NumProgressed": 41611,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T08:10:07.8344771+00:00",
+      "NumProgressed": 41614,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -14109,7 +14114,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "achievement_16",
@@ -14173,7 +14178,7 @@
       "Name": "Fearless",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "achievement_23",
@@ -14181,7 +14186,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "achievement_24",
@@ -14269,7 +14274,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7490
+      "UsersEstimate": 7491
     },
     {
       "ID": "achievement_34",
@@ -14285,7 +14290,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 39530
+      "UsersEstimate": 39533
     },
     {
       "ID": "achievement_36",
@@ -14301,7 +14306,7 @@
       "Name": "Asset Secured",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "achievement_38",
@@ -14333,7 +14338,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "achievement_41",
@@ -14405,7 +14410,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5409
+      "UsersEstimate": 5410
     },
     {
       "ID": "achievement_7",
@@ -14429,14 +14434,14 @@
       "Name": "A Promising Career",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 41611,
+      "Progressed": 41614,
       "Completed": 3
     }
   ],
@@ -14444,8 +14449,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:10:06.2130437+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:10:07.8344769+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.3811703+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:03:33.1573107+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:10:06.2131347+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:03:35.0931487+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:10:07.8345594+00:00"
 }

@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80182,
+  "EOS_Progressed": 80184,
   "EOS_Completed": 434,
   "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 3,
@@ -30284,6 +30284,11 @@
       "Time": "2024-01-16T07:09:43.5414729+00:00",
       "NumProgressed": 80182,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2024-01-16T08:09:44.6280812+00:00",
+      "NumProgressed": 80184,
+      "NumCompleted": 434
     }
   ],
   "TotalAchievements": 24,
@@ -30295,7 +30300,7 @@
       "Name": "ANCIENT HISTORY",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 2405
+      "UsersEstimate": 2406
     },
     {
       "ID": "AWAKEN",
@@ -30311,7 +30316,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55326
+      "UsersEstimate": 55327
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30327,7 +30332,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20847
+      "UsersEstimate": 20848
     },
     {
       "ID": "ERADICATE",
@@ -30335,7 +30340,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16838
+      "UsersEstimate": 16839
     },
     {
       "ID": "FETCH",
@@ -30343,7 +30348,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22451
+      "UsersEstimate": 22452
     },
     {
       "ID": "FOXIN_AROUND",
@@ -30375,7 +30380,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42496
+      "UsersEstimate": 42498
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -30415,7 +30420,7 @@
       "Name": "OLD COMPANION",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 7216
+      "UsersEstimate": 7217
     },
     {
       "ID": "PLAGUE_DOCTOR",
@@ -30423,7 +30428,7 @@
       "Name": "PLAGUE DOCTOR",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 7216
+      "UsersEstimate": 7217
     },
     {
       "ID": "SPIRITED_AWAY",
@@ -30486,7 +30491,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80182,
+      "Progressed": 80184,
       "Completed": 434
     }
   ],
@@ -30494,8 +30499,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:09:43.5414726+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:09:44.628081+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:00:32.8204279+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:09:43.5416398+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:00:45.7554781+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:09:44.6282423+00:00"
 }

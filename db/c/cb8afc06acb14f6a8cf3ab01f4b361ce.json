@@ -497,9 +497,9 @@
       "Count": 81
     }
   ],
-  "EOS_Progressed": 346092,
+  "EOS_Progressed": 346105,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2915,
+  "EOS_NewPlayers": 2922,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13562,6 +13562,11 @@
       "Time": "2024-01-16T07:09:03.6490196+00:00",
       "NumProgressed": 346092,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-16T08:09:02.9844575+00:00",
+      "NumProgressed": 346105,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13878,7 +13883,7 @@
       "Name": "I took a risk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "S40_BONUS",
@@ -13893,7 +13898,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 346092,
+      "Progressed": 346105,
       "Completed": 7
     }
   ],
@@ -13901,8 +13906,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-16T05:59:48.6593986+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:09:03.6490192+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:09:02.9844572+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:59:40.8848422+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:09:03.6491048+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:59:52.4683134+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:09:02.984558+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10503,
+  "EOS_Progressed": 10505,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17079,6 +17079,11 @@
       "Time": "2024-01-16T06:04:37.0190593+00:00",
       "NumProgressed": 10503,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T08:04:38.2245728+00:00",
+      "NumProgressed": 10505,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17090,7 +17095,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3886
+      "UsersEstimate": 3887
     },
     {
       "ID": "10",
@@ -17162,7 +17167,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "5",
@@ -17209,7 +17214,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10503,
+      "Progressed": 10505,
       "Completed": 0
     }
   ],
@@ -17217,8 +17222,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:04:33.7181998+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:04:38.2245724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:17.8934114+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:04:33.7182926+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:25.0689633+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:04:38.2247462+00:00"
 }

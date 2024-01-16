@@ -33,9 +33,9 @@ Rating: 4.19 (Ranked 975)
 | Shroudfane Explorer | 7.00% | ~243 |
 | Best Dressed | 6.00% | ~208 |
 | Kitted Out | 5.00% | ~174 |
+| Armaments Azure | 5.00% | ~174 |
 | Armaments Gules | 5.00% | ~174 |
 | Scholar | 4.00% | ~139 |
-| Armaments Azure | 4.00% | ~139 |
 | Armaments Vert | 4.00% | ~139 |
 | Veteran | 3.00% | ~104 |
 | Grand Magnus | 2.00% | ~69 |

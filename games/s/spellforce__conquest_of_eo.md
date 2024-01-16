@@ -37,30 +37,30 @@
 | Magic Academy | 12.00% | ~18 |
 | Break Free | 12.00% | ~18 |
 | A Master of Magic | 11.00% | ~16 |
+| Mage Teacher | 10.00% | ~15 |
 | Friend of Windholme | 10.00% | ~15 |
 | Defeat Uram | 9.00% | ~13 |
-| Mage Teacher | 9.00% | ~13 |
 | Defeat Gor | 8.00% | ~12 |
 | Yngrid's Tale | 8.00% | ~12 |
 | The Forge of Regan Gor | 8.00% | ~12 |
+| A Monopoly of Might | 8.00% | ~12 |
 | A Joke | 8.00% | ~12 |
 | Defeat Hokan | 7.00% | ~10 |
 | Crypt of the Revenant | 7.00% | ~10 |
 | Tuscari Sea Portal | 7.00% | ~10 |
 | Fireforge | 7.00% | ~10 |
-| A Monopoly of Might | 7.00% | ~10 |
 | Friend of Uram Gor | 7.00% | ~10 |
 | Get to the Airship! | 6.00% | ~9 |
 | Defeat Ianna | 6.00% | ~9 |
 | Defeat Raith | 6.00% | ~9 |
 | Master Artificer | 6.00% | ~9 |
 | Heroes | 6.00% | ~9 |
+| My Friends! | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Defeat Undergast | 5.00% | ~7 |
 | Elynn's Tale | 5.00% | ~7 |
 | Lore's Tale | 5.00% | ~7 |
 | Misty Coast Dragonbones | 5.00% | ~7 |
-| My Friends! | 5.00% | ~7 |
 | Balanced | 5.00% | ~7 |
 | Master Necromancer | 5.00% | ~7 |
 | Defeat Yria | 4.00% | ~6 |

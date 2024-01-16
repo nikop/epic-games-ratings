@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 5,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 374,
-  "EOS_Completed": 174,
+  "EOS_Completed": 175,
   "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 46.52,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 46.79,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -2184,6 +2184,11 @@
       "Time": "2024-01-16T04:11:22.3824293+00:00",
       "NumProgressed": 374,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-16T08:09:47.470754+00:00",
+      "NumProgressed": 374,
+      "NumCompleted": 175
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -2290,9 +2295,9 @@
       "ID": "PORTRAIT_20",
       "SetID": "2fge00i",
       "Name": "Portrait 20",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 180
     },
     {
       "ID": "PORTRAIT_3",
@@ -2356,13 +2361,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 374,
-      "Completed": 174
+      "Completed": 175
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:09:46.5671253+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:09:47.4707537+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.8323905+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:06.3856176+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:09:46.567151+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:12.9507739+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:09:47.4707818+00:00"
 }

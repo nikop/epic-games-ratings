@@ -4949,7 +4949,7 @@
       "Count": 409
     }
   ],
-  "EOS_Progressed": 13292,
+  "EOS_Progressed": 13293,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -19819,6 +19819,11 @@
       "Time": "2024-01-16T07:10:12.1859166+00:00",
       "NumProgressed": 13292,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-16T08:10:13.8602077+00:00",
+      "NumProgressed": 13293,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19838,7 +19843,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -19862,7 +19867,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -19886,7 +19891,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "09_PathOfDemon",
@@ -20198,7 +20203,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "49_Flame",
@@ -20222,7 +20227,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -20702,7 +20707,7 @@
       "Name": "Stay Underground",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -20757,21 +20762,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12074,
+      "Progressed": 12075,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13292,
+      "Progressed": 13293,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-14T20:59:32.2925357+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:10:12.1859165+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:10:13.8602074+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:00:13.2221203+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:10:12.1861313+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:00:25.0073637+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:10:13.8603839+00:00"
 }

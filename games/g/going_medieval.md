@@ -10,8 +10,8 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 76.00% | ~6,054 |
 | Reap What You Sow | 73.00% | ~5,815 |
 | The First Day | 70.00% | ~5,576 |
+| Novice Researcher | 69.00% | ~5,497 |
 | Green Thumb | 68.00% | ~5,417 |
-| Novice Researcher | 68.00% | ~5,417 |
 | Home Cooked Meal | 63.00% | ~5,019 |
 | Onward | 58.00% | ~4,620 |
 | The First Week | 56.00% | ~4,461 |
@@ -23,8 +23,8 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 43.00% | ~3,425 |
 | Feast or Famine | 34.00% | ~2,708 |
 | Heating Up | 33.00% | ~2,629 |
+| Winter Is Coming | 30.00% | ~2,390 |
 | Luminary Researcher | 30.00% | ~2,390 |
-| Winter Is Coming | 29.00% | ~2,310 |
 | Fit For A King | 26.00% | ~2,071 |
 | Winter Is Here | 26.00% | ~2,071 |
 | Disassembled | 23.00% | ~1,832 |

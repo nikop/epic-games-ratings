@@ -908,10 +908,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 397,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2024-01-16T07:59:20.4647858+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 397,
+  "NumberOfAwards": 399,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -943,7 +949,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -976,7 +982,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55038,
+  "EOS_Progressed": 55039,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 0,
@@ -31821,6 +31827,11 @@
       "Time": "2024-01-16T07:05:50.8354671+00:00",
       "NumProgressed": 55038,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T08:05:59.466776+00:00",
+      "NumProgressed": 55039,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -31952,7 +31963,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 9356
+      "UsersEstimate": 9357
     },
     {
       "ID": "novice",
@@ -32143,15 +32154,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55038,
+      "Progressed": 55039,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-01-12T14:57:17.4560047+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:05:50.8354668+00:00",
+  "LastChanged": "2024-01-16T07:59:20.4647856+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:05:59.4667758+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:59:09.2522445+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:05:50.835608+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:59:20.4647862+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:05:59.4669249+00:00"
 }

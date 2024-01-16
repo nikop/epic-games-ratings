@@ -9,10 +9,10 @@
 | Dousing a Venerable Flame | 13.00% | ~18 |
 | Advanced Armaments | 13.00% | ~18 |
 | Spirit Within | 11.00% | ~15 |
+| Overboard | 10.00% | ~14 |
 | Bladesmith | 10.00% | ~14 |
 | Leisis Bless You | 10.00% | ~14 |
 | Rain Must Fall | 9.00% | ~13 |
-| Overboard | 9.00% | ~13 |
 | The Guardian of Fire | 8.00% | ~11 |
 | Twin Thorns | 8.00% | ~11 |
 | Explorer | 7.00% | ~10 |

@@ -6,18 +6,18 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,768,688 |
-| Easy to forget | 46.00% | ~1,660,401 |
-| Back in the black | 39.00% | ~1,407,732 |
-| That's what I'm talking about | 29.00% | ~1,046,775 |
-| The Best of Both Worlds | 25.00% | ~902,392 |
-| Get your wings | 20.00% | ~721,914 |
-| Double trouble | 16.00% | ~577,531 |
-| Smashing it | 11.00% | ~397,052 |
-| But can it run Crysis? | 9.00% | ~324,861 |
-| My favourite feature... | 9.00% | ~324,861 |
-| Customer satisfaction | 8.00% | ~288,765 |
-| From humble beginnings... | 7.00% | ~252,670 |
+| You need to plug it in... | 49.00% | ~1,768,694 |
+| Easy to forget | 46.00% | ~1,660,406 |
+| Back in the black | 39.00% | ~1,407,736 |
+| That's what I'm talking about | 29.00% | ~1,046,778 |
+| The Best of Both Worlds | 25.00% | ~902,395 |
+| Get your wings | 20.00% | ~721,916 |
+| Double trouble | 16.00% | ~577,533 |
+| Smashing it | 11.00% | ~397,054 |
+| But can it run Crysis? | 9.00% | ~324,862 |
+| My favourite feature... | 9.00% | ~324,862 |
+| Customer satisfaction | 8.00% | ~288,766 |
+| From humble beginnings... | 7.00% | ~252,671 |
 | Keeping things neat | 4.00% | ~144,383 |
 | Seems you're pretty good at this | 4.00% | ~144,383 |
 | Bending over backwards | 4.00% | ~144,383 |
@@ -26,10 +26,10 @@ Number of Ratings: 12,155  (23.09.2022)
 | You rock at this! | 3.00% | ~108,287 |
 | Perfection | 3.00% | ~108,287 |
 | Your music sucks | 3.00% | ~108,287 |
-| Maybe you should try something else? | 2.00% | ~72,191 |
-| Taking care of business | 2.00% | ~72,191 |
-| Things are under control | 2.00% | ~72,191 |
-| Calling in Sick | 2.00% | ~72,191 |
+| Maybe you should try something else? | 2.00% | ~72,192 |
+| Taking care of business | 2.00% | ~72,192 |
+| Things are under control | 2.00% | ~72,192 |
+| Calling in Sick | 2.00% | ~72,192 |
 | Overvolted | 1.00% | ~36,096 |
 | If you fail the first time... | 1.00% | ~36,096 |
 | Amazonian | 1.00% | ~36,096 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,610 |
 | Treat yourself - GPU | 0.10% | ~3,610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,609,568 (Ranked 5)  
+Progressed: 3,609,579 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 41 (0.00%) (Ranked 401)
 | 2024-01-13 | 3,608,519 | 41 |
 | 2024-01-14 | 3,609,056 | 41 |
 | 2024-01-15 | 3,609,469 | 41 |
-| 2024-01-16 | 3,609,568 | 41 |
+| 2024-01-16 | 3,609,579 | 41 |
 ## Awards
 Max (Great for Beginners): 1,140  (Ranked 153)  
 Sum: 8,304 (Ranked 116)  

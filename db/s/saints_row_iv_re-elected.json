@@ -775,9 +775,9 @@
       "Count": 532
     }
   ],
-  "EOS_Progressed": 345871,
+  "EOS_Progressed": 345888,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 4610,
+  "EOS_NewPlayers": 4604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32040,6 +32040,11 @@
       "Time": "2024-01-16T07:05:43.0659747+00:00",
       "NumProgressed": 345871,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-16T08:05:51.5566744+00:00",
+      "NumProgressed": 345888,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 72,
@@ -32051,7 +32056,7 @@
       "Name": "*BEEP* YOU, CLAWZ!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13835
+      "UsersEstimate": 13836
     },
     {
       "ID": "...A Saint Gets a Gun",
@@ -32059,7 +32064,7 @@
       "Name": "...A Saint Gets a Gun",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "A Real Cluster....",
@@ -32091,7 +32096,7 @@
       "Name": "About Time!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 27670
+      "UsersEstimate": 27671
     },
     {
       "ID": "Actor-Turned-Politician",
@@ -32099,7 +32104,7 @@
       "Name": "Actor-Turned-Politician",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "All Too Easy",
@@ -32107,7 +32112,7 @@
       "Name": "All Too Easy",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 51881
+      "UsersEstimate": 51883
     },
     {
       "ID": "And I Ran...",
@@ -32115,7 +32120,7 @@
       "Name": "And I Ran...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "Back in the Day",
@@ -32131,7 +32136,7 @@
       "Name": "Benjamin [CENSORED] King",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "Betrayed",
@@ -32139,7 +32144,7 @@
       "Name": "Betrayed",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 24211
+      "UsersEstimate": 24212
     },
     {
       "ID": "Better This Way",
@@ -32147,7 +32152,7 @@
       "Name": "Better This Way",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "Blast from the Past",
@@ -32155,7 +32160,7 @@
       "Name": "Blast from the Past",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27670
+      "UsersEstimate": 27671
     },
     {
       "ID": "Bouncin\u0027 with an Old Friend",
@@ -32163,7 +32168,7 @@
       "Name": "Bouncin\u0027 with an Old Friend",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "Bow to the Boss",
@@ -32171,7 +32176,7 @@
       "Name": "Bow to the Boss!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 31128
+      "UsersEstimate": 31130
     },
     {
       "ID": "Bringin\u0027 the Heat",
@@ -32187,7 +32192,7 @@
       "Name": "Chill Out",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "Dear Santa",
@@ -32203,7 +32208,7 @@
       "Name": "Destroyer-In-Chief",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 193688
+      "UsersEstimate": 193697
     },
     {
       "ID": "Didn\u0027t Need to See Him Naked",
@@ -32211,7 +32216,7 @@
       "Name": "Didn\u0027t Need to See Him Naked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 44963
+      "UsersEstimate": 44965
     },
     {
       "ID": "Don\u0027t Look Down",
@@ -32219,7 +32224,7 @@
       "Name": "Don\u0027t Look Down",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 96844
+      "UsersEstimate": 96849
     },
     {
       "ID": "Don\u0027t Panic",
@@ -32227,7 +32232,7 @@
       "Name": "Don\u0027t Panic",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 93385
+      "UsersEstimate": 93390
     },
     {
       "ID": "Double Team",
@@ -32243,7 +32248,7 @@
       "Name": "Elementary",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "Epic Jump Quest",
@@ -32259,7 +32264,7 @@
       "Name": "Experimental Tech",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "First of Many",
@@ -32267,7 +32272,7 @@
       "Name": "First of Many",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 141807
+      "UsersEstimate": 141814
     },
     {
       "ID": "Fist Meet Ground",
@@ -32291,7 +32296,7 @@
       "Name": "Friend of the Raptors",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27670
+      "UsersEstimate": 27671
     },
     {
       "ID": "Get that Kid to a Psychologist",
@@ -32307,7 +32312,7 @@
       "Name": "Ghost in the Machine",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 58798
+      "UsersEstimate": 58801
     },
     {
       "ID": "Half Way Home",
@@ -32315,7 +32320,7 @@
       "Name": "Half Way Home",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13835
+      "UsersEstimate": 13836
     },
     {
       "ID": "He\u0027s Still on the Naughty List",
@@ -32355,7 +32360,7 @@
       "Name": "How It Should Be",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "I Am Become Death",
@@ -32379,7 +32384,7 @@
       "Name": "Indomitable",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 34587
+      "UsersEstimate": 34589
     },
     {
       "ID": "Keymaster",
@@ -32387,7 +32392,7 @@
       "Name": "Keymaster",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "Machine Man",
@@ -32395,7 +32400,7 @@
       "Name": "Machine Man",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13835
+      "UsersEstimate": 13836
     },
     {
       "ID": "Make a List, Check it Twice",
@@ -32411,7 +32416,7 @@
       "Name": "Maximum Stopping Power",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 24211
+      "UsersEstimate": 24212
     },
     {
       "ID": "Minty Fresh!",
@@ -32435,7 +32440,7 @@
       "Name": "On Her Saint\u0027s Secret Service",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "Ooo A Piece of Candy!",
@@ -32443,7 +32448,7 @@
       "Name": "Ooo A Piece of Candy!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 76092
+      "UsersEstimate": 76095
     },
     {
       "ID": "Our Gift to You",
@@ -32451,7 +32456,7 @@
       "Name": "Our Gift to You",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "Paranormal Bromance",
@@ -32459,7 +32464,7 @@
       "Name": "Paranormal Bromance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "Poodle Skirt",
@@ -32467,7 +32472,7 @@
       "Name": "Poodle Skirt",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "Pounding the Pavement",
@@ -32491,7 +32496,7 @@
       "Name": "Saints \u0026 Sensibility",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "Super Power Team Up!",
@@ -32523,7 +32528,7 @@
       "Name": "The Face of the Saints",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "The Full Kinzie",
@@ -32531,7 +32536,7 @@
       "Name": "The Full Kinzie",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 13835
+      "UsersEstimate": 13836
     },
     {
       "ID": "The Twin Saints",
@@ -32539,7 +32544,7 @@
       "Name": "The Twin Saints",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "The Two Shaundis",
@@ -32547,7 +32552,7 @@
       "Name": "The Two Shaundis",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10376
+      "UsersEstimate": 10377
     },
     {
       "ID": "The Whole Story",
@@ -32563,7 +32568,7 @@
       "Name": "There Is No Pancakes",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 179853
+      "UsersEstimate": 179862
     },
     {
       "ID": "Ultimate Hot Potato",
@@ -32587,7 +32592,7 @@
       "Name": "Where\u0027s My Cape?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6917
+      "UsersEstimate": 6918
     },
     {
       "ID": "Woah.",
@@ -32595,7 +32600,7 @@
       "Name": "Woah.",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 124514
+      "UsersEstimate": 124520
     },
     {
       "ID": "You Chose... Poorly",
@@ -32603,7 +32608,7 @@
       "Name": "You Chose... Poorly",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 20752
+      "UsersEstimate": 20753
     },
     {
       "ID": "Zero Saints Thirty",
@@ -32611,7 +32616,7 @@
       "Name": "Zero Saints Thirty",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 214440
+      "UsersEstimate": 214451
     },
     {
       "ID": "Zoo Keeper",
@@ -32626,7 +32631,7 @@
     {
       "ID": "d4hjaom",
       "IsBase": true,
-      "Progressed": 345871,
+      "Progressed": 345888,
       "Completed": 17
     }
   ],
@@ -32634,8 +32639,8 @@
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
   "LastChanged": "2024-01-16T03:59:20.5526494+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:05:43.0659745+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:05:51.5566742+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.6076+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:36.8548806+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:05:43.0661496+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:45.5795639+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:05:51.5568753+00:00"
 }

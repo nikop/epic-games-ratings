@@ -8,7 +8,7 @@ Number of Ratings: 332  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rookie | 28.00% | ~15,411 |
 | Finding Your Footing | 25.00% | ~13,760 |
-| Nomad | 17.00% | ~9,356 |
+| Nomad | 17.00% | ~9,357 |
 | Picking Up Speed | 15.00% | ~8,256 |
 | Welcome Maya | 14.00% | ~7,705 |
 | Scout | 12.00% | ~6,605 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~55 |
 | Windswept | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,038 (Ranked 123)  
+Progressed: 55,039 (Ranked 123)  
 Completed: 5 (0.01%) (Ranked 377)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,16 +317,16 @@ Completed: 5 (0.01%) (Ranked 377)
 | 2024-01-13 | 54,736 | 5 |
 | 2024-01-14 | 54,869 | 5 |
 | 2024-01-15 | 55,001 | 5 |
-| 2024-01-16 | 55,038 | 5 |
+| 2024-01-16 | 55,039 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 458)  
-Sum: 397 (Ranked 360)  
+Sum: 399 (Ranked 360)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 51 |
 | This game is Great for Beginners | 47 |
-| This game is Highly Recommended | 45 |
+| This game is Highly Recommended | 47 |
 | This game has Beautiful Visuals | 43 |
 | This game is Extremely Fun | 41 |
 | This game has Quickly Understood Controls | 41 |
@@ -466,3 +466,4 @@ Diff (max vs sum): 98
 | 2024-01-07 | 4.70 | - | 51 | 395 |
 | 2024-01-08 | 4.70 | - | 51 | 396 |
 | 2024-01-12 | 4.70 | - | 51 | 397 |
+| 2024-01-16 | 4.70 | - | 51 | 399 |

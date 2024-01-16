@@ -667,7 +667,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47326,
+  "EOS_Progressed": 47330,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 0,
@@ -18977,6 +18977,11 @@
       "Time": "2024-01-16T07:04:00.4802886+00:00",
       "NumProgressed": 47326,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-16T08:04:04.3348242+00:00",
+      "NumProgressed": 47330,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19036,7 +19041,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6152
+      "UsersEstimate": 6153
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19140,7 +19145,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19324,7 +19329,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5679
+      "UsersEstimate": 5680
     },
     {
       "ID": "SPRING_ALL",
@@ -19411,22 +19416,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47326,
+      "Progressed": 47330,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12163,
-      "Completed": 12163
+      "Progressed": 12167,
+      "Completed": 12167
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-14T23:03:01.8896728+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:04:00.4802884+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:04:04.3348238+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:03:18.3412382+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:04:00.4804053+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:03:19.9610094+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:04:04.3349384+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 362,
+  "EOS_Progressed": 363,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 8.56,
+  "EOS_Completed_Percentage": 8.54,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1609,6 +1609,11 @@
       "Time": "2024-01-15T01:56:17.580196+00:00",
       "NumProgressed": 362,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-16T08:04:29.903956+00:00",
+      "NumProgressed": 363,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 16,
@@ -1644,7 +1649,7 @@
       "Name": "Ducks adrift",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1652,7 +1657,7 @@
       "Name": "That\u0027s all, ducks!",
       "Percentage": 20,
       "XP": 160,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -1660,7 +1665,7 @@
       "Name": "High-rise",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1668,7 +1673,7 @@
       "Name": "Putting challenge",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
@@ -1684,23 +1689,23 @@
       "Name": "Family pond",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 152
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1708,7 +1713,7 @@
       "Name": "Way to the shore",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1716,7 +1721,7 @@
       "Name": "Private pool",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1724,15 +1729,15 @@
       "Name": "Abducktion",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "8d3ci0",
       "Name": "On fire",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 60,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -1740,21 +1745,21 @@
       "Name": "Watery help",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 362,
+      "Progressed": 363,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:04:25.7205092+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:04:29.9039555+00:00",
   "LastUpdate_AppInfo": "2024-01-14T05:57:06.5888113+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:00:34.8860653+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:04:25.720531+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:00:47.9647633+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:04:29.9039808+00:00"
 }

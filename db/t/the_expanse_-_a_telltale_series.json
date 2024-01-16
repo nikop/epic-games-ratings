@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19063,
+  "EOS_Progressed": 19064,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17519,6 +17519,11 @@
       "Time": "2024-01-16T07:05:27.190307+00:00",
       "NumProgressed": 19063,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-16T08:05:33.2062168+00:00",
+      "NumProgressed": 19064,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17577,9 +17582,9 @@
       "ID": "15",
       "SetID": "458bbdk",
       "Name": "Stogie for Fogey",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2288
     },
     {
       "ID": "16",
@@ -17739,7 +17744,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "7",
@@ -17810,13 +17815,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19063,
+      "Progressed": 19064,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5017,
+      "Progressed": 5018,
       "Completed": 1332
     }
   ],
@@ -17824,8 +17829,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:05:27.1903067+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:05:33.2062164+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:58.9377041+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:05:27.1904287+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:59:10.0507883+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:05:33.2063211+00:00"
 }

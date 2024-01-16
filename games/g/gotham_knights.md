@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,429 |
+| First Step Into the Knight | 50.00% | ~41,430 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,172 |
 | Loose Ends | 33.00% | ~27,343 |
 | To the Victor Go the Spoils | 27.00% | ~22,372 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 975)
 | Drone You Out | 9.00% | ~7,457 |
 | Solid Alibi | 8.00% | ~6,629 |
 | Fusion Expert | 7.00% | ~5,800 |
-| Family Meeting | 6.00% | ~4,971 |
-| A Worthy Successor | 6.00% | ~4,971 |
+| Family Meeting | 6.00% | ~4,972 |
+| A Worthy Successor | 6.00% | ~4,972 |
 | Expert Crime Fighter | 5.00% | ~4,143 |
 | Dressed to Impress | 4.00% | ~3,314 |
 | A Momentum Occasion | 3.00% | ~2,486 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 975)
 | The Cold, the Bad and the Ugly | 0.30% | ~159 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,858 (Ranked 110)  
+Progressed: 82,859 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 135 (0.16%) (Ranked 289)
 | 2024-01-13 | 82,688 | 133 |
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
-| 2024-01-16 | 82,858 | 135 |
+| 2024-01-16 | 82,859 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 102)  
 Sum: 5,486 (Ranked 143)  

@@ -7,9 +7,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~32,946 |
-| The Evilest Evil | 59.00% | ~27,768 |
+| The Evilest Evil | 59.00% | ~27,769 |
 | Twistram is devastated | 58.00% | ~27,298 |
-| The Gehenna Stones | 50.00% | ~23,532 |
+| The Gehenna Stones | 50.00% | ~23,533 |
 | No one has to die today! | 46.00% | ~21,650 |
 | Death and destruction! | 46.00% | ~21,650 |
 | The Swamplanders from the swamplands | 43.00% | ~20,238 |
@@ -17,7 +17,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The One-Huge-Army-Building Evil | 40.00% | ~18,826 |
 | Braiiiiins! | 38.00% | ~17,885 |
 | The last burger | 37.00% | ~17,414 |
-| Hands off the Dungeonheart! | 36.00% | ~16,943 |
+| Hands off the Dungeonheart! | 36.00% | ~16,944 |
 | A trip on sea, what fun it can be | 34.00% | ~16,002 |
 | Damned good | 32.00% | ~15,061 |
 | Stock Market Crash | 31.00% | ~14,590 |
@@ -34,19 +34,19 @@ Number of Ratings: 1,635  (23.09.2022)
 | Prepare the grave | 24.00% | ~11,296 |
 | Angel of Fire | 24.00% | ~11,296 |
 | Where there is Light, there is Shadow | 23.00% | ~10,825 |
-| At the foot of Mount Destiny | 22.00% | ~10,354 |
+| At the foot of Mount Destiny | 22.00% | ~10,355 |
 | The Force disturbed | 21.00% | ~9,884 |
 | The Victorious Evil | 20.00% | ~9,413 |
-| Chorus of damnation | 19.00% | ~8,942 |
-| We don’t have time! | 19.00% | ~8,942 |
+| Chorus of damnation | 19.00% | ~8,943 |
+| We don’t have time! | 19.00% | ~8,943 |
 | The Stones’ Power | 18.00% | ~8,472 |
 | Flat as a pancake | 17.00% | ~8,001 |
 | Lifeguard | 17.00% | ~8,001 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~7,060 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~5,648 |
 | Then let them eat cake! | 12.00% | ~5,648 |
-| The White Knight | 10.00% | ~4,706 |
-| Please, no interruptions! | 10.00% | ~4,706 |
+| The White Knight | 10.00% | ~4,707 |
+| Please, no interruptions! | 10.00% | ~4,707 |
 | Use the terrain | 9.00% | ~4,236 |
 | Prison Break | 9.00% | ~4,236 |
 | Hearts of Iron | 8.00% | ~3,765 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~941 |
 | Sacrifices! | 2.00% | ~941 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,065 (Ranked 128)  
+Progressed: 47,066 (Ranked 128)  
 Completed: 373 (0.79%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 373 (0.79%) (Ranked 195)
 | 2024-01-13 | 46,824 | 373 |
 | 2024-01-14 | 46,945 | 373 |
 | 2024-01-15 | 47,044 | 373 |
-| 2024-01-16 | 47,065 | 373 |
+| 2024-01-16 | 47,066 | 373 |
 ## Awards
 Max (Great for Beginners): 399  (Ranked 241)  
 Sum: 2,850 (Ranked 190)  

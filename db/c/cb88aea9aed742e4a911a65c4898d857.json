@@ -365,9 +365,9 @@
       "Count": 143
     }
   ],
-  "EOS_Progressed": 11558,
+  "EOS_Progressed": 11560,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5065,6 +5065,11 @@
       "Time": "2024-01-16T07:10:04.7370688+00:00",
       "NumProgressed": 11558,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-16T08:10:06.2611993+00:00",
+      "NumProgressed": 11560,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5077,7 +5082,7 @@
       "Name": "Conspiracy",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "03_TheStolenStar",
@@ -5197,7 +5202,7 @@
       "Name": "Exemplar",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -5253,7 +5258,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "25_DynastyProspers",
@@ -5325,7 +5330,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5389,7 +5394,7 @@
       "Name": "Jungle Heat",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5427,9 +5432,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1734
     },
     {
       "ID": "47_AFlame",
@@ -5461,7 +5466,7 @@
       "Name": "Whodunit?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -5596,7 +5601,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11558,
+      "Progressed": 11560,
       "Completed": 1
     }
   ],
@@ -5604,8 +5609,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-15T17:58:07.3868021+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:10:04.7370684+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:10:06.261199+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:11.7369854+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:10:04.7371668+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:18.85787+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:10:06.2612587+00:00"
 }

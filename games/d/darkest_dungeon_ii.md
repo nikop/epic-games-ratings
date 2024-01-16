@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,097 |
-| Lost and Found | 9.00% | ~705 |
-| Autodidact | 8.00% | ~10,637 |
+| Malpractice Assurance | 14.00% | ~1,098 |
+| Lost and Found | 9.00% | ~706 |
+| Autodidact | 8.00% | ~10,638 |
 | This Belongs in a Museum | 7.00% | ~9,308 |
 | Overdue Notice | 7.00% | ~9,308 |
-| This guy... again? | 7.00% | ~548 |
+| This guy... again? | 7.00% | ~549 |
 | Serenity Now! | 6.00% | ~7,978 |
 | Creep and Sleep | 6.00% | ~7,978 |
 | Catch and Decease | 6.00% | ~7,978 |
@@ -19,23 +19,24 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,978 |
 | Ploughshares to Swords | 6.00% | ~470 |
 | Bloody Graduation | 6.00% | ~470 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,648 |
-| It Rings a Bell | 5.00% | ~6,648 |
-| Not Today! | 5.00% | ~6,648 |
-| Meat and Greet | 5.00% | ~6,648 |
-| It Happens | 5.00% | ~6,648 |
-| Rush Hour | 5.00% | ~6,648 |
-| Merry Time | 5.00% | ~6,648 |
-| Harvest Festival | 5.00% | ~6,648 |
-| Whale | 5.00% | ~6,648 |
-| A Place to Lay Your Head | 5.00% | ~6,648 |
-| FNG | 5.00% | ~6,648 |
-| Nope | 5.00% | ~6,648 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,649 |
+| It Rings a Bell | 5.00% | ~6,649 |
+| Not Today! | 5.00% | ~6,649 |
+| Meat and Greet | 5.00% | ~6,649 |
+| It Happens | 5.00% | ~6,649 |
+| Rush Hour | 5.00% | ~6,649 |
+| Merry Time | 5.00% | ~6,649 |
+| Harvest Festival | 5.00% | ~6,649 |
+| Whale | 5.00% | ~6,649 |
+| A Place to Lay Your Head | 5.00% | ~6,649 |
+| FNG | 5.00% | ~6,649 |
+| Nope | 5.00% | ~6,649 |
 | Friends 'Til the End | 5.00% | ~392 |
 | Resurrection | 4.00% | ~5,319 |
 | Unleash Hell | 4.00% | ~5,319 |
 | Funny Guy | 4.00% | ~5,319 |
 | Long Live the King | 4.00% | ~5,319 |
+| Wyrdly Reconstructed | 4.00% | ~5,319 |
 | Unfulfilled Desires | 4.00% | ~5,319 |
 | Dissector | 4.00% | ~5,319 |
 | Banishment | 4.00% | ~5,319 |
@@ -43,7 +44,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Spelunker | 4.00% | ~5,319 |
 | Ramble On | 4.00% | ~5,319 |
 | Unshackled | 4.00% | ~5,319 |
-| Wyrdly Reconstructed | 3.00% | ~3,989 |
 | Boxcar Kid | 3.00% | ~3,989 |
 | Hope Rekindled | 3.00% | ~3,989 |
 | Predator | 3.00% | ~3,989 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 132,966 (Ranked 92)  
+Progressed: 132,971 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 5 (0.00%) (Ranked 401)
 | 2024-01-13 | 132,712 | 4 |
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
-| 2024-01-16 | 132,966 | 5 |
+| 2024-01-16 | 132,971 | 5 |
 ## Awards
 Max (Character Customization): 8,026  (Ranked 51)  
 Sum: 21,676 (Ranked 58)  

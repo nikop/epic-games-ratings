@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~507 |
 | Hanging Gardens | 3.00% | ~507 |
 | Oracle | 3.00% | ~507 |
+| Pyramids | 3.00% | ~507 |
 | Judaism | 3.00% | ~507 |
 | Trade Caravan | 3.00% | ~507 |
 | Regicide | 2.00% | ~338 |
@@ -44,7 +45,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate | 2.00% | ~338 |
 | Lighthouse | 2.00% | ~338 |
 | Necropolis | 2.00% | ~338 |
-| Pyramids | 2.00% | ~338 |
 | Learn to Play 1 | 2.00% | ~338 |
 | Learn to Play 2 | 2.00% | ~338 |
 | Christianity | 2.00% | ~338 |
@@ -125,16 +125,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.60% | ~101 |
 | Phalangite | 0.60% | ~101 |
 | Jerwan Aqueduct | 0.60% | ~101 |
-| Clerics | 0.50% | ~84 |
-| Church of the Holy Sepulchre | 0.50% | ~84 |
-| Adur Burzen-Mihr | 0.50% | ~84 |
-| Carthage | 0.50% | ~84 |
-| Rome | 0.50% | ~84 |
-| Hittite Paganism | 0.50% | ~84 |
-| Revelation | 0.50% | ~84 |
-| Turreted Elephant | 0.50% | ~84 |
-| All Nations | 0.50% | ~84 |
-| Deposed Tribe | 0.50% | ~84 |
+| Clerics | 0.50% | ~85 |
+| Church of the Holy Sepulchre | 0.50% | ~85 |
+| Adur Burzen-Mihr | 0.50% | ~85 |
+| Carthage | 0.50% | ~85 |
+| Rome | 0.50% | ~85 |
+| Hittite Paganism | 0.50% | ~85 |
+| Revelation | 0.50% | ~85 |
+| Turreted Elephant | 0.50% | ~85 |
+| All Nations | 0.50% | ~85 |
+| Deposed Tribe | 0.50% | ~85 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,900 (Ranked 169)  
+Progressed: 16,902 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -636,7 +636,7 @@ Completed: 5 (0.03%) (Ranked 358)
 | 2024-01-13 | 16,709 | 5 |
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
-| 2024-01-16 | 16,900 | 5 |
+| 2024-01-16 | 16,902 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,931 (Ranked 223)  

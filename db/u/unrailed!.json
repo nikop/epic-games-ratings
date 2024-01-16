@@ -3029,9 +3029,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 681054,
+  "EOS_Progressed": 681056,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 1776,
+  "EOS_NewPlayers": 1775,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34179,6 +34179,11 @@
       "Time": "2024-01-16T07:10:07.5784563+00:00",
       "NumProgressed": 681054,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-16T08:10:09.2116716+00:00",
+      "NumProgressed": 681056,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -34198,7 +34203,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 81726
+      "UsersEstimate": 81727
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -34230,7 +34235,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 129400
+      "UsersEstimate": 129401
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -34510,7 +34515,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 115779
+      "UsersEstimate": 115780
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -34605,15 +34610,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 681054,
+      "Progressed": 681056,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-15T16:03:34.1603883+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:10:07.578456+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:10:09.2116714+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:18.3022187+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:03:09.4630044+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:10:07.5786075+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:03:11.0819151+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:10:09.2118183+00:00"
 }

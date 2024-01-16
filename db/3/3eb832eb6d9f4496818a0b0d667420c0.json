@@ -307,9 +307,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 421890,
+  "EOS_Progressed": 421918,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9930,
+  "EOS_NewPlayers": 9914,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3562,6 +3562,11 @@
       "Time": "2024-01-16T07:04:36.0499105+00:00",
       "NumProgressed": 421890,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-16T08:04:40.7102355+00:00",
+      "NumProgressed": 421918,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -3582,7 +3587,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29532
+      "UsersEstimate": 29534
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3606,7 +3611,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97035
+      "UsersEstimate": 97041
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3630,7 +3635,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109691
+      "UsersEstimate": 109699
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3638,7 +3643,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 92816
+      "UsersEstimate": 92822
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3670,7 +3675,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16876
+      "UsersEstimate": 16877
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3686,7 +3691,7 @@
       "Name": "Barely Alive",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -3734,7 +3739,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 37970
+      "UsersEstimate": 37973
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3742,7 +3747,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3774,7 +3779,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -3782,7 +3787,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33751
+      "UsersEstimate": 33753
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -3798,7 +3803,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -3854,7 +3859,7 @@
       "Name": "Looking for Friends",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACHIEVEMENT_037",
@@ -3878,7 +3883,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12657
+      "UsersEstimate": 12658
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -3917,7 +3922,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 421890,
+      "Progressed": 421918,
       "Completed": 3
     }
   ],
@@ -3925,8 +3930,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-16T00:03:11.5887426+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:04:36.0499102+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:04:40.7102352+00:00",
   "LastUpdate_AppInfo": "2024-01-09T11:57:12.3251773+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:03:23.2509637+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:04:36.0499772+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:03:24.526195+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:04:40.7102847+00:00"
 }

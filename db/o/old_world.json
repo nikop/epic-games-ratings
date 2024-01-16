@@ -2298,9 +2298,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16900,
+  "EOS_Progressed": 16902,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20183,6 +20183,11 @@
       "Time": "2024-01-16T07:10:14.296597+00:00",
       "NumProgressed": 16900,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-16T08:10:16.0832501+00:00",
+      "NumProgressed": 16902,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21042,7 +21047,7 @@
       "Name": "Clerics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -21570,7 +21575,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -21594,7 +21599,7 @@
       "Name": "Adur Burzen-Mihr",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ISHTAR_GATE",
@@ -21656,9 +21661,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Pyramids",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 507
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
@@ -21810,7 +21815,7 @@
       "Name": "Carthage",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -21850,7 +21855,7 @@
       "Name": "Rome",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_OLD_WORLD_ORDER",
@@ -22034,7 +22039,7 @@
       "Name": "Hittite Paganism",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_PERSIA",
@@ -22202,7 +22207,7 @@
       "Name": "Revelation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -22290,7 +22295,7 @@
       "Name": "Turreted Elephant",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -22306,7 +22311,7 @@
       "Name": "All Nations",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
@@ -22482,7 +22487,7 @@
       "Name": "Deposed Tribe",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DISSENT_ALL",
@@ -23057,21 +23062,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16900,
+      "Progressed": 16902,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16900,
+      "Progressed": 16902,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-14T23:00:07.443301+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:10:14.2965965+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:10:16.0832499+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-16T07:00:31.497646+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:10:14.297658+00:00"
+  "LastUpdate_Ratings": "2024-01-16T08:00:44.4204264+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:10:16.0842659+00:00"
 }

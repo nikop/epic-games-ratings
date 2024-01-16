@@ -8,10 +8,10 @@
 | On the Crest of a Wave | 96.00% | ~179 |
 | Foreman of Darkness | 96.00% | ~179 |
 | Brilliant Day | 93.00% | ~173 |
-| Evil Genius | 88.00% | ~164 |
+| Evil Genius | 89.00% | ~166 |
 | Air Defense | 85.00% | ~158 |
 | Tinned Corpse | 84.00% | ~156 |
-| Your War is Over | 82.00% | ~153 |
+| Your War is Over | 83.00% | ~154 |
 | The Starry Night | 77.00% | ~143 |
 | Go Home! | 76.00% | ~141 |
 | Brilliant: Meadowshire | 75.00% | ~140 |

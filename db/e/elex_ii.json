@@ -1753,9 +1753,9 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1881,9 +1881,9 @@
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "FINDCRONY",
@@ -2009,8 +2009,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2023-12-22T10:58:14.6122711+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:05:52.8024775+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:06:01.571628+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:59:46.6966388+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:05:52.802518+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:59:57.8042716+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:06:01.5716686+00:00"
 }

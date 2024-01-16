@@ -1699,7 +1699,7 @@
   ],
   "EOS_Progressed": 7966,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -17053,9 +17053,9 @@
       "ID": "SURVIVE_FIRST_AUTUMN",
       "SetID": "5349c2e",
       "Name": "Winter Is Coming",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2390
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -17109,9 +17109,9 @@
       "ID": "UNLOCK_RESEARCH",
       "SetID": "5349c2e",
       "Name": "Novice Researcher",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5417
+      "UsersEstimate": 5497
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17157,8 +17157,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-14T12:00:22.1691049+00:00",
-  "LastChanged_Achievements": "2024-01-16T07:04:52.5268048+00:00",
+  "LastChanged_Achievements": "2024-01-16T08:04:57.4402914+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-16T06:58:06.1983198+00:00",
-  "LastUpdate_Achievements": "2024-01-16T07:04:52.5268939+00:00"
+  "LastUpdate_Ratings": "2024-01-16T07:58:12.7581506+00:00",
+  "LastUpdate_Achievements": "2024-01-16T08:04:57.4403995+00:00"
 }
