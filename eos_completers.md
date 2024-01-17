@@ -25,7 +25,7 @@
 | 23 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.99% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.97% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.25% |
 | 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.79% |
@@ -57,9 +57,9 @@
 | 55 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.44% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.36% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.35% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
+| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.03% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.88% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.84% |
@@ -169,8 +169,8 @@
 | 167 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.14% |
 | 167 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
 | 169 | [Adios](games/a/adios.md) | 1.13% |
-| 170 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.12% |
 | 170 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
+| 171 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.11% |
 | 172 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.08% |
 | 172 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 172 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
