@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 955,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 161,
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12376,
+  "EOS_Progressed": 12378,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -15966,6 +15966,11 @@
       "Time": "2024-01-17T09:03:37.4931971+00:00",
       "NumProgressed": 12376,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-17T10:04:30.9285479+00:00",
+      "NumProgressed": 12378,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15977,7 +15982,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10272
+      "UsersEstimate": 10274
     },
     {
       "ID": "ACH02",
@@ -16017,7 +16022,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "ACH07",
@@ -16049,7 +16054,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3590
     },
     {
       "ID": "ACH11",
@@ -16113,7 +16118,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1362
     },
     {
       "ID": "ACH19",
@@ -16208,7 +16213,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12376,
+      "Progressed": 12378,
       "Completed": 91
     }
   ],
@@ -16216,8 +16221,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:03:37.4931966+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:04:30.9285475+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:57:47.3677191+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:03:37.49331+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:58:15.4358482+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:04:30.9286183+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 526,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2397,8 +2397,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:04:16.0473343+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:05:22.6276788+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:59:37.3108228+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:04:16.0473771+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:00:54.6236605+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:05:22.6277182+00:00"
 }

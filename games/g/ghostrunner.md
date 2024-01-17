@@ -6,53 +6,53 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~462,918 |
-| Sword Runner | 24.00% | ~277,751 |
-| Running out of breath | 19.00% | ~219,886 |
-| Wallrunner | 18.00% | ~208,313 |
-| I call it luck | 14.00% | ~162,021 |
-| Out of order | 12.00% | ~138,876 |
-| Homerunner | 11.00% | ~127,303 |
-| Back to hell | 9.00% | ~104,157 |
-| Running Wild | 9.00% | ~104,157 |
-| Where are my Keys? | 9.00% | ~104,157 |
-| Sword to a gunfight | 8.00% | ~92,584 |
-| Perfection | 7.00% | ~81,011 |
-| Artificial selection | 6.00% | ~69,438 |
-| Finish line | 6.00% | ~69,438 |
-| Control freak | 6.00% | ~69,438 |
-| Upgrades not mandatory | 6.00% | ~69,438 |
-| Why not both | 6.00% | ~69,438 |
-| Unstoppable force | 5.00% | ~57,865 |
-| Dead in the air | 4.00% | ~46,292 |
-| Wave of mutilation | 4.00% | ~46,292 |
-| Can't Run Can't Hide | 3.00% | ~34,719 |
-| Improvise, adapt, overrun | 2.00% | ~23,146 |
-| Pre-empative strike | 2.00% | ~23,146 |
-| R is for Running | 2.00% | ~23,146 |
-| Strike | 2.00% | ~23,146 |
-| Triple A | 2.00% | ~23,146 |
-| More than human | 1.00% | ~11,573 |
-| Push it to the limit | 0.80% | ~9,258 |
-| Fine addition | 0.60% | ~6,944 |
-| About Adam | 0.40% | ~4,629 |
-| Hit me if you can | 0.20% | ~2,315 |
-| Junkrunner | 0.20% | ~2,315 |
-| One man's trash | 0.20% | ~2,315 |
-| One Of Those Days | 0.20% | ~2,315 |
-| Where He Stood | 0.20% | ~2,315 |
-| A Grade | 0.10% | ~1,157 |
-| Everyone Needs A Hobby | 0.10% | ~1,157 |
-| GR Project Complete | 0.10% | ~1,157 |
-| Just A Man | 0.10% | ~1,157 |
-| Legacy Drivers | 0.10% | ~1,157 |
-| Obedient Machine | 0.10% | ~1,157 |
-| Scrapped | 0.10% | ~1,157 |
-| Sticks And Stones | 0.10% | ~1,157 |
-| Strafing Run | 0.10% | ~1,157 |
-| Up Close And Personal | 0.10% | ~1,157 |
+| Longrunner | 40.00% | ~463,118 |
+| Sword Runner | 24.00% | ~277,871 |
+| Running out of breath | 19.00% | ~219,981 |
+| Wallrunner | 18.00% | ~208,403 |
+| I call it luck | 14.00% | ~162,091 |
+| Out of order | 12.00% | ~138,936 |
+| Homerunner | 11.00% | ~127,358 |
+| Back to hell | 9.00% | ~104,202 |
+| Running Wild | 9.00% | ~104,202 |
+| Where are my Keys? | 9.00% | ~104,202 |
+| Sword to a gunfight | 8.00% | ~92,624 |
+| Perfection | 7.00% | ~81,046 |
+| Artificial selection | 6.00% | ~69,468 |
+| Finish line | 6.00% | ~69,468 |
+| Control freak | 6.00% | ~69,468 |
+| Upgrades not mandatory | 6.00% | ~69,468 |
+| Why not both | 6.00% | ~69,468 |
+| Unstoppable force | 5.00% | ~57,890 |
+| Dead in the air | 4.00% | ~46,312 |
+| Wave of mutilation | 4.00% | ~46,312 |
+| Can't Run Can't Hide | 3.00% | ~34,734 |
+| Improvise, adapt, overrun | 2.00% | ~23,156 |
+| Pre-empative strike | 2.00% | ~23,156 |
+| R is for Running | 2.00% | ~23,156 |
+| Strike | 2.00% | ~23,156 |
+| Triple A | 2.00% | ~23,156 |
+| More than human | 1.00% | ~11,578 |
+| Push it to the limit | 0.80% | ~9,262 |
+| Fine addition | 0.60% | ~6,947 |
+| About Adam | 0.40% | ~4,631 |
+| Hit me if you can | 0.20% | ~2,316 |
+| Junkrunner | 0.20% | ~2,316 |
+| One man's trash | 0.20% | ~2,316 |
+| One Of Those Days | 0.20% | ~2,316 |
+| Where He Stood | 0.20% | ~2,316 |
+| A Grade | 0.10% | ~1,158 |
+| Everyone Needs A Hobby | 0.10% | ~1,158 |
+| GR Project Complete | 0.10% | ~1,158 |
+| Just A Man | 0.10% | ~1,158 |
+| Legacy Drivers | 0.10% | ~1,158 |
+| Obedient Machine | 0.10% | ~1,158 |
+| Scrapped | 0.10% | ~1,158 |
+| Sticks And Stones | 0.10% | ~1,158 |
+| Strafing Run | 0.10% | ~1,158 |
+| Up Close And Personal | 0.10% | ~1,158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,157,296 (Ranked 14)  
+Progressed: 1,157,796 (Ranked 14)  
 Completed: 228 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 228 (0.02%) (Ranked 368)
 | 2024-01-14 | 1,133,737 | 220 |
 | 2024-01-15 | 1,144,294 | 224 |
 | 2024-01-16 | 1,154,083 | 228 |
-| 2024-01-17 | 1,157,296 | 228 |
+| 2024-01-17 | 1,157,796 | 228 |
 ## Awards
 Max (Great Boss Battles): 1,489  (Ranked 140)  
 Sum: 1,824 (Ranked 225)  

@@ -4,7 +4,7 @@
   "ProductSlug": "bursthero-dd5a56",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewPlayers": 419,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -371,9 +371,9 @@
       "ID": "DISASTER_5CARDS",
       "SetID": "1fek4an",
       "Name": "Disaster Strikes",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DISASTER_SUDDENDEATH",
@@ -403,9 +403,9 @@
       "ID": "GOLDENWEAPON_1",
       "SetID": "1fek4an",
       "Name": "Collector",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "GOLDENWEAPON_10",
@@ -443,9 +443,9 @@
       "ID": "HEROSTAR_C",
       "SetID": "1fek4an",
       "Name": "Graduate(Cowboy)",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HEROSTAR_D",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:04:03.7357586+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:05:06.1388973+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.4502332+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:02:52.9224294+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:04:03.7358139+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:03:27.3673011+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:05:06.1389648+00:00"
 }

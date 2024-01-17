@@ -6,11 +6,11 @@ Rating: 4.56 (Ranked 511)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 71.00% | ~1,225 |
-| The Teleprobe | 57.00% | ~983 |
-| The City | 52.00% | ~897 |
+| The Teleprobe | 57.00% | ~984 |
+| The City | 52.00% | ~898 |
 | The field base | 48.00% | ~828 |
-| The Alliance | 45.00% | ~776 |
-| Survivors | 42.00% | ~724 |
+| The Alliance | 45.00% | ~777 |
+| Survivors | 42.00% | ~725 |
 | The Condor | 40.00% | ~690 |
 | The End | 39.00% | ~673 |
 | The Necroevolution | 31.00% | ~535 |
@@ -21,21 +21,21 @@ Rating: 4.56 (Ranked 511)
 | Fierce fight | 22.00% | ~380 |
 | Evacuation | 22.00% | ~380 |
 | Beyond divisions | 19.00% | ~328 |
-| Flying Objects Operator | 18.00% | ~310 |
+| Flying Objects Operator | 18.00% | ~311 |
 | I remember everything! | 14.00% | ~242 |
 | Another giant | 14.00% | ~242 |
-| Violent solution | 10.00% | ~172 |
-| I leave no man behind | 10.00% | ~172 |
+| Violent solution | 10.00% | ~173 |
+| I leave no man behind | 10.00% | ~173 |
 | Innate curiosity | 8.00% | ~138 |
 | Strong objection | 7.00% | ~121 |
 | Ubiquitous holes | 6.00% | ~104 |
 | The Invincible | 6.00% | ~104 |
 | Got lost again | 6.00% | ~104 |
-| I leave no man behind (no exceptions) | 2.00% | ~34 |
+| I leave no man behind (no exceptions) | 2.00% | ~35 |
 | Convoy list | 0.90% | ~16 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,725 (Ranked 262)  
+Progressed: 1,726 (Ranked 262)  
 Completed: 1 (0.06%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.06%) (Ranked 336)
 | 2024-01-14 | 1,699 | 1 |
 | 2024-01-15 | 1,713 | 1 |
 | 2024-01-16 | 1,722 | 1 |
-| 2024-01-17 | 1,725 | 1 |
+| 2024-01-17 | 1,726 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -11,15 +11,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 8.00% | ~10,643 |
 | This Belongs in a Museum | 7.00% | ~9,313 |
 | Overdue Notice | 7.00% | ~9,313 |
-| This guy... again? | 7.00% | ~553 |
+| This guy... again? | 7.00% | ~554 |
 | Serenity Now! | 6.00% | ~7,982 |
 | Creep and Sleep | 6.00% | ~7,982 |
 | Meat and Greet | 6.00% | ~7,982 |
 | Catch and Decease | 6.00% | ~7,982 |
 | Escape from the Black Hole | 6.00% | ~7,982 |
 | To Grandmother's House | 6.00% | ~7,982 |
-| Ploughshares to Swords | 6.00% | ~474 |
-| Bloody Graduation | 6.00% | ~474 |
+| Ploughshares to Swords | 6.00% | ~475 |
+| Bloody Graduation | 6.00% | ~475 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,652 |
 | It Rings a Bell | 5.00% | ~6,652 |
 | Not Today! | 5.00% | ~6,652 |
@@ -31,19 +31,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,652 |
 | FNG | 5.00% | ~6,652 |
 | Nope | 5.00% | ~6,652 |
-| Friends 'Til the End | 5.00% | ~395 |
-| Resurrection | 4.00% | ~5,321 |
-| Unleash Hell | 4.00% | ~5,321 |
-| Funny Guy | 4.00% | ~5,321 |
-| Long Live the King | 4.00% | ~5,321 |
-| Wyrdly Reconstructed | 4.00% | ~5,321 |
-| Unfulfilled Desires | 4.00% | ~5,321 |
-| Dissector | 4.00% | ~5,321 |
-| Banishment | 4.00% | ~5,321 |
-| Now Stay Dead | 4.00% | ~5,321 |
-| Spelunker | 4.00% | ~5,321 |
-| Ramble On | 4.00% | ~5,321 |
-| Unshackled | 4.00% | ~5,321 |
+| Friends 'Til the End | 5.00% | ~396 |
+| Resurrection | 4.00% | ~5,322 |
+| Unleash Hell | 4.00% | ~5,322 |
+| Funny Guy | 4.00% | ~5,322 |
+| Long Live the King | 4.00% | ~5,322 |
+| Wyrdly Reconstructed | 4.00% | ~5,322 |
+| Unfulfilled Desires | 4.00% | ~5,322 |
+| Dissector | 4.00% | ~5,322 |
+| Banishment | 4.00% | ~5,322 |
+| Now Stay Dead | 4.00% | ~5,322 |
+| Spelunker | 4.00% | ~5,322 |
+| Ramble On | 4.00% | ~5,322 |
+| Unshackled | 4.00% | ~5,322 |
 | Boxcar Kid | 3.00% | ~3,991 |
 | Hope Rekindled | 3.00% | ~3,991 |
 | Predator | 3.00% | ~3,991 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,037 (Ranked 92)  
+Progressed: 133,041 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,10 +348,10 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,037 | 5 |
+| 2024-01-17 | 133,041 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 51)  
-Sum: 21,696 (Ranked 58)  
+Sum: 21,698 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,536 |
 | This game is Extremely Fun | 1,527 |
 | This game has Unique Visuals | 1,473 |
-| This game has Amazing Storytelling | 1,451 |
+| This game has Amazing Storytelling | 1,453 |
 | This game has Quickly Understood Controls | 1,423 |
 | This game has a Creative Community | 1,100 |
 | This game has Obsessive Gameplay | 585 |
@@ -724,4 +724,4 @@ Diff (max vs sum): -7
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
-| 2024-01-17 | 4.68 | - | 8,031 | 21,696 |
+| 2024-01-17 | 4.68 | - | 8,031 | 21,698 |

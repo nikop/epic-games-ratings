@@ -4893,10 +4893,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7235,
       "NumberOfAwardsMax": 1785
+    },
+    {
+      "Time": "2024-01-17T09:57:27.2227086+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7236,
+      "NumberOfAwardsMax": 1785
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7235,
+  "NumberOfAwards": 7236,
   "NumberOfAwardsMax": 1785,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4964,12 +4970,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 409
+      "Count": 410
     }
   ],
   "EOS_Progressed": 13300,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20198,9 +20204,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 106
     },
     {
       "ID": "42_JustPathetic",
@@ -20827,9 +20833,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-17T05:57:20.2242959+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:10:17.5006395+00:00",
+  "LastChanged": "2024-01-17T09:57:27.2227084+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:11:37.3556269+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:57:15.8534272+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:10:17.5008065+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:57:27.2227091+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:11:37.3557937+00:00"
 }

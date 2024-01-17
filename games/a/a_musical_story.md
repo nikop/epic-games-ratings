@@ -24,9 +24,9 @@
 | Alone Together | 32.00% | ~36 |
 | Threatening Nature | 30.00% | ~34 |
 | Flat Tire | 29.00% | ~33 |
-| TV Dreams | 26.00% | ~30 |
+| TV Dreams | 27.00% | ~31 |
 | The Clash | 24.00% | ~27 |
-| Dreamers | 21.00% | ~24 |
+| Dreamers | 22.00% | ~25 |
 | The Fix | 20.00% | ~23 |
 | Time | 18.00% | ~21 |
 | The Mountains, The Valleys | 17.00% | ~19 |

@@ -3,8 +3,8 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 550,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 157,
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19091,
+  "EOS_Progressed": 19092,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17604,6 +17604,11 @@
       "Time": "2024-01-17T06:06:00.563316+00:00",
       "NumProgressed": 19091,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T10:07:33.6797326+00:00",
+      "NumProgressed": 19092,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17656,7 +17661,7 @@
       "Name": "Doctor Approved",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "15",
@@ -17864,7 +17869,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "33",
@@ -17895,13 +17900,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19091,
+      "Progressed": 19092,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5045,
+      "Progressed": 5046,
       "Completed": 1333
     }
   ],
@@ -17909,8 +17914,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:05:52.73238+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:07:33.6797319+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:59:31.6740918+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:05:52.7324722+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:00:47.3690207+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:07:33.6798164+00:00"
 }

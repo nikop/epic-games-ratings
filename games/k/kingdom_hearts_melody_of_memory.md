@@ -3,6 +3,13 @@
 [View Rawdata](../../db/k/kingdom_hearts_melody_of_memory.json)  
 Rating: 4.65 (Ranked 321)  
 Number of Ratings: 83  (23.09.2022)  
+## Awards
+Max (Great Boss Battles): 20  (Ranked 581)  
+Sum: 20 (Ranked 581)  
+Diff (max vs sum): 0  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -81,3 +88,4 @@ Number of Ratings: 83  (23.09.2022)
 | 2023-12-29 | 4.65 | - | 0 | 0 |
 | 2023-12-30 | 4.66 | - | 0 | 0 |
 | 2023-12-31 | 4.65 | - | 0 | 0 |
+| 2024-01-17 | 4.65 | - | 20 | 20 |

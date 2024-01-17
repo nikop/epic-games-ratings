@@ -3,8 +3,8 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 532,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 102,
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161597,
+  "EOS_Progressed": 161598,
   "EOS_Completed": 392,
   "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 8,
@@ -25528,6 +25528,11 @@
       "Time": "2024-01-17T09:03:50.5169002+00:00",
       "NumProgressed": 161597,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2024-01-17T10:04:48.2163128+00:00",
+      "NumProgressed": 161598,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 31,
@@ -25547,7 +25552,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113118
+      "UsersEstimate": 113119
     },
     {
       "ID": "EAwards_10",
@@ -25563,7 +25568,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33935
+      "UsersEstimate": 33936
     },
     {
       "ID": "EAwards_12",
@@ -25571,7 +25576,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27471
+      "UsersEstimate": 27472
     },
     {
       "ID": "EAwards_13",
@@ -25611,7 +25616,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35551
+      "UsersEstimate": 35552
     },
     {
       "ID": "EAwards_18",
@@ -25619,7 +25624,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35551
+      "UsersEstimate": 35552
     },
     {
       "ID": "EAwards_19",
@@ -25723,7 +25728,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30703
+      "UsersEstimate": 30704
     },
     {
       "ID": "EAwards_30",
@@ -25755,7 +25760,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 40399
+      "UsersEstimate": 40400
     },
     {
       "ID": "EAwards_7",
@@ -25786,7 +25791,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 161597,
+      "Progressed": 161598,
       "Completed": 392
     }
   ],
@@ -25794,8 +25799,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:03:50.5168997+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:04:48.2163125+00:00",
   "LastUpdate_AppInfo": "2024-01-12T09:57:07.503551+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:57:35.040225+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:03:50.5170191+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:57:56.0830027+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:04:48.216423+00:00"
 }

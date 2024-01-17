@@ -3,11 +3,11 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3472,
+  "EOS_Progressed": 3473,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -6607,6 +6607,11 @@
       "Time": "2024-01-17T09:05:42.4207323+00:00",
       "NumProgressed": 3472,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-17T10:07:19.5113908+00:00",
+      "NumProgressed": 3473,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 53,
@@ -6658,7 +6663,7 @@
       "Name": "Hijack",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6666,7 +6671,7 @@
       "Name": "Elemental master",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6674,7 +6679,7 @@
       "Name": "No more holding back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6682,7 +6687,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3298
+      "UsersEstimate": 3299
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6738,7 +6743,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6794,7 +6799,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6802,7 +6807,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6866,7 +6871,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6874,7 +6879,7 @@
       "Name": "Glyndemere",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6882,7 +6887,7 @@
       "Name": "Capelworth",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -6922,7 +6927,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6962,7 +6967,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -7010,7 +7015,7 @@
       "Name": "Full equipped",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -7034,14 +7039,14 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3472,
+      "Progressed": 3473,
       "Completed": 30
     }
   ],
@@ -7049,8 +7054,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:05:42.4207319+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:07:19.5113904+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:58:08.1285747+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:05:42.4207929+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:58:45.4996102+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:07:19.5115185+00:00"
 }

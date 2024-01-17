@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258058,
+  "EOS_Progressed": 258060,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 617,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31037,6 +31037,11 @@
       "Time": "2024-01-17T09:06:29.0179586+00:00",
       "NumProgressed": 258058,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T10:08:57.7721878+00:00",
+      "NumProgressed": 258060,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31264,7 +31269,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64514
+      "UsersEstimate": 64515
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31328,7 +31333,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15483
+      "UsersEstimate": 15484
     },
     {
       "ID": "ACH_MEMORY5",
@@ -31368,7 +31373,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64514
+      "UsersEstimate": 64515
     },
     {
       "ID": "ACH_SOREAD",
@@ -31416,7 +31421,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15483
+      "UsersEstimate": 15484
     },
     {
       "ID": "ACH_TROLLKING",
@@ -31432,7 +31437,7 @@
       "Name": "Valedictorian",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 15483
+      "UsersEstimate": 15484
     },
     {
       "ID": "ACH_WAKEUP",
@@ -31463,7 +31468,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258058,
+      "Progressed": 258060,
       "Completed": 8
     }
   ],
@@ -31471,8 +31476,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:06:29.0179583+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:08:57.7721874+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:02:50.8997489+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:06:29.0181082+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:03:24.6571621+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:08:57.7723352+00:00"
 }

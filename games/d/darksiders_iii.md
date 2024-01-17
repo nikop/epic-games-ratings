@@ -6,24 +6,24 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~481 |
-| First of many… | 68.00% | ~425 |
-| Helping Hand | 65.00% | ~406 |
-| Increased Vigor | 61.00% | ~381 |
+| Green with Envy | 77.00% | ~482 |
+| First of many… | 68.00% | ~426 |
+| Helping Hand | 65.00% | ~407 |
+| Increased Vigor | 61.00% | ~382 |
 | Fight Fire with Fire | 59.00% | ~369 |
-| Increased Capacity | 56.00% | ~350 |
-| Just the start | 50.00% | ~312 |
+| Increased Capacity | 56.00% | ~351 |
+| Just the start | 50.00% | ~313 |
 | Perfect Storm | 47.00% | ~294 |
 | All That Glitters | 47.00% | ~294 |
 | Enhance! | 43.00% | ~269 |
-| One Of the Chosen | 42.00% | ~262 |
-| Throne Potato | 41.00% | ~256 |
-| Five's a Crowd | 41.00% | ~256 |
+| One Of the Chosen | 42.00% | ~263 |
+| Throne Potato | 41.00% | ~257 |
+| Five's a Crowd | 41.00% | ~257 |
 | Devil's in the Details | 40.00% | ~250 |
 | 25 to Life | 40.00% | ~250 |
 | Salvation | 39.00% | ~244 |
-| Unshakable Fortitude | 37.00% | ~231 |
-| Soul Harvester | 37.00% | ~231 |
+| Unshakable Fortitude | 37.00% | ~232 |
+| Soul Harvester | 37.00% | ~232 |
 | I Wanna Rock | 35.00% | ~219 |
 | Delusions of Grandeur | 35.00% | ~219 |
 | Maximum Vigor | 34.00% | ~213 |
@@ -49,7 +49,7 @@ Number of Ratings: 116  (23.09.2022)
 | Unbreakable Will | 13.00% | ~81 |
 | Holy Keeper | 12.00% | ~75 |
 | Demon Keeper | 12.00% | ~75 |
-| Humanitarian | 10.00% | ~62 |
+| Humanitarian | 10.00% | ~63 |
 | Soul Reaper | 8.00% | ~50 |
 | Made of Sterner Stuff | 7.00% | ~44 |
 | My Evil Twin | 6.00% | ~38 |
@@ -65,13 +65,13 @@ Number of Ratings: 116  (23.09.2022)
 | Proceed on your way to Armageddon | 3.00% | ~19 |
 | Keeper of Colossal Automata | 3.00% | ~19 |
 | Keeper of the Tempo | 3.00% | ~19 |
-| "Apocalyptic!" | 2.00% | ~12 |
-| "Amazing!" | 2.00% | ~12 |
-| Death Incarnate | 2.00% | ~12 |
+| "Apocalyptic!" | 2.00% | ~13 |
+| "Amazing!" | 2.00% | ~13 |
+| Death Incarnate | 2.00% | ~13 |
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 625 (Ranked 342)  
+Progressed: 626 (Ranked 341)  
 Completed: 2 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.32%) (Ranked 257)
 | 2024-01-14 | 600 | 2 |
 | 2024-01-15 | 616 | 2 |
 | 2024-01-16 | 624 | 2 |
-| 2024-01-17 | 625 | 2 |
+| 2024-01-17 | 626 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

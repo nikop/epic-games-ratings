@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 1958,
+  "EOS_Progressed": 1959,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3731,6 +3731,11 @@
       "Time": "2024-01-16T22:05:53.3575976+00:00",
       "NumProgressed": 1958,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-17T10:06:04.5175125+00:00",
+      "NumProgressed": 1959,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3742,7 +3747,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3750,7 +3755,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3790,7 +3795,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3798,7 +3803,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3878,7 +3883,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3886,7 +3891,7 @@
       "Name": "Spark of Love",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -3990,7 +3995,7 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENTS_33",
@@ -4030,7 +4035,7 @@
       "Name": "Mail Carrier",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENTS_38",
@@ -4045,7 +4050,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1958,
+      "Progressed": 1959,
       "Completed": 11
     }
   ],
@@ -4053,8 +4058,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-17T04:58:49.7548241+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:04:46.7993475+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:06:04.5175122+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3466172+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:58:58.1884102+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:04:46.7993953+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:59:58.5229355+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:06:04.5175513+00:00"
 }

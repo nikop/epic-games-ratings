@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,904 |
+| Getting Started | 81.00% | ~15,905 |
 | Pay 'n' Spray | 50.00% | ~9,818 |
 | All Dressed Up for San Fierro | 25.00% | ~4,909 |
 | The American Dream | 19.00% | ~3,731 |
@@ -17,7 +17,7 @@ Rating: 4.56 (Ranked 511)
 | Liberty City State of Mind | 9.00% | ~1,767 |
 | The End of the Line | 8.00% | ~1,571 |
 | Original Gangster | 8.00% | ~1,571 |
-| With Extra Dip | 7.00% | ~1,374 |
+| With Extra Dip | 7.00% | ~1,375 |
 | Saviour | 6.00% | ~1,178 |
 | They Can’t Stop All of Us | 5.00% | ~982 |
 | Rescue a Kitten Too? | 5.00% | ~982 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 511)
 | ...Here we go again | 0.60% | ~118 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,635 (Ranked 157)  
+Progressed: 19,636 (Ranked 157)  
 Completed: 80 (0.41%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,17 +313,17 @@ Completed: 80 (0.41%) (Ranked 242)
 | 2024-01-14 | 19,569 | 78 |
 | 2024-01-15 | 19,602 | 79 |
 | 2024-01-16 | 19,632 | 80 |
-| 2024-01-17 | 19,635 | 80 |
+| 2024-01-17 | 19,636 | 80 |
 ## Awards
-Max (Great Boss Battles): 682  (Ranked 199)  
-Sum: 1,107 (Ranked 269)  
-Diff (max vs sum): -70  
+Max (Great Boss Battles): 685  (Ranked 198)  
+Sum: 1,111 (Ranked 269)  
+Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 682 |
+| This game has Great Boss Battles | 685 |
 | This game has Amazing Characters | 61 |
+| This game is Relaxing | 59 |
 | This game is Highly Recommended | 59 |
-| This game is Relaxing | 58 |
 | This game has Amazing Storytelling | 58 |
 | This game is Great for Beginners | 53 |
 | This game has Diverse Characters | 53 |
@@ -566,3 +566,4 @@ Diff (max vs sum): -70
 | 2024-01-14 | 4.55 | 667 | 1,079 |
 | 2024-01-15 | 4.56 | 677 | 1,096 |
 | 2024-01-16 | 4.56 | 682 | 1,107 |
+| 2024-01-17 | 4.56 | 685 | 1,111 |

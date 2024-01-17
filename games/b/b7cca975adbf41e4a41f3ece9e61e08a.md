@@ -29,9 +29,9 @@ Rating: 4.70 (Ranked 220)
 | All I Have Is Money | 22.00% | ~4,120 |
 | A Slap In The Face! | 22.00% | ~4,120 |
 | That's So You | 22.00% | ~4,120 |
+| SALUTE | 22.00% | ~4,120 |
 | Lover In Dark Alley | 21.00% | ~3,933 |
 | Let Me Be Your Toy Boy | 21.00% | ~3,933 |
-| SALUTE | 21.00% | ~3,933 |
 | Off We Sail Tonight | 15.00% | ~2,809 |
 | Can You Do This Or Not? | 14.00% | ~2,622 |
 | Love You Three Thousand | 13.00% | ~2,435 |

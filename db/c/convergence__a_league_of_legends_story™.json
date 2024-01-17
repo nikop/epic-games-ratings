@@ -3,8 +3,8 @@
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_Rating": 303,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 253,
@@ -4231,9 +4231,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 254
     },
     {
       "ID": "GadgetCompletion1",
@@ -4528,8 +4528,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:10:15.8534155+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:11:35.3945758+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:59:54.871231+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:10:15.8534627+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:01:20.5584557+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:11:35.3946401+00:00"
 }

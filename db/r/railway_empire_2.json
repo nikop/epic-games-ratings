@@ -3,8 +3,8 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 797,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 232,
@@ -337,7 +337,7 @@
   "Tags": [],
   "EOS_Progressed": 2745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8568,8 +8568,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-14T14:57:36.3985254+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:03:59.0293317+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:04:59.7396952+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:59:01.1059089+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:03:59.0293992+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:00:02.5535563+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:04:59.7397983+00:00"
 }

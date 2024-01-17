@@ -2316,9 +2316,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16936,
+  "EOS_Progressed": 16937,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20306,6 +20306,11 @@
       "Time": "2024-01-17T08:10:52.9903552+00:00",
       "NumProgressed": 16936,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T10:11:40.1608409+00:00",
+      "NumProgressed": 16937,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -23027,9 +23032,9 @@
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -23180,21 +23185,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16936,
+      "Progressed": 16937,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16936,
+      "Progressed": 16937,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T02:27:25.2024436+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:10:19.8401421+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:11:40.1608405+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:02:48.4468949+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:10:19.8411634+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:03:21.5260168+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:11:40.1618187+00:00"
 }

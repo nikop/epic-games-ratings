@@ -57,14 +57,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | Doing Time | 0.60% | ~1,459 |
 | Spreading Plague | 0.60% | ~1,459 |
 | Expensive Look | 0.60% | ~27 |
-| Thank You, Friend | 0.50% | ~1,215 |
-| Shadow Spreads | 0.50% | ~1,215 |
-| Max Damage! | 0.50% | ~1,215 |
-| A Rough Road | 0.50% | ~1,215 |
-| Illuminate, Eliminate | 0.50% | ~1,215 |
-| Chain Reaction | 0.50% | ~1,215 |
-| Antivenom | 0.50% | ~1,215 |
-| The Long Run | 0.50% | ~1,215 |
+| Thank You, Friend | 0.50% | ~1,216 |
+| Shadow Spreads | 0.50% | ~1,216 |
+| Max Damage! | 0.50% | ~1,216 |
+| A Rough Road | 0.50% | ~1,216 |
+| Illuminate, Eliminate | 0.50% | ~1,216 |
+| Chain Reaction | 0.50% | ~1,216 |
+| Antivenom | 0.50% | ~1,216 |
+| The Long Run | 0.50% | ~1,216 |
 | Berzerker | 0.40% | ~972 |
 | Decisions, Decisions | 0.40% | ~972 |
 | Snake Sneak | 0.40% | ~972 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,098 (Ranked 75)  
+Progressed: 243,102 (Ranked 75)  
 Completed: 307 (0.13%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 307 (0.13%) (Ranked 304)
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
-| 2024-01-17 | 243,098 | 307 |
+| 2024-01-17 | 243,102 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,799 (Ranked 90)  

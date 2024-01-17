@@ -1,53 +1,53 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.51 (Ranked 597)  
+Rating: 4.51 (Ranked 596)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~6,400 |
-| All thumbs | 92.00% | ~6,331 |
-| I will survive! | 92.00% | ~6,331 |
-| Home, sweet home | 90.00% | ~6,194 |
-| Survivalist | 89.00% | ~6,125 |
-| One way ticket | 84.00% | ~5,781 |
-| Last man standing | 79.00% | ~5,437 |
-| Family guy | 75.00% | ~5,162 |
-| Out of the Bag | 74.00% | ~5,093 |
-| The Dark Side | 69.00% | ~4,749 |
-| Duck and cover! | 64.00% | ~4,404 |
-| Souper! | 63.00% | ~4,336 |
-| Pacifist | 58.00% | ~3,992 |
-| 2-1-6 | 57.00% | ~3,923 |
-| A gift | 53.00% | ~3,647 |
-| Girl Power | 47.00% | ~3,235 |
-| What goes around... | 43.00% | ~2,959 |
-| Be Prepared | 37.00% | ~2,546 |
-| Unbreakable | 35.00% | ~2,409 |
-| Gotta get 'em all | 33.00% | ~2,271 |
-| This is the end | 33.00% | ~2,271 |
-| Atomic drill | 31.00% | ~2,133 |
-| Disco Roach | 28.00% | ~1,927 |
-| Dawkins Residence | 21.00% | ~1,445 |
-| Rescue time! | 18.00% | ~1,239 |
-| New order | 17.00% | ~1,170 |
-| New species | 16.00% | ~1,101 |
-| Enigma | 15.00% | ~1,032 |
-| A New Hope | 14.00% | ~963 |
-| Challenger | 12.00% | ~826 |
-| No stone unturned | 12.00% | ~826 |
-| Men in Black | 12.00% | ~826 |
-| Unplugged | 8.00% | ~551 |
-| Mad Hatter | 7.00% | ~482 |
-| Holidays! | 6.00% | ~413 |
-| Lumbersexual | 6.00% | ~413 |
-| Yes Man | 6.00% | ~413 |
-| Take that, Brundlefly! | 5.00% | ~344 |
-| Danger zone | 4.00% | ~275 |
-| Feline Domination | 4.00% | ~275 |
-| Friend in need | 4.00% | ~275 |
-| Rogue One | 4.00% | ~275 |
-| Soup Can into Space | 3.00% | ~206 |
+| Prepper | 93.00% | ~6,421 |
+| All thumbs | 92.00% | ~6,352 |
+| I will survive! | 92.00% | ~6,352 |
+| Home, sweet home | 90.00% | ~6,214 |
+| Survivalist | 89.00% | ~6,145 |
+| One way ticket | 84.00% | ~5,799 |
+| Last man standing | 79.00% | ~5,454 |
+| Family guy | 75.00% | ~5,178 |
+| Out of the Bag | 74.00% | ~5,109 |
+| The Dark Side | 69.00% | ~4,764 |
+| Duck and cover! | 64.00% | ~4,419 |
+| Souper! | 63.00% | ~4,350 |
+| Pacifist | 58.00% | ~4,004 |
+| 2-1-6 | 57.00% | ~3,935 |
+| A gift | 53.00% | ~3,659 |
+| Girl Power | 47.00% | ~3,245 |
+| What goes around... | 43.00% | ~2,969 |
+| Be Prepared | 37.00% | ~2,554 |
+| Unbreakable | 35.00% | ~2,416 |
+| Gotta get 'em all | 33.00% | ~2,278 |
+| This is the end | 33.00% | ~2,278 |
+| Atomic drill | 31.00% | ~2,140 |
+| Disco Roach | 28.00% | ~1,933 |
+| Dawkins Residence | 21.00% | ~1,450 |
+| Rescue time! | 18.00% | ~1,243 |
+| New order | 17.00% | ~1,174 |
+| New species | 16.00% | ~1,105 |
+| Enigma | 15.00% | ~1,036 |
+| A New Hope | 14.00% | ~967 |
+| Challenger | 12.00% | ~828 |
+| No stone unturned | 12.00% | ~828 |
+| Men in Black | 12.00% | ~828 |
+| Unplugged | 8.00% | ~552 |
+| Mad Hatter | 7.00% | ~483 |
+| Holidays! | 6.00% | ~414 |
+| Lumbersexual | 6.00% | ~414 |
+| Yes Man | 6.00% | ~414 |
+| Take that, Brundlefly! | 5.00% | ~345 |
+| Danger zone | 4.00% | ~276 |
+| Feline Domination | 4.00% | ~276 |
+| Friend in need | 4.00% | ~276 |
+| Rogue One | 4.00% | ~276 |
+| Soup Can into Space | 3.00% | ~207 |
 | Enola Gay | 2.00% | ~138 |
 | Stay frosty | 2.00% | ~138 |
 | Panzer | 2.00% | ~138 |
@@ -60,13 +60,13 @@ Rating: 4.51 (Ranked 597)
 | Bughunter | 0.80% | ~55 |
 | Naysayer | 0.60% | ~41 |
 | Pro gamer | 0.60% | ~41 |
-| Manhattan Project | 0.50% | ~34 |
-| Fair Exchange | 0.50% | ~34 |
+| Manhattan Project | 0.50% | ~35 |
+| Fair Exchange | 0.40% | ~28 |
 | Tora! Tora! Tora! | 0.20% | ~14 |
 | Miracle | 0.20% | ~14 |
 | Dead Hand | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,882 (Ranked 201)  
+Progressed: 6,904 (Ranked 201)  
 Completed: 1 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 1 (0.01%) (Ranked 378)
 | 2024-01-14 | 6,322 | 1 |
 | 2024-01-15 | 6,348 | 1 |
 | 2024-01-16 | 6,654 | 1 |
-| 2024-01-17 | 6,882 | 1 |
+| 2024-01-17 | 6,904 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

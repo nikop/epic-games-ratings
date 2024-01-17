@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1079,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 311,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -91,7 +91,7 @@
   "Tags": [],
   "EOS_Progressed": 678,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1689,8 +1689,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:08:59.2326579+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:04:17.9245469+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:03:25.7733312+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:08:59.2327066+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:04:11.8309471+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:04:17.9245971+00:00"
 }

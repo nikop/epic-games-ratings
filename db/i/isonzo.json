@@ -1087,7 +1087,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9973,
+  "EOS_Progressed": 9974,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -11257,6 +11257,11 @@
       "Time": "2024-01-17T09:09:38.3384854+00:00",
       "NumProgressed": 9973,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-17T10:10:46.5099436+00:00",
+      "NumProgressed": 9974,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11284,7 +11289,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11380,7 +11385,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3191
+      "UsersEstimate": 3192
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11476,7 +11481,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1696
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11508,7 +11513,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11596,7 +11601,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11604,7 +11609,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11620,14 +11625,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9973,
+      "Progressed": 9974,
       "Completed": 10
     }
   ],
@@ -11635,8 +11640,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:09:38.338485+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:10:46.5099433+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:59:48.1853788+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:09:38.3385593+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:01:10.9838457+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:10:46.5100151+00:00"
 }

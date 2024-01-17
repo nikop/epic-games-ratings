@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~27,173 |
-| A thief's beginning | 11.00% | ~24,908 |
-| Thorough | 11.00% | ~24,908 |
+| A thief's beginning | 11.00% | ~24,909 |
+| Thorough | 11.00% | ~24,909 |
 | Disguised | 9.00% | ~20,380 |
 | Rescue Takuma | 9.00% | ~20,380 |
 | Rollin' | 9.00% | ~20,380 |
@@ -51,8 +51,8 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,439 (Ranked 80)  
-Completed: 107 (0.05%) (Ranked 343)  
+Progressed: 226,441 (Ranked 80)  
+Completed: 108 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,7 +323,7 @@ Completed: 107 (0.05%) (Ranked 343)
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
 | 2024-01-16 | 226,388 | 107 |
-| 2024-01-17 | 226,439 | 107 |
+| 2024-01-17 | 226,441 | 108 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 213)  
 Sum: 4,963 (Ranked 153)  

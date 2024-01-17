@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 18728,
   "EOS_Completed": 335,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
@@ -10483,9 +10483,9 @@
       "ID": "NEW_ACHIEVEMENT_2_9",
       "SetID": "7opfcp",
       "Name": "SALUTE",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3933
+      "UsersEstimate": 4120
     }
   ],
   "AchievementSets": [
@@ -10500,8 +10500,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-16T14:57:41.318493+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:09:49.0385014+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:11:00.7763059+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:58:01.8871418+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:09:49.0385692+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:58:36.4565419+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:11:00.7763666+00:00"
 }

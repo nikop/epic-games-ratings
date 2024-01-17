@@ -3,8 +3,8 @@
   "Name": "RiMS Racing",
   "ProductSlug": "rims-racing",
   "Ranking_Rating": 884,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 557,
@@ -150,6 +150,6 @@
   "FirstSeen": "2022-07-22T20:18:54.8665503+00:00",
   "LastChanged": "2023-12-10T01:52:00.3471595+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.3263343+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:57:27.0903886+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:09:24.2647288+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:57:43.642329+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:10:28.3775489+00:00"
 }

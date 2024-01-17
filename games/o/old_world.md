@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
+| Kush | 0.20% | ~34 |
 | Beja Archer | 0.20% | ~34 |
 | Al Khazneh | 0.20% | ~34 |
 | Colosseum | 0.20% | ~34 |
@@ -311,7 +312,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Re-writing History | 0.10% | ~17 |
 | History Repeats | 0.10% | ~17 |
 | Egypt Campaign | 0.10% | ~17 |
-| Kush | 0.10% | ~17 |
 | Cothon in Carthago | 0.10% | ~17 |
 | Yazilikaya in Hattusa | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,936 (Ranked 169)  
+Progressed: 16,937 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,936 | 5 |
+| 2024-01-17 | 16,937 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,935 (Ranked 223)  

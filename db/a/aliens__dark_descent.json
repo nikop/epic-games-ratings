@@ -2,7 +2,7 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 579,
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 202,
@@ -573,9 +573,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6470,
+  "EOS_Progressed": 6471,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9973,6 +9973,11 @@
       "Time": "2024-01-17T09:06:02.4591527+00:00",
       "NumProgressed": 6470,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T10:08:16.7525204+00:00",
+      "NumProgressed": 6471,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10024,7 +10029,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2782
+      "UsersEstimate": 2783
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10064,7 +10069,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -10176,7 +10181,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3364
+      "UsersEstimate": 3365
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10192,7 +10197,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10248,7 +10253,7 @@
       "Name": "The Spire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10288,7 +10293,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4982
+      "UsersEstimate": 4983
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10296,7 +10301,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3235
+      "UsersEstimate": 3236
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10312,7 +10317,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2329
+      "UsersEstimate": 2330
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10320,7 +10325,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10328,7 +10333,7 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10343,7 +10348,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6470,
+      "Progressed": 6471,
       "Completed": 3
     }
   ],
@@ -10351,8 +10356,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:06:02.4591525+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:08:16.7525201+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:58:51.9598314+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:06:02.4592488+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:59:50.0099336+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:08:16.752595+00:00"
 }

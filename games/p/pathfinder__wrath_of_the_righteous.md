@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~121 |
 | Not the Last Sarkorian | 1.00% | ~121 |
 | End of Eternal Guard | 0.90% | ~120 |
+| Playful Mood | 0.80% | ~106 |
 | Masterful Charge | 0.70% | ~93 |
-| Playful Mood | 0.70% | ~93 |
 | Dreadful Dragon | 0.70% | ~93 |
 | Prelate's Nemesis | 0.50% | ~66 |
 | Ashes to Ashes | 0.40% | ~53 |
@@ -398,7 +398,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-17 | 13,300 | 0 |
 ## Awards
 Max (Character Customization): 1,785  (Ranked 133)  
-Sum: 7,235 (Ranked 127)  
+Sum: 7,236 (Ranked 127)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
@@ -411,7 +411,7 @@ Diff (max vs sum): 6
 | This game has Challenging Combat | 605 |
 | This game has Quickly Understood Controls | 589 |
 | This game is Relaxing | 567 |
-| This game has a Creative Community | 409 |
+| This game has a Creative Community | 410 |
 | This game has Obsessive Gameplay | 364 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -736,4 +736,4 @@ Diff (max vs sum): 6
 | 2024-01-13 | 4.76 | - | 1,784 | 7,227 |
 | 2024-01-14 | 4.76 | - | 1,785 | 7,232 |
 | 2024-01-16 | 4.76 | - | 1,785 | 7,234 |
-| 2024-01-17 | 4.76 | - | 1,785 | 7,235 |
+| 2024-01-17 | 4.76 | - | 1,785 | 7,236 |

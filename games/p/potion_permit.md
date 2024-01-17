@@ -5,15 +5,15 @@ Rating: 3.87 (Ranked 1,078)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,919 |
-| The First Step | 87.00% | ~1,703 |
+| Welcome to Moonbury | 98.00% | ~1,920 |
+| The First Step | 87.00% | ~1,704 |
 | Moonbury Traveller | 63.00% | ~1,234 |
 | Rookie Chemist | 60.00% | ~1,175 |
-| Great Doctor | 50.00% | ~979 |
-| Dog Whisperer | 47.00% | ~920 |
+| Great Doctor | 50.00% | ~980 |
+| Dog Whisperer | 47.00% | ~921 |
 | Friendly | 46.00% | ~901 |
 | The Capitalist | 43.00% | ~842 |
-| K.O.! | 42.00% | ~822 |
+| K.O.! | 42.00% | ~823 |
 | Intermediate Chemist | 39.00% | ~764 |
 | Decorative Mind | 33.00% | ~646 |
 | Lumber Specialist | 31.00% | ~607 |
@@ -21,7 +21,7 @@ Rating: 3.87 (Ranked 1,078)
 | Catch of the Day | 25.00% | ~490 |
 | Amateur Chef | 22.00% | ~431 |
 | Fishing Guru | 20.00% | ~392 |
-| Spark of Love | 18.00% | ~352 |
+| Spark of Love | 18.00% | ~353 |
 | Community Helper | 16.00% | ~313 |
 | Expert Chemist | 14.00% | ~274 |
 | Stone Specialist | 14.00% | ~274 |
@@ -32,8 +32,8 @@ Rating: 3.87 (Ranked 1,078)
 | Good Samaritan | 10.00% | ~196 |
 | Acrobatic Adventurer | 9.00% | ~176 |
 | Animal Exterminator | 9.00% | ~176 |
-| Adolescent Love | 6.00% | ~117 |
-| Mail Carrier | 6.00% | ~117 |
+| Adolescent Love | 6.00% | ~118 |
+| Mail Carrier | 6.00% | ~118 |
 | Plantation Exterminator | 5.00% | ~98 |
 | Sous Chef | 4.00% | ~78 |
 | Grape Supplier | 4.00% | ~78 |
@@ -44,7 +44,7 @@ Rating: 3.87 (Ranked 1,078)
 | Moonbury Navigator | 1.00% | ~20 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,958 (Ranked 255)  
+Progressed: 1,959 (Ranked 255)  
 Completed: 11 (0.56%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,6 +241,7 @@ Completed: 11 (0.56%) (Ranked 220)
 | 2024-01-14 | 1,951 | 11 |
 | 2024-01-15 | 1,955 | 11 |
 | 2024-01-16 | 1,958 | 11 |
+| 2024-01-17 | 1,959 | 11 |
 ## Awards
 Max (Character Customization): 72  (Ranked 416)  
 Sum: 72 (Ranked 491)  

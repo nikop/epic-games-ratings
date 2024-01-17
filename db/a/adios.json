@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1101,
-  "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 127,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83754,
+  "EOS_Progressed": 83755,
   "EOS_Completed": 944,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30497,6 +30497,11 @@
       "Time": "2024-01-17T09:03:33.3610239+00:00",
       "NumProgressed": 83754,
       "NumCompleted": 944
+    },
+    {
+      "Time": "2024-01-17T10:04:24.7953445+00:00",
+      "NumProgressed": 83755,
+      "NumCompleted": 944
     }
   ],
   "TotalAchievements": 25,
@@ -30612,7 +30617,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17588
+      "UsersEstimate": 17589
     },
     {
       "ID": "Meaty",
@@ -30707,7 +30712,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83754,
+      "Progressed": 83755,
       "Completed": 944
     }
   ],
@@ -30715,8 +30720,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-17T09:03:33.3610233+00:00",
+  "LastChanged_Achievements": "2024-01-17T10:04:24.7953441+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:59:10.8405404+00:00",
-  "LastUpdate_Achievements": "2024-01-17T09:03:33.3612349+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:00:17.02856+00:00",
+  "LastUpdate_Achievements": "2024-01-17T10:04:24.7954995+00:00"
 }
