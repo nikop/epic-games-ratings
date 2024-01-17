@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4973,7 +4973,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13301,
+  "EOS_Progressed": 13302,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
@@ -19888,6 +19888,11 @@
       "Time": "2024-01-17T17:11:22.6158675+00:00",
       "NumProgressed": 13301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T22:10:20.9200257+00:00",
+      "NumProgressed": 13302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19899,7 +19904,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3724
+      "UsersEstimate": 3725
     },
     {
       "ID": "02_BurningCity",
@@ -20779,7 +20784,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -20787,7 +20792,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -20811,7 +20816,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -20819,28 +20824,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12083,
+      "Progressed": 12084,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13301,
+      "Progressed": 13302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-17T09:57:27.2227084+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:10:13.4888851+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:10:20.9200256+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:57:26.6779453+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:10:13.4890742+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:57:35.3760596+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:10:20.9201894+00:00"
 }

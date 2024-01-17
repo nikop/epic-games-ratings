@@ -86,9 +86,9 @@
       "ID": "ChilliPeppered",
       "SetID": "cidef9m",
       "Name": "Chilli Peppered!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Collect100",
@@ -102,9 +102,9 @@
       "ID": "Collect30",
       "SetID": "cidef9m",
       "Name": "Give me that...",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Collect60",
@@ -126,9 +126,9 @@
       "ID": "Defeat20",
       "SetID": "cidef9m",
       "Name": "Pesticide",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Defeat60",
@@ -286,9 +286,9 @@
       "ID": "ReleaseTheQuacken",
       "SetID": "cidef9m",
       "Name": "Release the Quacken!",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Side15",
@@ -420,8 +420,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T16:12:35.1501319+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:09:02.7250422+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:09:10.1778544+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.7708898+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:58:09.5093206+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:09:02.7250789+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:58:20.292835+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:09:10.1778825+00:00"
 }

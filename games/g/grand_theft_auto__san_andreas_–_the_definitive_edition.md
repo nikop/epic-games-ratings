@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 512)  
+Rating: 4.56 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.56 (Ranked 512)
 | What happens in Las Venturas... | 15.00% | ~2,948 |
 | Today Was a Good Day | 15.00% | ~2,948 |
 | Horror of the Santa Maria | 11.00% | ~2,162 |
-| Liberty City State of Mind | 9.00% | ~1,769 |
+| Liberty City State of Mind | 10.00% | ~1,966 |
 | The End of the Line | 8.00% | ~1,572 |
 | Original Gangster | 8.00% | ~1,572 |
 | With Extra Dip | 7.00% | ~1,376 |
@@ -316,7 +316,7 @@ Completed: 80 (0.41%) (Ranked 242)
 | 2024-01-17 | 19,655 | 80 |
 ## Awards
 Max (Great Boss Battles): 685  (Ranked 199)  
-Sum: 1,114 (Ranked 269)  
+Sum: 1,115 (Ranked 269)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
@@ -325,8 +325,8 @@ Diff (max vs sum): -70
 | This game is Relaxing | 59 |
 | This game has Amazing Storytelling | 59 |
 | This game is Highly Recommended | 59 |
+| This game has Diverse Characters | 54 |
 | This game is Great for Beginners | 53 |
-| This game has Diverse Characters | 53 |
 | This game has Quickly Understood Controls | 45 |
 | This game is Extremely Fun | 40 |
 | This game has a Creative Community | 29 |
@@ -566,4 +566,4 @@ Diff (max vs sum): -70
 | 2024-01-14 | 4.55 | 667 | 1,079 |
 | 2024-01-15 | 4.56 | 677 | 1,096 |
 | 2024-01-16 | 4.56 | 682 | 1,107 |
-| 2024-01-17 | 4.56 | 685 | 1,114 |
+| 2024-01-17 | 4.56 | 685 | 1,115 |

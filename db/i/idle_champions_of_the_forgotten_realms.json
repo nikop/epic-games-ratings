@@ -9575,10 +9575,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33532,
       "NumberOfAwardsMax": 5786
+    },
+    {
+      "Time": "2024-01-17T21:58:55.3738337+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33533,
+      "NumberOfAwardsMax": 5786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33532,
+  "NumberOfAwards": 33533,
   "NumberOfAwardsMax": 5786,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9622,12 +9628,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3647
+      "Count": 3648
     }
   ],
-  "EOS_Progressed": 254454,
+  "EOS_Progressed": 254460,
   "EOS_Completed": 2623,
-  "EOS_NewPlayers": 1212,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40535,6 +40541,11 @@
       "Time": "2024-01-17T21:10:16.9893419+00:00",
       "NumProgressed": 254454,
       "NumCompleted": 2623
+    },
+    {
+      "Time": "2024-01-17T22:10:24.5333358+00:00",
+      "NumProgressed": 254460,
+      "NumCompleted": 2623
     }
   ],
   "TotalAchievements": 546,
@@ -43704,9 +43715,9 @@
       "ID": "objective_completed_71",
       "SetID": "cc37lbc",
       "Name": "Constant Banditry",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 763
     },
     {
       "ID": "objective_completed_72",
@@ -44913,21 +44924,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220728,
+      "Progressed": 220734,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254454,
+      "Progressed": 254460,
       "Completed": 2623
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:10:16.9893415+00:00",
+  "LastChanged": "2024-01-17T21:58:55.3738336+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:10:24.5333355+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:58:45.0304631+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:10:16.9918171+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:58:55.373834+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:10:24.535717+00:00"
 }

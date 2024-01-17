@@ -3,8 +3,8 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 34,
-  "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 534,
+  "Ranking_Popularity": 502,
+  "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 113,
@@ -279,7 +279,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17338,
+  "EOS_Progressed": 17339,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 672,
   "EOS_NewCompleters": 0,
@@ -12559,6 +12559,11 @@
       "Time": "2024-01-17T21:06:14.0222776+00:00",
       "NumProgressed": 17338,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T22:06:23.4542757+00:00",
+      "NumProgressed": 17339,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12594,7 +12599,7 @@
       "Name": "The Negotiator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Ach005",
@@ -12746,7 +12751,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9709
+      "UsersEstimate": 9710
     },
     {
       "ID": "Ach024",
@@ -12922,7 +12927,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "Ach046",
@@ -12970,7 +12975,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8669
+      "UsersEstimate": 8670
     },
     {
       "ID": "Ach052",
@@ -12986,7 +12991,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "Ach054",
@@ -13137,13 +13142,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17338,
+      "Progressed": 17339,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15859,
+      "Progressed": 15860,
       "Completed": 1931
     }
   ],
@@ -13151,8 +13156,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:06:14.0222774+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:06:23.4542754+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:00:31.8874866+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:06:14.0223789+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:00:42.6490612+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:06:23.4544181+00:00"
 }

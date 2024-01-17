@@ -12,16 +12,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tinkle of Coins | 10.00% | ~15,169 |
 | Disintermediation | 8.00% | ~12,135 |
 | Capitalism Ho! | 8.00% | ~12,135 |
-| It's Free Real Estate | 7.00% | ~10,618 |
-| Budding Merchant | 7.00% | ~10,618 |
-| One Easy Payment | 6.00% | ~9,101 |
-| Some Assembly Required | 6.00% | ~9,101 |
-| Another Satisfied Customer | 6.00% | ~9,101 |
-| Pretty Penny | 6.00% | ~9,101 |
-| Own the Means of Production | 6.00% | ~9,101 |
-| The Daily Grind | 5.00% | ~7,584 |
-| One-Armed Bandit | 5.00% | ~7,584 |
-| Through Repetition, Perfection | 5.00% | ~7,584 |
+| It's Free Real Estate | 7.00% | ~10,619 |
+| Budding Merchant | 7.00% | ~10,619 |
+| One Easy Payment | 6.00% | ~9,102 |
+| Some Assembly Required | 6.00% | ~9,102 |
+| Another Satisfied Customer | 6.00% | ~9,102 |
+| Pretty Penny | 6.00% | ~9,102 |
+| Own the Means of Production | 6.00% | ~9,102 |
+| The Daily Grind | 5.00% | ~7,585 |
+| One-Armed Bandit | 5.00% | ~7,585 |
+| Through Repetition, Perfection | 5.00% | ~7,585 |
 | Bounty Hunters | 4.00% | ~6,068 |
 | Demand for Supplies | 4.00% | ~6,068 |
 | Flooding the Market | 4.00% | ~6,068 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~607 |
 | Capitalist Camaraderie | 0.30% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,689 (Ranked 87)  
+Progressed: 151,693 (Ranked 87)  
 Completed: 359 (0.24%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 359 (0.24%) (Ranked 274)
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
 | 2024-01-16 | 151,517 | 355 |
-| 2024-01-17 | 151,689 | 359 |
+| 2024-01-17 | 151,693 | 359 |
 ## Awards
 Max (Great for Beginners): 4,964  (Ranked 81)  
 Sum: 28,010 (Ranked 52)  

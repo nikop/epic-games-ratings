@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5041,
+  "EOS_Progressed": 5042,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -13475,6 +13475,11 @@
       "Time": "2024-01-17T19:05:24.5915839+00:00",
       "NumProgressed": 5041,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-17T22:05:08.1872573+00:00",
+      "NumProgressed": 5042,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13558,7 +13563,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "ach_food_completed",
@@ -13582,7 +13587,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "ach_magic_wand",
@@ -13590,7 +13595,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ach_no_boosters",
@@ -13606,14 +13611,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5041,
+      "Progressed": 5042,
       "Completed": 44
     }
   ],
@@ -13621,8 +13626,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:04:58.8155557+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:05:08.187257+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:59:19.1051215+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:04:58.8156398+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:59:26.5834188+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:05:08.1873385+00:00"
 }

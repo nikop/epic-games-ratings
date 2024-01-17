@@ -4,7 +4,7 @@
   "ProductSlug": "the-making-of-karateka-7d9a6c",
   "Ranking_EOS_Progress": 581,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewPlayers": 424,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -252,17 +252,17 @@
       "ID": "deathbouncer",
       "SetID": "l4g2eh",
       "Name": "Deathbouncer",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "down_ship",
       "SetID": "l4g2eh",
       "Name": "Down With The Ship",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "fancy_footwork",
@@ -403,8 +403,8 @@
   ],
   "FirstSeen": "2023-09-01T23:59:35.8953756+00:00",
   "FirstSeenAchievements": "2023-08-04T19:02:29.8301885+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:04:52.9097946+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:05:02.4434046+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:16.2322724+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:59:38.9546694+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:04:52.909811+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:59:47.3142841+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:05:02.4434209+00:00"
 }

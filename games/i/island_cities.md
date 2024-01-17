@@ -10,7 +10,7 @@
 | Great view from the beach and from the hill | 57.00% | ~499 |
 | Bridges to come and go | 50.00% | ~438 |
 | Found an oasis | 44.00% | ~385 |
-| Burger or pizza? | 37.00% | ~324 |
+| Burger or pizza? | 38.00% | ~332 |
 | Passion for sports | 33.00% | ~289 |
 | Who loves trains? | 30.00% | ~262 |
 | Easy and steady climb | 28.00% | ~245 |

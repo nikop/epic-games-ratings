@@ -1325,9 +1325,9 @@
       "ID": "Ach-02-dzin",
       "SetID": "2pjo9pi",
       "Name": "Dzin",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "Ach-02-hopik",
@@ -1365,9 +1365,9 @@
       "ID": "Ach-02-strasilka",
       "SetID": "2pjo9pi",
       "Name": "Strasilka",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 162
     },
     {
       "ID": "Ach-02-tykvovec",
@@ -1381,9 +1381,9 @@
       "ID": "Ach-02-zlo",
       "SetID": "2pjo9pi",
       "Name": "Zlo A",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "Ach-03-jepice",
@@ -1645,9 +1645,9 @@
       "ID": "Ach-level-2",
       "SetID": "2pjo9pi",
       "Name": "Level 2",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "Ach-level-3",
@@ -1700,8 +1700,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:09:18.4792716+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:09:25.7276748+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.5143243+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:57:08.5505448+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:09:18.4793156+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:57:17.3185848+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:09:25.7277259+00:00"
 }

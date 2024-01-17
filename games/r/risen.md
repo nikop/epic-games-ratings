@@ -22,10 +22,10 @@ Rating: 4.58 (Ranked 473)
 | Death of a legend | 20.00% | ~41 |
 | Ogre friend | 20.00% | ~41 |
 | Archaeologist | 19.00% | ~39 |
+| Family man | 18.00% | ~37 |
 | Little hero | 18.00% | ~37 |
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
-| Family man | 17.00% | ~35 |
 | Wise man | 16.00% | ~33 |
 | Fence | 16.00% | ~33 |
 | Pandora's box | 15.00% | ~31 |

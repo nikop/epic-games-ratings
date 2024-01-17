@@ -1,12 +1,12 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.19 (Ranked 976)  
+Rating: 4.19 (Ranked 977)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Graduate Boot Camp | 71.00% | ~144,337 |
-| Initiation | 17.00% | ~34,559 |
+| Initiation | 18.00% | ~36,592 |
 | Battlesuit Victory | 8.00% | ~16,263 |
 | Flawless Victory | 5.00% | ~10,165 |
 | Baby Steps | 5.00% | ~10,165 |

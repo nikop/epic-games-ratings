@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 497)  
+Rating: 4.57 (Ranked 499)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,9 +37,9 @@ Rating: 4.57 (Ranked 497)
 | Defeat Avor Warden of the Northern Wastes | 0.90% | ~21 |
 | Discover the mystery of the Kings Chambers | 0.80% | ~19 |
 | Complete Redgi's Armory | 0.70% | ~16 |
+| King of Kings | 0.70% | ~16 |
 | Complete Arena Faction | 0.70% | ~16 |
 | Complete Ranger Faction | 0.70% | ~16 |
-| King of Kings | 0.60% | ~14 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,335 (Ranked 247)  

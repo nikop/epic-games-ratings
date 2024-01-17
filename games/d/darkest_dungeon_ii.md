@@ -6,19 +6,19 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,112 |
-| Lost and Found | 9.00% | ~715 |
+| Malpractice Assurance | 14.00% | ~1,113 |
+| Lost and Found | 9.00% | ~716 |
 | Autodidact | 8.00% | ~10,646 |
-| This Belongs in a Museum | 7.00% | ~9,315 |
-| Overdue Notice | 7.00% | ~9,315 |
+| This Belongs in a Museum | 7.00% | ~9,316 |
+| Overdue Notice | 7.00% | ~9,316 |
 | This guy... again? | 7.00% | ~556 |
-| Serenity Now! | 6.00% | ~7,984 |
-| Creep and Sleep | 6.00% | ~7,984 |
-| Meat and Greet | 6.00% | ~7,984 |
-| Catch and Decease | 6.00% | ~7,984 |
-| Escape from the Black Hole | 6.00% | ~7,984 |
-| Rush Hour | 6.00% | ~7,984 |
-| To Grandmother's House | 6.00% | ~7,984 |
+| Serenity Now! | 6.00% | ~7,985 |
+| Creep and Sleep | 6.00% | ~7,985 |
+| Meat and Greet | 6.00% | ~7,985 |
+| Catch and Decease | 6.00% | ~7,985 |
+| Escape from the Black Hole | 6.00% | ~7,985 |
+| Rush Hour | 6.00% | ~7,985 |
+| To Grandmother's House | 6.00% | ~7,985 |
 | Ploughshares to Swords | 6.00% | ~477 |
 | Bloody Graduation | 6.00% | ~477 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,654 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,654 |
 | FNG | 5.00% | ~6,654 |
 | Nope | 5.00% | ~6,654 |
-| Friends 'Til the End | 5.00% | ~397 |
+| Friends 'Til the End | 5.00% | ~398 |
 | Resurrection | 4.00% | ~5,323 |
 | Unleash Hell | 4.00% | ~5,323 |
 | Funny Guy | 4.00% | ~5,323 |
@@ -65,10 +65,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 1.00% | ~1,331 |
 | Shrine of Reflection | 1.00% | ~1,331 |
 | Triage | 1.00% | ~1,331 |
-| No Mercy | 1.00% | ~79 |
-| Slap on the Wrist | 1.00% | ~79 |
-| For Old Time' Sake | 1.00% | ~79 |
-| Et Tu, Riposte? | 0.90% | ~71 |
+| No Mercy | 1.00% | ~80 |
+| Slap on the Wrist | 1.00% | ~80 |
+| For Old Time' Sake | 1.00% | ~80 |
+| Et Tu, Riposte? | 0.90% | ~72 |
 | The World As It Was | 0.80% | ~1,065 |
 | A Life Well Lived | 0.70% | ~932 |
 | Bacon Bits | 0.60% | ~798 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,075 (Ranked 92)  
+Progressed: 133,081 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,075 | 5 |
+| 2024-01-17 | 133,081 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,711 (Ranked 58)  

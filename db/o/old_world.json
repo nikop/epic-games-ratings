@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2324,7 +2324,7 @@
   ],
   "EOS_Progressed": 16950,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21521,9 +21521,9 @@
       "ID": "ACHIEVEMENT_GREECE4_CITIES",
       "SetID": "9201eeb",
       "Name": "Queen of Politics",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_INTRIGUE",
@@ -23239,8 +23239,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T20:02:50.9221949+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:10:16.4903997+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:10:23.7229078+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:02:36.3825344+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:10:16.4914054+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:02:45.7671614+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:10:23.7238889+00:00"
 }

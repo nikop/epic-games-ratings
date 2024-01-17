@@ -14,20 +14,20 @@
 | Little grey cells | 52.00% | ~61 |
 | Impossible is possible | 50.00% | ~59 |
 | Arthur Hastings | 50.00% | ~59 |
-| The Missing Magdalene | 48.00% | ~57 |
+| The Missing Magdalene | 49.00% | ~58 |
 | Everything matters | 45.00% | ~53 |
-| DI Hardwicke | 43.00% | ~51 |
-| An expert mediator | 42.00% | ~50 |
-| Betty Allen | 38.00% | ~45 |
-| Order and method | 37.00% | ~44 |
-| The Investigation Begins | 36.00% | ~42 |
-| Irene Court-Smyth | 34.00% | ~40 |
-| Ms. Camilla B. Culsham | 33.00% | ~39 |
-| An odd series of events | 32.00% | ~38 |
-| The Apartment | 32.00% | ~38 |
+| DI Hardwicke | 44.00% | ~52 |
+| An expert mediator | 43.00% | ~51 |
+| Betty Allen | 39.00% | ~46 |
+| Order and method | 38.00% | ~45 |
+| The Investigation Begins | 37.00% | ~44 |
+| Irene Court-Smyth | 35.00% | ~41 |
+| Ms. Camilla B. Culsham | 34.00% | ~40 |
+| An odd series of events | 33.00% | ~39 |
+| The Apartment | 33.00% | ~39 |
+| A rude awakening | 31.00% | ~37 |
 | Nathaniel Dryden | 31.00% | ~37 |
-| A rude awakening | 30.00% | ~35 |
-| Bartholomew | 30.00% | ~35 |
+| Bartholomew | 31.00% | ~37 |
 | Well-acquainted | 28.00% | ~33 |
 | Anastasia Babanin | 28.00% | ~33 |
 | The Scheme | 28.00% | ~33 |

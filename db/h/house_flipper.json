@@ -2319,7 +2319,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22170,
+  "EOS_Progressed": 22171,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -13514,6 +13514,11 @@
       "Time": "2024-01-17T16:06:02.1036177+00:00",
       "NumProgressed": 22170,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-17T22:04:32.8305124+00:00",
+      "NumProgressed": 22171,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13629,7 +13634,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "MrAndMrsJantart",
@@ -13653,7 +13658,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "RafaelErko",
@@ -13708,15 +13713,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22170,
+      "Progressed": 22171,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-17T13:04:23.3855034+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:04:22.8608139+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:04:32.8305122+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.8721647+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:58:44.7738102+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:04:22.8609018+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:58:55.1139354+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:04:32.8305613+00:00"
 }

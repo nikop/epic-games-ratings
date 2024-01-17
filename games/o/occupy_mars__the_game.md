@@ -34,7 +34,7 @@ Rating: 4.00 (Ranked 1,052)
 | Thunderstruck | 1.00% | ~19 |
 | One does not simply... | 0.90% | ~17 |
 | 5G Network | 0.80% | ~15 |
-| Rover Mechanic | 0.50% | ~9 |
+| Rover Mechanic | 0.50% | ~10 |
 | Bull’s eye | 0.40% | ~8 |
 | Korolev crater | 0.40% | ~8 |
 | Hot Repairs | 0.30% | ~6 |
@@ -54,7 +54,7 @@ Rating: 4.00 (Ranked 1,052)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,899 (Ranked 257)  
+Progressed: 1,900 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 1,888 | 0 |
 | 2024-01-15 | 1,889 | 0 |
 | 2024-01-16 | 1,891 | 0 |
-| 2024-01-17 | 1,899 | 0 |
+| 2024-01-17 | 1,900 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

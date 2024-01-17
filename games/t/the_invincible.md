@@ -1,32 +1,32 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.56 (Ranked 512)  
+Rating: 4.56 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,228 |
-| The Teleprobe | 57.00% | ~986 |
-| The City | 52.00% | ~900 |
-| The field base | 48.00% | ~830 |
-| The Alliance | 45.00% | ~778 |
+| The Camp | 71.00% | ~1,230 |
+| The Teleprobe | 57.00% | ~987 |
+| The City | 52.00% | ~901 |
+| The field base | 48.00% | ~831 |
+| The Alliance | 45.00% | ~779 |
 | Survivors | 42.00% | ~727 |
-| The Condor | 40.00% | ~692 |
+| The Condor | 40.00% | ~693 |
 | The End | 39.00% | ~675 |
-| The Necroevolution | 31.00% | ~536 |
-| Krauta is alive | 30.00% | ~519 |
+| The Necroevolution | 31.00% | ~537 |
+| Krauta is alive | 30.00% | ~520 |
 | On her own | 23.00% | ~398 |
 | Peacemaker | 23.00% | ~398 |
 | Volcanologist | 23.00% | ~398 |
 | Fierce fight | 22.00% | ~381 |
 | Evacuation | 22.00% | ~381 |
 | Beyond divisions | 19.00% | ~329 |
-| Flying Objects Operator | 18.00% | ~311 |
+| Flying Objects Operator | 18.00% | ~312 |
 | I remember everything! | 14.00% | ~242 |
 | Another giant | 14.00% | ~242 |
 | Violent solution | 10.00% | ~173 |
 | I leave no man behind | 10.00% | ~173 |
-| Innate curiosity | 8.00% | ~138 |
+| Innate curiosity | 8.00% | ~139 |
 | Ubiquitous holes | 7.00% | ~121 |
 | Strong objection | 7.00% | ~121 |
 | The Invincible | 6.00% | ~104 |
@@ -35,7 +35,7 @@ Rating: 4.56 (Ranked 512)
 | Convoy list | 0.90% | ~16 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,730 (Ranked 262)  
+Progressed: 1,732 (Ranked 261)  
 Completed: 1 (0.06%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 1 (0.06%) (Ranked 336)
 | 2024-01-14 | 1,699 | 1 |
 | 2024-01-15 | 1,713 | 1 |
 | 2024-01-16 | 1,722 | 1 |
-| 2024-01-17 | 1,730 | 1 |
+| 2024-01-17 | 1,732 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

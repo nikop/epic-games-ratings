@@ -46,7 +46,7 @@ Number of Ratings: 892  (23.09.2022)
 | You Don't Win Friends With Salad | 62.00% | ~560 |
 | Time Flies | 59.00% | ~533 |
 | Happier-est Place on Earth | 59.00% | ~533 |
-| Finishing Touches | 56.00% | ~506 |
+| Finishing Touches | 57.00% | ~515 |
 | Call Me Fishmael | 56.00% | ~506 |
 | Kind of a Big Deal | 54.00% | ~488 |
 | Just What I Always Wanted! | 53.00% | ~479 |

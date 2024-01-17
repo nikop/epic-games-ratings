@@ -9,7 +9,7 @@
 | Life of Pi | 56.00% | ~47 |
 | Strength in Defeat | 49.00% | ~41 |
 | Escape from Fleed | 43.00% | ~36 |
-| First Contact | 39.00% | ~33 |
+| First Contact | 40.00% | ~34 |
 | The Exterminator | 26.00% | ~22 |
 | Earth's Savior | 21.00% | ~18 |
 | Technology first! | 20.00% | ~17 |

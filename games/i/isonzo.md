@@ -6,27 +6,27 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,089 |
+| You Shall Not Pass | 51.00% | ~5,090 |
 | Tutti Eroi! | 50.00% | ~4,990 |
 | Peak Performance | 45.00% | ~4,491 |
-| Avanti Savoia! | 44.00% | ~4,391 |
+| Avanti Savoia! | 44.00% | ~4,392 |
 | Mamma Mia! | 35.00% | ~3,493 |
-| Gabriele D'Annunzio | 32.00% | ~3,193 |
-| Conrad von Hotzensocks | 31.00% | ~3,093 |
-| Silver Lining | 27.00% | ~2,694 |
+| Gabriele D'Annunzio | 32.00% | ~3,194 |
+| Conrad von Hotzensocks | 31.00% | ~3,094 |
+| Silver Lining | 27.00% | ~2,695 |
 | Aurelio Baruzzi | 20.00% | ~1,996 |
 | Decimation | 20.00% | ~1,996 |
 | Donatello | 19.00% | ~1,896 |
 | Insubordination | 19.00% | ~1,896 |
 | The Italian Job | 19.00% | ~1,896 |
 | Veni Vidi Vici | 19.00% | ~1,896 |
-| Ragazzi del '99 | 17.00% | ~1,696 |
+| Ragazzi del '99 | 17.00% | ~1,697 |
 | Luigi Cadorna | 16.00% | ~1,597 |
 | The Lion of the Isonzo | 14.00% | ~1,397 |
-| Shaken, Not Stirred | 13.00% | ~1,297 |
-| Uomo Universale | 13.00% | ~1,297 |
-| Die Bosniaken Kommen! | 12.00% | ~1,197 |
-| Dirty Dozen | 12.00% | ~1,197 |
+| Shaken, Not Stirred | 13.00% | ~1,298 |
+| Uomo Universale | 13.00% | ~1,298 |
+| Die Bosniaken Kommen! | 12.00% | ~1,198 |
+| Dirty Dozen | 12.00% | ~1,198 |
 | Machiavelli | 11.00% | ~1,098 |
 | The Devil's Paintbrush | 10.00% | ~998 |
 | Thus With A Kiss | 10.00% | ~998 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,979 (Ranked 184)  
+Progressed: 9,981 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 10 (0.10%) (Ranked 316)
 | 2024-01-14 | 9,942 | 10 |
 | 2024-01-15 | 9,955 | 10 |
 | 2024-01-16 | 9,969 | 10 |
-| 2024-01-17 | 9,979 | 10 |
+| 2024-01-17 | 9,981 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 481)  
 Sum: 343 (Ranked 372)  

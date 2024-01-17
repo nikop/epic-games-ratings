@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~763 |
 | The Dinner Party | 0.30% | ~763 |
 | A Tale of Two Cities | 0.30% | ~763 |
+| Constant Banditry | 0.30% | ~763 |
 | Underdeep Cartography | 0.30% | ~763 |
 | Overdue Rendezvous | 0.30% | ~763 |
 | The Templar's Camp | 0.30% | ~763 |
@@ -84,7 +85,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dinosaur Racing | 0.20% | ~509 |
 | Elturel Has Fallen | 0.20% | ~509 |
 | Close Escort | 0.20% | ~509 |
-| Constant Banditry | 0.20% | ~509 |
 | The Long Haul | 0.20% | ~509 |
 | Lost in the Deep | 0.20% | ~509 |
 | Easily Distracted | 0.20% | ~509 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,454 (Ranked 71)  
+Progressed: 254,460 (Ranked 71)  
 Completed: 2,623 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,10 +825,10 @@ Completed: 2,623 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,454 | 2,623 |
+| 2024-01-17 | 254,460 | 2,623 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
-Sum: 33,532 (Ranked 41)  
+Sum: 33,533 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -838,7 +838,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,788 |
 | This game is Highly Recommended | 4,335 |
 | This game has Amazing Characters | 4,333 |
-| This game has Playful Visuals | 3,647 |
+| This game has Playful Visuals | 3,648 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -1198,3 +1198,4 @@ Diff (max vs sum): 33
 | 2024-01-14 | 4.06 | - | 5,782 | 33,493 |
 | 2024-01-15 | 4.06 | - | 5,784 | 33,514 |
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
+| 2024-01-17 | 4.07 | - | 5,786 | 33,533 |

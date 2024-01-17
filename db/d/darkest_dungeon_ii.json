@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10986,9 +10986,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133075,
+  "EOS_Progressed": 133081,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40336,6 +40336,11 @@
       "Time": "2024-01-17T21:10:00.9670127+00:00",
       "NumProgressed": 133075,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T22:10:08.9189299+00:00",
+      "NumProgressed": 133081,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40355,7 +40360,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40475,7 +40480,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40507,7 +40512,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40547,7 +40552,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40563,7 +40568,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "combat_kill_librarian",
@@ -40571,7 +40576,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40587,7 +40592,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40643,7 +40648,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -40667,7 +40672,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7984
+      "UsersEstimate": 7985
     },
     {
       "ID": "driving_distance_easy",
@@ -40883,7 +40888,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "combat_kill_collector",
@@ -40907,7 +40912,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -40915,7 +40920,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -40923,7 +40928,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -40947,7 +40952,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40955,7 +40960,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -40963,7 +40968,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -40978,21 +40983,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133075,
+      "Progressed": 133081,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7944,
+      "Progressed": 7950,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-17T20:59:27.4660601+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:10:00.9670122+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:10:08.9189297+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:59:27.4660608+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:10:00.9672244+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:59:34.926282+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:10:08.9190917+00:00"
 }

@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44358,
+  "EOS_Progressed": 44361,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29817,6 +29817,11 @@
       "Time": "2024-01-17T21:08:23.3432574+00:00",
       "NumProgressed": 44358,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-17T22:08:30.4797401+00:00",
+      "NumProgressed": 44361,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29836,7 +29841,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9315
+      "UsersEstimate": 9316
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -29980,7 +29985,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -29988,7 +29993,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -30059,7 +30064,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44358,
+      "Progressed": 44361,
       "Completed": 30
     }
   ],
@@ -30067,8 +30072,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:08:23.343257+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:08:30.4797398+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.9023781+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:02:47.004032+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:08:23.3434315+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:02:56.6200338+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:08:30.4799023+00:00"
 }

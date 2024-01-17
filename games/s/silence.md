@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 52.00% | ~96 |
-| Fire in the... nevermind | 51.00% | ~94 |
-| Haute cuisine | 46.00% | ~85 |
+| Chapter I | 52.00% | ~97 |
+| Fire in the... nevermind | 51.00% | ~95 |
+| Haute cuisine | 46.00% | ~86 |
 | I didn't do it! | 40.00% | ~74 |
-| Demolition expert | 39.00% | ~72 |
-| Open up wide | 37.00% | ~68 |
-| Keep away from children | 37.00% | ~68 |
-| Wooooooow! | 35.00% | ~65 |
-| Artistic fool | 32.00% | ~59 |
-| Let the boot talk | 31.00% | ~57 |
-| Shadow on the wall | 31.00% | ~57 |
+| Demolition expert | 39.00% | ~73 |
+| Open up wide | 37.00% | ~69 |
+| Keep away from children | 37.00% | ~69 |
+| Wooooooow! | 34.00% | ~63 |
+| Artistic fool | 32.00% | ~60 |
+| Let the boot talk | 31.00% | ~58 |
+| Shadow on the wall | 31.00% | ~58 |
 | Chapter II | 26.00% | ~48 |
-| Bubblekillerfamily | 24.00% | ~44 |
-| Chapter III | 24.00% | ~44 |
-| Like a moth in the Wind | 24.00% | ~44 |
+| Bubblekillerfamily | 24.00% | ~45 |
+| Chapter III | 24.00% | ~45 |
+| Like a moth in the Wind | 24.00% | ~45 |
 | Quite a buggy game | 23.00% | ~43 |
 | Handyman | 23.00% | ~43 |
 | Achoo!! | 23.00% | ~43 |
-| Pacifist | 21.00% | ~39 |
+| Pacifist | 20.00% | ~37 |
 | Fastidious Clown | 19.00% | ~35 |
 | Mirror mirror on the wall... | 19.00% | ~35 |
 | It's not easy being green! | 18.00% | ~33 |
@@ -31,7 +31,7 @@
 | Master of Thermodynamics | 12.00% | ~22 |
 | Unfullfilled dreams | 12.00% | ~22 |
 | To err is human... | 11.00% | ~20 |
-| Mumbo Jumbo | 10.00% | ~18 |
+| Mumbo Jumbo | 10.00% | ~19 |
 | Useless but beautiful | 9.00% | ~17 |
 | Nothing can stop me | 9.00% | ~17 |
 | It's nothing personal | 8.00% | ~15 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.50% | ~1 |
 | Do not feed the fish! | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 439)  
+Progressed: 186 (Ranked 438)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-06 | 183 | 0 |
 | 2024-01-07 | 184 | 0 |
 | 2024-01-13 | 185 | 0 |
+| 2024-01-17 | 186 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

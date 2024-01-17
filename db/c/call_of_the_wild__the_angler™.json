@@ -1035,7 +1035,7 @@
   ],
   "EOS_Progressed": 8358,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14399,9 +14399,9 @@
       "ID": "ACHIEVEMENT_025",
       "SetID": "1a05lfd",
       "Name": "Taylor Made",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -14542,8 +14542,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:08:45.8548912+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:08:53.3502027+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:59:35.1240229+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:08:45.8549802+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:59:43.4794771+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:08:53.3502986+00:00"
 }

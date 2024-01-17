@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1604,9 +1604,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 261
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -2131,8 +2131,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:03:27.1111344+00:00",
+  "LastChanged_Achievements": "2024-01-17T22:03:38.4986366+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:00:12.3018778+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:03:27.1112019+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:00:22.384235+00:00",
+  "LastUpdate_Achievements": "2024-01-17T22:03:38.4987114+00:00"
 }

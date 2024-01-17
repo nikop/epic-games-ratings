@@ -30,9 +30,9 @@ Number of Ratings: 281  (23.09.2022)
 | Live by the Rod, Diez by the Rod! | 0.50% | ~39 |
 | Aguas Claras Conquistador | 0.50% | ~39 |
 | The Beetles | 0.40% | ~33 |
+| Taylor Made | 0.40% | ~33 |
 | All Good Kings Must Come to an End | 0.40% | ~31 |
 | Lake Me up Before You Go Go | 0.30% | ~25 |
-| Taylor Made | 0.30% | ~25 |
 | Rod and Troll | 0.30% | ~23 |
 | Three Square Meals | 0.30% | ~23 |
 | Big Fish Small Pond | 0.20% | ~17 |

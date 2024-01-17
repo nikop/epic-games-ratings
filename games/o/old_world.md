@@ -245,6 +245,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Bronze Crown | 0.10% | ~17 |
 | Philip's Golden Crown | 0.10% | ~17 |
 | Philip's Silver Crown | 0.10% | ~17 |
+| Queen of Politics | 0.10% | ~17 |
 | Queen of Intrigue | 0.10% | ~17 |
 | Queen of War | 0.10% | ~17 |
 | Mighty Bucephalus | 0.10% | ~17 |
@@ -323,7 +324,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle in Delphi | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Queen of Politics | 0.00% | ~0 |
 | Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |

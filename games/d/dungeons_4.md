@@ -31,7 +31,7 @@ Rating: 4.74 (Ranked 164)
 | Tanos' Crusade Against Thalya | 48.00% | ~372 |
 | Pure Dynamite! | 46.00% | ~356 |
 | Dungeonlord Gorgu | 46.00% | ~356 |
-| All’s Well That Ends Evil | 43.00% | ~333 |
+| All’s Well That Ends Evil | 44.00% | ~341 |
 | Mana Cannon | 42.00% | ~326 |
 | The Duel | 41.00% | ~318 |
 | If Looks Could Kill | 38.00% | ~294 |
@@ -44,10 +44,10 @@ Rating: 4.74 (Ranked 164)
 | Brimstone Shaken, Not Stirred | 30.00% | ~232 |
 | Hungry, Hungry Gorgu! | 29.00% | ~225 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~225 |
+| Stop Tanos! | 29.00% | ~225 |
 | Sabotage! | 29.00% | ~225 |
 | Raiders of the Lost Stone | 29.00% | ~225 |
 | The Rune Sockets of Finitude (Part 1) | 29.00% | ~225 |
-| Stop Tanos! | 28.00% | ~217 |
 | Bonus Evilness | 27.00% | ~209 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~209 |
 | The Last Stand - This Time For Real! | 26.00% | ~202 |
