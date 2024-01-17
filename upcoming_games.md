@@ -75,10 +75,10 @@
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-03-08 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | - |
+| [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-26 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-03-31 | - |  | - | - |
 | [Almost Formula](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-03-31 | - |  | - | - |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2024-03-31 | - |  | - | - |
-| [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 2024-03-31 | - |  | - | - |
 | [Campfire - Cozy AI Villagers](games/3/3f7a5911da8e4605a607533e5933fc7e.md) | 2024-03-31 | - |  | - | - |
 | [Champion Shift](games/4/49e9bdf671fd4d87bb19ea1a7b0be11f.md) | 2024-03-31 | - |  | - | - |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-03-31 | - |  | - | - |

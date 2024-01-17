@@ -25,7 +25,7 @@
 | 23 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.96% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.94% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.24% |
 | 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.79% |
@@ -57,13 +57,13 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.45% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.44% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.35% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.34% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.03% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.88% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
-| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.84% |
-| 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
+| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.82% |
+| 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -105,10 +105,10 @@
 | 103 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.39% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.27% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.23% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
-| 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.17% |
+| 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.16% |
 | 110 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.12% |
 | 111 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 112 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -230,7 +230,7 @@
 | 228 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.50% |
 | 228 | [Haven](games/h/haven.md) | 0.50% |
 | 228 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
-| 231 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.49% |
+| 231 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.48% |
 | 232 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
 | 233 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 233 | [Garden In](games/g/garden_in.md) | 0.46% |
@@ -274,10 +274,10 @@
 | 272 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 272 | [Dead Space](games/d/dead_space.md) | 0.25% |
 | 274 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
-| 274 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
 | 274 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
 | 274 | [Them and Us](games/t/them_and_us.md) | 0.24% |
-| 278 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
+| 277 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
+| 277 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
 | 279 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 279 | [Eternights](games/e/eternights.md) | 0.22% |
 | 281 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
