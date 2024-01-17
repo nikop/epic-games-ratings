@@ -16,9 +16,9 @@ Rating: 4.63 (Ranked 355)
 | Full Ascension | 9.00% | ~654 |
 | Stronger Together | 8.00% | ~581 |
 | Seat of Power | 8.00% | ~581 |
-| Valley of Wonders | 7.00% | ~508 |
-| In a Liege of Your Own | 7.00% | ~508 |
-| Intimidation Tactics | 7.00% | ~508 |
+| Valley of Wonders | 7.00% | ~509 |
+| In a Liege of Your Own | 7.00% | ~509 |
+| Intimidation Tactics | 7.00% | ~509 |
 | My Final Form | 6.00% | ~436 |
 | But this one is mine | 6.00% | ~436 |
 | Return of the Wizard King | 5.00% | ~363 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,264 (Ranked 199)  
+Progressed: 7,265 (Ranked 199)  
 Completed: 8 (0.11%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,7 +306,7 @@ Completed: 8 (0.11%) (Ranked 311)
 | 2024-01-14 | 7,246 | 8 |
 | 2024-01-15 | 7,255 | 8 |
 | 2024-01-16 | 7,262 | 8 |
-| 2024-01-17 | 7,264 | 8 |
+| 2024-01-17 | 7,265 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 485)  
 Sum: 239 (Ranked 407)  

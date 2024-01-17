@@ -9,7 +9,7 @@ Rating: 4.25 (Ranked 929)
 | Highballer | 61.00% | ~725 |
 | Dirty Roller | 33.00% | ~392 |
 | Regional Juniors Champion | 31.00% | ~368 |
-| Wheeler Dealer | 25.00% | ~297 |
+| Wheeler Dealer | 26.00% | ~309 |
 | Look Mom, I Can Fly | 24.00% | ~285 |
 | National Amateurs Champion | 18.00% | ~214 |
 | Trashing Around | 15.00% | ~178 |

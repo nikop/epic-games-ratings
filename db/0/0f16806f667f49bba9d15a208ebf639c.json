@@ -2,9 +2,9 @@
   "ID": "0f16806f667f49bba9d15a208ebf639c",
   "Name": "Choice Clash: What Would you Rather?",
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
-  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 21.18,
+  "EOS_Completed_Percentage": 20.93,
   "EosHistory": [
     {
       "Time": "2023-12-29T00:03:26.1784855+00:00",
@@ -372,6 +372,11 @@
       "Time": "2024-01-17T00:05:07.2456793+00:00",
       "NumProgressed": 85,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-17T16:07:55.6735916+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-12-28T16:03:50.3768399+00:00",
@@ -384,7 +389,7 @@
       "Name": "Blue Card Guru",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "DECISIONS_DECISIONS",
@@ -392,7 +397,7 @@
       "Name": "Decisions, Decisions!",
       "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DECISION_DYNAMO",
@@ -406,7 +411,7 @@
       "ID": "INDECISION_BUSTER",
       "SetID": "58oggg1",
       "Name": "Indecision Buster",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 27
     },
@@ -416,7 +421,7 @@
       "Name": "Influential Thinker",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "RED_CARD_EXPERT",
@@ -424,7 +429,7 @@
       "Name": "Red Card Expert",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "RUBY_DECISIONMAKER",
@@ -432,21 +437,21 @@
       "Name": "Ruby Decision-Maker",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SAPPHIRE_PATHFINDER",
       "SetID": "58oggg1",
       "Name": "Sapphire Pathfinder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "THE_BALANCED",
       "SetID": "58oggg1",
       "Name": "The Balanced",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
       "UsersEstimate": 27
     },
@@ -454,7 +459,7 @@
       "ID": "THE_DECIDER",
       "SetID": "58oggg1",
       "Name": "The Decider",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 21
     },
@@ -462,9 +467,9 @@
       "ID": "THE_PERSUADER",
       "SetID": "58oggg1",
       "Name": "The Persuader",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "WORLD_CHANGER",
@@ -478,7 +483,7 @@
       "ID": "WORLD_CHOOSING_CHAMPION",
       "SetID": "58oggg1",
       "Name": "World Choosing Champion",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
       "UsersEstimate": 21
     },
@@ -486,22 +491,22 @@
       "ID": "_CURIOUS_EXPLORER",
       "SetID": "58oggg1",
       "Name": "Curious Explorer",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "58oggg1",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 18
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:07:02.8039938+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:55.6735907+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.3482825+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:02:49.2458059+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:07:02.8040009+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:03:17.461279+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:55.6736082+00:00"
 }

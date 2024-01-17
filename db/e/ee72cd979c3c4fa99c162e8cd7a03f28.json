@@ -2,10 +2,10 @@
   "ID": "ee72cd979c3c4fa99c162e8cd7a03f28",
   "Name": "Garbage Truck Driving Simulator",
   "ProductSlug": "garbage-truck-driving-simulator-5dcc67",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-21T19:00:00+00:00",
     "PcReleaseDate": "2023-06-14T01:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T16:57:30.1640976+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.7080917+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:58:14.2441447+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:09:49.0834321+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:41.0538809+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:10:41.7188915+00:00"
 }

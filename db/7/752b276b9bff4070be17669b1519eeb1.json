@@ -3,12 +3,12 @@
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 811,
-  "Ranking_Popularity": 347,
+  "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 289,
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T02:00:00+00:00",
     "PcReleaseDate": "2023-07-20T02:00:00+00:00",
@@ -2585,11 +2585,17 @@
       "Rating": 4.37,
       "NumberOfAwards": 857,
       "NumberOfAwardsMax": 133
+    },
+    {
+      "Time": "2024-01-17T16:01:24.6279064+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 860,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 857,
-  "NumberOfAwardsMax": 133,
+  "NumberOfAwards": 860,
+  "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2602,7 +2608,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 133
+      "Count": 136
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2665,8 +2671,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-01-17T14:01:00.8827038+00:00",
+  "LastChanged": "2024-01-17T16:01:24.627905+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:14.3911968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:49.3660271+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:04:42.4115212+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:24.6279072+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:05:23.1418749+00:00"
 }

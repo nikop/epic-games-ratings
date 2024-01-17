@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -421,7 +421,7 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 1960,
+  "EOS_Progressed": 1961,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -3741,6 +3741,11 @@
       "Time": "2024-01-17T15:05:54.199907+00:00",
       "NumProgressed": 1960,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-17T16:06:40.9776673+00:00",
+      "NumProgressed": 1961,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3752,7 +3757,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3800,7 +3805,7 @@
       "Name": "K.O.!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "ACHIEVEMENTS_08",
@@ -3808,7 +3813,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3816,7 +3821,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -3824,7 +3829,7 @@
       "Name": "Intermediate Chemist",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ACHIEVEMENTS_11",
@@ -3832,7 +3837,7 @@
       "Name": "Expert Chemist",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -3888,7 +3893,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -3936,7 +3941,7 @@
       "Name": "Stone Specialist",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENTS_25",
@@ -4055,7 +4060,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1960,
+      "Progressed": 1961,
       "Completed": 11
     }
   ],
@@ -4063,8 +4068,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-17T04:58:49.7548241+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:05:54.1999068+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:06:40.977667+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3466172+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:57.2314255+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:54.1999438+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:00:31.1368433+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:40.9777081+00:00"
 }

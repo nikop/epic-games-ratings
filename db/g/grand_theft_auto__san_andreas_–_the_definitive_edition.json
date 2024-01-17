@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2539,9 +2539,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 19644,
+  "EOS_Progressed": 19645,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20709,6 +20709,11 @@
       "Time": "2024-01-17T15:10:54.9907984+00:00",
       "NumProgressed": 19644,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-17T16:11:52.8929048+00:00",
+      "NumProgressed": 19645,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20768,7 +20773,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "ACH08",
@@ -20840,7 +20845,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3339
+      "UsersEstimate": 3340
     },
     {
       "ID": "ACH17",
@@ -20999,7 +21004,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19644,
+      "Progressed": 19645,
       "Completed": 80
     }
   ],
@@ -21007,8 +21012,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-17T10:58:00.5390784+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:54.9907981+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:52.8929046+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:58:45.453618+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:54.9909199+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:13.7884142+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:52.8930022+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "63a458d04315418fa627063a956ad280",
   "Name": "Men of War Condemned Heroes",
   "ProductSlug": "men-of-war-condemned-heroes-5947be",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
     "PcReleaseDate": "2012-04-12T08:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.4538839+00:00",
   "LastChanged": "2023-03-31T05:58:17.453884+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:40.4130778+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:28.5237377+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:20.811808+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:00:00.8506239+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:04.9001482+00:00"
 }

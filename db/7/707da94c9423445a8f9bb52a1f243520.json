@@ -2,10 +2,10 @@
   "ID": "707da94c9423445a8f9bb52a1f243520",
   "Name": "Bloomtown: A Different Story",
   "ProductSlug": "bloomtown-a-different-story-9f40bb",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.9869197+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:51.4299034+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:39.2359007+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:26.8623152+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:24.6869605+00:00"
 }

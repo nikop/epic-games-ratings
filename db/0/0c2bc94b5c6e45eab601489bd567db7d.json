@@ -2,10 +2,10 @@
   "ID": "0c2bc94b5c6e45eab601489bd567db7d",
   "Name": "Escape the Charon",
   "ProductSlug": "escape-the-charon-922725",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.8718107+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:58:10.9641429+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:11.5683804+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:37.583551+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:59.6717234+00:00"
 }

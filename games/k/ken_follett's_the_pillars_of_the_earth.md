@@ -11,7 +11,7 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 32.00% | ~5,734 |
 | Yet another secret | 32.00% | ~5,734 |
 | Let there be darkness | 31.00% | ~5,555 |
-| End of Book One | 29.00% | ~5,196 |
+| End of Book One | 29.00% | ~5,197 |
 | Wannabe knight | 23.00% | ~4,121 |
 | Garden of Eden | 23.00% | ~4,121 |
 | Full house | 23.00% | ~4,121 |
@@ -34,7 +34,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,613 |
 | The truth revealed | 9.00% | ~1,613 |
 | The End. | 9.00% | ~1,613 |
-| Nothing but make-believe | 8.00% | ~1,433 |
+| Nothing but make-believe | 8.00% | ~1,434 |
 | A cry for help | 7.00% | ~1,254 |
 | Silentium est aureum | 7.00% | ~1,254 |
 | Rebel without a cause | 6.00% | ~1,075 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~538 |
 | Boy of mystery | 2.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,918 (Ranked 165)  
+Progressed: 17,919 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 125 (0.70%) (Ranked 204)
 | 2024-01-14 | 17,861 | 125 |
 | 2024-01-15 | 17,891 | 125 |
 | 2024-01-16 | 17,908 | 125 |
-| 2024-01-17 | 17,918 | 125 |
+| 2024-01-17 | 17,919 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 418)  

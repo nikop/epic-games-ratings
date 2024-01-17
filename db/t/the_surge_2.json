@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2597,
+  "EOS_Progressed": 2598,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -4791,6 +4791,11 @@
       "Time": "2024-01-16T18:05:20.6432229+00:00",
       "NumProgressed": 2597,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-17T16:06:42.5192763+00:00",
+      "NumProgressed": 2598,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4810,7 +4815,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACHV_03",
@@ -4818,7 +4823,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHV_04",
@@ -4834,7 +4839,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "ACHV_06",
@@ -4842,7 +4847,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACHV_07",
@@ -4850,7 +4855,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHV_08",
@@ -4938,7 +4943,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACHV_19",
@@ -4970,7 +4975,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACHV_23",
@@ -4994,7 +4999,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHV_26",
@@ -5018,7 +5023,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACHV_29",
@@ -5066,15 +5071,15 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ACHV_35",
       "SetID": "8p5mlmc",
       "Name": "Sleeping With The Fishes",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 909
+      "UsersEstimate": 883
     },
     {
       "ID": "ACHV_36",
@@ -5090,7 +5095,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACHV_38",
@@ -5154,7 +5159,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACHV_46",
@@ -5162,7 +5167,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ACHV_47",
@@ -5257,7 +5262,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2597,
+      "Progressed": 2598,
       "Completed": 13
     }
   ],
@@ -5265,8 +5270,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:05:55.5590729+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:06:42.5192759+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:03:19.3450043+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:55.5591296+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:03:50.4224772+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:42.519358+00:00"
 }

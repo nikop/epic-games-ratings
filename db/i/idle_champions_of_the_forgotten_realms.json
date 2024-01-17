@@ -9625,9 +9625,9 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254402,
+  "EOS_Progressed": 254414,
   "EOS_Completed": 2622,
-  "EOS_NewPlayers": 1211,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40505,6 +40505,11 @@
       "Time": "2024-01-17T15:11:11.5186285+00:00",
       "NumProgressed": 254402,
       "NumCompleted": 2622
+    },
+    {
+      "Time": "2024-01-17T16:12:10.1073304+00:00",
+      "NumProgressed": 254414,
+      "NumCompleted": 2622
     }
   ],
   "TotalAchievements": 546,
@@ -40516,7 +40521,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10176
+      "UsersEstimate": 10177
     },
     {
       "ID": "objective_completed_10",
@@ -41074,9 +41079,9 @@
       "ID": "objective_completed_114",
       "SetID": "cc37lbc",
       "Name": "Supply Run",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 763
     },
     {
       "ID": "objective_completed_1142",
@@ -44804,7 +44809,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1766
     },
     {
       "ID": "objective_completed_1558",
@@ -44883,21 +44888,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220676,
+      "Progressed": 220688,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254402,
+      "Progressed": 254414,
       "Completed": 2622
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:11:11.5186281+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:12:10.1073296+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:22.1800074+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:11:11.5209225+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:54.4748626+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:12:10.1096874+00:00"
 }

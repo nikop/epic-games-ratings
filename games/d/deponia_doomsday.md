@@ -1,35 +1,35 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 532)  
+Rating: 4.55 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 84.00% | ~448 |
-| And again, and again, and... | 62.00% | ~330 |
+| Huzza, he's back. | 84.00% | ~449 |
+| And again, and again, and... | 62.00% | ~331 |
 | Kuvaq Minigame-Master | 60.00% | ~320 |
 | Burn, Elysium, burn! | 60.00% | ~320 |
 | FunScore | 54.00% | ~288 |
-| Funtime's over | 50.00% | ~266 |
+| Funtime's over | 50.00% | ~267 |
 | Chunky | 48.00% | ~256 |
-| Boat of love, boat of love | 47.00% | ~251 |
-| Shall we play a game? | 46.00% | ~245 |
+| Shall we play a game? | 46.00% | ~246 |
+| Boat of love, boat of love | 46.00% | ~246 |
 | School's out | 42.00% | ~224 |
 | Sole Music | 36.00% | ~192 |
 | Scaffolding Expert | 35.00% | ~187 |
 | Elysian Minigame-Master | 35.00% | ~187 |
 | Portals come in packs | 29.00% | ~155 |
-| No man left behind! | 28.00% | ~149 |
-| Photo Friend | 25.00% | ~133 |
+| No man left behind! | 28.00% | ~150 |
+| Photo Friend | 25.00% | ~134 |
 | Brainfreeze | 20.00% | ~107 |
 | Masseltov | 19.00% | ~101 |
 | And everything comes full circle. | 19.00% | ~101 |
 | Quickdraw | 15.00% | ~80 |
 | Thuna...? | 14.00% | ~75 |
-| Monstrous Harassment | 14.00% | ~75 |
 | Heading the inverter | 14.00% | ~75 |
+| Monstrous Harassment | 13.00% | ~69 |
 | Blast from the Past | 12.00% | ~64 |
-| Play it again, Ronny | 11.00% | ~59 |
+| Play it again, Ronny | 10.00% | ~53 |
 | Paradox! | 10.00% | ~53 |
 | Goat Team | 9.00% | ~48 |
 | Weapons 101 | 8.00% | ~43 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 532)
 | Every man for himself! | 5.00% | ~27 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 351)  
+Progressed: 534 (Ranked 351)  
 Completed: 7 (1.31%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,6 +157,7 @@ Completed: 7 (1.31%) (Ranked 159)
 | 2024-01-12 | 528 | 7 |
 | 2024-01-13 | 531 | 7 |
 | 2024-01-16 | 533 | 7 |
+| 2024-01-17 | 534 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

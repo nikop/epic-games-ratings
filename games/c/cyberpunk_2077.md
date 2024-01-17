@@ -8,6 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.20% | ~2,107 |
 | Right Back At Ya | 0.20% | ~2,107 |
+| Gun Fu | 0.20% | ~2,107 |
 | Christmas Tree Attack | 0.20% | ~2,107 |
 | Life of the Road | 0.20% | ~2,107 |
 | Stanislavski's Method | 0.20% | ~2,107 |
@@ -27,7 +28,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.10% | ~1,054 |
 | Autojock | 0.10% | ~1,054 |
 | Frequent Flyer | 0.10% | ~1,054 |
-| Gun Fu | 0.10% | ~1,054 |
 | Gunslinger | 0.10% | ~1,054 |
 | Master Crafter | 0.10% | ~1,054 |
 | I Am The Law | 0.10% | ~1,054 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,569 (Ranked 17)  
-Completed: 3,113 (0.30%) (Ranked 262)  
+Progressed: 1,053,613 (Ranked 17)  
+Completed: 3,114 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,10 +346,10 @@ Completed: 3,113 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,569 | 3,113 |
+| 2024-01-17 | 1,053,613 | 3,114 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
-Sum: 500,511 (Ranked 8)  
+Sum: 500,656 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 28,975 |
 | This game has Amazing Characters | 28,676 |
 | This game is Relaxing | 27,815 |
-| This game has Quickly Understood Controls | 27,564 |
+| This game has Quickly Understood Controls | 27,709 |
 | This game has a Creative Community | 19,243 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -730,4 +730,4 @@ Diff (max vs sum): 0
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
-| 2024-01-17 | 4.67 | - | 141,060 | 500,511 |
+| 2024-01-17 | 4.67 | - | 141,060 | 500,656 |

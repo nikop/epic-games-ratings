@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19098,
+  "EOS_Progressed": 19101,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17629,6 +17629,11 @@
       "Time": "2024-01-17T14:07:42.6057611+00:00",
       "NumProgressed": 19098,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T16:08:16.4430274+00:00",
+      "NumProgressed": 19101,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17679,9 +17684,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1337
     },
     {
       "ID": "15",
@@ -17889,7 +17894,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "33",
@@ -17920,22 +17925,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19098,
+      "Progressed": 19101,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5052,
-      "Completed": 1334
+      "Progressed": 5055,
+      "Completed": 1335
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:07:22.1048229+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:08:16.4430269+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:44.6975627+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:07:22.1049394+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:19.4568438+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:08:16.4431115+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "bfc0ef61b6464adaac79f6b04840cc9a",
   "Name": "Mountaincore",
   "ProductSlug": "mountaincore-cc2614",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-18T09:00:00+00:00",
     "PcReleaseDate": "2023-05-18T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-21T20:00:24.3587882+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:19.636648+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:20.1711976+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:09:07.1825818+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:57.7431227+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:09:56.4889115+00:00"
 }

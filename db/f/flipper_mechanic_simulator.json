@@ -2,10 +2,10 @@
   "ID": "185ea55e68f44388bf302e924fa800d8",
   "Name": "Flipper Mechanic Simulator",
   "ProductSlug": "flipper-mechanic-simulator-72f107",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T03:57:37.3704425+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:03:18.3144922+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:08:56.1156543+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:03:49.2933926+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:09:45.0629283+00:00"
 }

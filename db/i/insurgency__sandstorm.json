@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 45,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4930,9 +4930,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 526089,
+  "EOS_Progressed": 526108,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3323,
+  "EOS_NewPlayers": 3324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36255,6 +36255,11 @@
       "Time": "2024-01-17T15:05:54.2622593+00:00",
       "NumProgressed": 526089,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T16:06:40.9524164+00:00",
+      "NumProgressed": 526108,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -36298,7 +36303,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2630
+      "UsersEstimate": 2631
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -36434,7 +36439,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26304
+      "UsersEstimate": 26305
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -36530,7 +36535,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26304
+      "UsersEstimate": 26305
     },
     {
       "ID": "ACH_WET_FEET",
@@ -36545,15 +36550,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 526089,
+      "Progressed": 526108,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-17T11:58:44.1427739+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:05:54.262259+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:06:40.9524161+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:31.8838043+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:35.4068403+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:54.2624578+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:00:07.6168474+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:40.9526267+00:00"
 }

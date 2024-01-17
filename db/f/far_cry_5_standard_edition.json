@@ -3,12 +3,12 @@
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
   "Ranking_Rating": 355,
-  "Ranking_Popularity": 132,
+  "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 190,
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2018-03-27T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -4753,18 +4753,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 2857,
       "NumberOfAwardsMax": 1793
+    },
+    {
+      "Time": "2024-01-17T16:02:11.377869+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 2860,
+      "NumberOfAwardsMax": 1796
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2857,
-  "NumberOfAwardsMax": 1793,
+  "NumberOfAwards": 2860,
+  "NumberOfAwardsMax": 1796,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1793
+      "Count": 1796
     },
     {
       "Text": "This game is Relaxing",
@@ -4844,8 +4850,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-01-17T12:00:08.6679696+00:00",
+  "LastChanged": "2024-01-17T16:02:11.3778689+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:22.5531236+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:32.8495065+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:08:53.5663016+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:02:11.3778695+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:09:42.1808239+00:00"
 }

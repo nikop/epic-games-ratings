@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,7 +156,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 671,
+  "EOS_Progressed": 672,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
@@ -2346,6 +2346,11 @@
       "Time": "2024-01-17T04:09:54.5856739+00:00",
       "NumProgressed": 671,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T16:11:06.1262357+00:00",
+      "NumProgressed": 672,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2357,7 +2362,7 @@
       "Name": "Digger",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -2379,9 +2384,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -2405,7 +2410,7 @@
       "Name": "Mushroom Picker",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -2485,7 +2490,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2509,7 +2514,7 @@
       "Name": "Scrapper",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_KILL_50",
@@ -2573,7 +2578,7 @@
       "Name": "Survivor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2604,7 +2609,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 671,
+      "Progressed": 672,
       "Completed": 4
     }
   ],
@@ -2612,8 +2617,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:11.4662457+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:06.1262353+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.454985+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:57:50.7576285+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:11.466278+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:15.9258921+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:06.1262694+00:00"
 }

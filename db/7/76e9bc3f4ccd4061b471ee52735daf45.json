@@ -2,10 +2,10 @@
   "ID": "76e9bc3f4ccd4061b471ee52735daf45",
   "Name": "Entomophobia",
   "ProductSlug": "entomophobia-5e766c",
-  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2022-04-16T17:00:00+00:00",
@@ -160,8 +160,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-12T05:03:22.9962515+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:07:23.8805091+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:08:18.1866045+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:07.7772145+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:11.394398+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:07:23.8805161+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:42.5773099+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:08:18.1866133+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1377,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4609,9 +4609,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_21",
@@ -4903,8 +4903,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:27.991369+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:24.5914047+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:57:39.9713328+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:27.9914291+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:04.0183949+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:24.5914535+00:00"
 }

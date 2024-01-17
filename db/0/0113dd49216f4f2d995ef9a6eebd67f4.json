@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1393,9 +1393,9 @@
       "ID": "SG_HEARTBREAKER",
       "SetID": "bj5g0n4",
       "Name": "Heartbreaker",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "SG_LIKEHEROESBEFOREYOU",
@@ -1441,9 +1441,9 @@
       "ID": "SG_NOTALOSTGIRL",
       "SetID": "bj5g0n4",
       "Name": "Not A Lost Girl",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1592,8 +1592,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:09:49.3334722+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:10:41.9820608+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:36.0934248+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:09:49.3335209+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:02:15.1383134+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:10:41.9820938+00:00"
 }

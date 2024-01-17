@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -2412,9 +2412,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "BRING_MARY",
@@ -2571,8 +2571,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:04:30.2789793+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:05:09.7615986+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:18.6649126+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:04:30.2790018+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:55.9706441+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:05:09.7616225+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "21edf107f297432e92d754543485ad08",
   "Name": "Revenge Of The Ronin",
   "ProductSlug": "revenge-of-the-ronin-faff20",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-22T12:03:42.2532187+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:06:37.5696324+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:27.8536733+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:36.8654704+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:03.241638+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:37.5696359+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:00:37.4620613+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:27.8536763+00:00"
 }

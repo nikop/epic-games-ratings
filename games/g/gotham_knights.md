@@ -8,20 +8,20 @@ Rating: 4.19 (Ranked 976)
 | First Step Into the Knight | 50.00% | ~41,460 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,193 |
 | Loose Ends | 33.00% | ~27,364 |
-| To the Victor Go the Spoils | 27.00% | ~22,388 |
+| To the Victor Go the Spoils | 27.00% | ~22,389 |
 | Knighthood | 26.00% | ~21,559 |
 | Get ReQ'd | 24.00% | ~19,901 |
 | Whispered Words | 24.00% | ~19,901 |
-| The Batman Family | 22.00% | ~18,242 |
-| Lock and Key | 22.00% | ~18,242 |
+| The Batman Family | 22.00% | ~18,243 |
+| Lock and Key | 22.00% | ~18,243 |
 | Something in the Clay | 20.00% | ~16,584 |
 | Quartzer Life Crisis | 20.00% | ~16,584 |
 | Working Hard or Harley Working? | 20.00% | ~16,584 |
 | Unstoppable Force | 20.00% | ~16,584 |
 | Bad Apples in Every Orchard | 20.00% | ~16,584 |
 | Snow Problem | 19.00% | ~15,755 |
-| The Show Mud Go On | 17.00% | ~14,096 |
-| From Inside Gotham's Walls | 17.00% | ~14,096 |
+| The Show Mud Go On | 17.00% | ~14,097 |
+| From Inside Gotham's Walls | 17.00% | ~14,097 |
 | Protector of Gotham | 16.00% | ~13,267 |
 | In Your Element | 15.00% | ~12,438 |
 | Universal Health Scare | 15.00% | ~12,438 |
@@ -30,10 +30,10 @@ Rating: 4.19 (Ranked 976)
 | Voiceless | 14.00% | ~11,609 |
 | Shock Til They Drop | 13.00% | ~10,780 |
 | Seeking Asylum | 13.00% | ~10,780 |
-| End of an Era | 12.00% | ~9,950 |
-| Not On My Watch | 12.00% | ~9,950 |
-| Bulldozed | 12.00% | ~9,950 |
-| Gotham Knight | 12.00% | ~9,950 |
+| End of an Era | 12.00% | ~9,951 |
+| Not On My Watch | 12.00% | ~9,951 |
+| Bulldozed | 12.00% | ~9,951 |
+| Gotham Knight | 12.00% | ~9,951 |
 | Gotham City Confidential | 11.00% | ~9,121 |
 | Out of Their League | 9.00% | ~7,463 |
 | Drone You Out | 9.00% | ~7,463 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 976)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,920 (Ranked 110)  
+Progressed: 82,921 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 135 (0.16%) (Ranked 294)
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
 | 2024-01-16 | 82,888 | 135 |
-| 2024-01-17 | 82,920 | 135 |
+| 2024-01-17 | 82,921 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,216  (Ranked 102)  
 Sum: 5,496 (Ranked 143)  

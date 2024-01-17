@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3270,9 +3270,9 @@
       "ID": "ID_12_SONIC3K_GET_ALL_BARRIERS",
       "SetID": "7o8nc5m",
       "Name": "Easy Peasy with Shields",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 398
+      "UsersEstimate": 405
     },
     {
       "ID": "ID_13_RING_COLLECTOR",
@@ -3470,8 +3470,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:59.4532436+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:57.6531682+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.3841521+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:58:01.496931+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:59.4532815+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:27.4008848+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:57.6532+00:00"
 }

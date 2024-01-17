@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,176 |
+| A Brief Tour of the Realms | 4.00% | ~10,177 |
 | Beast Intentions | 2.00% | ~5,088 |
 | The Cursed Farmer | 2.00% | ~5,088 |
 | The Mad Wizard | 2.00% | ~5,088 |
@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.80% | ~2,035 |
 | Mad Cow Disease | 0.80% | ~2,035 |
 | Friendly Imps | 0.80% | ~2,035 |
-| Welcome to Sigil | 0.80% | ~1,765 |
+| Welcome to Sigil | 0.80% | ~1,766 |
 | Pure Energy | 0.70% | ~1,781 |
 | Fast Food | 0.70% | ~1,545 |
 | A Persistent Buzzing | 0.60% | ~1,526 |
@@ -45,6 +45,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Chaos Theory | 0.40% | ~883 |
 | Mind Spike | 0.40% | ~883 |
 | The Silken Swamp | 0.30% | ~763 |
+| Supply Run | 0.30% | ~763 |
 | March of the Undead | 0.30% | ~763 |
 | No Time To Rest | 0.30% | ~763 |
 | Invisible Shadows | 0.30% | ~763 |
@@ -57,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~509 |
 | Wet Feet | 0.20% | ~509 |
 | Hatchlings Underfoot | 0.20% | ~509 |
-| Supply Run | 0.20% | ~509 |
 | Vecna Lives! | 0.20% | ~441 |
 | Homecoming | 0.20% | ~509 |
 | The Lost Heir of Omu | 0.20% | ~509 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,402 (Ranked 71)  
+Progressed: 254,414 (Ranked 71)  
 Completed: 2,622 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,622 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,402 | 2,622 |
+| 2024-01-17 | 254,414 | 2,622 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

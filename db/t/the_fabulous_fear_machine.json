@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 465,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -561,9 +561,9 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "19",
@@ -665,9 +665,9 @@
       "ID": "3",
       "SetID": "d37idgg",
       "Name": "The battle of Great Britain",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "30",
@@ -872,8 +872,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:06:49.2227215+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:40.8763792+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:27.2394932+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:26.4219991+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:49.2227476+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:02.3713477+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:40.8764575+00:00"
 }

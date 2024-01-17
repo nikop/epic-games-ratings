@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2564,
+  "EOS_Progressed": 2565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6193,6 +6193,11 @@
       "Time": "2024-01-17T14:05:31.3816601+00:00",
       "NumProgressed": 2564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T16:06:05.3983917+00:00",
+      "NumProgressed": 2565,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6213,7 +6218,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "AC02",
@@ -6229,7 +6234,7 @@
       "Name": "Blood and Gold",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "AC04",
@@ -6237,7 +6242,7 @@
       "Name": "Blood and Iron",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "AC05",
@@ -6261,7 +6266,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "AC08",
@@ -6277,7 +6282,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "AC10",
@@ -6285,7 +6290,7 @@
       "Name": "The Wait is Over",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "AC11",
@@ -6349,7 +6354,7 @@
       "Name": "Acquired Taste",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "AC19",
@@ -6381,7 +6386,7 @@
       "Name": "Empty Handed",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "AC23",
@@ -6429,7 +6434,7 @@
       "Name": "The Punished One",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "AC29",
@@ -6469,7 +6474,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "AC34",
@@ -6493,7 +6498,7 @@
       "Name": "Blessed Incense",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "AC37",
@@ -6525,7 +6530,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "AC41",
@@ -6572,7 +6577,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2564,
+      "Progressed": 2565,
       "Completed": 0
     }
   ],
@@ -6580,8 +6585,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:05:21.275537+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:06:05.3983914+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:46.5677924+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:21.2755943+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:21.5988031+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:06:05.3984403+00:00"
 }

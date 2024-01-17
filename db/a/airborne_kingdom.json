@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7798,
+  "EOS_Progressed": 7799,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -7013,6 +7013,11 @@
       "Time": "2024-01-17T07:05:51.2416293+00:00",
       "NumProgressed": 7798,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-17T16:08:15.3476276+00:00",
+      "NumProgressed": 7799,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7032,7 +7037,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -7040,7 +7045,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -7120,7 +7125,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2183
+      "UsersEstimate": 2184
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7160,7 +7165,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -7168,7 +7173,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -7192,7 +7197,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2652
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7224,7 +7229,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3119
+      "UsersEstimate": 3120
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -7239,15 +7244,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7798,
+      "Progressed": 7799,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:07:21.1504644+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:08:15.3476272+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:03:52.4964744+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:07:21.1505224+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:04:27.4865005+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:08:15.3476937+00:00"
 }

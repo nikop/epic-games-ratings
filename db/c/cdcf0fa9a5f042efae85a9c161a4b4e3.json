@@ -2,10 +2,10 @@
   "ID": "cdcf0fa9a5f042efae85a9c161a4b4e3",
   "Name": "Psychiatrist Simulator 2",
   "ProductSlug": "psychiatrist-simulator-2-4fff6b",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-01-16T00:00:00+00:00",
     "PcReleaseDate": "2024-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T17:57:19.1019138+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:58:36.5476465+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:05:14.7527252+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:03.4192509+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:05:58.233737+00:00"
 }

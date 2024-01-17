@@ -14,7 +14,7 @@
 | Speedroller Expert | 0.60% | ~1 |
 | Speedroller Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 442)  
+Progressed: 180 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |

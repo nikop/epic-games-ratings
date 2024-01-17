@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,053 |
-| Biggest Communism Builder | 23.00% | ~32,079 |
-| The World's Most Laughable Centrist | 20.00% | ~27,895 |
-| Il Coppo Del'Arte! | 18.00% | ~25,106 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,316 |
-| Hyperstellar Law Official | 15.00% | ~20,921 |
+| Goodest Of The Good Cops | 28.00% | ~39,055 |
+| Biggest Communism Builder | 23.00% | ~32,081 |
+| The World's Most Laughable Centrist | 20.00% | ~27,896 |
+| Il Coppo Del'Arte! | 18.00% | ~25,107 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,317 |
+| Hyperstellar Law Official | 15.00% | ~20,922 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~19,527 |
 | Gurdi-Ball Is Lit | 14.00% | ~19,527 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,132 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,342 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,133 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,343 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,553 |
-| Unbelievably Boring **** | 8.00% | ~11,158 |
-| Enemy Of The Physical Realm | 8.00% | ~11,158 |
+| Unbelievably Boring **** | 8.00% | ~11,159 |
+| Enemy Of The Physical Realm | 8.00% | ~11,159 |
 | Hardie's Heroes | 6.00% | ~8,369 |
 | The Lawbringer | 4.00% | ~5,579 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,579 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~139 |
 | What body? | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,476 (Ranked 91)  
+Progressed: 139,482 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 29 (0.02%) (Ranked 368)
 | 2024-01-14 | 139,209 | 29 |
 | 2024-01-15 | 139,320 | 29 |
 | 2024-01-16 | 139,425 | 29 |
-| 2024-01-17 | 139,476 | 29 |
+| 2024-01-17 | 139,482 | 29 |
 ## Awards
 Max (Character Customization): 769  (Ranked 192)  
 Sum: 1,173 (Ranked 266)  

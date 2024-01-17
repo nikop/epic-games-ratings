@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17918,
+  "EOS_Progressed": 17919,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18585,6 +18585,11 @@
       "Time": "2024-01-17T15:07:08.701921+00:00",
       "NumProgressed": 17918,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-17T16:08:01.7904475+00:00",
+      "NumProgressed": 17919,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18700,7 +18705,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5196
+      "UsersEstimate": 5197
     },
     {
       "ID": "tpote_achievement_22",
@@ -18804,7 +18809,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "tpote_achievement_34",
@@ -18923,15 +18928,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17918,
+      "Progressed": 17919,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:07:08.7019207+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:08:01.7904471+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:03:25.5546655+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:07:08.7020284+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:03:57.5066662+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:08:01.7905769+00:00"
 }

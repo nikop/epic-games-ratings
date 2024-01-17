@@ -5,29 +5,29 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,700 |
-| Start with a bang! | 55.00% | ~9,527 |
-| You can pet the cat! | 50.00% | ~8,661 |
-| Who put gears in there? | 41.00% | ~7,102 |
-| Cream of the Crop | 36.00% | ~6,236 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,236 |
-| You got this, Peppermint? | 31.00% | ~5,370 |
-| Perfect Parry | 29.00% | ~5,023 |
-| Alright, that felt AWESOME! | 28.00% | ~4,850 |
-| I play my own way! | 24.00% | ~4,157 |
-| This will cost you big time | 23.00% | ~3,984 |
-| Uh, they were broken when I got here | 23.00% | ~3,984 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,638 |
-| Kissing the sky! | 21.00% | ~3,638 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,118 |
-| The Negotiator | 17.00% | ~2,945 |
-| Does that say weakpoint? | 17.00% | ~2,945 |
-| You must like calling me in, Chai | 15.00% | ~2,598 |
-| Headliner | 14.00% | ~2,425 |
-| Out in a puff of smoke | 14.00% | ~2,425 |
-| Time to pay up! | 13.00% | ~2,252 |
-| Perfecter Parry-er! | 13.00% | ~2,252 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,252 |
+| Feeling the beat! | 56.00% | ~9,703 |
+| Start with a bang! | 55.00% | ~9,530 |
+| You can pet the cat! | 50.00% | ~8,664 |
+| Who put gears in there? | 41.00% | ~7,104 |
+| Cream of the Crop | 36.00% | ~6,238 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,238 |
+| You got this, Peppermint? | 31.00% | ~5,371 |
+| Perfect Parry | 29.00% | ~5,025 |
+| Alright, that felt AWESOME! | 28.00% | ~4,852 |
+| I play my own way! | 24.00% | ~4,158 |
+| This will cost you big time | 23.00% | ~3,985 |
+| Uh, they were broken when I got here | 23.00% | ~3,985 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,639 |
+| Kissing the sky! | 21.00% | ~3,639 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,119 |
+| The Negotiator | 17.00% | ~2,946 |
+| Does that say weakpoint? | 17.00% | ~2,946 |
+| You must like calling me in, Chai | 15.00% | ~2,599 |
+| Headliner | 14.00% | ~2,426 |
+| Out in a puff of smoke | 14.00% | ~2,426 |
+| Time to pay up! | 13.00% | ~2,253 |
+| Perfecter Parry-er! | 13.00% | ~2,253 |
+| I look cool. But I can look COOLER. | 13.00% | ~2,253 |
 | Who's the boss now? | 12.00% | ~2,079 |
 | I have to read these things? | 12.00% | ~2,079 |
 | There's such a thing as TOO helpful | 9.00% | ~1,559 |
@@ -39,14 +39,14 @@ Rating: 4.86 (Ranked 33)
 | Chip-tuned | 4.00% | ~693 |
 | Wanna hear my playlist? | 4.00% | ~693 |
 | Check out my moves! | 4.00% | ~693 |
-| I think I deserve some praise, here! | 2.00% | ~346 |
-| I think I found your calling, Macaron | 2.00% | ~346 |
-| This is a breeze! | 2.00% | ~346 |
-| We're Jammin' | 2.00% | ~346 |
-| I'm not done with you yet | 2.00% | ~346 |
-| First we parry, then we counter | 2.00% | ~346 |
-| I hit things with a guitar really well. | 2.00% | ~346 |
-| You ever parry a volcano? | 2.00% | ~346 |
+| I think I deserve some praise, here! | 2.00% | ~347 |
+| I think I found your calling, Macaron | 2.00% | ~347 |
+| This is a breeze! | 2.00% | ~347 |
+| We're Jammin' | 2.00% | ~347 |
+| I'm not done with you yet | 2.00% | ~347 |
+| First we parry, then we counter | 2.00% | ~347 |
+| I hit things with a guitar really well. | 2.00% | ~347 |
+| You ever parry a volcano? | 2.00% | ~347 |
 | Call me Turbo Chai | 2.00% | ~317 |
 | Easy Listening | 1.00% | ~173 |
 | OK, well THEY came after ME! | 0.80% | ~139 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,322 (Ranked 168)  
+Progressed: 17,327 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 8 (0.05%) (Ranked 343)
 | 2024-01-14 | 17,157 | 8 |
 | 2024-01-15 | 17,227 | 8 |
 | 2024-01-16 | 17,286 | 8 |
-| 2024-01-17 | 17,322 | 8 |
+| 2024-01-17 | 17,327 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

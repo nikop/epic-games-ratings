@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 955,
-  "Ranking_Popularity": 345,
+  "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22494,
+  "EOS_Progressed": 22495,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14218,6 +14218,11 @@
       "Time": "2024-01-17T15:10:33.7601303+00:00",
       "NumProgressed": 22494,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T16:11:30.9229398+00:00",
+      "NumProgressed": 22495,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14253,7 +14258,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14261,7 +14266,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14421,7 +14426,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6298
+      "UsersEstimate": 6299
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14461,7 +14466,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5848
+      "UsersEstimate": 5849
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14604,13 +14609,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22494,
+      "Progressed": 22495,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10420,
+      "Progressed": 10421,
       "Completed": 29
     }
   ],
@@ -14618,8 +14623,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:33.7601301+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:30.9229396+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:03:51.2910418+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:33.7602218+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:04:26.7237325+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:30.9230128+00:00"
 }

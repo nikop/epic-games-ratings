@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2269,9 +2269,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2382,8 +2382,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:11.1093404+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:05.7906008+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:21.9999833+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:11.1093736+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:54.152482+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:05.7906361+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10968,9 +10968,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133057,
+  "EOS_Progressed": 133059,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40288,6 +40288,11 @@
       "Time": "2024-01-17T15:10:51.4153836+00:00",
       "NumProgressed": 133057,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T16:11:49.4447535+00:00",
+      "NumProgressed": 133059,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40307,7 +40312,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40459,7 +40464,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40499,7 +40504,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40515,7 +40520,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "combat_kill_librarian",
@@ -40539,7 +40544,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40619,7 +40624,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7983
+      "UsersEstimate": 7984
     },
     {
       "ID": "driving_distance_easy",
@@ -40899,7 +40904,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40930,21 +40935,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133057,
+      "Progressed": 133059,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7926,
+      "Progressed": 7928,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-17T10:00:21.5461283+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:51.4153831+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:49.4447532+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:00:18.1010494+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:51.415571+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:00:53.6670925+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:49.4449248+00:00"
 }

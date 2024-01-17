@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 239)  
+Rating: 4.69 (Ranked 240)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500,532 (Ranked 42)  
+Progressed: 500,575 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,17 +642,17 @@ Completed: 1 (0.00%) (Ranked 404)
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
-| 2024-01-17 | 500,532 | 1 |
+| 2024-01-17 | 500,575 | 1 |
 ## Awards
 Max (Educational): 7,871  (Ranked 53)  
-Sum: 64,912 (Ranked 24)  
+Sum: 64,924 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,871 |
 | This game has Diverse Characters | 7,732 |
 | This game is Highly Recommended | 7,547 |
-| This game has Challenging Combat | 7,485 |
+| This game has Challenging Combat | 7,497 |
 | This game is Extremely Fun | 7,371 |
 | This game is Relaxing | 7,217 |
 | This game has Competitive Players | 7,048 |
@@ -1027,4 +1027,4 @@ Diff (max vs sum): 29
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
 | 2024-01-15 | 4.69 | - | 7,850 | 64,731 |
 | 2024-01-16 | 4.69 | - | 7,857 | 64,813 |
-| 2024-01-17 | 4.69 | - | 7,871 | 64,912 |
+| 2024-01-17 | 4.69 | - | 7,871 | 64,924 |

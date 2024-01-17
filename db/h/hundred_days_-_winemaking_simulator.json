@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21109,
+  "EOS_Progressed": 21115,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17638,6 +17638,11 @@
       "Time": "2024-01-17T15:10:33.9781912+00:00",
       "NumProgressed": 21109,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-17T16:11:31.1547521+00:00",
+      "NumProgressed": 21115,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17650,7 +17655,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "a_10",
@@ -17698,7 +17703,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9288
+      "UsersEstimate": 9291
     },
     {
       "ID": "a_19",
@@ -17714,7 +17719,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "a_20",
@@ -17738,7 +17743,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "a_23",
@@ -17754,7 +17759,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "a_26",
@@ -17897,7 +17902,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21109,
+      "Progressed": 21115,
       "Completed": 13
     }
   ],
@@ -17905,8 +17910,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:33.978191+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:31.1547517+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:13.8173157+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:33.9782932+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:50.9287482+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:31.1548655+00:00"
 }

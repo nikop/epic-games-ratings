@@ -2,10 +2,10 @@
   "ID": "e93913390878452c9bc11f52aa074cf5",
   "Name": "Pro Basketball Manager 2024",
   "ProductSlug": "pro-basketball-manager-2024-5c764f",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 765,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-21T00:00:00+00:00",
@@ -22,26 +22,394 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-17T16:07:06.0381964+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-01-17T16:07:06.0381987+00:00",
+  "TotalAchievements": 45,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_10",
+      "SetID": "b30jhn8",
+      "Name": "Just like Madrid",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_2",
+      "SetID": "b30jhn8",
+      "Name": "Repeat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_3",
+      "SetID": "b30jhn8",
+      "Name": "Threepeat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_4",
+      "SetID": "b30jhn8",
+      "Name": "Barcelona Style",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_5",
+      "SetID": "b30jhn8",
+      "Name": "From Berlin or Leverkusen?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_6",
+      "SetID": "b30jhn8",
+      "Name": "Want to visit \u0027s-Hertogenbosch?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_7",
+      "SetID": "b30jhn8",
+      "Name": "They did it in Siena",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_8",
+      "SetID": "b30jhn8",
+      "Name": "Play it like Boston",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAMPIONNAT_VICTOIRES_9",
+      "SetID": "b30jhn8",
+      "Name": "From Moscow with love",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COACH_COMPETITION_JO",
+      "SetID": "b30jhn8",
+      "Name": "Among legends",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOUBLE_COUPE_CHAMPIONNAT",
+      "SetID": "b30jhn8",
+      "Name": "Both is better",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EDITION_LOGO_EQUIPE",
+      "SetID": "b30jhn8",
+      "Name": "Change, finally!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRE_PLAYER",
+      "SetID": "b30jhn8",
+      "Name": "Dismissal",
+      "Percentage": 200,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "HOSPICE",
+      "SetID": "b30jhn8",
+      "Name": "Retirement home",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LE_SELECTIONNEUR",
+      "SetID": "b30jhn8",
+      "Name": "National team coach!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LICENCIE",
+      "SetID": "b30jhn8",
+      "Name": "Go home!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "M5_ANNEE",
+      "SetID": "b30jhn8",
+      "Name": "He is with us!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEILLEUR_COACH_COMPETITION",
+      "SetID": "b30jhn8",
+      "Name": "The best!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEILLEUR_COACH_COMPETITION_INTERNATIONALE",
+      "SetID": "b30jhn8",
+      "Name": "Who said GOAT?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_6HOMME",
+      "SetID": "b30jhn8",
+      "Name": "Off the bench!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_ANNEE",
+      "SetID": "b30jhn8",
+      "Name": "Season MVP",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_COMPETITION_INTERNATIONALE",
+      "SetID": "b30jhn8",
+      "Name": "MVP of an international competition",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_DEFENSEUR_ANNEE",
+      "SetID": "b30jhn8",
+      "Name": "Defensive Player of Year Award",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_JEUNE_ANNEE",
+      "SetID": "b30jhn8",
+      "Name": "Baby trainer",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_JEUNE_COMPETITION_INTERNATIONALE",
+      "SetID": "b30jhn8",
+      "Name": "Best baby!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_JEUNE_MOIS",
+      "SetID": "b30jhn8",
+      "Name": "He\u0027s crawling!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_MOIS_CHAMP",
+      "SetID": "b30jhn8",
+      "Name": "Employee of the month",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MVP_SEMAINE",
+      "SetID": "b30jhn8",
+      "Name": "That\u0027s my week",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RECRUTEMENT",
+      "SetID": "b30jhn8",
+      "Name": "Hiring",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RENOUVELLEMENT",
+      "SetID": "b30jhn8",
+      "Name": "Renewal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAISON_1",
+      "SetID": "b30jhn8",
+      "Name": "It went fast",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAISON_10",
+      "SetID": "b30jhn8",
+      "Name": "So it can last more than 7 years",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAISON_15",
+      "SetID": "b30jhn8",
+      "Name": "Getting pretty serious...",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAISON_2",
+      "SetID": "b30jhn8",
+      "Name": "Starting to have experience",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAISON_20",
+      "SetID": "b30jhn8",
+      "Name": "Porcelain or platinum?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SAISON_5",
+      "SetID": "b30jhn8",
+      "Name": "It\u0027s wood this year right?",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SERIE_VICTOIRES_15",
+      "SetID": "b30jhn8",
+      "Name": "Will it ever end?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SERIE_VICTOIRES_5",
+      "SetID": "b30jhn8",
+      "Name": "We are just warming up!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TANT_PIS",
+      "SetID": "b30jhn8",
+      "Name": "Good effort, though!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRADE",
+      "SetID": "b30jhn8",
+      "Name": "Trade",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VICTOIRE_1PT",
+      "SetID": "b30jhn8",
+      "Name": "One point",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VICTOIRE_20PTS",
+      "SetID": "b30jhn8",
+      "Name": "20 points gap!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VICTOIRE_30PTS",
+      "SetID": "b30jhn8",
+      "Name": "30 points margin!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VICTOIRE_CHAMPIONNAT",
+      "SetID": "b30jhn8",
+      "Name": "National champion",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VICTOIRE_MATCH",
+      "SetID": "b30jhn8",
+      "Name": "First game",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "b30jhn8",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-28T20:03:33.5834027+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:06:17.7830446+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:06.038196+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:15.2928326+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:11.2350901+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:17.7830465+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:01:48.4617848+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:06.0705705+00:00"
 }

@@ -1,40 +1,40 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.64 (Ranked 344)  
+Rating: 4.64 (Ranked 345)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,688 |
-| On the Top Step | 83.00% | ~15,221 |
-| Setting up for Success | 69.00% | ~12,653 |
-| Team Orders | 68.00% | ~12,470 |
-| Engineer | 45.00% | ~8,252 |
-| Familiar Faces | 42.00% | ~7,702 |
-| Going the Extra Mile | 36.00% | ~6,602 |
-| Sharing the Love | 33.00% | ~6,052 |
-| Hitting a Season | 27.00% | ~4,951 |
-| A Dozen Pieces | 25.00% | ~4,584 |
-| Making History | 25.00% | ~4,584 |
+| Getting on the Step | 91.00% | ~16,690 |
+| On the Top Step | 83.00% | ~15,223 |
+| Setting up for Success | 69.00% | ~12,655 |
+| Team Orders | 68.00% | ~12,472 |
+| Engineer | 45.00% | ~8,253 |
+| Familiar Faces | 42.00% | ~7,703 |
+| Going the Extra Mile | 36.00% | ~6,603 |
+| Sharing the Love | 33.00% | ~6,053 |
+| Hitting a Season | 27.00% | ~4,952 |
+| A Dozen Pieces | 25.00% | ~4,585 |
+| Making History | 25.00% | ~4,585 |
 | Network Success | 23.00% | ~4,218 |
 | Challenge Yourself | 23.00% | ~4,218 |
-| Writing a new Chapter | 19.00% | ~3,484 |
+| Writing a new Chapter | 19.00% | ~3,485 |
 | Spring Cleaning | 18.00% | ~3,301 |
 | Reduce | 15.00% | ~2,751 |
 | Ups and Downs | 15.00% | ~2,751 |
 | Crucial Combo | 13.00% | ~2,384 |
 | Proving Them Wrong | 13.00% | ~2,384 |
 | Reuse | 12.00% | ~2,201 |
-| Gathering Dust | 11.00% | ~2,017 |
+| Gathering Dust | 11.00% | ~2,018 |
 | Eagle Eye | 10.00% | ~1,834 |
 | All in a Weekend's Work | 10.00% | ~1,834 |
 | Friendly Competition | 10.00% | ~1,834 |
 | Switcheroo | 10.00% | ~1,834 |
 | One for the Book | 10.00% | ~1,834 |
-| Oil and Water | 9.00% | ~1,650 |
-| Lightning Round the World | 9.00% | ~1,650 |
-| Hitting a Bullseye | 9.00% | ~1,650 |
-| Spinning Around | 9.00% | ~1,650 |
+| Oil and Water | 9.00% | ~1,651 |
+| Lightning Round the World | 9.00% | ~1,651 |
+| Hitting a Bullseye | 9.00% | ~1,651 |
+| Spinning Around | 9.00% | ~1,651 |
 | Undisputed Winner | 7.00% | ~1,284 |
 | Recycle | 7.00% | ~1,284 |
 | Tinkerer | 6.00% | ~1,100 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,338 (Ranked 163)  
+Progressed: 18,341 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,10 +181,10 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 18,178 | 0 |
 | 2024-01-15 | 18,246 | 0 |
 | 2024-01-16 | 18,312 | 0 |
-| 2024-01-17 | 18,338 | 0 |
+| 2024-01-17 | 18,341 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
-Sum: 448 (Ranked 348)  
+Sum: 450 (Ranked 348)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -195,10 +195,10 @@ Diff (max vs sum): 75
 | This game is Extremely Fun | 44 |
 | This game has Quickly Understood Controls | 41 |
 | This game has Challenging Combat | 40 |
+| This game is Educational | 37 |
 | This game is Great for Beginners | 36 |
 | This game has Amazing Storytelling | 36 |
 | This game has Competitive Players | 35 |
-| This game is Educational | 35 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -329,3 +329,4 @@ Diff (max vs sum): 75
 | 2024-01-14 | 4.64 | 65 | 438 |
 | 2024-01-15 | 4.64 | 67 | 444 |
 | 2024-01-16 | 4.64 | 68 | 448 |
+| 2024-01-17 | 4.64 | 68 | 450 |

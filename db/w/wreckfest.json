@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -369,7 +369,7 @@
   "Tags": [],
   "EOS_Progressed": 1188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3091,9 +3091,9 @@
       "ID": "CollectVehiclesA",
       "SetID": "5hd282c",
       "Name": "Wheeler Dealer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "CollectVehiclesB",
@@ -3196,8 +3196,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:09:34.8963994+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:10:26.3514079+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:57:38.7305426+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:09:34.8964247+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:02.6143523+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:10:26.3514372+00:00"
 }

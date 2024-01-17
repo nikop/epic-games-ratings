@@ -23,7 +23,7 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 7.00% | ~447 |
 | Flawless Victory | 6.00% | ~383 |
 | The Harder They Fall | 6.00% | ~383 |
-| Deadication | 4.00% | ~255 |
+| Deadication | 5.00% | ~319 |
 | Season Finale | 4.00% | ~255 |
 | We've Got a Kaiju on the Field | 3.00% | ~192 |
 | The Fourth Gate | 2.00% | ~128 |

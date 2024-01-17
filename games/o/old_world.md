@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~508 |
 | Trade Caravan | 3.00% | ~508 |
 | Regicide | 2.00% | ~339 |
+| Drillmaster | 2.00% | ~339 |
 | Brilliant | 2.00% | ~339 |
 | Fountainhead | 2.00% | ~339 |
 | Great | 2.00% | ~339 |
@@ -59,11 +60,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Zoroastrianism | 2.00% | ~339 |
 | Hanging Gardens in Babylon | 1.00% | ~169 |
 | Beloved | 1.00% | ~169 |
-| Drillmaster | 1.00% | ~169 |
 | Intercessor | 1.00% | ~169 |
 | Mighty | 1.00% | ~169 |
 | Valiant | 1.00% | ~169 |
 | Legendary Cities | 1.00% | ~169 |
+| Good Difficulty | 1.00% | ~169 |
 | Just Difficulty | 1.00% | ~169 |
 | Artisans | 1.00% | ~169 |
 | Champions | 1.00% | ~169 |
@@ -80,11 +81,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~169 |
 | Points Victory | 1.00% | ~169 |
 | Win a Single Player Game | 1.00% | ~169 |
-| Good Difficulty | 0.90% | ~152 |
-| Patrons | 0.90% | ~152 |
-| Statesmen | 0.90% | ~152 |
-| Hittite Iron | 0.90% | ~152 |
-| The Clergy | 0.90% | ~152 |
+| Patrons | 0.90% | ~153 |
+| Statesmen | 0.90% | ~153 |
+| Hittite Iron | 0.90% | ~153 |
+| The Clergy | 0.90% | ~153 |
+| Conqueror | 0.80% | ~136 |
 | Victorious | 0.80% | ~136 |
 | Landowners | 0.80% | ~136 |
 | Traders | 0.80% | ~136 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~136 |
 | Kushite Paganism | 0.80% | ~136 |
 | Capable | 0.70% | ~119 |
-| Conqueror | 0.70% | ~119 |
 | Invincible | 0.70% | ~119 |
 | Ready | 0.70% | ~119 |
 | Subjugator | 0.70% | ~119 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,943 (Ranked 169)  
+Progressed: 16,945 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,943 | 5 |
+| 2024-01-17 | 16,945 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,935 (Ranked 223)  

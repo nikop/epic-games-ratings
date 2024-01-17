@@ -6,14 +6,14 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,141 |
-| The Journey Begins | 98.00% | ~5,141 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,092 |
+| Quinceañera Time | 98.00% | ~5,142 |
+| The Journey Begins | 98.00% | ~5,142 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,093 |
 | There is No Escape | 71.00% | ~3,725 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,305 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,306 |
 | Royal Flush | 62.00% | ~3,253 |
 | Timber! | 60.00% | ~3,148 |
-| Survive the Bombsequences | 59.00% | ~3,095 |
+| Survive the Bombsequences | 59.00% | ~3,096 |
 | Killed 20 Jerks | 54.00% | ~2,833 |
 | Death Defied | 54.00% | ~2,833 |
 | Fortunate Soul | 49.00% | ~2,571 |
@@ -22,7 +22,7 @@ Number of Ratings: 63  (23.09.2022)
 | I Believe I Can Fly | 37.00% | ~1,941 |
 | Bone Collector | 35.00% | ~1,836 |
 | Fe-Festival | 35.00% | ~1,836 |
-| Pardon my Slob | 33.00% | ~1,731 |
+| Pardon my Slob | 33.00% | ~1,732 |
 | Top of the Food Chain | 32.00% | ~1,679 |
 | Humerus Achievement | 32.00% | ~1,679 |
 | Ghost Facers! | 28.00% | ~1,469 |
@@ -31,13 +31,13 @@ Number of Ratings: 63  (23.09.2022)
 | Trying To Get Into That 1%, Huh? | 18.00% | ~944 |
 | Can't Touch This | 18.00% | ~944 |
 | That Was Quick | 17.00% | ~892 |
-| Yummy! | 16.00% | ~839 |
+| Yummy! | 16.00% | ~840 |
 | Goldrush Glory Days | 15.00% | ~787 |
 | Best Party Guest | 15.00% | ~787 |
 | Shrub it Off | 15.00% | ~787 |
-| Collected 50 mushrooms | 14.00% | ~734 |
-| Budding Gardener | 14.00% | ~734 |
-| Stop Hitting Each Other | 14.00% | ~734 |
+| Collected 50 mushrooms | 14.00% | ~735 |
+| Budding Gardener | 14.00% | ~735 |
+| Stop Hitting Each Other | 14.00% | ~735 |
 | Ultimate Jerk | 13.00% | ~682 |
 | Hot Potato | 11.00% | ~577 |
 | Off the Beaten Path | 10.00% | ~525 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,246 (Ranked 206)  
+Progressed: 5,247 (Ranked 206)  
 Completed: 31 (0.59%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 31 (0.59%) (Ranked 215)
 | 2024-01-14 | 5,244 | 31 |
 | 2024-01-15 | 5,245 | 31 |
 | 2024-01-16 | 5,246 | 31 |
+| 2024-01-17 | 5,247 | 31 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

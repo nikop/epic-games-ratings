@@ -2,10 +2,10 @@
   "ID": "decb411846c64904a09bb131c6a1bff1",
   "Name": "Angelic",
   "ProductSlug": "angelic-b11609",
-  "Ranking_EOS_Progress": 837,
+  "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T17:56:54.9411751+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:57:53.0967717+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:08:20.19102+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:58:18.3374403+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:08:46.9543179+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -4394,9 +4394,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1015
     },
     {
       "ID": "EV_ACH17",
@@ -4635,8 +4635,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-14T13:02:41.6102698+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:11:02.8647558+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:12:01.4189316+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:02:45.1230726+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:11:02.8647959+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:02:23.3610834+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:12:01.418976+00:00"
 }

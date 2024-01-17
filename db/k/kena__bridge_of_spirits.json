@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1553,9 +1553,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430457,
+  "EOS_Progressed": 430458,
   "EOS_Completed": 556,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -19633,6 +19633,11 @@
       "Time": "2024-01-17T15:06:36.7204372+00:00",
       "NumProgressed": 430457,
       "NumCompleted": 556
+    },
+    {
+      "Time": "2024-01-17T16:07:26.9483728+00:00",
+      "NumProgressed": 430458,
+      "NumCompleted": 556
     }
   ],
   "TotalAchievements": 41,
@@ -19652,7 +19657,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167878
+      "UsersEstimate": 167879
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -19660,7 +19665,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258274
+      "UsersEstimate": 258275
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -19724,7 +19729,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258274
+      "UsersEstimate": 258275
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -19756,7 +19761,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 137746
+      "UsersEstimate": 137747
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -19812,7 +19817,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408934
+      "UsersEstimate": 408935
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -19828,7 +19833,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309929
+      "UsersEstimate": 309930
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -19844,7 +19849,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301320
+      "UsersEstimate": 301321
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -19892,7 +19897,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 198010
+      "UsersEstimate": 198011
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -19908,7 +19913,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116223
+      "UsersEstimate": 116224
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -19932,7 +19937,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189401
+      "UsersEstimate": 189402
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -19940,7 +19945,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146355
+      "UsersEstimate": 146356
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -19948,7 +19953,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116223
+      "UsersEstimate": 116224
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -19971,15 +19976,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430457,
+      "Progressed": 430458,
       "Completed": 556
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-15T20:57:43.9440665+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:06:36.720437+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:26.9483725+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.7074577+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:01.8964972+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:36.7205423+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:31.9601829+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:26.9485089+00:00"
 }

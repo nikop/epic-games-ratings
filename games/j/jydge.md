@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mission Mastered | 44.00% | ~8 |
-| The Dawn of Jydgement | 39.00% | ~7 |
+| Mission Mastered | 50.00% | ~9 |
+| The Dawn of Jydgement | 44.00% | ~8 |
 | The Jydgement Day | 17.00% | ~3 |
 | Savior | 11.00% | ~2 |
 | The Dusk Falls | 6.00% | ~1 |

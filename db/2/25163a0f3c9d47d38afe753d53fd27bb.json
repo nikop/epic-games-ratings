@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1772,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.34,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2024-01-17T14:11:20.470151+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-17T16:11:52.3569452+00:00",
+      "NumProgressed": 1772,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4475,7 +4480,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1701
     },
     {
       "ID": "LEVEL_002",
@@ -4483,7 +4488,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1400
     },
     {
       "ID": "LEVEL_003",
@@ -4491,7 +4496,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "LEVEL_004",
@@ -4499,7 +4504,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "LEVEL_005",
@@ -4507,7 +4512,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "LEVEL_006",
@@ -4515,7 +4520,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "LEVEL_007",
@@ -4523,7 +4528,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "LEVEL_008",
@@ -4531,7 +4536,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "LEVEL_009",
@@ -4555,7 +4560,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "LEVEL_012",
@@ -4571,7 +4576,7 @@
       "Name": "Higher ground",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "LEVEL_014",
@@ -4587,7 +4592,7 @@
       "Name": "Flatland",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "LEVEL_016",
@@ -4619,7 +4624,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LEVEL_020",
@@ -4627,7 +4632,7 @@
       "Name": "Go round and round",
       "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "LEVEL_021",
@@ -4714,14 +4719,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1772,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:10:54.3604375+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:11:52.3569449+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:22.9957058+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:10:54.3604748+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:02:00.5346994+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:11:52.3569818+00:00"
 }

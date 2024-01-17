@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 868,
+  "EOS_Progressed": 869,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.94,
+  "EOS_Completed_Percentage": 16.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3761,6 +3761,11 @@
       "Time": "2024-01-17T14:06:46.5187318+00:00",
       "NumProgressed": 868,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2024-01-17T16:07:20.4654554+00:00",
+      "NumProgressed": 869,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 22,
@@ -3772,7 +3777,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "LEVEL_002",
@@ -3780,7 +3785,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "LEVEL_003",
@@ -3788,7 +3793,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "LEVEL_004",
@@ -3828,7 +3833,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "LEVEL_009",
@@ -3836,7 +3841,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "LEVEL_010",
@@ -3860,7 +3865,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "LEVEL_013",
@@ -3922,9 +3927,9 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "LEVEL_021",
@@ -3947,7 +3952,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 868,
+      "Progressed": 869,
       "Completed": 147
     }
   ],
@@ -3955,8 +3960,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:06:30.6578281+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:20.4654552+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:59:21.4370669+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:30.6578584+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:59:53.4973103+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:20.46549+00:00"
 }

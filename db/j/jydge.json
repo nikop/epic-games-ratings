@@ -4,8 +4,8 @@
   "ProductSlug": "jydge-14242d",
   "Ranking_EOS_Progress": 630,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 493,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-27T10:00:00+00:00",
     "PcReleaseDate": "2017-10-03T23:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "ACT_1",
       "SetID": "7e5mm2p",
       "Name": "The Dawn of Jydgement",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACT_2",
@@ -223,9 +223,9 @@
       "ID": "THREE_MEDALS",
       "SetID": "7e5mm2p",
       "Name": "Mission Mastered",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "UPGRADE_FIREMODES",
@@ -264,8 +264,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2024-01-17T15:06:39.8656057+00:00",
+  "LastChanged_Achievements": "2024-01-17T16:07:30.294934+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:51.8116776+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:01:27.3097587+00:00",
-  "LastUpdate_Achievements": "2024-01-17T15:06:39.8656226+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:02:05.2740596+00:00",
+  "LastUpdate_Achievements": "2024-01-17T16:07:30.2949438+00:00"
 }

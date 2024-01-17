@@ -6,13 +6,13 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 73.00% | ~1,816 |
+| First line | 74.00% | ~1,840 |
 | First cargo item on board | 67.00% | ~1,666 |
 | First cargo item waiting | 67.00% | ~1,666 |
 | First bus stop | 66.00% | ~1,641 |
+| First passenger on board | 63.00% | ~1,567 |
 | First passenger waiting | 63.00% | ~1,567 |
 | First bus arrived | 62.00% | ~1,542 |
-| First passenger on board | 62.00% | ~1,542 |
 | First train station | 59.00% | ~1,467 |
 | First steam train arrived | 56.00% | ~1,393 |
 | Cadet | 53.00% | ~1,318 |
