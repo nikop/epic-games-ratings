@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~847 |
-| Space Colonization | 80.00% | ~698 |
-| Friendzone | 79.00% | ~690 |
-| Hello World | 74.00% | ~646 |
-| Space Engineer | 64.00% | ~559 |
-| Tinkerer | 63.00% | ~550 |
-| Dust to Dust | 59.00% | ~515 |
-| Across The Stars | 47.00% | ~410 |
-| Crafty | 47.00% | ~410 |
-| All Seats Taken | 38.00% | ~332 |
-| For Science! | 34.00% | ~297 |
-| Meet the Petersons | 32.00% | ~279 |
-| Stay Cool | 29.00% | ~253 |
-| KIA | 27.00% | ~236 |
+| Don't Panic! | 97.00% | ~851 |
+| Space Colonization | 80.00% | ~702 |
+| Friendzone | 79.00% | ~693 |
+| Hello World | 74.00% | ~649 |
+| Space Engineer | 64.00% | ~561 |
+| Tinkerer | 63.00% | ~553 |
+| Dust to Dust | 59.00% | ~517 |
+| Across The Stars | 47.00% | ~412 |
+| Crafty | 47.00% | ~412 |
+| All Seats Taken | 38.00% | ~333 |
+| For Science! | 35.00% | ~307 |
+| Meet the Petersons | 32.00% | ~281 |
+| Stay Cool | 29.00% | ~254 |
+| KIA | 27.00% | ~237 |
 | Mutiny in making | 24.00% | ~210 |
-| Eco-Shuttle | 20.00% | ~175 |
-| Et tu, Astrocitizen? | 19.00% | ~166 |
+| Eco-Shuttle | 19.00% | ~167 |
+| Et tu, Astrocitizen? | 19.00% | ~167 |
 | Space Explorer | 16.00% | ~140 |
-| Hands Full | 13.00% | ~113 |
+| Hands Full | 13.00% | ~114 |
 | Gold Medalist | 12.00% | ~105 |
 | Non-Fiction | 11.00% | ~96 |
 | No Man Left Behind | 9.00% | ~79 |
@@ -31,13 +31,13 @@
 | Second Life | 8.00% | ~70 |
 | First of April | 7.00% | ~61 |
 | Flawless Maegangement | 7.00% | ~61 |
-| Axel jump in space! | 6.00% | ~52 |
+| Axel jump in space! | 6.00% | ~53 |
 | Extreme Makeover | 5.00% | ~44 |
 | The Improvinator | 4.00% | ~35 |
 | The Last Supper | 4.00% | ~35 |
 | 2018: A Soup Odyssey | 3.00% | ~26 |
-| Bovine Domain | 2.00% | ~17 |
-| That's No Moon! | 2.00% | ~17 |
+| Bovine Domain | 2.00% | ~18 |
+| That's No Moon! | 2.00% | ~18 |
 | AAARGH! | 1.00% | ~9 |
 | Feels like home | 1.00% | ~9 |
 | No Ticket | 0.90% | ~8 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 873 (Ranked 309)  
+Progressed: 877 (Ranked 309)  
 Completed: 1 (0.11%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1 (0.11%) (Ranked 310)
 | 2024-01-14 | 829 | 1 |
 | 2024-01-15 | 830 | 1 |
 | 2024-01-16 | 870 | 1 |
-| 2024-01-17 | 873 | 1 |
+| 2024-01-17 | 877 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

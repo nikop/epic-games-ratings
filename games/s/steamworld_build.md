@@ -20,9 +20,9 @@
 | Dopa-Miner | 33.00% | ~88 |
 | Whoa! | 31.00% | ~83 |
 | Botropolis | 28.00% | ~75 |
+| Manic Mechanic | 21.00% | ~56 |
 | Steam Powered | 21.00% | ~56 |
 | Steaming Rich | 21.00% | ~56 |
-| Manic Mechanic | 20.00% | ~54 |
 | Room To Spare | 15.00% | ~40 |
 | Click 'Em All | 7.00% | ~19 |
 | Accustomed Customer | 5.00% | ~13 |

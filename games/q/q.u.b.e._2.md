@@ -1,27 +1,27 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.44 (Ranked 708)  
+Rating: 4.44 (Ranked 707)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~35,711 |
-| Quick Understanding of Block Extrusion | 68.00% | ~32,378 |
-| Nature or Nurture | 52.00% | ~24,760 |
-| Power Glove | 50.00% | ~23,808 |
-| Forgotten Memories | 43.00% | ~20,474 |
-| Cogs in the Machine | 37.00% | ~17,618 |
-| Mission Success | 23.00% | ~10,951 |
-| There's No Place Like Home | 23.00% | ~10,951 |
-| Green Cube Killer | 20.00% | ~9,523 |
-| Path to Salvation | 18.00% | ~8,571 |
-| Infinity Loop | 17.00% | ~8,095 |
-| Descendants | 15.00% | ~7,142 |
-| The Flawed Teacher | 13.00% | ~6,190 |
+| Lost in Space | 75.00% | ~35,718 |
+| Quick Understanding of Block Extrusion | 68.00% | ~32,384 |
+| Nature or Nurture | 52.00% | ~24,764 |
+| Power Glove | 50.00% | ~23,812 |
+| Forgotten Memories | 43.00% | ~20,478 |
+| Cogs in the Machine | 37.00% | ~17,621 |
+| Mission Success | 23.00% | ~10,954 |
+| There's No Place Like Home | 23.00% | ~10,954 |
+| Green Cube Killer | 20.00% | ~9,525 |
+| Path to Salvation | 18.00% | ~8,572 |
+| Infinity Loop | 17.00% | ~8,096 |
+| Descendants | 15.00% | ~7,144 |
+| The Flawed Teacher | 13.00% | ~6,191 |
 | To Infinity and Beyond | 6.00% | ~2,857 |
 | The Truthful Enemy | 5.00% | ~2,381 |
-| Laser Sharp | 3.00% | ~1,428 |
+| Laser Sharp | 3.00% | ~1,429 |
 | True collector | 2.00% | ~952 |
 | Bronze collector | 2.00% | ~952 |
 | Home Stretch | 2.00% | ~952 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~476 |
 | Expert Collector | 1.00% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,615 (Ranked 126)  
+Progressed: 47,624 (Ranked 126)  
 Completed: 241 (0.51%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 241 (0.51%) (Ranked 224)
 | 2024-01-14 | 47,450 | 239 |
 | 2024-01-15 | 47,544 | 241 |
 | 2024-01-16 | 47,615 | 241 |
+| 2024-01-17 | 47,624 | 241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 87.00% | ~286 |
-| A piece of the story | 66.00% | ~217 |
-| It's covered up for a reason | 60.00% | ~197 |
-| Wanderer | 56.00% | ~184 |
-| Scraps of love | 52.00% | ~171 |
-| The artist’s impression | 50.00% | ~164 |
-| Do what you have to | 45.00% | ~148 |
-| Sign of weakness | 43.00% | ~141 |
+| Something important | 87.00% | ~288 |
+| A piece of the story | 66.00% | ~218 |
+| It's covered up for a reason | 60.00% | ~199 |
+| Wanderer | 55.00% | ~182 |
+| Scraps of love | 52.00% | ~172 |
+| The artist’s impression | 50.00% | ~166 |
+| Do what you have to | 45.00% | ~149 |
+| Sign of weakness | 42.00% | ~139 |
 | Refuse to look | 37.00% | ~122 |
-| Face your fears | 32.00% | ~105 |
+| Face your fears | 32.00% | ~106 |
 | Finished it | 27.00% | ~89 |
-| Whispers long forgotten | 18.00% | ~59 |
-| Sound Bite | 15.00% | ~49 |
+| Whispers long forgotten | 18.00% | ~60 |
+| Sound Bite | 15.00% | ~50 |
 | The art of movement | 14.00% | ~46 |
 | A Slice of Life | 13.00% | ~43 |
 | Debut | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
-| Another perspective | 12.00% | ~39 |
+| Another perspective | 12.00% | ~40 |
 | Playtime | 11.00% | ~36 |
 | The tragedy unfolds | 11.00% | ~36 |
 | Tough conversation | 11.00% | ~36 |
@@ -33,14 +33,14 @@
 | Casting Finished | 7.00% | ~23 |
 | Instinct of self-preservation | 7.00% | ~23 |
 | Fisherman | 7.00% | ~23 |
-| Something to think about | 5.00% | ~16 |
-| I remember It Like Was Yesterday | 5.00% | ~16 |
+| Something to think about | 5.00% | ~17 |
+| I remember It Like Was Yesterday | 5.00% | ~17 |
 | We Are Not Alone | 4.00% | ~13 |
 | Dark correspondence | 4.00% | ~13 |
 | The Perfect Storm | 4.00% | ~13 |
+| Se7en Seas | 4.00% | ~13 |
 | Immortalized in my heart | 3.00% | ~10 |
 | Full Scoop | 3.00% | ~10 |
-| Se7en Seas | 3.00% | ~10 |
 | A Mosaic of Misery | 3.00% | ~10 |
 | Body of Work | 2.00% | ~7 |
 | It was worth a try | 2.00% | ~7 |
@@ -57,7 +57,7 @@
 | Inheritance | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 392)  
+Progressed: 331 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,3 +142,4 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-13 | 326 | 0 |
 | 2024-01-14 | 327 | 0 |
 | 2024-01-16 | 329 | 0 |
+| 2024-01-17 | 331 | 0 |

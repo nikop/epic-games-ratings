@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -2524,9 +2524,9 @@
       "ID": "REPAIR_BRIDGE",
       "SetID": "aniflfk",
       "Name": "Bridge Builder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 254
+      "UsersEstimate": 260
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2540,9 +2540,9 @@
       "ID": "SPEND_2000_COINS",
       "SetID": "aniflfk",
       "Name": "Crypto Bro",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "TAKE_LEECH",
@@ -2571,8 +2571,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:08:18.4481593+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:52:46.4046086+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.3646668+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:32.9368751+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:08:18.4481891+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:49:07.868316+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:52:46.4046435+00:00"
 }

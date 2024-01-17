@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,349 |
-| Worth it | 63.00% | ~43,897 |
-| Eagle Eye | 55.00% | ~38,323 |
-| Corpseman I | 39.00% | ~27,174 |
-| Blast fishing | 37.00% | ~25,781 |
-| Not alone | 32.00% | ~22,297 |
-| Headhunter I | 26.00% | ~18,116 |
+| Setting an example | 78.00% | ~54,351 |
+| Worth it | 63.00% | ~43,899 |
+| Eagle Eye | 54.00% | ~37,628 |
+| Corpseman I | 39.00% | ~27,176 |
+| Blast fishing | 37.00% | ~25,782 |
+| Not alone | 32.00% | ~22,298 |
+| Headhunter I | 26.00% | ~18,117 |
 | Developers, Developers, Developers | 24.00% | ~16,723 |
 | Manual Labour I | 24.00% | ~16,723 |
-| Basic Training | 23.00% | ~16,026 |
-| Furchtlos und Treu | 13.00% | ~9,058 |
-| Gott Mit Uns | 12.00% | ~8,361 |
+| Basic Training | 23.00% | ~16,027 |
+| Furchtlos und Treu | 13.00% | ~9,059 |
+| Gott Mit Uns | 12.00% | ~8,362 |
 | This We'll Defend! | 9.00% | ~6,271 |
 | Providentiea Memor | 9.00% | ~6,271 |
 | For King and Country | 9.00% | ~6,271 |
 | Battle hardened | 8.00% | ~5,574 |
 | Anker wirf! | 8.00% | ~5,574 |
-| Semper Fidelis! | 7.00% | ~4,877 |
-| Honneur et Patrie | 7.00% | ~4,877 |
+| Semper Fidelis! | 7.00% | ~4,878 |
+| Honneur et Patrie | 7.00% | ~4,878 |
 | In Treue Fest | 5.00% | ~3,484 |
 | Voor De Koning | 5.00% | ~3,484 |
 | Extreme Headhunter | 5.00% | ~3,484 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,678 (Ranked 116)  
+Progressed: 69,681 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 4 (0.01%) (Ranked 378)
 | 2024-01-14 | 69,530 | 4 |
 | 2024-01-15 | 69,603 | 4 |
 | 2024-01-16 | 69,674 | 4 |
-| 2024-01-17 | 69,678 | 4 |
+| 2024-01-17 | 69,681 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 375)  
 Sum: 838 (Ranked 290)  

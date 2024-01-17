@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2022-09-22T12:00:00+00:00",
@@ -1387,9 +1387,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 3687,
+  "EOS_Progressed": 3688,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8082,6 +8082,11 @@
       "Time": "2024-01-16T21:05:06.7945414+00:00",
       "NumProgressed": 3687,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T01:54:43.8436603+00:00",
+      "NumProgressed": 3688,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -8125,7 +8130,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -8205,7 +8210,7 @@
       "Name": "G.O.A.T. status",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_GOLDEN",
@@ -8229,7 +8234,7 @@
       "Name": "Hoarder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_KEEP-THE-DREAM-ALIVE",
@@ -8245,7 +8250,7 @@
       "Name": "Keeping it classy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -8317,7 +8322,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -8365,7 +8370,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -8453,7 +8458,7 @@
       "Name": "We get it, you\u0027re good",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_WELCOME-TO-THE-FAMILY",
@@ -8476,15 +8481,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 3687,
+      "Progressed": 3688,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2024-01-14T16:58:15.9684577+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:04:58.2356149+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:54:43.84366+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.9535453+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:16.9953393+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:04:58.2356782+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:48:50.3920093+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:54:43.8437794+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17908,
+  "EOS_Progressed": 17909,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18550,6 +18550,11 @@
       "Time": "2024-01-16T22:07:09.9524728+00:00",
       "NumProgressed": 17908,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-17T01:54:57.9626632+00:00",
+      "NumProgressed": 17909,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18569,7 +18574,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "tpote_achievement_11",
@@ -18641,7 +18646,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "tpote_achievement_2",
@@ -18665,7 +18670,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5194
     },
     {
       "ID": "tpote_achievement_22",
@@ -18713,7 +18718,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "tpote_achievement_28",
@@ -18737,7 +18742,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "tpote_achievement_30",
@@ -18753,7 +18758,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "tpote_achievement_32",
@@ -18825,7 +18830,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6984
+      "UsersEstimate": 6985
     },
     {
       "ID": "tpote_achievement_40",
@@ -18888,15 +18893,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17908,
+      "Progressed": 17909,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:05:11.1976896+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:54:57.9626629+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:02:46.65464+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:05:11.1977867+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:52:16.9624929+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:54:57.9628056+00:00"
 }

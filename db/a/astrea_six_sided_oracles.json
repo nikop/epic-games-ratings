@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -2269,9 +2269,9 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 78
     },
     {
       "ID": "ApianHero",
@@ -2420,8 +2420,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:08:46.3048543+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:58:42.3436179+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:31.020547+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:08:46.3049438+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:47:57.5496071+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:58:42.3437377+00:00"
 }

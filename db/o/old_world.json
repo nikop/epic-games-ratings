@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2310,9 +2310,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16929,
+  "EOS_Progressed": 16930,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 607,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20270,6 +20270,11 @@
       "Time": "2024-01-17T00:09:55.2051645+00:00",
       "NumProgressed": 16929,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T01:59:56.4621193+00:00",
+      "NumProgressed": 16930,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20775,9 +20780,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
       "SetID": "9201eeb",
       "Name": "Invincible",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -21615,9 +21620,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_CIRCUS_MAXIMUS",
       "SetID": "9201eeb",
       "Name": "Circus Maximus",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -23144,21 +23149,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16929,
+      "Progressed": 16930,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16929,
+      "Progressed": 16930,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-16T20:02:58.5251439+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:55.2051643+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:56.4621189+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:02:31.0908426+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:55.206188+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:51:58.0831569+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:56.4630589+00:00"
 }

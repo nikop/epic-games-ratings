@@ -6,41 +6,41 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,644 |
-| I read Shakespeare and stuff | 59.00% | ~37,099 |
-| Just a sprinkle | 58.00% | ~36,470 |
-| I'm stumped | 56.00% | ~35,212 |
-| Plant get enough | 56.00% | ~35,212 |
-| This is just my weekend vehicle | 54.00% | ~33,955 |
-| It's just the beginning | 54.00% | ~33,955 |
-| Hard work pays off | 49.00% | ~30,811 |
-| It's never too late to farm | 45.00% | ~28,296 |
-| All out of Land | 41.00% | ~25,780 |
-| Field Trip | 40.00% | ~25,152 |
-| I like to switch it up | 37.00% | ~23,265 |
-| Help me to help you | 35.00% | ~22,008 |
-| Ultimutt Pawesomeness | 25.00% | ~15,720 |
-| Van Gogh | 23.00% | ~14,462 |
-| You wood not believe it | 20.00% | ~12,576 |
-| Vehicle fleet | 20.00% | ~12,576 |
-| Well-Oiled Machine | 15.00% | ~9,432 |
-| Clucky Streak | 14.00% | ~8,803 |
-| The plot thickens | 14.00% | ~8,803 |
-| Large-scale supplier | 14.00% | ~8,803 |
-| Long haul | 14.00% | ~8,803 |
-| That's a wrap | 13.00% | ~8,174 |
-| Fix me up | 11.00% | ~6,917 |
-| Highly cultivated | 10.00% | ~6,288 |
-| It's sow easy | 10.00% | ~6,288 |
-| Rock on | 10.00% | ~6,288 |
-| Giddy-up! | 9.00% | ~5,659 |
+| Own use | 71.00% | ~44,650 |
+| I read Shakespeare and stuff | 59.00% | ~37,104 |
+| Just a sprinkle | 58.00% | ~36,475 |
+| I'm stumped | 56.00% | ~35,217 |
+| Plant get enough | 56.00% | ~35,217 |
+| This is just my weekend vehicle | 54.00% | ~33,960 |
+| It's just the beginning | 54.00% | ~33,960 |
+| Hard work pays off | 49.00% | ~30,815 |
+| It's never too late to farm | 45.00% | ~28,300 |
+| All out of Land | 41.00% | ~25,784 |
+| Field Trip | 40.00% | ~25,155 |
+| I like to switch it up | 37.00% | ~23,269 |
+| Help me to help you | 35.00% | ~22,011 |
+| Ultimutt Pawesomeness | 25.00% | ~15,722 |
+| Van Gogh | 23.00% | ~14,464 |
+| You wood not believe it | 20.00% | ~12,578 |
+| Vehicle fleet | 20.00% | ~12,578 |
+| Well-Oiled Machine | 15.00% | ~9,433 |
+| Clucky Streak | 14.00% | ~8,804 |
+| The plot thickens | 14.00% | ~8,804 |
+| Large-scale supplier | 14.00% | ~8,804 |
+| Long haul | 14.00% | ~8,804 |
+| That's a wrap | 13.00% | ~8,175 |
+| Fix me up | 11.00% | ~6,918 |
+| Highly cultivated | 10.00% | ~6,289 |
+| It's sow easy | 10.00% | ~6,289 |
+| Rock on | 10.00% | ~6,289 |
+| Giddy-up! | 9.00% | ~5,660 |
 | Cowherd | 6.00% | ~3,773 |
 | Fluffyness | 6.00% | ~3,773 |
 | Road Trip | 5.00% | ~3,144 |
 | Helper A does not stop … ever | 5.00% | ~3,144 |
 | Bringing in the Honey | 5.00% | ~3,144 |
-| Three little piggies… | 4.00% | ~2,515 |
-| Game on | 3.00% | ~1,886 |
+| Three little piggies… | 4.00% | ~2,516 |
+| Game on | 3.00% | ~1,887 |
 | Pretty colourful | 0.70% | ~440 |
 | Original grain | 0.70% | ~440 |
 | Gone but not for cotton | 0.50% | ~314 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~252 |
 | Raisin the stakes | 0.30% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,879 (Ranked 119)  
+Progressed: 62,888 (Ranked 119)  
 Completed: 6 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,20 +322,20 @@ Completed: 6 (0.01%) (Ranked 378)
 | 2024-01-14 | 62,687 | 6 |
 | 2024-01-15 | 62,780 | 6 |
 | 2024-01-16 | 62,877 | 6 |
-| 2024-01-17 | 62,879 | 6 |
+| 2024-01-17 | 62,888 | 6 |
 ## Awards
 Max (Great for Beginners): 6,121  (Ranked 67)  
-Sum: 45,728 (Ranked 34)  
+Sum: 45,734 (Ranked 34)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,121 |
 | This game has Diverse Characters | 4,941 |
-| This game is Educational | 4,582 |
+| This game is Educational | 4,585 |
 | This game is Highly Recommended | 4,564 |
 | This game is Relaxing | 4,451 |
 | This game has Quickly Understood Controls | 4,448 |
-| This game is Extremely Fun | 4,395 |
+| This game is Extremely Fun | 4,398 |
 | This game has Amazing Storytelling | 4,277 |
 | This game has Amazing Characters | 4,009 |
 | This game has a Creative Community | 3,940 |
@@ -709,3 +709,4 @@ Diff (max vs sum): 33
 | 2024-01-14 | 4.67 | - | 6,104 | 45,656 |
 | 2024-01-15 | 4.67 | - | 6,114 | 45,700 |
 | 2024-01-16 | 4.67 | - | 6,121 | 45,728 |
+| 2024-01-17 | 4.67 | - | 6,121 | 45,734 |

@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.58 (Ranked 471)  
+Rating: 4.58 (Ranked 472)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,8 +26,8 @@ Rating: 4.58 (Ranked 471)
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
+| Wise man | 16.00% | ~32 |
 | Fence | 16.00% | ~32 |
-| Wise man | 15.00% | ~30 |
 | Ghost hunter | 15.00% | ~30 |
 | Hard worker | 15.00% | ~30 |
 | Pandora's box | 14.00% | ~28 |
@@ -36,10 +36,10 @@ Rating: 4.58 (Ranked 471)
 | Defender | 12.00% | ~24 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
+| Freedom fighter | 9.00% | ~18 |
 | Titan Lord | 9.00% | ~18 |
 | Safecracker | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |
-| Freedom fighter | 8.00% | ~16 |
 | Expert | 7.00% | ~14 |
 | King of the handymen | 7.00% | ~14 |
 | Terror of the hens | 6.00% | ~12 |

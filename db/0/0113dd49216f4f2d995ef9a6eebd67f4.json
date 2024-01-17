@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 322,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1269,6 +1269,11 @@
       "Time": "2024-01-16T09:08:57.1950332+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T01:58:48.8166122+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1289,7 +1294,7 @@
       "Name": "Across The Styx",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1303,9 +1308,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1353,7 +1358,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1375,9 +1380,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1473,7 +1478,7 @@
       "Name": "Snake Charmer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_TALKTOTHEHAND",
@@ -1503,9 +1508,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1576,14 +1581,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:08:52.2454836+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:58:48.8166118+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:45.8053841+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:08:52.2455296+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:49:21.5340147+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:58:48.8166424+00:00"
 }

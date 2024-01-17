@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -103,9 +103,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2358,
+  "EOS_Progressed": 2359,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4678,6 +4678,11 @@
       "Time": "2024-01-16T23:10:07.2583661+00:00",
       "NumProgressed": 2358,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T01:59:47.152715+00:00",
+      "NumProgressed": 2359,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4761,7 +4766,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "ACH_11",
@@ -4791,9 +4796,9 @@
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_15",
@@ -4801,7 +4806,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_16",
@@ -4929,7 +4934,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_33",
@@ -4945,7 +4950,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "ACH_35",
@@ -4976,7 +4981,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2358,
+      "Progressed": 2359,
       "Completed": 4
     }
   ],
@@ -4984,8 +4989,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-14T14:58:40.9169177+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:45.9204056+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:47.1527146+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:42.1648188+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:45.9204429+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:49:17.4365402+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:47.1527712+00:00"
 }

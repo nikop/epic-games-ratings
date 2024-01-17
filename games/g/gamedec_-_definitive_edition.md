@@ -6,17 +6,17 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,829 |
-| Powergamer | 27.00% | ~69,669 |
-| Write that down | 25.00% | ~64,508 |
-| Barely scratched the surface | 25.00% | ~64,508 |
-| Guns, lots of guns | 13.00% | ~33,544 |
+| I will finish what you started | 29.00% | ~74,831 |
+| Powergamer | 27.00% | ~69,670 |
+| Write that down | 25.00% | ~64,509 |
+| Barely scratched the surface | 25.00% | ~64,509 |
+| Guns, lots of guns | 13.00% | ~33,545 |
 | Collector | 12.00% | ~30,964 |
 | Elementary! | 9.00% | ~23,223 |
 | Griever | 8.00% | ~20,643 |
 | Pumpkin Jack | 8.00% | ~20,643 |
 | Wake up! | 8.00% | ~20,643 |
-| It's honest work | 7.00% | ~18,062 |
+| It's honest work | 7.00% | ~18,063 |
 | Me smart | 6.00% | ~15,482 |
 | Trash compactor | 6.00% | ~15,482 |
 | Valedictorian | 6.00% | ~15,482 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~516 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,032 (Ranked 69)  
+Progressed: 258,037 (Ranked 69)  
 Completed: 8 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,14 +331,14 @@ Completed: 8 (0.00%) (Ranked 404)
 | 2024-01-14 | 257,876 | 8 |
 | 2024-01-15 | 257,957 | 8 |
 | 2024-01-16 | 258,031 | 8 |
-| 2024-01-17 | 258,032 | 8 |
+| 2024-01-17 | 258,037 | 8 |
 ## Awards
-Max (Character Customization): 98  (Ranked 387)  
-Sum: 98 (Ranked 474)  
-Diff (max vs sum): -87  
+Max (Character Customization): 99  (Ranked 384)  
+Sum: 99 (Ranked 473)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 98 |
+| This game has Inclusive Character Customization | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -430,3 +430,4 @@ Diff (max vs sum): -87
 | 2023-12-30 | 4.28 | - | 96 | 96 |
 | 2024-01-05 | 4.28 | - | 97 | 97 |
 | 2024-01-07 | 4.28 | - | 98 | 98 |
+| 2024-01-17 | 4.28 | - | 99 | 99 |

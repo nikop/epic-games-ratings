@@ -5,20 +5,20 @@ Rating: 4.55 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 108.00% | ~19,174 |
-| Before the Downfall | 103.00% | ~18,287 |
-| Money like Water | 101.00% | ~17,932 |
-| Minimalist | 99.00% | ~17,576 |
-| Builder | 91.00% | ~16,156 |
-| Eraser | 77.00% | ~13,671 |
-| Pocket of Trains | 72.00% | ~12,783 |
-| Inspector | 65.00% | ~11,540 |
-| Going the Distance | 60.00% | ~10,652 |
-| Oil Baron | 46.00% | ~8,167 |
-| Loads-a-Money | 46.00% | ~8,167 |
-| Helper of the People | 43.00% | ~7,634 |
-| Simplification | 37.00% | ~6,569 |
-| Box of Trains | 37.00% | ~6,569 |
+| Trevithick's Legacy | 108.00% | ~19,172 |
+| Before the Downfall | 103.00% | ~18,285 |
+| Money like Water | 101.00% | ~17,930 |
+| Minimalist | 99.00% | ~17,574 |
+| Builder | 91.00% | ~16,154 |
+| Eraser | 77.00% | ~13,669 |
+| Pocket of Trains | 72.00% | ~12,781 |
+| Inspector | 65.00% | ~11,539 |
+| Going the Distance | 60.00% | ~10,651 |
+| Oil Baron | 46.00% | ~8,166 |
+| Loads-a-Money | 46.00% | ~8,166 |
+| Helper of the People | 43.00% | ~7,633 |
+| Simplification | 37.00% | ~6,568 |
+| Box of Trains | 37.00% | ~6,568 |
 | Let There be Light | 36.00% | ~6,391 |
 | Hot Water | 34.00% | ~6,036 |
 | Indecisive | 32.00% | ~5,681 |
@@ -27,8 +27,8 @@ Rating: 4.55 (Ranked 532)
 | Perfectionist | 26.00% | ~4,616 |
 | 8K is Enough for Everyone | 25.00% | ~4,438 |
 | Trains over Pipes | 25.00% | ~4,438 |
-| Man of Steel | 18.00% | ~3,196 |
-| Room Full of Trains | 14.00% | ~2,486 |
+| Man of Steel | 18.00% | ~3,195 |
+| Room Full of Trains | 14.00% | ~2,485 |
 | Investor | 11.00% | ~1,953 |
 | Multiverse | 8.00% | ~1,420 |
 | The poor groundwater levels | 8.00% | ~1,420 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 532)
 | Overdeer | 0.60% | ~107 |
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,754 (Ranked 166)  
+Progressed: 17,752 (Ranked 166)  
 Completed: 23 (0.13%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,6 +312,7 @@ Completed: 23 (0.13%) (Ranked 304)
 | 2024-01-14 | 17,794 | 23 |
 | 2024-01-15 | 17,777 | 23 |
 | 2024-01-16 | 17,767 | 23 |
+| 2024-01-17 | 17,752 | 23 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 395)  
 Sum: 686 (Ranked 314)  

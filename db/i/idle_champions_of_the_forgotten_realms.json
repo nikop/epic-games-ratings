@@ -5,10 +5,10 @@
   "Ranking_Rating": 1037,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 70,
+  "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9625,10 +9625,10 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254287,
+  "EOS_Progressed": 254306,
   "EOS_Completed": 2621,
-  "EOS_NewPlayers": 1237,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 1235,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40430,6 +40430,11 @@
       "Time": "2024-01-17T00:09:56.3605557+00:00",
       "NumProgressed": 254287,
       "NumCompleted": 2621
+    },
+    {
+      "Time": "2024-01-17T01:59:57.6084261+00:00",
+      "NumProgressed": 254306,
+      "NumCompleted": 2621
     }
   ],
   "TotalAchievements": 546,
@@ -40441,7 +40446,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10171
+      "UsersEstimate": 10172
     },
     {
       "ID": "objective_completed_10",
@@ -40449,7 +40454,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_100",
@@ -41561,7 +41566,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_150",
@@ -41769,7 +41774,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_20",
@@ -42129,7 +42134,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_36",
@@ -42575,9 +42580,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 2034
     },
     {
       "ID": "objective_completed_54",
@@ -42985,7 +42990,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_60",
@@ -44729,7 +44734,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "objective_completed_1558",
@@ -44808,21 +44813,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220561,
+      "Progressed": 220580,
       "Completed": 4151
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254287,
+      "Progressed": 254306,
       "Completed": 2621
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:56.3605556+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:57.6084258+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:08.4341059+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:56.3628992+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:47:34.1051263+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:57.6107302+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2267,9 +2267,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 22470,
+  "EOS_Progressed": 22473,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14147,6 +14147,11 @@
       "Time": "2024-01-17T00:09:26.1207978+00:00",
       "NumProgressed": 22470,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T01:59:25.6906103+00:00",
+      "NumProgressed": 22473,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14182,7 +14187,7 @@
       "Name": "You Need a Gun",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2022
+      "UsersEstimate": 2023
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14190,7 +14195,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14262,7 +14267,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5168
+      "UsersEstimate": 5169
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14278,7 +14283,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14318,7 +14323,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4269
+      "UsersEstimate": 4270
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14326,7 +14331,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14334,7 +14339,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5393
+      "UsersEstimate": 5394
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14350,7 +14355,7 @@
       "Name": "The Outer Way",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14366,7 +14371,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3370
+      "UsersEstimate": 3371
     },
     {
       "ID": "STORY_HANGAR",
@@ -14390,7 +14395,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5842
+      "UsersEstimate": 5843
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14414,7 +14419,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "DISMEMBER_100",
@@ -14533,13 +14538,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22470,
+      "Progressed": 22473,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10396,
+      "Progressed": 10399,
       "Completed": 29
     }
   ],
@@ -14547,8 +14552,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-16T19:03:56.5718553+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:26.1207975+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:25.6906098+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:03:05.1683195+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:26.1208942+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:52:37.7142508+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:25.6907178+00:00"
 }

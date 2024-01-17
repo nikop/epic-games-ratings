@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2016-03-24T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243,
+  "EOS_Progressed": 244,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.53,
+  "EOS_Completed_Percentage": 4.51,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1184,6 +1184,11 @@
       "Time": "2024-01-15T10:08:32.8390477+00:00",
       "NumProgressed": 243,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-17T01:53:00.4522889+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1250,9 +1255,9 @@
       "ID": "Kamzik",
       "SetID": "ag48e8e",
       "Name": "Chamois",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "Kour",
@@ -1274,9 +1279,9 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 139
     },
     {
       "ID": "Kvitky",
@@ -1284,7 +1289,7 @@
       "Name": "Blossoms",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "MluviciPapouch",
@@ -1292,7 +1297,7 @@
       "Name": "Mimicking Parrot",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Myska",
@@ -1338,9 +1343,9 @@
       "ID": "Prstenec",
       "SetID": "ag48e8e",
       "Name": "Cosmic Ring",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "Rybka",
@@ -1348,7 +1353,7 @@
       "Name": "Goldfish",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Sova",
@@ -1394,9 +1399,9 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "Truhlice",
@@ -1435,14 +1440,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:03:23.4616187+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:53:00.4522886+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:02:50.2114711+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:03:23.461643+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:52:20.7591836+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:53:00.4524669+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1729,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5418,9 +5418,9 @@
       "ID": "GSS_ACH_46_ORDER_CARPARTS",
       "SetID": "5fn8ia4",
       "Name": "Need the Car Parts!",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1349
     },
     {
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
@@ -5723,8 +5723,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:04:40.7515673+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:54:24.1330359+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:07.7335688+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:57:44.8989141+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:04:40.7516662+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:47:06.9360971+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:54:24.1331504+00:00"
 }

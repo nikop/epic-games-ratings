@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 470,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "10",
@@ -406,9 +406,9 @@
       "ID": "15",
       "SetID": "38ide56",
       "Name": "Mr. Porter",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "16",
@@ -446,9 +446,9 @@
       "ID": "2",
       "SetID": "38ide56",
       "Name": "Summer Day",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "20",
@@ -470,17 +470,17 @@
       "ID": "22",
       "SetID": "38ide56",
       "Name": "Clear the Road",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "23",
       "SetID": "38ide56",
       "Name": "Never Miss",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "24",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:05:19.2939395+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:55:06.954272+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9792755+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:00:04.0666135+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:05:19.293958+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:49:42.5907675+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:55:06.9542911+00:00"
 }

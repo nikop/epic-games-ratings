@@ -2,13 +2,13 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -29104,6 +29104,6 @@
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
   "LastChanged_Achievements": "2024-01-17T00:05:43.9331503+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:24.9928656+00:00",
+  "LastUpdate_Ratings": "2024-01-17T01:47:51.0628414+00:00",
   "LastUpdate_Achievements": "2024-01-17T00:05:43.9333088+00:00"
 }

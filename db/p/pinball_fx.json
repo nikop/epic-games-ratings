@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2305,9 +2305,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 295734,
+  "EOS_Progressed": 295784,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2121,
+  "EOS_NewPlayers": 2143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33480,6 +33480,11 @@
       "Time": "2024-01-17T00:04:35.9255078+00:00",
       "NumProgressed": 295734,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T01:54:18.9267142+00:00",
+      "NumProgressed": 295784,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -33611,7 +33616,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -33651,7 +33656,7 @@
       "Name": "I Found it!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2957
+      "UsersEstimate": 2958
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -33715,7 +33720,7 @@
       "Name": "Ball Launched",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11829
+      "UsersEstimate": 11831
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -33802,21 +33807,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 295734,
+      "Progressed": 295784,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 13893,
+      "Progressed": 13943,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-16T10:03:20.6406149+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:04:35.9255075+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:54:18.9267138+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.2652437+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:03:08.7738388+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:04:35.9256452+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:52:42.4189533+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:54:18.9268565+00:00"
 }

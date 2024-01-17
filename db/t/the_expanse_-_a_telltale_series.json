@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19085,
+  "EOS_Progressed": 19087,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17584,6 +17584,11 @@
       "Time": "2024-01-17T00:05:21.1965149+00:00",
       "NumProgressed": 19085,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T01:55:09.1773982+00:00",
+      "NumProgressed": 19087,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17628,7 +17633,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "14",
@@ -17740,7 +17745,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "27",
@@ -17852,7 +17857,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "34",
@@ -17875,13 +17880,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19085,
+      "Progressed": 19087,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5039,
+      "Progressed": 5041,
       "Completed": 1333
     }
   ],
@@ -17889,8 +17894,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:05:21.1965147+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:55:09.1773977+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:08.3302349+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:05:21.1966007+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:48:40.2720072+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:55:09.1774808+00:00"
 }

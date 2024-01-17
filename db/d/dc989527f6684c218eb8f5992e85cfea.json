@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15618,
+  "EOS_Progressed": 15620,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
@@ -19246,6 +19246,11 @@
       "Time": "2024-01-17T00:03:12.7091133+00:00",
       "NumProgressed": 15618,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T01:52:48.7828238+00:00",
+      "NumProgressed": 15620,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19329,7 +19334,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6872
+      "UsersEstimate": 6873
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -19345,7 +19350,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -19449,14 +19454,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2812
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15618,
+      "Progressed": 15620,
       "Completed": 0
     }
   ],
@@ -19464,8 +19469,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:03:12.709112+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:52:48.7828234+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.4408266+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:02:25.5925875+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:03:12.7092509+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:51:52.1653908+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:52:48.7829506+00:00"
 }

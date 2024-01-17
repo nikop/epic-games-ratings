@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 796,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.04,
   "EosHistory": [
@@ -3470,9 +3470,9 @@
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 430
     },
     {
       "ID": "KingDiamond",
@@ -3645,8 +3645,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:06:09.2030295+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:57:41.8649025+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:57:15.9081972+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:06:09.2030726+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:46:35.5242328+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:57:41.864945+00:00"
 }

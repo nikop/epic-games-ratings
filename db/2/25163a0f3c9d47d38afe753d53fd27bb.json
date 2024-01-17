@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 327,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1764,
+  "EOS_Progressed": 1765,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.37,
   "EosHistory": [
@@ -4444,6 +4444,11 @@
       "Time": "2024-01-16T22:11:31.3495466+00:00",
       "NumProgressed": 1764,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-17T01:59:43.3092596+00:00",
+      "NumProgressed": 1765,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4455,7 +4460,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "LEVEL_002",
@@ -4471,7 +4476,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "LEVEL_004",
@@ -4511,7 +4516,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "LEVEL_009",
@@ -4519,7 +4524,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "LEVEL_010",
@@ -4527,7 +4532,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "LEVEL_011",
@@ -4637,9 +4642,9 @@
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 159
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_025",
@@ -4655,7 +4660,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_027",
@@ -4663,7 +4668,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_028",
@@ -4671,7 +4676,7 @@
       "Name": "What is the country?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_029",
@@ -4679,7 +4684,7 @@
       "Name": "Bridges connect us",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_030",
@@ -4694,14 +4699,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1764,
+      "Progressed": 1765,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:42.4013893+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:43.3092586+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:36.4074619+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:42.401421+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:49:10.6511064+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:43.3093102+00:00"
 }

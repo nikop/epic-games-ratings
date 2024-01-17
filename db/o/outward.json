@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4795,
+  "EOS_Progressed": 4796,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8449,6 +8449,11 @@
       "Time": "2024-01-17T00:03:52.7136424+00:00",
       "NumProgressed": 4795,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T01:53:32.4712411+00:00",
+      "NumProgressed": 4796,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8530,9 +8535,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1007
+      "UsersEstimate": 959
     },
     {
       "ID": "ForAllAurai_8",
@@ -8652,7 +8657,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8676,7 +8681,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "Tapped_22",
@@ -8684,7 +8689,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8716,7 +8721,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -8780,7 +8785,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3500
+      "UsersEstimate": 3501
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8795,15 +8800,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4795,
+      "Progressed": 4796,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:03:52.7136418+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:53:32.4712407+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:02:51.7865907+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:03:52.7137207+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:52:22.5219199+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:53:32.4713346+00:00"
 }

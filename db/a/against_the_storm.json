@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3903,10 +3903,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3387,
       "NumberOfAwardsMax": 453
+    },
+    {
+      "Time": "2024-01-17T01:47:28.1615358+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3389,
+      "NumberOfAwardsMax": 453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3387,
+  "NumberOfAwards": 3389,
   "NumberOfAwardsMax": 453,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3968,12 +3974,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 349
+      "Count": 351
     }
   ],
-  "EOS_Progressed": 20830,
+  "EOS_Progressed": 20832,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19806,6 +19812,11 @@
       "Time": "2024-01-17T00:08:10.424424+00:00",
       "NumProgressed": 20830,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-17T01:58:03.8963527+00:00",
+      "NumProgressed": 20832,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20098,7 +20109,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "WinOnMoorlands",
@@ -20144,9 +20155,9 @@
       "ID": "WinWithBlight",
       "SetID": "cfbk359",
       "Name": "Blood Flower Farmer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 125
     },
     {
       "ID": "WinWithEvents",
@@ -20240,9 +20251,9 @@
       "ID": "WinNearLibrary",
       "SetID": "cfbk359",
       "Name": "Overgrown Library",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 2083
     },
     {
       "ID": "WinNearPetrified",
@@ -20289,15 +20300,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20830,
+      "Progressed": 20832,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-16T02:58:11.5224402+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:08:10.4244236+00:00",
+  "LastChanged": "2024-01-17T01:47:28.1615356+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:58:03.8963523+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:03.3563888+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:08:10.4245699+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:47:28.1615362+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:58:03.8964586+00:00"
 }

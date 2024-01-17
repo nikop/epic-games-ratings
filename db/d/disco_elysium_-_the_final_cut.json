@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 368,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1700,9 +1700,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139426,
+  "EOS_Progressed": 139429,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 951,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28815,6 +28815,11 @@
       "Time": "2024-01-17T00:08:31.7496391+00:00",
       "NumProgressed": 139426,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-17T01:58:27.1307255+00:00",
+      "NumProgressed": 139429,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28882,7 +28887,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32068
+      "UsersEstimate": 32069
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28906,7 +28911,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39039
+      "UsersEstimate": 39040
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -28930,7 +28935,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22308
+      "UsersEstimate": 22309
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -28938,7 +28943,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27885
+      "UsersEstimate": 27886
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -28954,7 +28959,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18125
+      "UsersEstimate": 18126
     },
     {
       "ID": "ACH_COP_STAR",
@@ -28986,7 +28991,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12548
+      "UsersEstimate": 12549
     },
     {
       "ID": "ACH_GLUTEN",
@@ -29145,15 +29150,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139426,
+      "Progressed": 139429,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-16T21:59:44.1602287+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:08:31.749639+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:58:27.1307252+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:40.3579521+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:08:31.7498148+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:48:08.0594704+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:58:27.1309+00:00"
 }

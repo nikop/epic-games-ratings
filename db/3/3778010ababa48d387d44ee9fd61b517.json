@@ -4,8 +4,8 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -922,9 +922,9 @@
       "ID": "A_WASP",
       "SetID": "324h56e",
       "Name": "Splat",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "A_WORKER",
@@ -953,8 +953,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:05:27.184531+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:55:15.7448934+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:43.8545928+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:05:27.1845601+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:48:12.0302752+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:55:15.7449364+00:00"
 }

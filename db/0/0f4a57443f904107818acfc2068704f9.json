@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1306,
+  "EOS_Progressed": 1307,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3427,6 +3427,11 @@
       "Time": "2024-01-16T14:04:55.8292596+00:00",
       "NumProgressed": 1306,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T01:53:28.2449809+00:00",
+      "NumProgressed": 1307,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3495,7 +3500,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "CompleteChapter10",
@@ -3559,7 +3564,7 @@
       "Name": "Fool\u0027s Errand",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CompleteChapter17NoIdenDeath",
@@ -3573,9 +3578,9 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 91
     },
     {
       "ID": "CompleteChapter2",
@@ -3687,7 +3692,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3734,14 +3739,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1306,
+      "Progressed": 1307,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:03:48.7491426+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:53:28.2449806+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:58:56.1597204+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:03:48.749178+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:48:26.1281796+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:53:28.2450466+00:00"
 }

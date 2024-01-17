@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.80% | ~135 |
 | Landowners | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
+| Circus Maximus | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
 | Pantheon | 0.80% | ~135 |
 | Via Recta Souk | 0.80% | ~135 |
@@ -100,10 +101,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.80% | ~135 |
 | Capable | 0.70% | ~119 |
 | Conqueror | 0.70% | ~119 |
+| Invincible | 0.70% | ~119 |
 | Ready | 0.70% | ~119 |
 | Subjugator | 0.70% | ~119 |
 | Riders | 0.70% | ~119 |
-| Circus Maximus | 0.70% | ~119 |
 | Learn to Play 4 | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.70% | ~119 |
 | Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
-| Invincible | 0.60% | ~102 |
 | Lion | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Strong Difficulty | 0.60% | ~102 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,929 (Ranked 169)  
+Progressed: 16,930 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,929 | 5 |
+| 2024-01-17 | 16,930 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,933 (Ranked 223)  

@@ -6,49 +6,49 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~32,989 |
-| The Evilest Evil | 58.00% | ~27,334 |
-| Twistram is devastated | 58.00% | ~27,334 |
-| The Gehenna Stones | 49.00% | ~23,092 |
-| No one has to die today! | 46.00% | ~21,678 |
-| Death and destruction! | 46.00% | ~21,678 |
-| The Swamplanders from the swamplands | 43.00% | ~20,265 |
-| Rusty Steel | 41.00% | ~19,322 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,851 |
-| Braiiiiins! | 38.00% | ~17,908 |
-| The last burger | 37.00% | ~17,437 |
-| Hands off the Dungeonheart! | 36.00% | ~16,966 |
-| A trip on sea, what fun it can be | 34.00% | ~16,023 |
-| Damned good | 32.00% | ~15,081 |
-| Stock Market Crash | 31.00% | ~14,609 |
-| Factory farming | 31.00% | ~14,609 |
-| Shadow hunter | 29.00% | ~13,667 |
-| Not-So-Overproud | 29.00% | ~13,667 |
+| The Shadow strikes | 70.00% | ~32,991 |
+| The Evilest Evil | 58.00% | ~27,335 |
+| Twistram is devastated | 58.00% | ~27,335 |
+| The Gehenna Stones | 49.00% | ~23,094 |
+| No one has to die today! | 46.00% | ~21,680 |
+| Death and destruction! | 46.00% | ~21,680 |
+| The Swamplanders from the swamplands | 43.00% | ~20,266 |
+| Rusty Steel | 41.00% | ~19,323 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,852 |
+| Braiiiiins! | 38.00% | ~17,909 |
+| The last burger | 37.00% | ~17,438 |
+| Hands off the Dungeonheart! | 36.00% | ~16,967 |
+| A trip on sea, what fun it can be | 34.00% | ~16,024 |
+| Damned good | 32.00% | ~15,082 |
+| Stock Market Crash | 31.00% | ~14,610 |
+| Factory farming | 31.00% | ~14,610 |
+| Shadow hunter | 29.00% | ~13,668 |
+| Not-So-Overproud | 29.00% | ~13,668 |
 | For a handfull of Catapults | 28.00% | ~13,196 |
-| Thirst quencher | 27.00% | ~12,724 |
-| Ogre Solo! | 27.00% | ~12,724 |
-| Destroy the thing | 26.00% | ~12,253 |
-| Tide Master | 26.00% | ~12,253 |
+| Thirst quencher | 27.00% | ~12,725 |
+| Ogre Solo! | 27.00% | ~12,725 |
+| Destroy the thing | 26.00% | ~12,254 |
+| Tide Master | 26.00% | ~12,254 |
 | Difficult family relationships | 25.00% | ~11,782 |
-| MASS-O-BOT | 24.00% | ~11,310 |
-| Prepare the grave | 24.00% | ~11,310 |
-| Angel of Fire | 24.00% | ~11,310 |
-| Where there is Light, there is Shadow | 23.00% | ~10,839 |
-| At the foot of Mount Destiny | 22.00% | ~10,368 |
+| MASS-O-BOT | 24.00% | ~11,311 |
+| Prepare the grave | 24.00% | ~11,311 |
+| Angel of Fire | 24.00% | ~11,311 |
+| Where there is Light, there is Shadow | 23.00% | ~10,840 |
+| At the foot of Mount Destiny | 22.00% | ~10,369 |
 | The Force disturbed | 21.00% | ~9,897 |
-| The Victorious Evil | 20.00% | ~9,425 |
-| Chorus of damnation | 19.00% | ~8,954 |
-| We don’t have time! | 19.00% | ~8,954 |
+| The Victorious Evil | 20.00% | ~9,426 |
+| Chorus of damnation | 19.00% | ~8,955 |
+| We don’t have time! | 19.00% | ~8,955 |
 | The Stones’ Power | 18.00% | ~8,483 |
 | Flat as a pancake | 17.00% | ~8,012 |
 | Lifeguard | 17.00% | ~8,012 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~7,069 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~5,655 |
-| Then let them eat cake! | 12.00% | ~5,655 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~7,070 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~5,656 |
+| Then let them eat cake! | 12.00% | ~5,656 |
 | The White Knight | 10.00% | ~4,713 |
 | Please, no interruptions! | 10.00% | ~4,713 |
-| Use the terrain | 9.00% | ~4,241 |
-| Prison Break | 9.00% | ~4,241 |
+| Use the terrain | 9.00% | ~4,242 |
+| Prison Break | 9.00% | ~4,242 |
 | Hearts of Iron | 8.00% | ~3,770 |
 | Master of Traps | 8.00% | ~3,770 |
 | Ignore The Level Designer’s Plan | 8.00% | ~3,770 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~943 |
 | Sacrifices! | 2.00% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,127 (Ranked 128)  
+Progressed: 47,130 (Ranked 128)  
 Completed: 373 (0.79%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,6 +339,7 @@ Completed: 373 (0.79%) (Ranked 195)
 | 2024-01-14 | 46,945 | 373 |
 | 2024-01-15 | 47,044 | 373 |
 | 2024-01-16 | 47,127 | 373 |
+| 2024-01-17 | 47,130 | 373 |
 ## Awards
 Max (Great for Beginners): 399  (Ranked 243)  
 Sum: 2,853 (Ranked 191)  

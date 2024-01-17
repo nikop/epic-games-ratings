@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 89,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -839,9 +839,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18399,
+  "EOS_Progressed": 18401,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -16239,6 +16239,11 @@
       "Time": "2024-01-16T23:06:04.0764639+00:00",
       "NumProgressed": 18399,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T01:57:22.3923524+00:00",
+      "NumProgressed": 18401,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -16250,7 +16255,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16743
+      "UsersEstimate": 16745
     },
     {
       "ID": "ACH_02",
@@ -16258,7 +16263,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 13983
+      "UsersEstimate": 13985
     },
     {
       "ID": "ACH_03",
@@ -16266,7 +16271,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 12879
+      "UsersEstimate": 12881
     },
     {
       "ID": "ACH_04",
@@ -16274,7 +16279,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 12143
+      "UsersEstimate": 12145
     },
     {
       "ID": "ACH_05",
@@ -16282,7 +16287,7 @@
       "Name": "In our Wake",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 11775
+      "UsersEstimate": 11777
     },
     {
       "ID": "ACH_06",
@@ -16290,7 +16295,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 11223
+      "UsersEstimate": 11225
     },
     {
       "ID": "ACH_07",
@@ -16298,7 +16303,7 @@
       "Name": "Felons",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 10671
+      "UsersEstimate": 10673
     },
     {
       "ID": "ACH_08",
@@ -16306,7 +16311,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 10487
+      "UsersEstimate": 10489
     },
     {
       "ID": "ACH_09",
@@ -16314,7 +16319,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 9751
+      "UsersEstimate": 9753
     },
     {
       "ID": "ACH_10",
@@ -16466,7 +16471,7 @@
       "Name": "Alchemist",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 11959
+      "UsersEstimate": 11961
     },
     {
       "ID": "ACH_29",
@@ -16529,7 +16534,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18399,
+      "Progressed": 18401,
       "Completed": 66
     }
   ],
@@ -16537,8 +16542,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-14T11:02:38.12957+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:05:51.9081845+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:57:22.392352+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.7609626+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:57:31.1624442+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:05:51.9082707+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:46:51.2532296+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:57:22.3924618+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4961,9 +4961,9 @@
       "Count": 409
     }
   ],
-  "EOS_Progressed": 13298,
+  "EOS_Progressed": 13299,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19861,6 +19861,11 @@
       "Time": "2024-01-16T19:11:30.4548341+00:00",
       "NumProgressed": 13298,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T01:59:53.7344965+00:00",
+      "NumProgressed": 13299,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19872,7 +19877,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3723
+      "UsersEstimate": 3724
     },
     {
       "ID": "02_BurningCity",
@@ -20799,21 +20804,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12080,
+      "Progressed": 12081,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13298,
+      "Progressed": 13299,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-16T19:02:06.5971865+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:52.2920796+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:53.7344961+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-17T00:00:21.0846099+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:52.2922681+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:51:48.6647531+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:53.7346568+00:00"
 }

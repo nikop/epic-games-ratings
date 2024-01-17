@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 659,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,7 +866,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6377,
+  "EOS_Progressed": 6378,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -13371,6 +13371,11 @@
       "Time": "2024-01-17T00:05:39.4395847+00:00",
       "NumProgressed": 6377,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T01:55:29.6083433+00:00",
+      "NumProgressed": 6378,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13383,7 +13388,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13566,15 +13571,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6377,
+      "Progressed": 6378,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:05:39.4395844+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:55:29.6083428+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
   "LastUpdate_Ratings": "2024-01-17T00:00:07.28337+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:05:39.4396571+00:00"
+  "LastUpdate_Achievements": "2024-01-17T01:55:29.6084415+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -735,9 +735,9 @@
       "ID": "achievement_berserk",
       "SetID": "bngbnfb",
       "Name": "Berserker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -775,9 +775,9 @@
       "ID": "achievement_egoist",
       "SetID": "bngbnfb",
       "Name": "Egomaniac",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_feng_is_my_choise",
@@ -1007,9 +1007,9 @@
       "ID": "achievement_thorn_alive",
       "SetID": "bngbnfb",
       "Name": "Thorn\u0027s alive!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_thorn_is_my_choise",
@@ -1086,8 +1086,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:12.4128329+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:10.7431197+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:10.9159831+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:59.976716+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:12.4128669+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:49:38.1382324+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:10.743172+00:00"
 }

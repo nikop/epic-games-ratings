@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,171 |
+| A Brief Tour of the Realms | 4.00% | ~10,172 |
 | Beast Intentions | 2.00% | ~5,086 |
 | The Cursed Farmer | 2.00% | ~5,086 |
 | The Mad Wizard | 2.00% | ~5,086 |
@@ -14,17 +14,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.90% | ~2,289 |
 | Were-verpowered | 0.80% | ~2,034 |
 | Seeking Allies | 0.80% | ~2,034 |
+| Mad Cow Disease | 0.80% | ~2,034 |
 | Friendly Imps | 0.80% | ~2,034 |
-| Welcome to Sigil | 0.80% | ~1,764 |
-| Mad Cow Disease | 0.70% | ~1,780 |
+| Welcome to Sigil | 0.80% | ~1,765 |
 | Pure Energy | 0.70% | ~1,780 |
 | Fast Food | 0.70% | ~1,544 |
 | A Persistent Buzzing | 0.60% | ~1,526 |
-| Maddening | 0.50% | ~1,271 |
-| Terror in the Dark | 0.50% | ~1,271 |
-| Unearthed Evil | 0.50% | ~1,271 |
-| The Crumbling Temple | 0.50% | ~1,271 |
-| The Contagious Curse | 0.50% | ~1,271 |
+| Maddening | 0.50% | ~1,272 |
+| Terror in the Dark | 0.50% | ~1,272 |
+| Unearthed Evil | 0.50% | ~1,272 |
+| The Crumbling Temple | 0.50% | ~1,272 |
+| The Contagious Curse | 0.50% | ~1,272 |
 | The Overgrown Grove | 0.50% | ~1,103 |
 | When Tentacles Attack | 0.50% | ~1,103 |
 | Flames of Avernus | 0.50% | ~1,103 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,287 (Ranked 70)  
+Progressed: 254,306 (Ranked 71)  
 Completed: 2,621 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,621 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,287 | 2,621 |
+| 2024-01-17 | 254,306 | 2,621 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

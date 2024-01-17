@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 159,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1475,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4468,8 +4468,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-17T00:09:53.1412212+00:00",
+  "LastChanged_Achievements": "2024-01-17T01:59:54.332215+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:59:13.4956679+00:00",
-  "LastUpdate_Achievements": "2024-01-17T00:09:53.1412806+00:00"
+  "LastUpdate_Ratings": "2024-01-17T01:48:46.1409661+00:00",
+  "LastUpdate_Achievements": "2024-01-17T01:59:54.3322983+00:00"
 }
