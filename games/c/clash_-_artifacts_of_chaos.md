@@ -11,7 +11,7 @@
 | Enemies of Fate | 32.00% | ~52 |
 | Your Training Continues | 30.00% | ~49 |
 | Armored | 29.00% | ~48 |
-| Amokuali Tower | 26.00% | ~43 |
+| Amokuali Tower | 27.00% | ~44 |
 | Freedom | 25.00% | ~41 |
 | Winner | 23.00% | ~38 |
 | The Pride of Moozhaw | 21.00% | ~34 |

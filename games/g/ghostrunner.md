@@ -6,41 +6,41 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~462,255 |
-| Sword Runner | 24.00% | ~277,353 |
-| Running out of breath | 19.00% | ~219,571 |
-| Wallrunner | 18.00% | ~208,015 |
-| I call it luck | 14.00% | ~161,789 |
-| Out of order | 12.00% | ~138,677 |
-| Homerunner | 11.00% | ~127,120 |
-| Back to hell | 9.00% | ~104,007 |
-| Running Wild | 9.00% | ~104,007 |
-| Where are my Keys? | 9.00% | ~104,007 |
-| Sword to a gunfight | 8.00% | ~92,451 |
-| Perfection | 7.00% | ~80,895 |
-| Artificial selection | 6.00% | ~69,338 |
-| Finish line | 6.00% | ~69,338 |
-| Control freak | 6.00% | ~69,338 |
-| Upgrades not mandatory | 6.00% | ~69,338 |
-| Why not both | 6.00% | ~69,338 |
-| Unstoppable force | 5.00% | ~57,782 |
-| Dead in the air | 4.00% | ~46,226 |
-| Wave of mutilation | 4.00% | ~46,226 |
-| Can't Run Can't Hide | 3.00% | ~34,669 |
-| Improvise, adapt, overrun | 2.00% | ~23,113 |
-| Pre-empative strike | 2.00% | ~23,113 |
-| R is for Running | 2.00% | ~23,113 |
-| Strike | 2.00% | ~23,113 |
-| Triple A | 2.00% | ~23,113 |
-| More than human | 1.00% | ~11,556 |
-| Push it to the limit | 0.80% | ~9,245 |
-| Fine addition | 0.60% | ~6,934 |
-| About Adam | 0.40% | ~4,623 |
-| Hit me if you can | 0.20% | ~2,311 |
-| Junkrunner | 0.20% | ~2,311 |
-| One man's trash | 0.20% | ~2,311 |
-| One Of Those Days | 0.20% | ~2,311 |
-| Where He Stood | 0.20% | ~2,311 |
+| Longrunner | 40.00% | ~462,402 |
+| Sword Runner | 24.00% | ~277,441 |
+| Running out of breath | 19.00% | ~219,641 |
+| Wallrunner | 18.00% | ~208,081 |
+| I call it luck | 14.00% | ~161,841 |
+| Out of order | 12.00% | ~138,720 |
+| Homerunner | 11.00% | ~127,160 |
+| Back to hell | 9.00% | ~104,040 |
+| Running Wild | 9.00% | ~104,040 |
+| Where are my Keys? | 9.00% | ~104,040 |
+| Sword to a gunfight | 8.00% | ~92,480 |
+| Perfection | 7.00% | ~80,920 |
+| Artificial selection | 6.00% | ~69,360 |
+| Finish line | 6.00% | ~69,360 |
+| Control freak | 6.00% | ~69,360 |
+| Upgrades not mandatory | 6.00% | ~69,360 |
+| Why not both | 6.00% | ~69,360 |
+| Unstoppable force | 5.00% | ~57,800 |
+| Dead in the air | 4.00% | ~46,240 |
+| Wave of mutilation | 4.00% | ~46,240 |
+| Can't Run Can't Hide | 3.00% | ~34,680 |
+| Improvise, adapt, overrun | 2.00% | ~23,120 |
+| Pre-empative strike | 2.00% | ~23,120 |
+| R is for Running | 2.00% | ~23,120 |
+| Strike | 2.00% | ~23,120 |
+| Triple A | 2.00% | ~23,120 |
+| More than human | 1.00% | ~11,560 |
+| Push it to the limit | 0.80% | ~9,248 |
+| Fine addition | 0.60% | ~6,936 |
+| About Adam | 0.40% | ~4,624 |
+| Hit me if you can | 0.20% | ~2,312 |
+| Junkrunner | 0.20% | ~2,312 |
+| One man's trash | 0.20% | ~2,312 |
+| One Of Those Days | 0.20% | ~2,312 |
+| Where He Stood | 0.20% | ~2,312 |
 | A Grade | 0.10% | ~1,156 |
 | Everyone Needs A Hobby | 0.10% | ~1,156 |
 | GR Project Complete | 0.10% | ~1,156 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,156 |
 | Up Close And Personal | 0.10% | ~1,156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,155,638 (Ranked 14)  
+Progressed: 1,156,004 (Ranked 14)  
 Completed: 228 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,16 +324,16 @@ Completed: 228 (0.02%) (Ranked 368)
 | 2024-01-14 | 1,133,737 | 220 |
 | 2024-01-15 | 1,144,294 | 224 |
 | 2024-01-16 | 1,154,083 | 228 |
-| 2024-01-17 | 1,155,638 | 228 |
+| 2024-01-17 | 1,156,004 | 228 |
 ## Awards
 Max (Great Boss Battles): 1,489  (Ranked 140)  
-Sum: 1,821 (Ranked 225)  
+Sum: 1,822 (Ranked 225)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,489 |
 | This game has Diverse Characters | 51 |
-| This game has Quickly Understood Controls | 50 |
+| This game has Quickly Understood Controls | 51 |
 | This game is Extremely Fun | 46 |
 | This game has a Creative Community | 42 |
 | This game has Amazing Characters | 38 |
@@ -548,3 +548,4 @@ Diff (max vs sum): -85
 | 2024-01-14 | 4.60 | - | 1,408 | 1,723 |
 | 2024-01-15 | 4.59 | - | 1,443 | 1,771 |
 | 2024-01-16 | 4.59 | - | 1,489 | 1,821 |
+| 2024-01-17 | 4.59 | - | 1,489 | 1,822 |

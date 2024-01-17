@@ -24,7 +24,7 @@ Rating: 3.96 (Ranked 1,064)
 | True Player | 1.00% | ~935 |
 | I Like Trains | 0.80% | ~748 |
 | Freebooter | 0.80% | ~748 |
-| Foo Finder | 0.70% | ~654 |
+| Foo Finder | 0.70% | ~655 |
 | Legend Looter | 0.60% | ~561 |
 | Imports and Exports | 0.60% | ~561 |
 | Savvy Seeker | 0.60% | ~561 |
@@ -36,10 +36,10 @@ Rating: 3.96 (Ranked 1,064)
 | Groundhog Days | 0.40% | ~374 |
 | Cracked the Jack | 0.40% | ~374 |
 | Classy Joint | 0.40% | ~374 |
-| Rockay Knight | 0.30% | ~280 |
-| Privateer | 0.30% | ~280 |
-| Red Star | 0.30% | ~280 |
-| Impossible Dreamer | 0.30% | ~280 |
+| Rockay Knight | 0.30% | ~281 |
+| Privateer | 0.30% | ~281 |
+| Red Star | 0.30% | ~281 |
+| Impossible Dreamer | 0.30% | ~281 |
 | All for One | 0.30% | ~66 |
 | Now You See Me | 0.30% | ~66 |
 | Talent Scout | 0.20% | ~187 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,064)
 | Full House | 0.10% | ~94 |
 | Geek Out | 0.10% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,500 (Ranked 104)  
+Progressed: 93,501 (Ranked 104)  
 Completed: 59 (0.06%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 59 (0.06%) (Ranked 336)
 | 2024-01-14 | 93,479 | 59 |
 | 2024-01-15 | 93,483 | 59 |
 | 2024-01-16 | 93,498 | 59 |
-| 2024-01-17 | 93,500 | 59 |
+| 2024-01-17 | 93,501 | 59 |
 ## Awards
 Max (Diverse Characters): 600  (Ranked 210)  
 Sum: 2,846 (Ranked 192)  

@@ -10592,9 +10592,9 @@
       "ID": "PRODUCE_HYBRIDFLOWER",
       "SetID": "9eia0f5",
       "Name": "Botanical Breakthrough",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 182
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -10727,8 +10727,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:10:21.5050642+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:10:21.7908859+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:03:17.5640645+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:10:21.5051293+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:03:38.2153956+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:10:21.7909692+00:00"
 }

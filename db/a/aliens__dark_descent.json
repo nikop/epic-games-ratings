@@ -10124,9 +10124,9 @@
       "ID": "ACH_MAX_GUNNER",
       "SetID": "816efe",
       "Name": "El Riesgo Siempre Vive",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1358
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -10341,8 +10341,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:05:46.2064736+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:06:10.6223792+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:58:44.1155075+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:05:46.2065528+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:58:56.1393207+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:06:10.6224467+00:00"
 }

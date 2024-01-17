@@ -14481,9 +14481,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 500298,
+  "EOS_Progressed": 500314,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4358,
+  "EOS_NewPlayers": 4363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45856,6 +45856,11 @@
       "Time": "2024-01-17T05:10:29.0321504+00:00",
       "NumProgressed": 500298,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T06:10:29.4817987+00:00",
+      "NumProgressed": 500314,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -48147,7 +48152,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48770,21 +48775,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 500298,
+      "Progressed": 500314,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 500298,
+      "Progressed": 500314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-17T01:46:19.5612343+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:10:29.03215+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:10:29.4817984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:57:14.7328087+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:10:29.0333355+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:57:30.0719916+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:10:29.4828651+00:00"
 }

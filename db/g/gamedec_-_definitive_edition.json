@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258049,
+  "EOS_Progressed": 258050,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31017,6 +31017,11 @@
       "Time": "2024-01-17T05:08:27.1934385+00:00",
       "NumProgressed": 258049,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T06:06:39.8882482+00:00",
+      "NumProgressed": 258050,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31028,7 +31033,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69673
+      "UsersEstimate": 69674
     },
     {
       "ID": "ACH_AON",
@@ -31100,7 +31105,7 @@
       "Name": "Hoarder",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7741
+      "UsersEstimate": 7742
     },
     {
       "ID": "ACH_HERCULESBEPROUD",
@@ -31148,7 +31153,7 @@
       "Name": "I like to sniff around",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7741
+      "UsersEstimate": 7742
     },
     {
       "ID": "ACH_IRONDEC",
@@ -31300,7 +31305,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18063
+      "UsersEstimate": 18064
     },
     {
       "ID": "ACH_MEMESMART",
@@ -31324,7 +31329,7 @@
       "Name": "Mind reader",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7741
+      "UsersEstimate": 7742
     },
     {
       "ID": "ACH_NOSTRINGS",
@@ -31443,7 +31448,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258049,
+      "Progressed": 258050,
       "Completed": 8
     }
   ],
@@ -31451,8 +31456,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:08:27.1934382+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:06:39.8882479+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:02:47.1176538+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:08:27.1935935+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:03:06.1594988+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:06:39.8885105+00:00"
 }

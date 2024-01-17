@@ -18,12 +18,12 @@ Rating: 4.64 (Ranked 344)
 | Clear the Air | 2.00% | ~182 |
 | Lumberjack | 2.00% | ~182 |
 | Oui, Chef! | 2.00% | ~182 |
+| Botanical Breakthrough | 2.00% | ~182 |
 | Exit Through The Gift Shop | 2.00% | ~34 |
 | Search for the Hairy Grell | 1.00% | ~91 |
 | Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
 | Higher Tax Bracket | 1.00% | ~91 |
-| Botanical Breakthrough | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
 | Rumble in the Jumble | 0.90% | ~82 |

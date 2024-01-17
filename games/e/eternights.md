@@ -22,7 +22,7 @@ Rating: 4.72 (Ranked 194)
 | Sia's Promise | 17.00% | ~155 |
 | Truebro | 17.00% | ~155 |
 | Romantic | 13.00% | ~119 |
-| TentacleMAN | 8.00% | ~73 |
+| TentacleMAN | 9.00% | ~82 |
 | Flawless | 5.00% | ~46 |
 | Yohan's Promise | 4.00% | ~36 |
 | Plushyboy | 4.00% | ~36 |

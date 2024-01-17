@@ -5,25 +5,25 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 28.00% | ~6,293 |
+| The Outer Way | 28.00% | ~6,294 |
 | Flesh Wound | 27.00% | ~6,069 |
 | Desperate Times | 26.00% | ~5,844 |
-| Paper Jams | 24.00% | ~5,394 |
-| Get a Grip | 23.00% | ~5,169 |
+| Paper Jams | 24.00% | ~5,395 |
+| Get a Grip | 23.00% | ~5,170 |
 | Chew 'Em Up | 21.00% | ~4,720 |
-| Reforged | 20.00% | ~4,495 |
-| Float Like A Butterfly | 19.00% | ~4,270 |
+| Reforged | 20.00% | ~4,496 |
+| Float Like A Butterfly | 19.00% | ~4,271 |
 | If the SHU Fits... | 18.00% | ~4,046 |
 | Workplace Hazard | 17.00% | ~3,821 |
-| Without A Paddle | 15.00% | ~3,371 |
+| Without A Paddle | 15.00% | ~3,372 |
 | In the Pipe, Five by Five | 13.00% | ~2,922 |
 | Crash Site | 13.00% | ~2,922 |
 | Two Heads Are Better Than One | 12.00% | ~2,697 |
 | Power Up | 12.00% | ~2,697 |
-| Giving Back | 11.00% | ~2,472 |
-| Terminated | 11.00% | ~2,472 |
-| What Lies Beneath | 11.00% | ~2,472 |
-| Full Circle | 11.00% | ~2,472 |
+| Giving Back | 11.00% | ~2,473 |
+| Terminated | 11.00% | ~2,473 |
+| What Lies Beneath | 11.00% | ~2,473 |
+| Full Circle | 11.00% | ~2,473 |
 | You Need a Gun | 9.00% | ~2,023 |
 | I Do Belong Here | 8.00% | ~1,798 |
 | Keep Fighting | 8.00% | ~832 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,476 (Ranked 151)  
+Progressed: 22,478 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 82 (0.36%) (Ranked 250)
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
-| 2024-01-17 | 22,476 | 82 |
+| 2024-01-17 | 22,478 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 345)  
 Sum: 658 (Ranked 318)  

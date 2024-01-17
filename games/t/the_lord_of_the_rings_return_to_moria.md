@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~316,111 |
-| Delving Onward | 68.00% | ~262,141 |
-| Miner's Helper | 59.00% | ~227,446 |
-| Suit Up | 54.00% | ~208,171 |
-| To the Mountain's Roots | 49.00% | ~188,895 |
-| Remains To Be Seen | 34.00% | ~131,070 |
-| Covered Head to Toe | 33.00% | ~127,215 |
-| Line of Azog, Ended | 31.00% | ~119,505 |
-| Risk a Little Real Light | 31.00% | ~119,505 |
-| Caradhras The Cruel | 18.00% | ~69,390 |
-| A Memory of this Place | 18.00% | ~69,390 |
-| False King, Deposed | 14.00% | ~53,970 |
-| Baruk Khazâd! | 13.00% | ~50,115 |
-| Battering Ram | 13.00% | ~50,115 |
+| Speak Friend | 82.00% | ~316,114 |
+| Delving Onward | 68.00% | ~262,143 |
+| Miner's Helper | 59.00% | ~227,448 |
+| Suit Up | 54.00% | ~208,173 |
+| To the Mountain's Roots | 49.00% | ~188,897 |
+| Remains To Be Seen | 34.00% | ~131,072 |
+| Covered Head to Toe | 33.00% | ~127,217 |
+| Line of Azog, Ended | 31.00% | ~119,507 |
+| Risk a Little Real Light | 31.00% | ~119,507 |
+| Caradhras The Cruel | 18.00% | ~69,391 |
+| A Memory of this Place | 18.00% | ~69,391 |
+| False King, Deposed | 14.00% | ~53,971 |
+| Baruk Khazâd! | 13.00% | ~50,116 |
+| Battering Ram | 13.00% | ~50,116 |
 | Shadow's Bane | 10.00% | ~38,550 |
 | Westgate Weaponcraft | 9.00% | ~34,695 |
 | Deeps Weaponcraft | 8.00% | ~30,840 |
@@ -33,8 +33,8 @@ Rating: 4.43 (Ranked 730)
 | Shielded | 1.00% | ~3,855 |
 | We're Gonna Need More Mugs | 0.20% | ~771 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,501 (Ranked 54)  
-Completed: 359 (0.09%) (Ranked 324)  
+Progressed: 385,505 (Ranked 54)  
+Completed: 360 (0.09%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,7 +123,7 @@ Completed: 359 (0.09%) (Ranked 324)
 | 2024-01-14 | 384,172 | 345 |
 | 2024-01-15 | 384,824 | 350 |
 | 2024-01-16 | 385,383 | 356 |
-| 2024-01-17 | 385,501 | 359 |
+| 2024-01-17 | 385,505 | 360 |
 ## Awards
 Max (Great for Beginners): 955  (Ranked 169)  
 Sum: 5,494 (Ranked 143)  

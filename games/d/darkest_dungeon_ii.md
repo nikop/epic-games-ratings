@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.60% | ~798 |
 | Eidetic | 0.60% | ~798 |
 | On This Long Road, We Found Redemption | 0.60% | ~47 |
-| Battle Hardened | 0.50% | ~39 |
+| Battle Hardened | 0.50% | ~40 |
 | Tears in the Rain | 0.40% | ~532 |
 | Maître De La Lame | 0.40% | ~32 |
 | Circle of Life | 0.30% | ~399 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,030 (Ranked 92)  
+Progressed: 133,031 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,030 | 5 |
+| 2024-01-17 | 133,031 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 51)  
 Sum: 21,694 (Ranked 58)  

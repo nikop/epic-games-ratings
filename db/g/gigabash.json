@@ -345,9 +345,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 123849,
+  "EOS_Progressed": 123863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3322,
+  "EOS_NewPlayers": 3314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4885,6 +4885,11 @@
       "Time": "2024-01-17T05:05:05.4699776+00:00",
       "NumProgressed": 123849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T06:05:29.6027972+00:00",
+      "NumProgressed": 123863,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -4897,7 +4902,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -4929,7 +4934,7 @@
       "Name": "Cautious Veteran",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -4961,7 +4966,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13623
+      "UsersEstimate": 13625
     },
     {
       "ID": "ACH_GROWNUP",
@@ -4969,7 +4974,7 @@
       "Name": "All Grown Up!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 23531
+      "UsersEstimate": 23534
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -4985,7 +4990,7 @@
       "Name": "Katamari",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_KONGKRETE",
@@ -4993,7 +4998,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18577
+      "UsersEstimate": 18579
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5009,7 +5014,7 @@
       "Name": "Martyrdom",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_MASTER_OF_DISGUISE",
@@ -5017,7 +5022,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "ACH_MAYHEM",
@@ -5049,7 +5054,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9908
+      "UsersEstimate": 9909
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5065,7 +5070,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11146
+      "UsersEstimate": 11148
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5105,7 +5110,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3715
+      "UsersEstimate": 3716
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -5121,7 +5126,7 @@
       "Name": "A New Age",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6192
+      "UsersEstimate": 6193
     },
     {
       "ID": "ACH_TOP_OF_THE_FOOD_CHAIN",
@@ -5161,7 +5166,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7431
+      "UsersEstimate": 7432
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -5176,7 +5181,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 123849,
+      "Progressed": 123863,
       "Completed": 0
     }
   ],
@@ -5184,8 +5189,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-16T14:58:57.6815817+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:05:05.4699771+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:05:29.6027969+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.8930893+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:59:08.1612894+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:05:05.4700313+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:59:19.2257009+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:05:29.6028438+00:00"
 }

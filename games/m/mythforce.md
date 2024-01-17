@@ -11,7 +11,7 @@ Number of Ratings: 285  (23.09.2022)
 | Perk Shard Punch Card | 26.00% | ~1,658 |
 | That'll Leave a Mark | 26.00% | ~1,658 |
 | Debuff Dogpile | 25.00% | ~1,594 |
-| Mushroom Madness! | 23.00% | ~1,467 |
+| Mushroom Madness! | 24.00% | ~1,531 |
 | First Strike | 22.00% | ~1,403 |
 | Spending Spree | 19.00% | ~1,212 |
 | Horder Better Faster Stronger | 18.00% | ~1,148 |

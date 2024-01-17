@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5601,9 +5601,9 @@
       "Count": 541
     }
   ],
-  "EOS_Progressed": 93500,
+  "EOS_Progressed": 93501,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31596,6 +31596,11 @@
       "Time": "2024-01-17T03:04:26.2315737+00:00",
       "NumProgressed": 93500,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-17T06:04:44.1661271+00:00",
+      "NumProgressed": 93501,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31671,7 +31676,7 @@
       "Name": "Rockay Knight",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_0030",
@@ -31695,7 +31700,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_0060",
@@ -31711,7 +31716,7 @@
       "Name": "Privateer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_0100",
@@ -31807,7 +31812,7 @@
       "Name": "Red Star",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_0350",
@@ -31887,7 +31892,7 @@
       "Name": "Impossible Dreamer",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_0600",
@@ -31934,13 +31939,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93500,
+      "Progressed": 93501,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21847,
+      "Progressed": 21848,
       "Completed": 15601
     }
   ],
@@ -31948,8 +31953,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-16T22:59:50.0418989+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:04:19.7388762+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:04:44.1661268+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:00:03.8358443+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:04:19.739+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:00:15.1409558+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:04:44.1662795+00:00"
 }

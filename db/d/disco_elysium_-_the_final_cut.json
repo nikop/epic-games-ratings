@@ -1700,9 +1700,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139438,
+  "EOS_Progressed": 139440,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 927,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28840,6 +28840,11 @@
       "Time": "2024-01-17T05:09:06.8477058+00:00",
       "NumProgressed": 139438,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-17T06:09:08.7315964+00:00",
+      "NumProgressed": 139440,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29011,7 +29016,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12549
+      "UsersEstimate": 12550
     },
     {
       "ID": "ACH_GLUTEN",
@@ -29067,7 +29072,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19521
+      "UsersEstimate": 19522
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -29131,7 +29136,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19521
+      "UsersEstimate": 19522
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -29170,15 +29175,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139438,
+      "Progressed": 139440,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-16T21:59:44.1602287+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:09:06.8477054+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:09:08.731596+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:58:54.9078451+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:09:06.8478417+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:59:05.8725966+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:09:08.7317912+00:00"
 }

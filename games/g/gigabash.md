@@ -5,24 +5,24 @@ Rating: 4.52 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 19.00% | ~23,531 |
-| I've Had Enough! | 15.00% | ~18,577 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,623 |
-| Seasoned Fighter | 9.00% | ~11,146 |
-| All For One and One For All | 8.00% | ~9,908 |
-| Home Sweet Home? | 6.00% | ~7,431 |
-| A New Age | 5.00% | ~6,192 |
-| Oh Baby, A Triple | 3.00% | ~3,715 |
-| Master of Disguise | 3.00% | ~3,715 |
-| Symbiotic | 3.00% | ~3,715 |
+| All Grown Up! | 19.00% | ~23,534 |
+| I've Had Enough! | 15.00% | ~18,579 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,625 |
+| Seasoned Fighter | 9.00% | ~11,148 |
+| All For One and One For All | 8.00% | ~9,909 |
+| Home Sweet Home? | 6.00% | ~7,432 |
+| A New Age | 5.00% | ~6,193 |
+| Oh Baby, A Triple | 3.00% | ~3,716 |
+| Master of Disguise | 3.00% | ~3,716 |
+| Symbiotic | 3.00% | ~3,716 |
 | Battle Hardened | 2.00% | ~2,477 |
 | Double Punch! | 2.00% | ~2,477 |
 | It's Mayhem! | 2.00% | ~2,477 |
 | Right back at'cha | 2.00% | ~2,477 |
 | Spectacular Finisher | 2.00% | ~2,477 |
-| Cautious Veteran | 1.00% | ~1,238 |
-| Katamari | 1.00% | ~1,238 |
-| Martyrdom | 1.00% | ~1,238 |
+| Cautious Veteran | 1.00% | ~1,239 |
+| Katamari | 1.00% | ~1,239 |
+| Martyrdom | 1.00% | ~1,239 |
 | Ninja Reflex | 0.90% | ~1,115 |
 | Zero-sum Game | 0.90% | ~1,115 |
 | Taste Your Own Medicine | 0.70% | ~867 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 580)
 | What's Mine is Yours | 0.10% | ~124 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,849 (Ranked 94)  
+Progressed: 123,863 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 122,954 | 0 |
 | 2024-01-15 | 123,364 | 0 |
 | 2024-01-16 | 123,753 | 0 |
-| 2024-01-17 | 123,849 | 0 |
+| 2024-01-17 | 123,863 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 442)  
 Sum: 57 (Ranked 506)  

@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able | 3.00% | ~508 |
 | Architect | 3.00% | ~508 |
 | Enlightened | 3.00% | ~508 |
+| Glorious | 3.00% | ~508 |
 | Good | 3.00% | ~508 |
 | Just | 3.00% | ~508 |
 | Keystone | 3.00% | ~508 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 2.00% | ~339 |
 | Brilliant | 2.00% | ~339 |
 | Fountainhead | 2.00% | ~339 |
-| Glorious | 2.00% | ~339 |
 | Great | 2.00% | ~339 |
 | Magnificent | 2.00% | ~339 |
 | Warrior | 2.00% | ~339 |

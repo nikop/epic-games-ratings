@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2318,7 +2318,7 @@
   ],
   "EOS_Progressed": 16934,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 600,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20753,9 +20753,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_GLORIOUS",
       "SetID": "7l38kb8",
       "Name": "Glorious",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_GOOD",
@@ -23183,8 +23183,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T02:27:25.2024436+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:10:28.7108516+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:10:28.7747646+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:00:33.6642119+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:10:28.7118286+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:03:03.6841244+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:10:28.7757853+00:00"
 }

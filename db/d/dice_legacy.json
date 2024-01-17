@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1343,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2939,6 +2939,11 @@
       "Time": "2024-01-16T19:06:05.1759729+00:00",
       "NumProgressed": 1343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T06:05:22.749298+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -3060,9 +3065,9 @@
       "ID": "DIE_ASCEND",
       "SetID": "6ohhfoc",
       "Name": "Ascended",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "DIE_FORGE_CUSTOM",
@@ -3174,15 +3179,15 @@
       "Name": "We made it",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
       "SetID": "6ohhfoc",
       "Name": "Listening to the crowd",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "TRIPLE_FAIR",
@@ -3309,7 +3314,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1343,
+      "Progressed": 1344,
       "Completed": 0
     }
   ],
@@ -3317,8 +3322,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:04:58.533531+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:05:22.7492976+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:53.4031601+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:03:06.1552529+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:04:58.5335808+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:03:27.3695373+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:05:22.7493606+00:00"
 }

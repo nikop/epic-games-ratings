@@ -17,12 +17,12 @@ Number of Ratings: 85  (23.09.2022)
 | Lobster Blisque | 53.00% | ~271 |
 | Fly Me to the Moon Base | 52.00% | ~266 |
 | Earthly Pleasures | 48.00% | ~245 |
-| Ducks in a Row, Fish in a Barrel | 47.00% | ~240 |
+| Ducks in a Row, Fish in a Barrel | 48.00% | ~245 |
 | Bodied Sattva | 38.00% | ~194 |
 | Forbidden Donut | 37.00% | ~189 |
 | Freshly Squeezed | 37.00% | ~189 |
 | Upgreatest | 36.00% | ~184 |
-| Furon Fashion | 30.00% | ~153 |
+| Furon Fashion | 31.00% | ~158 |
 | Deincarnated | 29.00% | ~148 |
 | Rock of the Bay | 28.00% | ~143 |
 | Trans-Siberian Express | 26.00% | ~133 |

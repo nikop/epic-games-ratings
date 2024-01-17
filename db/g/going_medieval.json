@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 425,
   "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 271,
+  "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 199,
@@ -1703,9 +1703,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 7982,
+  "EOS_Progressed": 7983,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16948,6 +16948,11 @@
       "Time": "2024-01-17T01:54:29.7355111+00:00",
       "NumProgressed": 7982,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-17T06:05:25.8801724+00:00",
+      "NumProgressed": 7983,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -16959,7 +16964,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6066
+      "UsersEstimate": 6067
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -16967,7 +16972,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -16999,7 +17004,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6146
+      "UsersEstimate": 6147
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17007,7 +17012,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17063,7 +17068,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "KILL_RAIDER",
@@ -17071,7 +17076,7 @@
       "Name": "Retribution",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -17095,7 +17100,7 @@
       "Name": "Fit For A King",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -17103,7 +17108,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17119,7 +17124,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5587
+      "UsersEstimate": 5588
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17127,7 +17132,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 3432
+      "UsersEstimate": 3433
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -17143,7 +17148,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -17199,22 +17204,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7982,
+      "Progressed": 7983,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-16T08:58:01.0714787+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:05:01.5507707+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:05:25.880172+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:58:26.5821126+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:05:01.5508446+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:58:36.7120656+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:05:25.8802648+00:00"
 }

@@ -21,7 +21,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | The Open Range | 37.00% | ~159,266 |
 | Adira's Love | 34.00% | ~146,353 |
 | Adira's Fear | 33.00% | ~142,048 |
-| Weigh Them Down | 31.00% | ~133,440 |
+| Weigh Them Down | 32.00% | ~137,744 |
 | Adira's Regret | 31.00% | ~133,440 |
 | A Heavy Hammer | 30.00% | ~129,135 |
 | Quick Draw | 30.00% | ~129,135 |

@@ -7,16 +7,16 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~27,170 |
-| A thief's beginning | 11.00% | ~24,905 |
-| Thorough | 11.00% | ~24,905 |
-| Disguised | 9.00% | ~20,377 |
-| Rescue Takuma | 9.00% | ~20,377 |
-| Rollin' | 9.00% | ~20,377 |
-| Tanuki Time | 9.00% | ~20,377 |
-| Ice Ice Yuki | 8.00% | ~18,113 |
-| Jonin | 8.00% | ~18,113 |
-| Stoned Ox | 8.00% | ~18,113 |
-| Yabu | 8.00% | ~18,113 |
+| A thief's beginning | 11.00% | ~24,906 |
+| Thorough | 11.00% | ~24,906 |
+| Disguised | 9.00% | ~20,378 |
+| Rescue Takuma | 9.00% | ~20,378 |
+| Rollin' | 9.00% | ~20,378 |
+| Tanuki Time | 9.00% | ~20,378 |
+| Ice Ice Yuki | 8.00% | ~18,114 |
+| Jonin | 8.00% | ~18,114 |
+| Stoned Ox | 8.00% | ~18,114 |
+| Yabu | 8.00% | ~18,114 |
 | Happy Planning | 7.00% | ~15,849 |
 | Mugen Unchained | 7.00% | ~15,849 |
 | Chunin | 6.00% | ~13,585 |
@@ -30,8 +30,8 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 4.00% | ~9,057 |
 | Still Rollin' | 4.00% | ~9,057 |
 | Stoned | 4.00% | ~9,057 |
-| It's raining men | 3.00% | ~6,792 |
-| The Old Way | 3.00% | ~6,792 |
+| It's raining men | 3.00% | ~6,793 |
+| The Old Way | 3.00% | ~6,793 |
 | Atheist Ox | 2.00% | ~4,528 |
 | No Gimmicks | 2.00% | ~4,528 |
 | Old Man | 2.00% | ~4,528 |
@@ -42,7 +42,7 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 1.00% | ~2,264 |
 | High Five the Moon | 0.90% | ~2,038 |
 | The Cave | 0.90% | ~2,038 |
-| Time Paradox | 0.60% | ~1,358 |
+| Time Paradox | 0.60% | ~1,359 |
 | Merciful | 0.50% | ~1,132 |
 | Five Shadows | 0.40% | ~906 |
 | Complete Mastery | 0.20% | ~453 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,413 (Ranked 80)  
+Progressed: 226,419 (Ranked 80)  
 Completed: 107 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 107 (0.05%) (Ranked 343)
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
 | 2024-01-16 | 226,388 | 107 |
-| 2024-01-17 | 226,413 | 107 |
+| 2024-01-17 | 226,419 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 213)  
 Sum: 4,962 (Ranked 153)  

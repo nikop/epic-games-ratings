@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,173 |
+| A Brief Tour of the Realms | 4.00% | ~10,174 |
 | Beast Intentions | 2.00% | ~5,087 |
 | The Cursed Farmer | 2.00% | ~5,087 |
 | The Mad Wizard | 2.00% | ~5,087 |
@@ -65,6 +65,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Captured! | 0.20% | ~509 |
 | Street War | 0.20% | ~509 |
 | Wisdom Check | 0.20% | ~509 |
+| A Grand Puzzle | 0.20% | ~509 |
 | The Mists of Ravenloft | 0.20% | ~509 |
 | Family Entanglements | 0.20% | ~509 |
 | The Botched Kidnapping | 0.20% | ~509 |
@@ -226,7 +227,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vajra's Guards | 0.10% | ~254 |
 | Sleuth It Out | 0.10% | ~254 |
 | The Newcomers of Notoriety | 0.10% | ~221 |
-| A Grand Puzzle | 0.10% | ~254 |
 | Never Split the Party | 0.10% | ~254 |
 | Azaka's Procession - Part 1 | 0.10% | ~254 |
 | Snakes on our Plane | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,331 (Ranked 71)  
+Progressed: 254,339 (Ranked 71)  
 Completed: 2,622 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,622 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,331 | 2,622 |
+| 2024-01-17 | 254,339 | 2,622 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -721,7 +721,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12373,
+  "EOS_Progressed": 12374,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 7,
@@ -15951,6 +15951,11 @@
       "Time": "2024-01-17T04:03:51.2552303+00:00",
       "NumProgressed": 12373,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-17T06:03:47.8235365+00:00",
+      "NumProgressed": 12374,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15986,7 +15991,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4825
+      "UsersEstimate": 4826
     },
     {
       "ID": "ACH05",
@@ -16146,7 +16151,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACH25",
@@ -16193,7 +16198,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12373,
+      "Progressed": 12374,
       "Completed": 91
     }
   ],
@@ -16201,8 +16206,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:03:24.3767174+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:03:47.8235362+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:57:38.1524599+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:03:24.3768031+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:57:51.5820644+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:03:47.823672+00:00"
 }

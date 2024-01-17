@@ -6,16 +6,16 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,695 |
-| He's Signed! | 50.00% | ~239,695 |
-| First Victory | 50.00% | ~239,695 |
-| He's Sold! | 48.00% | ~230,107 |
+| Clean Sheet | 50.00% | ~239,696 |
+| He's Signed! | 50.00% | ~239,696 |
+| First Victory | 50.00% | ~239,696 |
+| He's Sold! | 48.00% | ~230,108 |
 | I'm The Boss! | 42.00% | ~201,344 |
 | Hat-trick | 41.00% | ~196,550 |
-| Scoring Streak | 38.00% | ~182,168 |
-| Unbeatable! | 37.00% | ~177,374 |
-| Thumping | 37.00% | ~177,374 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,786 |
+| Scoring Streak | 38.00% | ~182,169 |
+| Unbeatable! | 37.00% | ~177,375 |
+| Thumping | 37.00% | ~177,375 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,787 |
 | Total Support | 32.00% | ~153,405 |
 | Record Signing | 32.00% | ~153,405 |
 | He's a Natural | 31.00% | ~148,611 |
@@ -25,11 +25,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Shrewd Spender | 29.00% | ~139,023 |
 | Star Man | 29.00% | ~139,023 |
 | Attack! | 28.00% | ~134,229 |
-| You're On Fire | 27.00% | ~129,435 |
-| Tremendous Trio | 27.00% | ~129,435 |
-| Record Sale | 27.00% | ~129,435 |
-| On A Roll | 26.00% | ~124,641 |
-| Unstoppable Force | 26.00% | ~124,641 |
+| You're On Fire | 27.00% | ~129,436 |
+| Tremendous Trio | 27.00% | ~129,436 |
+| Record Sale | 27.00% | ~129,436 |
+| On A Roll | 26.00% | ~124,642 |
+| Unstoppable Force | 26.00% | ~124,642 |
 | Armchair Expert | 25.00% | ~119,848 |
 | Fantastic Five | 24.00% | ~115,054 |
 | Full Faith | 24.00% | ~115,054 |
@@ -46,11 +46,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Do The Double | 19.00% | ~91,084 |
 | Top Form | 17.00% | ~81,496 |
 | Cash To Burn | 17.00% | ~81,496 |
-| Beating Expectations | 16.00% | ~76,702 |
-| Overachiever! | 16.00% | ~76,702 |
-| Rushed signing | 16.00% | ~76,702 |
-| Eyes and Ears | 15.00% | ~71,908 |
-| Window Shopping | 15.00% | ~71,908 |
+| Beating Expectations | 16.00% | ~76,703 |
+| Overachiever! | 16.00% | ~76,703 |
+| Rushed signing | 16.00% | ~76,703 |
+| Eyes and Ears | 15.00% | ~71,909 |
+| Window Shopping | 15.00% | ~71,909 |
 | Comeback King! | 14.00% | ~67,115 |
 | You're Up! | 13.00% | ~62,321 |
 | Money, Money, Money | 12.00% | ~57,527 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,390 (Ranked 44)  
+Progressed: 479,391 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,10 +377,10 @@ Completed: 22 (0.00%) (Ranked 404)
 | 2024-01-14 | 479,304 | 22 |
 | 2024-01-15 | 479,342 | 22 |
 | 2024-01-16 | 479,383 | 22 |
-| 2024-01-17 | 479,390 | 22 |
+| 2024-01-17 | 479,391 | 22 |
 ## Awards
 Max (Relaxing): 6,497  (Ranked 63)  
-Sum: 51,269 (Ranked 31)  
+Sum: 51,270 (Ranked 31)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -390,7 +390,7 @@ Diff (max vs sum): 32
 | This game is Highly Recommended | 5,933 |
 | This game has Quickly Understood Controls | 5,916 |
 | This game is Educational | 5,906 |
-| This game has Diverse Characters | 5,637 |
+| This game has Diverse Characters | 5,638 |
 | This game has Amazing Storytelling | 4,947 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,406 |
@@ -747,3 +747,4 @@ Diff (max vs sum): 32
 | 2024-01-14 | 4.80 | - | 6,497 | 51,258 |
 | 2024-01-15 | 4.80 | - | 6,497 | 51,262 |
 | 2024-01-16 | 4.80 | - | 6,497 | 51,269 |
+| 2024-01-17 | 4.80 | - | 6,497 | 51,270 |

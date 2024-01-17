@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4570,
+  "EOS_Progressed": 4571,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12792,6 +12792,11 @@
       "Time": "2024-01-17T05:05:46.1996492+00:00",
       "NumProgressed": 4570,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T06:06:10.499904+00:00",
+      "NumProgressed": 4571,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12851,7 +12856,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "cauldronliberator",
@@ -12883,7 +12888,7 @@
       "Name": "Crystal Mining",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "dailyquestcompletionist",
@@ -12955,7 +12960,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "enhancedwarmachines",
@@ -12987,7 +12992,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "fourleafclover",
@@ -13035,7 +13040,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1005
+      "UsersEstimate": 1006
     },
     {
       "ID": "herewegoagain",
@@ -13059,7 +13064,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "hunter",
@@ -13099,7 +13104,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "lockandload",
@@ -13107,7 +13112,7 @@
       "Name": "Lock And Load",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "masterenchanter",
@@ -13147,7 +13152,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "movinguptheladder",
@@ -13195,7 +13200,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "prestigiousx10",
@@ -13219,7 +13224,7 @@
       "Name": "Sailor",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "scientist",
@@ -13259,7 +13264,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2559
+      "UsersEstimate": 2560
     },
     {
       "ID": "thealchemist",
@@ -13363,7 +13368,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4250
+      "UsersEstimate": 4251
     },
     {
       "ID": "warmachinesarmy",
@@ -13402,7 +13407,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4570,
+      "Progressed": 4571,
       "Completed": 2
     }
   ],
@@ -13410,8 +13415,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-16T05:57:17.3089904+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:05:46.1996489+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:06:10.4999036+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:57:35.9863034+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:05:46.1997583+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:57:49.234521+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:06:10.5000317+00:00"
 }

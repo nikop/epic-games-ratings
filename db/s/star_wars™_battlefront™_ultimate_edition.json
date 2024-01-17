@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3000,
+  "EOS_Progressed": 3001,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8149,6 +8149,11 @@
       "Time": "2024-01-17T04:10:40.599555+00:00",
       "NumProgressed": 3000,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T06:10:25.3709925+00:00",
+      "NumProgressed": 3001,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8191,9 +8196,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_14",
@@ -8385,7 +8390,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2581
     },
     {
       "ID": "achievement_36",
@@ -8401,7 +8406,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "achievement_38",
@@ -8433,7 +8438,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "achievement_41",
@@ -8447,9 +8452,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_43",
@@ -8647,9 +8652,9 @@
       "ID": "achievement_8",
       "SetID": "271ol84",
       "Name": "Don\u0027t underestimate the Force",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_9",
@@ -8664,13 +8669,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3000,
+      "Progressed": 3001,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3000,
+      "Progressed": 3001,
       "Completed": 1
     }
   ],
@@ -8678,8 +8683,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:10:25.2618394+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:10:25.3709922+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:58:30.5973571+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:10:25.2619372+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:58:40.0583958+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:10:25.3710934+00:00"
 }

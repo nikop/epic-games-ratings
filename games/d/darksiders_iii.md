@@ -26,15 +26,15 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 37.00% | ~231 |
 | I Wanna Rock | 35.00% | ~218 |
 | Delusions of Grandeur | 35.00% | ~218 |
+| Maximum Vigor | 34.00% | ~212 |
 | Love Tap | 34.00% | ~212 |
-| Maximum Vigor | 33.00% | ~206 |
 | Freeze Frame | 31.00% | ~193 |
 | Eat Your Heart Out | 31.00% | ~193 |
 | For Whom the Bell Tolls | 30.00% | ~187 |
 | Unyielding Strength | 27.00% | ~168 |
 | Can you restore the Balance? | 27.00% | ~168 |
 | Crowd Source | 27.00% | ~168 |
-| Big Spender | 26.00% | ~162 |
+| Big Spender | 27.00% | ~168 |
 | Cleanup Crew | 25.00% | ~156 |
 | Seeing Red | 25.00% | ~156 |
 | Demon Meddler | 24.00% | ~150 |
@@ -47,9 +47,9 @@ Number of Ratings: 116  (23.09.2022)
 | A Parting Gift | 14.00% | ~87 |
 | Take it to the Limit | 14.00% | ~87 |
 | Unbreakable Will | 13.00% | ~81 |
+| Holy Keeper | 12.00% | ~75 |
 | Demon Keeper | 12.00% | ~75 |
-| Holy Keeper | 11.00% | ~69 |
-| Humanitarian | 9.00% | ~56 |
+| Humanitarian | 10.00% | ~62 |
 | Soul Reaper | 8.00% | ~50 |
 | Made of Sterner Stuff | 7.00% | ~44 |
 | My Evil Twin | 6.00% | ~37 |

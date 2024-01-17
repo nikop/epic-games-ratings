@@ -905,9 +905,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 243812,
+  "EOS_Progressed": 243814,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1401,
+  "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21550,6 +21550,11 @@
       "Time": "2024-01-17T05:10:15.093708+00:00",
       "NumProgressed": 243812,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T06:10:15.1109897+00:00",
+      "NumProgressed": 243814,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21594,7 +21599,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -21642,7 +21647,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9752
+      "UsersEstimate": 9753
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -21818,7 +21823,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60953
+      "UsersEstimate": 60954
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21833,7 +21838,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 243812,
+      "Progressed": 243814,
       "Completed": 0
     }
   ],
@@ -21841,8 +21846,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:10:15.0937078+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:10:15.1109894+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:58:49.593828+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:10:15.0938466+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:59:01.3025378+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:10:15.1111229+00:00"
 }

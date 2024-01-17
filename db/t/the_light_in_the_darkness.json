@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2898,
+  "EOS_Progressed": 2899,
   "EOS_Completed": 270,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 9.32,
+  "EOS_Completed_Percentage": 9.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8476,6 +8476,11 @@
       "Time": "2024-01-17T05:09:28.9287665+00:00",
       "NumProgressed": 2898,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2024-01-17T06:09:30.5958729+00:00",
+      "NumProgressed": 2899,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 12,
@@ -8519,7 +8524,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "Jakob",
@@ -8551,7 +8556,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8567,7 +8572,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "Nuremberg Laws",
@@ -8582,7 +8587,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2898,
+      "Progressed": 2899,
       "Completed": 270
     }
   ],
@@ -8590,8 +8595,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:09:28.9287662+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:09:30.5958726+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:13.5521392+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:58:38.6277614+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:09:28.9288163+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:58:49.0917293+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:09:30.595937+00:00"
 }

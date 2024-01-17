@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs-legion",
   "Ranking_Rating": 814,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-10-29T15:00:00+00:00",
@@ -3860,6 +3860,6 @@
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
   "LastChanged": "2024-01-16T05:57:39.4688687+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:29.7367516+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:57:57.4195865+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:09:27.389474+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:58:10.1943291+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:09:29.0019563+00:00"
 }

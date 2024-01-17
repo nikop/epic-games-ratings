@@ -4,7 +4,7 @@
   "ProductSlug": "backpack-hero-449c5e",
   "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 560,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-14T18:00:00+00:00",
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-11-16T10:58:07.1046411+00:00",
   "FirstSeenAchievements": "2023-11-14T19:03:04.5661186+00:00",
-  "LastChanged_Achievements": "2024-01-17T05:04:12.7602952+00:00",
+  "LastChanged_Achievements": "2024-01-17T06:04:37.0860428+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.1482126+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:59:14.0952414+00:00",
-  "LastUpdate_Achievements": "2024-01-17T05:04:12.7603268+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:59:24.3689636+00:00",
+  "LastUpdate_Achievements": "2024-01-17T06:04:37.0860678+00:00"
 }
