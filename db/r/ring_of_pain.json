@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243093,
+  "EOS_Progressed": 243098,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32114,6 +32114,11 @@
       "Time": "2024-01-17T07:10:32.8010605+00:00",
       "NumProgressed": 243093,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-17T09:10:19.0659999+00:00",
+      "NumProgressed": 243098,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -32811,9 +32816,9 @@
       "ID": "POISONEDTWICEIN1TURN",
       "SetID": "5l8oe0h",
       "Name": "Acid Bath",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1459
+      "UsersEstimate": 1702
     },
     {
       "ID": "POISONSELF20",
@@ -33221,20 +33226,20 @@
       "Name": "Matching",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243093,
+      "Progressed": 243098,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4573,
+      "Progressed": 4578,
       "Completed": 428
     }
   ],
@@ -33242,8 +33247,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:52.3217166+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:10:19.0659995+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:26.7196531+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:52.32202+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:08.497594+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:10:19.0662637+00:00"
 }

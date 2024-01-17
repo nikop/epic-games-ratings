@@ -1700,9 +1700,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139445,
+  "EOS_Progressed": 139448,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 921,
+  "EOS_NewPlayers": 917,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28855,6 +28855,11 @@
       "Time": "2024-01-17T08:09:31.4219375+00:00",
       "NumProgressed": 139445,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-17T09:08:57.4493899+00:00",
+      "NumProgressed": 139448,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28898,7 +28903,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25100
+      "UsersEstimate": 25101
     },
     {
       "ID": "ACH_COP_BAD",
@@ -28922,7 +28927,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32072
+      "UsersEstimate": 32073
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -28970,7 +28975,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22311
+      "UsersEstimate": 22312
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -28978,7 +28983,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27889
+      "UsersEstimate": 27890
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29082,7 +29087,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19522
+      "UsersEstimate": 19523
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -29146,7 +29151,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19522
+      "UsersEstimate": 19523
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -29185,15 +29190,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139445,
+      "Progressed": 139448,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-16T21:59:44.1602287+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:09:31.4219371+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:08:57.4493896+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:59:21.6636671+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:09:31.4221124+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:59:02.9069942+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:08:57.4495226+00:00"
 }

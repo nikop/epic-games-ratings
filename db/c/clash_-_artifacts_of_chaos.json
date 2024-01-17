@@ -594,9 +594,9 @@
       "ID": "Achievement12",
       "SetID": "jf6ho5",
       "Name": "Your Training Is Complete",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Achievement13",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:41.004444+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:10:07.6411017+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:57:31.919606+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:41.0044629+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:57:15.7191892+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:10:07.6411159+00:00"
 }

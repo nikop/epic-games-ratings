@@ -22,9 +22,9 @@
 | Homeless | 29.00% | ~40 |
 | Hard Rock | 29.00% | ~40 |
 | Big badaboom! | 28.00% | ~39 |
+| Bookworm | 25.00% | ~34 |
 | Payback | 25.00% | ~34 |
 | Nokron tower | 24.00% | ~33 |
-| Bookworm | 24.00% | ~33 |
 | Full power | 22.00% | ~30 |
 | "Ah sh*t... Here we go again!" | 22.00% | ~30 |
 | Magnitude 5 | 22.00% | ~30 |

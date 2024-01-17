@@ -6,7 +6,7 @@ Rating: 4.29 (Ranked 884)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 87.00% | ~190 |
-| Bullseye! | 83.00% | ~181 |
+| Bullseye! | 84.00% | ~183 |
 | Graduation! | 81.00% | ~177 |
 | Villfir Forest | 72.00% | ~157 |
 | Right in the kisser! | 56.00% | ~122 |
@@ -18,7 +18,7 @@ Rating: 4.29 (Ranked 884)
 | The Tunneler | 38.00% | ~83 |
 | The Shield | 35.00% | ~76 |
 | Level Up!! | 34.00% | ~74 |
-| Kill-streak | 28.00% | ~61 |
+| Kill-streak | 29.00% | ~63 |
 | Topped up | 28.00% | ~61 |
 | The Bird | 26.00% | ~57 |
 | The Ninja | 25.00% | ~54 |

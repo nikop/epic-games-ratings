@@ -21,7 +21,7 @@
 | Corwid Hill | 11.00% | ~18 |
 | Total Eclipse | 9.00% | ~15 |
 | Dreamwalker | 9.00% | ~15 |
-| Your Training Is Complete | 6.00% | ~10 |
+| Your Training Is Complete | 7.00% | ~11 |
 | Red in Tooth and Claw | 6.00% | ~10 |
 | Vivid Dreams | 2.00% | ~3 |
 | Broken Reflection | 1.00% | ~2 |

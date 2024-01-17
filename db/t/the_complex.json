@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 847,
+  "EOS_Progressed": 848,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.6,
+  "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1925,6 +1925,11 @@
       "Time": "2024-01-17T01:59:23.2942605+00:00",
       "NumProgressed": 847,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-17T09:09:49.4502956+00:00",
+      "NumProgressed": 848,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1936,7 +1941,7 @@
       "Name": "Beat It",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "blast_from_the_past",
@@ -1992,7 +1997,7 @@
       "Name": "Lab Rat",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ending_6",
@@ -2040,7 +2045,7 @@
       "Name": "Kamikaze",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "kindar_surprise",
@@ -2080,7 +2085,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "tough_decision",
@@ -2088,14 +2093,14 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 847,
+      "Progressed": 848,
       "Completed": 22
     }
   ],
@@ -2103,8 +2108,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:22.6248864+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:09:49.4502951+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.2781267+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:03:32.282982+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:22.6249114+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:03:00.517517+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:09:49.4503164+00:00"
 }

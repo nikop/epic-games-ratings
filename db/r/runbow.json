@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253541,
+  "EOS_Progressed": 253542,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24312,6 +24312,11 @@
       "Time": "2024-01-17T07:10:18.6118775+00:00",
       "NumProgressed": 253541,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-17T09:10:04.7615583+00:00",
+      "NumProgressed": 253542,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24371,7 +24376,7 @@
       "Name": "Butt Butt",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15212
+      "UsersEstimate": 15213
     },
     {
       "ID": "canYouDigIt",
@@ -24419,7 +24424,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45637
+      "UsersEstimate": 45638
     },
     {
       "ID": "curator",
@@ -24563,7 +24568,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126770
+      "UsersEstimate": 126771
     },
     {
       "ID": "notScared",
@@ -24627,7 +24632,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58314
+      "UsersEstimate": 58315
     },
     {
       "ID": "thunderstruck",
@@ -24690,7 +24695,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253541,
+      "Progressed": 253542,
       "Completed": 6
     }
   ],
@@ -24698,8 +24703,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:38.2116863+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:10:04.7615578+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:26.4786379+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:38.2118411+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:08.3009376+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:10:04.7616797+00:00"
 }

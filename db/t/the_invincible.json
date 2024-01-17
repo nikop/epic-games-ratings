@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1724,
+  "EOS_Progressed": 1725,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4590,6 +4590,11 @@
       "Time": "2024-01-17T07:10:01.7883378+00:00",
       "NumProgressed": 1724,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T09:09:48.5251312+00:00",
+      "NumProgressed": 1725,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4610,7 +4615,7 @@
       "Name": "I remember everything!",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "AchvAssertive",
@@ -4624,9 +4629,9 @@
       "ID": "AchvBattleScore",
       "SetID": "1hj060c",
       "Name": "Fierce fight",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 380
     },
     {
       "ID": "AchvBombStop",
@@ -4658,7 +4663,7 @@
       "Name": "Ubiquitous holes",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvDiscoverAlliance",
@@ -4674,7 +4679,7 @@
       "Name": "The Invincible",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvEvacuate",
@@ -4682,7 +4687,7 @@
       "Name": "Evacuation",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "AchvInvShip",
@@ -4690,7 +4695,7 @@
       "Name": "Another giant",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "AchvKrautaAlive",
@@ -4698,7 +4703,7 @@
       "Name": "Krauta is alive",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AchvLava",
@@ -4730,7 +4735,7 @@
       "Name": "The Necroevolution",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "AchvNest",
@@ -4754,7 +4759,7 @@
       "Name": "Got lost again",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AchvPutAsleep",
@@ -4778,7 +4783,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "AchvReachCity",
@@ -4786,7 +4791,7 @@
       "Name": "The City",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "AchvReachCondor",
@@ -4818,7 +4823,7 @@
       "Name": "The End",
       "Percentage": 39,
       "XP": 55,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "AchvUnity",
@@ -4833,7 +4838,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1724,
+      "Progressed": 1725,
       "Completed": 1
     }
   ],
@@ -4841,8 +4846,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:21.6732906+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:09:48.5251306+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:12.5333179+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:21.6733422+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:57:54.9830226+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:09:48.5251681+00:00"
 }

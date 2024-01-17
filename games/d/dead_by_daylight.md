@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,683 |
-| Skillful | 7.00% | ~82,683 |
-| Zealous | 6.00% | ~70,871 |
-| Not half bad | 5.00% | ~59,059 |
-| Apt Survivor | 5.00% | ~59,059 |
-| Survival Treasures | 5.00% | ~59,059 |
-| Make Some Noise | 5.00% | ~59,059 |
-| No one left behind | 4.00% | ~47,247 |
-| Handyman | 4.00% | ~47,247 |
-| I | 4.00% | ~47,247 |
-| Sorted | 4.00% | ~47,247 |
-| Resurgence | 4.00% | ~47,247 |
-| Preemptive Strike | 4.00% | ~47,247 |
-| The Grand Sacrifice | 3.00% | ~35,435 |
-| Agonizing Escape | 3.00% | ~35,435 |
-| Backdoor Escape | 3.00% | ~35,435 |
-| I've got your back | 3.00% | ~35,435 |
-| Medic | 3.00% | ~35,435 |
-| Perfect Escape | 3.00% | ~35,435 |
-| Perfect Killing | 3.00% | ~35,435 |
-| Bloody Millionaire | 3.00% | ~35,435 |
-| Apt Killer | 3.00% | ~35,435 |
-| Risk it all | 3.00% | ~35,435 |
-| II | 3.00% | ~35,435 |
-| Engineer | 3.00% | ~35,435 |
-| Healthy Obsession | 3.00% | ~35,435 |
-| Close Shave | 3.00% | ~35,435 |
-| Humanitarian | 3.00% | ~35,435 |
+| It wakes | 7.00% | ~82,685 |
+| Skillful | 7.00% | ~82,685 |
+| Zealous | 6.00% | ~70,873 |
+| Not half bad | 5.00% | ~59,061 |
+| Apt Survivor | 5.00% | ~59,061 |
+| Survival Treasures | 5.00% | ~59,061 |
+| Make Some Noise | 5.00% | ~59,061 |
+| No one left behind | 4.00% | ~47,249 |
+| Handyman | 4.00% | ~47,249 |
+| I | 4.00% | ~47,249 |
+| Sorted | 4.00% | ~47,249 |
+| Resurgence | 4.00% | ~47,249 |
+| Preemptive Strike | 4.00% | ~47,249 |
+| The Grand Sacrifice | 3.00% | ~35,436 |
+| Agonizing Escape | 3.00% | ~35,436 |
+| Backdoor Escape | 3.00% | ~35,436 |
+| I've got your back | 3.00% | ~35,436 |
+| Medic | 3.00% | ~35,436 |
+| Perfect Escape | 3.00% | ~35,436 |
+| Perfect Killing | 3.00% | ~35,436 |
+| Bloody Millionaire | 3.00% | ~35,436 |
+| Apt Killer | 3.00% | ~35,436 |
+| Risk it all | 3.00% | ~35,436 |
+| II | 3.00% | ~35,436 |
+| Engineer | 3.00% | ~35,436 |
+| Healthy Obsession | 3.00% | ~35,436 |
+| Close Shave | 3.00% | ~35,436 |
+| Humanitarian | 3.00% | ~35,436 |
 | Blood on your hands | 2.00% | ~23,624 |
 | Escape Artist | 2.00% | ~23,624 |
 | Gifts for the Fog | 2.00% | ~23,624 |
@@ -42,6 +42,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | III-50 | 2.00% | ~23,624 |
 | Item of Obsession | 2.00% | ~23,624 |
 | Holiday Get-Together | 2.00% | ~23,624 |
+| Near-Death Experience | 2.00% | ~23,624 |
 | Cherish your Life | 2.00% | ~23,624 |
 | Unforgettable Getaway | 2.00% | ~23,624 |
 | Wounded Healer | 2.00% | ~23,624 |
@@ -70,7 +71,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | Cottage Owner | 1.00% | ~11,812 |
 | Serial Killer | 1.00% | ~11,812 |
 | Escaping the Nightmare | 1.00% | ~11,812 |
-| Near-Death Experience | 1.00% | ~11,812 |
 | Campbell's Chapel Legacy | 1.00% | ~11,812 |
 | Ancestor's Rite | 1.00% | ~11,812 |
 | Devoted Gatekeeping | 1.00% | ~11,812 |
@@ -92,16 +92,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Party Crasher | 0.90% | ~10,631 |
 | High Speed Pursuit | 0.90% | ~10,631 |
 | Complete the Evolution | 0.90% | ~10,631 |
-| Deep Cleansing | 0.80% | ~9,449 |
-| Texas BBQ | 0.80% | ~9,449 |
-| Outrage | 0.80% | ~9,449 |
-| I See You | 0.80% | ~9,449 |
-| Blood in your mouth | 0.70% | ~8,268 |
-| Heavy Burden | 0.70% | ~8,268 |
-| Punch Drunk | 0.70% | ~8,268 |
-| Prowler | 0.70% | ~8,268 |
-| Triage | 0.70% | ~8,268 |
-| Kitted Out | 0.70% | ~8,268 |
+| Deep Cleansing | 0.80% | ~9,450 |
+| Texas BBQ | 0.80% | ~9,450 |
+| Outrage | 0.80% | ~9,450 |
+| I See You | 0.80% | ~9,450 |
+| Blood in your mouth | 0.70% | ~8,269 |
+| Heavy Burden | 0.70% | ~8,269 |
+| Punch Drunk | 0.70% | ~8,269 |
+| Prowler | 0.70% | ~8,269 |
+| Triage | 0.70% | ~8,269 |
+| Kitted Out | 0.70% | ~8,269 |
 | Whiffing to Success | 0.60% | ~7,087 |
 | Power Moves | 0.60% | ~7,087 |
 | Mad House | 0.50% | ~5,906 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,181 |
 | Adept Good Guy | 0.10% | ~1,181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,181,181 (Ranked 13)  
+Progressed: 1,181,215 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -511,7 +511,7 @@ Completed: 68 (0.01%) (Ranked 378)
 | 2024-01-14 | 1,177,363 | 68 |
 | 2024-01-15 | 1,179,156 | 68 |
 | 2024-01-16 | 1,180,767 | 68 |
-| 2024-01-17 | 1,181,181 | 68 |
+| 2024-01-17 | 1,181,215 | 68 |
 ## Awards
 Max (Diverse Characters): 39,811  (Ranked 15)  
 Sum: 299,903 (Ranked 12)  

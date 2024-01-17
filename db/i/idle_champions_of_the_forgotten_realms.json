@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9625,10 +9625,10 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254350,
+  "EOS_Progressed": 254358,
   "EOS_Completed": 2622,
-  "EOS_NewPlayers": 1224,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 1227,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40470,6 +40470,11 @@
       "Time": "2024-01-17T08:10:54.2456436+00:00",
       "NumProgressed": 254350,
       "NumCompleted": 2622
+    },
+    {
+      "Time": "2024-01-17T09:10:20.9645798+00:00",
+      "NumProgressed": 254358,
+      "NumCompleted": 2622
     }
   ],
   "TotalAchievements": 546,
@@ -42623,9 +42628,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1272
     },
     {
       "ID": "objective_completed_540",
@@ -44225,7 +44230,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "objective_completed_902",
@@ -44753,7 +44758,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "objective_completed_1352",
@@ -44761,7 +44766,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "objective_completed_1557",
@@ -44777,7 +44782,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "objective_completed_1562",
@@ -44793,7 +44798,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "objective_completed_598",
@@ -44841,28 +44846,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220624,
+      "Progressed": 220632,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254350,
+      "Progressed": 254358,
       "Completed": 2622
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:54.245643+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:10:20.9645793+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:51.2355587+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:54.2481508+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:33.0638745+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:10:20.9669841+00:00"
 }

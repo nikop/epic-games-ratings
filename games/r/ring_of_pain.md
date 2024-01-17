@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 2.00% | ~4,862 |
-| Matching | 2.00% | ~91 |
+| Matching | 2.00% | ~92 |
 | Nothing To Lose | 1.00% | ~2,431 |
 | Heavy Hitter | 1.00% | ~2,431 |
 | Delving Deeper | 1.00% | ~2,431 |
@@ -45,6 +45,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.70% | ~1,702 |
 | Just Chilling | 0.70% | ~1,702 |
 | Save Our Souls | 0.70% | ~1,702 |
+| Acid Bath | 0.70% | ~1,702 |
 | New Perspectives | 0.70% | ~1,702 |
 | Shapeshifting | 0.70% | ~1,702 |
 | What Doesn't Kill You | 0.70% | ~32 |
@@ -55,7 +56,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stop Hitting Yourself | 0.60% | ~1,459 |
 | Doing Time | 0.60% | ~1,459 |
 | Spreading Plague | 0.60% | ~1,459 |
-| Acid Bath | 0.60% | ~1,459 |
 | Expensive Look | 0.60% | ~27 |
 | Thank You, Friend | 0.50% | ~1,215 |
 | Shadow Spreads | 0.50% | ~1,215 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,093 (Ranked 75)  
+Progressed: 243,098 (Ranked 75)  
 Completed: 307 (0.13%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 307 (0.13%) (Ranked 304)
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
-| 2024-01-17 | 243,093 | 307 |
+| 2024-01-17 | 243,098 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,799 (Ranked 90)  

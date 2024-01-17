@@ -13,7 +13,7 @@
 | Music for Cows | 18.00% | ~386 |
 | Emotional Baggage Handler | 16.00% | ~344 |
 | Dream Listener | 15.00% | ~322 |
-| Artist Assistant | 13.00% | ~279 |
+| Artist Assistant | 14.00% | ~301 |
 | Tour de Tieng | 13.00% | ~279 |
 | Goodbye Tieng Valley | 11.00% | ~236 |
 | Shrine Arriver | 11.00% | ~236 |

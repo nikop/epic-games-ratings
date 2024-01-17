@@ -10479,10 +10479,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21286,
       "NumberOfAwardsMax": 7121
+    },
+    {
+      "Time": "2024-01-17T08:59:17.4622387+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21290,
+      "NumberOfAwardsMax": 7121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21286,
+  "NumberOfAwards": 21290,
   "NumberOfAwardsMax": 7121,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10514,7 +10520,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1052
+      "Count": 1056
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10559,9 +10565,9 @@
       "Count": 1653
     }
   ],
-  "EOS_Progressed": 890979,
+  "EOS_Progressed": 890988,
   "EOS_Completed": 249,
-  "EOS_NewPlayers": 4978,
+  "EOS_NewPlayers": 4972,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -38469,6 +38475,11 @@
       "Time": "2024-01-17T08:10:11.2620189+00:00",
       "NumProgressed": 890979,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2024-01-17T09:09:37.774323+00:00",
+      "NumProgressed": 890988,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 75,
@@ -38480,7 +38491,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 249474
+      "UsersEstimate": 249477
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -38520,7 +38531,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -38584,7 +38595,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -38632,7 +38643,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -38688,7 +38699,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -38752,7 +38763,7 @@
       "Name": "Master of the Mojave",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "ACHIEVEMENT_MAY_MY_HAND_FORGET_ITS_SKILL",
@@ -38840,7 +38851,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -38920,7 +38931,7 @@
       "Name": "Spinal-Tapped",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "ACHIEVEMENT_STI_MPLY_AMAZING",
@@ -38944,7 +38955,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -38960,7 +38971,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -39024,7 +39035,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35639
+      "UsersEstimate": 35640
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -39048,7 +39059,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 26729
+      "UsersEstimate": 26730
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -39079,22 +39090,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 890979,
+      "Progressed": 890988,
       "Completed": 295
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 890979,
+      "Progressed": 890988,
       "Completed": 249
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-01-17T02:59:17.5562505+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:11.2620184+00:00",
+  "LastChanged": "2024-01-17T08:59:17.4622386+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:09:37.7743226+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:36.8702466+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:59:38.0560336+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:11.2622392+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:59:17.4622392+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:09:37.7744975+00:00"
 }

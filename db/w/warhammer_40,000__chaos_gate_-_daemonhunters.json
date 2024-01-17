@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -873,9 +873,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3909,
+  "EOS_Progressed": 3911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6068,6 +6068,11 @@
       "Time": "2024-01-17T05:05:08.7983787+00:00",
       "NumProgressed": 3909,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T09:05:25.0305183+00:00",
+      "NumProgressed": 3911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6095,7 +6100,7 @@
       "Name": "Look Over There!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "BloodAndIron",
@@ -6167,7 +6172,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ExtractorSkullUses",
@@ -6247,7 +6252,7 @@
       "Name": "Not So Fast...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "Kills_Bleed",
@@ -6303,7 +6308,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Kills_Streak",
@@ -6327,7 +6332,7 @@
       "Name": "An Ill Omen",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6343,7 +6348,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -6447,7 +6452,7 @@
       "Name": "A Foul Creche",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -6622,21 +6627,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3909,
+      "Progressed": 3911,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3909,
+      "Progressed": 3911,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-16T14:04:00.758203+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:05:56.633116+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:05:25.0305178+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:03:50.0430769+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:05:56.6332077+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:03:18.747777+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:05:25.0305963+00:00"
 }

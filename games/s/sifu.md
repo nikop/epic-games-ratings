@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,679 |
+| The Old Grandmaster | 6.00% | ~45,680 |
 | Life is your teacher | 5.00% | ~38,066 |
 | Lightning Hands | 5.00% | ~38,066 |
 | The Assault | 4.00% | ~30,453 |
-| The Hateful Pole Fighter | 3.00% | ~22,839 |
-| Stuntmaster | 3.00% | ~22,839 |
-| Street Fighting | 3.00% | ~22,839 |
-| State of constant learning | 3.00% | ~22,839 |
-| Qi Gong: Essence | 3.00% | ~22,839 |
-| Old Child | 3.00% | ~22,839 |
+| The Hateful Pole Fighter | 3.00% | ~22,840 |
+| Stuntmaster | 3.00% | ~22,840 |
+| Street Fighting | 3.00% | ~22,840 |
+| State of constant learning | 3.00% | ~22,840 |
+| Qi Gong: Essence | 3.00% | ~22,840 |
+| Old Child | 3.00% | ~22,840 |
 | A Lady's Blood in the Snow | 2.00% | ~15,226 |
 | Lady Wing Chun | 2.00% | ~15,226 |
 | Furious Fists | 2.00% | ~15,226 |
@@ -25,7 +25,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,226 |
 | Rumble in the Hangar | 2.00% | ~15,226 |
 | Take damage to save time | 2.00% | ~15,226 |
-| Diligence as a goal | 2.00% | ~1,412 |
+| Diligence as a goal | 2.00% | ~1,413 |
 | Scareless | 1.00% | ~7,613 |
 | Dance of the Praying Mantis | 1.00% | ~7,613 |
 | Qi Gong: Mind | 1.00% | ~7,613 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,313 (Ranked 26)  
+Progressed: 761,325 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,15 +339,15 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,313 | 12,990 |
+| 2024-01-17 | 761,325 | 12,990 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
-Sum: 12,773 (Ranked 87)  
+Sum: 12,776 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,221 |
-| This game has Diverse Characters | 703 |
+| This game has Diverse Characters | 706 |
 | This game has Challenging Combat | 650 |
 | This game has Amazing Storytelling | 622 |
 | This game has Amazing Characters | 618 |
@@ -725,4 +725,4 @@ Diff (max vs sum): -30
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
 | 2024-01-16 | 4.82 | - | 7,221 | 12,772 |
-| 2024-01-17 | 4.82 | - | 7,221 | 12,773 |
+| 2024-01-17 | 4.82 | - | 7,221 | 12,776 |

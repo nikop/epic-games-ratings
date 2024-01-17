@@ -3493,9 +3493,9 @@
       "Count": 198
     }
   ],
-  "EOS_Progressed": 740556,
+  "EOS_Progressed": 740557,
   "EOS_Completed": 782,
-  "EOS_NewPlayers": 865,
+  "EOS_NewPlayers": 863,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -34258,6 +34258,11 @@
       "Time": "2024-01-17T08:10:49.9382378+00:00",
       "NumProgressed": 740556,
       "NumCompleted": 782
+    },
+    {
+      "Time": "2024-01-17T09:10:16.6516173+00:00",
+      "NumProgressed": 740557,
+      "NumCompleted": 782
     }
   ],
   "TotalAchievements": 98,
@@ -34293,7 +34298,7 @@
       "Name": "All Shells",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 111083
+      "UsersEstimate": 111084
     },
     {
       "ID": "Armor",
@@ -34533,7 +34538,7 @@
       "Name": "Freed from prison",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 162922
+      "UsersEstimate": 162923
     },
     {
       "ID": "GiantWorkshop",
@@ -34637,7 +34642,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 348061
+      "UsersEstimate": 348062
     },
     {
       "ID": "HelpedAStar",
@@ -34717,7 +34722,7 @@
       "Name": "MacGuffin",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 281411
+      "UsersEstimate": 281412
     },
     {
       "ID": "Magic",
@@ -34725,7 +34730,7 @@
       "Name": "The real real teleported man",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 59244
+      "UsersEstimate": 59245
     },
     {
       "ID": "Mime",
@@ -34781,7 +34786,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 733150
+      "UsersEstimate": 733151
     },
     {
       "ID": "PanicLights",
@@ -34901,7 +34906,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 488767
+      "UsersEstimate": 488768
     },
     {
       "ID": "Strong",
@@ -34981,7 +34986,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 318439
+      "UsersEstimate": 318440
     },
     {
       "ID": "True_Holy_Spirit",
@@ -35052,15 +35057,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 740556,
+      "Progressed": 740557,
       "Completed": 782
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-16T13:59:25.0200399+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:49.9382373+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:10:16.6516168+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5842386+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:59:12.0386896+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:49.9384846+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:52.5736231+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:10:16.6518202+00:00"
 }

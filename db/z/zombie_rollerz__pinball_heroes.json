@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 233,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -923,9 +923,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 183
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -939,9 +939,9 @@
       "ID": "CLG_LEVEL_KILLSTREAK",
       "SetID": "89cjc9l",
       "Name": "Kill-streak",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -1492,8 +1492,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:08:51.9658054+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:06:28.5590611+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:17.5508379+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:59:16.4482994+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:08:51.9658831+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:57.5766992+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:06:28.5591221+00:00"
 }

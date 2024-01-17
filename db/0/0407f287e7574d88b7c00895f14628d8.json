@@ -1170,17 +1170,17 @@
       "ID": "jz3",
       "SetID": "b1ggf28",
       "Name": "Building Expert",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "k1",
       "SetID": "b1ggf28",
       "Name": "Advanced Technology",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "k2",
@@ -1194,9 +1194,9 @@
       "ID": "k3",
       "SetID": "b1ggf28",
       "Name": "Technology Town",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "m1",
@@ -1369,8 +1369,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:05:12.7292071+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:04:41.0426018+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-17T08:03:38.8628895+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:05:12.7292506+00:00"
+  "LastUpdate_Ratings": "2024-01-17T09:03:07.346366+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:04:41.0426585+00:00"
 }

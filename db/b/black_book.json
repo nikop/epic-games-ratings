@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,10 +686,10 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67496,
-  "EOS_Completed": 74,
-  "EOS_NewPlayers": 1287,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 67503,
+  "EOS_Completed": 75,
+  "EOS_NewPlayers": 1289,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -17206,6 +17206,11 @@
       "Time": "2024-01-17T08:04:07.1434031+00:00",
       "NumProgressed": 67496,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-17T09:03:35.3190693+00:00",
+      "NumProgressed": 67503,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17242,7 +17247,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     },
     {
       "ID": "BAD_END",
@@ -17330,7 +17335,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14849
+      "UsersEstimate": 14851
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17394,7 +17399,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9449
+      "UsersEstimate": 9450
     },
     {
       "ID": "HERBS_2",
@@ -17418,7 +17423,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19574
+      "UsersEstimate": 19576
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -17538,7 +17543,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10124
+      "UsersEstimate": 10125
     },
     {
       "ID": "TALES_2",
@@ -17594,7 +17599,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10799
+      "UsersEstimate": 10800
     },
     {
       "ID": "ZNATKOST_2",
@@ -17617,15 +17622,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67496,
-      "Completed": 74
+      "Progressed": 67503,
+      "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:04:07.1434025+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:03:35.3190687+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:57:42.6334916+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:04:07.1435121+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:57:25.9825796+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:03:35.3191857+00:00"
 }

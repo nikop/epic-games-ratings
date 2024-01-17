@@ -4,10 +4,10 @@
   "ProductSlug": "ghostbusters-the-video-game-remastered",
   "Ranking_Rating": 709,
   "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -537,6 +537,6 @@
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
   "LastChanged": "2023-12-16T15:59:32.6318339+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.6939718+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:19.9193479+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:09:56.2320671+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:01.6511866+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:09:22.2145111+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1555,7 +1555,7 @@
   ],
   "EOS_Progressed": 430450,
   "EOS_Completed": 556,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -19793,9 +19793,9 @@
       "ID": "ACH_JIZO_ALL",
       "SetID": "231ghgk",
       "Name": "Restoration Master",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 17218
+      "UsersEstimate": 21522
     },
     {
       "ID": "ACH_JIZO_FIRST",
@@ -19953,8 +19953,8 @@
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-15T20:57:43.9440665+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:05:50.4111263+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:05:18.7682619+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.7074577+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:35.6117488+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:05:50.4112787+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:17.3175636+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:05:18.7684071+00:00"
 }

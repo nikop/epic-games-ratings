@@ -18,7 +18,7 @@
 | The Marriage Is Off | 12.00% | ~38 |
 | Pearce | 12.00% | ~38 |
 | Use Your Connections | 10.00% | ~32 |
-| Horrific | 7.00% | ~22 |
+| Horrific | 8.00% | ~25 |
 | Shady Truth | 6.00% | ~19 |
 | Hopeful | 5.00% | ~16 |
 ## Popularity (Based on EOS Achievements)

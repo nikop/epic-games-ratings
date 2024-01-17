@@ -46,11 +46,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Refinery | 2.00% | ~417 |
 | Dangerous Lands | 2.00% | ~417 |
 | Fishmen Ritual Site | 2.00% | ~417 |
+| Forsaken Gods Temple | 2.00% | ~417 |
 | Victory Through Prosperity | 2.00% | ~417 |
 | Defying the Crown | 2.00% | ~417 |
 | Into the Forest | 2.00% | ~417 |
 | Forbidden Lands | 1.00% | ~208 |
-| Forsaken Gods Temple | 1.00% | ~208 |
 | Like a Machine | 1.00% | ~208 |
 | Feeding The People | 0.90% | ~188 |
 | Blood Flower Farmer | 0.60% | ~125 |

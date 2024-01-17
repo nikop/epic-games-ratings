@@ -1154,9 +1154,9 @@
       "ID": "id_2",
       "SetID": "bk9jib6",
       "Name": "Field hand",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "id_20",
@@ -1442,9 +1442,9 @@
       "ID": "id_62",
       "SetID": "bk9jib6",
       "Name": "Archer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "id_63",
@@ -1491,8 +1491,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-17T08:10:44.9554258+00:00",
+  "LastChanged_Achievements": "2024-01-17T09:10:11.6930195+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:58:57.922408+00:00",
-  "LastUpdate_Achievements": "2024-01-17T08:10:44.9554618+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:58:38.3309545+00:00",
+  "LastUpdate_Achievements": "2024-01-17T09:10:11.6930528+00:00"
 }

@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 2.00% | ~339 |
 | Ishtar Gate | 2.00% | ~339 |
 | Lighthouse | 2.00% | ~339 |
+| Musaeum | 2.00% | ~339 |
 | Necropolis | 2.00% | ~339 |
 | Learn to Play 1 | 2.00% | ~339 |
 | Learn to Play 2 | 2.00% | ~339 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colossus | 1.00% | ~169 |
 | Temple of Solomon | 1.00% | ~169 |
 | Mausoleum | 1.00% | ~169 |
-| Musaeum | 1.00% | ~169 |
 | Learn to Play 3 | 1.00% | ~169 |
 | Greece | 1.00% | ~169 |
 | Power to the People | 1.00% | ~169 |
@@ -79,15 +79,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~169 |
 | Mythology | 1.00% | ~169 |
 | Points Victory | 1.00% | ~169 |
+| Win a Single Player Game | 1.00% | ~169 |
 | Good Difficulty | 0.90% | ~152 |
 | Patrons | 0.90% | ~152 |
 | Statesmen | 0.90% | ~152 |
 | Hittite Iron | 0.90% | ~152 |
-| Win a Single Player Game | 0.90% | ~152 |
 | The Clergy | 0.90% | ~152 |
 | Victorious | 0.80% | ~135 |
 | Landowners | 0.80% | ~135 |
 | Traders | 0.80% | ~135 |
+| Circus Maximus | 0.80% | ~135 |
 | Hagia Sophia | 0.80% | ~135 |
 | Pantheon | 0.80% | ~135 |
 | Via Recta Souk | 0.80% | ~135 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.70% | ~119 |
 | Subjugator | 0.70% | ~119 |
 | Riders | 0.70% | ~119 |
-| Circus Maximus | 0.70% | ~119 |
 | Learn to Play 4 | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
@@ -119,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |
+| Rome | 0.60% | ~102 |
 | Hittite Paganism | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
 | Gnosticism | 0.60% | ~102 |
@@ -130,7 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Carthage | 0.50% | ~85 |
-| Rome | 0.50% | ~85 |
+| Egypt | 0.50% | ~85 |
 | Revelation | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
@@ -141,7 +142,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
-| Egypt | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
 | One True Faith | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
