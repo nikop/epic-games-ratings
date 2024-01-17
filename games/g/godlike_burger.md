@@ -5,20 +5,20 @@ Rating: 4.51 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,610 |
-| FIRST BLOOD | 40.00% | ~161,431 |
-| KEVIN! | 30.00% | ~121,073 |
-| JACK OF ALL TRADES | 23.00% | ~92,823 |
-| CRIMINAL | 20.00% | ~80,715 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,429 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,358 |
-| HONORS STUDENT | 8.00% | ~32,286 |
-| BUTCHER | 6.00% | ~24,215 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,179 |
-| RAMBO | 5.00% | ~20,179 |
-| HELL'S KITCHEN | 4.00% | ~16,143 |
-| CELEBRITY | 3.00% | ~12,107 |
-| MARTYR | 3.00% | ~12,107 |
+| MASTER CHEF | 45.00% | ~181,616 |
+| FIRST BLOOD | 40.00% | ~161,437 |
+| KEVIN! | 30.00% | ~121,078 |
+| JACK OF ALL TRADES | 23.00% | ~92,826 |
+| CRIMINAL | 20.00% | ~80,718 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,431 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,359 |
+| HONORS STUDENT | 8.00% | ~32,287 |
+| BUTCHER | 6.00% | ~24,216 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,180 |
+| RAMBO | 5.00% | ~20,180 |
+| HELL'S KITCHEN | 4.00% | ~16,144 |
+| CELEBRITY | 3.00% | ~12,108 |
+| MARTYR | 3.00% | ~12,108 |
 | GRATITUDE | 2.00% | ~8,072 |
 | PATTY-KILLER | 2.00% | ~8,072 |
 | EXPERIMENTALIST | 1.00% | ~4,036 |
@@ -27,14 +27,14 @@ Rating: 4.51 (Ranked 596)
 | PRUDENT | 1.00% | ~4,036 |
 | SCATTERBRAIN | 0.80% | ~3,229 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,825 |
-| TASTE UNTASTY | 0.60% | ~2,421 |
+| TASTE UNTASTY | 0.60% | ~2,422 |
 | DEBTOR | 0.20% | ~807 |
 | I'VE SEEN SOME… | 0.20% | ~807 |
 | CORRUPTIONIST | 0.10% | ~404 |
 | MISTER ALL THUMBS | 0.10% | ~404 |
 | TRAVELER | 0.10% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,577 (Ranked 50)  
+Progressed: 403,592 (Ranked 50)  
 Completed: 61 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 61 (0.02%) (Ranked 368)
 | 2024-01-14 | 402,485 | 59 |
 | 2024-01-15 | 402,893 | 61 |
 | 2024-01-16 | 403,288 | 61 |
-| 2024-01-17 | 403,577 | 61 |
+| 2024-01-17 | 403,592 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

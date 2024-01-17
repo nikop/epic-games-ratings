@@ -6,16 +6,16 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,088 |
-| Tutti Eroi! | 50.00% | ~4,988 |
+| You Shall Not Pass | 51.00% | ~5,089 |
+| Tutti Eroi! | 50.00% | ~4,989 |
 | Peak Performance | 45.00% | ~4,490 |
 | Avanti Savoia! | 44.00% | ~4,390 |
 | Mamma Mia! | 35.00% | ~3,492 |
 | Gabriele D'Annunzio | 32.00% | ~3,193 |
 | Conrad von Hotzensocks | 31.00% | ~3,093 |
 | Silver Lining | 27.00% | ~2,694 |
-| Aurelio Baruzzi | 20.00% | ~1,995 |
-| Decimation | 20.00% | ~1,995 |
+| Aurelio Baruzzi | 20.00% | ~1,996 |
+| Decimation | 20.00% | ~1,996 |
 | Donatello | 19.00% | ~1,896 |
 | Insubordination | 19.00% | ~1,896 |
 | The Italian Job | 19.00% | ~1,896 |
@@ -27,7 +27,7 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 13.00% | ~1,297 |
 | Die Bosniaken Kommen! | 12.00% | ~1,197 |
 | Dirty Dozen | 12.00% | ~1,197 |
-| Machiavelli | 11.00% | ~1,097 |
+| Machiavelli | 11.00% | ~1,098 |
 | The Devil's Paintbrush | 10.00% | ~998 |
 | Thus With A Kiss | 10.00% | ~998 |
 | Dante's Inferno | 9.00% | ~898 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,977 (Ranked 184)  
+Progressed: 9,978 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 10 (0.10%) (Ranked 317)
 | 2024-01-14 | 9,942 | 10 |
 | 2024-01-15 | 9,955 | 10 |
 | 2024-01-16 | 9,969 | 10 |
-| 2024-01-17 | 9,977 | 10 |
+| 2024-01-17 | 9,978 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 481)  
-Sum: 343 (Ranked 371)  
-Diff (max vs sum): 110  
+Sum: 343 (Ranked 372)  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 44 |

@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 497,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2333,
+  "EOS_Progressed": 2334,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4417,6 +4417,11 @@
       "Time": "2024-01-16T03:05:37.5427639+00:00",
       "NumProgressed": 2333,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-17T18:06:28.4043765+00:00",
+      "NumProgressed": 2334,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4668,7 +4673,7 @@
       "Name": "Defeat Croakhis Khan",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DefeatGrubBuster",
@@ -4692,7 +4697,7 @@
       "Name": "Shield Maiden Yellow Tongue",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FirstBeer",
@@ -4700,7 +4705,7 @@
       "Name": "I Remember My First Beer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TravelToBrightFirForest",
@@ -4708,20 +4713,20 @@
       "Name": "The Bright Fir",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2333,
+      "Progressed": 2334,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 974,
+      "Progressed": 975,
       "Completed": 923
     }
   ],
@@ -4729,8 +4734,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:07:02.827453+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:06:28.4043762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:01:11.1432188+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:07:02.8275017+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:37.8660105+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:06:28.4044152+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474032,
+  "EOS_Progressed": 474037,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28834,6 +28834,11 @@
       "Time": "2024-01-17T17:11:21.5405775+00:00",
       "NumProgressed": 474032,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-17T18:10:53.3245432+00:00",
+      "NumProgressed": 474037,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28845,7 +28850,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71105
+      "UsersEstimate": 71106
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -28853,7 +28858,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71105
+      "UsersEstimate": 71106
     },
     {
       "ID": "achievement_first_death",
@@ -28861,7 +28866,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113768
+      "UsersEstimate": 113769
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -28869,7 +28874,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104287
+      "UsersEstimate": 104288
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -28877,7 +28882,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 71105
+      "UsersEstimate": 71106
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -28885,7 +28890,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47403
+      "UsersEstimate": 47404
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -28933,7 +28938,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312861
+      "UsersEstimate": 312864
     },
     {
       "ID": "achievement_story_landa",
@@ -28965,7 +28970,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118508
+      "UsersEstimate": 118509
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28981,7 +28986,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33182
+      "UsersEstimate": 33183
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -28989,7 +28994,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33182
+      "UsersEstimate": 33183
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -29013,7 +29018,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71105
+      "UsersEstimate": 71106
     },
     {
       "ID": "achievement_story_neon_child",
@@ -29021,7 +29026,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94806
+      "UsersEstimate": 94807
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -29029,7 +29034,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161171
+      "UsersEstimate": 161173
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29085,7 +29090,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33182
+      "UsersEstimate": 33183
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -29109,7 +29114,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33182
+      "UsersEstimate": 33183
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -29269,7 +29274,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208574
+      "UsersEstimate": 208576
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -29277,7 +29282,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 142210
+      "UsersEstimate": 142211
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -29301,7 +29306,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184872
+      "UsersEstimate": 184874
     },
     {
       "ID": "achievement_win_run_hard",
@@ -29357,7 +29362,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104287
+      "UsersEstimate": 104288
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -29476,21 +29481,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17966,
+      "Progressed": 17971,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474032,
+      "Progressed": 474037,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:21.5405772+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:53.324543+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:57:22.0198593+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:21.5408072+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:57:48.1944374+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:53.3247384+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 517,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 442,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 441,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -571,9 +571,9 @@
       "ID": "LEVEL_240_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 240 pieces",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_240_003",
@@ -611,9 +611,9 @@
       "ID": "LEVEL_375_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 375 pieces",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_375_002",
@@ -627,9 +627,9 @@
       "ID": "LEVEL_375_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 375 pieces",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_375_004",
@@ -683,9 +683,9 @@
       "ID": "LEVEL_540_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 540 pieces",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_540_005",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:05:21.283455+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:05:12.3348445+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:09.5619949+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:01:04.5633693+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:05:21.2834959+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:32.9699531+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:05:12.3348782+00:00"
 }

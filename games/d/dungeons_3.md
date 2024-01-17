@@ -7,16 +7,16 @@ Number of Ratings: 1,635  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Shadow strikes | 70.00% | ~33,020 |
-| The Evilest Evil | 58.00% | ~27,359 |
-| Twistram is devastated | 58.00% | ~27,359 |
+| The Evilest Evil | 58.00% | ~27,360 |
+| Twistram is devastated | 58.00% | ~27,360 |
 | The Gehenna Stones | 49.00% | ~23,114 |
 | No one has to die today! | 46.00% | ~21,699 |
 | Death and destruction! | 46.00% | ~21,699 |
 | The Swamplanders from the swamplands | 43.00% | ~20,284 |
-| Rusty Steel | 41.00% | ~19,340 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,868 |
+| Rusty Steel | 41.00% | ~19,341 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,869 |
 | Braiiiiins! | 38.00% | ~17,925 |
-| The last burger | 37.00% | ~17,453 |
+| The last burger | 37.00% | ~17,454 |
 | Hands off the Dungeonheart! | 36.00% | ~16,982 |
 | A trip on sea, what fun it can be | 34.00% | ~16,038 |
 | Damned good | 32.00% | ~15,095 |
@@ -27,18 +27,18 @@ Number of Ratings: 1,635  (23.09.2022)
 | For a handfull of Catapults | 28.00% | ~13,208 |
 | Thirst quencher | 27.00% | ~12,736 |
 | Ogre Solo! | 27.00% | ~12,736 |
-| Destroy the thing | 26.00% | ~12,264 |
-| Tide Master | 26.00% | ~12,264 |
+| Destroy the thing | 26.00% | ~12,265 |
+| Tide Master | 26.00% | ~12,265 |
 | Difficult family relationships | 25.00% | ~11,793 |
 | MASS-O-BOT | 24.00% | ~11,321 |
 | Prepare the grave | 24.00% | ~11,321 |
 | Angel of Fire | 24.00% | ~11,321 |
-| Where there is Light, there is Shadow | 23.00% | ~10,849 |
+| Where there is Light, there is Shadow | 23.00% | ~10,850 |
 | At the foot of Mount Destiny | 22.00% | ~10,378 |
 | The Force disturbed | 21.00% | ~9,906 |
 | The Victorious Evil | 20.00% | ~9,434 |
-| Chorus of damnation | 19.00% | ~8,962 |
-| We don’t have time! | 19.00% | ~8,962 |
+| Chorus of damnation | 19.00% | ~8,963 |
+| We don’t have time! | 19.00% | ~8,963 |
 | The Stones’ Power | 18.00% | ~8,491 |
 | Flat as a pancake | 17.00% | ~8,019 |
 | Lifeguard | 17.00% | ~8,019 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~943 |
 | Sacrifices! | 2.00% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,171 (Ranked 128)  
+Progressed: 47,172 (Ranked 128)  
 Completed: 373 (0.79%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 373 (0.79%) (Ranked 195)
 | 2024-01-14 | 46,945 | 373 |
 | 2024-01-15 | 47,044 | 373 |
 | 2024-01-16 | 47,127 | 373 |
-| 2024-01-17 | 47,171 | 373 |
+| 2024-01-17 | 47,172 | 373 |
 ## Awards
 Max (Great for Beginners): 399  (Ranked 243)  
 Sum: 2,853 (Ranked 191)  

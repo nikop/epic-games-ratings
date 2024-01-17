@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47675,
+  "EOS_Progressed": 47677,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14536,6 +14536,11 @@
       "Time": "2024-01-17T17:10:21.9043829+00:00",
       "NumProgressed": 47675,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2024-01-17T18:09:58.2975722+00:00",
+      "NumProgressed": 47677,
+      "NumCompleted": 241
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14548,7 +14553,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7151
+      "UsersEstimate": 7152
     },
     {
       "ID": "ACH_BLUEEND",
@@ -14692,7 +14697,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10965
+      "UsersEstimate": 10966
     },
     {
       "ID": "ACH_HUB2",
@@ -14708,7 +14713,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24791
+      "UsersEstimate": 24792
     },
     {
       "ID": "ACH_PEAK",
@@ -14716,7 +14721,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10965
+      "UsersEstimate": 10966
     },
     {
       "ID": "ACH_PROPELL",
@@ -14724,7 +14729,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2860
+      "UsersEstimate": 2861
     },
     {
       "ID": "ACH_REDEND",
@@ -14740,7 +14745,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32419
+      "UsersEstimate": 32420
     },
     {
       "ID": "ACH_S4",
@@ -14764,7 +14769,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35756
+      "UsersEstimate": 35758
     },
     {
       "ID": "ACH_STATUE",
@@ -14772,22 +14777,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20500
+      "UsersEstimate": 20501
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47675,
+      "Progressed": 47677,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:10:21.9043826+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:09:58.2975718+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:00:46.1229765+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:10:21.9044732+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:18.3754912+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:09:58.2976711+00:00"
 }

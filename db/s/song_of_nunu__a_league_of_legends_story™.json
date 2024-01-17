@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -99,11 +99,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1563,
-  "EOS_Completed": 9,
-  "EOS_NewPlayers": 41,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Progressed": 1564,
+  "EOS_Completed": 10,
+  "EOS_NewPlayers": 42,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-10-23T07:07:08.0528773+00:00",
@@ -4269,6 +4269,11 @@
       "Time": "2024-01-17T17:11:18.0232741+00:00",
       "NumProgressed": 1563,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-17T18:10:50.5394968+00:00",
+      "NumProgressed": 1564,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -4321,7 +4326,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "EV_ACH07",
@@ -4337,7 +4342,7 @@
       "Name": "So Close",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "EV_ACH09",
@@ -4353,7 +4358,7 @@
       "Name": "Family",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "EV_ACH11",
@@ -4385,7 +4390,7 @@
       "Name": "Boom Things",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "EV_ACH15",
@@ -4393,7 +4398,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "EV_ACH16",
@@ -4401,7 +4406,7 @@
       "Name": "Krugmazing",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1000
+      "UsersEstimate": 1001
     },
     {
       "ID": "EV_ACH17",
@@ -4425,7 +4430,7 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "EV_ACH20",
@@ -4489,7 +4494,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "EV_ACH28",
@@ -4505,7 +4510,7 @@
       "Name": "Cutie Poro",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "EV_ACH30",
@@ -4521,7 +4526,7 @@
       "Name": "Feels Familiar",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "EV_ACH32",
@@ -4537,7 +4542,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "EV_ACH34",
@@ -4553,7 +4558,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "EV_ACH36",
@@ -4569,7 +4574,7 @@
       "Name": "The Finisher",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "EV_ACH38",
@@ -4577,7 +4582,7 @@
       "Name": "Vertical Power",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "EV_ACH39",
@@ -4585,7 +4590,7 @@
       "Name": "Boosted!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "EV_ACH40",
@@ -4615,9 +4620,9 @@
       "ID": "EV_ACH43",
       "SetID": "6jeac23",
       "Name": "We Are Speed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 31
     },
     {
       "ID": "EV_ACH44",
@@ -4632,16 +4637,16 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1563,
-      "Completed": 9
+      "Progressed": 1564,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-14T13:02:41.6102698+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:18.0232738+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:50.5394967+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:02:36.5591491+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:18.0233224+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:01:18.5885978+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:50.53954+00:00"
 }

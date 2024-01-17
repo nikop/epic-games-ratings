@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8355,
+  "EOS_Progressed": 8356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14188,6 +14188,11 @@
       "Time": "2024-01-17T17:09:16.7626965+00:00",
       "NumProgressed": 8355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T18:09:08.21128+00:00",
+      "NumProgressed": 8356,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14215,7 +14220,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -14518,13 +14523,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8355,
+      "Progressed": 8356,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7727,
+      "Progressed": 7728,
       "Completed": 113
     }
   ],
@@ -14532,8 +14537,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:09:16.7626959+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:09:08.2112795+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:00:46.6947877+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:09:16.7627789+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:18.8151205+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:09:08.2113758+00:00"
 }

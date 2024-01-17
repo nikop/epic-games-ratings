@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2316,7 +2316,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16946,
+  "EOS_Progressed": 16948,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 0,
@@ -20336,6 +20336,11 @@
       "Time": "2024-01-17T17:11:26.0239803+00:00",
       "NumProgressed": 16946,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T18:10:57.2889988+00:00",
+      "NumProgressed": 16948,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21097,9 +21102,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -21889,9 +21894,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -22017,9 +22022,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -23210,21 +23215,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16946,
+      "Progressed": 16948,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16946,
+      "Progressed": 16948,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T02:27:25.2024436+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:26.02398+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:57.2889987+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:02:58.4007659+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:26.0252142+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:03:24.8455303+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:57.2901026+00:00"
 }

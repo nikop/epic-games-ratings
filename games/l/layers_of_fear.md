@@ -10,7 +10,7 @@
 | Wanderer | 56.00% | ~185 |
 | Scraps of love | 53.00% | ~175 |
 | The artist’s impression | 51.00% | ~169 |
-| Do what you have to | 45.00% | ~149 |
+| Do what you have to | 46.00% | ~152 |
 | Sign of weakness | 43.00% | ~142 |
 | Refuse to look | 38.00% | ~126 |
 | Face your fears | 33.00% | ~109 |
@@ -22,12 +22,12 @@
 | Debut | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
 | Another perspective | 12.00% | ~40 |
+| First steps | 11.00% | ~36 |
 | Playtime | 11.00% | ~36 |
 | The tragedy unfolds | 11.00% | ~36 |
 | Tough conversation | 11.00% | ~36 |
 | A new way | 10.00% | ~33 |
-| First steps | 10.00% | ~33 |
-| Breaking free | 9.00% | ~30 |
+| Breaking free | 10.00% | ~33 |
 | Heavy Burden | 8.00% | ~26 |
 | True Reflection | 8.00% | ~26 |
 | Casting Finished | 7.00% | ~23 |
@@ -52,10 +52,10 @@
 | Letting go | 0.60% | ~2 |
 | You Can’t Handle the Truth | 0.30% | ~1 |
 | You might have a problem | 0.30% | ~1 |
+| Once Upon a Time | 0.30% | ~1 |
 | The Tree and the Apple | 0.30% | ~1 |
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
-| Once Upon a Time | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 331 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 404)  

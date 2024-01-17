@@ -6,9 +6,9 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,179 |
-| A thief's beginning | 11.00% | ~24,914 |
-| Thorough | 11.00% | ~24,914 |
+| Genin | 12.00% | ~27,180 |
+| A thief's beginning | 11.00% | ~24,915 |
+| Thorough | 11.00% | ~24,915 |
 | Disguised | 9.00% | ~20,385 |
 | Rescue Takuma | 9.00% | ~20,385 |
 | Rollin' | 9.00% | ~20,385 |
@@ -40,18 +40,18 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,265 |
 | Undeserved Honor | 1.00% | ~2,265 |
 | When Cut Across the Neck | 1.00% | ~2,265 |
-| High Five the Moon | 0.90% | ~2,038 |
-| The Cave | 0.90% | ~2,038 |
+| High Five the Moon | 0.90% | ~2,039 |
+| The Cave | 0.90% | ~2,039 |
 | Time Paradox | 0.60% | ~1,359 |
-| Merciful | 0.50% | ~1,132 |
+| Merciful | 0.50% | ~1,133 |
 | Five Shadows | 0.40% | ~906 |
 | Complete Mastery | 0.20% | ~453 |
 | Praise the Shogun | 0.20% | ~453 |
-| Chicken Dinner | 0.10% | ~226 |
-| Mimimi | 0.10% | ~226 |
-| Release the Kraken | 0.10% | ~226 |
+| Chicken Dinner | 0.10% | ~227 |
+| Mimimi | 0.10% | ~227 |
+| Release the Kraken | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,495 (Ranked 80)  
+Progressed: 226,504 (Ranked 80)  
 Completed: 108 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 108 (0.05%) (Ranked 343)
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
 | 2024-01-16 | 226,388 | 107 |
-| 2024-01-17 | 226,495 | 108 |
+| 2024-01-17 | 226,504 | 108 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 213)  
 Sum: 4,963 (Ranked 153)  

@@ -18,7 +18,7 @@
 | Omnia Vincit Amor | 21.00% | ~34 |
 | Stilt House | 15.00% | ~25 |
 | Armor Collector | 12.00% | ~20 |
-| Corwid Hill | 11.00% | ~18 |
+| Corwid Hill | 12.00% | ~20 |
 | Total Eclipse | 9.00% | ~15 |
 | Dreamwalker | 9.00% | ~15 |
 | Your Training Is Complete | 7.00% | ~11 |
@@ -27,7 +27,7 @@
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 164 (Ranked 454)  
-Completed: 1 (0.61%) (Ranked 209)  
+Completed: 1 (0.61%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

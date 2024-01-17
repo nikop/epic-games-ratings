@@ -2,13 +2,13 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 498,
+  "Ranking_Rating": 497,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -5527,6 +5527,6 @@
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
   "LastChanged": "2024-01-17T16:58:18.2953889+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9801743+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:58:18.2953894+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:08:57.341611+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:58:29.4125472+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:08:53.6037088+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,191 |
-| The Blues | 85.00% | ~629,507 |
-| Fast | 66.00% | ~488,794 |
-| Healthbar | 55.00% | ~407,328 |
-| Force Cube | 53.00% | ~392,516 |
-| Double Jump | 48.00% | ~355,487 |
-| Regeneration | 47.00% | ~348,081 |
-| Triple Jump | 43.00% | ~318,457 |
-| Climb the hill | 42.00% | ~311,051 |
-| Through the fire pipe | 39.00% | ~288,833 |
-| MacGuffin | 38.00% | ~281,427 |
-| Just once | 37.00% | ~274,021 |
-| Armor | 30.00% | ~222,179 |
-| True holy spirit | 28.00% | ~207,367 |
-| That's how electronics work obviously | 27.00% | ~199,961 |
-| Force Cube Catapult | 25.00% | ~185,149 |
-| Holy Sword | 23.00% | ~170,337 |
-| Telefrag | 23.00% | ~170,337 |
-| Freed from prison | 22.00% | ~162,931 |
-| Stomp | 21.00% | ~155,525 |
-| Double Health | 19.00% | ~140,713 |
-| Buckle | 18.00% | ~133,307 |
-| Green Keycard | 18.00% | ~133,307 |
+| Out of bed | 99.00% | ~733,193 |
+| The Blues | 85.00% | ~629,509 |
+| Fast | 66.00% | ~488,795 |
+| Healthbar | 55.00% | ~407,329 |
+| Force Cube | 53.00% | ~392,517 |
+| Double Jump | 48.00% | ~355,488 |
+| Regeneration | 47.00% | ~348,082 |
+| Triple Jump | 43.00% | ~318,458 |
+| Climb the hill | 42.00% | ~311,052 |
+| Through the fire pipe | 39.00% | ~288,834 |
+| MacGuffin | 38.00% | ~281,428 |
+| Just once | 37.00% | ~274,022 |
+| Armor | 30.00% | ~222,180 |
+| True holy spirit | 28.00% | ~207,368 |
+| That's how electronics work obviously | 27.00% | ~199,962 |
+| Force Cube Catapult | 25.00% | ~185,150 |
+| Holy Sword | 23.00% | ~170,338 |
+| Telefrag | 23.00% | ~170,338 |
+| Freed from prison | 22.00% | ~162,932 |
+| Stomp | 21.00% | ~155,526 |
+| Double Health | 19.00% | ~140,714 |
+| Buckle | 18.00% | ~133,308 |
+| Green Keycard | 18.00% | ~133,308 |
 | Rattle Hag | 16.00% | ~118,496 |
 | All Shells | 15.00% | ~111,090 |
 | Beam | 14.00% | ~103,684 |
@@ -105,8 +105,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,597 (Ranked 27)  
-Completed: 782 (0.11%) (Ranked 311)  
+Progressed: 740,599 (Ranked 27)  
+Completed: 783 (0.11%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -377,7 +377,7 @@ Completed: 782 (0.11%) (Ranked 311)
 | 2024-01-14 | 740,297 | 782 |
 | 2024-01-15 | 740,402 | 782 |
 | 2024-01-16 | 740,521 | 782 |
-| 2024-01-17 | 740,597 | 782 |
+| 2024-01-17 | 740,599 | 783 |
 ## Awards
 Max (Challenging Puzzles): 7,781  (Ranked 55)  
 Sum: 10,165 (Ranked 95)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19106,
+  "EOS_Progressed": 19109,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 5,
@@ -17639,6 +17639,11 @@
       "Time": "2024-01-17T17:07:47.6534409+00:00",
       "NumProgressed": 19106,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T18:07:01.7357064+00:00",
+      "NumProgressed": 19109,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17675,7 +17680,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "13",
@@ -17683,7 +17688,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "14",
@@ -17691,7 +17696,7 @@
       "Name": "Doctor Approved",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "15",
@@ -17707,7 +17712,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "17",
@@ -17723,7 +17728,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "19",
@@ -17747,7 +17752,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "21",
@@ -17787,7 +17792,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "26",
@@ -17923,20 +17928,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19106,
+      "Progressed": 19109,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5060,
+      "Progressed": 5063,
       "Completed": 1335
     }
   ],
@@ -17944,8 +17949,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:07:47.6534405+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:07:01.735706+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:01:01.349504+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:07:47.653552+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:30.2620718+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:07:01.7357984+00:00"
 }

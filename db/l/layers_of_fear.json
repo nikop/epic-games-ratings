@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1508,9 +1508,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "casting_finished",
@@ -1596,9 +1596,9 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "earn_all_trophies",
@@ -1676,9 +1676,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1740,9 +1740,9 @@
       "ID": "once_upon_a_time",
       "SetID": "f2im8d",
       "Name": "Once Upon a Time",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "perfect_storm",
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:09:42.3434933+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:09:27.6415078+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:59:29.6361074+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:09:42.3435436+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:59:21.5379287+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:09:27.6415516+00:00"
 }

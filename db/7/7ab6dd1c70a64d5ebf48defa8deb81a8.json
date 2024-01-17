@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2365,
+  "EOS_Progressed": 2366,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4725,6 +4725,11 @@
       "Time": "2024-01-17T16:11:57.3303171+00:00",
       "NumProgressed": 2365,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T18:10:47.5403145+00:00",
+      "NumProgressed": 2366,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4736,7 +4741,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "ACH_02",
@@ -4752,7 +4757,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_04",
@@ -4832,7 +4837,7 @@
       "Name": "Adventurer",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_14",
@@ -4872,7 +4877,7 @@
       "Name": "Shatter Them All",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_19",
@@ -4896,7 +4901,7 @@
       "Name": "Big Bazar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ACH_22",
@@ -4936,7 +4941,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_27",
@@ -4952,7 +4957,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH_29",
@@ -5023,7 +5028,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2365,
+      "Progressed": 2366,
       "Completed": 5
     }
   ],
@@ -5031,8 +5036,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:14.0448169+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:47.5403143+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:01:51.7384551+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:14.0448658+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:01:08.2618063+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:47.5403582+00:00"
 }

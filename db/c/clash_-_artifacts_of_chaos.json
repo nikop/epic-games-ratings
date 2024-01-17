@@ -3,9 +3,9 @@
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -650,9 +650,9 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement2",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:09.5584545+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:44.1174321+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:57:32.455168+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:09.5584644+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:57:55.7165298+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:44.117447+00:00"
 }

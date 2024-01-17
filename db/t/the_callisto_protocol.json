@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22498,
+  "EOS_Progressed": 22502,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14228,6 +14228,11 @@
       "Time": "2024-01-17T17:10:47.1531735+00:00",
       "NumProgressed": 22498,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T18:10:16.8992051+00:00",
+      "NumProgressed": 22502,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14239,7 +14244,7 @@
       "Name": "It\u0027s over, Jacob!",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ALL_WEAPONS_AND_UPGRADES",
@@ -14271,7 +14276,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6076
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14357,9 +14362,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2925
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14431,7 +14436,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6299
+      "UsersEstimate": 6301
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14471,7 +14476,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5849
+      "UsersEstimate": 5851
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14551,7 +14556,7 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "DESTROY_FACTORY_CRATES",
@@ -14575,7 +14580,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "FINISH_DLC4",
@@ -14599,7 +14604,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -14614,13 +14619,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22498,
+      "Progressed": 22502,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10424,
+      "Progressed": 10428,
       "Completed": 29
     }
   ],
@@ -14628,8 +14633,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:10:47.1531731+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:16.8992047+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:03:48.6512932+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:10:47.1532913+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:04:02.0859226+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:16.8992787+00:00"
 }

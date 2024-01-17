@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 350,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 872,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.9,
+  "EOS_Completed_Percentage": 16.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3771,6 +3771,11 @@
       "Time": "2024-01-17T17:06:48.7454633+00:00",
       "NumProgressed": 870,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2024-01-17T18:06:18.1120353+00:00",
+      "NumProgressed": 872,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 22,
@@ -3782,15 +3787,15 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 835
+      "UsersEstimate": 837
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 757
+      "UsersEstimate": 750
     },
     {
       "ID": "LEVEL_003",
@@ -3798,7 +3803,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 574
+      "UsersEstimate": 576
     },
     {
       "ID": "LEVEL_004",
@@ -3806,7 +3811,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "LEVEL_005",
@@ -3814,7 +3819,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "LEVEL_006",
@@ -3822,7 +3827,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "LEVEL_007",
@@ -3838,7 +3843,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "LEVEL_009",
@@ -3846,7 +3851,7 @@
       "Name": "Who loves trains?",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "LEVEL_010",
@@ -3862,7 +3867,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_012",
@@ -3878,7 +3883,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "LEVEL_014",
@@ -3910,7 +3915,7 @@
       "Name": "Commuting",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "LEVEL_018",
@@ -3957,7 +3962,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 872,
       "Completed": 147
     }
   ],
@@ -3965,8 +3970,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:06:48.745463+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:06:18.1120343+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:59:31.7682957+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:06:48.7455195+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:59:23.5135828+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:06:18.1120704+00:00"
 }

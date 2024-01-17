@@ -1,5 +1,5 @@
 {
-  "CatalogLastModifiedDate": "2024-01-17T16:43:46.404+00:00",
+  "CatalogLastModifiedDate": "2024-01-17T17:56:23.038+00:00",
   "KnownCustomAttributes": {
     "isManuallySetViewableDate": {
       "KnownValues": {
@@ -50,7 +50,8 @@
         "SZ, NL, AN, BL, SD, MF, SH, PN, BV, TF, HM, BE, KR, SS, JP, AQ, CN": "bf333e6236914222a95a536389c05813",
         "RU, BY": "210f7e4911f14fea93b9db4973cea363",
         "KR, CN, BY, RU": "db75e4104b3343eda2e6530e7bb03cd9",
-        "RU": "267d05131d004e3494f952a9b1056562"
+        "RU": "267d05131d004e3494f952a9b1056562",
+        "RU, KR": "267d05131d004e3494f952a9b1056562"
       }
     },
     "isPrepurchase": {

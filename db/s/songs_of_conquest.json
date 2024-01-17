@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1214,
+  "EOS_Progressed": 1216,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4197,6 +4197,11 @@
       "Time": "2024-01-17T13:15:26.2765027+00:00",
       "NumProgressed": 1214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T18:09:57.9909011+00:00",
+      "NumProgressed": 1216,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4289,7 +4294,7 @@
       "Name": "Unlimited Power!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ChargerCount",
@@ -4313,7 +4318,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "Deepstrike",
@@ -4353,7 +4358,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4505,7 +4510,7 @@
       "Name": "Cleave",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TownCompletion",
@@ -4537,7 +4542,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "WielderLevel2",
@@ -4545,7 +4550,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "WielderLevel3",
@@ -4569,7 +4574,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4640,15 +4645,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1214,
+      "Progressed": 1216,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:10:21.6326777+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:09:57.9909008+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:02:58.0239377+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:10:21.6327439+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:03:24.6149429+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:09:57.9909669+00:00"
 }

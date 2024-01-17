@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,177 |
-| Beast Intentions | 2.00% | ~5,088 |
-| The Cursed Farmer | 2.00% | ~5,088 |
-| The Mad Wizard | 2.00% | ~5,088 |
+| Beast Intentions | 2.00% | ~5,089 |
+| The Cursed Farmer | 2.00% | ~5,089 |
+| The Mad Wizard | 2.00% | ~5,089 |
 | The Ring of Regeneration | 1.00% | ~2,544 |
 | Are Ya Chicken? | 0.90% | ~2,290 |
 | Were-verpowered | 0.80% | ~2,035 |
@@ -21,17 +21,17 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fast Food | 0.70% | ~1,545 |
 | A Persistent Buzzing | 0.60% | ~1,527 |
 | Maddening | 0.50% | ~1,272 |
+| Beast Mode | 0.50% | ~1,272 |
 | Terror in the Dark | 0.50% | ~1,272 |
 | Unearthed Evil | 0.50% | ~1,272 |
 | The Crumbling Temple | 0.50% | ~1,272 |
 | Exploring Port Nyanzaru | 0.50% | ~1,272 |
 | The Contagious Curse | 0.50% | ~1,272 |
-| The Overgrown Grove | 0.50% | ~1,103 |
-| When Tentacles Attack | 0.50% | ~1,103 |
-| Flames of Avernus | 0.50% | ~1,103 |
-| Mental Gymnastics | 0.50% | ~1,103 |
-| Don't Lose Your Head | 0.50% | ~1,103 |
-| Beast Mode | 0.40% | ~1,018 |
+| The Overgrown Grove | 0.50% | ~1,104 |
+| When Tentacles Attack | 0.50% | ~1,104 |
+| Flames of Avernus | 0.50% | ~1,104 |
+| Mental Gymnastics | 0.50% | ~1,104 |
+| Don't Lose Your Head | 0.50% | ~1,104 |
 | Low Initiative | 0.40% | ~1,018 |
 | A Mysterious Summons | 0.40% | ~1,018 |
 | Building Trust | 0.40% | ~1,018 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,425 (Ranked 71)  
+Progressed: 254,430 (Ranked 71)  
 Completed: 2,622 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,622 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,425 | 2,622 |
+| 2024-01-17 | 254,430 | 2,622 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 672 (Ranked 337)  
-Completed: 4 (0.60%) (Ranked 213)  
+Completed: 4 (0.60%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

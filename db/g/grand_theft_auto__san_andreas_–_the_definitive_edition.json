@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2471,10 +2471,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1112,
       "NumberOfAwardsMax": 685
+    },
+    {
+      "Time": "2024-01-17T17:58:53.3472537+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1114,
+      "NumberOfAwardsMax": 685
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1112,
+  "NumberOfAwards": 1114,
   "NumberOfAwardsMax": 685,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2524,7 +2530,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2539,9 +2545,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 19646,
+  "EOS_Progressed": 19649,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20719,6 +20725,11 @@
       "Time": "2024-01-17T17:11:09.5430565+00:00",
       "NumProgressed": 19646,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-17T18:10:44.0501447+00:00",
+      "NumProgressed": 19649,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20730,7 +20741,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15913
+      "UsersEstimate": 15916
     },
     {
       "ID": "ACH02",
@@ -20786,7 +20797,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9823
+      "UsersEstimate": 9824
     },
     {
       "ID": "ACH09",
@@ -20826,7 +20837,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "ACH14",
@@ -21009,16 +21020,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19646,
+      "Progressed": 19649,
       "Completed": 80
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-17T10:58:00.5390784+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:09.5430562+00:00",
+  "LastChanged": "2024-01-17T17:58:53.3472535+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:44.0501445+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:58:52.0418122+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:09.5431719+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:58:53.3472539+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:44.0502343+00:00"
 }

@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.60% | ~3,004 |
 | Victorious! | 0.60% | ~3,004 |
 | That is mine! | 0.50% | ~2,503 |
-| Brothers in Arms | 0.40% | ~2,002 |
-| That's a Grand Navy | 0.40% | ~2,002 |
-| Seriously?! | 0.40% | ~2,002 |
+| Brothers in Arms | 0.40% | ~2,003 |
+| That's a Grand Navy | 0.40% | ~2,003 |
+| Seriously?! | 0.40% | ~2,003 |
 | Cold War | 0.30% | ~1,502 |
 | For the Glory | 0.30% | ~1,502 |
 | It's all about the money | 0.30% | ~1,502 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500,605 (Ranked 42)  
+Progressed: 500,633 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 1 (0.00%) (Ranked 404)
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
-| 2024-01-17 | 500,605 | 1 |
+| 2024-01-17 | 500,633 | 1 |
 ## Awards
 Max (Educational): 7,871  (Ranked 53)  
 Sum: 64,924 (Ranked 24)  

@@ -20,12 +20,12 @@
 | Upgradeaholic | 4.00% | ~11 |
 | Tailor-Made | 4.00% | ~11 |
 | Gotta Go Fast! | 3.00% | ~8 |
+| Say My Name | 3.00% | ~8 |
 | Made Mother Proud | 3.00% | ~8 |
 | Winner Winner Chicken Dinner | 3.00% | ~8 |
 | Tempus Fugit | 3.00% | ~8 |
 | POI Hunter | 2.00% | ~5 |
 | Seven-League Boots | 2.00% | ~5 |
-| Say My Name | 2.00% | ~5 |
 | First Things First | 2.00% | ~5 |
 | Tailor-Made for Two | 2.00% | ~5 |
 | Déjà-Vu | 1.00% | ~3 |

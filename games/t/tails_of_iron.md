@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 498)  
+Rating: 4.57 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,10 +22,10 @@ Rating: 4.57 (Ranked 498)
 | Throne Room Fit For A King | 2.00% | ~47 |
 | Rescue Redgi's Brothers | 2.00% | ~47 |
 | Return Power To The Depths | 2.00% | ~47 |
-| Defeat Croakhis Khan | 2.00% | ~19 |
-| Shield Maiden Yellow Tongue | 2.00% | ~19 |
-| I Remember My First Beer | 2.00% | ~19 |
-| The Bright Fir | 2.00% | ~19 |
+| Defeat Croakhis Khan | 2.00% | ~20 |
+| Shield Maiden Yellow Tongue | 2.00% | ~20 |
+| I Remember My First Beer | 2.00% | ~20 |
+| The Bright Fir | 2.00% | ~20 |
 | Return the Statues | 1.00% | ~23 |
 | Complete the Chefs Book | 1.00% | ~23 |
 | Complete Elder Faction | 1.00% | ~23 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 498)
 | King of Kings | 0.60% | ~14 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,333 (Ranked 247)  
+Progressed: 2,334 (Ranked 247)  
 Completed: 12 (0.51%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,6 +267,7 @@ Completed: 12 (0.51%) (Ranked 224)
 | 2024-01-14 | 2,328 | 12 |
 | 2024-01-15 | 2,332 | 12 |
 | 2024-01-16 | 2,333 | 12 |
+| 2024-01-17 | 2,334 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

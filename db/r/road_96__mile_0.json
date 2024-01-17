@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 738,
+  "EOS_Progressed": 739,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2722,6 +2722,11 @@
       "Time": "2024-01-17T17:11:05.2462499+00:00",
       "NumProgressed": 738,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T18:10:40.8006085+00:00",
+      "NumProgressed": 739,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2787,9 +2792,9 @@
       "ID": "scoreminrankrf1",
       "SetID": "40n95i5",
       "Name": "86\u0027s Nightmare",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 44
     },
     {
       "ID": "scoreminrankrf2",
@@ -2805,7 +2810,7 @@
       "Name": "Souvenirs",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "scoreminrankrp1",
@@ -2852,7 +2857,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 738,
+      "Progressed": 739,
       "Completed": 3
     }
   ],
@@ -2860,8 +2865,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:05.2462497+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:40.8006079+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:00:47.282964+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:05.2462706+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:19.7908402+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:40.8006407+00:00"
 }

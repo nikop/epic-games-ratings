@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -421,9 +421,9 @@
       "Count": 72
     }
   ],
-  "EOS_Progressed": 1961,
+  "EOS_Progressed": 1962,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -3746,6 +3746,11 @@
       "Time": "2024-01-17T16:06:40.9776673+00:00",
       "NumProgressed": 1961,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-17T18:05:47.3808748+00:00",
+      "NumProgressed": 1962,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 38,
@@ -3757,7 +3762,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1922
+      "UsersEstimate": 1923
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -3765,7 +3770,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -3797,7 +3802,7 @@
       "Name": "Acrobatic Adventurer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENTS_07",
@@ -3813,7 +3818,7 @@
       "Name": "The First Step",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -3845,7 +3850,7 @@
       "Name": "Amateur Chef",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -3869,7 +3874,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -3925,7 +3930,7 @@
       "Name": "The Capitalist",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -3989,7 +3994,7 @@
       "Name": "Animal Exterminator",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACHIEVEMENTS_31",
@@ -4019,9 +4024,9 @@
       "ID": "ACHIEVEMENTS_34",
       "SetID": "d4o538a",
       "Name": "Moonbury Traveller",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1216
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -4060,7 +4065,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1961,
+      "Progressed": 1962,
       "Completed": 11
     }
   ],
@@ -4068,8 +4073,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2024-01-17T04:58:49.7548241+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:06:08.3236849+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:05:47.3808746+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3466172+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:00:10.7459044+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:06:08.3237218+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:59:52.6554861+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:05:47.3809357+00:00"
 }

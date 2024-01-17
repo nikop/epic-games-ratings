@@ -64,7 +64,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~169 |
 | Valiant | 1.00% | ~169 |
 | Legendary Cities | 1.00% | ~169 |
-| Good Difficulty | 1.00% | ~169 |
 | Just Difficulty | 1.00% | ~169 |
 | Artisans | 1.00% | ~169 |
 | Champions | 1.00% | ~169 |
@@ -81,6 +80,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~169 |
 | Points Victory | 1.00% | ~169 |
 | Win a Single Player Game | 1.00% | ~169 |
+| Good Difficulty | 0.90% | ~153 |
 | Patrons | 0.90% | ~153 |
 | Statesmen | 0.90% | ~153 |
 | Hittite Iron | 0.90% | ~153 |
@@ -93,6 +93,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.80% | ~136 |
 | Pantheon | 0.80% | ~136 |
 | Via Recta Souk | 0.80% | ~136 |
+| Learn to Play 4 | 0.80% | ~136 |
 | Economic Reform | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
 | Dualism | 0.80% | ~136 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.70% | ~119 |
 | Subjugator | 0.70% | ~119 |
 | Riders | 0.70% | ~119 |
-| Learn to Play 4 | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
 | Cimmerian Archer | 0.70% | ~119 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Carthage | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
+| One True Faith | 0.50% | ~85 |
 | Revelation | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
-| One True Faith | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,946 (Ranked 169)  
+Progressed: 16,948 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,946 | 5 |
+| 2024-01-17 | 16,948 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,935 (Ranked 223)  

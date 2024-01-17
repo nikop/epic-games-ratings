@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2517,9 +2517,9 @@
       "ID": "Craft_Enhancement_Balanced_1",
       "SetID": "7a5k76n",
       "Name": "Can you restore the Balance?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -2669,9 +2669,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 220
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2877,8 +2877,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:06:15.6025136+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:05:53.196015+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:58:11.8653445+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:06:15.6025708+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:58:24.7227454+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:05:53.1960866+00:00"
 }

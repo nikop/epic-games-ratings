@@ -4,8 +4,8 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -1012,9 +1012,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "ae95dh3",
       "Name": "Dark Archer",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1076,9 +1076,9 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "ae95dh3",
       "Name": "The Hidden City",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -1107,8 +1107,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:05:11.2247077+00:00",
-  "LastUpdate_AppInfo": "2024-01-10T17:57:06.492546+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:02:40.1544568+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:05:11.2247391+00:00"
+  "LastChanged_Achievements": "2024-01-17T18:05:05.0599715+00:00",
+  "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
+  "LastUpdate_Ratings": "2024-01-17T18:01:21.2933727+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:05:05.0600035+00:00"
 }

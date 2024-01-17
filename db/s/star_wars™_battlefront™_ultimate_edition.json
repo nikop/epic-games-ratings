@@ -2,10 +2,10 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3003,
+  "EOS_Progressed": 3006,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8164,6 +8164,11 @@
       "Time": "2024-01-17T16:12:04.5094647+00:00",
       "NumProgressed": 3003,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T18:10:53.170568+00:00",
+      "NumProgressed": 3006,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8248,7 +8253,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_19",
@@ -8272,7 +8277,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_21",
@@ -8320,7 +8325,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_27",
@@ -8368,7 +8373,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_32",
@@ -8376,7 +8381,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_33",
@@ -8400,7 +8405,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2583
+      "UsersEstimate": 2585
     },
     {
       "ID": "achievement_36",
@@ -8416,7 +8421,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1804
     },
     {
       "ID": "achievement_38",
@@ -8448,7 +8453,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "achievement_41",
@@ -8528,7 +8533,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "achievement_50",
@@ -8616,7 +8621,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_60",
@@ -8679,13 +8684,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3003,
+      "Progressed": 3006,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3003,
+      "Progressed": 3006,
       "Completed": 1
     }
   ],
@@ -8693,8 +8698,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:11:21.237827+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:53.1705679+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:59:41.4602906+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:11:21.2379209+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:59:30.6625334+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:53.1706393+00:00"
 }

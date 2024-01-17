@@ -20,7 +20,7 @@
 | Temple of Syrinx | 0.00% | ~0 |
 | The Weapon | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 765)  
+Progressed: 1 (Ranked 766)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |

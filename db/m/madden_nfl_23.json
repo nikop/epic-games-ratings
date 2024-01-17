@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4462,
+  "EOS_Progressed": 4463,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8829,6 +8829,11 @@
       "Time": "2024-01-17T17:09:12.5447218+00:00",
       "NumProgressed": 4462,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T18:09:04.9122704+00:00",
+      "NumProgressed": 4463,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8889,7 +8894,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "achievement_16",
@@ -8985,7 +8990,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "achievement_8",
@@ -9008,7 +9013,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4462,
+      "Progressed": 4463,
       "Completed": 0
     }
   ],
@@ -9016,8 +9021,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-16T15:59:33.7498908+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:09:12.5447215+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:09:04.9122699+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:01:22.4753904+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:09:12.5447666+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:46.2586102+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:09:04.9123468+00:00"
 }

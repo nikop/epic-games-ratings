@@ -4,11 +4,11 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 473,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 371,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,7 +1087,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9977,
+  "EOS_Progressed": 9978,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -11272,6 +11272,11 @@
       "Time": "2024-01-17T16:11:12.1255728+00:00",
       "NumProgressed": 9977,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-17T18:10:01.9980207+00:00",
+      "NumProgressed": 9978,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11291,7 +11296,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11347,7 +11352,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11435,7 +11440,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11611,7 +11616,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4988
+      "UsersEstimate": 4989
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11635,14 +11640,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5088
+      "UsersEstimate": 5089
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9977,
+      "Progressed": 9978,
       "Completed": 10
     }
   ],
@@ -11650,8 +11655,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:10:26.9640742+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:10:01.9980204+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:01:26.6316529+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:10:26.9641398+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:00:48.9934199+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:10:01.9981217+00:00"
 }

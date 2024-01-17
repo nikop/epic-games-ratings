@@ -1,22 +1,23 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 263)  
+Rating: 4.69 (Ranked 241)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,110 |
+| Malpractice Assurance | 14.00% | ~1,111 |
 | Lost and Found | 9.00% | ~714 |
 | Autodidact | 8.00% | ~10,645 |
-| This Belongs in a Museum | 7.00% | ~9,314 |
-| Overdue Notice | 7.00% | ~9,314 |
+| This Belongs in a Museum | 7.00% | ~9,315 |
+| Overdue Notice | 7.00% | ~9,315 |
 | This guy... again? | 7.00% | ~555 |
 | Serenity Now! | 6.00% | ~7,984 |
 | Creep and Sleep | 6.00% | ~7,984 |
 | Meat and Greet | 6.00% | ~7,984 |
 | Catch and Decease | 6.00% | ~7,984 |
 | Escape from the Black Hole | 6.00% | ~7,984 |
+| Rush Hour | 6.00% | ~7,984 |
 | To Grandmother's House | 6.00% | ~7,984 |
 | Ploughshares to Swords | 6.00% | ~476 |
 | Bloody Graduation | 6.00% | ~476 |
@@ -24,27 +25,26 @@ Number of Ratings: 7,767  (23.09.2022)
 | It Rings a Bell | 5.00% | ~6,653 |
 | Not Today! | 5.00% | ~6,653 |
 | It Happens | 5.00% | ~6,653 |
-| Rush Hour | 5.00% | ~6,653 |
 | Merry Time | 5.00% | ~6,653 |
 | Harvest Festival | 5.00% | ~6,653 |
 | Whale | 5.00% | ~6,653 |
 | A Place to Lay Your Head | 5.00% | ~6,653 |
 | FNG | 5.00% | ~6,653 |
 | Nope | 5.00% | ~6,653 |
-| Friends 'Til the End | 5.00% | ~396 |
-| Resurrection | 4.00% | ~5,322 |
-| Unleash Hell | 4.00% | ~5,322 |
-| Funny Guy | 4.00% | ~5,322 |
-| Long Live the King | 4.00% | ~5,322 |
-| Wyrdly Reconstructed | 4.00% | ~5,322 |
-| Unfulfilled Desires | 4.00% | ~5,322 |
-| Dissector | 4.00% | ~5,322 |
-| Banishment | 4.00% | ~5,322 |
-| Now Stay Dead | 4.00% | ~5,322 |
-| Spelunker | 4.00% | ~5,322 |
-| Ramble On | 4.00% | ~5,322 |
-| A Clear Conscience | 4.00% | ~5,322 |
-| Unshackled | 4.00% | ~5,322 |
+| Friends 'Til the End | 5.00% | ~397 |
+| Resurrection | 4.00% | ~5,323 |
+| Unleash Hell | 4.00% | ~5,323 |
+| Funny Guy | 4.00% | ~5,323 |
+| Long Live the King | 4.00% | ~5,323 |
+| Wyrdly Reconstructed | 4.00% | ~5,323 |
+| Unfulfilled Desires | 4.00% | ~5,323 |
+| Dissector | 4.00% | ~5,323 |
+| Banishment | 4.00% | ~5,323 |
+| Now Stay Dead | 4.00% | ~5,323 |
+| Spelunker | 4.00% | ~5,323 |
+| Ramble On | 4.00% | ~5,323 |
+| A Clear Conscience | 4.00% | ~5,323 |
+| Unshackled | 4.00% | ~5,323 |
 | Boxcar Kid | 3.00% | ~3,992 |
 | Hope Rekindled | 3.00% | ~3,992 |
 | Predator | 3.00% | ~3,992 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~79 |
 | For Old Time' Sake | 1.00% | ~79 |
 | Et Tu, Riposte? | 0.90% | ~71 |
-| The World As It Was | 0.80% | ~1,064 |
+| The World As It Was | 0.80% | ~1,065 |
 | A Life Well Lived | 0.70% | ~931 |
 | Bacon Bits | 0.60% | ~798 |
 | Eidetic | 0.60% | ~798 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,060 (Ranked 92)  
+Progressed: 133,065 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,17 +348,17 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,060 | 5 |
+| 2024-01-17 | 133,065 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 52)  
-Sum: 21,698 (Ranked 58)  
+Sum: 21,699 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,031 |
 | This game has Diverse Characters | 1,866 |
 | This game has Challenging Combat | 1,681 |
-| This game is Highly Recommended | 1,608 |
+| This game is Highly Recommended | 1,609 |
 | This game has Amazing Characters | 1,536 |
 | This game is Extremely Fun | 1,527 |
 | This game has Unique Visuals | 1,473 |
@@ -724,4 +724,4 @@ Diff (max vs sum): -6
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
-| 2024-01-17 | 4.68 | - | 8,031 | 21,698 |
+| 2024-01-17 | 4.69 | - | 8,031 | 21,699 |

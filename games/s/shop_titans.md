@@ -6,31 +6,31 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,682 |
-| Titan's First Steps | 11.00% | ~16,682 |
-| Basic in Bulk | 10.00% | ~15,165 |
-| Tinkle of Coins | 10.00% | ~15,165 |
-| Disintermediation | 8.00% | ~12,132 |
-| Capitalism Ho! | 8.00% | ~12,132 |
-| It's Free Real Estate | 7.00% | ~10,616 |
-| Budding Merchant | 7.00% | ~10,616 |
-| One Easy Payment | 6.00% | ~9,099 |
-| Some Assembly Required | 6.00% | ~9,099 |
-| Another Satisfied Customer | 6.00% | ~9,099 |
-| Pretty Penny | 6.00% | ~9,099 |
-| Own the Means of Production | 6.00% | ~9,099 |
+| Sponsored by Argon | 11.00% | ~16,683 |
+| Titan's First Steps | 11.00% | ~16,683 |
+| Basic in Bulk | 10.00% | ~15,166 |
+| Tinkle of Coins | 10.00% | ~15,166 |
+| Disintermediation | 8.00% | ~12,133 |
+| Capitalism Ho! | 8.00% | ~12,133 |
+| It's Free Real Estate | 7.00% | ~10,617 |
+| Budding Merchant | 7.00% | ~10,617 |
+| One Easy Payment | 6.00% | ~9,100 |
+| Some Assembly Required | 6.00% | ~9,100 |
+| Another Satisfied Customer | 6.00% | ~9,100 |
+| Pretty Penny | 6.00% | ~9,100 |
+| Own the Means of Production | 6.00% | ~9,100 |
 | The Daily Grind | 5.00% | ~7,583 |
 | One-Armed Bandit | 5.00% | ~7,583 |
 | Through Repetition, Perfection | 5.00% | ~7,583 |
-| Bounty Hunters | 4.00% | ~6,066 |
-| Demand for Supplies | 4.00% | ~6,066 |
-| Flooding the Market | 4.00% | ~6,066 |
-| Where it Hurts | 4.00% | ~6,066 |
-| Gild-Gotten Goods | 4.00% | ~6,066 |
-| Accomplished Merchant | 4.00% | ~6,066 |
-| Dungeon Imports | 4.00% | ~6,066 |
-| Did we pack lunch? | 4.00% | ~6,066 |
-| Arcane Industries | 4.00% | ~6,066 |
+| Bounty Hunters | 4.00% | ~6,067 |
+| Demand for Supplies | 4.00% | ~6,067 |
+| Flooding the Market | 4.00% | ~6,067 |
+| Where it Hurts | 4.00% | ~6,067 |
+| Gild-Gotten Goods | 4.00% | ~6,067 |
+| Accomplished Merchant | 4.00% | ~6,067 |
+| Dungeon Imports | 4.00% | ~6,067 |
+| Did we pack lunch? | 4.00% | ~6,067 |
+| Arcane Industries | 4.00% | ~6,067 |
 | On the Path to Greatness | 3.00% | ~4,550 |
 | A Notch Above the Rest | 3.00% | ~4,550 |
 | Ascended | 3.00% | ~4,550 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~607 |
 | Capitalist Camaraderie | 0.30% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,653 (Ranked 87)  
-Completed: 358 (0.24%) (Ranked 274)  
+Progressed: 151,665 (Ranked 87)  
+Completed: 359 (0.24%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -391,10 +391,10 @@ Completed: 358 (0.24%) (Ranked 274)
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
 | 2024-01-16 | 151,517 | 355 |
-| 2024-01-17 | 151,653 | 358 |
+| 2024-01-17 | 151,665 | 359 |
 ## Awards
 Max (Great for Beginners): 4,964  (Ranked 81)  
-Sum: 28,007 (Ranked 52)  
+Sum: 28,010 (Ranked 52)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -403,8 +403,8 @@ Diff (max vs sum): 29
 | This game has Quickly Understood Controls | 4,075 |
 | This game has Diverse Characters | 4,040 |
 | This game is Highly Recommended | 3,825 |
-| This game has Easy Combat | 3,776 |
-| This game has Playful Visuals | 3,247 |
+| This game has Easy Combat | 3,777 |
+| This game has Playful Visuals | 3,249 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -760,4 +760,4 @@ Diff (max vs sum): 29
 | 2024-01-14 | 4.00 | - | 4,959 | 27,994 |
 | 2024-01-15 | 4.00 | - | 4,963 | 28,000 |
 | 2024-01-16 | 4.00 | - | 4,964 | 28,006 |
-| 2024-01-17 | 4.00 | - | 4,964 | 28,007 |
+| 2024-01-17 | 4.00 | - | 4,964 | 28,010 |

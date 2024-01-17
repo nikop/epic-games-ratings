@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2566,9 +2566,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226495,
+  "EOS_Progressed": 226504,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 1296,
+  "EOS_NewPlayers": 1300,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33921,6 +33921,11 @@
       "Time": "2024-01-17T17:05:08.9669937+00:00",
       "NumProgressed": 226495,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2024-01-17T18:05:03.4081933+00:00",
+      "NumProgressed": 226504,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 44,
@@ -33932,7 +33937,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24914
+      "UsersEstimate": 24915
     },
     {
       "ID": "AtheistOx",
@@ -33948,7 +33953,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "Chunin",
@@ -34004,7 +34009,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27179
+      "UsersEstimate": 27180
     },
     {
       "ID": "HappyLittleAccidents",
@@ -34028,7 +34033,7 @@
       "Name": "High Five the Moon",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "IceIceYuki",
@@ -34060,7 +34065,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "Meticulous",
@@ -34076,7 +34081,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "MugenUnchained",
@@ -34140,7 +34145,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "RescueTakuma",
@@ -34196,7 +34201,7 @@
       "Name": "The Cave",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "TheEnd",
@@ -34220,7 +34225,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24914
+      "UsersEstimate": 24915
     },
     {
       "ID": "TimeParadox",
@@ -34283,15 +34288,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226495,
+      "Progressed": 226504,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-17T07:58:02.8497251+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:05:08.9669935+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:05:03.4081928+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:58:19.4844392+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:05:08.967159+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:58:30.2744711+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:05:03.40833+00:00"
 }

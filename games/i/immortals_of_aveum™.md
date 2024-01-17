@@ -45,9 +45,9 @@ Rating: 4.19 (Ranked 976)
 | Witch-Taker | 0.90% | ~31 |
 | Backtracker | 0.90% | ~31 |
 | Master of Ultramarine | 0.80% | ~28 |
+| Petite Bourgeoisie | 0.70% | ~24 |
 | Family Business | 0.60% | ~21 |
 | Diplomat | 0.60% | ~21 |
-| Petite Bourgeoisie | 0.60% | ~21 |
 | Master of Malachite | 0.60% | ~21 |
 | Treasure Hunter | 0.50% | ~17 |
 | Out of Time | 0.40% | ~14 |

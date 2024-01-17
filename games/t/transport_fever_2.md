@@ -29,13 +29,13 @@ Number of Ratings: 180  (23.09.2022)
 | High speed | 39.00% | ~970 |
 | Transport shark | 38.00% | ~945 |
 | First aircraft arrived | 38.00% | ~945 |
-| Mass production | 32.00% | ~796 |
+| Mass production | 33.00% | ~821 |
 | Aircraft entrepreneur | 30.00% | ~746 |
 | Crowd in a train | 28.00% | ~696 |
 | The future is now, old man | 28.00% | ~696 |
 | Not in my backyard | 27.00% | ~671 |
+| City | 26.00% | ~647 |
 | The king of the sea | 26.00% | ~647 |
-| City | 25.00% | ~622 |
 | Transport tycoon | 21.00% | ~522 |
 | Old timer | 21.00% | ~522 |
 | Climate change | 20.00% | ~497 |

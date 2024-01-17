@@ -5,48 +5,48 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,460 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,193 |
-| Loose Ends | 33.00% | ~27,364 |
-| To the Victor Go the Spoils | 27.00% | ~22,389 |
-| Knighthood | 26.00% | ~21,559 |
-| Get ReQ'd | 24.00% | ~19,901 |
-| Whispered Words | 24.00% | ~19,901 |
-| The Batman Family | 22.00% | ~18,243 |
-| Lock and Key | 22.00% | ~18,243 |
-| Something in the Clay | 20.00% | ~16,584 |
-| Quartzer Life Crisis | 20.00% | ~16,584 |
-| Working Hard or Harley Working? | 20.00% | ~16,584 |
-| Unstoppable Force | 20.00% | ~16,584 |
-| Bad Apples in Every Orchard | 20.00% | ~16,584 |
-| Snow Problem | 19.00% | ~15,755 |
+| First Step Into the Knight | 50.00% | ~41,463 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,195 |
+| Loose Ends | 33.00% | ~27,366 |
+| To the Victor Go the Spoils | 27.00% | ~22,390 |
+| Knighthood | 26.00% | ~21,561 |
+| Get ReQ'd | 24.00% | ~19,902 |
+| Whispered Words | 24.00% | ~19,902 |
+| The Batman Family | 22.00% | ~18,244 |
+| Lock and Key | 22.00% | ~18,244 |
+| Something in the Clay | 20.00% | ~16,585 |
+| Quartzer Life Crisis | 20.00% | ~16,585 |
+| Working Hard or Harley Working? | 20.00% | ~16,585 |
+| Unstoppable Force | 20.00% | ~16,585 |
+| Bad Apples in Every Orchard | 20.00% | ~16,585 |
+| Snow Problem | 19.00% | ~15,756 |
 | The Show Mud Go On | 17.00% | ~14,097 |
 | From Inside Gotham's Walls | 17.00% | ~14,097 |
-| Protector of Gotham | 16.00% | ~13,267 |
-| In Your Element | 15.00% | ~12,438 |
-| Universal Health Scare | 15.00% | ~12,438 |
-| Rock and a Hard Place | 14.00% | ~11,609 |
-| Cooldown | 14.00% | ~11,609 |
-| Voiceless | 14.00% | ~11,609 |
+| Protector of Gotham | 16.00% | ~13,268 |
+| In Your Element | 15.00% | ~12,439 |
+| Universal Health Scare | 15.00% | ~12,439 |
+| Rock and a Hard Place | 14.00% | ~11,610 |
+| Cooldown | 14.00% | ~11,610 |
+| Voiceless | 14.00% | ~11,610 |
 | Shock Til They Drop | 13.00% | ~10,780 |
 | Seeking Asylum | 13.00% | ~10,780 |
 | End of an Era | 12.00% | ~9,951 |
 | Not On My Watch | 12.00% | ~9,951 |
 | Bulldozed | 12.00% | ~9,951 |
 | Gotham Knight | 12.00% | ~9,951 |
-| Gotham City Confidential | 11.00% | ~9,121 |
+| Gotham City Confidential | 11.00% | ~9,122 |
 | Out of Their League | 9.00% | ~7,463 |
 | Drone You Out | 9.00% | ~7,463 |
 | Solid Alibi | 8.00% | ~6,634 |
-| Fusion Expert | 7.00% | ~5,804 |
-| Family Meeting | 6.00% | ~4,975 |
-| A Worthy Successor | 6.00% | ~4,975 |
+| Fusion Expert | 7.00% | ~5,805 |
+| Family Meeting | 6.00% | ~4,976 |
+| A Worthy Successor | 6.00% | ~4,976 |
 | Expert Crime Fighter | 5.00% | ~4,146 |
 | Dressed to Impress | 4.00% | ~3,317 |
 | A Momentum Occasion | 3.00% | ~2,488 |
 | Bat Out of Hell | 3.00% | ~2,488 |
-| Practice Makes Perfect | 2.00% | ~1,658 |
-| He'd Be So Proud of You | 2.00% | ~1,658 |
+| Practice Makes Perfect | 2.00% | ~1,659 |
+| He'd Be So Proud of You | 2.00% | ~1,659 |
 | Talonted | 1.00% | ~829 |
 | The Man-Bat Family | 1.00% | ~829 |
 | Batarang Collector | 1.00% | ~829 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 976)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,921 (Ranked 110)  
+Progressed: 82,926 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,10 +339,10 @@ Completed: 135 (0.16%) (Ranked 294)
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
 | 2024-01-16 | 82,888 | 135 |
-| 2024-01-17 | 82,921 | 135 |
+| 2024-01-17 | 82,926 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,216  (Ranked 102)  
-Sum: 5,496 (Ranked 143)  
+Sum: 5,497 (Ranked 143)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -350,7 +350,7 @@ Diff (max vs sum): -41
 | This game has Diverse Characters | 293 |
 | This game is Great for Beginners | 292 |
 | This game is Relaxing | 290 |
-| This game is Extremely Fun | 289 |
+| This game is Extremely Fun | 290 |
 | This game has Quickly Understood Controls | 287 |
 | This game has Amazing Characters | 280 |
 | This game has Amazing Storytelling | 278 |
@@ -684,4 +684,4 @@ Diff (max vs sum): -41
 | 2024-01-14 | 4.19 | 3,204 | 5,475 |
 | 2024-01-15 | 4.19 | 3,204 | 5,479 |
 | 2024-01-16 | 4.19 | 3,211 | 5,488 |
-| 2024-01-17 | 4.19 | 3,216 | 5,496 |
+| 2024-01-17 | 4.19 | 3,216 | 5,497 |

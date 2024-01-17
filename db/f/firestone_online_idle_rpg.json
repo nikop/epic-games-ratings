@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -787,9 +787,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4587,
+  "EOS_Progressed": 4588,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12837,6 +12837,11 @@
       "Time": "2024-01-17T17:08:01.0124265+00:00",
       "NumProgressed": 4587,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T18:07:11.6258223+00:00",
+      "NumProgressed": 4588,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12848,7 +12853,7 @@
       "Name": "Active Member",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ancientknowledge",
@@ -12856,7 +12861,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "angelpower",
@@ -12880,7 +12885,7 @@
       "Name": "Background Story",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "beastwarmachines",
@@ -13136,7 +13141,7 @@
       "Name": "Legendary",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "lieutenant",
@@ -13144,7 +13149,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "lockandload",
@@ -13240,7 +13245,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "prestigiousx10",
@@ -13248,7 +13253,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "relicofthepast",
@@ -13312,7 +13317,7 @@
       "Name": "The Alchemist",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "theexpeditioner",
@@ -13408,7 +13413,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4266
+      "UsersEstimate": 4267
     },
     {
       "ID": "warmachinesarmy",
@@ -13440,14 +13445,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4587,
+      "Progressed": 4588,
       "Completed": 2
     }
   ],
@@ -13455,8 +13460,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-16T05:57:17.3089904+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:08:01.0124261+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:07:11.6258218+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:58:18.546659+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:08:01.0125619+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:58:29.6093599+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:07:11.626026+00:00"
 }

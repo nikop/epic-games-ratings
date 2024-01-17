@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12381,
+  "EOS_Progressed": 12382,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -15986,6 +15986,11 @@
       "Time": "2024-01-17T15:04:22.4295335+00:00",
       "NumProgressed": 12381,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2024-01-17T18:04:29.9625649+00:00",
+      "NumProgressed": 12382,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 29,
@@ -15997,7 +16002,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10276
+      "UsersEstimate": 10277
     },
     {
       "ID": "ACH02",
@@ -16005,7 +16010,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4333
+      "UsersEstimate": 4334
     },
     {
       "ID": "ACH03",
@@ -16037,7 +16042,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "ACH07",
@@ -16069,7 +16074,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     },
     {
       "ID": "ACH11",
@@ -16228,7 +16233,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12381,
+      "Progressed": 12382,
       "Completed": 91
     }
   ],
@@ -16236,8 +16241,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-17T17:04:24.6415637+00:00",
+  "LastChanged_Achievements": "2024-01-17T18:04:29.9625645+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:58:22.2688517+00:00",
-  "LastUpdate_Achievements": "2024-01-17T17:04:24.6416349+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:58:32.2978195+00:00",
+  "LastUpdate_Achievements": "2024-01-17T18:04:29.9626707+00:00"
 }

@@ -21,14 +21,14 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 18.00% | ~47 |
 | Eternal Oblivion | 16.00% | ~42 |
 | Banker | 15.00% | ~39 |
+| Storyteller | 14.00% | ~37 |
 | Berserker | 14.00% | ~37 |
-| Storyteller | 13.00% | ~34 |
 | Globetrotter | 13.00% | ~34 |
 | Alb | 11.00% | ~29 |
 | Hunter | 11.00% | ~29 |
 | Lover | 11.00% | ~29 |
+| Beam Me Up | 10.00% | ~26 |
 | Perfectionist | 10.00% | ~26 |
-| Beam Me Up | 9.00% | ~23 |
 | Treasure Hunter | 8.00% | ~21 |
 | Free as a Bird | 8.00% | ~21 |
 | Hotshot | 7.00% | ~18 |

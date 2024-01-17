@@ -33,8 +33,8 @@ Rating: 4.78 (Ranked 112)
 | Full equipped | 24.00% | ~834 |
 | Iffighain Headquarters | 23.00% | ~799 |
 | No more holding back | 20.00% | ~695 |
+| Terbisia | 20.00% | ~695 |
 | Whispers in the Woods II | 19.00% | ~660 |
-| Terbisia | 19.00% | ~660 |
 | Quickmoore Headquarters | 19.00% | ~660 |
 | Whispers in the Woods III | 18.00% | ~625 |
 | Friendly fire | 18.00% | ~625 |
