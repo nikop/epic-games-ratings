@@ -11,7 +11,7 @@
 | The Delivery | 44.00% | ~493 |
 | Shill Bidder | 41.00% | ~459 |
 | The Frenzy | 31.00% | ~347 |
-| Good Karma | 28.00% | ~314 |
+| Good Karma | 29.00% | ~325 |
 | Protector | 27.00% | ~302 |
 | Office Clerk | 26.00% | ~291 |
 | The Bribe | 24.00% | ~269 |
@@ -26,7 +26,7 @@
 | Expert Storyteller | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,120 (Ranked 291)  
-Completed: 13 (1.16%) (Ranked 164)  
+Completed: 13 (1.16%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

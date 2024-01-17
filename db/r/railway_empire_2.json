@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -335,7 +335,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2750,
+  "EOS_Progressed": 2751,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -8130,6 +8130,11 @@
       "Time": "2024-01-17T20:04:12.0386312+00:00",
       "NumProgressed": 2750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T23:05:23.7091662+00:00",
+      "NumProgressed": 2751,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -8221,7 +8226,7 @@
       "Name": "From X to Y",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "A11",
@@ -8229,7 +8234,7 @@
       "Name": "European Union",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "A12",
@@ -8237,7 +8242,7 @@
       "Name": "Departure",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "A13",
@@ -8253,7 +8258,7 @@
       "Name": "A new Journey",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "A15",
@@ -8277,7 +8282,7 @@
       "Name": "Facility Manager",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "A18",
@@ -8317,7 +8322,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "A23",
@@ -8365,7 +8370,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "A29",
@@ -8397,7 +8402,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "A33",
@@ -8413,7 +8418,7 @@
       "Name": "Producer",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "A35",
@@ -8429,7 +8434,7 @@
       "Name": "Way of Iron",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1981
     },
     {
       "ID": "A37",
@@ -8437,7 +8442,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "A38",
@@ -8461,7 +8466,7 @@
       "Name": "Mind the Gap",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "A41",
@@ -8469,7 +8474,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "A42",
@@ -8477,7 +8482,7 @@
       "Name": "Bridge Builder",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "A43",
@@ -8485,7 +8490,7 @@
       "Name": "Mole",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 852
+      "UsersEstimate": 853
     },
     {
       "ID": "A44",
@@ -8493,7 +8498,7 @@
       "Name": "Breaking Ground",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "A45",
@@ -8509,7 +8514,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "A47",
@@ -8517,7 +8522,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "A48",
@@ -8549,7 +8554,7 @@
       "Name": "Call of Duty",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "A52",
@@ -8580,7 +8585,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2750,
+      "Progressed": 2751,
       "Completed": 0
     }
   ],
@@ -8588,8 +8593,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-14T14:57:36.3985254+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:04:11.9000453+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:05:23.7091656+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:22.6650655+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:04:11.9001098+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:00:38.8101016+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:05:23.7092375+00:00"
 }

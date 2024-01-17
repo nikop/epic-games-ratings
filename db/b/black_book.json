@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67597,
+  "EOS_Progressed": 67598,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1275,
+  "EOS_NewPlayers": 1273,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17276,6 +17276,11 @@
       "Time": "2024-01-17T22:03:46.9588761+00:00",
       "NumProgressed": 67597,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-17T23:04:48.8808517+00:00",
+      "NumProgressed": 67598,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17400,7 +17405,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14871
+      "UsersEstimate": 14872
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17687,15 +17692,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67597,
+      "Progressed": 67598,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:03:46.9588758+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:04:48.8808513+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:57:46.4178175+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:03:46.9589635+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:58:18.0704637+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:04:48.8810435+00:00"
 }

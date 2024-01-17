@@ -2305,9 +2305,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 296152,
+  "EOS_Progressed": 296167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2292,
+  "EOS_NewPlayers": 2296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33590,6 +33590,11 @@
       "Time": "2024-01-17T22:05:21.7310136+00:00",
       "NumProgressed": 296152,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T23:07:01.8921558+00:00",
+      "NumProgressed": 296167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -33687,9 +33692,9 @@
       "ID": "ACHIEVEMENT_12",
       "SetID": "83b4cpd",
       "Name": "First but not Last",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 1185
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -33769,7 +33774,7 @@
       "Name": "Full Loot Madness",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -33825,7 +33830,7 @@
       "Name": "Ball Launched",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11846
+      "UsersEstimate": 11847
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -33912,21 +33917,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 296152,
+      "Progressed": 296167,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 14311,
+      "Progressed": 14326,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-16T10:03:20.6406149+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:05:21.7310134+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:07:01.8921554+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.2652437+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:03:22.9330394+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:05:21.7311493+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:04:12.6299765+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:07:01.8923575+00:00"
 }

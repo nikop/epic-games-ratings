@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235511,
+  "EOS_Progressed": 235513,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28060,6 +28060,11 @@
       "Time": "2024-01-17T22:03:59.2578083+00:00",
       "NumProgressed": 235511,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-17T23:05:07.0374905+00:00",
+      "NumProgressed": 235513,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -28135,7 +28140,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84784
+      "UsersEstimate": 84785
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -28231,7 +28236,7 @@
       "Name": "Be Gentle...",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 49457
+      "UsersEstimate": 49458
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -28271,7 +28276,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9420
+      "UsersEstimate": 9421
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -28294,7 +28299,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235511,
+      "Progressed": 235513,
       "Completed": 6
     }
   ],
@@ -28302,8 +28307,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:03:59.2578081+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:05:07.0374901+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:25.4320097+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:03:59.2579202+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:00:42.8032675+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:05:07.0376777+00:00"
 }

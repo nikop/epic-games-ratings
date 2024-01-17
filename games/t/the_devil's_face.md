@@ -20,7 +20,7 @@
 | Humility | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 655 (Ranked 339)  
-Completed: 7 (1.07%) (Ranked 175)  
+Completed: 8 (1.22%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,4 +179,4 @@ Completed: 7 (1.07%) (Ranked 175)
 | 2024-01-13 | 649 | 7 |
 | 2024-01-14 | 652 | 7 |
 | 2024-01-16 | 654 | 7 |
-| 2024-01-17 | 655 | 7 |
+| 2024-01-17 | 655 | 8 |

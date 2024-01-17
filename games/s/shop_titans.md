@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,686 |
-| Titan's First Steps | 11.00% | ~16,686 |
-| Basic in Bulk | 10.00% | ~15,169 |
-| Tinkle of Coins | 10.00% | ~15,169 |
-| Disintermediation | 8.00% | ~12,135 |
-| Capitalism Ho! | 8.00% | ~12,135 |
+| Sponsored by Argon | 11.00% | ~16,687 |
+| Titan's First Steps | 11.00% | ~16,687 |
+| Basic in Bulk | 10.00% | ~15,170 |
+| Tinkle of Coins | 10.00% | ~15,170 |
+| Disintermediation | 8.00% | ~12,136 |
+| Capitalism Ho! | 8.00% | ~12,136 |
 | It's Free Real Estate | 7.00% | ~10,619 |
 | Budding Merchant | 7.00% | ~10,619 |
 | One Easy Payment | 6.00% | ~9,102 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.70% | ~1,062 |
 | Unleashed Potential | 0.70% | ~1,062 |
 | JACKPOT!!! | 0.70% | ~1,062 |
-| Oligarch Monarch | 0.50% | ~758 |
-| Merchant Extraordinaire | 0.50% | ~758 |
+| Oligarch Monarch | 0.50% | ~759 |
+| Merchant Extraordinaire | 0.50% | ~759 |
 | To Hell and Back | 0.40% | ~607 |
 | Cash Only Please | 0.40% | ~607 |
 | Capitalist Camaraderie | 0.30% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,693 (Ranked 87)  
+Progressed: 151,701 (Ranked 87)  
 Completed: 359 (0.24%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 359 (0.24%) (Ranked 274)
 | 2024-01-14 | 151,188 | 354 |
 | 2024-01-15 | 151,322 | 355 |
 | 2024-01-16 | 151,517 | 355 |
-| 2024-01-17 | 151,693 | 359 |
+| 2024-01-17 | 151,701 | 359 |
 ## Awards
 Max (Great for Beginners): 4,964  (Ranked 81)  
 Sum: 28,010 (Ranked 52)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10906,10 +10906,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21711,
       "NumberOfAwardsMax": 8040
+    },
+    {
+      "Time": "2024-01-17T23:00:57.1612827+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21713,
+      "NumberOfAwardsMax": 8040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21711,
+  "NumberOfAwards": 21713,
   "NumberOfAwardsMax": 8040,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10947,7 +10953,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1423
+      "Count": 1425
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10986,9 +10992,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133081,
+  "EOS_Progressed": 133087,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40341,6 +40347,11 @@
       "Time": "2024-01-17T22:10:08.9189299+00:00",
       "NumProgressed": 133081,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T23:11:08.3160713+00:00",
+      "NumProgressed": 133087,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40424,7 +40435,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -40456,7 +40467,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -40472,7 +40483,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -40520,7 +40531,7 @@
       "Name": "Deprogramming",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -40584,7 +40595,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "combat_kill_shambler",
@@ -40608,7 +40619,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -40704,7 +40715,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10646
+      "UsersEstimate": 10647
     },
     {
       "ID": "hero_story_complete_all",
@@ -40752,7 +40763,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -40784,7 +40795,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -40792,7 +40803,7 @@
       "Name": "Eidetic",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "run_end_abandon",
@@ -40816,7 +40827,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "run_victory_act03",
@@ -40864,7 +40875,7 @@
       "Name": "Road Trip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -40888,7 +40899,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "combat_kill_collector",
@@ -40896,7 +40907,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40983,21 +40994,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133081,
+      "Progressed": 133087,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7950,
+      "Progressed": 7956,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-17T20:59:27.4660601+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:10:08.9189297+00:00",
+  "LastChanged": "2024-01-17T23:00:57.1612825+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:11:08.316071+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:34.926282+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:10:08.9190917+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:00:57.1612832+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:11:08.3163368+00:00"
 }

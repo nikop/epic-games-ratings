@@ -12,7 +12,7 @@
 | Open up wide | 37.00% | ~69 |
 | Keep away from children | 37.00% | ~69 |
 | Wooooooow! | 34.00% | ~63 |
-| Artistic fool | 32.00% | ~60 |
+| Artistic fool | 33.00% | ~61 |
 | Let the boot talk | 31.00% | ~58 |
 | Shadow on the wall | 31.00% | ~58 |
 | Chapter II | 26.00% | ~48 |
@@ -22,7 +22,7 @@
 | Quite a buggy game | 23.00% | ~43 |
 | Handyman | 23.00% | ~43 |
 | Achoo!! | 23.00% | ~43 |
-| Pacifist | 20.00% | ~37 |
+| Pacifist | 21.00% | ~39 |
 | Fastidious Clown | 19.00% | ~35 |
 | Mirror mirror on the wall... | 19.00% | ~35 |
 | It's not easy being green! | 18.00% | ~33 |

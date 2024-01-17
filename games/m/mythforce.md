@@ -7,7 +7,7 @@ Number of Ratings: 285  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Faceroll the Bones | 27.00% | ~1,726 |
-| Hit 'Em Where It Hurts | 26.00% | ~1,662 |
+| Hit 'Em Where It Hurts | 27.00% | ~1,726 |
 | Perk Shard Punch Card | 26.00% | ~1,662 |
 | That'll Leave a Mark | 26.00% | ~1,662 |
 | Debuff Dogpile | 25.00% | ~1,598 |
@@ -15,9 +15,9 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 22.00% | ~1,406 |
 | Spending Spree | 19.00% | ~1,214 |
 | Horder Better Faster Stronger | 18.00% | ~1,150 |
+| Ten Steps from the Grave | 16.00% | ~1,023 |
 | Everything Must Go! | 15.00% | ~959 |
 | Next Time on MythForce... | 15.00% | ~959 |
-| Ten Steps from the Grave | 15.00% | ~959 |
 | Cold-Blooded Critters | 11.00% | ~703 |
 | Death Becomes You | 8.00% | ~511 |
 | On this Episode! | 7.00% | ~447 |

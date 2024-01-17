@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2360,
+  "EOS_Progressed": 2361,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4570,6 +4570,11 @@
       "Time": "2024-01-17T22:10:05.9227873+00:00",
       "NumProgressed": 2360,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-17T23:11:04.4695377+00:00",
+      "NumProgressed": 2361,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4581,7 +4586,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "booty_call",
@@ -4605,7 +4610,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "hold_my_beer",
@@ -4700,7 +4705,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2360,
+      "Progressed": 2361,
       "Completed": 12
     }
   ],
@@ -4708,8 +4713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:10:05.9227871+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:11:04.4695375+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.1751476+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:00:24.7485238+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:10:05.9228165+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:02:06.999034+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:11:04.4695701+00:00"
 }

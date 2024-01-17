@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19062,
+  "EOS_Progressed": 19063,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
@@ -12469,6 +12469,11 @@
       "Time": "2024-01-17T22:03:44.8955302+00:00",
       "NumProgressed": 19062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T23:04:46.0885927+00:00",
+      "NumProgressed": 19063,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -12585,7 +12590,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2287
+      "UsersEstimate": 2288
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -12609,7 +12614,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -12625,7 +12630,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -12672,14 +12677,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 19062,
+      "Progressed": 19063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:03:44.89553+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:04:46.0885922+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:08.340545+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:54.9495285+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:03:44.8955901+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:01:24.3857751+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:04:46.0886815+00:00"
 }

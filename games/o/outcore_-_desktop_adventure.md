@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Learned how to jump! | 81.00% | ~43 |
-| Learned how to walk! | 81.00% | ~43 |
-| Defeated Captain Tutorial | 74.00% | ~39 |
-| Immersion Breaking | 55.00% | ~29 |
-| Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 38.00% | ~20 |
-| Defeated Booty The Bootleg | 36.00% | ~19 |
+| Learned how to jump! | 81.00% | ~44 |
+| Learned how to walk! | 81.00% | ~44 |
+| Defeated Captain Tutorial | 72.00% | ~39 |
+| Immersion Breaking | 54.00% | ~29 |
+| Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 37.00% | ~20 |
+| Defeated Booty The Bootleg | 35.00% | ~19 |
 | S̸̛̞̺̞̝͎̒͑̄̽͑̈̔̍̓͆͒̐͊̈́͗̌̔͆̎̉͑̚͘͘̕̚͘͝͝͝Ḁ̶̛̘̱̪͓̣̗̦̺͈̠͔̄͑̋͆̓́͒̀̈́̐̐̾̑͑͆̾͗͌̍͋̂́̿͜͝͝͠͝V̴̡̟̗̮̪͝Ẻ̸̛̛̋͆́͌́̏̐̽̔̀̈̔͗̈́̚͝͝͝ ̸̛̛̀͛̈̍̐͊͊͒̌̍͋̿̅̆̾͂̎́̈́͗́̈́͒̾̐͌̕͘͠͝͝M̷̨̧̡̨̨̡̹͎̞̠̮͕̯̥̰͙̳̱̝̝͙̙̺͍̫̻̳̭̭̎͛͗̑͊͜͜ͅE̷̡̛̛̗͍̰̹͎̳͕͉͇̫̩͎͔͍͉͉͉͎̫̱̮͓͍͉̪̻̠̅̉̃͑̏̎̌̂̆͊͒͆̒̀̈́͑̔̋̎̅̐̆͊̊͗́͆͗͋́͘̕̕͝͝ | 30.00% | ~16 |
 | Too good for this racing mini-game | 30.00% | ~16 |
 | K̸̛̿̀́͛̀̓̎̇̐̀͑̎͒͌͐̈̏́̈̚͝I̶̧̛̙̯̯̳̮̞̺̭̩̬̜̭̿͑̄̈̀͑͛̽̍͆͗́̇͗͘͘͜Ĺ̵̑̾̐͛͐̆̐̂̈́̌̀͑͑̂̉̇́̀͒͂́͑͝L̸͕͓͚̘̖̺͙̫͉̙̜̱͔̮̼̩̜̱̪̻͎̤̩̙̬̹̜̝̮͓͖̤͕̙͊̒͑͌̿̈́͐̄̈́̉͗̌̅̈́̄̀͒̆͒̀̈̃̕͘͝͠ ̴̛̛̛̛̻̞̖̹̟̬̿̒̀̈́̏́̄̏͒̀̑͛̊̿̌̏̉̄̓̈́͋͒͂͊̓̋̿̅͛̈̀̈́͐̾̔̋͘͘M̶̈́͋Ę̴̡̨̡̡̨͎̘̱̥͕͇͖̠̜̤͕̘̭̹̦̪͍̜̟̜̜͍̲̩̝̲̠̻̫̬̪̰͈̣̫̲̲̩͓̟͑̊̃̂͊ | 28.00% | ~15 |
 | Defeated Mistermind | 26.00% | ~14 |
-| Defeated the core of the outside world | 25.00% | ~13 |
-| Internet Explorer | 21.00% | ~11 |
+| Defeated the core of the outside world | 24.00% | ~13 |
+| Internet Explorer | 20.00% | ~11 |
 | LOVE | 19.00% | ~10 |
 | Good boy | 15.00% | ~8 |
 | Pure hearted | 9.00% | ~5 |
 | Murder | 9.00% | ~5 |
-| HIGH striker | 8.00% | ~4 |
+| HIGH striker | 7.00% | ~4 |
 | Booty Master | 6.00% | ~3 |
 | DEMON??? | 6.00% | ~3 |
 | It really wasn't worth it | 4.00% | ~2 |
@@ -31,7 +31,7 @@
 | Love Master | 0.00% | ~0 |
 | No time to waste | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 555)  
+Progressed: 54 (Ranked 555)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,4 +61,4 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2023-12-21 | 49 | 0 |
 | 2023-12-31 | 50 | 0 |
 | 2024-01-09 | 52 | 0 |
-| 2024-01-17 | 53 | 0 |
+| 2024-01-17 | 54 | 0 |

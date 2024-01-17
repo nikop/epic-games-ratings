@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,113 |
+| Malpractice Assurance | 14.00% | ~1,114 |
 | Lost and Found | 9.00% | ~716 |
-| Autodidact | 8.00% | ~10,646 |
+| Autodidact | 8.00% | ~10,647 |
 | This Belongs in a Museum | 7.00% | ~9,316 |
 | Overdue Notice | 7.00% | ~9,316 |
-| This guy... again? | 7.00% | ~556 |
+| This guy... again? | 7.00% | ~557 |
 | Serenity Now! | 6.00% | ~7,985 |
 | Creep and Sleep | 6.00% | ~7,985 |
 | Meat and Greet | 6.00% | ~7,985 |
@@ -45,15 +45,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,323 |
 | A Clear Conscience | 4.00% | ~5,323 |
 | Unshackled | 4.00% | ~5,323 |
-| Boxcar Kid | 3.00% | ~3,992 |
-| Hope Rekindled | 3.00% | ~3,992 |
-| Predator | 3.00% | ~3,992 |
-| Deprogramming | 3.00% | ~3,992 |
-| Reverse Banditry | 3.00% | ~3,992 |
-| When You Want Something Done Right | 3.00% | ~3,992 |
-| Utopia | 3.00% | ~3,992 |
-| Hot Air | 3.00% | ~3,992 |
-| Road Trip | 3.00% | ~3,992 |
+| Boxcar Kid | 3.00% | ~3,993 |
+| Hope Rekindled | 3.00% | ~3,993 |
+| Predator | 3.00% | ~3,993 |
+| Deprogramming | 3.00% | ~3,993 |
+| Reverse Banditry | 3.00% | ~3,993 |
+| When You Want Something Done Right | 3.00% | ~3,993 |
+| Utopia | 3.00% | ~3,993 |
+| Hot Air | 3.00% | ~3,993 |
+| Road Trip | 3.00% | ~3,993 |
 | This Looks Familiar | 2.00% | ~2,662 |
 | Ichthyophobic | 2.00% | ~2,662 |
 | No More Mouths to Feed | 2.00% | ~2,662 |
@@ -71,8 +71,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.90% | ~72 |
 | The World As It Was | 0.80% | ~1,065 |
 | A Life Well Lived | 0.70% | ~932 |
-| Bacon Bits | 0.60% | ~798 |
-| Eidetic | 0.60% | ~798 |
+| Bacon Bits | 0.60% | ~799 |
+| Eidetic | 0.60% | ~799 |
 | On This Long Road, We Found Redemption | 0.60% | ~48 |
 | Battle Hardened | 0.50% | ~40 |
 | Tears in the Rain | 0.40% | ~532 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,081 (Ranked 92)  
+Progressed: 133,087 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,10 +348,10 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,081 | 5 |
+| 2024-01-17 | 133,087 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
-Sum: 21,711 (Ranked 58)  
+Sum: 21,713 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): -6
 | This game is Extremely Fun | 1,527 |
 | This game has Unique Visuals | 1,473 |
 | This game has Amazing Storytelling | 1,453 |
-| This game has Quickly Understood Controls | 1,423 |
+| This game has Quickly Understood Controls | 1,425 |
 | This game has a Creative Community | 1,100 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -724,4 +724,4 @@ Diff (max vs sum): -6
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
-| 2024-01-17 | 4.69 | - | 8,040 | 21,711 |
+| 2024-01-17 | 4.69 | - | 8,040 | 21,713 |

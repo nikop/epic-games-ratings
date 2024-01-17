@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17922,
+  "EOS_Progressed": 17923,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18605,6 +18605,11 @@
       "Time": "2024-01-17T21:05:48.2179276+00:00",
       "NumProgressed": 17922,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-17T23:07:51.9270116+00:00",
+      "NumProgressed": 17923,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18720,7 +18725,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5197
+      "UsersEstimate": 5198
     },
     {
       "ID": "tpote_achievement_22",
@@ -18728,7 +18733,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "tpote_achievement_23",
@@ -18936,22 +18941,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17922,
+      "Progressed": 17923,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:05:57.4174678+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:07:51.9270111+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:03:00.1760524+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:05:57.4175596+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:03:38.8972607+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:07:51.9271792+00:00"
 }

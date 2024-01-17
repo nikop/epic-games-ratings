@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,11 +181,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1481,
-  "EOS_Completed": 48,
-  "EOS_NewPlayers": 48,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.24,
+  "EOS_Progressed": 1482,
+  "EOS_Completed": 49,
+  "EOS_NewPlayers": 49,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5291,6 +5291,11 @@
       "Time": "2024-01-17T19:06:08.1505049+00:00",
       "NumProgressed": 1481,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-17T23:07:40.1492264+00:00",
+      "NumProgressed": 1482,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5300,9 +5305,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 933
+      "UsersEstimate": 919
     },
     {
       "ID": "MQ01_2",
@@ -5310,7 +5315,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "MQ02_1",
@@ -5334,7 +5339,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MQ02_4",
@@ -5342,7 +5347,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 770
+      "UsersEstimate": 771
     },
     {
       "ID": "MQ03_1",
@@ -5350,7 +5355,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "MQ03_2",
@@ -5366,7 +5371,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "MQ03_4",
@@ -5390,7 +5395,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "MQ04_2",
@@ -5406,7 +5411,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "MQ05_1",
@@ -5486,7 +5491,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "MQ08_1",
@@ -5525,16 +5530,16 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1481,
-      "Completed": 48
+      "Progressed": 1482,
+      "Completed": 49
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:05:48.7774986+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:07:40.1492261+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:03:12.9683395+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:05:48.777532+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:03:57.9979747+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:07:40.1492791+00:00"
 }

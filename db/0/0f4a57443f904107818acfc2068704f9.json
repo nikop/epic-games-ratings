@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1309,
+  "EOS_Progressed": 1310,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -3442,6 +3442,11 @@
       "Time": "2024-01-17T17:05:29.9139454+00:00",
       "NumProgressed": 1309,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T23:05:55.3079427+00:00",
+      "NumProgressed": 1310,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3510,7 +3515,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "CompleteChapter10",
@@ -3598,7 +3603,7 @@
       "Name": "Met the Enemy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "CompleteChapter3",
@@ -3622,7 +3627,7 @@
       "Name": "Breathing Easy",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "CompleteChapter6",
@@ -3749,14 +3754,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1309,
+      "Progressed": 1310,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:04:34.369356+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:05:55.3079424+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:41.6938365+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:04:34.3693891+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:01:05.9065019+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:05:55.3080035+00:00"
 }

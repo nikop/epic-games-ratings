@@ -11,7 +11,7 @@
 | The Altruist | 64.00% | ~80 |
 | Watch your Step! | 54.00% | ~68 |
 | MAX LEVEL | 53.00% | ~66 |
-| Tap Dancing | 50.00% | ~62 |
+| Tap Dancing | 51.00% | ~64 |
 | Right between the eyes | 40.00% | ~50 |
 | Starry Night | 38.00% | ~48 |
 | Spring Board | 38.00% | ~48 |

@@ -6,55 +6,55 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,402 |
-| Worth it | 63.00% | ~43,940 |
-| Eagle Eye | 54.00% | ~37,663 |
-| Corpseman I | 39.00% | ~27,201 |
-| Blast fishing | 37.00% | ~25,806 |
-| Not alone | 32.00% | ~22,319 |
-| Headhunter I | 26.00% | ~18,134 |
-| Developers, Developers, Developers | 24.00% | ~16,739 |
-| Manual Labour I | 24.00% | ~16,739 |
-| Basic Training | 23.00% | ~16,042 |
-| Furchtlos und Treu | 13.00% | ~9,067 |
+| Setting an example | 78.00% | ~54,406 |
+| Worth it | 63.00% | ~43,943 |
+| Eagle Eye | 54.00% | ~37,666 |
+| Corpseman I | 39.00% | ~27,203 |
+| Blast fishing | 37.00% | ~25,808 |
+| Not alone | 32.00% | ~22,320 |
+| Headhunter I | 26.00% | ~18,135 |
+| Developers, Developers, Developers | 24.00% | ~16,740 |
+| Manual Labour I | 24.00% | ~16,740 |
+| Basic Training | 23.00% | ~16,043 |
+| Furchtlos und Treu | 13.00% | ~9,068 |
 | Gott Mit Uns | 12.00% | ~8,370 |
-| This We'll Defend! | 9.00% | ~6,277 |
-| For King and Country | 9.00% | ~6,277 |
+| This We'll Defend! | 9.00% | ~6,278 |
+| For King and Country | 9.00% | ~6,278 |
 | Battle hardened | 8.00% | ~5,580 |
 | Anker wirf! | 8.00% | ~5,580 |
 | Providentiea Memor | 8.00% | ~5,580 |
-| Semper Fidelis! | 7.00% | ~4,882 |
-| Honneur et Patrie | 7.00% | ~4,882 |
-| In Treue Fest | 5.00% | ~3,487 |
-| Voor De Koning | 5.00% | ~3,487 |
-| Extreme Headhunter | 5.00% | ~3,487 |
+| Semper Fidelis! | 7.00% | ~4,883 |
+| Honneur et Patrie | 7.00% | ~4,883 |
+| In Treue Fest | 5.00% | ~3,488 |
+| Voor De Koning | 5.00% | ~3,488 |
+| Extreme Headhunter | 5.00% | ~3,488 |
 | Advance Australia | 4.00% | ~2,790 |
 | We Stand on Guard | 4.00% | ~2,790 |
 | Sidi Brahim | 4.00% | ~2,790 |
 | War is better with friends I | 4.00% | ~2,790 |
 | Let them, come to us | 4.00% | ~2,790 |
 | Corpseman II | 4.00% | ~2,790 |
-| Offense is the best defence | 3.00% | ~2,092 |
-| There is no I in team | 3.00% | ~2,092 |
-| Veteran | 3.00% | ~2,092 |
-| Manual Labour II | 3.00% | ~2,092 |
-| In My Defens God Me Defend | 3.00% | ~2,092 |
-| Silver x100 | 3.00% | ~2,092 |
-| Impavidum Ferient Bella! | 3.00% | ~2,092 |
+| Offense is the best defence | 3.00% | ~2,093 |
+| There is no I in team | 3.00% | ~2,093 |
+| Veteran | 3.00% | ~2,093 |
+| Manual Labour II | 3.00% | ~2,093 |
+| In My Defens God Me Defend | 3.00% | ~2,093 |
+| Silver x100 | 3.00% | ~2,093 |
+| Impavidum Ferient Bella! | 3.00% | ~2,093 |
 | Bronze x100 | 2.00% | ~1,395 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,395 |
-| Gold x100 | 1.00% | ~697 |
-| Hunting the Hun | 1.00% | ~697 |
-| #1 | 1.00% | ~697 |
-| Golden Headhunter | 1.00% | ~697 |
-| That's another one down! | 1.00% | ~697 |
-| Do you even die? | 1.00% | ~697 |
-| Headhunter II | 1.00% | ~697 |
-| Corpseman III | 1.00% | ~697 |
+| Gold x100 | 1.00% | ~698 |
+| Hunting the Hun | 1.00% | ~698 |
+| #1 | 1.00% | ~698 |
+| Golden Headhunter | 1.00% | ~698 |
+| That's another one down! | 1.00% | ~698 |
+| Do you even die? | 1.00% | ~698 |
+| Headhunter II | 1.00% | ~698 |
+| Corpseman III | 1.00% | ~698 |
 | Elite Player | 0.80% | ~558 |
 | Manual Labour III | 0.30% | ~209 |
-| War is better with friends II | 0.20% | ~139 |
-| Buddy | 0.20% | ~139 |
+| War is better with friends II | 0.20% | ~140 |
+| Buddy | 0.20% | ~140 |
 | Gold Collector | 0.10% | ~70 |
 | Gold Hoarder | 0.10% | ~70 |
 | Silver Collector | 0.10% | ~70 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,746 (Ranked 116)  
+Progressed: 69,751 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 4 (0.01%) (Ranked 378)
 | 2024-01-14 | 69,530 | 4 |
 | 2024-01-15 | 69,603 | 4 |
 | 2024-01-16 | 69,674 | 4 |
-| 2024-01-17 | 69,746 | 4 |
+| 2024-01-17 | 69,751 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 375)  
 Sum: 838 (Ranked 290)  

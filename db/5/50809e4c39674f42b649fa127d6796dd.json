@@ -1707,9 +1707,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1914,8 +1914,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:08:52.4055968+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:09:20.7879236+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:58:07.2824285+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:08:52.4056342+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:58:46.8787458+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:09:20.7879645+00:00"
 }

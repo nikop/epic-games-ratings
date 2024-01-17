@@ -868,7 +868,7 @@
   ],
   "EOS_Progressed": 6391,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13514,9 +13514,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1726
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13586,9 +13586,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 959
+      "UsersEstimate": 1023
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13618,8 +13618,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-17T21:06:14.8458382+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:04:15.7683716+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:57:39.5478857+00:00",
-  "LastUpdate_Achievements": "2024-01-17T21:06:14.845905+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:58:08.1854309+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:04:15.7685347+00:00"
 }

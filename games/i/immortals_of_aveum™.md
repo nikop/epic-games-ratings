@@ -5,16 +5,16 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,110 |
-| Battlefields Have Memories | 81.00% | ~2,830 |
-| Enlisted | 75.00% | ~2,620 |
-| Maybe Engage a Little | 70.00% | ~2,446 |
-| No More Names | 54.00% | ~1,887 |
+| Unforeseen | 89.00% | ~3,111 |
+| Battlefields Have Memories | 81.00% | ~2,832 |
+| Enlisted | 75.00% | ~2,622 |
+| Maybe Engage a Little | 70.00% | ~2,447 |
+| No More Names | 54.00% | ~1,888 |
 | Initiate | 41.00% | ~1,433 |
-| Thrada-Kul | 37.00% | ~1,293 |
-| Gravity-Challenged Rocks | 31.00% | ~1,083 |
-| Soldier | 26.00% | ~908 |
-| All the Major Food Groups | 26.00% | ~908 |
+| Thrada-Kul | 37.00% | ~1,294 |
+| Gravity-Challenged Rocks | 31.00% | ~1,084 |
+| Soldier | 26.00% | ~909 |
+| All the Major Food Groups | 26.00% | ~909 |
 | Socialite | 25.00% | ~874 |
 | Beggars Would Ride | 24.00% | ~839 |
 | Control is an Illusion | 22.00% | ~769 |
@@ -26,9 +26,9 @@ Rating: 4.19 (Ranked 977)
 | A Perfect Cycle | 16.00% | ~559 |
 | Recruit | 15.00% | ~524 |
 | Armsman | 13.00% | ~454 |
-| Lights Army | 11.00% | ~384 |
-| Periapt Cerulean | 9.00% | ~314 |
-| Good Boy | 9.00% | ~314 |
+| Lights Army | 11.00% | ~385 |
+| Periapt Cerulean | 9.00% | ~315 |
+| Good Boy | 9.00% | ~315 |
 | Best Dressed | 7.00% | ~245 |
 | Periapt Viridian | 7.00% | ~245 |
 | Shroudfane Explorer | 7.00% | ~245 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 977)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,494 (Ranked 228)  
+Progressed: 3,496 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
-| 2024-01-17 | 3,494 | 5 |
+| 2024-01-17 | 3,496 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

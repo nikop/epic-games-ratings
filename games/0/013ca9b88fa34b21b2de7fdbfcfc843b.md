@@ -33,10 +33,10 @@ Rating: 4.64 (Ranked 345)
 | Scattered Scroll Scrounger | 0.70% | ~64 |
 | Azorian Hat Dance | 0.70% | ~12 |
 | Chatty Neighbor | 0.60% | ~55 |
-| I Now Pronounce You... | 0.50% | ~46 |
 | Right Tool For the Job | 0.50% | ~46 |
 | House Proud | 0.50% | ~46 |
 | Going Down | 0.50% | ~9 |
+| I Now Pronounce You... | 0.40% | ~36 |
 | Angling Authority | 0.30% | ~27 |
 | Captain of Cozy | 0.30% | ~27 |
 | Polyglot | 0.30% | ~5 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 345)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,111 (Ranked 187)  
+Progressed: 9,112 (Ranked 187)  
 Completed: 1 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 1 (0.01%) (Ranked 378)
 | 2024-01-14 | 9,068 | 1 |
 | 2024-01-15 | 9,093 | 1 |
 | 2024-01-16 | 9,101 | 1 |
-| 2024-01-17 | 9,111 | 1 |
+| 2024-01-17 | 9,112 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

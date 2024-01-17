@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1379,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4715,9 +4715,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 345
     },
     {
       "ID": "achievement_32",
@@ -4913,8 +4913,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:09:50.4724346+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:10:43.0318301+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:57:39.3333059+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:09:50.4724948+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:58:07.8604035+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:10:43.0319213+00:00"
 }

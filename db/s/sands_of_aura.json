@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2024-01-17T17:06:09.2705095+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T23:06:32.7539237+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -904,7 +909,7 @@
       "Name": "Let Me Solo Them",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "DEFEAT_FERRUM_BOSSES",
@@ -992,7 +997,7 @@
       "Name": "Sovereignty of Irons",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "GRECKKO_MASTER",
@@ -1024,7 +1029,7 @@
       "Name": "A Sandwyrm\u0027s Hoard",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MAVETH_DEFEAT",
@@ -1110,9 +1115,9 @@
       "ID": "START_GAME",
       "SetID": "cm0d613",
       "Name": "Setting Sail",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 126
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -1150,9 +1155,9 @@
       "ID": "WILGRAM_TWINS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Twin Thorns",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "WILGRAM_TWINS_MASTER",
@@ -1175,7 +1180,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -1183,8 +1188,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:05:01.0665065+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:06:32.7539232+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.5513762+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:37.5835265+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:05:01.0665454+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:01:00.9514771+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:06:32.753979+00:00"
 }

@@ -452,9 +452,9 @@
       "ID": "ACH_FIVE_STARS_MANAGER",
       "SetID": "1lnhagg",
       "Name": "Five Star Manager",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FRANCHISE_PLAYER",
@@ -468,9 +468,9 @@
       "ID": "ACH_FULL_ARENA",
       "SetID": "1lnhagg",
       "Name": "Full Arena",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_HALL_OF_FAME",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:09:01.9385963+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:09:34.2281596+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:57:12.4487394+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:09:01.9386204+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:57:28.2871911+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:09:34.2281918+00:00"
 }

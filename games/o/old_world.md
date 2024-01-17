@@ -11,25 +11,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 4.00% | ~678 |
 | Intrepid | 4.00% | ~678 |
 | Friendly Family | 4.00% | ~678 |
-| Able | 3.00% | ~508 |
-| Ambitious | 3.00% | ~508 |
-| Architect | 3.00% | ~508 |
-| Enlightened | 3.00% | ~508 |
-| Glorious | 3.00% | ~508 |
-| Good | 3.00% | ~508 |
-| Just | 3.00% | ~508 |
-| Keystone | 3.00% | ~508 |
-| Learned | 3.00% | ~508 |
-| Mason | 3.00% | ~508 |
-| Noble | 3.00% | ~508 |
-| Pioneer | 3.00% | ~508 |
-| Strong | 3.00% | ~508 |
-| Hanging Gardens | 3.00% | ~508 |
-| Oracle | 3.00% | ~508 |
-| Pyramids | 3.00% | ~508 |
-| Judaism | 3.00% | ~508 |
-| Naming Landmarks | 3.00% | ~508 |
-| Trade Caravan | 3.00% | ~508 |
+| Able | 3.00% | ~509 |
+| Ambitious | 3.00% | ~509 |
+| Architect | 3.00% | ~509 |
+| Enlightened | 3.00% | ~509 |
+| Glorious | 3.00% | ~509 |
+| Good | 3.00% | ~509 |
+| Just | 3.00% | ~509 |
+| Keystone | 3.00% | ~509 |
+| Learned | 3.00% | ~509 |
+| Mason | 3.00% | ~509 |
+| Noble | 3.00% | ~509 |
+| Pioneer | 3.00% | ~509 |
+| Strong | 3.00% | ~509 |
+| Hanging Gardens | 3.00% | ~509 |
+| Oracle | 3.00% | ~509 |
+| Pyramids | 3.00% | ~509 |
+| Judaism | 3.00% | ~509 |
+| Naming Landmarks | 3.00% | ~509 |
+| Trade Caravan | 3.00% | ~509 |
 | Regicide | 2.00% | ~339 |
 | Drillmaster | 2.00% | ~339 |
 | Brilliant | 2.00% | ~339 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,950 (Ranked 169)  
+Progressed: 16,952 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,950 | 5 |
+| 2024-01-17 | 16,952 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,936 (Ranked 223)  

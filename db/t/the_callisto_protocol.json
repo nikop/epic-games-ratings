@@ -2291,9 +2291,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22511,
+  "EOS_Progressed": 22513,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14271,6 +14271,11 @@
       "Time": "2024-01-17T22:09:55.4927051+00:00",
       "NumProgressed": 22511,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T23:10:49.7844999+00:00",
+      "NumProgressed": 22513,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14314,7 +14319,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6078
+      "UsersEstimate": 6079
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14402,7 +14407,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14410,7 +14415,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "KILL_ROBOT",
@@ -14450,7 +14455,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4502
+      "UsersEstimate": 4503
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14474,7 +14479,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14498,7 +14503,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14522,7 +14527,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "STORY_TOWER",
@@ -14538,7 +14543,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "DISMEMBER_100",
@@ -14650,20 +14655,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22511,
+      "Progressed": 22513,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10437,
+      "Progressed": 10439,
       "Completed": 29
     }
   ],
@@ -14671,8 +14676,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:09:55.492705+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:10:49.7844996+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:03:19.3835445+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:09:55.4927771+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:04:07.216917+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:10:49.7846629+00:00"
 }

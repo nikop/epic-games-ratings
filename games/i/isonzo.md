@@ -6,20 +6,20 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,090 |
-| Tutti Eroi! | 50.00% | ~4,990 |
-| Peak Performance | 45.00% | ~4,491 |
+| You Shall Not Pass | 51.00% | ~5,091 |
+| Tutti Eroi! | 50.00% | ~4,991 |
+| Peak Performance | 45.00% | ~4,492 |
 | Avanti Savoia! | 44.00% | ~4,392 |
-| Mamma Mia! | 35.00% | ~3,493 |
+| Mamma Mia! | 35.00% | ~3,494 |
 | Gabriele D'Annunzio | 32.00% | ~3,194 |
 | Conrad von Hotzensocks | 31.00% | ~3,094 |
 | Silver Lining | 27.00% | ~2,695 |
 | Aurelio Baruzzi | 20.00% | ~1,996 |
 | Decimation | 20.00% | ~1,996 |
-| Donatello | 19.00% | ~1,896 |
-| Insubordination | 19.00% | ~1,896 |
-| The Italian Job | 19.00% | ~1,896 |
-| Veni Vidi Vici | 19.00% | ~1,896 |
+| Donatello | 19.00% | ~1,897 |
+| Insubordination | 19.00% | ~1,897 |
+| The Italian Job | 19.00% | ~1,897 |
+| Veni Vidi Vici | 19.00% | ~1,897 |
 | Ragazzi del '99 | 17.00% | ~1,697 |
 | Luigi Cadorna | 16.00% | ~1,597 |
 | The Lion of the Isonzo | 14.00% | ~1,397 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 9.00% | ~898 |
 | I Have the High Ground | 9.00% | ~898 |
 | Millenial | 9.00% | ~898 |
-| The Show Must Go On | 8.00% | ~798 |
-| Tosca | 8.00% | ~798 |
+| The Show Must Go On | 8.00% | ~799 |
+| Tosca | 8.00% | ~799 |
 | 12th Bottle of the Isonzo | 6.00% | ~599 |
 | The Enlightment | 6.00% | ~599 |
 | Cercatore d'Oro | 5.00% | ~499 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,981 (Ranked 184)  
+Progressed: 9,982 (Ranked 184)  
 Completed: 10 (0.10%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 10 (0.10%) (Ranked 316)
 | 2024-01-14 | 9,942 | 10 |
 | 2024-01-15 | 9,955 | 10 |
 | 2024-01-16 | 9,969 | 10 |
-| 2024-01-17 | 9,981 | 10 |
+| 2024-01-17 | 9,982 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 481)  
 Sum: 343 (Ranked 372)  

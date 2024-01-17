@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~230 |
-| Digging a Hole | 77.00% | ~206 |
+| Digging a Hole | 78.00% | ~209 |
 | It's Yours, My Friend | 74.00% | ~198 |
 | Conducted Trade | 68.00% | ~182 |
 | Going Places | 66.00% | ~177 |

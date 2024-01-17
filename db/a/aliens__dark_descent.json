@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -575,7 +575,7 @@
   ],
   "EOS_Progressed": 6480,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10302,9 +10302,9 @@
       "ID": "ACH_MISSION_12",
       "SetID": "816efe",
       "Name": "Abysmal Horrors",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1231
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10391,8 +10391,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:06:18.3039693+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:08:20.4675482+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:14.3159737+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:06:18.3040306+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:00:26.1364755+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:08:20.4676446+00:00"
 }

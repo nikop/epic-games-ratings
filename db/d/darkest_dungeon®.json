@@ -4,10 +4,10 @@
   "ProductSlug": "darkest-dungeon",
   "Ranking_Rating": 134,
   "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 100,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-12-25T16:00:00+00:00",
@@ -5979,10 +5979,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 9402,
       "NumberOfAwardsMax": 3464
+    },
+    {
+      "Time": "2024-01-17T22:58:10.8070853+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 9404,
+      "NumberOfAwardsMax": 3464
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9402,
+  "NumberOfAwards": 9404,
   "NumberOfAwardsMax": 3464,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5996,7 +6002,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 650
+      "Count": 652
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6064,8 +6070,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2024-01-17T10:57:13.6132766+00:00",
+  "LastChanged": "2024-01-17T22:58:10.8070852+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:42.8375948+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:57:41.3514684+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:09:39.3640358+00:00"
+  "LastUpdate_Ratings": "2024-01-17T22:58:10.8070857+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:10:27.204351+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 709,
-  "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 456,
+  "Ranking_Rating": 743,
+  "Ranking_Popularity": 406,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-16T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-11-30T13:08:42.1369127+00:00",
@@ -521,18 +521,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 130,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2024-01-17T23:03:59.7081154+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 134,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 130,
-  "NumberOfAwardsMax": 75,
+  "NumberOfAwards": 134,
+  "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 75
+      "Count": 79
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -553,8 +559,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-01-15T22:03:13.5515188+00:00",
+  "LastChanged": "2024-01-17T23:03:59.7081153+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:10.2758074+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:03:14.0849988+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:04:59.5837002+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:03:59.7081157+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:06:30.848632+00:00"
 }

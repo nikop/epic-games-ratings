@@ -6,21 +6,21 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,476 |
-| Battering Crew | 19.00% | ~6,401 |
-| The Kingsroad | 17.00% | ~5,727 |
+| Conqueror | 40.00% | ~13,478 |
+| Battering Crew | 19.00% | ~6,402 |
+| The Kingsroad | 17.00% | ~5,728 |
 | Well Stocked | 13.00% | ~4,380 |
 | Royal Fleet | 12.00% | ~4,043 |
 | The Kraken’s Grasp | 9.00% | ~3,032 |
-| Daggers in the Dark | 8.00% | ~2,695 |
-| Alliance | 8.00% | ~2,695 |
-| Winter is Coming | 7.00% | ~2,358 |
-| Oathkeeper | 7.00% | ~2,358 |
-| Influential | 7.00% | ~2,358 |
-| A Long Journey | 7.00% | ~2,358 |
-| Ours is the Fury | 6.00% | ~2,021 |
-| We Do Not Sow | 6.00% | ~2,021 |
-| Defender of the Wall | 6.00% | ~2,021 |
+| Daggers in the Dark | 8.00% | ~2,696 |
+| Alliance | 8.00% | ~2,696 |
+| Winter is Coming | 7.00% | ~2,359 |
+| Oathkeeper | 7.00% | ~2,359 |
+| Influential | 7.00% | ~2,359 |
+| A Long Journey | 7.00% | ~2,359 |
+| Ours is the Fury | 6.00% | ~2,022 |
+| We Do Not Sow | 6.00% | ~2,022 |
+| Defender of the Wall | 6.00% | ~2,022 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,685 |
 | Growing Strong | 5.00% | ~1,685 |
 | Hear me Roar! | 5.00% | ~1,685 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~674 |
 | War of the Five Kings | 1.00% | ~337 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,691 (Ranked 141)  
+Progressed: 33,694 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,16 +301,16 @@ Completed: 88 (0.26%) (Ranked 270)
 | 2024-01-14 | 33,463 | 87 |
 | 2024-01-15 | 33,534 | 88 |
 | 2024-01-16 | 33,616 | 88 |
-| 2024-01-17 | 33,691 | 88 |
+| 2024-01-17 | 33,694 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 353)  
-Sum: 814 (Ranked 292)  
+Sum: 815 (Ranked 292)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |
 | This game is Extremely Fun | 114 |
-| This game is Highly Recommended | 113 |
+| This game is Highly Recommended | 114 |
 | This game has Competitive Players | 101 |
 | This game is Relaxing | 99 |
 | This game has Amazing Storytelling | 95 |
@@ -427,3 +427,4 @@ Diff (max vs sum): 61
 | 2024-01-12 | 4.21 | - | 129 | 812 |
 | 2024-01-14 | 4.21 | - | 129 | 813 |
 | 2024-01-16 | 4.21 | - | 129 | 814 |
+| 2024-01-17 | 4.21 | - | 129 | 815 |

@@ -10848,9 +10848,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95874,
+  "EOS_Progressed": 95878,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2133,
+  "EOS_NewPlayers": 2124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40073,6 +40073,11 @@
       "Time": "2024-01-17T22:10:17.6621721+00:00",
       "NumProgressed": 95874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T23:11:19.6448854+00:00",
+      "NumProgressed": 95878,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40084,7 +40089,7 @@
       "Name": "Against all odds",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 14381
+      "UsersEstimate": 14382
     },
     {
       "ID": "Apple of my eye",
@@ -40100,7 +40105,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 23968
+      "UsersEstimate": 23970
     },
     {
       "ID": "Best served cold",
@@ -40172,7 +40177,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9587
+      "UsersEstimate": 9588
     },
     {
       "ID": "Entrepreneur",
@@ -40252,7 +40257,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 14381
+      "UsersEstimate": 14382
     },
     {
       "ID": "I spit on your grave",
@@ -40260,7 +40265,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9587
+      "UsersEstimate": 9588
     },
     {
       "ID": "Jack of All Trades",
@@ -40276,7 +40281,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17257
+      "UsersEstimate": 17258
     },
     {
       "ID": "Kingslayer",
@@ -40308,7 +40313,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33556
+      "UsersEstimate": 33557
     },
     {
       "ID": "Lawbringer",
@@ -40316,7 +40321,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41226
+      "UsersEstimate": 41228
     },
     {
       "ID": "Lawmaker",
@@ -40324,7 +40329,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23010
+      "UsersEstimate": 23011
     },
     {
       "ID": "Long live the Empire",
@@ -40404,7 +40409,7 @@
       "Name": "Slice \u0027n dice",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Strike",
@@ -40428,7 +40433,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10546
+      "UsersEstimate": 10547
     },
     {
       "ID": "The king is pleased",
@@ -40436,7 +40441,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19175
+      "UsersEstimate": 19176
     },
     {
       "ID": "This Is Our Land",
@@ -40460,7 +40465,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28762
+      "UsersEstimate": 28763
     },
     {
       "ID": "Undercover",
@@ -40484,22 +40489,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9587
+      "UsersEstimate": 9588
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95874,
+      "Progressed": 95878,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-17T18:59:47.0741296+00:00",
-  "LastChanged_Achievements": "2024-01-17T22:10:17.6621719+00:00",
+  "LastChanged_Achievements": "2024-01-17T23:11:19.6448851+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-17T21:59:35.524789+00:00",
-  "LastUpdate_Achievements": "2024-01-17T22:10:17.6623721+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:00:58.0602712+00:00",
+  "LastUpdate_Achievements": "2024-01-17T23:11:19.6451248+00:00"
 }
