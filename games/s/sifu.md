@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,683 |
-| Life is your teacher | 5.00% | ~38,069 |
-| Lightning Hands | 5.00% | ~38,069 |
-| The Assault | 4.00% | ~30,455 |
-| The Hateful Pole Fighter | 3.00% | ~22,841 |
-| Stuntmaster | 3.00% | ~22,841 |
-| Street Fighting | 3.00% | ~22,841 |
-| State of constant learning | 3.00% | ~22,841 |
-| Qi Gong: Essence | 3.00% | ~22,841 |
-| Old Child | 3.00% | ~22,841 |
+| The Old Grandmaster | 6.00% | ~45,684 |
+| Life is your teacher | 5.00% | ~38,070 |
+| Lightning Hands | 5.00% | ~38,070 |
+| The Assault | 4.00% | ~30,456 |
+| The Hateful Pole Fighter | 3.00% | ~22,842 |
+| Stuntmaster | 3.00% | ~22,842 |
+| Street Fighting | 3.00% | ~22,842 |
+| State of constant learning | 3.00% | ~22,842 |
+| Qi Gong: Essence | 3.00% | ~22,842 |
+| Old Child | 3.00% | ~22,842 |
 | A Lady's Blood in the Snow | 2.00% | ~15,228 |
 | Lady Wing Chun | 2.00% | ~15,228 |
 | Furious Fists | 2.00% | ~15,228 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,614 |
 | Kung-Fu Tussle | 1.00% | ~7,614 |
 | Project Arena | 1.00% | ~707 |
-| Fight the way you practice | 0.80% | ~565 |
+| Fight the way you practice | 0.80% | ~566 |
 | Muk Yan Master | 0.70% | ~5,330 |
 | Tiger on Fire | 0.70% | ~5,330 |
 | Detective Story | 0.70% | ~5,330 |
@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.60% | ~424 |
 | Prodigal Child | 0.50% | ~3,807 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,807 |
-| The best strikes are the ones we avoid | 0.50% | ~353 |
+| The best strikes are the ones we avoid | 0.50% | ~354 |
 | Knowledge Greed | 0.40% | ~3,046 |
 | The Pit Protector | 0.40% | ~3,046 |
 | Come Snap With Me | 0.40% | ~3,046 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,379 (Ranked 26)  
+Progressed: 761,399 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,379 | 12,990 |
+| 2024-01-17 | 761,399 | 12,990 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
 Sum: 12,778 (Ranked 87)  

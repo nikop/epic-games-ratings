@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -85,7 +85,7 @@
   "Tags": [],
   "EOS_Progressed": 773,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4.4,
   "EosHistory": [
@@ -2669,9 +2669,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_main07storm_classified",
@@ -3030,8 +3030,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-14T23:58:07.1773064+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:25.7473626+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:10:33.9235505+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:10.1218713+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:25.7474291+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:00:35.8366158+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:10:33.9236252+00:00"
 }

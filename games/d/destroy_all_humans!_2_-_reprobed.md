@@ -33,10 +33,10 @@ Number of Ratings: 90  (23.09.2022)
 | Yettisoned | 5.00% | ~22 |
 | Arkvoodle Doodle | 5.00% | ~22 |
 | Deincarnated | 3.00% | ~13 |
+| Against All Odds | 2.00% | ~9 |
 | Forbidden Donut | 2.00% | ~9 |
 | The Optional Mandate | 2.00% | ~9 |
-| Against All Odds | 1.00% | ~4 |
-| Arty Facts | 0.90% | ~4 |
+| Arty Facts | 1.00% | ~4 |
 | Gotta Catch All the Pop Art | 0.90% | ~4 |
 | This Is Earth Radio | 0.90% | ~4 |
 | Hidden Human Hive Harvest | 0.90% | ~4 |

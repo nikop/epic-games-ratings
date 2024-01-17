@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1225,
+  "EOS_Progressed": 1226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3751,6 +3751,11 @@
       "Time": "2024-01-17T13:15:53.5976122+00:00",
       "NumProgressed": 1225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T14:11:12.8529978+00:00",
+      "NumProgressed": 1226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -3770,7 +3775,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "CHIEF",
@@ -3786,7 +3791,7 @@
       "Name": "CLEANER",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "DEBTOR",
@@ -3800,9 +3805,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 662
     },
     {
       "ID": "FIRST_100K",
@@ -3810,7 +3815,7 @@
       "Name": "FIRST $100K",
       "Percentage": 2,
       "XP": 145,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FIRST_500K",
@@ -3826,7 +3831,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "INTRODUCTION",
@@ -3873,7 +3878,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1225,
+      "Progressed": 1226,
       "Completed": 0
     }
   ],
@@ -3881,8 +3886,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:53.5976118+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:11:12.8529975+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.6770489+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:43.2644132+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:53.5976416+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:01:25.9952658+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:11:12.8530242+00:00"
 }

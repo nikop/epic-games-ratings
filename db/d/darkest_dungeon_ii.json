@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10968,9 +10968,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133051,
+  "EOS_Progressed": 133053,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40278,6 +40278,11 @@
       "Time": "2024-01-17T13:15:56.9447967+00:00",
       "NumProgressed": 133051,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T14:11:17.4219823+00:00",
+      "NumProgressed": 133053,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40833,7 +40838,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40920,21 +40925,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133051,
+      "Progressed": 133053,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7920,
-      "Completed": 828
+      "Progressed": 7922,
+      "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-17T10:00:21.5461283+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:56.9447963+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:11:17.4219821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:04.9829979+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:56.9450105+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:00:29.7373294+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:11:17.4221961+00:00"
 }

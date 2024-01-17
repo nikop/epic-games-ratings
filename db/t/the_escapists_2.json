@@ -2,12 +2,12 @@
   "ID": "115577f4ef1e4055aaf0da534fdfe81e",
   "Name": "The Escapists 2",
   "ProductSlug": "the-escapists-2",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -1334,10 +1334,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 459,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-01-17T14:01:41.6894167+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 460,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 459,
+  "NumberOfAwards": 460,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1369,7 +1375,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1419,8 +1425,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2024-01-13T10:57:58.7262518+00:00",
+  "LastChanged": "2024-01-17T14:01:41.6894166+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.3332+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:54.1866137+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:09:27.8715139+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:01:41.689417+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:04:23.859479+00:00"
 }

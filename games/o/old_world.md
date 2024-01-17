@@ -157,6 +157,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
 | Cothon | 0.30% | ~51 |
+| Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
@@ -192,7 +193,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Before the Mongol Horde | 0.10% | ~17 |
 | Blade of the Monkey | 0.10% | ~17 |
 | Hagia Sophia in Byzantion | 0.10% | ~17 |
-| Bronze Victory (Carthage 1) | 0.10% | ~17 |
 | Epic Victory (Carthage 1) | 0.10% | ~17 |
 | Gold Victory (Carthage 1) | 0.10% | ~17 |
 | Silver Victory (Carthage 1) | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,940 (Ranked 169)  
+Progressed: 16,943 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,940 | 5 |
+| 2024-01-17 | 16,943 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,935 (Ranked 223)  

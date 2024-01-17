@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -867,17 +867,17 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 70,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 70,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "EpicACHV_12",
@@ -891,17 +891,17 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 70,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "EpicACHV_14",
       "SetID": "acn799d",
       "Name": "Rhinosaber",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "EpicACHV_15",
@@ -939,9 +939,9 @@
       "ID": "EpicACHV_3",
       "SetID": "acn799d",
       "Name": "13th Deer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 70,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "EpicACHV_4",
@@ -963,17 +963,17 @@
       "ID": "EpicACHV_6",
       "SetID": "acn799d",
       "Name": "Dunkleosteus",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 70,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "EpicACHV_7",
       "SetID": "acn799d",
       "Name": "Town Musicians of Bremen",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 70,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "EpicACHV_8",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:05.5696887+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:10:06.2034612+00:00",
   "LastUpdate_AppInfo": "2024-01-10T15:57:09.3841485+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:03:47.3108218+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:05.5697094+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:58:36.5735867+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:10:06.2034714+00:00"
 }

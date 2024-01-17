@@ -5,17 +5,17 @@ Rating: 4.51 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,570 |
-| FIRST BLOOD | 40.00% | ~161,396 |
-| KEVIN! | 30.00% | ~121,047 |
-| JACK OF ALL TRADES | 23.00% | ~92,802 |
-| CRIMINAL | 20.00% | ~80,698 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,419 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,349 |
-| HONORS STUDENT | 8.00% | ~32,279 |
-| BUTCHER | 6.00% | ~24,209 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,174 |
-| RAMBO | 5.00% | ~20,174 |
+| MASTER CHEF | 45.00% | ~181,579 |
+| FIRST BLOOD | 40.00% | ~161,403 |
+| KEVIN! | 30.00% | ~121,052 |
+| JACK OF ALL TRADES | 23.00% | ~92,807 |
+| CRIMINAL | 20.00% | ~80,702 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,421 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,351 |
+| HONORS STUDENT | 8.00% | ~32,281 |
+| BUTCHER | 6.00% | ~24,210 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,175 |
+| RAMBO | 5.00% | ~20,175 |
 | HELL'S KITCHEN | 4.00% | ~16,140 |
 | CELEBRITY | 3.00% | ~12,105 |
 | MARTYR | 3.00% | ~12,105 |
@@ -26,15 +26,15 @@ Rating: 4.51 (Ranked 596)
 | LAW-ABIDING CITIZEN | 1.00% | ~4,035 |
 | PRUDENT | 1.00% | ~4,035 |
 | SCATTERBRAIN | 0.80% | ~3,228 |
-| HIGH TECHNOLOGIES | 0.70% | ~2,824 |
+| HIGH TECHNOLOGIES | 0.70% | ~2,825 |
 | TASTE UNTASTY | 0.60% | ~2,421 |
 | DEBTOR | 0.20% | ~807 |
 | I'VE SEEN SOME… | 0.20% | ~807 |
-| CORRUPTIONIST | 0.10% | ~403 |
-| MISTER ALL THUMBS | 0.10% | ~403 |
-| TRAVELER | 0.10% | ~403 |
+| CORRUPTIONIST | 0.10% | ~404 |
+| MISTER ALL THUMBS | 0.10% | ~404 |
+| TRAVELER | 0.10% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,489 (Ranked 50)  
+Progressed: 403,508 (Ranked 50)  
 Completed: 61 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 61 (0.02%) (Ranked 368)
 | 2024-01-14 | 402,485 | 59 |
 | 2024-01-15 | 402,893 | 61 |
 | 2024-01-16 | 403,288 | 61 |
-| 2024-01-17 | 403,489 | 61 |
+| 2024-01-17 | 403,508 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

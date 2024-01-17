@@ -4,7 +4,7 @@
   "ProductSlug": "hell-pie-edc41f",
   "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:22.1752723+00:00",
   "LastChanged": "2023-03-31T05:57:22.1752724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.7554705+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:04:49.9614092+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:11:25.7841939+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:00:07.5776149+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:07:10.1270476+00:00"
 }

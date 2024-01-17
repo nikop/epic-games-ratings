@@ -5,15 +5,15 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,685 |
-| On the Top Step | 83.00% | ~15,218 |
-| Setting up for Success | 69.00% | ~12,651 |
+| Getting on the Step | 91.00% | ~16,686 |
+| On the Top Step | 83.00% | ~15,219 |
+| Setting up for Success | 69.00% | ~12,652 |
 | Team Orders | 68.00% | ~12,468 |
 | Engineer | 45.00% | ~8,251 |
 | Familiar Faces | 42.00% | ~7,701 |
 | Going the Extra Mile | 36.00% | ~6,601 |
 | Sharing the Love | 33.00% | ~6,051 |
-| Hitting a Season | 27.00% | ~4,950 |
+| Hitting a Season | 27.00% | ~4,951 |
 | A Dozen Pieces | 25.00% | ~4,584 |
 | Making History | 25.00% | ~4,584 |
 | Network Success | 23.00% | ~4,217 |
@@ -35,8 +35,8 @@ Rating: 4.64 (Ranked 344)
 | Lightning Round the World | 9.00% | ~1,650 |
 | Hitting a Bullseye | 9.00% | ~1,650 |
 | Spinning Around | 9.00% | ~1,650 |
-| Undisputed Winner | 7.00% | ~1,283 |
-| Recycle | 7.00% | ~1,283 |
+| Undisputed Winner | 7.00% | ~1,284 |
+| Recycle | 7.00% | ~1,284 |
 | Tinkerer | 6.00% | ~1,100 |
 | For all Those Back at the Factory | 5.00% | ~917 |
 | Living up to Expectations | 4.00% | ~733 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,335 (Ranked 163)  
+Progressed: 18,336 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 18,178 | 0 |
 | 2024-01-15 | 18,246 | 0 |
 | 2024-01-16 | 18,312 | 0 |
-| 2024-01-17 | 18,335 | 0 |
+| 2024-01-17 | 18,336 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 448 (Ranked 348)  

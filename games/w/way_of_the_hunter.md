@@ -6,6 +6,7 @@ Number of Ratings: 190  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| In Need of New Shoes | 0.10% | ~3 |
 | Ahoooooooooy! | 0.00% | ~0 |
 | Arctic Edge | 0.00% | ~0 |
 | Aurora Gazer | 0.00% | ~0 |
@@ -17,7 +18,6 @@ Number of Ratings: 190  (23.09.2022)
 | Flower Girl | 0.00% | ~0 |
 | Go Big or Go Home | 0.00% | ~0 |
 | Hours of Work | 0.00% | ~0 |
-| In Need of New Shoes | 0.00% | ~0 |
 | Like Father, Like Son | 0.00% | ~0 |
 | Like the Back of My Hand | 0.00% | ~0 |
 | Nice to Meet You | 0.00% | ~0 |
@@ -34,7 +34,7 @@ Number of Ratings: 190  (23.09.2022)
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,548 (Ranked 240)  
+Progressed: 2,550 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 2,482 | 0 |
 | 2024-01-15 | 2,514 | 0 |
 | 2024-01-16 | 2,538 | 0 |
-| 2024-01-17 | 2,548 | 0 |
+| 2024-01-17 | 2,550 | 0 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 430)  
 Sum: 384 (Ranked 365)  

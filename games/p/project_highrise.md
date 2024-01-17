@@ -52,6 +52,7 @@
 | I'm Busy Ruling | 5.00% | ~27 |
 | Careful Constructor | 5.00% | ~27 |
 | Meet Me at HQ | 5.00% | ~27 |
+| Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | Maximum Reuse | 5.00% | ~27 |
 | Revenue Royalty | 5.00% | ~27 |
@@ -60,7 +61,6 @@
 | Meet ADA/360 | 4.00% | ~21 |
 | Penthouse in the Sky | 4.00% | ~21 |
 | Baron of Business | 4.00% | ~21 |
-| Sky High Stature | 4.00% | ~21 |
 | Tuned In | 4.00% | ~21 |
 | Decorator's Touch | 3.00% | ~16 |
 | Office Bigwigs | 3.00% | ~16 |

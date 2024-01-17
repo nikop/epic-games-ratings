@@ -509,9 +509,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535780,
+  "EOS_Progressed": 535781,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29504,6 +29504,11 @@
       "Time": "2024-01-17T13:14:39.573467+00:00",
       "NumProgressed": 535780,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-17T14:09:28.8701436+00:00",
+      "NumProgressed": 535781,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 57,
@@ -29515,7 +29520,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123229
+      "UsersEstimate": 123230
     },
     {
       "ID": "10",
@@ -29531,7 +29536,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375046
+      "UsersEstimate": 375047
     },
     {
       "ID": "12",
@@ -29547,7 +29552,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69651
+      "UsersEstimate": 69652
     },
     {
       "ID": "14",
@@ -29771,7 +29776,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 182165
+      "UsersEstimate": 182166
     },
     {
       "ID": "4",
@@ -29859,7 +29864,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 182165
+      "UsersEstimate": 182166
     },
     {
       "ID": "5",
@@ -29899,7 +29904,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123229
+      "UsersEstimate": 123230
     },
     {
       "ID": "54",
@@ -29970,15 +29975,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535780,
+      "Progressed": 535781,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:14:39.5734667+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:09:28.8701433+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:03:49.9292915+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:14:39.5736253+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:58:40.844809+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:09:28.8703094+00:00"
 }

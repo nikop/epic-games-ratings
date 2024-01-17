@@ -573,9 +573,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6471,
+  "EOS_Progressed": 6472,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9978,6 +9978,11 @@
       "Time": "2024-01-17T10:08:16.7525204+00:00",
       "NumProgressed": 6471,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T14:07:56.2718207+00:00",
+      "NumProgressed": 6472,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10045,7 +10050,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10085,7 +10090,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4206
+      "UsersEstimate": 4207
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10101,7 +10106,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10109,7 +10114,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3753
+      "UsersEstimate": 3754
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10149,7 +10154,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1036
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -10165,7 +10170,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10205,7 +10210,7 @@
       "Name": "Making a Stand",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "ACH_MISSION_05",
@@ -10261,7 +10266,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10285,7 +10290,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10309,7 +10314,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10341,14 +10346,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6471,
+      "Progressed": 6472,
       "Completed": 3
     }
   ],
@@ -10356,8 +10361,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:11:58.1555356+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:07:56.2718203+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:04:42.9211248+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:11:58.1556036+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:59:57.6825292+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:07:56.2719218+00:00"
 }

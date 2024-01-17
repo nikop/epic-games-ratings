@@ -9625,9 +9625,9 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254383,
+  "EOS_Progressed": 254390,
   "EOS_Completed": 2622,
-  "EOS_NewPlayers": 1223,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40495,6 +40495,11 @@
       "Time": "2024-01-17T13:16:12.7169124+00:00",
       "NumProgressed": 254383,
       "NumCompleted": 2622
+    },
+    {
+      "Time": "2024-01-17T14:11:37.940651+00:00",
+      "NumProgressed": 254390,
+      "NumCompleted": 2622
     }
   ],
   "TotalAchievements": 546,
@@ -40506,7 +40511,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10175
+      "UsersEstimate": 10176
     },
     {
       "ID": "objective_completed_10",
@@ -42370,7 +42375,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "objective_completed_40",
@@ -42992,9 +42997,9 @@
       "ID": "objective_completed_59",
       "SetID": "cc37lbc",
       "Name": "Running of the Saurs",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_590",
@@ -44873,21 +44878,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220657,
+      "Progressed": 220664,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254383,
+      "Progressed": 254390,
       "Completed": 2622
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:16:12.7169118+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:11:37.9406507+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:04:23.6780771+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:16:12.7192353+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:59:28.9992238+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:11:37.943008+00:00"
 }

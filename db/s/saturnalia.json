@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70623,
+  "EOS_Progressed": 70626,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20673,6 +20673,11 @@
       "Time": "2024-01-17T12:04:12.6799395+00:00",
       "NumProgressed": 70623,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-17T14:05:30.2459666+00:00",
+      "NumProgressed": 70626,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -20684,7 +20689,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_BONFIRES",
@@ -20716,7 +20721,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -20732,7 +20737,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -20772,7 +20777,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -20780,7 +20785,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -20828,7 +20833,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_TOOLS",
@@ -20843,7 +20848,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70623,
+      "Progressed": 70626,
       "Completed": 18
     }
   ],
@@ -20851,8 +20856,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:10:14.3980269+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:05:30.2459662+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:29.1840104+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:03:17.1677877+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:10:14.3982172+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:57:48.8993911+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:05:30.2460733+00:00"
 }

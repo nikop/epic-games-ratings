@@ -34,8 +34,8 @@ Rating: 4.65 (Ranked 321)
 | Fall In Love With A Parasite | 0.60% | ~15 |
 | Sequel-Bait | 0.50% | ~126 |
 | Carried Stan's Load To Completion | 0.50% | ~126 |
+| A Starfish Is Born | 0.40% | ~101 |
 | Playing Favorites | 0.40% | ~101 |
-| A Starfish Is Born | 0.30% | ~75 |
 | Meet Frasier from Frasier | 0.30% | ~7 |
 | Epic Legendary Prize | 0.20% | ~50 |
 | Playing Card To Get | 0.20% | ~50 |

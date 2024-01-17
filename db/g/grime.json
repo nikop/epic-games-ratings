@@ -1903,7 +1903,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168625,
+  "EOS_Progressed": 168629,
   "EOS_Completed": 461,
   "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 7,
@@ -23423,6 +23423,11 @@
       "Time": "2024-01-17T13:10:25.0441521+00:00",
       "NumProgressed": 168625,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-17T14:05:43.9444824+00:00",
+      "NumProgressed": 168629,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23507,7 +23512,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3372
+      "UsersEstimate": 3373
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23515,7 +23520,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -23523,7 +23528,7 @@
       "Name": "Artisan",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -23563,7 +23568,7 @@
       "Name": "Hush",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -23603,7 +23608,7 @@
       "Name": "Inevitable",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -23643,7 +23648,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -23683,7 +23688,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -23802,21 +23807,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168208,
+      "Progressed": 168212,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168625,
+      "Progressed": 168629,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-16T20:59:20.2590652+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:10:25.0441516+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:05:43.944482+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:23.8643792+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:10:25.0442715+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:00:56.7963124+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:05:43.9446417+00:00"
 }

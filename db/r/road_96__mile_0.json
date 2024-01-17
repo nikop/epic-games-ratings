@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -2712,6 +2712,11 @@
       "Time": "2024-01-17T13:15:56.5309657+00:00",
       "NumProgressed": 736,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T14:11:16.8900029+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2729,9 +2734,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 280
+      "UsersEstimate": 273
     },
     {
       "ID": "completeact3",
@@ -2795,7 +2800,7 @@
       "Name": "Souvenirs",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "scoreminrankrp1",
@@ -2809,9 +2814,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 37
     },
     {
       "ID": "scoreminrankrp3",
@@ -2827,7 +2832,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "scoreminrankrv2",
@@ -2842,7 +2847,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 3
     }
   ],
@@ -2850,8 +2855,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:56.5309652+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:11:16.8900026+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:14.1731778+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:56.5309916+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:00:42.0589168+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:11:16.8900399+00:00"
 }

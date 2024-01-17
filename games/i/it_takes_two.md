@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~99,916 |
-| Struck A Pose | 82.00% | ~98,712 |
-| Look At Him Go | 69.00% | ~83,063 |
-| On Rails Experience | 45.00% | ~54,171 |
-| A Daring Devil | 44.00% | ~52,968 |
-| Break the Bank | 33.00% | ~39,726 |
-| It Took Two | 32.00% | ~38,522 |
-| Bug Sized Relaxation | 14.00% | ~16,853 |
-| Plastic Prison Breakers | 13.00% | ~15,650 |
-| Terror Of The Seven Seas | 10.00% | ~12,038 |
-| Realize Your Art | 8.00% | ~9,630 |
-| Force Triangulated | 8.00% | ~9,630 |
-| Meditation Maestro | 8.00% | ~9,630 |
-| Something Fishy | 7.00% | ~8,427 |
-| Snackosaurus | 6.00% | ~7,223 |
-| Platforming Prodigy | 6.00% | ~7,223 |
-| Lost And Found | 6.00% | ~7,223 |
-| Mood Swing | 5.00% | ~6,019 |
-| Faraway Frequencies | 3.00% | ~3,611 |
-| Minigame Megalomania | 2.00% | ~2,408 |
+| Fried Friendship | 83.00% | ~100,004 |
+| Struck A Pose | 82.00% | ~98,799 |
+| Look At Him Go | 69.00% | ~83,136 |
+| On Rails Experience | 45.00% | ~54,219 |
+| A Daring Devil | 44.00% | ~53,014 |
+| Break the Bank | 33.00% | ~39,761 |
+| It Took Two | 32.00% | ~38,556 |
+| Bug Sized Relaxation | 14.00% | ~16,868 |
+| Plastic Prison Breakers | 13.00% | ~15,663 |
+| Terror Of The Seven Seas | 10.00% | ~12,049 |
+| Realize Your Art | 8.00% | ~9,639 |
+| Force Triangulated | 8.00% | ~9,639 |
+| Meditation Maestro | 8.00% | ~9,639 |
+| Something Fishy | 7.00% | ~8,434 |
+| Snackosaurus | 6.00% | ~7,229 |
+| Platforming Prodigy | 6.00% | ~7,229 |
+| Lost And Found | 6.00% | ~7,229 |
+| Mood Swing | 5.00% | ~6,024 |
+| Faraway Frequencies | 3.00% | ~3,615 |
+| Minigame Megalomania | 2.00% | ~2,410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120,381 (Ranked 95)  
-Completed: 283 (0.24%) (Ranked 274)  
+Progressed: 120,487 (Ranked 95)  
+Completed: 283 (0.23%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,4 +149,4 @@ Completed: 283 (0.24%) (Ranked 274)
 | 2024-01-14 | 117,217 | 263 |
 | 2024-01-15 | 118,472 | 270 |
 | 2024-01-16 | 119,720 | 280 |
-| 2024-01-17 | 120,381 | 283 |
+| 2024-01-17 | 120,487 | 283 |

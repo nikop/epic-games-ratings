@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19097,
+  "EOS_Progressed": 19098,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17624,6 +17624,11 @@
       "Time": "2024-01-17T13:11:48.7113884+00:00",
       "NumProgressed": 19097,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T14:07:42.6057611+00:00",
+      "NumProgressed": 19098,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17668,7 +17673,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3628
+      "UsersEstimate": 3629
     },
     {
       "ID": "14",
@@ -17915,13 +17920,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19097,
+      "Progressed": 19098,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5051,
+      "Progressed": 5052,
       "Completed": 1333
     }
   ],
@@ -17929,8 +17934,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:11:48.7113879+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:07:42.6057608+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:23.1722355+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:11:48.7115241+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:00:55.7697899+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:07:42.6058431+00:00"
 }

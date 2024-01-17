@@ -19,39 +19,39 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.20% | ~2,107 |
 | All the President's Men | 0.20% | ~364 |
 | Arachnophobia | 0.20% | ~364 |
-| City Lights | 0.10% | ~1,053 |
-| To Bad Decisions! | 0.10% | ~1,053 |
-| Bushido and Chill | 0.10% | ~1,053 |
-| To Protect and Serve | 0.10% | ~1,053 |
-| The Wandering Fool | 0.10% | ~1,053 |
-| Autojock | 0.10% | ~1,053 |
-| Frequent Flyer | 0.10% | ~1,053 |
-| Gun Fu | 0.10% | ~1,053 |
-| Gunslinger | 0.10% | ~1,053 |
-| Master Crafter | 0.10% | ~1,053 |
-| I Am The Law | 0.10% | ~1,053 |
-| Mean Streets | 0.10% | ~1,053 |
-| Little Tokyo | 0.10% | ~1,053 |
-| The Quick and the Dead | 0.10% | ~1,053 |
-| Must Be Rats | 0.10% | ~1,053 |
-| Breathtaking | 0.10% | ~1,053 |
-| The Wasteland | 0.10% | ~1,053 |
-| Daemon In The Shell | 0.10% | ~1,053 |
-| Ten out of Ten | 0.10% | ~1,053 |
-| Temperance | 0.10% | ~1,053 |
-| Rough Landing | 0.10% | ~1,053 |
-| The Devil | 0.10% | ~1,053 |
-| The Fool | 0.10% | ~1,053 |
-| The Star | 0.10% | ~1,053 |
-| The Sun | 0.10% | ~1,053 |
-| The World | 0.10% | ~1,053 |
-| Greetings from Pacifica! | 0.10% | ~1,053 |
-| The Jungle | 0.10% | ~1,053 |
-| True Warrior | 0.10% | ~1,053 |
-| Two Heads, One Bullet | 0.10% | ~1,053 |
-| Judy vs Night City | 0.10% | ~1,053 |
-| V for Vendetta | 0.10% | ~1,053 |
-| It's Elementary | 0.10% | ~1,053 |
+| City Lights | 0.10% | ~1,054 |
+| To Bad Decisions! | 0.10% | ~1,054 |
+| Bushido and Chill | 0.10% | ~1,054 |
+| To Protect and Serve | 0.10% | ~1,054 |
+| The Wandering Fool | 0.10% | ~1,054 |
+| Autojock | 0.10% | ~1,054 |
+| Frequent Flyer | 0.10% | ~1,054 |
+| Gun Fu | 0.10% | ~1,054 |
+| Gunslinger | 0.10% | ~1,054 |
+| Master Crafter | 0.10% | ~1,054 |
+| I Am The Law | 0.10% | ~1,054 |
+| Mean Streets | 0.10% | ~1,054 |
+| Little Tokyo | 0.10% | ~1,054 |
+| The Quick and the Dead | 0.10% | ~1,054 |
+| Must Be Rats | 0.10% | ~1,054 |
+| Breathtaking | 0.10% | ~1,054 |
+| The Wasteland | 0.10% | ~1,054 |
+| Daemon In The Shell | 0.10% | ~1,054 |
+| Ten out of Ten | 0.10% | ~1,054 |
+| Temperance | 0.10% | ~1,054 |
+| Rough Landing | 0.10% | ~1,054 |
+| The Devil | 0.10% | ~1,054 |
+| The Fool | 0.10% | ~1,054 |
+| The Star | 0.10% | ~1,054 |
+| The Sun | 0.10% | ~1,054 |
+| The World | 0.10% | ~1,054 |
+| Greetings from Pacifica! | 0.10% | ~1,054 |
+| The Jungle | 0.10% | ~1,054 |
+| True Warrior | 0.10% | ~1,054 |
+| Two Heads, One Bullet | 0.10% | ~1,054 |
+| Judy vs Night City | 0.10% | ~1,054 |
+| V for Vendetta | 0.10% | ~1,054 |
+| It's Elementary | 0.10% | ~1,054 |
 | The APB is Not Enough | 0.10% | ~182 |
 | Spin Doctor | 0.10% | ~182 |
 | Relic Ruler | 0.10% | ~182 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,470 (Ranked 17)  
-Completed: 3,112 (0.30%) (Ranked 262)  
+Progressed: 1,053,512 (Ranked 17)  
+Completed: 3,113 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,10 +346,10 @@ Completed: 3,112 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,470 | 3,112 |
+| 2024-01-17 | 1,053,512 | 3,113 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
-Sum: 500,346 (Ranked 8)  
+Sum: 500,511 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -358,7 +358,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 31,882 |
 | This game has Diverse Characters | 31,206 |
 | This game is Highly Recommended | 29,649 |
-| This game has Amazing Storytelling | 29,087 |
+| This game has Amazing Storytelling | 29,252 |
 | This game is Extremely Fun | 28,975 |
 | This game has Amazing Characters | 28,676 |
 | This game is Relaxing | 27,815 |
@@ -730,4 +730,4 @@ Diff (max vs sum): 0
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
-| 2024-01-17 | 4.67 | - | 141,060 | 500,346 |
+| 2024-01-17 | 4.67 | - | 141,060 | 500,511 |

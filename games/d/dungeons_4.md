@@ -25,7 +25,7 @@ Rating: 4.73 (Ranked 179)
 | Minions, Minions! | 55.00% | ~425 |
 | Hard Work | 55.00% | ~425 |
 | “… like son” | 54.00% | ~417 |
-| YOU SHALL NOT PASS! | 50.00% | ~386 |
+| YOU SHALL NOT PASS! | 51.00% | ~394 |
 | The Cathedral of Light | 50.00% | ~386 |
 | Shame! Shame! Shame! | 50.00% | ~386 |
 | Tanos' Crusade Against Thalya | 48.00% | ~371 |

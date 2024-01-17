@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,459 |
+| First Step Into the Knight | 50.00% | ~41,460 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,192 |
 | Loose Ends | 33.00% | ~27,363 |
 | To the Victor Go the Spoils | 27.00% | ~22,388 |
 | Knighthood | 26.00% | ~21,559 |
-| Get ReQ'd | 24.00% | ~19,900 |
-| Whispered Words | 24.00% | ~19,900 |
+| Get ReQ'd | 24.00% | ~19,901 |
+| Whispered Words | 24.00% | ~19,901 |
 | The Batman Family | 22.00% | ~18,242 |
 | Lock and Key | 22.00% | ~18,242 |
 | Something in the Clay | 20.00% | ~16,584 |
@@ -19,7 +19,7 @@ Rating: 4.19 (Ranked 976)
 | Working Hard or Harley Working? | 20.00% | ~16,584 |
 | Unstoppable Force | 20.00% | ~16,584 |
 | Bad Apples in Every Orchard | 20.00% | ~16,584 |
-| Snow Problem | 19.00% | ~15,754 |
+| Snow Problem | 19.00% | ~15,755 |
 | The Show Mud Go On | 17.00% | ~14,096 |
 | From Inside Gotham's Walls | 17.00% | ~14,096 |
 | Protector of Gotham | 16.00% | ~13,267 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 976)
 | Gotham City Confidential | 11.00% | ~9,121 |
 | Out of Their League | 9.00% | ~7,463 |
 | Drone You Out | 9.00% | ~7,463 |
-| Solid Alibi | 8.00% | ~6,633 |
+| Solid Alibi | 8.00% | ~6,634 |
 | Fusion Expert | 7.00% | ~5,804 |
 | Family Meeting | 6.00% | ~4,975 |
 | A Worthy Successor | 6.00% | ~4,975 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 976)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,918 (Ranked 110)  
+Progressed: 82,919 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 135 (0.16%) (Ranked 294)
 | 2024-01-14 | 82,782 | 134 |
 | 2024-01-15 | 82,834 | 134 |
 | 2024-01-16 | 82,888 | 135 |
-| 2024-01-17 | 82,918 | 135 |
+| 2024-01-17 | 82,919 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,216  (Ranked 102)  
 Sum: 5,496 (Ranked 143)  

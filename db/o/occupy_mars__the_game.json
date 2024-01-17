@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1894,
+  "EOS_Progressed": 1895,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5095,6 +5095,11 @@
       "Time": "2024-01-17T08:10:18.0070302+00:00",
       "NumProgressed": 1894,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T14:10:48.7552074+00:00",
+      "NumProgressed": 1895,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5296,9 +5301,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 474
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -5322,7 +5327,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5352,9 +5357,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 474
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -5384,9 +5389,9 @@
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -5442,7 +5447,7 @@
       "Name": "Space Forest",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -5466,7 +5471,7 @@
       "Name": "Bob The Builder",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -5489,7 +5494,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1894,
+      "Progressed": 1895,
       "Completed": 0
     }
   ],
@@ -5497,8 +5502,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-16T15:59:32.5251341+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:36.3176868+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:10:48.755207+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.4882555+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:05:35.9150944+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:36.3177481+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:01:14.8359875+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:10:48.7552621+00:00"
 }

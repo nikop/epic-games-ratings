@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -308,7 +308,7 @@
   ],
   "EOS_Progressed": 442,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2061,7 +2061,7 @@
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
       "SetID": "4n84pon",
       "Name": "Arty Facts",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -2085,9 +2085,9 @@
       "ID": "ACH_COMPLETE_ALL_OJ",
       "SetID": "4n84pon",
       "Name": "Against All Odds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_COMPLETE_ARK01",
@@ -2382,8 +2382,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:25.5170439+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:10:33.7986028+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:04:23.5519251+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:25.5171028+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:59:28.8062418+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:10:33.7986379+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
@@ -1717,9 +1717,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2548,
+  "EOS_Progressed": 2550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5347,6 +5347,11 @@
       "Time": "2024-01-17T11:09:58.6830478+00:00",
       "NumProgressed": 2548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T14:11:20.2289745+00:00",
+      "NumProgressed": 2550,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T12:10:13.2139946+00:00",
@@ -5445,9 +5450,9 @@
       "ID": "IN_A_NEED_FOR_NEW_SHOES",
       "SetID": "d5e5a3e",
       "Name": "In Need of New Shoes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "LIKE_A_FATHER_LIKE_A_SON",
@@ -5574,7 +5579,7 @@
     {
       "ID": "d5e5a3e",
       "IsBase": true,
-      "Progressed": 2548,
+      "Progressed": 2550,
       "Completed": 0
     }
   ],
@@ -5582,8 +5587,8 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
   "LastChanged": "2024-01-16T11:02:49.9884384+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:15:59.0518396+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:11:20.2289742+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:12.6048414+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:08:48.5686721+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:15:59.0518807+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:03:24.3788732+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:11:20.2290138+00:00"
 }

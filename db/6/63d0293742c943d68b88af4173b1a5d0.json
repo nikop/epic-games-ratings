@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -2714,9 +2714,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 323
     },
     {
       "ID": "9",
@@ -2874,9 +2874,9 @@
       "ID": "Remake_20",
       "SetID": "5pi96jj",
       "Name": "Dug Straight Down",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "Remake_21",
@@ -2905,8 +2905,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-17T13:10:00.118977+00:00",
+  "LastChanged_Achievements": "2024-01-17T14:05:09.8799147+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:04:20.742547+00:00",
-  "LastUpdate_Achievements": "2024-01-17T13:10:00.1190129+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:59:24.9375125+00:00",
+  "LastUpdate_Achievements": "2024-01-17T14:05:09.879976+00:00"
 }
