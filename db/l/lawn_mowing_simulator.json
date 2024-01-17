@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2242,9 +2242,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 698137,
+  "EOS_Progressed": 698141,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2252,
+  "EOS_NewPlayers": 2247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33582,6 +33582,11 @@
       "Time": "2024-01-17T10:11:31.7537699+00:00",
       "NumProgressed": 698137,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-17T11:10:04.3959883+00:00",
+      "NumProgressed": 698141,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -33593,7 +33598,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 551528
+      "UsersEstimate": 551531
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -33673,7 +33678,7 @@
       "Name": "Where there\u0027s muck there\u0027s brass",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27925
+      "UsersEstimate": 27926
     },
     {
       "ID": "COMPLETE_ONE_CONTRACT",
@@ -33681,7 +33686,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 251329
+      "UsersEstimate": 251331
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -33833,7 +33838,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 216422
+      "UsersEstimate": 216424
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -33913,7 +33918,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 27925
+      "UsersEstimate": 27926
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -34009,7 +34014,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 62832
+      "UsersEstimate": 62833
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -34017,22 +34022,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 27925
+      "UsersEstimate": 27926
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 698137,
+      "Progressed": 698141,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2024-01-10T21:59:15.2512846+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:31.7537695+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:10:04.3959881+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.5018357+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:58:09.2438409+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:31.7539135+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:57:37.149739+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:10:04.3962265+00:00"
 }

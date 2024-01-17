@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83755,
+  "EOS_Progressed": 83757,
   "EOS_Completed": 944,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30502,6 +30502,11 @@
       "Time": "2024-01-17T10:04:24.7953445+00:00",
       "NumProgressed": 83755,
       "NumCompleted": 944
+    },
+    {
+      "Time": "2024-01-17T11:03:23.8595563+00:00",
+      "NumProgressed": 83757,
+      "NumCompleted": 944
     }
   ],
   "TotalAchievements": 25,
@@ -30529,7 +30534,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15913
+      "UsersEstimate": 15914
     },
     {
       "ID": "Audiophile",
@@ -30545,7 +30550,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18426
+      "UsersEstimate": 18427
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30633,15 +30638,15 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15913
+      "UsersEstimate": 15914
     },
     {
       "ID": "Nice Try",
       "SetID": "1e8d2nk",
       "Name": "Nice Try",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 13401
+      "UsersEstimate": 14239
     },
     {
       "ID": "Nothing Left to Say",
@@ -30705,14 +30710,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6700
+      "UsersEstimate": 6701
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83755,
+      "Progressed": 83757,
       "Completed": 944
     }
   ],
@@ -30720,8 +30725,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:04:24.7953441+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:03:23.8595556+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:00:17.02856+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:04:24.7954995+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:59:08.1934984+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:03:23.8597417+00:00"
 }

@@ -10,6 +10,7 @@ Number of Ratings: 190  (23.09.2022)
 | Like the Back of My Hand | 0.10% | ~3 |
 | Not Great, Not Terrible | 0.10% | ~3 |
 | Sportsman stage | 0.10% | ~3 |
+| Top of the Pyramid | 0.10% | ~3 |
 | Ahoooooooooy! | 0.00% | ~0 |
 | Arctic Edge | 0.00% | ~0 |
 | Aurora Gazer | 0.00% | ~0 |
@@ -30,11 +31,10 @@ Number of Ratings: 190  (23.09.2022)
 | Swinging Duck | 0.00% | ~0 |
 | Task Force Aurora | 0.00% | ~0 |
 | Task Force Tikamoon | 0.00% | ~0 |
-| Top of the Pyramid | 0.00% | ~0 |
 | Welcome to the land of vamp… chamois! | 0.00% | ~0 |
 | Worth the View | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,547 (Ranked 240)  
+Progressed: 2,548 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 2,482 | 0 |
 | 2024-01-15 | 2,514 | 0 |
 | 2024-01-16 | 2,538 | 0 |
-| 2024-01-17 | 2,547 | 0 |
+| 2024-01-17 | 2,548 | 0 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 430)  
 Sum: 384 (Ranked 365)  

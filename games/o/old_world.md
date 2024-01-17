@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~677 |
 | Friendly Family | 4.00% | ~677 |
 | Able | 3.00% | ~508 |
+| Ambitious | 3.00% | ~508 |
 | Architect | 3.00% | ~508 |
 | Enlightened | 3.00% | ~508 |
 | Glorious | 3.00% | ~508 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~508 |
 | Trade Caravan | 3.00% | ~508 |
 | Regicide | 2.00% | ~339 |
-| Ambitious | 2.00% | ~339 |
 | Brilliant | 2.00% | ~339 |
 | Fountainhead | 2.00% | ~339 |
 | Great | 2.00% | ~339 |

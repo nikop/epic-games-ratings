@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1068,9 +1068,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16492,
+  "EOS_Progressed": 16493,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18373,6 +18373,11 @@
       "Time": "2024-01-17T09:09:59.784578+00:00",
       "NumProgressed": 16492,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2024-01-17T11:09:51.173561+00:00",
+      "NumProgressed": 16493,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 34,
@@ -18456,7 +18461,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACH11",
@@ -18544,7 +18549,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "ACH22",
@@ -18552,7 +18557,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3463
+      "UsersEstimate": 3464
     },
     {
       "ID": "ACH23",
@@ -18655,7 +18660,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16492,
+      "Progressed": 16493,
       "Completed": 101
     }
   ],
@@ -18663,8 +18668,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-16T06:57:22.4598154+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:15.3455353+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:09:51.1735607+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:58:19.743575+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:15.3456391+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:57:44.2157074+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:09:51.1736959+00:00"
 }

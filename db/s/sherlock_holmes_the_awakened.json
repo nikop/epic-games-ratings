@@ -5,9 +5,9 @@
   "Ranking_Rating": 579,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1468,
+  "EOS_Progressed": 1469,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
@@ -5261,6 +5261,11 @@
       "Time": "2024-01-17T10:07:08.7000888+00:00",
       "NumProgressed": 1468,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-17T11:05:26.3568306+00:00",
+      "NumProgressed": 1469,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -5280,7 +5285,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "MQ02_1",
@@ -5312,7 +5317,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "MQ03_1",
@@ -5328,7 +5333,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "MQ03_3",
@@ -5360,7 +5365,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "MQ04_2",
@@ -5432,7 +5437,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "MQ06_4",
@@ -5480,7 +5485,7 @@
       "Name": "Fhtagn!",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "PLTN",
@@ -5495,7 +5500,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1468,
+      "Progressed": 1469,
       "Completed": 48
     }
   ],
@@ -5503,8 +5508,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:07:08.7000882+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:05:26.3568302+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:03:59.0574096+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:07:08.7001338+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:03:04.3558484+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:05:26.35689+00:00"
 }

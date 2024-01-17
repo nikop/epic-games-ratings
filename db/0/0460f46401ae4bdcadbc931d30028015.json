@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 1005,
   "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1743,9 +1743,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 10923,
+  "EOS_Progressed": 10924,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11783,6 +11783,11 @@
       "Time": "2024-01-17T10:04:19.5118646+00:00",
       "NumProgressed": 10923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T11:03:20.0500567+00:00",
+      "NumProgressed": 10924,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11962,7 +11967,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10923,
+      "Progressed": 10924,
       "Completed": 0
     }
   ],
@@ -11970,8 +11975,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-17T01:52:00.8207003+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:04:19.5118643+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:03:20.0500562+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:03:22.7610828+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:04:19.5119263+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:02:37.075703+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:03:20.05015+00:00"
 }

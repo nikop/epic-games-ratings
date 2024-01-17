@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16741,
+  "EOS_Progressed": 16742,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6842,6 +6842,11 @@
       "Time": "2024-01-17T09:09:42.52435+00:00",
       "NumProgressed": 16741,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-17T11:09:33.8341399+00:00",
+      "NumProgressed": 16742,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6878,7 +6883,7 @@
       "Name": "Versatile",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACH_AE_13",
@@ -7133,7 +7138,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16741,
+      "Progressed": 16742,
       "Completed": 16
     }
   ],
@@ -7141,8 +7146,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:10:52.0851715+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:09:33.8341396+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:59:57.9674914+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:10:52.085229+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:53.2992049+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:09:33.8342072+00:00"
 }

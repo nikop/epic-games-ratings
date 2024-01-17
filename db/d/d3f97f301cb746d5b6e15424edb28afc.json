@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 336,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -5466,9 +5466,9 @@
       "ID": "GSS_ACH_52_UPGRADE_WORKSHOP_02",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 2",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1072
     },
     {
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
@@ -5723,8 +5723,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:06:39.3486502+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:05:04.4489894+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:07.7335688+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:58:44.9550763+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:06:39.3487471+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:02.9777643+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:05:04.4491047+00:00"
 }

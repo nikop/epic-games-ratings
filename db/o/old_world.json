@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2318,7 +2318,7 @@
   ],
   "EOS_Progressed": 16937,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 597,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20656,9 +20656,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
       "SetID": "9201eeb",
       "Name": "Ambitious",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 508
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
@@ -23198,8 +23198,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T02:27:25.2024436+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:40.1608405+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:10:11.5277982+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:03:21.5260168+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:40.1618187+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:02:36.1775744+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:10:11.5287718+00:00"
 }

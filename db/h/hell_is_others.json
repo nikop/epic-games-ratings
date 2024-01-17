@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1513,7 +1513,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260749,
+  "EOS_Progressed": 260750,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
@@ -27478,6 +27478,11 @@
       "Time": "2024-01-17T10:07:24.5253458+00:00",
       "NumProgressed": 260749,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T11:05:38.1391111+00:00",
+      "NumProgressed": 260750,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27505,7 +27510,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "Act4",
@@ -27545,7 +27550,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13037
+      "UsersEstimate": 13038
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -27617,7 +27622,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13037
+      "UsersEstimate": 13038
     },
     {
       "ID": "CreedsInBank2",
@@ -27625,7 +27630,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "CreedsInBank3",
@@ -27657,7 +27662,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "FullHomeExpansion",
@@ -27673,7 +27678,7 @@
       "Name": "Workhorse",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "GrowPlantWithFertilisers",
@@ -27681,7 +27686,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "GrowPlants1",
@@ -27697,7 +27702,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "GrowPlants3",
@@ -27737,7 +27742,7 @@
       "Name": "Homerun",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "KillOtherInFirstMinute",
@@ -27841,7 +27846,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     },
     {
       "ID": "OldCoinCollected",
@@ -27897,7 +27902,7 @@
       "Name": "A season in Century City",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "TakeFromBankNCreedsOneTime",
@@ -27929,14 +27934,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2607
+      "UsersEstimate": 2608
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260749,
+      "Progressed": 260750,
       "Completed": 3
     }
   ],
@@ -27944,8 +27949,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-17T06:58:16.489971+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:07:24.5253456+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:05:38.1391108+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:59:01.5272193+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:07:24.5254789+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:14.1990589+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:05:38.1393886+00:00"
 }

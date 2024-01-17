@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 614,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 491,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
     "PcReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -178,9 +178,9 @@
       "ID": "EVERY_SHOT_COUNTS_ACH",
       "SetID": "c01b5ga",
       "Name": "Every Shot Counts!",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HANGING_IN_THERE_ACH",
@@ -264,8 +264,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:09:40.1120949+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:08:39.1746557+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.1187398+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:59:01.7836274+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:09:40.1121099+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:14.4507257+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:08:39.1746642+00:00"
 }

@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~3,988 |
-| Spectre Inductee | 66.00% | ~2,924 |
-| Medal of Exploration I | 56.00% | ~2,481 |
-| Recruit | 52.00% | ~2,304 |
+| Distinguished Service Medal | 90.00% | ~3,989 |
+| Spectre Inductee | 66.00% | ~2,925 |
+| Medal of Exploration I | 56.00% | ~2,482 |
+| Recruit | 52.00% | ~2,305 |
 | Search and Rescue | 51.00% | ~2,260 |
-| Quarian Ally | 49.00% | ~2,171 |
+| Quarian Ally | 49.00% | ~2,172 |
 | Medal of Heroism | 44.00% | ~1,950 |
 | Honorarium of Corporate Service | 44.00% | ~1,950 |
-| Turian Ally | 40.00% | ~1,772 |
+| Turian Ally | 40.00% | ~1,773 |
 | Medal of Exploration II | 39.00% | ~1,728 |
 | Council Legion of Merit | 38.00% | ~1,684 |
-| Missing in Action | 37.00% | ~1,639 |
-| Medal of Honor | 36.00% | ~1,595 |
-| Soldier Ally | 36.00% | ~1,595 |
+| Missing in Action | 37.00% | ~1,640 |
+| Medal of Honor | 36.00% | ~1,596 |
+| Soldier Ally | 36.00% | ~1,596 |
 | Soldier | 35.00% | ~1,551 |
 | Meritorious Service Medal | 35.00% | ~1,551 |
 | Charismatic | 35.00% | ~1,551 |
@@ -28,16 +28,16 @@
 | Principled | 31.00% | ~1,374 |
 | Merciless | 31.00% | ~1,374 |
 | Scientist | 31.00% | ~1,374 |
-| Paramour I | 30.00% | ~1,329 |
-| Sentinel Ally | 30.00% | ~1,329 |
-| Krogan Ally | 30.00% | ~1,329 |
-| Scholar | 30.00% | ~1,329 |
+| Paramour I | 30.00% | ~1,330 |
+| Sentinel Ally | 30.00% | ~1,330 |
+| Krogan Ally | 30.00% | ~1,330 |
+| Scholar | 30.00% | ~1,330 |
 | The Archangel | 29.00% | ~1,285 |
 | The Professor | 29.00% | ~1,285 |
 | Head Hunter | 29.00% | ~1,285 |
 | Operative | 28.00% | ~1,241 |
-| The Convict | 27.00% | ~1,196 |
-| Power Full | 27.00% | ~1,196 |
+| The Convict | 27.00% | ~1,197 |
+| Power Full | 27.00% | ~1,197 |
 | Colony Defense | 26.00% | ~1,152 |
 | The Krogan | 26.00% | ~1,152 |
 | Veteran | 25.00% | ~1,108 |
@@ -102,13 +102,13 @@
 | Patriot | 12.00% | ~532 |
 | Legend | 12.00% | ~532 |
 | Master and Commander | 12.00% | ~532 |
-| Long Service Medal | 11.00% | ~487 |
-| Sabotage Specialist | 11.00% | ~487 |
-| Throw Mastery | 11.00% | ~487 |
+| Long Service Medal | 11.00% | ~488 |
+| Sabotage Specialist | 11.00% | ~488 |
+| Throw Mastery | 11.00% | ~488 |
 | Electronics Specialist | 10.00% | ~443 |
 | Combined Arms | 9.00% | ~399 |
 | Mail Slot | 9.00% | ~399 |
-| Warp Mastery | 8.00% | ~354 |
+| Warp Mastery | 8.00% | ~355 |
 | Barrier Mastery | 7.00% | ~310 |
 | Sky High | 7.00% | ~310 |
 | Always Prepared | 7.00% | ~310 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,431 (Ranked 212)  
+Progressed: 4,432 (Ranked 212)  
 Completed: 13 (0.29%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,4 +256,4 @@ Completed: 13 (0.29%) (Ranked 265)
 | 2024-01-14 | 4,356 | 13 |
 | 2024-01-15 | 4,392 | 13 |
 | 2024-01-16 | 4,423 | 13 |
-| 2024-01-17 | 4,431 | 13 |
+| 2024-01-17 | 4,432 | 13 |

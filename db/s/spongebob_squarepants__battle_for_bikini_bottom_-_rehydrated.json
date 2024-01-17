@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
@@ -2923,6 +2923,11 @@
       "Time": "2024-01-17T08:08:56.4910203+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-17T11:08:14.7147135+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2967,7 +2972,7 @@
       "Name": "Life\u0027s as extreme as you wanna make it!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_DOWN_TOWN",
@@ -3007,7 +3012,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3071,7 +3076,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -3079,7 +3084,7 @@
       "Name": "Sleepy Time",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_SOCK_CONCERT",
@@ -3111,7 +3116,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -3127,7 +3132,7 @@
       "Name": "Mega Spatula Seeker",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
@@ -3175,30 +3180,30 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
       "SetID": "biiejkc",
       "Name": "Time For Tutorial",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1063,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:09:07.3797775+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:08:14.7147133+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:57:42.5560321+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:09:07.3798068+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:57:18.7667724+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:08:14.7147427+00:00"
 }

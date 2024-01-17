@@ -5,14 +5,14 @@ Rating: 4.56 (Ranked 511)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,905 |
-| Pay 'n' Spray | 50.00% | ~9,818 |
-| All Dressed Up for San Fierro | 25.00% | ~4,909 |
+| Getting Started | 81.00% | ~15,907 |
+| Pay 'n' Spray | 50.00% | ~9,819 |
+| All Dressed Up for San Fierro | 25.00% | ~4,910 |
 | The American Dream | 19.00% | ~3,731 |
-| School's Out | 18.00% | ~3,534 |
+| School's Out | 18.00% | ~3,535 |
 | Smooth Moves | 17.00% | ~3,338 |
-| What happens in Las Venturas... | 15.00% | ~2,945 |
-| Today Was a Good Day | 15.00% | ~2,945 |
+| What happens in Las Venturas... | 15.00% | ~2,946 |
+| Today Was a Good Day | 15.00% | ~2,946 |
 | Horror of the Santa Maria | 11.00% | ~2,160 |
 | Liberty City State of Mind | 9.00% | ~1,767 |
 | The End of the Line | 8.00% | ~1,571 |
@@ -21,7 +21,7 @@ Rating: 4.56 (Ranked 511)
 | Saviour | 6.00% | ~1,178 |
 | They Can’t Stop All of Us | 5.00% | ~982 |
 | Rescue a Kitten Too? | 5.00% | ~982 |
-| What are the Odds | 4.00% | ~785 |
+| What are the Odds | 4.00% | ~786 |
 | Bike or Biker | 3.00% | ~589 |
 | What the City Needs | 3.00% | ~589 |
 | A Legitimate Business | 2.00% | ~393 |
@@ -38,10 +38,10 @@ Rating: 4.56 (Ranked 511)
 | Not a Player | 1.00% | ~196 |
 | Chick Magnet | 1.00% | ~196 |
 | Remastered | 0.80% | ~157 |
-| ...Here we go again | 0.60% | ~118 |
+| ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,636 (Ranked 157)  
+Progressed: 19,638 (Ranked 157)  
 Completed: 80 (0.41%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,18 +313,18 @@ Completed: 80 (0.41%) (Ranked 242)
 | 2024-01-14 | 19,569 | 78 |
 | 2024-01-15 | 19,602 | 79 |
 | 2024-01-16 | 19,632 | 80 |
-| 2024-01-17 | 19,636 | 80 |
+| 2024-01-17 | 19,638 | 80 |
 ## Awards
 Max (Great Boss Battles): 685  (Ranked 198)  
-Sum: 1,111 (Ranked 269)  
+Sum: 1,112 (Ranked 269)  
 Diff (max vs sum): -71  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 685 |
 | This game has Amazing Characters | 61 |
 | This game is Relaxing | 59 |
+| This game has Amazing Storytelling | 59 |
 | This game is Highly Recommended | 59 |
-| This game has Amazing Storytelling | 58 |
 | This game is Great for Beginners | 53 |
 | This game has Diverse Characters | 53 |
 | This game has Quickly Understood Controls | 43 |
@@ -566,4 +566,4 @@ Diff (max vs sum): -71
 | 2024-01-14 | 4.55 | 667 | 1,079 |
 | 2024-01-15 | 4.56 | 677 | 1,096 |
 | 2024-01-16 | 4.56 | 682 | 1,107 |
-| 2024-01-17 | 4.56 | 685 | 1,111 |
+| 2024-01-17 | 4.56 | 685 | 1,112 |

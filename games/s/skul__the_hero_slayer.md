@@ -6,19 +6,19 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,773 |
-| What should I buy? | 80.00% | ~11,848 |
-| Focus! | 60.00% | ~8,886 |
-| Rescued Elder Ent | 60.00% | ~8,886 |
+| The Legend Begins | 93.00% | ~13,774 |
+| What should I buy? | 80.00% | ~11,849 |
+| Focus! | 60.00% | ~8,887 |
+| Rescued Elder Ent | 60.00% | ~8,887 |
 | The End of the Gold Mane Knights | 48.00% | ~7,109 |
 | False Goddess, Disappear | 40.00% | ~5,924 |
 | Rules of Etiquette | 37.00% | ~5,480 |
-| Inventory Management | 32.00% | ~4,739 |
+| Inventory Management | 32.00% | ~4,740 |
 | The Fall of the Leonia Order | 31.00% | ~4,591 |
 | Quick Movements | 30.00% | ~4,443 |
 | Go Home... | 28.00% | ~4,147 |
 | The Final Battle of the First Hero | 27.00% | ~3,999 |
-| The Hero Killer | 25.00% | ~3,702 |
+| The Hero Killer | 25.00% | ~3,703 |
 | Brain at Full Throttle | 20.00% | ~2,962 |
 | Rookies Welcome | 18.00% | ~2,666 |
 | Deadly Power | 16.00% | ~2,370 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,810 (Ranked 175)  
+Progressed: 14,811 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,18 +282,18 @@ Completed: 22 (0.15%) (Ranked 295)
 | 2024-01-14 | 14,732 | 22 |
 | 2024-01-15 | 14,763 | 22 |
 | 2024-01-16 | 14,802 | 22 |
-| 2024-01-17 | 14,810 | 22 |
+| 2024-01-17 | 14,811 | 22 |
 ## Awards
-Max (Diverse Characters): 154  (Ranked 333)  
-Sum: 1,030 (Ranked 275)  
+Max (Great for Beginners): 155  (Ranked 333)  
+Sum: 1,032 (Ranked 275)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 155 |
 | This game has Diverse Characters | 154 |
-| This game is Great for Beginners | 154 |
 | This game is Highly Recommended | 124 |
 | This game is Extremely Fun | 118 |
-| This game is Relaxing | 115 |
+| This game is Relaxing | 116 |
 | This game has Quickly Understood Controls | 114 |
 | This game has Amazing Storytelling | 96 |
 | This game has Amazing Characters | 88 |
@@ -481,4 +481,4 @@ Diff (max vs sum): 58
 | 2024-01-13 | 4.75 | - | 154 | 1,024 |
 | 2024-01-15 | 4.75 | - | 154 | 1,028 |
 | 2024-01-16 | 4.75 | - | 154 | 1,029 |
-| 2024-01-17 | 4.75 | - | 154 | 1,030 |
+| 2024-01-17 | 4.75 | - | 155 | 1,032 |

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,680 |
+| The Old Grandmaster | 6.00% | ~45,681 |
 | Life is your teacher | 5.00% | ~38,067 |
 | Lightning Hands | 5.00% | ~38,067 |
-| The Assault | 4.00% | ~30,453 |
+| The Assault | 4.00% | ~30,454 |
 | The Hateful Pole Fighter | 3.00% | ~22,840 |
 | Stuntmaster | 3.00% | ~22,840 |
 | Street Fighting | 3.00% | ~22,840 |
@@ -35,7 +35,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.70% | ~5,329 |
 | Tiger on Fire | 0.70% | ~5,329 |
 | Detective Story | 0.70% | ~5,329 |
-| Martial Hub | 0.70% | ~494 |
+| Martial Hub | 0.70% | ~495 |
 | Source of Flying Daggers | 0.60% | ~4,568 |
 | Iron Money | 0.60% | ~4,568 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,568 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,333 (Ranked 26)  
+Progressed: 761,344 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,17 +339,17 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,333 | 12,990 |
+| 2024-01-17 | 761,344 | 12,990 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
-Sum: 12,776 (Ranked 87)  
+Sum: 12,778 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,221 |
 | This game has Diverse Characters | 706 |
 | This game has Challenging Combat | 650 |
-| This game has Amazing Storytelling | 622 |
+| This game has Amazing Storytelling | 624 |
 | This game has Amazing Characters | 618 |
 | This game is Highly Recommended | 612 |
 | This game has Quickly Understood Controls | 601 |
@@ -725,4 +725,4 @@ Diff (max vs sum): -30
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
 | 2024-01-16 | 4.82 | - | 7,221 | 12,772 |
-| 2024-01-17 | 4.82 | - | 7,221 | 12,776 |
+| 2024-01-17 | 4.82 | - | 7,221 | 12,778 |

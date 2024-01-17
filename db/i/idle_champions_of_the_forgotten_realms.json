@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9625,9 +9625,9 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254367,
+  "EOS_Progressed": 254373,
   "EOS_Completed": 2622,
-  "EOS_NewPlayers": 1233,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40480,6 +40480,11 @@
       "Time": "2024-01-17T10:11:41.5209282+00:00",
       "NumProgressed": 254367,
       "NumCompleted": 2622
+    },
+    {
+      "Time": "2024-01-17T11:10:12.595582+00:00",
+      "NumProgressed": 254373,
+      "NumCompleted": 2622
     }
   ],
   "TotalAchievements": 546,
@@ -41673,9 +41678,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 1017
     },
     {
       "ID": "objective_completed_164",
@@ -43049,9 +43054,9 @@
       "ID": "objective_completed_600",
       "SetID": "cc37lbc",
       "Name": "Elturel Has Fallen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_601",
@@ -44795,7 +44800,7 @@
       "Name": "Fast Food",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "objective_completed_1563",
@@ -44858,21 +44863,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220641,
+      "Progressed": 220647,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254367,
+      "Progressed": 254373,
       "Completed": 2622
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:41.5209278+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:10:12.5955815+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:59:21.1928173+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:41.5233542+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:28.0327563+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:10:12.5978398+00:00"
 }

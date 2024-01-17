@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -383,9 +383,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 11643,
+  "EOS_Progressed": 11645,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5198,6 +5198,11 @@
       "Time": "2024-01-17T10:11:29.2211455+00:00",
       "NumProgressed": 11643,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T11:10:02.2809137+00:00",
+      "NumProgressed": 11645,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5218,7 +5223,7 @@
       "Name": "Stolen Star",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5306,7 +5311,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "15_Pentakill",
@@ -5322,7 +5327,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "17_TheExemplar",
@@ -5338,7 +5343,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5562,7 +5567,7 @@
       "Name": "A Spark",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "47_AFlame",
@@ -5729,7 +5734,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11643,
+      "Progressed": 11645,
       "Completed": 1
     }
   ],
@@ -5737,8 +5742,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-16T18:59:08.7286101+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:29.2211444+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:10:02.2809135+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:59:33.7126004+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:29.2212312+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:36.8914295+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:10:02.2809914+00:00"
 }

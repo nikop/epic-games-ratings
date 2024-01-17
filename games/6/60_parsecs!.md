@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~870 |
-| Space Colonization | 80.00% | ~718 |
-| Friendzone | 79.00% | ~709 |
-| Hello World | 74.00% | ~664 |
-| Space Engineer | 64.00% | ~574 |
-| Tinkerer | 63.00% | ~565 |
-| Dust to Dust | 59.00% | ~529 |
-| Across The Stars | 47.00% | ~422 |
-| Crafty | 47.00% | ~422 |
-| All Seats Taken | 38.00% | ~341 |
-| For Science! | 34.00% | ~305 |
-| Meet the Petersons | 32.00% | ~287 |
-| Stay Cool | 29.00% | ~260 |
-| KIA | 27.00% | ~242 |
-| Mutiny in making | 23.00% | ~206 |
-| Eco-Shuttle | 19.00% | ~170 |
-| Et tu, Astrocitizen? | 19.00% | ~170 |
+| Don't Panic! | 97.00% | ~874 |
+| Space Colonization | 80.00% | ~721 |
+| Friendzone | 79.00% | ~712 |
+| Hello World | 74.00% | ~667 |
+| Space Engineer | 63.00% | ~568 |
+| Tinkerer | 63.00% | ~568 |
+| Dust to Dust | 59.00% | ~532 |
+| Across The Stars | 47.00% | ~423 |
+| Crafty | 47.00% | ~423 |
+| All Seats Taken | 38.00% | ~342 |
+| For Science! | 34.00% | ~306 |
+| Meet the Petersons | 32.00% | ~288 |
+| Stay Cool | 28.00% | ~252 |
+| KIA | 26.00% | ~234 |
+| Mutiny in making | 24.00% | ~216 |
+| Eco-Shuttle | 19.00% | ~171 |
+| Et tu, Astrocitizen? | 19.00% | ~171 |
 | Space Explorer | 16.00% | ~144 |
 | Hands Full | 13.00% | ~117 |
 | Gold Medalist | 12.00% | ~108 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897 (Ranked 309)  
+Progressed: 901 (Ranked 309)  
 Completed: 1 (0.11%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1 (0.11%) (Ranked 310)
 | 2024-01-14 | 829 | 1 |
 | 2024-01-15 | 830 | 1 |
 | 2024-01-16 | 870 | 1 |
-| 2024-01-17 | 897 | 1 |
+| 2024-01-17 | 901 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

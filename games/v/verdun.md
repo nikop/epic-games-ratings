@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,368 |
-| Worth it | 63.00% | ~43,912 |
-| Eagle Eye | 54.00% | ~37,639 |
-| Corpseman I | 39.00% | ~27,184 |
-| Blast fishing | 37.00% | ~25,790 |
-| Not alone | 32.00% | ~22,305 |
+| Setting an example | 78.00% | ~54,370 |
+| Worth it | 63.00% | ~43,914 |
+| Eagle Eye | 54.00% | ~37,641 |
+| Corpseman I | 39.00% | ~27,185 |
+| Blast fishing | 37.00% | ~25,791 |
+| Not alone | 32.00% | ~22,306 |
 | Headhunter I | 26.00% | ~18,123 |
-| Developers, Developers, Developers | 24.00% | ~16,728 |
-| Manual Labour I | 24.00% | ~16,728 |
-| Basic Training | 23.00% | ~16,031 |
-| Furchtlos und Treu | 13.00% | ~9,061 |
-| Gott Mit Uns | 12.00% | ~8,364 |
+| Developers, Developers, Developers | 24.00% | ~16,729 |
+| Manual Labour I | 24.00% | ~16,729 |
+| Basic Training | 23.00% | ~16,032 |
+| Furchtlos und Treu | 13.00% | ~9,062 |
+| Gott Mit Uns | 12.00% | ~8,365 |
 | This We'll Defend! | 9.00% | ~6,273 |
 | For King and Country | 9.00% | ~6,273 |
 | Battle hardened | 8.00% | ~5,576 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,702 (Ranked 116)  
+Progressed: 69,705 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 4 (0.01%) (Ranked 378)
 | 2024-01-14 | 69,530 | 4 |
 | 2024-01-15 | 69,603 | 4 |
 | 2024-01-16 | 69,674 | 4 |
-| 2024-01-17 | 69,702 | 4 |
+| 2024-01-17 | 69,705 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 375)  
 Sum: 838 (Ranked 290)  

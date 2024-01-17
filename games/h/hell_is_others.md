@@ -12,8 +12,8 @@ Rating: 4.39 (Ranked 786)
 | The Wait | 7.00% | ~18,252 |
 | Green thumb I | 6.00% | ~15,645 |
 | Cleaning Company | 6.00% | ~15,645 |
-| Well-oiled machine | 5.00% | ~13,037 |
-| Saver I | 5.00% | ~13,037 |
+| Well-oiled machine | 5.00% | ~13,038 |
+| Saver I | 5.00% | ~13,038 |
 | The Ascent | 4.00% | ~10,430 |
 | Pacifist | 4.00% | ~10,430 |
 | Vandalism | 4.00% | ~10,430 |
@@ -28,13 +28,13 @@ Rating: 4.39 (Ranked 786)
 | Truffle Dog | 2.00% | ~5,215 |
 | Don't try this at home | 2.00% | ~5,215 |
 | A month in Century City | 2.00% | ~5,215 |
-| The Strengthening | 1.00% | ~2,607 |
-| Saver II | 1.00% | ~2,607 |
-| It's the last one, I swear | 1.00% | ~2,607 |
-| Botanist | 1.00% | ~2,607 |
-| Green thumb II | 1.00% | ~2,607 |
-| Bricklayer | 1.00% | ~2,607 |
-| Run the Economy | 1.00% | ~2,607 |
+| The Strengthening | 1.00% | ~2,608 |
+| Saver II | 1.00% | ~2,608 |
+| It's the last one, I swear | 1.00% | ~2,608 |
+| Botanist | 1.00% | ~2,608 |
+| Green thumb II | 1.00% | ~2,608 |
+| Bricklayer | 1.00% | ~2,608 |
+| Run the Economy | 1.00% | ~2,608 |
 | Committed Relationship | 0.80% | ~2,086 |
 | Number 1 | 0.80% | ~2,086 |
 | The Gamble | 0.60% | ~1,564 |
@@ -48,9 +48,9 @@ Rating: 4.39 (Ranked 786)
 | Fixer III | 0.30% | ~782 |
 | AML questionnaire | 0.30% | ~782 |
 | Heartbreaker | 0.30% | ~782 |
-| Workhorse | 0.20% | ~521 |
-| Homerun | 0.20% | ~521 |
-| A season in Century City | 0.20% | ~521 |
+| Workhorse | 0.20% | ~522 |
+| Homerun | 0.20% | ~522 |
+| A season in Century City | 0.20% | ~522 |
 | Saver III | 0.10% | ~261 |
 | Collector | 0.10% | ~261 |
 | Mansion | 0.10% | ~261 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 786)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,749 (Ranked 69)  
+Progressed: 260,750 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 404)
 | 2024-01-14 | 260,668 | 3 |
 | 2024-01-15 | 260,699 | 3 |
 | 2024-01-16 | 260,735 | 3 |
-| 2024-01-17 | 260,749 | 3 |
+| 2024-01-17 | 260,750 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 447)  
 Sum: 382 (Ranked 367)  

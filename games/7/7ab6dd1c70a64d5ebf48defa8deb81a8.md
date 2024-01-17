@@ -40,7 +40,7 @@ Rating: 4.18 (Ranked 986)
 | False God | 2.00% | ~47 |
 | Summiter | 2.00% | ~47 |
 | All That Gold | 0.80% | ~19 |
-| Feeling Fancy | 0.40% | ~9 |
+| Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,363 (Ranked 244)  
 Completed: 4 (0.17%) (Ranked 290)  

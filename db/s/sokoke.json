@@ -3,8 +3,8 @@
   "Name": "Sokoke",
   "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:58.5117981+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:57:15.681304+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:09:48.9156098+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:56:59.8889041+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:08:45.8029798+00:00"
 }

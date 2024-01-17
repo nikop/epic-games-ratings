@@ -755,9 +755,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7on801h",
       "Name": "I Can Only Fight Enemies I Can See",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -1160,8 +1160,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:07:01.6989608+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:05:21.0242852+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.6884705+00:00",
-  "LastUpdate_Ratings": "2024-01-17T09:57:15.8540978+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:07:01.6990475+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:57:00.0221163+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:05:21.0243986+00:00"
 }

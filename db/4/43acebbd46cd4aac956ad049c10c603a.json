@@ -4,11 +4,11 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 462,
+  "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4336,9 +4336,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 200
     },
     {
       "ID": "GnothiSeauton",
@@ -4528,9 +4528,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Sinner",
@@ -4689,8 +4689,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:07:39.6787551+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:05:49.5706643+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:00:05.7259446+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:07:39.678811+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:58:59.926112+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:05:49.5707465+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 49
     }
   ],
-  "EOS_Progressed": 14987,
+  "EOS_Progressed": 14988,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10668,6 +10668,11 @@
       "Time": "2024-01-17T10:11:26.1028304+00:00",
       "NumProgressed": 14987,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-17T11:09:59.7523082+00:00",
+      "NumProgressed": 14988,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10824,7 +10829,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4346
+      "UsersEstimate": 4347
     },
     {
       "ID": "NoMoreTotems",
@@ -10880,7 +10885,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "ThisIsDharma",
@@ -10951,7 +10956,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 14987,
+      "Progressed": 14988,
       "Completed": 27
     }
   ],
@@ -10959,8 +10964,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-15T14:59:29.5393804+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:26.10283+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:09:59.7523078+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:01:43.010909+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:26.102884+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:00:10.6131097+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:09:59.7523918+00:00"
 }

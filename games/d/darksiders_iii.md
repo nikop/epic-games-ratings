@@ -13,15 +13,15 @@ Number of Ratings: 116  (23.09.2022)
 | Fight Fire with Fire | 59.00% | ~369 |
 | Increased Capacity | 56.00% | ~351 |
 | Just the start | 50.00% | ~313 |
-| Perfect Storm | 47.00% | ~294 |
+| Perfect Storm | 48.00% | ~300 |
 | All That Glitters | 47.00% | ~294 |
 | Enhance! | 43.00% | ~269 |
 | One Of the Chosen | 42.00% | ~263 |
+| Devil's in the Details | 41.00% | ~257 |
 | Throne Potato | 41.00% | ~257 |
 | Five's a Crowd | 41.00% | ~257 |
-| Devil's in the Details | 40.00% | ~250 |
+| Salvation | 40.00% | ~250 |
 | 25 to Life | 40.00% | ~250 |
-| Salvation | 39.00% | ~244 |
 | Unshakable Fortitude | 37.00% | ~232 |
 | Soul Harvester | 37.00% | ~232 |
 | I Wanna Rock | 35.00% | ~219 |
@@ -31,11 +31,11 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 31.00% | ~194 |
 | Eat Your Heart Out | 31.00% | ~194 |
 | For Whom the Bell Tolls | 30.00% | ~188 |
-| Unyielding Strength | 27.00% | ~169 |
+| Unyielding Strength | 28.00% | ~175 |
 | Can you restore the Balance? | 27.00% | ~169 |
 | Crowd Source | 27.00% | ~169 |
 | Big Spender | 27.00% | ~169 |
-| Cleanup Crew | 25.00% | ~156 |
+| Cleanup Crew | 26.00% | ~163 |
 | Seeing Red | 25.00% | ~156 |
 | Demon Meddler | 24.00% | ~150 |
 | Maximum Capacity | 23.00% | ~144 |
@@ -43,8 +43,8 @@ Number of Ratings: 116  (23.09.2022)
 | Protector of Humanity | 21.00% | ~131 |
 | Everybody Wants to Rule the World | 21.00% | ~131 |
 | Community Outreach | 16.00% | ~100 |
+| A Parting Gift | 15.00% | ~94 |
 | Path of the Horseman | 15.00% | ~94 |
-| A Parting Gift | 14.00% | ~88 |
 | Take it to the Limit | 14.00% | ~88 |
 | Unbreakable Will | 13.00% | ~81 |
 | Holy Keeper | 12.00% | ~75 |

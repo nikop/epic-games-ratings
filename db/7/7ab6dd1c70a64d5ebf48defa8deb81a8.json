@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -111,7 +111,7 @@
   "Tags": [],
   "EOS_Progressed": 2363,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 191,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4982,9 +4982,9 @@
       "ID": "ACH_35",
       "SetID": "efe2lj",
       "Name": "Feeling Fancy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_36",
@@ -5015,8 +5015,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T02:24:22.6712896+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:11:29.7295866+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:10:02.7363591+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:01:34.74526+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:11:29.7296299+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:00:05.1275705+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:10:02.7364007+00:00"
 }

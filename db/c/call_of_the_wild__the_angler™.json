@@ -2,13 +2,13 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 961,
-  "Ranking_Popularity": 484,
+  "Ranking_Rating": 955,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "RU, BY, SA"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "NumberOfRatings": 281,
   "RatingHistory": [
     {
@@ -983,11 +983,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 213,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-17T10:59:19.7573319+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 213,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 214,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1018,7 +1024,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1029,7 +1035,7 @@
   ],
   "EOS_Progressed": 8348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14510,9 +14516,9 @@
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-01-08T13:03:24.0114508+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:09:42.9979312+00:00",
+  "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:08:41.4068722+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:00:32.7164088+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:09:42.9980211+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:59:19.7573322+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:08:41.4069794+00:00"
 }

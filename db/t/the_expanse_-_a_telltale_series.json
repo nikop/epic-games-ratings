@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19092,
+  "EOS_Progressed": 19094,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17609,6 +17609,11 @@
       "Time": "2024-01-17T10:07:33.6797326+00:00",
       "NumProgressed": 19092,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T11:05:45.0097537+00:00",
+      "NumProgressed": 19094,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17645,7 +17650,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "13",
@@ -17653,7 +17658,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3627
+      "UsersEstimate": 3628
     },
     {
       "ID": "14",
@@ -17677,7 +17682,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "17",
@@ -17693,7 +17698,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "19",
@@ -17717,7 +17722,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "21",
@@ -17757,7 +17762,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "26",
@@ -17900,13 +17905,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19092,
+      "Progressed": 19094,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5046,
+      "Progressed": 5048,
       "Completed": 1333
     }
   ],
@@ -17914,8 +17919,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T10:07:33.6797319+00:00",
+  "LastChanged_Achievements": "2024-01-17T11:05:45.0097534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:00:47.3690207+00:00",
-  "LastUpdate_Achievements": "2024-01-17T10:07:33.6798164+00:00"
+  "LastUpdate_Ratings": "2024-01-17T10:59:30.0665049+00:00",
+  "LastUpdate_Achievements": "2024-01-17T11:05:45.0099198+00:00"
 }

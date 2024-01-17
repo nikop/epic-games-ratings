@@ -6,18 +6,18 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,107 |
+| Malpractice Assurance | 14.00% | ~1,108 |
 | Lost and Found | 9.00% | ~712 |
-| Autodidact | 8.00% | ~10,643 |
+| Autodidact | 8.00% | ~10,644 |
 | This Belongs in a Museum | 7.00% | ~9,313 |
 | Overdue Notice | 7.00% | ~9,313 |
 | This guy... again? | 7.00% | ~554 |
-| Serenity Now! | 6.00% | ~7,982 |
-| Creep and Sleep | 6.00% | ~7,982 |
-| Meat and Greet | 6.00% | ~7,982 |
-| Catch and Decease | 6.00% | ~7,982 |
-| Escape from the Black Hole | 6.00% | ~7,982 |
-| To Grandmother's House | 6.00% | ~7,982 |
+| Serenity Now! | 6.00% | ~7,983 |
+| Creep and Sleep | 6.00% | ~7,983 |
+| Meat and Greet | 6.00% | ~7,983 |
+| Catch and Decease | 6.00% | ~7,983 |
+| Escape from the Black Hole | 6.00% | ~7,983 |
+| To Grandmother's House | 6.00% | ~7,983 |
 | Ploughshares to Swords | 6.00% | ~475 |
 | Bloody Graduation | 6.00% | ~475 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,652 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,041 (Ranked 92)  
+Progressed: 133,045 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,11 +348,11 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,041 | 5 |
+| 2024-01-17 | 133,045 | 5 |
 ## Awards
-Max (Character Customization): 8,031  (Ranked 51)  
+Max (Character Customization): 8,031  (Ranked 52)  
 Sum: 21,698 (Ranked 58)  
-Diff (max vs sum): -7  
+Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,031 |
