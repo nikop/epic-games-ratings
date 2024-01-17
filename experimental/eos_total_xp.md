@@ -591,6 +591,7 @@
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
 | [Primal Survivors](../games/5/50d797d4a45a495b94e4abc016ace565.md) | 10 | 1,000 |
 | [Prison Architect](../games/p/prison_architect.md) | 16 | 1,000 |
+| [Pro Basketball Manager 2024](../games/e/e93913390878452c9bc11f52aa074cf5.md) | 45 | 1,000 |
 | [Project Highrise](../games/p/project_highrise.md) | 88 | 1,000 |
 | [Project Nightmares Case 36: Henrietta Kedward](../games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 20 | 1,000 |
 | [PUBG: BATTLEGROUNDS](../games/p/pubg__battlegrounds.md) | 37 | 1,000 |

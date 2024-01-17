@@ -244,6 +244,7 @@
 | [LEGO® Star Wars™: The Skywalker Saga](../games/l/lego®_star_wars™__the_skywalker_saga.md) | 45 | 1,000 |
 | [Pilgrims](../games/0/0693e8391e49492096424712a5595484.md) | 45 | 1,000 |
 | [Poker Club](../games/p/poker_club.md) | 45 | 1,000 |
+| [Pro Basketball Manager 2024](../games/e/e93913390878452c9bc11f52aa074cf5.md) | 45 | 1,000 |
 | [Saint Kotar](../games/s/saint_kotar.md) | 45 | 1,000 |
 | [60 Parsecs!](../games/6/60_parsecs!.md) | 44 | 1,000 |
 | [Aegis Descent](../games/a/aegis_descent.md) | 44 | 1,000 |
