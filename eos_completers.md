@@ -27,8 +27,8 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.99% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.26% |
-| 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.22% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.25% |
+| 29 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.79% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -103,9 +103,9 @@
 | 101 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.55% |
 | 102 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 103 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
-| 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.42% |
+| 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.39% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.28% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.27% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.23% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.17% |
@@ -146,7 +146,7 @@
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
-| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.75% |
+| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.76% |
 | 148 | [Sifu](games/s/sifu.md) | 1.71% |
 | 149 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 150 | [Frogun](games/f/frogun.md) | 1.67% |
@@ -282,11 +282,11 @@
 | 279 | [Eternights](games/e/eternights.md) | 0.22% |
 | 281 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 281 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.21% |
+| 283 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.20% |
 | 283 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 283 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 285 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.19% |
-| 285 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
-| 285 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
+| 286 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
+| 286 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
 | 288 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 288 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
 | 290 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
@@ -718,6 +718,7 @@
 | 404 | [Saint Kotar](games/s/saint_kotar.md) | 0.00% |
 | 404 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 0.00% |
 | 404 | [Sands of Aura](games/s/sands_of_aura.md) | 0.00% |
+| 404 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 0.00% |
 | 404 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 0.00% |
 | 404 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 0.00% |
 | 404 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 0.00% |
