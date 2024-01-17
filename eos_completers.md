@@ -52,8 +52,8 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.66% |
-| 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.65% |
+| 53 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.44% |
@@ -136,7 +136,7 @@
 | 134 | [tERRORbane](games/t/terrorbane.md) | 2.22% |
 | 135 | [Night Book](games/n/night_book.md) | 2.20% |
 | 136 | [Bloodshore](games/b/bloodshore.md) | 2.08% |
-| 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.07% |
+| 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.05% |
 | 138 | [Strange House](games/s/strange_house.md) | 2.04% |
 | 139 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
 | 140 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.96% |
@@ -201,8 +201,8 @@
 | 199 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.75% |
 | 200 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.74% |
 | 200 | [Infindustry](games/i/infindustry.md) | 0.74% |
-| 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.73% |
 | 202 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
+| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.72% |
 | 204 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 205 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.68% |
 | 206 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.66% |
