@@ -18,10 +18,10 @@ Rating: 4.86 (Ranked 33)
 | I did it | 28.00% | ~788 |
 | Cable guy | 28.00% | ~788 |
 | Half the way | 28.00% | ~788 |
+| In this together | 27.00% | ~760 |
 | Peace walker | 27.00% | ~760 |
 | Rascal | 27.00% | ~760 |
 | Champollion | 27.00% | ~760 |
-| In this together | 26.00% | ~732 |
 | Open door | 23.00% | ~648 |
 | Feels like springtime | 23.00% | ~648 |
 | Alchemists Express | 22.00% | ~620 |

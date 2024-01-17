@@ -8,7 +8,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | ---- | ---------- | ----- |
 | Goofy's Investor | 67.00% | ~9,503 |
 | Photographer | 67.00% | ~9,503 |
-| Valley's Helper | 59.00% | ~8,368 |
+| Valley's Helper | 59.00% | ~8,369 |
 | Constructor | 50.00% | ~7,092 |
 | Renovator | 50.00% | ~7,092 |
 | Bestest Friend | 44.00% | ~6,241 |
@@ -20,9 +20,9 @@ Number of Ratings: 1,396  (23.09.2022)
 | Duty Bound | 8.00% | ~1,135 |
 | Angler | 6.00% | ~851 |
 | Thorn Cleaner | 6.00% | ~851 |
-| Chit Chatter | 3.00% | ~425 |
+| Chit Chatter | 3.00% | ~426 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,183 (Ranked 176)  
+Progressed: 14,184 (Ranked 176)  
 Completed: 352 (2.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,9 +245,10 @@ Completed: 352 (2.48%) (Ranked 127)
 | 2024-01-14 | 14,145 | 351 |
 | 2024-01-15 | 14,165 | 351 |
 | 2024-01-16 | 14,183 | 352 |
+| 2024-01-17 | 14,184 | 352 |
 ## Awards
 Max (Great for Beginners): 1,185  (Ranked 151)  
-Sum: 8,413 (Ranked 112)  
+Sum: 8,415 (Ranked 112)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -256,7 +257,7 @@ Diff (max vs sum): 39
 | This game is Highly Recommended | 874 |
 | This game has Amazing Characters | 848 |
 | This game is Relaxing | 830 |
-| This game has Amazing Storytelling | 805 |
+| This game has Amazing Storytelling | 807 |
 | This game is Extremely Fun | 793 |
 | This game has Quickly Understood Controls | 782 |
 | This game has a Creative Community | 736 |
@@ -572,4 +573,4 @@ Diff (max vs sum): 39
 | 2024-01-13 | 4.76 | - | 1,180 | 8,399 |
 | 2024-01-14 | 4.76 | - | 1,180 | 8,402 |
 | 2024-01-15 | 4.76 | - | 1,185 | 8,408 |
-| 2024-01-16 | 4.76 | - | 1,185 | 8,413 |
+| 2024-01-16 | 4.76 | - | 1,185 | 8,415 |

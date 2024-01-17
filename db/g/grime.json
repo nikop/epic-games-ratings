@@ -1903,9 +1903,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168542,
+  "EOS_Progressed": 168545,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1087,
+  "EOS_NewPlayers": 1085,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23353,6 +23353,11 @@
       "Time": "2024-01-16T23:04:11.7728964+00:00",
       "NumProgressed": 168542,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-17T00:03:58.5780699+00:00",
+      "NumProgressed": 168545,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23661,7 +23666,7 @@
       "Name": "Dream",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "QUEST_CODA",
@@ -23732,21 +23737,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168125,
+      "Progressed": 168128,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168542,
+      "Progressed": 168545,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-16T20:59:20.2590652+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:04:11.772896+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:03:58.5780694+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:59:09.1490942+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:04:11.7730328+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:59:09.0608185+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:03:58.5782097+00:00"
 }

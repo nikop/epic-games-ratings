@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,346 |
-| Worth it | 63.00% | ~43,895 |
-| Eagle Eye | 55.00% | ~38,321 |
-| Corpseman I | 39.00% | ~27,173 |
-| Blast fishing | 37.00% | ~25,779 |
-| Not alone | 32.00% | ~22,296 |
-| Headhunter I | 26.00% | ~18,115 |
-| Developers, Developers, Developers | 24.00% | ~16,722 |
-| Manual Labour I | 24.00% | ~16,722 |
-| Basic Training | 23.00% | ~16,025 |
+| Setting an example | 78.00% | ~54,349 |
+| Worth it | 63.00% | ~43,897 |
+| Eagle Eye | 55.00% | ~38,323 |
+| Corpseman I | 39.00% | ~27,174 |
+| Blast fishing | 37.00% | ~25,781 |
+| Not alone | 32.00% | ~22,297 |
+| Headhunter I | 26.00% | ~18,116 |
+| Developers, Developers, Developers | 24.00% | ~16,723 |
+| Manual Labour I | 24.00% | ~16,723 |
+| Basic Training | 23.00% | ~16,026 |
 | Furchtlos und Treu | 13.00% | ~9,058 |
 | Gott Mit Uns | 12.00% | ~8,361 |
 | This We'll Defend! | 9.00% | ~6,271 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,090 |
 | Silver x100 | 3.00% | ~2,090 |
 | Impavidum Ferient Bella! | 3.00% | ~2,090 |
-| Bronze x100 | 2.00% | ~1,393 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,393 |
+| Bronze x100 | 2.00% | ~1,394 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,394 |
 | Gold x100 | 1.00% | ~697 |
 | Hunting the Hun | 1.00% | ~697 |
 | #1 | 1.00% | ~697 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69,674 (Ranked 116)  
-Completed: 4 (0.01%) (Ranked 379)  
+Progressed: 69,678 (Ranked 116)  
+Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,6 +338,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-14 | 69,530 | 4 |
 | 2024-01-15 | 69,603 | 4 |
 | 2024-01-16 | 69,674 | 4 |
+| 2024-01-17 | 69,678 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 375)  
 Sum: 838 (Ranked 290)  

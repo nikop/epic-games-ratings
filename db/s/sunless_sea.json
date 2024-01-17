@@ -6,9 +6,9 @@
   "Ranking_Popularity": 292,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44372,
+  "EOS_Progressed": 44374,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 420,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28648,6 +28648,11 @@
       "Time": "2024-01-16T23:05:56.283624+00:00",
       "NumProgressed": 44372,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T00:05:43.9331505+00:00",
+      "NumProgressed": 44374,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -28675,7 +28680,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7543
+      "UsersEstimate": 7544
     },
     {
       "ID": "ach_antiquarian10",
@@ -28779,7 +28784,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15974
+      "UsersEstimate": 15975
     },
     {
       "ID": "ach_die10",
@@ -29090,15 +29095,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44372,
+      "Progressed": 44374,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:05:56.2836236+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:05:43.9331503+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:58:26.9967197+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:05:56.2837818+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:58:24.9928656+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:05:43.9333088+00:00"
 }

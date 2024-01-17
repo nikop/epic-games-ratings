@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~844 |
-| Space Colonization | 80.00% | ~696 |
-| Friendzone | 79.00% | ~687 |
-| Hello World | 74.00% | ~644 |
-| Space Engineer | 64.00% | ~557 |
-| Tinkerer | 63.00% | ~548 |
-| Dust to Dust | 59.00% | ~513 |
-| Across The Stars | 47.00% | ~409 |
-| Crafty | 47.00% | ~409 |
-| All Seats Taken | 39.00% | ~339 |
-| For Science! | 34.00% | ~296 |
-| Meet the Petersons | 31.00% | ~270 |
-| Stay Cool | 29.00% | ~252 |
-| KIA | 27.00% | ~235 |
-| Mutiny in making | 24.00% | ~209 |
-| Eco-Shuttle | 20.00% | ~174 |
-| Et tu, Astrocitizen? | 19.00% | ~165 |
-| Space Explorer | 16.00% | ~139 |
+| Don't Panic! | 97.00% | ~847 |
+| Space Colonization | 80.00% | ~698 |
+| Friendzone | 79.00% | ~690 |
+| Hello World | 74.00% | ~646 |
+| Space Engineer | 64.00% | ~559 |
+| Tinkerer | 63.00% | ~550 |
+| Dust to Dust | 59.00% | ~515 |
+| Across The Stars | 47.00% | ~410 |
+| Crafty | 47.00% | ~410 |
+| All Seats Taken | 38.00% | ~332 |
+| For Science! | 34.00% | ~297 |
+| Meet the Petersons | 32.00% | ~279 |
+| Stay Cool | 29.00% | ~253 |
+| KIA | 27.00% | ~236 |
+| Mutiny in making | 24.00% | ~210 |
+| Eco-Shuttle | 20.00% | ~175 |
+| Et tu, Astrocitizen? | 19.00% | ~166 |
+| Space Explorer | 16.00% | ~140 |
 | Hands Full | 13.00% | ~113 |
-| Gold Medalist | 12.00% | ~104 |
+| Gold Medalist | 12.00% | ~105 |
 | Non-Fiction | 11.00% | ~96 |
-| No Man Left Behind | 9.00% | ~78 |
+| No Man Left Behind | 9.00% | ~79 |
 | Fix-It Felix | 8.00% | ~70 |
 | Intergalactic Breakup | 8.00% | ~70 |
 | Second Life | 8.00% | ~70 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 870 (Ranked 309)  
+Progressed: 873 (Ranked 309)  
 Completed: 1 (0.11%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,6 +205,7 @@ Completed: 1 (0.11%) (Ranked 310)
 | 2024-01-14 | 829 | 1 |
 | 2024-01-15 | 830 | 1 |
 | 2024-01-16 | 870 | 1 |
+| 2024-01-17 | 873 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

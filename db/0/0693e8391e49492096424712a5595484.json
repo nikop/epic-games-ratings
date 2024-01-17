@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -3414,9 +3414,9 @@
       "ID": "DwarfBeggarWoman",
       "SetID": "db30heh",
       "Name": "Funny Granny",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 358
+      "UsersEstimate": 366
     },
     {
       "ID": "DwarfHobo",
@@ -3526,17 +3526,17 @@
       "ID": "PriestRum",
       "SetID": "db30heh",
       "Name": "Rummy",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 287
     },
     {
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 446
     },
     {
       "ID": "PrincessThrone",
@@ -3558,9 +3558,9 @@
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 740
+      "UsersEstimate": 748
     },
     {
       "ID": "RogueKing",
@@ -3582,9 +3582,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 637
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3645,8 +3645,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:06:21.1915198+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:06:09.2030295+00:00",
   "LastUpdate_AppInfo": "2024-01-10T03:56:55.0577875+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:57:22.5647087+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:06:21.1915551+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:57:15.9081972+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:06:09.2030726+00:00"
 }

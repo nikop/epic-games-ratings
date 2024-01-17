@@ -11,8 +11,8 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item waiting | 67.00% | ~1,665 |
 | First bus stop | 66.00% | ~1,640 |
 | First passenger waiting | 63.00% | ~1,566 |
+| First bus arrived | 62.00% | ~1,541 |
 | First passenger on board | 62.00% | ~1,541 |
-| First bus arrived | 61.00% | ~1,516 |
 | First train station | 59.00% | ~1,466 |
 | First steam train arrived | 56.00% | ~1,392 |
 | Cadet | 53.00% | ~1,317 |

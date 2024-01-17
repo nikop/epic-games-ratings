@@ -7,10 +7,10 @@ Rating: 4.56 (Ranked 511)
 | ---- | ---------- | ----- |
 | The Camp | 71.00% | ~1,223 |
 | The Teleprobe | 57.00% | ~982 |
-| The City | 52.00% | ~895 |
+| The City | 52.00% | ~896 |
 | The field base | 48.00% | ~827 |
 | The Alliance | 45.00% | ~775 |
-| Survivors | 42.00% | ~723 |
+| Survivors | 42.00% | ~724 |
 | The Condor | 40.00% | ~689 |
 | The End | 39.00% | ~672 |
 | The Necroevolution | 31.00% | ~534 |
@@ -32,10 +32,10 @@ Rating: 4.56 (Ranked 511)
 | The Invincible | 6.00% | ~103 |
 | Got lost again | 6.00% | ~103 |
 | I leave no man behind (no exceptions) | 2.00% | ~34 |
-| Convoy list | 0.90% | ~15 |
+| Convoy list | 0.90% | ~16 |
 | No more mistakes | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,722 (Ranked 263)  
+Progressed: 1,723 (Ranked 262)  
 Completed: 1 (0.06%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 1 (0.06%) (Ranked 336)
 | 2024-01-14 | 1,699 | 1 |
 | 2024-01-15 | 1,713 | 1 |
 | 2024-01-16 | 1,722 | 1 |
+| 2024-01-17 | 1,723 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

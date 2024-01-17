@@ -98,18 +98,18 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~135 |
 | The Clergy | 0.80% | ~135 |
 | Kushite Paganism | 0.80% | ~135 |
-| Capable | 0.70% | ~118 |
-| Conqueror | 0.70% | ~118 |
-| Ready | 0.70% | ~118 |
-| Subjugator | 0.70% | ~118 |
-| Riders | 0.70% | ~118 |
-| Circus Maximus | 0.70% | ~118 |
-| Learn to Play 4 | 0.70% | ~118 |
-| Assyrian Paganism | 0.70% | ~118 |
-| Industrial Progress | 0.70% | ~118 |
-| Cimmerian Archer | 0.70% | ~118 |
-| Ambition Victory | 0.70% | ~118 |
-| Kushite Pyramids | 0.70% | ~118 |
+| Capable | 0.70% | ~119 |
+| Conqueror | 0.70% | ~119 |
+| Ready | 0.70% | ~119 |
+| Subjugator | 0.70% | ~119 |
+| Riders | 0.70% | ~119 |
+| Circus Maximus | 0.70% | ~119 |
+| Learn to Play 4 | 0.70% | ~119 |
+| Assyrian Paganism | 0.70% | ~119 |
+| Industrial Progress | 0.70% | ~119 |
+| Cimmerian Archer | 0.70% | ~119 |
+| Ambition Victory | 0.70% | ~119 |
+| Kushite Pyramids | 0.70% | ~119 |
 | Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
 | Invincible | 0.60% | ~102 |
@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
 | Egypt | 0.40% | ~68 |
+| Old World Order | 0.40% | ~68 |
 | One True Faith | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~51 |
 | Noble Difficulty | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
-| Old World Order | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,928 (Ranked 169)  
+Progressed: 16,929 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,6 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
+| 2024-01-17 | 16,929 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,933 (Ranked 223)  

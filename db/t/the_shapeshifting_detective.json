@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -970,9 +970,9 @@
       "ID": "highlander",
       "SetID": "2db2j74",
       "Name": "Highlander",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 61
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -1091,8 +1091,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:04:52.0312484+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:04:40.0596202+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:03:12.6778468+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:04:52.0312649+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:02:56.6384593+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:04:40.0596364+00:00"
 }

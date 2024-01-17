@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1737,9 +1737,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 10869,
+  "EOS_Progressed": 10876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1108,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11727,6 +11727,11 @@
       "Time": "2024-01-16T23:05:53.9259886+00:00",
       "NumProgressed": 10869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T00:05:41.3822778+00:00",
+      "NumProgressed": 10876,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11747,7 +11752,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3589
     },
     {
       "ID": "achievement_11",
@@ -11755,15 +11760,15 @@
       "Name": "Big Spender",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "achievement_12",
       "SetID": "aiin7da",
       "Name": "Dealmaker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2719
     },
     {
       "ID": "achievement_13",
@@ -11771,7 +11776,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3154
     },
     {
       "ID": "achievement_14",
@@ -11779,7 +11784,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 3587
+      "UsersEstimate": 3589
     },
     {
       "ID": "achievement_15",
@@ -11835,7 +11840,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6417
     },
     {
       "ID": "achievement_21",
@@ -11851,7 +11856,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "achievement_4",
@@ -11867,7 +11872,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "achievement_6",
@@ -11875,7 +11880,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2719
     },
     {
       "ID": "achievement_7",
@@ -11883,7 +11888,7 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "achievement_8",
@@ -11891,7 +11896,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2826
+      "UsersEstimate": 2828
     },
     {
       "ID": "achievement_9",
@@ -11899,14 +11904,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 10869,
+      "Progressed": 10876,
       "Completed": 0
     }
   ],
@@ -11914,8 +11919,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-16T21:02:39.493842+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:05:53.9259883+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:05:41.3822776+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:02:50.3951617+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:05:53.9260441+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:02:34.0216231+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:05:41.3823277+00:00"
 }

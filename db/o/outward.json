@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4794,
+  "EOS_Progressed": 4795,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8444,6 +8444,11 @@
       "Time": "2024-01-16T23:04:06.3125807+00:00",
       "NumProgressed": 4794,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T00:03:52.7136424+00:00",
+      "NumProgressed": 4795,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8519,7 +8524,7 @@
       "Name": "Eureka",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8639,7 +8644,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2302
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8647,7 +8652,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2924
+      "UsersEstimate": 2925
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8790,15 +8795,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4794,
+      "Progressed": 4795,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:04:06.3125803+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:03:52.7136418+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:03:08.0153356+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:04:06.3126499+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:02:51.7865907+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:03:52.7137207+00:00"
 }

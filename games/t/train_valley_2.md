@@ -6,45 +6,45 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~316,332 |
-| Full garage | 61.00% | ~264,333 |
-| To the eyeballs! | 51.00% | ~220,999 |
-| Individual delivery | 47.00% | ~203,666 |
-| Non-Stop | 45.00% | ~194,999 |
-| Juggler | 36.00% | ~156,000 |
-| Forgot something | 35.00% | ~151,666 |
-| Close call! | 31.00% | ~134,333 |
-| Get out my way | 28.00% | ~121,333 |
-| Common cause | 26.00% | ~112,666 |
-| Critical care | 26.00% | ~112,666 |
-| Mega-railroad | 23.00% | ~99,666 |
-| Upgrade complete | 23.00% | ~99,666 |
-| Just in time! | 18.00% | ~78,000 |
-| Builder | 17.00% | ~73,666 |
-| Long Haul | 17.00% | ~73,554 |
-| Steam Age | 16.00% | ~69,333 |
-| Multilevel road | 15.00% | ~65,000 |
-| Bridgemania | 14.00% | ~60,666 |
-| Need to think | 14.00% | ~60,666 |
-| The Tortoise | 12.00% | ~52,000 |
+| Dealmaker | 73.00% | ~316,337 |
+| Full garage | 61.00% | ~264,336 |
+| To the eyeballs! | 51.00% | ~221,002 |
+| Individual delivery | 47.00% | ~203,669 |
+| Non-Stop | 45.00% | ~195,002 |
+| Juggler | 36.00% | ~156,002 |
+| Forgot something | 35.00% | ~151,668 |
+| Close call! | 31.00% | ~134,335 |
+| Get out my way | 28.00% | ~121,335 |
+| Common cause | 26.00% | ~112,668 |
+| Critical care | 26.00% | ~112,668 |
+| Mega-railroad | 23.00% | ~99,668 |
+| Upgrade complete | 23.00% | ~99,668 |
+| Just in time! | 18.00% | ~78,001 |
+| Builder | 17.00% | ~73,667 |
+| Long Haul | 17.00% | ~73,555 |
+| Steam Age | 16.00% | ~69,334 |
+| Multilevel road | 15.00% | ~65,001 |
+| Bridgemania | 14.00% | ~60,667 |
+| Need to think | 14.00% | ~60,667 |
+| The Tortoise | 12.00% | ~52,001 |
 | Beginner | 11.00% | ~47,667 |
 | Without a lunch break | 11.00% | ~47,667 |
-| One way | 10.00% | ~43,333 |
-| Relocation | 10.00% | ~43,333 |
+| One way | 10.00% | ~43,334 |
+| Relocation | 10.00% | ~43,334 |
 | Industrial Age | 9.00% | ~39,000 |
 | Just One More Valley | 9.00% | ~38,941 |
 | Prick of conscience | 8.00% | ~34,667 |
-| Missed it! | 7.00% | ~30,333 |
+| Missed it! | 7.00% | ~30,334 |
 | At the last moment! | 6.00% | ~26,000 |
 | Overseer | 6.00% | ~26,000 |
 | Highlander | 5.00% | ~21,667 |
 | Jewelry accuracy | 5.00% | ~21,667 |
 | Stargazer | 5.00% | ~21,667 |
-| Bridge builder | 4.00% | ~17,333 |
-| Electrical Age | 4.00% | ~17,333 |
-| Engineer | 4.00% | ~17,333 |
-| Large construction | 4.00% | ~17,333 |
-| Squander | 4.00% | ~17,333 |
+| Bridge builder | 4.00% | ~17,334 |
+| Electrical Age | 4.00% | ~17,334 |
+| Engineer | 4.00% | ~17,334 |
+| Large construction | 4.00% | ~17,334 |
+| Squander | 4.00% | ~17,334 |
 | Globalisation Age | 3.00% | ~13,000 |
 | Living it large | 3.00% | ~13,000 |
 | Sabotage | 3.00% | ~13,000 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,667 |
 | Will work | 2.00% | ~8,667 |
 | Woodcutter | 2.00% | ~8,667 |
-| Occupied! | 2.00% | ~8,653 |
+| Occupied! | 2.00% | ~8,654 |
 | Achiever | 1.00% | ~4,333 |
 | Environmental activist | 1.00% | ~4,333 |
 | Metro builder | 1.00% | ~4,333 |
@@ -96,8 +96,8 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,332 (Ranked 46)  
-Completed: 24 (0.01%) (Ranked 379)  
+Progressed: 433,338 (Ranked 46)  
+Completed: 24 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,13 +330,14 @@ Completed: 24 (0.01%) (Ranked 379)
 | 2024-01-14 | 432,946 | 24 |
 | 2024-01-15 | 433,135 | 24 |
 | 2024-01-16 | 433,332 | 24 |
+| 2024-01-17 | 433,338 | 24 |
 ## Awards
-Max (Challenging Puzzles): 1,055  (Ranked 159)  
-Sum: 2,181 (Ranked 215)  
+Max (Challenging Puzzles): 1,057  (Ranked 159)  
+Sum: 2,183 (Ranked 215)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 1,055 |
+| This game features Challenging Puzzles | 1,057 |
 | This game is Great for Beginners | 228 |
 | This game has Playful Visuals | 126 |
 | This game is Extremely Fun | 118 |
@@ -587,3 +588,4 @@ Diff (max vs sum): -56
 | 2024-01-13 | 4.45 | - | 1,051 | 2,168 |
 | 2024-01-14 | 4.45 | - | 1,053 | 2,173 |
 | 2024-01-15 | 4.45 | - | 1,055 | 2,181 |
+| 2024-01-16 | 4.45 | - | 1,057 | 2,183 |

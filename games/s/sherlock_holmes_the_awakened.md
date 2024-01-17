@@ -5,36 +5,36 @@ Rating: 4.52 (Ranked 580)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 63.00% | ~921 |
+| Read Between The Lines | 63.00% | ~922 |
 | To Hell In A Handcart | 61.00% | ~892 |
-| High Profile | 54.00% | ~789 |
-| Whispers In The Dark | 52.00% | ~760 |
-| Fond Memories | 50.00% | ~731 |
+| High Profile | 54.00% | ~790 |
+| Whispers In The Dark | 52.00% | ~761 |
+| Fond Memories | 50.00% | ~732 |
 | A Method To His Madness | 48.00% | ~702 |
-| History Check | 47.00% | ~687 |
+| History Check | 47.00% | ~688 |
 | The New World | 45.00% | ~658 |
-| Gaze Into The Abyss | 44.00% | ~643 |
-| Open Sesame | 44.00% | ~643 |
-| Sticky Fingers | 44.00% | ~643 |
-| Knives Out | 44.00% | ~643 |
+| Gaze Into The Abyss | 44.00% | ~644 |
+| Open Sesame | 44.00% | ~644 |
+| Sticky Fingers | 44.00% | ~644 |
+| Knives Out | 44.00% | ~644 |
 | Lock, Stock, And Barrel | 43.00% | ~629 |
 | Land, Ho! | 43.00% | ~629 |
 | Back In The Saddle | 42.00% | ~614 |
 | No Man Is An Island | 42.00% | ~614 |
-| At Wits' End | 41.00% | ~599 |
+| At Wits' End | 41.00% | ~600 |
 | Fhtagn! | 40.00% | ~585 |
-| Up In Flames | 39.00% | ~570 |
+| Up In Flames | 39.00% | ~571 |
 | Bookworm | 38.00% | ~556 |
-| Going Once... | 36.00% | ~526 |
+| Going Once... | 36.00% | ~527 |
 | Let Me Be Frank | 35.00% | ~512 |
-| No Stone Unturned | 33.00% | ~482 |
-| Brain Food | 31.00% | ~453 |
-| Read It And Weep | 20.00% | ~292 |
+| No Stone Unturned | 33.00% | ~483 |
+| Brain Food | 31.00% | ~454 |
+| Read It And Weep | 20.00% | ~293 |
 | Curiosity Killed The Cat | 19.00% | ~278 |
 | Big Breakthrough | 13.00% | ~190 |
-| Reawakened | 4.00% | ~58 |
+| Reawakened | 4.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,462 (Ranked 273)  
+Progressed: 1,463 (Ranked 273)  
 Completed: 48 (3.28%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 48 (3.28%) (Ranked 106)
 | 2024-01-14 | 1,453 | 47 |
 | 2024-01-15 | 1,457 | 48 |
 | 2024-01-16 | 1,462 | 48 |
+| 2024-01-17 | 1,463 | 48 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

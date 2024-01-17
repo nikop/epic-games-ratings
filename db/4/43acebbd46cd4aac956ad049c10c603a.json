@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,7 +343,7 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1427,
+  "EOS_Progressed": 1428,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -4178,6 +4178,11 @@
       "Time": "2024-01-16T20:05:58.3523675+00:00",
       "NumProgressed": 1427,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T00:05:25.2570769+00:00",
+      "NumProgressed": 1428,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4198,7 +4203,7 @@
       "Name": "Ab Initio",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "AnthropicHills",
@@ -4238,7 +4243,7 @@
       "Name": "Break the Loop",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "BridgeBuilder",
@@ -4302,7 +4307,7 @@
       "Name": "Ecstatic Truth",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "Excellent",
@@ -4350,7 +4355,7 @@
       "Name": "High Plain",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "IntoTheMachine",
@@ -4420,9 +4425,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 114
     },
     {
       "ID": "NewMorality",
@@ -4446,7 +4451,7 @@
       "Name": "Overload",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "Persistent",
@@ -4454,7 +4459,7 @@
       "Name": "Persistent",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "PrometheusUnbound",
@@ -4478,7 +4483,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "RenaissanceRobot",
@@ -4502,7 +4507,7 @@
       "Name": "Signatory",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "SingleRod",
@@ -4661,7 +4666,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1427,
+      "Progressed": 1428,
       "Completed": 2
     }
   ],
@@ -4669,8 +4674,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:05:38.251199+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:05:25.2570766+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:58:41.4233176+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:05:38.2512763+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:58:40.6386766+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:05:25.2571321+00:00"
 }

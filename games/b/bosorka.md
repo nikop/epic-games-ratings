@@ -17,7 +17,7 @@
 | This is just the beginning... | 16.00% | ~23 |
 | A small victory | 14.00% | ~20 |
 | Gold Digger | 11.00% | ~16 |
-| Time is on my side | 8.00% | ~12 |
+| Time is on my side | 9.00% | ~13 |
 | Secret at the bottom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 145 (Ranked 468)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -10812,9 +10812,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95667,
+  "EOS_Progressed": 95670,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2733,
+  "EOS_NewPlayers": 2723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39922,6 +39922,11 @@
       "Time": "2024-01-16T23:10:09.8765508+00:00",
       "NumProgressed": 95667,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T00:09:48.6520328+00:00",
+      "NumProgressed": 95670,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -39941,7 +39946,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16263
+      "UsersEstimate": 16264
     },
     {
       "ID": "Bannerlord",
@@ -39949,7 +39954,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 23917
+      "UsersEstimate": 23918
     },
     {
       "ID": "Best served cold",
@@ -40093,7 +40098,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 20090
+      "UsersEstimate": 20091
     },
     {
       "ID": "I can do it",
@@ -40125,7 +40130,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17220
+      "UsersEstimate": 17221
     },
     {
       "ID": "Kingslayer",
@@ -40157,7 +40162,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33483
+      "UsersEstimate": 33484
     },
     {
       "ID": "Lawbringer",
@@ -40165,7 +40170,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41137
+      "UsersEstimate": 41138
     },
     {
       "ID": "Lawmaker",
@@ -40173,7 +40178,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 22960
+      "UsersEstimate": 22961
     },
     {
       "ID": "Long live the Empire",
@@ -40189,7 +40194,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7653
+      "UsersEstimate": 7654
     },
     {
       "ID": "Minor Clan",
@@ -40213,7 +40218,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4783
+      "UsersEstimate": 4784
     },
     {
       "ID": "Real Estate",
@@ -40277,7 +40282,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10523
+      "UsersEstimate": 10524
     },
     {
       "ID": "The king is pleased",
@@ -40285,7 +40290,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19133
+      "UsersEstimate": 19134
     },
     {
       "ID": "This Is Our Land",
@@ -40293,7 +40298,7 @@
       "Name": "This Is Our Land",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16263
+      "UsersEstimate": 16264
     },
     {
       "ID": "This is Sparta",
@@ -40309,7 +40314,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28700
+      "UsersEstimate": 28701
     },
     {
       "ID": "Undercover",
@@ -40340,15 +40345,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95667,
+      "Progressed": 95670,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-16T19:59:03.2518201+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:10:09.8765503+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:09:48.6520327+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:58:52.3133351+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:10:09.8767499+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:58:51.0833047+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:09:48.6521814+00:00"
 }

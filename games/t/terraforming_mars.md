@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,607 |
-| Final touch | 34.00% | ~30,882 |
+| It's a steal! | 37.00% | ~33,608 |
+| Final touch | 34.00% | ~30,883 |
 | Prop-M Rover | 32.00% | ~29,066 |
-| Changing the Planet | 28.00% | ~25,432 |
+| Changing the Planet | 28.00% | ~25,433 |
 | Sojourner | 26.00% | ~23,616 |
 | New Home | 23.00% | ~20,891 |
 | Beagle 2 | 23.00% | ~20,891 |
 | Winner Winner Terraformer | 20.00% | ~18,166 |
 | Project Manager | 19.00% | ~17,258 |
 | Collector | 19.00% | ~17,258 |
-| Curiosity | 18.00% | ~16,349 |
-| Master | 18.00% | ~16,349 |
+| Curiosity | 18.00% | ~16,350 |
+| Master | 18.00% | ~16,350 |
 | No Longer Red | 17.00% | ~15,441 |
 | Self-sufficient | 17.00% | ~15,441 |
-| Money money | 15.00% | ~13,624 |
+| Money money | 15.00% | ~13,625 |
 | First Journey | 14.00% | ~12,716 |
 | Biggest Reward | 13.00% | ~11,808 |
 | Acquired knowledge | 12.00% | ~10,900 |
-| Landlord | 11.00% | ~9,991 |
-| Most Achievements | 11.00% | ~9,991 |
-| Hellenic Elysium | 11.00% | ~9,991 |
-| Grand champion | 11.00% | ~9,991 |
+| Landlord | 11.00% | ~9,992 |
+| Most Achievements | 11.00% | ~9,992 |
+| Hellenic Elysium | 11.00% | ~9,992 |
+| Grand champion | 11.00% | ~9,992 |
 | Spirit | 10.00% | ~9,083 |
 | Variety Expert | 9.00% | ~8,175 |
 | Ultimate success | 9.00% | ~8,175 |
-| Frequent tester | 8.00% | ~7,266 |
+| Frequent tester | 8.00% | ~7,267 |
 | Determined | 7.00% | ~6,358 |
 | Terraformer | 4.00% | ~3,633 |
 | Team Effort | 3.00% | ~2,725 |
 | Opportunity | 3.00% | ~2,725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,830 (Ranked 107)  
+Progressed: 90,832 (Ranked 107)  
 Completed: 184 (0.20%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 184 (0.20%) (Ranked 283)
 | 2024-01-14 | 90,639 | 184 |
 | 2024-01-15 | 90,735 | 184 |
 | 2024-01-16 | 90,830 | 184 |
+| 2024-01-17 | 90,832 | 184 |
 ## Awards
 Max (Relaxing): 543  (Ranked 219)  
 Sum: 3,345 (Ranked 180)  

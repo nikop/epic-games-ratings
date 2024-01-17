@@ -23,8 +23,8 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 43.00% | ~3,432 |
 | Feast or Famine | 34.00% | ~2,714 |
 | Heating Up | 33.00% | ~2,634 |
+| Winter Is Coming | 30.00% | ~2,394 |
 | Luminary Researcher | 30.00% | ~2,394 |
-| Winter Is Coming | 29.00% | ~2,314 |
 | Fit For A King | 26.00% | ~2,075 |
 | Winter Is Here | 26.00% | ~2,075 |
 | Disassembled | 23.00% | ~1,836 |

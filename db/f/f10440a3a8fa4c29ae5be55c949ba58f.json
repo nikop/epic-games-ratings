@@ -4,7 +4,7 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9268,
+  "EOS_Progressed": 9274,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1234,
+  "EOS_NewPlayers": 1228,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3164,6 +3164,11 @@
       "Time": "2024-01-16T23:09:27.35528+00:00",
       "NumProgressed": 9268,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-17T00:09:05.6692955+00:00",
+      "NumProgressed": 9274,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3176,7 +3181,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4541
+      "UsersEstimate": 4544
     },
     {
       "ID": "Document1",
@@ -3184,7 +3189,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "Document2",
@@ -3239,14 +3244,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9268,
+      "Progressed": 9274,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:09:27.3552796+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:09:05.6692951+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:59:56.2335518+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:09:27.355305+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:59:58.3374654+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:09:05.6693164+00:00"
 }

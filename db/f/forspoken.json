@@ -6,9 +6,9 @@
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_Completed": 378,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47364,
+  "EOS_Progressed": 47371,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 439,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19053,6 +19053,11 @@
       "Time": "2024-01-16T23:04:06.095947+00:00",
       "NumProgressed": 47364,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T00:03:52.4401538+00:00",
+      "NumProgressed": 47371,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19096,7 +19101,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -19112,7 +19117,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6157
+      "UsersEstimate": 6158
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19120,7 +19125,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -19256,7 +19261,7 @@
       "Name": "Leapfrogger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -19304,7 +19309,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -19352,7 +19357,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -19376,7 +19381,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3789
+      "UsersEstimate": 3790
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -19400,7 +19405,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5684
+      "UsersEstimate": 5685
     },
     {
       "ID": "SPRING_ALL",
@@ -19416,7 +19421,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3315
+      "UsersEstimate": 3316
     },
     {
       "ID": "STAYING_AIR",
@@ -19487,22 +19492,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47364,
+      "Progressed": 47371,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12201,
-      "Completed": 12201
+      "Progressed": 12208,
+      "Completed": 12208
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:04:06.0959465+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:03:52.4401533+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:03:04.9076445+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:04:06.0960992+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:02:48.7497188+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:03:52.4402602+00:00"
 }

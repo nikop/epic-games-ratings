@@ -20,8 +20,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 6.00% | ~1,250 |
 | Land of Greed | 6.00% | ~1,250 |
 | Ominous Presence | 6.00% | ~1,250 |
-| Royal Outpost | 5.00% | ~1,041 |
-| Watchtower | 5.00% | ~1,041 |
+| Royal Outpost | 5.00% | ~1,042 |
+| Watchtower | 5.00% | ~1,042 |
 | Homesick | 4.00% | ~833 |
 | Ruined Armory | 4.00% | ~833 |
 | Fertile Meadows | 4.00% | ~833 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,829 (Ranked 156)  
+Progressed: 20,830 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,6 +338,7 @@ Completed: 35 (0.17%) (Ranked 290)
 | 2024-01-14 | 20,781 | 35 |
 | 2024-01-15 | 20,812 | 35 |
 | 2024-01-16 | 20,829 | 35 |
+| 2024-01-17 | 20,830 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,387 (Ranked 179)  

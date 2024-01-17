@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10938,9 +10938,9 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 133014,
+  "EOS_Progressed": 133020,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40183,6 +40183,11 @@
       "Time": "2024-01-16T23:10:00.9073089+00:00",
       "NumProgressed": 133014,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T00:09:39.5329425+00:00",
+      "NumProgressed": 133020,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40266,7 +40271,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -40298,7 +40303,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -40314,7 +40319,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -40362,7 +40367,7 @@
       "Name": "Deprogramming",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -40392,9 +40397,9 @@
       "ID": "combat_kill_harvest_child",
       "SetID": "64l4lke",
       "Name": "Meat and Greet",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6651
+      "UsersEstimate": 7981
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40426,7 +40431,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "combat_kill_shambler",
@@ -40546,7 +40551,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10641
+      "UsersEstimate": 10642
     },
     {
       "ID": "hero_story_complete_all",
@@ -40562,7 +40567,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -40594,7 +40599,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -40626,7 +40631,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -40658,7 +40663,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "run_victory_act03",
@@ -40706,7 +40711,7 @@
       "Name": "Road Trip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -40794,7 +40799,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40825,21 +40830,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133014,
+      "Progressed": 133020,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7883,
+      "Progressed": 7889,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-16T20:59:01.7853228+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:10:00.9073086+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:09:39.5329422+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:58:51.9836138+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:10:00.9074646+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:58:50.7267594+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:09:39.5331096+00:00"
 }

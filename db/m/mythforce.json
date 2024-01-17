@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6376,
+  "EOS_Progressed": 6377,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13366,6 +13366,11 @@
       "Time": "2024-01-16T21:05:50.1452669+00:00",
       "NumProgressed": 6376,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T00:05:39.4395847+00:00",
+      "NumProgressed": 6377,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13418,7 +13423,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13490,7 +13495,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13498,7 +13503,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13530,7 +13535,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13538,7 +13543,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13561,15 +13566,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6376,
+      "Progressed": 6377,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:05:52.0013341+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:05:39.4395844+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:00:04.0163522+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:05:52.0014009+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:00:07.28337+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:05:39.4396571+00:00"
 }

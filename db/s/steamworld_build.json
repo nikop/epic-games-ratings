@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 427,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1151,9 +1151,9 @@
       "ID": "ConductedTrade",
       "SetID": "4bd750m",
       "Name": "Conducted Trade",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "DiggingAHole",
@@ -1183,9 +1183,9 @@
       "ID": "GottaGoFast",
       "SetID": "4bd750m",
       "Name": "Gotta Go Fast",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "ImALumberbot",
@@ -1350,8 +1350,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:03:35.8590521+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:03:22.4681762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.8775637+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:03:17.9802079+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:03:35.8590754+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:03:02.2784136+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:03:22.4681961+00:00"
 }

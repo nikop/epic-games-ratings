@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
     "PcReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -345,9 +345,9 @@
       "Count": 57
     }
   ],
-  "EOS_Progressed": 123753,
+  "EOS_Progressed": 123764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3332,
+  "EOS_NewPlayers": 3321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4855,6 +4855,11 @@
       "Time": "2024-01-16T23:05:02.150262+00:00",
       "NumProgressed": 123753,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T00:04:49.5442855+00:00",
+      "NumProgressed": 123764,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -4931,7 +4936,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13613
+      "UsersEstimate": 13614
     },
     {
       "ID": "ACH_GROWNUP",
@@ -4939,7 +4944,7 @@
       "Name": "All Grown Up!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 23513
+      "UsersEstimate": 23515
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -4963,7 +4968,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18563
+      "UsersEstimate": 18565
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5019,7 +5024,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 9900
+      "UsersEstimate": 9901
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5035,7 +5040,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11138
+      "UsersEstimate": 11139
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5131,7 +5136,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7425
+      "UsersEstimate": 7426
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -5146,7 +5151,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 123753,
+      "Progressed": 123764,
       "Completed": 0
     }
   ],
@@ -5154,8 +5159,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-16T14:58:57.6815817+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:05:02.1502617+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:04:49.5442852+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.8930893+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:58:54.6889413+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:05:02.1503018+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:58:53.4421374+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:04:49.5443298+00:00"
 }

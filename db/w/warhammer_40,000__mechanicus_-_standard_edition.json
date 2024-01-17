@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 728,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 269,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1116,9 +1116,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232407,
+  "EOS_Progressed": 232409,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30946,6 +30946,11 @@
       "Time": "2024-01-16T23:10:02.3500767+00:00",
       "NumProgressed": 232407,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T00:09:40.8385262+00:00",
+      "NumProgressed": 232409,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -30957,7 +30962,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46481
+      "UsersEstimate": 46482
     },
     {
       "ID": "ACH_BASE_10",
@@ -31037,7 +31042,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13944
+      "UsersEstimate": 13945
     },
     {
       "ID": "ACH_BASE_20",
@@ -31228,7 +31233,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232407,
+      "Progressed": 232409,
       "Completed": 5
     }
   ],
@@ -31236,8 +31241,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:10:02.3500765+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:09:40.838526+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:57:17.1423379+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:10:02.3502387+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:57:09.9940924+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:09:40.8386544+00:00"
 }

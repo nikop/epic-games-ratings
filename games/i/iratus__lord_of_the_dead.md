@@ -6,30 +6,30 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~42,081 |
-| Blood Moon | 73.00% | ~36,140 |
-| Path of the Necromancer | 65.00% | ~32,180 |
-| Chainbreaker - I | 60.00% | ~29,704 |
-| Cursed Creature | 57.00% | ~28,219 |
-| Extraction | 57.00% | ~28,219 |
-| Chainbreaker - II | 54.00% | ~26,734 |
+| Improvement | 85.00% | ~42,083 |
+| Blood Moon | 73.00% | ~36,142 |
+| Path of the Necromancer | 65.00% | ~32,181 |
+| Chainbreaker - I | 60.00% | ~29,705 |
+| Cursed Creature | 57.00% | ~28,220 |
+| Extraction | 57.00% | ~28,220 |
+| Chainbreaker - II | 54.00% | ~26,735 |
 | Necromancer's Apprentice | 50.00% | ~24,754 |
-| Keeper of Keys | 47.00% | ~23,268 |
-| Distillation | 43.00% | ~21,288 |
-| Transmutation | 42.00% | ~20,793 |
-| Mountain King - I | 41.00% | ~20,298 |
-| Prepared Necromancer | 40.00% | ~19,803 |
-| Mountain King - II | 39.00% | ~19,308 |
+| Keeper of Keys | 47.00% | ~23,269 |
+| Distillation | 43.00% | ~21,289 |
+| Transmutation | 42.00% | ~20,794 |
+| Mountain King - I | 41.00% | ~20,299 |
+| Prepared Necromancer | 40.00% | ~19,804 |
+| Mountain King - II | 39.00% | ~19,309 |
 | Blind Rage | 38.00% | ~18,813 |
-| Mad Genius | 35.00% | ~17,327 |
-| Cannon Fodder - I | 34.00% | ~16,832 |
-| Soul of Lies | 34.00% | ~16,832 |
-| Bane of Mercenaries - I | 32.00% | ~15,842 |
-| Bane of Mercenaries - II | 31.00% | ~15,347 |
-| Cannon Fodder - II | 29.00% | ~14,357 |
-| Shadow Between Worlds | 29.00% | ~14,357 |
-| Bane of Monsters | 28.00% | ~13,862 |
-| Chainbreaker - III | 28.00% | ~13,862 |
+| Mad Genius | 35.00% | ~17,328 |
+| Cannon Fodder - I | 34.00% | ~16,833 |
+| Soul of Lies | 34.00% | ~16,833 |
+| Bane of Mercenaries - I | 32.00% | ~15,843 |
+| Bane of Mercenaries - II | 31.00% | ~15,348 |
+| Cannon Fodder - II | 29.00% | ~14,358 |
+| Shadow Between Worlds | 29.00% | ~14,358 |
+| Bane of Monsters | 28.00% | ~13,863 |
+| Chainbreaker - III | 28.00% | ~13,863 |
 | Revealed Secrets - I | 26.00% | ~12,872 |
 | Revealed Secrets - II | 25.00% | ~12,377 |
 | Unholy Bones | 23.00% | ~11,387 |
@@ -39,12 +39,12 @@ Number of Ratings: 10,109  (23.09.2022)
 | Spiritual Attraction | 22.00% | ~10,892 |
 | Uncommon Warrior | 22.00% | ~10,892 |
 | Nightmare of the Humanity - I | 22.00% | ~10,892 |
-| Nightmare of the Humanity - II | 21.00% | ~10,396 |
-| That Was Easy! | 20.00% | ~9,901 |
-| Silent Waters | 20.00% | ~9,901 |
-| Head of Order | 20.00% | ~9,901 |
-| Calcination | 19.00% | ~9,406 |
-| Blood Mage | 17.00% | ~8,416 |
+| Nightmare of the Humanity - II | 21.00% | ~10,397 |
+| That Was Easy! | 20.00% | ~9,902 |
+| Silent Waters | 20.00% | ~9,902 |
+| Head of Order | 20.00% | ~9,902 |
+| Calcination | 19.00% | ~9,407 |
+| Blood Mage | 17.00% | ~8,417 |
 | Wild Hunger | 16.00% | ~7,921 |
 | Rage Concentrated | 16.00% | ~7,921 |
 | Mountain King - III | 15.00% | ~7,426 |
@@ -64,9 +64,9 @@ Number of Ratings: 10,109  (23.09.2022)
 | Icy Incursion | 8.00% | ~3,961 |
 | Arachnophobia | 8.00% | ~3,961 |
 | Revealed Secrets - III | 8.00% | ~3,961 |
-| Nightmare of the Humanity - III | 7.00% | ~3,465 |
-| Means of Recovery | 6.00% | ~2,970 |
-| Master of Magic | 6.00% | ~2,970 |
+| Nightmare of the Humanity - III | 7.00% | ~3,466 |
+| Means of Recovery | 6.00% | ~2,971 |
+| Master of Magic | 6.00% | ~2,971 |
 | Master of Destruction | 4.00% | ~1,980 |
 | Dungeon Queen | 3.00% | ~1,485 |
 | Mek Brothers | 3.00% | ~1,485 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~248 |
 | Renowned Researcher | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,507 (Ranked 125)  
+Progressed: 49,509 (Ranked 125)  
 Completed: 26 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,6 +354,7 @@ Completed: 26 (0.05%) (Ranked 343)
 | 2024-01-14 | 49,382 | 26 |
 | 2024-01-15 | 49,448 | 26 |
 | 2024-01-16 | 49,507 | 26 |
+| 2024-01-17 | 49,509 | 26 |
 ## Awards
 Max (Character Customization): 2,167  (Ranked 117)  
 Sum: 4,232 (Ranked 164)  

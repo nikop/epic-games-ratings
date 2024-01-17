@@ -3595,9 +3595,9 @@
       "Count": 263
     }
   ],
-  "EOS_Progressed": 90830,
+  "EOS_Progressed": 90832,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 890,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -34000,6 +34000,11 @@
       "Time": "2024-01-16T23:04:38.6941932+00:00",
       "NumProgressed": 90830,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-17T00:04:26.4302906+00:00",
+      "NumProgressed": 90832,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -34051,7 +34056,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9991
+      "UsersEstimate": 9992
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -34067,7 +34072,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9991
+      "UsersEstimate": 9992
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -34091,7 +34096,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33607
+      "UsersEstimate": 33608
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34099,7 +34104,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25432
+      "UsersEstimate": 25433
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -34131,7 +34136,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16349
+      "UsersEstimate": 16350
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -34179,7 +34184,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13624
+      "UsersEstimate": 13625
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -34187,7 +34192,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30882
+      "UsersEstimate": 30883
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -34203,7 +34208,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 7266
+      "UsersEstimate": 7267
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -34211,7 +34216,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9991
+      "UsersEstimate": 9992
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -34227,7 +34232,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9991
+      "UsersEstimate": 9992
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -34235,7 +34240,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16349
+      "UsersEstimate": 16350
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -34250,15 +34255,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90830,
+      "Progressed": 90832,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-15T22:59:55.6693191+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:04:38.6941929+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:04:26.4302903+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:00:05.4048588+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:04:38.6943442+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:00:09.1539651+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:04:26.4304524+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 123,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 160,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 159,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 272,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.59,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -544,6 +544,11 @@
       "Time": "2024-01-16T23:08:42.1307235+00:00",
       "NumProgressed": 270,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-17T00:08:18.7832156+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -553,9 +558,9 @@
       "ID": "ACH_BESTIE",
       "SetID": "1p69hf1",
       "Name": "Give me a hand",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_DAWN_OF_VICTORY",
@@ -579,7 +584,7 @@
       "Name": "Medal of honor",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -603,7 +608,7 @@
       "Name": "Life matters",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_LIGHT",
@@ -649,9 +654,9 @@
       "ID": "ACH_PROFESSIONAL_TEAM",
       "SetID": "1p69hf1",
       "Name": "Professional team!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -691,14 +696,14 @@
       "Name": "ASAP",
       "Percentage": 98,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 267
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 272,
       "Completed": 7
     }
   ],
@@ -706,8 +711,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:08:42.1307231+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:08:18.7832152+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:19.2638096+00:00",
-  "LastUpdate_Ratings": "2024-01-16T22:59:16.1293438+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:08:42.130738+00:00"
+  "LastUpdate_Ratings": "2024-01-16T23:59:16.2466931+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:08:18.7832367+00:00"
 }

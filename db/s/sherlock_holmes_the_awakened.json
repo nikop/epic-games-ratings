@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 65,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1462,
+  "EOS_Progressed": 1463,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 4,
@@ -5241,6 +5241,11 @@
       "Time": "2024-01-16T23:05:15.7698787+00:00",
       "NumProgressed": 1462,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-17T00:05:02.8728234+00:00",
+      "NumProgressed": 1463,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -5252,7 +5257,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "MQ01_2",
@@ -5268,7 +5273,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "MQ02_2",
@@ -5292,7 +5297,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "MQ03_1",
@@ -5300,7 +5305,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "MQ03_2",
@@ -5316,7 +5321,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "MQ03_4",
@@ -5324,7 +5329,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "MQ03_5",
@@ -5340,7 +5345,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "MQ04_2",
@@ -5364,7 +5369,7 @@
       "Name": "Open Sesame",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "MQ05_2",
@@ -5380,7 +5385,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "MQ05_4",
@@ -5388,7 +5393,7 @@
       "Name": "Knives Out",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "MQ06_1",
@@ -5396,7 +5401,7 @@
       "Name": "Brain Food",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "MQ06_2",
@@ -5428,7 +5433,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "MQ07_2",
@@ -5436,7 +5441,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "MQ08_1",
@@ -5444,7 +5449,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MQ08_2",
@@ -5452,7 +5457,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "MQ08_3",
@@ -5468,14 +5473,14 @@
       "Name": "Reawakened",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1462,
+      "Progressed": 1463,
       "Completed": 48
     }
   ],
@@ -5483,8 +5488,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-16T23:05:15.7698784+00:00",
+  "LastChanged_Achievements": "2024-01-17T00:05:02.8728232+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-16T23:03:15.0987256+00:00",
-  "LastUpdate_Achievements": "2024-01-16T23:05:15.7699367+00:00"
+  "LastUpdate_Ratings": "2024-01-17T00:02:59.3476938+00:00",
+  "LastUpdate_Achievements": "2024-01-17T00:05:02.8728652+00:00"
 }

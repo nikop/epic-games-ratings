@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,14 +13,14 @@ Rating: 4.59 (Ranked 452)
 | Ready for a New World | 20.00% | ~841 |
 | A Thousand Strong | 19.00% | ~799 |
 | Permanent Redesigns | 17.00% | ~715 |
-| Fully Recycled | 16.00% | ~672 |
-| The Ship of Theseus | 16.00% | ~672 |
-| Guy de Borderlands | 15.00% | ~630 |
-| Ain't Nobody Got Time for That | 15.00% | ~630 |
-| Hope Seeker | 14.00% | ~588 |
-| A Hunk of Junk | 13.00% | ~546 |
-| Exceeding Capacity | 13.00% | ~546 |
-| Breaking Protocol | 13.00% | ~546 |
+| Fully Recycled | 16.00% | ~673 |
+| The Ship of Theseus | 16.00% | ~673 |
+| Guy de Borderlands | 15.00% | ~631 |
+| Ain't Nobody Got Time for That | 15.00% | ~631 |
+| Hope Seeker | 14.00% | ~589 |
+| A Hunk of Junk | 13.00% | ~547 |
+| Exceeding Capacity | 13.00% | ~547 |
+| Breaking Protocol | 13.00% | ~547 |
 | Man's Best Friend | 9.00% | ~378 |
 | Power Outage | 9.00% | ~378 |
 | Please Make it Stop! | 9.00% | ~378 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 452)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,203 (Ranked 215)  
+Progressed: 4,204 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,6 +325,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 4,196 | 0 |
 | 2024-01-15 | 4,202 | 0 |
 | 2024-01-16 | 4,203 | 0 |
+| 2024-01-17 | 4,204 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
