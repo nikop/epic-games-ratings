@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2372,
+  "EOS_Progressed": 2373,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4740,6 +4740,11 @@
       "Time": "2024-01-17T20:10:14.8569457+00:00",
       "NumProgressed": 2372,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T21:10:06.7303852+00:00",
+      "NumProgressed": 2373,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4751,7 +4756,7 @@
       "Name": "Break Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_02",
@@ -4759,7 +4764,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_03",
@@ -4783,7 +4788,7 @@
       "Name": "To Battle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_06",
@@ -4791,7 +4796,7 @@
       "Name": "Godslayer",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_07",
@@ -4807,7 +4812,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "ACH_09",
@@ -4823,7 +4828,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "ACH_11",
@@ -4855,7 +4860,7 @@
       "Name": "Airborne",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_15",
@@ -4943,7 +4948,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ACH_26",
@@ -5038,7 +5043,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2372,
+      "Progressed": 2373,
       "Completed": 5
     }
   ],
@@ -5046,8 +5051,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:10:14.8569455+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:10:06.7303848+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:00:19.4364929+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:10:14.8569868+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:00:17.7024632+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:10:06.730437+00:00"
 }

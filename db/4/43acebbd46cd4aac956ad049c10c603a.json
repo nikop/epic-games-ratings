@@ -6,8 +6,8 @@
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1434,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4208,6 +4208,11 @@
       "Time": "2024-01-17T19:06:33.7010752+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T21:06:03.8238532+00:00",
+      "NumProgressed": 1434,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4228,7 +4233,7 @@
       "Name": "Ab Initio",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AnthropicHills",
@@ -4260,7 +4265,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "BreakTheLoop",
@@ -4276,7 +4281,7 @@
       "Name": "Bridge Builder",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "ChasingTheLight",
@@ -4316,7 +4321,7 @@
       "Name": "Discovery",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "EasternWetlands",
@@ -4444,7 +4449,7 @@
       "Name": "Museum Visitor",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "NewBeginning",
@@ -4476,7 +4481,7 @@
       "Name": "Overload",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Persistent",
@@ -4674,9 +4679,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 244
     },
     {
       "ID": "YourBiggestFan",
@@ -4691,7 +4696,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1434,
       "Completed": 2
     }
   ],
@@ -4699,8 +4704,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:06:10.6131112+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:06:03.8238527+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:59:18.4911123+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:06:10.6131983+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:59:17.1994078+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:06:03.8239284+00:00"
 }

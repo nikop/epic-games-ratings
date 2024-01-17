@@ -41,7 +41,7 @@
 | The scholar | 10.00% | ~9 |
 | The barbarian invasions | 10.00% | ~9 |
 | Vaccine fans | 10.00% | ~9 |
-| A new Hindenburg | 8.00% | ~7 |
+| A new Hindenburg | 9.00% | ~8 |
 | Pulp! Tales from the Crypt | 6.00% | ~6 |
 | Thirst for Oleum | 4.00% | ~4 |
 | Pulp! The Perfect Crime | 3.00% | ~3 |

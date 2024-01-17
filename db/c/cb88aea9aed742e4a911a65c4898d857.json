@@ -383,9 +383,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 11698,
+  "EOS_Progressed": 11701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 716,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5248,6 +5248,11 @@
       "Time": "2024-01-17T20:10:14.6377666+00:00",
       "NumProgressed": 11698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T21:10:06.4894792+00:00",
+      "NumProgressed": 11701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5650,9 +5655,9 @@
       "ID": "51_AmendsToTheDead",
       "SetID": "37a94m8",
       "Name": "Amends to the Dead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 35
     },
     {
       "ID": "52_TheGoldenFrog",
@@ -5692,7 +5697,7 @@
       "Name": "Thorough Investigation",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -5779,7 +5784,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11698,
+      "Progressed": 11701,
       "Completed": 1
     }
   ],
@@ -5787,8 +5792,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-16T18:59:08.7286101+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:10:14.6377658+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:10:06.4894787+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:58:57.9012985+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:10:14.6378231+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:58:55.6008218+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:10:06.48954+00:00"
 }

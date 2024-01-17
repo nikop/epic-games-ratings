@@ -10,7 +10,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 2.00% | ~5,089 |
 | The Cursed Farmer | 2.00% | ~5,089 |
 | The Mad Wizard | 2.00% | ~5,089 |
-| The Ring of Regeneration | 1.00% | ~2,544 |
+| The Ring of Regeneration | 1.00% | ~2,545 |
 | Are Ya Chicken? | 0.90% | ~2,290 |
 | Were-verpowered | 0.80% | ~2,036 |
 | Seeking Allies | 0.80% | ~2,036 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,446 (Ranked 71)  
+Progressed: 254,454 (Ranked 71)  
 Completed: 2,623 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,623 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,446 | 2,623 |
+| 2024-01-17 | 254,454 | 2,623 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

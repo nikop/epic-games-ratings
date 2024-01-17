@@ -11,7 +11,7 @@
 | Scraps of love | 53.00% | ~175 |
 | The artist’s impression | 51.00% | ~169 |
 | Do what you have to | 46.00% | ~152 |
-| Sign of weakness | 43.00% | ~142 |
+| Sign of weakness | 44.00% | ~146 |
 | Refuse to look | 38.00% | ~126 |
 | Face your fears | 33.00% | ~109 |
 | Finished it | 27.00% | ~89 |

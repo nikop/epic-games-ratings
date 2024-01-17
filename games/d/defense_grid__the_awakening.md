@@ -6,31 +6,31 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,373 |
+| First Blood | 81.00% | ~400,374 |
 | Happy Returns | 78.00% | ~385,545 |
 | Hey! That's mine! | 78.00% | ~385,545 |
-| Field Promotion | 74.00% | ~365,773 |
-| Leadhead | 71.00% | ~350,944 |
-| Eradicator | 68.00% | ~336,116 |
-| Surplus | 66.00% | ~326,230 |
-| I Spy | 64.00% | ~316,344 |
-| Burn Baby Burn | 59.00% | ~291,630 |
-| Yellow Beats Green | 56.00% | ~276,801 |
+| Field Promotion | 74.00% | ~365,774 |
+| Leadhead | 71.00% | ~350,945 |
+| Eradicator | 68.00% | ~336,117 |
+| Surplus | 66.00% | ~326,231 |
+| I Spy | 64.00% | ~316,345 |
+| Burn Baby Burn | 59.00% | ~291,631 |
+| Yellow Beats Green | 56.00% | ~276,802 |
 | Salvage Rights | 53.00% | ~261,973 |
 | What IS that? | 51.00% | ~252,087 |
 | Close Call | 50.00% | ~247,144 |
 | Pew Pew | 50.00% | ~247,144 |
-| Penny Pincher | 49.00% | ~242,201 |
-| Arsenal | 46.00% | ~227,372 |
-| Boot Camp | 46.00% | ~227,372 |
+| Penny Pincher | 49.00% | ~242,202 |
+| Arsenal | 46.00% | ~227,373 |
+| Boot Camp | 46.00% | ~227,373 |
 | Flawless Victory | 42.00% | ~207,601 |
 | Confident | 41.00% | ~202,658 |
 | Exterminator | 36.00% | ~177,944 |
 | Sharpshooter | 34.00% | ~168,058 |
 | Not So Fast | 33.00% | ~163,115 |
 | Great Ball of Fire | 32.00% | ~158,172 |
-| No Sale | 31.00% | ~153,229 |
-| Kaboom! | 30.00% | ~148,286 |
+| No Sale | 31.00% | ~153,230 |
+| Kaboom! | 30.00% | ~148,287 |
 | Liquidator | 29.00% | ~143,344 |
 | High Voltage | 24.00% | ~118,629 |
 | Filthy Rich | 20.00% | ~98,858 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,288 (Ranked 43)  
+Progressed: 494,289 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,7 +366,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 494,126 | 5 |
 | 2024-01-15 | 494,194 | 5 |
 | 2024-01-16 | 494,244 | 5 |
-| 2024-01-17 | 494,288 | 5 |
+| 2024-01-17 | 494,289 | 5 |
 ## Awards
 Max (Great for Beginners): 264  (Ranked 280)  
 Sum: 1,748 (Ranked 229)  

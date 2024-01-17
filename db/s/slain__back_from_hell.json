@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44357,
+  "EOS_Progressed": 44358,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29812,6 +29812,11 @@
       "Time": "2024-01-17T20:08:30.8636131+00:00",
       "NumProgressed": 44357,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-17T21:08:23.3432574+00:00",
+      "NumProgressed": 44358,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -29839,7 +29844,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -29999,7 +30004,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -30007,7 +30012,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -30054,7 +30059,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44357,
+      "Progressed": 44358,
       "Completed": 30
     }
   ],
@@ -30062,8 +30067,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:08:30.8636128+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:08:23.343257+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.9023781+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:03:01.3091391+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:08:30.8637603+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:02:47.004032+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:08:23.3434315+00:00"
 }

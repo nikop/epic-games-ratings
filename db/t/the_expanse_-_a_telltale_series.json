@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,10 +349,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19112,
+  "EOS_Progressed": 19115,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 294,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 293,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -17654,6 +17654,11 @@
       "Time": "2024-01-17T20:06:06.2869302+00:00",
       "NumProgressed": 19112,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T21:05:59.3671275+00:00",
+      "NumProgressed": 19115,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17698,7 +17703,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "14",
@@ -17714,7 +17719,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "16",
@@ -17730,7 +17735,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "18",
@@ -17810,7 +17815,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "27",
@@ -17866,7 +17871,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "6",
@@ -17906,7 +17911,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "32",
@@ -17922,7 +17927,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "34",
@@ -17945,22 +17950,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19112,
+      "Progressed": 19115,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5066,
-      "Completed": 1336
+      "Progressed": 5069,
+      "Completed": 1337
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:06:06.2869299+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:05:59.3671271+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:59:45.6163332+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:06:06.2870403+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:59:44.9218291+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:05:59.3672551+00:00"
 }

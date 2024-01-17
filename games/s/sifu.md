@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,687 |
+| The Old Grandmaster | 6.00% | ~45,688 |
 | Life is your teacher | 5.00% | ~38,073 |
 | Lightning Hands | 5.00% | ~38,073 |
 | The Assault | 4.00% | ~30,458 |
@@ -34,9 +34,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.80% | ~6,092 |
 | Fight the way you practice | 0.80% | ~566 |
 | Tiger on Fire | 0.70% | ~5,330 |
+| Source of Flying Daggers | 0.70% | ~5,330 |
 | Detective Story | 0.70% | ~5,330 |
 | Martial Hub | 0.70% | ~495 |
-| Source of Flying Daggers | 0.60% | ~4,569 |
 | Iron Money | 0.60% | ~4,569 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,569 |
 | Sword Stained With Blood | 0.60% | ~4,569 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,456 (Ranked 26)  
+Progressed: 761,461 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,14 +339,14 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,456 | 12,990 |
+| 2024-01-17 | 761,461 | 12,990 |
 ## Awards
-Max (Great Boss Battles): 7,221  (Ranked 57)  
-Sum: 12,778 (Ranked 87)  
+Max (Great Boss Battles): 7,227  (Ranked 57)  
+Sum: 12,784 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,221 |
+| This game has Great Boss Battles | 7,227 |
 | This game has Diverse Characters | 706 |
 | This game has Challenging Combat | 650 |
 | This game has Amazing Storytelling | 624 |
@@ -725,4 +725,4 @@ Diff (max vs sum): -30
 | 2024-01-14 | 4.82 | - | 7,205 | 12,749 |
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
 | 2024-01-16 | 4.82 | - | 7,221 | 12,772 |
-| 2024-01-17 | 4.82 | - | 7,221 | 12,778 |
+| 2024-01-17 | 4.82 | - | 7,227 | 12,784 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10900,18 +10900,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 21702,
       "NumberOfAwardsMax": 8031
+    },
+    {
+      "Time": "2024-01-17T20:59:27.4660603+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21711,
+      "NumberOfAwardsMax": 8040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21702,
-  "NumberOfAwardsMax": 8031,
+  "NumberOfAwards": 21711,
+  "NumberOfAwardsMax": 8040,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8031
+      "Count": 8040
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10980,9 +10986,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133071,
+  "EOS_Progressed": 133075,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40325,6 +40331,11 @@
       "Time": "2024-01-17T20:10:08.8059358+00:00",
       "NumProgressed": 133071,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T21:10:00.9670127+00:00",
+      "NumProgressed": 133075,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40360,7 +40371,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -40432,7 +40443,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -40512,7 +40523,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "combat_kill_gaunts",
@@ -40528,7 +40539,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -40752,7 +40763,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -40808,7 +40819,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "run_victory_act04",
@@ -40816,7 +40827,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "run_victory_act05",
@@ -40824,7 +40835,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -40920,7 +40931,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40928,7 +40939,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "quest_complete_crusader",
@@ -40967,21 +40978,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133071,
+      "Progressed": 133075,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7940,
+      "Progressed": 7944,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-17T19:59:28.4720832+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:10:08.8059354+00:00",
+  "LastChanged": "2024-01-17T20:59:27.4660601+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:10:00.9670122+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:59:28.4720837+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:10:08.8061215+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:59:27.4660608+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:10:00.9672244+00:00"
 }

@@ -67,9 +67,9 @@
 | Apian Mastery | 1.00% | ~4 |
 | Aquarian Mastery | 1.00% | ~4 |
 | Eridanian Mastery | 1.00% | ~4 |
+| Astral Tinkerer | 0.80% | ~3 |
 | Plague Doctor | 0.80% | ~3 |
 | Royal Choir | 0.80% | ~3 |
-| Astral Tinkerer | 0.50% | ~2 |
 | Astrea's Saviors | 0.50% | ~2 |
 | Astrium Specialist | 0.50% | ~2 |
 | Six-Sided Mastery | 0.50% | ~2 |

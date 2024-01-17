@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5209,18 +5209,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 8752,
       "NumberOfAwardsMax": 2930
+    },
+    {
+      "Time": "2024-01-17T21:02:46.3166238+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8780,
+      "NumberOfAwardsMax": 2958
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8752,
-  "NumberOfAwardsMax": 2930,
+  "NumberOfAwards": 8780,
+  "NumberOfAwardsMax": 2958,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2930
+      "Count": 2958
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5291,7 +5297,7 @@
   ],
   "EOS_Progressed": 23944,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 616,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16927,9 +16933,9 @@
       "ID": "ach07",
       "SetID": "47in8n6",
       "Name": "Beaten And Broken",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 10775
+      "UsersEstimate": 11014
     },
     {
       "ID": "ach08",
@@ -17175,9 +17181,9 @@
       "ID": "ach38",
       "SetID": "47in8n6",
       "Name": "Made It Out Alive",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 7902
+      "UsersEstimate": 8141
     },
     {
       "ID": "ach39",
@@ -17287,9 +17293,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-17T18:03:36.2437936+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:08:58.6440168+00:00",
+  "LastChanged": "2024-01-17T21:02:46.3166237+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:08:51.8112484+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:03:00.6689802+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:08:58.6441034+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:02:46.3166243+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:08:51.8113417+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,989 |
+| Tattletale | 39.00% | ~6,990 |
 | Man of politics | 34.00% | ~6,093 |
 | Friends of sorts | 32.00% | ~5,735 |
 | Yet another secret | 32.00% | ~5,735 |
@@ -15,12 +15,12 @@ Number of Ratings: 368  (23.09.2022)
 | Wannabe knight | 23.00% | ~4,122 |
 | Garden of Eden | 23.00% | ~4,122 |
 | Full house | 23.00% | ~4,122 |
-| Help an old friend | 21.00% | ~3,763 |
+| Help an old friend | 21.00% | ~3,764 |
 | Two of us | 20.00% | ~3,584 |
 | Negotiation skills | 18.00% | ~3,226 |
 | Workers' union | 18.00% | ~3,226 |
 | End of Book Two | 18.00% | ~3,226 |
-| Everything's in order | 16.00% | ~2,867 |
+| Everything's in order | 16.00% | ~2,868 |
 | Twist of Fate | 14.00% | ~2,509 |
 | Jack was here! | 14.00% | ~2,509 |
 | Exterminator | 13.00% | ~2,330 |
@@ -35,8 +35,8 @@ Number of Ratings: 368  (23.09.2022)
 | The truth revealed | 9.00% | ~1,613 |
 | The End. | 9.00% | ~1,613 |
 | Nothing but make-believe | 8.00% | ~1,434 |
-| A cry for help | 7.00% | ~1,254 |
-| Silentium est aureum | 7.00% | ~1,254 |
+| A cry for help | 7.00% | ~1,255 |
+| Silentium est aureum | 7.00% | ~1,255 |
 | Rebel without a cause | 6.00% | ~1,075 |
 | Staring contest champion | 5.00% | ~896 |
 | Lone wolf | 5.00% | ~896 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~538 |
 | Boy of mystery | 2.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,921 (Ranked 165)  
+Progressed: 17,922 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 125 (0.70%) (Ranked 204)
 | 2024-01-14 | 17,861 | 125 |
 | 2024-01-15 | 17,891 | 125 |
 | 2024-01-16 | 17,908 | 125 |
-| 2024-01-17 | 17,921 | 125 |
+| 2024-01-17 | 17,922 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 418)  

@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,747 |
 | The Hunt | 3.00% | ~5,060 |
 | Ravenous | 3.00% | ~5,060 |
-| Weeper | 2.00% | ~3,373 |
+| Weeper | 2.00% | ~3,374 |
 | Harmless | 1.00% | ~1,687 |
 | Silenced Whispers | 1.00% | ~1,687 |
 | Devourer | 1.00% | ~1,687 |
@@ -39,10 +39,10 @@ Number of Ratings: 46  (23.09.2022)
 | Passage | 0.30% | ~506 |
 | Proportions | 0.30% | ~506 |
 | Bloodhunter | 0.20% | ~337 |
-| Zygote | 0.20% | ~336 |
+| Zygote | 0.20% | ~337 |
 | Kinship | 0.20% | ~337 |
-| Kin | 0.20% | ~336 |
-| Listen | 0.20% | ~336 |
+| Kin | 0.20% | ~337 |
+| Listen | 0.20% | ~337 |
 | Spiral Heart | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~169 |
 | Instruments | 0.10% | ~169 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,666 (Ranked 85)  
+Progressed: 168,678 (Ranked 85)  
 Completed: 461 (0.27%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 461 (0.27%) (Ranked 267)
 | 2024-01-14 | 168,234 | 458 |
 | 2024-01-15 | 168,384 | 461 |
 | 2024-01-16 | 168,542 | 461 |
-| 2024-01-17 | 168,666 | 461 |
+| 2024-01-17 | 168,678 | 461 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 433)  
 Sum: 464 (Ranked 345)  

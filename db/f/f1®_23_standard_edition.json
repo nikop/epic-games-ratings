@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -1557,9 +1557,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18355,
+  "EOS_Progressed": 18356,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 814,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12042,6 +12042,11 @@
       "Time": "2024-01-17T20:05:40.2038922+00:00",
       "NumProgressed": 18355,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T21:05:32.433444+00:00",
+      "NumProgressed": 18356,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12094,7 +12099,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12848
+      "UsersEstimate": 12849
     },
     {
       "ID": "achievement_0007",
@@ -12102,7 +12107,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16703
+      "UsersEstimate": 16704
     },
     {
       "ID": "achievement_0008",
@@ -12214,7 +12219,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12481
+      "UsersEstimate": 12482
     },
     {
       "ID": "achievement_0022",
@@ -12390,7 +12395,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7709
+      "UsersEstimate": 7710
     },
     {
       "ID": "achievement_0044",
@@ -12414,7 +12419,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "achievement_0047",
@@ -12445,7 +12450,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18355,
+      "Progressed": 18356,
       "Completed": 0
     }
   ],
@@ -12453,8 +12458,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-17T18:57:22.9862215+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:05:40.2038916+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:05:32.4334436+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:57:19.2603856+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:05:40.2039805+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:57:14.4027759+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:05:32.4335583+00:00"
 }

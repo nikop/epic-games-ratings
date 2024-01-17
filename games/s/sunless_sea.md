@@ -6,24 +6,24 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~15,993 |
-| Sweet Sorrow | 18.00% | ~7,997 |
-| Rules the Waves | 17.00% | ~7,552 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,664 |
+| Sink Beneath the Waves | 36.00% | ~15,996 |
+| Sweet Sorrow | 18.00% | ~7,998 |
+| Rules the Waves | 17.00% | ~7,553 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,665 |
 | Rival | 14.00% | ~6,220 |
-| Correspondent | 12.00% | ~5,331 |
-| Lose Your Mind | 12.00% | ~5,331 |
-| Sound Mind? | 12.00% | ~5,331 |
-| Salt's Curse | 11.00% | ~4,887 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,887 |
-| The Fall of the House | 11.00% | ~4,887 |
-| Shipmate | 11.00% | ~4,887 |
-| One Year at Zee | 8.00% | ~3,554 |
+| Correspondent | 12.00% | ~5,332 |
+| Lose Your Mind | 12.00% | ~5,332 |
+| Sound Mind? | 12.00% | ~5,332 |
+| Salt's Curse | 11.00% | ~4,888 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,888 |
+| The Fall of the House | 11.00% | ~4,888 |
+| Shipmate | 11.00% | ~4,888 |
+| One Year at Zee | 8.00% | ~3,555 |
 | Pupil | 7.00% | ~3,110 |
 | The Ascent of Man | 7.00% | ~3,110 |
 | Salvager | 6.00% | ~2,666 |
 | Open Your Ears | 6.00% | ~2,666 |
-| Zee Fever | 5.00% | ~2,221 |
+| Zee Fever | 5.00% | ~2,222 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,777 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,777 |
 | Storm's Curse | 3.00% | ~1,333 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~44 |
 | Ten Years at Zee | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,426 (Ranked 131)  
+Progressed: 44,432 (Ranked 131)  
 Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,11 +333,11 @@ Completed: 4 (0.01%) (Ranked 378)
 | 2024-01-14 | 44,263 | 4 |
 | 2024-01-15 | 44,319 | 4 |
 | 2024-01-16 | 44,372 | 4 |
-| 2024-01-17 | 44,426 | 4 |
+| 2024-01-17 | 44,432 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
-Sum: 315 (Ranked 377)  
-Diff (max vs sum): -85  
+Sum: 315 (Ranked 378)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 221 |

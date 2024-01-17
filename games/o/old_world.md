@@ -81,12 +81,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mythology | 1.00% | ~170 |
 | Points Victory | 1.00% | ~170 |
 | Win a Single Player Game | 1.00% | ~170 |
+| Victorious | 0.90% | ~153 |
 | Patrons | 0.90% | ~153 |
 | Statesmen | 0.90% | ~153 |
 | Hittite Iron | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
+| Kushite Paganism | 0.90% | ~153 |
 | Conqueror | 0.80% | ~136 |
-| Victorious | 0.80% | ~136 |
 | Landowners | 0.80% | ~136 |
 | Traders | 0.80% | ~136 |
 | Circus Maximus | 0.80% | ~136 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Double Victory | 0.80% | ~136 |
-| Kushite Paganism | 0.80% | ~136 |
 | Capable | 0.70% | ~119 |
 | Invincible | 0.70% | ~119 |
 | Ready | 0.70% | ~119 |

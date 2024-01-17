@@ -6,22 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bushido and Chill | 0.20% | ~2,107 |
-| Full Body Conversion | 0.20% | ~2,107 |
-| Right Back At Ya | 0.20% | ~2,107 |
-| Gun Fu | 0.20% | ~2,107 |
-| Master Crafter | 0.20% | ~2,107 |
-| Christmas Tree Attack | 0.20% | ~2,107 |
-| Life of the Road | 0.20% | ~2,107 |
-| Stanislavski's Method | 0.20% | ~2,107 |
-| The Fool | 0.20% | ~2,107 |
-| The Hermit | 0.20% | ~2,107 |
-| The High Priestess | 0.20% | ~2,107 |
-| The Lovers | 0.20% | ~2,107 |
-| The Wheel of Fortune | 0.20% | ~2,107 |
-| The World | 0.20% | ~2,107 |
-| True Soldier | 0.20% | ~2,107 |
-| Legend of The Afterlife | 0.20% | ~2,107 |
+| Right Back At Ya | 0.30% | ~3,161 |
+| Bushido and Chill | 0.20% | ~2,108 |
+| Full Body Conversion | 0.20% | ~2,108 |
+| Gun Fu | 0.20% | ~2,108 |
+| Master Crafter | 0.20% | ~2,108 |
+| Christmas Tree Attack | 0.20% | ~2,108 |
+| Life of the Road | 0.20% | ~2,108 |
+| Stanislavski's Method | 0.20% | ~2,108 |
+| The Fool | 0.20% | ~2,108 |
+| The Hermit | 0.20% | ~2,108 |
+| The High Priestess | 0.20% | ~2,108 |
+| The Lovers | 0.20% | ~2,108 |
+| The Wheel of Fortune | 0.20% | ~2,108 |
+| The World | 0.20% | ~2,108 |
+| True Soldier | 0.20% | ~2,108 |
+| Legend of The Afterlife | 0.20% | ~2,108 |
 | All the President's Men | 0.20% | ~365 |
 | Arachnophobia | 0.20% | ~365 |
 | City Lights | 0.10% | ~1,054 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,746 (Ranked 17)  
+Progressed: 1,053,777 (Ranked 17)  
 Completed: 3,116 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,16 +346,16 @@ Completed: 3,116 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,746 | 3,116 |
+| 2024-01-17 | 1,053,777 | 3,116 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
-Sum: 501,439 (Ranked 8)  
+Sum: 501,632 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 141,662 |
 | This game has Great Boss Battles | 105,189 |
-| This game is Great for Beginners | 31,882 |
+| This game is Great for Beginners | 32,075 |
 | This game has Diverse Characters | 31,206 |
 | This game is Highly Recommended | 29,830 |
 | This game has Amazing Storytelling | 29,252 |
@@ -730,4 +730,4 @@ Diff (max vs sum): 0
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
-| 2024-01-17 | 4.67 | - | 141,662 | 501,439 |
+| 2024-01-17 | 4.67 | - | 141,662 | 501,632 |

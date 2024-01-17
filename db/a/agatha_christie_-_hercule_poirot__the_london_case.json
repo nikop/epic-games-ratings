@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 370,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -819,9 +819,9 @@
       "ID": "ACH_032",
       "SetID": "7b646ck",
       "Name": "Betty Allen",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_033",
@@ -994,8 +994,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:10:07.1852223+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:09:59.6035704+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.0301644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:58:20.4249291+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:10:07.1852861+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:58:16.5286461+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:09:59.6036069+00:00"
 }

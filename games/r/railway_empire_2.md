@@ -19,7 +19,7 @@ Rating: 4.38 (Ranked 797)
 | Right through the middle | 59.00% | ~1,622 |
 | Poor Devil | 55.00% | ~1,513 |
 | Facility Manager | 54.00% | ~1,485 |
-| Producer | 51.00% | ~1,402 |
+| Producer | 52.00% | ~1,430 |
 | Bridge Builder | 43.00% | ~1,182 |
 | Apprentice | 42.00% | ~1,155 |
 | Access granted | 37.00% | ~1,018 |
@@ -38,7 +38,7 @@ Rating: 4.38 (Ranked 797)
 | Breaking Ground | 23.00% | ~632 |
 | Trailblazer | 22.00% | ~605 |
 | Traffic Junction | 22.00% | ~605 |
-| Traffic Jam | 20.00% | ~550 |
+| Traffic Jam | 21.00% | ~578 |
 | Resistance is futile | 18.00% | ~495 |
 | Bold and beautiful | 17.00% | ~468 |
 | Networker | 17.00% | ~468 |

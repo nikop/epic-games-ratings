@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1909,9 +1909,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168666,
+  "EOS_Progressed": 168678,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23464,6 +23464,11 @@
       "Time": "2024-01-17T20:04:43.7209318+00:00",
       "NumProgressed": 168666,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-17T21:04:34.4523101+00:00",
+      "NumProgressed": 168678,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23516,7 +23521,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -23548,7 +23553,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23788,7 +23793,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "QUEST_LISTENER",
@@ -23796,7 +23801,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "QUEST_YON",
@@ -23843,21 +23848,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168249,
+      "Progressed": 168261,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168666,
+      "Progressed": 168678,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-17T15:00:45.5965111+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:04:43.7209315+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:04:34.4523095+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:59:46.3506584+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:04:43.7210512+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:59:45.6296907+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:04:34.4524566+00:00"
 }

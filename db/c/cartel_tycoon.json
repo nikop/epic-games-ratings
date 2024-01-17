@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -3733,6 +3733,11 @@
       "Time": "2024-01-16T18:04:17.3330039+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T21:04:06.9832002+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3792,7 +3797,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "kill-lieutenants",
@@ -3808,7 +3813,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "play-at-night",
@@ -3872,7 +3877,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "upgrade-building",
@@ -3880,7 +3885,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "use-submarine",
@@ -3895,15 +3900,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-17T04:03:24.3401457+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:04:17.0729543+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:04:06.9831997+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-17T20:03:06.1553071+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:04:17.0730049+00:00"
+  "LastUpdate_Ratings": "2024-01-17T21:02:52.0631972+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:04:06.9832338+00:00"
 }

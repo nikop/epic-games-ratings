@@ -53,8 +53,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 1.00% | ~209 |
 | Like a Machine | 1.00% | ~209 |
 | Feeding The People | 0.90% | ~188 |
+| Prestigious Expedition | 0.60% | ~125 |
 | Blood Flower Farmer | 0.60% | ~125 |
-| Prestigious Expedition | 0.50% | ~104 |
 | Fox Utopia | 0.50% | ~104 |
 | Human Utopia | 0.40% | ~83 |
 | Beaver Utopia | 0.30% | ~63 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,852 (Ranked 156)  
+Progressed: 20,853 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,10 +338,10 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-14 | 20,781 | 35 |
 | 2024-01-15 | 20,812 | 35 |
 | 2024-01-16 | 20,829 | 35 |
-| 2024-01-17 | 20,852 | 35 |
+| 2024-01-17 | 20,853 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 233)  
-Sum: 3,392 (Ranked 179)  
+Sum: 3,393 (Ranked 179)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 410 |
 | This game has Unique Visuals | 351 |
 | This game has Amazing Storytelling | 337 |
-| This game has Amazing Characters | 297 |
+| This game has Amazing Characters | 298 |
 | This game has Obsessive Gameplay | 254 |
 | This game has a Creative Community | 221 |
 ## Ratings History
@@ -645,4 +645,4 @@ Diff (max vs sum): 54
 | 2024-01-14 | 4.82 | - | 453 | 3,385 |
 | 2024-01-15 | 4.82 | - | 453 | 3,386 |
 | 2024-01-16 | 4.82 | - | 453 | 3,387 |
-| 2024-01-17 | 4.82 | - | 454 | 3,392 |
+| 2024-01-17 | 4.82 | - | 454 | 3,393 |

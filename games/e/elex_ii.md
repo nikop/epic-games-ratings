@@ -8,8 +8,8 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 44.00% | ~115 |
 | Best Buddy | 39.00% | ~102 |
+| Role Model | 35.00% | ~91 |
 | Civilian | 35.00% | ~91 |
-| Role Model | 34.00% | ~89 |
 | Creator | 32.00% | ~84 |
 | Military Leader | 30.00% | ~78 |
 | Festival-goer | 29.00% | ~76 |
@@ -31,10 +31,10 @@ Number of Ratings: 124  (23.09.2022)
 | Perfectionist | 10.00% | ~26 |
 | Treasure Hunter | 8.00% | ~21 |
 | Free as a Bird | 8.00% | ~21 |
+| Detective | 8.00% | ~21 |
 | Weaponsmith | 7.00% | ~18 |
 | Hotshot | 7.00% | ~18 |
 | Cleric | 7.00% | ~18 |
-| Detective | 7.00% | ~18 |
 | Alchemist | 5.00% | ~13 |
 | Self-Sufficient | 3.00% | ~8 |
 | Idealist | 3.00% | ~8 |

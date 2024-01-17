@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3921,10 +3921,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3392,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2024-01-17T20:58:38.90528+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3393,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3392,
+  "NumberOfAwards": 3393,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3968,7 +3974,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3989,9 +3995,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20852,
+  "EOS_Progressed": 20853,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19894,6 +19900,11 @@
       "Time": "2024-01-17T20:08:39.1570132+00:00",
       "NumProgressed": 20852,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-17T21:08:31.8118611+00:00",
+      "NumProgressed": 20853,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20200,9 +20211,9 @@
       "ID": "WinPrestige10",
       "SetID": "cfbk359",
       "Name": "Prestigious Expedition",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 125
     },
     {
       "ID": "WinPrestige20",
@@ -20377,15 +20388,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20852,
+      "Progressed": 20853,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-17T17:59:17.2010273+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:08:39.1570129+00:00",
+  "LastChanged": "2024-01-17T20:58:38.9052798+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:08:31.8118606+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:58:42.9701095+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:08:39.1571114+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:58:38.9052809+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:08:31.8119803+00:00"
 }

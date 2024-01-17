@@ -7,8 +7,8 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 49.00% | ~252 |
+| Circus Electrique Proudly Presents... | 44.00% | ~226 |
 | Grand Opening | 43.00% | ~221 |
-| Circus Electrique Proudly Presents... | 43.00% | ~221 |
 | Path of Learning | 43.00% | ~221 |
 | Built in a Day | 35.00% | ~180 |
 | More Brain Than Brawn | 31.00% | ~159 |

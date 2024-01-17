@@ -1812,9 +1812,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 146
     },
     {
       "ID": "something_important",
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:09:10.8278953+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:09:03.5696622+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:58:46.8679897+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:09:10.8279332+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:58:42.995017+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:09:03.5697291+00:00"
 }

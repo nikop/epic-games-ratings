@@ -9,11 +9,11 @@
 | First time, yes? | 58.00% | ~85 |
 | Kind heart | 49.00% | ~72 |
 | Runes collector | 46.00% | ~67 |
-| A good start | 42.00% | ~61 |
+| A good start | 43.00% | ~63 |
 | Skilled rider | 40.00% | ~58 |
 | It doesn't work like that | 25.00% | ~36 |
 | Devil's dozen | 25.00% | ~36 |
-| Unstoppable Curiosity | 17.00% | ~25 |
+| Unstoppable Curiosity | 18.00% | ~26 |
 | This is just the beginning... | 16.00% | ~23 |
 | A small victory | 14.00% | ~20 |
 | Gold Digger | 11.00% | ~16 |

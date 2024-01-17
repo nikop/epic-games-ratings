@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2011,6 +2011,11 @@
       "Time": "2024-01-17T12:09:28.6568765+00:00",
       "NumProgressed": 442,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T21:09:29.9832121+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2023,7 +2028,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2055,7 +2060,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2135,7 +2140,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2159,7 +2164,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2173,9 +2178,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2374,7 +2379,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 2
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:09:37.1119956+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:09:29.9832116+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:58:49.4822519+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:09:37.1120411+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:58:44.9048426+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:09:29.9832532+00:00"
 }

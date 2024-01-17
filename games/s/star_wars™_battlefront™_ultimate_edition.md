@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,589 |
-| Off to a good start | 60.00% | ~1,806 |
-| Do... or do not. There is no try | 52.00% | ~1,565 |
-| A good blaster at your side | 24.00% | ~722 |
+| New Recruit | 86.00% | ~2,590 |
+| Off to a good start | 60.00% | ~1,807 |
+| Do... or do not. There is no try | 52.00% | ~1,566 |
+| A good blaster at your side | 24.00% | ~723 |
 | I suggest a new strategy | 17.00% | ~512 |
 | Great shot, kid! | 16.00% | ~482 |
-| Scrap collector | 14.00% | ~421 |
-| All right, I'll give it a try | 14.00% | ~421 |
+| Scrap collector | 14.00% | ~422 |
+| All right, I'll give it a try | 14.00% | ~422 |
 | The power of the Force | 12.00% | ~361 |
 | Together we can rule the galaxy | 12.00% | ~361 |
 | Shoot first | 12.00% | ~361 |
@@ -22,8 +22,8 @@
 | Survivor | 7.00% | ~211 |
 | What's the cargo? | 6.00% | ~181 |
 | A cunning warrior | 6.00% | ~181 |
-| "Gonk? Gonk!" | 5.00% | ~150 |
-| Judge me by my size, do you? | 5.00% | ~150 |
+| "Gonk? Gonk!" | 5.00% | ~151 |
+| Judge me by my size, do you? | 5.00% | ~151 |
 | Distinguished | 4.00% | ~120 |
 | A tremor in the Force | 4.00% | ~120 |
 | Impressive. Most impressive. | 4.00% | ~120 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,010 (Ranked 232)  
+Progressed: 3,012 (Ranked 232)  
 Completed: 1 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -191,7 +191,7 @@ Completed: 1 (0.03%) (Ranked 360)
 | 2024-01-14 | 2,961 | 1 |
 | 2024-01-15 | 2,978 | 1 |
 | 2024-01-16 | 2,998 | 1 |
-| 2024-01-17 | 3,010 | 1 |
+| 2024-01-17 | 3,012 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

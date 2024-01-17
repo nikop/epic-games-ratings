@@ -163,7 +163,7 @@
   "Tags": [],
   "EOS_Progressed": 1731,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5548,9 +5548,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1437
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -5733,8 +5733,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-12T15:00:59.7765228+00:00",
-  "LastChanged_Achievements": "2024-01-17T20:05:25.5646676+00:00",
+  "LastChanged_Achievements": "2024-01-17T21:05:17.2896812+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:07.7335688+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:58:23.8897834+00:00",
-  "LastUpdate_Achievements": "2024-01-17T20:05:25.5647672+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:58:20.1633153+00:00",
+  "LastUpdate_Achievements": "2024-01-17T21:05:17.2897943+00:00"
 }
