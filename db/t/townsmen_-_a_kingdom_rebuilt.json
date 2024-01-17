@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -260,9 +260,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4456,
+  "EOS_Progressed": 4457,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2085,6 +2085,11 @@
       "Time": "2024-01-15T21:11:29.17874+00:00",
       "NumProgressed": 4456,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T19:10:40.3216731+00:00",
+      "NumProgressed": 4457,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2368,7 +2373,7 @@
       "Name": "An honorable Governor I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE2",
@@ -2424,7 +2429,7 @@
       "Name": "Full-time job I",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -2903,15 +2908,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4456,
+      "Progressed": 4457,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2024-01-13T19:57:35.6004403+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:10:55.9960497+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:10:40.3216727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.9011339+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:04.3018676+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:10:55.9961394+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:59:40.9829853+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:10:40.3217712+00:00"
 }

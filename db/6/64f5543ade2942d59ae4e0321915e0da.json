@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2049,6 +2049,11 @@
       "Time": "2024-01-17T12:04:07.4385703+00:00",
       "NumProgressed": 527,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T19:04:42.4624724+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2117,7 +2122,7 @@
       "Name": "Gambler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2133,7 +2138,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "AC_BOSS_01",
@@ -2141,7 +2146,7 @@
       "Name": "Misery",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "AC_BOSS_02",
@@ -2205,7 +2210,7 @@
       "Name": "Corpse",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "AC_DEATH_2",
@@ -2261,7 +2266,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2275,9 +2280,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 158
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2373,7 +2378,7 @@
       "Name": "Shot",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2396,14 +2401,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:05:12.8971111+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:04:42.462472+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:36.2597736+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:05:12.8971476+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:00:10.8850157+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:04:42.4625112+00:00"
 }

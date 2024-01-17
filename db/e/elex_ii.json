@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1699,9 +1699,9 @@
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "300QUESTS",
@@ -1899,9 +1899,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "FINDCITY",
@@ -2035,8 +2035,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:07:24.5689027+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:08:20.9437985+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
   "LastUpdate_Ratings": "2024-01-17T18:01:20.9310282+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:07:24.5689564+00:00"
+  "LastUpdate_Achievements": "2024-01-17T19:08:20.9438495+00:00"
 }

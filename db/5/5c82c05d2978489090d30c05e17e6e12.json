@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 113,
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75722,
+  "EOS_Progressed": 75727,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7661,6 +7661,11 @@
       "Time": "2024-01-17T18:09:08.4184964+00:00",
       "NumProgressed": 75722,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-17T19:09:03.9161018+00:00",
+      "NumProgressed": 75727,
+      "NumCompleted": 126
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7673,7 +7678,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28017
+      "UsersEstimate": 28019
     },
     {
       "ID": "Achievement_10",
@@ -7713,7 +7718,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "Achievement_15",
@@ -7761,7 +7766,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21202
+      "UsersEstimate": 21204
     },
     {
       "ID": "Achievement_20",
@@ -7785,7 +7790,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "Achievement_23",
@@ -7831,9 +7836,9 @@
       "ID": "Achievement_28",
       "SetID": "2md12pi",
       "Name": "A Better World",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 681
+      "UsersEstimate": 757
     },
     {
       "ID": "Achievement_29",
@@ -7873,7 +7878,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1514
+      "UsersEstimate": 1515
     },
     {
       "ID": "Achievement_33",
@@ -7944,7 +7949,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75722,
+      "Progressed": 75727,
       "Completed": 126
     }
   ],
@@ -7952,8 +7957,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-16T17:59:18.435336+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:09:08.4184959+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:09:03.9161014+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:59:51.9434751+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:09:08.4185846+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:59:28.6099126+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:09:03.9161736+00:00"
 }

@@ -7,7 +7,7 @@ Rating: 4.64 (Ranked 345)
 | ---- | ---------- | ----- |
 | Getting on the Step | 91.00% | ~16,698 |
 | On the Top Step | 83.00% | ~15,230 |
-| Setting up for Success | 69.00% | ~12,661 |
+| Setting up for Success | 70.00% | ~12,845 |
 | Team Orders | 68.00% | ~12,478 |
 | Engineer | 45.00% | ~8,258 |
 | Familiar Faces | 42.00% | ~7,707 |
@@ -184,12 +184,12 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-17 | 18,350 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
-Sum: 455 (Ranked 348)  
+Sum: 457 (Ranked 348)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 68 |
-| This game has a Competitive Community | 52 |
+| This game has a Competitive Community | 54 |
 | This game has Amazing Characters | 49 |
 | This game is Highly Recommended | 48 |
 | This game is Extremely Fun | 45 |
@@ -329,4 +329,4 @@ Diff (max vs sum): 75
 | 2024-01-14 | 4.64 | 65 | 438 |
 | 2024-01-15 | 4.64 | 67 | 444 |
 | 2024-01-16 | 4.64 | 68 | 448 |
-| 2024-01-17 | 4.64 | 68 | 455 |
+| 2024-01-17 | 4.64 | 68 | 457 |

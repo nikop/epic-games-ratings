@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6387,
+  "EOS_Progressed": 6388,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13401,6 +13401,11 @@
       "Time": "2024-01-17T18:07:20.2778945+00:00",
       "NumProgressed": 6387,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T19:08:16.5828084+00:00",
+      "NumProgressed": 6388,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13461,7 +13466,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13501,7 +13506,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13557,7 +13562,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -13596,15 +13601,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6387,
+      "Progressed": 6388,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:07:20.2778941+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:08:16.5828082+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:58:00.1448812+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:07:20.2779927+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:57:40.5951566+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:08:16.5828938+00:00"
 }

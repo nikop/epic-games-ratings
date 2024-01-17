@@ -6,20 +6,20 @@ Number of Ratings: 48  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~685 |
-| All Bark, No Bite | 73.00% | ~588 |
+| Plenty More to Go | 85.00% | ~686 |
+| All Bark, No Bite | 73.00% | ~589 |
 | Hopeful Hunter | 63.00% | ~508 |
 | Amateur Adventurer | 61.00% | ~492 |
 | The Road to Recovery | 60.00% | ~484 |
-| Partners? | 58.00% | ~467 |
-| Magical Mineral Golem | 51.00% | ~411 |
-| On Outlander Lane | 51.00% | ~411 |
+| Partners? | 58.00% | ~468 |
+| Magical Mineral Golem | 51.00% | ~412 |
+| On Outlander Lane | 51.00% | ~412 |
 | First Time Fishing | 48.00% | ~387 |
 | A Girl About the Town | 47.00% | ~379 |
-| First Time Hunting | 46.00% | ~371 |
+| First Time Hunting | 45.00% | ~363 |
 | Rune Wall Wreckage | 45.00% | ~363 |
-| ...And Your Tax Money | 44.00% | ~355 |
-| The Lords of the Snowpeak | 37.00% | ~298 |
+| ...And Your Tax Money | 43.00% | ~347 |
+| The Lords of the Snowpeak | 37.00% | ~299 |
 | The Go-To Girl | 34.00% | ~274 |
 | Scavenger's Honor | 34.00% | ~274 |
 | Natural Born Monster-Killer | 34.00% | ~274 |
@@ -33,9 +33,9 @@ Number of Ratings: 48  (23.09.2022)
 | The Runebarrows...On Foot! | 27.00% | ~218 |
 | The Snowpeak...On Foot! | 25.00% | ~202 |
 | The Lava Ruins...On Foot! | 25.00% | ~202 |
-| Meat Master | 24.00% | ~193 |
-| Fishing Master | 23.00% | ~185 |
-| Armor Master | 22.00% | ~177 |
+| Meat Master | 24.00% | ~194 |
+| Fishing Master | 23.00% | ~186 |
+| Armor Master | 22.00% | ~178 |
 | The Pride of the Town | 21.00% | ~169 |
 | This Treasure I've Found | 19.00% | ~153 |
 | New Nevaeh's Number One Customer | 19.00% | ~153 |
@@ -50,15 +50,15 @@ Number of Ratings: 48  (23.09.2022)
 | Accessorizer | 9.00% | ~73 |
 | Champion of the Quarry | 9.00% | ~73 |
 | Champion of the Lava Ruins | 9.00% | ~73 |
-| No One Better | 8.00% | ~64 |
-| Full Force - CJ | 8.00% | ~64 |
-| Champion of the Snowpeak | 8.00% | ~64 |
+| No One Better | 8.00% | ~65 |
+| Full Force - CJ | 8.00% | ~65 |
+| Champion of the Snowpeak | 8.00% | ~65 |
 | Full Force - Garoo | 7.00% | ~56 |
 | Full Force - Isha | 7.00% | ~56 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806 (Ranked 315)  
-Completed: 60 (7.44%) (Ranked 57)  
+Progressed: 807 (Ranked 315)  
+Completed: 60 (7.43%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -133,6 +133,7 @@ Completed: 60 (7.44%) (Ranked 57)
 | 2024-01-13 | 801 | 60 |
 | 2024-01-14 | 803 | 60 |
 | 2024-01-16 | 806 | 60 |
+| 2024-01-17 | 807 | 60 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

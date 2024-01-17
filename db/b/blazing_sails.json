@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 552,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T15:00:00+00:00",
@@ -3195,10 +3195,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3919,
       "NumberOfAwardsMax": 630
+    },
+    {
+      "Time": "2024-01-17T18:59:41.9693323+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3922,
+      "NumberOfAwardsMax": 630
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3919,
+  "NumberOfAwards": 3922,
   "NumberOfAwardsMax": 630,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3260,7 +3266,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 425
+      "Count": 428
     }
   ],
   "EOS_Progressed": 0,
@@ -3275,8 +3281,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2024-01-17T17:00:28.1358705+00:00",
+  "LastChanged": "2024-01-17T18:59:41.9693321+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:36.4129786+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:05.3662238+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:09:40.1026506+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:59:41.9693326+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:09:35.5511754+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2366,
+  "EOS_Progressed": 2369,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4730,6 +4730,11 @@
       "Time": "2024-01-17T18:10:47.5403145+00:00",
       "NumProgressed": 2366,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T19:10:32.0336058+00:00",
+      "NumProgressed": 2369,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4739,9 +4744,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1516
     },
     {
       "ID": "ACH_02",
@@ -4749,7 +4754,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_03",
@@ -4765,7 +4770,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_05",
@@ -4797,7 +4802,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "ACH_09",
@@ -4813,7 +4818,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH_11",
@@ -4853,7 +4858,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACH_16",
@@ -4861,7 +4866,7 @@
       "Name": "Essence Blow",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_17",
@@ -4917,7 +4922,7 @@
       "Name": "Geared Up",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "ACH_24",
@@ -4933,7 +4938,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_26",
@@ -4981,7 +4986,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACH_33",
@@ -4989,7 +4994,7 @@
       "Name": "Miner",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_34",
@@ -4997,7 +5002,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH_35",
@@ -5028,7 +5033,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2366,
+      "Progressed": 2369,
       "Completed": 5
     }
   ],
@@ -5036,8 +5041,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:10:47.5403143+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:10:32.0336056+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:01:08.2618063+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:10:47.5403582+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:00:41.7896884+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:10:32.0336417+00:00"
 }

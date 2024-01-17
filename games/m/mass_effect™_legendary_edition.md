@@ -77,8 +77,8 @@
 | Eye of the Hurricane | 19.00% | ~844 |
 | Giant Killer | 19.00% | ~844 |
 | A House Divided | 19.00% | ~844 |
+| World Shaker | 19.00% | ~844 |
 | First Aid Specialist | 18.00% | ~800 |
-| World Shaker | 18.00% | ~800 |
 | Liberator | 18.00% | ~800 |
 | Pathfinder | 17.00% | ~755 |
 | Tunnel Rat | 17.00% | ~755 |

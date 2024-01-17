@@ -8,17 +8,17 @@ Rating: 4.22 (Ranked 955)
 | The Outer Way | 28.00% | ~6,301 |
 | Flesh Wound | 27.00% | ~6,076 |
 | Desperate Times | 26.00% | ~5,851 |
-| Paper Jams | 24.00% | ~5,400 |
-| Get a Grip | 23.00% | ~5,175 |
-| Chew 'Em Up | 22.00% | ~4,950 |
-| Reforged | 20.00% | ~4,500 |
-| Float Like A Butterfly | 19.00% | ~4,275 |
-| Workplace Hazard | 18.00% | ~4,050 |
-| If the SHU Fits... | 18.00% | ~4,050 |
-| Without A Paddle | 15.00% | ~3,375 |
-| Two Heads Are Better Than One | 13.00% | ~2,925 |
-| In the Pipe, Five by Five | 13.00% | ~2,925 |
-| Crash Site | 13.00% | ~2,925 |
+| Paper Jams | 24.00% | ~5,401 |
+| Get a Grip | 23.00% | ~5,176 |
+| Chew 'Em Up | 22.00% | ~4,951 |
+| Reforged | 20.00% | ~4,501 |
+| Float Like A Butterfly | 19.00% | ~4,276 |
+| Workplace Hazard | 18.00% | ~4,051 |
+| If the SHU Fits... | 18.00% | ~4,051 |
+| Without A Paddle | 15.00% | ~3,376 |
+| Two Heads Are Better Than One | 13.00% | ~2,926 |
+| In the Pipe, Five by Five | 13.00% | ~2,926 |
+| Crash Site | 13.00% | ~2,926 |
 | Power Up | 12.00% | ~2,700 |
 | Giving Back | 11.00% | ~2,475 |
 | Terminated | 11.00% | ~2,475 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,502 (Ranked 151)  
+Progressed: 22,504 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,14 +317,14 @@ Completed: 82 (0.36%) (Ranked 250)
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
-| 2024-01-17 | 22,502 | 82 |
+| 2024-01-17 | 22,504 | 82 |
 ## Awards
-Max (Amazing Characters): 135  (Ranked 346)  
-Sum: 658 (Ranked 318)  
-Diff (max vs sum): 28  
+Max (Amazing Characters): 136  (Ranked 345)  
+Sum: 659 (Ranked 318)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 135 |
+| This game has Amazing Characters | 136 |
 | This game is Highly Recommended | 122 |
 | This game is Extremely Fun | 117 |
 | This game has Quickly Understood Controls | 114 |
@@ -538,4 +538,4 @@ Diff (max vs sum): 28
 | 2024-01-14 | 4.22 | 135 | 653 |
 | 2024-01-15 | 4.22 | 135 | 654 |
 | 2024-01-16 | 4.22 | 135 | 656 |
-| 2024-01-17 | 4.22 | 135 | 658 |
+| 2024-01-17 | 4.22 | 136 | 659 |

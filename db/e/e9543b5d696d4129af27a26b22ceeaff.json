@@ -2,10 +2,10 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 391,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -349,6 +349,11 @@
       "Time": "2024-01-16T18:09:18.2288007+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T19:09:13.3452401+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
@@ -359,7 +364,7 @@
       "ID": "ACH_100_WINS",
       "SetID": "1lnhagg",
       "Name": "I Like Winning Games",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -399,7 +404,7 @@
       "ID": "ACH_ASSISTS_DELIVERY",
       "SetID": "1lnhagg",
       "Name": "Best Assistant",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -415,7 +420,7 @@
       "ID": "ACH_EMPTY_ARENA",
       "SetID": "1lnhagg",
       "Name": "Phantom Arena",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -423,7 +428,7 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -439,7 +444,7 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -447,7 +452,7 @@
       "ID": "ACH_FIVE_STARS_MANAGER",
       "SetID": "1lnhagg",
       "Name": "Five Star Manager",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -471,7 +476,7 @@
       "ID": "ACH_HALL_OF_FAME",
       "SetID": "1lnhagg",
       "Name": "Hall of Fame",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -487,7 +492,7 @@
       "ID": "ACH_JUNIOR_BEARD",
       "SetID": "1lnhagg",
       "Name": "What a man!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -519,7 +524,7 @@
       "ID": "ACH_ON_FIRE",
       "SetID": "1lnhagg",
       "Name": "On Fire!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -527,7 +532,7 @@
       "ID": "ACH_PLAYER_RECRUIT",
       "SetID": "1lnhagg",
       "Name": "Recruited player",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -551,7 +556,7 @@
       "ID": "ACH_STAR_IS_BORN",
       "SetID": "1lnhagg",
       "Name": "A Star is Born",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -569,7 +574,7 @@
       "Name": "Welcome to IBM 23!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -591,7 +596,7 @@
       "ID": "ACH_WIN_EUROLEAGUE",
       "SetID": "1lnhagg",
       "Name": "Europe is Mine",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -599,7 +604,7 @@
       "ID": "ACH_WIN_NBA",
       "SetID": "1lnhagg",
       "Name": "One to Rule Them All",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -616,14 +621,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:09:17.5681928+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:09:13.3452398+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:03:17.4605781+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:09:17.5682153+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:02:49.7837747+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:09:13.3452852+00:00"
 }

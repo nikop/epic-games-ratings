@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403592,
+  "EOS_Progressed": 403608,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 3130,
+  "EOS_NewPlayers": 3122,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -13713,6 +13713,11 @@
       "Time": "2024-01-17T18:04:45.6924351+00:00",
       "NumProgressed": 403592,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-17T19:04:16.1131746+00:00",
+      "NumProgressed": 403608,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 28,
@@ -13748,7 +13753,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 80718
+      "UsersEstimate": 80722
     },
     {
       "ID": "GB_DEBTOR",
@@ -13772,7 +13777,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 161437
+      "UsersEstimate": 161443
     },
     {
       "ID": "GB_GOURMET",
@@ -13788,7 +13793,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 48431
+      "UsersEstimate": 48433
     },
     {
       "ID": "GB_GRATITUDE",
@@ -13820,7 +13825,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 32287
+      "UsersEstimate": 32289
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -13844,7 +13849,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 92826
+      "UsersEstimate": 92830
     },
     {
       "ID": "GB_KEVIN",
@@ -13852,7 +13857,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 121078
+      "UsersEstimate": 121082
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -13876,7 +13881,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 181616
+      "UsersEstimate": 181624
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -13940,14 +13945,14 @@
       "Name": "WITHOUT BREAKING A SWEAT",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 40359
+      "UsersEstimate": 40361
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 403592,
+      "Progressed": 403608,
       "Completed": 61
     }
   ],
@@ -13955,8 +13960,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-12-28T01:47:13.8742821+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:04:45.6924347+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:04:16.1131742+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.9482997+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:03:56.8657176+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:04:45.6925302+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:03:28.065497+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:04:16.1133006+00:00"
 }

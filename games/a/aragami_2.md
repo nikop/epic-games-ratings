@@ -1,17 +1,17 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 533)  
+Rating: 4.55 (Ranked 532)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~42,056 |
-| First Steps | 80.00% | ~36,177 |
-| Control the Shadows | 67.00% | ~30,298 |
-| Tools of the Trade | 63.00% | ~28,489 |
+| First Steps | 80.00% | ~36,178 |
+| Control the Shadows | 67.00% | ~30,299 |
+| Tools of the Trade | 63.00% | ~28,490 |
 | Apprentice | 60.00% | ~27,133 |
-| Secret Seeker | 57.00% | ~25,776 |
+| Secret Seeker | 57.00% | ~25,777 |
 | Forge of Assassins | 55.00% | ~24,872 |
 | Revenant | 52.00% | ~23,515 |
 | I don’t Care! | 46.00% | ~20,802 |
@@ -26,7 +26,7 @@ Number of Ratings: 88  (23.09.2022)
 | Clinging to Life | 18.00% | ~8,140 |
 | Burning | 17.00% | ~7,688 |
 | Look Behind You | 17.00% | ~7,688 |
-| Sleeping on the Job | 16.00% | ~7,235 |
+| Sleeping on the Job | 16.00% | ~7,236 |
 | Family | 14.00% | ~6,331 |
 | War Engines | 14.00% | ~6,331 |
 | Signature Move | 14.00% | ~6,331 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~4,070 |
 | Denouement | 8.00% | ~3,618 |
 | A Pleasant Stay | 8.00% | ~3,618 |
-| Pilgrimage | 7.00% | ~3,165 |
+| Pilgrimage | 7.00% | ~3,166 |
 | The Lookout | 5.00% | ~2,261 |
 | The Spirit of Vengeance | 5.00% | ~2,261 |
 | Hollow | 5.00% | ~2,261 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~904 |
 | Legacy | 2.00% | ~904 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,221 (Ranked 129)  
+Progressed: 45,222 (Ranked 129)  
 Completed: 250 (0.55%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 250 (0.55%) (Ranked 221)
 | 2024-01-14 | 45,146 | 249 |
 | 2024-01-15 | 45,175 | 250 |
 | 2024-01-16 | 45,204 | 250 |
-| 2024-01-17 | 45,221 | 250 |
+| 2024-01-17 | 45,222 | 250 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

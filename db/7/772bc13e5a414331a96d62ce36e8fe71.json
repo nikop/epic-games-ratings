@@ -4,7 +4,7 @@
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 795,
+  "EOS_Progressed": 796,
   "EOS_Completed": 54,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 6.79,
+  "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -2594,6 +2594,11 @@
       "Time": "2024-01-17T18:04:38.3771435+00:00",
       "NumProgressed": 795,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-17T19:04:08.7175102+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 54
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -2630,7 +2635,7 @@
       "Name": "500 Score",
       "Percentage": 59,
       "XP": 200,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "10_XP",
@@ -2638,21 +2643,21 @@
       "Name": "200 Score",
       "Percentage": 75,
       "XP": 200,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 795,
+      "Progressed": 796,
       "Completed": 54
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:04:38.3771433+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:04:08.7175098+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:27.2752589+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:58:09.7011004+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:04:38.3771679+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:57:50.2583585+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:04:08.7175312+00:00"
 }

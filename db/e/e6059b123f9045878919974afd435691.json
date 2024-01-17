@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -3929,6 +3929,11 @@
       "Time": "2024-01-17T15:11:07.5893559+00:00",
       "NumProgressed": 1476,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T19:10:38.9911199+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3948,7 +3953,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -3980,7 +3985,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4012,7 +4017,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4074,9 +4079,9 @@
       "ID": "BURN_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "He\u0027s Getting Crazier",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 89
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -4140,7 +4145,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -4220,7 +4225,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4228,7 +4233,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4236,7 +4241,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4258,9 +4263,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 531
+      "UsersEstimate": 517
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4292,7 +4297,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4316,7 +4321,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4467,14 +4472,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1477,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:10:54.5464902+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:10:38.9911196+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:36.0223974+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:10:54.5465487+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:00:10.7423116+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:10:38.9911771+00:00"
 }

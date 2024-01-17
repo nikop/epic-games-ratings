@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 156,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -1195,9 +1195,9 @@
       "ID": "ACH_041",
       "SetID": "72imik0",
       "Name": "Jacqueline \u201CJackie\u201D Conrad",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_042",
@@ -1243,9 +1243,9 @@
       "ID": "ACH_05",
       "SetID": "72imik0",
       "Name": "The Interrogations",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_06",
@@ -1292,8 +1292,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:09:07.0149924+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:09:02.254987+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.8777109+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:03:50.4804185+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:09:07.0150262+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:03:22.1449928+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:09:02.2550328+00:00"
 }

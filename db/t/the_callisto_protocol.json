@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 955,
-  "Ranking_Popularity": 346,
+  "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2223,11 +2223,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-17T19:03:33.3283918+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 659,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 658,
-  "NumberOfAwardsMax": 135,
+  "NumberOfAwards": 659,
+  "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -2252,7 +2258,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 135
+      "Count": 136
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2273,9 +2279,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22502,
+  "EOS_Progressed": 22504,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14233,6 +14239,11 @@
       "Time": "2024-01-17T18:10:16.8992051+00:00",
       "NumProgressed": 22502,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T19:10:11.1934413+00:00",
+      "NumProgressed": 22504,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14348,7 +14359,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5175
+      "UsersEstimate": 5176
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14364,7 +14375,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14372,7 +14383,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "KILL_ROBOT",
@@ -14388,7 +14399,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14404,7 +14415,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14412,7 +14423,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4500
+      "UsersEstimate": 4501
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14420,7 +14431,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5400
+      "UsersEstimate": 5401
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14444,7 +14455,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4050
+      "UsersEstimate": 4051
     },
     {
       "ID": "STORY_HABITAT",
@@ -14452,7 +14463,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3375
+      "UsersEstimate": 3376
     },
     {
       "ID": "STORY_HANGAR",
@@ -14460,7 +14471,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14484,7 +14495,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2925
+      "UsersEstimate": 2926
     },
     {
       "ID": "STORY_TOWER",
@@ -14619,22 +14630,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22502,
+      "Progressed": 22504,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10428,
+      "Progressed": 10430,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:10:16.8992047+00:00",
+  "LastChanged": "2024-01-17T19:03:33.3283916+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:10:11.1934409+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:04:02.0859226+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:10:16.8992787+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:03:33.328392+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:10:11.1935342+00:00"
 }

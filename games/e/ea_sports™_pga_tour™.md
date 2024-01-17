@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Star Power | 85.00% | ~841 |
+| Star Power | 85.00% | ~842 |
 | From Way Downtown | 55.00% | ~544 |
-| Makin' the Cut | 53.00% | ~524 |
-| Clean Sheet | 51.00% | ~504 |
-| Winner's Circle | 44.00% | ~435 |
-| Holey Moley | 43.00% | ~425 |
+| Makin' the Cut | 53.00% | ~525 |
+| Clean Sheet | 51.00% | ~505 |
+| Winner's Circle | 44.00% | ~436 |
+| Holey Moley | 43.00% | ~426 |
 | Bomb's Away | 39.00% | ~386 |
-| Competitor's Spirit | 34.00% | ~336 |
-| Perfect Round | 34.00% | ~336 |
-| The Strongest Field in Golf | 23.00% | ~227 |
+| Competitor's Spirit | 34.00% | ~337 |
+| Perfect Round | 34.00% | ~337 |
+| The Strongest Field in Golf | 23.00% | ~228 |
 | Ace in the Hole | 22.00% | ~218 |
 | From Many, One | 20.00% | ~198 |
 | A Passion for Excellence | 18.00% | ~178 |
@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 10.00% | ~99 |
 | Victory Lap | 6.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 989 (Ranked 298)  
+Progressed: 990 (Ranked 298)  
 Completed: 10 (1.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,4 +144,4 @@ Completed: 10 (1.01%) (Ranked 181)
 | 2024-01-12 | 972 | 10 |
 | 2024-01-13 | 979 | 10 |
 | 2024-01-14 | 987 | 10 |
-| 2024-01-17 | 989 | 10 |
+| 2024-01-17 | 990 | 10 |

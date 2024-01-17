@@ -2,13 +2,13 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45221,
+  "EOS_Progressed": 45222,
   "EOS_Completed": 250,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 2,
@@ -21322,6 +21322,11 @@
       "Time": "2024-01-17T18:05:21.4050213+00:00",
       "NumProgressed": 45221,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2024-01-17T19:04:50.9061917+00:00",
+      "NumProgressed": 45222,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 44,
@@ -21333,7 +21338,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25776
+      "UsersEstimate": 25777
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21453,7 +21458,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36177
+      "UsersEstimate": 36178
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21517,7 +21522,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7235
+      "UsersEstimate": 7236
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -21573,7 +21578,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28489
+      "UsersEstimate": 28490
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21605,7 +21610,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30298
+      "UsersEstimate": 30299
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21653,7 +21658,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -21684,7 +21689,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45221,
+      "Progressed": 45222,
       "Completed": 250
     }
   ],
@@ -21692,8 +21697,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:05:21.4050211+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:04:50.9061913+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:03:55.6014291+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:05:21.4051308+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:03:26.8455519+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:04:50.9063304+00:00"
 }

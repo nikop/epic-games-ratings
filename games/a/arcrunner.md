@@ -20,7 +20,7 @@
 | Rookie | 11.00% | ~105 |
 | Supply Run | 11.00% | ~105 |
 | Cybernetic | 10.00% | ~96 |
-| The Bigger They Are | 8.00% | ~77 |
+| The Bigger They Are | 9.00% | ~86 |
 | Up Close And Personal | 7.00% | ~67 |
 | Eden Heights | 6.00% | ~57 |
 | Inner Core | 5.00% | ~48 |

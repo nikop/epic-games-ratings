@@ -3,9 +3,9 @@
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 517,
-  "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 84,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.76,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -449,6 +449,11 @@
       "Time": "2024-01-14T00:06:29.7050255+00:00",
       "NumProgressed": 84,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T19:04:41.7650299+00:00",
+      "NumProgressed": 84,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -459,9 +464,9 @@
       "ID": "GAME_COMPLETED",
       "SetID": "5g7b0mb",
       "Name": "Complete the Game",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_060_001",
@@ -563,9 +568,9 @@
       "ID": "LEVEL_240_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 240 pieces",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_240_002",
@@ -709,13 +714,13 @@
       "ID": "5g7b0mb",
       "IsBase": true,
       "Progressed": 84,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:05:12.3348445+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:04:41.7650295+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:09.5619949+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:32.9699531+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:05:12.3348782+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:00:07.4822162+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:04:41.765055+00:00"
 }

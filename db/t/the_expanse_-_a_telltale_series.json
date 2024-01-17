@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19109,
+  "EOS_Progressed": 19111,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17644,6 +17644,11 @@
       "Time": "2024-01-17T18:07:01.7357064+00:00",
       "NumProgressed": 19109,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T19:06:29.0762097+00:00",
+      "NumProgressed": 19111,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17672,7 +17677,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "12",
@@ -17736,7 +17741,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "2",
@@ -17744,7 +17749,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "20",
@@ -17784,7 +17789,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "25",
@@ -17808,7 +17813,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "28",
@@ -17832,7 +17837,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "30",
@@ -17864,7 +17869,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2866
+      "UsersEstimate": 2867
     },
     {
       "ID": "7",
@@ -17888,7 +17893,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "31",
@@ -17935,13 +17940,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19109,
+      "Progressed": 19111,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5063,
+      "Progressed": 5065,
       "Completed": 1335
     }
   ],
@@ -17949,8 +17954,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:07:01.735706+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:06:29.076209+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:30.2620718+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:07:01.7357984+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:00:05.1634264+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:06:29.076324+00:00"
 }

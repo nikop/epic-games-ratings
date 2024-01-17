@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -5601,9 +5601,9 @@
       "Count": 541
     }
   ],
-  "EOS_Progressed": 93510,
+  "EOS_Progressed": 93511,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31626,6 +31626,11 @@
       "Time": "2024-01-17T18:05:34.3001996+00:00",
       "NumProgressed": 93510,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-17T19:05:03.4069167+00:00",
+      "NumProgressed": 93511,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31947,9 +31952,9 @@
       "ID": "ACH_1021",
       "SetID": "8no7728",
       "Name": "One for All",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_1050",
@@ -31964,13 +31969,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93510,
+      "Progressed": 93511,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21857,
+      "Progressed": 21858,
       "Completed": 15601
     }
   ],
@@ -31978,8 +31983,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-16T22:59:50.0418989+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:05:34.3001992+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:05:03.4069164+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:01:17.4063588+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:05:34.3003747+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:00:51.1495035+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:05:03.4070959+00:00"
 }

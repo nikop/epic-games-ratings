@@ -2,10 +2,10 @@
   "ID": "403db5711e5047ef8407ba1ab1fb944a",
   "Name": "Trash Troopers Earth Reclaim",
   "ProductSlug": "trash-troopers-earth-reclaim-48721c",
-  "Ranking_EOS_Progress": 586,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T16:00:00+00:00",
     "PcReleaseDate": "2023-10-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38,
+  "EOS_Progressed": 39,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -209,6 +209,11 @@
       "Time": "2024-01-16T13:11:47.9632193+00:00",
       "NumProgressed": 38,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T19:03:43.840407+00:00",
+      "NumProgressed": 39,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-24T14:03:35.8313196+00:00",
@@ -284,14 +289,14 @@
     {
       "ID": "5nm5p0",
       "IsBase": true,
-      "Progressed": 38,
+      "Progressed": 39,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-04T01:46:04.8569576+00:00",
   "FirstSeenAchievements": "2023-10-24T14:03:35.8313195+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:04:12.000726+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:03:43.8404066+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.1639931+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:00:21.2595045+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:04:12.0007397+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:59:56.3221074+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:03:43.840418+00:00"
 }

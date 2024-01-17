@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3006,
+  "EOS_Progressed": 3007,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8169,6 +8169,11 @@
       "Time": "2024-01-17T18:10:53.170568+00:00",
       "NumProgressed": 3006,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T19:10:37.5168079+00:00",
+      "NumProgressed": 3007,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8285,7 +8290,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_22",
@@ -8397,7 +8402,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_35",
@@ -8405,7 +8410,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "achievement_36",
@@ -8453,7 +8458,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "achievement_41",
@@ -8485,7 +8490,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_45",
@@ -8684,13 +8689,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3006,
+      "Progressed": 3007,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3006,
+      "Progressed": 3007,
       "Completed": 1
     }
   ],
@@ -8698,8 +8703,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:10:53.1705679+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:10:37.5168076+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:59:30.6625334+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:10:53.1706393+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:59:08.167164+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:10:37.5168906+00:00"
 }

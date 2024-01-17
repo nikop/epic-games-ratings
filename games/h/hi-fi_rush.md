@@ -33,8 +33,8 @@ Rating: 4.86 (Ranked 34)
 | There's such a thing as TOO helpful | 9.00% | ~1,560 |
 | NOW we got a kickass hideout! | 9.00% | ~1,427 |
 | Well that was a rush! | 8.00% | ~1,387 |
+| That's a lot of junk metal… | 8.00% | ~1,387 |
 | Beat-hit mania | 7.00% | ~1,213 |
-| That's a lot of junk metal… | 7.00% | ~1,213 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~867 |
 | Chip-tuned | 4.00% | ~693 |
 | Wanna hear my playlist? | 4.00% | ~693 |

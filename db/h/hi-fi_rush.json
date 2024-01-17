@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -281,7 +281,7 @@
   ],
   "EOS_Progressed": 17333,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12822,9 +12822,9 @@
       "ID": "Ach034",
       "SetID": "12n4k20",
       "Name": "That\u0027s a lot of junk metal\u2026",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1387
     },
     {
       "ID": "Ach035",
@@ -13141,8 +13141,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:07:19.4679943+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:08:15.7871793+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:03:19.0703133+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:07:19.4681721+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:02:51.3905832+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:08:15.7873222+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40642,
+  "EOS_Progressed": 40644,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24318,6 +24318,11 @@
       "Time": "2024-01-17T18:09:08.9959178+00:00",
       "NumProgressed": 40642,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-17T19:09:04.5153067+00:00",
+      "NumProgressed": 40644,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -24409,7 +24414,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "firstItem",
@@ -24417,7 +24422,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30888
+      "UsersEstimate": 30889
     },
     {
       "ID": "roots",
@@ -24440,15 +24445,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40642,
+      "Progressed": 40644,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:09:08.9959175+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:09:04.5153065+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.6261434+00:00",
-  "LastUpdate_Ratings": "2024-01-17T17:58:08.3866781+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:09:08.9960711+00:00"
+  "LastUpdate_Ratings": "2024-01-17T18:57:48.9076467+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:09:04.5154555+00:00"
 }

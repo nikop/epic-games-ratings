@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9069,9 +9069,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761440,
+  "EOS_Progressed": 761447,
   "EOS_Completed": 12990,
-  "EOS_NewPlayers": 2449,
+  "EOS_NewPlayers": 2428,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34204,6 +34204,11 @@
       "Time": "2024-01-17T18:10:03.3360219+00:00",
       "NumProgressed": 761440,
       "NumCompleted": 12990
+    },
+    {
+      "Time": "2024-01-17T19:09:58.1427682+00:00",
+      "NumProgressed": 761447,
+      "NumCompleted": 12990
     }
   ],
   "TotalAchievements": 60,
@@ -34215,7 +34220,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45686
+      "UsersEstimate": 45687
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34261,9 +34266,9 @@
       "ID": "07_Wude_H1",
       "SetID": "adcm20g",
       "Name": "Muk Yan Master",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5330
+      "UsersEstimate": 6092
     },
     {
       "ID": "08_Wude_H2",
@@ -34694,21 +34699,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70741,
+      "Progressed": 70748,
       "Completed": 10812
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761440,
+      "Progressed": 761447,
       "Completed": 12990
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-17T11:02:59.5754846+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:10:03.3360215+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:09:58.142768+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:03:49.8096511+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:10:03.3361759+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:03:21.4618144+00:00",
+  "LastUpdate_Achievements": "2024-01-17T19:09:58.1429061+00:00"
 }

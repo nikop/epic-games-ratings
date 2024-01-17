@@ -28,7 +28,7 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 36.00% | ~226 |
 | Love Tap | 35.00% | ~220 |
 | Maximum Vigor | 34.00% | ~214 |
-| Freeze Frame | 31.00% | ~195 |
+| Freeze Frame | 32.00% | ~201 |
 | Eat Your Heart Out | 31.00% | ~195 |
 | For Whom the Bell Tolls | 30.00% | ~188 |
 | Unyielding Strength | 28.00% | ~176 |

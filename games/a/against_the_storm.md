@@ -7,22 +7,22 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 10.00% | ~2,085 |
-| First Real Expedition | 9.00% | ~1,876 |
-| Taking Action | 9.00% | ~1,876 |
-| No Deaths | 9.00% | ~1,876 |
-| Abandoned Settlement | 9.00% | ~1,876 |
-| Petrified Necropolis | 9.00% | ~1,876 |
+| First Real Expedition | 9.00% | ~1,877 |
+| Taking Action | 9.00% | ~1,877 |
+| No Deaths | 9.00% | ~1,877 |
+| Abandoned Settlement | 9.00% | ~1,877 |
+| Petrified Necropolis | 9.00% | ~1,877 |
 | The Marshlands | 8.00% | ~1,668 |
-| Overcoming Difficulty | 7.00% | ~1,459 |
-| Coral Forest | 7.00% | ~1,459 |
-| The Scarlet Orchard | 7.00% | ~1,459 |
-| Gathering Storm | 7.00% | ~1,459 |
+| Overcoming Difficulty | 7.00% | ~1,460 |
+| Coral Forest | 7.00% | ~1,460 |
+| The Scarlet Orchard | 7.00% | ~1,460 |
+| Gathering Storm | 7.00% | ~1,460 |
 | Frosts | 6.00% | ~1,251 |
 | Land of Greed | 6.00% | ~1,251 |
 | Ominous Presence | 6.00% | ~1,251 |
-| Royal Outpost | 5.00% | ~1,042 |
-| Watchtower | 5.00% | ~1,042 |
-| A Real Challenge | 5.00% | ~1,042 |
+| Royal Outpost | 5.00% | ~1,043 |
+| Watchtower | 5.00% | ~1,043 |
+| A Real Challenge | 5.00% | ~1,043 |
 | Homesick | 4.00% | ~834 |
 | Ruined Armory | 4.00% | ~834 |
 | Fertile Meadows | 4.00% | ~834 |
@@ -30,17 +30,17 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 4.00% | ~834 |
 | Trade Baron | 4.00% | ~834 |
 | Untamed Wilds | 4.00% | ~834 |
-| Against All Odds | 3.00% | ~625 |
-| Bandit Camp | 3.00% | ~625 |
-| Barren Lands | 3.00% | ~625 |
-| Ancient Battleground | 3.00% | ~625 |
-| Sparkdew Crystals | 3.00% | ~625 |
-| Haunted Forest | 3.00% | ~625 |
-| Flooded Mines | 3.00% | ~625 |
-| Lost Colonies | 3.00% | ~625 |
-| Statue of the Forefathers | 3.00% | ~625 |
-| Corrosive Torrent | 3.00% | ~625 |
-| Cursed Lands | 3.00% | ~625 |
+| Against All Odds | 3.00% | ~626 |
+| Bandit Camp | 3.00% | ~626 |
+| Barren Lands | 3.00% | ~626 |
+| Ancient Battleground | 3.00% | ~626 |
+| Sparkdew Crystals | 3.00% | ~626 |
+| Haunted Forest | 3.00% | ~626 |
+| Flooded Mines | 3.00% | ~626 |
+| Lost Colonies | 3.00% | ~626 |
+| Statue of the Forefathers | 3.00% | ~626 |
+| Corrosive Torrent | 3.00% | ~626 |
+| Cursed Lands | 3.00% | ~626 |
 | Serving Ale | 2.00% | ~417 |
 | Efficient Explorer | 2.00% | ~417 |
 | Refinery | 2.00% | ~417 |
@@ -50,8 +50,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 2.00% | ~417 |
 | Defying the Crown | 2.00% | ~417 |
 | Into the Forest | 2.00% | ~417 |
-| Forbidden Lands | 1.00% | ~208 |
-| Like a Machine | 1.00% | ~208 |
+| Forbidden Lands | 1.00% | ~209 |
+| Like a Machine | 1.00% | ~209 |
 | Feeding The People | 0.90% | ~188 |
 | Blood Flower Farmer | 0.60% | ~125 |
 | Prestigious Expedition | 0.50% | ~104 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,848 (Ranked 156)  
+Progressed: 20,851 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-14 | 20,781 | 35 |
 | 2024-01-15 | 20,812 | 35 |
 | 2024-01-16 | 20,829 | 35 |
-| 2024-01-17 | 20,848 | 35 |
+| 2024-01-17 | 20,851 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 233)  
 Sum: 3,392 (Ranked 179)  

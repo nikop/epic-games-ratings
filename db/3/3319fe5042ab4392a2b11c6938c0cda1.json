@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -964,9 +964,9 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 125
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -1107,8 +1107,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-17T18:05:05.0599715+00:00",
+  "LastChanged_Achievements": "2024-01-17T19:04:34.7780037+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
   "LastUpdate_Ratings": "2024-01-17T18:01:21.2933727+00:00",
-  "LastUpdate_Achievements": "2024-01-17T18:05:05.0600035+00:00"
+  "LastUpdate_Achievements": "2024-01-17T19:04:34.7780348+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,686 |
+| The Old Grandmaster | 6.00% | ~45,687 |
 | Life is your teacher | 5.00% | ~38,072 |
 | Lightning Hands | 5.00% | ~38,072 |
 | The Assault | 4.00% | ~30,458 |
@@ -31,8 +31,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 1.00% | ~7,614 |
 | Kung-Fu Tussle | 1.00% | ~7,614 |
 | Project Arena | 1.00% | ~707 |
+| Muk Yan Master | 0.80% | ~6,092 |
 | Fight the way you practice | 0.80% | ~566 |
-| Muk Yan Master | 0.70% | ~5,330 |
 | Tiger on Fire | 0.70% | ~5,330 |
 | Detective Story | 0.70% | ~5,330 |
 | Martial Hub | 0.70% | ~495 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,440 (Ranked 26)  
+Progressed: 761,447 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,440 | 12,990 |
+| 2024-01-17 | 761,447 | 12,990 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
 Sum: 12,778 (Ranked 87)  
