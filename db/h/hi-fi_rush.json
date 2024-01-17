@@ -2,12 +2,12 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 33,
+  "Ranking_Rating": 34,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17327,
+  "EOS_Progressed": 17329,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12539,6 +12539,11 @@
       "Time": "2024-01-17T16:08:39.3674539+00:00",
       "NumProgressed": 17327,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T17:08:11.5489295+00:00",
+      "NumProgressed": 17329,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12550,7 +12555,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9530
+      "UsersEstimate": 9531
     },
     {
       "ID": "Ach002",
@@ -12566,7 +12571,7 @@
       "Name": "This will cost you big time",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "Ach004",
@@ -12678,7 +12683,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "Ach018",
@@ -12726,7 +12731,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9703
+      "UsersEstimate": 9704
     },
     {
       "ID": "Ach024",
@@ -12742,7 +12747,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5371
+      "UsersEstimate": 5372
     },
     {
       "ID": "Ach026",
@@ -12806,7 +12811,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "Ach034",
@@ -12902,7 +12907,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "Ach046",
@@ -12918,7 +12923,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "Ach048",
@@ -13117,13 +13122,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17327,
+      "Progressed": 17329,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15848,
+      "Progressed": 15850,
       "Completed": 1931
     }
   ],
@@ -13131,8 +13136,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:08:39.3674533+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:08:11.548929+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:03:29.1063087+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:08:39.3675979+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:02:51.0821453+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:08:11.5490549+00:00"
 }

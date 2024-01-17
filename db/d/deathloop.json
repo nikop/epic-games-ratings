@@ -4,10 +4,10 @@
   "ProductSlug": "deathloop",
   "Ranking_Rating": 677,
   "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
@@ -1537,10 +1537,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 413,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-01-17T17:02:46.8728065+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 415,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 413,
+  "NumberOfAwards": 415,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1596,7 +1602,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 31
     }
   ],
   "EOS_Progressed": 0,
@@ -1610,8 +1616,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-01-17T15:02:55.640569+00:00",
+  "LastChanged": "2024-01-17T17:02:46.8728063+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:14.8197266+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:03:24.7626849+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:10:39.3285192+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:02:46.8728068+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:09:54.0075222+00:00"
 }

@@ -9,11 +9,11 @@
 | Jung's dream | 40.00% | ~37 |
 | The battle of Great Britain | 40.00% | ~37 |
 | Pulp! Where Monsters Dwell | 31.00% | ~29 |
-| A continent with chemistry | 30.00% | ~28 |
+| A continent with chemistry | 31.00% | ~29 |
 | The happy farmer girl | 28.00% | ~26 |
 | Giant | 27.00% | ~25 |
+| Pulp! Terror Tales in the Night | 27.00% | ~25 |
 | A rival with no options | 26.00% | ~24 |
-| Pulp! Terror Tales in the Night | 26.00% | ~24 |
 | The artist | 24.00% | ~22 |
 | Pulp! Out of this World | 24.00% | ~22 |
 | Diagnosis: fear | 24.00% | ~22 |
@@ -47,10 +47,10 @@
 | Pulp! The Perfect Crime | 3.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~3 |
 | Pulp! Heart Throbs | 3.00% | ~3 |
+| Pulp! Mister Mystery | 3.00% | ~3 |
+| Pulp! Skeleton Hand | 3.00% | ~3 |
+| Pulp! The Vault of Horror | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
-| Pulp! Mister Mystery | 2.00% | ~2 |
-| Pulp! Skeleton Hand | 2.00% | ~2 |
-| Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 503)  
 Completed: 1 (1.08%) (Ranked 172)  

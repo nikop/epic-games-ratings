@@ -3,11 +3,11 @@
   "Name": "The Cycle: Frontier",
   "ProductSlug": "thecycle",
   "Ranking_Rating": 1025,
-  "Ranking_Popularity": 109,
+  "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
@@ -7112,6 +7112,6 @@
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
   "LastChanged": "2023-10-07T23:58:38.3129285+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.5661936+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:01:52.6324622+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:04:41.6620122+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:01:35.5891034+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:04:04.5200595+00:00"
 }

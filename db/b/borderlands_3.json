@@ -2,12 +2,12 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -17807,10 +17807,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 379474,
       "NumberOfAwardsMax": 125684
+    },
+    {
+      "Time": "2024-01-17T16:57:31.866557+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 379560,
+      "NumberOfAwardsMax": 125684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 379474,
+  "NumberOfAwards": 379560,
   "NumberOfAwardsMax": 125684,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17836,19 +17842,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 27994
+      "Count": 28024
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 30093
+      "Count": 30120
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 27495
+      "Count": 27524
     },
     {
       "Text": "This game is Relaxing",
@@ -17892,8 +17898,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-01-17T14:57:34.1024357+00:00",
+  "LastChanged": "2024-01-17T16:57:31.8665566+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.6512202+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:57:57.5615012+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:06:19.5851311+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:57:31.8665575+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:05:45.9184867+00:00"
 }

@@ -8,7 +8,7 @@ Rating: 4.73 (Ranked 179)
 | The Last Stand | 88.00% | ~681 |
 | Thalya – Simply Immortal | 88.00% | ~681 |
 | For the Horde! | 82.00% | ~635 |
-| Hammer Time, Round Two | 80.00% | ~619 |
+| Hammer Time, Round Two | 81.00% | ~627 |
 | The Hellwoods | 77.00% | ~596 |
 | The Plains of Strothalm | 72.00% | ~557 |
 | Experienced Thalya | 72.00% | ~557 |

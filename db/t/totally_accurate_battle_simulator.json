@@ -2,12 +2,12 @@
   "ID": "ffe512fa1e594ee6a75d4643d1e21b43",
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-04-01T11:00:00+00:00",
@@ -5238,10 +5238,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 3567,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2024-01-17T17:01:37.9259358+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 3569,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3567,
+  "NumberOfAwards": 3569,
   "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5297,7 +5303,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 332
+      "Count": 334
     },
     {
       "Text": "This game has a Creative Community",
@@ -5341,8 +5347,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-01-17T16:01:54.9167634+00:00",
+  "LastChanged": "2024-01-17T17:01:37.9259358+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:19.175467+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:01:54.9167639+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:08:21.9867662+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:01:37.9259362+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:07:53.5000445+00:00"
 }

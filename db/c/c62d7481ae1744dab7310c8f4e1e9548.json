@@ -1375,9 +1375,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "Stonozka",
@@ -1446,8 +1446,8 @@
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:05:28.6228002+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:04:52.759814+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:04:02.6026843+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:05:28.6228295+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:03:24.8669628+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:04:52.7598665+00:00"
 }

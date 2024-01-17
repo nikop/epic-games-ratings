@@ -4973,7 +4973,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13300,
+  "EOS_Progressed": 13301,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -19883,6 +19883,11 @@
       "Time": "2024-01-17T07:10:31.0852968+00:00",
       "NumProgressed": 13300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T17:11:22.6158675+00:00",
+      "NumProgressed": 13301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20182,7 +20187,7 @@
       "Name": "Prelate\u0027s Nemesis",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "39_Blight of Drezen",
@@ -20821,21 +20826,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12082,
+      "Progressed": 12083,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13300,
+      "Progressed": 13301,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-17T09:57:27.2227084+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:12:05.820101+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:11:22.6158672+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:57:58.2051806+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:12:05.8202773+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:57:32.6545082+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:11:22.6160535+00:00"
 }

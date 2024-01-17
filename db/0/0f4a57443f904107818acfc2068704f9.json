@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1309,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -3437,6 +3437,11 @@
       "Time": "2024-01-17T12:04:12.6456947+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T17:05:29.9139454+00:00",
+      "NumProgressed": 1309,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3465,7 +3470,7 @@
       "Name": "Chosen Victor",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CompleteCampaignChampion",
@@ -3505,7 +3510,7 @@
       "Name": "Pathfinder",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "CompleteChapter10",
@@ -3601,7 +3606,7 @@
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "CompleteChapter4",
@@ -3641,7 +3646,7 @@
       "Name": "Troggoff Troubles",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "CompleteChapter9",
@@ -3697,7 +3702,7 @@
       "Name": "Feeding Shyish",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "Win100OnlineMatched",
@@ -3721,7 +3726,7 @@
       "Name": "Bloodied Hammer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Win50ConquestBattles",
@@ -3744,14 +3749,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1309,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:06:04.2727605+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:05:29.9139452+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:01:02.6204412+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:06:04.2728074+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:00:44.0040337+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:05:29.91399+00:00"
 }

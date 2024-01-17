@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 737,
+  "EOS_Progressed": 738,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -2717,6 +2717,11 @@
       "Time": "2024-01-17T14:11:16.8900029+00:00",
       "NumProgressed": 737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T17:11:05.2462499+00:00",
+      "NumProgressed": 738,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2728,7 +2733,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "completeact2",
@@ -2744,7 +2749,7 @@
       "Name": "On the Road",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "findalltapes",
@@ -2798,9 +2803,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 184
     },
     {
       "ID": "scoreminrankrp1",
@@ -2847,7 +2852,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 737,
+      "Progressed": 738,
       "Completed": 3
     }
   ],
@@ -2855,8 +2860,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:11:48.9944922+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:11:05.2462497+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:01:05.7366981+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:11:48.9945184+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:00:47.282964+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:11:05.2462706+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -955,9 +955,9 @@
       "ID": "EpicACHV_5",
       "SetID": "acn799d",
       "Name": "Like a Truck",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "EpicACHV_6",
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:10:37.6861075+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:09:52.3047006+00:00",
   "LastUpdate_AppInfo": "2024-01-17T15:57:29.503385+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:59:00.9639115+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:10:37.6861208+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:58:37.9349492+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:09:52.3047178+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,103 |
-| Battlefields Have Memories | 82.00% | ~2,859 |
-| Enlisted | 75.00% | ~2,614 |
-| Maybe Engage a Little | 70.00% | ~2,440 |
-| No More Names | 54.00% | ~1,882 |
-| Initiate | 41.00% | ~1,429 |
-| Thrada-Kul | 37.00% | ~1,290 |
+| Unforeseen | 89.00% | ~3,104 |
+| Battlefields Have Memories | 82.00% | ~2,860 |
+| Enlisted | 75.00% | ~2,616 |
+| Maybe Engage a Little | 70.00% | ~2,442 |
+| No More Names | 54.00% | ~1,884 |
+| Initiate | 41.00% | ~1,430 |
+| Thrada-Kul | 37.00% | ~1,291 |
 | Gravity-Challenged Rocks | 31.00% | ~1,081 |
-| Soldier | 26.00% | ~906 |
-| All the Major Food Groups | 26.00% | ~906 |
+| Soldier | 26.00% | ~907 |
+| All the Major Food Groups | 26.00% | ~907 |
 | Socialite | 25.00% | ~872 |
 | Beggars Would Ride | 24.00% | ~837 |
 | Control is an Illusion | 22.00% | ~767 |
-| The Means to Save It | 20.00% | ~697 |
-| Resilience to Sin | 18.00% | ~627 |
-| A Familiar Nest | 18.00% | ~627 |
+| The Means to Save It | 20.00% | ~698 |
+| Resilience to Sin | 18.00% | ~628 |
+| A Familiar Nest | 18.00% | ~628 |
 | Periapt Alizarin | 17.00% | ~593 |
 | Geas Aristeya | 16.00% | ~558 |
 | A Perfect Cycle | 16.00% | ~558 |
 | Recruit | 15.00% | ~523 |
 | Armsman | 13.00% | ~453 |
-| Lights Army | 11.00% | ~383 |
+| Lights Army | 11.00% | ~384 |
 | Periapt Cerulean | 9.00% | ~314 |
 | Good Boy | 8.00% | ~279 |
 | Best Dressed | 7.00% | ~244 |
@@ -35,25 +35,25 @@ Rating: 4.19 (Ranked 976)
 | Kitted Out | 5.00% | ~174 |
 | Armaments Azure | 5.00% | ~174 |
 | Armaments Gules | 5.00% | ~174 |
-| Scholar | 4.00% | ~139 |
-| Armaments Vert | 4.00% | ~139 |
+| Scholar | 4.00% | ~140 |
+| Armaments Vert | 4.00% | ~140 |
 | Veteran | 3.00% | ~105 |
 | Grand Magnus | 2.00% | ~70 |
 | Master of Carmine | 1.00% | ~35 |
 | Shroudfane Surveyor | 1.00% | ~35 |
 | Tip of the Spear | 1.00% | ~35 |
+| Witch-Taker | 0.90% | ~31 |
 | Backtracker | 0.90% | ~31 |
-| Witch-Taker | 0.80% | ~28 |
 | Master of Ultramarine | 0.80% | ~28 |
 | Family Business | 0.60% | ~21 |
 | Diplomat | 0.60% | ~21 |
 | Petite Bourgeoisie | 0.60% | ~21 |
 | Master of Malachite | 0.60% | ~21 |
 | Treasure Hunter | 0.50% | ~17 |
-| Out of Time | 0.30% | ~10 |
+| Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,486 (Ranked 228)  
+Progressed: 3,488 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
-| 2024-01-17 | 3,486 | 5 |
+| 2024-01-17 | 3,488 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

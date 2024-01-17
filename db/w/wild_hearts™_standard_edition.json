@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1377,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4641,9 +4641,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_25",
@@ -4903,8 +4903,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:11:24.5914047+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:10:40.7453532+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:58:04.0183949+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:11:24.5914535+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:57:37.9675267+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:10:40.7454048+00:00"
 }

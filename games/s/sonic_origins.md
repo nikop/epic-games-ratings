@@ -31,8 +31,8 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic CD | 36.00% | ~251 |
 | Cleared Sonic the Hedgehog 3 & Knuckles | 33.00% | ~230 |
 | Lucky Hedgehog | 29.00% | ~202 |
+| All Clear! | 27.00% | ~188 |
 | To the Mirror World | 26.00% | ~181 |
-| All Clear! | 26.00% | ~181 |
 | Movie Maniac | 18.00% | ~126 |
 | Sound Savant | 17.00% | ~119 |
 | Sonic the Hedgehog Mission Master | 15.00% | ~105 |

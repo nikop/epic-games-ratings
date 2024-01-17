@@ -4,7 +4,7 @@
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 465,
+  "Ranking_EOS_NewPlayers": 466,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -673,9 +673,9 @@
       "ID": "30",
       "SetID": "d37idgg",
       "Name": "Pulp! Mister Mystery",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "31",
@@ -689,25 +689,25 @@
       "ID": "32",
       "SetID": "d37idgg",
       "Name": "Pulp! Skeleton Hand",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "33",
       "SetID": "d37idgg",
       "Name": "Pulp! The Vault of Horror",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "34",
       "SetID": "d37idgg",
       "Name": "Pulp! Terror Tales in the Night",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "35",
@@ -753,9 +753,9 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "40",
@@ -872,8 +872,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:07:40.8763792+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:07:10.269177+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:27.2394932+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:01:02.3713477+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:07:40.8764575+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:00:43.6023375+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:07:10.269208+00:00"
 }

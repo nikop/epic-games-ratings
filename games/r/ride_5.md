@@ -5,27 +5,27 @@ Rating: 4.59 (Ranked 452)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,814 |
-| First Love | 46.00% | ~1,669 |
-| Clean Race | 45.00% | ~1,633 |
-| Hear That Roar! | 43.00% | ~1,560 |
-| Bitter Rivalry | 31.00% | ~1,125 |
-| Rivals to the End | 31.00% | ~1,125 |
+| Eat My Dust | 50.00% | ~1,816 |
+| First Love | 46.00% | ~1,670 |
+| Clean Race | 45.00% | ~1,634 |
+| Hear That Roar! | 43.00% | ~1,561 |
+| Bitter Rivalry | 31.00% | ~1,126 |
+| Rivals to the End | 31.00% | ~1,126 |
 | Champagne Spray | 30.00% | ~1,089 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,016 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,017 |
 | Quick Pit Stop | 23.00% | ~835 |
-| Restored and Ready | 21.00% | ~762 |
-| I Want One Too! | 21.00% | ~762 |
+| I Want One Too! | 21.00% | ~763 |
+| Restored and Ready | 20.00% | ~726 |
 | Legendary!!! | 20.00% | ~726 |
-| Go-Faster Stripes | 18.00% | ~653 |
-| I'm Here Too! | 15.00% | ~544 |
-| We've Just Begun | 15.00% | ~544 |
+| Go-Faster Stripes | 18.00% | ~654 |
+| I'm Here Too! | 15.00% | ~545 |
+| We've Just Begun | 15.00% | ~545 |
 | Is It the Right Size? | 10.00% | ~363 |
 | Stamina Star | 9.00% | ~327 |
 | Evangelist | 7.00% | ~254 |
-| Make It Your Own! | 5.00% | ~181 |
-| Cherry Blossom and Temples | 5.00% | ~181 |
-| The Road to Liberty | 5.00% | ~181 |
+| Make It Your Own! | 5.00% | ~182 |
+| Cherry Blossom and Temples | 5.00% | ~182 |
+| The Road to Liberty | 5.00% | ~182 |
 | Romantic Races | 4.00% | ~145 |
 | I Make the Rules! | 4.00% | ~145 |
 | My Work Here Is Done | 4.00% | ~145 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 452)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,629 (Ranked 226)  
+Progressed: 3,631 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -193,7 +193,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 3,601 | 0 |
 | 2024-01-15 | 3,609 | 0 |
 | 2024-01-16 | 3,623 | 0 |
-| 2024-01-17 | 3,629 | 0 |
+| 2024-01-17 | 3,631 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,7 +10,7 @@ Rating: 4.72 (Ranked 194)
 | The First Bond | 64.00% | ~584 |
 | Novice Scavenger | 57.00% | ~520 |
 | Master Craftsman | 44.00% | ~401 |
-| First wall | 42.00% | ~383 |
+| First wall | 43.00% | ~392 |
 | Piggyback Expert | 42.00% | ~383 |
 | Second wall | 33.00% | ~301 |
 | Expert Scavenger | 31.00% | ~283 |

@@ -15,23 +15,23 @@ Number of Ratings: 85  (23.09.2022)
 | Pimp My Raid | 58.00% | ~298 |
 | Perfect Probulator | 58.00% | ~298 |
 | Lobster Blisque | 53.00% | ~272 |
-| Fly Me to the Moon Base | 51.00% | ~262 |
-| Earthly Pleasures | 48.00% | ~246 |
+| Fly Me to the Moon Base | 52.00% | ~267 |
+| Earthly Pleasures | 49.00% | ~251 |
 | Ducks in a Row, Fish in a Barrel | 47.00% | ~241 |
 | Bodied Sattva | 38.00% | ~195 |
 | Forbidden Donut | 37.00% | ~190 |
 | Freshly Squeezed | 37.00% | ~190 |
 | Upgreatest | 36.00% | ~185 |
-| Furon Fashion | 30.00% | ~154 |
+| Furon Fashion | 31.00% | ~159 |
 | Deincarnated | 29.00% | ~149 |
 | Rock of the Bay | 28.00% | ~144 |
 | Trans-Siberian Express | 26.00% | ~133 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~108 |
 | Arkvoodle Doodle | 19.00% | ~97 |
 | Die Nasty | 18.00% | ~92 |
+| Ouch of Body Experience | 17.00% | ~87 |
 | If You Know What I Mean | 17.00% | ~87 |
 | Mash Machine | 17.00% | ~87 |
-| Ouch of Body Experience | 16.00% | ~82 |
 | Hidden Human Hive Harvest | 16.00% | ~82 |
 | Albion Bridge Is for Falling Down | 15.00% | ~77 |
 | Dusted | 14.00% | ~72 |

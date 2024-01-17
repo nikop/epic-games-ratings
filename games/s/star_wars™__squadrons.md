@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,866 |
-| Safety in the Storm | 23.00% | ~9,652 |
-| A Better Idea | 23.00% | ~9,652 |
-| Begin the Ceremony | 19.00% | ~7,973 |
-| Mission Accomplished | 18.00% | ~7,554 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,295 |
-| A Starfighter of Your Own | 13.00% | ~5,455 |
-| Asset Secured | 12.00% | ~5,036 |
-| Unkillable | 7.00% | ~2,937 |
-| Together, Vanguard | 7.00% | ~2,937 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,518 |
-| Sound Strategy | 5.00% | ~2,098 |
-| Stomped | 5.00% | ~2,098 |
+| Fracture at Fostar Haven | 95.00% | ~39,877 |
+| Safety in the Storm | 23.00% | ~9,654 |
+| A Better Idea | 23.00% | ~9,654 |
+| Begin the Ceremony | 19.00% | ~7,975 |
+| Mission Accomplished | 18.00% | ~7,556 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,296 |
+| A Starfighter of Your Own | 13.00% | ~5,457 |
+| Asset Secured | 12.00% | ~5,037 |
+| Unkillable | 7.00% | ~2,938 |
+| Together, Vanguard | 7.00% | ~2,938 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,519 |
+| Sound Strategy | 5.00% | ~2,099 |
+| Stomped | 5.00% | ~2,099 |
 | Fearless | 4.00% | ~1,679 |
 | Back From the Brink | 4.00% | ~1,679 |
 | Flames Over Mon Cala | 4.00% | ~1,679 |
@@ -26,10 +26,10 @@
 | Temporary Guardian | 3.00% | ~1,259 |
 | Baited | 3.00% | ~1,259 |
 | Punch It | 3.00% | ~1,259 |
-| Stun 'Em | 2.00% | ~839 |
-| Squadron Hunter | 2.00% | ~839 |
-| Combat Pilot | 2.00% | ~839 |
-| Dressed for the Job You Want | 2.00% | ~839 |
+| Stun 'Em | 2.00% | ~840 |
+| Squadron Hunter | 2.00% | ~840 |
+| Combat Pilot | 2.00% | ~840 |
+| Dressed for the Job You Want | 2.00% | ~840 |
 | I Have You Now | 1.00% | ~420 |
 | Against the Current | 0.80% | ~336 |
 | Denied | 0.70% | ~294 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~42 |
 | Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,964 (Ranked 135)  
+Progressed: 41,976 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.01%) (Ranked 378)
 | 2024-01-14 | 41,296 | 3 |
 | 2024-01-15 | 41,558 | 3 |
 | 2024-01-16 | 41,777 | 3 |
-| 2024-01-17 | 41,964 | 3 |
+| 2024-01-17 | 41,976 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

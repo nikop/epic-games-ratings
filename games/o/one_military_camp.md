@@ -31,9 +31,9 @@
 | Supersoldier | 3.00% | ~9 |
 | Vive le Résistance | 3.00% | ~9 |
 | No News is Good News | 3.00% | ~9 |
+| Human Resources | 3.00% | ~9 |
 | Training Camp | 3.00% | ~9 |
 | Snowman | 2.00% | ~6 |
-| Human Resources | 2.00% | ~6 |
 | Winter Soldier | 2.00% | ~6 |
 | Economist | 1.00% | ~3 |
 | Counter-espionage | 1.00% | ~3 |

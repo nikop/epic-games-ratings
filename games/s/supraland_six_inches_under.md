@@ -1,7 +1,7 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.74 (Ranked 165)  
+Rating: 4.74 (Ranked 164)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 209  (23.09.2022)
 | Ripped | 84.00% | ~2,058 |
 | Beat the big arena | 82.00% | ~2,009 |
 | Force Cube | 82.00% | ~2,009 |
-| Got Battery | 80.00% | ~1,960 |
+| Got Battery | 81.00% | ~1,985 |
 | Guard Distracted | 80.00% | ~1,960 |
 | Translocator | 80.00% | ~1,960 |
 | Inner Peace | 78.00% | ~1,911 |

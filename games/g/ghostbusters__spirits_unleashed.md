@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 617)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,712 |
+| Stylish | 11.00% | ~3,713 |
 | Meticulously Efficient | 9.00% | ~3,038 |
 | Advancement | 8.00% | ~2,700 |
-| Swift Rift Removers | 7.00% | ~2,362 |
+| Swift Rift Removers | 7.00% | ~2,363 |
 | Discovery | 6.00% | ~2,025 |
 | Solo Capture | 6.00% | ~2,025 |
 | Clutch Capture | 5.00% | ~1,688 |
@@ -22,24 +22,24 @@ Rating: 4.50 (Ranked 617)
 | Daily Dose | 4.00% | ~1,350 |
 | Ghostbuster In Training | 4.00% | ~1,350 |
 | Right back at ya | 4.00% | ~1,350 |
-| Animated | 3.00% | ~1,012 |
-| Back Off | 3.00% | ~1,012 |
-| We have the best insurance | 3.00% | ~1,012 |
-| Ectoplasmic Entity | 3.00% | ~1,012 |
-| Icing on the Cake | 3.00% | ~1,012 |
-| Legions | 3.00% | ~1,012 |
-| Pesky Jerks | 3.00% | ~1,012 |
-| Rift Destroyer | 3.00% | ~1,012 |
-| Seasoned | 3.00% | ~1,012 |
-| Side Hustle | 3.00% | ~1,012 |
-| Summoner | 3.00% | ~1,012 |
+| Animated | 3.00% | ~1,013 |
+| Back Off | 3.00% | ~1,013 |
+| We have the best insurance | 3.00% | ~1,013 |
+| Ectoplasmic Entity | 3.00% | ~1,013 |
+| Icing on the Cake | 3.00% | ~1,013 |
+| Legions | 3.00% | ~1,013 |
+| Pesky Jerks | 3.00% | ~1,013 |
+| Rift Destroyer | 3.00% | ~1,013 |
+| Seasoned | 3.00% | ~1,013 |
+| Side Hustle | 3.00% | ~1,013 |
+| Summoner | 3.00% | ~1,013 |
+| Welcome to the Crew | 3.00% | ~1,013 |
 | Collector | 2.00% | ~675 |
 | Escape Artist | 2.00% | ~675 |
 | Reckless | 2.00% | ~675 |
 | Skilled | 2.00% | ~675 |
 | Stunner | 2.00% | ~675 |
 | Tobin's Prodigy | 2.00% | ~675 |
-| Welcome to the Crew | 2.00% | ~675 |
 | Diabolical | 1.00% | ~338 |
 | Fragile Panes | 1.00% | ~338 |
 | Liability | 1.00% | ~338 |
@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 617)
 | Surprise! | 1.00% | ~338 |
 | Terrifying | 1.00% | ~338 |
 | Therapeutic | 0.80% | ~270 |
-| Rift Seeker | 0.60% | ~202 |
+| Rift Seeker | 0.60% | ~203 |
 | Master Collector | 0.50% | ~169 |
 | Ghost Expert | 0.30% | ~101 |
 | Catostrophic Destroyer | 0.20% | ~68 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,750 (Ranked 140)  
+Progressed: 33,753 (Ranked 140)  
 Completed: 71 (0.21%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 71 (0.21%) (Ranked 281)
 | 2024-01-14 | 33,664 | 71 |
 | 2024-01-15 | 33,702 | 71 |
 | 2024-01-16 | 33,725 | 71 |
-| 2024-01-17 | 33,750 | 71 |
+| 2024-01-17 | 33,753 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,967 (Ranked 188)  

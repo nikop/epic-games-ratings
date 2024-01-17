@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 335,
+  "EOS_Progressed": 336,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1451,6 +1451,11 @@
       "Time": "2024-01-14T22:10:10.3830704+00:00",
       "NumProgressed": 335,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T17:11:19.7617375+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1486,7 +1491,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "achBett",
@@ -1524,9 +1529,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 181
     },
     {
       "ID": "achCity",
@@ -1534,7 +1539,7 @@
       "Name": "City \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achCoinOne",
@@ -1646,7 +1651,7 @@
       "Name": "Hospital \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achIvan",
@@ -1662,7 +1667,7 @@
       "Name": "Fright \u2714",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achLizun",
@@ -1686,7 +1691,7 @@
       "Name": "Fraternal help \u2714",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "achOsipovOne",
@@ -1861,7 +1866,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 335,
+      "Progressed": 336,
       "Completed": 0
     }
   ],
@@ -1869,8 +1874,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:12:02.9025453+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:11:19.7617372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.8286818+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:03:41.9101291+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:12:02.9025881+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:03:04.3446337+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:11:19.7617714+00:00"
 }

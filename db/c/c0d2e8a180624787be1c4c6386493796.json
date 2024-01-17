@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -2028,9 +2028,9 @@
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
       "SetID": "caeik3h",
       "Name": "We Are Legion!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
@@ -2131,8 +2131,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:04:45.0872217+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:04:08.254195+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-17T16:02:00.1648483+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:04:45.0873027+00:00"
+  "LastUpdate_Ratings": "2024-01-17T17:01:43.4642598+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:04:08.2542677+00:00"
 }

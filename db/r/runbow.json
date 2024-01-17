@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253552,
+  "EOS_Progressed": 253555,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24337,6 +24337,11 @@
       "Time": "2024-01-17T16:11:49.5081255+00:00",
       "NumProgressed": 253552,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-17T17:11:05.8111366+00:00",
+      "NumProgressed": 253555,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24372,7 +24377,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53246
+      "UsersEstimate": 53247
     },
     {
       "ID": "blotbuster",
@@ -24444,7 +24449,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45639
+      "UsersEstimate": 45640
     },
     {
       "ID": "curator",
@@ -24452,7 +24457,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50710
+      "UsersEstimate": 50711
     },
     {
       "ID": "didYourTime",
@@ -24524,7 +24529,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134383
+      "UsersEstimate": 134384
     },
     {
       "ID": "indegestible",
@@ -24580,7 +24585,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35497
+      "UsersEstimate": 35498
     },
     {
       "ID": "myFirstRunbow",
@@ -24588,7 +24593,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126776
+      "UsersEstimate": 126778
     },
     {
       "ID": "notScared",
@@ -24652,7 +24657,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58317
+      "UsersEstimate": 58318
     },
     {
       "ID": "thunderstruck",
@@ -24708,14 +24713,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40568
+      "UsersEstimate": 40569
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253552,
+      "Progressed": 253555,
       "Completed": 6
     }
   ],
@@ -24723,8 +24728,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:11:49.5081252+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:11:05.811136+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:59:17.9759962+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:11:49.5082829+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:58:56.1323866+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:11:05.8112626+00:00"
 }

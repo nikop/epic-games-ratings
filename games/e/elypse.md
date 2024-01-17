@@ -29,8 +29,8 @@
 | "Ah sh*t... Here we go again!" | 23.00% | ~32 |
 | Compulsive hoarder | 22.00% | ~30 |
 | Magnitude 5 | 22.00% | ~30 |
-| GG EZ | 15.00% | ~21 |
-| Comeback | 15.00% | ~21 |
+| GG EZ | 16.00% | ~22 |
+| Comeback | 16.00% | ~22 |
 | MayDay! MayDay! | 10.00% | ~14 |
 | Gooooooaaaaal!!! | 7.00% | ~10 |
 | Sadistic | 1.00% | ~1 |

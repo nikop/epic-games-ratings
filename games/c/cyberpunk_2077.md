@@ -6,9 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Bushido and Chill | 0.20% | ~2,107 |
 | Full Body Conversion | 0.20% | ~2,107 |
 | Right Back At Ya | 0.20% | ~2,107 |
 | Gun Fu | 0.20% | ~2,107 |
+| Master Crafter | 0.20% | ~2,107 |
 | Christmas Tree Attack | 0.20% | ~2,107 |
 | Life of the Road | 0.20% | ~2,107 |
 | Stanislavski's Method | 0.20% | ~2,107 |
@@ -19,17 +21,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.20% | ~2,107 |
 | True Soldier | 0.20% | ~2,107 |
 | Legend of The Afterlife | 0.20% | ~2,107 |
-| All the President's Men | 0.20% | ~364 |
-| Arachnophobia | 0.20% | ~364 |
+| All the President's Men | 0.20% | ~365 |
+| Arachnophobia | 0.20% | ~365 |
 | City Lights | 0.10% | ~1,054 |
 | To Bad Decisions! | 0.10% | ~1,054 |
-| Bushido and Chill | 0.10% | ~1,054 |
 | To Protect and Serve | 0.10% | ~1,054 |
 | The Wandering Fool | 0.10% | ~1,054 |
 | Autojock | 0.10% | ~1,054 |
 | Frequent Flyer | 0.10% | ~1,054 |
 | Gunslinger | 0.10% | ~1,054 |
-| Master Crafter | 0.10% | ~1,054 |
 | I Am The Law | 0.10% | ~1,054 |
 | Mean Streets | 0.10% | ~1,054 |
 | Little Tokyo | 0.10% | ~1,054 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,613 (Ranked 17)  
+Progressed: 1,053,656 (Ranked 17)  
 Completed: 3,114 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 3,114 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,613 | 3,114 |
+| 2024-01-17 | 1,053,656 | 3,114 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
 Sum: 500,656 (Ranked 8)  

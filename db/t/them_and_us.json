@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 423,
+  "EOS_Progressed": 424,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -1856,6 +1856,11 @@
       "Time": "2024-01-16T20:09:08.5173659+00:00",
       "NumProgressed": 423,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T17:09:35.3608989+00:00",
+      "NumProgressed": 424,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1883,7 +1888,7 @@
       "Name": "Alone with Them",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -1963,7 +1968,7 @@
       "Name": "Forced to Kill",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -2186,7 +2191,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 423,
+      "Progressed": 424,
       "Completed": 1
     }
   ],
@@ -2194,8 +2199,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:10:21.4308915+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:09:35.3608983+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:31.2690065+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:58:59.1202199+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:10:21.4309272+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:58:36.0955348+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:09:35.3609408+00:00"
 }

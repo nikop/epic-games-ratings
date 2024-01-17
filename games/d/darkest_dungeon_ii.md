@@ -43,13 +43,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Now Stay Dead | 4.00% | ~5,322 |
 | Spelunker | 4.00% | ~5,322 |
 | Ramble On | 4.00% | ~5,322 |
+| A Clear Conscience | 4.00% | ~5,322 |
 | Unshackled | 4.00% | ~5,322 |
 | Boxcar Kid | 3.00% | ~3,992 |
 | Hope Rekindled | 3.00% | ~3,992 |
 | Predator | 3.00% | ~3,992 |
 | Deprogramming | 3.00% | ~3,992 |
 | Reverse Banditry | 3.00% | ~3,992 |
-| A Clear Conscience | 3.00% | ~3,992 |
 | When You Want Something Done Right | 3.00% | ~3,992 |
 | Utopia | 3.00% | ~3,992 |
 | Hot Air | 3.00% | ~3,992 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,059 (Ranked 92)  
+Progressed: 133,060 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,059 | 5 |
+| 2024-01-17 | 133,060 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 52)  
 Sum: 21,698 (Ranked 58)  

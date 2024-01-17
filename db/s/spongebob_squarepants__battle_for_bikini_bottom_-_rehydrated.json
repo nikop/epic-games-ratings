@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1069,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 1,
@@ -2943,6 +2943,11 @@
       "Time": "2024-01-17T16:04:38.1213355+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-17T17:04:00.5817636+00:00",
+      "NumProgressed": 1069,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2995,7 +3000,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -3033,9 +3038,9 @@
       "ID": "ACH_JELLYFISH_JAM",
       "SetID": "biiejkc",
       "Name": "Jellyfish Jam",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3059,7 +3064,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -3139,7 +3144,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -3179,7 +3184,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -3210,15 +3215,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1069,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:04:38.1213351+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:04:00.5817632+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:58:14.697152+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:04:38.1213637+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:57:49.030874+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:04:00.5818036+00:00"
 }

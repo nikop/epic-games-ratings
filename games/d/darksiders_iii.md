@@ -12,7 +12,7 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 61.00% | ~383 |
 | Fight Fire with Fire | 59.00% | ~371 |
 | Increased Capacity | 56.00% | ~352 |
-| Just the start | 50.00% | ~314 |
+| Just the start | 51.00% | ~320 |
 | Perfect Storm | 48.00% | ~301 |
 | All That Glitters | 47.00% | ~295 |
 | Enhance! | 44.00% | ~276 |
@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 40.00% | ~251 |
 | Unshakable Fortitude | 37.00% | ~232 |
 | Soul Harvester | 37.00% | ~232 |
+| I Wanna Rock | 36.00% | ~226 |
 | Delusions of Grandeur | 36.00% | ~226 |
-| I Wanna Rock | 35.00% | ~220 |
 | Maximum Vigor | 34.00% | ~214 |
 | Love Tap | 34.00% | ~214 |
 | Freeze Frame | 31.00% | ~195 |

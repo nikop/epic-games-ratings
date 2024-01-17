@@ -26,7 +26,7 @@
 | Mighty Marmelizer | 28.00% | ~386 |
 | Fair Means or Foul | 28.00% | ~386 |
 | Kemono at Heart | 28.00% | ~386 |
-| Single Minded | 26.00% | ~358 |
+| Single Minded | 27.00% | ~372 |
 | Karakuri Trail | 24.00% | ~330 |
 | Snare Specialist | 24.00% | ~330 |
 | Karakuri Isle | 21.00% | ~289 |

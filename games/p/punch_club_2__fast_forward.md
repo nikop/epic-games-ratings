@@ -51,10 +51,10 @@
 | Poisoned fighter | 32.00% | ~188 |
 | Get out of my apartment! | 31.00% | ~182 |
 | Gang wrangler | 30.00% | ~176 |
+| Absolute Champion! | 30.00% | ~176 |
 | Seashell hunter | 30.00% | ~176 |
 | Undercover robot | 30.00% | ~176 |
 | Problems of cyborgs | 29.00% | ~171 |
-| Absolute Champion! | 29.00% | ~171 |
 | Another world | 28.00% | ~165 |
 | The lonesome road | 28.00% | ~165 |
 | Family comes first | 28.00% | ~165 |

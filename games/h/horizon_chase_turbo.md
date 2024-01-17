@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~995,485 |
-| I Need a Bigger Garage | 63.00% | ~696,839 |
-| Pump my Ride | 47.00% | ~519,864 |
-| Ghostbuster | 34.00% | ~376,072 |
-| Call Roadside Assistance | 18.00% | ~199,097 |
-| That Was Close | 18.00% | ~199,097 |
-| Quickie | 11.00% | ~121,670 |
-| California Dreamer | 7.00% | ~77,427 |
-| Can't Touch This | 5.00% | ~55,305 |
-| Carménère Taster | 4.00% | ~44,244 |
-| Comeback | 4.00% | ~44,244 |
+| The First of Many | 90.00% | ~995,504 |
+| I Need a Bigger Garage | 63.00% | ~696,852 |
+| Pump my Ride | 47.00% | ~519,874 |
+| Ghostbuster | 34.00% | ~376,079 |
+| Call Roadside Assistance | 18.00% | ~199,101 |
+| That Was Close | 18.00% | ~199,101 |
+| Quickie | 11.00% | ~121,673 |
+| California Dreamer | 7.00% | ~77,428 |
+| Can't Touch This | 5.00% | ~55,306 |
+| Carménère Taster | 4.00% | ~44,245 |
+| Comeback | 4.00% | ~44,245 |
 | Driver from Ipanema | 3.00% | ~33,183 |
 | Supersonic | 3.00% | ~33,183 |
 | Marathonist | 3.00% | ~33,183 |
@@ -38,13 +38,13 @@ Number of Ratings: 1,343  (23.09.2022)
 | Otaku | 0.90% | ~9,955 |
 | Survivor | 0.60% | ~6,637 |
 | King of the World | 0.60% | ~6,637 |
-| Getting Famous | 0.50% | ~5,530 |
+| Getting Famous | 0.50% | ~5,531 |
 | Now Go Play Outside | 0.30% | ~3,318 |
 | Master of the Racetrack | 0.20% | ~2,212 |
 | Look Mom, No Hands! | 0.20% | ~2,212 |
 | Transporter | 0.10% | ~1,106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,106,094 (Ranked 15)  
+Progressed: 1,106,115 (Ranked 15)  
 Completed: 535 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 535 (0.05%) (Ranked 343)
 | 2024-01-14 | 1,105,137 | 535 |
 | 2024-01-15 | 1,105,479 | 535 |
 | 2024-01-16 | 1,105,837 | 535 |
-| 2024-01-17 | 1,106,094 | 535 |
+| 2024-01-17 | 1,106,115 | 535 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 310)  
 Sum: 1,653 (Ranked 236)  

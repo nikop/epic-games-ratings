@@ -8,22 +8,22 @@ Rating: 4.22 (Ranked 955)
 | The Outer Way | 28.00% | ~6,299 |
 | Flesh Wound | 27.00% | ~6,074 |
 | Desperate Times | 26.00% | ~5,849 |
-| Paper Jams | 24.00% | ~5,399 |
-| Get a Grip | 23.00% | ~5,174 |
-| Chew 'Em Up | 22.00% | ~4,949 |
-| Reforged | 20.00% | ~4,499 |
-| Float Like A Butterfly | 19.00% | ~4,274 |
-| Workplace Hazard | 18.00% | ~4,049 |
-| If the SHU Fits... | 18.00% | ~4,049 |
-| Without A Paddle | 15.00% | ~3,374 |
-| In the Pipe, Five by Five | 13.00% | ~2,924 |
-| Crash Site | 13.00% | ~2,924 |
-| Two Heads Are Better Than One | 12.00% | ~2,699 |
-| Power Up | 12.00% | ~2,699 |
-| Giving Back | 11.00% | ~2,474 |
-| Terminated | 11.00% | ~2,474 |
-| What Lies Beneath | 11.00% | ~2,474 |
-| Full Circle | 11.00% | ~2,474 |
+| Paper Jams | 24.00% | ~5,400 |
+| Get a Grip | 23.00% | ~5,175 |
+| Chew 'Em Up | 22.00% | ~4,950 |
+| Reforged | 20.00% | ~4,500 |
+| Float Like A Butterfly | 19.00% | ~4,275 |
+| Workplace Hazard | 18.00% | ~4,050 |
+| If the SHU Fits... | 18.00% | ~4,050 |
+| Without A Paddle | 15.00% | ~3,375 |
+| In the Pipe, Five by Five | 13.00% | ~2,925 |
+| Crash Site | 13.00% | ~2,925 |
+| Two Heads Are Better Than One | 12.00% | ~2,700 |
+| Power Up | 12.00% | ~2,700 |
+| Giving Back | 11.00% | ~2,475 |
+| Terminated | 11.00% | ~2,475 |
+| What Lies Beneath | 11.00% | ~2,475 |
+| Full Circle | 11.00% | ~2,475 |
 | You Need a Gun | 10.00% | ~2,250 |
 | I Do Belong Here | 8.00% | ~1,800 |
 | Keep Fighting | 8.00% | ~834 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,495 (Ranked 151)  
+Progressed: 22,498 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 82 (0.36%) (Ranked 250)
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
-| 2024-01-17 | 22,495 | 82 |
+| 2024-01-17 | 22,498 | 82 |
 ## Awards
 Max (Amazing Characters): 135  (Ranked 346)  
 Sum: 658 (Ranked 318)  

@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1117,
+  "EOS_Progressed": 1118,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -3180,6 +3180,11 @@
       "Time": "2024-01-17T16:11:25.1092718+00:00",
       "NumProgressed": 1117,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-17T17:10:41.2391789+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3191,7 +3196,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3223,7 +3228,7 @@
       "Name": "The Ploy",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ENDING_4",
@@ -3239,7 +3244,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ENDING_6",
@@ -3255,7 +3260,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -3263,7 +3268,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3279,7 +3284,7 @@
       "Name": "Fair Share",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "GOOD_KARMA",
@@ -3293,9 +3298,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 168
+      "UsersEstimate": 157
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3303,7 +3308,7 @@
       "Name": "Office Clerk",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -3350,7 +3355,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1117,
+      "Progressed": 1118,
       "Completed": 13
     }
   ],
@@ -3358,8 +3363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-17T16:11:25.1092715+00:00",
+  "LastChanged_Achievements": "2024-01-17T17:10:41.2391785+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-17T15:57:35.6144301+00:00",
-  "LastUpdate_Achievements": "2024-01-17T16:11:25.109296+00:00"
+  "LastUpdate_Ratings": "2024-01-17T16:57:08.4859904+00:00",
+  "LastUpdate_Achievements": "2024-01-17T17:10:41.2392183+00:00"
 }

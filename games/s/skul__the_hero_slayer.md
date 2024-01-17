@@ -1,29 +1,29 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.75 (Ranked 151)  
+Rating: 4.75 (Ranked 150)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,783 |
-| What should I buy? | 80.00% | ~11,856 |
-| Focus! | 60.00% | ~8,892 |
-| Rescued Elder Ent | 60.00% | ~8,892 |
-| The End of the Gold Mane Knights | 48.00% | ~7,114 |
-| False Goddess, Disappear | 40.00% | ~5,928 |
-| Rules of Etiquette | 38.00% | ~5,632 |
-| Inventory Management | 32.00% | ~4,742 |
-| The Fall of the Leonia Order | 31.00% | ~4,594 |
-| Quick Movements | 30.00% | ~4,446 |
-| Go Home... | 28.00% | ~4,150 |
-| The Final Battle of the First Hero | 27.00% | ~4,001 |
-| The Hero Killer | 25.00% | ~3,705 |
-| Brain at Full Throttle | 20.00% | ~2,964 |
+| The Legend Begins | 93.00% | ~13,786 |
+| What should I buy? | 80.00% | ~11,859 |
+| Focus! | 60.00% | ~8,894 |
+| Rescued Elder Ent | 60.00% | ~8,894 |
+| The End of the Gold Mane Knights | 48.00% | ~7,116 |
+| False Goddess, Disappear | 40.00% | ~5,930 |
+| Rules of Etiquette | 38.00% | ~5,633 |
+| Inventory Management | 32.00% | ~4,744 |
+| The Fall of the Leonia Order | 31.00% | ~4,595 |
+| Quick Movements | 30.00% | ~4,447 |
+| Go Home... | 28.00% | ~4,151 |
+| The Final Battle of the First Hero | 27.00% | ~4,002 |
+| The Hero Killer | 25.00% | ~3,706 |
+| Brain at Full Throttle | 20.00% | ~2,965 |
 | Rookies Welcome | 18.00% | ~2,668 |
-| Deadly Power | 16.00% | ~2,371 |
+| Deadly Power | 16.00% | ~2,372 |
 | Castle Restoration Plans | 13.00% | ~1,927 |
-| The Dwarven Chandelier | 11.00% | ~1,630 |
+| The Dwarven Chandelier | 11.00% | ~1,631 |
 | Master of Speed | 9.00% | ~1,334 |
 | The Levitator | 8.00% | ~1,186 |
 | The God of Battle | 4.00% | ~593 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,820 (Ranked 175)  
+Progressed: 14,824 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 22 (0.15%) (Ranked 296)
 | 2024-01-14 | 14,732 | 22 |
 | 2024-01-15 | 14,763 | 22 |
 | 2024-01-16 | 14,802 | 22 |
-| 2024-01-17 | 14,820 | 22 |
+| 2024-01-17 | 14,824 | 22 |
 ## Awards
 Max (Great for Beginners): 155  (Ranked 333)  
 Sum: 1,032 (Ranked 275)  
