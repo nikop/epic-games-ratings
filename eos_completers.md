@@ -12,7 +12,7 @@
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
-| 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.07% |
+| 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.87% |
 | 14 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
 | 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -52,8 +52,8 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
-| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.64% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.67% |
+| 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.45% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
