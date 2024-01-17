@@ -303,6 +303,7 @@
 | [Eternal Threads](../games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 10 | 1,000 |
 | [Eternights](../games/e/eternights.md) | 25 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
+| [Ex Natura Nature Corrupted](../games/4/4fad42879d3643a0a295ad012fed973d.md) | 14 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |
 | [Extreme Formula Championship](../games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 5 | 1,000 |
 | [F1® 22 Standard Edition](../games/f/f1®_22_standard_edition.md) | 50 | 1,000 |
