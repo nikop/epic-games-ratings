@@ -2,13 +2,13 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1903,10 +1903,10 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 168568,
+  "EOS_Progressed": 168572,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1089,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1086,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -23373,6 +23373,11 @@
       "Time": "2024-01-17T03:04:22.3819091+00:00",
       "NumProgressed": 168568,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-17T04:04:49.7505343+00:00",
+      "NumProgressed": 168572,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23752,21 +23757,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168151,
+      "Progressed": 168155,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168568,
+      "Progressed": 168572,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-16T20:59:20.2590652+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:04:22.3819089+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:04:49.750534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:59:30.8200445+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:04:22.3820409+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:00:00.3766114+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:04:49.7506481+00:00"
 }

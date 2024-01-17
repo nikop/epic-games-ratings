@@ -13,7 +13,7 @@
 | The Exterminator | 27.00% | ~22 |
 | Earth's Savior | 22.00% | ~18 |
 | Technology first! | 19.00% | ~16 |
-| The Collector | 11.00% | ~9 |
+| The Collector | 12.00% | ~10 |
 | The Keeper of Fleed | 10.00% | ~8 |
 | The Broken Guard | 8.00% | ~7 |
 | Gold Seeker | 7.00% | ~6 |

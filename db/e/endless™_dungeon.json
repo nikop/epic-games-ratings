@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556,
+  "EOS_Progressed": 1557,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3510,6 +3510,11 @@
       "Time": "2024-01-17T00:05:12.440058+00:00",
       "NumProgressed": 1556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T04:06:10.2011377+00:00",
+      "NumProgressed": 1557,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3570,7 +3575,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -3578,7 +3583,7 @@
       "Name": "Pest Control",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3602,7 +3607,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3634,7 +3639,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3666,7 +3671,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3761,14 +3766,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1556,
+      "Progressed": 1557,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:05:34.1039891+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:06:10.2011372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:58:35.6652736+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:05:34.1040186+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:58:55.1917073+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:06:10.2011764+00:00"
 }

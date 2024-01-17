@@ -1700,9 +1700,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139434,
+  "EOS_Progressed": 139436,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 936,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28830,6 +28830,11 @@
       "Time": "2024-01-17T03:09:05.8607958+00:00",
       "NumProgressed": 139434,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-17T04:09:12.8096631+00:00",
+      "NumProgressed": 139436,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -28945,7 +28950,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22309
+      "UsersEstimate": 22310
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -28969,7 +28974,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18126
+      "UsersEstimate": 18127
     },
     {
       "ID": "ACH_COP_STAR",
@@ -29160,15 +29165,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139434,
+      "Progressed": 139436,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-16T21:59:44.1602287+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:09:05.8607952+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:09:12.8096628+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:59:03.1227188+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:09:05.8609817+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:59:27.9388773+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:09:12.8098319+00:00"
 }

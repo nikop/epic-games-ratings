@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1430,
+  "EOS_Progressed": 1431,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4193,6 +4193,11 @@
       "Time": "2024-01-17T03:05:46.8722223+00:00",
       "NumProgressed": 1430,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T04:06:24.6171897+00:00",
+      "NumProgressed": 1431,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4213,7 +4218,7 @@
       "Name": "Ab Initio",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "AnthropicHills",
@@ -4243,9 +4248,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 515
     },
     {
       "ID": "BreakTheLoop",
@@ -4301,7 +4306,7 @@
       "Name": "Discovery",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "EasternWetlands",
@@ -4421,7 +4426,7 @@
       "Name": "Museum Explorer",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MuseumVisitor",
@@ -4429,7 +4434,7 @@
       "Name": "Museum Visitor",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "NewBeginning",
@@ -4461,15 +4466,15 @@
       "Name": "Overload",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 272
     },
     {
       "ID": "PrometheusUnbound",
@@ -4485,7 +4490,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4493,7 +4498,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "RenaissanceRobot",
@@ -4565,7 +4570,7 @@
       "Name": "The All-Gifted",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4669,14 +4674,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1430,
+      "Progressed": 1431,
       "Completed": 2
     }
   ],
@@ -4684,8 +4689,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:05:46.8722218+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:06:24.6171895+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:59:03.3597636+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:05:46.8722959+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:59:28.2101978+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:06:24.6172535+00:00"
 }

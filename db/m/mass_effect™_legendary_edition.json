@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4426,
+  "EOS_Progressed": 4427,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
@@ -8418,6 +8418,11 @@
       "Time": "2024-01-17T02:34:59.4286122+00:00",
       "NumProgressed": 4426,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-17T04:10:42.8182729+00:00",
+      "NumProgressed": 4427,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8430,7 +8435,7 @@
       "Name": "Medal of Honor",
       "Percentage": 36,
       "XP": 125,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "achievement_10",
@@ -8462,7 +8467,7 @@
       "Name": "Focused",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_103",
@@ -8494,7 +8499,7 @@
       "Name": "Pyromaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "achievement_107",
@@ -8670,7 +8675,7 @@
       "Name": "Veteran",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "achievement_127",
@@ -8734,7 +8739,7 @@
       "Name": "Archivist",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_2",
@@ -8742,7 +8747,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "achievement_20",
@@ -8766,7 +8771,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1726
+      "UsersEstimate": 1727
     },
     {
       "ID": "achievement_23",
@@ -8782,7 +8787,7 @@
       "Name": "Soldier Ally",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "achievement_25",
@@ -8806,7 +8811,7 @@
       "Name": "Turian Ally",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "achievement_28",
@@ -8830,7 +8835,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 3983
+      "UsersEstimate": 3984
     },
     {
       "ID": "achievement_30",
@@ -8846,7 +8851,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "achievement_32",
@@ -8862,7 +8867,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "achievement_34",
@@ -8870,7 +8875,7 @@
       "Name": "Colonial Savior",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "achievement_35",
@@ -8940,9 +8945,9 @@
       "ID": "achievement_42",
       "SetID": "b9pe172",
       "Name": "No One Left Behind",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 575
+      "UsersEstimate": 620
     },
     {
       "ID": "achievement_43",
@@ -9006,7 +9011,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1947
+      "UsersEstimate": 1948
     },
     {
       "ID": "achievement_50",
@@ -9102,7 +9107,7 @@
       "Name": "Treason",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_61",
@@ -9110,7 +9115,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_62",
@@ -9190,7 +9195,7 @@
       "Name": "Operative",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "achievement_71",
@@ -9238,7 +9243,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "achievement_77",
@@ -9246,7 +9251,7 @@
       "Name": "Digital Exorcist",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_78",
@@ -9260,9 +9265,9 @@
       "ID": "achievement_79",
       "SetID": "d252ncf",
       "Name": "Driven",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1107
     },
     {
       "ID": "achievement_8",
@@ -9302,7 +9307,7 @@
       "Name": "Pathfinder",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "achievement_84",
@@ -9310,7 +9315,7 @@
       "Name": "Tunnel Rat",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "achievement_85",
@@ -9342,7 +9347,7 @@
       "Name": "Arbiter",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "achievement_89",
@@ -9445,19 +9450,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4426,
+      "Progressed": 4427,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4426,
+      "Progressed": 4427,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:10:24.9319739+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:10:42.8182728+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:03:28.1241768+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:10:24.9321449+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:03:45.7296748+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:10:42.8184322+00:00"
 }

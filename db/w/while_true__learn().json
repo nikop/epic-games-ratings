@@ -523,9 +523,9 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 618827,
+  "EOS_Progressed": 618828,
   "EOS_Completed": 566,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -31268,6 +31268,11 @@
       "Time": "2024-01-17T03:09:27.6490894+00:00",
       "NumProgressed": 618827,
       "NumCompleted": 566
+    },
+    {
+      "Time": "2024-01-17T04:09:38.494766+00:00",
+      "NumProgressed": 618828,
+      "NumCompleted": 566
     }
   ],
   "TotalAchievements": 28,
@@ -31343,7 +31348,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 377484
+      "UsersEstimate": 377485
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -31407,7 +31412,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 575509
+      "UsersEstimate": 575510
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -31415,7 +31420,7 @@
       "Name": "Overmind",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 148518
+      "UsersEstimate": 148519
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -31455,7 +31460,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 327978
+      "UsersEstimate": 327979
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -31502,15 +31507,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 618827,
+      "Progressed": 618828,
       "Completed": 566
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:09:27.6490892+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:09:38.4947656+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.8433302+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:59:52.3883997+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:09:27.6492712+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:00:26.3653545+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:09:38.4949206+00:00"
 }

@@ -905,7 +905,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 243804,
+  "EOS_Progressed": 243806,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1400,
   "EOS_NewCompleters": 0,
@@ -21540,6 +21540,11 @@
       "Time": "2024-01-17T03:10:12.5418595+00:00",
       "NumProgressed": 243804,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T04:10:29.6760452+00:00",
+      "NumProgressed": 243806,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21616,7 +21621,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21942
+      "UsersEstimate": 21943
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -21808,7 +21813,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60951
+      "UsersEstimate": 60952
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21823,7 +21828,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 243804,
+      "Progressed": 243806,
       "Completed": 0
     }
   ],
@@ -21831,8 +21836,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:10:12.5418593+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:10:29.6760449+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:58:57.8229056+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:10:12.5419964+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:59:22.4380748+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:10:29.6761582+00:00"
 }

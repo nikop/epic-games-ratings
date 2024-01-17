@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75639,
+  "EOS_Progressed": 75644,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 1349,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7591,6 +7591,11 @@
       "Time": "2024-01-17T03:08:59.3658737+00:00",
       "NumProgressed": 75639,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-17T04:09:05.3410432+00:00",
+      "NumProgressed": 75644,
+      "NumCompleted": 126
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7603,7 +7608,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27986
+      "UsersEstimate": 27988
     },
     {
       "ID": "Achievement_10",
@@ -7675,7 +7680,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Achievement_19",
@@ -7691,7 +7696,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21179
+      "UsersEstimate": 21180
     },
     {
       "ID": "Achievement_20",
@@ -7771,7 +7776,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "Achievement_3",
@@ -7874,7 +7879,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75639,
+      "Progressed": 75644,
       "Completed": 126
     }
   ],
@@ -7882,8 +7887,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-16T17:59:18.435336+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:08:59.3658734+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:09:05.3410429+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:58:57.3967036+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:08:59.3659247+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:59:22.1496842+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:09:05.3410916+00:00"
 }

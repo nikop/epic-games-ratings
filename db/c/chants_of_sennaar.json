@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -135,8 +135,8 @@
   "Tags": [],
   "EOS_Progressed": 2818,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 184,
-  "EOS_NewCompleters": 28,
+  "EOS_NewPlayers": 183,
+  "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 7.63,
   "EosHistory": [
     {
@@ -7532,9 +7532,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 789
+      "UsersEstimate": 817
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7701,8 +7701,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:03:47.7812373+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:04:10.6559492+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:59:48.3766241+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:03:47.7812914+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:00:21.7180596+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:04:10.6560045+00:00"
 }

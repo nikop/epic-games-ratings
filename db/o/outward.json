@@ -8540,9 +8540,9 @@
       "ID": "ExceptionalSkill_24",
       "SetID": "c4hee28",
       "Name": "Exceptional Skill",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 959
+      "UsersEstimate": 1007
     },
     {
       "ID": "ForAllAurai_8",
@@ -8812,8 +8812,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:04:16.8711426+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:04:43.5426+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:03:12.8692241+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:04:16.8712231+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:03:27.9590245+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:04:43.5426581+00:00"
 }

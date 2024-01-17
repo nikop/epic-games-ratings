@@ -8,8 +8,8 @@ Rating: 3.68 (Ranked 1,098)
 | I Like My Stakes Rare! | 23.00% | ~552 |
 | Catch and Release | 18.00% | ~432 |
 | Home Is Where the Heart Is | 17.00% | ~408 |
+| ICU | 16.00% | ~384 |
 | Wounded Whispers | 16.00% | ~384 |
-| ICU | 15.00% | ~360 |
 | Blood Will Have Blood | 14.00% | ~336 |
 | Ne Plus Ultra | 14.00% | ~336 |
 | Fly Fisher | 13.00% | ~312 |
@@ -25,12 +25,12 @@ Rating: 3.68 (Ranked 1,098)
 | Bad Wiring | 7.00% | ~168 |
 | Radio Silence | 7.00% | ~168 |
 | I Spit On Your Grave | 5.00% | ~120 |
+| Bell-ringer | 4.00% | ~96 |
 | You Clean It Up | 4.00% | ~96 |
 | From the Shadows | 4.00% | ~96 |
 | Helping Hand | 4.00% | ~96 |
 | Block Party | 3.00% | ~72 |
 | Sic Transit Umbra | 3.00% | ~72 |
-| Bell-ringer | 3.00% | ~72 |
 | Silence Is Golden | 3.00% | ~72 |
 | Good Morning | 3.00% | ~72 |
 | Starve the Beast | 3.00% | ~72 |
@@ -44,10 +44,10 @@ Rating: 3.68 (Ranked 1,098)
 | Curious Finch | 2.00% | ~48 |
 | Neighborhood Watch | 1.00% | ~24 |
 | Blood Brother | 1.00% | ~24 |
+| Empty Nest Syndrome | 1.00% | ~24 |
 | Bloody Initiate | 1.00% | ~24 |
 | Good Samaritan | 1.00% | ~24 |
 | What Lies Below | 0.90% | ~22 |
-| Empty Nest Syndrome | 0.90% | ~22 |
 | Sisterhood | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |

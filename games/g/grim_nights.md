@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Getting somewhere | 64.00% | ~42 |
 | Poor things... | 61.00% | ~40 |
-| So far so good... | 50.00% | ~33 |
+| So far so good... | 52.00% | ~34 |
 | Slay it! | 35.00% | ~23 |
 | Top notch! | 35.00% | ~23 |
 | Bling bling! | 26.00% | ~17 |

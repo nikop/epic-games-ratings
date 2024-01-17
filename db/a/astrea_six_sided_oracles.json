@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1909,9 +1909,9 @@
       "ID": "HeartGate",
       "SetID": "1jeo1g7",
       "Name": "Heart Gate",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "HeavyPurger",
@@ -2420,8 +2420,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:09:19.5663293+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:09:28.9968895+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:58:53.0573065+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:09:19.5664199+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:59:16.5603489+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:09:28.996985+00:00"
 }

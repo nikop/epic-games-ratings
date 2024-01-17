@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 74.00% | ~403 |
+| Newbie | 74.00% | ~404 |
 | Photo shoot | 16.00% | ~87 |
 | No brakes | 13.00% | ~71 |
 | Wannabe | 11.00% | ~60 |
@@ -24,10 +24,10 @@
 | Amateur wannabe | 0.70% | ~4 |
 | Addict | 0.70% | ~4 |
 | Untouchable | 0.70% | ~4 |
-| Monster Amateur car | 0.60% | ~3 |
-| Pro hitchhiker | 0.60% | ~3 |
-| First Amateur taste | 0.60% | ~3 |
-| Weatherman | 0.60% | ~3 |
+| Monster Amateur car | 0.50% | ~3 |
+| Pro hitchhiker | 0.50% | ~3 |
+| First Amateur taste | 0.50% | ~3 |
+| Weatherman | 0.50% | ~3 |
 | Pro newbie | 0.40% | ~2 |
 | Amateur hattrick | 0.40% | ~2 |
 | Endurance team mate | 0.40% | ~2 |
@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545 (Ranked 349)  
+Progressed: 546 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,3 +318,4 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-13 | 542 | 0 |
 | 2024-01-14 | 543 | 0 |
 | 2024-01-16 | 545 | 0 |
+| 2024-01-17 | 546 | 0 |

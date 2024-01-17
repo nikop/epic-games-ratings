@@ -961,9 +961,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667478,
+  "EOS_Progressed": 667482,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -26866,6 +26866,11 @@
       "Time": "2024-01-17T02:34:20.7599542+00:00",
       "NumProgressed": 667478,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-17T04:10:01.6157158+00:00",
+      "NumProgressed": 667482,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -26877,7 +26882,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480584
+      "UsersEstimate": 480587
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -26885,7 +26890,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387137
+      "UsersEstimate": 387140
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -26893,7 +26898,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153520
+      "UsersEstimate": 153521
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -26917,7 +26922,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 53398
+      "UsersEstimate": 53399
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -26949,7 +26954,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46723
+      "UsersEstimate": 46724
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -27013,7 +27018,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153520
+      "UsersEstimate": 153521
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -27029,7 +27034,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113471
+      "UsersEstimate": 113472
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -27045,7 +27050,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53398
+      "UsersEstimate": 53399
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -27101,7 +27106,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 53398
+      "UsersEstimate": 53399
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -27109,7 +27114,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46723
+      "UsersEstimate": 46724
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -27117,7 +27122,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80097
+      "UsersEstimate": 80098
     },
     {
       "ID": "Achievement_32_Karma",
@@ -27173,7 +27178,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 53398
+      "UsersEstimate": 53399
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -27189,7 +27194,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46723
+      "UsersEstimate": 46724
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -27260,15 +27265,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667478,
+      "Progressed": 667482,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:09:47.8880953+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:10:01.6157153+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:57:27.1984045+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:09:47.8882368+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:57:37.9780932+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:10:01.6159386+00:00"
 }

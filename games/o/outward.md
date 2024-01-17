@@ -13,8 +13,8 @@ Number of Ratings: 266  (23.09.2022)
 | Tapped! | 34.00% | ~1,631 |
 | Eureka | 29.00% | ~1,391 |
 | Scourge Slayer | 23.00% | ~1,103 |
+| Exceptional Skill | 21.00% | ~1,007 |
 | Science, Troglodyte! | 21.00% | ~1,007 |
-| Exceptional Skill | 20.00% | ~959 |
 | Home Sweet Home | 20.00% | ~959 |
 | Encyclopedic! | 18.00% | ~863 |
 | The Power of Family | 15.00% | ~720 |

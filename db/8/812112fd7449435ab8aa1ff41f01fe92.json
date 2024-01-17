@@ -4,7 +4,7 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewPlayers": 408,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -329,9 +329,9 @@
       "ID": "DEATH_FLOWER",
       "SetID": "5629o35",
       "Name": "Very angry flower",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEATH_LAVA",
@@ -440,8 +440,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:08:56.2943114+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:09:01.9500352+00:00",
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.6907208+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:57:52.1715848+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:08:56.2943194+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:58:05.1689218+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:09:01.9500549+00:00"
 }

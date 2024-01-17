@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3623,
+  "EOS_Progressed": 3624,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8980,6 +8980,11 @@
       "Time": "2024-01-16T22:04:55.5420494+00:00",
       "NumProgressed": 3623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T04:04:21.071942+00:00",
+      "NumProgressed": 3624,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9064,7 +9069,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9096,7 +9101,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9168,7 +9173,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9200,7 +9205,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9248,7 +9253,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9383,7 +9388,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3623,
+      "Progressed": 3624,
       "Completed": 0
     }
   ],
@@ -9391,8 +9396,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:03:57.0737191+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:04:21.0719416+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:57:57.167843+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:03:57.0738031+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:58:11.414188+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:04:21.0720617+00:00"
 }

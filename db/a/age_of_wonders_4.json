@@ -783,9 +783,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7262,
+  "EOS_Progressed": 7263,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11313,6 +11313,11 @@
       "Time": "2024-01-16T23:05:52.1490526+00:00",
       "NumProgressed": 7262,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T04:06:40.0073017+00:00",
+      "NumProgressed": 7263,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11508,7 +11513,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "31",
@@ -11556,7 +11561,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "37",
@@ -11803,13 +11808,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7262,
+      "Progressed": 7263,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7262,
+      "Progressed": 7263,
       "Completed": 8
     }
   ],
@@ -11817,8 +11822,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-16T11:57:01.1215381+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:06:00.8687274+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:06:40.0073013+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:57:38.1004279+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:06:00.8688228+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:57:48.0724656+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:06:40.0074008+00:00"
 }

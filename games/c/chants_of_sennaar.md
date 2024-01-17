@@ -15,9 +15,9 @@ Rating: 4.86 (Ranked 33)
 | A good beginning | 32.00% | ~902 |
 | True G3M4R | 32.00% | ~902 |
 | One last step | 30.00% | ~845 |
+| Half the way | 29.00% | ~817 |
 | I did it | 28.00% | ~789 |
 | Cable guy | 28.00% | ~789 |
-| Half the way | 28.00% | ~789 |
 | In this together | 27.00% | ~761 |
 | Peace walker | 27.00% | ~761 |
 | Rascal | 27.00% | ~761 |

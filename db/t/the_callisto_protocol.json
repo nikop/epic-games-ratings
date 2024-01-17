@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22474,
+  "EOS_Progressed": 22475,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14163,6 +14163,11 @@
       "Time": "2024-01-17T02:34:31.5798972+00:00",
       "NumProgressed": 22474,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T04:10:13.3539822+00:00",
+      "NumProgressed": 22475,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14358,7 +14363,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -14374,7 +14379,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4045
+      "UsersEstimate": 4046
     },
     {
       "ID": "STORY_HABITAT",
@@ -14406,7 +14411,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5843
+      "UsersEstimate": 5844
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14549,13 +14554,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22474,
+      "Progressed": 22475,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10400,
+      "Progressed": 10401,
       "Completed": 29
     }
   ],
@@ -14563,8 +14568,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:09:58.2473957+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:10:13.3539818+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:03:26.0763239+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:09:58.2474774+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:03:43.7752976+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:10:13.3540909+00:00"
 }

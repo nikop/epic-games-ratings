@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1588,9 +1588,9 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 122
+      "UsersEstimate": 126
     },
     {
       "ID": "do_what_you_have_to",
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:09:16.224934+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:09:24.8018661+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:58:32.1628747+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:09:16.2249771+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:58:51.3565057+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:09:24.8019049+00:00"
 }

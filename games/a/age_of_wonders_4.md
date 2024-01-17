@@ -26,8 +26,8 @@ Rating: 4.63 (Ranked 355)
 | Digging for Treasure | 5.00% | ~363 |
 | Against the Odds | 5.00% | ~363 |
 | Impenetrable Fortress | 5.00% | ~363 |
-| Preparation Is Everything | 4.00% | ~290 |
-| Fiery Friend | 4.00% | ~290 |
+| Preparation Is Everything | 4.00% | ~291 |
+| Fiery Friend | 4.00% | ~291 |
 | Crimson Caldera | 3.00% | ~218 |
 | Here be Dragons | 3.00% | ~218 |
 | Tipping the Scales | 3.00% | ~218 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,262 (Ranked 197)  
+Progressed: 7,263 (Ranked 197)  
 Completed: 8 (0.11%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 8 (0.11%) (Ranked 310)
 | 2024-01-14 | 7,246 | 8 |
 | 2024-01-15 | 7,255 | 8 |
 | 2024-01-16 | 7,262 | 8 |
+| 2024-01-17 | 7,263 | 8 |
 ## Awards
 Max (Great for Beginners): 41  (Ranked 484)  
 Sum: 239 (Ranked 407)  

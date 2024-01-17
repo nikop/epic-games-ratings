@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 526,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2246,17 +2246,17 @@
       "ID": "AC_DISTANCE_1",
       "SetID": "16i2akc",
       "Name": "Excursion",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 421
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 231
+      "UsersEstimate": 237
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2397,8 +2397,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-17T03:04:07.5006873+00:00",
+  "LastChanged_Achievements": "2024-01-17T04:04:32.9703103+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:59:35.124508+00:00",
-  "LastUpdate_Achievements": "2024-01-17T03:04:07.5007197+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:00:05.4717551+00:00",
+  "LastUpdate_Achievements": "2024-01-17T04:04:32.9703425+00:00"
 }
