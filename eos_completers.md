@@ -52,8 +52,8 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.65% |
 | 53 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
+| 54 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.64% |
 | 55 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.55% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.44% |
@@ -124,7 +124,7 @@
 | 122 | [The Complex](games/t/the_complex.md) | 2.59% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
-| 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.53% |
+| 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.52% |
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.45% |
@@ -274,10 +274,10 @@
 | 272 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 272 | [Dead Space](games/d/dead_space.md) | 0.25% |
 | 274 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
+| 274 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
 | 274 | [Them and Us](games/t/them_and_us.md) | 0.24% |
-| 276 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
-| 276 | [It Takes Two](games/i/it_takes_two.md) | 0.23% |
-| 276 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
+| 277 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
+| 277 | [Shop Titans](games/s/shop_titans.md) | 0.23% |
 | 279 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 279 | [Eternights](games/e/eternights.md) | 0.22% |
 | 281 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
