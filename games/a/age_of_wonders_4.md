@@ -6,12 +6,12 @@ Rating: 4.63 (Ranked 355)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 18.00% | ~1,308 |
-| Realm Estate | 16.00% | ~1,162 |
+| Realm Estate | 16.00% | ~1,163 |
 | A Wonderful Discovery | 15.00% | ~1,090 |
 | Walls Cannot Stop Us | 15.00% | ~1,090 |
-| From Friends to Family | 13.00% | ~944 |
+| From Friends to Family | 13.00% | ~945 |
 | Bone Peddler | 11.00% | ~799 |
-| Magical Synergy | 10.00% | ~726 |
+| Magical Synergy | 10.00% | ~727 |
 | There Can Only Be One! | 9.00% | ~654 |
 | Full Ascension | 9.00% | ~654 |
 | Stronger Together | 9.00% | ~654 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 355)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,265 (Ranked 199)  
+Progressed: 7,267 (Ranked 199)  
 Completed: 8 (0.11%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,14 +306,14 @@ Completed: 8 (0.11%) (Ranked 311)
 | 2024-01-14 | 7,246 | 8 |
 | 2024-01-15 | 7,255 | 8 |
 | 2024-01-16 | 7,262 | 8 |
-| 2024-01-17 | 7,265 | 8 |
+| 2024-01-17 | 7,267 | 8 |
 ## Awards
-Max (Great for Beginners): 41  (Ranked 485)  
-Sum: 239 (Ranked 407)  
-Diff (max vs sum): 78  
+Max (Great for Beginners): 42  (Ranked 482)  
+Sum: 240 (Ranked 407)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 41 |
+| This game is Great for Beginners | 42 |
 | This game has Diverse Characters | 39 |
 | This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 23 |
@@ -415,3 +415,4 @@ Diff (max vs sum): 78
 | 2024-01-10 | 4.62 | 41 | 217 |
 | 2024-01-11 | 4.63 | 41 | 238 |
 | 2024-01-16 | 4.63 | 41 | 239 |
+| 2024-01-17 | 4.63 | 42 | 240 |

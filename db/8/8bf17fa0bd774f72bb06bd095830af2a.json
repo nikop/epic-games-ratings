@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 575,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 495,
+  "Ranking_EOS_NewPlayers": 496,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -296,9 +296,9 @@
       "ID": "SteamAchievement_KillFrostMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Frosthyll",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SteamAchievement_UpgradeDemonDogToMaxLevel",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:08:19.8567418+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:06:24.3059404+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:19.9249974+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:57:53.4112869+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:08:19.8567669+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:57:46.4731478+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:06:24.3059836+00:00"
 }

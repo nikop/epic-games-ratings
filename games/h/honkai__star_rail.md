@@ -1,10 +1,10 @@
 # Honkai: Star Rail
 [Store](https://store.epicgames.com/en-US/p/honkai-star-rail)  
 [View Rawdata](../../db/h/honkai__star_rail.json)  
-Rating: 4.73 (Ranked 179)  
+Rating: 4.73 (Ranked 180)  
 ## Awards
 Max (Character Customization): 28,944  (Ranked 18)  
-Sum: 119,006 (Ranked 15)  
+Sum: 119,049 (Ranked 15)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 8,563 |
 | This game has Beautiful Visuals | 8,480 |
 | This game has Amazing Storytelling | 8,097 |
-| This game is Extremely Fun | 7,735 |
+| This game is Extremely Fun | 7,778 |
 | This game has Quickly Understood Controls | 6,959 |
 | This game is Relaxing | 6,823 |
 | This game has a Creative Community | 215 |
@@ -241,4 +241,4 @@ Diff (max vs sum): 3
 | 2024-01-14 | 4.73 | 28,754 | 117,607 |
 | 2024-01-15 | 4.73 | 28,855 | 118,135 |
 | 2024-01-16 | 4.73 | 28,944 | 118,625 |
-| 2024-01-17 | 4.73 | 28,944 | 119,006 |
+| 2024-01-17 | 4.73 | 28,944 | 119,049 |

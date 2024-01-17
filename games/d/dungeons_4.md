@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.73 (Ranked 179)  
+Rating: 4.74 (Ranked 164)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,7 +10,7 @@ Rating: 4.73 (Ranked 179)
 | For the Horde! | 82.00% | ~635 |
 | Hammer Time, Round Two | 81.00% | ~627 |
 | The Hellwoods | 77.00% | ~596 |
-| The Plains of Strothalm | 72.00% | ~557 |
+| The Plains of Strothalm | 73.00% | ~565 |
 | Experienced Thalya | 72.00% | ~557 |
 | Bad Elves Go Everywhere | 69.00% | ~534 |
 | Thalya's Concentrated Fury | 67.00% | ~519 |
@@ -31,7 +31,7 @@ Rating: 4.73 (Ranked 179)
 | Tanos' Crusade Against Thalya | 48.00% | ~372 |
 | Pure Dynamite! | 46.00% | ~356 |
 | Dungeonlord Gorgu | 46.00% | ~356 |
-| All’s Well That Ends Evil | 43.00% | ~333 |
+| All’s Well That Ends Evil | 44.00% | ~341 |
 | Mana Cannon | 42.00% | ~325 |
 | The Duel | 41.00% | ~317 |
 | If Looks Could Kill | 38.00% | ~294 |
@@ -152,3 +152,4 @@ Completed: 34 (4.39%) (Ranked 86)
 | 2024-01-08 | 4.75 | 0 | 0 |
 | 2024-01-13 | 4.76 | 0 | 0 |
 | 2024-01-14 | 4.73 | 0 | 0 |
+| 2024-01-17 | 4.74 | 0 | 0 |

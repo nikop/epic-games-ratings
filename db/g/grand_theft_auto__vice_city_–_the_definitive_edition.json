@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,11 +1074,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16506,
-  "EOS_Completed": 101,
-  "EOS_NewPlayers": 330,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 0.61,
+  "EOS_Progressed": 16508,
+  "EOS_Completed": 102,
+  "EOS_NewPlayers": 323,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -18424,6 +18424,11 @@
       "Time": "2024-01-17T19:10:19.6811329+00:00",
       "NumProgressed": 16506,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2024-01-17T20:10:02.951336+00:00",
+      "NumProgressed": 16508,
+      "NumCompleted": 102
     }
   ],
   "TotalAchievements": 34,
@@ -18507,7 +18512,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH11",
@@ -18595,7 +18600,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7758
+      "UsersEstimate": 7759
     },
     {
       "ID": "ACH22",
@@ -18603,7 +18608,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3466
+      "UsersEstimate": 3467
     },
     {
       "ID": "ACH23",
@@ -18706,16 +18711,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16506,
-      "Completed": 101
+      "Progressed": 16508,
+      "Completed": 102
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:19.6811326+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:10:02.9513355+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:58:15.6850182+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:19.6812415+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:58:06.4687981+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:10:02.9514297+00:00"
 }

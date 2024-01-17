@@ -15,7 +15,7 @@ Number of Ratings: 124  (23.09.2022)
 | Festival-goer | 29.00% | ~76 |
 | Peddler | 25.00% | ~65 |
 | Commander | 25.00% | ~65 |
-| Irissa's Fate | 20.00% | ~52 |
+| Irissa's Fate | 21.00% | ~55 |
 | Family Reunion | 19.00% | ~50 |
 | Long-Haul Flyer | 18.00% | ~47 |
 | Pass A38 | 18.00% | ~47 |

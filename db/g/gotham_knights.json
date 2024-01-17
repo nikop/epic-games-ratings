@@ -4,11 +4,11 @@
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 976,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 143,
+  "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5339,9 +5339,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82930,
+  "EOS_Progressed": 82932,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30604,6 +30604,11 @@
       "Time": "2024-01-17T19:05:24.7165977+00:00",
       "NumProgressed": 82930,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-17T20:05:07.6715556+00:00",
+      "NumProgressed": 82932,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30767,7 +30772,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4146
+      "UsersEstimate": 4147
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -30839,7 +30844,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22391
+      "UsersEstimate": 22392
     },
     {
       "ID": "FREEZE_1_5",
@@ -30919,7 +30924,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28196
+      "UsersEstimate": 28197
     },
     {
       "ID": "HARLEY_2",
@@ -30927,7 +30932,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19903
+      "UsersEstimate": 19904
     },
     {
       "ID": "HARLEY_3",
@@ -30959,7 +30964,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41465
+      "UsersEstimate": 41466
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31007,7 +31012,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27367
+      "UsersEstimate": 27368
     },
     {
       "ID": "MYSTERY_02",
@@ -31015,7 +31020,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19903
+      "UsersEstimate": 19904
     },
     {
       "ID": "MYSTERY_03",
@@ -31071,7 +31076,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9122
+      "UsersEstimate": 9123
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -31079,7 +31084,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6634
+      "UsersEstimate": 6635
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -31102,13 +31107,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82930,
+      "Progressed": 82932,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53210,
+      "Progressed": 53212,
       "Completed": 2680
     }
   ],
@@ -31116,8 +31121,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-17T18:00:52.239204+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:05:24.7165975+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:05:07.6715553+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:00:26.6030892+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:05:24.7167852+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:00:04.8383683+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:05:07.671685+00:00"
 }

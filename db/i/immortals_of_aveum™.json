@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -509,7 +509,7 @@
   ],
   "EOS_Progressed": 3488,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6111,9 +6111,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_7",
@@ -6152,8 +6152,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:28.482891+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:10:11.774319+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:58:54.2259636+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:28.4829426+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:58:41.9009516+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:10:11.7743825+00:00"
 }

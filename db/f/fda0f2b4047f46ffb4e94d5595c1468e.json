@@ -5289,9 +5289,9 @@
       "Count": 639
     }
   ],
-  "EOS_Progressed": 23943,
+  "EOS_Progressed": 23944,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16864,6 +16864,11 @@
       "Time": "2024-01-17T19:09:10.2073431+00:00",
       "NumProgressed": 23943,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T20:08:58.6440172+00:00",
+      "NumProgressed": 23944,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -16892,7 +16897,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10774
+      "UsersEstimate": 10775
     },
     {
       "ID": "ach04",
@@ -16900,7 +16905,7 @@
       "Name": "What Just Happened??",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "ach05",
@@ -16924,7 +16929,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10774
+      "UsersEstimate": 10775
     },
     {
       "ID": "ach08",
@@ -16956,7 +16961,7 @@
       "Name": "Karnage",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ach12",
@@ -16996,7 +17001,7 @@
       "Name": "Test Your Might",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ach17",
@@ -17060,7 +17065,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6943
+      "UsersEstimate": 6944
     },
     {
       "ID": "ach25",
@@ -17076,7 +17081,7 @@
       "Name": "Running On Empty",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ach27",
@@ -17092,7 +17097,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "ach29",
@@ -17140,7 +17145,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "ach35",
@@ -17172,7 +17177,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7901
+      "UsersEstimate": 7902
     },
     {
       "ID": "ach39",
@@ -17196,7 +17201,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "ach42",
@@ -17275,7 +17280,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23943,
+      "Progressed": 23944,
       "Completed": 2
     }
   ],
@@ -17283,8 +17288,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-17T18:03:36.2437936+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:09:10.2073426+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:08:58.6440168+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:03:07.6806673+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:09:10.2074477+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:03:00.6689802+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:08:58.6441034+00:00"
 }

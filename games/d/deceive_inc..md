@@ -1,30 +1,30 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 453)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 30.00% | ~5,804 |
-| Mainframe Hacker | 23.00% | ~4,449 |
-| The Spy who eliminated me | 23.00% | ~4,449 |
+| Mainframe Hacker | 23.00% | ~4,450 |
+| The Spy who eliminated me | 23.00% | ~4,450 |
 | Tomorrow Never Dyes | 22.00% | ~4,256 |
 | From the Vault with Love | 18.00% | ~3,482 |
 | Never Say Loser Again | 18.00% | ~3,482 |
 | Tailor-Made | 18.00% | ~3,482 |
 | For your Eyes only | 18.00% | ~3,482 |
 | Assistant Accountant | 17.00% | ~3,289 |
-| You Only Live Twice | 16.00% | ~3,095 |
-| Fully Decked Out | 16.00% | ~3,095 |
+| You Only Live Twice | 16.00% | ~3,096 |
+| Fully Decked Out | 16.00% | ~3,096 |
 | A view to Win | 13.00% | ~2,515 |
-| The Living Portrait | 12.00% | ~2,321 |
-| Smells Like Trouble | 12.00% | ~2,321 |
+| The Living Portrait | 12.00% | ~2,322 |
+| Smells Like Trouble | 12.00% | ~2,322 |
 | My Motto, My Creed | 11.00% | ~2,128 |
 | Private Collection | 11.00% | ~2,128 |
 | Killer Looks | 11.00% | ~2,128 |
 | Hostile Takeover | 11.00% | ~2,128 |
-| Keycards Royale | 10.00% | ~1,934 |
-| Dr. No Kill | 10.00% | ~1,934 |
+| Keycards Royale | 10.00% | ~1,935 |
+| Dr. No Kill | 10.00% | ~1,935 |
 | In It to Win It | 9.00% | ~1,741 |
 | Security Supervisor | 6.00% | ~1,161 |
 | License to Thrill | 5.00% | ~967 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 452)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,345 (Ranked 158)  
+Progressed: 19,347 (Ranked 158)  
 Completed: 4 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,6 +314,7 @@ Completed: 4 (0.02%) (Ranked 368)
 | 2024-01-14 | 19,333 | 4 |
 | 2024-01-15 | 19,341 | 4 |
 | 2024-01-16 | 19,345 | 4 |
+| 2024-01-17 | 19,347 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

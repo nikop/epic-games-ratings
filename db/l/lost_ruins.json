@@ -39,7 +39,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -2029,6 +2029,11 @@
       "Time": "2024-01-17T15:10:58.434481+00:00",
       "NumProgressed": 706,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T20:10:14.1326039+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2072,7 +2077,7 @@
       "Name": "Boss Killer",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "BugHunter",
@@ -2080,7 +2085,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Cryomancer",
@@ -2200,7 +2205,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Necromancer",
@@ -2359,7 +2364,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 1
     }
   ],
@@ -2367,8 +2372,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:31.3089854+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:10:14.1326036+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.8441104+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:57:18.9238672+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:31.3090199+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:57:15.6113715+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:10:14.1326436+00:00"
 }

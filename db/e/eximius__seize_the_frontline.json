@@ -339,9 +339,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203283,
+  "EOS_Progressed": 203288,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28964,6 +28964,11 @@
       "Time": "2024-01-17T19:04:56.2506878+00:00",
       "NumProgressed": 203283,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T20:04:41.2358171+00:00",
+      "NumProgressed": 203288,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -28983,7 +28988,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 144331
+      "UsersEstimate": 144334
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -28999,7 +29004,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 6098
+      "UsersEstimate": 6099
     },
     {
       "ID": "ACH_INITIATION",
@@ -29007,7 +29012,7 @@
       "Name": "Initiation",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 34558
+      "UsersEstimate": 34559
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -29095,14 +29100,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 8131
+      "UsersEstimate": 8132
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 203283,
+      "Progressed": 203288,
       "Completed": 4
     }
   ],
@@ -29110,8 +29115,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-12-30T17:59:44.6565075+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:04:56.2506876+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:04:41.2358167+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.0694277+00:00",
   "LastUpdate_Ratings": "2024-01-17T19:02:49.6466821+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:04:56.2508235+00:00"
+  "LastUpdate_Achievements": "2024-01-17T20:04:41.2359564+00:00"
 }

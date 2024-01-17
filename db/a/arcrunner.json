@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 959,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2326,6 +2326,11 @@
       "Time": "2024-01-16T19:10:54.0809385+00:00",
       "NumProgressed": 958,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T20:09:53.1012237+00:00",
+      "NumProgressed": 959,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -2361,7 +2366,7 @@
       "Name": "Challenge Mastered",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHV_CITY",
@@ -2407,9 +2412,9 @@
       "ID": "ACHV_EDEN",
       "SetID": "cceobco",
       "Name": "Eden Heights",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHV_FULLYMODDED",
@@ -2449,7 +2454,7 @@
       "Name": "Nanonic I",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -2471,9 +2476,9 @@
       "ID": "ACHV_OUTERCORE",
       "SetID": "cceobco",
       "Name": "Outer Core",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHV_RIPPERDOC",
@@ -2521,7 +2526,7 @@
       "Name": "Terminated III",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHV_TRICKSHOT",
@@ -2568,13 +2573,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 959,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 384,
+      "Progressed": 385,
       "Completed": 3
     }
   ],
@@ -2582,8 +2587,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:09.3728614+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:09:53.1012233+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.0334015+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:59:56.7247799+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:09.3728911+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:59:37.9003394+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:09:53.1012577+00:00"
 }

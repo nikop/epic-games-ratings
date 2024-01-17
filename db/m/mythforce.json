@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 657,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
@@ -866,7 +866,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6388,
+  "EOS_Progressed": 6389,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -13406,6 +13406,11 @@
       "Time": "2024-01-17T19:08:16.5828084+00:00",
       "NumProgressed": 6388,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T20:06:21.4351008+00:00",
+      "NumProgressed": 6389,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13474,7 +13479,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13504,9 +13509,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1661
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13601,15 +13606,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6388,
+      "Progressed": 6389,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:08:16.5828082+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:06:21.4351005+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:57:40.5951566+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:08:16.5828938+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:57:35.4386018+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:06:21.435176+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "Name": "3 out of 10: Season Two",
   "ProductSlug": "3-out-of-10-season-2",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-08T15:00:00+00:00",
@@ -252,6 +252,6 @@
   "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
   "LastChanged": "2023-12-30T19:05:01.4431676+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.7803313+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:59:49.8535859+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:05:02.3829291+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:59:31.4628782+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:04:46.8394542+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -3042,9 +3042,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544634,
+  "EOS_Progressed": 544635,
   "EOS_Completed": 1687,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33302,6 +33302,11 @@
       "Time": "2024-01-17T19:04:53.2754298+00:00",
       "NumProgressed": 544634,
       "NumCompleted": 1687
+    },
+    {
+      "Time": "2024-01-17T20:04:38.4132648+00:00",
+      "NumProgressed": 544635,
+      "NumCompleted": 1687
     }
   ],
   "TotalAchievements": 37,
@@ -33369,7 +33374,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 452046
+      "UsersEstimate": 452047
     },
     {
       "ID": "HONED",
@@ -33489,7 +33494,7 @@
       "Name": "The Iron Ones",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103480
+      "UsersEstimate": 103481
     },
     {
       "ID": "THE_KEEP",
@@ -33608,15 +33613,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544634,
+      "Progressed": 544635,
       "Completed": 1687
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-17T19:00:06.7804227+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:04:53.2754296+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:04:38.4132644+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:00:06.7804231+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:04:53.2755614+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:59:47.0869254+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:04:38.4134527+00:00"
 }

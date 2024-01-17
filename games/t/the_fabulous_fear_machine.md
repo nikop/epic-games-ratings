@@ -40,7 +40,7 @@
 | America had no Faith | 11.00% | ~10 |
 | The scholar | 10.00% | ~9 |
 | The barbarian invasions | 10.00% | ~9 |
-| Vaccine fans | 9.00% | ~8 |
+| Vaccine fans | 10.00% | ~9 |
 | A new Hindenburg | 8.00% | ~7 |
 | Pulp! Tales from the Crypt | 6.00% | ~6 |
 | Thirst for Oleum | 4.00% | ~4 |

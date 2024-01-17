@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~847 |
-| Play a Single Player Game | 5.00% | ~847 |
+| Settler | 5.00% | ~848 |
+| Play a Single Player Game | 5.00% | ~848 |
 | Explorer | 4.00% | ~678 |
 | Intrepid | 4.00% | ~678 |
 | Friendly Family | 4.00% | ~678 |
@@ -58,29 +58,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 2.00% | ~339 |
 | Roman Paganism | 2.00% | ~339 |
 | Zoroastrianism | 2.00% | ~339 |
-| Hanging Gardens in Babylon | 1.00% | ~169 |
-| Beloved | 1.00% | ~169 |
-| Intercessor | 1.00% | ~169 |
-| Mighty | 1.00% | ~169 |
-| Valiant | 1.00% | ~169 |
-| Legendary Cities | 1.00% | ~169 |
-| Just Difficulty | 1.00% | ~169 |
-| Artisans | 1.00% | ~169 |
-| Champions | 1.00% | ~169 |
-| Sages | 1.00% | ~169 |
-| Acropolis | 1.00% | ~169 |
-| Colossus | 1.00% | ~169 |
-| Temple of Solomon | 1.00% | ~169 |
-| Mausoleum | 1.00% | ~169 |
-| Learn to Play 3 | 1.00% | ~169 |
-| Greece | 1.00% | ~169 |
-| Power to the People | 1.00% | ~169 |
-| Persian Paganism | 1.00% | ~169 |
-| Building Wonders | 1.00% | ~169 |
-| Mythology | 1.00% | ~169 |
-| Points Victory | 1.00% | ~169 |
-| Win a Single Player Game | 1.00% | ~169 |
-| Good Difficulty | 0.90% | ~153 |
+| Hanging Gardens in Babylon | 1.00% | ~170 |
+| Beloved | 1.00% | ~170 |
+| Intercessor | 1.00% | ~170 |
+| Mighty | 1.00% | ~170 |
+| Valiant | 1.00% | ~170 |
+| Legendary Cities | 1.00% | ~170 |
+| Good Difficulty | 1.00% | ~170 |
+| Just Difficulty | 1.00% | ~170 |
+| Artisans | 1.00% | ~170 |
+| Champions | 1.00% | ~170 |
+| Sages | 1.00% | ~170 |
+| Acropolis | 1.00% | ~170 |
+| Colossus | 1.00% | ~170 |
+| Temple of Solomon | 1.00% | ~170 |
+| Mausoleum | 1.00% | ~170 |
+| Learn to Play 3 | 1.00% | ~170 |
+| Greece | 1.00% | ~170 |
+| Power to the People | 1.00% | ~170 |
+| Persian Paganism | 1.00% | ~170 |
+| Building Wonders | 1.00% | ~170 |
+| Mythology | 1.00% | ~170 |
+| Points Victory | 1.00% | ~170 |
+| Win a Single Player Game | 1.00% | ~170 |
 | Patrons | 0.90% | ~153 |
 | Statesmen | 0.90% | ~153 |
 | Hittite Iron | 0.90% | ~153 |
@@ -119,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |
+| Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
 | Hittite Paganism | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.60% | ~102 |
 | Clerics | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
-| Carthage | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
 | Revelation | 0.50% | ~85 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,948 (Ranked 169)  
+Progressed: 16,950 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,10 +637,10 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,948 | 5 |
+| 2024-01-17 | 16,950 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,935 (Ranked 223)  
+Sum: 1,936 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -648,7 +648,7 @@ Diff (max vs sum): 64
 | This game has Diverse Characters | 227 |
 | This game is Extremely Fun | 225 |
 | This game is Highly Recommended | 223 |
-| This game is Educational | 220 |
+| This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
 | This game has Amazing Characters | 203 |
 | This game has Quickly Understood Controls | 198 |
@@ -852,4 +852,4 @@ Diff (max vs sum): 64
 | 2024-01-13 | 4.65 | - | 230 | 1,927 |
 | 2024-01-14 | 4.65 | - | 230 | 1,931 |
 | 2024-01-16 | 4.65 | - | 230 | 1,933 |
-| 2024-01-17 | 4.65 | - | 230 | 1,935 |
+| 2024-01-17 | 4.65 | - | 230 | 1,936 |

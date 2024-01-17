@@ -5,18 +5,18 @@ Rating: 3.84 (Ranked 1,084)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~419,592 |
-| Handy | 42.00% | ~231,880 |
-| Cold Caller | 40.00% | ~220,838 |
-| A Bit On The Side | 27.00% | ~149,066 |
-| Backdoor | 26.00% | ~143,545 |
-| Rank Amateur | 22.00% | ~121,461 |
-| Three Way | 19.00% | ~104,898 |
-| Deadly Assassin | 16.00% | ~88,335 |
-| Gutshot | 14.00% | ~77,293 |
-| Risk It For A Biscuit | 14.00% | ~77,293 |
-| Showoff | 13.00% | ~71,772 |
-| W.H.I.P. | 12.00% | ~66,251 |
+| Pro Creation | 76.00% | ~419,598 |
+| Handy | 42.00% | ~231,883 |
+| Cold Caller | 40.00% | ~220,841 |
+| A Bit On The Side | 27.00% | ~149,068 |
+| Backdoor | 26.00% | ~143,547 |
+| Rank Amateur | 22.00% | ~121,463 |
+| Three Way | 19.00% | ~104,900 |
+| Deadly Assassin | 16.00% | ~88,336 |
+| Gutshot | 14.00% | ~77,294 |
+| Risk It For A Biscuit | 14.00% | ~77,294 |
+| Showoff | 13.00% | ~71,773 |
+| W.H.I.P. | 12.00% | ~66,252 |
 | Bet Bet Bet | 10.00% | ~55,210 |
 | Blindman's Bluff | 9.00% | ~49,689 |
 | Poker Joker | 9.00% | ~49,689 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,084)
 | Rounder | 0.10% | ~552 |
 | Top Dog | 0.10% | ~552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 552,095 (Ranked 35)  
+Progressed: 552,103 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 2 (0.00%) (Ranked 404)
 | 2024-01-14 | 551,527 | 2 |
 | 2024-01-15 | 551,741 | 2 |
 | 2024-01-16 | 551,926 | 2 |
-| 2024-01-17 | 552,095 | 2 |
+| 2024-01-17 | 552,103 | 2 |
 ## Awards
 Max (Great for Beginners): 69  (Ranked 422)  
 Sum: 213 (Ranked 414)  

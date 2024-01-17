@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 379,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -915,9 +915,9 @@
       "ID": "EpicACHV_16",
       "SetID": "acn799d",
       "Name": "Genius",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "EpicACHV_17",
@@ -987,9 +987,9 @@
       "ID": "EpicACHV_9",
       "SetID": "acn799d",
       "Name": "Deer-hunting",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     }
   ],
   "AchievementSets": [
@@ -1002,8 +1002,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:09:30.6913837+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:09:17.523744+00:00",
   "LastUpdate_AppInfo": "2024-01-17T15:57:29.503385+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:58:23.4623348+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:09:30.6914014+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:58:13.5253408+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:09:17.5237623+00:00"
 }

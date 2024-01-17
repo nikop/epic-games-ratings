@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~519 |
+| Such a strange dream… | 88.00% | ~520 |
 | Your first fight | 84.00% | ~496 |
-| Good Person Chip | 82.00% | ~484 |
-| First winning | 79.00% | ~466 |
-| Your first job | 78.00% | ~460 |
-| Depressed visitor | 72.00% | ~425 |
-| Neurotrainer – power gainer! | 72.00% | ~425 |
-| Old movies enjoyer | 70.00% | ~413 |
-| Fitness professional | 69.00% | ~407 |
-| Employee of the week | 68.00% | ~401 |
+| Good Person Chip | 82.00% | ~485 |
+| First winning | 80.00% | ~473 |
+| Your first job | 79.00% | ~467 |
+| Depressed visitor | 73.00% | ~431 |
+| Neurotrainer – power gainer! | 71.00% | ~420 |
+| Old movies enjoyer | 70.00% | ~414 |
+| Fitness professional | 69.00% | ~408 |
+| Employee of the week | 69.00% | ~408 |
 | Your own amateur gym | 65.00% | ~384 |
 | First defeat | 63.00% | ~372 |
 | Run K, run! | 63.00% | ~372 |
 | Hello, world! | 62.00% | ~366 |
-| Fighting is cool | 61.00% | ~360 |
-| No bullying more | 61.00% | ~360 |
-| Pal of your father? | 59.00% | ~348 |
-| Spirit of the past | 57.00% | ~336 |
-| Employee of the month | 57.00% | ~336 |
-| Law student | 55.00% | ~324 |
+| Fighting is cool | 61.00% | ~361 |
+| No bullying more | 61.00% | ~361 |
+| Pal of your father? | 59.00% | ~349 |
+| Spirit of the past | 57.00% | ~337 |
+| Employee of the month | 57.00% | ~337 |
+| Law student | 55.00% | ~325 |
 | Handyman | 53.00% | ~313 |
 | Workout professional | 52.00% | ~307 |
 | Fight for life | 52.00% | ~307 |
@@ -32,19 +32,19 @@
 | It's good to be alive | 52.00% | ~307 |
 | Own four walls | 51.00% | ~301 |
 | Intriguing candies | 51.00% | ~301 |
-| Employee of the year | 51.00% | ~301 |
-| Legal courier | 47.00% | ~277 |
-| Extreme neuropower! | 47.00% | ~277 |
+| Employee of the year | 50.00% | ~296 |
+| Legal courier | 47.00% | ~278 |
+| Extreme neuropower! | 47.00% | ~278 |
 | Escaped from a big trouble | 44.00% | ~260 |
 | Now you are worthy | 40.00% | ~236 |
 | Fight is life | 40.00% | ~236 |
 | Mysterious voice | 39.00% | ~230 |
 | Guiding on the right path | 39.00% | ~230 |
-| Champion – no way back | 36.00% | ~212 |
-| No blades in the gym | 36.00% | ~212 |
-| Responsible approach | 36.00% | ~212 |
-| GYM professional | 35.00% | ~206 |
-| Underground dwellers | 35.00% | ~206 |
+| No blades in the gym | 37.00% | ~219 |
+| Champion – no way back | 36.00% | ~213 |
+| Responsible approach | 36.00% | ~213 |
+| GYM professional | 35.00% | ~207 |
+| Underground dwellers | 35.00% | ~207 |
 | Deal with life | 34.00% | ~201 |
 | Mom got better | 33.00% | ~195 |
 | The die is cast | 33.00% | ~195 |
@@ -57,22 +57,22 @@
 | Absolute Champion! | 29.00% | ~171 |
 | Another world | 28.00% | ~165 |
 | Not little hacker | 28.00% | ~165 |
-| Trap disarmed | 27.00% | ~159 |
-| The lonesome road | 27.00% | ~159 |
-| Keep nature safe | 27.00% | ~159 |
-| Family comes first | 27.00% | ~159 |
-| Key memories | 27.00% | ~159 |
-| Careerist | 27.00% | ~159 |
-| The heart of the Resistance | 27.00% | ~159 |
-| The last bell ring | 26.00% | ~153 |
-| Anyone can resist | 26.00% | ~153 |
+| Trap disarmed | 27.00% | ~160 |
+| The lonesome road | 27.00% | ~160 |
+| Keep nature safe | 27.00% | ~160 |
+| Family comes first | 27.00% | ~160 |
+| Key memories | 27.00% | ~160 |
+| Careerist | 27.00% | ~160 |
+| The heart of the Resistance | 27.00% | ~160 |
+| The last bell ring | 26.00% | ~154 |
+| Anyone can resist | 26.00% | ~154 |
 | Better cooking at home | 25.00% | ~148 |
 | The only right decision | 25.00% | ~148 |
 | Your own way | 25.00% | ~148 |
 | Silver’s past | 24.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 590 (Ranked 345)  
-Completed: 9 (1.53%) (Ranked 151)  
+Progressed: 591 (Ranked 345)  
+Completed: 9 (1.52%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,4 +198,4 @@ Completed: 9 (1.53%) (Ranked 151)
 | 2024-01-14 | 584 | 9 |
 | 2024-01-15 | 587 | 9 |
 | 2024-01-16 | 588 | 9 |
-| 2024-01-17 | 590 | 9 |
+| 2024-01-17 | 591 | 9 |

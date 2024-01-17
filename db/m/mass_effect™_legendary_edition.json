@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4442,
+  "EOS_Progressed": 4443,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8473,6 +8473,11 @@
       "Time": "2024-01-17T18:10:55.1765946+00:00",
       "NumProgressed": 4442,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-17T20:10:22.1125669+00:00",
+      "NumProgressed": 4443,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8549,7 +8554,7 @@
       "Name": "Pyromaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "achievement_107",
@@ -8707,9 +8712,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2355
     },
     {
       "ID": "achievement_125",
@@ -8725,7 +8730,7 @@
       "Name": "Veteran",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "achievement_127",
@@ -8797,7 +8802,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "achievement_20",
@@ -8805,7 +8810,7 @@
       "Name": "Completionist",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_21",
@@ -8821,7 +8826,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "achievement_23",
@@ -8851,9 +8856,9 @@
       "ID": "achievement_26",
       "SetID": "b9pe172",
       "Name": "Krogan Ally",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1333
     },
     {
       "ID": "achievement_27",
@@ -8877,7 +8882,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "achievement_3",
@@ -8885,7 +8890,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 3998
+      "UsersEstimate": 3999
     },
     {
       "ID": "achievement_30",
@@ -8917,7 +8922,7 @@
       "Name": "Search and Rescue",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "achievement_34",
@@ -8925,7 +8930,7 @@
       "Name": "Colonial Savior",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "achievement_35",
@@ -8933,7 +8938,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 125,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_36",
@@ -8949,7 +8954,7 @@
       "Name": "Very Elusive",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "achievement_38",
@@ -8981,7 +8986,7 @@
       "Name": "Suicide Mission",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_41",
@@ -8989,7 +8994,7 @@
       "Name": "Against All Odds",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_42",
@@ -9005,7 +9010,7 @@
       "Name": "Friend or Foe",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_44",
@@ -9029,7 +9034,7 @@
       "Name": "The Convict",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "achievement_47",
@@ -9061,7 +9066,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "achievement_50",
@@ -9093,7 +9098,7 @@
       "Name": "Cat\u0027s in the Cradle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_54",
@@ -9109,7 +9114,7 @@
       "Name": "Doppelganger",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_56",
@@ -9221,7 +9226,7 @@
       "Name": "Agent",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_69",
@@ -9253,7 +9258,7 @@
       "Name": "Scientist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "achievement_72",
@@ -9277,7 +9282,7 @@
       "Name": "Power Full",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "achievement_75",
@@ -9293,7 +9298,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "achievement_77",
@@ -9317,7 +9322,7 @@
       "Name": "Driven",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "achievement_8",
@@ -9341,7 +9346,7 @@
       "Name": "Mobilizer",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_82",
@@ -9500,19 +9505,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4442,
+      "Progressed": 4443,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4442,
+      "Progressed": 4443,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:39.4790552+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:10:22.1125666+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:03:34.5469209+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:39.479263+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:03:24.9025781+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:10:22.1127295+00:00"
 }

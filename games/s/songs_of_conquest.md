@@ -15,8 +15,8 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 10.00% | ~122 |
 | Multi Kill | 9.00% | ~110 |
 | Sorcerous Spree | 9.00% | ~110 |
+| Master | 8.00% | ~97 |
 | Landlord Extraordinaire | 7.00% | ~85 |
-| Master | 7.00% | ~85 |
 | The Song of Stoutheart | 6.00% | ~73 |
 | Whoops! | 6.00% | ~73 |
 | Don't Touch My Stuff | 6.00% | ~73 |

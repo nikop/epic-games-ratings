@@ -2,12 +2,12 @@
   "ID": "c0c1086e89f84494ba1c1da9c9500280",
   "Name": "Franchise Hockey Manager 8",
   "ProductSlug": "franchise-hockey-manager-8",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-11-03T15:00:00+00:00",
@@ -63,6 +63,6 @@
   "FirstSeenRating": "2023-03-31T05:57:41.6110243+00:00",
   "LastChanged": "2023-07-03T19:59:31.3544612+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:16.3420368+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:59:25.2257232+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:09:58.6138276+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:59:10.1114837+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:09:43.2396458+00:00"
 }

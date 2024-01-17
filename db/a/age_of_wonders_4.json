@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 355,
-  "Ranking_Popularity": 485,
+  "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -721,18 +721,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 239,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-01-17T19:57:52.0449911+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 240,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 239,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 240,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Diverse Characters",
@@ -783,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7265,
+  "EOS_Progressed": 7267,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11328,6 +11334,11 @@
       "Time": "2024-01-17T16:08:40.993151+00:00",
       "NumProgressed": 7265,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T20:06:21.6940339+00:00",
+      "NumProgressed": 7267,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11451,7 +11462,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "23",
@@ -11499,7 +11510,7 @@
       "Name": "From Friends to Family",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "29",
@@ -11531,7 +11542,7 @@
       "Name": "Magical Synergy",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "32",
@@ -11818,22 +11829,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7265,
+      "Progressed": 7267,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7265,
+      "Progressed": 7267,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-16T11:57:01.1215381+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:08:16.8442827+00:00",
+  "LastChanged": "2024-01-17T19:57:52.044991+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:06:21.6940334+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:57:59.6845235+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:08:16.8443961+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:57:52.0449916+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:06:21.6941263+00:00"
 }

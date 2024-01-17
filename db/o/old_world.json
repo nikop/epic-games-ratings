@@ -2236,10 +2236,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1935,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-17T20:02:50.9221951+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1936,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1935,
+  "NumberOfAwards": 1936,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2265,7 +2271,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 220
+      "Count": 221
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2316,9 +2322,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16948,
+  "EOS_Progressed": 16950,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20341,6 +20347,11 @@
       "Time": "2024-01-17T18:10:57.2889988+00:00",
       "NumProgressed": 16948,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T20:10:24.0899818+00:00",
+      "NumProgressed": 16950,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20432,7 +20443,7 @@
       "Name": "Hanging Gardens in Babylon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_BABYLON_ISHTAR_GATE",
@@ -20720,7 +20731,7 @@
       "Name": "Beloved",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_BRAVE",
@@ -20832,7 +20843,7 @@
       "Name": "Intercessor",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTREPID",
@@ -20912,7 +20923,7 @@
       "Name": "Mighty",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_NOBLE",
@@ -20976,7 +20987,7 @@
       "Name": "Settler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -21000,7 +21011,7 @@
       "Name": "Valiant",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VICTORIOUS",
@@ -21056,7 +21067,7 @@
       "Name": "Legendary Cities",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
@@ -21102,9 +21113,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_GOOD",
       "SetID": "7l38kb8",
       "Name": "Good Difficulty",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_GREAT",
@@ -21120,7 +21131,7 @@
       "Name": "Just Difficulty",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -21184,7 +21195,7 @@
       "Name": "Artisans",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CHAMPIONS",
@@ -21192,7 +21203,7 @@
       "Name": "Champions",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
@@ -21240,7 +21251,7 @@
       "Name": "Sages",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
@@ -21672,7 +21683,7 @@
       "Name": "Acropolis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -21696,7 +21707,7 @@
       "Name": "Colossus",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_GREAT_ZIGGURAT",
@@ -21736,7 +21747,7 @@
       "Name": "Temple of Solomon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
@@ -21776,7 +21787,7 @@
       "Name": "Mausoleum",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -21888,7 +21899,7 @@
       "Name": "Learn to Play 3",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
@@ -21966,9 +21977,9 @@
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
       "SetID": "7l38kb8",
       "Name": "Carthage",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -21984,7 +21995,7 @@
       "Name": "Greece",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_NATION_HITTITE",
@@ -22104,7 +22115,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -22112,7 +22123,7 @@
       "Name": "Power to the People",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_PUNIC_WARS",
@@ -22200,7 +22211,7 @@
       "Name": "Persian Paganism",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ROME",
@@ -22256,7 +22267,7 @@
       "Name": "Building Wonders",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_STAT_TEN_CITIES_CAPTURED",
@@ -22344,7 +22355,7 @@
       "Name": "Mythology",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -22520,7 +22531,7 @@
       "Name": "Points Victory",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_RANDOMIZE_FAMILIES",
@@ -22624,7 +22635,7 @@
       "Name": "Win a Single Player Game",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
@@ -23215,21 +23226,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16948,
+      "Progressed": 16950,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16948,
+      "Progressed": 16950,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-17T02:27:25.2024436+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:41.6709694+00:00",
+  "LastChanged": "2024-01-17T20:02:50.9221949+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:10:24.0899811+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:02:56.9449052+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:41.6719971+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:02:50.9221955+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:10:24.0909199+00:00"
 }

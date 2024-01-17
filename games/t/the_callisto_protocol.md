@@ -5,9 +5,9 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 28.00% | ~6,301 |
-| Flesh Wound | 27.00% | ~6,076 |
-| Desperate Times | 26.00% | ~5,851 |
+| The Outer Way | 28.00% | ~6,302 |
+| Flesh Wound | 27.00% | ~6,077 |
+| Desperate Times | 26.00% | ~5,852 |
 | Paper Jams | 24.00% | ~5,401 |
 | Get a Grip | 23.00% | ~5,176 |
 | Chew 'Em Up | 22.00% | ~4,951 |
@@ -19,14 +19,14 @@ Rating: 4.22 (Ranked 955)
 | Two Heads Are Better Than One | 13.00% | ~2,926 |
 | In the Pipe, Five by Five | 13.00% | ~2,926 |
 | Crash Site | 13.00% | ~2,926 |
-| Power Up | 12.00% | ~2,700 |
-| Giving Back | 11.00% | ~2,475 |
-| Terminated | 11.00% | ~2,475 |
-| What Lies Beneath | 11.00% | ~2,475 |
-| Full Circle | 11.00% | ~2,475 |
-| You Need a Gun | 10.00% | ~2,250 |
+| Power Up | 12.00% | ~2,701 |
+| Giving Back | 11.00% | ~2,476 |
+| Terminated | 11.00% | ~2,476 |
+| What Lies Beneath | 11.00% | ~2,476 |
+| Full Circle | 11.00% | ~2,476 |
+| You Need a Gun | 10.00% | ~2,251 |
 | I Do Belong Here | 8.00% | ~1,800 |
-| Keep Fighting | 8.00% | ~834 |
+| Keep Fighting | 8.00% | ~835 |
 | The Commonality | 6.00% | ~1,350 |
 | It's Time | 6.00% | ~626 |
 | In Striking Distance | 5.00% | ~1,125 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 955)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,504 (Ranked 151)  
+Progressed: 22,506 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 82 (0.36%) (Ranked 250)
 | 2024-01-14 | 22,380 | 82 |
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
-| 2024-01-17 | 22,504 | 82 |
+| 2024-01-17 | 22,506 | 82 |
 ## Awards
 Max (Amazing Characters): 136  (Ranked 345)  
 Sum: 659 (Ranked 318)  

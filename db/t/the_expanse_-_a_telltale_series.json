@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19111,
+  "EOS_Progressed": 19112,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17649,6 +17649,11 @@
       "Time": "2024-01-17T19:06:29.0762097+00:00",
       "NumProgressed": 19111,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T20:06:06.2869302+00:00",
+      "NumProgressed": 19112,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17765,7 +17770,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2484
+      "UsersEstimate": 2485
     },
     {
       "ID": "22",
@@ -17909,7 +17914,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "33",
@@ -17940,22 +17945,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19111,
+      "Progressed": 19112,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5065,
-      "Completed": 1335
+      "Progressed": 5066,
+      "Completed": 1336
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:06:29.076209+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:06:06.2869299+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:00:05.1634264+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:06:29.076324+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:59:45.6163332+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:06:06.2870403+00:00"
 }

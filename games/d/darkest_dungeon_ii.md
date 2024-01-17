@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,111 |
-| Lost and Found | 9.00% | ~714 |
-| Autodidact | 8.00% | ~10,645 |
+| Malpractice Assurance | 14.00% | ~1,112 |
+| Lost and Found | 9.00% | ~715 |
+| Autodidact | 8.00% | ~10,646 |
 | This Belongs in a Museum | 7.00% | ~9,315 |
 | Overdue Notice | 7.00% | ~9,315 |
 | This guy... again? | 7.00% | ~556 |
@@ -21,16 +21,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,984 |
 | Ploughshares to Swords | 6.00% | ~476 |
 | Bloody Graduation | 6.00% | ~476 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,653 |
-| It Rings a Bell | 5.00% | ~6,653 |
-| Not Today! | 5.00% | ~6,653 |
-| It Happens | 5.00% | ~6,653 |
-| Merry Time | 5.00% | ~6,653 |
-| Harvest Festival | 5.00% | ~6,653 |
-| Whale | 5.00% | ~6,653 |
-| A Place to Lay Your Head | 5.00% | ~6,653 |
-| FNG | 5.00% | ~6,653 |
-| Nope | 5.00% | ~6,653 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,654 |
+| It Rings a Bell | 5.00% | ~6,654 |
+| Not Today! | 5.00% | ~6,654 |
+| It Happens | 5.00% | ~6,654 |
+| Merry Time | 5.00% | ~6,654 |
+| Harvest Festival | 5.00% | ~6,654 |
+| Whale | 5.00% | ~6,654 |
+| A Place to Lay Your Head | 5.00% | ~6,654 |
+| FNG | 5.00% | ~6,654 |
+| Nope | 5.00% | ~6,654 |
 | Friends 'Til the End | 5.00% | ~397 |
 | Resurrection | 4.00% | ~5,323 |
 | Unleash Hell | 4.00% | ~5,323 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,068 (Ranked 92)  
+Progressed: 133,071 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,15 +348,15 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,068 | 5 |
+| 2024-01-17 | 133,071 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 52)  
-Sum: 21,699 (Ranked 58)  
+Sum: 21,702 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,031 |
-| This game has Diverse Characters | 1,866 |
+| This game has Diverse Characters | 1,869 |
 | This game has Challenging Combat | 1,681 |
 | This game is Highly Recommended | 1,609 |
 | This game has Amazing Characters | 1,536 |
@@ -724,4 +724,4 @@ Diff (max vs sum): -6
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
-| 2024-01-17 | 4.69 | - | 8,031 | 21,699 |
+| 2024-01-17 | 4.69 | - | 8,031 | 21,702 |

@@ -1,17 +1,17 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.60 (Ranked 425)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,430 |
+| Wakey Wakey | 34.00% | ~1,431 |
 | Sputnik 2049 | 30.00% | ~1,262 |
 | Infinite Growth... | 29.00% | ~1,220 |
 | Without Breaking Some Eggs... | 27.00% | ~1,136 |
-| Space Society | 20.00% | ~841 |
-| A Thousand Strong | 20.00% | ~841 |
-| Ready for a New World | 20.00% | ~841 |
+| Space Society | 20.00% | ~842 |
+| A Thousand Strong | 20.00% | ~842 |
+| Ready for a New World | 20.00% | ~842 |
 | Permanent Redesigns | 17.00% | ~715 |
 | Fully Recycled | 16.00% | ~673 |
 | The Ship of Theseus | 16.00% | ~673 |
@@ -27,9 +27,9 @@ Rating: 4.59 (Ranked 452)
 | Sightseeing | 8.00% | ~337 |
 | Necessary Enhancement | 8.00% | ~337 |
 | Convenient Transport | 8.00% | ~337 |
-| Access Granted | 7.00% | ~294 |
-| Drill-dozer | 7.00% | ~294 |
-| From the Past | 7.00% | ~294 |
+| Access Granted | 7.00% | ~295 |
+| Drill-dozer | 7.00% | ~295 |
+| From the Past | 7.00% | ~295 |
 | Oats | 6.00% | ~252 |
 | All in Good Health | 6.00% | ~252 |
 | What They Hide From Us | 5.00% | ~210 |
@@ -63,7 +63,7 @@ Rating: 4.59 (Ranked 452)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,207 (Ranked 215)  
+Progressed: 4,208 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 4,196 | 0 |
 | 2024-01-15 | 4,202 | 0 |
 | 2024-01-16 | 4,203 | 0 |
-| 2024-01-17 | 4,207 | 0 |
+| 2024-01-17 | 4,208 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -390,3 +390,4 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-08 | 4.59 | 0 | 0 |
 | 2024-01-10 | 4.58 | 0 | 0 |
 | 2024-01-11 | 4.59 | 0 | 0 |
+| 2024-01-17 | 4.60 | 0 | 0 |

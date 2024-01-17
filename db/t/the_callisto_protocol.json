@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2279,9 +2279,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22504,
+  "EOS_Progressed": 22506,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 483,
+  "EOS_NewPlayers": 473,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14244,6 +14244,11 @@
       "Time": "2024-01-17T19:10:11.1934413+00:00",
       "NumProgressed": 22504,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T20:09:54.8802241+00:00",
+      "NumProgressed": 22506,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14271,7 +14276,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14279,7 +14284,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2250
+      "UsersEstimate": 2251
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14287,7 +14292,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6077
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14391,7 +14396,7 @@
       "Name": "Terminated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14447,7 +14452,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6301
+      "UsersEstimate": 6302
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14479,7 +14484,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14487,7 +14492,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5851
+      "UsersEstimate": 5852
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14503,7 +14508,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2475
+      "UsersEstimate": 2476
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14511,7 +14516,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "DISMEMBER_100",
@@ -14607,7 +14612,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14630,13 +14635,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22504,
+      "Progressed": 22506,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10430,
+      "Progressed": 10432,
       "Completed": 29
     }
   ],
@@ -14644,8 +14649,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T19:03:33.3283916+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:10:11.1934409+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:09:54.8802236+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:03:33.328392+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:10:11.1935342+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:03:23.8284675+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:09:54.8803152+00:00"
 }

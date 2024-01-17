@@ -4,10 +4,10 @@
   "ProductSlug": "realm-royale-reforged",
   "Ranking_Rating": 884,
   "Ranking_Popularity": 327,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-11-29T12:00:00+00:00",
@@ -2516,10 +2516,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 1410,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-01-17T20:00:29.7749806+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1411,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1410,
+  "NumberOfAwards": 1411,
   "NumberOfAwardsMax": 167,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2539,7 +2545,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 133
+      "Count": 134
     },
     {
       "Text": "This game is Relaxing",
@@ -2608,8 +2614,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2024-01-16T18:01:20.1326765+00:00",
+  "LastChanged": "2024-01-17T20:00:29.7749804+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4445776+00:00",
-  "LastUpdate_Ratings": "2024-01-17T19:00:53.1311164+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:06:20.1476467+00:00"
+  "LastUpdate_Ratings": "2024-01-17T20:00:29.7749809+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:05:57.8922017+00:00"
 }

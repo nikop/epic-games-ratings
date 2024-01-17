@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Star Power | 85.00% | ~842 |
-| From Way Downtown | 55.00% | ~544 |
+| Star Power | 84.00% | ~832 |
+| From Way Downtown | 55.00% | ~545 |
 | Makin' the Cut | 53.00% | ~525 |
 | Clean Sheet | 51.00% | ~505 |
 | Winner's Circle | 44.00% | ~436 |
@@ -23,7 +23,7 @@
 | Golfer Versus Golfer | 10.00% | ~99 |
 | Victory Lap | 6.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 990 (Ranked 298)  
+Progressed: 991 (Ranked 298)  
 Completed: 10 (1.01%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,4 +144,4 @@ Completed: 10 (1.01%) (Ranked 181)
 | 2024-01-12 | 972 | 10 |
 | 2024-01-13 | 979 | 10 |
 | 2024-01-14 | 987 | 10 |
-| 2024-01-17 | 990 | 10 |
+| 2024-01-17 | 991 | 10 |

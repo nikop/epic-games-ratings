@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22396,
+  "EOS_Progressed": 22402,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1119,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8412,6 +8412,11 @@
       "Time": "2024-01-17T19:04:59.0570732+00:00",
       "NumProgressed": 22396,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2024-01-17T20:04:43.8636902+00:00",
+      "NumProgressed": 22402,
+      "NumCompleted": 114
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8438,9 +8443,9 @@
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
       "SetID": "24fdn9j",
       "Name": "Good Listener",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 157
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -8472,7 +8477,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2912
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8503,7 +8508,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22396,
+      "Progressed": 22402,
       "Completed": 114
     }
   ],
@@ -8511,8 +8516,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-17T19:04:59.0570729+00:00",
+  "LastChanged_Achievements": "2024-01-17T20:04:43.8636897+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-17T18:59:19.4442441+00:00",
-  "LastUpdate_Achievements": "2024-01-17T19:04:59.0571442+00:00"
+  "LastUpdate_Ratings": "2024-01-17T19:59:05.2775111+00:00",
+  "LastUpdate_Achievements": "2024-01-17T20:04:43.8637486+00:00"
 }

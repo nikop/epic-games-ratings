@@ -7,15 +7,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,687 |
-| Life is your teacher | 5.00% | ~38,072 |
-| Lightning Hands | 5.00% | ~38,072 |
+| Life is your teacher | 5.00% | ~38,073 |
+| Lightning Hands | 5.00% | ~38,073 |
 | The Assault | 4.00% | ~30,458 |
-| The Hateful Pole Fighter | 3.00% | ~22,843 |
-| Stuntmaster | 3.00% | ~22,843 |
-| Street Fighting | 3.00% | ~22,843 |
-| State of constant learning | 3.00% | ~22,843 |
-| Qi Gong: Essence | 3.00% | ~22,843 |
-| Old Child | 3.00% | ~22,843 |
+| The Hateful Pole Fighter | 3.00% | ~22,844 |
+| Stuntmaster | 3.00% | ~22,844 |
+| Street Fighting | 3.00% | ~22,844 |
+| State of constant learning | 3.00% | ~22,844 |
+| Qi Gong: Essence | 3.00% | ~22,844 |
+| Old Child | 3.00% | ~22,844 |
 | A Lady's Blood in the Snow | 2.00% | ~15,229 |
 | Lady Wing Chun | 2.00% | ~15,229 |
 | Furious Fists | 2.00% | ~15,229 |
@@ -26,11 +26,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,229 |
 | Take damage to save time | 2.00% | ~15,229 |
 | Diligence as a goal | 2.00% | ~1,415 |
-| Scareless | 1.00% | ~7,614 |
-| Dance of the Praying Mantis | 1.00% | ~7,614 |
-| Qi Gong: Mind | 1.00% | ~7,614 |
-| Kung-Fu Tussle | 1.00% | ~7,614 |
-| Project Arena | 1.00% | ~707 |
+| Scareless | 1.00% | ~7,615 |
+| Dance of the Praying Mantis | 1.00% | ~7,615 |
+| Qi Gong: Mind | 1.00% | ~7,615 |
+| Kung-Fu Tussle | 1.00% | ~7,615 |
+| Project Arena | 1.00% | ~708 |
 | Muk Yan Master | 0.80% | ~6,092 |
 | Fight the way you practice | 0.80% | ~566 |
 | Tiger on Fire | 0.70% | ~5,330 |
@@ -40,7 +40,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.60% | ~4,569 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,569 |
 | Sword Stained With Blood | 0.60% | ~4,569 |
-| Bloody Sport | 0.60% | ~424 |
+| Bloody Sport | 0.60% | ~425 |
 | Prodigal Child | 0.50% | ~3,807 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,807 |
 | The best strikes are the ones we avoid | 0.50% | ~354 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Touch of Acumen | 0.30% | ~212 |
 | Healing Memory | 0.20% | ~1,523 |
 | Master of the Phoenix Eye Fist | 0.20% | ~1,523 |
-| Secure, Protect, Leave | 0.20% | ~141 |
-| Crouching Tiger | 0.20% | ~141 |
-| Skill and an even stronger will | 0.20% | ~141 |
-| Master of the Flying Assassins | 0.20% | ~141 |
-| Beatmaker | 0.20% | ~141 |
+| Secure, Protect, Leave | 0.20% | ~142 |
+| Crouching Tiger | 0.20% | ~142 |
+| Skill and an even stronger will | 0.20% | ~142 |
+| Master of the Flying Assassins | 0.20% | ~142 |
+| Beatmaker | 0.20% | ~142 |
 | Warriors from the Mountain | 0.10% | ~761 |
 | Hidden Dragon | 0.10% | ~71 |
 | Here Cometh the Iceman | 0.10% | ~71 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,447 (Ranked 26)  
+Progressed: 761,456 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,447 | 12,990 |
+| 2024-01-17 | 761,456 | 12,990 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
 Sum: 12,778 (Ranked 87)  
