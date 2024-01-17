@@ -37,7 +37,7 @@
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
 | 36 | [Remains](games/r/remains.md) | 12.70% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.50% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.09% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.10% |
@@ -121,7 +121,7 @@
 | 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 120 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.64% |
-| 122 | [The Complex](games/t/the_complex.md) | 2.60% |
+| 122 | [The Complex](games/t/the_complex.md) | 2.59% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.53% |
@@ -145,7 +145,7 @@
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
+| 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.76% |
 | 148 | [Sifu](games/s/sifu.md) | 1.71% |
 | 149 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
@@ -835,4 +835,4 @@
 | 404 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 404 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 404 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,850 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,851 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
