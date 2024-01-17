@@ -2,10 +2,10 @@
   "ID": "ab65f37619d340748fafdccfead657f1",
   "Name": "Ocean\u0027s Heart",
   "ProductSlug": "oceans-heart-2583e3",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-01-21T18:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T13:08:12.3687374+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:04:17.7608175+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:04:51.2725851+00:00",
   "LastUpdate_AppInfo": "2024-01-10T17:57:06.3393495+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:59:10.5004943+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:04:17.7608208+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:59:34.1271105+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:04:51.2725887+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17299,
+  "EOS_Progressed": 17301,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12499,6 +12499,11 @@
       "Time": "2024-01-17T07:06:08.2889151+00:00",
       "NumProgressed": 17299,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T08:06:41.0229737+00:00",
+      "NumProgressed": 17301,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12510,7 +12515,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9514
+      "UsersEstimate": 9516
     },
     {
       "ID": "Ach002",
@@ -12686,7 +12691,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9687
+      "UsersEstimate": 9689
     },
     {
       "ID": "Ach024",
@@ -12822,7 +12827,7 @@
       "Name": "Now this is how you fight like a team!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Ach041",
@@ -13077,13 +13082,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17299,
+      "Progressed": 17301,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15820,
+      "Progressed": 15822,
       "Completed": 1931
     }
   ],
@@ -13091,8 +13096,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:06:08.2889145+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:06:41.0229733+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:02:41.21835+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:06:08.2890226+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:09.3656143+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:06:41.0230972+00:00"
 }

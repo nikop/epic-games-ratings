@@ -2,10 +2,10 @@
   "ID": "db3afc34867d406eac98a5372fe8d02e",
   "Name": "Millennium Conflict",
   "ProductSlug": "millennium-conflict-386aa3",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.1183378+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:57:07.5005187+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:04:34.3341288+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:57:29.3581169+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:05:07.808805+00:00"
 }

@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1059,
+  "EOS_Progressed": 1061,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
@@ -2918,6 +2918,11 @@
       "Time": "2024-01-17T07:08:36.1994849+00:00",
       "NumProgressed": 1059,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-17T08:08:56.4910203+00:00",
+      "NumProgressed": 1061,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -2970,7 +2975,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -3010,7 +3015,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3048,9 +3053,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3130,7 +3135,7 @@
       "Name": "Sock Getter",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -3154,7 +3159,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -3185,15 +3190,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1059,
+      "Progressed": 1061,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:08:36.1994845+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:08:56.4910196+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:57:20.7777428+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:36.1995389+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:57:43.0598372+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:08:56.4910676+00:00"
 }

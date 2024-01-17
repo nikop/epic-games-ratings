@@ -2,10 +2,10 @@
   "ID": "2f903cb0807545078d2c65248e75afb3",
   "Name": "Maritime hegemony",
   "ProductSlug": "maritime-hegemony-f50c6c",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T08:57:05.306638+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:02:49.1011317+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:09:00.147347+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:17.3252164+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:09:20.4435353+00:00"
 }

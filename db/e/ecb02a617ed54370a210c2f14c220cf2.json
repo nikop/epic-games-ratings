@@ -2,10 +2,10 @@
   "ID": "ecb02a617ed54370a210c2f14c220cf2",
   "Name": "Bridge Constructor Playground",
   "ProductSlug": "bridge-constructor-playground-eade24",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-08T16:00:00+00:00",
     "PcReleaseDate": "2014-07-01T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-20T03:59:39.7393226+00:00",
   "LastUpdate_AppInfo": "2024-01-12T21:56:58.8058284+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:59:12.7906519+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:55.1978646+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:59:37.6237719+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:09:15.5907957+00:00"
 }

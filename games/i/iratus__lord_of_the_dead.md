@@ -6,19 +6,19 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~42,101 |
+| Improvement | 85.00% | ~42,102 |
 | Blood Moon | 73.00% | ~36,158 |
-| Path of the Necromancer | 65.00% | ~32,195 |
+| Path of the Necromancer | 65.00% | ~32,196 |
 | Chainbreaker - I | 60.00% | ~29,719 |
 | Cursed Creature | 57.00% | ~28,233 |
 | Extraction | 57.00% | ~28,233 |
 | Chainbreaker - II | 54.00% | ~26,747 |
 | Necromancer's Apprentice | 50.00% | ~24,766 |
 | Keeper of Keys | 47.00% | ~23,280 |
-| Distillation | 43.00% | ~21,298 |
+| Distillation | 43.00% | ~21,299 |
 | Transmutation | 42.00% | ~20,803 |
 | Mountain King - I | 41.00% | ~20,308 |
-| Prepared Necromancer | 40.00% | ~19,812 |
+| Prepared Necromancer | 40.00% | ~19,813 |
 | Mountain King - II | 39.00% | ~19,317 |
 | Blind Rage | 38.00% | ~18,822 |
 | Mad Genius | 35.00% | ~17,336 |
@@ -60,10 +60,10 @@ Number of Ratings: 10,109  (23.09.2022)
 | Monument to Greatness | 9.00% | ~4,458 |
 | Forbidden Knowledge | 9.00% | ~4,458 |
 | Live Operation | 9.00% | ~4,458 |
-| Master of Rage | 8.00% | ~3,962 |
-| Icy Incursion | 8.00% | ~3,962 |
-| Arachnophobia | 8.00% | ~3,962 |
-| Revealed Secrets - III | 8.00% | ~3,962 |
+| Master of Rage | 8.00% | ~3,963 |
+| Icy Incursion | 8.00% | ~3,963 |
+| Arachnophobia | 8.00% | ~3,963 |
+| Revealed Secrets - III | 8.00% | ~3,963 |
 | Nightmare of the Humanity - III | 7.00% | ~3,467 |
 | Means of Recovery | 6.00% | ~2,972 |
 | Master of Magic | 6.00% | ~2,972 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~248 |
 | Renowned Researcher | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49,531 (Ranked 125)  
+Progressed: 49,532 (Ranked 125)  
 Completed: 26 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 26 (0.05%) (Ranked 343)
 | 2024-01-14 | 49,382 | 26 |
 | 2024-01-15 | 49,448 | 26 |
 | 2024-01-16 | 49,507 | 26 |
-| 2024-01-17 | 49,531 | 26 |
+| 2024-01-17 | 49,532 | 26 |
 ## Awards
 Max (Character Customization): 2,167  (Ranked 117)  
 Sum: 4,232 (Ranked 164)  

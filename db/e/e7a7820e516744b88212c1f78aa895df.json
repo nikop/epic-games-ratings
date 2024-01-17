@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 379,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2024-01-17T01:59:32.3549068+00:00",
       "NumProgressed": 377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T08:10:30.9392291+00:00",
+      "NumProgressed": 379,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1662,15 +1667,15 @@
       "Name": "Extra Funding",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "achSponsor10",
       "SetID": "7ji07dj",
       "Name": "Schmoozer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "achSponsor20",
@@ -1805,14 +1810,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 379,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:10:11.477408+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:10:30.9392287+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:23.5284761+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:59:58.2458749+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:11.4774278+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:00:21.7304414+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:30.9392556+00:00"
 }

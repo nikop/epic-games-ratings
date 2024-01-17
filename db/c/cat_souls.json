@@ -2,10 +2,10 @@
   "ID": "d6901217c1ca4c16a5d7fbfd5c0efc3f",
   "Name": "Cat Souls",
   "ProductSlug": "cat-souls-a2555e",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.7467762+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:00:19.88294+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:05:55.8340184+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:00:41.001692+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:06:28.5569317+00:00"
 }

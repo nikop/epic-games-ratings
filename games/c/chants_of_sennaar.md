@@ -16,8 +16,8 @@ Rating: 4.86 (Ranked 33)
 | True G3M4R | 32.00% | ~903 |
 | One last step | 30.00% | ~847 |
 | Cable guy | 29.00% | ~818 |
+| Half the way | 29.00% | ~818 |
 | I did it | 28.00% | ~790 |
-| Half the way | 28.00% | ~790 |
 | In this together | 27.00% | ~762 |
 | Peace walker | 27.00% | ~762 |
 | Rascal | 27.00% | ~762 |

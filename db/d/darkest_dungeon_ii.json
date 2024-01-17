@@ -10876,10 +10876,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21694,
       "NumberOfAwardsMax": 8031
+    },
+    {
+      "Time": "2024-01-17T07:59:32.4109807+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21696,
+      "NumberOfAwardsMax": 8031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21694,
+  "NumberOfAwards": 21696,
   "NumberOfAwardsMax": 8031,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10953,12 +10959,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1098
+      "Count": 1100
     }
   ],
-  "EOS_Progressed": 133033,
+  "EOS_Progressed": 133036,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40236,6 +40242,11 @@
       "Time": "2024-01-17T07:10:18.7776565+00:00",
       "NumProgressed": 133033,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T08:10:38.3069568+00:00",
+      "NumProgressed": 133036,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40375,7 +40386,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40471,7 +40482,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9312
+      "UsersEstimate": 9313
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40783,7 +40794,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "combat_kill_collector",
@@ -40878,21 +40889,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133033,
+      "Progressed": 133036,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7902,
+      "Progressed": 7905,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-17T04:59:05.6305216+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:10:18.7776561+00:00",
+  "LastChanged": "2024-01-17T07:59:32.4109805+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:10:38.3069563+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:59:09.2191395+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:18.7778671+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:59:32.4109811+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:38.3071809+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "6205df00fe61413398cd7eb61f86263f",
   "Name": "Wonhon: A Vengeful Spirit",
   "ProductSlug": "wonhon-a-vengeful-spirit-29e3c1",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-28T16:00:00+00:00",
     "PcReleaseDate": "2021-07-15T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3282173+00:00",
   "LastChanged": "2023-03-31T05:58:42.3282174+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5512347+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:58:17.2419745+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:09:16.7976017+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:58:37.6116459+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:09:37.1159832+00:00"
 }

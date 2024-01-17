@@ -2,10 +2,10 @@
   "ID": "c13296d2098b4582aafc0133fe020734",
   "Name": "Scott Whiskers in: the Search for Mr. Fumbleclaw",
   "ProductSlug": "scott-whiskers-inthe-search-for-mr-fumbleclaw-3fd734",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 764,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-07-31T00:00:00+00:00",
     "PcReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-17T08:08:54.1571814+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-16T15:08:15.58419+00:00",
   "TotalAchievements": 25,
   "TotalAchievementsXP": 1000,
@@ -237,13 +243,13 @@
     {
       "ID": "20j62l8",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-16T08:06:29.3089879+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:08:33.9030902+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:08:54.157181+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:11.6327319+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:02:53.8535536+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:33.9031004+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:23.5218631+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:08:54.1571935+00:00"
 }

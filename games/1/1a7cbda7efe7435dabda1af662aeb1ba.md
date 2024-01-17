@@ -13,18 +13,18 @@
 | Setting Off | 12.00% | ~6 |
 | Bye-Bye, Butcher | 8.00% | ~4 |
 | Equivalent Exchange | 6.00% | ~3 |
+| Danger | 6.00% | ~3 |
 | Rejected Parasite | 4.00% | ~2 |
 | Rebellious Servant | 4.00% | ~2 |
-| Danger | 4.00% | ~2 |
 | Eviction | 4.00% | ~2 |
 | Rabbit Hunter | 4.00% | ~2 |
 | Column Crusher | 2.00% | ~1 |
+| Armor Annihilator | 2.00% | ~1 |
 | A Twist of Fate | 2.00% | ~1 |
 | Strength | 2.00% | ~1 |
 | For Justice | 2.00% | ~1 |
 | Breach of Contract | 2.00% | ~1 |
 | My Turn | 0.00% | ~0 |
-| Armor Annihilator | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |
 | Tower | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |

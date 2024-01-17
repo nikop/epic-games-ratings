@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22479,
+  "EOS_Progressed": 22480,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 541,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14183,6 +14183,11 @@
       "Time": "2024-01-17T07:10:05.1759799+00:00",
       "NumProgressed": 22479,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T08:10:24.9521987+00:00",
+      "NumProgressed": 22480,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14226,7 +14231,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14314,7 +14319,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14338,7 +14343,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3821
+      "UsersEstimate": 3822
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14450,7 +14455,7 @@
       "Name": "Power Up",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "DISMEMBER_100",
@@ -14569,13 +14574,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22479,
+      "Progressed": 22480,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10405,
+      "Progressed": 10406,
       "Completed": 29
     }
   ],
@@ -14583,8 +14588,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:10:05.1759794+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:10:24.9521984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:03:24.4341518+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:05.17608+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:54.0524494+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:24.9522963+00:00"
 }

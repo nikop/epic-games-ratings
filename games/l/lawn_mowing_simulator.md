@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~551,508 |
-| Every story has a beginning | 36.00% | ~251,320 |
-| The first of many | 31.00% | ~216,415 |
-| Positive word of mouth | 18.00% | ~125,660 |
-| Lawn in the U.S.A. | 15.00% | ~104,717 |
-| Blade Runner | 9.00% | ~62,830 |
+| The dream begins | 79.00% | ~551,515 |
+| Every story has a beginning | 36.00% | ~251,323 |
+| The first of many | 31.00% | ~216,417 |
+| Positive word of mouth | 18.00% | ~125,662 |
+| Lawn in the U.S.A. | 15.00% | ~104,718 |
+| Blade Runner | 9.00% | ~62,831 |
 | Credible | 7.00% | ~48,868 |
 | Teamwork makes the dream work | 6.00% | ~41,887 |
-| Where there's muck there's brass | 4.00% | ~27,924 |
-| Bigger and better | 4.00% | ~27,924 |
-| Aggressive expansion | 4.00% | ~27,924 |
-| Size isn't everything | 3.00% | ~20,943 |
-| Close shave | 3.00% | ~20,943 |
-| Established | 3.00% | ~20,943 |
+| Where there's muck there's brass | 4.00% | ~27,925 |
+| Bigger and better | 4.00% | ~27,925 |
+| Aggressive expansion | 4.00% | ~27,925 |
+| Size isn't everything | 3.00% | ~20,944 |
+| Close shave | 3.00% | ~20,944 |
+| Established | 3.00% | ~20,944 |
 | Fighting on all fronts | 2.00% | ~13,962 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,962 |
 | Every good deed… | 2.00% | ~13,962 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~698 |
 | Mo mowers, mo problems | 0.10% | ~698 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,112 (Ranked 29)  
+Progressed: 698,120 (Ranked 29)  
 Completed: 19 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 19 (0.00%) (Ranked 404)
 | 2024-01-14 | 697,452 | 19 |
 | 2024-01-15 | 697,776 | 19 |
 | 2024-01-16 | 698,034 | 19 |
-| 2024-01-17 | 698,112 | 19 |
+| 2024-01-17 | 698,120 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 314)  
 Sum: 992 (Ranked 279)  

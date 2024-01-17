@@ -2,10 +2,10 @@
   "ID": "0757d1c06c08401f9c02b88bcfb47f42",
   "Name": "Expedition: Crushing Depth",
   "ProductSlug": "sh-e9fe5c",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.8184187+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:03:26.2091307+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:04:03.0828289+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:59.3801371+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:04:36.9324825+00:00"
 }

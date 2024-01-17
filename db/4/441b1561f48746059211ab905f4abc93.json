@@ -2,10 +2,10 @@
   "ID": "441b1561f48746059211ab905f4abc93",
   "Name": "Fishing Planet",
   "ProductSlug": "fishing-planet-87df68",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2015-08-11T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:06:07.130409+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:06:39.7415375+00:00",
   "LastUpdate_AppInfo": "2024-01-11T09:56:57.3061028+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:00:04.2753523+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:06:07.1304138+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:00:26.7181002+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:06:39.7415419+00:00"
 }

@@ -109,9 +109,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2360,
+  "EOS_Progressed": 2361,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4694,6 +4694,11 @@
       "Time": "2024-01-17T07:10:24.9458937+00:00",
       "NumProgressed": 2360,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T08:10:44.4964623+00:00",
+      "NumProgressed": 2361,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4705,7 +4710,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "ACH_02",
@@ -4825,7 +4830,7 @@
       "Name": "Essence Blow",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_17",
@@ -4897,7 +4902,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "ACH_26",
@@ -4992,7 +4997,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2360,
+      "Progressed": 2361,
       "Completed": 4
     }
   ],
@@ -5000,8 +5005,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T02:24:22.6712896+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:10:24.9458932+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:10:44.4964617+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:00:01.8681513+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:24.9459371+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:00:24.6232497+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:44.4965178+00:00"
 }

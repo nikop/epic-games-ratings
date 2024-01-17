@@ -2,10 +2,10 @@
   "ID": "0073bdfad01e4888aebd56eb22b3c9ba",
   "Name": "Brasil Fusion",
   "ProductSlug": "brasil-fusion-4a4d95",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-20T23:03:16.9455474+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:08:47.0125426+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:09:07.2488373+00:00",
   "LastUpdate_AppInfo": "2024-01-11T01:46:04.0523037+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:00:19.3156618+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:47.0125446+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:00:40.4893916+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:09:07.2488389+00:00"
 }

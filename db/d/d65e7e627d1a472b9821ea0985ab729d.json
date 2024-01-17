@@ -2,10 +2,10 @@
   "ID": "d65e7e627d1a472b9821ea0985ab729d",
   "Name": "Blood Rush",
   "ProductSlug": "blood-rush-c905c8",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T21:56:57.8706313+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:00:21.1373678+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:28.9120467+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:00:42.2310631+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:08:49.0071748+00:00"
 }

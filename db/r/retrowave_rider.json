@@ -2,10 +2,10 @@
   "ID": "3b10a048a9484f0da0be97d16d16ceca",
   "Name": "Retrowave Rider",
   "ProductSlug": "retrowave-rider-18aaf1",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-18T04:00:00+00:00",
     "PcReleaseDate": "2022-10-18T04:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.7957281+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:03:18.0886988+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:23.6496495+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:47.6016066+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:08:43.8642623+00:00"
 }

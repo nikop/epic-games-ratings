@@ -5,25 +5,25 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,669 |
-| On the Top Step | 83.00% | ~15,204 |
-| Setting up for Success | 69.00% | ~12,639 |
-| Team Orders | 68.00% | ~12,456 |
-| Engineer | 45.00% | ~8,243 |
+| Getting on the Step | 91.00% | ~16,671 |
+| On the Top Step | 83.00% | ~15,206 |
+| Setting up for Success | 69.00% | ~12,641 |
+| Team Orders | 68.00% | ~12,458 |
+| Engineer | 45.00% | ~8,244 |
 | Familiar Faces | 42.00% | ~7,694 |
-| Going the Extra Mile | 36.00% | ~6,594 |
-| Sharing the Love | 33.00% | ~6,045 |
+| Going the Extra Mile | 36.00% | ~6,595 |
+| Sharing the Love | 33.00% | ~6,046 |
 | Hitting a Season | 27.00% | ~4,946 |
 | A Dozen Pieces | 25.00% | ~4,580 |
 | Making History | 25.00% | ~4,580 |
-| Network Success | 23.00% | ~4,213 |
-| Challenge Yourself | 23.00% | ~4,213 |
-| Writing a new Chapter | 19.00% | ~3,480 |
-| Spring Cleaning | 18.00% | ~3,297 |
+| Network Success | 23.00% | ~4,214 |
+| Challenge Yourself | 23.00% | ~4,214 |
+| Writing a new Chapter | 19.00% | ~3,481 |
+| Spring Cleaning | 18.00% | ~3,298 |
 | Reduce | 15.00% | ~2,748 |
 | Ups and Downs | 15.00% | ~2,748 |
-| Crucial Combo | 13.00% | ~2,381 |
-| Proving Them Wrong | 13.00% | ~2,381 |
+| Crucial Combo | 13.00% | ~2,382 |
+| Proving Them Wrong | 13.00% | ~2,382 |
 | Reuse | 12.00% | ~2,198 |
 | Gathering Dust | 11.00% | ~2,015 |
 | Eagle Eye | 10.00% | ~1,832 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,318 (Ranked 163)  
+Progressed: 18,320 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 18,178 | 0 |
 | 2024-01-15 | 18,246 | 0 |
 | 2024-01-16 | 18,312 | 0 |
-| 2024-01-17 | 18,318 | 0 |
+| 2024-01-17 | 18,320 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 448 (Ranked 348)  

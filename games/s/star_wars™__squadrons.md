@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,761 |
-| Safety in the Storm | 23.00% | ~9,626 |
-| A Better Idea | 23.00% | ~9,626 |
-| Begin the Ceremony | 19.00% | ~7,952 |
-| Mission Accomplished | 18.00% | ~7,534 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,278 |
-| A Starfighter of Your Own | 13.00% | ~5,441 |
-| Asset Secured | 12.00% | ~5,022 |
+| Fracture at Fostar Haven | 95.00% | ~39,770 |
+| Safety in the Storm | 23.00% | ~9,628 |
+| A Better Idea | 23.00% | ~9,628 |
+| Begin the Ceremony | 19.00% | ~7,954 |
+| Mission Accomplished | 18.00% | ~7,535 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,279 |
+| A Starfighter of Your Own | 13.00% | ~5,442 |
+| Asset Secured | 12.00% | ~5,024 |
 | Unkillable | 7.00% | ~2,930 |
 | Together, Vanguard | 7.00% | ~2,930 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,511 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,512 |
 | Sound Strategy | 5.00% | ~2,093 |
 | Stomped | 5.00% | ~2,093 |
-| Fearless | 4.00% | ~1,674 |
-| Back From the Brink | 4.00% | ~1,674 |
-| Flames Over Mon Cala | 4.00% | ~1,674 |
-| A Promising Career | 4.00% | ~1,674 |
+| Fearless | 4.00% | ~1,675 |
+| Back From the Brink | 4.00% | ~1,675 |
+| Flames Over Mon Cala | 4.00% | ~1,675 |
+| A Promising Career | 4.00% | ~1,675 |
 | Great Shot, Kid | 3.00% | ~1,256 |
 | Stronger Together | 3.00% | ~1,256 |
 | Temporary Guardian | 3.00% | ~1,256 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~42 |
 | Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,854 (Ranked 135)  
+Progressed: 41,863 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.01%) (Ranked 378)
 | 2024-01-14 | 41,296 | 3 |
 | 2024-01-15 | 41,558 | 3 |
 | 2024-01-16 | 41,777 | 3 |
-| 2024-01-17 | 41,854 | 3 |
+| 2024-01-17 | 41,863 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

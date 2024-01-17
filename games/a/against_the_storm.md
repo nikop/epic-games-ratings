@@ -22,12 +22,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ominous Presence | 6.00% | ~1,250 |
 | Royal Outpost | 5.00% | ~1,042 |
 | Watchtower | 5.00% | ~1,042 |
+| A Real Challenge | 5.00% | ~1,042 |
 | Homesick | 4.00% | ~833 |
 | Ruined Armory | 4.00% | ~833 |
 | Fertile Meadows | 4.00% | ~833 |
 | Levitating Monument | 4.00% | ~833 |
 | Monastery of the Holy Flame | 4.00% | ~833 |
-| A Real Challenge | 4.00% | ~833 |
 | Trade Baron | 4.00% | ~833 |
 | Untamed Wilds | 4.00% | ~833 |
 | Against All Odds | 3.00% | ~625 |

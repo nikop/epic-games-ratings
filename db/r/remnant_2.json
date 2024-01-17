@@ -7221,10 +7221,10 @@
       "Count": 907
     }
   ],
-  "EOS_Progressed": 294895,
+  "EOS_Progressed": 294905,
   "EOS_Completed": 1105,
-  "EOS_NewPlayers": 5831,
-  "EOS_NewCompleters": 153,
+  "EOS_NewPlayers": 5798,
+  "EOS_NewCompleters": 152,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
@@ -28626,6 +28626,11 @@
       "Time": "2024-01-17T07:10:07.76542+00:00",
       "NumProgressed": 294895,
       "NumCompleted": 1105
+    },
+    {
+      "Time": "2024-01-17T08:10:27.3326621+00:00",
+      "NumProgressed": 294905,
+      "NumCompleted": 1105
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -28718,7 +28723,7 @@
       "Name": "The Killing Jar",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35387
+      "UsersEstimate": 35389
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -28822,7 +28827,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35387
+      "UsersEstimate": 35389
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -29046,7 +29051,7 @@
       "Name": "Succession",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "DLC1_Obtain_Archetype",
@@ -29077,22 +29082,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 294895,
+      "Progressed": 294905,
       "Completed": 1105
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 74060,
-      "Completed": 705
+      "Progressed": 74070,
+      "Completed": 706
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2024-01-17T03:03:30.8816849+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:10:07.7654196+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:10:27.3326616+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:23.7445744+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:03:28.7928898+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:07.7655442+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:04:00.7315596+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:27.3328171+00:00"
 }

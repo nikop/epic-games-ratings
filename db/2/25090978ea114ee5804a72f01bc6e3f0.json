@@ -2,10 +2,10 @@
   "ID": "25090978ea114ee5804a72f01bc6e3f0",
   "Name": "Maze - The Amazing Labyrinth",
   "ProductSlug": "maze-the-amazing-labyrinth-291abe",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
     "PcReleaseDate": "2023-02-17T18:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T07:57:01.3075175+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:58:08.3036076+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:08:29.3496879+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:58:29.6316973+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:08:49.5648103+00:00"
 }

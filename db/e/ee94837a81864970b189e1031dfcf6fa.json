@@ -2,10 +2,10 @@
   "ID": "ee94837a81864970b189e1031dfcf6fa",
   "Name": "Expeditions - A MudRunner Game",
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2024-03-05T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-11T16:57:26.8311839+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:59:04.2195623+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:04:32.6182303+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:59:27.2814058+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:05:05.9073057+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "da24c05c2de54589ab26afda363797c3",
   "Name": "Civil War Gettysburg",
   "ProductSlug": "civil-war-gettysburg-a557a0",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-16T15:00:00+00:00",
     "PcReleaseDate": "2017-08-25T11:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-14T11:59:51.1417755+00:00",
   "LastUpdate_AppInfo": "2024-01-11T03:56:55.9544612+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:58:10.8869947+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:05:49.0642959+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:58:31.4722381+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:06:21.9645795+00:00"
 }

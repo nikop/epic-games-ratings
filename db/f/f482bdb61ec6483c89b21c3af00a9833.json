@@ -2,10 +2,10 @@
   "ID": "f482bdb61ec6483c89b21c3af00a9833",
   "Name": "Ascendant Infinity",
   "ProductSlug": "ascendant-16465d",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T13:02:51.4624855+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:57:59.4168345+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:07.0445897+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:58:21.7423503+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:26.5281868+00:00"
 }

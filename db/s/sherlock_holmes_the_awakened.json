@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,11 +181,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1465,
+  "EOS_Progressed": 1466,
   "EOS_Completed": 48,
   "EOS_NewPlayers": 37,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.28,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5251,6 +5251,11 @@
       "Time": "2024-01-17T01:54:48.8153993+00:00",
       "NumProgressed": 1465,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2024-01-17T08:06:06.1335719+00:00",
+      "NumProgressed": 1466,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 28,
@@ -5262,7 +5267,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "MQ01_2",
@@ -5270,7 +5275,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 62,
       "XP": 40,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "MQ02_1",
@@ -5286,7 +5291,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "MQ02_3",
@@ -5294,7 +5299,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "MQ02_4",
@@ -5310,7 +5315,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "MQ03_2",
@@ -5342,7 +5347,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "MQ04_1",
@@ -5350,7 +5355,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "MQ04_2",
@@ -5366,7 +5371,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "MQ05_1",
@@ -5382,7 +5387,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "MQ05_3",
@@ -5430,7 +5435,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "MQ07_1",
@@ -5454,7 +5459,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "MQ08_2",
@@ -5462,7 +5467,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "MQ08_3",
@@ -5485,7 +5490,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1465,
+      "Progressed": 1466,
       "Completed": 48
     }
   ],
@@ -5493,8 +5498,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:05:33.1315137+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:06:06.1335714+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:03:18.4567158+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:05:33.1315921+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:47.9708568+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:06:06.1336206+00:00"
 }

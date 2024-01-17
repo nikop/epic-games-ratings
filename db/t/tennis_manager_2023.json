@@ -2,10 +2,10 @@
   "ID": "eb89b50bbcc549179b290b4617673a61",
   "Name": "Tennis Manager 2023",
   "ProductSlug": "tennis-manager-2023-2ad77d",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-25T13:00:00+00:00",
     "PcReleaseDate": "2023-05-25T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-25T16:59:13.3879402+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.7991164+00:00",
-  "LastUpdate_Ratings": "2024-01-17T07:02:45.5145584+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:09:09.0743926+00:00"
+  "LastUpdate_Ratings": "2024-01-17T08:03:13.7087536+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:09:29.3592652+00:00"
 }

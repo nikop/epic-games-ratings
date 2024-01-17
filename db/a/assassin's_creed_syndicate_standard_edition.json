@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 597,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 271,
-  "Ranking_EOS_Progress": 836,
+  "Ranking_PopularitySum": 270,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
     "PcReleaseDate": "2015-10-23T16:00:00+00:00",
@@ -3618,10 +3618,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1095,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-01-17T07:58:33.5694639+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1096,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1095,
+  "NumberOfAwards": 1096,
   "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3683,7 +3689,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Easy Combat",
@@ -3709,8 +3715,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2024-01-16T03:58:08.0731373+00:00",
+  "LastChanged": "2024-01-17T07:58:33.5694637+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.5476391+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:58:12.9037471+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:09:18.3088695+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:58:33.5694642+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:09:38.6547827+00:00"
 }

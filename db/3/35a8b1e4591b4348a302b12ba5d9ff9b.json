@@ -2,10 +2,10 @@
   "ID": "35a8b1e4591b4348a302b12ba5d9ff9b",
   "Name": "Afterdream",
   "ProductSlug": "afterdream-6a9847",
-  "Ranking_EOS_Progress": 836,
+  "Ranking_EOS_Progress": 837,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T11:00:00+00:00",
     "PcReleaseDate": "2023-09-28T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T17:57:19.3629094+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:57:59.7102591+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:05:33.5409153+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:58:22.0232561+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:06:06.5759305+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,678 |
-| Life is your teacher | 5.00% | ~38,065 |
-| Lightning Hands | 5.00% | ~38,065 |
-| The Assault | 4.00% | ~30,452 |
+| The Old Grandmaster | 6.00% | ~45,679 |
+| Life is your teacher | 5.00% | ~38,066 |
+| Lightning Hands | 5.00% | ~38,066 |
+| The Assault | 4.00% | ~30,453 |
 | The Hateful Pole Fighter | 3.00% | ~22,839 |
 | Stuntmaster | 3.00% | ~22,839 |
 | Street Fighting | 3.00% | ~22,839 |
@@ -41,8 +41,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.60% | ~4,568 |
 | Sword Stained With Blood | 0.60% | ~4,568 |
 | Bloody Sport | 0.60% | ~424 |
-| Prodigal Child | 0.50% | ~3,806 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,806 |
+| Prodigal Child | 0.50% | ~3,807 |
+| The 36th Chamber of Kung-Fu | 0.50% | ~3,807 |
 | The best strikes are the ones we avoid | 0.50% | ~353 |
 | Knowledge Greed | 0.40% | ~3,045 |
 | The Pit Protector | 0.40% | ~3,045 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,300 (Ranked 26)  
+Progressed: 761,313 (Ranked 26)  
 Completed: 12,990 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 12,990 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,300 | 12,990 |
+| 2024-01-17 | 761,313 | 12,990 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
 Sum: 12,773 (Ranked 87)  

@@ -4,8 +4,8 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -292,9 +292,9 @@
       "ID": "BOSS_KILL11",
       "SetID": "1icc7kd",
       "Name": "Armor Annihilator",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_KILL12",
@@ -380,9 +380,9 @@
       "ID": "CLEAR2",
       "SetID": "1icc7kd",
       "Name": "Danger",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CLEAR3",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2024-01-17T07:10:22.0831556+00:00",
+  "LastChanged_Achievements": "2024-01-17T08:10:41.6456246+00:00",
   "LastUpdate_AppInfo": "2024-01-10T13:02:38.640396+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:59:06.302189+00:00",
-  "LastUpdate_Achievements": "2024-01-17T07:10:22.0831718+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:59:29.4659495+00:00",
+  "LastUpdate_Achievements": "2024-01-17T08:10:41.6456473+00:00"
 }

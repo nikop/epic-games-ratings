@@ -5,35 +5,35 @@ Rating: 4.43 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~316,121 |
-| Delving Onward | 69.00% | ~266,004 |
-| Miner's Helper | 59.00% | ~227,453 |
-| Suit Up | 54.00% | ~208,177 |
-| To the Mountain's Roots | 49.00% | ~188,901 |
-| Remains To Be Seen | 34.00% | ~131,074 |
-| Covered Head to Toe | 33.00% | ~127,219 |
-| Line of Azog, Ended | 31.00% | ~119,509 |
-| Risk a Little Real Light | 31.00% | ~119,509 |
-| Caradhras The Cruel | 18.00% | ~69,392 |
-| A Memory of this Place | 18.00% | ~69,392 |
-| False King, Deposed | 14.00% | ~53,972 |
+| Speak Friend | 82.00% | ~316,126 |
+| Delving Onward | 69.00% | ~266,008 |
+| Miner's Helper | 59.00% | ~227,456 |
+| Suit Up | 54.00% | ~208,180 |
+| To the Mountain's Roots | 49.00% | ~188,904 |
+| Remains To Be Seen | 34.00% | ~131,076 |
+| Covered Head to Toe | 33.00% | ~127,221 |
+| Line of Azog, Ended | 31.00% | ~119,511 |
+| Risk a Little Real Light | 31.00% | ~119,511 |
+| Caradhras The Cruel | 18.00% | ~69,393 |
+| A Memory of this Place | 18.00% | ~69,393 |
+| False King, Deposed | 14.00% | ~53,973 |
 | Baruk Khazâd! | 13.00% | ~50,117 |
 | Battering Ram | 13.00% | ~50,117 |
-| Shadow's Bane | 10.00% | ~38,551 |
-| Westgate Weaponcraft | 9.00% | ~34,696 |
-| Deeps Weaponcraft | 8.00% | ~30,841 |
+| Shadow's Bane | 10.00% | ~38,552 |
+| Westgate Weaponcraft | 9.00% | ~34,697 |
+| Deeps Weaponcraft | 8.00% | ~30,842 |
 | Darkness Is Passing | 7.00% | ~26,986 |
 | Decked Out | 5.00% | ~19,276 |
 | Guarded from Despair | 5.00% | ~19,276 |
 | Master of All Trades | 4.00% | ~15,421 |
-| Eregion Weaponcraft | 3.00% | ~11,565 |
-| True-silver | 3.00% | ~11,565 |
-| Dimrill Weaponcraft | 3.00% | ~11,565 |
+| Eregion Weaponcraft | 3.00% | ~11,566 |
+| True-silver | 3.00% | ~11,566 |
+| Dimrill Weaponcraft | 3.00% | ~11,566 |
 | Hard-headed | 1.00% | ~3,855 |
 | Shielded | 1.00% | ~3,855 |
 | We're Gonna Need More Mugs | 0.20% | ~771 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,513 (Ranked 54)  
+Progressed: 385,519 (Ranked 54)  
 Completed: 360 (0.09%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 360 (0.09%) (Ranked 324)
 | 2024-01-14 | 384,172 | 345 |
 | 2024-01-15 | 384,824 | 350 |
 | 2024-01-16 | 385,383 | 356 |
-| 2024-01-17 | 385,513 | 360 |
+| 2024-01-17 | 385,519 | 360 |
 ## Awards
 Max (Great for Beginners): 955  (Ranked 169)  
 Sum: 5,494 (Ranked 143)  
