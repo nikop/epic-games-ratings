@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140052,
+  "EOS_Progressed": 140053,
   "EOS_Completed": 1265,
-  "EOS_NewPlayers": 1116,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31420,6 +31420,11 @@
       "Time": "2024-01-17T01:57:50.7895701+00:00",
       "NumProgressed": 140052,
       "NumCompleted": 1265
+    },
+    {
+      "Time": "2024-01-17T02:33:03.7929563+00:00",
+      "NumProgressed": 140053,
+      "NumCompleted": 1265
     }
   ],
   "TotalAchievements": 34,
@@ -31503,7 +31508,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78429
+      "UsersEstimate": 78430
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31615,7 +31620,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25209
+      "UsersEstimate": 25210
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -31702,7 +31707,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140052,
+      "Progressed": 140053,
       "Completed": 1265
     }
   ],
@@ -31710,8 +31715,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:57:50.7895698+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:33:03.7929556+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:47:32.5782482+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:57:50.7897175+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:22:46.1165067+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:33:03.7931207+00:00"
 }

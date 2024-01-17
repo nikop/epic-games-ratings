@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -2166,9 +2166,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "AC_COMBO_2",
@@ -2270,9 +2270,9 @@
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 163
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2397,8 +2397,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:53:21.9886016+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:28:42.509376+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:48:46.2751033+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:53:21.9886571+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:23:53.8744549+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:28:42.5094189+00:00"
 }

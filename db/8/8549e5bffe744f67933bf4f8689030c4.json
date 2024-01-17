@@ -4,7 +4,7 @@
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 586,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 561,
+  "Ranking_EOS_NewPlayers": 562,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "KillEnemyByFailedGrow",
       "SetID": "59jf8f5",
       "Name": "Empty Fort Strategy",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KillEnemyByIceCrushing",
@@ -694,9 +694,9 @@
       "ID": "SummonMonster6InTurn1",
       "SetID": "59jf8f5",
       "Name": "Summoning Festival",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "TransportAlliesOverMagmaWithRadon",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:58:04.2092322+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:33:16.0737637+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:15.6682228+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:48:28.6031001+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:58:04.209282+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:23:37.7949135+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:33:16.0738094+00:00"
 }

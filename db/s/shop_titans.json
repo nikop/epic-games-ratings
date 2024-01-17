@@ -8203,9 +8203,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151543,
+  "EOS_Progressed": 151547,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 1042,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -36998,6 +36998,11 @@
       "Time": "2024-01-17T01:58:40.5115562+00:00",
       "NumProgressed": 151543,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-17T02:33:49.6828925+00:00",
+      "NumProgressed": 151547,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -37241,7 +37246,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15154
+      "UsersEstimate": 15155
     },
     {
       "ID": "commonres02",
@@ -37273,7 +37278,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12123
+      "UsersEstimate": 12124
     },
     {
       "ID": "craft02",
@@ -37481,7 +37486,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15154
+      "UsersEstimate": 15155
     },
     {
       "ID": "gold02",
@@ -37785,7 +37790,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12123
+      "UsersEstimate": 12124
     },
     {
       "ID": "sell02",
@@ -37904,15 +37909,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151543,
+      "Progressed": 151547,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-16T23:03:18.9341412+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:58:40.5115557+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:33:49.6828923+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:52:35.4856069+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:58:40.5118187+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:27:58.7759355+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:33:49.683122+00:00"
 }

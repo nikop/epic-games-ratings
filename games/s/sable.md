@@ -6,8 +6,8 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,789 |
-| Just The Two of Us | 32.00% | ~35,566 |
+| Simoon | 34.00% | ~37,790 |
+| Just The Two of Us | 32.00% | ~35,567 |
 | Up On High | 25.00% | ~27,786 |
 | Under The Hood | 25.00% | ~27,786 |
 | Got Your Nose | 24.00% | ~26,675 |
@@ -26,14 +26,14 @@ Number of Ratings: 43  (23.09.2022)
 | Take That! | 13.00% | ~14,449 |
 | Treasure Tracker | 13.00% | ~14,449 |
 | Big Spender | 13.00% | ~14,449 |
-| Badge Collector | 12.00% | ~13,337 |
-| Quite The Catch | 12.00% | ~13,337 |
+| Badge Collector | 12.00% | ~13,338 |
+| Quite The Catch | 12.00% | ~13,338 |
 | Rowleys Way | 11.00% | ~12,226 |
-| The Machinist Mask | 10.00% | ~11,114 |
-| The Cartographer Mask | 10.00% | ~11,114 |
-| Balfron Connection | 10.00% | ~11,114 |
-| Ceiling Of Stars | 10.00% | ~11,114 |
-| Playing Dress Up | 10.00% | ~11,114 |
+| The Machinist Mask | 10.00% | ~11,115 |
+| The Cartographer Mask | 10.00% | ~11,115 |
+| Balfron Connection | 10.00% | ~11,115 |
+| Ceiling Of Stars | 10.00% | ~11,115 |
+| Playing Dress Up | 10.00% | ~11,115 |
 | Many Different Faces | 9.00% | ~10,003 |
 | Trellick's Pillar | 9.00% | ~10,003 |
 | Centre Of Brunswick | 9.00% | ~10,003 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,334 |
 | Vivacious Vivarium | 2.00% | ~2,223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,145 (Ranked 98)  
+Progressed: 111,146 (Ranked 98)  
 Completed: 1,136 (1.02%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 1,136 (1.02%) (Ranked 179)
 | 2024-01-14 | 110,858 | 1,131 |
 | 2024-01-15 | 110,993 | 1,133 |
 | 2024-01-16 | 111,136 | 1,136 |
-| 2024-01-17 | 111,145 | 1,136 |
+| 2024-01-17 | 111,146 | 1,136 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 526)  
 Sum: 153 (Ranked 445)  

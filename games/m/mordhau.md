@@ -5,31 +5,31 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~779,759 |
-| The ABCs | 43.00% | ~684,278 |
-| Home Run | 41.00% | ~652,451 |
-| Keeps Coming Off | 41.00% | ~652,451 |
-| Guts | 19.00% | ~302,356 |
-| Meat Grinder | 19.00% | ~302,356 |
-| Burning Man | 16.00% | ~254,615 |
-| Lived to Tell the Tale | 12.00% | ~190,961 |
-| Highlander | 10.00% | ~159,134 |
-| Unstoppable | 10.00% | ~159,134 |
-| Just a Scratch | 9.00% | ~143,221 |
+| Justice from the Grave | 49.00% | ~779,764 |
+| The ABCs | 43.00% | ~684,283 |
+| Home Run | 41.00% | ~652,456 |
+| Keeps Coming Off | 41.00% | ~652,456 |
+| Guts | 19.00% | ~302,358 |
+| Meat Grinder | 19.00% | ~302,358 |
+| Burning Man | 16.00% | ~254,617 |
+| Lived to Tell the Tale | 12.00% | ~190,963 |
+| Highlander | 10.00% | ~159,136 |
+| Unstoppable | 10.00% | ~159,136 |
+| Just a Scratch | 9.00% | ~143,222 |
 | Tough Nut to Crack | 6.00% | ~95,481 |
 | Yoink | 6.00% | ~95,481 |
 | Long List of Names | 4.00% | ~63,654 |
 | Pyromaniac | 4.00% | ~63,654 |
 | The Queen of Weapons | 4.00% | ~63,654 |
-| This isn’t Sparta | 3.00% | ~47,740 |
+| This isn’t Sparta | 3.00% | ~47,741 |
 | Crybaby | 2.00% | ~31,827 |
 | Eagle Eye | 2.00% | ~31,827 |
 | I Know Kung Fu | 2.00% | ~31,827 |
 | Poacher | 2.00% | ~31,827 |
 | Put That Away | 2.00% | ~31,827 |
 | You’re Welcome | 2.00% | ~31,827 |
-| Chambermaid | 1.00% | ~15,913 |
-| Coming Through | 1.00% | ~15,913 |
+| Chambermaid | 1.00% | ~15,914 |
+| Coming Through | 1.00% | ~15,914 |
 | Boxer | 0.90% | ~14,322 |
 | Flyswatter | 0.90% | ~14,322 |
 | Training Accident | 0.90% | ~14,322 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 797)
 | That’s No Ordinary Cold | 0.10% | ~1,591 |
 | Stairway to Hell | 0.10% | ~1,591 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,591,345 (Ranked 7)  
+Progressed: 1,591,356 (Ranked 7)  
 Completed: 80 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 80 (0.01%) (Ranked 378)
 | 2024-01-14 | 1,590,419 | 77 |
 | 2024-01-15 | 1,590,862 | 78 |
 | 2024-01-16 | 1,591,296 | 80 |
-| 2024-01-17 | 1,591,345 | 80 |
+| 2024-01-17 | 1,591,356 | 80 |
 ## Awards
 Max (Diverse Characters): 1,236  (Ranked 149)  
 Sum: 6,364 (Ranked 136)  

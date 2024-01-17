@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22296,
+  "EOS_Progressed": 22298,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 1115,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8327,6 +8327,11 @@
       "Time": "2024-01-17T01:53:39.489914+00:00",
       "NumProgressed": 22296,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2024-01-17T02:28:58.368467+00:00",
+      "NumProgressed": 22298,
+      "NumCompleted": 113
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8387,7 +8392,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2899
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8418,7 +8423,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22296,
+      "Progressed": 22298,
       "Completed": 113
     }
   ],
@@ -8426,8 +8431,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:53:39.4899136+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:28:58.3684666+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:47:52.6863333+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:53:39.4899594+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:23:04.7574931+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:28:58.3685121+00:00"
 }

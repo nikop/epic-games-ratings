@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 473986,
+  "EOS_Progressed": 473987,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28764,6 +28764,11 @@
       "Time": "2024-01-17T01:59:52.8303096+00:00",
       "NumProgressed": 473986,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-17T02:34:57.4133986+00:00",
+      "NumProgressed": 473987,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -28895,7 +28900,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118496
+      "UsersEstimate": 118497
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -28927,7 +28932,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52138
+      "UsersEstimate": 52139
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -28959,7 +28964,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161155
+      "UsersEstimate": 161156
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29406,21 +29411,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 17920,
+      "Progressed": 17921,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 473986,
+      "Progressed": 473987,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:59:52.8303093+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:34:57.4133984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:49:42.1848047+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:59:52.8305341+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:24:43.0519648+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:34:57.4135554+00:00"
 }

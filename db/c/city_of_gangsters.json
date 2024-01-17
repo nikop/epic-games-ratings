@@ -1066,9 +1066,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 362455,
+  "EOS_Progressed": 362458,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32116,6 +32116,11 @@
       "Time": "2024-01-17T01:54:25.4603217+00:00",
       "NumProgressed": 362455,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-17T02:29:40.3400094+00:00",
+      "NumProgressed": 362458,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -32215,7 +32220,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28996
+      "UsersEstimate": 28997
     },
     {
       "ID": "ach013",
@@ -32231,7 +32236,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54368
+      "UsersEstimate": 54369
     },
     {
       "ID": "ach015",
@@ -32255,7 +32260,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47119
+      "UsersEstimate": 47120
     },
     {
       "ID": "ach018",
@@ -32263,7 +32268,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28996
+      "UsersEstimate": 28997
     },
     {
       "ID": "ach019",
@@ -32335,7 +32340,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166729
+      "UsersEstimate": 166731
     },
     {
       "ID": "ach028",
@@ -32479,7 +32484,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47119
+      "UsersEstimate": 47120
     },
     {
       "ID": "ach046",
@@ -32766,7 +32771,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 362455,
+      "Progressed": 362458,
       "Completed": 7
     }
   ],
@@ -32774,8 +32779,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-15T21:00:19.3263555+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:54:25.4603214+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:29:40.3400092+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:21.5232848+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:49:15.4248491+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:54:25.4605639+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:24:20.7692621+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:29:40.3402002+00:00"
 }

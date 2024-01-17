@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2217,10 +2217,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 656,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-01-17T02:28:00.8005349+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 656,
+  "NumberOfAwards": 658,
   "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2264,12 +2270,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 54
+      "Count": 56
     }
   ],
-  "EOS_Progressed": 22473,
+  "EOS_Progressed": 22474,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14152,6 +14158,11 @@
       "Time": "2024-01-17T01:59:25.6906103+00:00",
       "NumProgressed": 22473,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T02:34:31.5798972+00:00",
+      "NumProgressed": 22474,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14291,7 +14302,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "KILL_ROBOT",
@@ -14307,7 +14318,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 3820
+      "UsersEstimate": 3821
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14379,7 +14390,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14403,7 +14414,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "STORY_TOWER",
@@ -14538,22 +14549,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22473,
+      "Progressed": 22474,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10399,
+      "Progressed": 10400,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-16T19:03:56.5718553+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:59:25.6906098+00:00",
+  "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:34:31.579897+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:52:37.7142508+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:59:25.6907178+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:28:00.8005355+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:34:31.5799962+00:00"
 }

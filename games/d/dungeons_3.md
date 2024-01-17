@@ -9,7 +9,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Shadow strikes | 70.00% | ~32,991 |
 | The Evilest Evil | 58.00% | ~27,335 |
 | Twistram is devastated | 58.00% | ~27,335 |
-| The Gehenna Stones | 49.00% | ~23,094 |
+| The Gehenna Stones | 50.00% | ~23,565 |
 | No one has to die today! | 46.00% | ~21,680 |
 | Death and destruction! | 46.00% | ~21,680 |
 | The Swamplanders from the swamplands | 43.00% | ~20,266 |

@@ -5,36 +5,36 @@ Rating: 3.84 (Ranked 1,084)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~419,480 |
-| Handy | 42.00% | ~231,818 |
-| Cold Caller | 40.00% | ~220,779 |
-| A Bit On The Side | 27.00% | ~149,026 |
-| Backdoor | 26.00% | ~143,506 |
+| Pro Creation | 76.00% | ~419,483 |
+| Handy | 42.00% | ~231,819 |
+| Cold Caller | 40.00% | ~220,780 |
+| A Bit On The Side | 27.00% | ~149,027 |
+| Backdoor | 26.00% | ~143,507 |
 | Rank Amateur | 22.00% | ~121,429 |
-| Three Way | 19.00% | ~104,870 |
+| Three Way | 19.00% | ~104,871 |
 | Deadly Assassin | 16.00% | ~88,312 |
 | Gutshot | 14.00% | ~77,273 |
 | Risk It For A Biscuit | 14.00% | ~77,273 |
-| Showoff | 13.00% | ~71,753 |
+| Showoff | 13.00% | ~71,754 |
 | W.H.I.P. | 12.00% | ~66,234 |
 | Bet Bet Bet | 10.00% | ~55,195 |
-| Blindman's Bluff | 9.00% | ~49,675 |
-| Poker Joker | 9.00% | ~49,675 |
+| Blindman's Bluff | 9.00% | ~49,676 |
+| Poker Joker | 9.00% | ~49,676 |
 | Never Give Up | 8.00% | ~44,156 |
 | The Bigger They Are | 8.00% | ~44,156 |
 | Total Knock Out | 8.00% | ~44,156 |
-| Dog Eat Dog | 7.00% | ~38,636 |
-| Quack Quack | 7.00% | ~38,636 |
+| Dog Eat Dog | 7.00% | ~38,637 |
+| Quack Quack | 7.00% | ~38,637 |
 | Give Your Regards To Broadway | 6.00% | ~33,117 |
 | Check Yourself | 4.00% | ~22,078 |
 | Moneymaker | 4.00% | ~22,078 |
-| In The Gang | 3.00% | ~16,558 |
-| On The Button | 3.00% | ~16,558 |
+| In The Gang | 3.00% | ~16,559 |
+| On The Button | 3.00% | ~16,559 |
 | Before You Wreck Yourself | 2.00% | ~11,039 |
 | Holding Your Own | 2.00% | ~11,039 |
 | Keep Your Heads Up | 2.00% | ~11,039 |
-| Bluffing Eh? | 1.00% | ~5,519 |
-| Go For It | 1.00% | ~5,519 |
+| Bluffing Eh? | 1.00% | ~5,520 |
+| Go For It | 1.00% | ~5,520 |
 | Regular Punter | 0.80% | ~4,416 |
 | Club Legend | 0.60% | ~3,312 |
 | How I Roll | 0.60% | ~3,312 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,084)
 | Rounder | 0.10% | ~552 |
 | Top Dog | 0.10% | ~552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 551,948 (Ranked 35)  
+Progressed: 551,951 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,15 +322,15 @@ Completed: 2 (0.00%) (Ranked 404)
 | 2024-01-14 | 551,527 | 2 |
 | 2024-01-15 | 551,741 | 2 |
 | 2024-01-16 | 551,926 | 2 |
-| 2024-01-17 | 551,948 | 2 |
+| 2024-01-17 | 551,951 | 2 |
 ## Awards
 Max (Great for Beginners): 69  (Ranked 422)  
-Sum: 212 (Ranked 414)  
-Diff (max vs sum): 8  
+Sum: 213 (Ranked 413)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 69 |
-| This game is Highly Recommended | 44 |
+| This game is Highly Recommended | 45 |
 | This game has Competitive Players | 35 |
 | This game has Quickly Understood Controls | 33 |
 | This game has a Competitive Community | 31 |
@@ -468,3 +468,4 @@ Diff (max vs sum): 8
 | 2024-01-10 | 3.84 | 67 | 210 |
 | 2024-01-12 | 3.84 | 68 | 211 |
 | 2024-01-14 | 3.84 | 69 | 212 |
+| 2024-01-17 | 3.84 | 69 | 213 |

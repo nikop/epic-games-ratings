@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
     "PcReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -8865,10 +8865,10 @@
       "Count": 683
     }
   ],
-  "EOS_Progressed": 804913,
-  "EOS_Completed": 2591,
-  "EOS_NewPlayers": 6454,
-  "EOS_NewCompleters": 27,
+  "EOS_Progressed": 804921,
+  "EOS_Completed": 2592,
+  "EOS_NewPlayers": 6416,
+  "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -40190,6 +40190,11 @@
       "Time": "2024-01-17T01:59:27.8877025+00:00",
       "NumProgressed": 804913,
       "NumCompleted": 2591
+    },
+    {
+      "Time": "2024-01-17T02:34:33.639797+00:00",
+      "NumProgressed": 804921,
+      "NumCompleted": 2592
     }
   ],
   "TotalAchievements": 51,
@@ -40265,7 +40270,7 @@
       "Name": "Break A Leg",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64393
+      "UsersEstimate": 64394
     },
     {
       "ID": "ach_contender",
@@ -40321,7 +40326,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64393
+      "UsersEstimate": 64394
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -40361,7 +40366,7 @@
       "Name": "Hotel California",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72442
+      "UsersEstimate": 72443
     },
     {
       "ID": "ach_impressive_aim",
@@ -40441,7 +40446,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24147
+      "UsersEstimate": 24148
     },
     {
       "ID": "ach_revival_tour",
@@ -40457,7 +40462,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24147
+      "UsersEstimate": 24148
     },
     {
       "ID": "ach_secrets_of_la",
@@ -40537,7 +40542,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80491
+      "UsersEstimate": 80492
     },
     {
       "ID": "ach_well_known_survivor",
@@ -40569,7 +40574,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "ach_gardening_tools",
@@ -40585,7 +40590,7 @@
       "Name": "Pork Chopped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5218
+      "UsersEstimate": 5219
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -40608,13 +40613,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 804913,
-      "Completed": 2591
+      "Progressed": 804921,
+      "Completed": 2592
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 130457,
+      "Progressed": 130465,
       "Completed": 36777
     }
   ],
@@ -40622,8 +40627,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-17T01:47:30.9479713+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:59:27.8877023+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:34:33.6397968+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.2072313+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:47:30.9479719+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:59:27.887955+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:22:44.6688659+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:34:33.6399592+00:00"
 }

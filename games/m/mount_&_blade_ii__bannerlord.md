@@ -1,30 +1,30 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 166)  
+Rating: 4.74 (Ranked 165)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,139 |
-| Landlord | 35.00% | ~33,485 |
-| Trained | 30.00% | ~28,701 |
+| Lawbringer | 43.00% | ~41,140 |
+| Landlord | 35.00% | ~33,486 |
+| Trained | 30.00% | ~28,702 |
 | Bannerlord | 25.00% | ~23,918 |
-| Lawmaker | 24.00% | ~22,961 |
-| Horde breaker | 21.00% | ~20,091 |
-| The king is pleased | 20.00% | ~19,134 |
+| Lawmaker | 24.00% | ~22,962 |
+| Horde breaker | 21.00% | ~20,092 |
+| The king is pleased | 20.00% | ~19,135 |
 | King Solomon | 18.00% | ~17,221 |
-| Apple of my eye | 17.00% | ~16,264 |
-| This Is Our Land | 17.00% | ~16,264 |
+| Apple of my eye | 17.00% | ~16,265 |
+| This Is Our Land | 17.00% | ~16,265 |
 | Against all odds | 15.00% | ~14,351 |
 | I can do it | 15.00% | ~14,351 |
-| Duelist | 13.00% | ~12,437 |
+| Duelist | 13.00% | ~12,438 |
 | God of the Arena | 12.00% | ~11,481 |
 | Swordbearer | 11.00% | ~10,524 |
 | Dynasty | 10.00% | ~9,567 |
 | I spit on your grave | 10.00% | ~9,567 |
 | What have the Romans ever done for us? | 10.00% | ~9,567 |
-| Butterlord | 9.00% | ~8,610 |
+| Butterlord | 9.00% | ~8,611 |
 | Mastery | 8.00% | ~7,654 |
 | Know your enemy | 7.00% | ~6,697 |
 | My way | 5.00% | ~4,784 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,671 (Ranked 103)  
+Progressed: 95,674 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 95,259 | 0 |
 | 2024-01-15 | 95,467 | 0 |
 | 2024-01-16 | 95,667 | 0 |
-| 2024-01-17 | 95,671 | 0 |
+| 2024-01-17 | 95,674 | 0 |
 ## Awards
 Max (Character Customization): 8,089  (Ranked 50)  
 Sum: 16,766 (Ranked 66)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 9,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-01-20T18:00:00+00:00",
     "PcReleaseDate": "2021-01-20T13:00:00+00:00",
@@ -13888,9 +13888,9 @@
       "Count": 8394
     }
   ],
-  "EOS_Progressed": 1395890,
+  "EOS_Progressed": 1395891,
   "EOS_Completed": 2240,
-  "EOS_NewPlayers": 3521,
+  "EOS_NewPlayers": 3515,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -45188,6 +45188,11 @@
       "Time": "2024-01-17T01:58:24.4208004+00:00",
       "NumProgressed": 1395890,
       "NumCompleted": 2240
+    },
+    {
+      "Time": "2024-01-17T02:33:34.9705112+00:00",
+      "NumProgressed": 1395891,
+      "NumCompleted": 2240
     }
   ],
   "TotalAchievements": 47,
@@ -45215,7 +45220,7 @@
       "Name": "Seizing the Opportunity",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 362931
+      "UsersEstimate": 362932
     },
     {
       "ID": "ACH_003",
@@ -45271,7 +45276,7 @@
       "Name": "Unseen Assassin",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 642109
+      "UsersEstimate": 642110
     },
     {
       "ID": "ACH_010",
@@ -45279,7 +45284,7 @@
       "Name": "Shortcut Killer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 69794
+      "UsersEstimate": 69795
     },
     {
       "ID": "ACH_011",
@@ -45343,7 +45348,7 @@
       "Name": "Master of the Household",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 516479
+      "UsersEstimate": 516480
     },
     {
       "ID": "ACH_019",
@@ -45391,7 +45396,7 @@
       "Name": "Death of the Party",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 488561
+      "UsersEstimate": 488562
     },
     {
       "ID": "ACH_025",
@@ -45399,7 +45404,7 @@
       "Name": "Followed the Trails",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 69794
+      "UsersEstimate": 69795
     },
     {
       "ID": "ACH_026",
@@ -45423,7 +45428,7 @@
       "Name": "Last Call",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 69794
+      "UsersEstimate": 69795
     },
     {
       "ID": "ACH_029",
@@ -45519,7 +45524,7 @@
       "Name": "Rich Harvest",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 69794
+      "UsersEstimate": 69795
     },
     {
       "ID": "ACH_041",
@@ -45574,15 +45579,15 @@
     {
       "ID": "62l33o1",
       "IsBase": true,
-      "Progressed": 1395890,
+      "Progressed": 1395891,
       "Completed": 2240
     }
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
   "LastChanged": "2024-01-16T19:59:50.3187509+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:58:24.4208001+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:33:34.9705107+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:28.8099914+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:49:12.2830451+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:58:24.4209897+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:24:16.9837811+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:33:34.9707087+00:00"
 }

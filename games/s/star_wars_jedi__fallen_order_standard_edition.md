@@ -5,32 +5,32 @@ Rating: 4.68 (Ranked 262)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~35,519 |
-| A Long Time Ago | 91.00% | ~32,322 |
-| Sabersmith | 78.00% | ~27,705 |
-| The Obstacle is the Way | 75.00% | ~26,639 |
-| Back At You | 70.00% | ~24,863 |
-| Happy Go Wookiee | 66.00% | ~23,443 |
-| Everything is Connected | 57.00% | ~20,246 |
-| Her Name Was Masana Tide | 52.00% | ~18,470 |
-| Bank Shot | 51.00% | ~18,115 |
+| The Mantis | 100.00% | ~35,521 |
+| A Long Time Ago | 91.00% | ~32,324 |
+| Sabersmith | 78.00% | ~27,706 |
+| The Obstacle is the Way | 75.00% | ~26,641 |
+| Back At You | 70.00% | ~24,865 |
+| Happy Go Wookiee | 66.00% | ~23,444 |
+| Everything is Connected | 57.00% | ~20,247 |
+| Her Name Was Masana Tide | 52.00% | ~18,471 |
+| Bank Shot | 51.00% | ~18,116 |
 | Perfect Timing | 50.00% | ~17,760 |
-| Gorgara Falls | 48.00% | ~17,049 |
-| The Full Glow-Up | 48.00% | ~17,049 |
-| For A More Civilized Age | 46.00% | ~16,339 |
+| Gorgara Falls | 48.00% | ~17,050 |
+| The Full Glow-Up | 48.00% | ~17,050 |
+| For A More Civilized Age | 46.00% | ~16,340 |
 | I Knew He Was No Good | 45.00% | ~15,984 |
-| The Holocron Awaits | 44.00% | ~15,628 |
-| Trust Only In The Force | 42.00% | ~14,918 |
-| Look Out Below | 41.00% | ~14,563 |
-| Scum and Villainy | 41.00% | ~14,563 |
-| Don't Mess with BD-1 | 39.00% | ~13,852 |
-| Blade Master | 36.00% | ~12,787 |
-| Full House | 34.00% | ~12,076 |
+| The Holocron Awaits | 44.00% | ~15,629 |
+| Trust Only In The Force | 42.00% | ~14,919 |
+| Look Out Below | 41.00% | ~14,564 |
+| Scum and Villainy | 41.00% | ~14,564 |
+| Don't Mess with BD-1 | 39.00% | ~13,853 |
+| Blade Master | 36.00% | ~12,788 |
+| Full House | 34.00% | ~12,077 |
 | Legendary Beasts | 20.00% | ~7,104 |
 | Echo Location | 19.00% | ~6,749 |
 | Visiting Alderaan Places | 16.00% | ~5,683 |
-| Triple Take | 13.00% | ~4,617 |
-| Cal Got Your Tongue? | 12.00% | ~4,262 |
+| Triple Take | 13.00% | ~4,618 |
+| Cal Got Your Tongue? | 12.00% | ~4,263 |
 | Big Bang | 10.00% | ~3,552 |
 | Feel the Force | 9.00% | ~3,197 |
 | Can't Touch This | 8.00% | ~2,842 |
@@ -45,7 +45,7 @@ Rating: 4.68 (Ranked 262)
 | What Goes Around... | 2.00% | ~710 |
 | Not So Fast | 1.00% | ~355 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,519 (Ranked 137)  
+Progressed: 35,521 (Ranked 137)  
 Completed: 344 (0.97%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 344 (0.97%) (Ranked 182)
 | 2024-01-14 | 35,127 | 338 |
 | 2024-01-15 | 35,343 | 341 |
 | 2024-01-16 | 35,502 | 344 |
-| 2024-01-17 | 35,519 | 344 |
+| 2024-01-17 | 35,521 | 344 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

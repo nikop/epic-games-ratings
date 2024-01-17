@@ -5,23 +5,23 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,683 |
-| Start with a bang! | 55.00% | ~9,510 |
+| Feeling the beat! | 56.00% | ~9,684 |
+| Start with a bang! | 55.00% | ~9,511 |
 | You can pet the cat! | 50.00% | ~8,646 |
-| Who put gears in there? | 41.00% | ~7,089 |
+| Who put gears in there? | 41.00% | ~7,090 |
 | Cream of the Crop | 36.00% | ~6,225 |
 | Thanks for the free chip, Peppermint! | 35.00% | ~6,052 |
-| You got this, Peppermint? | 31.00% | ~5,360 |
-| Perfect Parry | 29.00% | ~5,014 |
-| Alright, that felt AWESOME! | 28.00% | ~4,841 |
+| You got this, Peppermint? | 31.00% | ~5,361 |
+| Perfect Parry | 29.00% | ~5,015 |
+| Alright, that felt AWESOME! | 28.00% | ~4,842 |
 | I play my own way! | 24.00% | ~4,150 |
 | This will cost you big time | 23.00% | ~3,977 |
 | Uh, they were broken when I got here | 22.00% | ~3,804 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,631 |
 | Kissing the sky! | 21.00% | ~3,631 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,112 |
-| The Negotiator | 17.00% | ~2,939 |
-| Does that say weakpoint? | 17.00% | ~2,939 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,113 |
+| The Negotiator | 17.00% | ~2,940 |
+| Does that say weakpoint? | 17.00% | ~2,940 |
 | You must like calling me in, Chai | 15.00% | ~2,594 |
 | Headliner | 14.00% | ~2,421 |
 | Out in a puff of smoke | 14.00% | ~2,421 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,291 (Ranked 168)  
+Progressed: 17,292 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 8 (0.05%) (Ranked 343)
 | 2024-01-14 | 17,157 | 8 |
 | 2024-01-15 | 17,227 | 8 |
 | 2024-01-16 | 17,286 | 8 |
-| 2024-01-17 | 17,291 | 8 |
+| 2024-01-17 | 17,292 | 8 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 506)  
 Sum: 35 (Ranked 537)  

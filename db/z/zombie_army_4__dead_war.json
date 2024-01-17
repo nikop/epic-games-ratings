@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2742,9 +2742,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44500,
+  "EOS_Progressed": 44501,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11377,6 +11377,11 @@
       "Time": "2024-01-16T17:05:10.2812831+00:00",
       "NumProgressed": 44500,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-17T02:29:56.4050256+00:00",
+      "NumProgressed": 44501,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11388,7 +11393,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27590
+      "UsersEstimate": 27591
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11580,7 +11585,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28035
+      "UsersEstimate": 28036
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11692,7 +11697,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22695
+      "UsersEstimate": 22696
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11716,7 +11721,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31150
+      "UsersEstimate": 31151
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11748,7 +11753,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25365
+      "UsersEstimate": 25366
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11788,7 +11793,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29815
+      "UsersEstimate": 29816
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11844,7 +11849,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29370
+      "UsersEstimate": 29371
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11915,15 +11920,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44500,
+      "Progressed": 44501,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-15T18:58:42.7423145+00:00",
-  "LastChanged_Achievements": "2024-01-17T01:54:43.50183+00:00",
+  "LastChanged_Achievements": "2024-01-17T02:29:56.4050254+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
-  "LastUpdate_Ratings": "2024-01-17T01:48:47.3820378+00:00",
-  "LastUpdate_Achievements": "2024-01-17T01:54:43.5019524+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:23:54.9380575+00:00",
+  "LastUpdate_Achievements": "2024-01-17T02:29:56.4051076+00:00"
 }
