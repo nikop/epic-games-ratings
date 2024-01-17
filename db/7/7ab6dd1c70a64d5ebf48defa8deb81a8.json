@@ -2,12 +2,12 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -103,15 +103,21 @@
       "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-17T13:05:56.6970149+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2363,
+  "EOS_Progressed": 2364,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -4709,6 +4715,11 @@
       "Time": "2024-01-17T10:11:29.7295871+00:00",
       "NumProgressed": 2363,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T13:16:02.9889249+00:00",
+      "NumProgressed": 2364,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -4720,7 +4731,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "ACH_02",
@@ -4832,7 +4843,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_16",
@@ -4880,7 +4891,7 @@
       "Name": "Big Bazar",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_22",
@@ -4896,7 +4907,7 @@
       "Name": "Geared Up",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_24",
@@ -4952,7 +4963,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH_31",
@@ -4960,7 +4971,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "ACH_33",
@@ -5007,16 +5018,16 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2363,
+      "Progressed": 2364,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-01-17T02:24:22.6712896+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:10:05.4554113+00:00",
+  "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:16:02.9889245+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-17T12:00:06.874671+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:10:05.4554561+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:05:56.6970153+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:16:02.9889621+00:00"
 }

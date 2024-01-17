@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -17439,9 +17439,9 @@
       "ID": "kinetomancer",
       "SetID": "2jelldm",
       "Name": "The Kinetomancer",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 18440
+      "UsersEstimate": 19123
     },
     {
       "ID": "luminimancer",
@@ -17615,8 +17615,8 @@
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2024-01-09T10:58:57.179352+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:03:48.9456512+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:09:50.4291009+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:32.4888852+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:59:35.5794991+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:03:48.9457699+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:05:24.9939631+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:09:50.4292138+00:00"
 }

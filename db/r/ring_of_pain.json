@@ -3,10 +3,10 @@
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 472,
-  "Ranking_Popularity": 139,
+  "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 304,
+  "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243106,
+  "EOS_Progressed": 243107,
   "EOS_Completed": 307,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32134,6 +32134,11 @@
       "Time": "2024-01-17T12:10:13.2888137+00:00",
       "NumProgressed": 243106,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-17T13:16:10.7111209+00:00",
+      "NumProgressed": 243107,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -32415,9 +32420,9 @@
       "ID": "FULLINVENTORY",
       "SetID": "5l8oe0h",
       "Name": "I Am Overburdened",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1945
+      "UsersEstimate": 2188
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -32647,9 +32652,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2431
     },
     {
       "ID": "KILLREFLECT10",
@@ -33248,13 +33253,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243106,
+      "Progressed": 243107,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4586,
+      "Progressed": 4587,
       "Completed": 428
     }
   ],
@@ -33262,8 +33267,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:10:13.2888132+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:16:10.7111203+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:58:11.5575816+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:10:13.2890734+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:03:59.1901964+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:16:10.7114641+00:00"
 }

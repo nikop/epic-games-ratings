@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239477,
+  "EOS_Progressed": 239478,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28883,6 +28883,11 @@
       "Time": "2024-01-17T12:08:37.0878283+00:00",
       "NumProgressed": 239477,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-17T13:14:32.275466+00:00",
+      "NumProgressed": 239478,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28926,7 +28931,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26342
+      "UsersEstimate": 26343
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -28982,7 +28987,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47895
+      "UsersEstimate": 47896
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -29030,7 +29035,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 79027
+      "UsersEstimate": 79028
     },
     {
       "ID": "NOBUNAGA",
@@ -29165,15 +29170,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239477,
+      "Progressed": 239478,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:08:37.0878279+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:14:32.2754656+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:58:48.4892319+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:08:37.0879591+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:04:36.966963+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:14:32.2756556+00:00"
 }

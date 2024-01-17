@@ -5,27 +5,27 @@ Rating: 4.12 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,257 |
-| World Map | 78.00% | ~3,570 |
-| Temple of Eternals | 56.00% | ~2,563 |
-| Prestigious | 53.00% | ~2,426 |
-| Fellowship Power | 42.00% | ~1,922 |
-| Full Party | 30.00% | ~1,373 |
-| Guild Power | 22.00% | ~1,007 |
-| Prestigious x10 | 20.00% | ~915 |
-| The game is on | 18.00% | ~824 |
-| Exotic Merchant | 16.00% | ~732 |
+| Victor | 93.00% | ~4,260 |
+| World Map | 78.00% | ~3,573 |
+| Temple of Eternals | 56.00% | ~2,565 |
+| Prestigious | 53.00% | ~2,428 |
+| Fellowship Power | 42.00% | ~1,924 |
+| Full Party | 30.00% | ~1,374 |
+| Guild Power | 22.00% | ~1,008 |
+| Prestigious x10 | 20.00% | ~916 |
+| The game is on | 18.00% | ~825 |
+| Exotic Merchant | 16.00% | ~733 |
 | Dragon Clicker | 15.00% | ~687 |
 | Miner Clicker | 15.00% | ~687 |
 | Inspection | 14.00% | ~641 |
-| Dragon Master | 13.00% | ~595 |
-| Enlightenment | 13.00% | ~595 |
-| Hero inspection | 13.00% | ~595 |
-| Lieutenant | 12.00% | ~549 |
-| Mysterious Rock | 11.00% | ~503 |
-| Natural Talent | 11.00% | ~503 |
-| Superior | 11.00% | ~503 |
-| The Unstoppable | 11.00% | ~503 |
+| Dragon Master | 13.00% | ~596 |
+| Enlightenment | 13.00% | ~596 |
+| Hero inspection | 13.00% | ~596 |
+| Lieutenant | 12.00% | ~550 |
+| Mysterious Rock | 11.00% | ~504 |
+| Natural Talent | 11.00% | ~504 |
+| Superior | 11.00% | ~504 |
+| The Unstoppable | 11.00% | ~504 |
 | Milestone collector | 10.00% | ~458 |
 | Scientist | 10.00% | ~458 |
 | Doing My Part | 9.00% | ~412 |
@@ -38,11 +38,11 @@ Rating: 4.12 (Ranked 1,023)
 | Moving Up The Ladder | 8.00% | ~366 |
 | Relic Of The Past | 8.00% | ~366 |
 | Scroll Master | 8.00% | ~366 |
-| Four Leaf Clover | 7.00% | ~320 |
-| Here We Go Again | 7.00% | ~320 |
-| Master Enchanter | 7.00% | ~320 |
-| The father of Dragons | 7.00% | ~320 |
-| Trader | 7.00% | ~320 |
+| Four Leaf Clover | 7.00% | ~321 |
+| Here We Go Again | 7.00% | ~321 |
+| Master Enchanter | 7.00% | ~321 |
+| The father of Dragons | 7.00% | ~321 |
+| Trader | 7.00% | ~321 |
 | Dragon Slayer | 6.00% | ~275 |
 | Enchanting skill | 6.00% | ~275 |
 | The Expeditioner | 6.00% | ~275 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 1,023)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,577 (Ranked 209)  
+Progressed: 4,581 (Ranked 209)  
 Completed: 2 (0.04%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 2 (0.04%) (Ranked 355)
 | 2024-01-14 | 4,499 | 2 |
 | 2024-01-15 | 4,513 | 2 |
 | 2024-01-16 | 4,558 | 2 |
-| 2024-01-17 | 4,577 | 2 |
+| 2024-01-17 | 4,581 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 442)  

@@ -26,9 +26,9 @@ Rating: 4.64 (Ranked 344)
 | Higher Tax Bracket | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
+| Got to Catch Them All | 0.90% | ~82 |
 | Rumble in the Jumble | 0.90% | ~82 |
 | Fae Farmer | 0.80% | ~73 |
-| Got to Catch Them All | 0.80% | ~73 |
 | Fanatical Farmer | 0.80% | ~73 |
 | Scattered Scroll Scrounger | 0.70% | ~64 |
 | Azorian Hat Dance | 0.70% | ~12 |

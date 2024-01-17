@@ -10,16 +10,16 @@
 | Under cover | 35.00% | ~28 |
 | First blood | 34.00% | ~27 |
 | Royal blessing | 30.00% | ~24 |
-| Blood and sand | 23.00% | ~18 |
+| Blood and sand | 24.00% | ~19 |
+| A hidden snake | 23.00% | ~18 |
 | Surpass the teacher | 21.00% | ~17 |
-| A hidden snake | 21.00% | ~17 |
 | All for one! | 19.00% | ~15 |
 | Power of Inquisition | 18.00% | ~14 |
 | Help of the Gell | 18.00% | ~14 |
+| Rage | 16.00% | ~13 |
 | She-Wolf | 16.00% | ~13 |
 | Crimson rivers | 15.00% | ~12 |
 | Vene, vidi, vici | 15.00% | ~12 |
-| Rage | 15.00% | ~12 |
 | Trial by cold | 14.00% | ~11 |
 | Berkanan Borgia | 13.00% | ~10 |
 | For the greater good | 10.00% | ~8 |
@@ -43,9 +43,9 @@
 | All's fair in love and war | 4.00% | ~3 |
 | The power of persuasion | 3.00% | ~2 |
 | A solo player | 3.00% | ~2 |
+| By someone else's hands | 3.00% | ~2 |
 | Happily ever after | 3.00% | ~2 |
 | Master of the Way | 1.00% | ~1 |
-| By someone else's hands | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |

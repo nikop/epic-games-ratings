@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500,432 (Ranked 42)  
+Progressed: 500,464 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,14 +642,14 @@ Completed: 1 (0.00%) (Ranked 404)
 | 2024-01-14 | 499,117 | 1 |
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
-| 2024-01-17 | 500,432 | 1 |
+| 2024-01-17 | 500,464 | 1 |
 ## Awards
-Max (Educational): 7,857  (Ranked 53)  
-Sum: 64,865 (Ranked 24)  
+Max (Educational): 7,871  (Ranked 53)  
+Sum: 64,879 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,857 |
+| This game is Educational | 7,871 |
 | This game has Diverse Characters | 7,717 |
 | This game is Highly Recommended | 7,547 |
 | This game has Challenging Combat | 7,485 |
@@ -1027,4 +1027,4 @@ Diff (max vs sum): 29
 | 2024-01-14 | 4.69 | - | 7,836 | 64,631 |
 | 2024-01-15 | 4.69 | - | 7,850 | 64,731 |
 | 2024-01-16 | 4.69 | - | 7,857 | 64,813 |
-| 2024-01-17 | 4.69 | - | 7,857 | 64,865 |
+| 2024-01-17 | 4.69 | - | 7,871 | 64,879 |

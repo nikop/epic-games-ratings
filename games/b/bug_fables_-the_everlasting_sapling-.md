@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Chapter 1 Complete | 68.00% | ~82 |
 | Vicious Spider | 45.00% | ~54 |
-| Chapter 2 Complete | 40.00% | ~48 |
+| Chapter 2 Complete | 41.00% | ~49 |
+| The Guardian | 30.00% | ~36 |
 | Chapter 3 Complete | 30.00% | ~36 |
-| The Guardian | 29.00% | ~35 |
 | Chapter 4 Complete | 23.00% | ~28 |
 | Heavy Duty | 21.00% | ~25 |
 | Chapter 5 Complete | 19.00% | ~23 |

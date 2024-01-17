@@ -5,10 +5,10 @@
   "Ranking_Rating": 40,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_Progress": 327,
+  "Ranking_EOS_Completed": 302,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 704,
+  "EOS_Progressed": 705,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2019,6 +2019,11 @@
       "Time": "2024-01-15T11:10:13.0202009+00:00",
       "NumProgressed": 704,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T13:16:02.3150228+00:00",
+      "NumProgressed": 705,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2102,7 +2107,7 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "GoblinTales",
@@ -2150,7 +2155,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Librarian",
@@ -2166,7 +2171,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "Marksman",
@@ -2212,9 +2217,9 @@
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 78
     },
     {
       "ID": "Pyromancer",
@@ -2286,7 +2291,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "TheFallen",
@@ -2349,7 +2354,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 704,
+      "Progressed": 705,
       "Completed": 1
     }
   ],
@@ -2357,8 +2362,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:10:04.6151558+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:16:02.3150223+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.8441104+00:00",
   "LastUpdate_Ratings": "2024-01-17T12:02:35.8305458+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:10:04.6151836+00:00"
+  "LastUpdate_Achievements": "2024-01-17T13:16:02.3150608+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 559,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -393,7 +393,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -4578,6 +4578,11 @@
       "Time": "2024-01-17T05:05:19.2124414+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T13:11:31.1210084+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4811,9 +4816,9 @@
       "ID": "Achievement_030",
       "SetID": "6b34g18",
       "Name": "ICU",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 360
     },
     {
       "ID": "Achievement_031",
@@ -4915,9 +4920,9 @@
       "ID": "Achievement_044",
       "SetID": "6b34g18",
       "Name": "Someplace to Be",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_045",
@@ -5116,7 +5121,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 0
     }
   ],
@@ -5124,8 +5129,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-15T18:59:32.955991+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:05:25.7890987+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:11:31.121008+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:57:09.7040448+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:05:25.7891739+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:02:56.7844777+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:11:31.1210749+00:00"
 }

@@ -34,15 +34,15 @@ Number of Ratings: 90  (23.09.2022)
 | Arkvoodle Doodle | 5.00% | ~22 |
 | Deincarnated | 3.00% | ~13 |
 | Forbidden Donut | 2.00% | ~9 |
+| The Optional Mandate | 2.00% | ~9 |
 | Against All Odds | 1.00% | ~4 |
-| The Optional Mandate | 1.00% | ~4 |
 | Arty Facts | 0.90% | ~4 |
+| Gotta Catch All the Pop Art | 0.90% | ~4 |
+| This Is Earth Radio | 0.90% | ~4 |
 | Hidden Human Hive Harvest | 0.90% | ~4 |
 | Higher Than the Futen Zoku | 0.90% | ~4 |
 | If You Know What I Mean | 0.90% | ~4 |
 | PK Slam Dunk | 0.70% | ~3 |
-| Gotta Catch All the Pop Art | 0.70% | ~3 |
-| This Is Earth Radio | 0.70% | ~3 |
 | Toilet Break | 0.50% | ~2 |
 | Albion Bridge Is for Falling Down | 0.50% | ~2 |
 | Ouch of Body Experience | 0.50% | ~2 |

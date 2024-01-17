@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -303,9 +303,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2560,
+  "EOS_Progressed": 2561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6183,6 +6183,11 @@
       "Time": "2024-01-17T12:04:13.4078461+00:00",
       "NumProgressed": 2560,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T13:10:15.1904197+00:00",
+      "NumProgressed": 2561,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6203,7 +6208,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2278
+      "UsersEstimate": 2279
     },
     {
       "ID": "AC02",
@@ -6211,7 +6216,7 @@
       "Name": "Blood and Dust",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "AC03",
@@ -6227,7 +6232,7 @@
       "Name": "Blood and Iron",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "AC05",
@@ -6251,7 +6256,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "AC08",
@@ -6283,7 +6288,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "AC12",
@@ -6299,7 +6304,7 @@
       "Name": "Second Psalm.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "AC14",
@@ -6347,7 +6352,7 @@
       "Name": "Soledad",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "AC20",
@@ -6371,7 +6376,7 @@
       "Name": "Empty Handed",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "AC23",
@@ -6379,7 +6384,7 @@
       "Name": "Hide and Seek",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "AC24",
@@ -6395,7 +6400,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "AC26",
@@ -6411,7 +6416,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "AC28",
@@ -6459,7 +6464,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "AC34",
@@ -6499,7 +6504,7 @@
       "Name": "Edge of Orison",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "AC39",
@@ -6515,7 +6520,7 @@
       "Name": "Welcome Back!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "AC41",
@@ -6539,7 +6544,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "AC44",
@@ -6562,7 +6567,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2560,
+      "Progressed": 2561,
       "Completed": 0
     }
   ],
@@ -6570,8 +6575,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:04:13.4078456+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:10:15.1904193+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:59:35.1495322+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:04:13.4079022+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:05:24.582325+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:10:15.1904917+00:00"
 }

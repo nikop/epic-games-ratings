@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 659)  
+Rating: 4.48 (Ranked 658)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,7 +15,7 @@ Number of Ratings: 116  (23.09.2022)
 | Just the start | 50.00% | ~313 |
 | Perfect Storm | 48.00% | ~300 |
 | All That Glitters | 47.00% | ~294 |
-| Enhance! | 43.00% | ~269 |
+| Enhance! | 44.00% | ~275 |
 | One Of the Chosen | 42.00% | ~263 |
 | Devil's in the Details | 41.00% | ~257 |
 | Throne Potato | 41.00% | ~257 |

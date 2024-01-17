@@ -41,9 +41,9 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Dragon | 30.00% | ~20,488 |
 | The Dracomancer | 30.00% | ~20,488 |
 | Well Stocked | 28.00% | ~19,123 |
+| The Kinetomancer | 28.00% | ~19,123 |
 | The Umbramancer | 28.00% | ~19,123 |
 | Chaos Hunger | 27.00% | ~18,440 |
-| The Kinetomancer | 27.00% | ~18,440 |
 | The Sanguimancer | 27.00% | ~18,440 |
 | The Luminimancer | 26.00% | ~17,757 |
 | The Bibliomancer | 25.00% | ~17,074 |

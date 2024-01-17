@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1032,
+  "EOS_Progressed": 1033,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4454,6 +4454,11 @@
       "Time": "2024-01-16T15:10:05.2614495+00:00",
       "NumProgressed": 1032,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T13:15:50.2781628+00:00",
+      "NumProgressed": 1033,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4513,7 +4518,7 @@
       "Name": "French Flair",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -4784,7 +4789,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1032,
+      "Progressed": 1033,
       "Completed": 0
     }
   ],
@@ -4792,8 +4797,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:09:52.9630305+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:15:50.2781623+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.839172+00:00",
   "LastUpdate_Ratings": "2024-01-17T12:02:35.086765+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:09:52.963078+00:00"
+  "LastUpdate_Achievements": "2024-01-17T13:15:50.2782149+00:00"
 }

@@ -17,6 +17,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defeat The Dark | 1.00% | ~2,431 |
 | Goodbye, Frog Friend | 1.00% | ~2,431 |
 | Heartless | 1.00% | ~2,431 |
+| What's Yours Is Mine | 1.00% | ~2,431 |
 | Spine Breaker | 1.00% | ~2,431 |
 | A Donation | 1.00% | ~2,431 |
 | C-C-Combo | 1.00% | ~2,431 |
@@ -30,14 +31,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Ambitious Intent | 0.90% | ~2,188 |
 | R.I.P | 0.90% | ~2,188 |
 | Cold Hearted | 0.90% | ~2,188 |
+| I Am Overburdened | 0.90% | ~2,188 |
 | The Bestiary | 0.90% | ~2,188 |
-| What's Yours Is Mine | 0.90% | ~2,188 |
 | Shootout | 0.90% | ~2,188 |
 | Toxic | 0.90% | ~2,188 |
 | Dig Your Own Grave | 0.80% | ~1,945 |
 | Who To Trust? | 0.80% | ~1,945 |
 | Walk It Off | 0.80% | ~1,945 |
-| I Am Overburdened | 0.80% | ~1,945 |
 | Destroy Your Fears | 0.80% | ~1,945 |
 | Stone Touch | 0.80% | ~1,945 |
 | Shadow Walker | 0.80% | ~1,945 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,106 (Ranked 75)  
-Completed: 307 (0.13%) (Ranked 304)  
+Progressed: 243,107 (Ranked 75)  
+Completed: 307 (0.13%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -417,11 +417,11 @@ Completed: 307 (0.13%) (Ranked 304)
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
-| 2024-01-17 | 243,106 | 307 |
+| 2024-01-17 | 243,107 | 307 |
 ## Awards
-Max (Quickly Understood Controls): 1,516  (Ranked 139)  
+Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  
-Diff (max vs sum): 49  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |

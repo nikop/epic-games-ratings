@@ -18,11 +18,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Angel | 7.00% | ~931 |
 | Demonic and Divine | 7.00% | ~931 |
 | Great Upstart | 6.00% | ~798 |
+| Voice from Your Dreams | 6.00% | ~798 |
 | All Paths Open | 6.00% | ~798 |
 | Path of the Azata | 5.00% | ~665 |
 | Transformation | 5.00% | ~665 |
 | The Legacy | 5.00% | ~665 |
-| Voice from Your Dreams | 5.00% | ~665 |
 | A Flame | 5.00% | ~665 |
 | Next-Door Play | 5.00% | ~665 |
 | Get the Toad | 5.00% | ~665 |

@@ -30,11 +30,11 @@ Rating: 4.38 (Ranked 797)
 | The Secret | 37.00% | ~187 |
 | Gedeon Demir | 35.00% | ~177 |
 | Rehana Piette | 34.00% | ~172 |
-| Instinct is Marvellous | 32.00% | ~162 |
+| Instinct is Marvellous | 33.00% | ~167 |
 | Ernesto da Silva | 32.00% | ~162 |
 | Inge Frank | 31.00% | ~157 |
+| The Search | 31.00% | ~157 |
 | Hugo Beckers | 30.00% | ~152 |
-| The Search | 30.00% | ~152 |
 | The Family | 28.00% | ~142 |
 | Well-travelled | 27.00% | ~137 |
 | Thinking of Everything | 27.00% | ~137 |
@@ -43,13 +43,13 @@ Rating: 4.38 (Ranked 797)
 | Exquisite Artwork | 25.00% | ~126 |
 | Well-prepared | 22.00% | ~111 |
 | The Truth | 21.00% | ~106 |
+| What Else Did I Miss? | 19.00% | ~96 |
 | I Like an Audience | 19.00% | ~96 |
 | The Denouement | 18.00% | ~91 |
 | Sunken Secrets | 18.00% | ~91 |
-| What Else Did I Miss? | 18.00% | ~91 |
 | Probably the Greatest Detective in the World | 13.00% | ~66 |
 | Take a Break | 11.00% | ~56 |
-| Room with a View | 7.00% | ~35 |
+| Room with a View | 8.00% | ~40 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 506 (Ranked 358)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -1719,7 +1719,7 @@
   ],
   "EOS_Progressed": 2548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5381,9 +5381,9 @@
       "ID": "BEEN_THERE_RODE_THERE",
       "SetID": "d5e5a3e",
       "Name": "Been there, rode there",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "BOW_DOWN_MISTER",
@@ -5461,9 +5461,9 @@
       "ID": "LIKE_A_PALM_OF_MY_HAND",
       "SetID": "d5e5a3e",
       "Name": "Like the Back of My Hand",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "NICE_TO_MEET_YOU",
@@ -5477,9 +5477,9 @@
       "ID": "NOT_GREAT_NOT_TERRIBLE",
       "SetID": "d5e5a3e",
       "Name": "Not Great, Not Terrible",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "NUMBER_ONE_DAD",
@@ -5501,9 +5501,9 @@
       "ID": "SPORTSMAN_STAGE",
       "SetID": "d5e5a3e",
       "Name": "Sportsman stage",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 120,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "SPRINGBOK_NAMIBIA",
@@ -5549,9 +5549,9 @@
       "ID": "TOP_OF_THE_PYRAMID",
       "SetID": "d5e5a3e",
       "Name": "Top of the Pyramid",
-      "Percentage": 0.1,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "WELCOME_TO_THE_LAND_OF_VAMP_CHAMOIS",
@@ -5582,8 +5582,8 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
   "LastChanged": "2024-01-16T11:02:49.9884384+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:10:01.4354633+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:15:59.0518396+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:12.6048414+00:00",
-  "LastUpdate_Ratings": "2024-01-17T12:02:50.1989732+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:10:01.4354977+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:08:48.5686721+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:15:59.0518807+00:00"
 }

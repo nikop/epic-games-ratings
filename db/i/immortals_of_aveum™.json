@@ -6,7 +6,7 @@
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 228,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3483,
+  "EOS_Progressed": 3484,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5737,6 +5737,11 @@
       "Time": "2024-01-17T09:10:07.8616713+00:00",
       "NumProgressed": 3483,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T13:15:59.7213668+00:00",
+      "NumProgressed": 3484,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5749,7 +5754,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3100
+      "UsersEstimate": 3101
     },
     {
       "ID": "achievement_10",
@@ -5795,9 +5800,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_16",
@@ -5805,7 +5810,7 @@
       "Name": "Recruit",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "achievement_17",
@@ -5837,7 +5842,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "achievement_20",
@@ -5893,7 +5898,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "achievement_36",
@@ -5957,7 +5962,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_45",
@@ -5981,7 +5986,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "achievement_49",
@@ -6005,7 +6010,7 @@
       "Name": "Veteran",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "achievement_54",
@@ -6124,7 +6129,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3483,
+      "Progressed": 3484,
       "Completed": 5
     }
   ],
@@ -6132,8 +6137,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:10:02.2406163+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:15:59.7213663+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:58:27.9381047+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:10:02.2406668+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:04:16.4155045+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:15:59.7214309+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 274,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1431,
+  "EOS_Progressed": 1432,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4198,6 +4198,11 @@
       "Time": "2024-01-17T04:06:24.6171897+00:00",
       "NumProgressed": 1431,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T13:11:53.2301142+00:00",
+      "NumProgressed": 1432,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4226,7 +4231,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Archaeologist",
@@ -4250,7 +4255,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "BreakTheLoop",
@@ -4266,7 +4271,7 @@
       "Name": "Bridge Builder",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "ChasingTheLight",
@@ -4330,7 +4335,7 @@
       "Name": "Excellent",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "FloodedValley",
@@ -4346,7 +4351,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "GoodCitizen",
@@ -4354,7 +4359,7 @@
       "Name": "Good Citizen",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "GrasslandsRing",
@@ -4442,7 +4447,7 @@
       "Name": "A New Beginning",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NewMorality",
@@ -4458,7 +4463,7 @@
       "Name": "Not What It Seems",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Overload",
@@ -4546,7 +4551,7 @@
       "Name": "Southern Coast",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "TeamSpirit",
@@ -4602,7 +4607,7 @@
       "Name": "The Spark",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "TheThiefOfFire",
@@ -4681,7 +4686,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1431,
+      "Progressed": 1432,
       "Completed": 2
     }
   ],
@@ -4689,8 +4694,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:05:47.416612+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:11:53.2301137+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:59:05.4308891+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:05:47.4166648+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:04:54.0183882+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:11:53.2301942+00:00"
 }

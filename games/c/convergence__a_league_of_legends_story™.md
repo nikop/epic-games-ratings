@@ -35,9 +35,9 @@ Rating: 4.66 (Ranked 303)
 | Family Memories | 14.00% | ~187 |
 | Ask Questions Later | 14.00% | ~187 |
 | Chaincrawler Explorer | 13.00% | ~174 |
+| Cartographer | 13.00% | ~174 |
 | Syron for Hope | 13.00% | ~174 |
 | Treasure Trove | 12.00% | ~160 |
-| Cartographer | 12.00% | ~160 |
 | Sump Explorer | 12.00% | ~160 |
 | Factorywood Explorer | 11.00% | ~147 |
 | Theater Explorer | 11.00% | ~147 |
@@ -49,7 +49,7 @@ Rating: 4.66 (Ranked 303)
 | Golem Hunter | 7.00% | ~93 |
 | Clovemary for Remembering | 6.00% | ~80 |
 | Hexlock for Protection | 6.00% | ~80 |
-| Rungs Was Right | 5.00% | ~67 |
+| Rungs Was Right | 6.00% | ~80 |
 | Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~27 |
 | Fitting In | 2.00% | ~27 |

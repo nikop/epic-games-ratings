@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~479 |
 | Shoestring Budget | 0.10% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,399 (Ranked 44)  
+Progressed: 479,401 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -377,14 +377,14 @@ Completed: 22 (0.00%) (Ranked 404)
 | 2024-01-14 | 479,304 | 22 |
 | 2024-01-15 | 479,342 | 22 |
 | 2024-01-16 | 479,383 | 22 |
-| 2024-01-17 | 479,399 | 22 |
+| 2024-01-17 | 479,401 | 22 |
 ## Awards
-Max (Relaxing): 6,497  (Ranked 63)  
-Sum: 51,270 (Ranked 31)  
+Max (Relaxing): 6,498  (Ranked 63)  
+Sum: 51,271 (Ranked 31)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,497 |
+| This game is Relaxing | 6,498 |
 | This game is Extremely Fun | 6,089 |
 | This game has Competitive Players | 5,938 |
 | This game is Highly Recommended | 5,933 |
@@ -747,4 +747,4 @@ Diff (max vs sum): 32
 | 2024-01-14 | 4.80 | - | 6,497 | 51,258 |
 | 2024-01-15 | 4.80 | - | 6,497 | 51,262 |
 | 2024-01-16 | 4.80 | - | 6,497 | 51,269 |
-| 2024-01-17 | 4.80 | - | 6,497 | 51,270 |
+| 2024-01-17 | 4.80 | - | 6,498 | 51,271 |

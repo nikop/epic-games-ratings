@@ -5,10 +5,10 @@ Rating: 4.19 (Ranked 976)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,100 |
-| Battlefields Have Memories | 82.00% | ~2,856 |
-| Enlisted | 75.00% | ~2,612 |
-| Maybe Engage a Little | 70.00% | ~2,438 |
+| Unforeseen | 89.00% | ~3,101 |
+| Battlefields Have Memories | 82.00% | ~2,857 |
+| Enlisted | 75.00% | ~2,613 |
+| Maybe Engage a Little | 70.00% | ~2,439 |
 | No More Names | 54.00% | ~1,881 |
 | Initiate | 41.00% | ~1,428 |
 | Thrada-Kul | 37.00% | ~1,289 |
@@ -23,11 +23,11 @@ Rating: 4.19 (Ranked 976)
 | A Familiar Nest | 18.00% | ~627 |
 | Periapt Alizarin | 17.00% | ~592 |
 | Geas Aristeya | 16.00% | ~557 |
-| A Perfect Cycle | 16.00% | ~557 |
-| Recruit | 15.00% | ~522 |
+| A Perfect Cycle | 15.00% | ~523 |
+| Recruit | 15.00% | ~523 |
 | Armsman | 13.00% | ~453 |
 | Lights Army | 11.00% | ~383 |
-| Periapt Cerulean | 9.00% | ~313 |
+| Periapt Cerulean | 9.00% | ~314 |
 | Good Boy | 8.00% | ~279 |
 | Best Dressed | 7.00% | ~244 |
 | Periapt Viridian | 7.00% | ~244 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 976)
 | Armaments Gules | 5.00% | ~174 |
 | Scholar | 4.00% | ~139 |
 | Armaments Vert | 4.00% | ~139 |
-| Veteran | 3.00% | ~104 |
+| Veteran | 3.00% | ~105 |
 | Grand Magnus | 2.00% | ~70 |
 | Master of Carmine | 1.00% | ~35 |
 | Shroudfane Surveyor | 1.00% | ~35 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 976)
 | Out of Time | 0.30% | ~10 |
 | Fowl Play | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,483 (Ranked 228)  
-Completed: 5 (0.14%) (Ranked 301)  
+Progressed: 3,484 (Ranked 228)  
+Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,7 +164,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-14 | 3,443 | 5 |
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
-| 2024-01-17 | 3,483 | 5 |
+| 2024-01-17 | 3,484 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

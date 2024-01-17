@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 866,
+  "EOS_Progressed": 867,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.97,
+  "EOS_Completed_Percentage": 16.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3751,6 +3751,11 @@
       "Time": "2024-01-17T12:05:04.4219601+00:00",
       "NumProgressed": 866,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2024-01-17T13:11:09.5131472+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 22,
@@ -3762,7 +3767,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "LEVEL_002",
@@ -3770,7 +3775,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "LEVEL_003",
@@ -3794,7 +3799,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "LEVEL_006",
@@ -3832,9 +3837,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 251
+      "UsersEstimate": 243
     },
     {
       "ID": "LEVEL_011",
@@ -3937,7 +3942,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 866,
+      "Progressed": 867,
       "Completed": 147
     }
   ],
@@ -3945,8 +3950,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:05:04.4219598+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:11:09.5131464+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:58:34.2846827+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:05:04.4219893+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:04:23.1242375+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:11:09.5131889+00:00"
 }

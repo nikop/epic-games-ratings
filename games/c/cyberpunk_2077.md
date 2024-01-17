@@ -17,6 +17,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.20% | ~2,107 |
 | True Soldier | 0.20% | ~2,107 |
 | Legend of The Afterlife | 0.20% | ~2,107 |
+| All the President's Men | 0.20% | ~364 |
+| Arachnophobia | 0.20% | ~364 |
 | City Lights | 0.10% | ~1,053 |
 | To Bad Decisions! | 0.10% | ~1,053 |
 | Bushido and Chill | 0.10% | ~1,053 |
@@ -53,9 +55,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The APB is Not Enough | 0.10% | ~182 |
 | Spin Doctor | 0.10% | ~182 |
 | Relic Ruler | 0.10% | ~182 |
-| All the President's Men | 0.10% | ~182 |
 | Judgement Day | 0.10% | ~182 |
-| Arachnophobia | 0.10% | ~182 |
 | King of Cups | 0.10% | ~182 |
 | King of Pentacles | 0.10% | ~182 |
 | King of Swords | 0.10% | ~182 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,422 (Ranked 17)  
+Progressed: 1,053,470 (Ranked 17)  
 Completed: 3,112 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 3,112 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,422 | 3,112 |
+| 2024-01-17 | 1,053,470 | 3,112 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
 Sum: 500,346 (Ranked 8)  

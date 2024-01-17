@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19095,
+  "EOS_Progressed": 19097,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17619,6 +17619,11 @@
       "Time": "2024-01-17T12:05:42.9153924+00:00",
       "NumProgressed": 19095,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T13:11:48.7113884+00:00",
+      "NumProgressed": 19097,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17647,7 +17652,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "12",
@@ -17679,7 +17684,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "16",
@@ -17695,7 +17700,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "18",
@@ -17711,7 +17716,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "2",
@@ -17735,7 +17740,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "22",
@@ -17783,7 +17788,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "28",
@@ -17807,7 +17812,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "30",
@@ -17839,7 +17844,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "7",
@@ -17863,7 +17868,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "31",
@@ -17887,7 +17892,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "34",
@@ -17903,20 +17908,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19095,
+      "Progressed": 19097,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5049,
+      "Progressed": 5051,
       "Completed": 1333
     }
   ],
@@ -17924,8 +17929,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:05:42.9153916+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:11:48.7113879+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:59:33.7516611+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:05:42.9154961+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:05:23.1722355+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:11:48.7115241+00:00"
 }

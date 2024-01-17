@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22488,
+  "EOS_Progressed": 22489,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14203,6 +14203,11 @@
       "Time": "2024-01-17T12:09:46.1911712+00:00",
       "NumProgressed": 22488,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T13:15:43.2689584+00:00",
+      "NumProgressed": 22489,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14342,7 +14347,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "KILL_ROBOT",
@@ -14430,7 +14435,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14454,7 +14459,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2923
+      "UsersEstimate": 2924
     },
     {
       "ID": "STORY_TOWER",
@@ -14589,13 +14594,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22488,
+      "Progressed": 22489,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10414,
+      "Progressed": 10415,
       "Completed": 29
     }
   ],
@@ -14603,8 +14608,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T12:09:46.1911708+00:00",
+  "LastChanged_Achievements": "2024-01-17T13:15:43.2689577+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T12:03:10.0291984+00:00",
-  "LastUpdate_Achievements": "2024-01-17T12:09:46.1912588+00:00"
+  "LastUpdate_Ratings": "2024-01-17T13:09:08.7039558+00:00",
+  "LastUpdate_Achievements": "2024-01-17T13:15:43.2690564+00:00"
 }

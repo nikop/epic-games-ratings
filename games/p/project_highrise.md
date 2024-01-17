@@ -84,8 +84,8 @@
 | High Hand | 0.80% | ~4 |
 | Double Down | 0.80% | ~4 |
 | Artistic Largesse | 0.60% | ~3 |
+| Scenario Master | 0.60% | ~3 |
 | Poker Face | 0.40% | ~2 |
-| Scenario Master | 0.40% | ~2 |
 | Infrastructure Info | 0.20% | ~1 |
 | Statue Stature | 0.00% | ~0 |
 | Commercial Campaigns | 0.00% | ~0 |

@@ -8,8 +8,8 @@ Rating: 3.68 (Ranked 1,098)
 | I Like My Stakes Rare! | 23.00% | ~552 |
 | Catch and Release | 18.00% | ~432 |
 | Home Is Where the Heart Is | 17.00% | ~408 |
-| ICU | 16.00% | ~384 |
 | Wounded Whispers | 16.00% | ~384 |
+| ICU | 15.00% | ~360 |
 | Blood Will Have Blood | 14.00% | ~336 |
 | Ne Plus Ultra | 14.00% | ~336 |
 | Fly Fisher | 13.00% | ~312 |
@@ -57,8 +57,8 @@ Rating: 3.68 (Ranked 1,098)
 | Enemy of My Enemy | 0.50% | ~12 |
 | So Anyway I Started Blasting | 0.40% | ~10 |
 | Bob’s Final Hour | 0.40% | ~10 |
-| Someplace to Be | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
+| Someplace to Be | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
 | Ask Not For Whom The Horns Blow | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
@@ -72,7 +72,7 @@ Rating: 3.68 (Ranked 1,098)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 243)  
+Progressed: 2,401 (Ranked 243)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 2,390 | 0 |
 | 2024-01-15 | 2,393 | 0 |
 | 2024-01-16 | 2,398 | 0 |
-| 2024-01-17 | 2,400 | 0 |
+| 2024-01-17 | 2,401 | 0 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 548)  
 Sum: 26 (Ranked 559)  
