@@ -2,9 +2,9 @@
   "ID": "18567c7914ad48f594fd4b6e4c710b9f",
   "Name": "JYDGE",
   "ProductSlug": "jydge-14242d",
-  "Ranking_EOS_Progress": 633,
+  "Ranking_EOS_Progress": 630,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 493,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-27T10:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -121,6 +121,11 @@
       "Time": "2024-01-06T19:03:23.5238025+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T15:06:39.8656063+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -130,7 +135,7 @@
       "ID": "ACT_1",
       "SetID": "7e5mm2p",
       "Name": "The Dawn of Jydgement",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 60,
       "UsersEstimate": 7
     },
@@ -138,7 +143,7 @@
       "ID": "ACT_2",
       "SetID": "7e5mm2p",
       "Name": "The Jydgement Day",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 60,
       "UsersEstimate": 3
     },
@@ -210,7 +215,7 @@
       "ID": "SAVIOR",
       "SetID": "7e5mm2p",
       "Name": "Savior",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -218,7 +223,7 @@
       "ID": "THREE_MEDALS",
       "SetID": "7e5mm2p",
       "Name": "Mission Mastered",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -251,7 +256,7 @@
     {
       "ID": "7e5mm2p",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
@@ -259,8 +264,8 @@
   "FirstSeenRating": "2023-05-03T05:56:54.7929535+00:00",
   "FirstSeenAchievements": "2023-04-26T13:12:00.0872815+00:00",
   "LastChanged": "2023-05-03T05:56:54.7929535+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:06:56.8135766+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:06:39.8656057+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:51.8116776+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:01:42.240411+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:06:56.8135926+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:01:27.3097587+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:06:39.8656226+00:00"
 }

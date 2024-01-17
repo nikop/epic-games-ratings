@@ -8,8 +8,8 @@
 | Too Cool For School | 85.00% | ~176 |
 | Feng Shui | 72.00% | ~149 |
 | Who's A Good Boy | 71.00% | ~147 |
-| Power Up | 70.00% | ~145 |
-| Thick Skin | 68.00% | ~141 |
+| Power Up | 71.00% | ~147 |
+| Thick Skin | 69.00% | ~143 |
 | Math Wizard | 66.00% | ~137 |
 | Destroy Erase Improve | 66.00% | ~137 |
 | Power Overload | 63.00% | ~130 |

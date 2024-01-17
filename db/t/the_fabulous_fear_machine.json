@@ -577,9 +577,9 @@
       "ID": "2",
       "SetID": "d37idgg",
       "Name": "You have three wishes left",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "20",
@@ -872,8 +872,8 @@
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:07:07.1313248+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:06:49.2227215+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:27.2394932+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:00:38.2873852+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:07:07.1313635+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:00:26.4219991+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:06:49.2227476+00:00"
 }

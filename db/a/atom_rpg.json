@@ -427,7 +427,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1741,
+  "EOS_Progressed": 1742,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
@@ -4697,6 +4697,11 @@
       "Time": "2024-01-16T16:09:47.0618659+00:00",
       "NumProgressed": 1741,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T15:10:53.8692477+00:00",
+      "NumProgressed": 1742,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4764,7 +4769,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1724
+      "UsersEstimate": 1725
     },
     {
       "ID": "EXPERT_1",
@@ -4868,7 +4873,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "PACIFIST",
@@ -4972,7 +4977,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "WANDERER_1",
@@ -4995,15 +5000,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1741,
+      "Progressed": 1742,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:11:19.9415863+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:10:53.8692475+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:02:44.6834227+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:11:19.9416391+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:02:47.5095776+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:10:53.869285+00:00"
 }

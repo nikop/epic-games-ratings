@@ -5,8 +5,8 @@ Rating: 4.81 (Ranked 82)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 69.00% | ~1,064 |
-| The Adventure Begins | 50.00% | ~771 |
+| A New Journey | 69.00% | ~1,065 |
+| The Adventure Begins | 50.00% | ~772 |
 | With Great Power… | 37.00% | ~571 |
 | Swabbie | 36.00% | ~555 |
 | This Belongs in a Museum | 33.00% | ~509 |
@@ -15,8 +15,8 @@ Rating: 4.81 (Ranked 82)
 | Mirror Mirror on the Wall | 26.00% | ~401 |
 | Powder Monkey | 26.00% | ~401 |
 | Pirates Assemble! | 24.00% | ~370 |
-| Buccaneer | 20.00% | ~308 |
-| Fishy Fish | 20.00% | ~308 |
+| Buccaneer | 20.00% | ~309 |
+| Fishy Fish | 20.00% | ~309 |
 | All Good Things | 18.00% | ~278 |
 | Persistent Parasite | 17.00% | ~262 |
 | Seadog | 15.00% | ~231 |
@@ -32,7 +32,7 @@ Rating: 4.81 (Ranked 82)
 | Marauder | 3.00% | ~46 |
 | Welcome Back Jester | 3.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,542 (Ranked 270)  
+Progressed: 1,543 (Ranked 270)  
 Completed: 37 (2.40%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,6 +192,7 @@ Completed: 37 (2.40%) (Ranked 130)
 | 2024-01-14 | 1,536 | 37 |
 | 2024-01-15 | 1,541 | 37 |
 | 2024-01-16 | 1,542 | 37 |
+| 2024-01-17 | 1,543 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

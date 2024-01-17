@@ -6,54 +6,54 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~80,052 |
-| No Escape | 86.00% | ~70,974 |
+| Manifestation of the Soul | 97.00% | ~80,053 |
+| No Escape | 86.00% | ~70,975 |
 | Seeker of Power | 84.00% | ~69,324 |
-| Hopes and Dreams | 82.00% | ~67,673 |
-| Lantern Smasher | 78.00% | ~64,372 |
-| The Pirate's Way | 73.00% | ~60,245 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~58,595 |
-| The King of the Dark Elves | 68.00% | ~56,119 |
-| Memories of the Distant Past | 66.00% | ~54,468 |
-| Distortion's Progeny | 62.00% | ~51,167 |
-| Savant | 61.00% | ~50,342 |
-| A Landscape of Memory | 58.00% | ~47,866 |
-| The Wind's Light | 54.00% | ~44,565 |
+| Hopes and Dreams | 82.00% | ~67,674 |
+| Lantern Smasher | 78.00% | ~64,373 |
+| The Pirate's Way | 73.00% | ~60,246 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~58,596 |
+| The King of the Dark Elves | 68.00% | ~56,120 |
+| Memories of the Distant Past | 66.00% | ~54,469 |
+| Distortion's Progeny | 62.00% | ~51,168 |
+| Savant | 61.00% | ~50,343 |
+| A Landscape of Memory | 58.00% | ~47,867 |
+| The Wind's Light | 54.00% | ~44,566 |
 | Vague Remembrances | 49.00% | ~40,439 |
-| The Fire's Light | 47.00% | ~38,788 |
-| Phantom Memories | 47.00% | ~38,788 |
+| The Fire's Light | 47.00% | ~38,789 |
+| Phantom Memories | 47.00% | ~38,789 |
 | Imbued Memories | 46.00% | ~37,963 |
 | The Earth's Light | 45.00% | ~37,138 |
 | Shared Recollections | 42.00% | ~34,662 |
-| The Water's Light | 40.00% | ~33,011 |
+| The Water's Light | 40.00% | ~33,012 |
 | Path of the Sage | 39.00% | ~32,186 |
-| Malice Takes Root | 37.00% | ~30,535 |
-| Path of the Dark Knight | 37.00% | ~30,535 |
-| Path of the Breaker | 37.00% | ~30,535 |
+| Malice Takes Root | 37.00% | ~30,536 |
+| Path of the Dark Knight | 37.00% | ~30,536 |
+| Path of the Breaker | 37.00% | ~30,536 |
 | Duty's Course | 36.00% | ~29,710 |
 | Path of the Paladin | 36.00% | ~29,710 |
 | Path of the Liberator | 35.00% | ~28,885 |
 | Led by the Nose | 34.00% | ~28,060 |
 | Path of the Void Knight | 34.00% | ~28,060 |
 | Path of the Tyrant | 34.00% | ~28,060 |
-| Terminus of Fate | 33.00% | ~27,234 |
-| Path of the Ninja | 33.00% | ~27,234 |
-| His Name Is Garland | 33.00% | ~27,234 |
+| Terminus of Fate | 33.00% | ~27,235 |
+| Path of the Ninja | 33.00% | ~27,235 |
+| His Name Is Garland | 33.00% | ~27,235 |
 | Path of the Assassin | 32.00% | ~26,409 |
 | Seeker of Ultimate Power | 24.00% | ~19,807 |
 | Artifact Collector | 22.00% | ~18,156 |
 | Polymath | 22.00% | ~18,156 |
 | True Potential | 21.00% | ~17,331 |
 | Origin of True Chaos | 20.00% | ~16,506 |
-| Master's Awakening | 19.00% | ~15,680 |
-| Jack-of-All-Trades | 19.00% | ~15,680 |
-| Cycle of Darkness | 16.00% | ~13,204 |
+| Master's Awakening | 19.00% | ~15,681 |
+| Jack-of-All-Trades | 19.00% | ~15,681 |
+| Cycle of Darkness | 16.00% | ~13,205 |
 | Job Master | 8.00% | ~6,602 |
 | Crest Bearer | 7.00% | ~5,777 |
 | Strangers' Memories | 3.00% | ~2,476 |
 | A Tale of Origins and Endings | 2.00% | ~1,651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,528 (Ranked 111)  
+Progressed: 82,529 (Ranked 111)  
 Completed: 2,236 (2.71%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 2,236 (2.71%) (Ranked 119)
 | 2024-01-14 | 82,487 | 2,232 |
 | 2024-01-15 | 82,505 | 2,236 |
 | 2024-01-16 | 82,516 | 2,236 |
-| 2024-01-17 | 82,528 | 2,236 |
+| 2024-01-17 | 82,529 | 2,236 |
 ## Awards
 Max (Great Boss Battles): 783  (Ranked 188)  
-Sum: 1,611 (Ranked 242)  
+Sum: 1,612 (Ranked 242)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): -54
 | This game has Great Boss Battles | 783 |
 | This game is Extremely Fun | 115 |
 | This game is Highly Recommended | 114 |
-| This game has Diverse Characters | 111 |
+| This game has Diverse Characters | 112 |
 | This game has Amazing Storytelling | 107 |
 | This game has Quickly Understood Controls | 106 |
 | This game has Challenging Combat | 98 |
@@ -478,3 +478,4 @@ Diff (max vs sum): -54
 | 2024-01-13 | 4.51 | - | 781 | 1,609 |
 | 2024-01-14 | 4.51 | - | 782 | 1,610 |
 | 2024-01-16 | 4.51 | - | 783 | 1,611 |
+| 2024-01-17 | 4.51 | - | 783 | 1,612 |

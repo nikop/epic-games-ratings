@@ -11,6 +11,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.20% | ~2,107 |
 | Life of the Road | 0.20% | ~2,107 |
 | Stanislavski's Method | 0.20% | ~2,107 |
+| The Fool | 0.20% | ~2,107 |
 | The Hermit | 0.20% | ~2,107 |
 | The High Priestess | 0.20% | ~2,107 |
 | The Lovers | 0.20% | ~2,107 |
@@ -41,7 +42,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.10% | ~1,054 |
 | Rough Landing | 0.10% | ~1,054 |
 | The Devil | 0.10% | ~1,054 |
-| The Fool | 0.10% | ~1,054 |
 | The Star | 0.10% | ~1,054 |
 | The Sun | 0.10% | ~1,054 |
 | The World | 0.10% | ~1,054 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,512 (Ranked 17)  
+Progressed: 1,053,569 (Ranked 17)  
 Completed: 3,113 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 3,113 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,512 | 3,113 |
+| 2024-01-17 | 1,053,569 | 3,113 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
 Sum: 500,511 (Ranked 8)  

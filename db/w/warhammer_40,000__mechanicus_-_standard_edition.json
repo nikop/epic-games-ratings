@@ -2,7 +2,7 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 78,
@@ -1116,7 +1116,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232442,
+  "EOS_Progressed": 232444,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
@@ -31016,6 +31016,11 @@
       "Time": "2024-01-17T14:11:18.942742+00:00",
       "NumProgressed": 232442,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T15:10:52.9832056+00:00",
+      "NumProgressed": 232444,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31027,7 +31032,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46488
+      "UsersEstimate": 46489
     },
     {
       "ID": "ACH_BASE_10",
@@ -31275,7 +31280,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30217
+      "UsersEstimate": 30218
     },
     {
       "ID": "ACH_BASE_8",
@@ -31298,7 +31303,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232442,
+      "Progressed": 232444,
       "Completed": 5
     }
   ],
@@ -31306,8 +31311,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:11:18.9427417+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:10:52.9832004+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:57:59.1492983+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:11:18.9429118+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:58:00.882833+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:10:52.9833664+00:00"
 }

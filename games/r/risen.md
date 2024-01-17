@@ -28,9 +28,9 @@ Rating: 4.58 (Ranked 473)
 | Family man | 17.00% | ~35 |
 | Wise man | 16.00% | ~33 |
 | Fence | 16.00% | ~33 |
+| Pandora's box | 15.00% | ~31 |
 | Ghost hunter | 15.00% | ~31 |
 | Hard worker | 15.00% | ~31 |
-| Pandora's box | 14.00% | ~29 |
 | Master detective | 14.00% | ~29 |
 | Peacekeeper | 13.00% | ~27 |
 | Defender | 12.00% | ~24 |

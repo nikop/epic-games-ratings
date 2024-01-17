@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3627,
+  "EOS_Progressed": 3628,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9000,6 +9000,11 @@
       "Time": "2024-01-17T11:03:56.1319925+00:00",
       "NumProgressed": 3627,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T15:04:58.4306366+00:00",
+      "NumProgressed": 3628,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9012,7 +9017,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9036,7 +9041,7 @@
       "Name": "Stamina Star",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -9100,7 +9105,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9220,7 +9225,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9300,7 +9305,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9364,7 +9369,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9403,7 +9408,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3627,
+      "Progressed": 3628,
       "Completed": 0
     }
   ],
@@ -9411,8 +9416,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:05:06.63827+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:04:58.4306361+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:58:33.1700447+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:05:06.6383597+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:58:31.5358517+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:04:58.430725+00:00"
 }

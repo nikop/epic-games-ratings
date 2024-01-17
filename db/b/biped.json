@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10541,
+  "EOS_Progressed": 10544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17179,6 +17179,11 @@
       "Time": "2024-01-17T14:06:23.0548201+00:00",
       "NumProgressed": 10541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T15:06:08.8770288+00:00",
+      "NumProgressed": 10544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17190,7 +17195,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "10",
@@ -17206,7 +17211,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "12",
@@ -17246,7 +17251,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3058
     },
     {
       "ID": "3",
@@ -17270,7 +17275,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "6",
@@ -17302,14 +17307,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10541,
+      "Progressed": 10544,
       "Completed": 0
     }
   ],
@@ -17317,8 +17322,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:06:23.0548197+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:06:08.8770284+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:59:50.4583859+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:06:23.0549365+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:59:42.9591296+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:06:08.8771262+00:00"
 }

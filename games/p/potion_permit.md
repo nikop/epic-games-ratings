@@ -5,30 +5,30 @@ Rating: 3.87 (Ranked 1,078)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,920 |
-| The First Step | 87.00% | ~1,704 |
-| Moonbury Traveller | 63.00% | ~1,234 |
-| Rookie Chemist | 60.00% | ~1,175 |
+| Welcome to Moonbury | 98.00% | ~1,921 |
+| The First Step | 87.00% | ~1,705 |
+| Moonbury Traveller | 63.00% | ~1,235 |
+| Rookie Chemist | 60.00% | ~1,176 |
 | Great Doctor | 50.00% | ~980 |
 | Dog Whisperer | 47.00% | ~921 |
-| Friendly | 46.00% | ~901 |
-| The Capitalist | 43.00% | ~842 |
+| Friendly | 46.00% | ~902 |
+| The Capitalist | 43.00% | ~843 |
 | K.O.! | 42.00% | ~823 |
 | Intermediate Chemist | 39.00% | ~764 |
-| Decorative Mind | 33.00% | ~646 |
-| Lumber Specialist | 31.00% | ~607 |
+| Decorative Mind | 33.00% | ~647 |
+| Lumber Specialist | 31.00% | ~608 |
 | Kind-hearted | 25.00% | ~490 |
 | Catch of the Day | 25.00% | ~490 |
 | Amateur Chef | 22.00% | ~431 |
 | Fishing Guru | 20.00% | ~392 |
 | Spark of Love | 18.00% | ~353 |
-| Community Helper | 16.00% | ~313 |
+| Community Helper | 16.00% | ~314 |
 | Expert Chemist | 14.00% | ~274 |
 | Stone Specialist | 14.00% | ~274 |
 | Line Cook | 13.00% | ~255 |
 | Sociable | 12.00% | ~235 |
 | Ablutomaniac | 12.00% | ~235 |
-| Production Sorter | 11.00% | ~215 |
+| Production Sorter | 11.00% | ~216 |
 | Good Samaritan | 10.00% | ~196 |
 | Acrobatic Adventurer | 9.00% | ~176 |
 | Animal Exterminator | 9.00% | ~176 |
@@ -44,7 +44,7 @@ Rating: 3.87 (Ranked 1,078)
 | Moonbury Navigator | 1.00% | ~20 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,959 (Ranked 255)  
+Progressed: 1,960 (Ranked 255)  
 Completed: 11 (0.56%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 11 (0.56%) (Ranked 220)
 | 2024-01-14 | 1,951 | 11 |
 | 2024-01-15 | 1,955 | 11 |
 | 2024-01-16 | 1,958 | 11 |
-| 2024-01-17 | 1,959 | 11 |
+| 2024-01-17 | 1,960 | 11 |
 ## Awards
 Max (Character Customization): 72  (Ranked 416)  
 Sum: 72 (Ranked 491)  

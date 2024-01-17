@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3983,9 +3983,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20841,
+  "EOS_Progressed": 20843,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19858,6 +19858,11 @@
       "Time": "2024-01-17T14:09:10.7122461+00:00",
       "NumProgressed": 20841,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-17T15:08:54.7372329+00:00",
+      "NumProgressed": 20843,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20278,7 +20283,7 @@
       "Name": "Frosts",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "WinNearGreed",
@@ -20286,7 +20291,7 @@
       "Name": "Land of Greed",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "WinNearLibrary",
@@ -20310,7 +20315,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "WinNearStorms",
@@ -20341,15 +20346,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20841,
+      "Progressed": 20843,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-17T13:04:17.388314+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:09:10.7122459+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:08:54.7372325+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-17T13:59:20.3031861+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:09:10.7123776+00:00"
+  "LastUpdate_Ratings": "2024-01-17T14:59:14.2809155+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:08:54.7373309+00:00"
 }

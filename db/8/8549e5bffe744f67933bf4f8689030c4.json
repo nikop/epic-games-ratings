@@ -342,9 +342,9 @@
       "ID": "ClearStage50",
       "SetID": "59jf8f5",
       "Name": "Cleared 50 Stages!",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearStageAll",
@@ -374,9 +374,9 @@
       "ID": "CrossMagmaWithAnguirus",
       "SetID": "59jf8f5",
       "Name": "Fearless",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CrossMagmaWithKuwaganoko",
@@ -654,9 +654,9 @@
       "ID": "ObtainStar3OnStage50",
       "SetID": "59jf8f5",
       "Name": "Completed 50 Stages",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ObtainStar3OnStageAll",
@@ -725,8 +725,8 @@
   ],
   "FirstSeen": "2023-11-24T21:58:03.1577897+00:00",
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:09:11.0010856+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:08:54.9609568+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:15.6682228+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:00:41.4824568+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:09:11.0011562+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:00:29.0188925+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:08:54.9610083+00:00"
 }

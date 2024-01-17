@@ -10968,7 +10968,7 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133053,
+  "EOS_Progressed": 133057,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 1,
@@ -40283,6 +40283,11 @@
       "Time": "2024-01-17T14:11:17.4219823+00:00",
       "NumProgressed": 133053,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T15:10:51.4153836+00:00",
+      "NumProgressed": 133057,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40646,7 +40651,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10644
+      "UsersEstimate": 10645
     },
     {
       "ID": "hero_story_complete_all",
@@ -40830,7 +40835,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "combat_kill_collector",
@@ -40878,7 +40883,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -40886,7 +40891,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "quest_complete_crusader",
@@ -40925,21 +40930,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133053,
+      "Progressed": 133057,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7922,
+      "Progressed": 7926,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-17T10:00:21.5461283+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:11:17.4219821+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:10:51.4153831+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:00:29.7373294+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:11:17.4221961+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:00:18.1010494+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:10:51.415571+00:00"
 }

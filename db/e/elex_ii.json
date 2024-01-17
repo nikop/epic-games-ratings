@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1612,6 +1612,11 @@
       "Time": "2024-01-16T21:05:59.265919+00:00",
       "NumProgressed": 259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T15:08:19.6351328+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1630,9 +1635,9 @@
       "ID": "10000ELEXIT",
       "SetID": "a1angca",
       "Name": "Banker",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "1000ELEXIT",
@@ -1640,7 +1645,7 @@
       "Name": "Entrepreneur",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "100HEALS",
@@ -1670,9 +1675,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "20TELEPORTS",
@@ -1798,9 +1803,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "BRINGTOYS",
@@ -1824,7 +1829,7 @@
       "Name": "Alb",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "CHOSEBSK",
@@ -1832,7 +1837,7 @@
       "Name": "Berserker",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "CHOSEKLE",
@@ -1864,7 +1869,7 @@
       "Name": "Creator",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "DESTRUCTION",
@@ -1894,9 +1899,9 @@
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "FINDCITY",
@@ -1912,7 +1917,7 @@
       "Name": "Best Buddy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "FINDMAP",
@@ -1928,7 +1933,7 @@
       "Name": "Family Reunion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1950,9 +1955,9 @@
       "ID": "HELPTHORHILD",
       "SetID": "a1angca",
       "Name": "Pass A38",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "KILL200MONSTER",
@@ -1968,7 +1973,7 @@
       "Name": "Hunter",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "KILL20SKYANDS",
@@ -2008,7 +2013,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LOVECAJA",
@@ -2016,22 +2021,22 @@
       "Name": "Lover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:08:33.0499486+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:08:19.6351323+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:02:46.4344952+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:08:33.0499855+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:02:49.0302373+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:08:19.6351718+00:00"
 }

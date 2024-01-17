@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19043,
+  "EOS_Progressed": 19046,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12429,6 +12429,11 @@
       "Time": "2024-01-17T13:09:26.1294837+00:00",
       "NumProgressed": 19043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T15:04:16.8154041+00:00",
+      "NumProgressed": 19046,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -12537,7 +12542,7 @@
       "Name": "Level 0",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 4951
+      "UsersEstimate": 4952
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -12545,7 +12550,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -12632,14 +12637,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 19043,
+      "Progressed": 19046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:04:21.2341935+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:04:16.8154038+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:08.340545+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:00:57.3476033+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:04:21.2342535+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:00:46.0994521+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:04:16.8154829+00:00"
 }

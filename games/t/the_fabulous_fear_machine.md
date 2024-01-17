@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Master trainee | 55.00% | ~51 |
-| You have three wishes left | 48.00% | ~45 |
+| You have three wishes left | 49.00% | ~46 |
 | Jung's dream | 39.00% | ~36 |
 | The battle of Great Britain | 39.00% | ~36 |
 | Pulp! Where Monsters Dwell | 31.00% | ~29 |

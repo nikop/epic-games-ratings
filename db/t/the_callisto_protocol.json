@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22493,
+  "EOS_Progressed": 22494,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 518,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14213,6 +14213,11 @@
       "Time": "2024-01-17T14:10:58.8437282+00:00",
       "NumProgressed": 22493,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T15:10:33.7601303+00:00",
+      "NumProgressed": 22494,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14288,7 +14293,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14328,7 +14333,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5173
+      "UsersEstimate": 5174
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14352,7 +14357,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4948
+      "UsersEstimate": 4949
     },
     {
       "ID": "KILL_ROBOT",
@@ -14366,9 +14371,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 3824
+      "UsersEstimate": 4049
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14400,7 +14405,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5398
+      "UsersEstimate": 5399
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14599,13 +14604,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22493,
+      "Progressed": 22494,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10419,
+      "Progressed": 10420,
       "Completed": 29
     }
   ],
@@ -14613,8 +14618,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:10:58.8437278+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:10:33.7601301+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:03:53.9990065+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:10:58.8438446+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:03:51.2910418+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:10:33.7602218+00:00"
 }

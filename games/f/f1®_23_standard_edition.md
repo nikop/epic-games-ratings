@@ -5,26 +5,26 @@ Rating: 4.64 (Ranked 344)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,686 |
-| On the Top Step | 83.00% | ~15,219 |
-| Setting up for Success | 69.00% | ~12,652 |
-| Team Orders | 68.00% | ~12,468 |
-| Engineer | 45.00% | ~8,251 |
-| Familiar Faces | 42.00% | ~7,701 |
-| Going the Extra Mile | 36.00% | ~6,601 |
-| Sharing the Love | 33.00% | ~6,051 |
+| Getting on the Step | 91.00% | ~16,688 |
+| On the Top Step | 83.00% | ~15,221 |
+| Setting up for Success | 69.00% | ~12,653 |
+| Team Orders | 68.00% | ~12,470 |
+| Engineer | 45.00% | ~8,252 |
+| Familiar Faces | 42.00% | ~7,702 |
+| Going the Extra Mile | 36.00% | ~6,602 |
+| Sharing the Love | 33.00% | ~6,052 |
 | Hitting a Season | 27.00% | ~4,951 |
 | A Dozen Pieces | 25.00% | ~4,584 |
 | Making History | 25.00% | ~4,584 |
-| Network Success | 23.00% | ~4,217 |
-| Challenge Yourself | 23.00% | ~4,217 |
+| Network Success | 23.00% | ~4,218 |
+| Challenge Yourself | 23.00% | ~4,218 |
 | Writing a new Chapter | 19.00% | ~3,484 |
-| Spring Cleaning | 18.00% | ~3,300 |
-| Reduce | 15.00% | ~2,750 |
-| Ups and Downs | 15.00% | ~2,750 |
+| Spring Cleaning | 18.00% | ~3,301 |
+| Reduce | 15.00% | ~2,751 |
+| Ups and Downs | 15.00% | ~2,751 |
 | Crucial Combo | 13.00% | ~2,384 |
 | Proving Them Wrong | 13.00% | ~2,384 |
-| Reuse | 12.00% | ~2,200 |
+| Reuse | 12.00% | ~2,201 |
 | Gathering Dust | 11.00% | ~2,017 |
 | Eagle Eye | 10.00% | ~1,834 |
 | All in a Weekend's Work | 10.00% | ~1,834 |
@@ -39,9 +39,9 @@ Rating: 4.64 (Ranked 344)
 | Recycle | 7.00% | ~1,284 |
 | Tinkerer | 6.00% | ~1,100 |
 | For all Those Back at the Factory | 5.00% | ~917 |
-| Living up to Expectations | 4.00% | ~733 |
-| Smooth Operator | 4.00% | ~733 |
-| Peak Performance | 4.00% | ~733 |
+| Living up to Expectations | 4.00% | ~734 |
+| Smooth Operator | 4.00% | ~734 |
+| Peak Performance | 4.00% | ~734 |
 | Seasoned Rookie | 3.00% | ~550 |
 | Loyal Bond | 3.00% | ~550 |
 | Hitting a Century | 2.00% | ~367 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 344)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,336 (Ranked 163)  
+Progressed: 18,338 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 18,178 | 0 |
 | 2024-01-15 | 18,246 | 0 |
 | 2024-01-16 | 18,312 | 0 |
-| 2024-01-17 | 18,336 | 0 |
+| 2024-01-17 | 18,338 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 448 (Ranked 348)  

@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1361,9 +1361,9 @@
       "ID": "SG_ENDOFTHEROAD",
       "SetID": "bj5g0n4",
       "Name": "End Of The Road",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 204
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1592,8 +1592,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:10:10.3798845+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:09:49.3334722+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:09.0015101+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:01:51.6523725+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:10:10.3799159+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:01:36.0934248+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:09:49.3335209+00:00"
 }

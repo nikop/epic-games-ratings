@@ -2,7 +2,7 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 148,
@@ -331,7 +331,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25158,
+  "EOS_Progressed": 25159,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -9261,6 +9261,11 @@
       "Time": "2024-01-17T11:08:52.5338475+00:00",
       "NumProgressed": 25158,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-17T15:09:27.5759474+00:00",
+      "NumProgressed": 25159,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9320,7 +9325,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -9400,7 +9405,7 @@
       "Name": "First Bounty Down",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -9432,7 +9437,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -9623,13 +9628,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25158,
+      "Progressed": 25159,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2451,
+      "Progressed": 2452,
       "Completed": 1376
     }
   ],
@@ -9637,8 +9642,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-17T14:09:46.7782299+00:00",
+  "LastChanged_Achievements": "2024-01-17T15:09:27.5759471+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:12.7460133+00:00",
-  "LastUpdate_Ratings": "2024-01-17T14:00:32.6491644+00:00",
-  "LastUpdate_Achievements": "2024-01-17T14:09:46.7783241+00:00"
+  "LastUpdate_Ratings": "2024-01-17T15:00:21.1997466+00:00",
+  "LastUpdate_Achievements": "2024-01-17T15:09:27.5760046+00:00"
 }

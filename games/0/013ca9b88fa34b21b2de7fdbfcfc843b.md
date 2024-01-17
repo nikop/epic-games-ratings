@@ -19,7 +19,7 @@ Rating: 4.64 (Ranked 344)
 | Lumberjack | 2.00% | ~182 |
 | Oui, Chef! | 2.00% | ~182 |
 | Botanical Breakthrough | 2.00% | ~182 |
-| Exit Through The Gift Shop | 2.00% | ~34 |
+| Exit Through The Gift Shop | 2.00% | ~35 |
 | Search for the Hairy Grell | 1.00% | ~91 |
 | Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 344)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,107 (Ranked 187)  
+Progressed: 9,109 (Ranked 187)  
 Completed: 1 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 1 (0.01%) (Ranked 378)
 | 2024-01-14 | 9,068 | 1 |
 | 2024-01-15 | 9,093 | 1 |
 | 2024-01-16 | 9,101 | 1 |
-| 2024-01-17 | 9,107 | 1 |
+| 2024-01-17 | 9,109 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

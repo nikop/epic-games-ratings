@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~889 |
-| Space Colonization | 80.00% | ~734 |
-| Friendzone | 79.00% | ~724 |
-| Hello World | 74.00% | ~679 |
-| Space Engineer | 63.00% | ~578 |
-| Tinkerer | 62.00% | ~569 |
-| Dust to Dust | 58.00% | ~532 |
-| Across The Stars | 47.00% | ~431 |
-| Crafty | 46.00% | ~422 |
-| All Seats Taken | 38.00% | ~348 |
+| Don't Panic! | 97.00% | ~891 |
+| Space Colonization | 80.00% | ~735 |
+| Friendzone | 79.00% | ~726 |
+| Hello World | 74.00% | ~680 |
+| Space Engineer | 63.00% | ~579 |
+| Tinkerer | 63.00% | ~579 |
+| Dust to Dust | 59.00% | ~542 |
+| Across The Stars | 47.00% | ~432 |
+| Crafty | 46.00% | ~423 |
+| All Seats Taken | 38.00% | ~349 |
 | For Science! | 34.00% | ~312 |
-| Meet the Petersons | 32.00% | ~293 |
+| Meet the Petersons | 32.00% | ~294 |
 | Stay Cool | 28.00% | ~257 |
-| KIA | 26.00% | ~238 |
+| KIA | 26.00% | ~239 |
 | Mutiny in making | 23.00% | ~211 |
-| Eco-Shuttle | 19.00% | ~174 |
-| Et tu, Astrocitizen? | 19.00% | ~174 |
+| Eco-Shuttle | 19.00% | ~175 |
+| Et tu, Astrocitizen? | 19.00% | ~175 |
 | Space Explorer | 15.00% | ~138 |
 | Gold Medalist | 12.00% | ~110 |
 | Hands Full | 12.00% | ~110 |
 | Non-Fiction | 11.00% | ~101 |
 | No Man Left Behind | 9.00% | ~83 |
-| Second Life | 8.00% | ~73 |
+| Second Life | 8.00% | ~74 |
 | First of April | 7.00% | ~64 |
 | Fix-It Felix | 7.00% | ~64 |
 | Intergalactic Breakup | 7.00% | ~64 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 917 (Ranked 307)  
+Progressed: 919 (Ranked 307)  
 Completed: 1 (0.11%) (Ranked 311)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 1 (0.11%) (Ranked 311)
 | 2024-01-14 | 829 | 1 |
 | 2024-01-15 | 830 | 1 |
 | 2024-01-16 | 870 | 1 |
-| 2024-01-17 | 917 | 1 |
+| 2024-01-17 | 919 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
