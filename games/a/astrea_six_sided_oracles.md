@@ -51,6 +51,7 @@
 | The Ardent Prince | 3.00% | ~12 |
 | The Distorted Sage | 3.00% | ~12 |
 | The Raging Skies | 3.00% | ~12 |
+| Eridanian Hero | 3.00% | ~12 |
 | Lacertian Hero | 3.00% | ~12 |
 | Astromancer | 2.00% | ~8 |
 | Critical Twist | 2.00% | ~8 |
@@ -59,7 +60,6 @@
 | The Abyssal Terror | 2.00% | ~8 |
 | Aquarian Hero | 2.00% | ~8 |
 | Behenian Mastery | 2.00% | ~8 |
-| Eridanian Hero | 2.00% | ~8 |
 | Lacertian Mastery | 2.00% | ~8 |
 | Noctuan Mastery | 2.00% | ~8 |
 | Anomaly Master | 1.00% | ~4 |

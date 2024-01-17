@@ -4850,18 +4850,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 3395,
       "NumberOfAwardsMax": 419
+    },
+    {
+      "Time": "2024-01-17T11:58:44.1427741+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3397,
+      "NumberOfAwardsMax": 421
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3395,
-  "NumberOfAwardsMax": 419,
+  "NumberOfAwards": 3397,
+  "NumberOfAwardsMax": 421,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 419
+      "Count": 421
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4924,9 +4930,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 526028,
+  "EOS_Progressed": 526042,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3351,
+  "EOS_NewPlayers": 3350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36229,6 +36235,11 @@
       "Time": "2024-01-17T11:04:38.750248+00:00",
       "NumProgressed": 526028,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T12:04:37.8196384+00:00",
+      "NumProgressed": 526042,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -36296,7 +36307,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -36344,7 +36355,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     },
     {
       "ID": "ACH_JR_50",
@@ -36408,7 +36419,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26301
+      "UsersEstimate": 26302
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -36504,7 +36515,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26301
+      "UsersEstimate": 26302
     },
     {
       "ID": "ACH_WET_FEET",
@@ -36512,22 +36523,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21041
+      "UsersEstimate": 21042
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 526028,
+      "Progressed": 526042,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-01-17T08:58:41.9327314+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:04:38.7502476+00:00",
+  "LastChanged": "2024-01-17T11:58:44.1427739+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:04:37.8196379+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:31.8838043+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:37.751441+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:04:38.7504808+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:44.1427745+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:04:37.8197777+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1307,
+  "EOS_Progressed": 1308,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3432,6 +3432,11 @@
       "Time": "2024-01-17T01:53:28.2449809+00:00",
       "NumProgressed": 1307,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T12:04:12.6456947+00:00",
+      "NumProgressed": 1308,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -3476,7 +3481,7 @@
       "Name": "Liberator",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CompleteCampaignVeteran",
@@ -3580,7 +3585,7 @@
       "Name": "The Might of Sigmar\u0027s Warriors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "CompleteChapter2",
@@ -3588,7 +3593,7 @@
       "Name": "Met the Enemy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "CompleteChapter3",
@@ -3604,7 +3609,7 @@
       "Name": "Servant of the Blue Raven",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "CompleteChapter5",
@@ -3620,7 +3625,7 @@
       "Name": "More Waagh, More Problems",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "CompleteChapter7",
@@ -3628,7 +3633,7 @@
       "Name": "First to be Forged, Never to Fail!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "CompleteChapter8",
@@ -3739,14 +3744,14 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 1307,
+      "Progressed": 1308,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:04:12.8737686+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:04:12.6456942+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:59:17.7846424+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:04:12.8738158+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:59:22.610455+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:04:12.6457379+00:00"
 }

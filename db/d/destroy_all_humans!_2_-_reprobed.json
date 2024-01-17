@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2006,6 +2006,11 @@
       "Time": "2024-01-16T14:10:25.8339514+00:00",
       "NumProgressed": 441,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T12:09:28.6568765+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2018,7 +2023,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2154,7 +2159,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2168,9 +2173,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2210,7 +2215,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2274,7 +2279,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2354,22 +2359,22 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "4n84pon",
       "Name": "Pimp My Raid",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 2
     }
   ],
@@ -2377,8 +2382,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:25.5612209+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:28.656876+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:27.9114223+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:25.561265+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:34.6886178+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:28.6569109+00:00"
 }

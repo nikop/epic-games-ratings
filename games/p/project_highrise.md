@@ -7,10 +7,10 @@
 | In the Black | 54.00% | ~287 |
 | Starting Skyward | 48.00% | ~255 |
 | Grime is Not Good | 41.00% | ~218 |
-| Floor Galore | 36.00% | ~191 |
+| Floor Galore | 36.00% | ~192 |
 | Campaign Launch | 35.00% | ~186 |
 | Dinner Dash | 35.00% | ~186 |
-| Need a Consult | 33.00% | ~175 |
+| Need a Consult | 33.00% | ~176 |
 | Upgrade Unlock | 32.00% | ~170 |
 | It's Technical | 32.00% | ~170 |
 | Proper Walls | 28.00% | ~149 |
@@ -25,9 +25,9 @@
 | Artfully Done | 18.00% | ~96 |
 | People Mover | 18.00% | ~96 |
 | Leveled Up Shops | 18.00% | ~96 |
-| We Don't Need No Education | 18.00% | ~96 |
 | Lux Living | 17.00% | ~90 |
 | Emporium Empire | 17.00% | ~90 |
+| We Don't Need No Education | 17.00% | ~90 |
 | Get Electrified | 17.00% | ~90 |
 | Tasty Profits | 16.00% | ~85 |
 | Rehab Expert | 15.00% | ~80 |
@@ -35,14 +35,14 @@
 | Under One Roof | 13.00% | ~69 |
 | Cashflow Chief | 13.00% | ~69 |
 | Starred Dining | 12.00% | ~64 |
-| Smooth Operator | 11.00% | ~58 |
-| Boutique Benefits | 11.00% | ~58 |
-| Thrilled Tenants | 11.00% | ~58 |
+| Smooth Operator | 11.00% | ~59 |
+| Boutique Benefits | 11.00% | ~59 |
+| Thrilled Tenants | 11.00% | ~59 |
 | 28 Days Later | 10.00% | ~53 |
 | Terrifically Trashed | 10.00% | ~53 |
 | Swimming in Surplus | 9.00% | ~48 |
-| Aestheticly Pleased | 8.00% | ~42 |
-| Refined Palates | 8.00% | ~42 |
+| Aestheticly Pleased | 8.00% | ~43 |
+| Refined Palates | 8.00% | ~43 |
 | First 100 Days | 7.00% | ~37 |
 | Plaza Plan | 7.00% | ~37 |
 | Master of Puppets | 7.00% | ~37 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531 (Ranked 352)  
+Progressed: 532 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,6 +227,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-13 | 526 | 0 |
 | 2024-01-14 | 530 | 0 |
 | 2024-01-16 | 531 | 0 |
+| 2024-01-17 | 532 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13704,9 +13704,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62901,
+  "EOS_Progressed": 62902,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 880,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39649,6 +39649,11 @@
       "Time": "2024-01-17T10:09:18.4554271+00:00",
       "NumProgressed": 62901,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-17T12:08:27.9015898+00:00",
+      "NumProgressed": 62902,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -39844,7 +39849,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28305
+      "UsersEstimate": 28306
     },
     {
       "ID": "Mission",
@@ -39860,7 +39865,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22015
+      "UsersEstimate": 22016
     },
     {
       "ID": "Money",
@@ -39868,7 +39873,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 30821
+      "UsersEstimate": 30822
     },
     {
       "ID": "NumBeehives",
@@ -39884,7 +39889,7 @@
       "Name": "I like to switch it up",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 23273
+      "UsersEstimate": 23274
     },
     {
       "ID": "NumPlaceables",
@@ -39892,7 +39897,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 25789
+      "UsersEstimate": 25790
     },
     {
       "ID": "NumProductionPoints",
@@ -39924,7 +39929,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 15725
+      "UsersEstimate": 15726
     },
     {
       "ID": "PlayTime",
@@ -39964,7 +39969,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25160
+      "UsersEstimate": 25161
     },
     {
       "ID": "TruckDriving",
@@ -40003,15 +40008,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62901,
+      "Progressed": 62902,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-17T06:58:03.8096994+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:08:22.8949369+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:08:27.9015894+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:33.2343402+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:03.2258065+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:08:22.8951447+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:11.0239277+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:08:27.9017564+00:00"
 }

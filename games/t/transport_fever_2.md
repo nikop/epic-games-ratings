@@ -29,7 +29,7 @@ Number of Ratings: 180  (23.09.2022)
 | High speed | 39.00% | ~970 |
 | First aircraft arrived | 38.00% | ~945 |
 | Transport shark | 37.00% | ~920 |
-| Mass production | 32.00% | ~796 |
+| Mass production | 33.00% | ~820 |
 | Aircraft entrepreneur | 30.00% | ~746 |
 | Crowd in a train | 28.00% | ~696 |
 | The future is now, old man | 28.00% | ~696 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67519,
+  "EOS_Progressed": 67524,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17221,6 +17221,11 @@
       "Time": "2024-01-17T11:03:25.9718046+00:00",
       "NumProgressed": 67519,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-17T12:03:27.0611753+00:00",
+      "NumProgressed": 67524,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17249,7 +17254,7 @@
       "Name": "Worthy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "ASPEN_TREE",
@@ -17273,7 +17278,7 @@
       "Name": "Black Book",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "BLACK_SORCERER",
@@ -17281,7 +17286,7 @@
       "Name": "Black Sorcerer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "CARD_PLAYER",
@@ -17305,7 +17310,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7427
+      "UsersEstimate": 7428
     },
     {
       "ID": "DEAD_MAN",
@@ -17313,7 +17318,7 @@
       "Name": "Dead Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "DETECTIVE",
@@ -17345,7 +17350,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14854
+      "UsersEstimate": 14855
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17353,7 +17358,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8102
+      "UsersEstimate": 8103
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -17369,7 +17374,7 @@
       "Name": "Fern",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "FRIENDS",
@@ -17377,7 +17382,7 @@
       "Name": "100 Friends",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "GOOD_END",
@@ -17433,7 +17438,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19581
+      "UsersEstimate": 19582
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -17481,7 +17486,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8102
+      "UsersEstimate": 8103
     },
     {
       "ID": "NORMAL_END",
@@ -17505,7 +17510,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "PINE_TREE",
@@ -17529,7 +17534,7 @@
       "Name": "Savvy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4726
+      "UsersEstimate": 4727
     },
     {
       "ID": "SINNER",
@@ -17553,7 +17558,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10128
+      "UsersEstimate": 10129
     },
     {
       "ID": "TALES_2",
@@ -17609,7 +17614,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10803
+      "UsersEstimate": 10804
     },
     {
       "ID": "ZNATKOST_2",
@@ -17632,15 +17637,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67519,
+      "Progressed": 67524,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:03:25.971804+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:03:27.0611749+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:57:18.3911897+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:03:25.9719527+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:57:28.771673+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:03:27.0612694+00:00"
 }

@@ -787,7 +787,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4576,
+  "EOS_Progressed": 4577,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
@@ -12812,6 +12812,11 @@
       "Time": "2024-01-17T11:05:54.1808891+00:00",
       "NumProgressed": 4576,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T12:05:51.7376377+00:00",
+      "NumProgressed": 4577,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12927,7 +12932,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "dragonmaster",
@@ -13159,7 +13164,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "missionsdedication",
@@ -13215,7 +13220,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2425
+      "UsersEstimate": 2426
     },
     {
       "ID": "prestigiousx10",
@@ -13383,7 +13388,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "warmachinesarmy",
@@ -13415,14 +13420,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3569
+      "UsersEstimate": 3570
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4576,
+      "Progressed": 4577,
       "Completed": 2
     }
   ],
@@ -13430,8 +13435,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-16T05:57:17.3089904+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:05:54.1808888+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:05:51.7376371+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:57:38.9657278+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:05:54.1810302+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:57:47.6436571+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:05:51.7377435+00:00"
 }

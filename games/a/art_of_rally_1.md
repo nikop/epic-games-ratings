@@ -6,32 +6,32 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~338,513 |
-| good drivers have dead flies on the side windows | 32.00% | ~135,405 |
-| keep it tidy | 26.00% | ~110,017 |
-| brail | 26.00% | ~110,017 |
-| car wash | 23.00% | ~97,322 |
-| the artist | 23.00% | ~97,322 |
-| podium | 20.00% | ~84,628 |
-| medium attack | 17.00% | ~71,934 |
-| bicycle race | 6.00% | ~25,388 |
-| grocery-getter | 5.00% | ~21,157 |
-| autopilot | 4.00% | ~16,926 |
-| rwd only | 3.00% | ~12,694 |
-| where is the stage? | 3.00% | ~12,694 |
-| night ride | 3.00% | ~12,694 |
-| snorkel | 3.00% | ~12,694 |
-| food tour: pasta | 3.00% | ~12,694 |
-| to finish first, first you must finish | 2.00% | ~8,463 |
-| perkele | 2.00% | ~8,463 |
-| turbo | 2.00% | ~8,463 |
-| if in doubt, flat out! | 2.00% | ~8,463 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,463 |
-| mittens | 2.00% | ~8,463 |
-| food tour: pretzel | 2.00% | ~8,463 |
-| espresso | 1.00% | ~4,231 |
-| monster | 1.00% | ~4,231 |
-| in like a lamb, out like a lion | 1.00% | ~4,231 |
+| light attack | 80.00% | ~338,568 |
+| good drivers have dead flies on the side windows | 32.00% | ~135,427 |
+| keep it tidy | 26.00% | ~110,035 |
+| brail | 26.00% | ~110,035 |
+| car wash | 23.00% | ~97,338 |
+| the artist | 23.00% | ~97,338 |
+| podium | 20.00% | ~84,642 |
+| medium attack | 17.00% | ~71,946 |
+| bicycle race | 6.00% | ~25,393 |
+| grocery-getter | 5.00% | ~21,160 |
+| autopilot | 4.00% | ~16,928 |
+| rwd only | 3.00% | ~12,696 |
+| where is the stage? | 3.00% | ~12,696 |
+| night ride | 3.00% | ~12,696 |
+| snorkel | 3.00% | ~12,696 |
+| food tour: pasta | 3.00% | ~12,696 |
+| to finish first, first you must finish | 2.00% | ~8,464 |
+| perkele | 2.00% | ~8,464 |
+| turbo | 2.00% | ~8,464 |
+| if in doubt, flat out! | 2.00% | ~8,464 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,464 |
+| mittens | 2.00% | ~8,464 |
+| food tour: pretzel | 2.00% | ~8,464 |
+| espresso | 1.00% | ~4,232 |
+| monster | 1.00% | ~4,232 |
+| in like a lamb, out like a lion | 1.00% | ~4,232 |
 | eurobeat | 0.70% | ~2,962 |
 | viking | 0.60% | ~2,539 |
 | parallel universe | 0.60% | ~2,539 |
@@ -42,7 +42,7 @@ Number of Ratings: 56  (23.09.2022)
 | master of rally | 0.40% | ~1,693 |
 | antilag | 0.40% | ~1,693 |
 | real roads, real fast | 0.40% | ~1,693 |
-| parking lot | 0.30% | ~1,269 |
+| parking lot | 0.30% | ~1,270 |
 | comfy seats | 0.20% | ~846 |
 | simulator | 0.20% | ~846 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~423 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~423 |
 | you're here for a good time, not a long time | 0.10% | ~423 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 423,141 (Ranked 48)  
+Progressed: 423,210 (Ranked 48)  
 Completed: 24 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,18 +252,18 @@ Completed: 24 (0.01%) (Ranked 378)
 | 2024-01-14 | 419,155 | 22 |
 | 2024-01-15 | 420,823 | 22 |
 | 2024-01-16 | 422,503 | 23 |
-| 2024-01-17 | 423,141 | 24 |
+| 2024-01-17 | 423,210 | 24 |
 ## Awards
 Max (Quickly Understood Controls): 45  (Ranked 476)  
-Sum: 260 (Ranked 398)  
+Sum: 262 (Ranked 398)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 45 |
+| This game is Highly Recommended | 37 |
 | This game is Great for Quick Sessions | 37 |
-| This game is Highly Recommended | 36 |
 | This game is Relaxing | 32 |
-| This game is Extremely Fun | 31 |
+| This game is Extremely Fun | 32 |
 | This game has Amazing Storytelling | 30 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 26 |
@@ -333,4 +333,4 @@ Diff (max vs sum): 78
 | 2024-01-14 | 4.64 | - | 41 | 246 |
 | 2024-01-15 | 4.63 | - | 44 | 255 |
 | 2024-01-16 | 4.63 | - | 45 | 258 |
-| 2024-01-17 | 4.63 | - | 45 | 260 |
+| 2024-01-17 | 4.63 | - | 45 | 262 |

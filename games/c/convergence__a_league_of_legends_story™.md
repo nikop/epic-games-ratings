@@ -43,8 +43,8 @@ Rating: 4.66 (Ranked 303)
 | Theater Explorer | 11.00% | ~147 |
 | Cultivair Explorer | 10.00% | ~134 |
 | Fairgrounds Explorer | 10.00% | ~134 |
+| Corin Goes Home | 9.00% | ~120 |
 | Entresol Explorer | 9.00% | ~120 |
-| Corin Goes Home | 8.00% | ~107 |
 | Sartorialist | 8.00% | ~107 |
 | Golem Hunter | 7.00% | ~93 |
 | Clovemary for Remembering | 6.00% | ~80 |

@@ -2,12 +2,12 @@
   "ID": "25d726130e6c4fe68f88e71933bda955",
   "Name": "Terraforming Mars",
   "ProductSlug": "terraforming-mars-18c3ad",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3533,11 +3533,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 3345,
       "NumberOfAwardsMax": 543
+    },
+    {
+      "Time": "2024-01-17T11:57:05.6161889+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 3346,
+      "NumberOfAwardsMax": 544
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3345,
-  "NumberOfAwardsMax": 543,
+  "NumberOfAwards": 3346,
+  "NumberOfAwardsMax": 544,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -3556,7 +3562,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 543
+      "Count": 544
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3595,9 +3601,9 @@
       "Count": 263
     }
   ],
-  "EOS_Progressed": 90878,
+  "EOS_Progressed": 90883,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -34055,6 +34061,11 @@
       "Time": "2024-01-17T11:04:49.8735902+00:00",
       "NumProgressed": 90878,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-17T12:04:48.9175219+00:00",
+      "NumProgressed": 90883,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -34066,7 +34077,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12723
+      "UsersEstimate": 12724
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -34090,7 +34101,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 20902
+      "UsersEstimate": 20903
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -34098,7 +34109,7 @@
       "Name": "No Longer Red",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -34114,7 +34125,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11814
+      "UsersEstimate": 11815
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -34138,7 +34149,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 17267
+      "UsersEstimate": 17268
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -34146,7 +34157,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33625
+      "UsersEstimate": 33627
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34154,7 +34165,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25446
+      "UsersEstimate": 25447
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -34162,7 +34173,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29081
+      "UsersEstimate": 29083
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -34186,7 +34197,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16359
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -34194,7 +34205,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 20902
+      "UsersEstimate": 20903
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -34202,7 +34213,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23628
+      "UsersEstimate": 23630
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -34210,7 +34221,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 17267
+      "UsersEstimate": 17268
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -34218,7 +34229,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 18176
+      "UsersEstimate": 18177
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -34226,7 +34237,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10905
+      "UsersEstimate": 10906
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -34242,7 +34253,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30899
+      "UsersEstimate": 30900
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -34250,7 +34261,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 15449
+      "UsersEstimate": 15450
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -34258,7 +34269,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 7270
+      "UsersEstimate": 7271
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -34290,7 +34301,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16358
+      "UsersEstimate": 16359
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -34298,22 +34309,22 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90878,
+      "Progressed": 90883,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-01-15T22:59:55.6693191+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:04:49.8735898+00:00",
+  "LastChanged": "2024-01-17T11:57:05.6161888+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:04:48.9175213+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:03:03.946979+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:04:49.8738519+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:57:05.6161893+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:04:48.917685+00:00"
 }

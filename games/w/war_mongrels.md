@@ -22,19 +22,19 @@ Number of Ratings: 34  (23.09.2022)
 | Consequences | 31.00% | ~242 |
 | Opportunities | 30.00% | ~234 |
 | King of Knives | 30.00% | ~234 |
-| The Horror | 27.00% | ~211 |
+| The Horror | 28.00% | ~219 |
 | The Difference | 25.00% | ~195 |
 | It's Just an Accident | 25.00% | ~195 |
 | Vengeance | 24.00% | ~187 |
 | Collectibles of Chapter II | 22.00% | ~172 |
-| Broken Hopes | 21.00% | ~164 |
+| Broken Hopes | 22.00% | ~172 |
 | Bullseye! | 21.00% | ~164 |
 | Sorrow | 19.00% | ~148 |
 | Atonement | 17.00% | ~133 |
 | Helping Hand | 17.00% | ~133 |
 | Food Massacre | 17.00% | ~133 |
+| Without a Second Thought | 15.00% | ~117 |
 | Collectibles of Chapter III | 14.00% | ~109 |
-| Without a Second Thought | 14.00% | ~109 |
 | Collectibles of Chapter IV | 13.00% | ~102 |
 | Collectibles of Chapter V | 10.00% | ~78 |
 | Tiptoe Around | 10.00% | ~78 |

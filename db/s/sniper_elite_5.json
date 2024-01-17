@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -673,7 +673,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4292,
+  "EOS_Progressed": 4293,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -9758,6 +9758,11 @@
       "Time": "2024-01-16T19:10:56.7304072+00:00",
       "NumProgressed": 4292,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-17T12:09:47.4460908+00:00",
+      "NumProgressed": 4293,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9849,7 +9854,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9889,7 +9894,7 @@
       "Name": "Gunslinger",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -9969,7 +9974,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -10081,7 +10086,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10105,7 +10110,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10336,13 +10341,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4243,
+      "Progressed": 4244,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4292,
+      "Progressed": 4293,
       "Completed": 11
     }
   ],
@@ -10350,8 +10355,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:44.1956973+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:47.4460904+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:18.8766546+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:44.1958271+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:25.9887425+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:47.4461772+00:00"
 }

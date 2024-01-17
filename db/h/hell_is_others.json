@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1513,9 +1513,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260750,
+  "EOS_Progressed": 260751,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27483,6 +27483,11 @@
       "Time": "2024-01-17T11:05:38.1391111+00:00",
       "NumProgressed": 260750,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T12:05:36.1869925+00:00",
+      "NumProgressed": 260751,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27494,7 +27499,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18252
+      "UsersEstimate": 18253
     },
     {
       "ID": "Act2",
@@ -27518,7 +27523,7 @@
       "Name": "The Gamble",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "Act5",
@@ -27542,7 +27547,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80832
+      "UsersEstimate": 80833
     },
     {
       "ID": "BackHomeNTimes",
@@ -27574,7 +27579,7 @@
       "Name": "A major purchase",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "BuyNWeapons",
@@ -27606,7 +27611,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "CreditLevel3",
@@ -27726,7 +27731,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "KillCrawlingThing",
@@ -27734,7 +27739,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -27766,7 +27771,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "KillOtherWithMine",
@@ -27782,7 +27787,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59972
+      "UsersEstimate": 59973
     },
     {
       "ID": "KillOthers2",
@@ -27790,7 +27795,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "KillOthers3",
@@ -27941,7 +27946,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260750,
+      "Progressed": 260751,
       "Completed": 3
     }
   ],
@@ -27949,8 +27954,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-17T06:58:16.489971+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:05:38.1391108+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:05:36.186992+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:14.1990589+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:05:38.1393886+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:21.9992177+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:05:36.1871632+00:00"
 }

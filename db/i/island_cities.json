@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 394,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 147,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 16.99,
+  "EOS_Completed_Percentage": 16.97,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3746,6 +3746,11 @@
       "Time": "2024-01-16T21:04:50.5133865+00:00",
       "NumProgressed": 865,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2024-01-17T12:05:04.4219601+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 147
     }
   ],
   "TotalAchievements": 22,
@@ -3757,7 +3762,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "LEVEL_002",
@@ -3773,7 +3778,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "LEVEL_004",
@@ -3781,7 +3786,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "LEVEL_005",
@@ -3789,7 +3794,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "LEVEL_006",
@@ -3813,7 +3818,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "LEVEL_009",
@@ -3861,7 +3866,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEVEL_015",
@@ -3885,7 +3890,7 @@
       "Name": "Commuting",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "LEVEL_018",
@@ -3932,7 +3937,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 147
     }
   ],
@@ -3940,8 +3945,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:05:05.7744842+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:05:04.4219598+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:27.4962467+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:05:05.7745152+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:34.2846827+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:05:04.4219893+00:00"
 }

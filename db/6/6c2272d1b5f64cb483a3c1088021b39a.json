@@ -5334,9 +5334,9 @@
       "ID": "taste_of_victory_3",
       "SetID": "53c1p3k",
       "Name": "Taste of Victory 3",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "tomb_raider_1",
@@ -5373,8 +5373,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:10:06.2822939+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:10:08.7809295+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:57:53.4184216+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:10:06.2823541+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:00.583008+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:10:08.7809923+00:00"
 }

@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,798 |
-| Safety in the Storm | 23.00% | ~9,635 |
-| A Better Idea | 23.00% | ~9,635 |
-| Begin the Ceremony | 19.00% | ~7,960 |
-| Mission Accomplished | 18.00% | ~7,541 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,284 |
-| A Starfighter of Your Own | 13.00% | ~5,446 |
-| Asset Secured | 12.00% | ~5,027 |
-| Unkillable | 7.00% | ~2,933 |
-| Together, Vanguard | 7.00% | ~2,933 |
+| Fracture at Fostar Haven | 95.00% | ~39,813 |
+| Safety in the Storm | 23.00% | ~9,639 |
+| A Better Idea | 23.00% | ~9,639 |
+| Begin the Ceremony | 19.00% | ~7,963 |
+| Mission Accomplished | 18.00% | ~7,543 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,286 |
+| A Starfighter of Your Own | 13.00% | ~5,448 |
+| Asset Secured | 12.00% | ~5,029 |
+| Unkillable | 7.00% | ~2,934 |
+| Together, Vanguard | 7.00% | ~2,934 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~2,514 |
 | Sound Strategy | 5.00% | ~2,095 |
 | Stomped | 5.00% | ~2,095 |
@@ -34,7 +34,7 @@
 | Against the Current | 0.80% | ~335 |
 | Denied | 0.70% | ~293 |
 | Found Your Place | 0.60% | ~251 |
-| Unstoppable Ace | 0.50% | ~209 |
+| Unstoppable Ace | 0.50% | ~210 |
 | Special Modifications | 0.40% | ~168 |
 | Seasoned Star Pilot | 0.30% | ~126 |
 | Heavy Hitter | 0.30% | ~126 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~42 |
 | Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,893 (Ranked 135)  
+Progressed: 41,908 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 3 (0.01%) (Ranked 378)
 | 2024-01-14 | 41,296 | 3 |
 | 2024-01-15 | 41,558 | 3 |
 | 2024-01-16 | 41,777 | 3 |
-| 2024-01-17 | 41,893 | 3 |
+| 2024-01-17 | 41,908 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

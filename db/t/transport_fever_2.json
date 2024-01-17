@@ -899,7 +899,7 @@
   ],
   "EOS_Progressed": 2486,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7370,9 +7370,9 @@
       "ID": "achMassProduction",
       "SetID": "dgl390n",
       "Name": "Mass production",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 820
     },
     {
       "ID": "achMetropolis",
@@ -7522,8 +7522,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:20.2678999+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:23.9794169+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:40.3828724+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:02:53.6537959+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:20.2679812+00:00"
+  "LastUpdate_Ratings": "2024-01-17T12:02:53.1302413+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:23.9794864+00:00"
 }

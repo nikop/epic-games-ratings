@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 823,
+  "EOS_Progressed": 826,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2654,6 +2654,11 @@
       "Time": "2024-01-17T08:04:39.2212144+00:00",
       "NumProgressed": 823,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T12:03:58.6840444+00:00",
+      "NumProgressed": 826,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2666,7 +2671,7 @@
       "Name": "Fruit Based",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "4",
@@ -2704,9 +2709,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 314
     },
     {
       "ID": "9",
@@ -2722,7 +2727,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "REMAKE_002",
@@ -2730,15 +2735,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 584
+      "UsersEstimate": 586
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 486
+      "UsersEstimate": 479
     },
     {
       "ID": "Remake_005",
@@ -2778,7 +2783,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Remake_010",
@@ -2810,7 +2815,7 @@
       "Name": "Toasted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Remake_14",
@@ -2866,7 +2871,7 @@
       "Name": "Dug Straight Down",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Remake_21",
@@ -2889,14 +2894,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 823,
+      "Progressed": 826,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:03:58.5028178+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:03:58.6840439+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:25.2903212+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:03:58.5028504+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:32.0503465+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:03:58.6840775+00:00"
 }

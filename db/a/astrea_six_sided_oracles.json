@@ -2349,9 +2349,9 @@
       "ID": "EridanianHero",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Hero",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "EridanianMastery",
@@ -2420,8 +2420,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:02.7385883+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:06.2833648+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:48.6976607+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:02.7386887+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:55.3671112+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:06.2834596+00:00"
 }

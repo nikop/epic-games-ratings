@@ -1,12 +1,12 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 262)  
+Rating: 4.69 (Ranked 239)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 213.00% | ~1,930 |
+| Adept Assembler | 214.00% | ~1,939 |
 | Super Spelunker | 159.00% | ~1,441 |
 | Iron Chef | 148.00% | ~1,341 |
 | Officially Official | 129.00% | ~1,169 |
@@ -16,15 +16,15 @@ Number of Ratings: 892  (23.09.2022)
 | Better Late than Never | 109.00% | ~988 |
 | Got Served | 101.00% | ~915 |
 | One of the Cool Kids | 100.00% | ~906 |
+| Diamonds are Forever | 100.00% | ~906 |
 | Pack Mule | 99.00% | ~897 |
-| Diamonds are Forever | 99.00% | ~897 |
-| Knowledge is Power | 97.00% | ~879 |
+| Knowledge is Power | 98.00% | ~888 |
+| Mole Masher | 97.00% | ~879 |
 | Financially Secure | 96.00% | ~870 |
 | Your Especially Earned Trajectory | 96.00% | ~870 |
-| Mole Masher | 96.00% | ~870 |
 | Big Game Hunter | 91.00% | ~824 |
 | Unboxing | 90.00% | ~815 |
-| What Plants Crave | 88.00% | ~797 |
+| What Plants Crave | 89.00% | ~806 |
 | Yakmel Whisperer | 87.00% | ~788 |
 | Panda-kin | 86.00% | ~779 |
 | Chatterbox | 83.00% | ~752 |
@@ -38,7 +38,7 @@ Number of Ratings: 892  (23.09.2022)
 | Commissions, commissions...! | 72.00% | ~652 |
 | Got the Flow Back | 72.00% | ~652 |
 | Elementary, My Dear | 71.00% | ~643 |
-| Lifeline Pipeline | 66.00% | ~598 |
+| Lifeline Pipeline | 67.00% | ~607 |
 | Sepia Toned Memories | 64.00% | ~580 |
 | Martle's Dream | 61.00% | ~553 |
 | Anti-Santa | 61.00% | ~553 |
@@ -48,8 +48,8 @@ Number of Ratings: 892  (23.09.2022)
 | Happier-est Place on Earth | 58.00% | ~525 |
 | Finishing Touches | 56.00% | ~507 |
 | Call Me Fishmael | 56.00% | ~507 |
-| Kind of a Big Deal | 53.00% | ~480 |
-| Just What I Always Wanted! | 52.00% | ~471 |
+| Kind of a Big Deal | 54.00% | ~489 |
+| Just What I Always Wanted! | 53.00% | ~480 |
 | Jewel of the Eufaula | 47.00% | ~426 |
 | Sandrunning Speedster | 47.00% | ~426 |
 | Santa In Training | 46.00% | ~417 |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-17 | 930 | 0 |
 ## Awards
 Max (Character Customization): 639  (Ranked 203)  
-Sum: 1,546 (Ranked 246)  
+Sum: 1,547 (Ranked 246)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -160,7 +160,7 @@ Diff (max vs sum): -43
 | This game is Highly Recommended | 102 |
 | This game is Extremely Fun | 97 |
 | This game has Diverse Characters | 93 |
-| This game has Quickly Understood Controls | 91 |
+| This game has Quickly Understood Controls | 92 |
 | This game is Relaxing | 88 |
 | This game has Amazing Characters | 81 |
 | This game has Amazing Storytelling | 80 |
@@ -391,4 +391,4 @@ Diff (max vs sum): -43
 | 2024-01-14 | 4.68 | - | 639 | 1,473 |
 | 2024-01-15 | 4.68 | - | 639 | 1,474 |
 | 2024-01-16 | 4.68 | - | 639 | 1,545 |
-| 2024-01-17 | 4.68 | - | 639 | 1,546 |
+| 2024-01-17 | 4.69 | - | 639 | 1,547 |

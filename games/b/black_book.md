@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,581 |
-| Student | 22.00% | ~14,854 |
-| Knower | 16.00% | ~10,803 |
-| Listener | 15.00% | ~10,128 |
+| Initiation | 29.00% | ~19,582 |
+| Student | 22.00% | ~14,855 |
+| Knower | 16.00% | ~10,804 |
+| Listener | 15.00% | ~10,129 |
 | Aspen Tree | 14.00% | ~9,453 |
 | Healer | 14.00% | ~9,453 |
-| Scientist | 12.00% | ~8,102 |
-| Soldier | 12.00% | ~8,102 |
-| Cow Level | 11.00% | ~7,427 |
+| Scientist | 12.00% | ~8,103 |
+| Soldier | 12.00% | ~8,103 |
+| Cow Level | 11.00% | ~7,428 |
 | Old Friend | 10.00% | ~6,752 |
 | Herbalist | 10.00% | ~6,752 |
 | Water | 10.00% | ~6,752 |
@@ -26,14 +26,14 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,402 |
 | Dead Friend | 8.00% | ~5,402 |
 | Pine Tree | 8.00% | ~5,402 |
-| Worthy | 7.00% | ~4,726 |
-| Black Book | 7.00% | ~4,726 |
-| Black Sorcerer | 7.00% | ~4,726 |
-| Dead Man | 7.00% | ~4,726 |
-| Fern | 7.00% | ~4,726 |
-| 100 Friends | 7.00% | ~4,726 |
-| Researcher | 7.00% | ~4,726 |
-| Savvy | 7.00% | ~4,726 |
+| Worthy | 7.00% | ~4,727 |
+| Black Book | 7.00% | ~4,727 |
+| Black Sorcerer | 7.00% | ~4,727 |
+| Dead Man | 7.00% | ~4,727 |
+| Fern | 7.00% | ~4,727 |
+| 100 Friends | 7.00% | ~4,727 |
+| Researcher | 7.00% | ~4,727 |
+| Savvy | 7.00% | ~4,727 |
 | Encyclopedist | 6.00% | ~4,051 |
 | Witch | 6.00% | ~4,051 |
 | Vorsa | 6.00% | ~4,051 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,350 |
 | Word Master | 0.20% | ~135 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,519 (Ranked 118)  
+Progressed: 67,524 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,7 +201,7 @@ Completed: 75 (0.11%) (Ranked 310)
 | 2024-01-14 | 67,123 | 73 |
 | 2024-01-15 | 67,288 | 73 |
 | 2024-01-16 | 67,454 | 74 |
-| 2024-01-17 | 67,519 | 75 |
+| 2024-01-17 | 67,524 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

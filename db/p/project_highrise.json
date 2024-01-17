@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1775,6 +1775,11 @@
       "Time": "2024-01-16T13:09:24.6347554+00:00",
       "NumProgressed": 531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T12:04:06.7715029+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1818,7 +1823,7 @@
       "Name": "Floor Galore",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ach_area_1",
@@ -1922,7 +1927,7 @@
       "Name": "Need a Consult",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ach_consultant_1",
@@ -1938,7 +1943,7 @@
       "Name": "Aestheticly Pleased",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_consultants_b",
@@ -1954,7 +1959,7 @@
       "Name": "Smooth Operator",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_contracts_1",
@@ -2290,7 +2295,7 @@
       "Name": "Refined Palates",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_restaurants_2",
@@ -2354,7 +2359,7 @@
       "Name": "Boutique Benefits",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_revs_1",
@@ -2424,9 +2429,9 @@
       "ID": "ach_tutorial",
       "SetID": "b8gh1fi",
       "Name": "We Don\u0027t Need No Education",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_util_cable",
@@ -2474,7 +2479,7 @@
       "Name": "Thrilled Tenants",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach_visitors_1",
@@ -2489,7 +2494,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 0
     }
   ],
@@ -2497,8 +2502,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:04:06.7238137+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:04:06.7715025+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:27.1936079+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:20.8248898+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:04:06.7239413+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:27.826959+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:04:06.771633+00:00"
 }

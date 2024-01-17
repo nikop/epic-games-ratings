@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9625,9 +9625,9 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254373,
+  "EOS_Progressed": 254378,
   "EOS_Completed": 2622,
-  "EOS_NewPlayers": 1228,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40485,6 +40485,11 @@
       "Time": "2024-01-17T11:10:12.595582+00:00",
       "NumProgressed": 254373,
       "NumCompleted": 2622
+    },
+    {
+      "Time": "2024-01-17T12:10:14.728829+00:00",
+      "NumProgressed": 254378,
+      "NumCompleted": 2622
     }
   ],
   "TotalAchievements": 546,
@@ -40864,7 +40869,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "objective_completed_110",
@@ -41600,7 +41605,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_149",
@@ -41680,7 +41685,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_164",
@@ -41688,7 +41693,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_165",
@@ -41720,7 +41725,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_17",
@@ -42168,7 +42173,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "objective_completed_34",
@@ -42368,7 +42373,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_400",
@@ -43568,7 +43573,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_690",
@@ -43640,7 +43645,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "objective_completed_70",
@@ -43672,7 +43677,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_75",
@@ -44863,21 +44868,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220647,
+      "Progressed": 220652,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254373,
+      "Progressed": 254378,
       "Completed": 2622
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:10:12.5955815+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:10:14.7288287+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:28.0327563+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:10:12.5978398+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:34.803566+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:10:14.7311739+00:00"
 }

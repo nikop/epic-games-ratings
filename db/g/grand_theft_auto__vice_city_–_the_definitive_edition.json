@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -1055,6 +1055,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-17T11:57:52.7919454+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -1068,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16493,
+  "EOS_Progressed": 16495,
   "EOS_Completed": 101,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -18378,6 +18384,11 @@
       "Time": "2024-01-17T11:09:51.173561+00:00",
       "NumProgressed": 16493,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2024-01-17T12:09:54.2151909+00:00",
+      "NumProgressed": 16495,
+      "NumCompleted": 101
     }
   ],
   "TotalAchievements": 34,
@@ -18405,7 +18416,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ACH04",
@@ -18493,7 +18504,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7092
+      "UsersEstimate": 7093
     },
     {
       "ID": "ACH15",
@@ -18517,7 +18528,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACH18",
@@ -18549,7 +18560,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7752
+      "UsersEstimate": 7753
     },
     {
       "ID": "ACH22",
@@ -18565,7 +18576,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "ACH24",
@@ -18621,7 +18632,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACH31",
@@ -18660,16 +18671,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16493,
+      "Progressed": 16495,
       "Completed": 101
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-01-16T06:57:22.4598154+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:51.1735607+00:00",
+  "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:54.2151905+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:57:44.2157074+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:51.1736959+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:57:52.7919458+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:54.2152725+00:00"
 }

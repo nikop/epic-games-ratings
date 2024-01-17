@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239476,
+  "EOS_Progressed": 239477,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 0,
@@ -28878,6 +28878,11 @@
       "Time": "2024-01-17T11:08:32.4057107+00:00",
       "NumProgressed": 239476,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-17T12:08:37.0878283+00:00",
+      "NumProgressed": 239477,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28905,7 +28910,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 67053
+      "UsersEstimate": 67054
     },
     {
       "ID": "CENTAUR",
@@ -29153,22 +29158,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98185
+      "UsersEstimate": 98186
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239476,
+      "Progressed": 239477,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:08:32.4057101+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:08:37.0878279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:41.8592186+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:08:32.4059337+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:48.4892319+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:08:37.0879591+00:00"
 }

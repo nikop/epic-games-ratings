@@ -5,11 +5,11 @@ Rating: 4.39 (Ranked 786)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,832 |
-| Predator I | 23.00% | ~59,972 |
+| Survivor | 31.00% | ~80,833 |
+| Predator I | 23.00% | ~59,973 |
 | Fixer I | 10.00% | ~26,075 |
 | A week in Century City | 10.00% | ~26,075 |
-| The Wait | 7.00% | ~18,252 |
+| The Wait | 7.00% | ~18,253 |
 | Green thumb I | 6.00% | ~15,645 |
 | Cleaning Company | 6.00% | ~15,645 |
 | Well-oiled machine | 5.00% | ~13,038 |
@@ -18,10 +18,10 @@ Rating: 4.39 (Ranked 786)
 | Pacifist | 4.00% | ~10,430 |
 | Vandalism | 4.00% | ~10,430 |
 | Capitalist I | 4.00% | ~10,430 |
-| Fixer II | 3.00% | ~7,822 |
-| It took a while | 3.00% | ~7,822 |
-| Adrenaline | 3.00% | ~7,822 |
-| Predator II | 3.00% | ~7,822 |
+| Fixer II | 3.00% | ~7,823 |
+| It took a while | 3.00% | ~7,823 |
+| Adrenaline | 3.00% | ~7,823 |
+| Predator II | 3.00% | ~7,823 |
 | By a hair | 2.00% | ~5,215 |
 | Samurai | 2.00% | ~5,215 |
 | I Left You a Present | 2.00% | ~5,215 |
@@ -37,9 +37,9 @@ Rating: 4.39 (Ranked 786)
 | Run the Economy | 1.00% | ~2,608 |
 | Committed Relationship | 0.80% | ~2,086 |
 | Number 1 | 0.80% | ~2,086 |
-| The Gamble | 0.60% | ~1,564 |
-| A major purchase | 0.60% | ~1,564 |
-| Interior designer | 0.60% | ~1,564 |
+| The Gamble | 0.60% | ~1,565 |
+| A major purchase | 0.60% | ~1,565 |
+| Interior designer | 0.60% | ~1,565 |
 | The Descent | 0.50% | ~1,304 |
 | Predator III | 0.50% | ~1,304 |
 | Expert Hunter | 0.40% | ~1,043 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 786)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,750 (Ranked 69)  
+Progressed: 260,751 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 3 (0.00%) (Ranked 404)
 | 2024-01-14 | 260,668 | 3 |
 | 2024-01-15 | 260,699 | 3 |
 | 2024-01-16 | 260,735 | 3 |
-| 2024-01-17 | 260,750 | 3 |
+| 2024-01-17 | 260,751 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 447)  
 Sum: 382 (Ranked 367)  

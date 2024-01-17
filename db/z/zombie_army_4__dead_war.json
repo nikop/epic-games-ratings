@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2662,10 +2662,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2637,
       "NumberOfAwardsMax": 875
+    },
+    {
+      "Time": "2024-01-17T11:59:40.1322554+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2638,
+      "NumberOfAwardsMax": 875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2637,
+  "NumberOfAwards": 2638,
   "NumberOfAwardsMax": 875,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2697,7 +2703,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 224
+      "Count": 225
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2742,9 +2748,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44503,
+  "EOS_Progressed": 44504,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11392,6 +11398,11 @@
       "Time": "2024-01-17T11:05:21.5784082+00:00",
       "NumProgressed": 44503,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-17T12:05:20.1824072+00:00",
+      "NumProgressed": 44504,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11435,7 +11446,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5785
+      "UsersEstimate": 5786
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -11475,7 +11486,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18691
+      "UsersEstimate": 18692
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11499,7 +11510,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 6230
+      "UsersEstimate": 6231
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -11507,7 +11518,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17356
+      "UsersEstimate": 17357
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -11595,7 +11606,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28037
+      "UsersEstimate": 28038
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11619,7 +11630,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19581
+      "UsersEstimate": 19582
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -11651,7 +11662,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21806
+      "UsersEstimate": 21807
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11699,7 +11710,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18691
+      "UsersEstimate": 18692
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11715,7 +11726,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16911
+      "UsersEstimate": 16912
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -11731,7 +11742,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31152
+      "UsersEstimate": 31153
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11755,7 +11766,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20916
+      "UsersEstimate": 20917
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -11771,7 +11782,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20916
+      "UsersEstimate": 20917
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -11795,7 +11806,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20026
+      "UsersEstimate": 20027
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11803,7 +11814,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29817
+      "UsersEstimate": 29818
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11859,7 +11870,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29372
+      "UsersEstimate": 29373
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -11907,7 +11918,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6675
+      "UsersEstimate": 6676
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -11930,15 +11941,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44503,
+      "Progressed": 44504,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2024-01-15T18:58:42.7423145+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:05:21.5784078+00:00",
+  "LastChanged": "2024-01-17T11:59:40.1322552+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:05:20.1824069+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:59:36.7079926+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:05:21.578518+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:59:40.1322561+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:05:20.1824977+00:00"
 }

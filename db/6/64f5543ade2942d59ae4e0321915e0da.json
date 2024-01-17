@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -2044,6 +2044,11 @@
       "Time": "2024-01-17T01:53:21.9886021+00:00",
       "NumProgressed": 526,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T12:04:07.4385703+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2166,9 +2171,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 126
     },
     {
       "ID": "AC_COMBO_2",
@@ -2206,9 +2211,9 @@
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "AC_DEATH_3",
@@ -2224,7 +2229,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2248,7 +2253,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2280,7 +2285,7 @@
       "Name": "Creation",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2360,7 +2365,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2391,14 +2396,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:04:07.4200107+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:04:07.4385699+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:59:35.8073786+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:04:07.4200664+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:59:38.7692175+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:04:07.4386065+00:00"
 }

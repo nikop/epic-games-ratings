@@ -1796,9 +1796,9 @@
       "ID": "KR4_ACHIEVEMENT_JOKULL",
       "SetID": "caeik3h",
       "Name": "How To Tame Your Dragon",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 218
     },
     {
       "ID": "KR4_ACHIEVEMENT_KERMIT",
@@ -2131,8 +2131,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:03:16.8609909+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:03:18.3308118+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:59:59.3909523+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:03:16.8615455+00:00"
+  "LastUpdate_Ratings": "2024-01-17T12:00:01.2842145+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:03:18.330897+00:00"
 }

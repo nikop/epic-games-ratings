@@ -1422,9 +1422,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33646,
+  "EOS_Progressed": 33652,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30747,6 +30747,11 @@
       "Time": "2024-01-17T11:09:49.3499886+00:00",
       "NumProgressed": 33646,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-17T12:09:52.4719227+00:00",
+      "NumProgressed": 33652,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30758,7 +30763,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "1016",
@@ -30782,7 +30787,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "1019",
@@ -30790,7 +30795,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "1020",
@@ -30798,7 +30803,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "1021",
@@ -30806,7 +30811,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "1022",
@@ -30822,7 +30827,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "1024",
@@ -30846,7 +30851,7 @@
       "Name": "Oathkeeper",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "1027",
@@ -30854,7 +30859,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3028
+      "UsersEstimate": 3029
     },
     {
       "ID": "1028",
@@ -30862,7 +30867,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5720
+      "UsersEstimate": 5721
     },
     {
       "ID": "1029",
@@ -30878,7 +30883,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6394
     },
     {
       "ID": "1031",
@@ -30886,7 +30891,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4374
+      "UsersEstimate": 4375
     },
     {
       "ID": "1032",
@@ -30894,7 +30899,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13458
+      "UsersEstimate": 13461
     },
     {
       "ID": "1033",
@@ -30910,7 +30915,7 @@
       "Name": "Influential",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     },
     {
       "ID": "1035",
@@ -30926,22 +30931,22 @@
       "Name": "A Long Journey",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2355
+      "UsersEstimate": 2356
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33646,
+      "Progressed": 33652,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-16T05:01:49.8697711+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:49.3499884+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:52.4719223+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:57:25.8405669+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:49.3501791+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:57:35.8281921+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:52.4720751+00:00"
 }

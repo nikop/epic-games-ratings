@@ -6,28 +6,28 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,164 |
-| Landlord | 35.00% | ~33,506 |
-| Trained | 30.00% | ~28,719 |
-| Bannerlord | 25.00% | ~23,932 |
-| Lawmaker | 24.00% | ~22,975 |
-| Horde breaker | 21.00% | ~20,103 |
-| The king is pleased | 20.00% | ~19,146 |
-| King Solomon | 18.00% | ~17,231 |
-| Apple of my eye | 17.00% | ~16,274 |
-| This Is Our Land | 17.00% | ~16,274 |
+| Lawbringer | 43.00% | ~41,166 |
+| Landlord | 35.00% | ~33,508 |
+| Trained | 30.00% | ~28,721 |
+| Bannerlord | 25.00% | ~23,934 |
+| Lawmaker | 24.00% | ~22,977 |
+| Horde breaker | 21.00% | ~20,105 |
+| The king is pleased | 20.00% | ~19,147 |
+| King Solomon | 18.00% | ~17,232 |
+| Apple of my eye | 17.00% | ~16,275 |
+| This Is Our Land | 17.00% | ~16,275 |
 | Against all odds | 15.00% | ~14,360 |
 | I can do it | 15.00% | ~14,360 |
-| Duelist | 13.00% | ~12,445 |
+| Duelist | 13.00% | ~12,446 |
 | God of the Arena | 12.00% | ~11,488 |
-| Swordbearer | 11.00% | ~10,530 |
-| Dynasty | 10.00% | ~9,573 |
-| I spit on your grave | 10.00% | ~9,573 |
-| What have the Romans ever done for us? | 10.00% | ~9,573 |
+| Swordbearer | 11.00% | ~10,531 |
+| Dynasty | 10.00% | ~9,574 |
+| I spit on your grave | 10.00% | ~9,574 |
+| What have the Romans ever done for us? | 10.00% | ~9,574 |
 | Butterlord | 9.00% | ~8,616 |
-| Mastery | 8.00% | ~7,658 |
-| Know your enemy | 7.00% | ~6,701 |
-| My way | 5.00% | ~4,786 |
+| Mastery | 8.00% | ~7,659 |
+| Know your enemy | 7.00% | ~6,702 |
+| My way | 5.00% | ~4,787 |
 | Crowdfunded | 4.00% | ~3,829 |
 | Crush your enemies | 4.00% | ~3,829 |
 | Veni vidi vici | 4.00% | ~3,829 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,730 (Ranked 103)  
+Progressed: 95,736 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 95,259 | 0 |
 | 2024-01-15 | 95,467 | 0 |
 | 2024-01-16 | 95,667 | 0 |
-| 2024-01-17 | 95,730 | 0 |
+| 2024-01-17 | 95,736 | 0 |
 ## Awards
 Max (Character Customization): 8,099  (Ranked 50)  
 Sum: 16,785 (Ranked 66)  

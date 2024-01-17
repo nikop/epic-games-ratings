@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 528,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -574,9 +574,9 @@
       "ID": "ach_22_eye4Eye",
       "SetID": "16n29hg",
       "Name": "Eye For An Eye",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_23_seqBreaker",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:38.1228685+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:09:40.9506149+00:00",
   "LastUpdate_AppInfo": "2024-01-10T23:57:03.0748057+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:59:02.0840556+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:38.1229234+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:59:06.9365552+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:09:40.9506714+00:00"
 }

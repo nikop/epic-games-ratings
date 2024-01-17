@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47387,
+  "EOS_Progressed": 47390,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19098,6 +19098,11 @@
       "Time": "2024-01-17T10:05:34.8053994+00:00",
       "NumProgressed": 47387,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T12:04:15.9803127+00:00",
+      "NumProgressed": 47390,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19141,7 +19146,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -19157,7 +19162,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19165,7 +19170,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2370
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -19173,7 +19178,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -19445,7 +19450,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5686
+      "UsersEstimate": 5687
     },
     {
       "ID": "SPRING_ALL",
@@ -19532,22 +19537,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47387,
+      "Progressed": 47390,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12224,
-      "Completed": 12224
+      "Progressed": 12227,
+      "Completed": 12227
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:04:16.3416113+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:04:15.9803121+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-17T11:02:53.4055791+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:04:16.3417391+00:00"
+  "LastUpdate_Ratings": "2024-01-17T12:02:52.8925312+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:04:15.9804514+00:00"
 }

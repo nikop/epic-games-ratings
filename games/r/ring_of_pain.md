@@ -56,7 +56,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stop Hitting Yourself | 0.60% | ~1,459 |
 | Doing Time | 0.60% | ~1,459 |
 | Spreading Plague | 0.60% | ~1,459 |
-| Expensive Look | 0.60% | ~27 |
+| Expensive Look | 0.60% | ~28 |
 | Thank You, Friend | 0.50% | ~1,216 |
 | Shadow Spreads | 0.50% | ~1,216 |
 | Max Damage! | 0.50% | ~1,216 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,103 (Ranked 75)  
+Progressed: 243,106 (Ranked 75)  
 Completed: 307 (0.13%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 307 (0.13%) (Ranked 304)
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
-| 2024-01-17 | 243,103 | 307 |
+| 2024-01-17 | 243,106 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,799 (Ranked 90)  

@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,175 |
-| Beast Intentions | 2.00% | ~5,087 |
-| The Cursed Farmer | 2.00% | ~5,087 |
-| The Mad Wizard | 2.00% | ~5,087 |
+| Beast Intentions | 2.00% | ~5,088 |
+| The Cursed Farmer | 2.00% | ~5,088 |
+| The Mad Wizard | 2.00% | ~5,088 |
 | The Ring of Regeneration | 1.00% | ~2,544 |
 | Are Ya Chicken? | 0.90% | ~2,289 |
 | Were-verpowered | 0.80% | ~2,035 |
@@ -31,13 +31,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.50% | ~1,103 |
 | Mental Gymnastics | 0.50% | ~1,103 |
 | Don't Lose Your Head | 0.50% | ~1,103 |
-| Beast Mode | 0.40% | ~1,017 |
-| Low Initiative | 0.40% | ~1,017 |
-| A Mysterious Summons | 0.40% | ~1,017 |
-| Building Trust | 0.40% | ~1,017 |
-| Useless Allies | 0.40% | ~1,017 |
-| Escort to Waterdeep | 0.40% | ~1,017 |
-| Waterdeep Detours | 0.40% | ~1,017 |
+| Beast Mode | 0.40% | ~1,018 |
+| Low Initiative | 0.40% | ~1,018 |
+| A Mysterious Summons | 0.40% | ~1,018 |
+| Building Trust | 0.40% | ~1,018 |
+| Useless Allies | 0.40% | ~1,018 |
+| Escort to Waterdeep | 0.40% | ~1,018 |
+| Waterdeep Detours | 0.40% | ~1,018 |
 | Arcane Suppression | 0.40% | ~883 |
 | Welcome to the Vrocks | 0.40% | ~883 |
 | Misaligned in Sigil | 0.40% | ~883 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,373 (Ranked 71)  
+Progressed: 254,378 (Ranked 71)  
 Completed: 2,622 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,622 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,373 | 2,622 |
+| 2024-01-17 | 254,378 | 2,622 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

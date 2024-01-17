@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3977,9 +3977,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20838,
+  "EOS_Progressed": 20840,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19842,6 +19842,11 @@
       "Time": "2024-01-17T11:08:27.2123279+00:00",
       "NumProgressed": 20838,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-17T12:08:32.0772546+00:00",
+      "NumProgressed": 20840,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -19942,7 +19947,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "WinHard",
@@ -20190,7 +20195,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "WinWithResolve",
@@ -20230,7 +20235,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "WinWithoutOrders",
@@ -20254,7 +20259,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "WinNearFrosts",
@@ -20286,7 +20291,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "WinNearPresence",
@@ -20325,15 +20330,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20838,
+      "Progressed": 20840,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-17T01:47:28.1615356+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:08:27.2123275+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:08:32.0772542+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:22.2401408+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:08:27.212467+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:29.0251009+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:08:32.07737+00:00"
 }

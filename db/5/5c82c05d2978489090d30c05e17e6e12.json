@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75672,
+  "EOS_Progressed": 75676,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1341,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7626,6 +7626,11 @@
       "Time": "2024-01-17T11:08:41.3786743+00:00",
       "NumProgressed": 75672,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-17T12:08:45.5792313+00:00",
+      "NumProgressed": 75676,
+      "NumCompleted": 126
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7638,7 +7643,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 27999
+      "UsersEstimate": 28000
     },
     {
       "ID": "Achievement_10",
@@ -7678,7 +7683,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "Achievement_15",
@@ -7726,7 +7731,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21188
+      "UsersEstimate": 21189
     },
     {
       "ID": "Achievement_20",
@@ -7750,7 +7755,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "Achievement_23",
@@ -7838,7 +7843,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "Achievement_33",
@@ -7862,7 +7867,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6810
+      "UsersEstimate": 6811
     },
     {
       "ID": "Achievement_5",
@@ -7909,7 +7914,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75672,
+      "Progressed": 75676,
       "Completed": 126
     }
   ],
@@ -7917,8 +7922,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-16T17:59:18.435336+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:08:41.378674+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:08:45.5792308+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:58:53.3307957+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:08:41.3787554+00:00"
+  "LastUpdate_Ratings": "2024-01-17T11:58:59.9387243+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:08:45.5792934+00:00"
 }

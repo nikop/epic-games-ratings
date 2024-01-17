@@ -5,19 +5,19 @@ Rating: 4.75 (Ranked 151)
 Number of Ratings: 315  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 60  (Ranked 436)  
-Sum: 456 (Ranked 347)  
+Sum: 458 (Ranked 347)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 60 |
 | This game has Amazing Characters | 49 |
 | This game is Extremely Fun | 48 |
+| This game has Quickly Understood Controls | 45 |
 | This game is Relaxing | 45 |
-| This game has Quickly Understood Controls | 44 |
 | This game is Educational | 44 |
 | This game is Highly Recommended | 39 |
 | This game is Great for Beginners | 37 |
-| This game has Diverse Characters | 36 |
+| This game has Diverse Characters | 37 |
 | This game has Easy Combat | 33 |
 | This game has a Competitive Community | 21 |
 ## Ratings History
@@ -215,4 +215,4 @@ Diff (max vs sum): 89
 | 2024-01-14 | 4.74 | - | 58 | 449 |
 | 2024-01-15 | 4.75 | - | 60 | 453 |
 | 2024-01-16 | 4.75 | - | 60 | 454 |
-| 2024-01-17 | 4.75 | - | 60 | 456 |
+| 2024-01-17 | 4.75 | - | 60 | 458 |

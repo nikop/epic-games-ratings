@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1766,
+  "EOS_Progressed": 1768,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.36,
+  "EOS_Completed_Percentage": 7.35,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4454,6 +4454,11 @@
       "Time": "2024-01-17T05:10:16.5935618+00:00",
       "NumProgressed": 1766,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-17T12:10:01.8242122+00:00",
+      "NumProgressed": 1768,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4465,7 +4470,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1695
+      "UsersEstimate": 1697
     },
     {
       "ID": "LEVEL_002",
@@ -4473,7 +4478,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1397
     },
     {
       "ID": "LEVEL_003",
@@ -4481,7 +4486,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1185
     },
     {
       "ID": "LEVEL_004",
@@ -4489,7 +4494,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "LEVEL_005",
@@ -4497,7 +4502,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "LEVEL_006",
@@ -4505,7 +4510,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "LEVEL_007",
@@ -4553,7 +4558,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "LEVEL_013",
@@ -4593,7 +4598,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "LEVEL_018",
@@ -4704,14 +4709,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1766,
+      "Progressed": 1768,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-17T11:09:59.0553416+00:00",
+  "LastChanged_Achievements": "2024-01-17T12:10:01.8242117+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-17T10:59:59.7848306+00:00",
-  "LastUpdate_Achievements": "2024-01-17T11:09:59.0553928+00:00"
+  "LastUpdate_Ratings": "2024-01-17T12:00:01.6442429+00:00",
+  "LastUpdate_Achievements": "2024-01-17T12:10:01.8242571+00:00"
 }
