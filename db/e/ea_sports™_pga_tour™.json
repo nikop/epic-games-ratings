@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -3575,6 +3575,11 @@
       "Time": "2024-01-17T00:03:31.3665866+00:00",
       "NumProgressed": 988,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-17T05:03:49.9667106+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3587,7 +3592,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_10",
@@ -3603,7 +3608,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_12",
@@ -3611,15 +3616,15 @@
       "Name": "From Way Downtown",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_14",
@@ -3643,7 +3648,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "achievement_17",
@@ -3665,9 +3670,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_3",
@@ -3713,9 +3718,9 @@
       "ID": "achievement_8",
       "SetID": "7ldgi7j",
       "Name": "Winner\u0027s Circle",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 435
+      "UsersEstimate": 425
     },
     {
       "ID": "achievement_9",
@@ -3723,20 +3728,20 @@
       "Name": "Ace in the Hole",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:04:20.0641632+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:03:49.9667103+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.0492343+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:57:45.8908411+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:04:20.0641954+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:57:25.071643+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:03:49.9667391+00:00"
 }

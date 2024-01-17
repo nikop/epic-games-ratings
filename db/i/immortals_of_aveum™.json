@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3480,
+  "EOS_Progressed": 3481,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5722,6 +5722,11 @@
       "Time": "2024-01-17T03:10:14.3451253+00:00",
       "NumProgressed": 3480,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T05:10:17.0044408+00:00",
+      "NumProgressed": 3481,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5734,7 +5739,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "achievement_10",
@@ -5758,7 +5763,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_13",
@@ -5766,7 +5771,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_14",
@@ -5878,7 +5883,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "achievement_36",
@@ -5886,7 +5891,7 @@
       "Name": "Armsman",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_37",
@@ -5910,7 +5915,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "achievement_41",
@@ -5966,7 +5971,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2610
+      "UsersEstimate": 2611
     },
     {
       "ID": "achievement_49",
@@ -6109,7 +6114,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3480,
+      "Progressed": 3481,
       "Completed": 5
     }
   ],
@@ -6117,8 +6122,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:10:31.661519+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:10:17.0044405+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:45.102737+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:31.6615749+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:16.9699636+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:10:17.0045077+00:00"
 }

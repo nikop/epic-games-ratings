@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-13T07:00:00+00:00",
@@ -8114,10 +8114,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 30563,
       "NumberOfAwardsMax": 12818
+    },
+    {
+      "Time": "2024-01-17T05:02:50.9171263+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 30566,
+      "NumberOfAwardsMax": 12818
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30563,
+  "NumberOfAwards": 30566,
   "NumberOfAwardsMax": 12818,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8149,7 +8155,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1989
+      "Count": 1990
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8167,7 +8173,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1994
+      "Count": 1995
     },
     {
       "Text": "This game has Challenging Combat",
@@ -8179,7 +8185,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1855
+      "Count": 1856
     },
     {
       "Text": "This game has a Competitive Community",
@@ -8199,8 +8205,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:51.4090236+00:00",
-  "LastChanged": "2024-01-15T01:55:06.659238+00:00",
+  "LastChanged": "2024-01-17T05:02:50.9171261+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.4643722+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:03:13.9114398+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:02.598734+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:02:50.9171267+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:09:50.3065898+00:00"
 }

@@ -8203,9 +8203,9 @@
       "Count": 3824
     }
   ],
-  "EOS_Progressed": 151563,
+  "EOS_Progressed": 151568,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 1049,
+  "EOS_NewPlayers": 1050,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -37013,6 +37013,11 @@
       "Time": "2024-01-17T04:09:27.2546574+00:00",
       "NumProgressed": 151563,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-17T05:09:19.3352851+00:00",
+      "NumProgressed": 151568,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 112,
@@ -37256,7 +37261,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15156
+      "UsersEstimate": 15157
     },
     {
       "ID": "commonres02",
@@ -37400,7 +37405,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10609
+      "UsersEstimate": 10610
     },
     {
       "ID": "expansion02",
@@ -37496,7 +37501,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15156
+      "UsersEstimate": 15157
     },
     {
       "ID": "gold02",
@@ -37608,7 +37613,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10609
+      "UsersEstimate": 10610
     },
     {
       "ID": "level02",
@@ -37919,15 +37924,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151563,
+      "Progressed": 151568,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-16T23:03:18.9341412+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:09:27.254657+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:09:19.3352847+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:03:41.5638161+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:09:27.2548833+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:03:15.2245739+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:09:19.3355048+00:00"
 }

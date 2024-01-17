@@ -4,7 +4,7 @@
   "ProductSlug": "idle-calibur-db9f57",
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:48.8631916+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:03:01.348718+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:13.1203968+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:00:31.1667411+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:10:00.9100593+00:00"
 }

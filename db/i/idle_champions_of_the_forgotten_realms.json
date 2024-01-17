@@ -9625,7 +9625,7 @@
       "Count": 3647
     }
   ],
-  "EOS_Progressed": 254324,
+  "EOS_Progressed": 254331,
   "EOS_Completed": 2622,
   "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 14,
@@ -40450,6 +40450,11 @@
       "Time": "2024-01-17T04:10:45.1723036+00:00",
       "NumProgressed": 254324,
       "NumCompleted": 2622
+    },
+    {
+      "Time": "2024-01-17T05:10:29.8060294+00:00",
+      "NumProgressed": 254331,
+      "NumCompleted": 2622
     }
   ],
   "TotalAchievements": 546,
@@ -40829,7 +40834,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     },
     {
       "ID": "objective_completed_110",
@@ -42133,7 +42138,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     },
     {
       "ID": "objective_completed_34",
@@ -42611,9 +42616,9 @@
       "ID": "objective_completed_540",
       "SetID": "cc37lbc",
       "Name": "A Tale of Two Cities",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 763
     },
     {
       "ID": "objective_completed_541",
@@ -43605,7 +43610,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5086
+      "UsersEstimate": 5087
     },
     {
       "ID": "objective_completed_70",
@@ -44828,21 +44833,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220598,
+      "Progressed": 220605,
       "Completed": 4151
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254324,
+      "Progressed": 254331,
       "Completed": 2622
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-16T22:58:12.5483927+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:10:45.1723035+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:10:29.806029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:52.7949105+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:45.174597+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:23.775547+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:10:29.8083916+00:00"
 }

@@ -187,7 +187,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3470,
+  "EOS_Progressed": 3471,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 7,
@@ -6597,6 +6597,11 @@
       "Time": "2024-01-16T20:05:42.6959614+00:00",
       "NumProgressed": 3470,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-17T05:05:25.9516757+00:00",
+      "NumProgressed": 3471,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 53,
@@ -6672,7 +6677,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6688,7 +6693,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6696,7 +6701,7 @@
       "Name": "I smell fear",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -6760,7 +6765,7 @@
       "Name": "Do you trust me?",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -6784,7 +6789,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6792,7 +6797,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3123
+      "UsersEstimate": 3124
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6816,7 +6821,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6824,7 +6829,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2637
+      "UsersEstimate": 2638
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6896,7 +6901,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -6912,7 +6917,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2083
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6936,7 +6941,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -6944,7 +6949,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -6952,7 +6957,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -6984,7 +6989,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7031,7 +7036,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3470,
+      "Progressed": 3471,
       "Completed": 30
     }
   ],
@@ -7039,8 +7044,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:06:08.3498916+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:05:25.9516751+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:26.4894525+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:06:08.3499777+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:57:58.7666253+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:05:25.9517342+00:00"
 }

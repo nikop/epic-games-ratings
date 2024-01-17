@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2088,9 +2088,9 @@
       "ID": "ACH_COMPLETE_ARK01",
       "SetID": "4n84pon",
       "Name": "Cult Following",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2377,8 +2377,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:09:53.5531044+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:09:42.3096336+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:52.8044001+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:09:53.5531447+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:23.8409752+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:09:42.3096673+00:00"
 }

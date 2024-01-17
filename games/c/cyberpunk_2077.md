@@ -8,6 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.20% | ~2,106 |
 | Right Back At Ya | 0.20% | ~2,106 |
+| Christmas Tree Attack | 0.20% | ~2,106 |
 | The Hermit | 0.20% | ~2,106 |
 | The High Priestess | 0.20% | ~2,106 |
 | The Wheel of Fortune | 0.20% | ~2,106 |
@@ -25,7 +26,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.10% | ~1,053 |
 | Mean Streets | 0.10% | ~1,053 |
 | Little Tokyo | 0.10% | ~1,053 |
-| Christmas Tree Attack | 0.10% | ~1,053 |
 | The Quick and the Dead | 0.10% | ~1,053 |
 | Must Be Rats | 0.10% | ~1,053 |
 | Breathtaking | 0.10% | ~1,053 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,196 (Ranked 17)  
-Completed: 3,109 (0.30%) (Ranked 262)  
+Progressed: 1,053,233 (Ranked 17)  
+Completed: 3,110 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,17 +346,17 @@ Completed: 3,109 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,196 | 3,109 |
+| 2024-01-17 | 1,053,233 | 3,110 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
-Sum: 499,675 (Ranked 8)  
+Sum: 499,830 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 141,060 |
 | This game has Great Boss Battles | 104,673 |
 | This game is Great for Beginners | 31,882 |
-| This game has Diverse Characters | 31,051 |
+| This game has Diverse Characters | 31,206 |
 | This game is Highly Recommended | 29,649 |
 | This game has Amazing Storytelling | 29,087 |
 | This game is Extremely Fun | 28,975 |
@@ -730,4 +730,4 @@ Diff (max vs sum): 0
 | 2024-01-14 | 4.67 | - | 139,863 | 493,689 |
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
-| 2024-01-17 | 4.67 | - | 141,060 | 499,675 |
+| 2024-01-17 | 4.67 | - | 141,060 | 499,830 |

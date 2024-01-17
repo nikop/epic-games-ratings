@@ -3,9 +3,9 @@
 [View Rawdata](../../db/2/27aa2ebdcda14b3bb8a669aab73ca55f.json)  
 Rating: 4.35 (Ranked 832)  
 ## Awards
-Max (Character Customization): 4,017  (Ranked 92)  
+Max (Character Customization): 4,017  (Ranked 93)  
 Sum: 9,919 (Ranked 97)  
-Diff (max vs sum): -5  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 4,017 |

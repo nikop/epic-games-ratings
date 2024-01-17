@@ -1612,9 +1612,9 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:09:24.8018661+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:09:17.2810648+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:51.3565057+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:09:24.8019049+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:22.6016875+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:09:17.2811184+00:00"
 }

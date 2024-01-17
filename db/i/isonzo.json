@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9969,
+  "EOS_Progressed": 9970,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11247,6 +11247,11 @@
       "Time": "2024-01-16T22:10:51.8315457+00:00",
       "NumProgressed": 9969,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-17T05:09:46.6236528+00:00",
+      "NumProgressed": 9970,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11274,7 +11279,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4387
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11306,7 +11311,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11426,7 +11431,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11586,7 +11591,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11610,14 +11615,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5085
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9969,
+      "Progressed": 9970,
       "Completed": 10
     }
   ],
@@ -11625,8 +11630,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:09:58.3985576+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:09:46.6236524+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:00:19.5290991+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:09:58.3986416+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:59:38.061371+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:09:46.6237254+00:00"
 }

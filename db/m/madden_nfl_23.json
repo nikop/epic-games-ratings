@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4456,
+  "EOS_Progressed": 4458,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8804,6 +8804,11 @@
       "Time": "2024-01-17T04:09:02.144575+00:00",
       "NumProgressed": 4456,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T05:08:57.2484929+00:00",
+      "NumProgressed": 4458,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8824,7 +8829,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2496
     },
     {
       "ID": "achievement_11",
@@ -8840,7 +8845,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "achievement_13",
@@ -8848,7 +8853,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2363
     },
     {
       "ID": "achievement_14",
@@ -8856,7 +8861,7 @@
       "Name": "Dealmaker",
       "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "achievement_15",
@@ -8864,7 +8869,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_16",
@@ -8872,7 +8877,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "achievement_17",
@@ -8960,7 +8965,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_8",
@@ -8983,7 +8988,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4456,
+      "Progressed": 4458,
       "Completed": 0
     }
   ],
@@ -8991,8 +8996,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-16T15:59:33.7498908+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:09:02.1445746+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:08:57.248492+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:00:16.706917+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:09:02.1446319+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:59:35.7704036+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:08:57.2485557+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-gravehouse-37f09e",
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-09T23:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-07T07:58:41.5180344+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:17.3255373+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:59:20.5875988+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:03:56.4927764+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:48.4577884+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:03:29.0088302+00:00"
 }

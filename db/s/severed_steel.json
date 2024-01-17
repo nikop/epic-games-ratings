@@ -2,7 +2,7 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 239,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 32,
@@ -1059,18 +1059,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 613,
       "NumberOfAwardsMax": 506
+    },
+    {
+      "Time": "2024-01-17T04:58:37.4506838+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 615,
+      "NumberOfAwardsMax": 508
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 613,
-  "NumberOfAwardsMax": 506,
+  "NumberOfAwards": 615,
+  "NumberOfAwardsMax": 508,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 506
+      "Count": 508
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1109,9 +1115,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 647018,
+  "EOS_Progressed": 647010,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": -2870,
+  "EOS_NewPlayers": -2863,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32439,6 +32445,11 @@
       "Time": "2024-01-17T04:10:28.6863179+00:00",
       "NumProgressed": 647018,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-17T05:10:14.2941844+00:00",
+      "NumProgressed": 647010,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 52,
@@ -32450,7 +32461,7 @@
       "Name": "1000 KILLS",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 64702
+      "UsersEstimate": 64701
     },
     {
       "ID": "100_KILLS KILLS (0-100)",
@@ -32458,7 +32469,7 @@
       "Name": "100 KILLS",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 213516
+      "UsersEstimate": 213513
     },
     {
       "ID": "200_HEADSHOTS HEADSHOTS (0-200)",
@@ -32466,7 +32477,7 @@
       "Name": "200 HEADSHOTS",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 122933
+      "UsersEstimate": 122932
     },
     {
       "ID": "50_HEADSHOTS HEADSHOTS (0-50)",
@@ -32474,7 +32485,7 @@
       "Name": "50 HEADSHOTS",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 200576
+      "UsersEstimate": 200573
     },
     {
       "ID": "BIGUPS",
@@ -32514,7 +32525,7 @@
       "Name": "FINISHED CHAPTER 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 187635
+      "UsersEstimate": 187633
     },
     {
       "ID": "CHAPTER2",
@@ -32522,7 +32533,7 @@
       "Name": "FINISHED CHAPTER 2",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 135874
+      "UsersEstimate": 135872
     },
     {
       "ID": "CHAPTER3",
@@ -32530,7 +32541,7 @@
       "Name": "FINISHED CHAPTER 3",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 116463
+      "UsersEstimate": 116462
     },
     {
       "ID": "CHAPTER4",
@@ -32538,7 +32549,7 @@
       "Name": "FINISHED CHAPTER 4",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 97053
+      "UsersEstimate": 97052
     },
     {
       "ID": "CHAPTER5",
@@ -32546,7 +32557,7 @@
       "Name": "FINISH CHAPTER 5",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 84112
+      "UsersEstimate": 84111
     },
     {
       "ID": "CHAPTER6",
@@ -32554,7 +32565,7 @@
       "Name": "FINISH CHAPTER 6",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 71172
+      "UsersEstimate": 71171
     },
     {
       "ID": "CHURCH",
@@ -32578,7 +32589,7 @@
       "Name": "CATHARTIC ESCAPISM",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 71172
+      "UsersEstimate": 71171
     },
     {
       "ID": "FIREFIGHT10 LEVEL (0-10)",
@@ -32586,7 +32597,7 @@
       "Name": "FIREFIGHT LEVEL 10",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 25881
+      "UsersEstimate": 25880
     },
     {
       "ID": "FIREFIGHT20 LEVEL (0-20)",
@@ -32826,7 +32837,7 @@
       "Name": "SCIENCE AND INDUSTRY",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 194105
+      "UsersEstimate": 194103
     },
     {
       "ID": "SOUL",
@@ -32865,16 +32876,16 @@
     {
       "ID": "1pi2inm",
       "IsBase": true,
-      "Progressed": 647018,
+      "Progressed": 647010,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-01-15T22:57:59.8803017+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:10:28.6863177+00:00",
+  "LastChanged": "2024-01-17T04:58:37.4506836+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:10:14.2941843+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.981954+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:59:08.9532783+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:28.6864545+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:37.4506842+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:10:14.2943349+00:00"
 }

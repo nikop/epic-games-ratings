@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1334,
+  "EOS_Progressed": 1335,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 1,
@@ -4081,6 +4081,11 @@
       "Time": "2024-01-17T00:09:50.6983237+00:00",
       "NumProgressed": 1334,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T05:10:25.0082555+00:00",
+      "NumProgressed": 1335,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4108,7 +4113,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ChestCompletion1",
@@ -4140,7 +4145,7 @@
       "Name": "Like Clockwork",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ClovemaryGift",
@@ -4164,7 +4169,7 @@
       "Name": "Street Style",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "CultivairChests1",
@@ -4172,7 +4177,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "EntresolChests1",
@@ -4204,7 +4209,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -4220,7 +4225,7 @@
       "Name": "The Betrayer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4244,7 +4249,7 @@
       "Name": "Whiz Kid",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "GrindingTime1",
@@ -4252,7 +4257,7 @@
       "Name": "Rail Rat",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "HexlockGift",
@@ -4378,9 +4383,9 @@
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 627
     },
     {
       "ID": "RewindParry",
@@ -4444,7 +4449,7 @@
       "Name": "Syron for Hope",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4492,7 +4497,7 @@
       "Name": "Good Neighbor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4508,14 +4513,14 @@
       "Name": "The Family Fortune",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1334,
+      "Progressed": 1335,
       "Completed": 8
     }
   ],
@@ -4523,8 +4528,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:10:40.2867688+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:10:25.0082553+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:00:27.0551171+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:40.2868226+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:59:44.6408344+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:10:25.008301+00:00"
 }

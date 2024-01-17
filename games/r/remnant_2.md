@@ -5,16 +5,16 @@ Rating: 4.72 (Ranked 194)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,382 |
-| First of Many | 12.00% | ~35,382 |
-| Not Your Average Trait | 10.00% | ~29,485 |
-| Expanding Horizons | 9.00% | ~26,536 |
-| Quest for Survival | 8.00% | ~23,588 |
-| Familiar Face | 8.00% | ~23,588 |
-| Boss'n Up | 8.00% | ~23,588 |
-| Gleaming the Cube | 7.00% | ~20,639 |
-| Not So Special Now | 7.00% | ~20,639 |
-| Trait Chaser | 7.00% | ~20,639 |
+| The Killing Jar | 12.00% | ~35,383 |
+| First of Many | 12.00% | ~35,383 |
+| Not Your Average Trait | 10.00% | ~29,486 |
+| Expanding Horizons | 9.00% | ~26,537 |
+| Quest for Survival | 8.00% | ~23,589 |
+| Familiar Face | 8.00% | ~23,589 |
+| Boss'n Up | 8.00% | ~23,589 |
+| Gleaming the Cube | 7.00% | ~20,640 |
+| Not So Special Now | 7.00% | ~20,640 |
+| Trait Chaser | 7.00% | ~20,640 |
 | Not a Janitor | 6.00% | ~17,691 |
 | Equal Measures | 6.00% | ~17,691 |
 | Blue Goddess | 6.00% | ~17,691 |
@@ -23,13 +23,13 @@ Rating: 4.72 (Ranked 194)
 | Almost There | 6.00% | ~17,691 |
 | Make Some Room | 6.00% | ~17,691 |
 | Good, But Could Be Better! | 6.00% | ~17,691 |
-| Am I Seeing This? | 5.00% | ~14,742 |
-| Chaos | 5.00% | ~14,742 |
-| Power Surge | 5.00% | ~14,742 |
-| The God Gambit | 5.00% | ~14,742 |
-| Dark Designs | 5.00% | ~14,742 |
-| Shhh...It's a Secret | 5.00% | ~14,742 |
-| Was This Supposed To Happen? | 5.00% | ~14,742 |
+| Am I Seeing This? | 5.00% | ~14,743 |
+| Chaos | 5.00% | ~14,743 |
+| Power Surge | 5.00% | ~14,743 |
+| The God Gambit | 5.00% | ~14,743 |
+| Dark Designs | 5.00% | ~14,743 |
+| Shhh...It's a Secret | 5.00% | ~14,743 |
+| Was This Supposed To Happen? | 5.00% | ~14,743 |
 | Traitor | 4.00% | ~11,794 |
 | Forever is a Long Time Coming | 4.00% | ~11,794 |
 | Madman's Paradise | 4.00% | ~11,794 |
@@ -38,15 +38,15 @@ Rating: 4.72 (Ranked 194)
 | The Web | 4.00% | ~11,794 |
 | Scrap Collector | 4.00% | ~11,794 |
 | All These Traits� | 4.00% | ~11,794 |
-| Tall Tales | 3.00% | ~8,845 |
-| Bad Moon Rising | 3.00% | ~8,845 |
-| Edgelord | 3.00% | ~8,845 |
-| Scrap Hoarder | 3.00% | ~8,845 |
-| Carnage in C-Minor | 3.00% | ~8,845 |
-| The Ultimate Weapon | 3.00% | ~8,845 |
-| No One Should Have All That Power | 3.00% | ~8,845 |
-| Transmutate | 3.00% | ~8,845 |
-| Regicide | 3.00% | ~2,220 |
+| Tall Tales | 3.00% | ~8,846 |
+| Bad Moon Rising | 3.00% | ~8,846 |
+| Edgelord | 3.00% | ~8,846 |
+| Scrap Hoarder | 3.00% | ~8,846 |
+| Carnage in C-Minor | 3.00% | ~8,846 |
+| The Ultimate Weapon | 3.00% | ~8,846 |
+| No One Should Have All That Power | 3.00% | ~8,846 |
+| Transmutate | 3.00% | ~8,846 |
+| Regicide | 3.00% | ~2,221 |
 | Crafty | 2.00% | ~5,897 |
 | Ghost in the Machine | 2.00% | ~5,897 |
 | Only Human | 2.00% | ~5,897 |
@@ -55,13 +55,13 @@ Rating: 4.72 (Ranked 194)
 | The Collector | 2.00% | ~5,897 |
 | Maxed Out! | 2.00% | ~5,897 |
 | Master of the Dark Arts | 2.00% | ~1,480 |
-| Cutting Edge | 1.00% | ~2,948 |
-| Proving Grounds | 1.00% | ~2,948 |
+| Cutting Edge | 1.00% | ~2,949 |
+| Proving Grounds | 1.00% | ~2,949 |
 | Succession | 0.80% | ~592 |
 | You Shall Pass | 0.70% | ~518 |
 | A Foul Feast | 0.50% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,848 (Ranked 65)  
+Progressed: 294,858 (Ranked 65)  
 Completed: 1,103 (0.37%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 1,103 (0.37%) (Ranked 248)
 | 2024-01-14 | 293,510 | 1,059 |
 | 2024-01-15 | 294,108 | 1,080 |
 | 2024-01-16 | 294,750 | 1,101 |
-| 2024-01-17 | 294,848 | 1,103 |
+| 2024-01-17 | 294,858 | 1,103 |
 ## Awards
 Max (Great Boss Battles): 7,080  (Ranked 59)  
 Sum: 15,906 (Ranked 71)  

@@ -3,11 +3,11 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 33,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 501,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -259,23 +259,29 @@
       "Rating": 4.86,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-01-17T05:00:21.663403+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 36,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 36,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 35
+      "Count": 36
     }
   ],
-  "EOS_Progressed": 17295,
+  "EOS_Progressed": 17296,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12478,6 +12484,11 @@
       "Time": "2024-01-17T04:06:37.5963649+00:00",
       "NumProgressed": 17295,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-17T05:05:52.3207762+00:00",
+      "NumProgressed": 17296,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12489,7 +12500,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9512
+      "UsersEstimate": 9513
     },
     {
       "ID": "Ach002",
@@ -12497,7 +12508,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6226
+      "UsersEstimate": 6227
     },
     {
       "ID": "Ach003",
@@ -12537,7 +12548,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "Ach008",
@@ -12601,7 +12612,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6053
+      "UsersEstimate": 6054
     },
     {
       "ID": "Ach016",
@@ -12649,7 +12660,7 @@
       "Name": "I have to read these things?",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "Ach022",
@@ -12665,7 +12676,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9685
+      "UsersEstimate": 9686
     },
     {
       "ID": "Ach024",
@@ -12681,7 +12692,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5361
+      "UsersEstimate": 5362
     },
     {
       "ID": "Ach026",
@@ -12977,7 +12988,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1423
+      "UsersEstimate": 1424
     },
     {
       "ID": "Ach063",
@@ -13056,22 +13067,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17295,
+      "Progressed": 17296,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15816,
+      "Progressed": 15817,
       "Completed": 1931
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2024-01-13T13:58:58.0856077+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:06:37.5963647+00:00",
+  "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:05:52.320776+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:01:09.2331633+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:06:37.5964624+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:00:21.6634039+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:05:52.3208886+00:00"
 }

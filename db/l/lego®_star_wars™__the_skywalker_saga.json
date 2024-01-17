@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4271,9 +4271,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59523,
+  "EOS_Progressed": 59524,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 616,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -18941,6 +18941,11 @@
       "Time": "2024-01-17T04:08:44.4811769+00:00",
       "NumProgressed": 59523,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2024-01-17T05:08:41.8386227+00:00",
+      "NumProgressed": 59524,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 45,
@@ -19072,7 +19077,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26190
+      "UsersEstimate": 26191
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -19088,7 +19093,7 @@
       "Name": "A New Hope",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 26785
+      "UsersEstimate": 26786
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -19128,7 +19133,7 @@
       "Name": "The Rise of Skywalker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 11309
+      "UsersEstimate": 11310
     },
     {
       "ID": "COMPLETE_FAULTYDROID_ON_TATOOINE",
@@ -19144,7 +19149,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 32142
+      "UsersEstimate": 32143
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -19216,7 +19221,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57142
+      "UsersEstimate": 57143
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19256,7 +19261,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41071
+      "UsersEstimate": 41072
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19304,22 +19309,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41071
+      "UsersEstimate": 41072
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59523,
+      "Progressed": 59524,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-16T19:00:28.7301825+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:08:44.4811765+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:08:41.8386224+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:00:06.3283551+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:08:44.4812889+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:59:28.3326905+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:08:41.8387016+00:00"
 }

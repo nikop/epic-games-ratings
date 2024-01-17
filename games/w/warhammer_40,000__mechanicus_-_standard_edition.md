@@ -1,24 +1,24 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.43 (Ranked 729)  
+Rating: 4.43 (Ranked 730)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,428 |
-| This is only the beginning | 20.00% | ~46,483 |
+| No aid from the Omnissiah | 26.00% | ~60,429 |
+| This is only the beginning | 20.00% | ~46,484 |
 | Knowledge is power | 13.00% | ~30,214 |
 | Power Ranger | 10.00% | ~23,242 |
 | Galvanic Rifle | 10.00% | ~23,242 |
 | Radium Ready | 10.00% | ~23,242 |
-| Taser Goad | 9.00% | ~20,917 |
-| Half a cog | 9.00% | ~20,917 |
+| Taser Goad | 9.00% | ~20,918 |
+| Half a cog | 9.00% | ~20,918 |
 | Watch them crumble | 6.00% | ~13,945 |
 | Competent Cohort | 4.00% | ~9,297 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,297 |
 | One with the Machine | 4.00% | ~9,297 |
-| Legio Cybernetica | 3.00% | ~6,972 |
-| Fleshy Disposal | 3.00% | ~6,972 |
+| Legio Cybernetica | 3.00% | ~6,973 |
+| Fleshy Disposal | 3.00% | ~6,973 |
 | Battle Servitor | 2.00% | ~4,648 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,648 |
 | Impatient destruction | 2.00% | ~4,648 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 729)
 | Perma-live | 0.10% | ~232 |
 | Purge the Heretek | 0.10% | ~232 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,415 (Ranked 78)  
+Progressed: 232,419 (Ranked 78)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 232,268 | 5 |
 | 2024-01-15 | 232,334 | 5 |
 | 2024-01-16 | 232,407 | 5 |
-| 2024-01-17 | 232,415 | 5 |
+| 2024-01-17 | 232,419 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 269)  
 Sum: 2,233 (Ranked 212)  

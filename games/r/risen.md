@@ -5,17 +5,17 @@ Rating: 4.58 (Ranked 472)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~183 |
-| Map reader | 65.00% | ~132 |
-| Adventurer | 64.00% | ~130 |
+| Beginner | 90.00% | ~184 |
+| Map reader | 65.00% | ~133 |
+| Adventurer | 64.00% | ~131 |
 | Philanthropist | 61.00% | ~124 |
-| The brave little tailor | 41.00% | ~83 |
-| Archer | 41.00% | ~83 |
-| Field hand | 38.00% | ~77 |
+| The brave little tailor | 41.00% | ~84 |
+| Archer | 41.00% | ~84 |
+| Field hand | 38.00% | ~78 |
 | Well-to-do | 33.00% | ~67 |
 | Samaritan | 30.00% | ~61 |
-| The merciful one | 29.00% | ~59 |
 | Ladies' man | 29.00% | ~59 |
+| The merciful one | 28.00% | ~57 |
 | Idiot | 24.00% | ~49 |
 | Ferocious wild boars | 23.00% | ~47 |
 | Beast slayer | 21.00% | ~43 |
@@ -26,13 +26,13 @@ Rating: 4.58 (Ranked 472)
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
 | Family man | 17.00% | ~35 |
-| Wise man | 16.00% | ~32 |
-| Fence | 16.00% | ~32 |
-| Ghost hunter | 15.00% | ~30 |
-| Hard worker | 15.00% | ~30 |
-| Pandora's box | 14.00% | ~28 |
-| Master detective | 14.00% | ~28 |
-| Peacekeeper | 13.00% | ~26 |
+| Wise man | 16.00% | ~33 |
+| Fence | 16.00% | ~33 |
+| Ghost hunter | 15.00% | ~31 |
+| Hard worker | 15.00% | ~31 |
+| Pandora's box | 14.00% | ~29 |
+| Master detective | 14.00% | ~29 |
+| Peacekeeper | 13.00% | ~27 |
 | Defender | 12.00% | ~24 |
 | Showdown | 11.00% | ~22 |
 | Workaholic | 11.00% | ~22 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 472)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203 (Ranked 433)  
+Progressed: 204 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,6 +134,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-12 | 193 | 0 |
 | 2024-01-13 | 200 | 0 |
 | 2024-01-14 | 203 | 0 |
+| 2024-01-17 | 204 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

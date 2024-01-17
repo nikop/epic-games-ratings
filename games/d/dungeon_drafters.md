@@ -11,12 +11,12 @@
 | Uncut Gem | 27.00% | ~40 |
 | Clear as Water | 26.00% | ~39 |
 | Setting Off | 23.00% | ~34 |
-| Card Collector | 22.00% | ~33 |
+| Card Collector | 23.00% | ~34 |
 | Riddlesolver | 20.00% | ~30 |
 | Dungeon Mastery | 19.00% | ~28 |
 | A Strange Proposition | 11.00% | ~16 |
+| Card Completionist | 10.00% | ~15 |
 | The Steed | 9.00% | ~14 |
-| Card Completionist | 9.00% | ~14 |
 | The Bodyguard | 7.00% | ~11 |
 | The Apprentice | 7.00% | ~11 |
 | Braving Miasma | 6.00% | ~9 |

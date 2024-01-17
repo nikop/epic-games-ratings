@@ -6,7 +6,7 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,169 |
+| Genin | 12.00% | ~27,170 |
 | A thief's beginning | 11.00% | ~24,905 |
 | Thorough | 11.00% | ~24,905 |
 | Disguised | 9.00% | ~20,377 |
@@ -22,14 +22,14 @@ Number of Ratings: 495  (23.09.2022)
 | Chunin | 6.00% | ~13,585 |
 | Flying Rocks | 6.00% | ~13,585 |
 | Warzone | 6.00% | ~13,585 |
-| Happy little accidents | 5.00% | ~11,320 |
-| Okkoto | 5.00% | ~11,320 |
-| Prisoners | 5.00% | ~11,320 |
-| Too Early | 5.00% | ~11,320 |
-| Gear up | 4.00% | ~9,056 |
-| Noboru | 4.00% | ~9,056 |
-| Still Rollin' | 4.00% | ~9,056 |
-| Stoned | 4.00% | ~9,056 |
+| Happy little accidents | 5.00% | ~11,321 |
+| Okkoto | 5.00% | ~11,321 |
+| Prisoners | 5.00% | ~11,321 |
+| Too Early | 5.00% | ~11,321 |
+| Gear up | 4.00% | ~9,057 |
+| Noboru | 4.00% | ~9,057 |
+| Still Rollin' | 4.00% | ~9,057 |
+| Stoned | 4.00% | ~9,057 |
 | It's raining men | 3.00% | ~6,792 |
 | The Old Way | 3.00% | ~6,792 |
 | Atheist Ox | 2.00% | ~4,528 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~226 |
 | Release the Kraken | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,410 (Ranked 80)  
+Progressed: 226,413 (Ranked 80)  
 Completed: 107 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 107 (0.05%) (Ranked 343)
 | 2024-01-14 | 226,027 | 107 |
 | 2024-01-15 | 226,214 | 107 |
 | 2024-01-16 | 226,388 | 107 |
-| 2024-01-17 | 226,410 | 107 |
+| 2024-01-17 | 226,413 | 107 |
 ## Awards
 Max (Great for Beginners): 594  (Ranked 213)  
 Sum: 4,962 (Ranked 153)  

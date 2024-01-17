@@ -68,6 +68,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Berzerker | 0.40% | ~972 |
 | Decisions, Decisions | 0.40% | ~972 |
 | Snake Sneak | 0.40% | ~972 |
+| Precious | 0.40% | ~972 |
 | Who Needs Luck? | 0.40% | ~18 |
 | Achievement Hunter | 0.30% | ~729 |
 | Challenge Increases | 0.30% | ~729 |
@@ -84,7 +85,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Defuser | 0.30% | ~729 |
 | Obsessed | 0.30% | ~729 |
 | Sentimental Value | 0.30% | ~729 |
-| Precious | 0.30% | ~729 |
 | Raw Power | 0.30% | ~14 |
 | Quick Descent | 0.20% | ~486 |
 | A Week Attempt | 0.20% | ~486 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,087 (Ranked 75)  
+Progressed: 243,089 (Ranked 75)  
 Completed: 307 (0.13%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 307 (0.13%) (Ranked 304)
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
-| 2024-01-17 | 243,087 | 307 |
+| 2024-01-17 | 243,089 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,799 (Ranked 90)  

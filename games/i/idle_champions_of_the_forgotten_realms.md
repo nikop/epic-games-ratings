@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,173 |
-| Beast Intentions | 2.00% | ~5,086 |
-| The Cursed Farmer | 2.00% | ~5,086 |
-| The Mad Wizard | 2.00% | ~5,086 |
+| Beast Intentions | 2.00% | ~5,087 |
+| The Cursed Farmer | 2.00% | ~5,087 |
+| The Mad Wizard | 2.00% | ~5,087 |
 | The Ring of Regeneration | 1.00% | ~2,543 |
 | Are Ya Chicken? | 0.90% | ~2,289 |
 | Were-verpowered | 0.80% | ~2,035 |
@@ -48,6 +48,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.30% | ~763 |
 | Invisible Shadows | 0.30% | ~763 |
 | The Dinner Party | 0.30% | ~763 |
+| A Tale of Two Cities | 0.30% | ~763 |
 | Running of the Saurs | 0.30% | ~763 |
 | Underdeep Cartography | 0.30% | ~763 |
 | Overdue Rendezvous | 0.30% | ~763 |
@@ -75,7 +76,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~509 |
 | Fugitives | 0.20% | ~509 |
 | Premature Betrayal | 0.20% | ~509 |
-| A Tale of Two Cities | 0.20% | ~509 |
 | The Dead Three | 0.20% | ~509 |
 | Flying Monkey Skulls of Doom | 0.20% | ~509 |
 | The Darkness Runs Deeper | 0.20% | ~509 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,324 (Ranked 71)  
+Progressed: 254,331 (Ranked 71)  
 Completed: 2,622 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -825,7 +825,7 @@ Completed: 2,622 (1.03%) (Ranked 178)
 | 2024-01-14 | 253,961 | 2,617 |
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
-| 2024-01-17 | 254,324 | 2,622 |
+| 2024-01-17 | 254,331 | 2,622 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,532 (Ranked 41)  

@@ -44,10 +44,10 @@
 | A new Hindenburg | 8.00% | ~7 |
 | Pulp! Tales from the Crypt | 6.00% | ~6 |
 | Thirst for Oleum | 4.00% | ~4 |
+| Pulp! The Perfect Crime | 3.00% | ~3 |
 | Pulp! Weird Science | 3.00% | ~3 |
 | Pulp! Heart Throbs | 3.00% | ~3 |
 | Troy is burning! | 3.00% | ~3 |
-| Pulp! The Perfect Crime | 2.00% | ~2 |
 | Pulp! Mister Mystery | 2.00% | ~2 |
 | Pulp! Skeleton Hand | 2.00% | ~2 |
 | Pulp! The Vault of Horror | 2.00% | ~2 |

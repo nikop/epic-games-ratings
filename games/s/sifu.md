@@ -9,13 +9,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Old Grandmaster | 6.00% | ~45,677 |
 | Life is your teacher | 5.00% | ~38,064 |
 | Lightning Hands | 5.00% | ~38,064 |
-| The Assault | 4.00% | ~30,451 |
-| The Hateful Pole Fighter | 3.00% | ~22,838 |
-| Stuntmaster | 3.00% | ~22,838 |
-| Street Fighting | 3.00% | ~22,838 |
-| State of constant learning | 3.00% | ~22,838 |
-| Qi Gong: Essence | 3.00% | ~22,838 |
-| Old Child | 3.00% | ~22,838 |
+| The Assault | 4.00% | ~30,452 |
+| The Hateful Pole Fighter | 3.00% | ~22,839 |
+| Stuntmaster | 3.00% | ~22,839 |
+| Street Fighting | 3.00% | ~22,839 |
+| State of constant learning | 3.00% | ~22,839 |
+| Qi Gong: Essence | 3.00% | ~22,839 |
+| Old Child | 3.00% | ~22,839 |
 | A Lady's Blood in the Snow | 2.00% | ~15,226 |
 | Lady Wing Chun | 2.00% | ~15,226 |
 | Furious Fists | 2.00% | ~15,226 |
@@ -40,7 +40,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.60% | ~4,568 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,568 |
 | Sword Stained With Blood | 0.60% | ~4,568 |
-| Bloody Sport | 0.60% | ~423 |
+| Bloody Sport | 0.60% | ~424 |
 | Prodigal Child | 0.50% | ~3,806 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,806 |
 | The best strikes are the ones we avoid | 0.50% | ~353 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,278 (Ranked 26)  
+Progressed: 761,289 (Ranked 26)  
 Completed: 12,989 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 12,989 (1.71%) (Ranked 148)
 | 2024-01-14 | 760,787 | 12,988 |
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
-| 2024-01-17 | 761,278 | 12,989 |
+| 2024-01-17 | 761,289 | 12,989 |
 ## Awards
 Max (Great Boss Battles): 7,221  (Ranked 57)  
 Sum: 12,772 (Ranked 87)  

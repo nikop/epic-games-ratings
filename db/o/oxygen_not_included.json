@@ -3,11 +3,11 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 272,
+  "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 836,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -2871,6 +2871,6 @@
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
   "LastChanged": "2024-01-15T11:57:20.9334523+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.0798829+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:34.903044+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:06:11.1258523+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:58:05.8313627+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:05:28.4184922+00:00"
 }

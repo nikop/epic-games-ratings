@@ -5,8 +5,8 @@ Rating: 4.66 (Ranked 303)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 48.00% | ~640 |
-| Rail Rat | 36.00% | ~480 |
+| Time Heals All Wounds | 47.00% | ~627 |
+| Rail Rat | 36.00% | ~481 |
 | The Mysterious Stranger | 35.00% | ~467 |
 | Immaculate Aim | 30.00% | ~400 |
 | The Brass Boss | 29.00% | ~387 |
@@ -23,26 +23,26 @@ Rating: 4.66 (Ranked 303)
 | The Wicked Twins | 24.00% | ~320 |
 | Right On Time | 23.00% | ~307 |
 | Golem Chaser | 23.00% | ~307 |
-| Like Clockwork | 22.00% | ~293 |
-| The Betrayer | 22.00% | ~293 |
+| Like Clockwork | 22.00% | ~294 |
+| The Betrayer | 22.00% | ~294 |
 | Check Your Pulse | 21.00% | ~280 |
 | The Loose Cannon | 20.00% | ~267 |
-| Street Style | 19.00% | ~253 |
-| The Family Fortune | 19.00% | ~253 |
+| Street Style | 19.00% | ~254 |
+| The Family Fortune | 19.00% | ~254 |
 | The Man Who Shattered Time | 18.00% | ~240 |
-| Whiz Kid | 16.00% | ~213 |
-| Good Neighbor | 16.00% | ~213 |
+| Whiz Kid | 16.00% | ~214 |
+| Good Neighbor | 16.00% | ~214 |
 | Family Memories | 14.00% | ~187 |
 | Ask Questions Later | 14.00% | ~187 |
-| Chaincrawler Explorer | 13.00% | ~173 |
-| Syron for Hope | 13.00% | ~173 |
+| Chaincrawler Explorer | 13.00% | ~174 |
+| Syron for Hope | 13.00% | ~174 |
 | Treasure Trove | 12.00% | ~160 |
 | Cartographer | 12.00% | ~160 |
 | Sump Explorer | 12.00% | ~160 |
 | Factorywood Explorer | 11.00% | ~147 |
 | Theater Explorer | 11.00% | ~147 |
-| Cultivair Explorer | 10.00% | ~133 |
-| Fairgrounds Explorer | 10.00% | ~133 |
+| Cultivair Explorer | 10.00% | ~134 |
+| Fairgrounds Explorer | 10.00% | ~134 |
 | Entresol Explorer | 9.00% | ~120 |
 | Corin Goes Home | 8.00% | ~107 |
 | Sartorialist | 8.00% | ~107 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 303)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,334 (Ranked 281)  
+Progressed: 1,335 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 8 (0.60%) (Ranked 213)
 | 2024-01-14 | 1,326 | 8 |
 | 2024-01-15 | 1,330 | 8 |
 | 2024-01-16 | 1,333 | 8 |
-| 2024-01-17 | 1,334 | 8 |
+| 2024-01-17 | 1,335 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

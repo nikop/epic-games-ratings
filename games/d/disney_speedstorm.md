@@ -5,13 +5,13 @@ Rating: 4.42 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,998 |
-| IT MAKES BOOM! | 9.00% | ~35,998 |
-| EXTRA BOOST | 6.00% | ~23,999 |
-| PROTECTED | 5.00% | ~19,999 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,999 |
-| PRO | 4.00% | ~15,999 |
-| AGGRESSIVE RACER | 3.00% | ~11,999 |
+| ROOKIE | 13.00% | ~52,003 |
+| IT MAKES BOOM! | 9.00% | ~36,002 |
+| EXTRA BOOST | 6.00% | ~24,001 |
+| PROTECTED | 5.00% | ~20,001 |
+| PRO | 5.00% | ~20,001 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,001 |
+| AGGRESSIVE RACER | 3.00% | ~12,001 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~8,000 |
 | TRAINING HARD | 2.00% | ~8,000 |
 | BE OUR GUEST | 2.00% | ~8,000 |
@@ -30,8 +30,8 @@ Rating: 4.42 (Ranked 744)
 | ACE TRICKSTER | 0.70% | ~2,800 |
 | PERFECTLY POISED | 0.60% | ~2,400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,983 (Ranked 51)  
-Completed: 1,632 (0.41%) (Ranked 242)  
+Progressed: 400,021 (Ranked 51)  
+Completed: 1,634 (0.41%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -298,17 +298,17 @@ Completed: 1,632 (0.41%) (Ranked 242)
 | 2024-01-14 | 398,054 | 1,606 |
 | 2024-01-15 | 398,844 | 1,616 |
 | 2024-01-16 | 399,717 | 1,630 |
-| 2024-01-17 | 399,983 | 1,632 |
+| 2024-01-17 | 400,021 | 1,634 |
 ## Awards
 Max (Great for Beginners): 184  (Ranked 312)  
-Sum: 1,216 (Ranked 263)  
+Sum: 1,217 (Ranked 263)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 184 |
 | This game is Great for Quick Sessions | 173 |
 | This game has Diverse Characters | 134 |
-| This game has a Competitive Community | 106 |
+| This game has a Competitive Community | 107 |
 | This game has Playful Visuals | 100 |
 | This game is Highly Recommended | 91 |
 | This game has Amazing Characters | 90 |
@@ -428,4 +428,4 @@ Diff (max vs sum): 49
 | 2024-01-14 | 4.42 | 183 | 1,201 |
 | 2024-01-15 | 4.42 | 183 | 1,205 |
 | 2024-01-16 | 4.42 | 184 | 1,210 |
-| 2024-01-17 | 4.42 | 184 | 1,216 |
+| 2024-01-17 | 4.42 | 184 | 1,217 |

@@ -13698,9 +13698,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62889,
+  "EOS_Progressed": 62890,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39618,6 +39618,11 @@
       "Time": "2024-01-17T02:33:11.581572+00:00",
       "NumProgressed": 62889,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-17T05:08:42.1704268+00:00",
+      "NumProgressed": 62890,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -39629,7 +39634,7 @@
       "Name": "Clucky Streak",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "BreedCows",
@@ -39757,7 +39762,7 @@
       "Name": "The plot thickens",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "FertilizeFirst",
@@ -39773,7 +39778,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "HarvestedFirst",
@@ -39781,7 +39786,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 44651
+      "UsersEstimate": 44652
     },
     {
       "ID": "HorseJumps",
@@ -39829,7 +39834,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22011
+      "UsersEstimate": 22012
     },
     {
       "ID": "Money",
@@ -39861,7 +39866,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 25784
+      "UsersEstimate": 25785
     },
     {
       "ID": "NumProductionPoints",
@@ -39869,7 +39874,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9433
+      "UsersEstimate": 9434
     },
     {
       "ID": "NumVehiclesLarge",
@@ -39885,7 +39890,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33960
+      "UsersEstimate": 33961
     },
     {
       "ID": "PetDog",
@@ -39901,7 +39906,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 33960
+      "UsersEstimate": 33961
     },
     {
       "ID": "Sow",
@@ -39941,7 +39946,7 @@
       "Name": "Long haul",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8804
+      "UsersEstimate": 8805
     },
     {
       "ID": "VehicleRepaint",
@@ -39949,7 +39954,7 @@
       "Name": "Van Gogh",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14464
+      "UsersEstimate": 14465
     },
     {
       "ID": "VehicleRepair",
@@ -39972,15 +39977,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62889,
+      "Progressed": 62890,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-17T02:58:09.9998985+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:08:44.9599923+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:08:42.1704264+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:33.2343402+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:58:26.2139221+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:08:44.9601111+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:57:58.5301138+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:08:42.1705635+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~99,422 |
-| Struck A Pose | 82.00% | ~98,224 |
-| Look At Him Go | 69.00% | ~82,652 |
-| On Rails Experience | 45.00% | ~53,903 |
-| A Daring Devil | 44.00% | ~52,705 |
-| Break the Bank | 33.00% | ~39,529 |
-| It Took Two | 32.00% | ~38,331 |
-| Bug Sized Relaxation | 14.00% | ~16,770 |
-| Plastic Prison Breakers | 13.00% | ~15,572 |
-| Terror Of The Seven Seas | 10.00% | ~11,978 |
-| Realize Your Art | 8.00% | ~9,583 |
-| Force Triangulated | 8.00% | ~9,583 |
-| Meditation Maestro | 8.00% | ~9,583 |
-| Something Fishy | 7.00% | ~8,385 |
-| Snackosaurus | 6.00% | ~7,187 |
-| Platforming Prodigy | 6.00% | ~7,187 |
-| Lost And Found | 6.00% | ~7,187 |
-| Mood Swing | 5.00% | ~5,989 |
+| Fried Friendship | 83.00% | ~99,438 |
+| Struck A Pose | 82.00% | ~98,240 |
+| Look At Him Go | 69.00% | ~82,665 |
+| On Rails Experience | 45.00% | ~53,912 |
+| A Daring Devil | 44.00% | ~52,714 |
+| Break the Bank | 33.00% | ~39,536 |
+| It Took Two | 32.00% | ~38,338 |
+| Bug Sized Relaxation | 14.00% | ~16,773 |
+| Plastic Prison Breakers | 13.00% | ~15,575 |
+| Terror Of The Seven Seas | 10.00% | ~11,980 |
+| Realize Your Art | 8.00% | ~9,584 |
+| Force Triangulated | 8.00% | ~9,584 |
+| Meditation Maestro | 8.00% | ~9,584 |
+| Something Fishy | 7.00% | ~8,386 |
+| Snackosaurus | 6.00% | ~7,188 |
+| Platforming Prodigy | 6.00% | ~7,188 |
+| Lost And Found | 6.00% | ~7,188 |
+| Mood Swing | 5.00% | ~5,990 |
 | Faraway Frequencies | 3.00% | ~3,594 |
 | Minigame Megalomania | 2.00% | ~2,396 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,785 (Ranked 96)  
+Progressed: 119,805 (Ranked 96)  
 Completed: 280 (0.23%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,4 +149,4 @@ Completed: 280 (0.23%) (Ranked 276)
 | 2024-01-14 | 117,217 | 263 |
 | 2024-01-15 | 118,472 | 270 |
 | 2024-01-16 | 119,720 | 280 |
-| 2024-01-17 | 119,785 | 280 |
+| 2024-01-17 | 119,805 | 280 |

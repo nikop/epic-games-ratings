@@ -3,8 +3,8 @@
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
   "Ranking_Rating": 355,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 507,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 221,
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 510,
+  "EOS_Progressed": 511,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -2055,6 +2055,11 @@
       "Time": "2024-01-16T21:04:03.153459+00:00",
       "NumProgressed": 510,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-17T05:04:14.8011113+00:00",
+      "NumProgressed": 511,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2067,7 +2072,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2107,7 +2112,7 @@
       "Name": "Yettisoned",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2131,7 +2136,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2227,7 +2232,7 @@
       "Name": "Kaijuiced",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2235,7 +2240,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2251,7 +2256,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -2267,7 +2272,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2355,7 +2360,7 @@
       "Name": "Dusted",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2386,15 +2391,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 510,
+      "Progressed": 511,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:04:48.3080042+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:04:14.801111+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:01:05.6536924+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:04:48.3080382+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:00:18.9309626+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:04:14.8011423+00:00"
 }

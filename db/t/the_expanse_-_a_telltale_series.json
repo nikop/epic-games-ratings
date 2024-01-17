@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19088,
+  "EOS_Progressed": 19089,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17594,6 +17594,11 @@
       "Time": "2024-01-17T02:30:19.7237689+00:00",
       "NumProgressed": 19088,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-17T05:05:36.6682507+00:00",
+      "NumProgressed": 19089,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17710,7 +17715,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "22",
@@ -17885,13 +17890,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19088,
+      "Progressed": 19089,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5042,
+      "Progressed": 5043,
       "Completed": 1333
     }
   ],
@@ -17899,8 +17904,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:06:19.9236286+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:05:36.6682505+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:59:59.6173235+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:06:19.9237481+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:59:22.8227473+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:05:36.6683312+00:00"
 }

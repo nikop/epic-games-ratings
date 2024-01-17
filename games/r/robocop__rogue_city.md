@@ -33,7 +33,7 @@ Rating: 4.38 (Ranked 797)
 | "This Guy Is Really Good" | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,658 (Ranked 224)  
+Progressed: 3,660 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,14 +72,14 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 3,578 | 0 |
 | 2024-01-15 | 3,612 | 0 |
 | 2024-01-16 | 3,647 | 0 |
-| 2024-01-17 | 3,658 | 0 |
+| 2024-01-17 | 3,660 | 0 |
 ## Awards
-Max (Great Boss Battles): 164  (Ranked 328)  
-Sum: 164 (Ranked 441)  
+Max (Great Boss Battles): 172  (Ranked 320)  
+Sum: 172 (Ranked 433)  
 Diff (max vs sum): -113  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 164 |
+| This game has Great Boss Battles | 172 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -143,4 +143,4 @@ Diff (max vs sum): -113
 | 2024-01-13 | 4.36 | 159 | 159 |
 | 2024-01-14 | 4.37 | 159 | 159 |
 | 2024-01-15 | 4.37 | 164 | 164 |
-| 2024-01-17 | 4.38 | 164 | 164 |
+| 2024-01-17 | 4.38 | 172 | 172 |

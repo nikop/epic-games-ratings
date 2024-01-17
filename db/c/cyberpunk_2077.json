@@ -18492,10 +18492,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 499675,
       "NumberOfAwardsMax": 141060
+    },
+    {
+      "Time": "2024-01-17T05:03:09.8010763+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 499830,
+      "NumberOfAwardsMax": 141060
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499675,
+  "NumberOfAwards": 499830,
   "NumberOfAwardsMax": 141060,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18515,7 +18521,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31051
+      "Count": 31206
     },
     {
       "Text": "This game is Relaxing",
@@ -18572,10 +18578,10 @@
       "Count": 19243
     }
   ],
-  "EOS_Progressed": 1053196,
-  "EOS_Completed": 3109,
-  "EOS_NewPlayers": 11951,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 1053233,
+  "EOS_Completed": 3110,
+  "EOS_NewPlayers": 11818,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49687,6 +49693,11 @@
       "Time": "2024-01-17T04:09:16.9112257+00:00",
       "NumProgressed": 1053196,
       "NumCompleted": 3109
+    },
+    {
+      "Time": "2024-01-17T05:09:10.4278609+00:00",
+      "NumProgressed": 1053233,
+      "NumCompleted": 3110
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49817,9 +49828,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2106
     },
     {
       "ID": "MaxPain",
@@ -50234,21 +50245,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1053196,
-      "Completed": 3109
+      "Progressed": 1053233,
+      "Completed": 3110
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 181819,
-      "Completed": 10634
+      "Progressed": 181856,
+      "Completed": 10635
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-17T04:03:34.8164371+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:09:16.9112255+00:00",
+  "LastChanged": "2024-01-17T05:03:09.8010761+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:09:10.4278606+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:03:34.8164377+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:09:16.9113939+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:03:09.8010768+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:09:10.4280892+00:00"
 }

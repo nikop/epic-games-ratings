@@ -14,8 +14,8 @@ Number of Ratings: 371  (23.09.2022)
 | Purging Spree | 11.00% | ~430 |
 | Blood for the Blood God! | 9.00% | ~352 |
 | Bloodless | 8.00% | ~313 |
-| Surgical Excision | 6.00% | ~234 |
-| Friendly Fire | 6.00% | ~234 |
+| Surgical Excision | 6.00% | ~235 |
+| Friendly Fire | 6.00% | ~235 |
 | Honoured Battle-Brother | 5.00% | ~195 |
 | The Emperor Protects | 5.00% | ~195 |
 | A Foul Creche | 5.00% | ~195 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,908 (Ranked 221)  
+Progressed: 3,909 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 3,898 | 0 |
 | 2024-01-15 | 3,901 | 0 |
 | 2024-01-16 | 3,908 | 0 |
+| 2024-01-17 | 3,909 | 0 |
 ## Awards
 Max (Character Customization): 236  (Ranked 284)  
 Sum: 508 (Ranked 337)  

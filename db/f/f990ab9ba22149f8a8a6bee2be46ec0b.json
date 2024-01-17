@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-soup-1006ea",
   "Ranking_EOS_Progress": 678,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-08-12T04:00:00+00:00",
@@ -446,8 +446,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T18:00:41.8577246+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:04:27.8802393+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:03:56.9034802+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:05.4948241+00:00",
-  "LastUpdate_Ratings": "2024-01-17T03:57:45.2846427+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:04:27.8802679+00:00"
+  "LastUpdate_Ratings": "2024-01-17T04:57:24.5941047+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:03:56.9035255+00:00"
 }

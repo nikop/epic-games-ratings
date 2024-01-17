@@ -2273,9 +2273,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22475,
+  "EOS_Progressed": 22476,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14168,6 +14168,11 @@
       "Time": "2024-01-17T04:10:13.3539822+00:00",
       "NumProgressed": 22475,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-17T05:10:01.1362929+00:00",
+      "NumProgressed": 22476,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14211,7 +14216,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14331,7 +14336,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14554,13 +14559,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22475,
+      "Progressed": 22476,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10401,
+      "Progressed": 10402,
       "Completed": 29
     }
   ],
@@ -14568,8 +14573,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T02:28:00.8005347+00:00",
-  "LastChanged_Achievements": "2024-01-17T04:10:13.3539818+00:00",
+  "LastChanged_Achievements": "2024-01-17T05:10:01.1362925+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-17T04:03:43.7752976+00:00",
-  "LastUpdate_Achievements": "2024-01-17T04:10:13.3540909+00:00"
+  "LastUpdate_Ratings": "2024-01-17T05:03:17.2070987+00:00",
+  "LastUpdate_Achievements": "2024-01-17T05:10:01.1363926+00:00"
 }

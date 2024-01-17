@@ -3,8 +3,8 @@
 [View Rawdata](../../db/c/chimeraland.json)  
 Rating: 3.89 (Ranked 1,077)  
 ## Awards
-Max (Character Customization): 35  (Ranked 506)  
-Sum: 35 (Ranked 537)  
+Max (Character Customization): 35  (Ranked 507)  
+Sum: 35 (Ranked 538)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
