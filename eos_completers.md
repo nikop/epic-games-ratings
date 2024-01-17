@@ -62,7 +62,7 @@
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.04% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.88% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
-| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.85% |
+| 63 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.84% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -247,8 +247,8 @@
 | 245 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 245 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
 | 245 | [Tchia](games/t/tchia.md) | 0.40% |
-| 248 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
-| 248 | [Remnant 2](games/r/remnant_2.md) | 0.37% |
+| 248 | [Remnant 2](games/r/remnant_2.md) | 0.38% |
+| 249 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 250 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 250 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 250 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
