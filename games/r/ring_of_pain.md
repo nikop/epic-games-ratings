@@ -48,14 +48,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.70% | ~1,702 |
 | Shapeshifting | 0.70% | ~1,702 |
 | What Doesn't Kill You | 0.70% | ~32 |
-| To The Death! | 0.60% | ~1,458 |
-| Well Prepared | 0.60% | ~1,458 |
-| Don't Ignore Me! | 0.60% | ~1,458 |
-| All Consuming | 0.60% | ~1,458 |
-| Stop Hitting Yourself | 0.60% | ~1,458 |
-| Doing Time | 0.60% | ~1,458 |
-| Spreading Plague | 0.60% | ~1,458 |
-| Acid Bath | 0.60% | ~1,458 |
+| To The Death! | 0.60% | ~1,459 |
+| Well Prepared | 0.60% | ~1,459 |
+| Don't Ignore Me! | 0.60% | ~1,459 |
+| All Consuming | 0.60% | ~1,459 |
+| Stop Hitting Yourself | 0.60% | ~1,459 |
+| Doing Time | 0.60% | ~1,459 |
+| Spreading Plague | 0.60% | ~1,459 |
+| Acid Bath | 0.60% | ~1,459 |
 | Expensive Look | 0.60% | ~27 |
 | Thank You, Friend | 0.50% | ~1,215 |
 | Shadow Spreads | 0.50% | ~1,215 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,083 (Ranked 75)  
+Progressed: 243,084 (Ranked 75)  
 Completed: 307 (0.13%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -417,7 +417,7 @@ Completed: 307 (0.13%) (Ranked 304)
 | 2024-01-14 | 242,976 | 306 |
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
-| 2024-01-17 | 243,083 | 307 |
+| 2024-01-17 | 243,084 | 307 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 139)  
 Sum: 11,799 (Ranked 90)  

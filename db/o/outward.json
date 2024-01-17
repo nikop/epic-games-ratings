@@ -559,7 +559,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4796,
+  "EOS_Progressed": 4797,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -8454,6 +8454,11 @@
       "Time": "2024-01-17T01:53:32.4712411+00:00",
       "NumProgressed": 4796,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T03:04:16.871143+00:00",
+      "NumProgressed": 4797,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8465,7 +8470,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "AceDetective_9",
@@ -8489,7 +8494,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "BloodAndJustice_50",
@@ -8505,7 +8510,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "CrowdPleaser",
@@ -8649,7 +8654,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8729,7 +8734,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -8785,7 +8790,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3501
+      "UsersEstimate": 3502
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8800,15 +8805,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4796,
+      "Progressed": 4797,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:28:52.0311365+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:04:16.8711426+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:27:47.1087636+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:28:52.0312032+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:03:12.8692241+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:04:16.8712231+00:00"
 }

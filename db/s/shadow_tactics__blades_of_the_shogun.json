@@ -3,7 +3,7 @@
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 282,
-  "Ranking_Popularity": 212,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 343,
@@ -2560,9 +2560,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226403,
+  "EOS_Progressed": 226405,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1326,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33840,6 +33840,11 @@
       "Time": "2024-01-17T01:53:13.1082159+00:00",
       "NumProgressed": 226403,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-17T03:03:59.6743568+00:00",
+      "NumProgressed": 226405,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33851,7 +33856,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24904
+      "UsersEstimate": 24905
     },
     {
       "ID": "AtheistOx",
@@ -33923,7 +33928,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27168
+      "UsersEstimate": 27169
     },
     {
       "ID": "HappyLittleAccidents",
@@ -34139,7 +34144,7 @@
       "Name": "Thorough",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24904
+      "UsersEstimate": 24905
     },
     {
       "ID": "TimeParadox",
@@ -34202,15 +34207,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226403,
+      "Progressed": 226405,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-16T09:57:12.9192169+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:28:34.0008994+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:03:59.6743565+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:22:01.1376097+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:28:34.0010405+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:57:47.7833008+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:03:59.6745038+00:00"
 }

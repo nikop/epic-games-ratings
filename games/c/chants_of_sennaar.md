@@ -14,7 +14,7 @@ Rating: 4.86 (Ranked 33)
 | The darkness | 33.00% | ~930 |
 | A good beginning | 32.00% | ~902 |
 | True G3M4R | 32.00% | ~902 |
-| One last step | 29.00% | ~817 |
+| One last step | 30.00% | ~845 |
 | I did it | 28.00% | ~789 |
 | Cable guy | 28.00% | ~789 |
 | Half the way | 28.00% | ~789 |

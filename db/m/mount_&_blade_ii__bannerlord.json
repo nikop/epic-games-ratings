@@ -10732,18 +10732,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 16766,
       "NumberOfAwardsMax": 8089
+    },
+    {
+      "Time": "2024-01-17T02:59:14.1135004+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16778,
+      "NumberOfAwardsMax": 8099
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16766,
-  "NumberOfAwardsMax": 8089,
+  "NumberOfAwards": 16778,
+  "NumberOfAwardsMax": 8099,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8089
+      "Count": 8099
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10767,7 +10773,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1217
+      "Count": 1219
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10812,9 +10818,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95674,
+  "EOS_Progressed": 95675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2694,
+  "EOS_NewPlayers": 2684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39937,6 +39943,11 @@
       "Time": "2024-01-17T02:34:54.8055198+00:00",
       "NumProgressed": 95674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T03:10:20.4708687+00:00",
+      "NumProgressed": 95675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -39964,7 +39975,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 23918
+      "UsersEstimate": 23919
     },
     {
       "ID": "Best served cold",
@@ -40036,7 +40047,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9567
+      "UsersEstimate": 9568
     },
     {
       "ID": "Entrepreneur",
@@ -40124,7 +40135,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9567
+      "UsersEstimate": 9568
     },
     {
       "ID": "Jack of All Trades",
@@ -40140,7 +40151,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17221
+      "UsersEstimate": 17222
     },
     {
       "ID": "Kingslayer",
@@ -40348,22 +40359,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9567
+      "UsersEstimate": 9568
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95674,
+      "Progressed": 95675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-16T19:59:03.2518201+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:34:54.8055196+00:00",
+  "LastChanged": "2024-01-17T02:59:14.1135003+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:10:20.4708682+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:23:30.201428+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:34:54.8056788+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:59:14.1135008+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:10:20.4711296+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1572,6 +1572,11 @@
       "Time": "2024-01-17T02:33:29.3118387+00:00",
       "NumProgressed": 534,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T03:08:58.1357372+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1648,7 +1653,7 @@
       "Name": "Perfect Run",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1664,7 +1669,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1704,7 +1709,7 @@
       "Name": "Superior Ranking",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1728,7 +1733,7 @@
       "Name": "Koco Leader",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1744,7 +1749,7 @@
       "Name": "Ancient Defiance",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "MAIN_CLEAR_ISLAND3",
@@ -1792,7 +1797,7 @@
       "Name": "Kronos Island Memories",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PORTAL_REPAIRED_ISLANAD2",
@@ -1903,14 +1908,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:33:29.3118386+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:08:58.1357367+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:22:00.9798459+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:33:29.3118843+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:57:47.5786634+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:08:58.135768+00:00"
 }

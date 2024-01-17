@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3480,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5717,6 +5717,11 @@
       "Time": "2024-01-17T00:09:42.4711479+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T03:10:14.3451253+00:00",
+      "NumProgressed": 3480,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5729,7 +5734,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "achievement_10",
@@ -5737,7 +5742,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "achievement_11",
@@ -5817,7 +5822,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2854
     },
     {
       "ID": "achievement_20",
@@ -5873,7 +5878,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "achievement_36",
@@ -5945,7 +5950,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "achievement_46",
@@ -5961,7 +5966,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "achievement_49",
@@ -5977,7 +5982,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "achievement_50",
@@ -6025,7 +6030,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1288
     },
     {
       "ID": "achievement_60",
@@ -6081,7 +6086,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "achievement_8",
@@ -6104,7 +6109,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3480,
       "Completed": 5
     }
   ],
@@ -6112,8 +6117,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:34:48.7472287+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:10:14.3451251+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:22:40.5769899+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:34:48.7472776+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:58:25.9584217+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:10:14.3451787+00:00"
 }

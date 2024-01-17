@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 378,
+  "Ranking_EOS_NewPlayers": 369,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 853,
+  "EOS_Progressed": 854,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1359,6 +1359,11 @@
       "Time": "2024-01-15T22:06:46.6962418+00:00",
       "NumProgressed": 853,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T03:03:53.833071+00:00",
+      "NumProgressed": 854,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1394,7 +1399,7 @@
       "Name": "Big Spender",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "Clarity_of_Mind",
@@ -1480,9 +1485,9 @@
       "ID": "Keep_em_coming",
       "SetID": "gl7plp",
       "Name": "Keep \u0027em coming!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 358
+      "UsersEstimate": 350
     },
     {
       "ID": "Lady_Luck",
@@ -1594,7 +1599,7 @@
       "Name": "The truth is out there",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "This_cant_be_right",
@@ -1657,7 +1662,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 853,
+      "Progressed": 854,
       "Completed": 0
     }
   ],
@@ -1665,8 +1670,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:28:27.9862133+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:03:53.8330707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:51.5021813+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:27:44.7410904+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:28:27.9862372+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:03:10.4920712+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:03:53.8330965+00:00"
 }

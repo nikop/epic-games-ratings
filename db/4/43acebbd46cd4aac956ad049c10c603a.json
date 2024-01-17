@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1429,
+  "EOS_Progressed": 1430,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4188,6 +4188,11 @@
       "Time": "2024-01-17T01:55:13.8369218+00:00",
       "NumProgressed": 1429,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T03:05:46.8722223+00:00",
+      "NumProgressed": 1430,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4280,7 +4285,7 @@
       "Name": "Circular Oasis",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "DesolateIsland",
@@ -4368,7 +4373,7 @@
       "Name": "Into the Machine",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "JustOneLap",
@@ -4384,7 +4389,7 @@
       "Name": "Lord of the Files",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "LostMarshes",
@@ -4400,7 +4405,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "Mnemosyne",
@@ -4408,7 +4413,7 @@
       "Name": "Mnemosyne",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MuseumExplorer",
@@ -4496,7 +4501,7 @@
       "Name": "Renaissance Robot",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -4504,7 +4509,7 @@
       "Name": "Scientia Vincere Tenebras",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Signatory",
@@ -4544,7 +4549,7 @@
       "Name": "Team Spirit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "TextAdventurer",
@@ -4568,7 +4573,7 @@
       "Name": "The Edge of Forever",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TheFuture",
@@ -4576,7 +4581,7 @@
       "Name": "The Future",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "TheHardWay",
@@ -4608,7 +4613,7 @@
       "Name": "The Word Endures",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "TouchGrass",
@@ -4624,7 +4629,7 @@
       "Name": "Trevor\u0027s Biographer",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "VerdantCanyon",
@@ -4632,7 +4637,7 @@
       "Name": "Verdant Canyon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "Wanderers",
@@ -4640,7 +4645,7 @@
       "Name": "Wanderers",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "WesternDelta",
@@ -4671,7 +4676,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1429,
+      "Progressed": 1430,
       "Completed": 2
     }
   ],
@@ -4679,8 +4684,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:30:23.8746225+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:05:46.8722218+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:23:18.5987302+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:30:23.8746957+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:59:03.3597636+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:05:46.8722959+00:00"
 }

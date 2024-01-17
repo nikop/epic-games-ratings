@@ -1,42 +1,42 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.45 (Ranked 692)  
+Rating: 4.45 (Ranked 693)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~316,348 |
-| Full garage | 61.00% | ~264,346 |
-| To the eyeballs! | 51.00% | ~221,011 |
-| Individual delivery | 47.00% | ~203,676 |
-| Non-Stop | 45.00% | ~195,009 |
-| Juggler | 36.00% | ~156,007 |
-| Forgot something | 35.00% | ~151,674 |
-| Close call! | 31.00% | ~134,340 |
-| Get out my way | 28.00% | ~121,339 |
-| Common cause | 26.00% | ~112,672 |
-| Critical care | 26.00% | ~112,672 |
-| Mega-railroad | 23.00% | ~99,671 |
-| Upgrade complete | 23.00% | ~99,671 |
-| Just in time! | 18.00% | ~78,004 |
-| Builder | 17.00% | ~73,670 |
-| Long Haul | 17.00% | ~73,558 |
+| Dealmaker | 74.00% | ~320,686 |
+| Full garage | 61.00% | ~264,349 |
+| To the eyeballs! | 51.00% | ~221,013 |
+| Individual delivery | 47.00% | ~203,679 |
+| Non-Stop | 45.00% | ~195,012 |
+| Juggler | 36.00% | ~156,009 |
+| Forgot something | 35.00% | ~151,676 |
+| Close call! | 31.00% | ~134,341 |
+| Get out my way | 28.00% | ~121,341 |
+| Common cause | 26.00% | ~112,673 |
+| Critical care | 26.00% | ~112,673 |
+| Mega-railroad | 23.00% | ~99,673 |
+| Upgrade complete | 23.00% | ~99,673 |
+| Just in time! | 18.00% | ~78,005 |
+| Builder | 17.00% | ~73,671 |
+| Long Haul | 17.00% | ~73,559 |
 | Steam Age | 16.00% | ~69,337 |
-| Multilevel road | 15.00% | ~65,003 |
+| Multilevel road | 15.00% | ~65,004 |
 | Bridgemania | 14.00% | ~60,670 |
 | Need to think | 14.00% | ~60,670 |
-| The Tortoise | 12.00% | ~52,002 |
+| The Tortoise | 12.00% | ~52,003 |
 | Beginner | 11.00% | ~47,669 |
 | Without a lunch break | 11.00% | ~47,669 |
-| One way | 10.00% | ~43,335 |
-| Relocation | 10.00% | ~43,335 |
+| One way | 10.00% | ~43,336 |
+| Relocation | 10.00% | ~43,336 |
 | Industrial Age | 9.00% | ~39,002 |
 | Just One More Valley | 9.00% | ~38,943 |
-| Prick of conscience | 8.00% | ~34,668 |
+| Prick of conscience | 8.00% | ~34,669 |
 | Missed it! | 7.00% | ~30,335 |
-| At the last moment! | 6.00% | ~26,001 |
-| Overseer | 6.00% | ~26,001 |
+| At the last moment! | 6.00% | ~26,002 |
+| Overseer | 6.00% | ~26,002 |
 | Highlander | 5.00% | ~21,668 |
 | Jewelry accuracy | 5.00% | ~21,668 |
 | Stargazer | 5.00% | ~21,668 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,354 (Ranked 46)  
+Progressed: 433,359 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 24 (0.01%) (Ranked 378)
 | 2024-01-14 | 432,946 | 24 |
 | 2024-01-15 | 433,135 | 24 |
 | 2024-01-16 | 433,332 | 24 |
-| 2024-01-17 | 433,354 | 24 |
+| 2024-01-17 | 433,359 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,057  (Ranked 159)  
 Sum: 2,183 (Ranked 215)  

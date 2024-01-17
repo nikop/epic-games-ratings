@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~51,988 |
-| IT MAKES BOOM! | 9.00% | ~35,992 |
-| EXTRA BOOST | 6.00% | ~23,995 |
-| PROTECTED | 5.00% | ~19,996 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,996 |
-| PRO | 4.00% | ~15,996 |
-| AGGRESSIVE RACER | 3.00% | ~11,997 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,998 |
-| TRAINING HARD | 2.00% | ~7,998 |
-| BE OUR GUEST | 2.00% | ~7,998 |
-| ACE SPEEDSTER | 2.00% | ~7,998 |
-| A TIGER'S FEAR | 2.00% | ~7,998 |
+| ROOKIE | 13.00% | ~51,993 |
+| IT MAKES BOOM! | 9.00% | ~35,995 |
+| EXTRA BOOST | 6.00% | ~23,997 |
+| PROTECTED | 5.00% | ~19,997 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~15,998 |
+| PRO | 4.00% | ~15,998 |
+| AGGRESSIVE RACER | 3.00% | ~11,998 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~7,999 |
+| TRAINING HARD | 2.00% | ~7,999 |
+| BE OUR GUEST | 2.00% | ~7,999 |
+| ACE SPEEDSTER | 2.00% | ~7,999 |
+| A TIGER'S FEAR | 2.00% | ~7,999 |
 | RELEASE THE KRAKEN | 1.00% | ~3,999 |
 | ACE BRAWLER | 1.00% | ~3,999 |
 | DEFEAT OUR CHAMPION | 1.00% | ~3,999 |
@@ -26,11 +26,11 @@ Rating: 4.42 (Ranked 744)
 | MASTER | 1.00% | ~3,999 |
 | LEGENDARY HERO | 1.00% | ~3,999 |
 | EXPERIENCED CREW | 0.90% | ~3,599 |
-| FRAMED! | 0.70% | ~2,799 |
-| ACE TRICKSTER | 0.70% | ~2,799 |
-| PERFECTLY POISED | 0.60% | ~2,399 |
+| FRAMED! | 0.70% | ~2,800 |
+| ACE TRICKSTER | 0.70% | ~2,800 |
+| PERFECTLY POISED | 0.60% | ~2,400 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 399,910 (Ranked 51)  
+Progressed: 399,944 (Ranked 51)  
 Completed: 1,631 (0.41%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,15 +298,15 @@ Completed: 1,631 (0.41%) (Ranked 242)
 | 2024-01-14 | 398,054 | 1,606 |
 | 2024-01-15 | 398,844 | 1,616 |
 | 2024-01-16 | 399,717 | 1,630 |
-| 2024-01-17 | 399,910 | 1,631 |
+| 2024-01-17 | 399,944 | 1,631 |
 ## Awards
 Max (Great for Beginners): 184  (Ranked 312)  
-Sum: 1,213 (Ranked 263)  
+Sum: 1,216 (Ranked 263)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 184 |
-| This game is Great for Quick Sessions | 170 |
+| This game is Great for Quick Sessions | 173 |
 | This game has Diverse Characters | 134 |
 | This game has a Competitive Community | 106 |
 | This game has Playful Visuals | 100 |
@@ -428,4 +428,4 @@ Diff (max vs sum): 49
 | 2024-01-14 | 4.42 | 183 | 1,201 |
 | 2024-01-15 | 4.42 | 183 | 1,205 |
 | 2024-01-16 | 4.42 | 184 | 1,210 |
-| 2024-01-17 | 4.42 | 184 | 1,213 |
+| 2024-01-17 | 4.42 | 184 | 1,216 |

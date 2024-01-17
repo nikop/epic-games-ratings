@@ -5,8 +5,8 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Outer Way | 28.00% | ~6,293 |
 | Flesh Wound | 27.00% | ~6,068 |
-| The Outer Way | 27.00% | ~6,068 |
 | Desperate Times | 26.00% | ~5,843 |
 | Paper Jams | 24.00% | ~5,394 |
 | Get a Grip | 23.00% | ~5,169 |

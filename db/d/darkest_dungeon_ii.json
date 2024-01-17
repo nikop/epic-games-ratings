@@ -10864,10 +10864,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 21691,
       "NumberOfAwardsMax": 8031
+    },
+    {
+      "Time": "2024-01-17T02:59:13.8170769+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 21693,
+      "NumberOfAwardsMax": 8031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21691,
+  "NumberOfAwards": 21693,
   "NumberOfAwardsMax": 8031,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10899,7 +10905,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1679
+      "Count": 1681
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10944,7 +10950,7 @@
       "Count": 1098
     }
   ],
-  "EOS_Progressed": 133025,
+  "EOS_Progressed": 133026,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 697,
   "EOS_NewCompleters": 2,
@@ -40199,6 +40205,11 @@
       "Time": "2024-01-17T01:59:40.4768363+00:00",
       "NumProgressed": 133025,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-17T03:10:11.4580972+00:00",
+      "NumProgressed": 133026,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40306,7 +40317,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -40386,7 +40397,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "combat_kill_gaunts",
@@ -40402,7 +40413,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -40626,7 +40637,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -40682,7 +40693,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "run_victory_act04",
@@ -40690,7 +40701,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "run_victory_act05",
@@ -40698,7 +40709,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -40810,7 +40821,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40841,21 +40852,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133025,
+      "Progressed": 133026,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7894,
+      "Progressed": 7895,
       "Completed": 828
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-17T01:48:19.6579436+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:34:45.8454735+00:00",
+  "LastChanged": "2024-01-17T02:59:13.8170767+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:10:11.4580969+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:23:29.8899862+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:34:45.8456704+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:59:13.8170773+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:10:11.4583137+00:00"
 }

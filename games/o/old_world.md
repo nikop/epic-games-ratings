@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 5.00% | ~846 |
-| Play a Single Player Game | 5.00% | ~846 |
+| Settler | 5.00% | ~847 |
+| Play a Single Player Game | 5.00% | ~847 |
 | Explorer | 4.00% | ~677 |
 | Intrepid | 4.00% | ~677 |
 | Friendly Family | 4.00% | ~677 |
@@ -151,19 +151,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~51 |
 | Noble Difficulty | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
+| Pyramids in Menefer | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
 | Cothon | 0.30% | ~51 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
+| Cleopatra's Love | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
 | Magnificent Difficulty | 0.20% | ~34 |
 | Event Level High | 0.20% | ~34 |
 | Run, Pheidippides, Run! | 0.20% | ~34 |
 | Nenikekamen | 0.20% | ~34 |
-| Pyramids in Menefer | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
 | Persia | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
@@ -209,7 +210,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gold Victory (Carthage 4) | 0.10% | ~17 |
 | Silver Victory (Carthage 4) | 0.10% | ~17 |
 | Carthage Campaign | 0.10% | ~17 |
-| Cleopatra's Love | 0.10% | ~17 |
 | Avenger | 0.10% | ~17 |
 | Destroyer | 0.10% | ~17 |
 | Holy | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,930 (Ranked 169)  
+Progressed: 16,931 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -637,7 +637,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-14 | 16,823 | 5 |
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
-| 2024-01-17 | 16,930 | 5 |
+| 2024-01-17 | 16,931 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,935 (Ranked 223)  

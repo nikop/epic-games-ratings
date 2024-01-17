@@ -1985,9 +1985,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 69685,
+  "EOS_Progressed": 69686,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 594,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31980,6 +31980,11 @@
       "Time": "2024-01-17T02:32:56.3672342+00:00",
       "NumProgressed": 69685,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-17T03:08:26.2894562+00:00",
+      "NumProgressed": 69686,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -32111,7 +32116,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16724
+      "UsersEstimate": 16725
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -32247,7 +32252,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22299
+      "UsersEstimate": 22300
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -32255,7 +32260,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27177
+      "UsersEstimate": 27178
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -32335,7 +32340,7 @@
       "Name": "Manual Labour I",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 16724
+      "UsersEstimate": 16725
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -32359,7 +32364,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 54354
+      "UsersEstimate": 54355
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -32455,22 +32460,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25783
+      "UsersEstimate": 25784
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 69685,
+      "Progressed": 69686,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-14T16:58:57.2667517+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:32:56.3672339+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:08:26.289456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:57.4776116+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:24:39.6141755+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:32:56.3674828+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:00:19.4159766+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:08:26.2896108+00:00"
 }

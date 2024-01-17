@@ -63,11 +63,11 @@
 | Misty Coast Dragonbones | 5.00% | ~7 |
 | Balanced | 5.00% | ~7 |
 | Master Necromancer | 5.00% | ~7 |
+| Defeat Rohen | 4.00% | ~6 |
 | Defeat Yria | 4.00% | ~6 |
 | Lytra's Tale | 4.00% | ~6 |
 | Breaking the circle | 4.00% | ~6 |
 | Defeat Isgrimm | 3.00% | ~4 |
-| Defeat Rohen | 3.00% | ~4 |
 | Master Alchemist | 3.00% | ~4 |
 | Hard Life | 1.00% | ~1 |
 | Impossible Mission | 1.00% | ~1 |

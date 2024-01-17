@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,667 |
-| Skillful | 7.00% | ~82,667 |
-| Zealous | 6.00% | ~70,857 |
-| Not half bad | 5.00% | ~59,048 |
-| Apt Survivor | 5.00% | ~59,048 |
-| Survival Treasures | 5.00% | ~59,048 |
-| Make Some Noise | 5.00% | ~59,048 |
-| No one left behind | 4.00% | ~47,238 |
-| Handyman | 4.00% | ~47,238 |
-| I | 4.00% | ~47,238 |
-| Sorted | 4.00% | ~47,238 |
-| Resurgence | 4.00% | ~47,238 |
-| Preemptive Strike | 4.00% | ~47,238 |
-| The Grand Sacrifice | 3.00% | ~35,428 |
-| Agonizing Escape | 3.00% | ~35,428 |
-| Backdoor Escape | 3.00% | ~35,428 |
-| I've got your back | 3.00% | ~35,428 |
-| Medic | 3.00% | ~35,428 |
-| Perfect Escape | 3.00% | ~35,428 |
-| Perfect Killing | 3.00% | ~35,428 |
-| Bloody Millionaire | 3.00% | ~35,428 |
-| Apt Killer | 3.00% | ~35,428 |
-| Risk it all | 3.00% | ~35,428 |
-| II | 3.00% | ~35,428 |
-| Engineer | 3.00% | ~35,428 |
-| Healthy Obsession | 3.00% | ~35,428 |
-| Close Shave | 3.00% | ~35,428 |
-| Humanitarian | 3.00% | ~35,428 |
+| It wakes | 7.00% | ~82,668 |
+| Skillful | 7.00% | ~82,668 |
+| Zealous | 6.00% | ~70,858 |
+| Not half bad | 5.00% | ~59,049 |
+| Apt Survivor | 5.00% | ~59,049 |
+| Survival Treasures | 5.00% | ~59,049 |
+| Make Some Noise | 5.00% | ~59,049 |
+| No one left behind | 4.00% | ~47,239 |
+| Handyman | 4.00% | ~47,239 |
+| I | 4.00% | ~47,239 |
+| Sorted | 4.00% | ~47,239 |
+| Resurgence | 4.00% | ~47,239 |
+| Preemptive Strike | 4.00% | ~47,239 |
+| The Grand Sacrifice | 3.00% | ~35,429 |
+| Agonizing Escape | 3.00% | ~35,429 |
+| Backdoor Escape | 3.00% | ~35,429 |
+| I've got your back | 3.00% | ~35,429 |
+| Medic | 3.00% | ~35,429 |
+| Perfect Escape | 3.00% | ~35,429 |
+| Perfect Killing | 3.00% | ~35,429 |
+| Bloody Millionaire | 3.00% | ~35,429 |
+| Apt Killer | 3.00% | ~35,429 |
+| Risk it all | 3.00% | ~35,429 |
+| II | 3.00% | ~35,429 |
+| Engineer | 3.00% | ~35,429 |
+| Healthy Obsession | 3.00% | ~35,429 |
+| Close Shave | 3.00% | ~35,429 |
+| Humanitarian | 3.00% | ~35,429 |
 | Blood on your hands | 2.00% | ~23,619 |
 | Escape Artist | 2.00% | ~23,619 |
 | Gifts for the Fog | 2.00% | ~23,619 |
@@ -56,6 +56,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Flight to Freedom | 2.00% | ~23,619 |
 | Lifting The Fog | 2.00% | ~23,619 |
 | Chorus of Chaos | 2.00% | ~23,619 |
+| One More Step | 2.00% | ~23,619 |
 | Second Act | 2.00% | ~23,619 |
 | A bite for the Entity | 1.00% | ~11,810 |
 | Blood on your face | 1.00% | ~11,810 |
@@ -84,7 +85,6 @@ Number of Ratings: 70,340  (23.09.2022)
 | A Fast Death | 1.00% | ~11,810 |
 | Rebuilding The Borgo | 1.00% | ~11,810 |
 | Extraterrestrial | 1.00% | ~11,810 |
-| One More Step | 1.00% | ~11,810 |
 | MU/TH/UR Dearest | 1.00% | ~11,810 |
 | Outta Nowhere | 1.00% | ~11,810 |
 | Jump Scares | 0.90% | ~10,629 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,181 |
 | Adept Good Guy | 0.10% | ~1,181 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,180,950 (Ranked 13)  
+Progressed: 1,180,974 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -511,7 +511,7 @@ Completed: 68 (0.01%) (Ranked 378)
 | 2024-01-14 | 1,177,363 | 68 |
 | 2024-01-15 | 1,179,156 | 68 |
 | 2024-01-16 | 1,180,767 | 68 |
-| 2024-01-17 | 1,180,950 | 68 |
+| 2024-01-17 | 1,180,974 | 68 |
 ## Awards
 Max (Diverse Characters): 39,811  (Ranked 15)  
 Sum: 299,883 (Ranked 12)  

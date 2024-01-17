@@ -52,13 +52,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 1.00% | ~208 |
 | Forsaken Gods Temple | 1.00% | ~208 |
 | Like a Machine | 1.00% | ~208 |
-| Feeding The People | 0.90% | ~187 |
+| Feeding The People | 0.90% | ~188 |
 | Blood Flower Farmer | 0.60% | ~125 |
 | Prestigious Expedition | 0.50% | ~104 |
 | Fox Utopia | 0.50% | ~104 |
 | Human Utopia | 0.40% | ~83 |
-| Beaver Utopia | 0.30% | ~62 |
-| Lizard Utopia | 0.30% | ~62 |
+| Beaver Utopia | 0.30% | ~63 |
+| Lizard Utopia | 0.30% | ~63 |
 | Higher Needs | 0.20% | ~42 |
 | Harpy Utopia | 0.20% | ~42 |
 | The Queen's Chosen | 0.20% | ~42 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,833 (Ranked 156)  
+Progressed: 20,834 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 35 (0.17%) (Ranked 290)
 | 2024-01-14 | 20,781 | 35 |
 | 2024-01-15 | 20,812 | 35 |
 | 2024-01-16 | 20,829 | 35 |
-| 2024-01-17 | 20,833 | 35 |
+| 2024-01-17 | 20,834 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 453  (Ranked 232)  
 Sum: 3,389 (Ranked 179)  

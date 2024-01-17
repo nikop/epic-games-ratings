@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~181,505 |
-| FIRST BLOOD | 40.00% | ~161,338 |
-| KEVIN! | 30.00% | ~121,004 |
-| JACK OF ALL TRADES | 23.00% | ~92,769 |
-| CRIMINAL | 20.00% | ~80,669 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,401 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,334 |
+| MASTER CHEF | 45.00% | ~181,510 |
+| FIRST BLOOD | 40.00% | ~161,342 |
+| KEVIN! | 30.00% | ~121,007 |
+| JACK OF ALL TRADES | 23.00% | ~92,772 |
+| CRIMINAL | 20.00% | ~80,671 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,403 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,336 |
 | HONORS STUDENT | 8.00% | ~32,268 |
 | BUTCHER | 6.00% | ~24,201 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,167 |
-| RAMBO | 5.00% | ~20,167 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,168 |
+| RAMBO | 5.00% | ~20,168 |
 | HELL'S KITCHEN | 4.00% | ~16,134 |
-| CELEBRITY | 3.00% | ~12,100 |
-| MARTYR | 3.00% | ~12,100 |
+| CELEBRITY | 3.00% | ~12,101 |
+| MARTYR | 3.00% | ~12,101 |
 | GRATITUDE | 2.00% | ~8,067 |
 | PATTY-KILLER | 2.00% | ~8,067 |
-| EXPERIMENTALIST | 1.00% | ~4,033 |
-| GOURMET | 1.00% | ~4,033 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,033 |
-| PRUDENT | 1.00% | ~4,033 |
+| EXPERIMENTALIST | 1.00% | ~4,034 |
+| GOURMET | 1.00% | ~4,034 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,034 |
+| PRUDENT | 1.00% | ~4,034 |
 | SCATTERBRAIN | 0.80% | ~3,227 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,823 |
 | TASTE UNTASTY | 0.60% | ~2,420 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 597)
 | MISTER ALL THUMBS | 0.10% | ~403 |
 | TRAVELER | 0.10% | ~403 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,345 (Ranked 50)  
+Progressed: 403,356 (Ranked 50)  
 Completed: 61 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 61 (0.02%) (Ranked 368)
 | 2024-01-14 | 402,485 | 59 |
 | 2024-01-15 | 402,893 | 61 |
 | 2024-01-16 | 403,288 | 61 |
-| 2024-01-17 | 403,345 | 61 |
+| 2024-01-17 | 403,356 | 61 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

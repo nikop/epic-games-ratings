@@ -9475,9 +9475,9 @@
       "Count": 1570
     }
   ],
-  "EOS_Progressed": 1846253,
+  "EOS_Progressed": 1846262,
   "EOS_Completed": 742,
-  "EOS_NewPlayers": 6635,
+  "EOS_NewPlayers": 6634,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -35725,6 +35725,11 @@
       "Time": "2024-01-17T02:35:03.9885218+00:00",
       "NumProgressed": 1846253,
       "NumCompleted": 742
+    },
+    {
+      "Time": "2024-01-17T03:10:29.3979938+00:00",
+      "NumProgressed": 1846262,
+      "NumCompleted": 742
     }
   ],
   "TotalAchievements": 1328,
@@ -35808,7 +35813,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110775
+      "UsersEstimate": 110776
     },
     {
       "ID": "armored_1",
@@ -36936,7 +36941,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 240013
+      "UsersEstimate": 240014
     },
     {
       "ID": "brooklyn_2",
@@ -40352,7 +40357,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 147700
+      "UsersEstimate": 147701
     },
     {
       "ID": "halloween_1",
@@ -41448,7 +41453,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 184625
+      "UsersEstimate": 184626
     },
     {
       "ID": "no_turning_back",
@@ -41456,7 +41461,7 @@
       "Name": "No Turning Back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 184625
+      "UsersEstimate": 184626
     },
     {
       "ID": "orange_1",
@@ -46240,7 +46245,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110775
+      "UsersEstimate": 110776
     },
     {
       "ID": "wwh_1",
@@ -46344,7 +46349,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203088
+      "UsersEstimate": 203089
     },
     {
       "ID": "you_shall_not_pass",
@@ -46359,13 +46364,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1846253,
+      "Progressed": 1846262,
       "Completed": 742
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1846253,
+      "Progressed": 1846262,
       "Completed": 127
     }
   ],
@@ -46373,8 +46378,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2024-01-17T02:22:29.8628298+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:35:03.9885212+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:10:29.3979932+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.1503905+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:22:29.8628305+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:35:04.0017964+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:58:15.8941153+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:10:29.4107272+00:00"
 }

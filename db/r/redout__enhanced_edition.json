@@ -343,7 +343,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239467,
+  "EOS_Progressed": 239468,
   "EOS_Completed": 49,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -28853,6 +28853,11 @@
       "Time": "2024-01-17T01:58:09.9806893+00:00",
       "NumProgressed": 239467,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-17T03:08:50.3487828+00:00",
+      "NumProgressed": 239468,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -28952,7 +28957,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 47893
+      "UsersEstimate": 47894
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -29128,22 +29133,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98181
+      "UsersEstimate": 98182
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239467,
+      "Progressed": 239468,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:33:21.6693195+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:08:50.3487821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:23:01.8995222+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:33:21.6694809+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:58:46.7599166+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:08:50.3489872+00:00"
 }

@@ -319,9 +319,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 422844,
+  "EOS_Progressed": 422876,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9589,
+  "EOS_NewPlayers": 9584,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3669,6 +3669,11 @@
       "Time": "2024-01-17T02:29:27.7537203+00:00",
       "NumProgressed": 422844,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T03:04:51.9048799+00:00",
+      "NumProgressed": 422876,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -3689,7 +3694,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29599
+      "UsersEstimate": 29601
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3713,7 +3718,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97254
+      "UsersEstimate": 97261
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3721,7 +3726,7 @@
       "Name": "Thorough Preparation",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -3737,7 +3742,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 109939
+      "UsersEstimate": 109948
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3745,7 +3750,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 93026
+      "UsersEstimate": 93033
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3777,7 +3782,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16914
+      "UsersEstimate": 16915
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3825,7 +3830,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8457
+      "UsersEstimate": 8458
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -3833,7 +3838,7 @@
       "Name": "Victorious over Hardships",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -3841,7 +3846,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38056
+      "UsersEstimate": 38059
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -3849,7 +3854,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12685
+      "UsersEstimate": 12686
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -3857,7 +3862,7 @@
       "Name": "Performance Examination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -3881,7 +3886,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12685
+      "UsersEstimate": 12686
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -3889,7 +3894,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33828
+      "UsersEstimate": 33830
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -3897,7 +3902,7 @@
       "Name": "A Raging Madness",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -3905,7 +3910,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12685
+      "UsersEstimate": 12686
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -3913,7 +3918,7 @@
       "Name": "To Greater Heights",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -3921,7 +3926,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8457
+      "UsersEstimate": 8458
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -3929,7 +3934,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8457
+      "UsersEstimate": 8458
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -3937,7 +3942,7 @@
       "Name": "Here We Go, Astra!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_034",
@@ -3953,7 +3958,7 @@
       "Name": "Behold My Ninja Arts!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_036",
@@ -3985,7 +3990,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12685
+      "UsersEstimate": 12686
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -4001,7 +4006,7 @@
       "Name": "Path of Benevolence",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_042",
@@ -4009,7 +4014,7 @@
       "Name": "Duty Calls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "ACHIEVEMENT_043",
@@ -4024,7 +4029,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 422844,
+      "Progressed": 422876,
       "Completed": 3
     }
   ],
@@ -4032,8 +4037,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-16T15:03:20.9281199+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:29:27.7537195+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:04:51.9048791+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:27:48.776958+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:29:27.7537673+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:03:14.5009668+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:04:51.9049338+00:00"
 }

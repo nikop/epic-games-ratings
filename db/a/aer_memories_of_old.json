@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 692,
+  "Ranking_Rating": 693,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 144,
@@ -431,7 +431,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28870,
+  "EOS_Progressed": 28871,
   "EOS_Completed": 531,
   "EOS_NewPlayers": 505,
   "EOS_NewCompleters": 8,
@@ -29721,6 +29721,11 @@
       "Time": "2024-01-17T02:28:24.1338218+00:00",
       "NumProgressed": 28870,
       "NumCompleted": 531
+    },
+    {
+      "Time": "2024-01-17T03:03:50.1215012+00:00",
+      "NumProgressed": 28871,
+      "NumCompleted": 531
     }
   ],
   "TotalAchievements": 20,
@@ -29788,7 +29793,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -29844,7 +29849,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3464
+      "UsersEstimate": 3465
     },
     {
       "ID": "INTRO_FINISHED",
@@ -29852,7 +29857,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 21941
+      "UsersEstimate": 21942
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -29891,15 +29896,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28870,
+      "Progressed": 28871,
       "Completed": 531
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:28:24.133821+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:03:50.1215008+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:24:41.5486293+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:28:24.1339594+00:00"
+  "LastUpdate_Ratings": "2024-01-17T03:00:21.3745693+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:03:50.1216381+00:00"
 }

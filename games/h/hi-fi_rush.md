@@ -59,11 +59,11 @@ Rating: 4.86 (Ranked 33)
 | Problem solved... wait, what? | 0.30% | ~52 |
 | With our powers combined…and to the rhythm… | 0.30% | ~52 |
 | I can't see this ever being a problem again | 0.20% | ~35 |
+| I think that's enough health for now | 0.20% | ~35 |
 | I saw all those hits coming a measure away! | 0.20% | ~35 |
 | OK, I THINK I know what I'm doing now | 0.20% | ~35 |
 | It'll do, CNMN | 0.20% | ~32 |
 | Didn't skip a beat! | 0.10% | ~17 |
-| I think that's enough health for now | 0.10% | ~17 |
 | I have to read ALL of these things? | 0.10% | ~17 |
 | My Ultimate Setlist | 0.10% | ~17 |
 | What a journey it was... | 0.10% | ~17 |

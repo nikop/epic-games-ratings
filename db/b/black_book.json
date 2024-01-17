@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67471,
+  "EOS_Progressed": 67472,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17181,6 +17181,11 @@
       "Time": "2024-01-17T02:31:00.9207545+00:00",
       "NumProgressed": 67471,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-17T03:08:22.3261878+00:00",
+      "NumProgressed": 67472,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17569,7 +17574,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10795
+      "UsersEstimate": 10796
     },
     {
       "ID": "ZNATKOST_2",
@@ -17592,15 +17597,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67471,
+      "Progressed": 67472,
       "Completed": 74
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:31:00.9207542+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:08:22.3261874+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:21:40.9644928+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:31:00.9208427+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:57:26.1168431+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:08:22.3262952+00:00"
 }

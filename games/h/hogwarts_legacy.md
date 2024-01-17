@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,171 |
-| First Class Student | 28.00% | ~107,775 |
-| Troll with the Punches | 26.00% | ~100,077 |
-| A Keen Sense of Spell | 23.00% | ~88,529 |
-| A Talent for Spending | 19.00% | ~73,133 |
-| That's a Keeper | 19.00% | ~73,133 |
-| Loom for Improvement | 15.00% | ~57,736 |
-| The Defender of Dragons | 14.00% | ~53,887 |
-| Followed the Butterflies | 14.00% | ~53,887 |
-| Challenge Accepted | 13.00% | ~50,038 |
-| Coasting Along | 13.00% | ~50,038 |
-| Grappling with a Graphorn | 12.00% | ~46,189 |
-| The One Who Mastered Memories | 12.00% | ~46,189 |
-| The Hallowed Hero | 12.00% | ~46,189 |
-| The Hero of Hogwarts | 11.00% | ~42,340 |
-| The Spell Master | 11.00% | ~42,340 |
-| Rising From the Ashes | 10.00% | ~38,491 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,173 |
+| First Class Student | 28.00% | ~107,776 |
+| Troll with the Punches | 26.00% | ~100,078 |
+| A Keen Sense of Spell | 23.00% | ~88,530 |
+| A Talent for Spending | 19.00% | ~73,134 |
+| That's a Keeper | 19.00% | ~73,134 |
+| Loom for Improvement | 15.00% | ~57,737 |
+| The Defender of Dragons | 14.00% | ~53,888 |
+| Followed the Butterflies | 14.00% | ~53,888 |
+| Challenge Accepted | 13.00% | ~50,039 |
+| Coasting Along | 13.00% | ~50,039 |
+| Grappling with a Graphorn | 12.00% | ~46,190 |
+| The One Who Mastered Memories | 12.00% | ~46,190 |
+| The Hallowed Hero | 12.00% | ~46,190 |
+| The Hero of Hogwarts | 11.00% | ~42,341 |
+| The Spell Master | 11.00% | ~42,341 |
+| Rising From the Ashes | 10.00% | ~38,492 |
 | A Sallow Grave | 9.00% | ~34,642 |
 | Flight the Good Flight | 9.00% | ~34,642 |
 | The Avenging Gazelle | 8.00% | ~30,793 |
@@ -35,9 +35,9 @@ Rating: 4.75 (Ranked 150)
 | The Ends Petrify the Means | 6.00% | ~23,095 |
 | The Wise Owl | 6.00% | ~23,095 |
 | Going Through the Potions | 5.00% | ~19,246 |
-| The Auror's Apprentice | 4.00% | ~15,396 |
-| Room with a View | 4.00% | ~15,396 |
-| The Intrepid Explorer | 4.00% | ~15,396 |
+| The Auror's Apprentice | 4.00% | ~15,397 |
+| Room with a View | 4.00% | ~15,397 |
+| The Intrepid Explorer | 4.00% | ~15,397 |
 | Put Down Roots | 3.00% | ~11,547 |
 | Floo Around the World | 3.00% | ~11,547 |
 | The Good Samaritan | 2.00% | ~7,698 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 150)
 | The Nature of the Beast | 0.70% | ~2,694 |
 | Collector's Edition | 0.30% | ~1,155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 384,910 (Ranked 55)  
+Progressed: 384,915 (Ranked 55)  
 Completed: 568 (0.15%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 568 (0.15%) (Ranked 295)
 | 2024-01-14 | 384,018 | 564 |
 | 2024-01-15 | 384,481 | 566 |
 | 2024-01-16 | 384,865 | 567 |
-| 2024-01-17 | 384,910 | 568 |
+| 2024-01-17 | 384,915 | 568 |
 ## Awards
 Max (Character Customization): 31,250  (Ranked 16)  
 Sum: 63,618 (Ranked 25)  

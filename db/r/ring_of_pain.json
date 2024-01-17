@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 73,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3934,7 +3934,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243083,
+  "EOS_Progressed": 243084,
   "EOS_Completed": 307,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 3,
@@ -32089,6 +32089,11 @@
       "Time": "2024-01-17T01:59:55.3092344+00:00",
       "NumProgressed": 243083,
       "NumCompleted": 307
+    },
+    {
+      "Time": "2024-01-17T03:10:25.3436865+00:00",
+      "NumProgressed": 243084,
+      "NumCompleted": 307
     }
   ],
   "TotalAchievements": 138,
@@ -32260,7 +32265,7 @@
       "Name": "To The Death!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "DIEHARD",
@@ -32308,7 +32313,7 @@
       "Name": "Well Prepared",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "ENDINGCHOICE",
@@ -32556,7 +32561,7 @@
       "Name": "Don\u0027t Ignore Me!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "KILLBOSSHARD",
@@ -32572,7 +32577,7 @@
       "Name": "All Consuming",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "KILLEDSELFWITHITEMS",
@@ -32612,7 +32617,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "KILLSAMSPAREOTHERS",
@@ -32764,7 +32769,7 @@
       "Name": "Doing Time",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "POISON300",
@@ -32772,7 +32777,7 @@
       "Name": "Spreading Plague",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "POISON30TIMES",
@@ -32788,7 +32793,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "POISONSELF20",
@@ -33203,13 +33208,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243083,
+      "Progressed": 243084,
       "Completed": 307
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4563,
+      "Progressed": 4564,
       "Completed": 428
     }
   ],
@@ -33217,8 +33222,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:34:59.8581021+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:10:25.3436863+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:22:24.2640114+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:34:59.8583568+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:58:10.582286+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:10:25.3439767+00:00"
 }

@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228138,
+  "EOS_Progressed": 228139,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1165,
+  "EOS_NewPlayers": 1163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31606,6 +31606,11 @@
       "Time": "2024-01-17T02:28:38.7485684+00:00",
       "NumProgressed": 228138,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-17T03:04:04.223333+00:00",
+      "NumProgressed": 228139,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -31665,7 +31670,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 127757
+      "UsersEstimate": 127758
     },
     {
       "ID": "Checkmate",
@@ -31673,7 +31678,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68441
+      "UsersEstimate": 68442
     },
     {
       "ID": "ChessChampion",
@@ -31689,7 +31694,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 161978
+      "UsersEstimate": 161979
     },
     {
       "ID": "DoubleCheck",
@@ -31737,7 +31742,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20532
+      "UsersEstimate": 20533
     },
     {
       "ID": "EpauletteMate",
@@ -31920,7 +31925,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 228138,
+      "Progressed": 228139,
       "Completed": 2
     }
   ],
@@ -31928,8 +31933,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:28:38.748568+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:04:04.2233325+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:16.5488117+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:21:47.5675215+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:28:38.7487044+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:57:32.3349369+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:04:04.2234923+00:00"
 }

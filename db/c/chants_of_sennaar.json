@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 2818,
   "EOS_Completed": 215,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 7.63,
   "EosHistory": [
@@ -7684,9 +7684,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 817
+      "UsersEstimate": 845
     }
   ],
   "AchievementSets": [
@@ -7701,8 +7701,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-14T16:58:25.9432756+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:28:21.3921009+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:03:47.7812373+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:24:06.6946902+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:28:21.392166+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:59:48.3766241+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:03:47.7812914+00:00"
 }

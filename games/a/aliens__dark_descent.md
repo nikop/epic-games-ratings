@@ -24,7 +24,7 @@ Rating: 4.52 (Ranked 580)
 | Recouped Investment | 32.00% | ~2,070 |
 | The More The Merrier | 29.00% | ~1,876 |
 | Living Nightmare | 28.00% | ~1,811 |
-| Omelette Du Fromage | 26.00% | ~1,682 |
+| Omelette Du Fromage | 27.00% | ~1,746 |
 | The Darwin Era Was Here | 25.00% | ~1,617 |
 | Deep Into Insanity | 24.00% | ~1,552 |
 | The Passenger | 24.00% | ~1,552 |

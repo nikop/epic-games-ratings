@@ -53,6 +53,7 @@
 | Loremaster | 1.00% | ~3 |
 | Adept | 1.00% | ~3 |
 | Talent Nurtured | 1.00% | ~3 |
+| Embellished | 1.00% | ~3 |
 | Ever After | 1.00% | ~3 |
 | Trailblazer | 1.00% | ~3 |
 | Loader | 1.00% | ~3 |
@@ -60,7 +61,6 @@
 | The Darkness Within | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
 | Voracity Confronted | 1.00% | ~3 |
-| Embellished | 0.60% | ~2 |
 | Manticore | 0.60% | ~2 |
 | Huntsmaster | 0.60% | ~2 |
 | Mercenary | 0.60% | ~2 |

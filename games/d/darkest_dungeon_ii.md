@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,105 |
-| Lost and Found | 9.00% | ~710 |
+| Lost and Found | 9.00% | ~711 |
 | Autodidact | 8.00% | ~10,642 |
 | This Belongs in a Museum | 7.00% | ~9,312 |
 | Overdue Notice | 7.00% | ~9,312 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,991 |
 | Hot Air | 3.00% | ~3,991 |
 | Road Trip | 3.00% | ~3,991 |
-| This Looks Familiar | 2.00% | ~2,660 |
-| Ichthyophobic | 2.00% | ~2,660 |
-| No More Mouths to Feed | 2.00% | ~2,660 |
-| Worldly Traveller | 2.00% | ~2,660 |
-| Eyes Up | 2.00% | ~2,660 |
-| Handled | 2.00% | ~2,660 |
-| Body of Work | 2.00% | ~2,660 |
+| This Looks Familiar | 2.00% | ~2,661 |
+| Ichthyophobic | 2.00% | ~2,661 |
+| No More Mouths to Feed | 2.00% | ~2,661 |
+| Worldly Traveller | 2.00% | ~2,661 |
+| Eyes Up | 2.00% | ~2,661 |
+| Handled | 2.00% | ~2,661 |
+| Body of Work | 2.00% | ~2,661 |
 | Clearing the Ledger | 1.00% | ~1,330 |
 | Hat Trick | 1.00% | ~1,330 |
 | Shrine of Reflection | 1.00% | ~1,330 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,025 (Ranked 92)  
+Progressed: 133,026 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,16 +348,16 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-14 | 132,837 | 4 |
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
-| 2024-01-17 | 133,025 | 5 |
+| 2024-01-17 | 133,026 | 5 |
 ## Awards
 Max (Character Customization): 8,031  (Ranked 51)  
-Sum: 21,691 (Ranked 58)  
+Sum: 21,693 (Ranked 58)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,031 |
 | This game has Diverse Characters | 1,866 |
-| This game has Challenging Combat | 1,679 |
+| This game has Challenging Combat | 1,681 |
 | This game is Highly Recommended | 1,608 |
 | This game has Amazing Characters | 1,535 |
 | This game is Extremely Fun | 1,527 |
@@ -724,4 +724,4 @@ Diff (max vs sum): -7
 | 2024-01-14 | 4.68 | - | 8,022 | 21,652 |
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
-| 2024-01-17 | 4.68 | - | 8,031 | 21,691 |
+| 2024-01-17 | 4.68 | - | 8,031 | 21,693 |

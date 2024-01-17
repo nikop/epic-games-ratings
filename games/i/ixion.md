@@ -10,8 +10,8 @@ Rating: 4.59 (Ranked 451)
 | Infinite Growth... | 29.00% | ~1,219 |
 | Without Breaking Some Eggs... | 27.00% | ~1,135 |
 | Space Society | 20.00% | ~841 |
+| A Thousand Strong | 20.00% | ~841 |
 | Ready for a New World | 20.00% | ~841 |
-| A Thousand Strong | 19.00% | ~799 |
 | Permanent Redesigns | 17.00% | ~715 |
 | Fully Recycled | 16.00% | ~673 |
 | The Ship of Theseus | 16.00% | ~673 |

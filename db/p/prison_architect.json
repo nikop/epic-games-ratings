@@ -8299,10 +8299,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4919,
       "NumberOfAwardsMax": 640
+    },
+    {
+      "Time": "2024-01-17T02:58:44.6334907+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4921,
+      "NumberOfAwardsMax": 640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4919,
+  "NumberOfAwards": 4921,
   "NumberOfAwardsMax": 640,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8358,7 +8364,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 477
+      "Count": 479
     },
     {
       "Text": "This game has a Creative Community",
@@ -8373,9 +8379,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 217506,
+  "EOS_Progressed": 217515,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3210,
+  "EOS_NewPlayers": 3211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39608,6 +39614,11 @@
       "Time": "2024-01-17T02:34:28.9710091+00:00",
       "NumProgressed": 217506,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-17T03:09:55.7028428+00:00",
+      "NumProgressed": 217515,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -39651,7 +39662,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32626
+      "UsersEstimate": 32627
     },
     {
       "ID": "Achievement_13",
@@ -39699,7 +39710,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 54376
+      "UsersEstimate": 54379
     },
     {
       "ID": "Achievement_5",
@@ -39739,22 +39750,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8700
+      "UsersEstimate": 8701
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 217506,
+      "Progressed": 217515,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-16T17:58:58.2934605+00:00",
-  "LastChanged_Achievements": "2024-01-17T02:34:28.9710088+00:00",
+  "LastChanged": "2024-01-17T02:58:44.6334905+00:00",
+  "LastChanged_Achievements": "2024-01-17T03:09:55.7028425+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.7759679+00:00",
-  "LastUpdate_Ratings": "2024-01-17T02:22:59.9288449+00:00",
-  "LastUpdate_Achievements": "2024-01-17T02:34:28.9711663+00:00"
+  "LastUpdate_Ratings": "2024-01-17T02:58:44.6334911+00:00",
+  "LastUpdate_Achievements": "2024-01-17T03:09:55.7030247+00:00"
 }
