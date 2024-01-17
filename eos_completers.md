@@ -25,9 +25,9 @@
 | 23 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.80% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.18% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.17% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 30 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
@@ -57,7 +57,7 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.45% |
 | 57 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.31% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.30% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.89% |
@@ -98,14 +98,14 @@
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.67% |
 | 97 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.61% |
 | 98 | [Doodle God](games/d/doodle_god.md) | 3.60% |
-| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.57% |
 | 99 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 99 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
+| 101 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.56% |
 | 102 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 103 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 104 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.39% |
-| 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.24% |
+| 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.31% |
+| 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.23% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.16% |
@@ -161,20 +161,20 @@
 | 159 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.31% |
 | 160 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.24% |
-| 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.23% |
-| 163 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.17% |
-| 164 | [Late Shift](games/l/late_shift.md) | 1.16% |
-| 164 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 164 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.16% |
-| 167 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
-| 168 | [Adios](games/a/adios.md) | 1.13% |
-| 168 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.13% |
-| 170 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 171 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.10% |
-| 172 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.08% |
-| 172 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
-| 172 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
-| 175 | [The Devil's Face](games/t/the_devil's_face.md) | 1.07% |
+| 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
+| 162 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
+| 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.17% |
+| 165 | [Late Shift](games/l/late_shift.md) | 1.16% |
+| 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
+| 165 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.16% |
+| 168 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
+| 169 | [Adios](games/a/adios.md) | 1.13% |
+| 169 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.13% |
+| 171 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
+| 172 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.10% |
+| 173 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.08% |
+| 173 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
+| 173 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 176 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 176 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.05% |
 | 178 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
@@ -317,18 +317,18 @@
 | 311 | [Supraland](games/s/supraland.md) | 0.11% |
 | 316 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.10% |
 | 316 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 316 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.10% |
 | 316 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 316 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 316 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 316 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 316 | [Riverbond](games/r/riverbond.md) | 0.10% |
-| 324 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 324 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 324 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 324 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.09% |
-| 324 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 324 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 323 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
+| 323 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 323 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 323 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 323 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.09% |
+| 323 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 323 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 330 | [MythForce](games/m/mythforce.md) | 0.08% |
 | 330 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
 | 330 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
