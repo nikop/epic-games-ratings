@@ -4,7 +4,7 @@
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -2024,6 +2024,11 @@
       "Time": "2024-01-17T00:05:57.4233544+00:00",
       "NumProgressed": 613,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-17T07:08:24.387507+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2044,7 +2049,7 @@
       "Name": "Blabber",
       "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ach3",
@@ -2091,14 +2096,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:06:32.343933+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:08:24.3875065+00:00",
   "LastUpdate_AppInfo": "2024-01-10T21:57:10.0738096+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:59:15.222198+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:06:32.3439485+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:59:08.0540846+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:08:24.3875225+00:00"
 }

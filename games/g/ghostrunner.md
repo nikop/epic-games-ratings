@@ -6,41 +6,41 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~462,402 |
-| Sword Runner | 24.00% | ~277,441 |
-| Running out of breath | 19.00% | ~219,641 |
-| Wallrunner | 18.00% | ~208,081 |
-| I call it luck | 14.00% | ~161,841 |
-| Out of order | 12.00% | ~138,720 |
-| Homerunner | 11.00% | ~127,160 |
-| Back to hell | 9.00% | ~104,040 |
-| Running Wild | 9.00% | ~104,040 |
-| Where are my Keys? | 9.00% | ~104,040 |
-| Sword to a gunfight | 8.00% | ~92,480 |
-| Perfection | 7.00% | ~80,920 |
-| Artificial selection | 6.00% | ~69,360 |
-| Finish line | 6.00% | ~69,360 |
-| Control freak | 6.00% | ~69,360 |
-| Upgrades not mandatory | 6.00% | ~69,360 |
-| Why not both | 6.00% | ~69,360 |
-| Unstoppable force | 5.00% | ~57,800 |
-| Dead in the air | 4.00% | ~46,240 |
-| Wave of mutilation | 4.00% | ~46,240 |
-| Can't Run Can't Hide | 3.00% | ~34,680 |
-| Improvise, adapt, overrun | 2.00% | ~23,120 |
-| Pre-empative strike | 2.00% | ~23,120 |
-| R is for Running | 2.00% | ~23,120 |
-| Strike | 2.00% | ~23,120 |
-| Triple A | 2.00% | ~23,120 |
-| More than human | 1.00% | ~11,560 |
-| Push it to the limit | 0.80% | ~9,248 |
-| Fine addition | 0.60% | ~6,936 |
-| About Adam | 0.40% | ~4,624 |
-| Hit me if you can | 0.20% | ~2,312 |
-| Junkrunner | 0.20% | ~2,312 |
-| One man's trash | 0.20% | ~2,312 |
-| One Of Those Days | 0.20% | ~2,312 |
-| Where He Stood | 0.20% | ~2,312 |
+| Longrunner | 40.00% | ~462,554 |
+| Sword Runner | 24.00% | ~277,532 |
+| Running out of breath | 19.00% | ~219,713 |
+| Wallrunner | 18.00% | ~208,149 |
+| I call it luck | 14.00% | ~161,894 |
+| Out of order | 12.00% | ~138,766 |
+| Homerunner | 11.00% | ~127,202 |
+| Back to hell | 9.00% | ~104,075 |
+| Running Wild | 9.00% | ~104,075 |
+| Where are my Keys? | 9.00% | ~104,075 |
+| Sword to a gunfight | 8.00% | ~92,511 |
+| Perfection | 7.00% | ~80,947 |
+| Artificial selection | 6.00% | ~69,383 |
+| Finish line | 6.00% | ~69,383 |
+| Control freak | 6.00% | ~69,383 |
+| Upgrades not mandatory | 6.00% | ~69,383 |
+| Why not both | 6.00% | ~69,383 |
+| Unstoppable force | 5.00% | ~57,819 |
+| Dead in the air | 4.00% | ~46,255 |
+| Wave of mutilation | 4.00% | ~46,255 |
+| Can't Run Can't Hide | 3.00% | ~34,692 |
+| Improvise, adapt, overrun | 2.00% | ~23,128 |
+| Pre-empative strike | 2.00% | ~23,128 |
+| R is for Running | 2.00% | ~23,128 |
+| Strike | 2.00% | ~23,128 |
+| Triple A | 2.00% | ~23,128 |
+| More than human | 1.00% | ~11,564 |
+| Push it to the limit | 0.80% | ~9,251 |
+| Fine addition | 0.60% | ~6,938 |
+| About Adam | 0.40% | ~4,626 |
+| Hit me if you can | 0.20% | ~2,313 |
+| Junkrunner | 0.20% | ~2,313 |
+| One man's trash | 0.20% | ~2,313 |
+| One Of Those Days | 0.20% | ~2,313 |
+| Where He Stood | 0.20% | ~2,313 |
 | A Grade | 0.10% | ~1,156 |
 | Everyone Needs A Hobby | 0.10% | ~1,156 |
 | GR Project Complete | 0.10% | ~1,156 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,156 |
 | Up Close And Personal | 0.10% | ~1,156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,156,004 (Ranked 14)  
+Progressed: 1,156,385 (Ranked 14)  
 Completed: 228 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 228 (0.02%) (Ranked 368)
 | 2024-01-14 | 1,133,737 | 220 |
 | 2024-01-15 | 1,144,294 | 224 |
 | 2024-01-16 | 1,154,083 | 228 |
-| 2024-01-17 | 1,156,004 | 228 |
+| 2024-01-17 | 1,156,385 | 228 |
 ## Awards
 Max (Great Boss Battles): 1,489  (Ranked 140)  
-Sum: 1,822 (Ranked 225)  
+Sum: 1,824 (Ranked 225)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): -85
 | This game has Unique Visuals | 37 |
 | This game is Highly Recommended | 37 |
 | This game is Relaxing | 34 |
-| This game has Amazing Storytelling | 31 |
+| This game has Amazing Storytelling | 33 |
 | This game has Challenging Combat | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -548,4 +548,4 @@ Diff (max vs sum): -85
 | 2024-01-14 | 4.60 | - | 1,408 | 1,723 |
 | 2024-01-15 | 4.59 | - | 1,443 | 1,771 |
 | 2024-01-16 | 4.59 | - | 1,489 | 1,821 |
-| 2024-01-17 | 4.59 | - | 1,489 | 1,822 |
+| 2024-01-17 | 4.59 | - | 1,489 | 1,824 |

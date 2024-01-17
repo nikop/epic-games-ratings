@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,769 |
-| What should I buy? | 80.00% | ~11,844 |
-| Focus! | 60.00% | ~8,883 |
-| Rescued Elder Ent | 60.00% | ~8,883 |
-| The End of the Gold Mane Knights | 48.00% | ~7,106 |
+| The Legend Begins | 93.00% | ~13,770 |
+| What should I buy? | 80.00% | ~11,845 |
+| Focus! | 60.00% | ~8,884 |
+| Rescued Elder Ent | 60.00% | ~8,884 |
+| The End of the Gold Mane Knights | 48.00% | ~7,107 |
 | False Goddess, Disappear | 40.00% | ~5,922 |
 | Rules of Etiquette | 37.00% | ~5,478 |
 | Inventory Management | 32.00% | ~4,738 |
 | The Fall of the Leonia Order | 31.00% | ~4,590 |
 | Quick Movements | 30.00% | ~4,442 |
-| Go Home... | 28.00% | ~4,145 |
-| The Final Battle of the First Hero | 27.00% | ~3,997 |
-| The Hero Killer | 25.00% | ~3,701 |
+| Go Home... | 28.00% | ~4,146 |
+| The Final Battle of the First Hero | 27.00% | ~3,998 |
+| The Hero Killer | 25.00% | ~3,702 |
 | Brain at Full Throttle | 20.00% | ~2,961 |
 | Rookies Welcome | 18.00% | ~2,665 |
 | Deadly Power | 16.00% | ~2,369 |
 | Castle Restoration Plans | 13.00% | ~1,925 |
-| The Dwarven Chandelier | 10.00% | ~1,480 |
-| Master of Speed | 9.00% | ~1,332 |
+| The Dwarven Chandelier | 10.00% | ~1,481 |
+| Master of Speed | 9.00% | ~1,333 |
 | The Levitator | 8.00% | ~1,184 |
 | The God of Battle | 4.00% | ~592 |
 | Too Much of a Talker | 1.00% | ~148 |
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,805 (Ranked 175)  
+Progressed: 14,806 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 22 (0.15%) (Ranked 295)
 | 2024-01-14 | 14,732 | 22 |
 | 2024-01-15 | 14,763 | 22 |
 | 2024-01-16 | 14,802 | 22 |
-| 2024-01-17 | 14,805 | 22 |
+| 2024-01-17 | 14,806 | 22 |
 ## Awards
 Max (Diverse Characters): 154  (Ranked 333)  
 Sum: 1,029 (Ranked 275)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17912,
+  "EOS_Progressed": 17913,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18565,6 +18565,11 @@
       "Time": "2024-01-17T04:06:08.7789112+00:00",
       "NumProgressed": 17912,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-17T07:05:41.544411+00:00",
+      "NumProgressed": 17913,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18680,7 +18685,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5194
+      "UsersEstimate": 5195
     },
     {
       "ID": "tpote_achievement_22",
@@ -18688,7 +18693,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "tpote_achievement_23",
@@ -18712,7 +18717,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "tpote_achievement_26",
@@ -18736,7 +18741,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2149
+      "UsersEstimate": 2150
     },
     {
       "ID": "tpote_achievement_29",
@@ -18824,7 +18829,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "tpote_achievement_39",
@@ -18903,15 +18908,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17912,
+      "Progressed": 17913,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:05:50.648435+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:05:41.5444105+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:03:18.0861565+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:05:50.6485465+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:03:05.7570965+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:05:41.544504+00:00"
 }

@@ -10,8 +10,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.20% | ~2,107 |
 | Christmas Tree Attack | 0.20% | ~2,107 |
 | Life of the Road | 0.20% | ~2,107 |
+| Stanislavski's Method | 0.20% | ~2,107 |
 | The Hermit | 0.20% | ~2,107 |
 | The High Priestess | 0.20% | ~2,107 |
+| The Lovers | 0.20% | ~2,107 |
 | The Wheel of Fortune | 0.20% | ~2,107 |
 | True Soldier | 0.20% | ~2,107 |
 | City Lights | 0.10% | ~1,053 |
@@ -32,13 +34,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.10% | ~1,053 |
 | The Wasteland | 0.10% | ~1,053 |
 | Daemon In The Shell | 0.10% | ~1,053 |
-| Stanislavski's Method | 0.10% | ~1,053 |
 | Ten out of Ten | 0.10% | ~1,053 |
 | Temperance | 0.10% | ~1,053 |
 | Rough Landing | 0.10% | ~1,053 |
 | The Devil | 0.10% | ~1,053 |
 | The Fool | 0.10% | ~1,053 |
-| The Lovers | 0.10% | ~1,053 |
 | The Star | 0.10% | ~1,053 |
 | The Sun | 0.10% | ~1,053 |
 | The World | 0.10% | ~1,053 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,262 (Ranked 17)  
+Progressed: 1,053,276 (Ranked 17)  
 Completed: 3,110 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,7 +346,7 @@ Completed: 3,110 (0.30%) (Ranked 262)
 | 2024-01-14 | 1,051,381 | 3,097 |
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
-| 2024-01-17 | 1,053,262 | 3,110 |
+| 2024-01-17 | 1,053,276 | 3,110 |
 ## Awards
 Max (Character Customization): 141,060  (Ranked 8)  
 Sum: 499,830 (Ranked 8)  

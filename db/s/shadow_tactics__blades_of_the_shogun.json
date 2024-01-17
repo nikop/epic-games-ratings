@@ -2560,9 +2560,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226419,
+  "EOS_Progressed": 226422,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -33860,6 +33860,11 @@
       "Time": "2024-01-17T06:04:17.4554786+00:00",
       "NumProgressed": 226419,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-17T07:04:05.6978948+00:00",
+      "NumProgressed": 226422,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 44,
@@ -33943,7 +33948,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27170
+      "UsersEstimate": 27171
     },
     {
       "ID": "HappyLittleAccidents",
@@ -33959,7 +33964,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15849
+      "UsersEstimate": 15850
     },
     {
       "ID": "HighFiveTheMoon",
@@ -34023,7 +34028,7 @@
       "Name": "Mugen Unchained",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 15849
+      "UsersEstimate": 15850
     },
     {
       "ID": "NoGimmicks",
@@ -34222,15 +34227,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226419,
+      "Progressed": 226422,
       "Completed": 107
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-16T09:57:12.9192169+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:04:17.4554783+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:04:05.6978944+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:57:49.6366682+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:04:17.4557306+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:57:41.6181729+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:04:05.6980611+00:00"
 }

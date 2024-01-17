@@ -1,14 +1,14 @@
 # WarmSnow
 [Store](https://store.epicgames.com/en-US/p/warmsnow-7e3180)  
 [View Rawdata](../../db/w/warmsnow.json)  
-Rating: 4.83 (Ranked 57)  
+Rating: 4.82 (Ranked 69)  
 ## Awards
-Max (Great Boss Battles): 66  (Ranked 427)  
-Sum: 66 (Ranked 500)  
-Diff (max vs sum): -73  
+Max (Great Boss Battles): 68  (Ranked 423)  
+Sum: 68 (Ranked 497)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 66 |
+| This game has Great Boss Battles | 68 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -63,3 +63,4 @@ Diff (max vs sum): -73
 | 2024-01-11 | 4.83 | 62 | 62 |
 | 2024-01-13 | 4.83 | 65 | 65 |
 | 2024-01-15 | 4.83 | 66 | 66 |
+| 2024-01-17 | 4.82 | 68 | 68 |

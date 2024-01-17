@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 1431,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4248,9 +4248,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 515
+      "UsersEstimate": 529
     },
     {
       "ID": "BreakTheLoop",
@@ -4472,9 +4472,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 286
     },
     {
       "ID": "PrometheusUnbound",
@@ -4689,8 +4689,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:06:04.8446633+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:05:56.2683305+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:59:06.1086717+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:06:04.8447546+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:58:59.2398181+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:05:56.2684073+00:00"
 }

@@ -6,26 +6,26 @@ Rating: 4.26 (Ranked 922)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Power Shot | 75.00% | ~160,412 |
-| Dead-ball specialist | 61.00% | ~130,468 |
+| Dead-ball specialist | 61.00% | ~130,469 |
 | European Legend | 52.00% | ~111,219 |
 | Multitasking | 51.00% | ~109,080 |
-| Balanced Path | 49.00% | ~104,802 |
-| High Grades | 48.00% | ~102,663 |
+| Balanced Path | 49.00% | ~104,803 |
+| High Grades | 48.00% | ~102,664 |
 | A Moment of Your Time | 46.00% | ~98,386 |
 | Let the Games Begin | 46.00% | ~98,386 |
 | Aiming High | 46.00% | ~98,386 |
 | Tactical Tinkerer | 40.00% | ~85,553 |
 | Intuition and Execution | 39.00% | ~83,414 |
-| Squad Building Connoisseur | 38.00% | ~81,275 |
+| Squad Building Connoisseur | 38.00% | ~81,276 |
 | The Winning Formula | 36.00% | ~76,998 |
 | Parking the Bus | 27.00% | ~57,748 |
-| Safe House | 26.00% | ~55,609 |
-| Best of Five | 26.00% | ~55,609 |
+| Safe House | 26.00% | ~55,610 |
+| Best of Five | 26.00% | ~55,610 |
 | Football is Everything | 24.00% | ~51,332 |
 | The Chosen One | 22.00% | ~47,054 |
-| Fresh Fit | 20.00% | ~42,776 |
+| Fresh Fit | 20.00% | ~42,777 |
 | Bring it on | 17.00% | ~36,360 |
-| Life-Like | 14.00% | ~29,943 |
+| Life-Like | 14.00% | ~29,944 |
 | Make the Grade | 12.00% | ~25,666 |
 | I Played Them All | 10.00% | ~21,388 |
 | Specialist | 10.00% | ~21,388 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 922)
 | Training Addict | 0.10% | ~214 |
 | Dazzling Personality | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,882 (Ranked 82)  
+Progressed: 213,883 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 213,338 | 0 |
 | 2024-01-15 | 213,590 | 0 |
 | 2024-01-16 | 213,829 | 0 |
-| 2024-01-17 | 213,882 | 0 |
+| 2024-01-17 | 213,883 | 0 |
 ## Awards
 Max (Diverse Characters): 22,286  (Ranked 21)  
 Sum: 110,534 (Ranked 17)  

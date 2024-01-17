@@ -437,9 +437,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_7",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Free Coast",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:08:47.2405348+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:08:49.0474732+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.2964784+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:03:30.4996438+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:08:47.2405673+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:03:16.9770168+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:08:49.0475072+00:00"
 }

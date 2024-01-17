@@ -5,28 +5,28 @@ Rating: 4.22 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~10,270 |
+| First Day on the Job | 83.00% | ~10,271 |
 | Disposing of the Evidence | 39.00% | ~4,826 |
 | Without a Scratch | 35.00% | ~4,331 |
-| Wreckless Driving | 29.00% | ~3,588 |
-| A Marked Man | 26.00% | ~3,217 |
+| Wreckless Driving | 29.00% | ~3,589 |
+| A Marked Man | 26.00% | ~3,218 |
 | Street Sweeper | 19.00% | ~2,351 |
-| Liberty City Minute | 18.00% | ~2,227 |
-| Offshore Delivery | 14.00% | ~1,732 |
+| Liberty City Minute | 18.00% | ~2,228 |
+| Offshore Delivery | 14.00% | ~1,733 |
 | Dirty Money | 13.00% | ~1,609 |
 | Not So Fast | 11.00% | ~1,361 |
-| By a Mile | 10.00% | ~1,237 |
-| Right-hand Man | 10.00% | ~1,237 |
+| By a Mile | 10.00% | ~1,238 |
+| Right-hand Man | 10.00% | ~1,238 |
 | A Gift from the King | 7.00% | ~866 |
 | Full Artillery | 4.00% | ~495 |
 | Mob Boss | 3.00% | ~371 |
 | Splish Splash | 3.00% | ~371 |
-| Escape Artist | 2.00% | ~247 |
-| Got This Figured Out | 2.00% | ~247 |
-| Come Out to Play-y-y-y | 2.00% | ~247 |
-| Where To? | 2.00% | ~247 |
-| Playing Doctor | 2.00% | ~247 |
-| Liberty City Secrets | 2.00% | ~247 |
+| Escape Artist | 2.00% | ~248 |
+| Got This Figured Out | 2.00% | ~248 |
+| Come Out to Play-y-y-y | 2.00% | ~248 |
+| Where To? | 2.00% | ~248 |
+| Playing Doctor | 2.00% | ~248 |
+| Liberty City Secrets | 2.00% | ~248 |
 | Planned Ahead | 1.00% | ~124 |
 | Wheels Up | 1.00% | ~124 |
 | Man Toyz | 1.00% | ~124 |
@@ -35,7 +35,7 @@ Rating: 4.22 (Ranked 955)
 | Is That All You've Got? | 1.00% | ~124 |
 | King of Liberty City | 0.70% | ~87 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,374 (Ranked 179)  
+Progressed: 12,375 (Ranked 179)  
 Completed: 91 (0.74%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 91 (0.74%) (Ranked 200)
 | 2024-01-14 | 12,328 | 91 |
 | 2024-01-15 | 12,348 | 91 |
 | 2024-01-16 | 12,366 | 91 |
-| 2024-01-17 | 12,374 | 91 |
+| 2024-01-17 | 12,375 | 91 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -18578,10 +18578,10 @@
       "Count": 19243
     }
   ],
-  "EOS_Progressed": 1053262,
+  "EOS_Progressed": 1053276,
   "EOS_Completed": 3110,
-  "EOS_NewPlayers": 11714,
-  "EOS_NewCompleters": 47,
+  "EOS_NewPlayers": 11599,
+  "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49703,6 +49703,11 @@
       "Time": "2024-01-17T06:09:12.3692434+00:00",
       "NumProgressed": 1053262,
       "NumCompleted": 3110
+    },
+    {
+      "Time": "2024-01-17T07:09:14.8283255+00:00",
+      "NumProgressed": 1053276,
+      "NumCompleted": 3110
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49889,9 +49894,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2107
     },
     {
       "ID": "Specialist",
@@ -49953,9 +49958,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1053
+      "UsersEstimate": 2107
     },
     {
       "ID": "TheStar",
@@ -50250,21 +50255,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1053262,
+      "Progressed": 1053276,
       "Completed": 3110
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 181885,
-      "Completed": 10635
+      "Progressed": 181899,
+      "Completed": 10636
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-17T05:03:09.8010761+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:09:12.3692429+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:09:14.8283251+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:03:30.644409+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:09:12.3694042+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:03:17.1553441+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:09:14.8285224+00:00"
 }

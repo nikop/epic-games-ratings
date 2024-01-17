@@ -905,9 +905,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 243814,
+  "EOS_Progressed": 243817,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21555,6 +21555,11 @@
       "Time": "2024-01-17T06:10:15.1109897+00:00",
       "NumProgressed": 243814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-17T07:10:19.7597467+00:00",
+      "NumProgressed": 243817,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21623,7 +21628,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51201
+      "UsersEstimate": 51202
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21631,7 +21636,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21943
+      "UsersEstimate": 21944
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -21663,7 +21668,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7314
+      "UsersEstimate": 7315
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -21671,7 +21676,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7314
+      "UsersEstimate": 7315
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -21838,7 +21843,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 243814,
+      "Progressed": 243817,
       "Completed": 0
     }
   ],
@@ -21846,8 +21851,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:10:15.1109894+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:10:19.7597464+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:59:01.3025378+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:10:15.1111229+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:58:54.2900307+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:10:19.7598373+00:00"
 }

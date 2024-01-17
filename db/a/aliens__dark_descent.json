@@ -3,8 +3,8 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 580,
-  "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 498,
+  "Ranking_Popularity": 427,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 343,
   "Ranking_EOS_NewPlayers": 173,
@@ -573,9 +573,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6468,
+  "EOS_Progressed": 6469,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9963,6 +9963,11 @@
       "Time": "2024-01-17T01:55:20.4107269+00:00",
       "NumProgressed": 6468,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-17T07:06:01.9226723+00:00",
+      "NumProgressed": 6469,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -9982,7 +9987,7 @@
       "Name": "Flawless Victory",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -9998,7 +10003,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -10014,7 +10019,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2781
+      "UsersEstimate": 2782
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10022,7 +10027,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -10070,7 +10075,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4204
+      "UsersEstimate": 4205
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10094,7 +10099,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3751
+      "UsersEstimate": 3752
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10102,7 +10107,7 @@
       "Name": "Heavy Steps",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -10166,7 +10171,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3363
+      "UsersEstimate": 3364
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10190,7 +10195,7 @@
       "Name": "Making a Stand",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2393
+      "UsersEstimate": 2394
     },
     {
       "ID": "ACH_MISSION_05",
@@ -10222,7 +10227,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10230,7 +10235,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10278,7 +10283,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4980
+      "UsersEstimate": 4981
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10302,7 +10307,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10333,7 +10338,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6468,
+      "Progressed": 6469,
       "Completed": 3
     }
   ],
@@ -10341,8 +10346,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:06:10.6223792+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:06:01.9226721+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:58:56.1393207+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:06:10.6224467+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:58:48.60764+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:06:01.9227465+00:00"
 }

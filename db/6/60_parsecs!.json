@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 891,
+  "EOS_Progressed": 892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1316,6 +1316,11 @@
       "Time": "2024-01-17T06:09:01.204917+00:00",
       "NumProgressed": 891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-17T07:09:03.2534213+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1359,7 +1364,7 @@
       "Name": "Axel jump in space!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Achievement_BabyAstro",
@@ -1399,7 +1404,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1471,7 +1476,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1503,7 +1508,7 @@
       "Name": "Hello World",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1615,7 +1620,7 @@
       "Name": "Space Colonization",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1623,7 +1628,7 @@
       "Name": "Space Engineer",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1647,7 +1652,7 @@
       "Name": "Stay Cool",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1663,7 +1668,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "Achievement_Traitor",
@@ -1678,7 +1683,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 891,
+      "Progressed": 892,
       "Completed": 1
     }
   ],
@@ -1686,8 +1691,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:09:01.2049167+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:09:03.2534206+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.8191647+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:59:52.9521422+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:09:01.2049545+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:59:46.9280884+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:09:03.2534755+00:00"
 }

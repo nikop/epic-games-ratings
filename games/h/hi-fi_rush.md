@@ -7,13 +7,13 @@ Rating: 4.86 (Ranked 33)
 | ---- | ---------- | ----- |
 | Feeling the beat! | 56.00% | ~9,687 |
 | Start with a bang! | 55.00% | ~9,514 |
-| You can pet the cat! | 50.00% | ~8,649 |
-| Who put gears in there? | 41.00% | ~7,092 |
-| Cream of the Crop | 36.00% | ~6,227 |
-| Thanks for the free chip, Peppermint! | 35.00% | ~6,054 |
-| You got this, Peppermint? | 31.00% | ~5,362 |
-| Perfect Parry | 29.00% | ~5,016 |
-| Alright, that felt AWESOME! | 28.00% | ~4,843 |
+| You can pet the cat! | 50.00% | ~8,650 |
+| Who put gears in there? | 41.00% | ~7,093 |
+| Cream of the Crop | 36.00% | ~6,228 |
+| Thanks for the free chip, Peppermint! | 35.00% | ~6,055 |
+| You got this, Peppermint? | 31.00% | ~5,363 |
+| Perfect Parry | 29.00% | ~5,017 |
+| Alright, that felt AWESOME! | 28.00% | ~4,844 |
 | I play my own way! | 24.00% | ~4,152 |
 | This will cost you big time | 23.00% | ~3,979 |
 | Uh, they were broken when I got here | 22.00% | ~3,806 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,298 (Ranked 168)  
+Progressed: 17,299 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 8 (0.05%) (Ranked 343)
 | 2024-01-14 | 17,157 | 8 |
 | 2024-01-15 | 17,227 | 8 |
 | 2024-01-16 | 17,286 | 8 |
-| 2024-01-17 | 17,298 | 8 |
+| 2024-01-17 | 17,299 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 501)  
 Sum: 36 (Ranked 534)  

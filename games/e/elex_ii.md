@@ -32,9 +32,9 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 8.00% | ~21 |
 | Free as a Bird | 8.00% | ~21 |
 | Hotshot | 7.00% | ~18 |
+| Cleric | 7.00% | ~18 |
 | Detective | 7.00% | ~18 |
 | Weaponsmith | 6.00% | ~16 |
-| Cleric | 6.00% | ~16 |
 | Alchemist | 5.00% | ~13 |
 | Self-Sufficient | 3.00% | ~8 |
 | Idealist | 3.00% | ~8 |

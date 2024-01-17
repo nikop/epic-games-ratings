@@ -10559,7 +10559,7 @@
       "Count": 1653
     }
   ],
-  "EOS_Progressed": 890956,
+  "EOS_Progressed": 890966,
   "EOS_Completed": 249,
   "EOS_NewPlayers": 4986,
   "EOS_NewCompleters": 7,
@@ -38459,6 +38459,11 @@
       "Time": "2024-01-17T06:09:47.6476993+00:00",
       "NumProgressed": 890956,
       "NumCompleted": 249
+    },
+    {
+      "Time": "2024-01-17T07:09:51.3252722+00:00",
+      "NumProgressed": 890966,
+      "NumCompleted": 249
     }
   ],
   "TotalAchievements": 75,
@@ -38470,7 +38475,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 249468
+      "UsersEstimate": 249470
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -38550,7 +38555,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53457
+      "UsersEstimate": 53458
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -38566,7 +38571,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 53457
+      "UsersEstimate": 53458
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -38622,7 +38627,7 @@
       "Name": "G.I. Blues",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35638
+      "UsersEstimate": 35639
     },
     {
       "ID": "ACHIEVEMENT_GLOBE_TROTTER",
@@ -38678,7 +38683,7 @@
       "Name": "Jury Rigger",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35638
+      "UsersEstimate": 35639
     },
     {
       "ID": "ACHIEVEMENT_KNOW_WHEN_TO_FOLD_EM",
@@ -38766,7 +38771,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53457
+      "UsersEstimate": 53458
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -38806,7 +38811,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53457
+      "UsersEstimate": 53458
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -38830,7 +38835,7 @@
       "Name": "Outstanding Orator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 35638
+      "UsersEstimate": 35639
     },
     {
       "ID": "ACHIEVEMENT_O_DAUGHER_OF_BABYLON",
@@ -38934,7 +38939,7 @@
       "Name": "That Lucky Old Sun",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35638
+      "UsersEstimate": 35639
     },
     {
       "ID": "ACHIEVEMENT_THEY_WENT_THAT_A_WAY",
@@ -38942,7 +38947,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 62367
+      "UsersEstimate": 62368
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -39014,7 +39019,7 @@
       "Name": "Volare!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 35638
+      "UsersEstimate": 35639
     },
     {
       "ID": "ACHIEVEMENT_WALKER_OF_THE_MOJAVE",
@@ -39069,13 +39074,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 890956,
+      "Progressed": 890966,
       "Completed": 295
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 890956,
+      "Progressed": 890966,
       "Completed": 249
     }
   ],
@@ -39083,8 +39088,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2024-01-17T02:59:17.5562505+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:09:47.6476991+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:09:51.3252713+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:36.8702466+00:00",
-  "LastUpdate_Ratings": "2024-01-17T05:59:20.4515573+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:09:47.6479401+00:00"
+  "LastUpdate_Ratings": "2024-01-17T06:59:13.1946004+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:09:51.3254985+00:00"
 }

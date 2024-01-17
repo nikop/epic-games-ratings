@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -4920,9 +4920,9 @@
       "ID": "ACHV_16",
       "SetID": "8p5mlmc",
       "Name": "It Lives! It Sniffs! It Conquers!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_17",
@@ -5265,8 +5265,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-17T06:04:56.8769781+00:00",
+  "LastChanged_Achievements": "2024-01-17T07:04:46.720813+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-17T06:03:13.599763+00:00",
-  "LastUpdate_Achievements": "2024-01-17T06:04:56.8770452+00:00"
+  "LastUpdate_Ratings": "2024-01-17T07:03:01.8735655+00:00",
+  "LastUpdate_Achievements": "2024-01-17T07:04:46.7208916+00:00"
 }
