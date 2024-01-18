@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 2024-01-18 | - |  | - | - |
 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 2024-01-18 | 18 (1,000 XP) | 3 | - | - |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-01-19 | 18 (1,000 XP) | 0 | - | - |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-19 | - |  | - | - |

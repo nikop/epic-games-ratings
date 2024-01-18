@@ -26,9 +26,9 @@
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.50% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.80% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.11% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.10% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -97,9 +97,9 @@
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
+| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
 | 98 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.61% |
-| 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
-| 100 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.58% |
+| 100 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
@@ -129,7 +129,7 @@
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
-| 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.40% |
+| 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.39% |
 | 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.33% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
@@ -182,7 +182,7 @@
 | 180 | [Lemon Cake](games/l/lemon_cake.md) | 1.02% |
 | 180 | [Sable](games/s/sable.md) | 1.02% |
 | 182 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.01% |
-| 183 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
+| 183 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
 | 184 | [Trifox](games/t/trifox.md) | 0.95% |
 | 185 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 186 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
@@ -194,7 +194,7 @@
 | 192 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
 | 192 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.88% |
 | 194 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.87% |
-| 195 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.84% |
+| 195 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.83% |
 | 196 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 197 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 197 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.78% |
