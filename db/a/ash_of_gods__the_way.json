@@ -448,9 +448,9 @@
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "collect3",
@@ -488,9 +488,9 @@
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "collect8",
@@ -528,9 +528,9 @@
       "ID": "fights4",
       "SetID": "c64if4d",
       "Name": "Stronger than Gellian steel",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "fights5",
@@ -560,9 +560,9 @@
       "ID": "fights8",
       "SetID": "c64if4d",
       "Name": "Defeat the bear",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "special1",
@@ -696,9 +696,9 @@
       "ID": "story13",
       "SetID": "c64if4d",
       "Name": "Trial by cold",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "story14",
@@ -712,9 +712,9 @@
       "ID": "story15",
       "SetID": "c64if4d",
       "Name": "Blood and honour",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "story16",
@@ -841,8 +841,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:37.685849+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:20.083657+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:05.0857431+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:52.7205749+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:37.6858908+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:17.599835+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:20.0837011+00:00"
 }

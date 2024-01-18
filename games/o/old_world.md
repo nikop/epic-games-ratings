@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~509 |
 | Pioneer | 3.00% | ~509 |
 | Strong | 3.00% | ~509 |
+| Developing Cities | 3.00% | ~509 |
 | Hanging Gardens | 3.00% | ~509 |
 | Oracle | 3.00% | ~509 |
 | Pyramids | 3.00% | ~509 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~339 |
 | Warrior | 2.00% | ~339 |
 | Wise | 2.00% | ~339 |
-| Developing Cities | 2.00% | ~339 |
 | Strong Cities | 2.00% | ~339 |
 | Able Difficulty | 2.00% | ~339 |
 | Furious Family | 2.00% | ~339 |
@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Yazilikaya | 0.50% | ~85 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
+| Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.40% | ~68 |
 | Jebel Barkal | 0.40% | ~68 |
 | Carthage - Ox Hide | 0.30% | ~51 |
-| Noble Difficulty | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
@@ -281,10 +281,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Randomized Leaders | 0.10% | ~17 |
 | Role-Playing | 0.10% | ~17 |
 | Time Victory | 0.10% | ~17 |
+| Win a 1-v-1 Game | 0.10% | ~17 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~17 |
 | Win a Hotseat Game | 0.10% | ~17 |
 | Win a MP Teams Game | 0.10% | ~17 |
 | Win a Network Game | 0.10% | ~17 |
+| Win a Play-By-Cloud Game | 0.10% | ~17 |
 | Five Cults | 0.10% | ~17 |
 | The Great Mage | 0.10% | ~17 |
 | Pilgrimage | 0.10% | ~17 |
@@ -335,9 +337,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rule of Pharaohs | 0.00% | ~0 |
 | Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
-| Win a 1-v-1 Game | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
-| Win a Play-By-Cloud Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,957 (Ranked 169)  
+Progressed: 16,960 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,957 | 5 |
+| 2024-01-18 | 16,960 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

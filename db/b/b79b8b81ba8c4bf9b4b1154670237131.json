@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16762,
+  "EOS_Progressed": 16765,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6917,6 +6917,11 @@
       "Time": "2024-01-18T10:10:33.2384848+00:00",
       "NumProgressed": 16762,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-18T11:10:15.0289702+00:00",
+      "NumProgressed": 16765,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6929,7 +6934,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6370
+      "UsersEstimate": 6371
     },
     {
       "ID": "ACH_AE_10",
@@ -6961,7 +6966,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12572
+      "UsersEstimate": 12574
     },
     {
       "ID": "ACH_AE_14",
@@ -6969,7 +6974,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "ACH_AE_15",
@@ -7001,7 +7006,7 @@
       "Name": "Crime Fighter",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_AE_19",
@@ -7009,7 +7014,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "ACH_AE_2",
@@ -7017,7 +7022,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "ACH_AE_20",
@@ -7041,7 +7046,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4023
+      "UsersEstimate": 4024
     },
     {
       "ID": "ACH_AE_23",
@@ -7129,7 +7134,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "ACH_AE_33",
@@ -7161,7 +7166,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "ACH_AE_5",
@@ -7169,7 +7174,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "ACH_AE_6",
@@ -7208,7 +7213,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16762,
+      "Progressed": 16765,
       "Completed": 16
     }
   ],
@@ -7216,8 +7221,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:33.2384846+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:15.0289697+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:00:16.5127002+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:33.2385391+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:59:55.3524114+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:15.0290226+00:00"
 }

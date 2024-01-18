@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1261,6 +1261,11 @@
       "Time": "2024-01-16T21:08:23.3912558+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T11:09:01.5181045+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1424,7 +1429,7 @@
       "Name": "Strategist",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
@@ -1512,7 +1517,7 @@
       "Name": "Deputized",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_DiscoverAllLocations",
@@ -1552,7 +1557,7 @@
       "Name": "Courier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_ExtendedHireling",
@@ -1886,9 +1891,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 177
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1998,9 +2003,9 @@
       "ID": "Vanilla_TradeTasksTier1",
       "SetID": "27kik8p",
       "Name": "Merchant",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_TradeTasksTier2",
@@ -2016,7 +2021,7 @@
       "Name": "Trouble at Fort Larius",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -2063,7 +2068,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
@@ -2071,8 +2076,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:09:27.0147056+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:09:01.518104+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:35.0174568+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:29.2886489+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:09:27.0148079+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:59.7106483+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:09:01.5182148+00:00"
 }

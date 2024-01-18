@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258146,
+  "EOS_Progressed": 258149,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31147,6 +31147,11 @@
       "Time": "2024-01-18T10:04:40.2676277+00:00",
       "NumProgressed": 258146,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-18T11:04:12.9880675+00:00",
+      "NumProgressed": 258149,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31158,7 +31163,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69699
+      "UsersEstimate": 69700
     },
     {
       "ID": "ACH_AON",
@@ -31302,7 +31307,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74862
+      "UsersEstimate": 74863
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31374,7 +31379,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64536
+      "UsersEstimate": 64537
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31478,7 +31483,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64536
+      "UsersEstimate": 64537
     },
     {
       "ID": "ACH_SOREAD",
@@ -31573,7 +31578,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258146,
+      "Progressed": 258149,
       "Completed": 8
     }
   ],
@@ -31581,8 +31586,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:04:40.2676274+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:12.9880667+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:45.7327545+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:04:40.2678098+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:12.5503228+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:12.9882265+00:00"
 }

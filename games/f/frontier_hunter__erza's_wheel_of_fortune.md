@@ -5,26 +5,26 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~705 |
-| Training Simulation | 79.00% | ~599 |
-| Kuku Bird Hunter | 66.00% | ~500 |
+| Travel Streamer | 93.00% | ~706 |
+| Training Simulation | 79.00% | ~600 |
+| Kuku Bird Hunter | 65.00% | ~493 |
 | Storm Traveller | 60.00% | ~455 |
 | Wolf King Killer | 55.00% | ~417 |
 | Fashion Connoisseur | 53.00% | ~402 |
-| Arms Mechanic | 49.00% | ~371 |
+| Arms Mechanic | 49.00% | ~372 |
 | Flower Thief | 44.00% | ~334 |
-| Apostle of Flame | 40.00% | ~303 |
+| Apostle of Flame | 40.00% | ~304 |
 | Beginner Artificer | 39.00% | ~296 |
-| Beginner Cook | 37.00% | ~280 |
+| Beginner Cook | 37.00% | ~281 |
 | Seal Breaker | 32.00% | ~243 |
-| Handyman | 28.00% | ~212 |
+| Handyman | 28.00% | ~213 |
 | Giant Lizard Killer | 27.00% | ~205 |
 | Guardian | 26.00% | ~197 |
 | Nosebleeder | 26.00% | ~197 |
 | Trader | 22.00% | ~167 |
-| Weapon Boost | 22.00% | ~167 |
+| Weapon Boost | 21.00% | ~159 |
 | Flying Kobold Killer | 19.00% | ~144 |
-| Youth Magnet | 18.00% | ~136 |
+| Youth Magnet | 18.00% | ~137 |
 | Furious Scorpion Killer | 17.00% | ~129 |
 | Lethal Blade Mantis Killer | 17.00% | ~129 |
 | Squeaky Clean | 17.00% | ~129 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 797)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 758 (Ranked 323)  
+Progressed: 759 (Ranked 321)  
 Completed: 3 (0.40%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 3 (0.40%) (Ranked 244)
 | 2024-01-15 | 755 | 3 |
 | 2024-01-16 | 756 | 3 |
 | 2024-01-17 | 757 | 3 |
-| 2024-01-18 | 758 | 3 |
+| 2024-01-18 | 759 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

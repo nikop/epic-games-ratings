@@ -18644,10 +18644,10 @@
       "Count": 19395
     }
   ],
-  "EOS_Progressed": 1054087,
-  "EOS_Completed": 3117,
-  "EOS_NewPlayers": 8701,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 1054120,
+  "EOS_Completed": 3118,
+  "EOS_NewPlayers": 8642,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49909,6 +49909,11 @@
       "Time": "2024-01-18T10:09:53.2695777+00:00",
       "NumProgressed": 1054087,
       "NumCompleted": 3117
+    },
+    {
+      "Time": "2024-01-18T11:09:31.01146+00:00",
+      "NumProgressed": 1054120,
+      "NumCompleted": 3118
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50151,9 +50156,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2108
+      "UsersEstimate": 3162
     },
     {
       "ID": "TheLovers",
@@ -50456,21 +50461,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054087,
-      "Completed": 3117
+      "Progressed": 1054120,
+      "Completed": 3118
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 182710,
-      "Completed": 10646
+      "Progressed": 182743,
+      "Completed": 10647
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-18T05:03:46.5500522+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:09:53.2695775+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:09:31.0114598+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:04:08.7334482+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:09:53.2697464+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:38.6289771+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:09:31.0116025+00:00"
 }

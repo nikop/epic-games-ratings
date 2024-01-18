@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1235,
+  "EOS_Progressed": 1236,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -3786,6 +3786,11 @@
       "Time": "2024-01-18T09:10:15.7380977+00:00",
       "NumProgressed": 1235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T11:10:34.535778+00:00",
+      "NumProgressed": 1236,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -3805,7 +3810,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "CHIEF",
@@ -3813,7 +3818,7 @@
       "Name": "CHIEF",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "CLEANER",
@@ -3821,7 +3826,7 @@
       "Name": "CLEANER",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1125
     },
     {
       "ID": "DEBTOR",
@@ -3837,7 +3842,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "FIRST_100K",
@@ -3861,7 +3866,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "INTRODUCTION",
@@ -3908,7 +3913,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1235,
+      "Progressed": 1236,
       "Completed": 0
     }
   ],
@@ -3916,8 +3921,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:52.0143102+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:34.5357776+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.6770489+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:00.384184+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:52.0143401+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:57:14.0574687+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:34.5358103+00:00"
 }

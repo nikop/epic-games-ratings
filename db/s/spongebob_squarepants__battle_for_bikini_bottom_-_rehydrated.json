@@ -5,10 +5,10 @@
   "Ranking_Rating": 345,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 535,
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1073,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2968,6 +2968,11 @@
       "Time": "2024-01-18T09:04:01.8001005+00:00",
       "NumProgressed": 1073,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-18T11:04:19.0218579+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3052,7 +3057,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3090,9 +3095,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -3100,7 +3105,7 @@
       "Name": "Sweet Victory",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3212,7 +3217,7 @@
       "Name": "Star Smasher",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -3235,15 +3240,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1073,
+      "Progressed": 1074,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:04:45.5742589+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:19.0218577+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:47.7128781+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:04:45.5742926+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:11.9920563+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:19.0218928+00:00"
 }

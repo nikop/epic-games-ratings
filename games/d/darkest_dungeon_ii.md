@@ -9,18 +9,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 14.00% | ~1,119 |
 | Lost and Found | 9.00% | ~719 |
 | Autodidact | 8.00% | ~10,650 |
-| This Belongs in a Museum | 7.00% | ~9,318 |
-| Overdue Notice | 7.00% | ~9,318 |
-| This guy... again? | 7.00% | ~559 |
-| Serenity Now! | 6.00% | ~7,987 |
-| Creep and Sleep | 6.00% | ~7,987 |
-| Meat and Greet | 6.00% | ~7,987 |
-| Catch and Decease | 6.00% | ~7,987 |
-| Escape from the Black Hole | 6.00% | ~7,987 |
-| Rush Hour | 6.00% | ~7,987 |
-| To Grandmother's House | 6.00% | ~7,987 |
-| Ploughshares to Swords | 6.00% | ~479 |
-| Bloody Graduation | 6.00% | ~479 |
+| This Belongs in a Museum | 7.00% | ~9,319 |
+| Overdue Notice | 7.00% | ~9,319 |
+| This guy... again? | 7.00% | ~560 |
+| Serenity Now! | 6.00% | ~7,988 |
+| Creep and Sleep | 6.00% | ~7,988 |
+| Meat and Greet | 6.00% | ~7,988 |
+| Catch and Decease | 6.00% | ~7,988 |
+| Escape from the Black Hole | 6.00% | ~7,988 |
+| Rush Hour | 6.00% | ~7,988 |
+| To Grandmother's House | 6.00% | ~7,988 |
+| Ploughshares to Swords | 6.00% | ~480 |
+| Bloody Graduation | 6.00% | ~480 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,656 |
 | It Rings a Bell | 5.00% | ~6,656 |
 | Not Today! | 5.00% | ~6,656 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,121 (Ranked 92)  
+Progressed: 133,125 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,10 +349,10 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,121 | 5 |
+| 2024-01-18 | 133,125 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
-Sum: 21,728 (Ranked 58)  
+Sum: 21,733 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): -6
 | This game is Highly Recommended | 1,609 |
 | This game has Amazing Characters | 1,539 |
 | This game is Extremely Fun | 1,530 |
-| This game has Unique Visuals | 1,473 |
+| This game has Unique Visuals | 1,478 |
 | This game has Amazing Storytelling | 1,453 |
 | This game has Quickly Understood Controls | 1,425 |
 | This game has a Creative Community | 1,104 |
@@ -726,4 +726,4 @@ Diff (max vs sum): -6
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
-| 2024-01-18 | 4.69 | - | 8,040 | 21,728 |
+| 2024-01-18 | 4.69 | - | 8,040 | 21,733 |

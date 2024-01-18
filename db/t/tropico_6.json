@@ -1611,9 +1611,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7187,
+  "EOS_Progressed": 7188,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16946,6 +16946,11 @@
       "Time": "2024-01-18T07:09:02.985874+00:00",
       "NumProgressed": 7187,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T11:08:44.3400524+00:00",
+      "NumProgressed": 7188,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17053,7 +17058,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3090
+      "UsersEstimate": 3091
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17189,7 +17194,7 @@
       "Name": "Survivor",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -17213,7 +17218,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17229,7 +17234,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2515
+      "UsersEstimate": 2516
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17276,15 +17281,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7187,
+      "Progressed": 7188,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-17T10:01:51.1088644+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:09:12.3738896+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:08:44.3400517+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:39.483881+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:09:12.3739793+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:05.3092888+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:08:44.3401383+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.40 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 62.00% | ~215,182 |
-| Destroyer-In-Chief | 56.00% | ~194,358 |
-| There Is No Pancakes | 52.00% | ~180,475 |
-| First of Many | 41.00% | ~142,297 |
-| Woah. | 36.00% | ~124,944 |
-| Don't Look Down | 28.00% | ~97,179 |
-| Don't Panic | 27.00% | ~93,708 |
-| Ooo A Piece of Candy! | 22.00% | ~76,355 |
-| Ghost in the Machine | 17.00% | ~59,001 |
-| All Too Easy | 15.00% | ~52,060 |
-| Didn't Need to See Him Naked | 13.00% | ~45,119 |
-| Indomitable | 10.00% | ~34,707 |
-| Bow to the Boss! | 9.00% | ~31,236 |
-| About Time! | 8.00% | ~27,765 |
-| Blast from the Past | 8.00% | ~27,765 |
-| Friend of the Raptors | 8.00% | ~27,765 |
-| Betrayed | 7.00% | ~24,295 |
-| Maximum Stopping Power | 7.00% | ~24,295 |
-| Actor-Turned-Politician | 6.00% | ~20,824 |
-| Keymaster | 6.00% | ~20,824 |
-| Poodle Skirt | 6.00% | ~20,824 |
-| You Chose... Poorly | 6.00% | ~20,824 |
-| Double Team | 5.00% | ~17,353 |
-| Imperator | 5.00% | ~17,353 |
+| Zero Saints Thirty | 62.00% | ~215,190 |
+| Destroyer-In-Chief | 56.00% | ~194,365 |
+| There Is No Pancakes | 52.00% | ~180,482 |
+| First of Many | 41.00% | ~142,303 |
+| Woah. | 36.00% | ~124,949 |
+| Don't Look Down | 28.00% | ~97,182 |
+| Don't Panic | 27.00% | ~93,712 |
+| Ooo A Piece of Candy! | 22.00% | ~76,358 |
+| Ghost in the Machine | 17.00% | ~59,004 |
+| All Too Easy | 15.00% | ~52,062 |
+| Didn't Need to See Him Naked | 13.00% | ~45,120 |
+| Indomitable | 10.00% | ~34,708 |
+| Bow to the Boss! | 9.00% | ~31,237 |
+| About Time! | 8.00% | ~27,766 |
+| Blast from the Past | 8.00% | ~27,766 |
+| Friend of the Raptors | 8.00% | ~27,766 |
+| Betrayed | 7.00% | ~24,296 |
+| Maximum Stopping Power | 7.00% | ~24,296 |
+| Actor-Turned-Politician | 6.00% | ~20,825 |
+| Keymaster | 6.00% | ~20,825 |
+| Poodle Skirt | 6.00% | ~20,825 |
+| You Chose... Poorly | 6.00% | ~20,825 |
+| Double Team | 5.00% | ~17,354 |
+| Imperator | 5.00% | ~17,354 |
 | *BEEP* YOU, CLAWZ! | 4.00% | ~13,883 |
 | Half Way Home | 4.00% | ~13,883 |
 | Machine Man | 4.00% | ~13,883 |
@@ -42,13 +42,13 @@ Rating: 4.40 (Ranked 771)
 | Paranormal Bromance | 3.00% | ~10,412 |
 | Saints & Sensibility | 3.00% | ~10,412 |
 | The Two Shaundis | 3.00% | ~10,412 |
-| Benjamin [CENSORED] King | 2.00% | ~6,941 |
-| Better This Way | 2.00% | ~6,941 |
-| Bouncin' with an Old Friend | 2.00% | ~6,941 |
-| Our Gift to You | 2.00% | ~6,941 |
-| The Face of the Saints | 2.00% | ~6,941 |
-| The Twin Saints | 2.00% | ~6,941 |
-| Where's My Cape? | 2.00% | ~6,941 |
+| Benjamin [CENSORED] King | 2.00% | ~6,942 |
+| Better This Way | 2.00% | ~6,942 |
+| Bouncin' with an Old Friend | 2.00% | ~6,942 |
+| Our Gift to You | 2.00% | ~6,942 |
+| The Face of the Saints | 2.00% | ~6,942 |
+| The Twin Saints | 2.00% | ~6,942 |
+| Where's My Cape? | 2.00% | ~6,942 |
 | A Real Cluster.... | 1.00% | ~3,471 |
 | A Very Genki Holiday | 1.00% | ~3,471 |
 | Here! Catch! | 1.00% | ~3,471 |
@@ -57,8 +57,8 @@ Rating: 4.40 (Ranked 771)
 | The Whole Story | 1.00% | ~3,471 |
 | Make a List, Check it Twice | 0.90% | ~3,124 |
 | Zoo Keeper | 0.90% | ~3,124 |
-| Dear Santa | 0.70% | ~2,429 |
-| Rigging the Race | 0.70% | ~2,429 |
+| Dear Santa | 0.70% | ~2,430 |
+| Rigging the Race | 0.70% | ~2,430 |
 | Back in the Day | 0.60% | ~2,082 |
 | Health Inspector | 0.50% | ~1,735 |
 | Experimental Tech | 0.40% | ~1,388 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 771)
 | Super Power Team Up! | 0.10% | ~347 |
 | Ultimate Hot Potato | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,067 (Ranked 59)  
+Progressed: 347,080 (Ranked 59)  
 Completed: 17 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 17 (0.00%) (Ranked 404)
 | 2024-01-15 | 345,688 | 17 |
 | 2024-01-16 | 346,282 | 17 |
 | 2024-01-17 | 346,867 | 17 |
-| 2024-01-18 | 347,067 | 17 |
+| 2024-01-18 | 347,080 | 17 |
 ## Awards
 Max (Great Boss Battles): 533  (Ranked 222)  
 Sum: 533 (Ranked 334)  

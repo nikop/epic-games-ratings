@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -3592,9 +3592,9 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 630
+      "UsersEstimate": 638
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3655,8 +3655,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:04:40.1992783+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:12.8693691+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.2875868+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:01.4187037+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:04:40.1993348+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:27.7862954+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:12.8694252+00:00"
 }

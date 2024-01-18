@@ -20,21 +20,21 @@
 | Rage | 16.00% | ~13 |
 | She-Wolf | 16.00% | ~13 |
 | Vene, vidi, vici | 15.00% | ~12 |
-| Trial by cold | 14.00% | ~11 |
-| Berkanan Borgia | 13.00% | ~10 |
-| For the greater good | 10.00% | ~8 |
+| Trial by cold | 15.00% | ~12 |
+| Berkanan Borgia | 14.00% | ~11 |
+| For the greater good | 11.00% | ~9 |
 | The champion of the arena | 9.00% | ~7 |
+| Stronger than Gellian steel | 9.00% | ~7 |
 | Punish the Punisher | 9.00% | ~7 |
 | The End | 9.00% | ~7 |
 | Collector | 8.00% | ~6 |
 | Overplay the rogue | 8.00% | ~6 |
-| Stronger than Gellian steel | 8.00% | ~6 |
 | First among Frisians | 6.00% | ~5 |
+| Defeat the bear | 6.00% | ~5 |
 | Protect the Healer! | 6.00% | ~5 |
 | Cunning plan | 6.00% | ~5 |
 | Nothing is settled | 6.00% | ~5 |
 | The best apprentice | 5.00% | ~4 |
-| Defeat the bear | 5.00% | ~4 |
 | By own strength | 5.00% | ~4 |
 | Supplier | 4.00% | ~3 |
 | Deadly strike | 4.00% | ~3 |
@@ -46,11 +46,11 @@
 | By someone else's hands | 3.00% | ~2 |
 | Happily ever after | 3.00% | ~2 |
 | Master of the Way | 1.00% | ~1 |
+| Blood and honour | 1.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
-| Blood and honour | 0.00% | ~0 |
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

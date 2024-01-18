@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 305,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243145,
+  "EOS_Progressed": 243146,
   "EOS_Completed": 308,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32219,6 +32219,11 @@
       "Time": "2024-01-18T10:11:08.5805674+00:00",
       "NumProgressed": 243145,
       "NumCompleted": 308
+    },
+    {
+      "Time": "2024-01-18T11:10:52.5533729+00:00",
+      "NumProgressed": 243146,
+      "NumCompleted": 308
     }
   ],
   "TotalAchievements": 138,
@@ -33214,7 +33219,7 @@
       "Name": "Who Needs Luck?",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
@@ -33326,20 +33331,20 @@
       "Name": "Matching",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243145,
+      "Progressed": 243146,
       "Completed": 308
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4625,
+      "Progressed": 4626,
       "Completed": 428
     }
   ],
@@ -33347,8 +33352,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:11:08.5805672+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:52.5533727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:29.6760081+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:11:08.5808439+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:59:00.2523674+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:52.5536176+00:00"
 }

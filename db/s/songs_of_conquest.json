@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1224,
+  "EOS_Progressed": 1225,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4232,6 +4232,11 @@
       "Time": "2024-01-18T06:10:04.2406746+00:00",
       "NumProgressed": 1224,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T11:10:06.9003711+00:00",
+      "NumProgressed": 1225,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4252,7 +4257,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4484,7 +4489,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "RanaCampaign",
@@ -4508,7 +4513,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4572,7 +4577,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "WielderLevel2",
@@ -4675,15 +4680,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1224,
+      "Progressed": 1225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:25.5649316+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:06.9003706+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:43.6855284+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:25.5649953+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:10.1449874+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:06.9004242+00:00"
 }

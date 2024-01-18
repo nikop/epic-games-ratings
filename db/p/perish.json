@@ -4,7 +4,7 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4008,
+  "EOS_Progressed": 4009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4856,6 +4856,11 @@
       "Time": "2024-01-18T07:05:01.8682308+00:00",
       "NumProgressed": 4008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T11:04:35.1167903+00:00",
+      "NumProgressed": 4009,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -4995,7 +5000,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_M_D1",
@@ -5243,7 +5248,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "ACH_R_A",
@@ -5370,7 +5375,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 4008,
+      "Progressed": 4009,
       "Completed": 0
     }
   ],
@@ -5378,8 +5383,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:05:00.0095286+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:35.1167898+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:29.9445243+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:27.9789321+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:05:00.0095888+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:58.265115+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:35.1168465+00:00"
 }

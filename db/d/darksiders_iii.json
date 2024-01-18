@@ -494,7 +494,7 @@
   ],
   "EOS_Progressed": 636,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2781,9 +2781,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 267
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2917,8 +2917,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:06:13.6782648+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:05:58.6076103+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:02.1335124+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:06:13.6783428+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:28.8160227+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:05:58.6076567+00:00"
 }

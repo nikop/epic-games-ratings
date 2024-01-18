@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
     "PcReleaseDate": "2022-06-28T07:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 424088,
+  "EOS_Progressed": 424114,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9042,
+  "EOS_NewPlayers": 9044,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3871,6 +3871,11 @@
       "Time": "2024-01-18T10:06:23.3741486+00:00",
       "NumProgressed": 424088,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T11:06:08.8793582+00:00",
+      "NumProgressed": 424114,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -3891,7 +3896,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29686
+      "UsersEstimate": 29688
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3915,7 +3920,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97540
+      "UsersEstimate": 97546
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3939,7 +3944,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110263
+      "UsersEstimate": 110270
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3947,7 +3952,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 93299
+      "UsersEstimate": 93305
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3979,7 +3984,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16964
+      "UsersEstimate": 16965
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -3995,7 +4000,7 @@
       "Name": "Barely Alive",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -4043,7 +4048,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38168
+      "UsersEstimate": 38170
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4091,7 +4096,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33927
+      "UsersEstimate": 33929
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4226,7 +4231,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 424088,
+      "Progressed": 424114,
       "Completed": 3
     }
   ],
@@ -4234,8 +4239,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-18T02:27:28.2760744+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:06:23.3741483+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:06:08.8793578+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:04:04.3244856+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:06:23.3741963+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:33.1795113+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:06:08.8794017+00:00"
 }

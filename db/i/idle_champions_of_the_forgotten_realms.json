@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9655,9 +9655,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254520,
+  "EOS_Progressed": 254523,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1203,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40630,6 +40630,11 @@
       "Time": "2024-01-18T10:11:11.214032+00:00",
       "NumProgressed": 254520,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-18T11:10:55.1392016+00:00",
+      "NumProgressed": 254523,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -41255,9 +41260,9 @@
       "ID": "objective_completed_115",
       "SetID": "cc37lbc",
       "Name": "Heavy Burden",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_1152",
@@ -43719,9 +43724,9 @@
       "ID": "objective_completed_690",
       "SetID": "415jc5c",
       "Name": "The Giant\u0027s Bane Tavern",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_691",
@@ -45008,21 +45013,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220794,
+      "Progressed": 220797,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254520,
+      "Progressed": 254523,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-18T07:59:00.741304+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:11:11.2140317+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:55.1392013+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:53.4555433+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:11:11.2162773+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:59:26.3715963+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:55.1414055+00:00"
 }

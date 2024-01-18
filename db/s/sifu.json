@@ -9087,9 +9087,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761556,
+  "EOS_Progressed": 761567,
   "EOS_Completed": 12991,
-  "EOS_NewPlayers": 2264,
+  "EOS_NewPlayers": 2242,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34302,6 +34302,11 @@
       "Time": "2024-01-18T10:10:30.7671408+00:00",
       "NumProgressed": 761556,
       "NumCompleted": 12991
+    },
+    {
+      "Time": "2024-01-18T11:10:12.4470715+00:00",
+      "NumProgressed": 761567,
+      "NumCompleted": 12991
     }
   ],
   "TotalAchievements": 60,
@@ -34313,7 +34318,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45693
+      "UsersEstimate": 45694
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34321,7 +34326,7 @@
       "Name": "The Assault",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30462
+      "UsersEstimate": 30463
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34361,7 +34366,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 6092
+      "UsersEstimate": 6093
     },
     {
       "ID": "08_Wude_H2",
@@ -34503,9 +34508,9 @@
       "ID": "25_ShrineMind",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Mind",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7616
+      "UsersEstimate": 15231
     },
     {
       "ID": "26_ShrineSpirit",
@@ -34792,21 +34797,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70857,
+      "Progressed": 70868,
       "Completed": 10812
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761556,
+      "Progressed": 761567,
       "Completed": 12991
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-18T10:04:05.5001755+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:30.7671405+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:12.4470707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:04:05.500176+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:30.7672625+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:34.4746983+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:12.4472317+00:00"
 }

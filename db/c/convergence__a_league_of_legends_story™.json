@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1337,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4091,6 +4091,11 @@
       "Time": "2024-01-18T08:10:32.0087962+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-18T11:10:49.8148172+00:00",
+      "NumProgressed": 1337,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4134,7 +4139,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4294,15 +4299,15 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "MapCompletion1",
       "SetID": "a9e499d",
       "Name": "Cartographer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 174
+      "UsersEstimate": 160
     },
     {
       "ID": "NoCritterSump",
@@ -4350,7 +4355,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ParryRepeated1",
@@ -4414,7 +4419,7 @@
       "Name": "Golem Chaser",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "SkillCompletion1",
@@ -4430,7 +4435,7 @@
       "Name": "Fast Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "SpeedRun",
@@ -4510,7 +4515,7 @@
       "Name": "The Brass Boss",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4525,7 +4530,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1337,
       "Completed": 8
     }
   ],
@@ -4533,8 +4538,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:11:05.9231068+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:49.8148169+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
   "LastUpdate_Ratings": "2024-01-18T10:01:08.7087202+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:11:05.9231486+00:00"
+  "LastUpdate_Achievements": "2024-01-18T11:10:49.8148744+00:00"
 }

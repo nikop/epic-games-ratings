@@ -42,9 +42,9 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Sabotage | 1.00% | ~39 |
 | Engine Kill | 0.90% | ~35 |
 | Death Comes For All | 0.90% | ~35 |
+| Hands-On Research | 0.80% | ~31 |
 | Harvest No More | 0.80% | ~31 |
 | True Mastery | 0.80% | ~31 |
-| Hands-On Research | 0.70% | ~27 |
 | Exercise in Restraint | 0.70% | ~27 |
 | Strike Force | 0.60% | ~23 |
 | Reign of Confusion | 0.60% | ~23 |

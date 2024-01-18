@@ -1761,9 +1761,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11011,
+  "EOS_Progressed": 11012,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 907,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11911,6 +11911,11 @@
       "Time": "2024-01-18T10:04:53.1926468+00:00",
       "NumProgressed": 11011,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T11:04:27.7715799+00:00",
+      "NumProgressed": 11012,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12019,7 +12024,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6496
+      "UsersEstimate": 6497
     },
     {
       "ID": "achievement_21",
@@ -12083,14 +12088,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11011,
+      "Progressed": 11012,
       "Completed": 0
     }
   ],
@@ -12098,8 +12103,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-18T04:02:54.8864333+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:04:53.1926465+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:27.7715797+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:44.6299685+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:04:53.1927157+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:11.260723+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:27.7716249+00:00"
 }

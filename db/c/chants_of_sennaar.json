@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2850,
+  "EOS_Progressed": 2851,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 7.72,
   "EosHistory": [
@@ -7589,6 +7589,11 @@
       "Time": "2024-01-18T10:05:18.7047918+00:00",
       "NumProgressed": 2850,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2024-01-18T11:04:55.7116874+00:00",
+      "NumProgressed": 2851,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 25,
@@ -7624,7 +7629,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7744,7 +7749,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7760,7 +7765,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1539
+      "UsersEstimate": 1540
     },
     {
       "ID": "PROGRESS_N2",
@@ -7784,7 +7789,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "PROGRESS_N5",
@@ -7799,7 +7804,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2850,
+      "Progressed": 2851,
       "Completed": 220
     }
   ],
@@ -7807,8 +7812,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:05:18.7047915+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:55.7116869+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:02.048429+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:05:18.7048447+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:57:16.3072377+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:55.7117309+00:00"
 }

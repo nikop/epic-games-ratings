@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 295,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1677,9 +1677,9 @@
       "ID": "Ach-level-6",
       "SetID": "2pjo9pi",
       "Name": "Level 6",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach-mytologie",
@@ -1700,8 +1700,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:13.4723804+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:09:53.3977495+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:20.1814623+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:13.4724357+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:57:38.5295996+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:09:53.3977919+00:00"
 }

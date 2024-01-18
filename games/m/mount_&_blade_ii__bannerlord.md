@@ -6,28 +6,28 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,248 |
-| Landlord | 35.00% | ~33,574 |
-| Trained | 30.00% | ~28,778 |
-| Bannerlord | 25.00% | ~23,982 |
-| Lawmaker | 24.00% | ~23,022 |
-| Horde breaker | 21.00% | ~20,144 |
-| The king is pleased | 20.00% | ~19,185 |
-| King Solomon | 18.00% | ~17,267 |
-| Apple of my eye | 17.00% | ~16,307 |
-| This Is Our Land | 17.00% | ~16,307 |
-| Against all odds | 15.00% | ~14,389 |
-| I can do it | 15.00% | ~14,389 |
-| Duelist | 13.00% | ~12,470 |
-| God of the Arena | 12.00% | ~11,511 |
-| Swordbearer | 11.00% | ~10,552 |
+| Lawbringer | 43.00% | ~41,251 |
+| Landlord | 35.00% | ~33,576 |
+| Trained | 30.00% | ~28,780 |
+| Bannerlord | 25.00% | ~23,983 |
+| Lawmaker | 24.00% | ~23,024 |
+| Horde breaker | 21.00% | ~20,146 |
+| The king is pleased | 20.00% | ~19,186 |
+| King Solomon | 18.00% | ~17,268 |
+| Apple of my eye | 17.00% | ~16,308 |
+| This Is Our Land | 17.00% | ~16,308 |
+| Against all odds | 15.00% | ~14,390 |
+| I can do it | 15.00% | ~14,390 |
+| Duelist | 13.00% | ~12,471 |
+| God of the Arena | 12.00% | ~11,512 |
+| Swordbearer | 11.00% | ~10,553 |
 | Dynasty | 10.00% | ~9,593 |
 | I spit on your grave | 10.00% | ~9,593 |
 | What have the Romans ever done for us? | 10.00% | ~9,593 |
-| Butterlord | 9.00% | ~8,633 |
-| Mastery | 8.00% | ~7,674 |
+| Butterlord | 9.00% | ~8,634 |
+| Mastery | 8.00% | ~7,675 |
 | Know your enemy | 7.00% | ~6,715 |
-| My way | 5.00% | ~4,796 |
+| My way | 5.00% | ~4,797 |
 | Crowdfunded | 4.00% | ~3,837 |
 | Crush your enemies | 4.00% | ~3,837 |
 | Veni vidi vici | 4.00% | ~3,837 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,926 (Ranked 103)  
+Progressed: 95,932 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,11 +331,11 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 95,467 | 0 |
 | 2024-01-16 | 95,667 | 0 |
 | 2024-01-17 | 95,878 | 0 |
-| 2024-01-18 | 95,926 | 0 |
+| 2024-01-18 | 95,932 | 0 |
 ## Awards
-Max (Character Customization): 8,121  (Ranked 50)  
+Max (Character Customization): 8,121  (Ranked 51)  
 Sum: 16,825 (Ranked 66)  
-Diff (max vs sum): -16  
+Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,121 |

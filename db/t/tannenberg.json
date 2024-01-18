@@ -3779,9 +3779,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 145729,
+  "EOS_Progressed": 145730,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -34574,6 +34574,11 @@
       "Time": "2024-01-18T10:09:42.3902228+00:00",
       "NumProgressed": 145729,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-18T11:09:18.7672382+00:00",
+      "NumProgressed": 145730,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 67,
@@ -34625,7 +34630,7 @@
       "Name": "Butcher",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17487
+      "UsersEstimate": 17488
     },
     {
       "ID": "TANNENBERG_ACH_CHEEKI_BREEKI",
@@ -34657,7 +34662,7 @@
       "Name": "Comeback",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 119498
+      "UsersEstimate": 119499
     },
     {
       "ID": "TANNENBERG_ACH_CRACK_SHOT",
@@ -34785,7 +34790,7 @@
       "Name": "Hydra",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 52462
+      "UsersEstimate": 52463
     },
     {
       "ID": "TANNENBERG_ACH_IMMOVABLE_OBJECT",
@@ -34793,7 +34798,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 129699
+      "UsersEstimate": 129700
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -34809,7 +34814,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 116583
+      "UsersEstimate": 116584
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -34825,7 +34830,7 @@
       "Name": "Kesselschlacht",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32060
+      "UsersEstimate": 32061
     },
     {
       "ID": "TANNENBERG_ACH_LEAD_HARVEST",
@@ -34865,7 +34870,7 @@
       "Name": "Lucky Shot",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 77236
+      "UsersEstimate": 77237
     },
     {
       "ID": "TANNENBERG_ACH_NA_NOZH",
@@ -34953,7 +34958,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 75779
+      "UsersEstimate": 75780
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -34985,7 +34990,7 @@
       "Name": "Steady Supply",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 87437
+      "UsersEstimate": 87438
     },
     {
       "ID": "TANNENBERG_ACH_STRENGTH_IN_NUMBERS",
@@ -35001,7 +35006,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 51005
+      "UsersEstimate": 51006
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -35009,7 +35014,7 @@
       "Name": "Stronghold Denied",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56834
+      "UsersEstimate": 56835
     },
     {
       "ID": "TANNENBERG_ACH_SWITCH_PLEASE",
@@ -35049,7 +35054,7 @@
       "Name": "This Belongs to Us Now",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 52462
+      "UsersEstimate": 52463
     },
     {
       "ID": "TANNENBERG_ACH_THIS_IS_MY_MACHINE_GUN",
@@ -35089,7 +35094,7 @@
       "Name": "Unlucky",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 102010
+      "UsersEstimate": 102011
     },
     {
       "ID": "TANNENBERG_ACH_WALLHACK",
@@ -35120,15 +35125,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 145729,
+      "Progressed": 145730,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2024-01-12T22:02:29.1609085+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:09:42.3902225+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:09:18.767238+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.1319867+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:00:29.4354105+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:09:42.3904448+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:00:10.1099778+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:09:18.7674024+00:00"
 }

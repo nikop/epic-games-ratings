@@ -1653,9 +1653,9 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "100HEALS",
@@ -2045,8 +2045,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:04:31.6165864+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:04:07.1786636+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:16.7779365+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:04:31.6166228+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:57:34.9712443+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:04:07.1787235+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 355,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -793,9 +793,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4609,
+  "EOS_Progressed": 4612,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12898,6 +12898,11 @@
       "Time": "2024-01-18T05:08:52.9886025+00:00",
       "NumProgressed": 4609,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T11:03:55.15609+00:00",
+      "NumProgressed": 4612,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12925,7 +12930,7 @@
       "Name": "Angel Power",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "arenachallenger",
@@ -12957,7 +12962,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "cauldronliberator",
@@ -12989,7 +12994,7 @@
       "Name": "Crystal Mining",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "dailyquestcompletionist",
@@ -13013,7 +13018,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "dragonmaster",
@@ -13021,7 +13026,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "dragonslayer",
@@ -13061,7 +13066,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "enhancedwarmachines",
@@ -13069,7 +13074,7 @@
       "Name": "Enhanced War Machines",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "enlightenment",
@@ -13077,7 +13082,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "exoticmerchant",
@@ -13085,7 +13090,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "fellowshippower",
@@ -13093,7 +13098,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1936
+      "UsersEstimate": 1937
     },
     {
       "ID": "fourleafclover",
@@ -13117,7 +13122,7 @@
       "Name": "Full Party",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1383
+      "UsersEstimate": 1384
     },
     {
       "ID": "gearenchanting",
@@ -13141,7 +13146,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "herewegoagain",
@@ -13157,7 +13162,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "howdoyouturnthison",
@@ -13165,7 +13170,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "hunter",
@@ -13181,7 +13186,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "jewelenchanting",
@@ -13213,7 +13218,7 @@
       "Name": "Lock And Load",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "masterenchanter",
@@ -13245,7 +13250,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "missionsdedication",
@@ -13253,7 +13258,7 @@
       "Name": "Missions Dedication",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "movinguptheladder",
@@ -13301,7 +13306,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "prestigiousx10",
@@ -13325,7 +13330,7 @@
       "Name": "Sailor",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "scientist",
@@ -13365,7 +13370,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2581
+      "UsersEstimate": 2583
     },
     {
       "ID": "thealchemist",
@@ -13469,7 +13474,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4289
     },
     {
       "ID": "warmachinesarmy",
@@ -13501,14 +13506,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3595
+      "UsersEstimate": 3597
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4609,
+      "Progressed": 4612,
       "Completed": 2
     }
   ],
@@ -13516,8 +13521,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:08:26.4643951+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:03:55.1560885+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:59:06.1877493+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:08:26.4645307+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:58:34.0519021+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:03:55.1563907+00:00"
 }

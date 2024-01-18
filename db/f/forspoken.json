@@ -673,7 +673,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47438,
+  "EOS_Progressed": 47439,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 0,
@@ -19198,6 +19198,11 @@
       "Time": "2024-01-18T09:05:05.2955846+00:00",
       "NumProgressed": 47438,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T11:05:29.0546299+00:00",
+      "NumProgressed": 47439,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19361,7 +19366,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4269
+      "UsersEstimate": 4270
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19632,22 +19637,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47438,
+      "Progressed": 47439,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12275,
-      "Completed": 12275
+      "Progressed": 12276,
+      "Completed": 12276
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:05:47.4677892+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:05:29.0546294+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:58.9788752+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:05:47.4679548+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:27.8806455+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:05:29.0547627+00:00"
 }

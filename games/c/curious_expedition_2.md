@@ -42,12 +42,12 @@ Number of Ratings: 20  (23.09.2022)
 | Under the Table | 11.00% | ~48 |
 | It's Complicated | 10.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~39 |
+| SCHMETTERLING | 8.00% | ~35 |
 | No Laughing Matter | 8.00% | ~35 |
 | The Great Library | 8.00% | ~35 |
 | Level Up | 8.00% | ~35 |
 | Errand Runner | 8.00% | ~35 |
 | Zookeeper | 7.00% | ~30 |
-| SCHMETTERLING | 7.00% | ~30 |
 | The Workshop | 6.00% | ~26 |
 | Islander Understanding | 5.00% | ~22 |
 | A Paris Sunset | 5.00% | ~22 |

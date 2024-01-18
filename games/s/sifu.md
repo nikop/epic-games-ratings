@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,693 |
+| The Old Grandmaster | 6.00% | ~45,694 |
 | Life is your teacher | 5.00% | ~38,078 |
 | Lightning Hands | 5.00% | ~38,078 |
-| The Assault | 4.00% | ~30,462 |
+| The Assault | 4.00% | ~30,463 |
 | The Hateful Pole Fighter | 3.00% | ~22,847 |
 | Stuntmaster | 3.00% | ~22,847 |
 | Street Fighting | 3.00% | ~22,847 |
@@ -20,6 +20,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lady Wing Chun | 2.00% | ~15,231 |
 | Furious Fists | 2.00% | ~15,231 |
 | Kill Nil | 2.00% | ~15,231 |
+| Qi Gong: Mind | 2.00% | ~15,231 |
 | Qi Gong: Breath | 2.00% | ~15,231 |
 | I know Kung-Fu | 2.00% | ~15,231 |
 | Path of the Prospect | 2.00% | ~15,231 |
@@ -28,10 +29,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 2.00% | ~1,417 |
 | Scareless | 1.00% | ~7,616 |
 | Dance of the Praying Mantis | 1.00% | ~7,616 |
-| Qi Gong: Mind | 1.00% | ~7,616 |
 | Kung-Fu Tussle | 1.00% | ~7,616 |
 | Project Arena | 1.00% | ~709 |
-| Muk Yan Master | 0.80% | ~6,092 |
+| Muk Yan Master | 0.80% | ~6,093 |
 | Fight the way you practice | 0.80% | ~567 |
 | Tiger on Fire | 0.70% | ~5,331 |
 | Source of Flying Daggers | 0.70% | ~5,331 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,556 (Ranked 26)  
+Progressed: 761,567 (Ranked 26)  
 Completed: 12,991 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 12,991 (1.71%) (Ranked 148)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,556 | 12,991 |
+| 2024-01-18 | 761,567 | 12,991 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
 Sum: 12,793 (Ranked 87)  

@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~509 |
 | Wet Feet | 0.20% | ~509 |
 | Hatchlings Underfoot | 0.20% | ~509 |
+| Heavy Burden | 0.20% | ~509 |
 | Vecna Lives! | 0.20% | ~442 |
 | Homecoming | 0.20% | ~509 |
 | The Lost Heir of Omu | 0.20% | ~509 |
@@ -87,6 +88,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~509 |
 | Dinosaur Racing | 0.20% | ~509 |
 | Elturel Has Fallen | 0.20% | ~509 |
+| The Giant's Bane Tavern | 0.20% | ~442 |
 | The Long Haul | 0.20% | ~509 |
 | Lost in the Deep | 0.20% | ~509 |
 | Easily Distracted | 0.20% | ~509 |
@@ -164,7 +166,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Howling Peaks of Yon | 0.10% | ~221 |
 | Strength of Character | 0.10% | ~221 |
 | The Invisible Wizards of Thay | 0.10% | ~221 |
-| Heavy Burden | 0.10% | ~255 |
 | Seeds of Destruction | 0.10% | ~221 |
 | Speeds of Destruction | 0.10% | ~221 |
 | Owlbear Necessities | 0.10% | ~221 |
@@ -421,7 +422,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~221 |
 | Prisoners of Lolth | 0.10% | ~221 |
 | Prisoners of Unknown Choices | 0.10% | ~221 |
-| The Giant's Bane Tavern | 0.10% | ~221 |
 | Rime Bandits | 0.10% | ~221 |
 | Giant-Size Adventure | 0.10% | ~221 |
 | Power of Three | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,520 (Ranked 71)  
+Progressed: 254,523 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,520 | 2,624 |
+| 2024-01-18 | 254,523 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  

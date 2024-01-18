@@ -5,8 +5,8 @@ Rating: 4.21 (Ranked 965)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,345 |
-| The touch of Chaos | 5.00% | ~17,345 |
+| May the Torchbearer light our way | 5.00% | ~17,346 |
+| The touch of Chaos | 5.00% | ~17,346 |
 | A powerful aura was here | 4.00% | ~13,876 |
 | Let's raise the stakes!! | 2.00% | ~6,938 |
 | Rumors are true | 1.00% | ~3,469 |
@@ -23,7 +23,7 @@ Rating: 4.21 (Ranked 965)
 | Counting on you | 0.60% | ~2,081 |
 | This is the end | 0.60% | ~2,081 |
 | We can choose to fight | 0.60% | ~2,081 |
-| I took a risk | 0.50% | ~1,734 |
+| I took a risk | 0.50% | ~1,735 |
 | Their fate is sealed | 0.40% | ~1,388 |
 | Not even from this world | 0.30% | ~1,041 |
 | No damsels in distress | 0.20% | ~694 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 965)
 | Something... unnatural | 0.10% | ~347 |
 | We strike as one | 0.10% | ~347 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 346,895 (Ranked 60)  
+Progressed: 346,911 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 7 (0.00%) (Ranked 404)
 | 2024-01-15 | 345,977 | 7 |
 | 2024-01-16 | 346,386 | 7 |
 | 2024-01-17 | 346,759 | 7 |
-| 2024-01-18 | 346,895 | 7 |
+| 2024-01-18 | 346,911 | 7 |
 ## Awards
 Max (Great Boss Battles): 82  (Ranked 404)  
 Sum: 82 (Ranked 487)  

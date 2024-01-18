@@ -5,16 +5,16 @@ Rating: 4.48 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,020 |
-| Confirming Suspicions | 42.00% | ~1,805 |
-| The Kraken Wakes | 38.00% | ~1,633 |
-| It's Starting to Crack | 35.00% | ~1,504 |
-| Change the Channel | 32.00% | ~1,375 |
-| Lord of War | 31.00% | ~1,332 |
-| Taking it back | 30.00% | ~1,289 |
-| Resourceful | 28.00% | ~1,203 |
-| Target America | 28.00% | ~1,203 |
-| The Kraken Sleeps | 25.00% | ~1,074 |
+| Meeting Resistance | 47.00% | ~2,021 |
+| Confirming Suspicions | 42.00% | ~1,806 |
+| The Kraken Wakes | 38.00% | ~1,634 |
+| It's Starting to Crack | 35.00% | ~1,505 |
+| Change the Channel | 32.00% | ~1,376 |
+| Lord of War | 31.00% | ~1,333 |
+| Taking it back | 30.00% | ~1,290 |
+| Resourceful | 28.00% | ~1,204 |
+| Target America | 28.00% | ~1,204 |
+| The Kraken Sleeps | 25.00% | ~1,075 |
 | Liberté | 24.00% | ~1,032 |
 | Organ Grinder | 24.00% | ~1,032 |
 | As Quiet as a Mouse | 24.00% | ~1,032 |
@@ -37,7 +37,7 @@ Rating: 4.48 (Ranked 658)
 | Precision Is Key | 10.00% | ~430 |
 | My Little Friend | 10.00% | ~430 |
 | Rigged to Blow | 9.00% | ~387 |
-| Herr Today, Gone Tomorrow | 7.00% | ~297 |
+| Herr Today, Gone Tomorrow | 7.00% | ~298 |
 | The Long Game | 6.00% | ~258 |
 | Operation Foxley | 6.00% | ~255 |
 | Strategist | 5.00% | ~215 |
@@ -53,9 +53,9 @@ Rating: 4.48 (Ranked 658)
 | Burn after reading | 3.00% | ~129 |
 | Souvenir hunter | 3.00% | ~129 |
 | Shoot for the Moon | 3.00% | ~129 |
-| If You Go Down To The Woods Today | 3.00% | ~127 |
-| Fight Another Day | 3.00% | ~127 |
-| Shipbreaker | 3.00% | ~127 |
+| If You Go Down To The Woods Today | 3.00% | ~128 |
+| Fight Another Day | 3.00% | ~128 |
+| Shipbreaker | 3.00% | ~128 |
 | Out of Scope | 2.00% | ~86 |
 | Eagle Eyed | 2.00% | ~86 |
 | Up close and personal | 2.00% | ~86 |
@@ -74,10 +74,10 @@ Rating: 4.48 (Ranked 658)
 | Master of Pistols | 0.70% | ~30 |
 | Operation Overlord | 0.70% | ~30 |
 | Master-at-arms | 0.60% | ~26 |
-| Stroll in the Woods | 0.60% | ~25 |
-| Going Overboard | 0.60% | ~25 |
+| Stroll in the Woods | 0.60% | ~26 |
+| Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,298 (Ranked 214)  
+Progressed: 4,299 (Ranked 214)  
 Completed: 11 (0.26%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 11 (0.26%) (Ranked 270)
 | 2024-01-15 | 4,288 | 11 |
 | 2024-01-16 | 4,292 | 11 |
 | 2024-01-17 | 4,295 | 11 |
-| 2024-01-18 | 4,298 | 11 |
+| 2024-01-18 | 4,299 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 532)  
 Sum: 29 (Ranked 550)  

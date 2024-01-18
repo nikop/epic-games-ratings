@@ -7,7 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 2.00% | ~4,863 |
-| Matching | 2.00% | ~92 |
+| Matching | 2.00% | ~93 |
 | Nothing To Lose | 1.00% | ~2,431 |
 | Heavy Hitter | 1.00% | ~2,431 |
 | Delving Deeper | 1.00% | ~2,431 |
@@ -69,7 +69,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Decisions, Decisions | 0.40% | ~973 |
 | Snake Sneak | 0.40% | ~973 |
 | Precious | 0.40% | ~973 |
-| Who Needs Luck? | 0.40% | ~18 |
+| Who Needs Luck? | 0.40% | ~19 |
 | Achievement Hunter | 0.30% | ~729 |
 | Challenge Increases | 0.30% | ~729 |
 | A Long Climb | 0.30% | ~729 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,145 (Ranked 75)  
+Progressed: 243,146 (Ranked 75)  
 Completed: 308 (0.13%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,7 +418,7 @@ Completed: 308 (0.13%) (Ranked 305)
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
 | 2024-01-17 | 243,123 | 308 |
-| 2024-01-18 | 243,145 | 308 |
+| 2024-01-18 | 243,146 | 308 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

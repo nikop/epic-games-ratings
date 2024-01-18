@@ -2,9 +2,9 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -1189,6 +1189,11 @@
       "Time": "2024-01-17T20:04:59.242728+00:00",
       "NumProgressed": 287,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T11:05:52.2325721+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1201,7 +1206,7 @@
       "Name": "Administrator",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1265,7 +1270,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1273,7 +1278,7 @@
       "Name": "A soundly led quest",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -1289,7 +1294,7 @@
       "Name": "The end of the ordeal",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -1329,7 +1334,7 @@
       "Name": "Private Detective",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1377,15 +1382,15 @@
       "Name": "Have you no shame?",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -1399,9 +1404,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1417,7 +1422,7 @@
       "Name": "Raiders of the lost game",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -1465,21 +1470,21 @@
       "Name": "Wrong Dimension",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:06:08.03598+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:05:52.2325718+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:48.6404525+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:06:08.036014+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:16.0296802+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:05:52.2325926+00:00"
 }

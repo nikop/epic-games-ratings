@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,554 |
-| Break A Leg | 9.00% | ~72,499 |
-| Hotel California | 9.00% | ~72,499 |
-| Coup de Grâce | 8.00% | ~64,443 |
-| Hazardous Materials | 8.00% | ~64,443 |
-| Git Gutte! | 7.00% | ~56,388 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,388 |
-| Dr. Reed, I Presume? | 6.00% | ~48,332 |
-| Bookworm | 6.00% | ~48,332 |
-| Friends Like These | 6.00% | ~48,332 |
-| Apex Predator | 6.00% | ~48,332 |
-| Stacking the Deck | 6.00% | ~48,332 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,277 |
-| But Doctor, I am Butcho | 5.00% | ~40,277 |
-| This is My Weapon | 5.00% | ~40,277 |
+| Welcome To Hell-A | 10.00% | ~80,556 |
+| Break A Leg | 9.00% | ~72,500 |
+| Hotel California | 9.00% | ~72,500 |
+| Coup de Grâce | 8.00% | ~64,444 |
+| Hazardous Materials | 8.00% | ~64,444 |
+| Git Gutte! | 7.00% | ~56,389 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,389 |
+| Dr. Reed, I Presume? | 6.00% | ~48,333 |
+| Bookworm | 6.00% | ~48,333 |
+| Friends Like These | 6.00% | ~48,333 |
+| Apex Predator | 6.00% | ~48,333 |
+| Stacking the Deck | 6.00% | ~48,333 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,278 |
+| But Doctor, I am Butcho | 5.00% | ~40,278 |
+| This is My Weapon | 5.00% | ~40,278 |
 | Making Your Mark | 4.00% | ~32,222 |
 | Anger Management | 4.00% | ~32,222 |
 | Perks of the Job | 4.00% | ~32,222 |
@@ -31,11 +31,11 @@ Rating: 4.54 (Ranked 549)
 | A Patton Emerges | 4.00% | ~32,222 |
 | I Am the Resurrection | 4.00% | ~32,222 |
 | Our True Nature | 4.00% | ~32,222 |
-| Whatever It Takes | 4.00% | ~5,243 |
-| Pork Chopped | 4.00% | ~5,243 |
-| Humanity Distilled | 3.00% | ~24,166 |
-| Down with the Sickness | 3.00% | ~24,166 |
-| One of Us | 3.00% | ~3,932 |
+| Whatever It Takes | 4.00% | ~5,244 |
+| Pork Chopped | 4.00% | ~5,244 |
+| Humanity Distilled | 3.00% | ~24,167 |
+| Down with the Sickness | 3.00% | ~24,167 |
+| One of Us | 3.00% | ~3,933 |
 | Smorgasbord | 2.00% | ~16,111 |
 | Not Even My Final Form | 2.00% | ~16,111 |
 | Internet Famous | 2.00% | ~16,111 |
@@ -43,21 +43,21 @@ Rating: 4.54 (Ranked 549)
 | Max Headroom | 2.00% | ~16,111 |
 | Go, Bobcats! | 2.00% | ~16,111 |
 | Rising Star | 2.00% | ~16,111 |
-| Make it So | 1.00% | ~8,055 |
-| LA Influential | 1.00% | ~8,055 |
-| On Safari | 1.00% | ~8,055 |
-| Gore Horse | 1.00% | ~8,055 |
-| Variety is the Spice of Death | 1.00% | ~8,055 |
+| Make it So | 1.00% | ~8,056 |
+| LA Influential | 1.00% | ~8,056 |
+| On Safari | 1.00% | ~8,056 |
+| Gore Horse | 1.00% | ~8,056 |
+| Variety is the Spice of Death | 1.00% | ~8,056 |
 | Sole Survivor | 0.90% | ~7,250 |
 | Sharpest Tool in the Box | 0.90% | ~7,250 |
-| Top That, Tisha! | 0.60% | ~786 |
+| Top That, Tisha! | 0.60% | ~787 |
 | Survival Skills | 0.50% | ~4,028 |
 | Donk! | 0.30% | ~2,417 |
 | Lawn and Order | 0.30% | ~393 |
 | Bucket List | 0.10% | ~806 |
 | Wilhelm | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,539 (Ranked 23)  
+Progressed: 805,555 (Ranked 23)  
 Completed: 2,596 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,14 +330,14 @@ Completed: 2,596 (0.32%) (Ranked 257)
 | 2024-01-15 | 804,269 | 2,590 |
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
-| 2024-01-18 | 805,539 | 2,596 |
+| 2024-01-18 | 805,555 | 2,596 |
 ## Awards
-Max (Great Boss Battles): 10,564  (Ranked 40)  
-Sum: 16,217 (Ranked 70)  
+Max (Great Boss Battles): 10,604  (Ranked 40)  
+Sum: 16,257 (Ranked 70)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 10,564 |
+| This game has Great Boss Battles | 10,604 |
 | This game is Great for Beginners | 819 |
 | This game has Diverse Characters | 781 |
 | This game has Quickly Understood Controls | 736 |
@@ -621,4 +621,4 @@ Diff (max vs sum): -30
 | 2024-01-15 | 4.54 | 10,450 | 16,016 |
 | 2024-01-16 | 4.54 | 10,503 | 16,101 |
 | 2024-01-17 | 4.54 | 10,564 | 16,204 |
-| 2024-01-18 | 4.54 | 10,564 | 16,217 |
+| 2024-01-18 | 4.54 | 10,604 | 16,257 |

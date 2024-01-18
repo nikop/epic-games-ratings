@@ -5,9 +5,9 @@
   "Ranking_Rating": 797,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
@@ -43,9 +43,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2683,6 +2683,11 @@
       "Time": "2024-01-18T06:10:08.2260679+00:00",
       "NumProgressed": 758,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T11:10:11.0802492+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2694,7 +2699,7 @@
       "Name": "Travel Streamer",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2734,7 +2739,7 @@
       "Name": "Youth Magnet",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2782,7 +2787,7 @@
       "Name": "Training Simulation",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2806,7 +2811,7 @@
       "Name": "Beginner Cook",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -2822,7 +2827,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2860,9 +2865,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 493
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2876,9 +2881,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "7pimpda",
       "Name": "Weapon Boost",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 159
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -3030,7 +3035,7 @@
       "Name": "Apostle of Flame",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -3046,14 +3051,14 @@
       "Name": "Handyman",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 3
     }
   ],
@@ -3061,8 +3066,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:10:29.5689182+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:11.0802486+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.6411785+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:58:20.4083106+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:10:29.5689537+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:57:38.9444824+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:11.0802888+00:00"
 }

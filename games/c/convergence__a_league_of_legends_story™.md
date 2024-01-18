@@ -9,20 +9,20 @@ Rating: 4.66 (Ranked 303)
 | Rail Rat | 36.00% | ~481 |
 | The Mysterious Stranger | 35.00% | ~468 |
 | Immaculate Aim | 30.00% | ~401 |
-| The Brass Boss | 29.00% | ~387 |
+| The Brass Boss | 29.00% | ~388 |
 | Time Flies | 28.00% | ~374 |
 | No, Thanks! | 27.00% | ~361 |
 | The Prince in Heels | 27.00% | ~361 |
 | Honest Mistake | 27.00% | ~361 |
 | Immaculate Aim | 27.00% | ~361 |
-| Make Up For Lost Time | 26.00% | ~347 |
-| The Harder They Fall | 26.00% | ~347 |
-| Fast Learner | 26.00% | ~347 |
+| Make Up For Lost Time | 26.00% | ~348 |
+| The Harder They Fall | 26.00% | ~348 |
+| Fast Learner | 26.00% | ~348 |
 | The Steel Shadow | 25.00% | ~334 |
 | Breaking Down Barriers | 24.00% | ~321 |
 | The Wicked Twins | 24.00% | ~321 |
-| Right On Time | 23.00% | ~307 |
-| Golem Chaser | 23.00% | ~307 |
+| Right On Time | 23.00% | ~308 |
+| Golem Chaser | 23.00% | ~308 |
 | Like Clockwork | 22.00% | ~294 |
 | The Betrayer | 22.00% | ~294 |
 | Check Your Pulse | 21.00% | ~281 |
@@ -35,9 +35,9 @@ Rating: 4.66 (Ranked 303)
 | Family Memories | 14.00% | ~187 |
 | Ask Questions Later | 14.00% | ~187 |
 | Chaincrawler Explorer | 13.00% | ~174 |
-| Cartographer | 13.00% | ~174 |
 | Syron for Hope | 13.00% | ~174 |
 | Treasure Trove | 12.00% | ~160 |
+| Cartographer | 12.00% | ~160 |
 | Sump Explorer | 12.00% | ~160 |
 | Factorywood Explorer | 11.00% | ~147 |
 | Theater Explorer | 11.00% | ~147 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 303)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,336 (Ranked 281)  
+Progressed: 1,337 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 8 (0.60%) (Ranked 214)
 | 2024-01-15 | 1,330 | 8 |
 | 2024-01-16 | 1,333 | 8 |
 | 2024-01-17 | 1,335 | 8 |
-| 2024-01-18 | 1,336 | 8 |
+| 2024-01-18 | 1,337 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

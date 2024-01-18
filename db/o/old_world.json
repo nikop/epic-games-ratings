@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2328,9 +2328,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16957,
+  "EOS_Progressed": 16960,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20388,6 +20388,11 @@
       "Time": "2024-01-18T10:11:10.366054+00:00",
       "NumProgressed": 16957,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T11:10:54.4329818+00:00",
+      "NumProgressed": 16960,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21093,9 +21098,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -21181,9 +21186,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -22613,9 +22618,9 @@
       "ID": "ACHIEVEMENT_WIN_1V1",
       "SetID": "9201eeb",
       "Name": "Win a 1-v-1 Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_WIN_FFA",
@@ -22661,9 +22666,9 @@
       "ID": "ACHIEVEMENT_WIN_PLAYBYCLOUD",
       "SetID": "9201eeb",
       "Name": "Win a Play-By-Cloud Game",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_WIN_SINGLEPLAYER",
@@ -23262,21 +23267,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16957,
+      "Progressed": 16960,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16957,
+      "Progressed": 16960,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
-  "LastChanged_Achievements": "2024-01-18T10:11:10.3660538+00:00",
+  "LastChanged_Achievements": "2024-01-18T11:10:54.4329816+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:03:43.8992863+00:00",
-  "LastUpdate_Achievements": "2024-01-18T10:11:10.3671459+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:03:10.3977311+00:00",
+  "LastUpdate_Achievements": "2024-01-18T11:10:54.4339319+00:00"
 }
