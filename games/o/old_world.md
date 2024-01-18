@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~848 |
-| Settler | 5.00% | ~848 |
-| Play a Single Player Game | 5.00% | ~848 |
+| Explorer | 5.00% | ~849 |
+| Settler | 5.00% | ~849 |
+| Play a Single Player Game | 5.00% | ~849 |
 | Intrepid | 4.00% | ~679 |
 | Friendly Family | 4.00% | ~679 |
 | Able | 3.00% | ~509 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
+| Capable | 0.80% | ~136 |
 | Conqueror | 0.80% | ~136 |
 | Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
@@ -104,10 +105,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Double Victory | 0.80% | ~136 |
-| Capable | 0.70% | ~119 |
 | Invincible | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
+| Enlightenment | 0.70% | ~119 |
 | Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
@@ -115,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
 | Kushite Pyramids | 0.70% | ~119 |
+| Jerwan Aqueduct | 0.70% | ~119 |
 | Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
 | Lion | 0.60% | ~102 |
@@ -127,10 +129,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
 | Hittite Paganism | 0.60% | ~102 |
-| Enlightenment | 0.60% | ~102 |
 | Revelation | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
-| Jerwan Aqueduct | 0.60% | ~102 |
 | Royal Library | 0.60% | ~102 |
 | Yazilikaya | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,970 (Ranked 169)  
+Progressed: 16,971 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,970 | 5 |
+| 2024-01-18 | 16,971 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

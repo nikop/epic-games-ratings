@@ -641,9 +641,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 111406,
+  "EOS_Progressed": 111407,
   "EOS_Completed": 1140,
-  "EOS_NewPlayers": 1074,
+  "EOS_NewPlayers": 1064,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -32111,6 +32111,11 @@
       "Time": "2024-01-18T20:11:17.3825841+00:00",
       "NumProgressed": 111406,
       "NumCompleted": 1140
+    },
+    {
+      "Time": "2024-01-18T21:11:47.8637035+00:00",
+      "NumProgressed": 111407,
+      "NumCompleted": 1140
     }
   ],
   "TotalAchievements": 56,
@@ -32202,7 +32207,7 @@
       "Name": "The Scrapper Mask",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "ach_011_merchants_mask",
@@ -32266,7 +32271,7 @@
       "Name": "Shadow Of Neave",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "ach_019_door_rowleys_way",
@@ -32314,7 +32319,7 @@
       "Name": "Fragile Goods",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "ach_025_solve_the_watch",
@@ -32354,7 +32359,7 @@
       "Name": "Glider on the Storm",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "ach_030_collect_glowworm",
@@ -32378,7 +32383,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26737
+      "UsersEstimate": 26738
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -32386,7 +32391,7 @@
       "Name": "Squeeze One Out",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "ach_034_collect_orange_ringed_beetle",
@@ -32450,7 +32455,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26737
+      "UsersEstimate": 26738
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -32498,7 +32503,7 @@
       "Name": "Dune Rider",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8912
+      "UsersEstimate": 8913
     },
     {
       "ID": "ach_048_glide_long_distance",
@@ -32522,7 +32527,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24509
+      "UsersEstimate": 24510
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -32569,15 +32574,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 111406,
+      "Progressed": 111407,
       "Completed": 1140
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-16T05:00:33.2548308+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:11:17.3825838+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:11:47.8637032+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.3687916+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:57:41.3182611+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:11:17.38272+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:57:53.0934024+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:11:47.8638899+00:00"
 }

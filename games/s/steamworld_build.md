@@ -19,11 +19,11 @@
 | Up, Up And Away! | 34.00% | ~92 |
 | Dopa-Miner | 33.00% | ~89 |
 | Whoa! | 31.00% | ~84 |
-| Botropolis | 27.00% | ~73 |
+| Botropolis | 28.00% | ~76 |
 | Steam Powered | 21.00% | ~57 |
 | Manic Mechanic | 20.00% | ~54 |
 | Steaming Rich | 20.00% | ~54 |
-| Room To Spare | 15.00% | ~40 |
+| Room To Spare | 16.00% | ~43 |
 | Click 'Em All | 7.00% | ~19 |
 | Accustomed Customer | 5.00% | ~14 |
 | Real Purdy | 4.00% | ~11 |

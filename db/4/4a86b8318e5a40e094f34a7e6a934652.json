@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 582,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2404,6 +2404,11 @@
       "Time": "2024-01-18T08:04:09.84896+00:00",
       "NumProgressed": 580,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T21:05:46.5922677+00:00",
+      "NumProgressed": 582,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2416,7 +2421,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2424,7 +2429,7 @@
       "Name": "Design Engineer",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "BRING_MARY",
@@ -2432,7 +2437,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 365
+      "UsersEstimate": 367
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2440,7 +2445,7 @@
       "Name": "Amusement Park",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BUY_EVERYTHING_IN_ECOTOMAT",
@@ -2448,7 +2453,7 @@
       "Name": "Empty Shelves",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "CATCH_30_FISH",
@@ -2456,7 +2461,7 @@
       "Name": "Fisherman",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2472,7 +2477,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2480,7 +2485,7 @@
       "Name": "Farmer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "HOUSEWARMING",
@@ -2488,7 +2493,7 @@
       "Name": "A Party to Remember!",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LUNCH_LEECH",
@@ -2496,7 +2501,7 @@
       "Name": "Leech Lunch",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2528,7 +2533,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2536,7 +2541,7 @@
       "Name": "Bridge Builder",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2544,7 +2549,7 @@
       "Name": "Sleepyhead",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "SPEND_2000_COINS",
@@ -2558,9 +2563,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 429
+      "UsersEstimate": 425
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2568,21 +2573,21 @@
       "Name": "Strong Signal",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 582,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:05:12.2469237+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:05:46.5922673+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.7224824+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:57:36.0305091+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:05:12.2469512+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:57:48.0361713+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:05:46.592298+00:00"
 }

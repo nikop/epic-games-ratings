@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6400,
+  "EOS_Progressed": 6401,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13446,6 +13446,11 @@
       "Time": "2024-01-18T19:05:17.003817+00:00",
       "NumProgressed": 6400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T21:05:02.0028061+00:00",
+      "NumProgressed": 6401,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13544,9 +13549,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1728
+      "UsersEstimate": 1664
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13641,15 +13646,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6400,
+      "Progressed": 6401,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:04:26.0360115+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:05:02.0028056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:58:34.6554523+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:04:26.036087+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:58:43.5869744+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:05:02.0028923+00:00"
 }

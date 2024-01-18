@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 90.00% | ~4,023 |
 | Spectre Inductee | 66.00% | ~2,950 |
 | Medal of Exploration I | 56.00% | ~2,503 |
-| Recruit | 52.00% | ~2,324 |
+| Recruit | 53.00% | ~2,369 |
 | Search and Rescue | 51.00% | ~2,280 |
 | Quarian Ally | 49.00% | ~2,190 |
 | Medal of Heroism | 44.00% | ~1,967 |
@@ -49,6 +49,7 @@
 | The Quarian | 23.00% | ~1,028 |
 | The Prodigal | 23.00% | ~1,028 |
 | Galactic Explorer | 23.00% | ~1,028 |
+| Shopaholic | 23.00% | ~1,028 |
 | A Personal Touch | 22.00% | ~983 |
 | Battlemaster | 22.00% | ~983 |
 | Catharsis | 22.00% | ~983 |
@@ -59,7 +60,6 @@
 | Revenge! | 22.00% | ~983 |
 | Heart of Darkness | 22.00% | ~983 |
 | Bringer of War | 22.00% | ~983 |
-| Shopaholic | 22.00% | ~983 |
 | Focused | 21.00% | ~939 |
 | Archivist | 21.00% | ~939 |
 | Treason | 21.00% | ~939 |

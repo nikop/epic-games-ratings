@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1974,
+  "EOS_Progressed": 1975,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5102,6 +5102,11 @@
       "Time": "2024-01-18T19:09:40.7633114+00:00",
       "NumProgressed": 1974,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T21:09:43.4598355+00:00",
+      "NumProgressed": 1975,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5130,7 +5135,7 @@
       "Name": "Out of control",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5186,7 +5191,7 @@
       "Name": "Drift champ",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -5218,7 +5223,7 @@
       "Name": "Shapeshifter",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5242,7 +5247,7 @@
       "Name": "Solo",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -5306,7 +5311,7 @@
       "Name": "The Yeti",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -5362,7 +5367,7 @@
       "Name": "Spendthrift",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -5370,7 +5375,7 @@
       "Name": "Spin the wheel",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5481,20 +5486,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1974,
+      "Progressed": 1975,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1642,
+      "Progressed": 1643,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:09:08.393833+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:09:43.4598351+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:59:08.4812954+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:09:08.3938809+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:59:16.1298473+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:09:43.4598934+00:00"
 }

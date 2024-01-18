@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -581,7 +581,7 @@
   ],
   "EOS_Progressed": 6487,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10255,9 +10255,9 @@
       "ID": "ACH_MISSION_01",
       "SetID": "816efe",
       "Name": "Something Lurks Under The Hills",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3438
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10432,8 +10432,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:03:55.5422611+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:04:30.0794383+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:00:54.8693739+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:03:55.5425484+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:00:56.5411223+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:04:30.0795547+00:00"
 }

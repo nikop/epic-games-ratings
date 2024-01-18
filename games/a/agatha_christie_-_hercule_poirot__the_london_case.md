@@ -25,12 +25,12 @@
 | Ms. Camilla B. Culsham | 35.00% | ~41 |
 | An odd series of events | 34.00% | ~40 |
 | The Apartment | 34.00% | ~40 |
+| Nathaniel Dryden | 32.00% | ~38 |
 | A rude awakening | 31.00% | ~37 |
-| Nathaniel Dryden | 31.00% | ~37 |
 | Bartholomew | 31.00% | ~37 |
+| The Scheme | 30.00% | ~35 |
 | Well-acquainted | 29.00% | ~34 |
 | Anastasia Babanin | 29.00% | ~34 |
-| The Scheme | 29.00% | ~34 |
 | Zakariya Demir | 28.00% | ~33 |
 | Truth from within | 26.00% | ~31 |
 | A curious phrase | 24.00% | ~28 |

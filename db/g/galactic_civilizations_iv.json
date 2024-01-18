@@ -2,13 +2,13 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7561,
+  "EOS_Progressed": 7562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9852,6 +9852,11 @@
       "Time": "2024-01-18T11:10:45.9815013+00:00",
       "NumProgressed": 7561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T21:11:48.5263952+00:00",
+      "NumProgressed": 7562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9869,9 +9874,9 @@
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "Buy_10_Resource",
@@ -9967,7 +9972,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5822
+      "UsersEstimate": 5823
     },
     {
       "ID": "First_Race_Met",
@@ -9975,7 +9980,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     },
     {
       "ID": "First_Ship_Designed",
@@ -9983,7 +9988,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "First_Stream_Travel",
@@ -9999,7 +10004,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5746
+      "UsersEstimate": 5747
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10438,15 +10443,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7561,
+      "Progressed": 7562,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:11:18.1707983+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:11:48.5263949+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:57:03.4019682+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:11:18.1708785+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:57:17.8697949+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:11:48.5264988+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -438,9 +438,9 @@
       "ID": "ACH_LOREMASTER",
       "SetID": "6lg1p1e",
       "Name": "Lore Master",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_MISCHIEVOUS-BREAD",
@@ -589,8 +589,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:09:59.6334727+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:10:32.9095158+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:01:36.4687317+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:09:59.6334959+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:02:45.6628794+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:10:32.909557+00:00"
 }

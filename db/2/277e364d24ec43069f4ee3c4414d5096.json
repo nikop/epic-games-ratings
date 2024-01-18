@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120352,
+  "EOS_Progressed": 120355,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25322,6 +25322,11 @@
       "Time": "2024-01-18T20:11:16.7086127+00:00",
       "NumProgressed": 120352,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-18T21:11:47.100934+00:00",
+      "NumProgressed": 120355,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25341,7 +25346,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92671
+      "UsersEstimate": 92673
     },
     {
       "ID": "EAwards_10",
@@ -25349,7 +25354,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "EAwards_11",
@@ -25357,7 +25362,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32495
+      "UsersEstimate": 32496
     },
     {
       "ID": "EAwards_12",
@@ -25405,7 +25410,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44530
+      "UsersEstimate": 44531
     },
     {
       "ID": "EAwards_18",
@@ -25413,7 +25418,7 @@
       "Name": "You Survived",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "EAwards_19",
@@ -25429,7 +25434,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58972
+      "UsersEstimate": 58974
     },
     {
       "ID": "EAwards_20",
@@ -25477,7 +25482,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 24070
+      "UsersEstimate": 24071
     },
     {
       "ID": "EAwards_26",
@@ -25485,7 +25490,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "EAwards_27",
@@ -25493,7 +25498,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "EAwards_28",
@@ -25517,7 +25522,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24070
+      "UsersEstimate": 24071
     },
     {
       "ID": "EAwards_30",
@@ -25685,7 +25690,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12035
+      "UsersEstimate": 12036
     },
     {
       "ID": "EAwards_6",
@@ -25701,7 +25706,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "EAwards_8",
@@ -25709,7 +25714,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14442
+      "UsersEstimate": 14443
     },
     {
       "ID": "EAwards_9",
@@ -25724,7 +25729,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120352,
+      "Progressed": 120355,
       "Completed": 61
     }
   ],
@@ -25732,8 +25737,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:11:16.7086125+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:11:47.1009337+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:00:27.2486687+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:11:16.7087366+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:00:30.5486731+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:11:47.1010836+00:00"
 }

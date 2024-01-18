@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5050,
+  "EOS_Progressed": 5051,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -13515,6 +13515,11 @@
       "Time": "2024-01-18T19:07:46.3024163+00:00",
       "NumProgressed": 5050,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-18T21:07:24.2943165+00:00",
+      "NumProgressed": 5051,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13550,7 +13555,7 @@
       "Name": "Animals - completed",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_animals_unlocked",
@@ -13558,7 +13563,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "ach_architecture_completed",
@@ -13574,7 +13579,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "ach_bomb",
@@ -13653,7 +13658,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5050,
+      "Progressed": 5051,
       "Completed": 44
     }
   ],
@@ -13661,8 +13666,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:06:54.0929203+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:07:24.2943161+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:01:14.7324328+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:06:54.0930035+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:01:15.0895554+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:07:24.2943991+00:00"
 }

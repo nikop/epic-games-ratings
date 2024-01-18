@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3026,
+  "EOS_Progressed": 3027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8239,6 +8239,11 @@
       "Time": "2024-01-18T20:11:23.2987562+00:00",
       "NumProgressed": 3026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T21:11:53.5640049+00:00",
+      "NumProgressed": 3027,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8281,9 +8286,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_14",
@@ -8475,7 +8480,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "achievement_36",
@@ -8515,7 +8520,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "achievement_40",
@@ -8689,9 +8694,9 @@
       "ID": "achievement_6",
       "SetID": "271ol84",
       "Name": "Great shot, kid!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_60",
@@ -8754,13 +8759,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3026,
+      "Progressed": 3027,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3026,
+      "Progressed": 3027,
       "Completed": 1
     }
   ],
@@ -8768,8 +8773,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:11:23.298756+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:11:53.5640046+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:00:34.3723737+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:11:23.2988347+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:00:37.2054593+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:11:53.5640985+00:00"
 }

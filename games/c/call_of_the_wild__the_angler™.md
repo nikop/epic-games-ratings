@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.22 (Ranked 957)  
+Rating: 4.22 (Ranked 956)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,14 +12,14 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 16.00% | ~1,338 |
 | Scaling up | 15.00% | ~1,254 |
 | I'm on a Boat! | 14.00% | ~1,171 |
-| Ready to Rod and Roll | 12.00% | ~1,003 |
+| Ready to Rod and Roll | 12.00% | ~1,004 |
 | Fish Out of Water | 8.00% | ~669 |
 | Things that go Splash in the Night | 8.00% | ~669 |
 | Goldfish? | 6.00% | ~502 |
 | Going for Gold | 6.00% | ~502 |
 | School's Out for Summer | 5.00% | ~418 |
-| License to Gill | 4.00% | ~334 |
-| I'm Hooked! | 4.00% | ~334 |
+| License to Gill | 4.00% | ~335 |
+| I'm Hooked! | 4.00% | ~335 |
 | Diamond in the Rough | 2.00% | ~167 |
 | More than a Tourist | 1.00% | ~84 |
 | I'm the Captain Now | 1.00% | ~84 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,362 (Ranked 192)  
+Progressed: 8,363 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-15 | 8,339 | 0 |
 | 2024-01-16 | 8,346 | 0 |
 | 2024-01-17 | 8,358 | 0 |
-| 2024-01-18 | 8,362 | 0 |
+| 2024-01-18 | 8,363 | 0 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 214 (Ranked 413)  

@@ -9655,7 +9655,7 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254577,
+  "EOS_Progressed": 254586,
   "EOS_Completed": 2624,
   "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 10,
@@ -40680,6 +40680,11 @@
       "Time": "2024-01-18T20:11:28.3361119+00:00",
       "NumProgressed": 254577,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-18T21:11:59.2907188+00:00",
+      "NumProgressed": 254586,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -41667,7 +41672,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "objective_completed_130",
@@ -41811,7 +41816,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "objective_completed_150",
@@ -42465,9 +42470,9 @@
       "ID": "objective_completed_388",
       "SetID": "cc37lbc",
       "Name": "Flies on the Wall",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_389",
@@ -42905,9 +42910,9 @@
       "ID": "objective_completed_55",
       "SetID": "cc37lbc",
       "Name": "Flying Monkey Skulls of Doom",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 764
     },
     {
       "ID": "objective_completed_550",
@@ -45058,21 +45063,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220851,
+      "Progressed": 220860,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254577,
+      "Progressed": 254586,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-18T07:59:00.741304+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:11:28.3361117+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:11:59.2907185+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:00:25.5210593+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:11:28.3382897+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:00:28.7659175+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:11:59.2929554+00:00"
 }

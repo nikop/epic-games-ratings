@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,7 +709,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474099,
+  "EOS_Progressed": 474101,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
@@ -28954,6 +28954,11 @@
       "Time": "2024-01-18T20:11:23.6483257+00:00",
       "NumProgressed": 474099,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-18T21:11:53.9880446+00:00",
+      "NumProgressed": 474101,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29053,7 +29058,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312905
+      "UsersEstimate": 312907
     },
     {
       "ID": "achievement_story_landa",
@@ -29429,7 +29434,7 @@
       "Name": "The greatest admiral of all time",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2371
     },
     {
       "ID": "achievement_win_run_with_as",
@@ -29596,21 +29601,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18033,
+      "Progressed": 18035,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474099,
+      "Progressed": 474101,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:11:23.6483255+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:11:53.9880443+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:58:18.8394686+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:11:23.6484855+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:58:28.5672046+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:11:53.9882939+00:00"
 }

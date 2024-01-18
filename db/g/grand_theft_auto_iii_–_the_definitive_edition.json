@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 957,
+  "Ranking_Rating": 956,
   "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 179,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -721,11 +721,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12409,
-  "EOS_Completed": 92,
-  "EOS_NewPlayers": 188,
-  "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Progressed": 12412,
+  "EOS_Completed": 93,
+  "EOS_NewPlayers": 187,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -16076,6 +16076,11 @@
       "Time": "2024-01-18T20:05:04.3334906+00:00",
       "NumProgressed": 12409,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2024-01-18T21:05:38.9474353+00:00",
+      "NumProgressed": 12412,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 29,
@@ -16087,7 +16092,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10299
+      "UsersEstimate": 10302
     },
     {
       "ID": "ACH02",
@@ -16095,7 +16100,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "ACH03",
@@ -16111,7 +16116,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4840
+      "UsersEstimate": 4841
     },
     {
       "ID": "ACH05",
@@ -16125,9 +16130,9 @@
       "ID": "ACH06",
       "SetID": "552d41m",
       "Name": "Street Sweeper",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2482
     },
     {
       "ID": "ACH07",
@@ -16207,7 +16212,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "ACH17",
@@ -16215,7 +16220,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1861
+      "UsersEstimate": 1862
     },
     {
       "ID": "ACH18",
@@ -16271,7 +16276,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1613
+      "UsersEstimate": 1614
     },
     {
       "ID": "ACH25",
@@ -16318,16 +16323,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12409,
-      "Completed": 92
+      "Progressed": 12412,
+      "Completed": 93
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:05:04.3334903+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:05:38.9474349+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:59:16.2704825+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:05:04.3335615+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:59:24.4818992+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:05:38.9475242+00:00"
 }

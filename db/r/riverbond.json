@@ -2,7 +2,7 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 37,
@@ -509,9 +509,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535871,
+  "EOS_Progressed": 535872,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29639,6 +29639,11 @@
       "Time": "2024-01-18T20:09:22.2671849+00:00",
       "NumProgressed": 535871,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-18T21:09:56.8023879+00:00",
+      "NumProgressed": 535872,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 57,
@@ -29650,7 +29655,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123250
+      "UsersEstimate": 123251
     },
     {
       "ID": "10",
@@ -29730,7 +29735,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 332240
+      "UsersEstimate": 332241
     },
     {
       "ID": "2",
@@ -29882,7 +29887,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85739
+      "UsersEstimate": 85740
     },
     {
       "ID": "37",
@@ -29978,7 +29983,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 332240
+      "UsersEstimate": 332241
     },
     {
       "ID": "48",
@@ -30034,7 +30039,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123250
+      "UsersEstimate": 123251
     },
     {
       "ID": "54",
@@ -30105,15 +30110,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535871,
+      "Progressed": 535872,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:09:22.2671845+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:09:56.8023875+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:59:36.0198233+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:09:22.2673546+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:59:42.4441702+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:09:56.8025458+00:00"
 }

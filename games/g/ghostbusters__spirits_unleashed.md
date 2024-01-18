@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 618)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 11.00% | ~3,715 |
+| Stylish | 11.00% | ~3,716 |
 | Meticulously Efficient | 9.00% | ~3,040 |
 | Advancement | 8.00% | ~2,702 |
-| Swift Rift Removers | 7.00% | ~2,364 |
+| Swift Rift Removers | 7.00% | ~2,365 |
 | I collect Spores, Molds, and Fungi | 6.00% | ~2,027 |
 | Discovery | 6.00% | ~2,027 |
 | Solo Capture | 6.00% | ~2,027 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 618)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,777 (Ranked 140)  
+Progressed: 33,779 (Ranked 140)  
 Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-15 | 33,702 | 71 |
 | 2024-01-16 | 33,725 | 71 |
 | 2024-01-17 | 33,760 | 71 |
-| 2024-01-18 | 33,777 | 71 |
+| 2024-01-18 | 33,779 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
-Sum: 2,970 (Ranked 188)  
+Sum: 2,972 (Ranked 188)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): 70
 | This game has Competitive Players | 290 |
 | This game is Extremely Fun | 289 |
 | This game is Relaxing | 284 |
-| This game has Amazing Characters | 274 |
+| This game has Amazing Characters | 276 |
 | This game has Quickly Understood Controls | 271 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
@@ -617,4 +617,4 @@ Diff (max vs sum): 70
 | 2024-01-11 | 4.50 | 328 | 2,961 |
 | 2024-01-13 | 4.50 | 328 | 2,965 |
 | 2024-01-16 | 4.50 | 328 | 2,967 |
-| 2024-01-18 | 4.50 | 328 | 2,970 |
+| 2024-01-18 | 4.50 | 328 | 2,972 |

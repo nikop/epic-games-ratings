@@ -10,7 +10,7 @@ Rating: 4.53 (Ranked 568)
 | Snatched Out | 64.00% | ~4,152 |
 | Cleaning Lethe, One Nest At A Time | 58.00% | ~3,762 |
 | Call Me Snake | 54.00% | ~3,503 |
-| Something Lurks Under The Hills | 52.00% | ~3,373 |
+| Something Lurks Under The Hills | 53.00% | ~3,438 |
 | This Was No Papercut | 51.00% | ~3,308 |
 | People Person | 48.00% | ~3,114 |
 | The Shrink Hates Me | 48.00% | ~3,114 |

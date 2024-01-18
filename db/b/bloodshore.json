@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -785,6 +785,11 @@
       "Time": "2024-01-16T20:06:19.8273865+00:00",
       "NumProgressed": 288,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T21:05:28.4803015+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -796,7 +801,7 @@
       "Name": "Bromance",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "comedy_killer",
@@ -812,7 +817,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "deathlooper",
@@ -842,9 +847,9 @@
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -866,9 +871,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "super_seducer",
@@ -900,7 +905,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "tried_to_warn_you",
@@ -931,7 +936,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 6
     }
   ],
@@ -939,8 +944,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:04:53.4304127+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:05:28.4803011+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.7913402+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:03:44.939585+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:04:53.4304492+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:04:17.8192183+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:05:28.4803349+00:00"
 }

@@ -19,8 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,767 |
 | Pure Energy | 0.70% | ~1,782 |
 | Fast Food | 0.70% | ~1,546 |
-| A Persistent Buzzing | 0.60% | ~1,527 |
-| Terror in the Dark | 0.60% | ~1,527 |
+| A Persistent Buzzing | 0.60% | ~1,528 |
+| Terror in the Dark | 0.60% | ~1,528 |
 | Maddening | 0.50% | ~1,273 |
 | Beast Mode | 0.50% | ~1,273 |
 | A Mysterious Summons | 0.50% | ~1,273 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~764 |
 | The Dinner Party | 0.30% | ~764 |
 | A Tale of Two Cities | 0.30% | ~764 |
+| Flying Monkey Skulls of Doom | 0.30% | ~764 |
 | Close Escort | 0.30% | ~764 |
 | Constant Banditry | 0.30% | ~764 |
 | Underdeep Cartography | 0.30% | ~764 |
@@ -79,12 +80,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~509 |
 | The Death Curse | 0.20% | ~509 |
 | Treasure Hunters | 0.20% | ~509 |
+| Flies on the Wall | 0.20% | ~509 |
 | Nimble Escape | 0.20% | ~509 |
 | Fugitives | 0.20% | ~509 |
 | Premature Betrayal | 0.20% | ~509 |
 | Hopelessly Lost | 0.20% | ~509 |
 | The Dead Three | 0.20% | ~509 |
-| Flying Monkey Skulls of Doom | 0.20% | ~509 |
 | Crowded Streets | 0.20% | ~509 |
 | The Darkness Runs Deeper | 0.20% | ~509 |
 | Difficult Terrain | 0.20% | ~509 |
@@ -281,7 +282,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Saurial's Lament | 0.10% | ~255 |
 | A Saurial's Resolve | 0.10% | ~255 |
 | Spirit of the Trickster Gods | 0.10% | ~221 |
-| Flies on the Wall | 0.10% | ~255 |
 | The Killer Mists | 0.10% | ~255 |
 | Class Vacation | 0.10% | ~255 |
 | A Nod from Strahd | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,577 (Ranked 71)  
+Progressed: 254,586 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,577 | 2,624 |
+| 2024-01-18 | 254,586 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  

@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,123 |
+| Malpractice Assurance | 14.00% | ~1,124 |
 | Lost and Found | 9.00% | ~722 |
-| Autodidact | 8.00% | ~10,652 |
+| Autodidact | 8.00% | ~10,653 |
 | This Belongs in a Museum | 7.00% | ~9,321 |
 | Overdue Notice | 7.00% | ~9,321 |
 | This guy... again? | 7.00% | ~562 |
@@ -19,8 +19,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~7,989 |
 | Rush Hour | 6.00% | ~7,989 |
 | To Grandmother's House | 6.00% | ~7,989 |
-| Ploughshares to Swords | 6.00% | ~481 |
-| Bloody Graduation | 6.00% | ~481 |
+| Ploughshares to Swords | 6.00% | ~482 |
+| Bloody Graduation | 6.00% | ~482 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,658 |
 | It Rings a Bell | 5.00% | ~6,658 |
 | Not Today! | 5.00% | ~6,658 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,154 (Ranked 92)  
+Progressed: 133,157 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,154 | 5 |
+| 2024-01-18 | 133,157 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,744 (Ranked 58)  

@@ -1,14 +1,14 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 992)  
+Rating: 4.17 (Ranked 991)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,822 |
-| Worker Specialization | 76.00% | ~5,746 |
-| First Contact | 72.00% | ~5,444 |
+| Colonize a Planet | 77.00% | ~5,823 |
+| Worker Specialization | 76.00% | ~5,747 |
+| First Contact | 72.00% | ~5,445 |
 | Win a Battle | 65.00% | ~4,915 |
 | Anomaly Researcher | 60.00% | ~4,537 |
 | Unleash My Power | 60.00% | ~4,537 |
@@ -16,7 +16,7 @@ Number of Ratings: 429  (23.09.2022)
 | Xenocide | 31.00% | ~2,344 |
 | Design a Civilization | 31.00% | ~2,344 |
 | Commodity Trader | 29.00% | ~2,193 |
-| Design a Ship | 27.00% | ~2,041 |
+| Design a Ship | 27.00% | ~2,042 |
 | Commodity Seller | 24.00% | ~1,815 |
 | Prestige Victory! | 13.00% | ~983 |
 | Galactic War | 10.00% | ~756 |
@@ -51,10 +51,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.50% | ~38 |
 | Recruit a Leader | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
+| Ask Not What Your Empire Can Do For You | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
-| Ask Not What Your Empire Can Do For You | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
 | Hyperspace! | 0.10% | ~8 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,561 (Ranked 198)  
+Progressed: 7,562 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-15 | 7,556 | 0 |
 | 2024-01-16 | 7,557 | 0 |
 | 2024-01-17 | 7,558 | 0 |
-| 2024-01-18 | 7,561 | 0 |
+| 2024-01-18 | 7,562 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 384)  
 Sum: 702 (Ranked 313)  

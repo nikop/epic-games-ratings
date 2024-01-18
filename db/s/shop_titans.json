@@ -8221,7 +8221,7 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 151860,
+  "EOS_Progressed": 151863,
   "EOS_Completed": 359,
   "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 10,
@@ -37231,6 +37231,11 @@
       "Time": "2024-01-18T20:09:56.1049449+00:00",
       "NumProgressed": 151860,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-18T21:10:29.6852319+00:00",
+      "NumProgressed": 151863,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 112,
@@ -37482,7 +37487,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "commonres03",
@@ -37514,7 +37519,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "craft03",
@@ -37546,7 +37551,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "damage02",
@@ -37730,7 +37735,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "gold04",
@@ -37834,7 +37839,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "level03",
@@ -37866,7 +37871,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "loot02",
@@ -37954,7 +37959,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "quest02",
@@ -38114,7 +38119,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6074
+      "UsersEstimate": 6075
     },
     {
       "ID": "workers03",
@@ -38137,15 +38142,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151860,
+      "Progressed": 151863,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-18T17:08:52.8665089+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:09:56.1049448+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:10:29.6852316+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:03:40.3352661+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:09:56.1051627+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:04:13.7598217+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:10:29.6854822+00:00"
 }

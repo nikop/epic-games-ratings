@@ -7,8 +7,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,509 |
-| That's a Grand Army | 0.60% | ~3,007 |
-| Victorious! | 0.60% | ~3,007 |
+| That's a Grand Army | 0.60% | ~3,008 |
+| Victorious! | 0.60% | ~3,008 |
 | That is mine! | 0.50% | ~2,506 |
 | Brothers in Arms | 0.40% | ~2,005 |
 | That's a Grand Navy | 0.40% | ~2,005 |
@@ -18,15 +18,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,504 |
 | It's all about the money | 0.30% | ~1,504 |
 | True Catholic | 0.30% | ~1,504 |
-| Blockader | 0.20% | ~1,002 |
-| Combined Arms | 0.20% | ~1,002 |
-| Double the Love | 0.20% | ~1,002 |
-| It's all about luck | 0.20% | ~1,002 |
-| Respected | 0.20% | ~1,002 |
-| Royal Authority | 0.20% | ~1,002 |
-| The Princess is in this Castle | 0.20% | ~1,002 |
-| Total Control | 0.20% | ~1,002 |
-| Truly Divine Ruler | 0.20% | ~1,002 |
+| Blockader | 0.20% | ~1,003 |
+| Combined Arms | 0.20% | ~1,003 |
+| Double the Love | 0.20% | ~1,003 |
+| It's all about luck | 0.20% | ~1,003 |
+| Respected | 0.20% | ~1,003 |
+| Royal Authority | 0.20% | ~1,003 |
+| The Princess is in this Castle | 0.20% | ~1,003 |
+| Total Control | 0.20% | ~1,003 |
+| Truly Divine Ruler | 0.20% | ~1,003 |
 | The 52 Garhs | 0.10% | ~501 |
 | I don't like sand | 0.10% | ~501 |
 | A Blessed Nation | 0.10% | ~501 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,241 (Ranked 42)  
+Progressed: 501,270 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,241 | 1 |
+| 2024-01-18 | 501,270 | 1 |
 ## Awards
 Max (Educational): 7,890  (Ranked 53)  
 Sum: 65,057 (Ranked 24)  

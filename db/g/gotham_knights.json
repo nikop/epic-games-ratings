@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 977,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5357,9 +5357,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82971,
+  "EOS_Progressed": 82972,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30717,6 +30717,11 @@
       "Time": "2024-01-18T20:06:55.6187547+00:00",
       "NumProgressed": 82971,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T21:07:25.9172262+00:00",
+      "NumProgressed": 82972,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30824,7 +30829,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13275
+      "UsersEstimate": 13276
     },
     {
       "ID": "CLAYFACE_1",
@@ -30968,7 +30973,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15764
+      "UsersEstimate": 15765
     },
     {
       "ID": "FREEZE_3",
@@ -31104,7 +31109,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21572
+      "UsersEstimate": 21573
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31120,7 +31125,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27380
+      "UsersEstimate": 27381
     },
     {
       "ID": "MYSTERY_02",
@@ -31215,13 +31220,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82971,
+      "Progressed": 82972,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53251,
+      "Progressed": 53252,
       "Completed": 2680
     }
   ],
@@ -31229,8 +31234,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T16:57:33.4775999+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:06:55.6187544+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:07:25.9172255+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:57:28.7038247+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:06:55.6189437+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:57:41.0607429+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:07:25.9173844+00:00"
 }

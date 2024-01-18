@@ -1,29 +1,29 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 978)  
+Rating: 4.19 (Ranked 977)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,122 |
-| Battlefields Have Memories | 82.00% | ~2,877 |
-| Enlisted | 75.00% | ~2,631 |
-| Maybe Engage a Little | 70.00% | ~2,456 |
-| No More Names | 54.00% | ~1,894 |
-| Initiate | 41.00% | ~1,438 |
-| Thrada-Kul | 37.00% | ~1,298 |
-| Gravity-Challenged Rocks | 31.00% | ~1,087 |
-| Soldier | 27.00% | ~947 |
-| All the Major Food Groups | 26.00% | ~912 |
-| Socialite | 25.00% | ~877 |
+| Unforeseen | 89.00% | ~3,124 |
+| Battlefields Have Memories | 82.00% | ~2,878 |
+| Enlisted | 75.00% | ~2,632 |
+| Maybe Engage a Little | 70.00% | ~2,457 |
+| No More Names | 54.00% | ~1,895 |
+| Initiate | 41.00% | ~1,439 |
+| Thrada-Kul | 37.00% | ~1,299 |
+| Gravity-Challenged Rocks | 31.00% | ~1,088 |
+| Soldier | 27.00% | ~948 |
+| All the Major Food Groups | 26.00% | ~913 |
+| Socialite | 25.00% | ~878 |
 | Beggars Would Ride | 24.00% | ~842 |
 | Control is an Illusion | 23.00% | ~807 |
 | The Means to Save It | 20.00% | ~702 |
-| Resilience to Sin | 18.00% | ~631 |
-| A Familiar Nest | 18.00% | ~631 |
-| Geas Aristeya | 17.00% | ~596 |
-| Periapt Alizarin | 17.00% | ~596 |
-| A Perfect Cycle | 16.00% | ~561 |
+| Resilience to Sin | 18.00% | ~632 |
+| A Familiar Nest | 18.00% | ~632 |
+| Geas Aristeya | 17.00% | ~597 |
+| Periapt Alizarin | 17.00% | ~597 |
+| A Perfect Cycle | 16.00% | ~562 |
 | Recruit | 15.00% | ~526 |
 | Armsman | 13.00% | ~456 |
 | Lights Army | 11.00% | ~386 |
@@ -32,9 +32,9 @@ Rating: 4.19 (Ranked 978)
 | Best Dressed | 7.00% | ~246 |
 | Periapt Viridian | 7.00% | ~246 |
 | Shroudfane Explorer | 7.00% | ~246 |
-| Kitted Out | 5.00% | ~175 |
-| Armaments Azure | 5.00% | ~175 |
-| Armaments Gules | 5.00% | ~175 |
+| Kitted Out | 5.00% | ~176 |
+| Armaments Azure | 5.00% | ~176 |
+| Armaments Gules | 5.00% | ~176 |
 | Scholar | 4.00% | ~140 |
 | Armaments Vert | 4.00% | ~140 |
 | Veteran | 3.00% | ~105 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 978)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,508 (Ranked 229)  
+Progressed: 3,510 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
-| 2024-01-18 | 3,508 | 5 |
+| 2024-01-18 | 3,510 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

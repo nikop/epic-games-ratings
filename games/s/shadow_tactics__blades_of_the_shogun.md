@@ -6,17 +6,17 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,203 |
-| A thief's beginning | 11.00% | ~24,936 |
-| Thorough | 11.00% | ~24,936 |
-| Disguised | 9.00% | ~20,403 |
-| Rescue Takuma | 9.00% | ~20,403 |
-| Rollin' | 9.00% | ~20,403 |
-| Tanuki Time | 9.00% | ~20,403 |
-| Ice Ice Yuki | 8.00% | ~18,136 |
-| Jonin | 8.00% | ~18,136 |
-| Stoned Ox | 8.00% | ~18,136 |
-| Yabu | 8.00% | ~18,136 |
+| Genin | 12.00% | ~27,205 |
+| A thief's beginning | 11.00% | ~24,938 |
+| Thorough | 11.00% | ~24,938 |
+| Disguised | 9.00% | ~20,404 |
+| Rescue Takuma | 9.00% | ~20,404 |
+| Rollin' | 9.00% | ~20,404 |
+| Tanuki Time | 9.00% | ~20,404 |
+| Ice Ice Yuki | 8.00% | ~18,137 |
+| Jonin | 8.00% | ~18,137 |
+| Stoned Ox | 8.00% | ~18,137 |
+| Yabu | 8.00% | ~18,137 |
 | Happy Planning | 7.00% | ~15,869 |
 | Mugen Unchained | 7.00% | ~15,869 |
 | Chunin | 6.00% | ~13,602 |
@@ -43,7 +43,7 @@ Number of Ratings: 495  (23.09.2022)
 | High Five the Moon | 0.90% | ~2,040 |
 | The Cave | 0.90% | ~2,040 |
 | Time Paradox | 0.60% | ~1,360 |
-| Merciful | 0.50% | ~1,133 |
+| Merciful | 0.50% | ~1,134 |
 | Five Shadows | 0.40% | ~907 |
 | Complete Mastery | 0.20% | ~453 |
 | Praise the Shogun | 0.20% | ~453 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~227 |
 | Release the Kraken | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,695 (Ranked 80)  
+Progressed: 226,707 (Ranked 80)  
 Completed: 108 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 108 (0.05%) (Ranked 344)
 | 2024-01-15 | 226,214 | 107 |
 | 2024-01-16 | 226,388 | 107 |
 | 2024-01-17 | 226,537 | 108 |
-| 2024-01-18 | 226,695 | 108 |
+| 2024-01-18 | 226,707 | 108 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 213)  
 Sum: 4,963 (Ranked 154)  

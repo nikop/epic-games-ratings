@@ -48,9 +48,9 @@ Rating: 4.48 (Ranked 658)
 | Last Resort | 5.00% | ~213 |
 | Siegebreaker | 5.00% | ~213 |
 | Ghost of Falaise | 5.00% | ~213 |
+| Burn after reading | 4.00% | ~172 |
 | Locomotion Commotion | 4.00% | ~172 |
 | From Paris with Love | 3.00% | ~129 |
-| Burn after reading | 3.00% | ~129 |
 | Souvenir hunter | 3.00% | ~129 |
 | Shoot for the Moon | 3.00% | ~129 |
 | If You Go Down To The Woods Today | 3.00% | ~128 |

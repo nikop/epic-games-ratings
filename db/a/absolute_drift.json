@@ -2,13 +2,13 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 709,
+  "Ranking_Rating": 708,
   "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1564437,
+  "EOS_Progressed": 1564451,
   "EOS_Completed": 769,
-  "EOS_NewPlayers": 1384,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31877,6 +31877,11 @@
       "Time": "2024-01-18T20:08:49.1151611+00:00",
       "NumProgressed": 1564437,
       "NumCompleted": 769
+    },
+    {
+      "Time": "2024-01-18T21:09:24.9661817+00:00",
+      "NumProgressed": 1564451,
+      "NumCompleted": 769
     }
   ],
   "TotalAchievements": 20,
@@ -31896,7 +31901,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 109511
+      "UsersEstimate": 109512
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -31920,7 +31925,7 @@
       "Name": "Drift Line Apprentice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 46933
+      "UsersEstimate": 46934
     },
     {
       "ID": "ACH_DRIFT_LINE_MASTER",
@@ -31928,7 +31933,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 12515
+      "UsersEstimate": 12516
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -31936,7 +31941,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 140799
+      "UsersEstimate": 140801
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -31944,7 +31949,7 @@
       "Name": "Hoon Airlines",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 15644
+      "UsersEstimate": 15645
     },
     {
       "ID": "ACH_INSANE_SKILLS",
@@ -31952,7 +31957,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.8,
       "XP": 95,
-      "UsersEstimate": 12515
+      "UsersEstimate": 12516
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -31968,7 +31973,7 @@
       "Name": "Mad Skills",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 46933
+      "UsersEstimate": 46934
     },
     {
       "ID": "ACH_MASTER_DRIFTER",
@@ -31984,7 +31989,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156444
+      "UsersEstimate": 156445
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -32000,7 +32005,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 140799
+      "UsersEstimate": 140801
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -32008,7 +32013,7 @@
       "Name": "Sake Bombs",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15644
+      "UsersEstimate": 15645
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -32032,7 +32037,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 78222
+      "UsersEstimate": 78223
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -32047,15 +32052,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1564437,
+      "Progressed": 1564451,
       "Completed": 769
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:08:49.1151608+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:09:24.9661813+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:09.5781079+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:00:49.8393511+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:08:49.1152921+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:00:52.5815898+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:09:24.9664009+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,7 +306,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 445,
+  "EOS_Progressed": 446,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
@@ -2026,6 +2026,11 @@
       "Time": "2024-01-18T05:10:46.2164399+00:00",
       "NumProgressed": 445,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T21:10:58.5534317+00:00",
+      "NumProgressed": 446,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2036,9 +2041,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2110,7 +2115,7 @@
       "Name": "Cult Following",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2174,7 +2179,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2230,7 +2235,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_KILL_PONSONBY",
@@ -2374,7 +2379,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2389,7 +2394,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 445,
+      "Progressed": 446,
       "Completed": 2
     }
   ],
@@ -2397,8 +2402,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-18T20:10:26.3416663+00:00",
+  "LastChanged_Achievements": "2024-01-18T21:10:58.5534314+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:00:25.5385337+00:00",
-  "LastUpdate_Achievements": "2024-01-18T20:10:26.3417134+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:00:28.8723424+00:00",
+  "LastUpdate_Achievements": "2024-01-18T21:10:58.5534674+00:00"
 }
