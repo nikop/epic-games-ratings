@@ -21,10 +21,10 @@
 | The Apprentice | 7.00% | ~11 |
 | Braving Miasma | 6.00% | ~9 |
 | The Familiar | 6.00% | ~9 |
+| Oracle Mastery | 6.00% | ~9 |
 | No Stone Unturned | 6.00% | ~9 |
 | Ancient Nemesis | 5.00% | ~8 |
-| Oracle Mastery | 5.00% | ~8 |
-| Traveler Mastery | 4.00% | ~6 |
+| Traveler Mastery | 5.00% | ~8 |
 | Warden Mastery | 4.00% | ~6 |
 | The Plot Thickens | 4.00% | ~6 |
 | Raider Mastery | 3.00% | ~4 |

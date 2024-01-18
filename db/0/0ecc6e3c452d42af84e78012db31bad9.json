@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5044,
+  "EOS_Progressed": 5045,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -13490,6 +13490,11 @@
       "Time": "2024-01-18T00:05:50.9892586+00:00",
       "NumProgressed": 5044,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-18T01:53:31.3369753+00:00",
+      "NumProgressed": 5045,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13533,7 +13538,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3884
+      "UsersEstimate": 3885
     },
     {
       "ID": "ach_architecture_completed",
@@ -13597,7 +13602,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3783
+      "UsersEstimate": 3784
     },
     {
       "ID": "ach_magic_wand",
@@ -13605,7 +13610,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "ach_no_boosters",
@@ -13613,7 +13618,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1967
+      "UsersEstimate": 1968
     },
     {
       "ID": "ach_tornado",
@@ -13621,14 +13626,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5044,
+      "Progressed": 5045,
       "Completed": 44
     }
   ],
@@ -13636,8 +13641,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:05:50.9892583+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:53:31.3369749+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:42.786692+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:05:50.9893199+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:30.010802+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:53:31.337052+00:00"
 }

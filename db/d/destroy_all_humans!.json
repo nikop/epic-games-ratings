@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 515,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -2070,6 +2070,11 @@
       "Time": "2024-01-17T22:04:42.2860243+00:00",
       "NumProgressed": 514,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T01:53:06.3903674+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2082,7 +2087,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2138,7 +2143,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -2162,7 +2167,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -2170,7 +2175,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -2178,15 +2183,15 @@
       "Name": "Ouch of Body Experience",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -2202,7 +2207,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -2210,7 +2215,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -2242,7 +2247,7 @@
       "Name": "Kaijuiced",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2250,7 +2255,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2282,7 +2287,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2290,7 +2295,7 @@
       "Name": "Arty Facts",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_INVADE_AREA42",
@@ -2314,7 +2319,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2330,7 +2335,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2338,7 +2343,7 @@
       "Name": "Mash Machine",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_JETPACK_INTODONUT",
@@ -2352,9 +2357,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2378,7 +2383,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2401,15 +2406,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 515,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:05:23.6119323+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:53:06.3903672+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:03:14.0354058+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:05:23.6119899+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:51:07.2941163+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:53:06.3903965+00:00"
 }

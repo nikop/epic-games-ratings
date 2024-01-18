@@ -4,8 +4,8 @@
   "ProductSlug": "metal-commando-ebd5e2",
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2020-11-18T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.2090118+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:58:29.0532714+00:00",
+  "LastUpdate_Ratings": "2024-01-18T01:46:25.7531984+00:00",
   "LastUpdate_Achievements": "2024-01-18T00:07:11.6128239+00:00"
 }

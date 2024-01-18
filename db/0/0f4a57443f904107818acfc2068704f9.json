@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -3553,9 +3553,9 @@
       "ID": "CompleteChapter14",
       "SetID": "52ail55",
       "Name": "For Harkanibus!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 131
     },
     {
       "ID": "CompleteChapter15",
@@ -3760,8 +3760,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:05:14.9441329+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:52:58.2772523+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:59.0840891+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:05:14.9441705+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:43.741192+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:52:58.277296+00:00"
 }

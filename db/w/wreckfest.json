@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -367,7 +367,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -3032,6 +3032,11 @@
       "Time": "2024-01-17T20:09:09.7330619+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T01:57:15.4820207+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3052,15 +3057,15 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "CareerChamp1",
       "SetID": "5hd282c",
       "Name": "Regional Juniors Champion",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 382
     },
     {
       "ID": "CareerChamp2",
@@ -3068,7 +3073,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "CareerChamp3",
@@ -3084,7 +3089,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CareerComplete",
@@ -3100,7 +3105,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "CollectVehiclesA",
@@ -3124,7 +3129,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "GetWreckedA",
@@ -3156,7 +3161,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "PlayerRankB",
@@ -3203,7 +3208,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1193,
       "Completed": 0
     }
   ],
@@ -3211,8 +3216,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:09:31.2285024+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:57:15.4820204+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:57:46.0956079+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:09:31.2285565+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:45:47.5070537+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:57:15.4820511+00:00"
 }

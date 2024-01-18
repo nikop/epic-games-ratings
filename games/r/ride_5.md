@@ -1,22 +1,22 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.59 (Ranked 453)  
+Rating: 4.59 (Ranked 454)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,818 |
+| Eat My Dust | 50.00% | ~1,819 |
 | First Love | 46.00% | ~1,673 |
 | Clean Race | 45.00% | ~1,637 |
 | Hear That Roar! | 43.00% | ~1,564 |
-| Bitter Rivalry | 31.00% | ~1,127 |
-| Rivals to the End | 31.00% | ~1,127 |
+| Bitter Rivalry | 31.00% | ~1,128 |
+| Rivals to the End | 31.00% | ~1,128 |
 | Champagne Spray | 30.00% | ~1,091 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,018 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,019 |
 | Quick Pit Stop | 23.00% | ~837 |
 | Restored and Ready | 21.00% | ~764 |
 | I Want One Too! | 21.00% | ~764 |
-| Legendary!!! | 20.00% | ~727 |
+| Legendary!!! | 20.00% | ~728 |
 | Go-Faster Stripes | 18.00% | ~655 |
 | I'm Here Too! | 15.00% | ~546 |
 | We've Just Begun | 15.00% | ~546 |
@@ -26,9 +26,9 @@ Rating: 4.59 (Ranked 453)
 | Make It Your Own! | 5.00% | ~182 |
 | Cherry Blossom and Temples | 5.00% | ~182 |
 | The Road to Liberty | 5.00% | ~182 |
-| Romantic Races | 4.00% | ~145 |
-| I Make the Rules! | 4.00% | ~145 |
-| My Work Here Is Done | 4.00% | ~145 |
+| Romantic Races | 4.00% | ~146 |
+| I Make the Rules! | 4.00% | ~146 |
+| My Work Here Is Done | 4.00% | ~146 |
 | Spoilt for Choice | 3.00% | ~109 |
 | La Dolce Vita | 3.00% | ~109 |
 | Rounding Off | 3.00% | ~109 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,637 (Ranked 226)  
+Progressed: 3,638 (Ranked 226)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 3,609 | 0 |
 | 2024-01-16 | 3,623 | 0 |
 | 2024-01-17 | 3,636 | 0 |
-| 2024-01-18 | 3,637 | 0 |
+| 2024-01-18 | 3,638 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1781,
+  "EOS_Progressed": 1782,
   "EOS_Completed": 130,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -4499,6 +4499,11 @@
       "Time": "2024-01-18T00:10:36.2923803+00:00",
       "NumProgressed": 1781,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-18T01:58:14.9747797+00:00",
+      "NumProgressed": 1782,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4510,7 +4515,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1710
+      "UsersEstimate": 1711
     },
     {
       "ID": "LEVEL_002",
@@ -4518,7 +4523,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "LEVEL_003",
@@ -4526,7 +4531,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "LEVEL_004",
@@ -4566,7 +4571,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "LEVEL_009",
@@ -4582,7 +4587,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "LEVEL_011",
@@ -4598,7 +4603,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "LEVEL_013",
@@ -4606,7 +4611,7 @@
       "Name": "Higher ground",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "LEVEL_014",
@@ -4694,7 +4699,7 @@
       "Name": "Beach or mountain?",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_025",
@@ -4702,7 +4707,7 @@
       "Name": "A superb resort to enjoy the holidays!",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "LEVEL_026",
@@ -4749,14 +4754,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1781,
+      "Progressed": 1782,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:36.29238+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:14.9747795+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:00:42.8689845+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:36.2924185+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:48:20.7219627+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:14.9748162+00:00"
 }

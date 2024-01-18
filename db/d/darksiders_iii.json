@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2761,9 +2761,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 265
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2841,9 +2841,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 259
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2897,8 +2897,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:05:48.2848127+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:53:28.9865094+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:58:10.5959644+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:05:48.2848683+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:09.4142413+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:53:28.9865572+00:00"
 }

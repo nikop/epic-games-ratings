@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 360,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2324,7 +2324,7 @@
   ],
   "EOS_Progressed": 16953,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 561,
+  "EOS_NewPlayers": 557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21011,9 +21011,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
       "SetID": "9201eeb",
       "Name": "Subjugator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -21379,9 +21379,9 @@
       "ID": "ACHIEVEMENT_GREECE2_SALAMIS_WIN",
       "SetID": "9201eeb",
       "Name": "The Turning Point",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
@@ -22203,9 +22203,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_GREECE",
       "SetID": "7l38kb8",
       "Name": "Greek Paganism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_HITTITE",
@@ -22371,9 +22371,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
       "SetID": "7l38kb8",
       "Name": "Redemption",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
@@ -23179,9 +23179,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ROYAL_LIBRARY",
       "SetID": "9201eeb",
       "Name": "Royal Library",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
@@ -23249,8 +23249,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T20:02:50.9221949+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:49.9666585+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:27.9946464+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:03:16.5832172+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:49.9675962+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:51:10.0623276+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:27.995623+00:00"
 }

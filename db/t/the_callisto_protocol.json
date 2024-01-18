@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2291,9 +2291,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22515,
+  "EOS_Progressed": 22517,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14281,6 +14281,11 @@
       "Time": "2024-01-18T00:10:20.3274438+00:00",
       "NumProgressed": 22515,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-18T01:58:00.7211761+00:00",
+      "NumProgressed": 22517,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14324,7 +14329,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6080
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14356,7 +14361,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14396,7 +14401,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5179
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14420,7 +14425,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4953
+      "UsersEstimate": 4954
     },
     {
       "ID": "KILL_ROBOT",
@@ -14484,7 +14489,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6304
+      "UsersEstimate": 6305
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14500,7 +14505,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3377
+      "UsersEstimate": 3378
     },
     {
       "ID": "STORY_HANGAR",
@@ -14652,7 +14657,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -14667,13 +14672,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22515,
+      "Progressed": 22517,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10441,
+      "Progressed": 10443,
       "Completed": 29
     }
   ],
@@ -14681,8 +14686,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:20.3274433+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:00.7211756+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:03:52.5550662+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:20.3275473+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:51:41.9680661+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:00.7212526+00:00"
 }

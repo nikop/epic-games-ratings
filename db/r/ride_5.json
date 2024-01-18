@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 453,
+  "Ranking_Rating": 454,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3637,
+  "EOS_Progressed": 3638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9035,6 +9035,11 @@
       "Time": "2024-01-18T00:04:57.0438139+00:00",
       "NumProgressed": 3637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T01:52:41.7753176+00:00",
+      "NumProgressed": 3638,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9119,7 +9124,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9135,7 +9140,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9207,7 +9212,7 @@
       "Name": "Romantic Races",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -9271,7 +9276,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -9335,7 +9340,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9343,7 +9348,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9367,7 +9372,7 @@
       "Name": "My Work Here Is Done",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -9399,7 +9404,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9438,7 +9443,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3637,
+      "Progressed": 3638,
       "Completed": 0
     }
   ],
@@ -9446,8 +9451,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:04:57.0438136+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:52:41.7753174+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:58:26.2716449+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:04:57.043892+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:23.3476128+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:52:41.7753885+00:00"
 }

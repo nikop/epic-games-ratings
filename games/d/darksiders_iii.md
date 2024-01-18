@@ -17,11 +17,11 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 47.00% | ~297 |
 | Enhance! | 44.00% | ~278 |
 | One Of the Chosen | 42.00% | ~265 |
+| Throne Potato | 42.00% | ~265 |
 | Five's a Crowd | 42.00% | ~265 |
 | Devil's in the Details | 41.00% | ~259 |
-| Throne Potato | 41.00% | ~259 |
+| 25 to Life | 41.00% | ~259 |
 | Salvation | 40.00% | ~253 |
-| 25 to Life | 40.00% | ~253 |
 | Unshakable Fortitude | 37.00% | ~234 |
 | Soul Harvester | 37.00% | ~234 |
 | I Wanna Rock | 36.00% | ~228 |

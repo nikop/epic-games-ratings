@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 10.00% | ~2,085 |
+| Overgrown Library | 10.00% | ~2,086 |
 | First Real Expedition | 9.00% | ~1,877 |
 | Taking Action | 9.00% | ~1,877 |
 | No Deaths | 9.00% | ~1,877 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,854 (Ranked 156)  
+Progressed: 20,855 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,6 +339,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-15 | 20,812 | 35 |
 | 2024-01-16 | 20,829 | 35 |
 | 2024-01-17 | 20,854 | 35 |
+| 2024-01-18 | 20,855 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 233)  
 Sum: 3,393 (Ranked 179)  

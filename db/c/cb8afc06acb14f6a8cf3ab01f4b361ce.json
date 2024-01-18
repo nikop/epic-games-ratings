@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 346769,
+  "EOS_Progressed": 346804,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2927,
+  "EOS_NewPlayers": 2940,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13779,6 +13779,11 @@
       "Time": "2024-01-18T00:09:31.9292705+00:00",
       "NumProgressed": 346769,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-18T01:57:16.0102301+00:00",
+      "NumProgressed": 346804,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13791,7 +13796,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17338
+      "UsersEstimate": 17340
     },
     {
       "ID": "S02_BRDA",
@@ -13799,7 +13804,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13871
+      "UsersEstimate": 13872
     },
     {
       "ID": "S03_OTWA",
@@ -13831,7 +13836,7 @@
       "Name": "They tricked me",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "S07_INWA",
@@ -13839,7 +13844,7 @@
       "Name": "We need to talk",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "S08_MNSA",
@@ -13927,7 +13932,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17338
+      "UsersEstimate": 17340
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14103,14 +14108,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6935
+      "UsersEstimate": 6936
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 346769,
+      "Progressed": 346804,
       "Completed": 7
     }
   ],
@@ -14118,8 +14123,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:09:31.9292701+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:57:16.0102299+00:00",
   "LastUpdate_AppInfo": "2024-01-12T01:46:06.9563131+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:03:08.9731208+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:09:31.9293797+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:51:02.5700005+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:57:16.0103082+00:00"
 }

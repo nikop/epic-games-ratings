@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -652,9 +652,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "A_AVATAR",
@@ -668,25 +668,25 @@
       "ID": "A_CHAINBOLT",
       "SetID": "324h56e",
       "Name": "Killing Spree",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "A_CHESTS_2",
       "SetID": "324h56e",
       "Name": "Treasure Hunter",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_COMP_HARD",
@@ -740,9 +740,9 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -772,17 +772,17 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
       "SetID": "324h56e",
       "Name": "Massacre",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A_LEGENDARY",
@@ -884,9 +884,9 @@
       "ID": "A_SHIP",
       "SetID": "324h56e",
       "Name": "What\u0027s this?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
@@ -924,9 +924,9 @@
       "ID": "A_TURTLES",
       "SetID": "324h56e",
       "Name": "Turtle Beach",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "A_WASP",
@@ -940,17 +940,17 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "A_WRAITH",
       "SetID": "324h56e",
       "Name": "So Bright It Burns",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -963,8 +963,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:07:01.9395883+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:54:34.3642741+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:44.7982708+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:07:01.9396318+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:31.4109302+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:54:34.3643118+00:00"
 }

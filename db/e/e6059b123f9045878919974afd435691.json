@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1477,
+  "EOS_Progressed": 1478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3934,6 +3934,11 @@
       "Time": "2024-01-17T19:10:38.9911199+00:00",
       "NumProgressed": 1477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T01:58:25.2141129+00:00",
+      "NumProgressed": 1478,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -3945,7 +3950,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1064
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -3969,7 +3974,7 @@
       "Name": "Out Of Stock",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ATKM_ACHIEVEMENT_1",
@@ -4217,7 +4222,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -4337,7 +4342,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4377,7 +4382,7 @@
       "Name": "The Last of Us",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4393,7 +4398,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4472,14 +4477,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1477,
+      "Progressed": 1478,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:47.1847216+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:25.2141127+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.9755264+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:00:17.8363501+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:47.1847829+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:59.6089622+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:25.2142079+00:00"
 }

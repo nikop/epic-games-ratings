@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6393,
+  "EOS_Progressed": 6394,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13421,6 +13421,11 @@
       "Time": "2024-01-18T00:03:58.8826858+00:00",
       "NumProgressed": 6393,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T01:51:48.6728147+00:00",
+      "NumProgressed": 6394,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13457,7 +13462,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -13489,7 +13494,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13545,7 +13550,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13591,9 +13596,9 @@
       "ID": "MF_Ach_TenStepsFromTheGrave",
       "SetID": "9b9n573",
       "Name": "Ten Steps from the Grave",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 959
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13616,15 +13621,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6393,
+      "Progressed": 6394,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:03:58.8826852+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:51:48.6728143+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:57:47.5203783+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:03:58.8828028+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:45:48.7406927+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:51:48.6728987+00:00"
 }

@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Shipwrecked! | 72.00% | ~36 |
-| Sea Legs | 60.00% | ~30 |
-| What?! | 38.00% | ~19 |
+| Sea Legs | 62.00% | ~31 |
+| What?! | 40.00% | ~20 |
 | Frogs Legs | 20.00% | ~10 |
+| Hoist the Sails | 18.00% | ~9 |
 | Mad Scientist | 16.00% | ~8 |
-| Hoist the Sails | 16.00% | ~8 |
 | Secure the Sheets | 16.00% | ~8 |
 | Socialite | 14.00% | ~7 |
 | Hands on the Helm | 12.00% | ~6 |

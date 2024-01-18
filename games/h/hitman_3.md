@@ -6,42 +6,42 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~642,264 |
-| Death From Above | 44.00% | ~614,340 |
-| Master of the Household | 37.00% | ~516,604 |
-| Death of the Party | 35.00% | ~488,679 |
-| NEXUS-47 | 32.00% | ~446,793 |
-| The Last Tango | 31.00% | ~432,830 |
-| Nightmare Fuel | 30.00% | ~418,868 |
-| The Result of Previous Training | 29.00% | ~404,906 |
-| Cleared for Field Duty | 28.00% | ~390,944 |
-| Tools of the Trade | 28.00% | ~390,944 |
-| Seizing the Opportunity | 26.00% | ~363,019 |
-| Bullet Train | 21.00% | ~293,208 |
-| Stylish Assassin | 20.00% | ~279,245 |
-| Silent Assassin | 14.00% | ~195,472 |
-| Rise Up | 12.00% | ~167,547 |
-| Evil Wine Club | 11.00% | ~153,585 |
-| Console Cowboy | 10.00% | ~139,623 |
-| Last Stop | 10.00% | ~139,623 |
-| A New Profile | 9.00% | ~125,660 |
-| Dune Raider | 8.00% | ~111,698 |
-| Full House | 8.00% | ~111,698 |
-| Train Surfing | 8.00% | ~111,698 |
-| No Stone Unturned | 7.00% | ~97,736 |
+| Unseen Assassin | 46.00% | ~642,271 |
+| Death From Above | 44.00% | ~614,346 |
+| Master of the Household | 37.00% | ~516,609 |
+| Death of the Party | 35.00% | ~488,684 |
+| NEXUS-47 | 32.00% | ~446,797 |
+| The Last Tango | 31.00% | ~432,835 |
+| Nightmare Fuel | 30.00% | ~418,872 |
+| The Result of Previous Training | 29.00% | ~404,910 |
+| Cleared for Field Duty | 28.00% | ~390,947 |
+| Tools of the Trade | 28.00% | ~390,947 |
+| Seizing the Opportunity | 26.00% | ~363,023 |
+| Bullet Train | 21.00% | ~293,211 |
+| Stylish Assassin | 20.00% | ~279,248 |
+| Silent Assassin | 14.00% | ~195,474 |
+| Rise Up | 12.00% | ~167,549 |
+| Evil Wine Club | 11.00% | ~153,587 |
+| Console Cowboy | 10.00% | ~139,624 |
+| Last Stop | 10.00% | ~139,624 |
+| A New Profile | 9.00% | ~125,662 |
+| Dune Raider | 8.00% | ~111,699 |
+| Full House | 8.00% | ~111,699 |
+| Train Surfing | 8.00% | ~111,699 |
+| No Stone Unturned | 7.00% | ~97,737 |
 | Family Feud | 6.00% | ~83,774 |
 | Icebreaker | 6.00% | ~83,774 |
 | Count Down From 47 | 6.00% | ~83,774 |
-| Shortcut Killer | 5.00% | ~69,811 |
-| Followed the Trails | 5.00% | ~69,811 |
-| Last Call | 5.00% | ~69,811 |
-| Rich Harvest | 5.00% | ~69,811 |
-| Treacherous Architecture | 4.00% | ~55,849 |
-| Stair Master | 4.00% | ~55,849 |
-| Upstairs, Downstairs | 4.00% | ~55,849 |
-| The Great Outdoors | 4.00% | ~55,849 |
-| Partied Out | 4.00% | ~55,849 |
-| Surveillance Master | 4.00% | ~55,849 |
+| Shortcut Killer | 5.00% | ~69,812 |
+| Followed the Trails | 5.00% | ~69,812 |
+| Last Call | 5.00% | ~69,812 |
+| Rich Harvest | 5.00% | ~69,812 |
+| Treacherous Architecture | 4.00% | ~55,850 |
+| Stair Master | 4.00% | ~55,850 |
+| Upstairs, Downstairs | 4.00% | ~55,850 |
+| The Great Outdoors | 4.00% | ~55,850 |
+| Partied Out | 4.00% | ~55,850 |
+| Surveillance Master | 4.00% | ~55,850 |
 | Training Escalated | 3.00% | ~41,887 |
 | Warehouse Veteran | 3.00% | ~41,887 |
 | Future Shock | 3.00% | ~41,887 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,962 |
 | The Creative Assassin | 0.70% | ~9,774 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,396,227 (Ranked 9)  
+Progressed: 1,396,241 (Ranked 9)  
 Completed: 2,240 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,16 +327,16 @@ Completed: 2,240 (0.16%) (Ranked 294)
 | 2024-01-15 | 1,395,489 | 2,238 |
 | 2024-01-16 | 1,395,855 | 2,239 |
 | 2024-01-17 | 1,396,219 | 2,240 |
-| 2024-01-18 | 1,396,227 | 2,240 |
+| 2024-01-18 | 1,396,241 | 2,240 |
 ## Awards
 Max (Diverse Characters): 11,472  (Ranked 38)  
-Sum: 77,338 (Ranked 22)  
+Sum: 77,343 (Ranked 22)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 11,472 |
 | This game is Highly Recommended | 10,177 |
-| This game is Extremely Fun | 9,735 |
+| This game is Extremely Fun | 9,740 |
 | This game has Amazing Storytelling | 9,621 |
 | This game has Amazing Characters | 9,483 |
 | This game has a Creative Community | 9,062 |
@@ -732,3 +732,4 @@ Diff (max vs sum): 16
 | 2024-01-15 | 4.77 | - | 11,448 | 77,235 |
 | 2024-01-16 | 4.77 | - | 11,461 | 77,286 |
 | 2024-01-17 | 4.77 | - | 11,472 | 77,338 |
+| 2024-01-18 | 4.77 | - | 11,472 | 77,343 |

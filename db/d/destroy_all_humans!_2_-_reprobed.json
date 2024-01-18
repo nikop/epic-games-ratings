@@ -5,10 +5,10 @@
   "Ranking_Rating": 550,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 535,
-  "Ranking_EOS_Progress": 366,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2016,6 +2016,11 @@
       "Time": "2024-01-17T21:09:29.9832121+00:00",
       "NumProgressed": 443,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T01:57:43.0053041+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2028,7 +2033,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2100,7 +2105,7 @@
       "Name": "Cult Following",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2156,7 +2161,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2164,7 +2169,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2180,7 +2185,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2196,15 +2201,15 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_KILL_KOJIRA",
       "SetID": "4n84pon",
       "Name": "Kaijuiced",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2274,9 +2279,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2364,7 +2369,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2379,7 +2384,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 2
     }
   ],
@@ -2387,8 +2392,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:00.397092+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:57:43.0053039+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:07.2842967+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:00.3971338+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:58.6495644+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:57:43.0053545+00:00"
 }

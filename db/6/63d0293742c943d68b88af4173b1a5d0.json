@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 840,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -2684,6 +2684,11 @@
       "Time": "2024-01-17T23:05:34.8930536+00:00",
       "NumProgressed": 839,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T01:52:43.6419809+00:00",
+      "NumProgressed": 840,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2768,7 +2773,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "Remake_005",
@@ -2919,14 +2924,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 840,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:04:59.0541607+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:52:43.6419805+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:04.3162611+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:04:59.054189+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:56.0839092+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:52:43.6420329+00:00"
 }

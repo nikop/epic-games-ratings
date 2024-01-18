@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -4513,6 +4513,11 @@
       "Time": "2024-01-17T19:10:06.2141029+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-18T01:57:56.0815364+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4525,7 +4530,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_10",
@@ -4565,7 +4570,7 @@
       "Name": "Fusion Conjuror",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "achievement_15",
@@ -4581,7 +4586,7 @@
       "Name": "Distance Devourer",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "achievement_17",
@@ -4589,7 +4594,7 @@
       "Name": "Master of the Skies",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "achievement_18",
@@ -4597,7 +4602,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "achievement_19",
@@ -4629,7 +4634,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_22",
@@ -4653,7 +4658,7 @@
       "Name": "Single Minded",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_25",
@@ -4733,7 +4738,7 @@
       "Name": "Human Believer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_34",
@@ -4765,7 +4770,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "achievement_38",
@@ -4837,7 +4842,7 @@
       "Name": "Helpful Heart",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "achievement_46",
@@ -4877,7 +4882,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "achievement_7",
@@ -4885,7 +4890,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "achievement_8",
@@ -4893,7 +4898,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "achievement_9",
@@ -4908,13 +4913,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:15.1250315+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:57:56.0815362+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:57:47.0822125+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:15.1250905+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:45:48.4646423+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:57:56.0815896+00:00"
 }

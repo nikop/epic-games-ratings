@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 3.00% | ~509 |
 | Pyramids | 3.00% | ~509 |
 | Judaism | 3.00% | ~509 |
+| Greek Paganism | 3.00% | ~509 |
 | Naming Landmarks | 3.00% | ~509 |
 | Trade Caravan | 3.00% | ~509 |
 | Regicide | 2.00% | ~339 |
@@ -55,7 +56,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 2.00% | ~339 |
 | Carthaginian Paganism | 2.00% | ~339 |
 | Egyptian Paganism | 2.00% | ~339 |
-| Greek Paganism | 2.00% | ~339 |
 | Roman Paganism | 2.00% | ~339 |
 | Zoroastrianism | 2.00% | ~339 |
 | Hanging Gardens in Babylon | 1.00% | ~170 |
@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Conqueror | 0.80% | ~136 |
+| Subjugator | 0.80% | ~136 |
 | Landowners | 0.80% | ~136 |
 | Traders | 0.80% | ~136 |
 | Circus Maximus | 0.80% | ~136 |
@@ -104,10 +105,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.70% | ~119 |
 | Invincible | 0.70% | ~119 |
 | Ready | 0.70% | ~119 |
-| Subjugator | 0.70% | ~119 |
 | Riders | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
+| Redemption | 0.70% | ~119 |
 | Cimmerian Archer | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
 | Kushite Pyramids | 0.70% | ~119 |
@@ -124,11 +125,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
 | Gnosticism | 0.60% | ~102 |
-| Redemption | 0.60% | ~102 |
 | Veneration | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
 | Phalangite | 0.60% | ~102 |
 | Jerwan Aqueduct | 0.60% | ~102 |
+| Royal Library | 0.60% | ~102 |
 | Clerics | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
-| Royal Library | 0.50% | ~85 |
 | Yazilikaya | 0.50% | ~85 |
 | Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
@@ -166,6 +166,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.20% | ~34 |
 | Run, Pheidippides, Run! | 0.20% | ~34 |
 | Nenikekamen | 0.20% | ~34 |
+| The Turning Point | 0.20% | ~34 |
 | A Good Start | 0.20% | ~34 |
 | Tell the Spartans | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
@@ -228,7 +229,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Defend Where? | 0.10% | ~17 |
 | Get the Hellas Out | 0.10% | ~17 |
 | Not a Chance | 0.10% | ~17 |
-| The Turning Point | 0.10% | ~17 |
 | Like a Lion | 0.10% | ~17 |
 | Still Fighting | 0.10% | ~17 |
 | They Shall Not Pass | 0.10% | ~17 |

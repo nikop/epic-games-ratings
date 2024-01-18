@@ -2,10 +2,10 @@
   "ID": "6c0cf3150f2647858f071175510cfcd4",
   "Name": "Aircraft Carrier Survival",
   "ProductSlug": "aircraft-carrier-survival-769456",
-  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Progress": 665,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 377,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2024-01-17T23:05:32.6292033+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T01:52:42.0931504+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-10T08:04:08.4002593+00:00",
@@ -72,17 +77,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "a48gbka",
       "Name": "Ensign",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 55,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "a48gbka",
       "Name": "Lieutenant Junior Grade",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 55,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -144,9 +149,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "a48gbka",
       "Name": "Lieutenant",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 55,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -160,7 +165,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "a48gbka",
       "Name": "Lieutenant Commander",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -217,13 +222,13 @@
     {
       "ID": "a48gbka",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:04:57.3666623+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:52:42.0931501+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.8316591+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:55.6587017+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:04:57.3666777+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:40.8249455+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:52:42.0931603+00:00"
 }

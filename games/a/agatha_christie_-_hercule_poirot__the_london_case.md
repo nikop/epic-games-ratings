@@ -34,25 +34,25 @@
 | Zakariya Demir | 28.00% | ~33 |
 | Truth from within | 25.00% | ~30 |
 | A curious phrase | 23.00% | ~27 |
-| Evelyn Lakshmi Warbeck | 22.00% | ~26 |
-| The Suspects | 22.00% | ~26 |
-| Horace Mountjoy | 21.00% | ~25 |
-| The Secrets | 21.00% | ~25 |
-| Johan Kristiansen | 20.00% | ~24 |
+| Evelyn Lakshmi Warbeck | 23.00% | ~27 |
+| The Suspects | 23.00% | ~27 |
+| Horace Mountjoy | 22.00% | ~26 |
+| The Secrets | 22.00% | ~26 |
+| Johan Kristiansen | 21.00% | ~25 |
+| Mortimer Ailsworth | 20.00% | ~24 |
+| Well-travelled | 19.00% | ~22 |
 | A peculiar fellow | 19.00% | ~22 |
-| Mortimer Ailsworth | 19.00% | ~22 |
-| Well-travelled | 18.00% | ~21 |
-| Florence Farquhar | 17.00% | ~20 |
-| The Investigation Starts Anew | 17.00% | ~20 |
-| A treasured heirloom | 14.00% | ~17 |
-| The Penitent Magdalene | 14.00% | ~17 |
-| A true performance | 14.00% | ~17 |
-| The Denouement | 13.00% | ~15 |
-| A perilous journey | 13.00% | ~15 |
-| Perkins | 7.00% | ~8 |
+| Florence Farquhar | 18.00% | ~21 |
+| The Investigation Starts Anew | 18.00% | ~21 |
+| A treasured heirloom | 15.00% | ~18 |
+| The Penitent Magdalene | 15.00% | ~18 |
+| A true performance | 15.00% | ~18 |
+| The Denouement | 14.00% | ~17 |
+| A perilous journey | 14.00% | ~17 |
+| Perkins | 8.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 118 (Ranked 488)  
-Completed: 4 (3.39%) (Ranked 104)  
+Completed: 5 (4.24%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -122,3 +122,4 @@ Completed: 4 (3.39%) (Ranked 104)
 | 2024-01-15 | 115 | 3 |
 | 2024-01-16 | 117 | 4 |
 | 2024-01-17 | 118 | 4 |
+| 2024-01-18 | 118 | 5 |

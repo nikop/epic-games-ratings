@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253567,
+  "EOS_Progressed": 253569,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24362,6 +24362,11 @@
       "Time": "2024-01-18T00:10:34.068412+00:00",
       "NumProgressed": 253567,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T01:58:12.8751389+00:00",
+      "NumProgressed": 253569,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24429,7 +24434,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43106
+      "UsersEstimate": 43107
     },
     {
       "ID": "cantBeKeptDown",
@@ -24477,7 +24482,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50713
+      "UsersEstimate": 50714
     },
     {
       "ID": "didYourTime",
@@ -24549,7 +24554,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134391
+      "UsersEstimate": 134392
     },
     {
       "ID": "indegestible",
@@ -24573,7 +24578,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65927
+      "UsersEstimate": 65928
     },
     {
       "ID": "justABit",
@@ -24589,7 +24594,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "lockupLockdown",
@@ -24605,7 +24610,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35499
+      "UsersEstimate": 35500
     },
     {
       "ID": "myFirstRunbow",
@@ -24645,7 +24650,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20285
+      "UsersEstimate": 20286
     },
     {
       "ID": "rideTheWave",
@@ -24677,7 +24682,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58320
+      "UsersEstimate": 58321
     },
     {
       "ID": "thunderstruck",
@@ -24740,7 +24745,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253567,
+      "Progressed": 253569,
       "Completed": 6
     }
   ],
@@ -24748,8 +24753,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:34.0684115+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:12.8751386+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:58:40.8474625+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:34.0685372+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:36.0375783+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:12.8752915+00:00"
 }

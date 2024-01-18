@@ -19,8 +19,8 @@ Rating: 4.58 (Ranked 473)
 | Idiot | 25.00% | ~51 |
 | Ferocious wild boars | 24.00% | ~49 |
 | Beast slayer | 21.00% | ~43 |
+| Ogre friend | 21.00% | ~43 |
 | Death of a legend | 20.00% | ~41 |
-| Ogre friend | 20.00% | ~41 |
 | Archaeologist | 19.00% | ~39 |
 | Family man | 18.00% | ~37 |
 | Little hero | 18.00% | ~37 |
@@ -32,10 +32,10 @@ Rating: 4.58 (Ranked 473)
 | Ghost hunter | 15.00% | ~31 |
 | Hard worker | 15.00% | ~31 |
 | Master detective | 15.00% | ~31 |
+| Defender | 13.00% | ~27 |
 | Peacekeeper | 13.00% | ~27 |
-| Defender | 12.00% | ~24 |
+| Workaholic | 12.00% | ~24 |
 | Showdown | 11.00% | ~22 |
-| Workaholic | 11.00% | ~22 |
 | Freedom fighter | 9.00% | ~18 |
 | Titan Lord | 9.00% | ~18 |
 | Safecracker | 9.00% | ~18 |
@@ -47,8 +47,8 @@ Rating: 4.58 (Ranked 473)
 | Moneybags | 5.00% | ~10 |
 | King Midas | 4.00% | ~8 |
 | Rune master | 3.00% | ~6 |
+| Fervent swimmer | 3.00% | ~6 |
 | Big game hunter | 2.00% | ~4 |
-| Fervent swimmer | 2.00% | ~4 |
 | Jester | 2.00% | ~4 |
 | Mage | 1.00% | ~2 |
 | Sharpshooter | 1.00% | ~2 |

@@ -4,8 +4,8 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 459,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 50,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2,
   "EosHistory": [
@@ -450,9 +450,9 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "a29",
@@ -466,9 +466,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "a30",
@@ -530,9 +530,9 @@
       "ID": "a5",
       "SetID": "cdg65ol",
       "Name": "Hoist the Sails",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "a6",
@@ -579,8 +579,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:03:59.5606066+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:51:49.2177137+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.4002798+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:03:36.3191882+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:03:59.5606355+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:51:26.9956808+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:51:49.2177392+00:00"
 }

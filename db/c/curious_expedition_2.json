@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 424,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 431,
+  "EOS_Progressed": 432,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -761,6 +761,11 @@
       "Time": "2024-01-14T11:10:17.5499349+00:00",
       "NumProgressed": 431,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T01:58:23.0657451+00:00",
+      "NumProgressed": 432,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -866,9 +871,9 @@
       "ID": "ach-campaign-finish-easy",
       "SetID": "17ih7ma",
       "Name": "Traveller",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 108
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -906,9 +911,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 229
     },
     {
       "ID": "ach-campaign-story2",
@@ -916,15 +921,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 134
     },
     {
       "ID": "ach-cartography-complete",
@@ -948,7 +953,7 @@
       "Name": "Cartographer",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ach-discover-locations-high",
@@ -964,7 +969,7 @@
       "Name": "Under the Table",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ach-environmentKill",
@@ -1036,7 +1041,7 @@
       "Name": "Taxonomist",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ach-kill-hyenas",
@@ -1044,7 +1049,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-kill-sandworm",
@@ -1084,7 +1089,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -1148,7 +1153,7 @@
       "Name": "From Whence we Came",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ach-promotion",
@@ -1156,7 +1161,7 @@
       "Name": "Level Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-raiseDino",
@@ -1220,7 +1225,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -1236,7 +1241,7 @@
       "Name": "Errand Runner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ach-wearHat",
@@ -1251,7 +1256,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 431,
+      "Progressed": 432,
       "Completed": 1
     }
   ],
@@ -1259,8 +1264,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:44.9277192+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:23.0657448+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:14.1481528+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:00:11.6786892+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:44.9277559+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:54.2055643+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:23.0657941+00:00"
 }

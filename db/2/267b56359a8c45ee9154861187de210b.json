@@ -4,8 +4,8 @@
   "ProductSlug": "marble-it-up-ultra-7b5692",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 437,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 436,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -896,9 +896,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "beat_c2a_bronze",
@@ -1399,8 +1399,8 @@
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:04:13.5227998+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:52:01.8215734+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:03.57847+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:57:46.2353301+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:04:13.5228846+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:45:47.6409983+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:52:01.8216577+00:00"
 }

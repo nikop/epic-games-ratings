@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Achievement10",
@@ -602,9 +602,9 @@
       "ID": "Achievement13",
       "SetID": "jf6ho5",
       "Name": "Armor Collector",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement14",
@@ -690,9 +690,9 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement5",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:36.9543222+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:15.6204033+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:57:43.1716829+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:36.9543357+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:45:44.8914509+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:15.6204166+00:00"
 }

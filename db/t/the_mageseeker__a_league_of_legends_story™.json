@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -188,10 +188,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3474,
-  "EOS_Completed": 30,
+  "EOS_Completed": 31,
   "EOS_NewPlayers": 58,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -6617,6 +6617,11 @@
       "Time": "2024-01-17T15:07:08.4560335+00:00",
       "NumProgressed": 3474,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-18T01:54:18.6041699+00:00",
+      "NumProgressed": 3474,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 53,
@@ -7034,9 +7039,9 @@
       "ID": "STB_UNLOCK_ULTIMATE",
       "SetID": "3pe2bac",
       "Name": "Ancient power",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 973
+      "UsersEstimate": 1007
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -7052,15 +7057,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 3474,
-      "Completed": 30
+      "Completed": 31
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:06:44.3532076+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:54:18.6041696+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:58:40.5804622+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:06:44.353286+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:35.8003154+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:54:18.6042259+00:00"
 }

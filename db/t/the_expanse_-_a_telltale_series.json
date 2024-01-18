@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19117,
+  "EOS_Progressed": 19120,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17669,6 +17669,11 @@
       "Time": "2024-01-18T00:06:55.4498496+00:00",
       "NumProgressed": 19117,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T01:54:28.6078722+00:00",
+      "NumProgressed": 19120,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17697,7 +17702,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "12",
@@ -17705,7 +17710,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "13",
@@ -17713,7 +17718,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3632
+      "UsersEstimate": 3633
     },
     {
       "ID": "14",
@@ -17737,7 +17742,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "17",
@@ -17761,7 +17766,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "2",
@@ -17777,7 +17782,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "21",
@@ -17785,7 +17790,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "22",
@@ -17817,7 +17822,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "26",
@@ -17833,7 +17838,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "28",
@@ -17913,7 +17918,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "31",
@@ -17953,29 +17958,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19117,
+      "Progressed": 19120,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5071,
-      "Completed": 1339
+      "Progressed": 5074,
+      "Completed": 1340
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:06:55.4498495+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:54:28.607872+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:00:11.9474343+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:06:55.4499341+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:54.4365642+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:54:28.6079574+00:00"
 }

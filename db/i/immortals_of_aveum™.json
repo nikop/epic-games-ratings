@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3496,
+  "EOS_Progressed": 3497,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5772,6 +5772,11 @@
       "Time": "2024-01-17T23:11:11.4913468+00:00",
       "NumProgressed": 3496,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T01:58:15.8589059+00:00",
+      "NumProgressed": 3497,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5784,7 +5789,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "achievement_10",
@@ -5824,7 +5829,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_15",
@@ -5832,7 +5837,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "achievement_16",
@@ -5840,7 +5845,7 @@
       "Name": "Recruit",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "achievement_17",
@@ -5870,9 +5875,9 @@
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2833
     },
     {
       "ID": "achievement_20",
@@ -5928,7 +5933,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "achievement_36",
@@ -5936,7 +5941,7 @@
       "Name": "Armsman",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_37",
@@ -6016,7 +6021,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "achievement_49",
@@ -6032,7 +6037,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "achievement_50",
@@ -6159,7 +6164,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3496,
+      "Progressed": 3497,
       "Completed": 5
     }
   ],
@@ -6167,8 +6172,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:37.1842622+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:15.8589055+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:00.0273066+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:37.1843212+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:46:52.5116265+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:15.8589536+00:00"
 }

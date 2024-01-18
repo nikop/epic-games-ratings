@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 884,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 428,
+  "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1039,7 +1039,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4467,
+  "EOS_Progressed": 4468,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -8854,6 +8854,11 @@
       "Time": "2024-01-18T00:09:09.1936718+00:00",
       "NumProgressed": 4467,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T01:56:56.3326876+00:00",
+      "NumProgressed": 4468,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8906,7 +8911,7 @@
       "Name": "Dealmaker",
       "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "achievement_15",
@@ -8914,7 +8919,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2412
+      "UsersEstimate": 2413
     },
     {
       "ID": "achievement_16",
@@ -8922,7 +8927,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "achievement_17",
@@ -8994,7 +8999,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "achievement_6",
@@ -9033,7 +9038,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4467,
+      "Progressed": 4468,
       "Completed": 0
     }
   ],
@@ -9041,8 +9046,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-16T15:59:33.7498908+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:09:09.1936714+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:56:56.3326872+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:00:26.7270878+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:09:09.1937177+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:48:07.6091071+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:56:56.3327366+00:00"
 }

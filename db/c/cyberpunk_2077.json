@@ -18620,10 +18620,10 @@
       "Count": 19395
     }
   ],
-  "EOS_Progressed": 1053836,
+  "EOS_Progressed": 1053882,
   "EOS_Completed": 3117,
-  "EOS_NewPlayers": 9399,
-  "EOS_NewCompleters": 50,
+  "EOS_NewPlayers": 9287,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49835,6 +49835,11 @@
       "Time": "2024-01-18T00:09:25.1056968+00:00",
       "NumProgressed": 1053836,
       "NumCompleted": 3117
+    },
+    {
+      "Time": "2024-01-18T01:57:10.1133088+00:00",
+      "NumProgressed": 1053882,
+      "NumCompleted": 3117
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50223,7 +50228,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Easycomeeasygo",
@@ -50247,7 +50252,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Kingofcups",
@@ -50287,7 +50292,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "UltimateSurvivor",
@@ -50311,7 +50316,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "IHateSpider",
@@ -50327,7 +50332,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "KingOfThePentacles",
@@ -50335,7 +50340,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "KingOfTheSwords",
@@ -50343,7 +50348,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "KingOfTheWands",
@@ -50351,7 +50356,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "TheTower",
@@ -50359,7 +50364,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "DirtyWork",
@@ -50367,7 +50372,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "EasyComeEasyGo",
@@ -50375,28 +50380,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1053836,
+      "Progressed": 1053882,
       "Completed": 3117
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 182459,
+      "Progressed": 182505,
       "Completed": 10643
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-17T23:03:55.4793261+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:09:25.1056963+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:57:10.1133084+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T00:03:44.0266329+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:09:25.1058826+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:51:34.0109113+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:57:10.1134849+00:00"
 }

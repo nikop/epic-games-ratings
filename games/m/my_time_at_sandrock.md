@@ -39,7 +39,7 @@ Number of Ratings: 892  (23.09.2022)
 | Got the Flow Back | 73.00% | ~660 |
 | Elementary, My Dear | 72.00% | ~651 |
 | Lifeline Pipeline | 67.00% | ~606 |
-| Sepia Toned Memories | 64.00% | ~579 |
+| Sepia Toned Memories | 65.00% | ~588 |
 | Martle's Dream | 62.00% | ~560 |
 | Anti-Santa | 62.00% | ~560 |
 | Who Ya Gonna Call...? | 62.00% | ~560 |
@@ -50,7 +50,7 @@ Number of Ratings: 892  (23.09.2022)
 | Call Me Fishmael | 56.00% | ~506 |
 | Kind of a Big Deal | 54.00% | ~488 |
 | Just What I Always Wanted! | 53.00% | ~479 |
-| Jewel of the Eufaula | 47.00% | ~425 |
+| Jewel of the Eufaula | 48.00% | ~434 |
 | Sandrunning Speedster | 47.00% | ~425 |
 | Santa In Training | 46.00% | ~416 |
 | My Time Mansion | 43.00% | ~389 |
@@ -152,13 +152,13 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-18 | 904 | 0 |
 ## Awards
 Max (Character Customization): 639  (Ranked 203)  
-Sum: 1,550 (Ranked 246)  
+Sum: 1,551 (Ranked 246)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 639 |
 | This game is Great for Beginners | 132 |
-| This game is Highly Recommended | 102 |
+| This game is Highly Recommended | 103 |
 | This game is Extremely Fun | 97 |
 | This game has Diverse Characters | 93 |
 | This game has Quickly Understood Controls | 92 |
@@ -393,3 +393,4 @@ Diff (max vs sum): -43
 | 2024-01-15 | 4.68 | - | 639 | 1,474 |
 | 2024-01-16 | 4.68 | - | 639 | 1,545 |
 | 2024-01-17 | 4.69 | - | 639 | 1,550 |
+| 2024-01-18 | 4.68 | - | 639 | 1,551 |

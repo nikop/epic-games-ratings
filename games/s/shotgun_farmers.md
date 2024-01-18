@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~309 |
-| First Blood | 64.00% | ~244 |
-| Triple Kill | 63.00% | ~241 |
+| Seeds of War | 81.00% | ~310 |
+| First Blood | 64.00% | ~245 |
+| Triple Kill | 62.00% | ~237 |
 | Aspairagus | 59.00% | ~196 |
 | No Asperascope | 58.00% | ~222 |
 | Survivor | 56.00% | ~186 |
-| Cornivore | 53.00% | ~202 |
-| I Believe I Can Fly | 49.00% | ~187 |
-| No Diggity | 45.00% | ~149 |
-| Early Survivor | 39.00% | ~129 |
+| Cornivore | 53.00% | ~203 |
+| I Believe I Can Fly | 49.00% | ~188 |
+| No Diggity | 44.00% | ~147 |
+| Early Survivor | 39.00% | ~130 |
 | Bouncemato | 31.00% | ~103 |
 | 10K | 28.00% | ~107 |
 | Amateur Survivor | 28.00% | ~93 |
-| 15K | 26.00% | ~99 |
+| 15K | 26.00% | ~100 |
 | Grave Digger | 24.00% | ~80 |
 | Drinking Problem | 22.00% | ~84 |
 | Quick-Draw Pod | 22.00% | ~73 |
-| Pork Chop Express | 20.00% | ~76 |
+| Pork Chop Express | 20.00% | ~77 |
 | Professional Survivor | 19.00% | ~63 |
 | Carrocketeer | 17.00% | ~65 |
 | Getting Started | 16.00% | ~61 |
 | Skin Of Your Teeth | 16.00% | ~61 |
 | This Is My Boomstick | 15.00% | ~50 |
-| Eggtraordinary | 14.00% | ~53 |
-| Oh My Gourd | 14.00% | ~46 |
-| Perfect | 14.00% | ~46 |
-| Summers Here | 12.00% | ~40 |
+| Eggtraordinary | 14.00% | ~54 |
+| Oh My Gourd | 14.00% | ~47 |
+| Perfect | 14.00% | ~47 |
 | Quit Horsin' Around | 11.00% | ~42 |
+| Summers Here | 11.00% | ~37 |
 | Fresh Pancake | 10.00% | ~38 |
 | Quadsparagus | 10.00% | ~33 |
 | Bring Home The Bacon | 9.00% | ~34 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 382 (Ranked 377)  
+Progressed: 383 (Ranked 376)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 380 | 0 |
 | 2024-01-15 | 381 | 0 |
 | 2024-01-16 | 382 | 0 |
+| 2024-01-18 | 383 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

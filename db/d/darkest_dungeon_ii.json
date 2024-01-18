@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10992,9 +10992,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133091,
+  "EOS_Progressed": 133098,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40357,6 +40357,11 @@
       "Time": "2024-01-18T00:10:34.6684317+00:00",
       "NumProgressed": 133091,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T01:58:13.5057949+00:00",
+      "NumProgressed": 133098,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40376,7 +40381,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40496,7 +40501,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9316
+      "UsersEstimate": 9317
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40528,7 +40533,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40568,7 +40573,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40584,7 +40589,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "combat_kill_librarian",
@@ -40592,7 +40597,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9316
+      "UsersEstimate": 9317
     },
     {
       "ID": "combat_kill_pillagers",
@@ -40608,7 +40613,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40664,7 +40669,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -40688,7 +40693,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7985
+      "UsersEstimate": 7986
     },
     {
       "ID": "driving_distance_easy",
@@ -40720,7 +40725,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10647
+      "UsersEstimate": 10648
     },
     {
       "ID": "hero_story_complete_all",
@@ -40904,7 +40909,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "combat_kill_collector",
@@ -40912,7 +40917,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -40968,7 +40973,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -40999,21 +41004,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133091,
+      "Progressed": 133098,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7960,
+      "Progressed": 7967,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-17T23:00:57.1612825+00:00",
-  "LastChanged_Achievements": "2024-01-18T00:10:34.6684314+00:00",
+  "LastChanged_Achievements": "2024-01-18T01:58:13.5057948+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:59:52.5657697+00:00",
-  "LastUpdate_Achievements": "2024-01-18T00:10:34.6686192+00:00"
+  "LastUpdate_Ratings": "2024-01-18T01:47:38.0259073+00:00",
+  "LastUpdate_Achievements": "2024-01-18T01:58:13.5059613+00:00"
 }
