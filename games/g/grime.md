@@ -8,14 +8,14 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,750 |
 | Imprint | 4.00% | ~6,750 |
-| The Hunt | 3.00% | ~5,062 |
-| Ravenous | 3.00% | ~5,062 |
+| The Hunt | 3.00% | ~5,063 |
+| Ravenous | 3.00% | ~5,063 |
 | Weeper | 2.00% | ~3,375 |
-| Harmless | 1.00% | ~1,687 |
-| Silenced Whispers | 1.00% | ~1,687 |
-| Devourer | 1.00% | ~1,687 |
-| Yank | 1.00% | ~1,687 |
-| Sharpened Vessel | 1.00% | ~1,687 |
+| Harmless | 1.00% | ~1,688 |
+| Silenced Whispers | 1.00% | ~1,688 |
+| Devourer | 1.00% | ~1,688 |
+| Yank | 1.00% | ~1,688 |
+| Sharpened Vessel | 1.00% | ~1,688 |
 | Feast | 0.90% | ~1,519 |
 | Scion | 0.80% | ~1,347 |
 | Jawcrab | 0.80% | ~1,350 |
@@ -23,7 +23,7 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.70% | ~1,181 |
 | Glare | 0.70% | ~1,178 |
 | Watcher | 0.70% | ~1,181 |
-| Predator | 0.60% | ~1,012 |
+| Predator | 0.60% | ~1,013 |
 | Assimilation | 0.50% | ~844 |
 | Host | 0.50% | ~842 |
 | Celebration | 0.50% | ~844 |
@@ -38,9 +38,9 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.30% | ~506 |
 | Passage | 0.30% | ~506 |
 | Proportions | 0.30% | ~506 |
-| Bloodhunter | 0.20% | ~337 |
+| Bloodhunter | 0.20% | ~338 |
 | Zygote | 0.20% | ~337 |
-| Kinship | 0.20% | ~337 |
+| Kinship | 0.20% | ~338 |
 | Kin | 0.20% | ~337 |
 | Listen | 0.20% | ~337 |
 | Spiral Heart | 0.10% | ~161 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,746 (Ranked 85)  
+Progressed: 168,755 (Ranked 85)  
 Completed: 461 (0.27%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 461 (0.27%) (Ranked 267)
 | 2024-01-15 | 168,384 | 461 |
 | 2024-01-16 | 168,542 | 461 |
 | 2024-01-17 | 168,696 | 461 |
-| 2024-01-18 | 168,746 | 461 |
+| 2024-01-18 | 168,755 | 461 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 433)  
 Sum: 464 (Ranked 346)  

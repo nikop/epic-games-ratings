@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,119 |
-| Lost and Found | 9.00% | ~719 |
+| Lost and Found | 9.00% | ~720 |
 | Autodidact | 8.00% | ~10,650 |
 | This Belongs in a Museum | 7.00% | ~9,319 |
 | Overdue Notice | 7.00% | ~9,319 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,994 |
 | Hot Air | 3.00% | ~3,994 |
 | Road Trip | 3.00% | ~3,994 |
-| This Looks Familiar | 2.00% | ~2,662 |
-| Ichthyophobic | 2.00% | ~2,662 |
-| No More Mouths to Feed | 2.00% | ~2,662 |
-| Worldly Traveller | 2.00% | ~2,662 |
-| Eyes Up | 2.00% | ~2,662 |
-| Handled | 2.00% | ~2,662 |
-| Body of Work | 2.00% | ~2,662 |
+| This Looks Familiar | 2.00% | ~2,663 |
+| Ichthyophobic | 2.00% | ~2,663 |
+| No More Mouths to Feed | 2.00% | ~2,663 |
+| Worldly Traveller | 2.00% | ~2,663 |
+| Eyes Up | 2.00% | ~2,663 |
+| Handled | 2.00% | ~2,663 |
+| Body of Work | 2.00% | ~2,663 |
 | Clearing the Ledger | 1.00% | ~1,331 |
 | Hat Trick | 1.00% | ~1,331 |
 | Shrine of Reflection | 1.00% | ~1,331 |
@@ -75,7 +75,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eidetic | 0.60% | ~799 |
 | On This Long Road, We Found Redemption | 0.60% | ~48 |
 | Battle Hardened | 0.50% | ~40 |
-| Tears in the Rain | 0.40% | ~532 |
+| Tears in the Rain | 0.40% | ~533 |
 | Maître De La Lame | 0.40% | ~32 |
 | Circle of Life | 0.30% | ~399 |
 | Grand Slam | 0.30% | ~399 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,125 (Ranked 92)  
+Progressed: 133,127 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,125 | 5 |
+| 2024-01-18 | 133,127 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,733 (Ranked 58)  

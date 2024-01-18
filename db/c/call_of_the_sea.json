@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140238,
+  "EOS_Progressed": 140240,
   "EOS_Completed": 1269,
-  "EOS_NewPlayers": 1121,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31585,6 +31585,11 @@
       "Time": "2024-01-18T11:04:25.7375941+00:00",
       "NumProgressed": 140238,
       "NumCompleted": 1269
+    },
+    {
+      "Time": "2024-01-18T12:04:15.7270768+00:00",
+      "NumProgressed": 140240,
+      "NumCompleted": 1269
     }
   ],
   "TotalAchievements": 34,
@@ -31604,7 +31609,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23840
+      "UsersEstimate": 23841
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -31612,7 +31617,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58900
+      "UsersEstimate": 58901
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -31620,7 +31625,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 42071
+      "UsersEstimate": 42072
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -31636,7 +31641,7 @@
       "Name": "I\u0027ll make a note of that...",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12621
+      "UsersEstimate": 12622
     },
     {
       "ID": "ACH_GAME_REPLAY",
@@ -31652,7 +31657,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112190
+      "UsersEstimate": 112192
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31668,7 +31673,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78533
+      "UsersEstimate": 78534
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31684,7 +31689,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 56095
+      "UsersEstimate": 56096
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -31692,7 +31697,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 37864
+      "UsersEstimate": 37865
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -31764,7 +31769,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 37864
+      "UsersEstimate": 37865
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -31867,7 +31872,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140238,
+      "Progressed": 140240,
       "Completed": 1269
     }
   ],
@@ -31875,8 +31880,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:04:25.7375939+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:04:15.7270764+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:59:24.449046+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:04:25.7377226+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:59:22.0461841+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:04:15.7272242+00:00"
 }

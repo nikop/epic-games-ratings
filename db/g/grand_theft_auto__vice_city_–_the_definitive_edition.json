@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16524,
+  "EOS_Progressed": 16525,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -18474,6 +18474,11 @@
       "Time": "2024-01-18T10:10:50.435863+00:00",
       "NumProgressed": 16524,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2024-01-18T12:10:19.0216383+00:00",
+      "NumProgressed": 16525,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 34,
@@ -18573,7 +18578,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH13",
@@ -18589,7 +18594,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "ACH15",
@@ -18645,7 +18650,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7766
+      "UsersEstimate": 7767
     },
     {
       "ID": "ACH22",
@@ -18661,7 +18666,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4461
+      "UsersEstimate": 4462
     },
     {
       "ID": "ACH24",
@@ -18701,7 +18706,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH29",
@@ -18756,7 +18761,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16524,
+      "Progressed": 16525,
       "Completed": 104
     }
   ],
@@ -18764,8 +18769,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:10:32.8186635+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:10:19.021638+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:58:40.6068257+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:10:32.8187437+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:58:41.1083709+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:10:19.0217146+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17368,
+  "EOS_Progressed": 17369,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12614,6 +12614,11 @@
       "Time": "2024-01-18T11:04:05.664428+00:00",
       "NumProgressed": 17368,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-18T12:03:57.6400439+00:00",
+      "NumProgressed": 17369,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12625,7 +12630,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9552
+      "UsersEstimate": 9553
     },
     {
       "ID": "Ach002",
@@ -12633,7 +12638,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "Ach003",
@@ -12689,7 +12694,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "Ach010",
@@ -12737,7 +12742,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6252
+      "UsersEstimate": 6253
     },
     {
       "ID": "Ach016",
@@ -12753,7 +12758,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "Ach018",
@@ -12767,9 +12772,9 @@
       "ID": "Ach019",
       "SetID": "12n4k20",
       "Name": "I think that\u0027s enough health for now",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach020",
@@ -12801,7 +12806,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9726
+      "UsersEstimate": 9727
     },
     {
       "ID": "Ach024",
@@ -12889,15 +12894,15 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1389
+      "UsersEstimate": 1390
     },
     {
       "ID": "Ach035",
       "SetID": "12n4k20",
       "Name": "OK, well THEY came after ME!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 156
     },
     {
       "ID": "Ach036",
@@ -13192,13 +13197,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17368,
+      "Progressed": 17369,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15889,
+      "Progressed": 15890,
       "Completed": 1931
     }
   ],
@@ -13206,8 +13211,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:04:05.6644273+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:03:57.6400436+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:57:28.5456962+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:04:05.6645357+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:57:36.6708935+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:03:57.640185+00:00"
 }

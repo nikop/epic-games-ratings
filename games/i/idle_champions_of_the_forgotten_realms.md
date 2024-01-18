@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,181 |
-| Beast Intentions | 2.00% | ~5,090 |
-| The Cursed Farmer | 2.00% | ~5,090 |
-| The Mad Wizard | 2.00% | ~5,090 |
+| Beast Intentions | 2.00% | ~5,091 |
+| The Cursed Farmer | 2.00% | ~5,091 |
+| The Mad Wizard | 2.00% | ~5,091 |
 | The Ring of Regeneration | 1.00% | ~2,545 |
 | Are Ya Chicken? | 1.00% | ~2,545 |
 | Were-verpowered | 0.80% | ~2,036 |
@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.50% | ~1,273 |
 | Beast Mode | 0.50% | ~1,273 |
 | Terror in the Dark | 0.50% | ~1,273 |
+| A Mysterious Summons | 0.50% | ~1,273 |
 | Unearthed Evil | 0.50% | ~1,273 |
 | The Crumbling Temple | 0.50% | ~1,273 |
 | Exploring Port Nyanzaru | 0.50% | ~1,273 |
@@ -33,7 +34,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mental Gymnastics | 0.50% | ~1,104 |
 | Don't Lose Your Head | 0.50% | ~1,104 |
 | Low Initiative | 0.40% | ~1,018 |
-| A Mysterious Summons | 0.40% | ~1,018 |
 | Building Trust | 0.40% | ~1,018 |
 | Useless Allies | 0.40% | ~1,018 |
 | Running of the Saurs | 0.40% | ~1,018 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,523 (Ranked 71)  
+Progressed: 254,526 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,523 | 2,624 |
+| 2024-01-18 | 254,526 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  

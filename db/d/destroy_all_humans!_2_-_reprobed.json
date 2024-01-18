@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2116,9 +2116,9 @@
       "ID": "ACH_COMPLETE_OJ01",
       "SetID": "4n84pon",
       "Name": "Transmitting From Sol-3",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_COP_THROUGH_DONUT",
@@ -2397,8 +2397,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:10:05.6536238+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:09:53.4231046+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:59:26.2443156+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:10:05.6536611+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:59:23.6297631+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:09:53.4231555+00:00"
 }

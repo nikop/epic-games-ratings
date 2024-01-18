@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9466,
+  "EOS_Progressed": 9471,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1195,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3344,6 +3344,11 @@
       "Time": "2024-01-18T11:10:02.1015906+00:00",
       "NumProgressed": 9466,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-18T12:09:50.0321743+00:00",
+      "NumProgressed": 9471,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3356,7 +3361,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4638
+      "UsersEstimate": 4641
     },
     {
       "ID": "Document1",
@@ -3364,7 +3369,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "Document2",
@@ -3419,14 +3424,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9466,
+      "Progressed": 9471,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:10:02.1015899+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:09:50.0321736+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:57:21.3465264+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:10:02.1016184+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:57:30.4728033+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:09:50.0322008+00:00"
 }

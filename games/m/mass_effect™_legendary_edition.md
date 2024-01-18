@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,011 |
+| Distinguished Service Medal | 90.00% | ~4,012 |
 | Spectre Inductee | 66.00% | ~2,942 |
 | Medal of Exploration I | 56.00% | ~2,496 |
 | Recruit | 52.00% | ~2,318 |
-| Search and Rescue | 51.00% | ~2,273 |
+| Search and Rescue | 51.00% | ~2,274 |
 | Quarian Ally | 49.00% | ~2,184 |
-| Medal of Heroism | 44.00% | ~1,961 |
-| Honorarium of Corporate Service | 44.00% | ~1,961 |
+| Medal of Heroism | 44.00% | ~1,962 |
+| Honorarium of Corporate Service | 44.00% | ~1,962 |
 | Turian Ally | 40.00% | ~1,783 |
-| Medal of Exploration II | 39.00% | ~1,738 |
+| Medal of Exploration II | 39.00% | ~1,739 |
 | Council Legion of Merit | 38.00% | ~1,694 |
 | Missing in Action | 37.00% | ~1,649 |
 | Medal of Honor | 36.00% | ~1,605 |
@@ -21,10 +21,10 @@
 | Soldier | 35.00% | ~1,560 |
 | Meritorious Service Medal | 35.00% | ~1,560 |
 | Charismatic | 35.00% | ~1,560 |
-| Asari Ally | 34.00% | ~1,515 |
-| Very Elusive | 34.00% | ~1,515 |
-| Colonial Savior | 32.00% | ~1,426 |
-| Scientist | 32.00% | ~1,426 |
+| Asari Ally | 34.00% | ~1,516 |
+| Very Elusive | 34.00% | ~1,516 |
+| Colonial Savior | 32.00% | ~1,427 |
+| Scientist | 32.00% | ~1,427 |
 | Medal of Exploration III | 31.00% | ~1,382 |
 | Principled | 31.00% | ~1,382 |
 | Merciless | 31.00% | ~1,382 |
@@ -36,8 +36,8 @@
 | The Archangel | 29.00% | ~1,293 |
 | Head Hunter | 29.00% | ~1,293 |
 | Operative | 28.00% | ~1,248 |
-| The Convict | 27.00% | ~1,203 |
-| Power Full | 27.00% | ~1,203 |
+| The Convict | 27.00% | ~1,204 |
+| Power Full | 27.00% | ~1,204 |
 | Colony Defense | 26.00% | ~1,159 |
 | The Krogan | 26.00% | ~1,159 |
 | Veteran | 25.00% | ~1,114 |
@@ -64,15 +64,15 @@
 | Archivist | 21.00% | ~936 |
 | Treason | 21.00% | ~936 |
 | Digital Exorcist | 21.00% | ~936 |
-| Completionist | 20.00% | ~891 |
-| Mission Accomplished | 20.00% | ~891 |
-| Suicide Mission | 20.00% | ~891 |
-| Against All Odds | 20.00% | ~891 |
-| Friend or Foe | 20.00% | ~891 |
-| Cat's in the Cradle | 20.00% | ~891 |
-| Doppelganger | 20.00% | ~891 |
-| Agent | 20.00% | ~891 |
-| Mobilizer | 20.00% | ~891 |
+| Completionist | 20.00% | ~892 |
+| Mission Accomplished | 20.00% | ~892 |
+| Suicide Mission | 20.00% | ~892 |
+| Against All Odds | 20.00% | ~892 |
+| Friend or Foe | 20.00% | ~892 |
+| Cat's in the Cradle | 20.00% | ~892 |
+| Doppelganger | 20.00% | ~892 |
+| Agent | 20.00% | ~892 |
+| Mobilizer | 20.00% | ~892 |
 | Untouchable | 19.00% | ~847 |
 | Eye of the Hurricane | 19.00% | ~847 |
 | Giant Killer | 19.00% | ~847 |
@@ -97,7 +97,7 @@
 | Saboteur | 14.00% | ~624 |
 | Last Witness | 14.00% | ~624 |
 | Well Connected | 14.00% | ~624 |
-| Pyromaniac | 13.00% | ~579 |
+| Pyromaniac | 13.00% | ~580 |
 | Executioner | 12.00% | ~535 |
 | Patriot | 12.00% | ~535 |
 | Legend | 12.00% | ~535 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,457 (Ranked 211)  
+Progressed: 4,458 (Ranked 211)  
 Completed: 13 (0.29%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,4 +257,4 @@ Completed: 13 (0.29%) (Ranked 265)
 | 2024-01-15 | 4,392 | 13 |
 | 2024-01-16 | 4,423 | 13 |
 | 2024-01-17 | 4,449 | 13 |
-| 2024-01-18 | 4,457 | 13 |
+| 2024-01-18 | 4,458 | 13 |

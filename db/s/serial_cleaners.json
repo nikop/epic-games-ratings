@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -875,9 +875,9 @@
       "ID": "DIE_1_TIME",
       "SetID": "2lk004m",
       "Name": "So it goes",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 114
     },
     {
       "ID": "DISPOSE_15_BODIES",
@@ -1010,8 +1010,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:04:54.492818+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:04:42.2347377+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:41.4258034+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:03:09.4822164+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:04:54.4928361+00:00"
+  "LastUpdate_Ratings": "2024-01-18T12:03:03.7724611+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:04:42.2347573+00:00"
 }

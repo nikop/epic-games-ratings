@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1787,
+  "EOS_Progressed": 1789,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.27,
   "EosHistory": [
@@ -4524,6 +4524,11 @@
       "Time": "2024-01-18T09:10:20.9756959+00:00",
       "NumProgressed": 1787,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-18T12:10:25.7995777+00:00",
+      "NumProgressed": 1789,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4533,9 +4538,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1700
     },
     {
       "ID": "LEVEL_002",
@@ -4543,7 +4548,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "LEVEL_003",
@@ -4551,7 +4556,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1199
     },
     {
       "ID": "LEVEL_004",
@@ -4559,7 +4564,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "LEVEL_005",
@@ -4567,7 +4572,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "LEVEL_006",
@@ -4575,7 +4580,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "LEVEL_007",
@@ -4591,7 +4596,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "LEVEL_009",
@@ -4599,7 +4604,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "LEVEL_010",
@@ -4615,7 +4620,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "LEVEL_012",
@@ -4671,7 +4676,7 @@
       "Name": "Isle rock city",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "LEVEL_019",
@@ -4679,7 +4684,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LEVEL_020",
@@ -4687,7 +4692,7 @@
       "Name": "Go round and round",
       "Percentage": 12,
       "XP": 110,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "LEVEL_021",
@@ -4774,14 +4779,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1787,
+      "Progressed": 1789,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:10:40.2244583+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:10:25.7995774+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
   "LastUpdate_Ratings": "2024-01-18T11:02:58.3507727+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:10:40.2244926+00:00"
+  "LastUpdate_Achievements": "2024-01-18T12:10:25.7996224+00:00"
 }

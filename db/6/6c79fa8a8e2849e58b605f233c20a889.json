@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3250,
+  "EOS_Progressed": 3251,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8959,6 +8959,11 @@
       "Time": "2024-01-18T11:10:34.6747227+00:00",
       "NumProgressed": 3250,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T12:10:20.6186418+00:00",
+      "NumProgressed": 3251,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -9010,7 +9015,7 @@
       "Name": "Express Yourself",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FACE_FACE",
@@ -9018,7 +9023,7 @@
       "Name": "Face-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -9042,7 +9047,7 @@
       "Name": "Grandmaster",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FEUD_NOVICE",
@@ -9074,7 +9079,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "GUARD_MAKER",
@@ -9090,7 +9095,7 @@
       "Name": "Manipulator",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KING_MASTERY",
@@ -9122,7 +9127,7 @@
       "Name": "Assassin",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SMARTER_THAN_A_BEAR",
@@ -9130,7 +9135,7 @@
       "Name": "Smarter than a Bear",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WIZARD_MASTERY",
@@ -9145,14 +9150,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3250,
+      "Progressed": 3251,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:10:34.674722+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:10:20.6186414+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.5235454+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:03:15.6272494+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:10:34.6747796+00:00"
+  "LastUpdate_Ratings": "2024-01-18T12:03:09.8521742+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:10:20.6186985+00:00"
 }

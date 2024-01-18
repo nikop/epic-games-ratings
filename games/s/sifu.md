@@ -7,8 +7,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,694 |
-| Life is your teacher | 5.00% | ~38,078 |
-| Lightning Hands | 5.00% | ~38,078 |
+| Life is your teacher | 5.00% | ~38,079 |
+| Lightning Hands | 5.00% | ~38,079 |
 | The Assault | 4.00% | ~30,463 |
 | The Hateful Pole Fighter | 3.00% | ~22,847 |
 | Stuntmaster | 3.00% | ~22,847 |
@@ -26,7 +26,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 2.00% | ~15,231 |
 | Rumble in the Hangar | 2.00% | ~15,231 |
 | Take damage to save time | 2.00% | ~15,231 |
-| Diligence as a goal | 2.00% | ~1,417 |
+| Diligence as a goal | 2.00% | ~1,418 |
 | Scareless | 1.00% | ~7,616 |
 | Dance of the Praying Mantis | 1.00% | ~7,616 |
 | Kung-Fu Tussle | 1.00% | ~7,616 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,567 (Ranked 26)  
+Progressed: 761,574 (Ranked 26)  
 Completed: 12,991 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 12,991 (1.71%) (Ranked 148)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,567 | 12,991 |
+| 2024-01-18 | 761,574 | 12,991 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
 Sum: 12,793 (Ranked 87)  

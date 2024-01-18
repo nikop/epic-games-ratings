@@ -18,10 +18,10 @@
 | The Broken Guard | 8.00% | ~7 |
 | Gold Seeker | 7.00% | ~6 |
 | The Planner | 7.00% | ~6 |
+| The Flying Octopus | 7.00% | ~6 |
 | The Vega Turtle | 7.00% | ~6 |
 | A Land of Peace | 6.00% | ~5 |
 | A Good Paint Job | 6.00% | ~5 |
-| The Flying Octopus | 6.00% | ~5 |
 | You can't fool me! | 5.00% | ~4 |
 | Iron Fist | 4.00% | ~3 |
 | The Completionist | 4.00% | ~3 |

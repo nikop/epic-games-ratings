@@ -5,28 +5,28 @@ Rating: 4.40 (Ranked 771)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~112,190 |
-| 74 miles East of Otaheité | 56.00% | ~78,533 |
-| Interesting... | 42.00% | ~58,900 |
-| The Everhart Expedition | 40.00% | ~56,095 |
+| A Family Heirloom | 80.00% | ~112,192 |
+| 74 miles East of Otaheité | 56.00% | ~78,534 |
+| Interesting... | 42.00% | ~58,901 |
+| The Everhart Expedition | 40.00% | ~56,096 |
 | The Vanishing of the Lady Shannon | 31.00% | ~43,474 |
 | Seaside Serenade | 31.00% | ~43,474 |
-| Halfway there | 30.00% | ~42,071 |
+| Halfway there | 30.00% | ~42,072 |
 | A brigantine, a brig and a barque | 28.00% | ~39,267 |
 | 506 East Hampden Avenue | 28.00% | ~39,267 |
-| Weekend at Walakea's | 27.00% | ~37,864 |
-| Quite a Show | 27.00% | ~37,864 |
+| Weekend at Walakea's | 27.00% | ~37,865 |
+| Quite a Show | 27.00% | ~37,865 |
 | Dark Water Ride | 25.00% | ~35,060 |
 | Sunken | 25.00% | ~35,060 |
 | Deep Cut | 25.00% | ~35,060 |
 | FHALGOF'N' | 23.00% | ~32,255 |
 | Marsh Cannery | 21.00% | ~29,450 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~25,243 |
-| The only thing I have now | 17.00% | ~23,840 |
+| The only thing I have now | 17.00% | ~23,841 |
 | Not Another Boring Slideshow! | 16.00% | ~22,438 |
 | Naacalvision | 16.00% | ~22,438 |
 | The Norahnomicon | 10.00% | ~14,024 |
-| I'll make a note of that... | 9.00% | ~12,621 |
+| I'll make a note of that... | 9.00% | ~12,622 |
 | Written in Stone | 7.00% | ~9,817 |
 | Play it again, Norah | 7.00% | ~9,817 |
 | Underwater Royalty | 7.00% | ~9,817 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 771)
 | Soundcheck | 2.00% | ~2,805 |
 | Meta-reference | 1.00% | ~1,402 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,238 (Ranked 90)  
+Progressed: 140,240 (Ranked 90)  
 Completed: 1,269 (0.90%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 1,269 (0.90%) (Ranked 188)
 | 2024-01-15 | 139,904 | 1,264 |
 | 2024-01-16 | 140,035 | 1,265 |
 | 2024-01-17 | 140,184 | 1,266 |
-| 2024-01-18 | 140,238 | 1,269 |
+| 2024-01-18 | 140,240 | 1,269 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,44 +1,44 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.66 (Ranked 303)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,769,071 |
-| Easy to forget | 46.00% | ~1,660,761 |
-| Back in the black | 39.00% | ~1,408,036 |
-| That's what I'm talking about | 29.00% | ~1,047,001 |
-| The Best of Both Worlds | 25.00% | ~902,587 |
-| Get your wings | 20.00% | ~722,070 |
-| Double trouble | 16.00% | ~577,656 |
-| Smashing it | 11.00% | ~397,138 |
-| But can it run Crysis? | 9.00% | ~324,931 |
-| My favourite feature... | 9.00% | ~324,931 |
-| Customer satisfaction | 8.00% | ~288,828 |
-| From humble beginnings... | 7.00% | ~252,724 |
+| You need to plug it in... | 49.00% | ~1,769,077 |
+| Easy to forget | 46.00% | ~1,660,766 |
+| Back in the black | 39.00% | ~1,408,041 |
+| That's what I'm talking about | 29.00% | ~1,047,005 |
+| The Best of Both Worlds | 25.00% | ~902,590 |
+| Get your wings | 20.00% | ~722,072 |
+| Double trouble | 16.00% | ~577,658 |
+| Smashing it | 11.00% | ~397,140 |
+| But can it run Crysis? | 9.00% | ~324,932 |
+| My favourite feature... | 9.00% | ~324,932 |
+| Customer satisfaction | 8.00% | ~288,829 |
+| From humble beginnings... | 7.00% | ~252,725 |
 | Keeping things neat | 4.00% | ~144,414 |
 | Seems you're pretty good at this | 4.00% | ~144,414 |
 | Bending over backwards | 4.00% | ~144,414 |
-| I'm broke, Uncle! | 3.00% | ~108,310 |
-| Triple threat | 3.00% | ~108,310 |
-| You rock at this! | 3.00% | ~108,310 |
-| Perfection | 3.00% | ~108,310 |
-| Your music sucks | 3.00% | ~108,310 |
+| I'm broke, Uncle! | 3.00% | ~108,311 |
+| Triple threat | 3.00% | ~108,311 |
+| You rock at this! | 3.00% | ~108,311 |
+| Perfection | 3.00% | ~108,311 |
+| Your music sucks | 3.00% | ~108,311 |
 | Maybe you should try something else? | 2.00% | ~72,207 |
 | Taking care of business | 2.00% | ~72,207 |
 | Things are under control | 2.00% | ~72,207 |
 | Calling in Sick | 2.00% | ~72,207 |
-| Overvolted | 1.00% | ~36,103 |
-| If you fail the first time... | 1.00% | ~36,103 |
-| Amazonian | 1.00% | ~36,103 |
-| Show off | 1.00% | ~36,103 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,103 |
-| Building isn't cheap! | 1.00% | ~36,103 |
-| Majority Shareholder | 1.00% | ~36,103 |
-| Owner | 1.00% | ~36,103 |
-| Work ethic 101 | 0.70% | ~25,272 |
+| Overvolted | 1.00% | ~36,104 |
+| If you fail the first time... | 1.00% | ~36,104 |
+| Amazonian | 1.00% | ~36,104 |
+| Show off | 1.00% | ~36,104 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,104 |
+| Building isn't cheap! | 1.00% | ~36,104 |
+| Majority Shareholder | 1.00% | ~36,104 |
+| Owner | 1.00% | ~36,104 |
+| Work ethic 101 | 0.70% | ~25,273 |
 | Building momentum | 0.60% | ~21,662 |
 | Lead by example | 0.60% | ~21,662 |
 | Treat yourself - RAM | 0.50% | ~18,052 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,610 |
 | Treat yourself - GPU | 0.10% | ~3,610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,610,349 (Ranked 5)  
+Progressed: 3,610,361 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 41 (0.00%) (Ranked 404)
 | 2024-01-15 | 3,609,469 | 41 |
 | 2024-01-16 | 3,609,869 | 41 |
 | 2024-01-17 | 3,610,214 | 41 |
-| 2024-01-18 | 3,610,349 | 41 |
+| 2024-01-18 | 3,610,361 | 41 |
 ## Awards
 Max (Great for Beginners): 1,144  (Ranked 153)  
 Sum: 8,313 (Ranked 116)  
@@ -665,3 +665,4 @@ Diff (max vs sum): 37
 | 2024-01-15 | 4.66 | - | 1,140 | 8,302 |
 | 2024-01-16 | 4.66 | - | 1,140 | 8,306 |
 | 2024-01-17 | 4.65 | - | 1,144 | 8,313 |
+| 2024-01-18 | 4.66 | - | 1,144 | 8,313 |

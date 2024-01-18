@@ -2563,7 +2563,7 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19671,
+  "EOS_Progressed": 19672,
   "EOS_Completed": 80,
   "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 5,
@@ -20808,6 +20808,11 @@
       "Time": "2024-01-18T11:10:41.2767923+00:00",
       "NumProgressed": 19671,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-18T12:10:26.7206988+00:00",
+      "NumProgressed": 19672,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20867,7 +20872,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3737
+      "UsersEstimate": 3738
     },
     {
       "ID": "ACH08",
@@ -21098,7 +21103,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19671,
+      "Progressed": 19672,
       "Completed": 80
     }
   ],
@@ -21106,8 +21111,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-18T02:59:13.9862876+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:10:41.2767918+00:00",
+  "LastChanged_Achievements": "2024-01-18T12:10:26.7206984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-18T10:58:57.1076265+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:10:41.2769026+00:00"
+  "LastUpdate_Ratings": "2024-01-18T11:58:57.4297084+00:00",
+  "LastUpdate_Achievements": "2024-01-18T12:10:26.7207788+00:00"
 }

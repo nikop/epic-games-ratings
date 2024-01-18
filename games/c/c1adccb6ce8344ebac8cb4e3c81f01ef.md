@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Red Skeleton | 61.00% | ~414 |
+| Red Skeleton | 61.00% | ~415 |
 | Orange Skeleton | 43.00% | ~292 |
-| Yellow Skeleton | 17.00% | ~115 |
+| Yellow Skeleton | 17.00% | ~116 |
 | Blue Skeleton | 13.00% | ~88 |
 | Green Skeleton | 4.00% | ~27 |
 | Black Skeleton | 3.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679 (Ranked 334)  
+Progressed: 680 (Ranked 333)  
 Completed: 17 (2.50%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,4 +169,4 @@ Completed: 17 (2.50%) (Ranked 125)
 | 2024-01-14 | 664 | 17 |
 | 2024-01-16 | 669 | 17 |
 | 2024-01-17 | 677 | 17 |
-| 2024-01-18 | 679 | 17 |
+| 2024-01-18 | 680 | 17 |

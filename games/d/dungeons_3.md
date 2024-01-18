@@ -6,45 +6,45 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~33,060 |
-| The Evilest Evil | 58.00% | ~27,392 |
-| Twistram is devastated | 58.00% | ~27,392 |
-| The Gehenna Stones | 49.00% | ~23,142 |
-| No one has to die today! | 46.00% | ~21,725 |
-| Death and destruction! | 46.00% | ~21,725 |
-| The Swamplanders from the swamplands | 43.00% | ~20,308 |
-| Rusty Steel | 41.00% | ~19,363 |
-| The One-Huge-Army-Building Evil | 40.00% | ~18,891 |
-| Braiiiiins! | 38.00% | ~17,947 |
-| The last burger | 37.00% | ~17,474 |
-| Hands off the Dungeonheart! | 36.00% | ~17,002 |
-| A trip on sea, what fun it can be | 34.00% | ~16,058 |
-| Damned good | 32.00% | ~15,113 |
-| Stock Market Crash | 31.00% | ~14,641 |
-| Factory farming | 31.00% | ~14,641 |
-| Shadow hunter | 29.00% | ~13,696 |
-| Not-So-Overproud | 29.00% | ~13,696 |
-| For a handfull of Catapults | 28.00% | ~13,224 |
+| The Shadow strikes | 70.00% | ~33,062 |
+| The Evilest Evil | 58.00% | ~27,394 |
+| Twistram is devastated | 58.00% | ~27,394 |
+| The Gehenna Stones | 49.00% | ~23,143 |
+| No one has to die today! | 46.00% | ~21,726 |
+| Death and destruction! | 46.00% | ~21,726 |
+| The Swamplanders from the swamplands | 43.00% | ~20,309 |
+| Rusty Steel | 41.00% | ~19,365 |
+| The One-Huge-Army-Building Evil | 40.00% | ~18,892 |
+| Braiiiiins! | 38.00% | ~17,948 |
+| The last burger | 37.00% | ~17,475 |
+| Hands off the Dungeonheart! | 36.00% | ~17,003 |
+| A trip on sea, what fun it can be | 34.00% | ~16,059 |
+| Damned good | 32.00% | ~15,114 |
+| Stock Market Crash | 31.00% | ~14,642 |
+| Factory farming | 31.00% | ~14,642 |
+| Shadow hunter | 29.00% | ~13,697 |
+| Not-So-Overproud | 29.00% | ~13,697 |
+| For a handfull of Catapults | 28.00% | ~13,225 |
 | Thirst quencher | 27.00% | ~12,752 |
 | Ogre Solo! | 27.00% | ~12,752 |
-| Destroy the thing | 26.00% | ~12,279 |
-| Tide Master | 26.00% | ~12,279 |
-| Difficult family relationships | 25.00% | ~11,807 |
+| Destroy the thing | 26.00% | ~12,280 |
+| Tide Master | 26.00% | ~12,280 |
+| Difficult family relationships | 25.00% | ~11,808 |
 | MASS-O-BOT | 24.00% | ~11,335 |
 | Prepare the grave | 24.00% | ~11,335 |
 | Angel of Fire | 24.00% | ~11,335 |
-| Where there is Light, there is Shadow | 23.00% | ~10,862 |
-| At the foot of Mount Destiny | 22.00% | ~10,390 |
-| The Force disturbed | 21.00% | ~9,918 |
+| Where there is Light, there is Shadow | 23.00% | ~10,863 |
+| At the foot of Mount Destiny | 22.00% | ~10,391 |
+| The Force disturbed | 21.00% | ~9,919 |
 | The Victorious Evil | 20.00% | ~9,446 |
-| Chorus of damnation | 19.00% | ~8,973 |
-| We don’t have time! | 19.00% | ~8,973 |
-| The Stones’ Power | 18.00% | ~8,501 |
+| Chorus of damnation | 19.00% | ~8,974 |
+| We don’t have time! | 19.00% | ~8,974 |
+| The Stones’ Power | 18.00% | ~8,502 |
 | Flat as a pancake | 17.00% | ~8,029 |
 | Lifeguard | 17.00% | ~8,029 |
-| Can’t stand the sight of Dark Elf blood | 15.00% | ~7,084 |
-| This is fun, I’m going to keep doing this! | 12.00% | ~5,667 |
-| Then let them eat cake! | 12.00% | ~5,667 |
+| Can’t stand the sight of Dark Elf blood | 15.00% | ~7,085 |
+| This is fun, I’m going to keep doing this! | 12.00% | ~5,668 |
+| Then let them eat cake! | 12.00% | ~5,668 |
 | The White Knight | 10.00% | ~4,723 |
 | Please, no interruptions! | 10.00% | ~4,723 |
 | Use the terrain | 9.00% | ~4,251 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~945 |
 | Sacrifices! | 2.00% | ~945 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,228 (Ranked 128)  
+Progressed: 47,231 (Ranked 128)  
 Completed: 373 (0.79%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 373 (0.79%) (Ranked 195)
 | 2024-01-15 | 47,044 | 373 |
 | 2024-01-16 | 47,127 | 373 |
 | 2024-01-17 | 47,199 | 373 |
-| 2024-01-18 | 47,228 | 373 |
+| 2024-01-18 | 47,231 | 373 |
 ## Awards
 Max (Great for Beginners): 399  (Ranked 243)  
 Sum: 2,853 (Ranked 191)  

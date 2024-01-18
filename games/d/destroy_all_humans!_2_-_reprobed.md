@@ -21,7 +21,7 @@ Number of Ratings: 90  (23.09.2022)
 | I Look Up As I Walk to Takoshima | 22.00% | ~98 |
 | Perfect Probulator | 19.00% | ~85 |
 | Die Nasty | 19.00% | ~85 |
-| Transmitting From Sol-3 | 16.00% | ~71 |
+| Transmitting From Sol-3 | 17.00% | ~76 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~62 |
 | Fly Me to the Moon Base | 11.00% | ~49 |
 | Kaijuiced | 11.00% | ~49 |
