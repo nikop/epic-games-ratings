@@ -7,7 +7,7 @@ Rating: 4.52 (Ranked 580)
 | ---- | ---------- | ----- |
 | Read Between The Lines | 62.00% | ~920 |
 | To Hell In A Handcart | 61.00% | ~905 |
-| High Profile | 54.00% | ~801 |
+| High Profile | 55.00% | ~816 |
 | Whispers In The Dark | 52.00% | ~772 |
 | Fond Memories | 50.00% | ~742 |
 | A Method To His Madness | 48.00% | ~712 |
@@ -26,7 +26,7 @@ Rating: 4.52 (Ranked 580)
 | Fhtagn! | 39.00% | ~579 |
 | Bookworm | 38.00% | ~564 |
 | Going Once... | 36.00% | ~534 |
-| Let Me Be Frank | 34.00% | ~505 |
+| Let Me Be Frank | 35.00% | ~519 |
 | No Stone Unturned | 33.00% | ~490 |
 | Brain Food | 31.00% | ~460 |
 | Read It And Weep | 20.00% | ~297 |

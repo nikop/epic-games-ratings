@@ -1428,9 +1428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33713,
+  "EOS_Progressed": 33718,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30838,6 +30838,11 @@
       "Time": "2024-01-18T04:10:50.8720448+00:00",
       "NumProgressed": 33713,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-18T05:11:18.4029352+00:00",
+      "NumProgressed": 33718,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30913,7 +30918,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "1024",
@@ -30945,7 +30950,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3034
+      "UsersEstimate": 3035
     },
     {
       "ID": "1028",
@@ -30953,7 +30958,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5731
+      "UsersEstimate": 5732
     },
     {
       "ID": "1029",
@@ -30969,7 +30974,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6405
+      "UsersEstimate": 6406
     },
     {
       "ID": "1031",
@@ -30985,7 +30990,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13485
+      "UsersEstimate": 13487
     },
     {
       "ID": "1033",
@@ -31024,15 +31029,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33713,
+      "Progressed": 33718,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-17T22:58:28.4065006+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:10:50.8720445+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:18.4029349+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:58:23.0210125+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:10:50.8722305+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:58:20.5744398+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:18.4030709+00:00"
 }

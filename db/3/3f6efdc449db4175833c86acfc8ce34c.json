@@ -3,7 +3,7 @@
   "Name": "Aya \u0026 Naya",
   "ProductSlug": "aya-and-naya-b7791e",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1553,
+  "EOS_Progressed": 1554,
   "EOS_Completed": 70,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.51,
+  "EOS_Completed_Percentage": 4.5,
   "EosHistory": [
     {
       "Time": "2023-08-08T23:02:04.1783243+00:00",
@@ -4394,6 +4394,11 @@
       "Time": "2024-01-17T12:09:55.1825338+00:00",
       "NumProgressed": 1553,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-18T05:11:21.7041718+00:00",
+      "NumProgressed": 1554,
+      "NumCompleted": 70
     }
   ],
   "AchievementsAdded": "2023-08-08T22:02:18.1743145+00:00",
@@ -4406,7 +4411,7 @@
       "Name": "Played!",
       "Percentage": 83,
       "XP": 200,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "Mission2",
@@ -4422,7 +4427,7 @@
       "Name": "Mission 2 clear",
       "Percentage": 31,
       "XP": 200,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "Mission4",
@@ -4445,14 +4450,14 @@
     {
       "ID": "6igjng7",
       "IsBase": true,
-      "Progressed": 1553,
+      "Progressed": 1554,
       "Completed": 70
     }
   ],
   "FirstSeen": "2023-08-19T18:58:05.6794692+00:00",
   "FirstSeenAchievements": "2023-08-08T21:02:12.6548497+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:10:54.3851039+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:21.7041715+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:08.1939909+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:01:01.0297143+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:10:54.3851341+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:00:52.4258525+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:21.7041976+00:00"
 }

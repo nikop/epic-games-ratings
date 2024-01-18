@@ -6,16 +6,16 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~54,512 |
-| Get Busy Living | 15.00% | ~32,707 |
-| Samuel Norton | 9.00% | ~19,624 |
+| Stone Walls | 25.00% | ~54,515 |
+| Get Busy Living | 15.00% | ~32,709 |
+| Samuel Norton | 9.00% | ~19,625 |
 | Spare The Rod | 4.00% | ~8,722 |
-| Don't Put Me In The Dark | 3.00% | ~6,541 |
-| Wait and Hope | 3.00% | ~6,541 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,541 |
+| Don't Put Me In The Dark | 3.00% | ~6,542 |
+| Wait and Hope | 3.00% | ~6,542 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,542 |
 | Throw The Book At Them | 2.00% | ~4,361 |
 | Iron Bars | 2.00% | ~4,361 |
-| D.B. Cooper | 1.00% | ~2,180 |
+| D.B. Cooper | 1.00% | ~2,181 |
 | Reformation | 0.60% | ~1,308 |
 | Crowd Control | 0.50% | ~1,090 |
 | Freedom | 0.40% | ~872 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~218 |
 | ... It's What You Can Prove | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,049 (Ranked 81)  
+Progressed: 218,061 (Ranked 81)  
 Completed: 13 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,10 +296,10 @@ Completed: 13 (0.01%) (Ranked 378)
 | 2024-01-15 | 217,109 | 13 |
 | 2024-01-16 | 217,461 | 13 |
 | 2024-01-17 | 217,984 | 13 |
-| 2024-01-18 | 218,049 | 13 |
+| 2024-01-18 | 218,061 | 13 |
 ## Awards
 Max (Great for Beginners): 642  (Ranked 202)  
-Sum: 4,930 (Ranked 155)  
+Sum: 4,931 (Ranked 155)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -309,7 +309,7 @@ Diff (max vs sum): 47
 | This game has Quickly Understood Controls | 583 |
 | This game is Relaxing | 576 |
 | This game has Diverse Characters | 546 |
-| This game has Amazing Storytelling | 520 |
+| This game has Amazing Storytelling | 521 |
 | This game has Amazing Characters | 479 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 378 |
@@ -677,3 +677,4 @@ Diff (max vs sum): 47
 | 2024-01-15 | 4.61 | - | 640 | 4,911 |
 | 2024-01-16 | 4.61 | - | 640 | 4,919 |
 | 2024-01-17 | 4.61 | - | 642 | 4,930 |
+| 2024-01-18 | 4.61 | - | 642 | 4,931 |

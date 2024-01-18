@@ -183,7 +183,7 @@
   "Tags": [],
   "EOS_Progressed": 1484,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -5326,9 +5326,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 801
+      "UsersEstimate": 816
     },
     {
       "ID": "MQ02_2",
@@ -5406,9 +5406,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 519
     },
     {
       "ID": "MQ04_3",
@@ -5543,8 +5543,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:07:42.1345073+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:07:26.1921448+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:03:55.1798539+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:07:42.1345631+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:03:48.5805206+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:07:26.1921905+00:00"
 }

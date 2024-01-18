@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,7 +306,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 444,
+  "EOS_Progressed": 445,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -2021,6 +2021,11 @@
       "Time": "2024-01-18T01:57:43.0053041+00:00",
       "NumProgressed": 444,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T05:10:46.2164399+00:00",
+      "NumProgressed": 445,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2049,7 +2054,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2065,7 +2070,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2135,7 +2140,7 @@
       "ID": "ACH_DESTROY_LANDMARKS",
       "SetID": "4n84pon",
       "Name": "Toilet Break",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -2145,13 +2150,13 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
       "SetID": "4n84pon",
       "Name": "Albion Bridge Is for Falling Down",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2169,7 +2174,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2233,13 +2238,13 @@
       "Name": "Die Nasty",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_KILL_REINCARNATOR",
       "SetID": "4n84pon",
       "Name": "Ouch of Body Experience",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -2289,7 +2294,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2311,7 +2316,7 @@
       "ID": "ACH_SKATE_ALBION",
       "SetID": "4n84pon",
       "Name": "To Russia With Love",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2335,7 +2340,7 @@
       "ID": "ACH_SKATE_SOLARIS",
       "SetID": "4n84pon",
       "Name": "Steezy Down the Spine",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2343,7 +2348,7 @@
       "ID": "ACH_SKATE_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "Path of the Furon",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2351,7 +2356,7 @@
       "ID": "ACH_SKATE_TUNGUSKA",
       "SetID": "4n84pon",
       "Name": "Trans-Siberian Express",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2359,9 +2364,9 @@
       "ID": "ACH_UNLOCK_BURROW_BEAST",
       "SetID": "4n84pon",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_UPGRADE_CRYPTO",
@@ -2377,14 +2382,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 444,
+      "Progressed": 445,
       "Completed": 2
     }
   ],
@@ -2392,8 +2397,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:10:17.8690643+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:10:46.2164395+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:59:52.3718345+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:10:17.8691061+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:59:47.1176694+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:10:46.2164746+00:00"
 }

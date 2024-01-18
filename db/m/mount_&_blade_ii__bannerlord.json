@@ -2,13 +2,13 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -10780,10 +10780,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 16798,
       "NumberOfAwardsMax": 8099
+    },
+    {
+      "Time": "2024-01-18T05:00:44.836617+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16803,
+      "NumberOfAwardsMax": 8099
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16798,
+  "NumberOfAwards": 16803,
   "NumberOfAwardsMax": 8099,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10815,7 +10821,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1219
+      "Count": 1224
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10860,9 +10866,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95888,
+  "EOS_Progressed": 95891,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2083,
+  "EOS_NewPlayers": 2069,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40110,6 +40116,11 @@
       "Time": "2024-01-18T04:11:11.6066393+00:00",
       "NumProgressed": 95888,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T05:11:38.3209159+00:00",
+      "NumProgressed": 95891,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40121,7 +40132,7 @@
       "Name": "Against all odds",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 14383
+      "UsersEstimate": 14384
     },
     {
       "ID": "Apple of my eye",
@@ -40137,7 +40148,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 23972
+      "UsersEstimate": 23973
     },
     {
       "ID": "Best served cold",
@@ -40201,7 +40212,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12465
+      "UsersEstimate": 12466
     },
     {
       "ID": "Dynasty",
@@ -40281,7 +40292,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 20136
+      "UsersEstimate": 20137
     },
     {
       "ID": "I can do it",
@@ -40289,7 +40300,7 @@
       "Name": "I can do it",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 14383
+      "UsersEstimate": 14384
     },
     {
       "ID": "I spit on your grave",
@@ -40345,7 +40356,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33561
+      "UsersEstimate": 33562
     },
     {
       "ID": "Lawbringer",
@@ -40353,7 +40364,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41232
+      "UsersEstimate": 41233
     },
     {
       "ID": "Lawmaker",
@@ -40361,7 +40372,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23013
+      "UsersEstimate": 23014
     },
     {
       "ID": "Long live the Empire",
@@ -40401,7 +40412,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4794
+      "UsersEstimate": 4795
     },
     {
       "ID": "Real Estate",
@@ -40497,7 +40508,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28766
+      "UsersEstimate": 28767
     },
     {
       "ID": "Undercover",
@@ -40528,15 +40539,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95888,
+      "Progressed": 95891,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-18T04:00:53.5991357+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:11.6066388+00:00",
+  "LastChanged": "2024-01-18T05:00:44.8366168+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:38.3209157+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:00:53.5991362+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:11.6068383+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:00:44.8366176+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:38.3210502+00:00"
 }

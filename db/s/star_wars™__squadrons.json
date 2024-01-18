@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42076,
+  "EOS_Progressed": 42079,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2047,
+  "EOS_NewPlayers": 2046,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14274,6 +14274,11 @@
       "Time": "2024-01-18T04:11:08.3059142+00:00",
       "NumProgressed": 42076,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T05:11:35.195082+00:00",
+      "NumProgressed": 42079,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -14286,7 +14291,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "achievement_10",
@@ -14334,7 +14339,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7994
+      "UsersEstimate": 7995
     },
     {
       "ID": "achievement_16",
@@ -14438,7 +14443,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "achievement_28",
@@ -14510,7 +14515,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 39972
+      "UsersEstimate": 39975
     },
     {
       "ID": "achievement_36",
@@ -14518,7 +14523,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "achievement_37",
@@ -14542,7 +14547,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9677
+      "UsersEstimate": 9678
     },
     {
       "ID": "achievement_4",
@@ -14646,7 +14651,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9677
+      "UsersEstimate": 9678
     },
     {
       "ID": "achievement_9",
@@ -14661,7 +14666,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 42076,
+      "Progressed": 42079,
       "Completed": 3
     }
   ],
@@ -14669,8 +14674,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:08.3059136+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:35.1950817+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.3811703+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:04:01.0504431+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:08.3060315+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:03:54.3998612+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:35.1951847+00:00"
 }

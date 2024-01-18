@@ -6,41 +6,41 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~465,807 |
-| Sword Runner | 24.00% | ~279,484 |
-| Running out of breath | 19.00% | ~221,258 |
-| Wallrunner | 18.00% | ~209,613 |
-| I call it luck | 14.00% | ~163,033 |
-| Out of order | 12.00% | ~139,742 |
-| Homerunner | 11.00% | ~128,097 |
-| Back to hell | 9.00% | ~104,807 |
-| Running Wild | 9.00% | ~104,807 |
-| Where are my Keys? | 9.00% | ~104,807 |
-| Sword to a gunfight | 8.00% | ~93,161 |
-| Perfection | 7.00% | ~81,516 |
-| Artificial selection | 6.00% | ~69,871 |
-| Finish line | 6.00% | ~69,871 |
-| Control freak | 6.00% | ~69,871 |
-| Upgrades not mandatory | 6.00% | ~69,871 |
-| Why not both | 6.00% | ~69,871 |
-| Unstoppable force | 5.00% | ~58,226 |
-| Dead in the air | 4.00% | ~46,581 |
-| Wave of mutilation | 4.00% | ~46,581 |
-| Can't Run Can't Hide | 3.00% | ~34,936 |
-| Improvise, adapt, overrun | 2.00% | ~23,290 |
-| Pre-empative strike | 2.00% | ~23,290 |
-| R is for Running | 2.00% | ~23,290 |
-| Strike | 2.00% | ~23,290 |
-| Triple A | 2.00% | ~23,290 |
-| More than human | 1.00% | ~11,645 |
-| Push it to the limit | 0.80% | ~9,316 |
-| Fine addition | 0.60% | ~6,987 |
-| About Adam | 0.40% | ~4,658 |
-| Hit me if you can | 0.20% | ~2,329 |
-| Junkrunner | 0.20% | ~2,329 |
-| One man's trash | 0.20% | ~2,329 |
-| One Of Those Days | 0.20% | ~2,329 |
-| Where He Stood | 0.20% | ~2,329 |
+| Longrunner | 40.00% | ~465,938 |
+| Sword Runner | 24.00% | ~279,563 |
+| Running out of breath | 19.00% | ~221,321 |
+| Wallrunner | 18.00% | ~209,672 |
+| I call it luck | 14.00% | ~163,078 |
+| Out of order | 12.00% | ~139,781 |
+| Homerunner | 11.00% | ~128,133 |
+| Back to hell | 9.00% | ~104,836 |
+| Running Wild | 9.00% | ~104,836 |
+| Where are my Keys? | 9.00% | ~104,836 |
+| Sword to a gunfight | 8.00% | ~93,188 |
+| Perfection | 7.00% | ~81,539 |
+| Artificial selection | 6.00% | ~69,891 |
+| Finish line | 6.00% | ~69,891 |
+| Control freak | 6.00% | ~69,891 |
+| Upgrades not mandatory | 6.00% | ~69,891 |
+| Why not both | 6.00% | ~69,891 |
+| Unstoppable force | 5.00% | ~58,242 |
+| Dead in the air | 4.00% | ~46,594 |
+| Wave of mutilation | 4.00% | ~46,594 |
+| Can't Run Can't Hide | 3.00% | ~34,945 |
+| Improvise, adapt, overrun | 2.00% | ~23,297 |
+| Pre-empative strike | 2.00% | ~23,297 |
+| R is for Running | 2.00% | ~23,297 |
+| Strike | 2.00% | ~23,297 |
+| Triple A | 2.00% | ~23,297 |
+| More than human | 1.00% | ~11,648 |
+| Push it to the limit | 0.80% | ~9,319 |
+| Fine addition | 0.60% | ~6,989 |
+| About Adam | 0.40% | ~4,659 |
+| Hit me if you can | 0.20% | ~2,330 |
+| Junkrunner | 0.20% | ~2,330 |
+| One man's trash | 0.20% | ~2,330 |
+| One Of Those Days | 0.20% | ~2,330 |
+| Where He Stood | 0.20% | ~2,330 |
 | A Grade | 0.10% | ~1,165 |
 | Everyone Needs A Hobby | 0.10% | ~1,165 |
 | GR Project Complete | 0.10% | ~1,165 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,165 |
 | Up Close And Personal | 0.10% | ~1,165 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,164,518 (Ranked 14)  
+Progressed: 1,164,845 (Ranked 14)  
 Completed: 232 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 232 (0.02%) (Ranked 368)
 | 2024-01-15 | 1,144,294 | 224 |
 | 2024-01-16 | 1,154,083 | 228 |
 | 2024-01-17 | 1,163,134 | 231 |
-| 2024-01-18 | 1,164,518 | 232 |
+| 2024-01-18 | 1,164,845 | 232 |
 ## Awards
 Max (Great Boss Battles): 1,524  (Ranked 139)  
-Sum: 1,866 (Ranked 225)  
+Sum: 1,867 (Ranked 225)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): -86
 | This game has Quickly Understood Controls | 51 |
 | This game has a Creative Community | 42 |
 | This game has Amazing Characters | 38 |
-| This game has Unique Visuals | 37 |
+| This game has Unique Visuals | 38 |
 | This game is Highly Recommended | 37 |
 | This game is Relaxing | 34 |
 | This game has Amazing Storytelling | 33 |
@@ -550,3 +550,4 @@ Diff (max vs sum): -86
 | 2024-01-15 | 4.59 | - | 1,443 | 1,771 |
 | 2024-01-16 | 4.59 | - | 1,489 | 1,821 |
 | 2024-01-17 | 4.59 | - | 1,524 | 1,866 |
+| 2024-01-18 | 4.59 | - | 1,524 | 1,867 |

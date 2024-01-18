@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1159,9 +1159,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 552149,
+  "EOS_Progressed": 552150,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1493,
+  "EOS_NewPlayers": 1485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32339,6 +32339,11 @@
       "Time": "2024-01-18T04:06:40.221705+00:00",
       "NumProgressed": 552149,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T05:06:25.8718185+00:00",
+      "NumProgressed": 552150,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32382,7 +32387,7 @@
       "Name": "Blindman\u0027s Bluff",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49693
+      "UsersEstimate": 49694
     },
     {
       "ID": "BluffingEh",
@@ -32390,7 +32395,7 @@
       "Name": "Bluffing Eh?",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "BountyHunter",
@@ -32462,7 +32467,7 @@
       "Name": "Dog Eat Dog",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38650
+      "UsersEstimate": 38651
     },
     {
       "ID": "DressToImpress",
@@ -32486,7 +32491,7 @@
       "Name": "Go For It",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5521
+      "UsersEstimate": 5522
     },
     {
       "ID": "Gutshot",
@@ -32582,7 +32587,7 @@
       "Name": "Poker Joker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49693
+      "UsersEstimate": 49694
     },
     {
       "ID": "PokerShowdown",
@@ -32598,7 +32603,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 419633
+      "UsersEstimate": 419634
     },
     {
       "ID": "ProPlayer",
@@ -32614,7 +32619,7 @@
       "Name": "Quack Quack",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 38650
+      "UsersEstimate": 38651
     },
     {
       "ID": "RankAmateur",
@@ -32662,7 +32667,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71779
+      "UsersEstimate": 71780
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -32709,7 +32714,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 552149,
+      "Progressed": 552150,
       "Completed": 2
     }
   ],
@@ -32717,8 +32722,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-17T02:24:16.8558489+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:06:40.2217045+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:06:25.8718179+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.9152089+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:02:01.9846926+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:06:40.2219025+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:02:49.4889051+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:06:25.871963+00:00"
 }

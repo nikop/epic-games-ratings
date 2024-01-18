@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19126,
+  "EOS_Progressed": 19128,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17689,6 +17689,11 @@
       "Time": "2024-01-18T04:08:08.8562702+00:00",
       "NumProgressed": 19126,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T05:08:41.7769681+00:00",
+      "NumProgressed": 19128,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17805,7 +17810,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "22",
@@ -17821,7 +17826,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1721
+      "UsersEstimate": 1722
     },
     {
       "ID": "24",
@@ -17941,7 +17946,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "32",
@@ -17980,13 +17985,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19126,
+      "Progressed": 19128,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5080,
+      "Progressed": 5082,
       "Completed": 1342
     }
   ],
@@ -17994,8 +17999,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:08:08.8562698+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:08:41.7769678+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:01:18.2803508+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:08:08.8563701+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:01:08.9656344+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:08:41.7770714+00:00"
 }

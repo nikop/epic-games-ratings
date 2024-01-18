@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3499,
+  "EOS_Progressed": 3500,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5787,6 +5787,11 @@
       "Time": "2024-01-18T04:11:03.7311716+00:00",
       "NumProgressed": 3499,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T05:11:30.9104221+00:00",
+      "NumProgressed": 3500,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5799,7 +5804,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3114
+      "UsersEstimate": 3115
     },
     {
       "ID": "achievement_10",
@@ -5887,7 +5892,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "achievement_20",
@@ -5919,7 +5924,7 @@
       "Name": "Witch-Taker",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_24",
@@ -5943,7 +5948,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "achievement_36",
@@ -5975,7 +5980,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "achievement_41",
@@ -6031,7 +6036,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "achievement_49",
@@ -6119,7 +6124,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_64",
@@ -6135,7 +6140,7 @@
       "Name": "Backtracker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_67",
@@ -6174,7 +6179,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3499,
+      "Progressed": 3500,
       "Completed": 5
     }
   ],
@@ -6182,8 +6187,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:03.7311711+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:30.9104219+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:59:42.7424764+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:03.731231+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:59:37.7300422+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:30.9104826+00:00"
 }

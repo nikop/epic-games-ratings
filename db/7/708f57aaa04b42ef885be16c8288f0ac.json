@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15021,
+  "EOS_Progressed": 15022,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10749,6 +10749,11 @@
       "Time": "2024-01-18T04:11:03.8236852+00:00",
       "NumProgressed": 15021,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T05:11:30.9296559+00:00",
+      "NumProgressed": 15022,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10817,7 +10822,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "FasterThanLight",
@@ -10841,7 +10846,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "GarbageMan",
@@ -10865,7 +10870,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3154
+      "UsersEstimate": 3155
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10953,7 +10958,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "TheQuarterback",
@@ -11001,7 +11006,7 @@
       "Name": "Digestive Issues",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -11032,7 +11037,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15021,
+      "Progressed": 15022,
       "Completed": 27
     }
   ],
@@ -11040,8 +11045,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:03.8236848+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:30.9296557+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:02:40.9102545+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:03.8237392+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:02:57.4744349+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:30.9297085+00:00"
 }

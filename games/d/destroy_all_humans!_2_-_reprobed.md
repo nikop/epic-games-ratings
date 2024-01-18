@@ -6,21 +6,21 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~373 |
+| Rock of the Bay | 84.00% | ~374 |
 | Mash Machine | 74.00% | ~329 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~244 |
-| Furon Fashion | 48.00% | ~213 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~245 |
+| Furon Fashion | 48.00% | ~214 |
 | Shop Til They Drop | 40.00% | ~178 |
 | Bodied Sattva | 38.00% | ~169 |
 | Cult Following | 36.00% | ~160 |
 | Earthly Pleasures | 34.00% | ~151 |
 | Lie Back and Think of Albion | 29.00% | ~129 |
-| Upgreatest | 28.00% | ~124 |
-| Pimp My Raid | 26.00% | ~115 |
+| Upgreatest | 28.00% | ~125 |
+| Pimp My Raid | 26.00% | ~116 |
 | Freshly Squeezed | 23.00% | ~102 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~98 |
-| Perfect Probulator | 19.00% | ~84 |
-| Die Nasty | 19.00% | ~84 |
+| Perfect Probulator | 19.00% | ~85 |
+| Die Nasty | 19.00% | ~85 |
 | Transmitting From Sol-3 | 16.00% | ~71 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~62 |
 | Fly Me to the Moon Base | 11.00% | ~49 |
@@ -31,7 +31,7 @@ Number of Ratings: 90  (23.09.2022)
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~31 |
 | Ultimate Smoothie | 5.00% | ~22 |
 | Yettisoned | 5.00% | ~22 |
-| Arkvoodle Doodle | 5.00% | ~22 |
+| Arkvoodle Doodle | 4.00% | ~18 |
 | Deincarnated | 3.00% | ~13 |
 | Against All Odds | 2.00% | ~9 |
 | Forbidden Donut | 2.00% | ~9 |
@@ -43,15 +43,15 @@ Number of Ratings: 90  (23.09.2022)
 | Higher Than the Futen Zoku | 0.90% | ~4 |
 | If You Know What I Mean | 0.90% | ~4 |
 | PK Slam Dunk | 0.70% | ~3 |
-| Toilet Break | 0.50% | ~2 |
-| Albion Bridge Is for Falling Down | 0.50% | ~2 |
-| Ouch of Body Experience | 0.50% | ~2 |
-| To Russia With Love | 0.50% | ~2 |
-| Steezy Down the Spine | 0.50% | ~2 |
-| Path of the Furon | 0.50% | ~2 |
-| Trans-Siberian Express | 0.50% | ~2 |
+| Toilet Break | 0.40% | ~2 |
+| Albion Bridge Is for Falling Down | 0.40% | ~2 |
+| Ouch of Body Experience | 0.40% | ~2 |
+| To Russia With Love | 0.40% | ~2 |
+| Steezy Down the Spine | 0.40% | ~2 |
+| Path of the Furon | 0.40% | ~2 |
+| Trans-Siberian Express | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 444 (Ranked 365)  
+Progressed: 445 (Ranked 365)  
 Completed: 2 (0.45%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.45%) (Ranked 236)
 | 2024-01-15 | 439 | 2 |
 | 2024-01-16 | 441 | 2 |
 | 2024-01-17 | 443 | 2 |
-| 2024-01-18 | 444 | 2 |
+| 2024-01-18 | 445 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 535)  

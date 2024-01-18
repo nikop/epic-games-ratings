@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,117 |
-| Lost and Found | 9.00% | ~718 |
+| Malpractice Assurance | 14.00% | ~1,118 |
+| Lost and Found | 9.00% | ~719 |
 | Autodidact | 8.00% | ~10,649 |
 | This Belongs in a Museum | 7.00% | ~9,318 |
 | Overdue Notice | 7.00% | ~9,318 |
@@ -32,19 +32,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 5.00% | ~6,656 |
 | Nope | 5.00% | ~6,656 |
 | Friends 'Til the End | 5.00% | ~399 |
-| Resurrection | 4.00% | ~5,324 |
-| Unleash Hell | 4.00% | ~5,324 |
-| Funny Guy | 4.00% | ~5,324 |
-| Long Live the King | 4.00% | ~5,324 |
-| Wyrdly Reconstructed | 4.00% | ~5,324 |
-| Unfulfilled Desires | 4.00% | ~5,324 |
-| Dissector | 4.00% | ~5,324 |
-| Banishment | 4.00% | ~5,324 |
-| Now Stay Dead | 4.00% | ~5,324 |
-| Spelunker | 4.00% | ~5,324 |
-| Ramble On | 4.00% | ~5,324 |
-| A Clear Conscience | 4.00% | ~5,324 |
-| Unshackled | 4.00% | ~5,324 |
+| Resurrection | 4.00% | ~5,325 |
+| Unleash Hell | 4.00% | ~5,325 |
+| Funny Guy | 4.00% | ~5,325 |
+| Long Live the King | 4.00% | ~5,325 |
+| Wyrdly Reconstructed | 4.00% | ~5,325 |
+| Unfulfilled Desires | 4.00% | ~5,325 |
+| Dissector | 4.00% | ~5,325 |
+| Banishment | 4.00% | ~5,325 |
+| Now Stay Dead | 4.00% | ~5,325 |
+| Spelunker | 4.00% | ~5,325 |
+| Ramble On | 4.00% | ~5,325 |
+| A Clear Conscience | 4.00% | ~5,325 |
+| Unshackled | 4.00% | ~5,325 |
 | Boxcar Kid | 3.00% | ~3,993 |
 | Hope Rekindled | 3.00% | ~3,993 |
 | Predator | 3.00% | ~3,993 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,112 (Ranked 92)  
+Progressed: 133,116 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,112 | 5 |
+| 2024-01-18 | 133,116 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,713 (Ranked 58)  

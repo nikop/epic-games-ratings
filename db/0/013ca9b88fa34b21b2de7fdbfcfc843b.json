@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9112,
+  "EOS_Progressed": 9113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10388,6 +10388,11 @@
       "Time": "2024-01-17T23:11:17.1093809+00:00",
       "NumProgressed": 9112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T05:11:36.0225928+00:00",
+      "NumProgressed": 9113,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10398,9 +10403,9 @@
       "ID": "CHAPTER_1_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Azoria Beckons",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 547
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -10504,7 +10509,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -10576,7 +10581,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -10743,13 +10748,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9112,
+      "Progressed": 9113,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1729,
+      "Progressed": 1730,
       "Completed": 1050
     }
   ],
@@ -10757,8 +10762,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:09.2065308+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:36.0225925+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:04:04.3988645+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:09.2066134+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:03:57.3368585+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:36.022655+00:00"
 }

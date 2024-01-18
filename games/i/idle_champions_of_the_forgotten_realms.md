@@ -11,7 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 2.00% | ~5,090 |
 | The Mad Wizard | 2.00% | ~5,090 |
 | The Ring of Regeneration | 1.00% | ~2,545 |
-| Are Ya Chicken? | 0.90% | ~2,290 |
+| Are Ya Chicken? | 0.90% | ~2,291 |
 | Were-verpowered | 0.80% | ~2,036 |
 | Seeking Allies | 0.80% | ~2,036 |
 | Mad Cow Disease | 0.80% | ~2,036 |
@@ -44,19 +44,19 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.40% | ~883 |
 | Chaos Theory | 0.40% | ~883 |
 | Mind Spike | 0.40% | ~883 |
-| The Silken Swamp | 0.30% | ~763 |
-| Supply Run | 0.30% | ~763 |
-| March of the Undead | 0.30% | ~763 |
-| No Time To Rest | 0.30% | ~763 |
-| Invisible Shadows | 0.30% | ~763 |
-| The Dinner Party | 0.30% | ~763 |
-| A Tale of Two Cities | 0.30% | ~763 |
-| Close Escort | 0.30% | ~763 |
-| Constant Banditry | 0.30% | ~763 |
-| Underdeep Cartography | 0.30% | ~763 |
-| Overdue Rendezvous | 0.30% | ~763 |
-| The Templar's Camp | 0.30% | ~763 |
-| Rescue in the Jungle | 0.30% | ~763 |
+| The Silken Swamp | 0.30% | ~764 |
+| Supply Run | 0.30% | ~764 |
+| March of the Undead | 0.30% | ~764 |
+| No Time To Rest | 0.30% | ~764 |
+| Invisible Shadows | 0.30% | ~764 |
+| The Dinner Party | 0.30% | ~764 |
+| A Tale of Two Cities | 0.30% | ~764 |
+| Close Escort | 0.30% | ~764 |
+| Constant Banditry | 0.30% | ~764 |
+| Underdeep Cartography | 0.30% | ~764 |
+| Overdue Rendezvous | 0.30% | ~764 |
+| The Templar's Camp | 0.30% | ~764 |
+| Rescue in the Jungle | 0.30% | ~764 |
 | Pros and CONs | 0.20% | ~509 |
 | Wet Feet | 0.20% | ~509 |
 | Hatchlings Underfoot | 0.20% | ~509 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,495 (Ranked 71)  
+Progressed: 254,500 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,495 | 2,624 |
+| 2024-01-18 | 254,500 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,537 (Ranked 41)  

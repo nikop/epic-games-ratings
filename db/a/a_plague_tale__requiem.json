@@ -839,9 +839,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18455,
+  "EOS_Progressed": 18456,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -16359,6 +16359,11 @@
       "Time": "2024-01-18T04:08:34.0906092+00:00",
       "NumProgressed": 18455,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T05:09:06.2383518+00:00",
+      "NumProgressed": 18456,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -16370,7 +16375,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16794
+      "UsersEstimate": 16795
     },
     {
       "ID": "ACH_02",
@@ -16378,7 +16383,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14026
+      "UsersEstimate": 14027
     },
     {
       "ID": "ACH_03",
@@ -16386,15 +16391,15 @@
       "Name": "A Burden of Blood",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 12918
+      "UsersEstimate": 12919
     },
     {
       "ID": "ACH_04",
       "SetID": "9d4cf4c",
       "Name": "Protector\u0027s Duty",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12180
+      "UsersEstimate": 12366
     },
     {
       "ID": "ACH_05",
@@ -16402,7 +16407,7 @@
       "Name": "In our Wake",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 11811
+      "UsersEstimate": 11812
     },
     {
       "ID": "ACH_06",
@@ -16426,7 +16431,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 10519
+      "UsersEstimate": 10520
     },
     {
       "ID": "ACH_09",
@@ -16434,7 +16439,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 9781
+      "UsersEstimate": 9782
     },
     {
       "ID": "ACH_10",
@@ -16458,7 +16463,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7751
+      "UsersEstimate": 7752
     },
     {
       "ID": "ACH_13",
@@ -16498,7 +16503,7 @@
       "Name": "Knights!",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3507
     },
     {
       "ID": "ACH_18",
@@ -16649,7 +16654,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18455,
+      "Progressed": 18456,
       "Completed": 66
     }
   ],
@@ -16657,8 +16662,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-14T11:02:38.12957+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:08:34.0906088+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:09:06.2383514+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.7609626+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:58:55.1137453+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:08:34.0907228+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:58:50.7730978+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:09:06.2384582+00:00"
 }

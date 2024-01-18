@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 157,
+  "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -401,7 +401,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11726,
+  "EOS_Progressed": 11728,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 0,
@@ -5306,6 +5306,11 @@
       "Time": "2024-01-18T04:11:07.162378+00:00",
       "NumProgressed": 11726,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T05:11:34.1175215+00:00",
+      "NumProgressed": 11728,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5334,7 +5339,7 @@
       "Name": "Trade Empire",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -5478,7 +5483,7 @@
       "Name": "Perfect Timing",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "23_DynastyRestored",
@@ -5486,7 +5491,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "24_TheHighrise",
@@ -5526,7 +5531,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5646,7 +5651,7 @@
       "Name": "No Place Like Home",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5837,7 +5842,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11726,
+      "Progressed": 11728,
       "Completed": 1
     }
   ],
@@ -5845,8 +5850,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-18T03:00:05.8249354+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:07.1623775+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:34.1175213+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:00:05.0431316+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:07.1624553+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:59:59.2650062+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:34.1175791+00:00"
 }

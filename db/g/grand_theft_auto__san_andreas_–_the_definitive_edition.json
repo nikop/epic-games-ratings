@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2563,7 +2563,7 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19666,
+  "EOS_Progressed": 19667,
   "EOS_Completed": 80,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 5,
@@ -20788,6 +20788,11 @@
       "Time": "2024-01-18T04:11:03.1367554+00:00",
       "NumProgressed": 19666,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-18T05:11:30.383694+00:00",
+      "NumProgressed": 19667,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20799,7 +20804,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15929
+      "UsersEstimate": 15930
     },
     {
       "ID": "ACH02",
@@ -20855,7 +20860,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9833
+      "UsersEstimate": 9834
     },
     {
       "ID": "ACH09",
@@ -20975,7 +20980,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     },
     {
       "ID": "ACH24",
@@ -21078,7 +21083,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19666,
+      "Progressed": 19667,
       "Completed": 80
     }
   ],
@@ -21086,8 +21091,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-18T02:59:13.9862876+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:11:03.1367537+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:11:30.3836939+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:59:12.7098546+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:11:03.1368738+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:59:08.9187647+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:11:30.3837763+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -8995,10 +8995,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12784,
       "NumberOfAwardsMax": 7227
+    },
+    {
+      "Time": "2024-01-18T05:03:41.7418339+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12785,
+      "NumberOfAwardsMax": 7227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12784,
+  "NumberOfAwards": 12785,
   "NumberOfAwardsMax": 7227,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9066,7 +9072,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 612
+      "Count": 613
     },
     {
       "Text": "This game has a Creative Community",
@@ -9075,9 +9081,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761495,
+  "EOS_Progressed": 761504,
   "EOS_Completed": 12991,
-  "EOS_NewPlayers": 2319,
+  "EOS_NewPlayers": 2312,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34260,6 +34266,11 @@
       "Time": "2024-01-18T04:10:26.1299747+00:00",
       "NumProgressed": 761495,
       "NumCompleted": 12991
+    },
+    {
+      "Time": "2024-01-18T05:10:54.333192+00:00",
+      "NumProgressed": 761504,
+      "NumCompleted": 12991
     }
   ],
   "TotalAchievements": 60,
@@ -34327,7 +34338,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5330
+      "UsersEstimate": 5331
     },
     {
       "ID": "09_Wude_H3",
@@ -34335,7 +34346,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5330
+      "UsersEstimate": 5331
     },
     {
       "ID": "10_Wude_H4",
@@ -34367,7 +34378,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3808
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -34383,7 +34394,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5330
+      "UsersEstimate": 5331
     },
     {
       "ID": "16_Detective_H2",
@@ -34391,7 +34402,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "17_Detective_H3",
@@ -34399,7 +34410,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "18_Detective_H4",
@@ -34487,7 +34498,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 3807
+      "UsersEstimate": 3808
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -34495,7 +34506,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "30_ComboMid",
@@ -34511,7 +34522,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "32_ReachMaxAge",
@@ -34575,7 +34586,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2284
+      "UsersEstimate": 2285
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -34591,7 +34602,7 @@
       "Name": "Warriors from the Mountain",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "42_PhotoMode_Trophy",
@@ -34750,21 +34761,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 70796,
+      "Progressed": 70805,
       "Completed": 10812
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761495,
+      "Progressed": 761504,
       "Completed": 12991
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-17T21:02:58.6403085+00:00",
-  "LastChanged_Achievements": "2024-01-18T04:10:26.1299742+00:00",
+  "LastChanged": "2024-01-18T05:03:41.7418338+00:00",
+  "LastChanged_Achievements": "2024-01-18T05:10:54.3331917+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:03:26.9979492+00:00",
-  "LastUpdate_Achievements": "2024-01-18T04:10:26.1301301+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:03:41.7418343+00:00",
+  "LastUpdate_Achievements": "2024-01-18T05:10:54.3334111+00:00"
 }

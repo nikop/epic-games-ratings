@@ -50,7 +50,7 @@ Rating: 4.78 (Ranked 113)
 | The end of the experiments | 14.00% | ~486 |
 | Truth is a dark mirror | 14.00% | ~486 |
 | Call it 'redistribution of magic | 14.00% | ~486 |
-| Do you trust me? | 12.00% | ~417 |
+| Do you trust me? | 13.00% | ~452 |
 | The great mage rebellion starts now | 12.00% | ~417 |
 | Back to sleep, then... | 12.00% | ~417 |
 | Chains master | 11.00% | ~382 |

@@ -54,6 +54,7 @@
 | Fade Away | 22.00% | ~980 |
 | Ghost of the Father | 22.00% | ~980 |
 | The Cure | 22.00% | ~980 |
+| Big Game Hunter | 22.00% | ~980 |
 | Galactic Explorer | 22.00% | ~980 |
 | Revenge! | 22.00% | ~980 |
 | Heart of Darkness | 22.00% | ~980 |
@@ -62,7 +63,6 @@
 | Focused | 21.00% | ~935 |
 | Archivist | 21.00% | ~935 |
 | Treason | 21.00% | ~935 |
-| Big Game Hunter | 21.00% | ~935 |
 | Digital Exorcist | 21.00% | ~935 |
 | Completionist | 20.00% | ~891 |
 | Mission Accomplished | 20.00% | ~891 |

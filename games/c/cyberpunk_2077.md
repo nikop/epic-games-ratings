@@ -8,6 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.30% | ~3,162 |
 | Right Back At Ya | 0.30% | ~3,162 |
+| The Wheel of Fortune | 0.30% | ~3,162 |
 | True Soldier | 0.30% | ~3,162 |
 | Bushido and Chill | 0.20% | ~2,108 |
 | Gun Fu | 0.20% | ~2,108 |
@@ -19,7 +20,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.20% | ~2,108 |
 | The High Priestess | 0.20% | ~2,108 |
 | The Lovers | 0.20% | ~2,108 |
-| The Wheel of Fortune | 0.20% | ~2,108 |
 | The World | 0.20% | ~2,108 |
 | Judy vs Night City | 0.20% | ~2,108 |
 | Legend of The Afterlife | 0.20% | ~2,108 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,936 (Ranked 17)  
+Progressed: 1,053,956 (Ranked 17)  
 Completed: 3,117 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,17 +347,17 @@ Completed: 3,117 (0.30%) (Ranked 262)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
-| 2024-01-18 | 1,053,936 | 3,117 |
+| 2024-01-18 | 1,053,956 | 3,117 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
-Sum: 502,288 (Ranked 8)  
+Sum: 502,464 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 141,662 |
 | This game has Great Boss Battles | 105,189 |
 | This game is Great for Beginners | 32,075 |
-| This game has Diverse Characters | 31,206 |
+| This game has Diverse Characters | 31,382 |
 | This game is Highly Recommended | 29,830 |
 | This game has Amazing Storytelling | 29,252 |
 | This game is Extremely Fun | 29,160 |
@@ -732,4 +732,4 @@ Diff (max vs sum): 0
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
-| 2024-01-18 | 4.67 | - | 141,662 | 502,288 |
+| 2024-01-18 | 4.67 | - | 141,662 | 502,464 |

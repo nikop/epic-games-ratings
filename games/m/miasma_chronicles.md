@@ -23,8 +23,8 @@ Rating: 4.40 (Ranked 771)
 | Technophobe | 41.00% | ~707 |
 | Recycler | 40.00% | ~690 |
 | Are you not entertained? | 36.00% | ~621 |
+| Ganglord | 36.00% | ~621 |
 | Jarhead | 36.00% | ~621 |
-| Ganglord | 35.00% | ~603 |
 | Infiltrator | 35.00% | ~603 |
 | Experienced | 33.00% | ~569 |
 | Hold The Line | 33.00% | ~569 |

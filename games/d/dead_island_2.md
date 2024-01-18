@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,548 |
-| Break A Leg | 9.00% | ~72,493 |
-| Hotel California | 9.00% | ~72,493 |
-| Coup de Grâce | 8.00% | ~64,438 |
-| Hazardous Materials | 8.00% | ~64,438 |
-| Git Gutte! | 7.00% | ~56,383 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,383 |
+| Welcome To Hell-A | 10.00% | ~80,549 |
+| Break A Leg | 9.00% | ~72,494 |
+| Hotel California | 9.00% | ~72,494 |
+| Coup de Grâce | 8.00% | ~64,439 |
+| Hazardous Materials | 8.00% | ~64,439 |
+| Git Gutte! | 7.00% | ~56,384 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,384 |
 | Dr. Reed, I Presume? | 6.00% | ~48,329 |
 | Bookworm | 6.00% | ~48,329 |
 | Friends Like These | 6.00% | ~48,329 |
@@ -33,8 +33,8 @@ Rating: 4.54 (Ranked 549)
 | Our True Nature | 4.00% | ~32,219 |
 | Whatever It Takes | 4.00% | ~5,241 |
 | Pork Chopped | 4.00% | ~5,241 |
-| Humanity Distilled | 3.00% | ~24,164 |
-| Down with the Sickness | 3.00% | ~24,164 |
+| Humanity Distilled | 3.00% | ~24,165 |
+| Down with the Sickness | 3.00% | ~24,165 |
 | One of Us | 3.00% | ~3,931 |
 | Smorgasbord | 2.00% | ~16,110 |
 | Not Even My Final Form | 2.00% | ~16,110 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 549)
 | Bucket List | 0.10% | ~805 |
 | Wilhelm | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,478 (Ranked 23)  
+Progressed: 805,486 (Ranked 23)  
 Completed: 2,596 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 2,596 (0.32%) (Ranked 257)
 | 2024-01-15 | 804,269 | 2,590 |
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
-| 2024-01-18 | 805,478 | 2,596 |
+| 2024-01-18 | 805,486 | 2,596 |
 ## Awards
 Max (Great Boss Battles): 10,564  (Ranked 40)  
 Sum: 16,211 (Ranked 70)  
