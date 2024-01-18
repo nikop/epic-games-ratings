@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 3.00% | ~509 |
 | Oracle | 3.00% | ~509 |
 | Pyramids | 3.00% | ~509 |
+| Learn to Play 1 | 3.00% | ~509 |
 | Judaism | 3.00% | ~509 |
 | Greek Paganism | 3.00% | ~509 |
 | Naming Landmarks | 3.00% | ~509 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lighthouse | 2.00% | ~339 |
 | Musaeum | 2.00% | ~339 |
 | Necropolis | 2.00% | ~339 |
-| Learn to Play 1 | 2.00% | ~339 |
 | Learn to Play 2 | 2.00% | ~339 |
 | Christianity | 2.00% | ~339 |
 | Manichaeism | 2.00% | ~339 |
@@ -218,6 +218,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destroyer | 0.10% | ~17 |
 | Holy | 0.10% | ~17 |
 | Rebuilder | 0.10% | ~17 |
+| Restorer | 0.10% | ~17 |
 | White Death | 0.10% | ~17 |
 | Via Recta Souk in Damascus | 0.10% | ~17 |
 | Great Difficulty | 0.10% | ~17 |
@@ -319,7 +320,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
-| Restorer | 0.00% | ~0 |
 | Council of Madness | 0.00% | ~0 |
 | Oracle in Delphi | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,955 (Ranked 169)  
+Progressed: 16,956 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,955 | 5 |
+| 2024-01-18 | 16,956 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

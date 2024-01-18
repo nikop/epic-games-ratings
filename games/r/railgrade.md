@@ -5,17 +5,17 @@ Rating: 4.55 (Ranked 531)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 108.00% | ~19,167 |
-| Before the Downfall | 103.00% | ~18,279 |
-| Money like Water | 101.00% | ~17,924 |
-| Minimalist | 99.00% | ~17,570 |
-| Builder | 91.00% | ~16,150 |
-| Eraser | 77.00% | ~13,665 |
-| Pocket of Trains | 72.00% | ~12,778 |
-| Inspector | 65.00% | ~11,536 |
+| Trevithick's Legacy | 108.00% | ~19,166 |
+| Before the Downfall | 103.00% | ~18,278 |
+| Money like Water | 101.00% | ~17,923 |
+| Minimalist | 99.00% | ~17,569 |
+| Builder | 91.00% | ~16,149 |
+| Eraser | 77.00% | ~13,664 |
+| Pocket of Trains | 72.00% | ~12,777 |
+| Inspector | 65.00% | ~11,535 |
 | Going the Distance | 60.00% | ~10,648 |
-| Oil Baron | 46.00% | ~8,164 |
-| Loads-a-Money | 46.00% | ~8,164 |
+| Oil Baron | 46.00% | ~8,163 |
+| Loads-a-Money | 46.00% | ~8,163 |
 | Helper of the People | 43.00% | ~7,631 |
 | Simplification | 37.00% | ~6,566 |
 | Box of Trains | 37.00% | ~6,566 |
@@ -25,10 +25,10 @@ Rating: 4.55 (Ranked 531)
 | The scenic route | 30.00% | ~5,324 |
 | Industrialist | 28.00% | ~4,969 |
 | Perfectionist | 26.00% | ~4,614 |
-| 8K is Enough for Everyone | 25.00% | ~4,437 |
-| Trains over Pipes | 25.00% | ~4,437 |
+| 8K is Enough for Everyone | 25.00% | ~4,436 |
+| Trains over Pipes | 25.00% | ~4,436 |
 | Man of Steel | 18.00% | ~3,194 |
-| Room Full of Trains | 14.00% | ~2,485 |
+| Room Full of Trains | 14.00% | ~2,484 |
 | Investor | 11.00% | ~1,952 |
 | Multiverse | 8.00% | ~1,420 |
 | The poor groundwater levels | 8.00% | ~1,420 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 531)
 | Overdeer | 0.60% | ~106 |
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,747 (Ranked 166)  
+Progressed: 17,746 (Ranked 166)  
 Completed: 23 (0.13%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,6 +313,7 @@ Completed: 23 (0.13%) (Ranked 305)
 | 2024-01-15 | 17,777 | 23 |
 | 2024-01-16 | 17,767 | 23 |
 | 2024-01-17 | 17,752 | 23 |
+| 2024-01-18 | 17,746 | 23 |
 ## Awards
 Max (Quickly Understood Controls): 94  (Ranked 395)  
 Sum: 686 (Ranked 314)  

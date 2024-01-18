@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~316,499 |
-| Delving Onward | 69.00% | ~266,322 |
-| Miner's Helper | 59.00% | ~227,725 |
-| Suit Up | 54.00% | ~208,426 |
-| To the Mountain's Roots | 49.00% | ~189,127 |
-| Remains To Be Seen | 35.00% | ~135,091 |
-| Covered Head to Toe | 33.00% | ~127,371 |
-| Line of Azog, Ended | 31.00% | ~119,652 |
-| Risk a Little Real Light | 31.00% | ~119,652 |
-| Caradhras The Cruel | 18.00% | ~69,475 |
-| A Memory of this Place | 18.00% | ~69,475 |
-| False King, Deposed | 14.00% | ~54,036 |
-| Baruk Khazâd! | 13.00% | ~50,177 |
-| Battering Ram | 13.00% | ~50,177 |
-| Shadow's Bane | 10.00% | ~38,597 |
+| Speak Friend | 82.00% | ~316,505 |
+| Delving Onward | 69.00% | ~266,328 |
+| Miner's Helper | 59.00% | ~227,729 |
+| Suit Up | 54.00% | ~208,430 |
+| To the Mountain's Roots | 49.00% | ~189,131 |
+| Remains To Be Seen | 35.00% | ~135,094 |
+| Covered Head to Toe | 33.00% | ~127,374 |
+| Line of Azog, Ended | 31.00% | ~119,654 |
+| Risk a Little Real Light | 31.00% | ~119,654 |
+| Caradhras The Cruel | 18.00% | ~69,477 |
+| A Memory of this Place | 18.00% | ~69,477 |
+| False King, Deposed | 14.00% | ~54,037 |
+| Baruk Khazâd! | 13.00% | ~50,178 |
+| Battering Ram | 13.00% | ~50,178 |
+| Shadow's Bane | 10.00% | ~38,598 |
 | Westgate Weaponcraft | 9.00% | ~34,738 |
-| Deeps Weaponcraft | 8.00% | ~30,878 |
-| Darkness Is Passing | 7.00% | ~27,018 |
+| Deeps Weaponcraft | 8.00% | ~30,879 |
+| Darkness Is Passing | 7.00% | ~27,019 |
 | Decked Out | 5.00% | ~19,299 |
 | Guarded from Despair | 5.00% | ~19,299 |
 | Master of All Trades | 4.00% | ~15,439 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 730)
 | Shielded | 1.00% | ~3,860 |
 | We're Gonna Need More Mugs | 0.20% | ~772 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,974 (Ranked 54)  
+Progressed: 385,982 (Ranked 54)  
 Completed: 365 (0.09%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 365 (0.09%) (Ranked 323)
 | 2024-01-15 | 384,824 | 350 |
 | 2024-01-16 | 385,383 | 356 |
 | 2024-01-17 | 385,849 | 363 |
-| 2024-01-18 | 385,974 | 365 |
+| 2024-01-18 | 385,982 | 365 |
 ## Awards
 Max (Great for Beginners): 964  (Ranked 169)  
 Sum: 5,538 (Ranked 143)  

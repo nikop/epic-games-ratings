@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,691 |
-| Life is your teacher | 5.00% | ~38,076 |
-| Lightning Hands | 5.00% | ~38,076 |
+| The Old Grandmaster | 6.00% | ~45,692 |
+| Life is your teacher | 5.00% | ~38,077 |
+| Lightning Hands | 5.00% | ~38,077 |
 | The Assault | 4.00% | ~30,461 |
 | The Hateful Pole Fighter | 3.00% | ~22,846 |
 | Stuntmaster | 3.00% | ~22,846 |
@@ -16,16 +16,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,846 |
 | Qi Gong: Essence | 3.00% | ~22,846 |
 | Old Child | 3.00% | ~22,846 |
-| A Lady's Blood in the Snow | 2.00% | ~15,230 |
-| Lady Wing Chun | 2.00% | ~15,230 |
-| Furious Fists | 2.00% | ~15,230 |
-| Kill Nil | 2.00% | ~15,230 |
-| Qi Gong: Breath | 2.00% | ~15,230 |
-| I know Kung-Fu | 2.00% | ~15,230 |
-| Path of the Prospect | 2.00% | ~15,230 |
-| Rumble in the Hangar | 2.00% | ~15,230 |
-| Take damage to save time | 2.00% | ~15,230 |
-| Diligence as a goal | 2.00% | ~1,416 |
+| A Lady's Blood in the Snow | 2.00% | ~15,231 |
+| Lady Wing Chun | 2.00% | ~15,231 |
+| Furious Fists | 2.00% | ~15,231 |
+| Kill Nil | 2.00% | ~15,231 |
+| Qi Gong: Breath | 2.00% | ~15,231 |
+| I know Kung-Fu | 2.00% | ~15,231 |
+| Path of the Prospect | 2.00% | ~15,231 |
+| Rumble in the Hangar | 2.00% | ~15,231 |
+| Take damage to save time | 2.00% | ~15,231 |
+| Diligence as a goal | 2.00% | ~1,417 |
 | Scareless | 1.00% | ~7,615 |
 | Dance of the Praying Mantis | 1.00% | ~7,615 |
 | Qi Gong: Mind | 1.00% | ~7,615 |
@@ -52,8 +52,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Master of the Phoenix Eye Fist | 0.30% | ~2,285 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,285 |
 | Be like water my friend | 0.30% | ~2,285 |
-| Deadly Venom | 0.30% | ~212 |
-| A Touch of Acumen | 0.30% | ~212 |
+| Deadly Venom | 0.30% | ~213 |
+| A Touch of Acumen | 0.30% | ~213 |
 | Healing Memory | 0.20% | ~1,523 |
 | Secure, Protect, Leave | 0.20% | ~142 |
 | Crouching Tiger | 0.20% | ~142 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,524 (Ranked 26)  
+Progressed: 761,536 (Ranked 26)  
 Completed: 12,991 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 12,991 (1.71%) (Ranked 148)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,524 | 12,991 |
+| 2024-01-18 | 761,536 | 12,991 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
 Sum: 12,785 (Ranked 87)  

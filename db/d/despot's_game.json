@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 456,
+  "Ranking_EOS_NewPlayers": 436,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 502,
+  "EOS_Progressed": 503,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -778,6 +778,11 @@
       "Time": "2024-01-16T22:09:26.0934569+00:00",
       "NumProgressed": 502,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T08:08:52.8492084+00:00",
+      "NumProgressed": 503,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -821,7 +826,7 @@
       "Name": "Frugal",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "collect-discounted-items2",
@@ -845,7 +850,7 @@
       "Name": "Party",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "different-items2",
@@ -877,7 +882,7 @@
       "Name": "Great Flight",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-monster",
@@ -891,9 +896,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 101
     },
     {
       "ID": "finished-quest-pit",
@@ -901,7 +906,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "finished-quest-rat",
@@ -931,9 +936,9 @@
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 96
     },
     {
       "ID": "finished-quest-sword",
@@ -941,7 +946,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "get-all",
@@ -1013,7 +1018,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "win-koth-fights1",
@@ -1068,7 +1073,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 502,
+      "Progressed": 503,
       "Completed": 1
     }
   ],
@@ -1076,8 +1081,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:09:22.6316986+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:08:52.8492079+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:11.1690349+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:03:34.1498756+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:09:22.6317222+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:02:59.8943851+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:08:52.8492432+00:00"
 }

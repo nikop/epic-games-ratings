@@ -4,7 +4,7 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 180,
   "Ranking_Popularity": 228,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 250,
   "Ranking_EOS_NewPlayers": 112,
@@ -771,18 +771,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 729,
       "NumberOfAwardsMax": 465
+    },
+    {
+      "Time": "2024-01-18T07:58:21.3418322+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 732,
+      "NumberOfAwardsMax": 468
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 729,
-  "NumberOfAwardsMax": 465,
+  "NumberOfAwards": 732,
+  "NumberOfAwardsMax": 468,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 465
+      "Count": 468
     },
     {
       "Text": "This game is Great for Beginners",
@@ -839,9 +845,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18458,
+  "EOS_Progressed": 18459,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -16369,6 +16375,11 @@
       "Time": "2024-01-18T07:09:04.8106259+00:00",
       "NumProgressed": 18458,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T08:08:40.1748419+00:00",
+      "NumProgressed": 18459,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -16380,7 +16391,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16797
+      "UsersEstimate": 16798
     },
     {
       "ID": "ACH_02",
@@ -16388,7 +16399,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14028
+      "UsersEstimate": 14029
     },
     {
       "ID": "ACH_03",
@@ -16404,7 +16415,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12367
+      "UsersEstimate": 12368
     },
     {
       "ID": "ACH_05",
@@ -16412,7 +16423,7 @@
       "Name": "In our Wake",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 11813
+      "UsersEstimate": 11814
     },
     {
       "ID": "ACH_06",
@@ -16420,7 +16431,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 11259
+      "UsersEstimate": 11260
     },
     {
       "ID": "ACH_07",
@@ -16436,7 +16447,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 10521
+      "UsersEstimate": 10522
     },
     {
       "ID": "ACH_09",
@@ -16452,7 +16463,7 @@
       "Name": "Bloodline",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 9044
+      "UsersEstimate": 9045
     },
     {
       "ID": "ACH_11",
@@ -16460,7 +16471,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8306
+      "UsersEstimate": 8307
     },
     {
       "ID": "ACH_12",
@@ -16468,7 +16479,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7752
+      "UsersEstimate": 7753
     },
     {
       "ID": "ACH_13",
@@ -16500,7 +16511,7 @@
       "Name": "King Hugo",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     },
     {
       "ID": "ACH_17",
@@ -16556,7 +16567,7 @@
       "Name": "Improved crossbow",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4614
+      "UsersEstimate": 4615
     },
     {
       "ID": "ACH_24",
@@ -16588,7 +16599,7 @@
       "Name": "Night guard",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 7383
+      "UsersEstimate": 7384
     },
     {
       "ID": "ACH_28",
@@ -16628,7 +16639,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     },
     {
       "ID": "ACH_33",
@@ -16652,23 +16663,23 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4245
+      "UsersEstimate": 4246
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18458,
+      "Progressed": 18459,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2024-01-14T11:02:38.12957+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:09:04.8106254+00:00",
+  "LastChanged": "2024-01-18T07:58:21.3418318+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:08:40.1748412+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.7609626+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:58:55.900151+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:09:04.8107523+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:58:21.3418326+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:08:40.1749406+00:00"
 }

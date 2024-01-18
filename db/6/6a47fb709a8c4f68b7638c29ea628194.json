@@ -4,7 +4,7 @@
   "ProductSlug": "engine-evolution-2023-7d9eb7",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2333,
+  "EOS_Progressed": 2334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3194,6 +3194,11 @@
       "Time": "2024-01-18T04:10:05.924845+00:00",
       "NumProgressed": 2333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T08:09:43.5471394+00:00",
+      "NumProgressed": 2334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3310,7 +3315,7 @@
       "Name": "Podium finisher",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "PODIUM_10",
@@ -3334,7 +3339,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2193
+      "UsersEstimate": 2194
     },
     {
       "ID": "RESEARCHED_2",
@@ -3342,7 +3347,7 @@
       "Name": "Generation 2",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "RESEARCHED_3",
@@ -3485,14 +3490,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2333,
+      "Progressed": 2334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:10:31.3012625+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:09:43.5471387+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:00:53.2119716+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:10:31.3013076+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:44.4630312+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:09:43.5471861+00:00"
 }

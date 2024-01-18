@@ -905,7 +905,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 243967,
+  "EOS_Progressed": 243973,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 0,
@@ -21680,6 +21680,11 @@
       "Time": "2024-01-18T07:11:24.1244617+00:00",
       "NumProgressed": 243967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T08:10:22.7451689+00:00",
+      "NumProgressed": 243973,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21748,7 +21753,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51233
+      "UsersEstimate": 51234
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21756,7 +21761,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21957
+      "UsersEstimate": 21958
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -21764,7 +21769,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12198
+      "UsersEstimate": 12199
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -21876,7 +21881,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34155
+      "UsersEstimate": 34156
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -21948,7 +21953,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 60992
+      "UsersEstimate": 60993
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -21963,7 +21968,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 243967,
+      "Progressed": 243973,
       "Completed": 0
     }
   ],
@@ -21971,8 +21976,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:11:24.1244614+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:10:22.7451684+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:00:23.5000527+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:11:24.1246137+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:24.0975582+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:10:22.7452872+00:00"
 }

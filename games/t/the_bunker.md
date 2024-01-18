@@ -18,7 +18,7 @@
 | Sam | 57.00% | ~104 |
 | Awakenings | 56.00% | ~102 |
 | Soldier | 51.00% | ~93 |
-| Leave | 49.00% | ~89 |
+| Leave | 50.00% | ~91 |
 | Churchill | 48.00% | ~87 |
 | Commissioner | 48.00% | ~87 |
 | Engineer | 48.00% | ~87 |

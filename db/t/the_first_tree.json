@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40661,
+  "EOS_Progressed": 40663,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24363,6 +24363,11 @@
       "Time": "2024-01-18T06:09:20.2228546+00:00",
       "NumProgressed": 40661,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-18T08:09:09.6323471+00:00",
+      "NumProgressed": 40663,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -24422,7 +24427,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3659
+      "UsersEstimate": 3660
     },
     {
       "ID": "completionist",
@@ -24446,7 +24451,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "firstBunny",
@@ -24462,7 +24467,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30902
+      "UsersEstimate": 30904
     },
     {
       "ID": "roots",
@@ -24470,7 +24475,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6912
+      "UsersEstimate": 6913
     },
     {
       "ID": "secretItem",
@@ -24485,15 +24490,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40661,
+      "Progressed": 40663,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:09:45.3518395+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:09:09.6323465+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.6261434+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:58:18.9957742+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:09:45.3519573+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:54.1146814+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:09:09.6324508+00:00"
 }

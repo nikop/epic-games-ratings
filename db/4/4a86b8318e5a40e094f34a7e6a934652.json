@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -2399,6 +2399,11 @@
       "Time": "2024-01-17T18:04:36.6351985+00:00",
       "NumProgressed": 579,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T08:04:09.84896+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2411,7 +2416,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2475,7 +2480,7 @@
       "Name": "Farmer",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "HOUSEWARMING",
@@ -2489,9 +2494,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2523,7 +2528,7 @@
       "Name": "Weed Warrior",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "REPAIR_BRIDGE",
@@ -2547,7 +2552,7 @@
       "Name": "Crypto Bro",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TAKE_LEECH",
@@ -2570,14 +2575,14 @@
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:05:11.8024674+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:04:09.8489595+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.7224824+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:57:16.241971+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:05:11.8024942+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:09.4092847+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:04:09.8489881+00:00"
 }

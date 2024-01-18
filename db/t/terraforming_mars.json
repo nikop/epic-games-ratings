@@ -4,10 +4,10 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 567,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3607,9 +3607,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 90970,
+  "EOS_Progressed": 90972,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 885,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -34162,6 +34162,11 @@
       "Time": "2024-01-18T06:05:36.7237379+00:00",
       "NumProgressed": 90970,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-18T08:05:22.3490574+00:00",
+      "NumProgressed": 90972,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -34197,7 +34202,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 20923
+      "UsersEstimate": 20924
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -34245,7 +34250,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 17284
+      "UsersEstimate": 17285
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -34253,7 +34258,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33659
+      "UsersEstimate": 33660
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34269,7 +34274,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29110
+      "UsersEstimate": 29111
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -34301,7 +34306,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 20923
+      "UsersEstimate": 20924
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -34309,7 +34314,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23652
+      "UsersEstimate": 23653
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -34317,7 +34322,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 17284
+      "UsersEstimate": 17285
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -34333,7 +34338,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10916
+      "UsersEstimate": 10917
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -34412,15 +34417,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90970,
+      "Progressed": 90972,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-17T23:57:28.938395+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:06:50.604479+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:05:22.3490568+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:57:46.1556692+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:06:50.6046622+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:30.8443533+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:05:22.3492503+00:00"
 }

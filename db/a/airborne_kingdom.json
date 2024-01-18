@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7805,
+  "EOS_Progressed": 7806,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -7043,6 +7043,11 @@
       "Time": "2024-01-18T07:08:42.3820402+00:00",
       "NumProgressed": 7805,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-18T08:08:23.5102179+00:00",
+      "NumProgressed": 7806,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7062,7 +7067,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -7110,7 +7115,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -7118,7 +7123,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -7150,7 +7155,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2185
+      "UsersEstimate": 2186
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -7269,15 +7274,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7805,
+      "Progressed": 7806,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:08:42.38204+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:08:23.5102169+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:04:13.5881886+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:08:42.3820804+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:03:26.6732017+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:08:23.5102692+00:00"
 }

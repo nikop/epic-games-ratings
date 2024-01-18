@@ -8277,9 +8277,9 @@
       "ID": "A16",
       "SetID": "9b7p7eo",
       "Name": "Traffic Jam",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 550
+      "UsersEstimate": 578
     },
     {
       "ID": "A17",
@@ -8598,8 +8598,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-14T14:57:36.3985254+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:05:32.4805711+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:04:25.2684614+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:00:27.9819031+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:05:32.4806501+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:26.9999919+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:04:25.2685433+00:00"
 }

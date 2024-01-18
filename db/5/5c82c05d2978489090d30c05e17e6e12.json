@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75802,
+  "EOS_Progressed": 75806,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 1342,
+  "EOS_NewPlayers": 1346,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7726,6 +7726,11 @@
       "Time": "2024-01-18T07:09:44.9502014+00:00",
       "NumProgressed": 75802,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2024-01-18T08:09:09.3270378+00:00",
+      "NumProgressed": 75806,
+      "NumCompleted": 127
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7738,7 +7743,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28047
+      "UsersEstimate": 28048
     },
     {
       "ID": "Achievement_10",
@@ -7826,7 +7831,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21225
+      "UsersEstimate": 21226
     },
     {
       "ID": "Achievement_20",
@@ -7914,7 +7919,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9096
+      "UsersEstimate": 9097
     },
     {
       "ID": "Achievement_30",
@@ -7962,7 +7967,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6822
+      "UsersEstimate": 6823
     },
     {
       "ID": "Achievement_5",
@@ -8009,7 +8014,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75802,
+      "Progressed": 75806,
       "Completed": 127
     }
   ],
@@ -8017,8 +8022,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-16T17:59:18.435336+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:09:44.9502009+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:09:09.3270373+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:00:23.0258307+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:09:44.950262+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:23.8012534+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:09:09.3271091+00:00"
 }

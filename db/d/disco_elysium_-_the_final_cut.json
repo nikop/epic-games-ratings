@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139521,
+  "EOS_Progressed": 139523,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 820,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28976,6 +28976,11 @@
       "Time": "2024-01-18T07:09:55.3580731+00:00",
       "NumProgressed": 139521,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-18T08:09:17.1004099+00:00",
+      "NumProgressed": 139523,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29091,7 +29096,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22323
+      "UsersEstimate": 22324
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -29099,7 +29104,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27904
+      "UsersEstimate": 27905
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29131,7 +29136,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15347
+      "UsersEstimate": 15348
     },
     {
       "ID": "ACH_CUNO",
@@ -29306,15 +29311,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139521,
+      "Progressed": 139523,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:09:55.3580726+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:09:17.1004092+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:00:31.7578512+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:09:55.3582335+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:29.7706182+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:09:17.100589+00:00"
 }

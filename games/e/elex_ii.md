@@ -6,8 +6,8 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~118 |
-| Best Buddy | 39.00% | ~102 |
+| Entrepreneur | 44.00% | ~116 |
+| Best Buddy | 39.00% | ~103 |
 | Role Model | 35.00% | ~92 |
 | Civilian | 35.00% | ~92 |
 | Creator | 32.00% | ~84 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defender | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 262 (Ranked 418)  
+Progressed: 263 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 253 | 0 |
 | 2024-01-16 | 259 | 0 |
 | 2024-01-17 | 261 | 0 |
-| 2024-01-18 | 262 | 0 |
+| 2024-01-18 | 263 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

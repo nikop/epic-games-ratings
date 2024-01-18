@@ -5,13 +5,13 @@ Rating: 4.17 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,543 |
+| Break Out | 65.00% | ~1,544 |
 | Trinity | 35.00% | ~831 |
 | The Collector | 28.00% | ~665 |
 | Find Allies | 27.00% | ~641 |
 | A Taste of Wrath | 27.00% | ~641 |
-| Adventurer | 26.00% | ~617 |
-| Geared Up | 26.00% | ~617 |
+| Adventurer | 26.00% | ~618 |
+| Geared Up | 26.00% | ~618 |
 | Shatter Them All | 25.00% | ~594 |
 | Scholar | 25.00% | ~594 |
 | I Found It | 25.00% | ~594 |
@@ -21,7 +21,7 @@ Rating: 4.17 (Ranked 992)
 | Powerful Allies | 22.00% | ~522 |
 | Big Bazar | 16.00% | ~380 |
 | Alchemist | 15.00% | ~356 |
-| Essence Blow | 14.00% | ~332 |
+| Essence Blow | 14.00% | ~333 |
 | The Mentor | 12.00% | ~285 |
 | Calm before the Storm | 11.00% | ~261 |
 | To Battle | 9.00% | ~214 |
@@ -34,15 +34,15 @@ Rating: 4.17 (Ranked 992)
 | Slayer | 3.00% | ~71 |
 | Flawless Victory | 3.00% | ~71 |
 | A Queen's Tale | 3.00% | ~71 |
-| Forgemaster | 2.00% | ~47 |
-| Shardbearer | 2.00% | ~47 |
-| All There Is | 2.00% | ~47 |
-| False God | 2.00% | ~47 |
-| Summiter | 2.00% | ~47 |
+| Forgemaster | 2.00% | ~48 |
+| Shardbearer | 2.00% | ~48 |
+| All There Is | 2.00% | ~48 |
+| False God | 2.00% | ~48 |
+| Summiter | 2.00% | ~48 |
 | All That Gold | 0.90% | ~21 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,374 (Ranked 244)  
+Progressed: 2,375 (Ranked 244)  
 Completed: 5 (0.21%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,6 +140,7 @@ Completed: 5 (0.21%) (Ranked 281)
 | 2024-01-15 | 2,348 | 3 |
 | 2024-01-16 | 2,358 | 4 |
 | 2024-01-17 | 2,374 | 5 |
+| 2024-01-18 | 2,375 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

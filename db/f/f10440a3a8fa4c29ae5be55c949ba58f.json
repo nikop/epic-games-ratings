@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9450,
+  "EOS_Progressed": 9456,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1194,
+  "EOS_NewPlayers": 1195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3324,6 +3324,11 @@
       "Time": "2024-01-18T07:10:38.1322506+00:00",
       "NumProgressed": 9450,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-18T08:09:48.5143621+00:00",
+      "NumProgressed": 9456,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3336,7 +3341,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4630
+      "UsersEstimate": 4633
     },
     {
       "ID": "Document1",
@@ -3368,7 +3373,7 @@
       "Name": "Truth Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Document5",
@@ -3399,14 +3404,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9450,
+      "Progressed": 9456,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:10:38.1322503+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:09:48.5143613+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:57:18.9662811+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:10:38.1322756+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:11.3573097+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:09:48.5143832+00:00"
 }

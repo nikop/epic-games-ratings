@@ -6,34 +6,34 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,785 |
-| Skillful | 7.00% | ~82,785 |
-| Zealous | 6.00% | ~70,958 |
-| Not half bad | 5.00% | ~59,132 |
-| Apt Survivor | 5.00% | ~59,132 |
-| Survival Treasures | 5.00% | ~59,132 |
-| Make Some Noise | 5.00% | ~59,132 |
-| No one left behind | 4.00% | ~47,305 |
-| Handyman | 4.00% | ~47,305 |
-| Bloody Millionaire | 4.00% | ~47,305 |
-| I | 4.00% | ~47,305 |
-| Sorted | 4.00% | ~47,305 |
-| Healthy Obsession | 4.00% | ~47,305 |
-| Resurgence | 4.00% | ~47,305 |
-| Preemptive Strike | 4.00% | ~47,305 |
-| The Grand Sacrifice | 3.00% | ~35,479 |
-| Agonizing Escape | 3.00% | ~35,479 |
-| Backdoor Escape | 3.00% | ~35,479 |
-| I've got your back | 3.00% | ~35,479 |
-| Medic | 3.00% | ~35,479 |
-| Perfect Escape | 3.00% | ~35,479 |
-| Perfect Killing | 3.00% | ~35,479 |
-| Apt Killer | 3.00% | ~35,479 |
-| Risk it all | 3.00% | ~35,479 |
-| II | 3.00% | ~35,479 |
-| Engineer | 3.00% | ~35,479 |
-| Close Shave | 3.00% | ~35,479 |
-| Humanitarian | 3.00% | ~35,479 |
+| It wakes | 7.00% | ~82,787 |
+| Skillful | 7.00% | ~82,787 |
+| Zealous | 6.00% | ~70,960 |
+| Not half bad | 5.00% | ~59,134 |
+| Apt Survivor | 5.00% | ~59,134 |
+| Survival Treasures | 5.00% | ~59,134 |
+| Make Some Noise | 5.00% | ~59,134 |
+| No one left behind | 4.00% | ~47,307 |
+| Handyman | 4.00% | ~47,307 |
+| Bloody Millionaire | 4.00% | ~47,307 |
+| I | 4.00% | ~47,307 |
+| Sorted | 4.00% | ~47,307 |
+| Healthy Obsession | 4.00% | ~47,307 |
+| Resurgence | 4.00% | ~47,307 |
+| Preemptive Strike | 4.00% | ~47,307 |
+| The Grand Sacrifice | 3.00% | ~35,480 |
+| Agonizing Escape | 3.00% | ~35,480 |
+| Backdoor Escape | 3.00% | ~35,480 |
+| I've got your back | 3.00% | ~35,480 |
+| Medic | 3.00% | ~35,480 |
+| Perfect Escape | 3.00% | ~35,480 |
+| Perfect Killing | 3.00% | ~35,480 |
+| Apt Killer | 3.00% | ~35,480 |
+| Risk it all | 3.00% | ~35,480 |
+| II | 3.00% | ~35,480 |
+| Engineer | 3.00% | ~35,480 |
+| Close Shave | 3.00% | ~35,480 |
+| Humanitarian | 3.00% | ~35,480 |
 | Blood on your hands | 2.00% | ~23,653 |
 | Escape Artist | 2.00% | ~23,653 |
 | Made it out alive! | 2.00% | ~23,653 |
@@ -60,35 +60,35 @@ Number of Ratings: 70,340  (23.09.2022)
 | Chorus of Chaos | 2.00% | ~23,653 |
 | One More Step | 2.00% | ~23,653 |
 | Second Act | 2.00% | ~23,653 |
-| A bite for the Entity | 1.00% | ~11,826 |
-| Blood on your face | 1.00% | ~11,826 |
-| Nerves of steel | 1.00% | ~11,826 |
-| Hemophobia | 1.00% | ~11,826 |
-| Shock Therapy | 1.00% | ~11,826 |
-| All Aboard | 1.00% | ~11,826 |
-| Leapfrog | 1.00% | ~11,826 |
-| House of Pain | 1.00% | ~11,826 |
-| Cottage Owner | 1.00% | ~11,826 |
-| Serial Killer | 1.00% | ~11,826 |
-| Escaping the Nightmare | 1.00% | ~11,826 |
-| Game Over | 1.00% | ~11,826 |
-| Campbell's Chapel Legacy | 1.00% | ~11,826 |
-| Ancestor's Rite | 1.00% | ~11,826 |
-| Devoted Gatekeeping | 1.00% | ~11,826 |
-| Shrine Apparatus | 1.00% | ~11,826 |
-| Outrun Evil | 1.00% | ~11,826 |
-| Broken Bodies | 1.00% | ~11,826 |
-| Grim Pilgrimage | 1.00% | ~11,826 |
-| Selfless Survival | 1.00% | ~11,826 |
-| End of Days | 1.00% | ~11,826 |
-| Insult and Injury | 1.00% | ~11,826 |
-| Outrun the Overlap | 1.00% | ~11,826 |
-| A Fast Death | 1.00% | ~11,826 |
-| Rebuilding The Borgo | 1.00% | ~11,826 |
-| Complete the Evolution | 1.00% | ~11,826 |
-| Extraterrestrial | 1.00% | ~11,826 |
-| MU/TH/UR Dearest | 1.00% | ~11,826 |
-| Outta Nowhere | 1.00% | ~11,826 |
+| A bite for the Entity | 1.00% | ~11,827 |
+| Blood on your face | 1.00% | ~11,827 |
+| Nerves of steel | 1.00% | ~11,827 |
+| Hemophobia | 1.00% | ~11,827 |
+| Shock Therapy | 1.00% | ~11,827 |
+| All Aboard | 1.00% | ~11,827 |
+| Leapfrog | 1.00% | ~11,827 |
+| House of Pain | 1.00% | ~11,827 |
+| Cottage Owner | 1.00% | ~11,827 |
+| Serial Killer | 1.00% | ~11,827 |
+| Escaping the Nightmare | 1.00% | ~11,827 |
+| Game Over | 1.00% | ~11,827 |
+| Campbell's Chapel Legacy | 1.00% | ~11,827 |
+| Ancestor's Rite | 1.00% | ~11,827 |
+| Devoted Gatekeeping | 1.00% | ~11,827 |
+| Shrine Apparatus | 1.00% | ~11,827 |
+| Outrun Evil | 1.00% | ~11,827 |
+| Broken Bodies | 1.00% | ~11,827 |
+| Grim Pilgrimage | 1.00% | ~11,827 |
+| Selfless Survival | 1.00% | ~11,827 |
+| End of Days | 1.00% | ~11,827 |
+| Insult and Injury | 1.00% | ~11,827 |
+| Outrun the Overlap | 1.00% | ~11,827 |
+| A Fast Death | 1.00% | ~11,827 |
+| Rebuilding The Borgo | 1.00% | ~11,827 |
+| Complete the Evolution | 1.00% | ~11,827 |
+| Extraterrestrial | 1.00% | ~11,827 |
+| MU/TH/UR Dearest | 1.00% | ~11,827 |
+| Outta Nowhere | 1.00% | ~11,827 |
 | Jump Scares | 0.90% | ~10,644 |
 | Party Crasher | 0.90% | ~10,644 |
 | High Speed Pursuit | 0.90% | ~10,644 |
@@ -97,12 +97,12 @@ Number of Ratings: 70,340  (23.09.2022)
 | Outrage | 0.80% | ~9,461 |
 | I See You | 0.80% | ~9,461 |
 | Triage | 0.80% | ~9,461 |
-| Blood in your mouth | 0.70% | ~8,278 |
-| Whiffing to Success | 0.70% | ~8,278 |
-| Heavy Burden | 0.70% | ~8,278 |
-| Punch Drunk | 0.70% | ~8,278 |
-| Prowler | 0.70% | ~8,278 |
-| Kitted Out | 0.70% | ~8,278 |
+| Blood in your mouth | 0.70% | ~8,279 |
+| Whiffing to Success | 0.70% | ~8,279 |
+| Heavy Burden | 0.70% | ~8,279 |
+| Punch Drunk | 0.70% | ~8,279 |
+| Prowler | 0.70% | ~8,279 |
+| Kitted Out | 0.70% | ~8,279 |
 | Looter | 0.60% | ~7,096 |
 | Power Moves | 0.60% | ~7,096 |
 | Mad House | 0.50% | ~5,913 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,183 |
 | Adept Good Guy | 0.10% | ~1,183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,182,637 (Ranked 13)  
+Progressed: 1,182,674 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 68 (0.01%) (Ranked 378)
 | 2024-01-15 | 1,179,156 | 68 |
 | 2024-01-16 | 1,180,767 | 68 |
 | 2024-01-17 | 1,182,216 | 68 |
-| 2024-01-18 | 1,182,637 | 68 |
+| 2024-01-18 | 1,182,674 | 68 |
 ## Awards
 Max (Diverse Characters): 39,860  (Ranked 15)  
 Sum: 300,194 (Ranked 12)  

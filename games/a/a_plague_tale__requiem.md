@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 180)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~16,797 |
-| Newcomers | 76.00% | ~14,028 |
+| Under a New Sun | 91.00% | ~16,798 |
+| Newcomers | 76.00% | ~14,029 |
 | A Burden of Blood | 70.00% | ~12,921 |
-| Protector's Duty | 67.00% | ~12,367 |
+| Protector's Duty | 67.00% | ~12,368 |
 | Alchemist | 65.00% | ~11,998 |
-| In our Wake | 64.00% | ~11,813 |
-| Leaving all Behind | 61.00% | ~11,259 |
+| In our Wake | 64.00% | ~11,814 |
+| Leaving all Behind | 61.00% | ~11,260 |
 | Felons | 58.00% | ~10,706 |
-| A Sea of Promises | 57.00% | ~10,521 |
+| A Sea of Promises | 57.00% | ~10,522 |
 | Tales and Revelations | 53.00% | ~9,783 |
-| Bloodline | 49.00% | ~9,044 |
-| The Cradle of Centuries | 45.00% | ~8,306 |
-| The Life We Deserve | 42.00% | ~7,752 |
-| Night guard | 40.00% | ~7,383 |
+| Bloodline | 49.00% | ~9,045 |
+| The Cradle of Centuries | 45.00% | ~8,307 |
+| The Life We Deserve | 42.00% | ~7,753 |
+| Night guard | 40.00% | ~7,384 |
 | Nothing Left | 36.00% | ~6,645 |
 | Healing our Wounds | 34.00% | ~6,276 |
 | Dying Sun | 31.00% | ~5,722 |
-| Improved crossbow | 25.00% | ~4,614 |
-| King Hugo | 23.00% | ~4,245 |
-| Perfect shot | 23.00% | ~4,245 |
-| Mercy | 23.00% | ~4,245 |
+| Improved crossbow | 25.00% | ~4,615 |
+| King Hugo | 23.00% | ~4,246 |
+| Perfect shot | 23.00% | ~4,246 |
+| Mercy | 23.00% | ~4,246 |
 | Effective instruments | 20.00% | ~3,692 |
 | Perfect throw | 20.00% | ~3,692 |
 | Knights! | 19.00% | ~3,507 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 180)
 | Explorer | 1.00% | ~185 |
 | Malignant | 1.00% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,458 (Ranked 162)  
+Progressed: 18,459 (Ranked 162)  
 Completed: 66 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,14 +313,14 @@ Completed: 66 (0.36%) (Ranked 250)
 | 2024-01-15 | 18,321 | 66 |
 | 2024-01-16 | 18,399 | 66 |
 | 2024-01-17 | 18,446 | 66 |
-| 2024-01-18 | 18,458 | 66 |
+| 2024-01-18 | 18,459 | 66 |
 ## Awards
-Max (Great Boss Battles): 465  (Ranked 228)  
-Sum: 729 (Ranked 308)  
-Diff (max vs sum): -80  
+Max (Great Boss Battles): 468  (Ranked 228)  
+Sum: 732 (Ranked 307)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 465 |
+| This game has Great Boss Battles | 468 |
 | This game is Highly Recommended | 39 |
 | This game is Great for Beginners | 35 |
 | This game has Amazing Storytelling | 32 |
@@ -441,3 +441,4 @@ Diff (max vs sum): -80
 | 2024-01-12 | 4.73 | 464 | 727 |
 | 2024-01-13 | 4.73 | 464 | 728 |
 | 2024-01-14 | 4.73 | 465 | 729 |
+| 2024-01-18 | 4.73 | 468 | 732 |

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 295,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
@@ -1389,9 +1389,9 @@
       "ID": "Ach-03-jepice",
       "SetID": "2pjo9pi",
       "Name": "Jepice",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach-03-pidalka",
@@ -1405,9 +1405,9 @@
       "ID": "Ach-03-skakavec",
       "SetID": "2pjo9pi",
       "Name": "Skakavec",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "Ach-03-svolavac",
@@ -1653,9 +1653,9 @@
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "Ach-level-4",
@@ -1700,8 +1700,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:10:27.2813891+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:09:40.6063205+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:57:38.5941523+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:10:27.2814327+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:25.4016812+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:09:40.6063727+00:00"
 }

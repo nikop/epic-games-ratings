@@ -39,7 +39,7 @@ Rating: 4.14 (Ranked 1,013)
 | Shai-Hulud? | 0.00% | ~0 |
 | The Gang | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 665)  
+Progressed: 11 (Ranked 666)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |

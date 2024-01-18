@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9599,18 +9599,24 @@
       "Rating": 4.07,
       "NumberOfAwards": 33537,
       "NumberOfAwardsMax": 5786
+    },
+    {
+      "Time": "2024-01-18T07:59:00.7413044+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33543,
+      "NumberOfAwardsMax": 5792
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33537,
-  "NumberOfAwardsMax": 5786,
+  "NumberOfAwards": 33543,
+  "NumberOfAwardsMax": 5792,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5786
+      "Count": 5792
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9649,9 +9655,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254507,
+  "EOS_Progressed": 254511,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1208,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40609,6 +40615,11 @@
       "Time": "2024-01-18T07:11:41.3839695+00:00",
       "NumProgressed": 254507,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-18T08:10:37.279222+00:00",
+      "NumProgressed": 254511,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -42618,9 +42629,9 @@
       "ID": "objective_completed_418",
       "SetID": "cc37lbc",
       "Name": "Hopelessly Lost",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_419",
@@ -44987,21 +44998,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220781,
+      "Progressed": 220785,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254507,
+      "Progressed": 254511,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-18T03:59:52.4070823+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:11:41.3839692+00:00",
+  "LastChanged": "2024-01-18T07:59:00.741304+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:10:37.2792216+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:59:48.9942433+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:11:41.3862936+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:00.7413049+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:10:37.2814944+00:00"
 }

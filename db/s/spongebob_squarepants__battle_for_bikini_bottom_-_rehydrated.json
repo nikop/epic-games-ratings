@@ -355,7 +355,7 @@
   ],
   "EOS_Progressed": 1072,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -2973,9 +2973,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -3237,8 +3237,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:04:42.8227188+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:03:48.4349466+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:58:17.9365282+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:04:42.8227476+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:53.4063598+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:03:48.434988+00:00"
 }

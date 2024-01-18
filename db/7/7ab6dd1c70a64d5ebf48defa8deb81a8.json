@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2374,
+  "EOS_Progressed": 2375,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
@@ -4750,6 +4750,11 @@
       "Time": "2024-01-17T23:11:15.4659384+00:00",
       "NumProgressed": 2374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T08:10:27.2546203+00:00",
+      "NumProgressed": 2375,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4761,7 +4766,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_02",
@@ -4841,7 +4846,7 @@
       "Name": "Forgemaster",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_12",
@@ -4849,7 +4854,7 @@
       "Name": "Shardbearer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_13",
@@ -4857,7 +4862,7 @@
       "Name": "Adventurer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_14",
@@ -4881,7 +4886,7 @@
       "Name": "Essence Blow",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_17",
@@ -4937,7 +4942,7 @@
       "Name": "Geared Up",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_24",
@@ -4945,7 +4950,7 @@
       "Name": "All There Is",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_25",
@@ -4969,7 +4974,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_28",
@@ -5041,14 +5046,14 @@
       "Name": "Summiter",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2374,
+      "Progressed": 2375,
       "Completed": 5
     }
   ],
@@ -5056,8 +5061,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:11:29.872665+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:10:27.2546198+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:57:21.9138406+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:11:29.872702+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:57:13.4097284+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:10:27.2546737+00:00"
 }

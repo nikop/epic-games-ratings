@@ -5339,7 +5339,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82956,
+  "EOS_Progressed": 82957,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 2,
@@ -30654,6 +30654,11 @@
       "Time": "2024-01-18T07:06:46.5866747+00:00",
       "NumProgressed": 82956,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T08:05:19.4700117+00:00",
+      "NumProgressed": 82957,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30713,7 +30718,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30753,7 +30758,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "CHALLENGES_1",
@@ -30977,7 +30982,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19909
+      "UsersEstimate": 19910
     },
     {
       "ID": "HARLEY_3",
@@ -30993,7 +30998,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12443
+      "UsersEstimate": 12444
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31057,7 +31062,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27375
+      "UsersEstimate": 27376
     },
     {
       "ID": "MYSTERY_02",
@@ -31065,7 +31070,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19909
+      "UsersEstimate": 19910
     },
     {
       "ID": "MYSTERY_03",
@@ -31073,7 +31078,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18250
+      "UsersEstimate": 18251
     },
     {
       "ID": "MYSTERY_04",
@@ -31129,7 +31134,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6636
+      "UsersEstimate": 6637
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -31152,13 +31157,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82956,
+      "Progressed": 82957,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53236,
+      "Progressed": 53237,
       "Completed": 2680
     }
   ],
@@ -31166,8 +31171,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-17T18:00:52.239204+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:06:46.5866742+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:05:19.4700111+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
   "LastUpdate_Ratings": "2024-01-18T07:02:55.8747041+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:06:46.5868406+00:00"
+  "LastUpdate_Achievements": "2024-01-18T08:05:19.4702504+00:00"
 }

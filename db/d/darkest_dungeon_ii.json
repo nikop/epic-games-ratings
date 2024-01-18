@@ -10912,10 +10912,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21713,
       "NumberOfAwardsMax": 8040
+    },
+    {
+      "Time": "2024-01-18T07:59:38.8088476+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21721,
+      "NumberOfAwardsMax": 8040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21713,
+  "NumberOfAwards": 21721,
   "NumberOfAwardsMax": 8040,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10947,7 +10953,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1681
+      "Count": 1686
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10959,7 +10965,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1536
+      "Count": 1539
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10992,9 +10998,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 133117,
+  "EOS_Progressed": 133119,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40387,6 +40393,11 @@
       "Time": "2024-01-18T07:11:23.6702292+00:00",
       "NumProgressed": 133117,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T08:10:22.5618936+00:00",
+      "NumProgressed": 133119,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40750,7 +40761,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10649
+      "UsersEstimate": 10650
     },
     {
       "ID": "hero_story_complete_all",
@@ -41029,21 +41040,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133117,
+      "Progressed": 133119,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7986,
+      "Progressed": 7988,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-17T23:00:57.1612825+00:00",
-  "LastChanged_Achievements": "2024-01-18T07:11:23.670229+00:00",
+  "LastChanged": "2024-01-18T07:59:38.8088473+00:00",
+  "LastChanged_Achievements": "2024-01-18T08:10:22.5618933+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:00:45.0151988+00:00",
-  "LastUpdate_Achievements": "2024-01-18T07:11:23.6704221+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:59:38.808848+00:00",
+  "LastUpdate_Achievements": "2024-01-18T08:10:22.5620497+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.66 (Ranked 303)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~627 |
+| Time Heals All Wounds | 47.00% | ~628 |
 | Rail Rat | 36.00% | ~481 |
-| The Mysterious Stranger | 35.00% | ~467 |
-| Immaculate Aim | 30.00% | ~400 |
+| The Mysterious Stranger | 35.00% | ~468 |
+| Immaculate Aim | 30.00% | ~401 |
 | The Brass Boss | 29.00% | ~387 |
 | Time Flies | 28.00% | ~374 |
-| No, Thanks! | 27.00% | ~360 |
-| The Prince in Heels | 27.00% | ~360 |
-| Honest Mistake | 27.00% | ~360 |
-| Immaculate Aim | 27.00% | ~360 |
+| No, Thanks! | 27.00% | ~361 |
+| The Prince in Heels | 27.00% | ~361 |
+| Honest Mistake | 27.00% | ~361 |
+| Immaculate Aim | 27.00% | ~361 |
 | Make Up For Lost Time | 26.00% | ~347 |
 | The Harder They Fall | 26.00% | ~347 |
 | Fast Learner | 26.00% | ~347 |
 | The Steel Shadow | 25.00% | ~334 |
-| Breaking Down Barriers | 24.00% | ~320 |
-| The Wicked Twins | 24.00% | ~320 |
+| Breaking Down Barriers | 24.00% | ~321 |
+| The Wicked Twins | 24.00% | ~321 |
 | Right On Time | 23.00% | ~307 |
 | Golem Chaser | 23.00% | ~307 |
 | Like Clockwork | 22.00% | ~294 |
 | The Betrayer | 22.00% | ~294 |
-| Check Your Pulse | 21.00% | ~280 |
+| Check Your Pulse | 21.00% | ~281 |
 | The Loose Cannon | 20.00% | ~267 |
 | Street Style | 19.00% | ~254 |
 | The Man Who Shattered Time | 19.00% | ~254 |
@@ -46,7 +46,7 @@ Rating: 4.66 (Ranked 303)
 | Corin Goes Home | 9.00% | ~120 |
 | Entresol Explorer | 9.00% | ~120 |
 | Sartorialist | 8.00% | ~107 |
-| Golem Hunter | 7.00% | ~93 |
+| Golem Hunter | 7.00% | ~94 |
 | Clovemary for Remembering | 6.00% | ~80 |
 | Hexlock for Protection | 6.00% | ~80 |
 | Rungs Was Right | 6.00% | ~80 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 303)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,335 (Ranked 281)  
+Progressed: 1,336 (Ranked 281)  
 Completed: 8 (0.60%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,6 +238,7 @@ Completed: 8 (0.60%) (Ranked 214)
 | 2024-01-15 | 1,330 | 8 |
 | 2024-01-16 | 1,333 | 8 |
 | 2024-01-17 | 1,335 | 8 |
+| 2024-01-18 | 1,336 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

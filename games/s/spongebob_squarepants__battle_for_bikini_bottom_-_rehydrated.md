@@ -24,9 +24,9 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 8.00% | ~86 |
 | Shrimp Catcher | 8.00% | ~86 |
 | Ultra Spatula Seeker | 8.00% | ~86 |
+| Robot encyclopedia | 7.00% | ~75 |
 | Are you ready now? | 7.00% | ~75 |
 | Hello, Bikini Bottom | 7.00% | ~75 |
-| Robot encyclopedia | 6.00% | ~64 |
 | The Small Does Not Rule | 5.00% | ~54 |
 | Ship Shape | 5.00% | ~54 |
 | Shanghaied | 5.00% | ~54 |

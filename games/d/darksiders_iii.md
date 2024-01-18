@@ -6,17 +6,17 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~488 |
-| First of many… | 68.00% | ~431 |
-| Helping Hand | 65.00% | ~412 |
+| Green with Envy | 77.00% | ~489 |
+| First of many… | 68.00% | ~432 |
+| Helping Hand | 65.00% | ~413 |
 | Increased Vigor | 61.00% | ~387 |
-| Fight Fire with Fire | 59.00% | ~374 |
-| Increased Capacity | 56.00% | ~355 |
-| Just the start | 50.00% | ~317 |
-| Perfect Storm | 48.00% | ~304 |
+| Fight Fire with Fire | 59.00% | ~375 |
+| Increased Capacity | 56.00% | ~356 |
+| Just the start | 51.00% | ~324 |
+| Perfect Storm | 48.00% | ~305 |
 | All That Glitters | 47.00% | ~298 |
 | Enhance! | 43.00% | ~273 |
-| One Of the Chosen | 42.00% | ~266 |
+| One Of the Chosen | 42.00% | ~267 |
 | Devil's in the Details | 41.00% | ~260 |
 | Throne Potato | 41.00% | ~260 |
 | Five's a Crowd | 41.00% | ~260 |
@@ -24,7 +24,7 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 40.00% | ~254 |
 | Unshakable Fortitude | 37.00% | ~235 |
 | Soul Harvester | 37.00% | ~235 |
-| Delusions of Grandeur | 36.00% | ~228 |
+| Delusions of Grandeur | 36.00% | ~229 |
 | I Wanna Rock | 35.00% | ~222 |
 | Maximum Vigor | 34.00% | ~216 |
 | Love Tap | 34.00% | ~216 |
@@ -36,20 +36,20 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 27.00% | ~171 |
 | Big Spender | 27.00% | ~171 |
 | Cleanup Crew | 26.00% | ~165 |
-| Seeing Red | 25.00% | ~158 |
-| Demon Meddler | 24.00% | ~152 |
+| Demon Meddler | 25.00% | ~159 |
+| Seeing Red | 25.00% | ~159 |
 | Maximum Capacity | 23.00% | ~146 |
 | Egomaniac | 23.00% | ~146 |
 | Protector of Humanity | 21.00% | ~133 |
 | Everybody Wants to Rule the World | 21.00% | ~133 |
-| Community Outreach | 16.00% | ~101 |
+| Community Outreach | 16.00% | ~102 |
 | A Parting Gift | 15.00% | ~95 |
 | Path of the Horseman | 15.00% | ~95 |
 | Unbreakable Will | 14.00% | ~89 |
 | Take it to the Limit | 14.00% | ~89 |
 | Holy Keeper | 12.00% | ~76 |
 | Demon Keeper | 12.00% | ~76 |
-| Humanitarian | 10.00% | ~63 |
+| Humanitarian | 10.00% | ~64 |
 | Soul Reaper | 8.00% | ~51 |
 | Made of Sterner Stuff | 7.00% | ~44 |
 | My Evil Twin | 6.00% | ~38 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~6 |
 | Beast Mode | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634 (Ranked 341)  
-Completed: 2 (0.32%) (Ranked 257)  
+Progressed: 635 (Ranked 341)  
+Completed: 2 (0.31%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 2 (0.32%) (Ranked 257)
 | 2024-01-15 | 616 | 2 |
 | 2024-01-16 | 624 | 2 |
 | 2024-01-17 | 631 | 2 |
-| 2024-01-18 | 634 | 2 |
+| 2024-01-18 | 635 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

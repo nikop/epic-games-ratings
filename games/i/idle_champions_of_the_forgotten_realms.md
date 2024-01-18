@@ -80,6 +80,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~509 |
 | Fugitives | 0.20% | ~509 |
 | Premature Betrayal | 0.20% | ~509 |
+| Hopelessly Lost | 0.20% | ~509 |
 | The Dead Three | 0.20% | ~509 |
 | Flying Monkey Skulls of Doom | 0.20% | ~509 |
 | The Darkness Runs Deeper | 0.20% | ~509 |
@@ -298,7 +299,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Guests of the Groom | 0.10% | ~255 |
 | Careful Consideration | 0.10% | ~255 |
 | Tanking Expectations | 0.10% | ~221 |
-| Hopelessly Lost | 0.10% | ~255 |
 | Bazaar Exploits | 0.10% | ~255 |
 | Cramped Quarters | 0.10% | ~255 |
 | Flame(skull) War | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,507 (Ranked 71)  
+Progressed: 254,511 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,14 +826,14 @@ Completed: 2,624 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,507 | 2,624 |
+| 2024-01-18 | 254,511 | 2,624 |
 ## Awards
-Max (Great for Beginners): 5,786  (Ranked 74)  
-Sum: 33,537 (Ranked 41)  
+Max (Great for Beginners): 5,792  (Ranked 74)  
+Sum: 33,543 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,786 |
+| This game is Great for Beginners | 5,792 |
 | This game has Diverse Characters | 5,728 |
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,789 |
@@ -1200,4 +1200,4 @@ Diff (max vs sum): 33
 | 2024-01-15 | 4.06 | - | 5,784 | 33,514 |
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
-| 2024-01-18 | 4.07 | - | 5,786 | 33,537 |
+| 2024-01-18 | 4.07 | - | 5,792 | 33,543 |

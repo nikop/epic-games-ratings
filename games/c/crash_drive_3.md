@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 30.00% | ~132 |
+| Baby's First Car | 29.00% | ~128 |
 | A Forest Walk | 29.00% | ~128 |
-| Baby's First Car | 28.00% | ~123 |
 | Amateur Mechanic | 27.00% | ~119 |
 | Pushover | 27.00% | ~119 |
 | C-C-C-Combo! | 25.00% | ~110 |
@@ -18,9 +18,9 @@
 | Snow Fun! | 22.00% | ~97 |
 | Bag of Tricks | 22.00% | ~97 |
 | You're it | 22.00% | ~97 |
-| To and Fro | 21.00% | ~92 |
-| I see the light! | 21.00% | ~92 |
-| In the Bag! | 21.00% | ~92 |
+| To and Fro | 21.00% | ~93 |
+| I see the light! | 21.00% | ~93 |
+| In the Bag! | 21.00% | ~93 |
 | Car-Tapult | 20.00% | ~88 |
 | Goodbye cruel world | 20.00% | ~88 |
 | Beach Party! | 20.00% | ~88 |
@@ -30,16 +30,16 @@
 | Take that Frosty! | 19.00% | ~84 |
 | Your Highness | 19.00% | ~84 |
 | Event Amateur | 17.00% | ~75 |
-| Feeling Hot Hot Hot! | 16.00% | ~70 |
-| Feeling Dizzy? | 16.00% | ~70 |
-| Ferry Good! | 16.00% | ~70 |
-| Assert Dominance | 16.00% | ~70 |
-| Speed of light | 16.00% | ~70 |
+| Feeling Hot Hot Hot! | 16.00% | ~71 |
+| Feeling Dizzy? | 16.00% | ~71 |
+| Ferry Good! | 16.00% | ~71 |
+| Assert Dominance | 16.00% | ~71 |
+| Speed of light | 16.00% | ~71 |
 | Drift King! | 15.00% | ~66 |
 | Out of this League | 13.00% | ~57 |
 | Special Forces | 12.00% | ~53 |
-| Toot Toot! | 11.00% | ~48 |
-| Blasting away! | 11.00% | ~48 |
+| Toot Toot! | 11.00% | ~49 |
+| Blasting away! | 11.00% | ~49 |
 | High Roller | 10.00% | ~44 |
 | Earth Defense Force | 10.00% | ~44 |
 | Rocketman | 10.00% | ~44 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440 (Ranked 367)  
+Progressed: 441 (Ranked 367)  
 Completed: 2 (0.45%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 2 (0.45%) (Ranked 236)
 | 2024-01-08 | 438 | 2 |
 | 2024-01-15 | 439 | 2 |
 | 2024-01-16 | 440 | 2 |
+| 2024-01-18 | 441 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
