@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 617,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 140,
@@ -4041,9 +4041,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33763,
+  "EOS_Progressed": 33764,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25836,6 +25836,11 @@
       "Time": "2024-01-18T03:09:43.3089531+00:00",
       "NumProgressed": 33763,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-18T04:09:50.6879447+00:00",
+      "NumProgressed": 33764,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25893,9 +25898,9 @@
       "ID": "Collect_Spores",
       "SetID": "819popo",
       "Name": "I collect Spores, Molds, and Fungi",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2026
+      "UsersEstimate": 1688
     },
     {
       "ID": "Collector",
@@ -26254,7 +26259,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33763,
+      "Progressed": 33764,
       "Completed": 71
     }
   ],
@@ -26262,8 +26267,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-18T02:22:22.5686129+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:09:43.3089528+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:09:50.6879442+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:58:40.3445903+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:09:43.3090861+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:58:38.3694875+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:09:50.6880704+00:00"
 }

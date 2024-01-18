@@ -12,16 +12,16 @@ Number of Ratings: 116  (23.09.2022)
 | Increased Vigor | 61.00% | ~386 |
 | Fight Fire with Fire | 59.00% | ~373 |
 | Increased Capacity | 56.00% | ~354 |
-| Just the start | 51.00% | ~322 |
-| Perfect Storm | 48.00% | ~303 |
-| All That Glitters | 47.00% | ~297 |
-| Enhance! | 44.00% | ~278 |
-| One Of the Chosen | 42.00% | ~265 |
-| Throne Potato | 42.00% | ~265 |
-| Five's a Crowd | 42.00% | ~265 |
-| Devil's in the Details | 41.00% | ~259 |
-| 25 to Life | 41.00% | ~259 |
+| Just the start | 51.00% | ~323 |
+| Perfect Storm | 48.00% | ~304 |
+| All That Glitters | 47.00% | ~298 |
+| Enhance! | 43.00% | ~272 |
+| One Of the Chosen | 42.00% | ~266 |
+| Throne Potato | 42.00% | ~266 |
+| Five's a Crowd | 42.00% | ~266 |
+| Devil's in the Details | 41.00% | ~260 |
 | Salvation | 40.00% | ~253 |
+| 25 to Life | 40.00% | ~253 |
 | Unshakable Fortitude | 37.00% | ~234 |
 | Soul Harvester | 37.00% | ~234 |
 | I Wanna Rock | 36.00% | ~228 |
@@ -35,18 +35,18 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 27.00% | ~171 |
 | Crowd Source | 27.00% | ~171 |
 | Big Spender | 27.00% | ~171 |
-| Cleanup Crew | 26.00% | ~164 |
+| Cleanup Crew | 26.00% | ~165 |
 | Seeing Red | 25.00% | ~158 |
 | Demon Meddler | 24.00% | ~152 |
-| Maximum Capacity | 23.00% | ~145 |
-| Egomaniac | 23.00% | ~145 |
+| Maximum Capacity | 23.00% | ~146 |
+| Egomaniac | 23.00% | ~146 |
 | Protector of Humanity | 21.00% | ~133 |
 | Everybody Wants to Rule the World | 21.00% | ~133 |
 | Community Outreach | 16.00% | ~101 |
 | A Parting Gift | 15.00% | ~95 |
 | Path of the Horseman | 15.00% | ~95 |
-| Unbreakable Will | 14.00% | ~88 |
-| Take it to the Limit | 14.00% | ~88 |
+| Unbreakable Will | 14.00% | ~89 |
+| Take it to the Limit | 14.00% | ~89 |
 | Holy Keeper | 12.00% | ~76 |
 | Demon Keeper | 12.00% | ~76 |
 | Humanitarian | 10.00% | ~63 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~6 |
 | Beast Mode | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 632 (Ranked 341)  
+Progressed: 633 (Ranked 341)  
 Completed: 2 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.32%) (Ranked 257)
 | 2024-01-15 | 616 | 2 |
 | 2024-01-16 | 624 | 2 |
 | 2024-01-17 | 631 | 2 |
-| 2024-01-18 | 632 | 2 |
+| 2024-01-18 | 633 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

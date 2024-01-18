@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47427,
+  "EOS_Progressed": 47430,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19168,6 +19168,11 @@
       "Time": "2024-01-18T03:05:58.6837705+00:00",
       "NumProgressed": 47427,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T04:06:02.8339061+00:00",
+      "NumProgressed": 47430,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19211,7 +19216,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -19235,7 +19240,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -19331,7 +19336,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4268
+      "UsersEstimate": 4269
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19515,7 +19520,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5691
+      "UsersEstimate": 5692
     },
     {
       "ID": "SPRING_ALL",
@@ -19602,22 +19607,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47427,
+      "Progressed": 47430,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12264,
-      "Completed": 12264
+      "Progressed": 12267,
+      "Completed": 12267
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:05:58.6837701+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:06:02.8339053+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:03:35.5730018+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:05:58.6839231+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:03:18.116917+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:06:02.8340365+00:00"
 }

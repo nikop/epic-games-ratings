@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15020,
+  "EOS_Progressed": 15021,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10744,6 +10744,11 @@
       "Time": "2024-01-18T02:34:08.7746579+00:00",
       "NumProgressed": 15020,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T04:11:03.8236852+00:00",
+      "NumProgressed": 15021,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10764,7 +10769,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6158
+      "UsersEstimate": 6159
     },
     {
       "ID": "BeLikeWater",
@@ -10828,7 +10833,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8261
+      "UsersEstimate": 8262
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10964,7 +10969,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2553
+      "UsersEstimate": 2554
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -10972,7 +10977,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "UnResurrected",
@@ -10988,7 +10993,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3304
+      "UsersEstimate": 3305
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -11027,7 +11032,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15020,
+      "Progressed": 15021,
       "Completed": 27
     }
   ],
@@ -11035,8 +11040,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:10:56.1330672+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:11:03.8236848+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:02:59.8588765+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:10:56.1331297+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:02:40.9102545+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:11:03.8237392+00:00"
 }

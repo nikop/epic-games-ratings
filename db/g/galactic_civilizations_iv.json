@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1011,9 +1011,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7558,
+  "EOS_Progressed": 7559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9831,6 +9831,11 @@
       "Time": "2024-01-17T21:10:07.6616098+00:00",
       "NumProgressed": 7558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T04:11:08.9055243+00:00",
+      "NumProgressed": 7559,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9930,7 +9935,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -9978,7 +9983,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10298,7 +10303,7 @@
       "Name": "Win as Terrans",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "Win_As_Torian",
@@ -10354,7 +10359,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "Win_Diplomacy",
@@ -10417,15 +10422,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7558,
+      "Progressed": 7559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-12T16:57:40.5503057+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:11:00.9676275+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:11:08.9055239+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:01:57.8777037+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:11:00.9677292+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:01:59.3534288+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:11:08.9056037+00:00"
 }

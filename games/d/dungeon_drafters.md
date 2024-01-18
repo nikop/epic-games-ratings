@@ -12,7 +12,7 @@
 | Clear as Water | 26.00% | ~39 |
 | Setting Off | 23.00% | ~34 |
 | Card Collector | 23.00% | ~34 |
-| Riddlesolver | 20.00% | ~30 |
+| Riddlesolver | 21.00% | ~32 |
 | Dungeon Mastery | 19.00% | ~28 |
 | A Strange Proposition | 11.00% | ~16 |
 | Card Completionist | 10.00% | ~15 |

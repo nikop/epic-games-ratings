@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -507,7 +507,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3498,
+  "EOS_Progressed": 3499,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
@@ -5782,6 +5782,11 @@
       "Time": "2024-01-18T02:34:08.593169+00:00",
       "NumProgressed": 3498,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T04:11:03.7311716+00:00",
+      "NumProgressed": 3499,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5794,7 +5799,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "achievement_10",
@@ -5874,7 +5879,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 874
+      "UsersEstimate": 875
     },
     {
       "ID": "achievement_2",
@@ -5882,7 +5887,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "achievement_20",
@@ -6034,7 +6039,7 @@
       "Name": "Soldier",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "achievement_5",
@@ -6042,7 +6047,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "achievement_50",
@@ -6090,7 +6095,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "achievement_60",
@@ -6146,7 +6151,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_8",
@@ -6154,7 +6159,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "achievement_9",
@@ -6169,7 +6174,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3498,
+      "Progressed": 3499,
       "Completed": 5
     }
   ],
@@ -6177,8 +6182,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:10:55.9043901+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:11:03.7311711+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:59:42.896774+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:10:55.9044432+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:59:42.7424764+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:11:03.731231+00:00"
 }

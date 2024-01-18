@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Patrons | 0.90% | ~153 |
 | Statesmen | 0.90% | ~153 |
 | Hittite Iron | 0.90% | ~153 |
+| Economic Reform | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Conqueror | 0.80% | ~136 |
@@ -96,7 +97,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.80% | ~136 |
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
-| Economic Reform | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
 | Dualism | 0.80% | ~136 |
 | Legalism | 0.80% | ~136 |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-18 | 16,954 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,936 (Ranked 223)  
+Sum: 1,937 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -652,8 +652,8 @@ Diff (max vs sum): 64
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
 | This game has Amazing Characters | 203 |
+| This game has Amazing Storytelling | 199 |
 | This game has Quickly Understood Controls | 198 |
-| This game has Amazing Storytelling | 198 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
 | This game has Competitive Players | 59 |
@@ -854,3 +854,4 @@ Diff (max vs sum): 64
 | 2024-01-14 | 4.65 | - | 230 | 1,931 |
 | 2024-01-16 | 4.65 | - | 230 | 1,933 |
 | 2024-01-17 | 4.65 | - | 230 | 1,936 |
+| 2024-01-18 | 4.65 | - | 230 | 1,937 |

@@ -2242,10 +2242,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1936,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-18T04:02:53.7762324+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1937,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1936,
+  "NumberOfAwards": 1937,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2301,7 +2307,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2324,7 +2330,7 @@
   ],
   "EOS_Progressed": 16954,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 555,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22312,9 +22318,9 @@
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
       "SetID": "9201eeb",
       "Name": "Economic Reform",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
@@ -23253,9 +23259,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-17T20:02:50.9221949+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:11:10.9723406+00:00",
+  "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:11:18.7854854+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:03:12.4287821+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:11:10.9733326+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:02:53.7762327+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:11:18.7864658+00:00"
 }

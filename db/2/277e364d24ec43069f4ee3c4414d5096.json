@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120298,
+  "EOS_Progressed": 120300,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25242,6 +25242,11 @@
       "Time": "2024-01-18T03:10:59.7034851+00:00",
       "NumProgressed": 120298,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-18T04:11:07.4632022+00:00",
+      "NumProgressed": 120300,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25261,7 +25266,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92629
+      "UsersEstimate": 92631
     },
     {
       "ID": "EAwards_10",
@@ -25277,7 +25282,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32480
+      "UsersEstimate": 32481
     },
     {
       "ID": "EAwards_12",
@@ -25293,7 +25298,7 @@
       "Name": "The Floor Is...",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "EAwards_14",
@@ -25325,7 +25330,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44510
+      "UsersEstimate": 44511
     },
     {
       "ID": "EAwards_18",
@@ -25349,7 +25354,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58946
+      "UsersEstimate": 58947
     },
     {
       "ID": "EAwards_20",
@@ -25644,7 +25649,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120298,
+      "Progressed": 120300,
       "Completed": 61
     }
   ],
@@ -25652,8 +25657,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:10:59.7034848+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:11:07.4632019+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:59:55.0109028+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:10:59.703623+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:59:54.2246781+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:11:07.4633412+00:00"
 }

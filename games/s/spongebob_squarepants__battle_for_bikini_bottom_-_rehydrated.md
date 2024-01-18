@@ -8,7 +8,7 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~246 |
 | Sponge Smasher | 23.00% | ~246 |
-| Jellyfish Jam | 21.00% | ~225 |
+| Jellyfish Jam | 22.00% | ~236 |
 | Jellyfishing | 17.00% | ~182 |
 | Sock Getter | 14.00% | ~150 |
 | Sweet Victory | 13.00% | ~139 |

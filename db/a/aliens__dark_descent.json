@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -573,9 +573,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6480,
+  "EOS_Progressed": 6481,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10013,6 +10013,11 @@
       "Time": "2024-01-17T21:06:09.0457697+00:00",
       "NumProgressed": 6480,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T04:08:22.2809447+00:00",
+      "NumProgressed": 6481,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10064,7 +10069,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10120,7 +10125,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4213
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10128,7 +10133,7 @@
       "Name": "Regicide",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -10136,7 +10141,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10144,7 +10149,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3758
+      "UsersEstimate": 3759
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10192,7 +10197,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10200,7 +10205,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10232,7 +10237,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10248,7 +10253,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10256,7 +10261,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1814
+      "UsersEstimate": 1815
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10320,7 +10325,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4147
+      "UsersEstimate": 4148
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10344,7 +10349,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10376,14 +10381,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6480,
+      "Progressed": 6481,
       "Completed": 3
     }
   ],
@@ -10391,8 +10396,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:08:16.007395+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:08:22.2809442+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:00:21.8476074+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:08:16.0074827+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:00:21.053516+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:08:22.2810336+00:00"
 }

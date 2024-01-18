@@ -4,7 +4,7 @@
   "ProductSlug": "shame-legacy-ef1b66",
   "Ranking_EOS_Progress": 766,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-30T12:00:00+00:00",
@@ -170,8 +170,8 @@
   ],
   "FirstSeen": "2023-11-17T16:59:14.0822392+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:43.692397+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:04:31.8658844+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:04:34.0096337+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:26.1653796+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:01:43.592705+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:04:31.8658976+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:01:44.6127596+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:04:34.0096509+00:00"
 }

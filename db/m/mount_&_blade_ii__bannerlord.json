@@ -10774,10 +10774,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 16796,
       "NumberOfAwardsMax": 8099
+    },
+    {
+      "Time": "2024-01-18T04:00:53.5991358+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16798,
+      "NumberOfAwardsMax": 8099
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16796,
+  "NumberOfAwards": 16798,
   "NumberOfAwardsMax": 8099,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10839,7 +10845,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 910
+      "Count": 912
     },
     {
       "Text": "This game has a Creative Community",
@@ -10854,9 +10860,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95886,
+  "EOS_Progressed": 95888,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2090,
+  "EOS_NewPlayers": 2083,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40099,6 +40105,11 @@
       "Time": "2024-01-18T02:34:14.7103063+00:00",
       "NumProgressed": 95886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T04:11:11.6066393+00:00",
+      "NumProgressed": 95888,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40166,7 +40177,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "Crackshot",
@@ -40182,7 +40193,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "Duelist",
@@ -40238,7 +40249,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11506
+      "UsersEstimate": 11507
     },
     {
       "ID": "Great Granny",
@@ -40302,7 +40313,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17259
+      "UsersEstimate": 17260
     },
     {
       "ID": "Kingslayer",
@@ -40334,7 +40345,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33560
+      "UsersEstimate": 33561
     },
     {
       "ID": "Lawbringer",
@@ -40342,7 +40353,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41231
+      "UsersEstimate": 41232
     },
     {
       "ID": "Lawmaker",
@@ -40454,7 +40465,7 @@
       "Name": "Swordbearer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10547
+      "UsersEstimate": 10548
     },
     {
       "ID": "The king is pleased",
@@ -40462,7 +40473,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19177
+      "UsersEstimate": 19178
     },
     {
       "ID": "This Is Our Land",
@@ -40502,7 +40513,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -40517,15 +40528,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95886,
+      "Progressed": 95888,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-18T01:47:38.6636778+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:11:03.6794212+00:00",
+  "LastChanged": "2024-01-18T04:00:53.5991357+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:11:11.6066388+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:00:54.0407882+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:11:03.6796159+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:00:53.5991362+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:11:11.6068383+00:00"
 }

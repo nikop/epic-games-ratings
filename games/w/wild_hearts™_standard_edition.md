@@ -22,7 +22,7 @@
 | Distance Devourer | 37.00% | ~511 |
 | Counter Specialist | 35.00% | ~483 |
 | Master of the Skies | 32.00% | ~442 |
-| Axer of Auspice | 29.00% | ~400 |
+| Axer of Auspice | 30.00% | ~414 |
 | Mighty Marmelizer | 28.00% | ~386 |
 | Fair Means or Foul | 28.00% | ~386 |
 | Kemono at Heart | 28.00% | ~386 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,7 +365,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25362,
+  "EOS_Progressed": 25363,
   "EOS_Completed": 120,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 1,
@@ -23470,6 +23470,11 @@
       "Time": "2024-01-18T03:08:13.0622552+00:00",
       "NumProgressed": 25362,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-18T04:08:19.3656869+00:00",
+      "NumProgressed": 25363,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 16,
@@ -23497,7 +23502,7 @@
       "Name": "Deadline",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -23577,7 +23582,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11920
+      "UsersEstimate": 11921
     },
     {
       "ID": "Sole_Survivor",
@@ -23608,15 +23613,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25362,
+      "Progressed": 25363,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:08:13.0622549+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:08:19.3656849+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.5508236+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:58:58.3072545+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:08:13.0623786+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:58:57.6314627+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:08:19.3658179+00:00"
 }

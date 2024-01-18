@@ -5,14 +5,14 @@ Rating: 4.10 (Ranked 1,024)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,284 |
-| World Map | 78.00% | ~3,593 |
-| Temple of Eternals | 56.00% | ~2,579 |
-| Prestigious | 52.00% | ~2,395 |
+| Victor | 93.00% | ~4,285 |
+| World Map | 78.00% | ~3,594 |
+| Temple of Eternals | 56.00% | ~2,580 |
+| Prestigious | 52.00% | ~2,396 |
 | Fellowship Power | 42.00% | ~1,935 |
 | Full Party | 30.00% | ~1,382 |
-| Guild Power | 22.00% | ~1,013 |
-| Prestigious x10 | 20.00% | ~921 |
+| Guild Power | 22.00% | ~1,014 |
+| Prestigious x10 | 20.00% | ~922 |
 | The game is on | 18.00% | ~829 |
 | Exotic Merchant | 16.00% | ~737 |
 | Dragon Clicker | 15.00% | ~691 |
@@ -30,19 +30,19 @@ Rating: 4.10 (Ranked 1,024)
 | Scientist | 10.00% | ~461 |
 | Doing My Part | 9.00% | ~415 |
 | The power of Awakening | 9.00% | ~415 |
-| Challenger | 8.00% | ~368 |
-| Daily Quest Completionist | 8.00% | ~368 |
-| Frostfire Liberator | 8.00% | ~368 |
-| Hunter | 8.00% | ~368 |
-| Mastery | 8.00% | ~368 |
-| Moving Up The Ladder | 8.00% | ~368 |
-| Relic Of The Past | 8.00% | ~368 |
-| Scroll Master | 8.00% | ~368 |
-| Four Leaf Clover | 7.00% | ~322 |
-| Here We Go Again | 7.00% | ~322 |
-| Master Enchanter | 7.00% | ~322 |
-| The father of Dragons | 7.00% | ~322 |
-| Trader | 7.00% | ~322 |
+| Challenger | 8.00% | ~369 |
+| Daily Quest Completionist | 8.00% | ~369 |
+| Frostfire Liberator | 8.00% | ~369 |
+| Hunter | 8.00% | ~369 |
+| Mastery | 8.00% | ~369 |
+| Moving Up The Ladder | 8.00% | ~369 |
+| Relic Of The Past | 8.00% | ~369 |
+| Scroll Master | 8.00% | ~369 |
+| Four Leaf Clover | 7.00% | ~323 |
+| Here We Go Again | 7.00% | ~323 |
+| Master Enchanter | 7.00% | ~323 |
+| The father of Dragons | 7.00% | ~323 |
+| Trader | 7.00% | ~323 |
 | Dragon Slayer | 6.00% | ~276 |
 | Enchanting skill | 6.00% | ~276 |
 | The Expeditioner | 6.00% | ~276 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 1,024)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,606 (Ranked 209)  
+Progressed: 4,608 (Ranked 209)  
 Completed: 2 (0.04%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 2 (0.04%) (Ranked 355)
 | 2024-01-15 | 4,513 | 2 |
 | 2024-01-16 | 4,558 | 2 |
 | 2024-01-17 | 4,598 | 2 |
-| 2024-01-18 | 4,606 | 2 |
+| 2024-01-18 | 4,608 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 442)  

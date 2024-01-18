@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2601,
+  "EOS_Progressed": 2602,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4811,6 +4811,11 @@
       "Time": "2024-01-18T01:53:25.369885+00:00",
       "NumProgressed": 2601,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-18T04:06:35.7096659+00:00",
+      "NumProgressed": 2602,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4828,9 +4833,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1665
+      "UsersEstimate": 1639
     },
     {
       "ID": "ACHV_03",
@@ -4846,7 +4851,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "ACHV_05",
@@ -4998,7 +5003,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ACHV_24",
@@ -5022,7 +5027,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "ACHV_27",
@@ -5030,7 +5035,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACHV_28",
@@ -5054,7 +5059,7 @@
       "Name": "Powered Up",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACHV_31",
@@ -5094,7 +5099,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "ACHV_36",
@@ -5142,7 +5147,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ACHV_42",
@@ -5277,7 +5282,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2601,
+      "Progressed": 2602,
       "Completed": 13
     }
   ],
@@ -5285,8 +5290,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:06:31.147361+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:06:35.7096654+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-18T03:03:26.3354662+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:06:31.1474216+00:00"
+  "LastUpdate_Ratings": "2024-01-18T04:03:08.96991+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:06:35.7097342+00:00"
 }

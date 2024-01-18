@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -251,10 +251,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93579,
+  "EOS_Progressed": 93580,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 633,
-  "EOS_NewCompleters": 10,
+  "EOS_NewPlayers": 634,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
@@ -18296,6 +18296,11 @@
       "Time": "2024-01-18T03:08:28.2093933+00:00",
       "NumProgressed": 93579,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-18T04:08:34.3000305+00:00",
+      "NumProgressed": 93580,
+      "NumCompleted": 345
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -18308,7 +18313,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 74863
+      "UsersEstimate": 74864
     },
     {
       "ID": "grp_beet",
@@ -18324,7 +18329,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 72056
+      "UsersEstimate": 72057
     },
     {
       "ID": "grp_endless",
@@ -18404,7 +18409,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 69248
+      "UsersEstimate": 69249
     },
     {
       "ID": "grp_speed",
@@ -18443,7 +18448,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93579,
+      "Progressed": 93580,
       "Completed": 345
     }
   ],
@@ -18451,8 +18456,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-11T13:59:21.7305428+00:00",
-  "LastChanged_Achievements": "2024-01-18T03:08:28.2093928+00:00",
+  "LastChanged_Achievements": "2024-01-18T04:08:34.3000299+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.4453179+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:59:24.2666605+00:00",
-  "LastUpdate_Achievements": "2024-01-18T03:08:28.2095009+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:59:23.2014962+00:00",
+  "LastUpdate_Achievements": "2024-01-18T04:08:34.3001322+00:00"
 }

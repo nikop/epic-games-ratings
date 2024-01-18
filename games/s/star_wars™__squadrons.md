@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~39,967 |
-| Safety in the Storm | 23.00% | ~9,676 |
-| A Better Idea | 23.00% | ~9,676 |
-| Begin the Ceremony | 19.00% | ~7,993 |
-| Mission Accomplished | 18.00% | ~7,573 |
+| Fracture at Fostar Haven | 95.00% | ~39,972 |
+| Safety in the Storm | 23.00% | ~9,677 |
+| A Better Idea | 23.00% | ~9,677 |
+| Begin the Ceremony | 19.00% | ~7,994 |
+| Mission Accomplished | 18.00% | ~7,574 |
 | The Galaxy's Finest (Story Mode) | 15.00% | ~6,311 |
-| A Starfighter of Your Own | 13.00% | ~5,469 |
+| A Starfighter of Your Own | 13.00% | ~5,470 |
 | Asset Secured | 12.00% | ~5,049 |
 | Unkillable | 7.00% | ~2,945 |
 | Together, Vanguard | 7.00% | ~2,945 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,524 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,525 |
 | Sound Strategy | 5.00% | ~2,104 |
 | Stomped | 5.00% | ~2,104 |
 | Fearless | 4.00% | ~1,683 |
@@ -26,13 +26,13 @@
 | Temporary Guardian | 3.00% | ~1,262 |
 | Baited | 3.00% | ~1,262 |
 | Punch It | 3.00% | ~1,262 |
-| Stun 'Em | 2.00% | ~841 |
-| Squadron Hunter | 2.00% | ~841 |
-| Combat Pilot | 2.00% | ~841 |
-| Dressed for the Job You Want | 2.00% | ~841 |
+| Stun 'Em | 2.00% | ~842 |
+| Squadron Hunter | 2.00% | ~842 |
+| Combat Pilot | 2.00% | ~842 |
+| Dressed for the Job You Want | 2.00% | ~842 |
 | I Have You Now | 1.00% | ~421 |
 | Against the Current | 0.80% | ~337 |
-| Denied | 0.70% | ~294 |
+| Denied | 0.70% | ~295 |
 | Found Your Place | 0.60% | ~252 |
 | Unstoppable Ace | 0.50% | ~210 |
 | Special Modifications | 0.40% | ~168 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~42 |
 | Ultimate Weapon | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,071 (Ranked 135)  
+Progressed: 42,076 (Ranked 135)  
 Completed: 3 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 3 (0.01%) (Ranked 378)
 | 2024-01-15 | 41,558 | 3 |
 | 2024-01-16 | 41,777 | 3 |
 | 2024-01-17 | 42,052 | 3 |
-| 2024-01-18 | 42,071 | 3 |
+| 2024-01-18 | 42,076 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
