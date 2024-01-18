@@ -2,10 +2,10 @@
   "ID": "cd6e72a7a51143c9b1cad0f36940dadc",
   "Name": "Recursive Ruin",
   "ProductSlug": "recursive-ruin-8fa892",
-  "Ranking_EOS_Progress": 838,
+  "Ranking_EOS_Progress": 839,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-18T13:00:00+00:00",
     "PcReleaseDate": "2022-05-18T13:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:01.2667039+00:00",
   "LastChanged": "2023-03-31T05:58:01.266704+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.733654+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:07:12.4056202+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:09:35.1655106+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:00:25.1212264+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:03:52.2003626+00:00"
 }

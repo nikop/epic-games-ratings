@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9655,10 +9655,10 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254534,
+  "EOS_Progressed": 254540,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1209,
-  "EOS_NewCompleters": 13,
+  "EOS_NewPlayers": 1202,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40645,6 +40645,11 @@
       "Time": "2024-01-18T13:17:04.3116604+00:00",
       "NumProgressed": 254534,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-18T14:10:34.2632305+00:00",
+      "NumProgressed": 254540,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -40656,7 +40661,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10181
+      "UsersEstimate": 10182
     },
     {
       "ID": "objective_completed_10",
@@ -42942,9 +42947,9 @@
       "ID": "objective_completed_56",
       "SetID": "cc37lbc",
       "Name": "Crowded Streets",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_560",
@@ -44944,7 +44949,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "objective_completed_1558",
@@ -45023,21 +45028,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220808,
+      "Progressed": 220814,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254534,
+      "Progressed": 254540,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-18T07:59:00.741304+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:17:04.31166+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:10:34.26323+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:05:43.0862303+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:17:04.3139019+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:27.3860966+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:10:34.2654959+00:00"
 }

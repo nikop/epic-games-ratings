@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10161,9 +10161,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818018,
+  "EOS_Progressed": 818021,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1090,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41071,6 +41071,11 @@
       "Time": "2024-01-18T13:16:57.4311367+00:00",
       "NumProgressed": 818018,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-18T14:10:28.311248+00:00",
+      "NumProgressed": 818021,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41162,7 +41167,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261766
+      "UsersEstimate": 261767
     },
     {
       "ID": "Bookworm",
@@ -41178,7 +41183,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98162
+      "UsersEstimate": 98163
     },
     {
       "ID": "Casanova",
@@ -41282,7 +41287,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188144
+      "UsersEstimate": 188145
     },
     {
       "ID": "Fighter",
@@ -41402,7 +41407,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106342
+      "UsersEstimate": 106343
     },
     {
       "ID": "Judas",
@@ -41658,7 +41663,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98162
+      "UsersEstimate": 98163
     },
     {
       "ID": "TisButAScratch",
@@ -41737,15 +41742,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818018,
+      "Progressed": 818021,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-17T19:59:12.4860951+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:16:57.4311364+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:10:28.3112474+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:06:18.9737731+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:16:57.4313326+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:50.2303973+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:10:28.3115727+00:00"
 }

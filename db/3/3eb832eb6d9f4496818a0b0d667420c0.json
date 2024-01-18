@@ -361,9 +361,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 424192,
+  "EOS_Progressed": 424224,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9036,
+  "EOS_NewPlayers": 9037,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3886,6 +3886,11 @@
       "Time": "2024-01-18T13:12:33.2426498+00:00",
       "NumProgressed": 424192,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T14:05:56.7480037+00:00",
+      "NumProgressed": 424224,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -3906,7 +3911,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29693
+      "UsersEstimate": 29696
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -3930,7 +3935,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 97564
+      "UsersEstimate": 97572
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -3954,7 +3959,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110290
+      "UsersEstimate": 110298
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -3962,7 +3967,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 93322
+      "UsersEstimate": 93329
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -3994,7 +3999,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 16968
+      "UsersEstimate": 16969
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4058,7 +4063,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38177
+      "UsersEstimate": 38180
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4066,7 +4071,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12726
+      "UsersEstimate": 12727
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -4098,7 +4103,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12726
+      "UsersEstimate": 12727
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -4106,7 +4111,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 33935
+      "UsersEstimate": 33938
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4122,7 +4127,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12726
+      "UsersEstimate": 12727
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -4194,7 +4199,7 @@
       "Name": "Storm Watch",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "ACHIEVEMENT_039",
@@ -4202,7 +4207,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12726
+      "UsersEstimate": 12727
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -4210,7 +4215,7 @@
       "Name": "Mercenary Business",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2969
+      "UsersEstimate": 2970
     },
     {
       "ID": "ACHIEVEMENT_041",
@@ -4241,7 +4246,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 424192,
+      "Progressed": 424224,
       "Completed": 3
     }
   ],
@@ -4249,8 +4254,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-18T02:27:28.2760744+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:12:33.2426495+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:05:56.7480032+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:09:06.8169197+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:12:33.2426878+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:03:33.424894+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:05:56.7480638+00:00"
 }

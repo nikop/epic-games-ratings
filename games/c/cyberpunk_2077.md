@@ -8,15 +8,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.30% | ~3,163 |
 | Right Back At Ya | 0.30% | ~3,163 |
+| Christmas Tree Attack | 0.30% | ~3,163 |
 | The Hermit | 0.30% | ~3,163 |
 | The High Priestess | 0.30% | ~3,163 |
 | The Wheel of Fortune | 0.30% | ~3,163 |
 | True Soldier | 0.30% | ~3,163 |
+| Legend of The Afterlife | 0.30% | ~3,163 |
 | Bushido and Chill | 0.20% | ~2,108 |
 | Gun Fu | 0.20% | ~2,108 |
 | Master Crafter | 0.20% | ~2,108 |
 | I Am The Law | 0.20% | ~2,108 |
-| Christmas Tree Attack | 0.20% | ~2,108 |
 | The Quick and the Dead | 0.20% | ~2,108 |
 | Life of the Road | 0.20% | ~2,108 |
 | Stanislavski's Method | 0.20% | ~2,108 |
@@ -25,7 +26,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.20% | ~2,108 |
 | True Warrior | 0.20% | ~2,108 |
 | Judy vs Night City | 0.20% | ~2,108 |
-| Legend of The Afterlife | 0.20% | ~2,108 |
 | All the President's Men | 0.20% | ~366 |
 | Arachnophobia | 0.20% | ~366 |
 | City Lights | 0.10% | ~1,054 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,205 (Ranked 17)  
+Progressed: 1,054,235 (Ranked 17)  
 Completed: 3,118 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 3,118 (0.30%) (Ranked 262)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
-| 2024-01-18 | 1,054,205 | 3,118 |
+| 2024-01-18 | 1,054,235 | 3,118 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
-Sum: 502,938 (Ranked 8)  
+Sum: 503,114 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -359,7 +359,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 32,075 |
 | This game has Diverse Characters | 31,382 |
 | This game is Highly Recommended | 29,830 |
-| This game has Amazing Storytelling | 29,252 |
+| This game has Amazing Storytelling | 29,428 |
 | This game is Extremely Fun | 29,160 |
 | This game has Amazing Characters | 28,843 |
 | This game is Relaxing | 27,967 |
@@ -732,4 +732,4 @@ Diff (max vs sum): 0
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
-| 2024-01-18 | 4.67 | - | 141,662 | 502,938 |
+| 2024-01-18 | 4.67 | - | 141,662 | 503,114 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16527,
+  "EOS_Progressed": 16528,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -18484,6 +18484,11 @@
       "Time": "2024-01-18T13:16:37.2778968+00:00",
       "NumProgressed": 16527,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2024-01-18T14:10:12.7545589+00:00",
+      "NumProgressed": 16528,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 34,
@@ -18623,7 +18628,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "ACH18",
@@ -18671,7 +18676,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4462
+      "UsersEstimate": 4463
     },
     {
       "ID": "ACH24",
@@ -18727,7 +18732,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "ACH31",
@@ -18766,7 +18771,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16527,
+      "Progressed": 16528,
       "Completed": 104
     }
   ],
@@ -18774,8 +18779,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:16:37.2778964+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:10:12.7545585+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:04:39.6927456+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:16:37.2780368+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:58:44.719011+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:10:12.7547019+00:00"
 }

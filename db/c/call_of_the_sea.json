@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140244,
+  "EOS_Progressed": 140245,
   "EOS_Completed": 1269,
-  "EOS_NewPlayers": 1114,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31595,6 +31595,11 @@
       "Time": "2024-01-18T13:10:19.6675755+00:00",
       "NumProgressed": 140244,
       "NumCompleted": 1269
+    },
+    {
+      "Time": "2024-01-18T14:04:22.7044662+00:00",
+      "NumProgressed": 140245,
+      "NumCompleted": 1269
     }
   ],
   "TotalAchievements": 34,
@@ -31614,7 +31619,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23841
+      "UsersEstimate": 23842
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -31622,7 +31627,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58902
+      "UsersEstimate": 58903
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -31630,7 +31635,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 42073
+      "UsersEstimate": 42074
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -31662,7 +31667,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112195
+      "UsersEstimate": 112196
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31686,7 +31691,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 39268
+      "UsersEstimate": 39269
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -31782,7 +31787,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39268
+      "UsersEstimate": 39269
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -31877,7 +31882,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140244,
+      "Progressed": 140245,
       "Completed": 1269
     }
   ],
@@ -31885,8 +31890,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:10:19.6675752+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:04:22.7044658+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:05:40.4449588+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:10:19.6677621+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:25.6931999+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:04:22.7047425+00:00"
 }

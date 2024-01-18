@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 46,
-  "Ranking_EOS_Progress": 838,
+  "Ranking_EOS_Progress": 839,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15003,10 +15003,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 30894,
       "NumberOfAwardsMax": 9066
+    },
+    {
+      "Time": "2024-01-18T13:59:19.4003594+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 30898,
+      "NumberOfAwardsMax": 9066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30894,
+  "NumberOfAwards": 30898,
   "NumberOfAwardsMax": 9066,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15068,7 +15074,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1639
+      "Count": 1643
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15094,8 +15100,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-18T04:59:36.6626312+00:00",
+  "LastChanged": "2024-01-18T13:59:19.4003592+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.3175371+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:05:31.8671196+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:11:45.4653588+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:19.4003598+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:05:23.1475942+00:00"
 }

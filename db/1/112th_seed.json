@@ -2,10 +2,10 @@
   "ID": "04e807a7a0534254ba2c56a2163d370c",
   "Name": "112th Seed",
   "ProductSlug": "112th-seed-6292ea",
-  "Ranking_EOS_Progress": 838,
+  "Ranking_EOS_Progress": 839,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-02T09:00:00+00:00",
     "PcReleaseDate": "2022-04-02T09:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.5629429+00:00",
   "LastChanged": "2023-03-31T05:58:43.562943+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:41.1960437+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:06:50.5921638+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:10:06.6501887+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:00:10.5724222+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:04:13.8233107+00:00"
 }

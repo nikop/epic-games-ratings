@@ -1,27 +1,27 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 658)  
+Rating: 4.48 (Ranked 657)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~491 |
-| First of many… | 68.00% | ~434 |
+| Green with Envy | 77.00% | ~492 |
+| First of many… | 68.00% | ~435 |
 | Helping Hand | 65.00% | ~415 |
-| Increased Vigor | 61.00% | ~389 |
-| Fight Fire with Fire | 59.00% | ~376 |
-| Increased Capacity | 56.00% | ~357 |
-| Just the start | 50.00% | ~319 |
-| Perfect Storm | 48.00% | ~306 |
+| Increased Vigor | 61.00% | ~390 |
+| Fight Fire with Fire | 59.00% | ~377 |
+| Increased Capacity | 56.00% | ~358 |
+| Just the start | 50.00% | ~320 |
+| Perfect Storm | 48.00% | ~307 |
 | All That Glitters | 47.00% | ~300 |
-| Enhance! | 43.00% | ~274 |
+| Enhance! | 43.00% | ~275 |
 | One Of the Chosen | 42.00% | ~268 |
-| Throne Potato | 42.00% | ~268 |
-| Five's a Crowd | 42.00% | ~268 |
 | Devil's in the Details | 41.00% | ~262 |
-| Salvation | 40.00% | ~255 |
-| 25 to Life | 40.00% | ~255 |
+| Throne Potato | 41.00% | ~262 |
+| Five's a Crowd | 41.00% | ~262 |
+| 25 to Life | 41.00% | ~262 |
+| Salvation | 40.00% | ~256 |
 | Unshakable Fortitude | 37.00% | ~236 |
 | Soul Harvester | 37.00% | ~236 |
 | I Wanna Rock | 36.00% | ~230 |
@@ -30,11 +30,11 @@ Number of Ratings: 116  (23.09.2022)
 | Love Tap | 34.00% | ~217 |
 | Freeze Frame | 31.00% | ~198 |
 | Eat Your Heart Out | 31.00% | ~198 |
-| For Whom the Bell Tolls | 30.00% | ~191 |
+| For Whom the Bell Tolls | 30.00% | ~192 |
 | Unyielding Strength | 28.00% | ~179 |
-| Can you restore the Balance? | 27.00% | ~172 |
-| Crowd Source | 27.00% | ~172 |
-| Big Spender | 27.00% | ~172 |
+| Can you restore the Balance? | 28.00% | ~179 |
+| Crowd Source | 27.00% | ~173 |
+| Big Spender | 27.00% | ~173 |
 | Cleanup Crew | 26.00% | ~166 |
 | Demon Meddler | 25.00% | ~160 |
 | Seeing Red | 25.00% | ~160 |
@@ -71,8 +71,8 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~6 |
 | Beast Mode | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 638 (Ranked 341)  
-Completed: 2 (0.31%) (Ranked 259)  
+Progressed: 639 (Ranked 341)  
+Completed: 2 (0.31%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 2 (0.31%) (Ranked 259)
 | 2024-01-15 | 616 | 2 |
 | 2024-01-16 | 624 | 2 |
 | 2024-01-17 | 631 | 2 |
-| 2024-01-18 | 638 | 2 |
+| 2024-01-18 | 639 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

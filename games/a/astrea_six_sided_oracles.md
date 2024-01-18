@@ -38,12 +38,12 @@
 | Artificer | 5.00% | ~20 |
 | Can't touch this | 5.00% | ~20 |
 | Prestidigitation | 5.00% | ~20 |
+| Apian Hero | 5.00% | ~20 |
 | Astrarium of Holding | 4.00% | ~16 |
 | Denying Destiny | 4.00% | ~16 |
 | If I Had Failed... | 4.00% | ~16 |
 | The Chaos Artisan | 4.00% | ~16 |
 | The Dark Moon | 4.00% | ~16 |
-| Apian Hero | 4.00% | ~16 |
 | Behenian Hero | 4.00% | ~16 |
 | Noctuan Hero | 4.00% | ~16 |
 | Pocket Astrarium | 3.00% | ~12 |

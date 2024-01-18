@@ -2,10 +2,10 @@
   "ID": "bb7ea11205804367ba0e1a3743568de3",
   "Name": "Near Impact",
   "ProductSlug": "near-impact-b7bee9",
-  "Ranking_EOS_Progress": 838,
+  "Ranking_EOS_Progress": 839,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-29T04:00:00+00:00",
     "PcReleaseDate": "2023-10-29T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T10:57:01.578852+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:05:14.6794818+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:11:35.3726944+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:08.0409414+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:05:16.0151175+00:00"
 }

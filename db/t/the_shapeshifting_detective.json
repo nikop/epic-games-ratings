@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 337,
+  "EOS_Progressed": 338,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -905,6 +905,11 @@
       "Time": "2024-01-15T22:04:29.2008359+00:00",
       "NumProgressed": 337,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T14:06:06.4433402+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -916,7 +921,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "book_em_danny",
@@ -932,7 +937,7 @@
       "Name": "Bullseye",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "chameleon",
@@ -940,7 +945,7 @@
       "Name": "Chameleon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "chicken",
@@ -970,9 +975,9 @@
       "ID": "highlander",
       "SetID": "2db2j74",
       "Name": "Highlander",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 57
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -988,7 +993,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "patient_listener",
@@ -996,7 +1001,7 @@
       "Name": "Patient Listener",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "play_it_again_sam",
@@ -1004,7 +1009,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "play_me_by_the_hour",
@@ -1012,7 +1017,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "poetent",
@@ -1020,7 +1025,7 @@
       "Name": "Poetent",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "put_a_ring_on_it",
@@ -1044,7 +1049,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "the_big_sleep",
@@ -1052,7 +1057,7 @@
       "Name": "The Big Sleep",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "video_saved_the_radio_star",
@@ -1083,7 +1088,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 3
     }
   ],
@@ -1091,8 +1096,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:12:47.0712565+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:06:06.4433397+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:09:11.6961229+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:12:47.0712709+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:03:36.6382148+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:06:06.4433615+00:00"
 }

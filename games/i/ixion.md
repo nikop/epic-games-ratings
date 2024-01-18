@@ -5,8 +5,8 @@ Rating: 4.60 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,431 |
-| Sputnik 2049 | 30.00% | ~1,263 |
+| Wakey Wakey | 34.00% | ~1,432 |
+| Sputnik 2049 | 30.00% | ~1,264 |
 | Infinite Growth... | 29.00% | ~1,221 |
 | Without Breaking Some Eggs... | 27.00% | ~1,137 |
 | Space Society | 20.00% | ~842 |
@@ -17,10 +17,10 @@ Rating: 4.60 (Ranked 425)
 | The Ship of Theseus | 16.00% | ~674 |
 | Guy de Borderlands | 15.00% | ~632 |
 | Ain't Nobody Got Time for That | 15.00% | ~632 |
-| Hope Seeker | 14.00% | ~589 |
-| A Hunk of Junk | 13.00% | ~547 |
-| Exceeding Capacity | 13.00% | ~547 |
-| Breaking Protocol | 13.00% | ~547 |
+| Hope Seeker | 14.00% | ~590 |
+| A Hunk of Junk | 13.00% | ~548 |
+| Exceeding Capacity | 13.00% | ~548 |
+| Breaking Protocol | 13.00% | ~548 |
 | Man's Best Friend | 9.00% | ~379 |
 | Power Outage | 9.00% | ~379 |
 | Please Make it Stop! | 9.00% | ~379 |
@@ -32,11 +32,11 @@ Rating: 4.60 (Ranked 425)
 | From the Past | 7.00% | ~295 |
 | Oats | 6.00% | ~253 |
 | All in Good Health | 6.00% | ~253 |
-| What They Hide From Us | 5.00% | ~210 |
-| ...  in a finite world | 5.00% | ~210 |
-| In Dolos We Trust | 5.00% | ~210 |
-| BRAWL! | 5.00% | ~210 |
-| What the Ruins Teach Us | 5.00% | ~210 |
+| What They Hide From Us | 5.00% | ~211 |
+| ...  in a finite world | 5.00% | ~211 |
+| In Dolos We Trust | 5.00% | ~211 |
+| BRAWL! | 5.00% | ~211 |
+| What the Ruins Teach Us | 5.00% | ~211 |
 | Sustainable Energy | 4.00% | ~168 |
 | Pedal to the Metal | 4.00% | ~168 |
 | Praise the Hull! | 3.00% | ~126 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 425)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,210 (Ranked 215)  
+Progressed: 4,212 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 4,202 | 0 |
 | 2024-01-16 | 4,203 | 0 |
 | 2024-01-17 | 4,209 | 0 |
-| 2024-01-18 | 4,210 | 0 |
+| 2024-01-18 | 4,212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

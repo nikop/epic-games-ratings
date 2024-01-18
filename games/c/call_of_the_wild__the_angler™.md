@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 16.00% | ~1,338 |
 | Scaling up | 15.00% | ~1,254 |
 | I'm on a Boat! | 14.00% | ~1,171 |
-| Ready to Rod and Roll | 11.00% | ~920 |
+| Ready to Rod and Roll | 12.00% | ~1,003 |
 | Fish Out of Water | 8.00% | ~669 |
 | Things that go Splash in the Night | 8.00% | ~669 |
 | Goldfish? | 6.00% | ~502 |

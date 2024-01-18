@@ -5,10 +5,10 @@
   "Ranking_Rating": 1080,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 680,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1439,6 +1439,11 @@
       "Time": "2024-01-16T12:08:26.3424676+00:00",
       "NumProgressed": 678,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T14:04:23.6367574+00:00",
+      "NumProgressed": 680,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1474,7 +1479,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "Doors_Closing",
@@ -1538,7 +1543,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Hitman",
@@ -1570,7 +1575,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "Leisurely_Strol",
@@ -1584,9 +1589,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 75
     },
     {
       "ID": "Misanthrope",
@@ -1674,14 +1679,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 680,
       "Completed": 6
     }
   ],
@@ -1689,8 +1694,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:10:21.0628988+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:04:23.6367569+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:09:29.1924339+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:10:21.0629292+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:03:47.9420171+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:04:23.6367883+00:00"
 }

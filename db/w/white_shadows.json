@@ -2,10 +2,10 @@
   "ID": "173887f6d1bd4535a738fcd0a3383b47",
   "Name": "White Shadows",
   "ProductSlug": "white-shadows-64e014",
-  "Ranking_EOS_Progress": 838,
+  "Ranking_EOS_Progress": 839,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-08T15:00:00+00:00",
     "PcReleaseDate": "2021-12-07T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.2657568+00:00",
   "LastChanged": "2023-03-31T05:57:32.2657569+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:56.0729853+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:03:18.8885855+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:12:47.7182972+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:57:49.3446708+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:06:06.9216547+00:00"
 }

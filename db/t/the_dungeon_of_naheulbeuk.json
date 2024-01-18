@@ -1773,9 +1773,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248606,
+  "EOS_Progressed": 248615,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 989,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26653,6 +26653,11 @@
       "Time": "2024-01-18T13:16:59.5945553+00:00",
       "NumProgressed": 248606,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-18T14:10:30.1849993+00:00",
+      "NumProgressed": 248615,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26696,7 +26701,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "BookCollection",
@@ -26712,7 +26717,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19888
+      "UsersEstimate": 19889
     },
     {
       "ID": "Chapter2",
@@ -26720,7 +26725,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12430
+      "UsersEstimate": 12431
     },
     {
       "ID": "Chapter3",
@@ -26728,7 +26733,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9944
+      "UsersEstimate": 9945
     },
     {
       "ID": "Chapter4",
@@ -27096,7 +27101,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "ElfEpic",
@@ -27112,7 +27117,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91984
+      "UsersEstimate": 91988
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27128,7 +27133,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12430
+      "UsersEstimate": 12431
     },
     {
       "ID": "EndCombatOneHp",
@@ -27136,7 +27141,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12430
+      "UsersEstimate": 12431
     },
     {
       "ID": "EndGameCursed",
@@ -27160,7 +27165,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27347
+      "UsersEstimate": 27348
     },
     {
       "ID": "FollowBraztok",
@@ -27200,7 +27205,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2237
+      "UsersEstimate": 2238
     },
     {
       "ID": "MinistrelEpic",
@@ -27312,7 +27317,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "SupportCount4",
@@ -27360,28 +27365,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12430
+      "UsersEstimate": 12431
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248606,
+      "Progressed": 248615,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248606,
+      "Progressed": 248615,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-18T04:02:39.050202+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:16:59.594555+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:10:30.1849987+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:02:43.5222589+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:16:59.5947216+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:57:24.8510864+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:10:30.1852443+00:00"
 }

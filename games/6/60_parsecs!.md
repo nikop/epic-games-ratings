@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~996 |
-| Space Colonization | 80.00% | ~830 |
-| Friendzone | 78.00% | ~809 |
-| Hello World | 73.00% | ~757 |
-| Space Engineer | 62.00% | ~643 |
-| Tinkerer | 61.00% | ~633 |
-| Dust to Dust | 57.00% | ~591 |
-| Across The Stars | 46.00% | ~477 |
-| Crafty | 44.00% | ~456 |
-| All Seats Taken | 36.00% | ~373 |
-| For Science! | 32.00% | ~332 |
-| Meet the Petersons | 31.00% | ~321 |
-| Stay Cool | 27.00% | ~280 |
+| Don't Panic! | 97.00% | ~1,009 |
+| Space Colonization | 80.00% | ~832 |
+| Friendzone | 78.00% | ~811 |
+| Hello World | 73.00% | ~759 |
+| Space Engineer | 62.00% | ~645 |
+| Tinkerer | 61.00% | ~634 |
+| Dust to Dust | 57.00% | ~593 |
+| Across The Stars | 46.00% | ~478 |
+| Crafty | 44.00% | ~458 |
+| All Seats Taken | 36.00% | ~374 |
+| For Science! | 32.00% | ~333 |
+| Meet the Petersons | 31.00% | ~322 |
+| Stay Cool | 27.00% | ~281 |
 | KIA | 26.00% | ~270 |
 | Mutiny in making | 23.00% | ~239 |
 | Eco-Shuttle | 18.00% | ~187 |
 | Et tu, Astrocitizen? | 18.00% | ~187 |
 | Space Explorer | 15.00% | ~156 |
-| Gold Medalist | 12.00% | ~124 |
+| Gold Medalist | 12.00% | ~125 |
 | Hands Full | 11.00% | ~114 |
 | Non-Fiction | 10.00% | ~104 |
 | No Man Left Behind | 8.00% | ~83 |
@@ -32,8 +32,8 @@
 | Axel jump in space! | 6.00% | ~62 |
 | First of April | 6.00% | ~62 |
 | Flawless Maegangement | 6.00% | ~62 |
-| Extreme Makeover | 4.00% | ~41 |
-| The Last Supper | 4.00% | ~41 |
+| Extreme Makeover | 4.00% | ~42 |
+| The Last Supper | 4.00% | ~42 |
 | The Improvinator | 3.00% | ~31 |
 | Bovine Domain | 2.00% | ~21 |
 | 2018: A Soup Odyssey | 2.00% | ~21 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,037 (Ranked 297)  
+Progressed: 1,040 (Ranked 297)  
 Completed: 1 (0.10%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.10%) (Ranked 316)
 | 2024-01-15 | 830 | 1 |
 | 2024-01-16 | 870 | 1 |
 | 2024-01-17 | 981 | 1 |
-| 2024-01-18 | 1,037 | 1 |
+| 2024-01-18 | 1,040 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

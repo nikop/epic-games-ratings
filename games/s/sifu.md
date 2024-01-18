@@ -43,7 +43,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.60% | ~425 |
 | Prodigal Child | 0.50% | ~3,808 |
 | The 36th Chamber of Kung-Fu | 0.50% | ~3,808 |
-| The best strikes are the ones we avoid | 0.50% | ~354 |
+| The best strikes are the ones we avoid | 0.50% | ~355 |
 | Knowledge Greed | 0.40% | ~3,046 |
 | The Pit Protector | 0.40% | ~3,046 |
 | Come Snap With Me | 0.40% | ~3,046 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,594 (Ranked 26)  
-Completed: 12,991 (1.71%) (Ranked 148)  
+Progressed: 761,605 (Ranked 26)  
+Completed: 12,992 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,7 +340,7 @@ Completed: 12,991 (1.71%) (Ranked 148)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,594 | 12,991 |
+| 2024-01-18 | 761,605 | 12,992 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
 Sum: 12,794 (Ranked 87)  

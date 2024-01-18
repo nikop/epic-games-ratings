@@ -24,7 +24,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~509 |
 | Pioneer | 3.00% | ~509 |
 | Strong | 3.00% | ~509 |
-| Developing Cities | 3.00% | ~509 |
 | Hanging Gardens | 3.00% | ~509 |
 | Oracle | 3.00% | ~509 |
 | Pyramids | 3.00% | ~509 |
@@ -41,6 +40,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~339 |
 | Warrior | 2.00% | ~339 |
 | Wise | 2.00% | ~339 |
+| Developing Cities | 2.00% | ~339 |
 | Strong Cities | 2.00% | ~339 |
 | Able Difficulty | 2.00% | ~339 |
 | Furious Family | 2.00% | ~339 |
@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~102 |
 | Jerwan Aqueduct | 0.60% | ~102 |
 | Royal Library | 0.60% | ~102 |
+| Ishtar Gate in Babylon | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
 | Yazilikaya | 0.50% | ~85 |
-| Ishtar Gate in Babylon | 0.40% | ~68 |
 | Old | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
@@ -307,6 +307,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Akhen-who? | 0.10% | ~17 |
 | Glory to The Aten | 0.10% | ~17 |
 | Akhenaten's Legacy | 0.10% | ~17 |
+| Pharaonic Glory to The Aten | 0.10% | ~17 |
+| Akhenaten's Pharaonic Legacy | 0.10% | ~17 |
 | Ramesses II The Great | 0.10% | ~17 |
 | Qadesh Victory | 0.10% | ~17 |
 | Ramesses II KIA | 0.10% | ~17 |
@@ -343,8 +345,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
-| Pharaonic Glory to The Aten | 0.00% | ~0 |
-| Akhenaten's Pharaonic Legacy | 0.00% | ~0 |
 | Qadesh Defeat | 0.00% | ~0 |
 | Destruction at Qadesh | 0.00% | ~0 |
 | Muwatalli II KIA | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,960 (Ranked 169)  
+Progressed: 16,961 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,960 | 5 |
+| 2024-01-18 | 16,961 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

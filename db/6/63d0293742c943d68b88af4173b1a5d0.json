@@ -2,10 +2,10 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 848,
+  "EOS_Progressed": 852,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2709,6 +2709,11 @@
       "Time": "2024-01-18T12:04:55.3481534+00:00",
       "NumProgressed": 848,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T14:05:02.6386804+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2729,7 +2734,7 @@
       "Name": "Iced Iced Baby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "5",
@@ -2737,7 +2742,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "6",
@@ -2761,7 +2766,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 322
+      "UsersEstimate": 324
     },
     {
       "ID": "9",
@@ -2777,7 +2782,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 256
     },
     {
       "ID": "REMAKE_002",
@@ -2785,7 +2790,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 605
     },
     {
       "ID": "REMAKE_004",
@@ -2793,7 +2798,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 492
+      "UsersEstimate": 494
     },
     {
       "ID": "Remake_005",
@@ -2809,7 +2814,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "Remake_007",
@@ -2817,7 +2822,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Remake_008",
@@ -2825,7 +2830,7 @@
       "Name": "Plumber\u0027s Apprentice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Remake_009",
@@ -2833,7 +2838,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Remake_010",
@@ -2849,7 +2854,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Remake_12",
@@ -2865,7 +2870,7 @@
       "Name": "Toasted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Remake_14",
@@ -2873,7 +2878,7 @@
       "Name": "This is not how you play Slip and Die",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_15",
@@ -2881,7 +2886,7 @@
       "Name": "Ready for the Big Leagues",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_16",
@@ -2889,7 +2894,7 @@
       "Name": "Choked on Balls",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Remake_17",
@@ -2937,21 +2942,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 848,
+      "Progressed": 852,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:11:16.0453138+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:05:02.6386799+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:05:38.7400822+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:11:16.0453366+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:24.7114415+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:05:02.6387127+00:00"
 }

@@ -16,8 +16,8 @@
 | Elimination | 34.00% | ~36 |
 | Victor's Prejudice | 33.00% | ~35 |
 | Excellent Driving Skills | 32.00% | ~34 |
-| Once Bitten, Twice Shy | 31.00% | ~33 |
-| Memento | 29.00% | ~31 |
+| Once Bitten, Twice Shy | 32.00% | ~34 |
+| Memento | 30.00% | ~32 |
 | Fleet-footed | 28.00% | ~30 |
 | Defeat the AI | 27.00% | ~29 |
 | Invincible | 27.00% | ~29 |
@@ -46,10 +46,10 @@
 | Time's Up | 3.00% | ~3 |
 | Prowess | 3.00% | ~3 |
 | Interception | 2.00% | ~2 |
+| Terrible Weather | 2.00% | ~2 |
 | Escape Master | 2.00% | ~2 |
 | Clairvoyance | 2.00% | ~2 |
 | Encore | 2.00% | ~2 |
-| Terrible Weather | 0.90% | ~1 |
 | Pro Gamer | 0.90% | ~1 |
 | Heavenly Music | 0.90% | ~1 |
 | Cat Lover | 0.90% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
     "PcReleaseDate": "2018-03-08T17:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75830,
+  "EOS_Progressed": 75836,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1336,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7762,6 +7762,11 @@
       "Time": "2024-01-18T13:14:58.6126353+00:00",
       "NumProgressed": 75830,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2024-01-18T14:09:04.1801114+00:00",
+      "NumProgressed": 75836,
+      "NumCompleted": 127
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7774,7 +7779,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28057
+      "UsersEstimate": 28059
     },
     {
       "ID": "Achievement_10",
@@ -7822,7 +7827,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_16",
@@ -7838,7 +7843,7 @@
       "Name": "Great Wave Alumni",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_18",
@@ -7862,7 +7867,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21232
+      "UsersEstimate": 21234
     },
     {
       "ID": "Achievement_20",
@@ -7870,7 +7875,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Achievement_21",
@@ -8006,7 +8011,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5308
+      "UsersEstimate": 5309
     },
     {
       "ID": "Achievement_6",
@@ -8045,7 +8050,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75830,
+      "Progressed": 75836,
       "Completed": 127
     }
   ],
@@ -8053,8 +8058,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:14:58.612635+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:09:04.1801109+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:28.0983464+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:06:19.8951997+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:14:58.6126865+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:51.3680901+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:09:04.1801923+00:00"
 }

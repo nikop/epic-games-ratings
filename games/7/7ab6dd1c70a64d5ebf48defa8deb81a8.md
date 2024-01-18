@@ -6,10 +6,10 @@ Rating: 4.17 (Ranked 991)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 65.00% | ~1,544 |
-| Trinity | 35.00% | ~831 |
+| Trinity | 35.00% | ~832 |
 | The Collector | 28.00% | ~665 |
-| Find Allies | 27.00% | ~641 |
-| A Taste of Wrath | 27.00% | ~641 |
+| Find Allies | 27.00% | ~642 |
+| A Taste of Wrath | 27.00% | ~642 |
 | Adventurer | 26.00% | ~618 |
 | Geared Up | 26.00% | ~618 |
 | Shatter Them All | 25.00% | ~594 |
@@ -18,7 +18,7 @@ Rating: 4.17 (Ranked 991)
 | Fashion Victim | 24.00% | ~570 |
 | Tributes of Caladrias | 23.00% | ~546 |
 | Stone Collection | 23.00% | ~546 |
-| Powerful Allies | 22.00% | ~522 |
+| Powerful Allies | 22.00% | ~523 |
 | Big Bazar | 16.00% | ~380 |
 | Alchemist | 15.00% | ~356 |
 | Essence Blow | 14.00% | ~333 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 991)
 | All That Gold | 0.90% | ~21 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,375 (Ranked 244)  
+Progressed: 2,376 (Ranked 244)  
 Completed: 5 (0.21%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 5 (0.21%) (Ranked 282)
 | 2024-01-15 | 2,348 | 3 |
 | 2024-01-16 | 2,358 | 4 |
 | 2024-01-17 | 2,374 | 5 |
-| 2024-01-18 | 2,375 | 5 |
+| 2024-01-18 | 2,376 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

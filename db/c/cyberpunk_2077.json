@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewPlayers": 23,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -18570,10 +18570,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 502938,
       "NumberOfAwardsMax": 141662
+    },
+    {
+      "Time": "2024-01-18T14:03:38.1301749+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 503114,
+      "NumberOfAwardsMax": 141662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 502938,
+  "NumberOfAwards": 503114,
   "NumberOfAwardsMax": 141662,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18605,7 +18611,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29252
+      "Count": 29428
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18650,10 +18656,10 @@
       "Count": 19395
     }
   ],
-  "EOS_Progressed": 1054205,
+  "EOS_Progressed": 1054235,
   "EOS_Completed": 3118,
-  "EOS_NewPlayers": 8461,
-  "EOS_NewCompleters": 48,
+  "EOS_NewPlayers": 8362,
+  "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -49930,6 +49936,11 @@
       "Time": "2024-01-18T13:15:15.1526946+00:00",
       "NumProgressed": 1054205,
       "NumCompleted": 3118
+    },
+    {
+      "Time": "2024-01-18T14:09:15.6684175+00:00",
+      "NumProgressed": 1054235,
+      "NumCompleted": 3118
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50060,9 +50071,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2108
+      "UsersEstimate": 3163
     },
     {
       "ID": "MaxPain",
@@ -50284,9 +50295,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2108
+      "UsersEstimate": 3163
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50477,21 +50488,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054205,
+      "Progressed": 1054235,
       "Completed": 3118
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 182828,
+      "Progressed": 182858,
       "Completed": 10649
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-18T12:03:31.9629383+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:15:15.1526938+00:00",
+  "LastChanged": "2024-01-18T14:03:38.1301747+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:09:15.6684171+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:09:13.7412647+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:15:15.1529114+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:03:38.1301754+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:09:15.6686943+00:00"
 }

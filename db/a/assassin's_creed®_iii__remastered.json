@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-3",
   "Ranking_Rating": 579,
   "Ranking_Popularity": 297,
-  "Ranking_PopularitySum": 415,
-  "Ranking_EOS_Progress": 838,
+  "Ranking_PopularitySum": 416,
+  "Ranking_EOS_Progress": 839,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2019-03-29T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -715,6 +715,6 @@
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
   "LastChanged": "2024-01-17T06:58:11.3702095+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.575061+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:05:15.4782754+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:11:45.9196253+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:59:08.5193156+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:05:23.5033815+00:00"
 }

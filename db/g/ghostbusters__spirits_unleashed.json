@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 617,
   "Ranking_Popularity": 258,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 282,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4047,7 +4047,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33768,
+  "EOS_Progressed": 33769,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
@@ -25862,6 +25862,11 @@
       "Time": "2024-01-18T13:15:34.2317373+00:00",
       "NumProgressed": 33768,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-18T14:09:28.5858385+00:00",
+      "NumProgressed": 33769,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -25873,7 +25878,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "Animated",
@@ -26177,7 +26182,7 @@
       "Name": "Stylish",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3714
+      "UsersEstimate": 3715
     },
     {
       "ID": "Summoner",
@@ -26280,7 +26285,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33768,
+      "Progressed": 33769,
       "Completed": 71
     }
   ],
@@ -26288,8 +26293,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-18T07:58:11.0627138+00:00",
-  "LastChanged_Achievements": "2024-01-18T13:15:34.2317369+00:00",
+  "LastChanged_Achievements": "2024-01-18T14:09:28.5858381+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:04:28.5468049+00:00",
-  "LastUpdate_Achievements": "2024-01-18T13:15:34.2318823+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:58:37.2885737+00:00",
+  "LastUpdate_Achievements": "2024-01-18T14:09:28.585948+00:00"
 }

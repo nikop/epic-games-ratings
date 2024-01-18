@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,181 |
+| A Brief Tour of the Realms | 4.00% | ~10,182 |
 | Beast Intentions | 2.00% | ~5,091 |
 | The Cursed Farmer | 2.00% | ~5,091 |
 | The Mad Wizard | 2.00% | ~5,091 |
@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.80% | ~2,036 |
 | Mad Cow Disease | 0.80% | ~2,036 |
 | Friendly Imps | 0.80% | ~2,036 |
-| Welcome to Sigil | 0.80% | ~1,766 |
+| Welcome to Sigil | 0.80% | ~1,767 |
 | Pure Energy | 0.70% | ~1,782 |
 | Fast Food | 0.70% | ~1,546 |
 | A Persistent Buzzing | 0.60% | ~1,527 |
@@ -85,6 +85,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~509 |
 | The Dead Three | 0.20% | ~509 |
 | Flying Monkey Skulls of Doom | 0.20% | ~509 |
+| Crowded Streets | 0.20% | ~509 |
 | The Darkness Runs Deeper | 0.20% | ~509 |
 | Difficult Terrain | 0.20% | ~509 |
 | Dinosaur Racing | 0.20% | ~509 |
@@ -330,7 +331,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Bregan D'aerthe Comes to Call | 0.10% | ~255 |
 | Sober Up | 0.10% | ~255 |
 | In The Beginning | 0.10% | ~221 |
-| Crowded Streets | 0.10% | ~255 |
 | The Sunless Citadel | 0.10% | ~255 |
 | Veteran Brigade | 0.10% | ~255 |
 | Social Grace | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,534 (Ranked 71)  
+Progressed: 254,540 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,534 | 2,624 |
+| 2024-01-18 | 254,540 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  
