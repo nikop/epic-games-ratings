@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -8803,9 +8803,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 182
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8915,9 +8915,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 273
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -9003,9 +9003,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 205
+      "UsersEstimate": 227
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -9108,8 +9108,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:08:16.1712926+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:08:10.7198036+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:58:48.0741193+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:08:16.1713868+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:59:32.9044892+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:08:10.719876+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4233,6 +4233,11 @@
       "Time": "2024-01-18T14:06:43.7450525+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T16:08:12.687509+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4261,7 +4266,7 @@
       "Name": "Anthropic Hills",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Archaeologist",
@@ -4349,7 +4354,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "EcstaticTruth",
@@ -4365,7 +4370,7 @@
       "Name": "Excellent",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "FloodedValley",
@@ -4493,7 +4498,7 @@
       "Name": "Not What It Seems",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "Overload",
@@ -4525,7 +4530,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4581,7 +4586,7 @@
       "Name": "Southern Coast",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "TeamSpirit",
@@ -4605,7 +4610,7 @@
       "Name": "The All-Gifted",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4645,7 +4650,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "TheWordEndures",
@@ -4716,7 +4721,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 2
     }
   ],
@@ -4724,8 +4729,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:08:17.5309802+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:08:12.6875085+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:59:49.6553285+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:08:17.531054+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:01:09.8407343+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:08:12.6875555+00:00"
 }

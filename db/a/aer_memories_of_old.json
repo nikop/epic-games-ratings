@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28953,
+  "EOS_Progressed": 28954,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29881,6 +29881,11 @@
       "Time": "2024-01-18T15:04:35.1129049+00:00",
       "NumProgressed": 28953,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2024-01-18T16:05:32.6510393+00:00",
+      "NumProgressed": 28954,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 20,
@@ -29892,7 +29897,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -29908,7 +29913,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -29956,7 +29961,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4053
+      "UsersEstimate": 4054
     },
     {
       "ID": "FOUND_ERIN",
@@ -30012,7 +30017,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22004
+      "UsersEstimate": 22005
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30020,7 +30025,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30051,15 +30056,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28953,
+      "Progressed": 28954,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:04:35.1129044+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:05:32.6510389+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:57:53.8293217+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:04:35.1131159+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:58:06.6913448+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:05:32.6511895+00:00"
 }

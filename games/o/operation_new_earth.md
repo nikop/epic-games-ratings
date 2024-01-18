@@ -9,19 +9,19 @@ Rating: 3.33 (Ranked 1,105)
 | Defenses Online | 25.00% | ~568 |
 | Facility Online | 20.00% | ~455 |
 | Corporal | 15.00% | ~341 |
+| Sergeant | 12.00% | ~273 |
 | Covert Operative | 12.00% | ~273 |
-| Sergeant | 11.00% | ~250 |
 | Lieutenant | 10.00% | ~227 |
 | Getting Deployment | 10.00% | ~227 |
+| Stocking Up | 10.00% | ~227 |
 | On Target | 10.00% | ~227 |
 | Keeping Busy | 9.00% | ~205 |
-| Stocking Up | 9.00% | ~205 |
 | Infantry Reporting | 9.00% | ~205 |
+| Exterminator | 8.00% | ~182 |
 | Fighting for Survival | 8.00% | ~182 |
 | Silver Competitor | 8.00% | ~182 |
 | Captain | 8.00% | ~182 |
 | Factory Expansion | 8.00% | ~182 |
-| Exterminator | 7.00% | ~159 |
 | Know The Enemy | 6.00% | ~136 |
 | Silver Achiever | 6.00% | ~136 |
 | Moving On Up | 6.00% | ~136 |

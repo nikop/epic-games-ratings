@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -315,9 +315,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1083,
+  "EOS_Progressed": 1084,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2545,6 +2545,11 @@
       "Time": "2024-01-17T22:09:46.0747781+00:00",
       "NumProgressed": 1083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T16:10:45.4406256+00:00",
+      "NumProgressed": 1084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2588,7 +2593,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -2612,7 +2617,7 @@
       "Name": "The best thing money can buy",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -2692,7 +2697,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2708,7 +2713,7 @@
       "Name": "I can fix it!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2716,7 +2721,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2771,7 +2776,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 1083,
+      "Progressed": 1084,
       "Completed": 0
     }
   ],
@@ -2779,8 +2784,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2024-01-07T01:52:54.3373134+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:09:49.734823+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:10:45.4406252+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:21.837492+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:32.0918334+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:09:49.7348561+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:57:04.669923+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:10:45.4406497+00:00"
 }

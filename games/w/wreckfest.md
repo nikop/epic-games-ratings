@@ -10,7 +10,7 @@ Rating: 4.25 (Ranked 929)
 | Dirty Roller | 34.00% | ~407 |
 | Regional Juniors Champion | 32.00% | ~383 |
 | Wheeler Dealer | 26.00% | ~311 |
-| Look Mom, I Can Fly | 24.00% | ~287 |
+| Look Mom, I Can Fly | 25.00% | ~299 |
 | National Amateurs Champion | 18.00% | ~215 |
 | Junk Collector | 15.00% | ~179 |
 | Trashing Around | 15.00% | ~179 |

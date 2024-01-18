@@ -18576,10 +18576,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 503114,
       "NumberOfAwardsMax": 141662
+    },
+    {
+      "Time": "2024-01-18T16:03:36.8470827+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 503261,
+      "NumberOfAwardsMax": 141662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 503114,
+  "NumberOfAwards": 503261,
   "NumberOfAwardsMax": 141662,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18635,7 +18641,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27709
+      "Count": 27856
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18656,9 +18662,9 @@
       "Count": 19395
     }
   ],
-  "EOS_Progressed": 1054293,
+  "EOS_Progressed": 1054339,
   "EOS_Completed": 3119,
-  "EOS_NewPlayers": 8283,
+  "EOS_NewPlayers": 8188,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -49946,6 +49952,11 @@
       "Time": "2024-01-18T15:09:08.7770832+00:00",
       "NumProgressed": 1054293,
       "NumCompleted": 3119
+    },
+    {
+      "Time": "2024-01-18T16:09:45.6601559+00:00",
+      "NumProgressed": 1054339,
+      "NumCompleted": 3119
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49996,9 +50007,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1054
+      "UsersEstimate": 2109
     },
     {
       "ID": "Fortuneteller",
@@ -50132,9 +50143,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 3163
     },
     {
       "ID": "Specialist",
@@ -50493,21 +50504,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054293,
+      "Progressed": 1054339,
       "Completed": 3119
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 182916,
+      "Progressed": 182962,
       "Completed": 10649
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-18T14:03:38.1301747+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:09:08.7770827+00:00",
+  "LastChanged": "2024-01-18T16:03:36.8470825+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:09:45.6601552+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:03:19.1315506+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:09:08.7772941+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:03:36.8470831+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:09:45.6603401+00:00"
 }

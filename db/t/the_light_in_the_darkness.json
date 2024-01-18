@@ -8598,9 +8598,9 @@
       "ID": "Nuremberg Laws",
       "SetID": "b40dflc",
       "Name": "Nuremberg Laws",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 348
+      "UsersEstimate": 377
     }
   ],
   "AchievementSets": [
@@ -8615,8 +8615,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:09:26.2265811+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:10:11.3247264+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:13.5521392+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:59:32.0659187+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:09:26.2266478+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:00:44.1497437+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:10:11.3247703+00:00"
 }

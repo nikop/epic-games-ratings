@@ -6,9 +6,9 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 100,
+  "Ranking_EOS_Completed": 98,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -513,11 +513,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4103,
-  "EOS_Completed": 147,
-  "EOS_NewPlayers": 83,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 3.58,
+  "EOS_Progressed": 4104,
+  "EOS_Completed": 148,
+  "EOS_NewPlayers": 84,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 3.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -7518,6 +7518,11 @@
       "Time": "2024-01-18T15:05:16.0630189+00:00",
       "NumProgressed": 4103,
       "NumCompleted": 147
+    },
+    {
+      "Time": "2024-01-18T16:06:29.6943717+00:00",
+      "NumProgressed": 4104,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 14,
@@ -7633,23 +7638,23 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3241
+      "UsersEstimate": 3242
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4103,
-      "Completed": 147
+      "Progressed": 4104,
+      "Completed": 148
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-17T15:01:36.9556508+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:05:16.0630183+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:06:29.6943713+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:57:12.9523415+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:05:16.0630762+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:57:07.6699348+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:06:29.6944174+00:00"
 }

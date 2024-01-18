@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 90.00% | ~4,016 |
 | Spectre Inductee | 66.00% | ~2,945 |
 | Medal of Exploration I | 56.00% | ~2,499 |
-| Recruit | 52.00% | ~2,320 |
+| Recruit | 53.00% | ~2,365 |
 | Search and Rescue | 51.00% | ~2,276 |
 | Quarian Ally | 49.00% | ~2,186 |
 | Medal of Heroism | 44.00% | ~1,963 |
@@ -32,9 +32,9 @@
 | Sentinel Ally | 30.00% | ~1,339 |
 | Krogan Ally | 30.00% | ~1,339 |
 | The Professor | 30.00% | ~1,339 |
+| Head Hunter | 30.00% | ~1,339 |
 | Scholar | 30.00% | ~1,339 |
 | The Archangel | 29.00% | ~1,294 |
-| Head Hunter | 29.00% | ~1,294 |
 | Operative | 28.00% | ~1,249 |
 | The Convict | 27.00% | ~1,205 |
 | Power Full | 27.00% | ~1,205 |
@@ -49,6 +49,7 @@
 | The Quarian | 23.00% | ~1,026 |
 | The Prodigal | 23.00% | ~1,026 |
 | Galactic Explorer | 23.00% | ~1,026 |
+| Shopaholic | 23.00% | ~1,026 |
 | A Personal Touch | 22.00% | ~982 |
 | Battlemaster | 22.00% | ~982 |
 | Catharsis | 22.00% | ~982 |
@@ -59,7 +60,6 @@
 | Revenge! | 22.00% | ~982 |
 | Heart of Darkness | 22.00% | ~982 |
 | Bringer of War | 22.00% | ~982 |
-| Shopaholic | 22.00% | ~982 |
 | Focused | 21.00% | ~937 |
 | Archivist | 21.00% | ~937 |
 | Treason | 21.00% | ~937 |

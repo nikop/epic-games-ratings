@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2439,9 +2439,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 1301587,
+  "EOS_Progressed": 1301593,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29504,6 +29504,11 @@
       "Time": "2024-01-18T15:05:20.9172846+00:00",
       "NumProgressed": 1301587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T16:06:36.9421143+00:00",
+      "NumProgressed": 1301593,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29651,7 +29656,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 208254
+      "UsersEstimate": 208255
     },
     {
       "ID": "10_hunter_wins",
@@ -29659,7 +29664,7 @@
       "Name": "10 Hunter Wins!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 78095
+      "UsersEstimate": 78096
     },
     {
       "ID": "10_prop_headshots",
@@ -29779,7 +29784,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52063
+      "UsersEstimate": 52064
     },
     {
       "ID": "50_riot_shield_kills",
@@ -29811,7 +29816,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767936
+      "UsersEstimate": 767940
     },
     {
       "ID": "hunter_win",
@@ -29819,7 +29824,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702857
+      "UsersEstimate": 702860
     },
     {
       "ID": "master_of_loadouts",
@@ -29843,14 +29848,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 286349
+      "UsersEstimate": 286350
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1301587,
+      "Progressed": 1301593,
       "Completed": 0
     }
   ],
@@ -29858,8 +29863,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-18T03:58:29.9902672+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:05:20.9172842+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:06:36.9421137+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.9954537+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:58:24.4912316+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:05:20.9174001+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:58:55.6541605+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:06:36.9422661+00:00"
 }

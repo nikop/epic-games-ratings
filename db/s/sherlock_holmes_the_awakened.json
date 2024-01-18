@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1492,
+  "EOS_Progressed": 1493,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
@@ -5326,6 +5326,11 @@
       "Time": "2024-01-18T13:13:19.8958445+00:00",
       "NumProgressed": 1492,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-18T16:07:54.5478561+00:00",
+      "NumProgressed": 1493,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5337,7 +5342,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "MQ01_2",
@@ -5345,7 +5350,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "MQ02_1",
@@ -5369,7 +5374,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "MQ02_4",
@@ -5401,7 +5406,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "MQ03_4",
@@ -5417,7 +5422,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "MQ04_1",
@@ -5433,7 +5438,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "MQ04_3",
@@ -5441,7 +5446,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "MQ05_1",
@@ -5449,7 +5454,7 @@
       "Name": "Open Sesame",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ05_2",
@@ -5513,7 +5518,7 @@
       "Name": "Read It And Weep",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "MQ07_2",
@@ -5529,7 +5534,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "MQ08_2",
@@ -5543,9 +5548,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 582
+      "UsersEstimate": 597
     },
     {
       "ID": "PLTN",
@@ -5560,7 +5565,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1492,
+      "Progressed": 1493,
       "Completed": 49
     }
   ],
@@ -5568,8 +5573,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:06:14.1699703+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:07:54.5478556+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:03:21.7736463+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:06:14.1700239+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:03:40.422553+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:07:54.5478981+00:00"
 }

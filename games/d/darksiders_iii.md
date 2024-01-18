@@ -6,28 +6,28 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~492 |
+| Green with Envy | 77.00% | ~493 |
 | First of many… | 68.00% | ~435 |
-| Helping Hand | 65.00% | ~415 |
+| Helping Hand | 65.00% | ~416 |
 | Increased Vigor | 61.00% | ~390 |
-| Fight Fire with Fire | 59.00% | ~377 |
+| Fight Fire with Fire | 59.00% | ~378 |
 | Increased Capacity | 56.00% | ~358 |
 | Just the start | 50.00% | ~320 |
 | Perfect Storm | 48.00% | ~307 |
-| All That Glitters | 47.00% | ~300 |
+| All That Glitters | 47.00% | ~301 |
 | Enhance! | 43.00% | ~275 |
-| One Of the Chosen | 42.00% | ~268 |
+| One Of the Chosen | 42.00% | ~269 |
 | Devil's in the Details | 41.00% | ~262 |
 | Throne Potato | 41.00% | ~262 |
 | Five's a Crowd | 41.00% | ~262 |
-| 25 to Life | 41.00% | ~262 |
 | Salvation | 40.00% | ~256 |
-| Unshakable Fortitude | 37.00% | ~236 |
-| Soul Harvester | 37.00% | ~236 |
-| I Wanna Rock | 36.00% | ~230 |
+| 25 to Life | 40.00% | ~256 |
+| Unshakable Fortitude | 37.00% | ~237 |
+| Soul Harvester | 37.00% | ~237 |
 | Delusions of Grandeur | 36.00% | ~230 |
+| I Wanna Rock | 35.00% | ~224 |
 | Love Tap | 35.00% | ~224 |
-| Maximum Vigor | 34.00% | ~217 |
+| Maximum Vigor | 34.00% | ~218 |
 | Freeze Frame | 31.00% | ~198 |
 | Eat Your Heart Out | 31.00% | ~198 |
 | For Whom the Bell Tolls | 30.00% | ~192 |
@@ -40,13 +40,13 @@ Number of Ratings: 116  (23.09.2022)
 | Seeing Red | 25.00% | ~160 |
 | Maximum Capacity | 23.00% | ~147 |
 | Egomaniac | 23.00% | ~147 |
+| Everybody Wants to Rule the World | 22.00% | ~141 |
 | Protector of Humanity | 21.00% | ~134 |
-| Everybody Wants to Rule the World | 21.00% | ~134 |
 | Community Outreach | 16.00% | ~102 |
 | A Parting Gift | 15.00% | ~96 |
 | Path of the Horseman | 15.00% | ~96 |
-| Unbreakable Will | 14.00% | ~89 |
-| Take it to the Limit | 14.00% | ~89 |
+| Unbreakable Will | 14.00% | ~90 |
+| Take it to the Limit | 14.00% | ~90 |
 | Holy Keeper | 12.00% | ~77 |
 | Demon Keeper | 12.00% | ~77 |
 | Humanitarian | 10.00% | ~64 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Quite Proper | 0.90% | ~6 |
 | Beast Mode | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 639 (Ranked 341)  
+Progressed: 640 (Ranked 341)  
 Completed: 2 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.31%) (Ranked 260)
 | 2024-01-15 | 616 | 2 |
 | 2024-01-16 | 624 | 2 |
 | 2024-01-17 | 631 | 2 |
-| 2024-01-18 | 639 | 2 |
+| 2024-01-18 | 640 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

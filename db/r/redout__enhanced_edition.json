@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239461,
+  "EOS_Progressed": 239459,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 320,
+  "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -28978,6 +28978,11 @@
       "Time": "2024-01-18T15:08:48.5358238+00:00",
       "NumProgressed": 239461,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-18T16:08:56.4172438+00:00",
+      "NumProgressed": 239459,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -29021,7 +29026,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26341
+      "UsersEstimate": 26340
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -29125,7 +29130,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 79022
+      "UsersEstimate": 79021
     },
     {
       "ID": "NOBUNAGA",
@@ -29253,22 +29258,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98179
+      "UsersEstimate": 98178
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239461,
+      "Progressed": 239459,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:08:48.5358232+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:08:56.4172433+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:59:30.9227693+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:08:48.5359785+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:00:42.4149933+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:08:56.4173994+00:00"
 }

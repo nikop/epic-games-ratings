@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47444,
+  "EOS_Progressed": 47449,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19223,6 +19223,11 @@
       "Time": "2024-01-18T15:05:04.5528485+00:00",
       "NumProgressed": 47444,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T16:06:13.7783906+00:00",
+      "NumProgressed": 47449,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19570,7 +19575,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5694
     },
     {
       "ID": "SPRING_ALL",
@@ -19657,22 +19662,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47444,
+      "Progressed": 47449,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12281,
-      "Completed": 12281
+      "Progressed": 12286,
+      "Completed": 12286
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:05:04.5528479+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:06:13.7783898+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:03:09.4624127+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:05:04.5529623+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:03:22.7396113+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:06:13.7784893+00:00"
 }

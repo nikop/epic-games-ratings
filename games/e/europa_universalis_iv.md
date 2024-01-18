@@ -7,9 +7,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,508 |
-| That's a Grand Army | 0.60% | ~3,006 |
-| Victorious! | 0.60% | ~3,006 |
-| That is mine! | 0.50% | ~2,505 |
+| That's a Grand Army | 0.60% | ~3,007 |
+| Victorious! | 0.60% | ~3,007 |
+| That is mine! | 0.50% | ~2,506 |
 | Brothers in Arms | 0.40% | ~2,004 |
 | That's a Grand Navy | 0.40% | ~2,004 |
 | Seriously?! | 0.40% | ~2,004 |
@@ -229,6 +229,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Over a Thousand! | 0.10% | ~501 |
 | Pandya Empire | 0.10% | ~501 |
 | Parisian Pasha | 0.10% | ~501 |
+| Philippine Tiger | 0.10% | ~501 |
 | Pick Your Poison | 0.10% | ~501 |
 | Pirate Bay of Janjira | 0.10% | ~501 |
 | Poland can into space | 0.10% | ~501 |
@@ -362,7 +363,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Philippine Tiger | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,074 (Ranked 42)  
+Progressed: 501,117 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,074 | 1 |
+| 2024-01-18 | 501,117 | 1 |
 ## Awards
 Max (Educational): 7,871  (Ranked 53)  
 Sum: 65,019 (Ranked 24)  

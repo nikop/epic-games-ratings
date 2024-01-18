@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,324 |
-| Wallbanger | 5.00% | ~26,324 |
+| Point Shooting | 5.00% | ~26,325 |
+| Wallbanger | 5.00% | ~26,325 |
 | Exploitative | 4.00% | ~21,060 |
 | High Speed Low Drag | 4.00% | ~21,060 |
 | Wet Feet | 4.00% | ~21,060 |
@@ -23,26 +23,26 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~5,265 |
 | Ruthless | 1.00% | ~5,265 |
 | Semper Paratus | 1.00% | ~5,265 |
-| Carrying | 0.90% | ~4,738 |
-| Efficient | 0.90% | ~4,738 |
-| Mount & Gun | 0.90% | ~4,738 |
-| Personal | 0.90% | ~4,738 |
+| Carrying | 0.90% | ~4,739 |
+| Efficient | 0.90% | ~4,739 |
+| Mount & Gun | 0.90% | ~4,739 |
+| Personal | 0.90% | ~4,739 |
 | Grounded | 0.80% | ~4,212 |
 | Play to Win | 0.80% | ~4,212 |
-| Special Delivery | 0.70% | ~3,685 |
+| Special Delivery | 0.70% | ~3,686 |
 | Firefight Victory | 0.60% | ~3,159 |
 | #1 | 0.60% | ~3,159 |
-| Cinematic | 0.50% | ~2,632 |
+| Cinematic | 0.50% | ~2,633 |
 | Thanks Station! | 0.40% | ~2,106 |
-| Knock Knock | 0.30% | ~1,579 |
-| There For You | 0.30% | ~1,579 |
+| Knock Knock | 0.30% | ~1,580 |
+| There For You | 0.30% | ~1,580 |
 | Hit and Run | 0.20% | ~1,053 |
-| Designated Driver | 0.10% | ~526 |
-| J.R. .50 | 0.10% | ~526 |
-| It's All in the Reflexes | 0.10% | ~526 |
-| Road Hazard | 0.10% | ~526 |
+| Designated Driver | 0.10% | ~527 |
+| J.R. .50 | 0.10% | ~527 |
+| It's All in the Reflexes | 0.10% | ~527 |
+| Road Hazard | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,489 (Ranked 40)  
+Progressed: 526,505 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,16 +315,16 @@ Completed: 2 (0.00%) (Ranked 405)
 | 2024-01-15 | 525,387 | 2 |
 | 2024-01-16 | 525,809 | 2 |
 | 2024-01-17 | 526,256 | 2 |
-| 2024-01-18 | 526,489 | 2 |
+| 2024-01-18 | 526,505 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 421  (Ranked 238)  
-Sum: 3,401 (Ranked 178)  
+Sum: 3,403 (Ranked 178)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 421 |
 | This game has Challenging Combat | 416 |
-| This game is Extremely Fun | 394 |
+| This game is Extremely Fun | 396 |
 | This game has Competitive Players | 386 |
 | This game is Highly Recommended | 379 |
 | This game has Realistic Visuals | 370 |
@@ -678,4 +678,4 @@ Diff (max vs sum): 60
 | 2024-01-15 | 4.61 | - | 419 | 3,385 |
 | 2024-01-16 | 4.61 | - | 419 | 3,392 |
 | 2024-01-17 | 4.61 | - | 421 | 3,397 |
-| 2024-01-18 | 4.61 | - | 421 | 3,401 |
+| 2024-01-18 | 4.61 | - | 421 | 3,403 |

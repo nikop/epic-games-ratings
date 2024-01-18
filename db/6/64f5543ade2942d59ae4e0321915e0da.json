@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -2059,6 +2059,11 @@
       "Time": "2024-01-18T07:05:54.355135+00:00",
       "NumProgressed": 529,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T16:05:59.8506704+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2143,7 +2148,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "AC_BOSS_01",
@@ -2215,7 +2220,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "AC_DEATH_2",
@@ -2223,7 +2228,7 @@
       "Name": "Carcass",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_DEATH_3",
@@ -2239,7 +2244,7 @@
       "Name": "Killer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2263,7 +2268,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2303,7 +2308,7 @@
       "Name": "Demise",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2311,7 +2316,7 @@
       "Name": "Schooling",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2327,7 +2332,7 @@
       "Name": "Winner",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2351,7 +2356,7 @@
       "Name": "Cook",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2406,14 +2411,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:04:55.2422396+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:05:59.8506698+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:00:21.1487704+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:04:55.2422837+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:01:57.1209132+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:05:59.8506986+00:00"
 }

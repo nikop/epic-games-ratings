@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 0.90% | ~153 |
 | Hittite Iron | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
+| Dualism | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Conqueror | 0.80% | ~136 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
-| Dualism | 0.80% | ~136 |
 | Legalism | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Double Victory | 0.80% | ~136 |
@@ -132,6 +132,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~102 |
 | Jerwan Aqueduct | 0.60% | ~102 |
 | Royal Library | 0.60% | ~102 |
+| Yazilikaya | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
@@ -139,7 +140,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
-| Yazilikaya | 0.50% | ~85 |
 | Old | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |

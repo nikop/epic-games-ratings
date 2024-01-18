@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 851,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.59,
   "EosHistory": [
@@ -1954,9 +1954,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 400
+      "UsersEstimate": 408
     },
     {
       "ID": "blast_from_the_past",
@@ -2123,8 +2123,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:09:55.9959011+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:10:54.431353+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.2781267+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:03:04.3276659+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:09:55.9959271+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:03:15.666974+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:10:54.4313743+00:00"
 }

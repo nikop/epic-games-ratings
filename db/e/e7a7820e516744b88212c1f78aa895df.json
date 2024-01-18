@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1816,9 +1816,9 @@
       "ID": "achWinRaceWe",
       "SetID": "7ji07dj",
       "Name": "Polyglot Racer",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -1831,8 +1831,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:10:04.1566655+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:11:06.0610946+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:23.5284761+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:57:15.9761778+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:10:04.1566934+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:57:11.2974599+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:11:06.0611256+00:00"
 }

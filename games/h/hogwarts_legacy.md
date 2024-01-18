@@ -5,36 +5,36 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,324 |
-| First Class Student | 28.00% | ~107,909 |
-| Troll with the Punches | 26.00% | ~100,201 |
-| A Keen Sense of Spell | 23.00% | ~88,639 |
-| A Talent for Spending | 19.00% | ~73,224 |
-| That's a Keeper | 19.00% | ~73,224 |
-| Loom for Improvement | 16.00% | ~61,662 |
-| Followed the Butterflies | 15.00% | ~57,808 |
-| The Defender of Dragons | 14.00% | ~53,954 |
-| The Hallowed Hero | 13.00% | ~50,100 |
-| Challenge Accepted | 13.00% | ~50,100 |
-| Coasting Along | 13.00% | ~50,100 |
-| Grappling with a Graphorn | 12.00% | ~46,247 |
-| The One Who Mastered Memories | 12.00% | ~46,247 |
-| The Hero of Hogwarts | 11.00% | ~42,393 |
-| The Spell Master | 11.00% | ~42,393 |
-| Rising From the Ashes | 10.00% | ~38,539 |
-| A Sallow Grave | 9.00% | ~34,685 |
-| Flight the Good Flight | 9.00% | ~34,685 |
-| The Avenging Gazelle | 8.00% | ~30,831 |
-| Beast Friends | 8.00% | ~30,831 |
-| Raising Expectations | 8.00% | ~30,831 |
-| The Toast of the Town | 7.00% | ~26,977 |
-| The Root of the Problem | 7.00% | ~26,977 |
-| Third Time's a Charm | 7.00% | ~26,977 |
-| The Gryffindor in the Graveyard | 7.00% | ~26,977 |
-| The Seeker of Knowledge | 6.00% | ~23,123 |
-| The Ends Petrify the Means | 6.00% | ~23,123 |
-| The Wise Owl | 6.00% | ~23,123 |
-| Going Through the Potions | 5.00% | ~19,269 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,330 |
+| First Class Student | 28.00% | ~107,914 |
+| Troll with the Punches | 26.00% | ~100,206 |
+| A Keen Sense of Spell | 23.00% | ~88,644 |
+| A Talent for Spending | 19.00% | ~73,227 |
+| That's a Keeper | 19.00% | ~73,227 |
+| Loom for Improvement | 16.00% | ~61,665 |
+| Followed the Butterflies | 15.00% | ~57,811 |
+| The Defender of Dragons | 14.00% | ~53,957 |
+| The Hallowed Hero | 13.00% | ~50,103 |
+| Challenge Accepted | 13.00% | ~50,103 |
+| Coasting Along | 13.00% | ~50,103 |
+| Grappling with a Graphorn | 12.00% | ~46,249 |
+| The One Who Mastered Memories | 12.00% | ~46,249 |
+| The Hero of Hogwarts | 11.00% | ~42,395 |
+| The Spell Master | 11.00% | ~42,395 |
+| Rising From the Ashes | 10.00% | ~38,541 |
+| A Sallow Grave | 9.00% | ~34,687 |
+| Flight the Good Flight | 9.00% | ~34,687 |
+| The Avenging Gazelle | 8.00% | ~30,833 |
+| Beast Friends | 8.00% | ~30,833 |
+| Raising Expectations | 8.00% | ~30,833 |
+| The Toast of the Town | 7.00% | ~26,978 |
+| The Root of the Problem | 7.00% | ~26,978 |
+| Third Time's a Charm | 7.00% | ~26,978 |
+| The Gryffindor in the Graveyard | 7.00% | ~26,978 |
+| The Seeker of Knowledge | 6.00% | ~23,124 |
+| The Ends Petrify the Means | 6.00% | ~23,124 |
+| The Wise Owl | 6.00% | ~23,124 |
+| Going Through the Potions | 5.00% | ~19,270 |
 | Put Down Roots | 4.00% | ~15,416 |
 | The Auror's Apprentice | 4.00% | ~15,416 |
 | Room with a View | 4.00% | ~15,416 |
@@ -47,11 +47,11 @@ Rating: 4.75 (Ranked 151)
 | Finishing Touches | 2.00% | ~7,708 |
 | A Forte for Achievement | 2.00% | ~7,708 |
 | Merlin's Beard! | 1.00% | ~3,854 |
-| Spilled Milk | 0.90% | ~3,468 |
+| Spilled Milk | 0.90% | ~3,469 |
 | The Nature of the Beast | 0.70% | ~2,698 |
 | Collector's Edition | 0.30% | ~1,156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,388 (Ranked 55)  
+Progressed: 385,407 (Ranked 55)  
 Completed: 575 (0.15%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,20 +324,20 @@ Completed: 575 (0.15%) (Ranked 297)
 | 2024-01-15 | 384,481 | 566 |
 | 2024-01-16 | 384,865 | 567 |
 | 2024-01-17 | 385,198 | 573 |
-| 2024-01-18 | 385,388 | 575 |
+| 2024-01-18 | 385,407 | 575 |
 ## Awards
-Max (Character Customization): 31,416  (Ranked 16)  
-Sum: 64,069 (Ranked 25)  
+Max (Character Customization): 31,580  (Ranked 16)  
+Sum: 64,267 (Ranked 25)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 31,416 |
+| This game has Inclusive Character Customization | 31,580 |
 | This game has Great Boss Battles | 16,514 |
 | This game is Great for Beginners | 1,826 |
-| This game is Extremely Fun | 1,748 |
+| This game is Extremely Fun | 1,758 |
 | This game has Amazing Storytelling | 1,745 |
+| This game has Diverse Characters | 1,709 |
 | This game is Relaxing | 1,687 |
-| This game has Diverse Characters | 1,685 |
 | This game is Highly Recommended | 1,666 |
 | This game has Amazing Characters | 1,662 |
 | This game has Quickly Understood Controls | 1,586 |
@@ -646,4 +646,4 @@ Diff (max vs sum): -9
 | 2024-01-15 | 4.75 | 31,083 | 63,052 |
 | 2024-01-16 | 4.75 | 31,250 | 63,502 |
 | 2024-01-17 | 4.75 | 31,416 | 63,913 |
-| 2024-01-18 | 4.75 | 31,416 | 64,069 |
+| 2024-01-18 | 4.75 | 31,580 | 64,267 |

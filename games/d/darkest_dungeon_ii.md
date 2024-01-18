@@ -11,7 +11,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Autodidact | 8.00% | ~10,651 |
 | This Belongs in a Museum | 7.00% | ~9,320 |
 | Overdue Notice | 7.00% | ~9,320 |
-| This guy... again? | 7.00% | ~560 |
+| This guy... again? | 7.00% | ~561 |
 | Serenity Now! | 6.00% | ~7,988 |
 | Creep and Sleep | 6.00% | ~7,988 |
 | Meat and Greet | 6.00% | ~7,988 |
@@ -32,19 +32,19 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 5.00% | ~6,657 |
 | Nope | 5.00% | ~6,657 |
 | Friends 'Til the End | 5.00% | ~400 |
-| Resurrection | 4.00% | ~5,325 |
-| Unleash Hell | 4.00% | ~5,325 |
-| Funny Guy | 4.00% | ~5,325 |
-| Long Live the King | 4.00% | ~5,325 |
-| Wyrdly Reconstructed | 4.00% | ~5,325 |
-| Unfulfilled Desires | 4.00% | ~5,325 |
-| Dissector | 4.00% | ~5,325 |
-| Banishment | 4.00% | ~5,325 |
-| Now Stay Dead | 4.00% | ~5,325 |
-| Spelunker | 4.00% | ~5,325 |
-| Ramble On | 4.00% | ~5,325 |
-| A Clear Conscience | 4.00% | ~5,325 |
-| Unshackled | 4.00% | ~5,325 |
+| Resurrection | 4.00% | ~5,326 |
+| Unleash Hell | 4.00% | ~5,326 |
+| Funny Guy | 4.00% | ~5,326 |
+| Long Live the King | 4.00% | ~5,326 |
+| Wyrdly Reconstructed | 4.00% | ~5,326 |
+| Unfulfilled Desires | 4.00% | ~5,326 |
+| Dissector | 4.00% | ~5,326 |
+| Banishment | 4.00% | ~5,326 |
+| Now Stay Dead | 4.00% | ~5,326 |
+| Spelunker | 4.00% | ~5,326 |
+| Ramble On | 4.00% | ~5,326 |
+| A Clear Conscience | 4.00% | ~5,326 |
+| Unshackled | 4.00% | ~5,326 |
 | Boxcar Kid | 3.00% | ~3,994 |
 | Hope Rekindled | 3.00% | ~3,994 |
 | Predator | 3.00% | ~3,994 |
@@ -71,7 +71,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Et Tu, Riposte? | 0.90% | ~72 |
 | The World As It Was | 0.80% | ~1,065 |
 | A Life Well Lived | 0.70% | ~932 |
-| Bacon Bits | 0.60% | ~799 |
+| Bacon Bits | 0.70% | ~932 |
 | Eidetic | 0.60% | ~799 |
 | On This Long Road, We Found Redemption | 0.60% | ~48 |
 | Battle Hardened | 0.50% | ~40 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,137 (Ranked 92)  
+Progressed: 133,139 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,137 | 5 |
+| 2024-01-18 | 133,139 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,733 (Ranked 58)  

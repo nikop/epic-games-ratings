@@ -6,44 +6,44 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,408 |
-| Happy Returns | 78.00% | ~385,578 |
-| Hey! That's mine! | 78.00% | ~385,578 |
-| Field Promotion | 74.00% | ~365,805 |
-| Leadhead | 71.00% | ~350,975 |
-| Eradicator | 68.00% | ~336,145 |
-| Surplus | 66.00% | ~326,258 |
-| I Spy | 64.00% | ~316,372 |
-| Burn Baby Burn | 59.00% | ~291,655 |
-| Yellow Beats Green | 56.00% | ~276,825 |
-| Salvage Rights | 53.00% | ~261,995 |
-| What IS that? | 51.00% | ~252,109 |
-| Close Call | 50.00% | ~247,166 |
-| Pew Pew | 50.00% | ~247,166 |
-| Penny Pincher | 49.00% | ~242,222 |
-| Arsenal | 46.00% | ~227,392 |
-| Boot Camp | 46.00% | ~227,392 |
-| Flawless Victory | 42.00% | ~207,619 |
-| Confident | 41.00% | ~202,676 |
-| Exterminator | 36.00% | ~177,959 |
-| Sharpshooter | 34.00% | ~168,073 |
-| Not So Fast | 33.00% | ~163,129 |
-| Great Ball of Fire | 32.00% | ~158,186 |
-| No Sale | 31.00% | ~153,243 |
-| Kaboom! | 30.00% | ~148,299 |
-| Liquidator | 29.00% | ~143,356 |
-| High Voltage | 24.00% | ~118,639 |
-| Filthy Rich | 20.00% | ~98,866 |
+| First Blood | 81.00% | ~400,411 |
+| Happy Returns | 78.00% | ~385,581 |
+| Hey! That's mine! | 78.00% | ~385,581 |
+| Field Promotion | 74.00% | ~365,808 |
+| Leadhead | 71.00% | ~350,978 |
+| Eradicator | 68.00% | ~336,148 |
+| Surplus | 66.00% | ~326,261 |
+| I Spy | 64.00% | ~316,374 |
+| Burn Baby Burn | 59.00% | ~291,658 |
+| Yellow Beats Green | 56.00% | ~276,828 |
+| Salvage Rights | 53.00% | ~261,998 |
+| What IS that? | 51.00% | ~252,111 |
+| Close Call | 50.00% | ~247,168 |
+| Pew Pew | 50.00% | ~247,168 |
+| Penny Pincher | 49.00% | ~242,224 |
+| Arsenal | 46.00% | ~227,394 |
+| Boot Camp | 46.00% | ~227,394 |
+| Flawless Victory | 42.00% | ~207,621 |
+| Confident | 41.00% | ~202,677 |
+| Exterminator | 36.00% | ~177,961 |
+| Sharpshooter | 34.00% | ~168,074 |
+| Not So Fast | 33.00% | ~163,131 |
+| Great Ball of Fire | 32.00% | ~158,187 |
+| No Sale | 31.00% | ~153,244 |
+| Kaboom! | 30.00% | ~148,300 |
+| Liquidator | 29.00% | ~143,357 |
+| High Voltage | 24.00% | ~118,640 |
+| Filthy Rich | 20.00% | ~98,867 |
 | Pyrrhic Victory | 18.00% | ~88,980 |
 | The Not-So-Friendly Skies | 18.00% | ~88,980 |
-| Power Builder | 17.00% | ~84,036 |
-| Death From Above | 16.00% | ~79,093 |
-| Retry | 16.00% | ~79,093 |
+| Power Builder | 17.00% | ~84,037 |
+| Death From Above | 16.00% | ~79,094 |
+| Retry | 16.00% | ~79,094 |
 | Head Trauma | 12.00% | ~59,320 |
-| Full Defense | 10.00% | ~49,433 |
+| Full Defense | 10.00% | ~49,434 |
 | Overseer | 9.00% | ~44,490 |
-| Annihilator | 8.00% | ~39,546 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,546 |
+| Annihilator | 8.00% | ~39,547 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,547 |
 | Indecisive | 6.00% | ~29,660 |
 | Base Defender | 5.00% | ~24,717 |
 | Relay Race | 5.00% | ~24,717 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~494 |
 | You Monster | 0.10% | ~494 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,331 (Ranked 43)  
+Progressed: 494,335 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,16 +367,16 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-15 | 494,194 | 5 |
 | 2024-01-16 | 494,244 | 5 |
 | 2024-01-17 | 494,292 | 5 |
-| 2024-01-18 | 494,331 | 5 |
+| 2024-01-18 | 494,335 | 5 |
 ## Awards
 Max (Great for Beginners): 264  (Ranked 280)  
-Sum: 1,748 (Ranked 229)  
+Sum: 1,749 (Ranked 229)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 264 |
 | This game has Quickly Understood Controls | 228 |
-| This game is Relaxing | 222 |
+| This game is Relaxing | 223 |
 | This game is Extremely Fun | 215 |
 | This game is Highly Recommended | 199 |
 | This game has Challenging Combat | 186 |
@@ -553,3 +553,4 @@ Diff (max vs sum): 51
 | 2024-01-10 | 4.45 | - | 263 | 1,746 |
 | 2024-01-14 | 4.45 | - | 263 | 1,747 |
 | 2024-01-17 | 4.45 | - | 264 | 1,748 |
+| 2024-01-18 | 4.45 | - | 264 | 1,749 |

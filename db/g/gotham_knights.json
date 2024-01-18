@@ -5351,9 +5351,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82965,
+  "EOS_Progressed": 82966,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 483,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30691,6 +30691,11 @@
       "Time": "2024-01-18T15:05:35.1261834+00:00",
       "NumProgressed": 82965,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T16:06:57.8102285+00:00",
+      "NumProgressed": 82966,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30750,7 +30755,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18252
+      "UsersEstimate": 18253
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30798,7 +30803,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13274
+      "UsersEstimate": 13275
     },
     {
       "ID": "CLAYFACE_1",
@@ -30910,7 +30915,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10785
+      "UsersEstimate": 10786
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -30942,7 +30947,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15763
+      "UsersEstimate": 15764
     },
     {
       "ID": "FREEZE_3",
@@ -31046,7 +31051,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41482
+      "UsersEstimate": 41483
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31094,7 +31099,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27378
+      "UsersEstimate": 27379
     },
     {
       "ID": "MYSTERY_02",
@@ -31110,7 +31115,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18252
+      "UsersEstimate": 18253
     },
     {
       "ID": "MYSTERY_04",
@@ -31142,7 +31147,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10785
+      "UsersEstimate": 10786
     },
     {
       "ID": "MYSTERY_08",
@@ -31189,13 +31194,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82965,
+      "Progressed": 82966,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53245,
+      "Progressed": 53246,
       "Completed": 2680
     }
   ],
@@ -31203,8 +31208,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T13:02:47.8484881+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:05:35.126183+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:06:57.8102279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:57:22.4353276+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:05:35.1263097+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:57:20.845423+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:06:57.8103837+00:00"
 }

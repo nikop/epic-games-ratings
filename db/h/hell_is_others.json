@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1519,9 +1519,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260792,
+  "EOS_Progressed": 260799,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27594,6 +27594,11 @@
       "Time": "2024-01-18T15:03:36.6135567+00:00",
       "NumProgressed": 260792,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T16:04:07.6234173+00:00",
+      "NumProgressed": 260799,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27605,7 +27610,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18255
+      "UsersEstimate": 18256
     },
     {
       "ID": "Act2",
@@ -27653,7 +27658,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80846
+      "UsersEstimate": 80848
     },
     {
       "ID": "BackHomeNTimes",
@@ -27709,7 +27714,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26079
+      "UsersEstimate": 26080
     },
     {
       "ID": "CreditLevel2",
@@ -27893,7 +27898,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59982
+      "UsersEstimate": 59984
     },
     {
       "ID": "KillOthers2",
@@ -27997,7 +28002,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26079
+      "UsersEstimate": 26080
     },
     {
       "ID": "ReachNDays2",
@@ -28052,7 +28057,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260792,
+      "Progressed": 260799,
       "Completed": 3
     }
   ],
@@ -28060,8 +28065,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-18T06:59:30.6226961+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:03:36.6135562+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:04:07.6234168+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:59:05.3931086+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:03:36.6136983+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:00:00.1287798+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:04:07.6235853+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -435,6 +435,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 50,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-01-18T15:57:08.4752727+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
@@ -449,9 +455,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15035,
+  "EOS_Progressed": 15038,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10789,6 +10795,11 @@
       "Time": "2024-01-18T15:10:14.3480408+00:00",
       "NumProgressed": 15035,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T16:11:19.9051524+00:00",
+      "NumProgressed": 15038,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10809,7 +10820,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6164
+      "UsersEstimate": 6166
     },
     {
       "ID": "BeLikeWater",
@@ -10841,7 +10852,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "Eavesdropper",
@@ -10857,7 +10868,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "FasterThanLight",
@@ -10873,7 +10884,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8269
+      "UsersEstimate": 8271
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10905,7 +10916,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10945,7 +10956,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "NoMoreTotems",
@@ -10993,7 +11004,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "TheQuarterback",
@@ -11001,7 +11012,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6465
+      "UsersEstimate": 6466
     },
     {
       "ID": "ThisIsDharma",
@@ -11072,16 +11083,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15035,
+      "Progressed": 15038,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:10:14.3480402+00:00",
+  "LastChanged": "2024-01-18T15:57:08.4752725+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:11:19.9051519+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:57:13.4567858+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:10:14.3481258+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:57:08.475273+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:11:19.905221+00:00"
 }

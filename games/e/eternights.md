@@ -1,20 +1,20 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.72 (Ranked 195)  
+Rating: 4.73 (Ranked 181)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 77.00% | ~705 |
-| Shelter Escape | 75.00% | ~687 |
-| The First Bond | 64.00% | ~586 |
-| Novice Scavenger | 57.00% | ~522 |
+| New arm | 77.00% | ~706 |
+| Shelter Escape | 75.00% | ~688 |
+| The First Bond | 64.00% | ~587 |
+| Novice Scavenger | 57.00% | ~523 |
 | Master Craftsman | 44.00% | ~403 |
 | First wall | 43.00% | ~394 |
 | Piggyback Expert | 42.00% | ~385 |
-| Second wall | 33.00% | ~302 |
-| Expert Scavenger | 31.00% | ~284 |
-| Their Rock | 27.00% | ~247 |
+| Second wall | 33.00% | ~303 |
+| Expert Scavenger | 32.00% | ~293 |
+| Their Rock | 27.00% | ~248 |
 | Yuna's Promise | 26.00% | ~238 |
 | Stone Retriever | 26.00% | ~238 |
 | Find myself | 24.00% | ~220 |
@@ -22,16 +22,16 @@ Rating: 4.72 (Ranked 195)
 | Sia's Promise | 17.00% | ~156 |
 | Truebro | 17.00% | ~156 |
 | Romantic | 13.00% | ~119 |
-| TentacleMAN | 9.00% | ~82 |
+| TentacleMAN | 9.00% | ~83 |
 | Flawless | 5.00% | ~46 |
 | Yohan's Promise | 4.00% | ~37 |
 | Plushyboy | 4.00% | ~37 |
-| LOVEassistant | 3.00% | ~27 |
+| LOVEassistant | 3.00% | ~28 |
 | True Player | 1.00% | ~9 |
 | Dreamboat | 0.90% | ~8 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 916 (Ranked 308)  
+Progressed: 917 (Ranked 308)  
 Completed: 2 (0.22%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 2 (0.22%) (Ranked 280)
 | 2024-01-14 | 904 | 2 |
 | 2024-01-15 | 908 | 2 |
 | 2024-01-16 | 912 | 2 |
-| 2024-01-18 | 916 | 2 |
+| 2024-01-18 | 917 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -157,3 +157,4 @@ Completed: 2 (0.22%) (Ranked 280)
 | 2024-01-08 | 4.78 | 0 | 0 |
 | 2024-01-10 | 4.79 | 0 | 0 |
 | 2024-01-16 | 4.72 | 0 | 0 |
+| 2024-01-18 | 4.73 | 0 | 0 |

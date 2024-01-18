@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1039,7 +1039,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4474,
+  "EOS_Progressed": 4475,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
@@ -8889,6 +8889,11 @@
       "Time": "2024-01-18T14:09:01.1839609+00:00",
       "NumProgressed": 4474,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T16:09:24.4515557+00:00",
+      "NumProgressed": 4475,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8909,7 +8914,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "achievement_11",
@@ -8933,7 +8938,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2371
+      "UsersEstimate": 2372
     },
     {
       "ID": "achievement_14",
@@ -9013,7 +9018,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "achievement_4",
@@ -9068,7 +9073,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4474,
+      "Progressed": 4475,
       "Completed": 0
     }
   ],
@@ -9076,8 +9081,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-16T15:59:33.7498908+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:08:54.3311419+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:09:24.4515552+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:02:39.7794478+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:08:54.3312086+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:02:08.7235127+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:09:24.4516285+00:00"
 }

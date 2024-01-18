@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 904)  
+Rating: 4.28 (Ranked 903)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -19,7 +19,7 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 19.00% | ~50 |
 | Family Reunion | 19.00% | ~50 |
 | Pass A38 | 19.00% | ~50 |
-| Eternal Oblivion | 16.00% | ~42 |
+| Eternal Oblivion | 17.00% | ~45 |
 | Banker | 15.00% | ~39 |
 | Storyteller | 14.00% | ~37 |
 | Berserker | 14.00% | ~37 |

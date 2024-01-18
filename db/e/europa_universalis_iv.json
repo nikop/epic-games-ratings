@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14547,9 +14547,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501074,
+  "EOS_Progressed": 501117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4388,
+  "EOS_NewPlayers": 4404,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46092,6 +46092,11 @@
       "Time": "2024-01-18T15:10:26.2599322+00:00",
       "NumProgressed": 501074,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T16:11:35.003419+00:00",
+      "NumProgressed": 501117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47103,7 +47108,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "achievement_grand_coalition",
@@ -47877,9 +47882,9 @@
       "ID": "achievement_philippine_tiger",
       "SetID": "8p2n7he",
       "Name": "Philippine Tiger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_pick_your_poison",
@@ -48383,7 +48388,7 @@
       "Name": "That is mine!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48799,7 +48804,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -49006,21 +49011,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501074,
+      "Progressed": 501117,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501074,
+      "Progressed": 501117,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-18T14:58:13.6343443+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:10:26.2599317+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:11:35.0034185+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:58:13.6343449+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:10:26.2610413+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:58:38.0426667+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:11:35.0045089+00:00"
 }

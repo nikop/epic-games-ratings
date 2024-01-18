@@ -10,7 +10,7 @@
 | Powerball Badge | 17.00% | ~31 |
 | Airball Badge | 4.00% | ~7 |
 | Spyglass | 3.00% | ~5 |
-| Speedroller Trainee | 1.00% | ~2 |
+| Speedroller Trainee | 2.00% | ~4 |
 | Speedroller Expert | 0.60% | ~1 |
 | Speedroller Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

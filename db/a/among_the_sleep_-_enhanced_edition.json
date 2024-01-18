@@ -2,13 +2,13 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 368,
   "RatingHistory": [
     {
@@ -494,16 +494,22 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-18T16:03:39.375674+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99539,
-  "EOS_Completed": 458,
-  "EOS_NewPlayers": 676,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 99542,
+  "EOS_Completed": 459,
+  "EOS_NewPlayers": 675,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
     {
@@ -31000,6 +31006,11 @@
       "Time": "2024-01-18T15:09:27.6999553+00:00",
       "NumProgressed": 99539,
       "NumCompleted": 458
+    },
+    {
+      "Time": "2024-01-18T16:10:13.3357542+00:00",
+      "NumProgressed": 99542,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 10,
@@ -31075,7 +31086,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34839
+      "UsersEstimate": 34840
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31083,22 +31094,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10949
+      "UsersEstimate": 10950
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99539,
-      "Completed": 458
+      "Progressed": 99542,
+      "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
-  "LastChanged": "2023-12-20T03:02:57.8561576+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:09:27.6999548+00:00",
+  "LastChanged": "2024-01-18T16:03:39.3756738+00:00",
+  "LastChanged_Achievements": "2024-01-18T16:10:13.3357537+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.2995243+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:03:21.1135748+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:09:27.7000765+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:03:39.3756743+00:00",
+  "LastUpdate_Achievements": "2024-01-18T16:10:13.3359038+00:00"
 }
