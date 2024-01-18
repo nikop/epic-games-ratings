@@ -7,15 +7,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,693 |
-| Life is your teacher | 5.00% | ~38,077 |
-| Lightning Hands | 5.00% | ~38,077 |
+| Life is your teacher | 5.00% | ~38,078 |
+| Lightning Hands | 5.00% | ~38,078 |
 | The Assault | 4.00% | ~30,462 |
-| The Hateful Pole Fighter | 3.00% | ~22,846 |
-| Stuntmaster | 3.00% | ~22,846 |
-| Street Fighting | 3.00% | ~22,846 |
-| State of constant learning | 3.00% | ~22,846 |
-| Qi Gong: Essence | 3.00% | ~22,846 |
-| Old Child | 3.00% | ~22,846 |
+| The Hateful Pole Fighter | 3.00% | ~22,847 |
+| Stuntmaster | 3.00% | ~22,847 |
+| Street Fighting | 3.00% | ~22,847 |
+| State of constant learning | 3.00% | ~22,847 |
+| Qi Gong: Essence | 3.00% | ~22,847 |
+| Old Child | 3.00% | ~22,847 |
 | A Lady's Blood in the Snow | 2.00% | ~15,231 |
 | Lady Wing Chun | 2.00% | ~15,231 |
 | Furious Fists | 2.00% | ~15,231 |
@@ -26,11 +26,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,231 |
 | Take damage to save time | 2.00% | ~15,231 |
 | Diligence as a goal | 2.00% | ~1,417 |
-| Scareless | 1.00% | ~7,615 |
-| Dance of the Praying Mantis | 1.00% | ~7,615 |
-| Qi Gong: Mind | 1.00% | ~7,615 |
-| Kung-Fu Tussle | 1.00% | ~7,615 |
-| Project Arena | 1.00% | ~708 |
+| Scareless | 1.00% | ~7,616 |
+| Dance of the Praying Mantis | 1.00% | ~7,616 |
+| Qi Gong: Mind | 1.00% | ~7,616 |
+| Kung-Fu Tussle | 1.00% | ~7,616 |
+| Project Arena | 1.00% | ~709 |
 | Muk Yan Master | 0.80% | ~6,092 |
 | Fight the way you practice | 0.80% | ~567 |
 | Tiger on Fire | 0.70% | ~5,331 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,546 (Ranked 26)  
+Progressed: 761,556 (Ranked 26)  
 Completed: 12,991 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,10 +340,10 @@ Completed: 12,991 (1.71%) (Ranked 148)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,546 | 12,991 |
+| 2024-01-18 | 761,556 | 12,991 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
-Sum: 12,785 (Ranked 87)  
+Sum: 12,793 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -351,11 +351,11 @@ Diff (max vs sum): -30
 | This game has Diverse Characters | 706 |
 | This game has Challenging Combat | 650 |
 | This game has Amazing Storytelling | 624 |
-| This game has Amazing Characters | 618 |
+| This game has Amazing Characters | 620 |
 | This game is Highly Recommended | 613 |
 | This game has Quickly Understood Controls | 601 |
+| This game has Unique Visuals | 595 |
 | This game is Extremely Fun | 592 |
-| This game has Unique Visuals | 589 |
 | This game is Relaxing | 565 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
@@ -727,4 +727,4 @@ Diff (max vs sum): -30
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
 | 2024-01-16 | 4.82 | - | 7,221 | 12,772 |
 | 2024-01-17 | 4.82 | - | 7,227 | 12,784 |
-| 2024-01-18 | 4.82 | - | 7,227 | 12,785 |
+| 2024-01-18 | 4.82 | - | 7,227 | 12,793 |

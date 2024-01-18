@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2849,
+  "EOS_Progressed": 2850,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 7.72,
   "EosHistory": [
@@ -7584,6 +7584,11 @@
       "Time": "2024-01-18T08:04:21.1602448+00:00",
       "NumProgressed": 2849,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2024-01-18T10:05:18.7047918+00:00",
+      "NumProgressed": 2850,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 25,
@@ -7603,7 +7608,7 @@
       "Name": "In this together",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "META_ALL_LINK",
@@ -7611,7 +7616,7 @@
       "Name": "Peace walker",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7633,9 +7638,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 826
+      "UsersEstimate": 798
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7643,7 +7648,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7659,7 +7664,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7667,7 +7672,7 @@
       "Name": "A great audience",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "META_RESULT_2-4",
@@ -7675,7 +7680,7 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "META_RESULT_3-4",
@@ -7699,7 +7704,7 @@
       "Name": "Rascal",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7731,7 +7736,7 @@
       "Name": "Champollion",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -7755,7 +7760,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "PROGRESS_N2",
@@ -7794,7 +7799,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2849,
+      "Progressed": 2850,
       "Completed": 220
     }
   ],
@@ -7802,8 +7807,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:04:34.9944698+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:05:18.7047915+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:57:03.552278+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:04:34.9945141+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:58:02.048429+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:05:18.7048447+00:00"
 }

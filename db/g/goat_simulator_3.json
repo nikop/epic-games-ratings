@@ -6673,9 +6673,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 267816,
+  "EOS_Progressed": 267817,
   "EOS_Completed": 954,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -36718,6 +36718,11 @@
       "Time": "2024-01-18T09:10:23.5844207+00:00",
       "NumProgressed": 267816,
       "NumCompleted": 954
+    },
+    {
+      "Time": "2024-01-18T10:10:59.7984746+00:00",
+      "NumProgressed": 267817,
+      "NumCompleted": 954
     }
   ],
   "TotalAchievements": 39,
@@ -36817,7 +36822,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 74988
+      "UsersEstimate": 74989
     },
     {
       "ID": "AchievementEggID",
@@ -36841,7 +36846,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88379
+      "UsersEstimate": 88380
     },
     {
       "ID": "AchievementGoatID",
@@ -36857,7 +36862,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139264
+      "UsersEstimate": 139265
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -36873,7 +36878,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 40172
+      "UsersEstimate": 40173
     },
     {
       "ID": "AchievementInstinctID",
@@ -36897,7 +36902,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 152655
+      "UsersEstimate": 152656
     },
     {
       "ID": "AchievementLootBoxID",
@@ -36993,7 +36998,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 40172
+      "UsersEstimate": 40173
     },
     {
       "ID": "AchievementThroneID",
@@ -37025,7 +37030,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171402
+      "UsersEstimate": 171403
     },
     {
       "ID": "AchievementWhaleID",
@@ -37033,14 +37038,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 72310
+      "UsersEstimate": 72311
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 267816,
+      "Progressed": 267817,
       "Completed": 954
     }
   ],
@@ -37048,8 +37053,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-18T07:59:02.8493099+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:10:23.5844201+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:10:59.7984745+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.7490682+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:59:00.726757+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:10:23.5845542+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:59:55.3697463+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:10:59.7986001+00:00"
 }

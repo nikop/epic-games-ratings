@@ -5,12 +5,12 @@ Rating: 4.19 (Ranked 978)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,118 |
-| Battlefields Have Memories | 82.00% | ~2,872 |
-| Enlisted | 75.00% | ~2,627 |
-| Maybe Engage a Little | 70.00% | ~2,452 |
+| Unforeseen | 89.00% | ~3,119 |
+| Battlefields Have Memories | 82.00% | ~2,873 |
+| Enlisted | 75.00% | ~2,628 |
+| Maybe Engage a Little | 70.00% | ~2,453 |
 | No More Names | 54.00% | ~1,892 |
-| Initiate | 41.00% | ~1,436 |
+| Initiate | 41.00% | ~1,437 |
 | Thrada-Kul | 37.00% | ~1,296 |
 | Gravity-Challenged Rocks | 31.00% | ~1,086 |
 | Soldier | 26.00% | ~911 |
@@ -23,9 +23,9 @@ Rating: 4.19 (Ranked 978)
 | A Familiar Nest | 18.00% | ~631 |
 | Geas Aristeya | 17.00% | ~596 |
 | Periapt Alizarin | 17.00% | ~596 |
-| A Perfect Cycle | 16.00% | ~560 |
-| Recruit | 15.00% | ~525 |
-| Armsman | 13.00% | ~455 |
+| A Perfect Cycle | 16.00% | ~561 |
+| Recruit | 15.00% | ~526 |
+| Armsman | 13.00% | ~456 |
 | Lights Army | 11.00% | ~385 |
 | Periapt Cerulean | 9.00% | ~315 |
 | Good Boy | 9.00% | ~315 |
@@ -53,8 +53,8 @@ Rating: 4.19 (Ranked 978)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,503 (Ranked 228)  
-Completed: 5 (0.14%) (Ranked 301)  
+Progressed: 3,504 (Ranked 228)  
+Completed: 5 (0.14%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,7 +165,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
-| 2024-01-18 | 3,503 | 5 |
+| 2024-01-18 | 3,504 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

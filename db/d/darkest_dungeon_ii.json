@@ -10924,10 +10924,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21724,
       "NumberOfAwardsMax": 8040
+    },
+    {
+      "Time": "2024-01-18T10:00:32.6508088+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21728,
+      "NumberOfAwardsMax": 8040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21724,
+  "NumberOfAwards": 21728,
   "NumberOfAwardsMax": 8040,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11001,12 +11007,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1100
+      "Count": 1104
     }
   ],
-  "EOS_Progressed": 133120,
+  "EOS_Progressed": 133121,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40409,6 +40415,11 @@
       "Time": "2024-01-18T09:10:20.0678115+00:00",
       "NumProgressed": 133120,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T10:10:56.4447131+00:00",
+      "NumProgressed": 133121,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40956,7 +40967,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "combat_kill_collector",
@@ -41028,7 +41039,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41051,21 +41062,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133120,
+      "Progressed": 133121,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7989,
+      "Progressed": 7990,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-18T08:59:38.3502979+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:10:20.067811+00:00",
+  "LastChanged": "2024-01-18T10:00:32.6508086+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:10:56.444713+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:59:38.3502984+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:10:20.0680576+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:00:32.6508092+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:10:56.4449175+00:00"
 }

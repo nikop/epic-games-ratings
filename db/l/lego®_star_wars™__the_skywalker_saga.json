@@ -4283,9 +4283,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59566,
+  "EOS_Progressed": 59567,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 455,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19058,6 +19058,11 @@
       "Time": "2024-01-18T07:09:21.222071+00:00",
       "NumProgressed": 59566,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2024-01-18T10:09:25.2013164+00:00",
+      "NumProgressed": 59567,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 45,
@@ -19093,7 +19098,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45866
+      "UsersEstimate": 45867
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19181,7 +19186,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33357
+      "UsersEstimate": 33358
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19309,7 +19314,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33357
+      "UsersEstimate": 33358
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19333,7 +19338,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57183
+      "UsersEstimate": 57184
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19428,15 +19433,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59566,
+      "Progressed": 59567,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-18T00:00:18.4885059+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:08:47.9539136+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:09:25.2013162+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:00:01.5703907+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:08:47.9540193+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:00:56.5557147+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:09:25.2014146+00:00"
 }

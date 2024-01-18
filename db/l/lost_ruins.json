@@ -6,8 +6,8 @@
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 327,
-  "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 707,
+  "EOS_Progressed": 708,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2034,6 +2034,11 @@
       "Time": "2024-01-17T20:10:14.1326039+00:00",
       "NumProgressed": 707,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T10:11:00.4396736+00:00",
+      "NumProgressed": 708,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2165,7 +2170,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Librarian",
@@ -2221,7 +2226,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "OrcMustDie",
@@ -2269,7 +2274,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SlingOfDavid",
@@ -2309,7 +2314,7 @@
       "Name": "The Fallen",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "TheTrio",
@@ -2364,7 +2369,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 707,
+      "Progressed": 708,
       "Completed": 1
     }
   ],
@@ -2372,8 +2377,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:10:24.3365603+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:11:00.4396735+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.8441104+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:57:24.453727+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:10:24.3366132+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:58:22.1047152+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:11:00.4397013+00:00"
 }

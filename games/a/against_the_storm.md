@@ -7,11 +7,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overgrown Library | 10.00% | ~2,086 |
-| First Real Expedition | 9.00% | ~1,877 |
-| Taking Action | 9.00% | ~1,877 |
-| No Deaths | 9.00% | ~1,877 |
-| Abandoned Settlement | 9.00% | ~1,877 |
-| Petrified Necropolis | 9.00% | ~1,877 |
+| First Real Expedition | 9.00% | ~1,878 |
+| Taking Action | 9.00% | ~1,878 |
+| No Deaths | 9.00% | ~1,878 |
+| Abandoned Settlement | 9.00% | ~1,878 |
+| Petrified Necropolis | 9.00% | ~1,878 |
 | The Marshlands | 8.00% | ~1,669 |
 | Overcoming Difficulty | 7.00% | ~1,460 |
 | Coral Forest | 7.00% | ~1,460 |
@@ -23,13 +23,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~1,043 |
 | Watchtower | 5.00% | ~1,043 |
 | A Real Challenge | 5.00% | ~1,043 |
-| Homesick | 4.00% | ~834 |
-| Ruined Armory | 4.00% | ~834 |
-| Fertile Meadows | 4.00% | ~834 |
-| Levitating Monument | 4.00% | ~834 |
-| Monastery of the Holy Flame | 4.00% | ~834 |
-| Trade Baron | 4.00% | ~834 |
-| Untamed Wilds | 4.00% | ~834 |
+| Homesick | 4.00% | ~835 |
+| Ruined Armory | 4.00% | ~835 |
+| Fertile Meadows | 4.00% | ~835 |
+| Levitating Monument | 4.00% | ~835 |
+| Monastery of the Holy Flame | 4.00% | ~835 |
+| Trade Baron | 4.00% | ~835 |
+| Untamed Wilds | 4.00% | ~835 |
 | Against All Odds | 3.00% | ~626 |
 | Bandit Camp | 3.00% | ~626 |
 | Barren Lands | 3.00% | ~626 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,861 (Ranked 156)  
+Progressed: 20,863 (Ranked 156)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-15 | 20,812 | 35 |
 | 2024-01-16 | 20,829 | 35 |
 | 2024-01-17 | 20,854 | 35 |
-| 2024-01-18 | 20,861 | 35 |
+| 2024-01-18 | 20,863 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 234)  
 Sum: 3,393 (Ranked 179)  

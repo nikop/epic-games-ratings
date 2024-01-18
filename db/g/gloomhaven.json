@@ -3005,9 +3005,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 34365,
+  "EOS_Progressed": 34366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1630,
+  "EOS_NewPlayers": 1626,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17470,6 +17470,11 @@
       "Time": "2024-01-18T09:10:00.9894171+00:00",
       "NumProgressed": 34365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T10:10:36.6922188+00:00",
+      "NumProgressed": 34366,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -17656,9 +17661,9 @@
       "ID": "Achievement_Trophy23",
       "SetID": "724h0m0",
       "Name": "Grizzled veteran",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 5155
+      "UsersEstimate": 4811
     },
     {
       "ID": "Achievement_Trophy24",
@@ -17682,7 +17687,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11340
+      "UsersEstimate": 11341
     },
     {
       "ID": "Achievement_Trophy27",
@@ -17746,7 +17751,7 @@
       "Name": "Augmented rat",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "Achievement_Trophy35",
@@ -17778,7 +17783,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5498
+      "UsersEstimate": 5499
     },
     {
       "ID": "Achievement_Trophy39",
@@ -17786,7 +17791,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6529
+      "UsersEstimate": 6530
     },
     {
       "ID": "Achievement_Trophy40",
@@ -17969,7 +17974,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 34365,
+      "Progressed": 34366,
       "Completed": 1
     }
   ],
@@ -17977,8 +17982,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-17T19:00:11.7318436+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:10:00.9894167+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:10:36.6922186+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.646849+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:00:01.3805968+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:10:00.9895317+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:00:56.4233289+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:10:36.6923289+00:00"
 }

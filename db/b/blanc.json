@@ -3,7 +3,7 @@
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 217,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4142,
+  "EOS_Progressed": 4143,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7206,6 +7206,11 @@
       "Time": "2024-01-18T07:08:45.781221+00:00",
       "NumProgressed": 4142,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T10:07:10.1904161+00:00",
+      "NumProgressed": 4143,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7289,7 +7294,7 @@
       "Name": "Stronger together",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "THE_END",
@@ -7320,7 +7325,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4142,
+      "Progressed": 4143,
       "Completed": 6
     }
   ],
@@ -7328,8 +7333,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:08:21.5591043+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:07:10.1904158+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:33.446333+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:59:59.667735+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:08:21.559151+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:00:54.6046218+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:07:10.1904653+00:00"
 }

@@ -491,9 +491,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228299,
+  "EOS_Progressed": 228300,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1132,
+  "EOS_NewPlayers": 1129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31761,6 +31761,11 @@
       "Time": "2024-01-18T09:04:52.133287+00:00",
       "NumProgressed": 228299,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T10:05:35.085246+00:00",
+      "NumProgressed": 228300,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -31820,7 +31825,7 @@
       "Name": "Check",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 127847
+      "UsersEstimate": 127848
     },
     {
       "ID": "Checkmate",
@@ -31844,7 +31849,7 @@
       "Name": "Chop Wood",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 162092
+      "UsersEstimate": 162093
     },
     {
       "ID": "DoubleCheck",
@@ -31860,7 +31865,7 @@
       "Name": "Doubled Pawn",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 130130
+      "UsersEstimate": 130131
     },
     {
       "ID": "Elo",
@@ -32075,7 +32080,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 228299,
+      "Progressed": 228300,
       "Completed": 2
     }
   ],
@@ -32083,8 +32088,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2024-01-10T18:58:03.4906759+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:04:52.1332863+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:05:35.0852458+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:16.5488117+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:57:57.2047423+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:04:52.133417+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:58:54.1127466+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:05:35.0854206+00:00"
 }

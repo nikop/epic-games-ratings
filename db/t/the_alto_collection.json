@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -988,7 +988,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55263,
+  "EOS_Progressed": 55264,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 0,
@@ -32068,6 +32068,11 @@
       "Time": "2024-01-18T09:04:10.6345461+00:00",
       "NumProgressed": 55263,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T10:04:54.2138013+00:00",
+      "NumProgressed": 55264,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32207,7 +32212,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8289
+      "UsersEstimate": 8290
     },
     {
       "ID": "playerFelipe",
@@ -32390,15 +32395,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55263,
+      "Progressed": 55264,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-16T19:59:32.4683523+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:04:10.6345456+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:04:54.2138009+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-18T09:00:05.9982096+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:04:10.6347677+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:01:00.9876035+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:04:54.2139852+00:00"
 }

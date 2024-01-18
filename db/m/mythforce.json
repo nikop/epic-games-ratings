@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -13529,9 +13529,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1727
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13633,8 +13633,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:03:52.2206808+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:04:33.6228908+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:57:44.2374792+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:03:52.2207691+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:58:41.1100513+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:04:33.622986+00:00"
 }

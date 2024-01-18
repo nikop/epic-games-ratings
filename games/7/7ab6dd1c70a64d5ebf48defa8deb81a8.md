@@ -1,7 +1,7 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.17 (Ranked 992)  
+Rating: 4.17 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,7 +43,7 @@ Rating: 4.17 (Ranked 992)
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,375 (Ranked 244)  
-Completed: 5 (0.21%) (Ranked 281)  
+Completed: 5 (0.21%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

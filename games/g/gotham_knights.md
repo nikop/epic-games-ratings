@@ -7,9 +7,9 @@ Rating: 4.19 (Ranked 978)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,480 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,206 |
-| Loose Ends | 33.00% | ~27,376 |
+| Loose Ends | 33.00% | ~27,377 |
 | To the Victor Go the Spoils | 27.00% | ~22,399 |
-| Knighthood | 26.00% | ~21,569 |
+| Knighthood | 26.00% | ~21,570 |
 | Get ReQ'd | 24.00% | ~19,910 |
 | Whispered Words | 24.00% | ~19,910 |
 | The Batman Family | 22.00% | ~18,251 |
@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 978)
 | Snow Problem | 19.00% | ~15,762 |
 | The Show Mud Go On | 17.00% | ~14,103 |
 | From Inside Gotham's Walls | 17.00% | ~14,103 |
-| Protector of Gotham | 16.00% | ~13,273 |
+| Protector of Gotham | 16.00% | ~13,274 |
 | In Your Element | 15.00% | ~12,444 |
 | Universal Health Scare | 15.00% | ~12,444 |
 | Rock and a Hard Place | 14.00% | ~11,614 |
@@ -34,7 +34,7 @@ Rating: 4.19 (Ranked 978)
 | Not On My Watch | 12.00% | ~9,955 |
 | Bulldozed | 12.00% | ~9,955 |
 | Gotham Knight | 12.00% | ~9,955 |
-| Gotham City Confidential | 11.00% | ~9,125 |
+| Gotham City Confidential | 11.00% | ~9,126 |
 | Out of Their League | 9.00% | ~7,466 |
 | Drone You Out | 9.00% | ~7,466 |
 | Solid Alibi | 8.00% | ~6,637 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 978)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,959 (Ranked 110)  
+Progressed: 82,960 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,14 +340,14 @@ Completed: 135 (0.16%) (Ranked 294)
 | 2024-01-15 | 82,834 | 134 |
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
-| 2024-01-18 | 82,959 | 135 |
+| 2024-01-18 | 82,960 | 135 |
 ## Awards
-Max (Great Boss Battles): 3,216  (Ranked 102)  
-Sum: 5,497 (Ranked 144)  
+Max (Great Boss Battles): 3,223  (Ranked 102)  
+Sum: 5,504 (Ranked 144)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,216 |
+| This game has Great Boss Battles | 3,223 |
 | This game has Diverse Characters | 293 |
 | This game is Great for Beginners | 292 |
 | This game is Relaxing | 290 |
@@ -686,3 +686,4 @@ Diff (max vs sum): -42
 | 2024-01-15 | 4.19 | 3,204 | 5,479 |
 | 2024-01-16 | 4.19 | 3,211 | 5,488 |
 | 2024-01-17 | 4.19 | 3,216 | 5,497 |
+| 2024-01-18 | 4.19 | 3,223 | 5,504 |

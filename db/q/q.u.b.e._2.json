@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47715,
+  "EOS_Progressed": 47717,
   "EOS_Completed": 241,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14611,6 +14611,11 @@
       "Time": "2024-01-18T09:09:49.6197045+00:00",
       "NumProgressed": 47715,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2024-01-18T10:10:25.2298609+00:00",
+      "NumProgressed": 47717,
+      "NumCompleted": 241
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14623,7 +14628,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7157
+      "UsersEstimate": 7158
     },
     {
       "ID": "ACH_BLUEEND",
@@ -14751,7 +14756,7 @@
       "Name": "Laser Sharp",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "ACH_EXSITE",
@@ -14767,7 +14772,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10974
+      "UsersEstimate": 10975
     },
     {
       "ID": "ACH_HUB2",
@@ -14783,7 +14788,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24812
+      "UsersEstimate": 24813
     },
     {
       "ID": "ACH_PEAK",
@@ -14791,7 +14796,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10974
+      "UsersEstimate": 10975
     },
     {
       "ID": "ACH_PROPELL",
@@ -14815,7 +14820,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32446
+      "UsersEstimate": 32448
     },
     {
       "ID": "ACH_S4",
@@ -14839,7 +14844,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35786
+      "UsersEstimate": 35788
     },
     {
       "ID": "ACH_STATUE",
@@ -14847,22 +14852,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20517
+      "UsersEstimate": 20518
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47715,
+      "Progressed": 47717,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:09:49.6197042+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:10:25.2298603+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:59:45.5035168+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:09:49.6197982+00:00"
+  "LastUpdate_Ratings": "2024-01-18T10:00:39.6788013+00:00",
+  "LastUpdate_Achievements": "2024-01-18T10:10:25.2299595+00:00"
 }

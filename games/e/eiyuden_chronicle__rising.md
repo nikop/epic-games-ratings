@@ -13,10 +13,10 @@ Number of Ratings: 48  (23.09.2022)
 | The Road to Recovery | 60.00% | ~485 |
 | Partners? | 58.00% | ~469 |
 | Magical Mineral Golem | 51.00% | ~412 |
-| On Outlander Lane | 50.00% | ~404 |
+| On Outlander Lane | 51.00% | ~412 |
 | First Time Fishing | 48.00% | ~388 |
 | A Girl About the Town | 47.00% | ~380 |
-| First Time Hunting | 45.00% | ~364 |
+| First Time Hunting | 46.00% | ~372 |
 | Rune Wall Wreckage | 45.00% | ~364 |
 | ...And Your Tax Money | 43.00% | ~347 |
 | The Lords of the Snowpeak | 37.00% | ~299 |

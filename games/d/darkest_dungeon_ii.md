@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,118 |
+| Malpractice Assurance | 14.00% | ~1,119 |
 | Lost and Found | 9.00% | ~719 |
 | Autodidact | 8.00% | ~10,650 |
 | This Belongs in a Museum | 7.00% | ~9,318 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,656 |
 | FNG | 5.00% | ~6,656 |
 | Nope | 5.00% | ~6,656 |
-| Friends 'Til the End | 5.00% | ~399 |
+| Friends 'Til the End | 5.00% | ~400 |
 | Resurrection | 4.00% | ~5,325 |
 | Unleash Hell | 4.00% | ~5,325 |
 | Funny Guy | 4.00% | ~5,325 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,120 (Ranked 92)  
+Progressed: 133,121 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,10 +349,10 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,120 | 5 |
+| 2024-01-18 | 133,121 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
-Sum: 21,724 (Ranked 58)  
+Sum: 21,728 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -365,7 +365,7 @@ Diff (max vs sum): -6
 | This game has Unique Visuals | 1,473 |
 | This game has Amazing Storytelling | 1,453 |
 | This game has Quickly Understood Controls | 1,425 |
-| This game has a Creative Community | 1,100 |
+| This game has a Creative Community | 1,104 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -726,4 +726,4 @@ Diff (max vs sum): -6
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
-| 2024-01-18 | 4.69 | - | 8,040 | 21,724 |
+| 2024-01-18 | 4.69 | - | 8,040 | 21,728 |

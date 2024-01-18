@@ -15,7 +15,7 @@
 | Stellar Dismantler | 40.00% | ~156 |
 | Astral Adventurer | 35.00% | ~136 |
 | Noctuan Champion | 35.00% | ~136 |
-| Anomaly Destroyer | 32.00% | ~124 |
+| Anomaly Destroyer | 33.00% | ~128 |
 | Star Killer | 31.00% | ~121 |
 | Eridanian Champion | 26.00% | ~101 |
 | Loyal Partner | 22.00% | ~86 |
@@ -26,7 +26,7 @@
 | Sadistic Plan | 16.00% | ~62 |
 | Behenian Champion | 14.00% | ~54 |
 | Heavy Purger | 12.00% | ~47 |
-| Wave Bender | 10.00% | ~39 |
+| Wave Bender | 11.00% | ~43 |
 | Astral Seeker | 9.00% | ~35 |
 | Aquarian Champion | 9.00% | ~35 |
 | Heart Gate | 8.00% | ~31 |

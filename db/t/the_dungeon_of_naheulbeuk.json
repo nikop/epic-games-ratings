@@ -1773,9 +1773,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248585,
+  "EOS_Progressed": 248590,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 976,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26633,6 +26633,11 @@
       "Time": "2024-01-18T09:10:31.1879602+00:00",
       "NumProgressed": 248585,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-18T10:11:07.2701387+00:00",
+      "NumProgressed": 248590,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26676,7 +26681,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9943
+      "UsersEstimate": 9944
     },
     {
       "ID": "BookCollection",
@@ -26700,7 +26705,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12429
+      "UsersEstimate": 12430
     },
     {
       "ID": "Chapter3",
@@ -26708,7 +26713,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9943
+      "UsersEstimate": 9944
     },
     {
       "ID": "Chapter4",
@@ -27092,7 +27097,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91976
+      "UsersEstimate": 91978
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27108,7 +27113,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12429
+      "UsersEstimate": 12430
     },
     {
       "ID": "EndCombatOneHp",
@@ -27116,7 +27121,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12429
+      "UsersEstimate": 12430
     },
     {
       "ID": "EndGameCursed",
@@ -27140,7 +27145,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27344
+      "UsersEstimate": 27345
     },
     {
       "ID": "FollowBraztok",
@@ -27340,28 +27345,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12429
+      "UsersEstimate": 12430
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248585,
+      "Progressed": 248590,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248585,
+      "Progressed": 248590,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-18T04:02:39.050202+00:00",
-  "LastChanged_Achievements": "2024-01-18T09:10:31.1879596+00:00",
+  "LastChanged_Achievements": "2024-01-18T10:11:07.2701385+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
   "LastUpdate_Ratings": "2024-01-18T09:02:51.9514587+00:00",
-  "LastUpdate_Achievements": "2024-01-18T09:10:31.1881666+00:00"
+  "LastUpdate_Achievements": "2024-01-18T10:11:07.2702926+00:00"
 }

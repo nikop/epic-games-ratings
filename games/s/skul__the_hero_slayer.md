@@ -6,12 +6,12 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,797 |
-| What should I buy? | 80.00% | ~11,869 |
+| The Legend Begins | 93.00% | ~13,798 |
+| What should I buy? | 80.00% | ~11,870 |
 | Focus! | 60.00% | ~8,902 |
 | Rescued Elder Ent | 60.00% | ~8,902 |
-| The End of the Gold Mane Knights | 48.00% | ~7,121 |
-| False Goddess, Disappear | 40.00% | ~5,934 |
+| The End of the Gold Mane Knights | 48.00% | ~7,122 |
+| False Goddess, Disappear | 40.00% | ~5,935 |
 | Rules of Etiquette | 38.00% | ~5,638 |
 | Inventory Management | 32.00% | ~4,748 |
 | The Fall of the Leonia Order | 31.00% | ~4,599 |
@@ -20,7 +20,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Final Battle of the First Hero | 27.00% | ~4,006 |
 | The Hero Killer | 25.00% | ~3,709 |
 | Brain at Full Throttle | 20.00% | ~2,967 |
-| Rookies Welcome | 18.00% | ~2,670 |
+| Rookies Welcome | 18.00% | ~2,671 |
 | Deadly Power | 16.00% | ~2,374 |
 | Castle Restoration Plans | 13.00% | ~1,929 |
 | The Dwarven Chandelier | 11.00% | ~1,632 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,836 (Ranked 175)  
+Progressed: 14,837 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,15 +283,15 @@ Completed: 22 (0.15%) (Ranked 296)
 | 2024-01-15 | 14,763 | 22 |
 | 2024-01-16 | 14,802 | 22 |
 | 2024-01-17 | 14,830 | 22 |
-| 2024-01-18 | 14,836 | 22 |
+| 2024-01-18 | 14,837 | 22 |
 ## Awards
-Max (Great for Beginners): 155  (Ranked 333)  
-Sum: 1,032 (Ranked 275)  
+Max (Diverse Characters): 155  (Ranked 333)  
+Sum: 1,033 (Ranked 275)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
+| This game has Diverse Characters | 155 |
 | This game is Great for Beginners | 155 |
-| This game has Diverse Characters | 154 |
 | This game is Highly Recommended | 124 |
 | This game is Extremely Fun | 118 |
 | This game is Relaxing | 116 |
@@ -483,3 +483,4 @@ Diff (max vs sum): 58
 | 2024-01-15 | 4.75 | - | 154 | 1,028 |
 | 2024-01-16 | 4.75 | - | 154 | 1,029 |
 | 2024-01-17 | 4.75 | - | 155 | 1,032 |
+| 2024-01-18 | 4.75 | - | 155 | 1,033 |
