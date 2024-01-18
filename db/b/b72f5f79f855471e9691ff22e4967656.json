@@ -1145,9 +1145,9 @@
       "ID": "locCompRandomLabyrinth",
       "SetID": "ci65fo0",
       "Name": "Winner of the Random",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "locDungeon1",
@@ -1321,9 +1321,9 @@
       "ID": "questHallucinationsKing",
       "SetID": "ci65fo0",
       "Name": "Hallucinations King",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "questKillGoblinMage",
@@ -1478,8 +1478,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:43.7916794+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:21.5910883+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:11.7457374+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:00:08.174076+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:43.7917499+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:00:24.0932728+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:21.5911483+00:00"
 }

@@ -14559,7 +14559,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501270,
+  "EOS_Progressed": 501292,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 4399,
   "EOS_NewCompleters": 0,
@@ -46134,6 +46134,11 @@
       "Time": "2024-01-18T21:11:58.1569163+00:00",
       "NumProgressed": 501270,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T22:11:35.8721263+00:00",
+      "NumProgressed": 501292,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47495,9 +47500,9 @@
       "ID": "achievement_kuban_cigars",
       "SetID": "8p2n7he",
       "Name": "Kuban Cigars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_kushite_restoration",
@@ -48767,9 +48772,9 @@
       "ID": "achievement_turkish_delight",
       "SetID": "67mdiil",
       "Name": "Turkish Delight",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_turn_the_table",
@@ -49048,21 +49053,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501270,
+      "Progressed": 501292,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501270,
+      "Progressed": 501292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-18T19:58:44.1387049+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:58.156916+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:35.8721258+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:58:52.7170012+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:58.1581482+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:59:04.75426+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:35.8732277+00:00"
 }

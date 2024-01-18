@@ -6,15 +6,15 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,960 |
+| Let's Get This Party Started | 86.00% | ~8,961 |
 | Photogenic | 82.00% | ~8,544 |
-| Surge Gauntlet Jockey | 79.00% | ~8,231 |
-| Plug It In | 78.00% | ~8,127 |
-| Adventure Time | 74.00% | ~7,710 |
+| Surge Gauntlet Jockey | 79.00% | ~8,232 |
+| Plug It In | 78.00% | ~8,128 |
+| Adventure Time | 74.00% | ~7,711 |
 | Playing With Power | 72.00% | ~7,502 |
-| Coup d'Etat | 55.00% | ~5,730 |
-| You're Fired | 54.00% | ~5,626 |
-| Get Furious | 53.00% | ~5,522 |
+| Coup d'Etat | 55.00% | ~5,731 |
+| You're Fired | 54.00% | ~5,627 |
+| Get Furious | 53.00% | ~5,523 |
 | Hacks In Stacks | 52.00% | ~5,418 |
 | Gunplay And Cosplay | 51.00% | ~5,314 |
 | Meching Enemies | 46.00% | ~4,793 |
@@ -26,12 +26,12 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 29.00% | ~3,022 |
 | The Full Monty | 29.00% | ~3,022 |
 | Guardian Angel | 26.00% | ~2,709 |
-| Poppin Noggins | 23.00% | ~2,396 |
-| Clips and Crits | 18.00% | ~1,875 |
+| Poppin Noggins | 23.00% | ~2,397 |
+| Clips and Crits | 18.00% | ~1,876 |
 | Grey Goo | 16.00% | ~1,667 |
 | Boss of Bosses | 14.00% | ~1,459 |
 | The Final Blow | 14.00% | ~1,459 |
-| To Be Continued | 13.00% | ~1,354 |
+| To Be Continued | 13.00% | ~1,355 |
 | Light My Fire | 11.00% | ~1,146 |
 | Seasoned Adventurer | 11.00% | ~1,146 |
 | Get In The Ring! | 9.00% | ~938 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,419 (Ranked 183)  
+Progressed: 10,420 (Ranked 184)  
 Completed: 2 (0.02%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 2 (0.02%) (Ranked 369)
 | 2024-01-15 | 10,403 | 2 |
 | 2024-01-16 | 10,410 | 2 |
 | 2024-01-17 | 10,416 | 2 |
-| 2024-01-18 | 10,419 | 2 |
+| 2024-01-18 | 10,420 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 429)  
 Sum: 465 (Ranked 345)  

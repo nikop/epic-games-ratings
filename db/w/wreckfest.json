@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1202,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3067,6 +3067,11 @@
       "Time": "2024-01-18T20:09:47.8296431+00:00",
       "NumProgressed": 1202,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T22:09:55.9366945+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3079,7 +3084,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "CareerAllChallenges",
@@ -3087,7 +3092,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "CareerChamp1",
@@ -3103,7 +3108,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "CareerChamp3",
@@ -3135,7 +3140,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "CollectVehiclesA",
@@ -3238,7 +3243,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1202,
+      "Progressed": 1203,
       "Completed": 0
     }
   ],
@@ -3246,8 +3251,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:10:21.7774921+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:09:55.9366941+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:58:41.1973952+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:10:21.7775189+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:58:52.301265+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:09:55.9367207+00:00"
 }

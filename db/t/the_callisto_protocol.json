@@ -5,7 +5,7 @@
   "Ranking_Rating": 956,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 318,
-  "Ranking_EOS_Progress": 151,
+  "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 154,
@@ -2297,9 +2297,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22541,
+  "EOS_Progressed": 22544,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14347,6 +14347,11 @@
       "Time": "2024-01-18T21:11:23.5430456+00:00",
       "NumProgressed": 22541,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-18T22:11:00.8925804+00:00",
+      "NumProgressed": 22544,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14390,7 +14395,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6086
+      "UsersEstimate": 6087
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14462,7 +14467,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5185
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14478,7 +14483,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14486,7 +14491,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4959
+      "UsersEstimate": 4960
     },
     {
       "ID": "KILL_ROBOT",
@@ -14502,7 +14507,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14510,7 +14515,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14526,7 +14531,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14534,7 +14539,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14550,7 +14555,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14558,7 +14563,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "STORY_HABITAT",
@@ -14566,7 +14571,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3381
+      "UsersEstimate": 3382
     },
     {
       "ID": "STORY_HANGAR",
@@ -14614,7 +14619,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "DISMEMBER_100",
@@ -14710,7 +14715,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14733,13 +14738,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22541,
+      "Progressed": 22544,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10467,
+      "Progressed": 10470,
       "Completed": 29
     }
   ],
@@ -14747,8 +14752,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-18T20:03:43.9425248+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:23.5430454+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:00.89258+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:04:17.2708443+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:23.5431584+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:04:12.1492901+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:00.8926767+00:00"
 }

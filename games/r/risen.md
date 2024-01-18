@@ -34,8 +34,8 @@ Rating: 4.58 (Ranked 474)
 | Master detective | 15.00% | ~31 |
 | Defender | 13.00% | ~27 |
 | Peacekeeper | 13.00% | ~27 |
+| Showdown | 12.00% | ~24 |
 | Workaholic | 12.00% | ~24 |
-| Showdown | 11.00% | ~22 |
 | Freedom fighter | 9.00% | ~18 |
 | Titan Lord | 9.00% | ~18 |
 | Safecracker | 9.00% | ~18 |

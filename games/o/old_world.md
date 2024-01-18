@@ -88,6 +88,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Iron | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
+| Legalism | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Capable | 0.80% | ~136 |
@@ -102,10 +103,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
-| Legalism | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Double Victory | 0.80% | ~136 |
 | Invincible | 0.70% | ~119 |
+| Lion | 0.70% | ~119 |
+| Hunters | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
@@ -119,11 +121,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.70% | ~119 |
 | Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
-| Lion | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Strong Difficulty | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
-| Hunters | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
@@ -136,6 +136,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Old | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
+| Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
@@ -144,8 +145,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
-| Learn to Play 5 | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
+| Pantheon of Gods | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
@@ -153,7 +154,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
-| Pantheon of Gods | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,971 (Ranked 169)  
+Progressed: 16,973 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,971 | 5 |
+| 2024-01-18 | 16,973 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

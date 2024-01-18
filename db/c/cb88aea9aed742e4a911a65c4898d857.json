@@ -413,9 +413,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11796,
+  "EOS_Progressed": 11797,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5398,6 +5398,11 @@
       "Time": "2024-01-18T21:11:47.0150226+00:00",
       "NumProgressed": 11796,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T22:11:24.8443193+00:00",
+      "NumProgressed": 11797,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5418,7 +5423,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1887
+      "UsersEstimate": 1888
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5522,7 +5527,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "17_TheExemplar",
@@ -5538,7 +5543,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5570,7 +5575,7 @@
       "Name": "Perfect Timing",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "23_DynastyRestored",
@@ -5618,7 +5623,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5656,9 +5661,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1416
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5760,9 +5765,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1888
     },
     {
       "ID": "47_AFlame",
@@ -5929,7 +5934,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11796,
+      "Progressed": 11797,
       "Completed": 1
     }
   ],
@@ -5937,8 +5942,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-18T13:59:36.0341699+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:47.0150224+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:24.844319+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:00:41.0521374+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:47.0150832+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:00:59.4051641+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:24.8443832+00:00"
 }

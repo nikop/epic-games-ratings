@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -506,9 +506,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99575,
+  "EOS_Progressed": 99584,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31036,6 +31036,11 @@
       "Time": "2024-01-18T21:10:40.7713044+00:00",
       "NumProgressed": 99575,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2024-01-18T22:10:15.695041+00:00",
+      "NumProgressed": 99584,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 10,
@@ -31079,7 +31084,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "DrawingsAll",
@@ -31095,7 +31100,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "GameCompleted",
@@ -31111,7 +31116,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34851
+      "UsersEstimate": 34854
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31119,22 +31124,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10953
+      "UsersEstimate": 10954
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99575,
+      "Progressed": 99584,
       "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-18T16:03:39.3756738+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:10:40.771304+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:10:15.6950406+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.2995243+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:04:08.8726114+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:10:40.771484+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:04:03.141905+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:10:15.6952252+00:00"
 }

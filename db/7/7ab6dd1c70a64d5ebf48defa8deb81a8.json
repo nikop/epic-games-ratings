@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2379,
+  "EOS_Progressed": 2380,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4775,6 +4775,11 @@
       "Time": "2024-01-18T20:11:16.4208191+00:00",
       "NumProgressed": 2379,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T22:11:24.7990819+00:00",
+      "NumProgressed": 2380,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4786,7 +4791,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ACH_02",
@@ -4794,7 +4799,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_03",
@@ -4802,7 +4807,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_04",
@@ -4842,7 +4847,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ACH_09",
@@ -4850,7 +4855,7 @@
       "Name": "The Mentor",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_10",
@@ -5073,7 +5078,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2379,
+      "Progressed": 2380,
       "Completed": 5
     }
   ],
@@ -5081,8 +5086,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:46.7999612+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:24.7990816+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:57:53.4479952+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:46.8+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:58:01.4682071+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:24.799122+00:00"
 }

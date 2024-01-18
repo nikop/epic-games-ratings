@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 83.00% | ~105 |
+| So it begins | 82.00% | ~104 |
 | Good to grow | 60.00% | ~76 |
-| Fashionista | 36.00% | ~45 |
+| Fashionista | 35.00% | ~44 |
 | Irrigation not irritation | 34.00% | ~43 |
-| Graduated | 33.00% | ~42 |
-| Ay ay yarrr! | 23.00% | ~29 |
-| Shine bright | 21.00% | ~26 |
-| Night Shift | 21.00% | ~26 |
-| Peaceful skies | 13.00% | ~16 |
+| Graduated | 32.00% | ~41 |
+| Ay ay yarrr! | 24.00% | ~30 |
+| Shine bright | 20.00% | ~25 |
+| Night Shift | 20.00% | ~25 |
+| Peaceful skies | 13.00% | ~17 |
 | C'who? | 11.00% | ~14 |
 | It's about the journey | 11.00% | ~14 |
 | There be sand in me shorts | 11.00% | ~14 |
@@ -36,7 +36,7 @@
 | Best in the field | 0.80% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126 (Ranked 485)  
+Progressed: 127 (Ranked 485)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-05 | 124 | 0 |
 | 2024-01-11 | 125 | 0 |
 | 2024-01-14 | 126 | 0 |
+| 2024-01-18 | 127 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19142,
+  "EOS_Progressed": 19145,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17749,6 +17749,11 @@
       "Time": "2024-01-18T20:04:04.4948429+00:00",
       "NumProgressed": 19142,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T22:04:33.0843752+00:00",
+      "NumProgressed": 19145,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17785,7 +17790,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "13",
@@ -17793,7 +17798,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3637
+      "UsersEstimate": 3638
     },
     {
       "ID": "14",
@@ -17817,7 +17822,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "17",
@@ -17857,7 +17862,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "21",
@@ -17865,7 +17870,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2489
     },
     {
       "ID": "22",
@@ -17897,7 +17902,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "26",
@@ -17969,7 +17974,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "7",
@@ -18040,22 +18045,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19142,
+      "Progressed": 19145,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5096,
-      "Completed": 1344
+      "Progressed": 5099,
+      "Completed": 1345
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:04:38.256688+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:04:33.0843748+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:03:02.0996068+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:04:38.2567829+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:02:13.0571091+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:04:33.0844801+00:00"
 }

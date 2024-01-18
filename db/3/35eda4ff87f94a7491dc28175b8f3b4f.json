@@ -5,7 +5,7 @@
   "Ranking_Rating": 846,
   "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 587,
-  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 44,
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22540,
+  "EOS_Progressed": 22547,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8537,6 +8537,11 @@
       "Time": "2024-01-18T21:06:51.9733099+00:00",
       "NumProgressed": 22540,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2024-01-18T22:06:48.9814047+00:00",
+      "NumProgressed": 22547,
+      "NumCompleted": 114
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8597,7 +8602,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8628,7 +8633,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22540,
+      "Progressed": 22547,
       "Completed": 114
     }
   ],
@@ -8636,8 +8641,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:06:51.9733095+00:00",
-  "LastUpdate_AppInfo": "2024-01-11T20:57:13.403485+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:00:51.8888269+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:06:51.9733651+00:00"
+  "LastChanged_Achievements": "2024-01-18T22:06:48.9814043+00:00",
+  "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
+  "LastUpdate_Ratings": "2024-01-18T22:01:10.3049455+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:06:48.9814536+00:00"
 }

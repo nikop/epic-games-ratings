@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1381,
+  "EOS_Progressed": 1382,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4523,6 +4523,11 @@
       "Time": "2024-01-18T15:09:53.8985713+00:00",
       "NumProgressed": 1381,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-18T22:10:53.8597454+00:00",
+      "NumProgressed": 1382,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4535,7 +4540,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "achievement_10",
@@ -4543,7 +4548,7 @@
       "Name": "Karakuri Trail",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_11",
@@ -4607,7 +4612,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "achievement_19",
@@ -4615,7 +4620,7 @@
       "Name": "Counter Specialist",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "achievement_2",
@@ -4623,7 +4628,7 @@
       "Name": "Mountain Splitter",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_20",
@@ -4645,9 +4650,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 608
+      "UsersEstimate": 622
     },
     {
       "ID": "achievement_23",
@@ -4661,9 +4666,9 @@
       "ID": "achievement_24",
       "SetID": "2cpn27e",
       "Name": "Single Minded",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_25",
@@ -4727,7 +4732,7 @@
       "Name": "Snare Specialist",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_32",
@@ -4775,7 +4780,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "achievement_38",
@@ -4783,7 +4788,7 @@
       "Name": "Superlative View",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_39",
@@ -4799,7 +4804,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "achievement_40",
@@ -4847,7 +4852,7 @@
       "Name": "Helpful Heart",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "achievement_46",
@@ -4855,7 +4860,7 @@
       "Name": "Charmed by the Hunt",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "achievement_47",
@@ -4887,7 +4892,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "achievement_7",
@@ -4895,7 +4900,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "achievement_8",
@@ -4918,13 +4923,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1381,
+      "Progressed": 1382,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:17.0448287+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:10:53.859745+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:58:42.1310896+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:17.0449073+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:58:53.3883373+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:10:53.8598103+00:00"
 }

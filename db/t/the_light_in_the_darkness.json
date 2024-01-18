@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2904,
+  "EOS_Progressed": 2905,
   "EOS_Completed": 270,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 9.3,
+  "EOS_Completed_Percentage": 9.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -8506,6 +8506,11 @@
       "Time": "2024-01-18T20:10:05.7522751+00:00",
       "NumProgressed": 2904,
       "NumCompleted": 270
+    },
+    {
+      "Time": "2024-01-18T22:10:13.7950598+00:00",
+      "NumProgressed": 2905,
+      "NumCompleted": 270
     }
   ],
   "TotalAchievements": 12,
@@ -8581,7 +8586,7 @@
       "Name": "Little Helper",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -8612,7 +8617,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2904,
+      "Progressed": 2905,
       "Completed": 270
     }
   ],
@@ -8620,8 +8625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:10:38.919406+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:10:13.7950595+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:13.5521392+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:00:49.5332024+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:10:38.9194607+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:01:07.667261+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:10:13.7951136+00:00"
 }

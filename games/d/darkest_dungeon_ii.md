@@ -7,18 +7,18 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,124 |
-| Lost and Found | 9.00% | ~722 |
+| Lost and Found | 9.00% | ~723 |
 | Autodidact | 8.00% | ~10,653 |
 | This Belongs in a Museum | 7.00% | ~9,321 |
 | Overdue Notice | 7.00% | ~9,321 |
 | This guy... again? | 7.00% | ~562 |
-| Serenity Now! | 6.00% | ~7,989 |
-| Creep and Sleep | 6.00% | ~7,989 |
-| Meat and Greet | 6.00% | ~7,989 |
-| Catch and Decease | 6.00% | ~7,989 |
-| Escape from the Black Hole | 6.00% | ~7,989 |
-| Rush Hour | 6.00% | ~7,989 |
-| To Grandmother's House | 6.00% | ~7,989 |
+| Serenity Now! | 6.00% | ~7,990 |
+| Creep and Sleep | 6.00% | ~7,990 |
+| Meat and Greet | 6.00% | ~7,990 |
+| Catch and Decease | 6.00% | ~7,990 |
+| Escape from the Black Hole | 6.00% | ~7,990 |
+| Rush Hour | 6.00% | ~7,990 |
+| To Grandmother's House | 6.00% | ~7,990 |
 | Ploughshares to Swords | 6.00% | ~482 |
 | Bloody Graduation | 6.00% | ~482 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,658 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,157 (Ranked 92)  
+Progressed: 133,160 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,14 +349,14 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,157 | 5 |
+| 2024-01-18 | 133,160 | 5 |
 ## Awards
-Max (Character Customization): 8,040  (Ranked 52)  
-Sum: 21,744 (Ranked 58)  
+Max (Character Customization): 8,044  (Ranked 52)  
+Sum: 21,748 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,040 |
+| This game has Inclusive Character Customization | 8,044 |
 | This game has Diverse Characters | 1,874 |
 | This game has Challenging Combat | 1,686 |
 | This game is Highly Recommended | 1,610 |
@@ -726,4 +726,4 @@ Diff (max vs sum): -6
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
-| 2024-01-18 | 4.69 | - | 8,040 | 21,744 |
+| 2024-01-18 | 4.69 | - | 8,044 | 21,748 |

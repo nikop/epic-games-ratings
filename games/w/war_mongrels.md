@@ -7,19 +7,19 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 68.00% | ~532 |
-| Cowardice | 61.00% | ~477 |
-| The Breaking Point | 44.00% | ~344 |
-| NO LIFE IS WORTH SAVING... | 44.00% | ~344 |
-| Eat Lead! | 42.00% | ~328 |
+| Cowardice | 61.00% | ~478 |
+| The Breaking Point | 44.00% | ~345 |
+| NO LIFE IS WORTH SAVING... | 44.00% | ~345 |
+| Eat Lead! | 42.00% | ~329 |
 | Here Comes the Boom | 40.00% | ~313 |
-| Prospector | 38.00% | ~297 |
-| Sniper Wolf | 38.00% | ~297 |
-| The Motivation | 37.00% | ~289 |
+| Prospector | 38.00% | ~298 |
+| Sniper Wolf | 38.00% | ~298 |
+| The Motivation | 37.00% | ~290 |
 | Treasure Hunter | 35.00% | ~274 |
 | Heroism | 34.00% | ~266 |
-| Collectibles of Chapter I | 32.00% | ~250 |
-| Missing in Action | 32.00% | ~250 |
-| Consequences | 31.00% | ~242 |
+| Collectibles of Chapter I | 32.00% | ~251 |
+| Missing in Action | 32.00% | ~251 |
+| Consequences | 31.00% | ~243 |
 | Opportunities | 30.00% | ~235 |
 | King of Knives | 30.00% | ~235 |
 | The Horror | 28.00% | ~219 |
@@ -34,7 +34,7 @@ Number of Ratings: 34  (23.09.2022)
 | Helping Hand | 17.00% | ~133 |
 | Food Massacre | 17.00% | ~133 |
 | Without a Second Thought | 15.00% | ~117 |
-| Collectibles of Chapter III | 14.00% | ~109 |
+| Collectibles of Chapter III | 14.00% | ~110 |
 | Collectibles of Chapter IV | 13.00% | ~102 |
 | Collectibles of Chapter V | 10.00% | ~78 |
 | Tiptoe Around | 10.00% | ~78 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782 (Ranked 320)  
+Progressed: 783 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,6 +278,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-14 | 779 | 0 |
 | 2024-01-16 | 781 | 0 |
 | 2024-01-17 | 782 | 0 |
+| 2024-01-18 | 783 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

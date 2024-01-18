@@ -2328,9 +2328,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16971,
+  "EOS_Progressed": 16973,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20428,6 +20428,11 @@
       "Time": "2024-01-18T21:11:58.3300966+00:00",
       "NumProgressed": 16971,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T22:11:35.947294+00:00",
+      "NumProgressed": 16973,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20973,9 +20978,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -21293,9 +21298,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
       "SetID": "7l38kb8",
       "Name": "Hunters",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
@@ -21989,9 +21994,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 5",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_MACEDONIAN_WARS",
@@ -22117,9 +22122,9 @@
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
       "SetID": "9201eeb",
       "Name": "Pantheon of Gods",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
@@ -22421,9 +22426,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
       "SetID": "7l38kb8",
       "Name": "Legalism",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -23302,21 +23307,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16971,
+      "Progressed": 16973,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16971,
+      "Progressed": 16973,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:58.3300962+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:35.9472937+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:03:29.8428145+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:58.3310941+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:03:22.9841268+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:35.9483393+00:00"
 }

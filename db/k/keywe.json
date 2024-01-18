@@ -893,9 +893,9 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "findFirstCollectible",
@@ -909,9 +909,9 @@
       "ID": "getABonusReward",
       "SetID": "cfe0fhi",
       "Name": "Working for the Kiweekend",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "goldOnAllLevels",
@@ -980,8 +980,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:05:42.1099019+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:05:35.7802758+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:29.6241281+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:00:55.83348+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:05:42.1099242+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:01:14.8022143+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:05:35.780315+00:00"
 }

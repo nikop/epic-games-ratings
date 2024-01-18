@@ -961,9 +961,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667571,
+  "EOS_Progressed": 667574,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27051,6 +27051,11 @@
       "Time": "2024-01-18T21:11:09.1107079+00:00",
       "NumProgressed": 667571,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-18T22:10:45.5726457+00:00",
+      "NumProgressed": 667574,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27062,7 +27067,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480651
+      "UsersEstimate": 480653
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27070,7 +27075,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387191
+      "UsersEstimate": 387193
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27078,7 +27083,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153541
+      "UsersEstimate": 153542
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -27198,7 +27203,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153541
+      "UsersEstimate": 153542
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -27214,7 +27219,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113487
+      "UsersEstimate": 113488
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -27326,7 +27331,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166893
+      "UsersEstimate": 166894
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -27342,7 +27347,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60081
+      "UsersEstimate": 60082
     },
     {
       "ID": "Achievement_37_Champion",
@@ -27445,15 +27450,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667571,
+      "Progressed": 667574,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-08T13:05:28.7282698+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:09.1107072+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:10:45.5726453+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:58:53.5524454+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:09.1109852+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:59:05.6036075+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:10:45.572793+00:00"
 }

@@ -28,10 +28,10 @@
 | Nathaniel Dryden | 32.00% | ~38 |
 | A rude awakening | 31.00% | ~37 |
 | Bartholomew | 31.00% | ~37 |
+| Well-acquainted | 30.00% | ~35 |
+| Anastasia Babanin | 30.00% | ~35 |
 | The Scheme | 30.00% | ~35 |
-| Well-acquainted | 29.00% | ~34 |
-| Anastasia Babanin | 29.00% | ~34 |
-| Zakariya Demir | 28.00% | ~33 |
+| Zakariya Demir | 29.00% | ~34 |
 | Truth from within | 26.00% | ~31 |
 | A curious phrase | 24.00% | ~28 |
 | Evelyn Lakshmi Warbeck | 24.00% | ~28 |

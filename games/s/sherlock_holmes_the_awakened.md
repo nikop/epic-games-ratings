@@ -1,20 +1,20 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.52 (Ranked 581)  
+Rating: 4.52 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~930 |
-| To Hell In A Handcart | 61.00% | ~915 |
-| High Profile | 54.00% | ~810 |
-| Whispers In The Dark | 52.00% | ~780 |
+| Read Between The Lines | 62.00% | ~931 |
+| To Hell In A Handcart | 61.00% | ~916 |
+| High Profile | 54.00% | ~811 |
+| Whispers In The Dark | 52.00% | ~781 |
 | Fond Memories | 50.00% | ~750 |
 | A Method To His Madness | 48.00% | ~720 |
 | History Check | 47.00% | ~705 |
 | The New World | 45.00% | ~675 |
+| Open Sesame | 44.00% | ~660 |
 | Gaze Into The Abyss | 43.00% | ~645 |
-| Open Sesame | 43.00% | ~645 |
 | Sticky Fingers | 43.00% | ~645 |
 | Knives Out | 43.00% | ~645 |
 | Land, Ho! | 43.00% | ~645 |
@@ -34,8 +34,8 @@ Rating: 4.52 (Ranked 581)
 | Big Breakthrough | 13.00% | ~195 |
 | Reawakened | 4.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 272)  
-Completed: 49 (3.27%) (Ranked 106)  
+Progressed: 1,501 (Ranked 272)  
+Completed: 49 (3.26%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 49 (3.27%) (Ranked 106)
 | 2024-01-15 | 1,457 | 48 |
 | 2024-01-16 | 1,462 | 48 |
 | 2024-01-17 | 1,482 | 49 |
-| 2024-01-18 | 1,500 | 49 |
+| 2024-01-18 | 1,501 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

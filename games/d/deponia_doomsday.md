@@ -5,19 +5,19 @@ Rating: 4.55 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 84.00% | ~449 |
-| And again, and again, and... | 61.00% | ~326 |
-| Burn, Elysium, burn! | 60.00% | ~321 |
+| Huzza, he's back. | 85.00% | ~456 |
+| And again, and again, and... | 61.00% | ~327 |
+| Burn, Elysium, burn! | 60.00% | ~322 |
 | Kuvaq Minigame-Master | 59.00% | ~316 |
 | FunScore | 53.00% | ~284 |
 | Funtime's over | 50.00% | ~268 |
-| Chunky | 47.00% | ~251 |
-| Shall we play a game? | 46.00% | ~246 |
-| Boat of love, boat of love | 46.00% | ~246 |
+| Chunky | 47.00% | ~252 |
+| Shall we play a game? | 46.00% | ~247 |
+| Boat of love, boat of love | 46.00% | ~247 |
 | School's out | 42.00% | ~225 |
 | Sole Music | 36.00% | ~193 |
-| Scaffolding Expert | 35.00% | ~187 |
-| Elysian Minigame-Master | 35.00% | ~187 |
+| Scaffolding Expert | 35.00% | ~188 |
+| Elysian Minigame-Master | 35.00% | ~188 |
 | Portals come in packs | 29.00% | ~155 |
 | No man left behind! | 28.00% | ~150 |
 | Photo Friend | 25.00% | ~134 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 532)
 | Paradox! | 10.00% | ~54 |
 | Goat Team | 9.00% | ~48 |
 | Weapons 101 | 8.00% | ~43 |
-| Sadist | 7.00% | ~37 |
+| Sadist | 7.00% | ~38 |
 | The customer is always right | 6.00% | ~32 |
 | Pacifist | 6.00% | ~32 |
 | Apoca...huh? | 6.00% | ~32 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 532)
 | Every man for himself! | 5.00% | ~27 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535 (Ranked 352)  
+Progressed: 536 (Ranked 351)  
 Completed: 7 (1.31%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 7 (1.31%) (Ranked 160)
 | 2024-01-13 | 531 | 7 |
 | 2024-01-16 | 533 | 7 |
 | 2024-01-17 | 534 | 7 |
-| 2024-01-18 | 535 | 7 |
+| 2024-01-18 | 536 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

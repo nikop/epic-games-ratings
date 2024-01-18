@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 605,
+  "EOS_Progressed": 606,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-18T19:11:50.3197748+00:00",
       "NumProgressed": 605,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T22:11:24.2342883+00:00",
+      "NumProgressed": 606,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -1228,7 +1233,7 @@
       "Name": "We Are a Family",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "TROP002",
@@ -1236,7 +1241,7 @@
       "Name": "Three Little Foxes",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "TROP003",
@@ -1260,7 +1265,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "TROP006",
@@ -1284,7 +1289,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "TROP009",
@@ -1292,7 +1297,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "TROP010",
@@ -1404,7 +1409,7 @@
       "Name": "Detox diet",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "TROP024",
@@ -1443,7 +1448,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 605,
+      "Progressed": 606,
       "Completed": 3
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:46.4568291+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:24.234288+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:46.1111299+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:58:43.7260547+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:46.4568537+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:58:55.3149022+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:24.2343158+00:00"
 }

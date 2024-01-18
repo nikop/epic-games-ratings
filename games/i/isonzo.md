@@ -12,7 +12,7 @@ Number of Ratings: 98  (23.09.2022)
 | Avanti Savoia! | 44.00% | ~4,395 |
 | Mamma Mia! | 35.00% | ~3,496 |
 | Gabriele D'Annunzio | 32.00% | ~3,196 |
-| Conrad von Hotzensocks | 31.00% | ~3,096 |
+| Conrad von Hotzensocks | 31.00% | ~3,097 |
 | Silver Lining | 27.00% | ~2,697 |
 | Aurelio Baruzzi | 20.00% | ~1,998 |
 | Decimation | 20.00% | ~1,998 |
@@ -23,8 +23,8 @@ Number of Ratings: 98  (23.09.2022)
 | Ragazzi del '99 | 17.00% | ~1,698 |
 | Luigi Cadorna | 16.00% | ~1,598 |
 | The Lion of the Isonzo | 14.00% | ~1,398 |
-| Shaken, Not Stirred | 13.00% | ~1,298 |
-| Uomo Universale | 13.00% | ~1,298 |
+| Shaken, Not Stirred | 13.00% | ~1,299 |
+| Uomo Universale | 13.00% | ~1,299 |
 | Die Bosniaken Kommen! | 12.00% | ~1,199 |
 | Dirty Dozen | 12.00% | ~1,199 |
 | Machiavelli | 11.00% | ~1,099 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,988 (Ranked 184)  
+Progressed: 9,989 (Ranked 185)  
 Completed: 10 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 10 (0.10%) (Ranked 317)
 | 2024-01-15 | 9,955 | 10 |
 | 2024-01-16 | 9,969 | 10 |
 | 2024-01-17 | 9,982 | 10 |
-| 2024-01-18 | 9,988 | 10 |
+| 2024-01-18 | 9,989 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 481)  
 Sum: 343 (Ranked 372)  

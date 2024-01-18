@@ -10954,18 +10954,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 21744,
       "NumberOfAwardsMax": 8040
+    },
+    {
+      "Time": "2024-01-18T21:57:16.4527365+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21748,
+      "NumberOfAwardsMax": 8044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21744,
-  "NumberOfAwardsMax": 8040,
+  "NumberOfAwards": 21748,
+  "NumberOfAwardsMax": 8044,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8040
+      "Count": 8044
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11034,9 +11040,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133157,
+  "EOS_Progressed": 133160,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40499,6 +40505,11 @@
       "Time": "2024-01-18T21:11:41.511173+00:00",
       "NumProgressed": 133157,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T22:11:19.2713796+00:00",
+      "NumProgressed": 133160,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40518,7 +40529,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40670,7 +40681,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40710,7 +40721,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40726,7 +40737,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "combat_kill_librarian",
@@ -40750,7 +40761,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40806,7 +40817,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -40830,7 +40841,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7989
+      "UsersEstimate": 7990
     },
     {
       "ID": "driving_distance_easy",
@@ -41110,7 +41121,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41141,21 +41152,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133157,
+      "Progressed": 133160,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8026,
+      "Progressed": 8029,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-18T20:01:27.176759+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:41.5111727+00:00",
+  "LastChanged": "2024-01-18T21:57:16.4527364+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:19.2713789+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:01:27.1767596+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:41.5113323+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:57:16.4527369+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:19.2715775+00:00"
 }

@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1129,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
@@ -3225,6 +3225,11 @@
       "Time": "2024-01-18T21:11:17.3047773+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-18T22:10:54.1083288+00:00",
+      "NumProgressed": 1129,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3236,7 +3241,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3284,7 +3289,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ENDING_6",
@@ -3308,7 +3313,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3348,7 +3353,7 @@
       "Name": "Office Clerk",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -3380,7 +3385,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -3388,14 +3393,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1129,
       "Completed": 13
     }
   ],
@@ -3403,8 +3408,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:17.3047769+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:10:54.1083284+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:58:15.0440867+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:17.3048225+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:58:25.3226499+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:10:54.1084004+00:00"
 }

@@ -8,11 +8,11 @@ Number of Ratings: 76  (23.09.2022)
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~248 |
 | Sponge Smasher | 23.00% | ~248 |
-| Jellyfish Jam | 21.00% | ~227 |
+| Jellyfish Jam | 22.00% | ~238 |
 | Jellyfishing | 17.00% | ~184 |
+| Sweet Victory | 14.00% | ~151 |
 | Sock Getter | 14.00% | ~151 |
 | Time For Tutorial | 14.00% | ~151 |
-| Sweet Victory | 13.00% | ~140 |
 | Star Smasher | 13.00% | ~140 |
 | Super Spatula Seeker | 12.00% | ~130 |
 | Surf's Up! | 12.00% | ~130 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,080 (Ranked 295)  
+Progressed: 1,080 (Ranked 296)  
 Completed: 9 (0.83%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |

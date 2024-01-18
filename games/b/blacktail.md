@@ -13,8 +13,8 @@ Rating: 4.68 (Ranked 264)
 | Devoted | 9.00% | ~83 |
 | Slavic squatter | 8.00% | ~74 |
 | Spirit animal | 7.00% | ~64 |
+| Liar Liar | 7.00% | ~64 |
 | Gold rush | 6.00% | ~55 |
-| Liar Liar | 6.00% | ~55 |
 | Fishing fanatic | 5.00% | ~46 |
 | The word around is... | 5.00% | ~46 |
 | A friend in need... | 5.00% | ~46 |

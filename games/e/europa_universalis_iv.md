@@ -181,6 +181,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Komnenoi Empire | 0.10% | ~501 |
 | Kow-Tow | 0.10% | ~501 |
 | Krabater | 0.10% | ~501 |
+| Kuban Cigars | 0.10% | ~501 |
 | Kushite Restoration | 0.10% | ~501 |
 | Land of Eastern Jade | 0.10% | ~501 |
 | Laughingstock | 0.10% | ~501 |
@@ -326,6 +327,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trophy Hunter | 0.10% | ~501 |
 | True Heir of Timur | 0.10% | ~501 |
 | Trustworthy | 0.10% | ~501 |
+| Turkish Delight | 0.10% | ~501 |
 | Turn the Table | 0.10% | ~501 |
 | Turning the Tide | 0.10% | ~501 |
 | Turtles all the way down | 0.10% | ~501 |
@@ -361,16 +363,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
-| Kuban Cigars | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,270 (Ranked 42)  
+Progressed: 501,292 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,270 | 1 |
+| 2024-01-18 | 501,292 | 1 |
 ## Awards
 Max (Educational): 7,890  (Ranked 53)  
 Sum: 65,057 (Ranked 24)  

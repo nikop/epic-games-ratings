@@ -3,11 +3,11 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 997,
-  "Ranking_Popularity": 454,
+  "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47461,
+  "EOS_Progressed": 47463,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 364,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19253,6 +19253,11 @@
       "Time": "2024-01-18T21:06:44.2882816+00:00",
       "NumProgressed": 47461,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T22:06:41.0391899+00:00",
+      "NumProgressed": 47463,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19328,7 +19333,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -19416,7 +19421,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4271
+      "UsersEstimate": 4272
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19600,7 +19605,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5696
     },
     {
       "ID": "SPRING_ALL",
@@ -19687,22 +19692,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47461,
+      "Progressed": 47463,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12298,
-      "Completed": 12298
+      "Progressed": 12300,
+      "Completed": 12300
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:06:44.2882812+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:06:41.0391896+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:03:53.1248089+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:06:44.2884215+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:03:46.1457722+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:06:41.0393121+00:00"
 }

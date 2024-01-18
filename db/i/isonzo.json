@@ -5,9 +5,9 @@
   "Ranking_Rating": 474,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 372,
-  "Ranking_EOS_Progress": 184,
+  "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9988,
+  "EOS_Progressed": 9989,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11312,6 +11312,11 @@
       "Time": "2024-01-18T20:10:33.2467468+00:00",
       "NumProgressed": 9988,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-18T22:10:41.3959953+00:00",
+      "NumProgressed": 9989,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11371,7 +11376,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11563,7 +11568,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11659,7 +11664,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1299
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11682,7 +11687,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9988,
+      "Progressed": 9989,
       "Completed": 10
     }
   ],
@@ -11690,8 +11695,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:05.1750324+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:10:41.3959948+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:03:19.765957+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:05.1751348+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:03:11.9948419+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:10:41.3960719+00:00"
 }

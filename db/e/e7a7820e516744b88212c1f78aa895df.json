@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1709,9 +1709,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "achSponsorMain1",
@@ -1757,9 +1757,9 @@
       "ID": "achWinDiv1",
       "SetID": "7ji07dj",
       "Name": "Road to Glory",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achWinDiv2",
@@ -1836,8 +1836,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-18T21:11:30.716565+00:00",
+  "LastChanged_Achievements": "2024-01-18T22:11:08.3515835+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8036701+00:00",
-  "LastUpdate_Ratings": "2024-01-18T20:57:31.5183414+00:00",
-  "LastUpdate_Achievements": "2024-01-18T21:11:30.7165936+00:00"
+  "LastUpdate_Ratings": "2024-01-18T21:57:37.3049958+00:00",
+  "LastUpdate_Achievements": "2024-01-18T22:11:08.3516089+00:00"
 }

@@ -1,18 +1,18 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 568)  
+Rating: 4.53 (Ranked 567)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,772 |
-| Greasy Palms | 43.00% | ~7,110 |
+| Legal Counsel | 47.00% | ~7,773 |
+| Greasy Palms | 43.00% | ~7,111 |
 | South American Connection | 27.00% | ~4,465 |
 | Life of the Party | 21.00% | ~3,473 |
 | Big Heat from Little Havana | 16.00% | ~2,646 |
 | Chauffeur | 16.00% | ~2,646 |
 | Tommy Two-Wheels | 16.00% | ~2,646 |
-| Salutations My Little Friend | 12.00% | ~1,984 |
+| Salutations My Little Friend | 12.00% | ~1,985 |
 | Iron-y | 10.00% | ~1,654 |
 | Gun for Hire | 9.00% | ~1,488 |
 | Mischief Managed | 9.00% | ~1,488 |
@@ -21,7 +21,7 @@ Rating: 4.53 (Ranked 568)
 | Bloodstained Hands | 6.00% | ~992 |
 | Not my First Time | 5.00% | ~827 |
 | Grand Theft Auto | 5.00% | ~827 |
-| Pie Guy | 4.00% | ~661 |
+| Pie Guy | 4.00% | ~662 |
 | Running Rampant | 3.00% | ~496 |
 | Point A to Point B | 3.00% | ~496 |
 | High Quality H2O | 3.00% | ~496 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 568)
 | Done it All | 1.00% | ~165 |
 | Kingpin | 0.60% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,536 (Ranked 171)  
+Progressed: 16,538 (Ranked 171)  
 Completed: 104 (0.63%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 104 (0.63%) (Ranked 210)
 | 2024-01-15 | 16,446 | 100 |
 | 2024-01-16 | 16,476 | 100 |
 | 2024-01-17 | 16,514 | 103 |
-| 2024-01-18 | 16,536 | 104 |
+| 2024-01-18 | 16,538 | 104 |
 ## Awards
 | Award | Count |
 | ----- | ----- |
