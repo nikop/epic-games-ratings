@@ -28,7 +28,7 @@
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.50% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.08% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.07% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -117,15 +117,15 @@
 | 114 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
 | 116 | [Lamentum](games/l/lamentum.md) | 2.87% |
 | 116 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
+| 118 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.86% |
 | 118 | [Without Escape](games/w/without_escape.md) | 2.86% |
-| 119 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
-| 120 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
-| 121 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.64% |
+| 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
+| 121 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 122 | [The Complex](games/t/the_complex.md) | 2.59% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
-| 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.50% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
@@ -165,9 +165,9 @@
 | 163 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 163 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.16% |
-| 165 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 168 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.15% |
+| 167 | [Late Shift](games/l/late_shift.md) | 1.15% |
+| 167 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.15% |
 | 169 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
 | 170 | [Adios](games/a/adios.md) | 1.13% |
 | 170 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.13% |
@@ -235,9 +235,9 @@
 | 233 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
 | 234 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 234 | [Garden In](games/g/garden_in.md) | 0.46% |
-| 234 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.46% |
-| 237 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.45% |
-| 237 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.45% |
+| 236 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.45% |
+| 236 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 0.45% |
+| 236 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.45% |
 | 239 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.44% |
 | 239 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 239 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
@@ -283,7 +283,7 @@
 | 280 | [Eternights](games/e/eternights.md) | 0.22% |
 | 280 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.22% |
 | 283 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.21% |
-| 283 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 283 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
 | 283 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.21% |
 | 286 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.20% |
 | 286 | [Despot's Game](games/d/despot's_game.md) | 0.20% |

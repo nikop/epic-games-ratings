@@ -170,7 +170,7 @@
 | [Ugly](../games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 52 | 1,000 |
 | [Unrailed!](../games/u/unrailed!.md) | 52 | 1,000 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 51 | 1,150 |
-| [Ghostbusters: Spirits Unleashed Ecto Edition](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
+| [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
 | [Return of Red Riding Hood Enhanced Edition](../games/f/f9b5fde4c25442e5b6dd30e19ac26580.md) | 51 | 1,000 |
