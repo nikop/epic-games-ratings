@@ -28,7 +28,7 @@
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.50% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.10% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.09% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -97,9 +97,9 @@
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
-| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
 | 98 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.61% |
-| 100 | [Doodle God](games/d/doodle_god.md) | 3.60% |
+| 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
+| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
 | 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
@@ -152,8 +152,8 @@
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 151 | [Frogun](games/f/frogun.md) | 1.67% |
 | 152 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.52% |
-| 153 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.46% |
 | 153 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
+| 154 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 155 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.44% |
 | 156 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.41% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
@@ -187,8 +187,8 @@
 | 185 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 186 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
 | 187 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.92% |
+| 188 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.91% |
 | 188 | [Hades](games/h/hades.md) | 0.91% |
-| 189 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.90% |
 | 190 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 0.89% |
 | 190 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.89% |
 | 192 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
@@ -202,11 +202,11 @@
 | 200 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.75% |
 | 201 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.74% |
 | 201 | [Infindustry](games/i/infindustry.md) | 0.74% |
+| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.73% |
 | 203 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
-| 204 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.72% |
 | 205 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 206 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.68% |
-| 207 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.66% |
+| 207 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.65% |
 | 208 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.64% |
 | 208 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.64% |
 | 210 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.63% |
@@ -590,6 +590,7 @@
 | 405 | [Hush Hush](games/5/56faf2396f304e6886e66c492ee22a0e.md) | 0.00% |
 | 405 | [I'm in Love With Your Dead Grandmother](games/3/3eab9be22dbd475ab1ef7e3824b81121.md) | 0.00% |
 | 405 | [Ikonei Island: An Earthlock Adventure](games/9/9d18d8b14f2249278132414a09234394.md) | 0.00% |
+| 405 | [Image](games/a/ad111036e70f4cf59259c6976a9b7173.md) | 0.00% |
 | 405 | [Imagine Earth](games/i/imagine_earth.md) | 0.00% |
 | 405 | [Indoor Kickball](games/i/indoor_kickball.md) | 0.00% |
 | 405 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 0.00% |
@@ -807,6 +808,7 @@
 | 405 | [Tri6 Infinite](games/9/9588d511dc28483dbadb1b8c1ec196e9.md) | 0.00% |
 | 405 | [Trinity Fusion](games/t/trinity_fusion.md) | 0.00% |
 | 405 | [Troublemaker](games/t/troublemaker.md) | 0.00% |
+| 405 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 0.00% |
 | 405 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 0.00% |
 | 405 | [Undead Horde](games/u/undead_horde.md) | 0.00% |
 | 405 | [Unrailed!](games/u/unrailed!.md) | 0.00% |
@@ -838,4 +840,4 @@
 | 405 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 405 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 405 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,855 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,858 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
