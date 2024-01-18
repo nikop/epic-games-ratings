@@ -1,7 +1,7 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.55 (Ranked 531)  
+Rating: 4.55 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 531)
 | Cloud Services | 0.30% | ~53 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,743 (Ranked 166)  
-Completed: 23 (0.13%) (Ranked 305)  
+Completed: 23 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

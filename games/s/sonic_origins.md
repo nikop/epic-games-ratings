@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 455)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 154  (23.09.2022)
 | Cleared Sonic the Hedgehog 3 & Knuckles | 33.00% | ~231 |
 | Lucky Hedgehog | 29.00% | ~203 |
 | All Clear! | 27.00% | ~189 |
-| To the Mirror World | 25.00% | ~175 |
+| To the Mirror World | 26.00% | ~182 |
 | Movie Maniac | 18.00% | ~126 |
 | Sound Savant | 17.00% | ~119 |
 | Sonic the Hedgehog Mission Master | 15.00% | ~105 |

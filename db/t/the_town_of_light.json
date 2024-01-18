@@ -2,10 +2,10 @@
   "ID": "1298707fe40241e284fdf1ae9fbdc6b5",
   "Name": "The Town of Light",
   "ProductSlug": "the-town-of-light",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-02T16:00:00+00:00",
     "PcReleaseDate": "2016-02-26T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.5877283+00:00",
   "LastChanged": "2023-03-31T05:58:23.5877284+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:32.3677454+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:06.6021763+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:09:24.8246052+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:47.249937+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:17.8250975+00:00"
 }

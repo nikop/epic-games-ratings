@@ -2,10 +2,10 @@
   "ID": "8a33892627f0470faf7a76965e29a197",
   "Name": "My Sweet Floating in the Void",
   "ProductSlug": "my-sweet-floating-in-the-void-418a4a",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-03-14T23:00:00+00:00",
     "PcReleaseDate": "2024-03-14T23:00:00+00:00",
@@ -82,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T12:04:03.6330399+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:04:19.9924739+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:04:03.1204916+00:00",
   "LastUpdate_AppInfo": "2024-01-13T13:57:09.1933284+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:39.1143033+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:19.9924806+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:29.8305156+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:03.1204975+00:00"
 }

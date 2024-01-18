@@ -1,20 +1,20 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 1,024)  
+Rating: 4.10 (Ranked 1,025)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,291 |
-| World Map | 78.00% | ~3,599 |
-| Temple of Eternals | 56.00% | ~2,584 |
-| Prestigious | 52.00% | ~2,399 |
-| Fellowship Power | 42.00% | ~1,938 |
-| Full Party | 30.00% | ~1,384 |
-| Guild Power | 22.00% | ~1,015 |
+| Victor | 93.00% | ~4,293 |
+| World Map | 78.00% | ~3,600 |
+| Temple of Eternals | 56.00% | ~2,585 |
+| Prestigious | 52.00% | ~2,400 |
+| Fellowship Power | 42.00% | ~1,939 |
+| Full Party | 30.00% | ~1,385 |
+| Guild Power | 22.00% | ~1,016 |
 | Prestigious x10 | 20.00% | ~923 |
 | The game is on | 18.00% | ~831 |
-| Exotic Merchant | 16.00% | ~738 |
+| Exotic Merchant | 16.00% | ~739 |
 | Dragon Clicker | 15.00% | ~692 |
 | Miner Clicker | 15.00% | ~692 |
 | Inspection | 14.00% | ~646 |
@@ -26,8 +26,8 @@ Rating: 4.10 (Ranked 1,024)
 | Natural Talent | 11.00% | ~508 |
 | Superior | 11.00% | ~508 |
 | The Unstoppable | 11.00% | ~508 |
-| Milestone collector | 10.00% | ~461 |
-| Scientist | 10.00% | ~461 |
+| Milestone collector | 10.00% | ~462 |
+| Scientist | 10.00% | ~462 |
 | Doing My Part | 9.00% | ~415 |
 | The power of Awakening | 9.00% | ~415 |
 | Challenger | 8.00% | ~369 |
@@ -81,8 +81,8 @@ Rating: 4.10 (Ranked 1,024)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,614 (Ranked 209)  
-Completed: 2 (0.04%) (Ranked 355)  
+Progressed: 4,616 (Ranked 209)  
+Completed: 2 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,7 +349,7 @@ Completed: 2 (0.04%) (Ranked 355)
 | 2024-01-15 | 4,513 | 2 |
 | 2024-01-16 | 4,558 | 2 |
 | 2024-01-17 | 4,598 | 2 |
-| 2024-01-18 | 4,614 | 2 |
+| 2024-01-18 | 4,616 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 443)  

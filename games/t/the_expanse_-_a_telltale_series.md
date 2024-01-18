@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 549)  
+Rating: 4.54 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.54 (Ranked 549)
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,136 (Ranked 159)  
-Completed: 66 (0.34%) (Ranked 253)  
+Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

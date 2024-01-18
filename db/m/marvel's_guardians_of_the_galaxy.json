@@ -2,13 +2,13 @@
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 151,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -2240,10 +2240,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 5164,
       "NumberOfAwardsMax": 4066
+    },
+    {
+      "Time": "2024-01-18T14:57:15.7911861+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 5184,
+      "NumberOfAwardsMax": 4066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5164,
+  "NumberOfAwards": 5184,
   "NumberOfAwardsMax": 4066,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2275,7 +2281,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 154
+      "Count": 166
     },
     {
       "Text": "This game is Relaxing",
@@ -2305,7 +2311,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 68
+      "Count": 76
     }
   ],
   "EOS_Progressed": 0,
@@ -2319,8 +2325,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-18T13:57:21.3268825+00:00",
+  "LastChanged": "2024-01-18T14:57:15.7911859+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:28.5708707+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:21.3268831+00:00",
+  "LastUpdate_Ratings": "2024-01-18T14:57:15.7911866+00:00",
   "LastUpdate_Achievements": "2024-01-18T14:06:41.1650596+00:00"
 }

@@ -1,34 +1,34 @@
 # Kena: Bridge of Spirits
 [Store](https://store.epicgames.com/en-US/p/kena-bridge-of-spirits)  
 [View Rawdata](../../db/k/kena__bridge_of_spirits.json)  
-Rating: 4.70 (Ranked 220)  
+Rating: 4.70 (Ranked 221)  
 Number of Ratings: 3,313  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~408,948 |
-| Haikyo | 80.00% | ~344,378 |
-| Good as New | 72.00% | ~309,940 |
-| Into the Woods | 70.00% | ~301,330 |
-| Hunter in the Forest | 60.00% | ~258,283 |
-| Rot Commander | 60.00% | ~258,283 |
-| Taro's Fear | 56.00% | ~241,064 |
-| Between the Eyes | 47.00% | ~202,322 |
-| Taro's Love | 46.00% | ~198,017 |
-| Taro's Regret | 44.00% | ~189,408 |
-| Spirit Guide | 42.00% | ~180,798 |
-| Harness Your Power | 39.00% | ~167,884 |
+| Found a Friend | 95.00% | ~408,950 |
+| Haikyo | 80.00% | ~344,379 |
+| Good as New | 72.00% | ~309,941 |
+| Into the Woods | 70.00% | ~301,332 |
+| Hunter in the Forest | 60.00% | ~258,284 |
+| Rot Commander | 60.00% | ~258,284 |
+| Taro's Fear | 56.00% | ~241,065 |
+| Between the Eyes | 47.00% | ~202,323 |
+| Taro's Love | 46.00% | ~198,018 |
+| Taro's Regret | 44.00% | ~189,409 |
+| Spirit Guide | 42.00% | ~180,799 |
+| Harness Your Power | 39.00% | ~167,885 |
 | The Open Range | 37.00% | ~159,275 |
-| Adira's Love | 34.00% | ~146,360 |
+| Adira's Love | 34.00% | ~146,361 |
 | Adira's Fear | 33.00% | ~142,056 |
-| Weigh Them Down | 32.00% | ~137,751 |
-| Adira's Regret | 31.00% | ~133,446 |
+| Weigh Them Down | 32.00% | ~137,752 |
+| Adira's Regret | 31.00% | ~133,447 |
 | A Heavy Hammer | 30.00% | ~129,142 |
 | Quick Draw | 30.00% | ~129,142 |
 | Crossing Over | 29.00% | ~124,837 |
-| Toshi's Fear | 28.00% | ~120,532 |
-| Toshi's Regret | 27.00% | ~116,227 |
-| Toshi's Love | 27.00% | ~116,227 |
+| Toshi's Fear | 28.00% | ~120,533 |
+| Toshi's Regret | 27.00% | ~116,228 |
+| Toshi's Love | 27.00% | ~116,228 |
 | A Leader Walks Alone | 26.00% | ~111,923 |
 | Bow Master | 26.00% | ~111,923 |
 | The Lonely Path | 26.00% | ~111,923 |
@@ -48,8 +48,8 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,874 |
 | Master Spirit Guide | 0.30% | ~1,291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,472 (Ranked 47)  
-Completed: 556 (0.13%) (Ranked 305)  
+Progressed: 430,474 (Ranked 47)  
+Completed: 557 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -321,7 +321,7 @@ Completed: 556 (0.13%) (Ranked 305)
 | 2024-01-15 | 430,431 | 556 |
 | 2024-01-16 | 430,448 | 556 |
 | 2024-01-17 | 430,463 | 556 |
-| 2024-01-18 | 430,472 | 556 |
+| 2024-01-18 | 430,474 | 557 |
 ## Awards
 Max (Great Boss Battles): 1,357  (Ranked 145)  
 Sum: 1,777 (Ranked 227)  

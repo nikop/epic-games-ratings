@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 617,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 46,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15009,10 +15009,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 30898,
       "NumberOfAwardsMax": 9066
+    },
+    {
+      "Time": "2024-01-18T14:59:11.1662664+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 30918,
+      "NumberOfAwardsMax": 9066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30898,
+  "NumberOfAwards": 30918,
   "NumberOfAwardsMax": 9066,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15026,7 +15032,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6663
+      "Count": 6682
     },
     {
       "Text": "This game is Great for Beginners",
@@ -15044,7 +15050,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1659
+      "Count": 1660
     },
     {
       "Text": "This game is Relaxing",
@@ -15100,8 +15106,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-18T13:59:19.4003592+00:00",
+  "LastChanged": "2024-01-18T14:59:11.1662662+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.3175371+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:19.4003598+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:23.1475942+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:11.1662668+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:07.4957504+00:00"
 }

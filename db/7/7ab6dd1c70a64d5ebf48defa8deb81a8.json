@@ -2,12 +2,12 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 282,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2376,
+  "EOS_Progressed": 2377,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4760,6 +4760,11 @@
       "Time": "2024-01-18T14:10:23.6309965+00:00",
       "NumProgressed": 2376,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T15:10:16.9636456+00:00",
+      "NumProgressed": 2377,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4771,7 +4776,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1544
+      "UsersEstimate": 1545
     },
     {
       "ID": "ACH_02",
@@ -4865,9 +4870,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 618
+      "UsersEstimate": 594
     },
     {
       "ID": "ACH_14",
@@ -4883,7 +4888,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_16",
@@ -5003,7 +5008,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_31",
@@ -5011,7 +5016,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_33",
@@ -5027,7 +5032,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "ACH_35",
@@ -5058,7 +5063,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2376,
+      "Progressed": 2377,
       "Completed": 5
     }
   ],
@@ -5066,8 +5071,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:23.6309959+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:16.9636451+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:37.2444283+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:23.6310441+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:31.2174094+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:16.9636881+00:00"
 }

@@ -1,7 +1,7 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 567)  
+Rating: 4.53 (Ranked 568)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -41,7 +41,7 @@ Rating: 4.53 (Ranked 567)
 | Kingpin | 0.60% | ~99 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,528 (Ranked 171)  
-Completed: 104 (0.63%) (Ranked 209)  
+Completed: 104 (0.63%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

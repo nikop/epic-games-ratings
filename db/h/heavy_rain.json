@@ -2,13 +2,13 @@
   "ID": "aster",
   "Name": "Heavy Rain",
   "ProductSlug": "heavy-rain",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 502,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-06-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -543,6 +543,6 @@
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
   "LastChanged": "2024-01-13T18:01:57.8358486+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.7260759+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:06.5176783+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:32.2328024+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:59.115645+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:15.532021+00:00"
 }

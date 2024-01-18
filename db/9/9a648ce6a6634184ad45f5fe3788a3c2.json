@@ -2,10 +2,10 @@
   "ID": "9a648ce6a6634184ad45f5fe3788a3c2",
   "Name": "England In London",
   "ProductSlug": "england-in-london-42ccf6",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-17T21:57:09.7635034+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:17.4092515+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:39.1301792+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:10.9060428+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:22.358706+00:00"
 }

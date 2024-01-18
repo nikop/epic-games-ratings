@@ -1,44 +1,44 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.63 (Ranked 355)  
+Rating: 4.63 (Ranked 356)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~339,907 |
-| good drivers have dead flies on the side windows | 32.00% | ~135,963 |
-| keep it tidy | 26.00% | ~110,470 |
-| brail | 26.00% | ~110,470 |
-| car wash | 23.00% | ~97,723 |
-| the artist | 23.00% | ~97,723 |
-| podium | 20.00% | ~84,977 |
-| medium attack | 17.00% | ~72,230 |
-| bicycle race | 6.00% | ~25,493 |
-| grocery-getter | 5.00% | ~21,244 |
-| autopilot | 4.00% | ~16,995 |
-| rwd only | 3.00% | ~12,747 |
-| where is the stage? | 3.00% | ~12,747 |
-| night ride | 3.00% | ~12,747 |
-| snorkel | 3.00% | ~12,747 |
-| food tour: pasta | 3.00% | ~12,747 |
-| to finish first, first you must finish | 2.00% | ~8,498 |
-| perkele | 2.00% | ~8,498 |
-| turbo | 2.00% | ~8,498 |
-| if in doubt, flat out! | 2.00% | ~8,498 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,498 |
-| mittens | 2.00% | ~8,498 |
-| food tour: pretzel | 2.00% | ~8,498 |
-| espresso | 1.00% | ~4,249 |
-| monster | 1.00% | ~4,249 |
-| in like a lamb, out like a lion | 1.00% | ~4,249 |
-| eurobeat | 0.70% | ~2,974 |
-| viking | 0.60% | ~2,549 |
-| parallel universe | 0.60% | ~2,549 |
-| oktoberfest | 0.50% | ~2,124 |
-| group b | 0.50% | ~2,124 |
-| maximum attack | 0.50% | ~2,124 |
-| samir | 0.50% | ~2,124 |
+| light attack | 80.00% | ~339,980 |
+| good drivers have dead flies on the side windows | 32.00% | ~135,992 |
+| keep it tidy | 26.00% | ~110,494 |
+| brail | 26.00% | ~110,494 |
+| car wash | 23.00% | ~97,744 |
+| the artist | 23.00% | ~97,744 |
+| podium | 20.00% | ~84,995 |
+| medium attack | 17.00% | ~72,246 |
+| bicycle race | 6.00% | ~25,498 |
+| grocery-getter | 5.00% | ~21,249 |
+| autopilot | 4.00% | ~16,999 |
+| rwd only | 3.00% | ~12,749 |
+| where is the stage? | 3.00% | ~12,749 |
+| night ride | 3.00% | ~12,749 |
+| snorkel | 3.00% | ~12,749 |
+| food tour: pasta | 3.00% | ~12,749 |
+| to finish first, first you must finish | 2.00% | ~8,500 |
+| perkele | 2.00% | ~8,500 |
+| turbo | 2.00% | ~8,500 |
+| if in doubt, flat out! | 2.00% | ~8,500 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,500 |
+| mittens | 2.00% | ~8,500 |
+| food tour: pretzel | 2.00% | ~8,500 |
+| espresso | 1.00% | ~4,250 |
+| monster | 1.00% | ~4,250 |
+| in like a lamb, out like a lion | 1.00% | ~4,250 |
+| eurobeat | 0.70% | ~2,975 |
+| viking | 0.60% | ~2,550 |
+| parallel universe | 0.60% | ~2,550 |
+| oktoberfest | 0.50% | ~2,125 |
+| group b | 0.50% | ~2,125 |
+| maximum attack | 0.50% | ~2,125 |
+| samir | 0.50% | ~2,125 |
 | master of rally | 0.40% | ~1,700 |
 | antilag | 0.40% | ~1,700 |
 | real roads, real fast | 0.40% | ~1,700 |
@@ -50,8 +50,8 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~425 |
 | you're here for a good time, not a long time | 0.10% | ~425 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,884 (Ranked 48)  
-Completed: 24 (0.01%) (Ranked 378)  
+Progressed: 424,975 (Ranked 48)  
+Completed: 24 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,19 +253,19 @@ Completed: 24 (0.01%) (Ranked 378)
 | 2024-01-15 | 420,823 | 22 |
 | 2024-01-16 | 422,503 | 23 |
 | 2024-01-17 | 424,076 | 24 |
-| 2024-01-18 | 424,884 | 24 |
+| 2024-01-18 | 424,975 | 24 |
 ## Awards
 Max (Quickly Understood Controls): 45  (Ranked 476)  
-Sum: 262 (Ranked 398)  
-Diff (max vs sum): 78  
+Sum: 265 (Ranked 397)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 45 |
 | This game is Highly Recommended | 37 |
 | This game is Great for Quick Sessions | 37 |
+| This game has Amazing Storytelling | 33 |
 | This game is Relaxing | 32 |
 | This game is Extremely Fun | 32 |
-| This game has Amazing Storytelling | 30 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 26 |
 | This game has Competitive Players | 23 |
@@ -335,3 +335,4 @@ Diff (max vs sum): 78
 | 2024-01-15 | 4.63 | - | 44 | 255 |
 | 2024-01-16 | 4.63 | - | 45 | 258 |
 | 2024-01-17 | 4.63 | - | 45 | 262 |
+| 2024-01-18 | 4.63 | - | 45 | 265 |

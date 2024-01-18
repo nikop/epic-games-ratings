@@ -1,7 +1,7 @@
 # Madden NFL 23
 [Store](https://store.epicgames.com/en-US/p/madden-nfl-23)  
 [View Rawdata](../../db/m/madden_nfl_23.json)  
-Rating: 4.29 (Ranked 885)  
+Rating: 4.29 (Ranked 886)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,7 +28,7 @@ Rating: 4.29 (Ranked 885)
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,474 (Ranked 210)  
-Completed: 0 (0.00%) (Ranked 404)  
+Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -24,6 +24,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~509 |
 | Pioneer | 3.00% | ~509 |
 | Strong | 3.00% | ~509 |
+| Developing Cities | 3.00% | ~509 |
 | Hanging Gardens | 3.00% | ~509 |
 | Oracle | 3.00% | ~509 |
 | Pyramids | 3.00% | ~509 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~339 |
 | Warrior | 2.00% | ~339 |
 | Wise | 2.00% | ~339 |
-| Developing Cities | 2.00% | ~339 |
 | Strong Cities | 2.00% | ~339 |
 | Able Difficulty | 2.00% | ~339 |
 | Furious Family | 2.00% | ~339 |
@@ -127,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
 | Gnosticism | 0.60% | ~102 |
+| Revelation | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
 | Phalangite | 0.60% | ~102 |
 | Jerwan Aqueduct | 0.60% | ~102 |
@@ -135,7 +136,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
-| Revelation | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,961 (Ranked 169)  
-Completed: 5 (0.03%) (Ranked 360)  
+Progressed: 16,962 (Ranked 169)  
+Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,961 | 5 |
+| 2024-01-18 | 16,962 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

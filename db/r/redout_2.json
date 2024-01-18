@@ -2,13 +2,13 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 568,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 287,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1213,
+  "EOS_Progressed": 1214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1346,6 +1346,11 @@
       "Time": "2024-01-16T01:52:55.1174162+00:00",
       "NumProgressed": 1213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:05:37.2854256+00:00",
+      "NumProgressed": 1214,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1453,7 +1458,7 @@
       "Name": "Martian explorer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1509,7 +1514,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1653,7 +1658,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ONELIVERY",
@@ -1693,7 +1698,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -1709,7 +1714,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "TENPLATINUM",
@@ -1772,7 +1777,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1213,
+      "Progressed": 1214,
       "Completed": 0
     }
   ],
@@ -1780,8 +1785,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:05:52.2728088+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:05:37.285425+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.5377466+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:38.0806053+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:52.272867+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:03:19.0130248+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:37.2854682+00:00"
 }

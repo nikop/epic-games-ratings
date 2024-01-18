@@ -2,10 +2,10 @@
   "ID": "297c38d4f1954616870953b2d3ce1963",
   "Name": "Mara\u0027s Quest",
   "ProductSlug": "maras-quest-319c3b",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.7387258+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:20.5932377+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:06:34.1047631+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:14.7327907+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:06:18.5992726+00:00"
 }

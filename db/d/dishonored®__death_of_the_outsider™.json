@@ -2,13 +2,13 @@
   "ID": "87c84bc5f43d4fe69ad8f3ccde0594b0",
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "ProductSlug": "dishonored-death-of-the-outsider",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 351,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-15T16:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -1557,12 +1557,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 433,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-01-18T15:02:54.326381+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 434,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 433,
+  "NumberOfAwards": 434,
   "NumberOfAwardsMax": 55,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1580,7 +1586,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1643,8 +1649,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2024-01-18T12:03:05.4323469+00:00",
+  "LastChanged": "2024-01-18T15:02:54.3263808+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:26.9317736+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:13.6705383+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:06:04.4970333+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:54.3263812+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:49.0309947+00:00"
 }

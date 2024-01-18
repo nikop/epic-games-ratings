@@ -3,12 +3,12 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 57,
-  "Ranking_Popularity": 275,
-  "Ranking_PopularitySum": 206,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_Popularity": 271,
+  "Ranking_PopularitySum": 205,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
     "PcReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -2790,11 +2790,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 2438,
       "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2024-01-18T14:59:02.8444138+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2439,
+      "NumberOfAwardsMax": 281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2438,
-  "NumberOfAwardsMax": 280,
+  "NumberOfAwards": 2439,
+  "NumberOfAwardsMax": 281,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -2807,7 +2813,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 280
+      "Count": 281
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2875,8 +2881,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-01-18T06:59:26.9295019+00:00",
+  "LastChanged": "2024-01-18T14:59:02.8444137+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.0798829+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:10.6149678+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:06:35.8308779+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:02.8444141+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:06:20.35873+00:00"
 }

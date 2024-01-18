@@ -3,9 +3,9 @@
   "Name": "Bratz\u2122: Flaunt Your Fashion",
   "ProductSlug": "bratz-flaunt-your-fashion-95d529",
   "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 417,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 407,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,6 +676,11 @@
       "Time": "2024-01-15T23:08:49.7582591+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:04:41.4594929+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -687,7 +692,7 @@
       "Name": "Welcome to Stilesville",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "10",
@@ -703,7 +708,7 @@
       "Name": "Creating New Trends",
       "Percentage": 28,
       "XP": 70,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "12",
@@ -711,7 +716,7 @@
       "Name": "Stilesville Hidden Style",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "13",
@@ -775,7 +780,7 @@
       "Name": "Welcome to Barcelona",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "3",
@@ -813,9 +818,9 @@
       "ID": "7",
       "SetID": "41h3j82",
       "Name": "Roller Race",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "8",
@@ -838,7 +843,7 @@
     {
       "ID": "41h3j82",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:04:57.9803867+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:04:41.4594924+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:31.6638187+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:07:42.7667694+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:57.9804027+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:13.4056971+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:41.4595087+00:00"
 }

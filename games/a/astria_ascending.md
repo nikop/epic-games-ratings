@@ -1,7 +1,7 @@
 # Astria Ascending
 [Store](https://store.epicgames.com/en-US/p/astria-ascending)  
 [View Rawdata](../../db/a/astria_ascending.json)  
-Rating: 4.08 (Ranked 1,028)  
+Rating: 4.08 (Ranked 1,029)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

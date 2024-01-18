@@ -2,10 +2,10 @@
   "ID": "3a0c580a3a64493ba8495522f57d745c",
   "Name": "The Wizard and The Slug",
   "ProductSlug": "the-wizard-and-the-slug-482a09",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-16T16:00:00+00:00",
     "PcReleaseDate": "2020-11-02T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:09.1656691+00:00",
   "LastChanged": "2023-03-31T05:57:09.1656692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:41.0497376+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:11.70499+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:40.3073373+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:52.3476538+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:24.9893962+00:00"
 }

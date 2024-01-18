@@ -2,13 +2,13 @@
   "ID": "6b3b9698082c43cd9dcd7f68e3365e79",
   "Name": "NBA 2K21",
   "ProductSlug": "nba-2k21",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 21,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -8695,10 +8695,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 89577,
       "NumberOfAwardsMax": 11821
+    },
+    {
+      "Time": "2024-01-18T14:59:41.6382604+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 89578,
+      "NumberOfAwardsMax": 11821
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89577,
+  "NumberOfAwards": 89578,
   "NumberOfAwardsMax": 11821,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8718,7 +8724,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 10919
+      "Count": 10920
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8768,8 +8774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:01.1099601+00:00",
-  "LastChanged": "2024-01-18T05:59:31.7771682+00:00",
+  "LastChanged": "2024-01-18T14:59:41.6382602+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.840814+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:49.7788074+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:15.9930859+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:41.6382619+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:03:59.0015735+00:00"
 }

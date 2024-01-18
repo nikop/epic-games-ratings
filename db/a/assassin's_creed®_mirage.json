@@ -2,13 +2,13 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 216,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -3487,10 +3487,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2147,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2024-01-18T14:58:44.3540703+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2152,
+      "NumberOfAwardsMax": 262
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2147,
+  "NumberOfAwards": 2152,
   "NumberOfAwardsMax": 262,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3534,7 +3540,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 205
+      "Count": 210
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3573,8 +3579,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-01-18T13:58:51.9042179+00:00",
+  "LastChanged": "2024-01-18T14:58:44.3540701+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:34.9631502+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:51.9042183+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:06:29.4075018+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:44.3540706+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:06:14.021128+00:00"
 }

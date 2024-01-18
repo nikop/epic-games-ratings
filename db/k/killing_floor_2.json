@@ -2,13 +2,13 @@
   "ID": "affc33b82405457595a032f00284abd2",
   "Name": "Killing Floor 2",
   "ProductSlug": "killing-floor-2",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 42,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -13405,18 +13405,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 32975,
       "NumberOfAwardsMax": 14276
+    },
+    {
+      "Time": "2024-01-18T15:00:15.0277039+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 32990,
+      "NumberOfAwardsMax": 14285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32975,
-  "NumberOfAwardsMax": 14276,
+  "NumberOfAwards": 32990,
+  "NumberOfAwardsMax": 14285,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14276
+      "Count": 14285
     },
     {
       "Text": "This game is Relaxing",
@@ -13434,7 +13440,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2030
+      "Count": 2033
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13458,7 +13464,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2176
+      "Count": 2179
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13484,8 +13490,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:46.1518671+00:00",
-  "LastChanged": "2024-01-18T07:01:07.5066123+00:00",
+  "LastChanged": "2024-01-18T15:00:15.0277038+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.5631982+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:22.7917571+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:34.3544551+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:00:15.0277049+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:17.5669738+00:00"
 }

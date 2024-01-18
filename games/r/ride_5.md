@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 455)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,8 +55,8 @@ Rating: 4.59 (Ranked 454)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,639 (Ranked 226)  
-Completed: 0 (0.00%) (Ranked 404)  
+Progressed: 3,640 (Ranked 226)  
+Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 3,609 | 0 |
 | 2024-01-16 | 3,623 | 0 |
 | 2024-01-17 | 3,636 | 0 |
-| 2024-01-18 | 3,639 | 0 |
+| 2024-01-18 | 3,640 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

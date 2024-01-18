@@ -2,13 +2,13 @@
   "ID": "amaranth",
   "Name": "Ancestors: The Humankind Odyssey",
   "ProductSlug": "ancestors",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 403,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-08-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -781,6 +781,6 @@
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
   "LastChanged": "2024-01-14T22:00:25.8340408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:28.4649771+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:23.7296412+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:32.476068+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:16.7501242+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:17.2612866+00:00"
 }

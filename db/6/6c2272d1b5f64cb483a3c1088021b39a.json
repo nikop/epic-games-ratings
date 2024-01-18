@@ -3,9 +3,9 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4839,6 +4839,11 @@
       "Time": "2024-01-17T17:11:18.9603715+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:10:20.932113+00:00",
+      "NumProgressed": 1343,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4920,9 +4925,9 @@
       "ID": "catacombs_raid_1",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 40
     },
     {
       "ID": "catacombs_raid_2",
@@ -5018,7 +5023,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "elemental_stones_2",
@@ -5256,9 +5261,9 @@
       "ID": "sophisticated_alchemist_1",
       "SetID": "53c1p3k",
       "Name": "Sophisticated Alchemist 1",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 134
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -5377,14 +5382,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:27.7319152+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:20.9321128+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:53.2200847+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:27.7320195+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:45.5734938+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:20.9321694+00:00"
 }

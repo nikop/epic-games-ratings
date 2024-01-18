@@ -3,9 +3,9 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2863,9 +2863,9 @@
       "ID": "resistance_slime",
       "SetID": "69co12a",
       "Name": "Anyone can resist",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 160
     },
     {
       "ID": "resistance_true",
@@ -2974,8 +2974,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:22.6461846+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:16.017019+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:03.3260875+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:09.5980367+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:22.6462573+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:02.6574939+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:16.017097+00:00"
 }

@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.56 (Ranked 512)  
+Rating: 4.56 (Ranked 513)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,7 +36,7 @@ Rating: 4.56 (Ranked 512)
 | No more mistakes | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,736 (Ranked 261)  
-Completed: 1 (0.06%) (Ranked 336)  
+Completed: 1 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

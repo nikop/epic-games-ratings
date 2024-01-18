@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2157,
+  "EOS_Progressed": 2158,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.71,
   "EosHistory": [
@@ -5189,6 +5189,11 @@
       "Time": "2024-01-18T09:10:15.0647692+00:00",
       "NumProgressed": 2157,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-18T15:10:06.5652691+00:00",
+      "NumProgressed": 2158,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 16,
@@ -5200,7 +5205,7 @@
       "Name": "Artist Assistant",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -5256,7 +5261,7 @@
       "Name": "Home Leaver",
       "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5264,7 +5269,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5320,14 +5325,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2157,
+      "Progressed": 2158,
       "Completed": 80
     }
   ],
@@ -5335,8 +5340,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:13.578488+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:06.5652688+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.0756455+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:00.8718473+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:13.5785402+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:55.5287339+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:06.5653144+00:00"
 }

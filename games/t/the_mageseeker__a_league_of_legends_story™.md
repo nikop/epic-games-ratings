@@ -22,7 +22,7 @@ Rating: 4.78 (Ranked 113)
 | Petricite Burst | 34.00% | ~1,182 |
 | Old friend | 33.00% | ~1,147 |
 | Devineur | 33.00% | ~1,147 |
-| Hijack | 31.00% | ~1,078 |
+| Hijack | 32.00% | ~1,113 |
 | Ancient power | 29.00% | ~1,008 |
 | Whispers in the Woods I | 28.00% | ~974 |
 | I chose my shackles | 28.00% | ~974 |
@@ -60,7 +60,7 @@ Rating: 4.78 (Ranked 113)
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,477 (Ranked 229)  
-Completed: 32 (0.92%) (Ranked 186)  
+Completed: 32 (0.92%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

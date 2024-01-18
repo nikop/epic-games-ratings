@@ -2,10 +2,10 @@
   "ID": "825b5db0f67c493f90358d063f039bee",
   "Name": "Saboteur!",
   "ProductSlug": "saboteur-f3d01d",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-28T18:00:00+00:00",
     "PcReleaseDate": "2023-04-28T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:58:00.8060742+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:24.3697945+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:44.117968+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:17.3792305+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:27.0807612+00:00"
 }

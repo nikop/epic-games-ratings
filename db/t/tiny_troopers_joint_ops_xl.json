@@ -2,10 +2,10 @@
   "ID": "ddfe732074d14809a4db745b037d6789",
   "Name": "Tiny Troopers Joint Ops XL",
   "ProductSlug": "tiny-troopers-joint-ops-195856",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-03-23T01:00:00+00:00",
     "PcReleaseDate": "2023-03-23T01:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:02.6637345+00:00",
   "LastChanged": "2023-03-31T05:57:02.6637346+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.2814955+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:07.6364077+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:06:17.0804498+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:48.3275954+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:06:01.6555902+00:00"
 }

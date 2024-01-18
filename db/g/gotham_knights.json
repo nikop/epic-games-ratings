@@ -2,11 +2,11 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 978,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 294,
+  "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
@@ -5351,9 +5351,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82963,
+  "EOS_Progressed": 82965,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30686,6 +30686,11 @@
       "Time": "2024-01-18T13:12:24.2921967+00:00",
       "NumProgressed": 82963,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T15:05:35.1261834+00:00",
+      "NumProgressed": 82965,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30785,7 +30790,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12444
+      "UsersEstimate": 12445
     },
     {
       "ID": "CHALLENGES_1",
@@ -30841,7 +30846,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5808
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -30921,7 +30926,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22400
+      "UsersEstimate": 22401
     },
     {
       "ID": "FREEZE_1_5",
@@ -31001,7 +31006,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28207
+      "UsersEstimate": 28208
     },
     {
       "ID": "HARLEY_2",
@@ -31009,7 +31014,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19911
+      "UsersEstimate": 19912
     },
     {
       "ID": "HARLEY_3",
@@ -31025,7 +31030,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12444
+      "UsersEstimate": 12445
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31073,7 +31078,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21570
+      "UsersEstimate": 21571
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31097,7 +31102,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19911
+      "UsersEstimate": 19912
     },
     {
       "ID": "MYSTERY_03",
@@ -31184,13 +31189,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82963,
+      "Progressed": 82965,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53243,
+      "Progressed": 53245,
       "Completed": 2680
     }
   ],
@@ -31198,8 +31203,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T13:02:47.8484881+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:05:50.2247455+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:05:35.126183+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:28.3053918+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:50.2249223+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:22.4353276+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:35.1263097+00:00"
 }

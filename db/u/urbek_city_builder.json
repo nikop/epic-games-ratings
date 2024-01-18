@@ -3,9 +3,9 @@
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 355,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516,
+  "EOS_Progressed": 517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2024-01-16T01:58:46.5010857+00:00",
       "NumProgressed": 516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:10:20.6929873+00:00",
+      "NumProgressed": 517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2043,7 +2048,7 @@
       "Name": "I love books!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CULTURE_3",
@@ -2227,7 +2232,7 @@
       "Name": "I love parks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -2275,7 +2280,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -2323,7 +2328,7 @@
       "Name": "Small town",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "POPULATION_2",
@@ -2522,7 +2527,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 516,
+      "Progressed": 517,
       "Completed": 0
     }
   ],
@@ -2530,8 +2535,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:27.5126003+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:20.6929871+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.3885201+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:24.2889696+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:27.5126929+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:00:16.7096605+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:20.6930522+00:00"
 }

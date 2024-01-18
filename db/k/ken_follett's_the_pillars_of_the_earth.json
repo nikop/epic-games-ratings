@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17930,
+  "EOS_Progressed": 17931,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18645,6 +18645,11 @@
       "Time": "2024-01-18T13:09:43.8934121+00:00",
       "NumProgressed": 17930,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-18T15:03:41.2837204+00:00",
+      "NumProgressed": 17931,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18680,7 +18685,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "tpote_achievement_13",
@@ -18688,7 +18693,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "tpote_achievement_14",
@@ -18736,7 +18741,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "tpote_achievement_2",
@@ -18808,7 +18813,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "tpote_achievement_28",
@@ -18832,7 +18837,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5558
+      "UsersEstimate": 5559
     },
     {
       "ID": "tpote_achievement_30",
@@ -18848,7 +18853,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3227
+      "UsersEstimate": 3228
     },
     {
       "ID": "tpote_achievement_32",
@@ -18896,7 +18901,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "tpote_achievement_38",
@@ -18968,7 +18973,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3765
+      "UsersEstimate": 3766
     },
     {
       "ID": "tpote_achievement_9",
@@ -18976,22 +18981,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17930,
+      "Progressed": 17931,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:03:58.3195511+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:03:41.2837199+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:27.0423656+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:03:58.3197331+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:03:07.4750313+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:03:41.2838596+00:00"
 }

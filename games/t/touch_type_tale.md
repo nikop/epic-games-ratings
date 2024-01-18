@@ -1,7 +1,7 @@
 # Touch Type Tale
 [Store](https://store.epicgames.com/en-US/p/touch-type-tale)  
 [View Rawdata](../../db/t/touch_type_tale.json)  
-Rating: 4.73 (Ranked 180)  
+Rating: 4.73 (Ranked 181)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,7 +40,7 @@ Rating: 4.73 (Ranked 180)
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,046 (Ranked 219)  
-Completed: 11 (0.27%) (Ranked 267)  
+Completed: 11 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

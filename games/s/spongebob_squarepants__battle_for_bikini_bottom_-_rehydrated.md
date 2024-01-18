@@ -1,19 +1,19 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.64 (Ranked 345)  
+Rating: 4.64 (Ranked 346)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 23.00% | ~247 |
-| Sponge Smasher | 23.00% | ~247 |
-| Jellyfish Jam | 21.00% | ~226 |
+| Spatula Seeker | 23.00% | ~248 |
+| Sponge Smasher | 23.00% | ~248 |
+| Jellyfish Jam | 22.00% | ~237 |
 | Jellyfishing | 17.00% | ~183 |
 | Sock Getter | 14.00% | ~151 |
+| Time For Tutorial | 14.00% | ~151 |
 | Sweet Victory | 13.00% | ~140 |
 | Star Smasher | 13.00% | ~140 |
-| Time For Tutorial | 13.00% | ~140 |
 | Super Spatula Seeker | 12.00% | ~129 |
 | Surf's Up! | 12.00% | ~129 |
 | Uptown and Downtown | 11.00% | ~118 |
@@ -24,9 +24,9 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 8.00% | ~86 |
 | Shrimp Catcher | 8.00% | ~86 |
 | Ultra Spatula Seeker | 8.00% | ~86 |
-| Robot encyclopedia | 7.00% | ~75 |
 | Are you ready now? | 7.00% | ~75 |
 | Hello, Bikini Bottom | 7.00% | ~75 |
+| Robot encyclopedia | 6.00% | ~65 |
 | The Small Does Not Rule | 5.00% | ~54 |
 | Ship Shape | 5.00% | ~54 |
 | Shanghaied | 5.00% | ~54 |
@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,076 (Ranked 294)  
-Completed: 9 (0.84%) (Ranked 194)  
+Progressed: 1,077 (Ranked 294)  
+Completed: 9 (0.84%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 9 (0.84%) (Ranked 194)
 | 2024-01-15 | 1,041 | 9 |
 | 2024-01-16 | 1,056 | 9 |
 | 2024-01-17 | 1,070 | 9 |
-| 2024-01-18 | 1,076 | 9 |
+| 2024-01-18 | 1,077 | 9 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 535)  

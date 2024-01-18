@@ -1,43 +1,43 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.72 (Ranked 194)  
+Rating: 4.72 (Ranked 195)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,471 |
-| First of Many | 12.00% | ~35,471 |
-| Not Your Average Trait | 10.00% | ~29,559 |
-| Expanding Horizons | 9.00% | ~26,603 |
-| Quest for Survival | 8.00% | ~23,647 |
-| Familiar Face | 8.00% | ~23,647 |
-| Boss'n Up | 8.00% | ~23,647 |
-| Gleaming the Cube | 7.00% | ~20,691 |
-| Not So Special Now | 7.00% | ~20,691 |
-| Not a Janitor | 7.00% | ~20,691 |
-| Duality | 7.00% | ~20,691 |
-| Trait Chaser | 7.00% | ~20,691 |
-| Equal Measures | 6.00% | ~17,735 |
-| Blue Goddess | 6.00% | ~17,735 |
-| Top Performer | 6.00% | ~17,735 |
-| Almost There | 6.00% | ~17,735 |
-| Make Some Room | 6.00% | ~17,735 |
-| Good, But Could Be Better! | 6.00% | ~17,735 |
-| Am I Seeing This? | 5.00% | ~14,780 |
-| Chaos | 5.00% | ~14,780 |
-| Power Surge | 5.00% | ~14,780 |
-| The God Gambit | 5.00% | ~14,780 |
-| Dark Designs | 5.00% | ~14,780 |
-| Shhh...It's a Secret | 5.00% | ~14,780 |
-| Was This Supposed To Happen? | 5.00% | ~14,780 |
-| Traitor | 4.00% | ~11,824 |
-| Forever is a Long Time Coming | 4.00% | ~11,824 |
-| Madman's Paradise | 4.00% | ~11,824 |
-| The Agenda | 4.00% | ~11,824 |
-| Strapped | 4.00% | ~11,824 |
-| The Web | 4.00% | ~11,824 |
-| Scrap Collector | 4.00% | ~11,824 |
-| All These Traits� | 4.00% | ~11,824 |
+| The Killing Jar | 12.00% | ~35,474 |
+| First of Many | 12.00% | ~35,474 |
+| Not Your Average Trait | 10.00% | ~29,561 |
+| Expanding Horizons | 9.00% | ~26,605 |
+| Quest for Survival | 8.00% | ~23,649 |
+| Familiar Face | 8.00% | ~23,649 |
+| Boss'n Up | 8.00% | ~23,649 |
+| Gleaming the Cube | 7.00% | ~20,693 |
+| Not So Special Now | 7.00% | ~20,693 |
+| Not a Janitor | 7.00% | ~20,693 |
+| Duality | 7.00% | ~20,693 |
+| Trait Chaser | 7.00% | ~20,693 |
+| Equal Measures | 6.00% | ~17,737 |
+| Blue Goddess | 6.00% | ~17,737 |
+| Top Performer | 6.00% | ~17,737 |
+| Almost There | 6.00% | ~17,737 |
+| Make Some Room | 6.00% | ~17,737 |
+| Good, But Could Be Better! | 6.00% | ~17,737 |
+| Am I Seeing This? | 5.00% | ~14,781 |
+| Chaos | 5.00% | ~14,781 |
+| Power Surge | 5.00% | ~14,781 |
+| The God Gambit | 5.00% | ~14,781 |
+| Dark Designs | 5.00% | ~14,781 |
+| Shhh...It's a Secret | 5.00% | ~14,781 |
+| Was This Supposed To Happen? | 5.00% | ~14,781 |
+| The Web | 5.00% | ~14,781 |
+| Traitor | 4.00% | ~11,825 |
+| Forever is a Long Time Coming | 4.00% | ~11,825 |
+| Madman's Paradise | 4.00% | ~11,825 |
+| The Agenda | 4.00% | ~11,825 |
+| Strapped | 4.00% | ~11,825 |
+| Scrap Collector | 4.00% | ~11,825 |
+| All These Traits� | 4.00% | ~11,825 |
 | Tall Tales | 3.00% | ~8,868 |
 | Bad Moon Rising | 3.00% | ~8,868 |
 | Edgelord | 3.00% | ~8,868 |
@@ -54,15 +54,15 @@ Rating: 4.72 (Ranked 194)
 | The Trigger | 2.00% | ~5,912 |
 | The Collector | 2.00% | ~5,912 |
 | Maxed Out! | 2.00% | ~5,912 |
-| Master of the Dark Arts | 2.00% | ~1,495 |
+| Master of the Dark Arts | 2.00% | ~1,496 |
 | Cutting Edge | 1.00% | ~2,956 |
 | Proving Grounds | 1.00% | ~2,956 |
 | Succession | 0.80% | ~598 |
 | You Shall Pass | 0.80% | ~598 |
 | A Foul Feast | 0.50% | ~374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,591 (Ranked 66)  
-Completed: 1,131 (0.38%) (Ranked 248)  
+Progressed: 295,613 (Ranked 66)  
+Completed: 1,131 (0.38%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,10 +247,10 @@ Completed: 1,131 (0.38%) (Ranked 248)
 | 2024-01-15 | 294,108 | 1,080 |
 | 2024-01-16 | 294,750 | 1,101 |
 | 2024-01-17 | 295,280 | 1,119 |
-| 2024-01-18 | 295,591 | 1,131 |
+| 2024-01-18 | 295,613 | 1,131 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 58)  
-Sum: 16,198 (Ranked 71)  
+Sum: 16,213 (Ranked 71)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -258,10 +258,10 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,019 |
 | This game has Diverse Characters | 982 |
 | This game has Challenging Combat | 942 |
+| This game is Relaxing | 940 |
 | This game is Extremely Fun | 935 |
 | This game has Quickly Understood Controls | 928 |
 | This game has Amazing Storytelling | 927 |
-| This game is Relaxing | 925 |
 | This game has Amazing Characters | 891 |
 | This game has Unique Visuals | 822 |
 | This game has a Creative Community | 661 |
@@ -444,4 +444,4 @@ Diff (max vs sum): -13
 | 2024-01-15 | 4.72 | 6,915 | 15,592 |
 | 2024-01-16 | 4.72 | 6,998 | 15,811 |
 | 2024-01-17 | 4.72 | 7,080 | 16,044 |
-| 2024-01-18 | 4.72 | 7,166 | 16,198 |
+| 2024-01-18 | 4.72 | 7,166 | 16,213 |

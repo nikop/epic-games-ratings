@@ -2,10 +2,10 @@
   "ID": "820b1fcc8d6c46e59d7ae15218b06834",
   "Name": "Moons of Ardan",
   "ProductSlug": "moons-of-ardan-d4f9a3",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-12T14:30:00+00:00",
     "PcReleaseDate": "2021-10-21T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-30T05:59:31.2641261+00:00",
   "LastUpdate_AppInfo": "2024-01-14T05:57:06.4467259+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:25.1542329+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:00.9884973+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:18.2174495+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:44.5417656+00:00"
 }

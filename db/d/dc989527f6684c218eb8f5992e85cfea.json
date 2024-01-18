@@ -2,13 +2,13 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_Rating": 1013,
+  "Ranking_Rating": 1014,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15666,
+  "EOS_Progressed": 15667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19376,6 +19376,11 @@
       "Time": "2024-01-18T13:10:45.3691628+00:00",
       "NumProgressed": 15666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:04:23.8811909+00:00",
+      "NumProgressed": 15667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19586,7 +19591,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15666,
+      "Progressed": 15667,
       "Completed": 0
     }
   ],
@@ -19594,8 +19599,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:04:40.962804+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:04:23.8811905+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.4408266+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:12.3107275+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:40.9629424+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:52.9684337+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:23.8813351+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3d76133d69e645d9b4332b42a75deb69",
   "Name": "BeetleQuest 2023",
   "ProductSlug": "beetlequest-2023-a4b008",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-09T22:00:00+00:00",
     "PcReleaseDate": "2020-06-24T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.8283498+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:30.0784936+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:03.7876155+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:21.0908041+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:56.9045688+00:00"
 }

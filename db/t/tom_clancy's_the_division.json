@@ -2,13 +2,13 @@
   "ID": "03ecca4e19a9483aa05b3d99948c43ce",
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 262,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2016-03-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3203,10 +3203,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1264,
       "NumberOfAwardsMax": 462
+    },
+    {
+      "Time": "2024-01-18T14:58:42.1927267+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1265,
+      "NumberOfAwardsMax": 462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1264,
+  "NumberOfAwards": 1265,
   "NumberOfAwardsMax": 462,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3280,7 +3286,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3306,8 +3312,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-01-18T03:58:57.4264901+00:00",
+  "LastChanged": "2024-01-18T14:58:42.1927265+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.2420804+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:49.5970173+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:15.2908164+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:42.1927274+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:59.637273+00:00"
 }

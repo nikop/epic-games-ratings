@@ -2,10 +2,10 @@
   "ID": "f858c9da38e24eb1b3dc0c52f7dc95c9",
   "Name": "Food Truck Empire",
   "ProductSlug": "food-truck-empire-4b5082",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.4052903+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:02.4481832+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:06:46.1429614+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:57.1019845+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:08:19.8048589+00:00"
 }

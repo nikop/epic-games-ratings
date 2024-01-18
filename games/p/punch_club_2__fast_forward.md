@@ -64,15 +64,15 @@
 | Trap disarmed | 27.00% | ~160 |
 | Keep nature safe | 27.00% | ~160 |
 | Careerist | 27.00% | ~160 |
+| Anyone can resist | 27.00% | ~160 |
 | The only right decision | 26.00% | ~154 |
 | The last bell ring | 26.00% | ~154 |
-| Anyone can resist | 26.00% | ~154 |
 | Better cooking at home | 25.00% | ~148 |
 | Your own way | 25.00% | ~148 |
 | Silver’s past | 24.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 591 (Ranked 345)  
-Completed: 9 (1.52%) (Ranked 151)  
+Completed: 9 (1.52%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

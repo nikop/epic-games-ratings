@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 676,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253577,
+  "EOS_Progressed": 253578,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
@@ -24397,6 +24397,11 @@
       "Time": "2024-01-18T14:10:17.6197862+00:00",
       "NumProgressed": 253577,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T15:10:11.1949926+00:00",
+      "NumProgressed": 253578,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24512,7 +24517,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50715
+      "UsersEstimate": 50716
     },
     {
       "ID": "didYourTime",
@@ -24648,7 +24653,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126788
+      "UsersEstimate": 126789
     },
     {
       "ID": "notScared",
@@ -24775,7 +24780,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253577,
+      "Progressed": 253578,
       "Completed": 6
     }
   ],
@@ -24783,8 +24788,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:17.6197857+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:11.194992+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:02.5142535+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:17.6199678+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:54.9949633+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:11.1951983+00:00"
 }

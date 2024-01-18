@@ -13,20 +13,20 @@
 | Breached | 11.00% | ~34 |
 | Tactician | 10.00% | ~31 |
 | Conciliator | 9.00% | ~28 |
+| Fight Another Day | 9.00% | ~28 |
 | Taskmaster | 9.00% | ~28 |
 | Acquaintance | 8.00% | ~25 |
-| Fight Another Day | 8.00% | ~25 |
 | Tail-wind | 7.00% | ~22 |
 | Scholar | 6.00% | ~19 |
 | The More the Merrier | 6.00% | ~19 |
 | Harbinger | 6.00% | ~19 |
 | Pilgrimage's End | 6.00% | ~19 |
+| Quartermaster | 5.00% | ~16 |
 | Strategist | 5.00% | ~16 |
 | Deputized | 5.00% | ~16 |
 | Courier | 5.00% | ~16 |
 | Merchant | 5.00% | ~16 |
 | Trouble at Fort Larius | 5.00% | ~16 |
-| Quartermaster | 4.00% | ~12 |
 | Potential Unlocked | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
 | Spiritual Journey | 4.00% | ~12 |
@@ -105,7 +105,7 @@
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 310 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 404)  
+Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

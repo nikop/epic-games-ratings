@@ -2,13 +2,13 @@
   "ID": "f42ad298a6c84ee284dd45995e14ba3c",
   "Name": "Raid Shadow Legends",
   "ProductSlug": "raid-shadow-legends-b70e14",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-07-20T10:30:00+00:00",
     "PcReleaseDate": "2019-09-29T07:00:00+00:00",
@@ -596,6 +596,6 @@
   "FirstSeenRating": "2023-08-30T02:59:29.8015569+00:00",
   "LastChanged": "2024-01-16T06:57:35.4787983+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.0327391+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:57.907045+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:09:54.7434975+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:50.2546957+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:47.9562093+00:00"
 }

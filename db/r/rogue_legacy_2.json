@@ -6,9 +6,9 @@
   "Ranking_Popularity": 291,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 146,
-  "Ranking_EOS_Completed": 310,
+  "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1638,7 +1638,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28412,
+  "EOS_Progressed": 28414,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
@@ -14423,6 +14423,11 @@
       "Time": "2024-01-18T11:10:39.1004544+00:00",
       "NumProgressed": 28412,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-18T15:10:12.0379062+00:00",
+      "NumProgressed": 28414,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14562,7 +14567,7 @@
       "Name": "Harvest and Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -14745,21 +14750,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28412,
+      "Progressed": 28414,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7342,
+      "Progressed": 7344,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-17T20:57:40.3892321+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:18.4686053+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:12.0379056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:23.1245711+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:18.4687219+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:16.1555257+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:12.037999+00:00"
 }

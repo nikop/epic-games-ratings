@@ -2,11 +2,11 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 823,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 112,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80353,
+  "EOS_Progressed": 80354,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -30539,6 +30539,11 @@
       "Time": "2024-01-18T14:10:01.1757965+00:00",
       "NumProgressed": 80353,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2024-01-18T15:09:54.42859+00:00",
+      "NumProgressed": 80354,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 24,
@@ -30606,7 +30611,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23302
+      "UsersEstimate": 23303
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -30630,7 +30635,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42587
+      "UsersEstimate": 42588
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -30718,7 +30723,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12856
+      "UsersEstimate": 12857
     },
     {
       "ID": "WEIGHTLESS",
@@ -30734,14 +30739,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 12856
+      "UsersEstimate": 12857
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80353,
+      "Progressed": 80354,
       "Completed": 436
     }
   ],
@@ -30749,8 +30754,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:01.1757959+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:09:54.4285895+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:06.8109678+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:01.1760397+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:59.8824375+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:54.4287591+00:00"
 }

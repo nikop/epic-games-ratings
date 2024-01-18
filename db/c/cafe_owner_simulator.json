@@ -2,10 +2,10 @@
   "ID": "8f412f068bf3470699726398816663a1",
   "Name": "Cafe Owner Simulator",
   "ProductSlug": "cafe-owner-simulator-749e0f",
-  "Ranking_EOS_Progress": 285,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1239,
+  "EOS_Progressed": 1240,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -3806,6 +3806,11 @@
       "Time": "2024-01-18T14:10:14.3214387+00:00",
       "NumProgressed": 1239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:10:07.3406696+00:00",
+      "NumProgressed": 1240,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -3825,7 +3830,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "CHIEF",
@@ -3841,7 +3846,7 @@
       "Name": "CLEANER",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "DEBTOR",
@@ -3857,7 +3862,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "FIRST_100K",
@@ -3881,7 +3886,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "INTRODUCTION",
@@ -3928,7 +3933,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1239,
+      "Progressed": 1240,
       "Completed": 0
     }
   ],
@@ -3936,8 +3941,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:14.3214383+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:07.3406689+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.6770489+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:28.9300007+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:14.3214745+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:23.025438+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:07.3407392+00:00"
 }

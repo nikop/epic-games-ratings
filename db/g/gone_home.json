@@ -2,13 +2,13 @@
   "ID": "52326e805bac4619a4a8fac165363a42",
   "Name": "Gone Home",
   "ProductSlug": "gone-home",
-  "Ranking_Rating": 985,
+  "Ranking_Rating": 986,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-04-02T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -308,6 +308,6 @@
   "FirstSeen": "2022-07-22T20:25:36.6755135+00:00",
   "LastChanged": "2024-01-14T17:59:25.927406+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:35.3336019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:33.944974+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:09:38.1908865+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:35.5661826+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:31.3658096+00:00"
 }

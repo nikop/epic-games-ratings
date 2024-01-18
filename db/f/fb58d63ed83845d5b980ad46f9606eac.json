@@ -2,10 +2,10 @@
   "ID": "fb58d63ed83845d5b980ad46f9606eac",
   "Name": "Mahjong World Contest 2",
   "ProductSlug": "mahjong-world-contest-2-0d946a",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-01-17T21:00:00+00:00",
     "PcReleaseDate": "2020-09-03T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.513415+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:56.907232+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:51.5230967+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:51.7577681+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:36.2621544+00:00"
 }

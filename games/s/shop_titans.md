@@ -1,24 +1,24 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,052)  
+Rating: 4.00 (Ranked 1,053)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,697 |
-| Titan's First Steps | 11.00% | ~16,697 |
-| Basic in Bulk | 10.00% | ~15,179 |
-| Tinkle of Coins | 10.00% | ~15,179 |
-| Disintermediation | 8.00% | ~12,143 |
-| Capitalism Ho! | 8.00% | ~12,143 |
-| It's Free Real Estate | 7.00% | ~10,625 |
-| Budding Merchant | 7.00% | ~10,625 |
-| One Easy Payment | 6.00% | ~9,107 |
-| Some Assembly Required | 6.00% | ~9,107 |
-| Another Satisfied Customer | 6.00% | ~9,107 |
-| Pretty Penny | 6.00% | ~9,107 |
-| Own the Means of Production | 6.00% | ~9,107 |
+| Sponsored by Argon | 11.00% | ~16,699 |
+| Titan's First Steps | 11.00% | ~16,699 |
+| Basic in Bulk | 10.00% | ~15,181 |
+| Tinkle of Coins | 10.00% | ~15,181 |
+| Disintermediation | 8.00% | ~12,145 |
+| Capitalism Ho! | 8.00% | ~12,145 |
+| It's Free Real Estate | 7.00% | ~10,626 |
+| Budding Merchant | 7.00% | ~10,626 |
+| One Easy Payment | 6.00% | ~9,108 |
+| Some Assembly Required | 6.00% | ~9,108 |
+| Another Satisfied Customer | 6.00% | ~9,108 |
+| Pretty Penny | 6.00% | ~9,108 |
+| Own the Means of Production | 6.00% | ~9,108 |
 | The Daily Grind | 5.00% | ~7,590 |
 | Bounty Hunters | 5.00% | ~7,590 |
 | One-Armed Bandit | 5.00% | ~7,590 |
@@ -41,6 +41,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 3.00% | ~4,554 |
 | Blank Page Syndrome | 3.00% | ~4,554 |
 | Scrapbooker | 3.00% | ~4,554 |
+| Flying off the Shelves | 3.00% | ~4,554 |
 | This Power Level...! | 3.00% | ~4,554 |
 | Power of Love | 3.00% | ~4,554 |
 | Expansion in Session | 3.00% | ~4,554 |
@@ -69,7 +70,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Archivist | 2.00% | ~3,036 |
 | Locally Sourced | 2.00% | ~3,036 |
 | Fillin' the Bin | 2.00% | ~3,036 |
-| Flying off the Shelves | 2.00% | ~3,036 |
 | Industrial Evolution | 2.00% | ~3,036 |
 | Omae wa Mou Shindeiru | 2.00% | ~3,036 |
 | Master of Transmutation | 2.00% | ~3,036 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~607 |
 | Capitalist Camaraderie | 0.30% | ~455 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,791 (Ranked 87)  
-Completed: 359 (0.24%) (Ranked 274)  
+Progressed: 151,807 (Ranked 87)  
+Completed: 359 (0.24%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -392,7 +392,7 @@ Completed: 359 (0.24%) (Ranked 274)
 | 2024-01-15 | 151,322 | 355 |
 | 2024-01-16 | 151,517 | 355 |
 | 2024-01-17 | 151,701 | 359 |
-| 2024-01-18 | 151,791 | 359 |
+| 2024-01-18 | 151,807 | 359 |
 ## Awards
 Max (Great for Beginners): 4,964  (Ranked 81)  
 Sum: 28,010 (Ranked 52)  

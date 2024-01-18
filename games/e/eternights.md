@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.72 (Ranked 194)  
+Rating: 4.72 (Ranked 195)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -32,7 +32,7 @@ Rating: 4.72 (Ranked 194)
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 916 (Ranked 308)  
-Completed: 2 (0.22%) (Ranked 279)  
+Completed: 2 (0.22%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

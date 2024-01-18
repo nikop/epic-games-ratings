@@ -2,10 +2,10 @@
   "ID": "6360997dd9194c40aa70a701791b1819",
   "Name": "NEO BERLIN 2087",
   "ProductSlug": "neo-berlin-2087-500f0d",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T07:57:01.6154783+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:34.0680817+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:09:10.9080587+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:26.5501929+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:03.9132129+00:00"
 }

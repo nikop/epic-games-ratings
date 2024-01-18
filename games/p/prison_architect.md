@@ -1,18 +1,18 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.61 (Ranked 401)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~54,551 |
-| Get Busy Living | 15.00% | ~32,730 |
-| Samuel Norton | 9.00% | ~19,638 |
-| Spare The Rod | 4.00% | ~8,728 |
-| Don't Put Me In The Dark | 3.00% | ~6,546 |
-| Wait and Hope | 3.00% | ~6,546 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,546 |
+| Stone Walls | 25.00% | ~54,555 |
+| Get Busy Living | 15.00% | ~32,733 |
+| Samuel Norton | 9.00% | ~19,640 |
+| Spare The Rod | 4.00% | ~8,729 |
+| Don't Put Me In The Dark | 3.00% | ~6,547 |
+| Wait and Hope | 3.00% | ~6,547 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,547 |
 | Throw The Book At Them | 2.00% | ~4,364 |
 | Iron Bars | 2.00% | ~4,364 |
 | D.B. Cooper | 1.00% | ~2,182 |
@@ -23,8 +23,8 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~218 |
 | ... It's What You Can Prove | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,203 (Ranked 81)  
-Completed: 13 (0.01%) (Ranked 378)  
+Progressed: 218,220 (Ranked 81)  
+Completed: 13 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -296,10 +296,10 @@ Completed: 13 (0.01%) (Ranked 378)
 | 2024-01-15 | 217,109 | 13 |
 | 2024-01-16 | 217,461 | 13 |
 | 2024-01-17 | 217,984 | 13 |
-| 2024-01-18 | 218,203 | 13 |
+| 2024-01-18 | 218,220 | 13 |
 ## Awards
 Max (Great for Beginners): 645  (Ranked 202)  
-Sum: 4,934 (Ranked 155)  
+Sum: 4,936 (Ranked 155)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -308,7 +308,7 @@ Diff (max vs sum): 47
 | This game is Highly Recommended | 588 |
 | This game has Quickly Understood Controls | 583 |
 | This game is Relaxing | 576 |
-| This game has Diverse Characters | 546 |
+| This game has Diverse Characters | 548 |
 | This game has Amazing Storytelling | 521 |
 | This game has Amazing Characters | 479 |
 | This game is Educational | 459 |
@@ -677,4 +677,4 @@ Diff (max vs sum): 47
 | 2024-01-15 | 4.61 | - | 640 | 4,911 |
 | 2024-01-16 | 4.61 | - | 640 | 4,919 |
 | 2024-01-17 | 4.61 | - | 642 | 4,930 |
-| 2024-01-18 | 4.61 | - | 645 | 4,934 |
+| 2024-01-18 | 4.61 | - | 645 | 4,936 |

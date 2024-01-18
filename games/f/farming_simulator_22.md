@@ -1,44 +1,44 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.67 (Ranked 282)  
+Rating: 4.67 (Ranked 283)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~44,736 |
-| I read Shakespeare and stuff | 59.00% | ~37,175 |
-| Just a sprinkle | 58.00% | ~36,545 |
-| I'm stumped | 56.00% | ~35,284 |
-| Plant get enough | 56.00% | ~35,284 |
-| This is just my weekend vehicle | 54.00% | ~34,024 |
-| It's just the beginning | 54.00% | ~34,024 |
-| Hard work pays off | 49.00% | ~30,874 |
-| It's never too late to farm | 45.00% | ~28,354 |
-| All out of Land | 41.00% | ~25,833 |
-| Field Trip | 40.00% | ~25,203 |
-| I like to switch it up | 37.00% | ~23,313 |
-| Help me to help you | 35.00% | ~22,053 |
-| Ultimutt Pawesomeness | 25.00% | ~15,752 |
-| Van Gogh | 23.00% | ~14,492 |
+| Own use | 71.00% | ~44,738 |
+| I read Shakespeare and stuff | 59.00% | ~37,176 |
+| Just a sprinkle | 58.00% | ~36,546 |
+| I'm stumped | 56.00% | ~35,286 |
+| Plant get enough | 56.00% | ~35,286 |
+| This is just my weekend vehicle | 54.00% | ~34,026 |
+| It's just the beginning | 54.00% | ~34,026 |
+| Hard work pays off | 49.00% | ~30,875 |
+| It's never too late to farm | 45.00% | ~28,355 |
+| All out of Land | 41.00% | ~25,835 |
+| Field Trip | 40.00% | ~25,204 |
+| I like to switch it up | 37.00% | ~23,314 |
+| Help me to help you | 35.00% | ~22,054 |
+| Ultimutt Pawesomeness | 25.00% | ~15,753 |
+| Van Gogh | 23.00% | ~14,493 |
 | You wood not believe it | 20.00% | ~12,602 |
 | Vehicle fleet | 20.00% | ~12,602 |
-| Well-Oiled Machine | 15.00% | ~9,451 |
-| Clucky Streak | 14.00% | ~8,821 |
-| The plot thickens | 14.00% | ~8,821 |
-| Large-scale supplier | 14.00% | ~8,821 |
-| Long haul | 14.00% | ~8,821 |
+| Well-Oiled Machine | 15.00% | ~9,452 |
+| Clucky Streak | 14.00% | ~8,822 |
+| The plot thickens | 14.00% | ~8,822 |
+| Large-scale supplier | 14.00% | ~8,822 |
+| Long haul | 14.00% | ~8,822 |
 | That's a wrap | 13.00% | ~8,191 |
 | Fix me up | 11.00% | ~6,931 |
 | Highly cultivated | 10.00% | ~6,301 |
 | It's sow easy | 10.00% | ~6,301 |
 | Rock on | 10.00% | ~6,301 |
 | Giddy-up! | 9.00% | ~5,671 |
-| Cowherd | 6.00% | ~3,780 |
-| Fluffyness | 6.00% | ~3,780 |
-| Road Trip | 5.00% | ~3,150 |
-| Helper A does not stop … ever | 5.00% | ~3,150 |
-| Bringing in the Honey | 5.00% | ~3,150 |
+| Cowherd | 6.00% | ~3,781 |
+| Fluffyness | 6.00% | ~3,781 |
+| Road Trip | 5.00% | ~3,151 |
+| Helper A does not stop … ever | 5.00% | ~3,151 |
+| Bringing in the Honey | 5.00% | ~3,151 |
 | Three little piggies… | 4.00% | ~2,520 |
 | Game on | 3.00% | ~1,890 |
 | Pretty colourful | 0.70% | ~441 |
@@ -50,8 +50,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~252 |
 | Raisin the stakes | 0.30% | ~189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,008 (Ranked 119)  
-Completed: 6 (0.01%) (Ranked 378)  
+Progressed: 63,011 (Ranked 119)  
+Completed: 6 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,15 +323,15 @@ Completed: 6 (0.01%) (Ranked 378)
 | 2024-01-15 | 62,780 | 6 |
 | 2024-01-16 | 62,877 | 6 |
 | 2024-01-17 | 62,970 | 6 |
-| 2024-01-18 | 63,008 | 6 |
+| 2024-01-18 | 63,011 | 6 |
 ## Awards
 Max (Great for Beginners): 6,131  (Ranked 67)  
-Sum: 45,784 (Ranked 33)  
+Sum: 45,796 (Ranked 33)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,131 |
-| This game has Diverse Characters | 4,949 |
+| This game has Diverse Characters | 4,961 |
 | This game is Educational | 4,592 |
 | This game is Highly Recommended | 4,572 |
 | This game is Relaxing | 4,454 |
@@ -711,4 +711,4 @@ Diff (max vs sum): 34
 | 2024-01-15 | 4.67 | - | 6,114 | 45,700 |
 | 2024-01-16 | 4.67 | - | 6,121 | 45,728 |
 | 2024-01-17 | 4.67 | - | 6,131 | 45,772 |
-| 2024-01-18 | 4.67 | - | 6,131 | 45,784 |
+| 2024-01-18 | 4.67 | - | 6,131 | 45,796 |

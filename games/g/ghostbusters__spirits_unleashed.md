@@ -1,24 +1,24 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 617)  
+Rating: 4.50 (Ranked 618)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,715 |
-| Meticulously Efficient | 9.00% | ~3,039 |
+| Meticulously Efficient | 9.00% | ~3,040 |
 | Advancement | 8.00% | ~2,702 |
 | Swift Rift Removers | 7.00% | ~2,364 |
 | Discovery | 6.00% | ~2,026 |
 | Solo Capture | 6.00% | ~2,026 |
-| Clutch Capture | 5.00% | ~1,688 |
-| I collect Spores, Molds, and Fungi | 5.00% | ~1,688 |
-| Cultured | 5.00% | ~1,688 |
-| Fully Upgraded | 5.00% | ~1,688 |
-| Teamwork | 5.00% | ~1,688 |
-| There you are! | 5.00% | ~1,688 |
-| Vaporous Expansion | 5.00% | ~1,688 |
-| Whoopsie | 5.00% | ~1,688 |
+| Clutch Capture | 5.00% | ~1,689 |
+| I collect Spores, Molds, and Fungi | 5.00% | ~1,689 |
+| Cultured | 5.00% | ~1,689 |
+| Fully Upgraded | 5.00% | ~1,689 |
+| Teamwork | 5.00% | ~1,689 |
+| There you are! | 5.00% | ~1,689 |
+| Vaporous Expansion | 5.00% | ~1,689 |
+| Whoopsie | 5.00% | ~1,689 |
 | Daily Dose | 4.00% | ~1,351 |
 | Ghostbuster In Training | 4.00% | ~1,351 |
 | Right back at ya | 4.00% | ~1,351 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 617)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,769 (Ranked 140)  
-Completed: 71 (0.21%) (Ranked 282)  
+Progressed: 33,773 (Ranked 140)  
+Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,7 +330,7 @@ Completed: 71 (0.21%) (Ranked 282)
 | 2024-01-15 | 33,702 | 71 |
 | 2024-01-16 | 33,725 | 71 |
 | 2024-01-17 | 33,760 | 71 |
-| 2024-01-18 | 33,769 | 71 |
+| 2024-01-18 | 33,773 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,969 (Ranked 188)  

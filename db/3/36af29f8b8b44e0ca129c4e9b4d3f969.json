@@ -2,10 +2,13 @@
   "ID": "36af29f8b8b44e0ca129c4e9b4d3f969",
   "Name": "Celestia Ultimate",
   "ProductSlug": "celestia-ultimate-15fae5",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_Rating": 151,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 586,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-03T19:00:00+00:00",
     "PcReleaseDate": "2023-06-03T19:00:00+00:00",
@@ -19,7 +22,15 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.75,
+  "RatingHistory": [
+    {
+      "Time": "2024-01-18T15:03:19.7754838+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -35,7 +46,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2023-05-31T03:10:27.3557362+00:00",
+  "FirstSeenRating": "2024-01-18T15:03:19.7754832+00:00",
+  "LastChanged": "2024-01-18T15:03:19.7754833+00:00",
   "LastUpdate_AppInfo": "2024-01-18T13:57:19.8788903+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:38.4312142+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:09:45.8110331+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:03:19.7754847+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:38.8643109+00:00"
 }

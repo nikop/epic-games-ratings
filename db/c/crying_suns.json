@@ -2,13 +2,13 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 45,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -709,9 +709,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474086,
+  "EOS_Progressed": 474087,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28929,6 +28929,11 @@
       "Time": "2024-01-18T14:10:29.6409991+00:00",
       "NumProgressed": 474086,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-18T15:10:22.7811475+00:00",
+      "NumProgressed": 474087,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29092,7 +29097,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52149
+      "UsersEstimate": 52150
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -29124,7 +29129,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161189
+      "UsersEstimate": 161190
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29571,21 +29576,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18020,
+      "Progressed": 18021,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474086,
+      "Progressed": 474087,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-03T17:03:08.8869206+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:29.6409988+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:22.7811469+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:02.1202033+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:29.6412235+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:56.7505596+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:22.7813968+00:00"
 }

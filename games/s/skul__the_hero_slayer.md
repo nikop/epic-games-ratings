@@ -1,7 +1,7 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.75 (Ranked 151)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -32,7 +32,7 @@ Number of Ratings: 546  (23.09.2022)
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14,844 (Ranked 175)  
-Completed: 22 (0.15%) (Ranked 296)  
+Completed: 22 (0.15%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,13 +286,13 @@ Completed: 22 (0.15%) (Ranked 296)
 | 2024-01-18 | 14,844 | 22 |
 ## Awards
 Max (Diverse Characters): 155  (Ranked 333)  
-Sum: 1,033 (Ranked 275)  
+Sum: 1,035 (Ranked 275)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 155 |
 | This game is Great for Beginners | 155 |
-| This game is Highly Recommended | 124 |
+| This game is Highly Recommended | 126 |
 | This game is Extremely Fun | 118 |
 | This game is Relaxing | 116 |
 | This game has Quickly Understood Controls | 114 |
@@ -483,4 +483,4 @@ Diff (max vs sum): 58
 | 2024-01-15 | 4.75 | - | 154 | 1,028 |
 | 2024-01-16 | 4.75 | - | 154 | 1,029 |
 | 2024-01-17 | 4.75 | - | 155 | 1,032 |
-| 2024-01-18 | 4.75 | - | 155 | 1,033 |
+| 2024-01-18 | 4.75 | - | 155 | 1,035 |

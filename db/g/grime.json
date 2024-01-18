@@ -2,12 +2,12 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1915,9 +1915,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 168771,
+  "EOS_Progressed": 168777,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1108,
+  "EOS_NewPlayers": 1105,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23560,6 +23560,11 @@
       "Time": "2024-01-18T14:05:26.3397639+00:00",
       "NumProgressed": 168771,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-18T15:05:10.8258298+00:00",
+      "NumProgressed": 168777,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23644,7 +23649,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3375
+      "UsersEstimate": 3376
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -23684,7 +23689,7 @@
       "Name": "Glare",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -23850,9 +23855,9 @@
       "ID": "MISC_UNLOCKBARRIERDOOR",
       "SetID": "ccc0dlh",
       "Name": "Unwrap the Gift",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 675
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -23939,21 +23944,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168354,
+      "Progressed": 168360,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168771,
+      "Progressed": 168777,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-18T13:07:11.4279492+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:05:26.3397635+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:05:10.8258294+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:24.5227518+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:26.3398865+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:00:16.8489159+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:10.8259917+00:00"
 }

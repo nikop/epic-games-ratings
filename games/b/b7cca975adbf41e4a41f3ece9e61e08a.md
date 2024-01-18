@@ -1,16 +1,16 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.70 (Ranked 220)  
+Rating: 4.69 (Ranked 241)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,541 |
+| Last Night...Did We... | 88.00% | ~16,542 |
 | I Challenge You To Save More Money! | 81.00% | ~15,226 |
-| I Love How Tough You Are | 66.00% | ~12,406 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,090 |
-| What I Want Is You | 53.00% | ~9,962 |
-| To Be Or Not To Be | 50.00% | ~9,398 |
+| I Love How Tough You Are | 66.00% | ~12,407 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,091 |
+| What I Want Is You | 53.00% | ~9,963 |
+| To Be Or Not To Be | 50.00% | ~9,399 |
 | Are You Alright? | 47.00% | ~8,835 |
 | Love Actually | 42.00% | ~7,895 |
 | Drama King | 36.00% | ~6,767 |
@@ -25,13 +25,13 @@ Rating: 4.70 (Ranked 220)
 | ONE PUNCH | 28.00% | ~5,263 |
 | Days Of Innocence | 26.00% | ~4,887 |
 | David | 26.00% | ~4,887 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,699 |
-| All I Have Is Money | 22.00% | ~4,135 |
-| A Slap In The Face! | 22.00% | ~4,135 |
-| That's So You | 22.00% | ~4,135 |
-| SALUTE | 22.00% | ~4,135 |
-| Lover In Dark Alley | 21.00% | ~3,947 |
-| Let Me Be Your Toy Boy | 21.00% | ~3,947 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,700 |
+| All I Have Is Money | 22.00% | ~4,136 |
+| A Slap In The Face! | 22.00% | ~4,136 |
+| That's So You | 22.00% | ~4,136 |
+| SALUTE | 22.00% | ~4,136 |
+| Lover In Dark Alley | 21.00% | ~3,948 |
+| Let Me Be Your Toy Boy | 21.00% | ~3,948 |
 | Off We Sail Tonight | 15.00% | ~2,820 |
 | Can You Do This Or Not? | 14.00% | ~2,632 |
 | Love You Three Thousand | 13.00% | ~2,444 |
@@ -48,8 +48,8 @@ Rating: 4.70 (Ranked 220)
 | Tall; Grande; Venti | 2.00% | ~376 |
 | Limerence | 2.00% | ~376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,797 (Ranked 161)  
-Completed: 336 (1.79%) (Ranked 146)  
+Progressed: 18,798 (Ranked 161)  
+Completed: 336 (1.79%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,7 +151,7 @@ Completed: 336 (1.79%) (Ranked 146)
 | 2024-01-15 | 18,669 | 329 |
 | 2024-01-16 | 18,715 | 332 |
 | 2024-01-17 | 18,760 | 336 |
-| 2024-01-18 | 18,797 | 336 |
+| 2024-01-18 | 18,798 | 336 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 488)  
 Sum: 40 (Ranked 528)  
@@ -207,3 +207,4 @@ Diff (max vs sum): -40
 | 2024-01-12 | 4.69 | 37 | 37 |
 | 2024-01-14 | 4.70 | 38 | 38 |
 | 2024-01-16 | 4.70 | 40 | 40 |
+| 2024-01-18 | 4.69 | 40 | 40 |

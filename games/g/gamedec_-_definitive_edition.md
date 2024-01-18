@@ -1,26 +1,26 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 903)  
+Rating: 4.28 (Ranked 904)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,868 |
-| Powergamer | 27.00% | ~69,705 |
-| Write that down | 25.00% | ~64,541 |
-| Barely scratched the surface | 25.00% | ~64,541 |
-| Guns, lots of guns | 13.00% | ~33,561 |
-| Collector | 12.00% | ~30,980 |
+| I will finish what you started | 29.00% | ~74,870 |
+| Powergamer | 27.00% | ~69,706 |
+| Write that down | 25.00% | ~64,543 |
+| Barely scratched the surface | 25.00% | ~64,543 |
+| Guns, lots of guns | 13.00% | ~33,562 |
+| Collector | 12.00% | ~30,981 |
 | Elementary! | 9.00% | ~23,235 |
-| Griever | 8.00% | ~20,653 |
-| Pumpkin Jack | 8.00% | ~20,653 |
-| Wake up! | 8.00% | ~20,653 |
+| Griever | 8.00% | ~20,654 |
+| Pumpkin Jack | 8.00% | ~20,654 |
+| Wake up! | 8.00% | ~20,654 |
 | It's honest work | 7.00% | ~18,072 |
 | Me smart | 6.00% | ~15,490 |
 | Trash compactor | 6.00% | ~15,490 |
 | Valedictorian | 6.00% | ~15,490 |
-| Good listener | 5.00% | ~12,908 |
+| Good listener | 5.00% | ~12,909 |
 | BOY! | 4.00% | ~10,327 |
 | Ka-ching! | 4.00% | ~10,327 |
 | So you like to read? | 4.00% | ~10,327 |
@@ -43,7 +43,7 @@ Number of Ratings: 33  (23.09.2022)
 | SysOp on duty | 1.00% | ~2,582 |
 | Take the blue pill | 1.00% | ~2,582 |
 | The power of three | 1.00% | ~2,582 |
-| Let's try another | 0.90% | ~2,323 |
+| Let's try another | 0.90% | ~2,324 |
 | It's blue, always blue | 0.80% | ~2,065 |
 | Home run | 0.80% | ~2,065 |
 | I have the high ground | 0.70% | ~1,807 |
@@ -52,15 +52,15 @@ Number of Ratings: 33  (23.09.2022)
 | Irondec | 0.40% | ~1,033 |
 | LET ME OUT! | 0.40% | ~1,033 |
 | Un-bear-able | 0.40% | ~1,033 |
-| Well-deserved reunion | 0.30% | ~774 |
+| Well-deserved reunion | 0.30% | ~775 |
 | Breaking the chains | 0.20% | ~516 |
 | Aren't you overthinking? | 0.20% | ~516 |
 | Take the red pill | 0.20% | ~516 |
 | This is the way | 0.20% | ~516 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,165 (Ranked 70)  
-Completed: 8 (0.00%) (Ranked 404)  
+Progressed: 258,171 (Ranked 70)  
+Completed: 8 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,7 +332,7 @@ Completed: 8 (0.00%) (Ranked 404)
 | 2024-01-15 | 257,957 | 8 |
 | 2024-01-16 | 258,031 | 8 |
 | 2024-01-17 | 258,117 | 8 |
-| 2024-01-18 | 258,165 | 8 |
+| 2024-01-18 | 258,171 | 8 |
 ## Awards
 Max (Character Customization): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

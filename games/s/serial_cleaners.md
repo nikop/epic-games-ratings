@@ -11,7 +11,7 @@
 | Small-time Finder | 17.00% | ~52 |
 | Business as usual | 14.00% | ~43 |
 | Mr. Hygeni | 10.00% | ~31 |
-| Pride and Joy | 8.00% | ~25 |
+| Pride and Joy | 9.00% | ~28 |
 | Eyes Yet To Open | 7.00% | ~21 |
 | Hackathon | 6.00% | ~18 |
 | Total Recall | 5.00% | ~15 |

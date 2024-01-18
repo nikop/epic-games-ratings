@@ -1,7 +1,7 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.80 (Ranked 1,090)  
+Rating: 3.80 (Ranked 1,091)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 3.80 (Ranked 1,090)
 | Pufferfish | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17,527 (Ranked 167)  
-Completed: 1 (0.01%) (Ranked 378)  
+Completed: 1 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 360,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 361,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2328,9 +2328,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16961,
+  "EOS_Progressed": 16962,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 549,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20398,6 +20398,11 @@
       "Time": "2024-01-18T14:10:33.4623988+00:00",
       "NumProgressed": 16961,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T15:10:26.6549321+00:00",
+      "NumProgressed": 16962,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21103,9 +21108,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 509
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -22415,9 +22420,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -23272,21 +23277,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16961,
+      "Progressed": 16962,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16961,
+      "Progressed": 16962,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:33.4623982+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:26.6549317+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:03:12.942567+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:33.4633421+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:53.5681018+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:26.6560157+00:00"
 }

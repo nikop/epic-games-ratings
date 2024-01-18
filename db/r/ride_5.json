@@ -2,13 +2,13 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 454,
+  "Ranking_Rating": 455,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3639,
+  "EOS_Progressed": 3640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9045,6 +9045,11 @@
       "Time": "2024-01-18T14:05:00.7114894+00:00",
       "NumProgressed": 3639,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:04:44.2449463+00:00",
+      "NumProgressed": 3640,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9448,7 +9453,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3639,
+      "Progressed": 3640,
       "Completed": 0
     }
   ],
@@ -9456,8 +9461,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:05:00.711489+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:04:44.2449456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:49.9684182+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:00.7115863+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:42.5609238+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:44.2450285+00:00"
 }

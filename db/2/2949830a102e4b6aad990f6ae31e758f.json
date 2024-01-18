@@ -2,10 +2,10 @@
   "ID": "2949830a102e4b6aad990f6ae31e758f",
   "Name": "Little Wu Chang",
   "ProductSlug": "littlewuchang-19c539",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T02:22:08.3780676+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:19.2726488+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:39.4047538+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:12.6847764+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:24.0677157+00:00"
 }

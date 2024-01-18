@@ -1,22 +1,22 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.62 (Ranked 380)  
+Rating: 4.62 (Ranked 381)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~452,089 |
-| The Three | 64.00% | ~348,599 |
-| The Banquet | 40.00% | ~217,874 |
-| Devara's Light | 31.00% | ~168,853 |
-| The Iron Ones | 19.00% | ~103,490 |
+| Find Sanctuary | 83.00% | ~452,092 |
+| The Three | 64.00% | ~348,601 |
+| The Banquet | 40.00% | ~217,876 |
+| Devara's Light | 31.00% | ~168,854 |
+| The Iron Ones | 19.00% | ~103,491 |
 | The Village | 17.00% | ~92,597 |
 | The Forest | 15.00% | ~81,703 |
 | Branded | 14.00% | ~76,256 |
 | The Imposter | 14.00% | ~76,256 |
 | The Keep | 14.00% | ~76,256 |
-| The Castle | 11.00% | ~59,915 |
+| The Castle | 11.00% | ~59,916 |
 | The Dome | 9.00% | ~49,022 |
 | The Red Hall | 9.00% | ~49,022 |
 | The Sacrifice | 9.00% | ~49,022 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,681 |
 | The Alkymancery | 5.00% | ~27,234 |
 | The Pitchwoods | 5.00% | ~27,234 |
-| Honed | 4.00% | ~21,787 |
-| The House of Splendor | 4.00% | ~21,787 |
-| The Crypt | 4.00% | ~21,787 |
-| The Palace | 4.00% | ~21,787 |
+| Honed | 4.00% | ~21,788 |
+| The House of Splendor | 4.00% | ~21,788 |
+| The Crypt | 4.00% | ~21,788 |
+| The Palace | 4.00% | ~21,788 |
 | Coastrock | 3.00% | ~16,341 |
 | Find Salvation | 3.00% | ~16,341 |
 | The Unspeakable Deep | 3.00% | ~16,341 |
@@ -44,8 +44,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,894 |
 | Fading Fast | 1.00% | ~5,447 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,686 (Ranked 36)  
-Completed: 1,688 (0.31%) (Ranked 258)  
+Progressed: 544,689 (Ranked 36)  
+Completed: 1,688 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,7 +317,7 @@ Completed: 1,688 (0.31%) (Ranked 258)
 | 2024-01-15 | 544,465 | 1,683 |
 | 2024-01-16 | 544,563 | 1,685 |
 | 2024-01-17 | 544,647 | 1,688 |
-| 2024-01-18 | 544,686 | 1,688 |
+| 2024-01-18 | 544,689 | 1,688 |
 ## Awards
 Max (Challenging Combat): 299  (Ranked 264)  
 Sum: 2,044 (Ranked 220)  

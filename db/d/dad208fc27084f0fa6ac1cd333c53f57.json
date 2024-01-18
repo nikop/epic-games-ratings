@@ -3,7 +3,7 @@
   "Name": "The Hidden Room",
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7766,
+  "EOS_Progressed": 7767,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.94,
   "EosHistory": [
@@ -8609,6 +8609,11 @@
       "Time": "2024-01-18T14:04:05.3713243+00:00",
       "NumProgressed": 7766,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-18T15:03:48.267394+00:00",
+      "NumProgressed": 7767,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -8653,7 +8658,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -8677,7 +8682,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6135
+      "UsersEstimate": 6136
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -8739,23 +8744,23 @@
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV in Speedrun",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 466
+      "UsersEstimate": 544
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7766,
+      "Progressed": 7767,
       "Completed": 73
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:04:05.3713238+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:03:48.2673935+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.0248408+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:52.6944296+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:05.3714213+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:44.192978+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:03:48.2674766+00:00"
 }

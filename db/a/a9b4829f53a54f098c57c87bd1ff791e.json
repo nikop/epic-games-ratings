@@ -2,10 +2,10 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 767,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-01-18T15:05:24.3810568+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
   "TotalAchievements": 24,
   "TotalAchievementsXP": 1000,
@@ -84,9 +90,9 @@
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FALL_DEATH",
@@ -164,9 +170,9 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "OG_PENDING",
@@ -196,9 +202,9 @@
       "ID": "SPEED",
       "SetID": "39bcm6",
       "Name": "game SUCK i go to BED",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VENT_ENDING",
@@ -229,13 +235,13 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:05:39.7248666+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:05:24.3810564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:24.1141283+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:39.724889+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:14.923897+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:24.3810736+00:00"
 }

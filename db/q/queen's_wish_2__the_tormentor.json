@@ -2,10 +2,10 @@
   "ID": "a358e6bb56b04091bd63bcce56d043e9",
   "Name": "Queen\u0027s Wish 2: The Tormentor",
   "ProductSlug": "queens-wish-2-the-tormentor-cbac44",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-08-24T12:00:00+00:00",
     "PcReleaseDate": "2022-08-24T11:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:48.4030803+00:00",
   "LastChanged": "2023-03-31T05:58:48.4030804+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.1350009+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:20.2894052+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:53.9097756+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:13.5086427+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:36.8970602+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "6ef33a285bf5426d852762aecc95c826",
   "Name": "Jitsu Squad",
   "ProductSlug": "jitsu-squad-af3f2f",
-  "Ranking_Rating": 549,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-01T09:00:00+00:00",
     "PcReleaseDate": "2022-04-28T22:00:00+00:00",
@@ -156,6 +156,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.148193+00:00",
   "LastChanged": "2024-01-17T16:00:44.40908+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.4922152+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:00.759227+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:39.8610081+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:52.9352666+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:24.50253+00:00"
 }

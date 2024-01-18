@@ -3,9 +3,9 @@
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 494,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 407,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -657,9 +657,9 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "creepytale3_ach_3",
@@ -697,25 +697,25 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "creepytale3_ach_35",
       "SetID": "7idcjbn",
       "Name": "Heartfelt conversations",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytale3_ach_36",
       "SetID": "7idcjbn",
       "Name": "Why are there so many keys here?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "creepytale3_ach_37",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:04:03.5119071+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:03:46.4481536+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.8667817+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:31.4550075+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:03.5119358+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:00:23.6341387+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:03:46.4481796+00:00"
 }

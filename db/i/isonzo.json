@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 317,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9983,
+  "EOS_Progressed": 9985,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11297,6 +11297,11 @@
       "Time": "2024-01-18T12:09:58.3640358+00:00",
       "NumProgressed": 9983,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-18T15:09:45.4190866+00:00",
+      "NumProgressed": 9985,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11364,7 +11369,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -11412,7 +11417,7 @@
       "Name": "Farewell to Arms",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ISONZO_ACH_GABRIELE_DANNUNZIO",
@@ -11444,7 +11449,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -11452,7 +11457,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11476,7 +11481,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3494
+      "UsersEstimate": 3495
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11484,7 +11489,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -11492,7 +11497,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -11500,7 +11505,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4492
+      "UsersEstimate": 4493
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11540,7 +11545,7 @@
       "Name": "Seeing Red",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -11556,7 +11561,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11660,14 +11665,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9983,
+      "Progressed": 9985,
       "Completed": 10
     }
   ],
@@ -11675,8 +11680,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:09:52.1041071+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:09:45.4190862+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:40.6246983+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:09:52.1042114+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:02:42.3719078+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:09:45.4192182+00:00"
 }

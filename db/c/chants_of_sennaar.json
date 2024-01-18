@@ -139,11 +139,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2858,
+  "EOS_Progressed": 2859,
   "EOS_Completed": 220,
   "EOS_NewPlayers": 180,
-  "EOS_NewCompleters": 27,
-  "EOS_Completed_Percentage": 7.7,
+  "EOS_NewCompleters": 26,
+  "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7599,6 +7599,11 @@
       "Time": "2024-01-18T13:10:59.2842309+00:00",
       "NumProgressed": 2858,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2024-01-18T15:04:33.6762474+00:00",
+      "NumProgressed": 2859,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 25,
@@ -7610,7 +7615,7 @@
       "Name": "I did it",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "END_GOOD",
@@ -7634,7 +7639,7 @@
       "Name": "Cable guy",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7650,7 +7655,7 @@
       "Name": "Half the way",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7658,7 +7663,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7674,7 +7679,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7770,7 +7775,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "PROGRESS_N2",
@@ -7792,9 +7797,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 60,
-      "UsersEstimate": 943
+      "UsersEstimate": 915
     },
     {
       "ID": "PROGRESS_N5",
@@ -7802,14 +7807,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2858,
+      "Progressed": 2859,
       "Completed": 220
     }
   ],
@@ -7817,8 +7822,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:04:50.6356143+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:04:33.6762469+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:57:30.5665047+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:50.6356915+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:57:24.7274616+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:33.6763137+00:00"
 }

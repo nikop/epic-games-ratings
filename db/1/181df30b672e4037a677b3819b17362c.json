@@ -2,10 +2,10 @@
   "ID": "181df30b672e4037a677b3819b17362c",
   "Name": "Chain Crisis",
   "ProductSlug": "chaincrisis-fcfa66",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-12T01:46:08.101889+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:49.6599131+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:08:54.6965403+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:41.4817664+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:08:47.6469295+00:00"
 }

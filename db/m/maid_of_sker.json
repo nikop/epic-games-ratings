@@ -2,10 +2,10 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 403,
-  "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 336,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -885,6 +885,11 @@
       "Time": "2024-01-17T20:04:42.1895963+00:00",
       "NumProgressed": 306,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T15:05:09.2921463+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -920,15 +925,15 @@
       "Name": "Bull in a China Shop",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "chief_butler",
       "SetID": "3j2phem",
       "Name": "Chief Butler",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 21
     },
     {
       "ID": "choking_hazzard",
@@ -1128,14 +1133,14 @@
       "Name": "Wales Interactive",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 0
     }
   ],
@@ -1143,8 +1148,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:05:24.7574129+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:05:09.2921458+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:33.033911+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:36.3512808+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:24.7574394+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:26.9241661+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:05:09.2921719+00:00"
 }

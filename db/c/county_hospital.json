@@ -2,10 +2,10 @@
   "ID": "0f84bd6618d24d929b3c3ae8b6154223",
   "Name": "County Hospital",
   "ProductSlug": "county-hospital-aa8e79",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-05-08T22:00:00+00:00",
     "PcReleaseDate": "2021-08-04T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.583531+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:32.0334052+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:04:08.6089161+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:24.9703929+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:03:51.6670489+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3b759e19e20f45b2b608dd485eae51d6",
   "Name": "Earthworm Jim",
   "ProductSlug": "earthworm-jim-9f7cd1",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-10T16:00:00+00:00",
     "PcReleaseDate": "2022-06-10T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7452457+00:00",
   "LastChanged": "2023-03-31T05:58:12.7452458+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.8950756+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:58:28.5862892+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:05:06.027208+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:58:21.6434622+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:04:49.5733884+00:00"
 }

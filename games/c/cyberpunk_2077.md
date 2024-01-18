@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 282)  
+Rating: 4.67 (Ranked 283)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,23 +9,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.30% | ~3,163 |
 | Right Back At Ya | 0.30% | ~3,163 |
 | Christmas Tree Attack | 0.30% | ~3,163 |
+| Life of the Road | 0.30% | ~3,163 |
 | The Hermit | 0.30% | ~3,163 |
 | The High Priestess | 0.30% | ~3,163 |
+| The Lovers | 0.30% | ~3,163 |
 | The Wheel of Fortune | 0.30% | ~3,163 |
 | True Soldier | 0.30% | ~3,163 |
 | Legend of The Afterlife | 0.30% | ~3,163 |
-| Bushido and Chill | 0.20% | ~2,108 |
-| Gun Fu | 0.20% | ~2,108 |
-| Master Crafter | 0.20% | ~2,108 |
-| I Am The Law | 0.20% | ~2,108 |
-| The Quick and the Dead | 0.20% | ~2,108 |
-| Life of the Road | 0.20% | ~2,108 |
-| Stanislavski's Method | 0.20% | ~2,108 |
-| The Fool | 0.20% | ~2,108 |
-| The Lovers | 0.20% | ~2,108 |
-| The World | 0.20% | ~2,108 |
-| True Warrior | 0.20% | ~2,108 |
-| Judy vs Night City | 0.20% | ~2,108 |
+| Bushido and Chill | 0.20% | ~2,109 |
+| Gun Fu | 0.20% | ~2,109 |
+| Master Crafter | 0.20% | ~2,109 |
+| I Am The Law | 0.20% | ~2,109 |
+| The Quick and the Dead | 0.20% | ~2,109 |
+| Stanislavski's Method | 0.20% | ~2,109 |
+| The Fool | 0.20% | ~2,109 |
+| The World | 0.20% | ~2,109 |
+| True Warrior | 0.20% | ~2,109 |
+| Judy vs Night City | 0.20% | ~2,109 |
 | All the President's Men | 0.20% | ~366 |
 | Arachnophobia | 0.20% | ~366 |
 | City Lights | 0.10% | ~1,054 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,235 (Ranked 17)  
-Completed: 3,118 (0.30%) (Ranked 262)  
+Progressed: 1,054,293 (Ranked 17)  
+Completed: 3,119 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -347,7 +347,7 @@ Completed: 3,118 (0.30%) (Ranked 262)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
-| 2024-01-18 | 1,054,235 | 3,118 |
+| 2024-01-18 | 1,054,293 | 3,119 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
 Sum: 503,114 (Ranked 8)  

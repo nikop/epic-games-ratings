@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 657)  
+Rating: 4.48 (Ranked 658)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -26,8 +26,8 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 37.00% | ~236 |
 | I Wanna Rock | 36.00% | ~230 |
 | Delusions of Grandeur | 36.00% | ~230 |
+| Love Tap | 35.00% | ~224 |
 | Maximum Vigor | 34.00% | ~217 |
-| Love Tap | 34.00% | ~217 |
 | Freeze Frame | 31.00% | ~198 |
 | Eat Your Heart Out | 31.00% | ~198 |
 | For Whom the Bell Tolls | 30.00% | ~192 |
@@ -72,7 +72,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 639 (Ranked 341)  
-Completed: 2 (0.31%) (Ranked 258)  
+Completed: 2 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 77,
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 404,
+  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 545,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -12580,10 +12580,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 14999,
       "NumberOfAwardsMax": 1899
+    },
+    {
+      "Time": "2024-01-18T14:59:14.8068653+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 15008,
+      "NumberOfAwardsMax": 1899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14999,
+  "NumberOfAwards": 15008,
   "NumberOfAwardsMax": 1899,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12621,7 +12627,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1683
+      "Count": 1690
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12639,7 +12645,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1768
+      "Count": 1770
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -12659,8 +12665,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2024-01-18T09:59:50.0886054+00:00",
+  "LastChanged": "2024-01-18T14:59:14.8068651+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:03.1050691+00:00",
-  "LastUpdate_Ratings": "2024-01-18T13:59:23.9956567+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:08:50.6982751+00:00"
+  "LastUpdate_Ratings": "2024-01-18T14:59:14.8068657+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:08:43.5843468+00:00"
 }

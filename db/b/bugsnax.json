@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2020-11-12T14:00:00+00:00",
@@ -966,10 +966,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-01-18T15:00:23.50446+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 388,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 387,
+  "NumberOfAwards": 388,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1001,7 +1007,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1046,9 +1052,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 29154,
+  "EOS_Progressed": 29155,
   "EOS_Completed": 1427,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -9346,6 +9352,11 @@
       "Time": "2024-01-18T10:10:53.032139+00:00",
       "NumProgressed": 29154,
       "NumCompleted": 1427
+    },
+    {
+      "Time": "2024-01-18T15:10:08.2753283+00:00",
+      "NumProgressed": 29155,
+      "NumCompleted": 1427
     }
   ],
   "TotalAchievements": 30,
@@ -9357,7 +9368,7 @@
       "Name": "Survivor",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 13119
+      "UsersEstimate": 13120
     },
     {
       "ID": "ACH_ALL_TRANSFORM",
@@ -9397,7 +9408,7 @@
       "Name": "Deep Impact",
       "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 6705
+      "UsersEstimate": 6706
     },
     {
       "ID": "ACH_CATCH_ALL",
@@ -9453,7 +9464,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 28279
+      "UsersEstimate": 28280
     },
     {
       "ID": "ACH_FULL_TRANSFORM",
@@ -9461,7 +9472,7 @@
       "Name": "I\u0027m Stuffed",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 20116
+      "UsersEstimate": 20117
     },
     {
       "ID": "ACH_GOLEM",
@@ -9493,7 +9504,7 @@
       "Name": "Talkin\u0027 \u0027Bout Bugsnax",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 17784
+      "UsersEstimate": 17785
     },
     {
       "ID": "ACH_LAUNCH",
@@ -9501,7 +9512,7 @@
       "Name": "Launch Party",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 16326
+      "UsersEstimate": 16327
     },
     {
       "ID": "ACH_MAIN_STORY",
@@ -9517,7 +9528,7 @@
       "Name": "That Reminds Me of a Puzzle",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "ACH_RETURN_ALL",
@@ -9541,7 +9552,7 @@
       "Name": "Grab Bag",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6705
+      "UsersEstimate": 6706
     },
     {
       "ID": "ACH_SNAXBURG",
@@ -9549,7 +9560,7 @@
       "Name": "Gone Home",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 27113
+      "UsersEstimate": 27114
     },
     {
       "ID": "ACH_STEAL_DIARY",
@@ -9573,7 +9584,7 @@
       "Name": "Midnight Snak",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 10495
+      "UsersEstimate": 10496
     },
     {
       "ID": "ACH_TRAP_TWO",
@@ -9589,22 +9600,22 @@
       "Name": "Wonderfalls",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 25364
+      "UsersEstimate": 25365
     }
   ],
   "AchievementSets": [
     {
       "ID": "2m0copd",
       "IsBase": true,
-      "Progressed": 29154,
+      "Progressed": 29155,
       "Completed": 1427
     }
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2024-01-17T20:59:52.3828766+00:00",
-  "LastChanged_Achievements": "2024-01-18T14:10:15.2519233+00:00",
+  "LastChanged": "2024-01-18T15:00:23.5044598+00:00",
+  "LastChanged_Achievements": "2024-01-18T15:10:08.2753279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:34.0490593+00:00",
-  "LastUpdate_Ratings": "2024-01-18T14:00:31.339259+00:00",
-  "LastUpdate_Achievements": "2024-01-18T14:10:15.2519939+00:00"
+  "LastUpdate_Ratings": "2024-01-18T15:00:23.5044605+00:00",
+  "LastUpdate_Achievements": "2024-01-18T15:10:08.2754043+00:00"
 }
