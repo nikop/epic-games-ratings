@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13648,10 +13648,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 45772,
       "NumberOfAwardsMax": 6131
+    },
+    {
+      "Time": "2024-01-18T06:59:15.8962768+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 45779,
+      "NumberOfAwardsMax": 6131
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45772,
+  "NumberOfAwards": 45779,
   "NumberOfAwardsMax": 6131,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13671,7 +13677,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 4585
+      "Count": 4592
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13728,7 +13734,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 62983,
+  "EOS_Progressed": 62984,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 790,
   "EOS_NewCompleters": 0,
@@ -39758,6 +39764,11 @@
       "Time": "2024-01-18T06:09:01.5817119+00:00",
       "NumProgressed": 62983,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T07:09:20.9362157+00:00",
+      "NumProgressed": 62984,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -39817,7 +39828,7 @@
       "Name": "Game on",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "CollectiblesUS",
@@ -39849,7 +39860,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37160
+      "UsersEstimate": 37161
     },
     {
       "ID": "CutTree",
@@ -39865,7 +39876,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35270
+      "UsersEstimate": 35271
     },
     {
       "ID": "DeliveryGrapes",
@@ -39905,7 +39916,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35270
+      "UsersEstimate": 35271
     },
     {
       "ID": "Harvested",
@@ -39921,7 +39932,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 44718
+      "UsersEstimate": 44719
     },
     {
       "ID": "HorseJumps",
@@ -39945,7 +39956,7 @@
       "Name": "Giddy-up!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5668
+      "UsersEstimate": 5669
     },
     {
       "ID": "LoadedOldSavegame",
@@ -39953,7 +39964,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28342
+      "UsersEstimate": 28343
     },
     {
       "ID": "Mission",
@@ -40009,7 +40020,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9447
+      "UsersEstimate": 9448
     },
     {
       "ID": "NumVehiclesLarge",
@@ -40057,7 +40068,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36530
+      "UsersEstimate": 36531
     },
     {
       "ID": "Stones",
@@ -40073,7 +40084,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25193
+      "UsersEstimate": 25194
     },
     {
       "ID": "TruckDriving",
@@ -40112,15 +40123,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 62983,
+      "Progressed": 62984,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-01-17T21:58:31.057343+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:09:01.5817115+00:00",
+  "LastChanged": "2024-01-18T06:59:15.8962766+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:09:20.9362148+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:33.2343402+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:44.3533312+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:09:01.5818729+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:15.8962777+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:09:20.936338+00:00"
 }

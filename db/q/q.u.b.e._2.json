@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -611,7 +611,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47711,
+  "EOS_Progressed": 47712,
   "EOS_Completed": 241,
   "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 4,
@@ -14596,6 +14596,11 @@
       "Time": "2024-01-18T06:10:04.2811102+00:00",
       "NumProgressed": 47711,
       "NumCompleted": 241
+    },
+    {
+      "Time": "2024-01-18T07:10:43.5508324+00:00",
+      "NumProgressed": 47712,
+      "NumCompleted": 241
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14616,7 +14621,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 6202
+      "UsersEstimate": 6203
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -14800,7 +14805,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32443
+      "UsersEstimate": 32444
     },
     {
       "ID": "ACH_S4",
@@ -14824,7 +14829,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35783
+      "UsersEstimate": 35784
     },
     {
       "ID": "ACH_STATUE",
@@ -14839,15 +14844,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47711,
+      "Progressed": 47712,
       "Completed": 241
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:04.28111+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:10:43.550832+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:59:55.8560726+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:04.2812103+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:00:55.2371002+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:10:43.5509168+00:00"
 }

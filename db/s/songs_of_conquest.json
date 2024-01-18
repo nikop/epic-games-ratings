@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -4570,9 +4570,9 @@
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 575
     },
     {
       "ID": "WielderLevel2",
@@ -4682,8 +4682,8 @@
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:04.2406743+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:10:43.6283316+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:03:06.2996366+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:04.2407482+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:03:25.3567866+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:10:43.6283818+00:00"
 }

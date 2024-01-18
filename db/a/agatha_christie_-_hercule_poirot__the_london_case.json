@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -832,9 +832,9 @@
       "ID": "ACH_033",
       "SetID": "7b646ck",
       "Name": "Ms. Camilla B. Culsham",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_034",
@@ -880,9 +880,9 @@
       "ID": "ACH_039",
       "SetID": "7b646ck",
       "Name": "Irene Court-Smyth",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_04",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:32.4380637+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:21.0752642+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.0301644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:40.3737757+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:32.4380902+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:10.4840844+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:21.0752992+00:00"
 }

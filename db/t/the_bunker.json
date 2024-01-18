@@ -4,8 +4,8 @@
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 406,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 408,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -540,9 +540,9 @@
       "ID": "ALL_COMPUTERS",
       "SetID": "bho0i1h",
       "Name": "Floppy Disk Finder",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "ALL_DOCUMENTS",
@@ -612,17 +612,17 @@
       "ID": "CHAPTER_08_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Broken",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 109
     },
     {
       "ID": "CHAPTER_09_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Radiation",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "CHAPTER_10_COMPLETE",
@@ -636,17 +636,17 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Cold Storage",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "LEAVE",
@@ -757,8 +757,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:04:48.0788602+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:05:45.6645714+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.6388548+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:57:19.2337936+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:04:48.0788861+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:57:19.4803811+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:05:45.6645887+00:00"
 }

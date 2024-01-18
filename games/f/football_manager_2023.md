@@ -5,14 +5,14 @@ Rating: 4.76 (Ranked 134)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~256,748 |
-| The Player Whisperer | 68.00% | ~253,027 |
-| One of Us, One of Us! | 62.00% | ~230,701 |
-| Clean Sheet | 55.00% | ~204,654 |
-| First Victory | 55.00% | ~204,654 |
-| #DoneDeal | 54.00% | ~200,933 |
-| Off the Books | 52.00% | ~193,491 |
-| Super-Sub | 52.00% | ~193,491 |
+| Motivational Speaker | 69.00% | ~256,750 |
+| The Player Whisperer | 68.00% | ~253,029 |
+| One of Us, One of Us! | 62.00% | ~230,703 |
+| Clean Sheet | 55.00% | ~204,656 |
+| First Victory | 55.00% | ~204,656 |
+| #DoneDeal | 54.00% | ~200,935 |
+| Off the Books | 52.00% | ~193,493 |
+| Super-Sub | 52.00% | ~193,493 |
 | Hat-trick | 47.00% | ~174,887 |
 | Planned Signing | 45.00% | ~167,445 |
 | "I Would Love It If We Beat Them" | 44.00% | ~163,724 |
@@ -88,9 +88,9 @@ Rating: 4.76 (Ranked 134)
 | First Win Versus | 0.70% | ~2,605 |
 | Online Streak | 0.70% | ~2,605 |
 | We Go Again | 0.60% | ~2,233 |
-| Clean Sheet Versus | 0.50% | ~1,860 |
-| Versus Champ | 0.50% | ~1,860 |
-| Online Rivalry | 0.50% | ~1,860 |
+| Clean Sheet Versus | 0.50% | ~1,861 |
+| Versus Champ | 0.50% | ~1,861 |
+| Online Rivalry | 0.50% | ~1,861 |
 | The Rich Get Richer | 0.40% | ~1,488 |
 | Outstanding Defence | 0.30% | ~1,116 |
 | Import To Victory | 0.20% | ~744 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 134)
 | 200 Club | 0.10% | ~372 |
 | Draft Value | 0.10% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,099 (Ranked 57)  
+Progressed: 372,101 (Ranked 57)  
 Completed: 30 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,11 +379,11 @@ Completed: 30 (0.01%) (Ranked 378)
 | 2024-01-15 | 371,765 | 30 |
 | 2024-01-16 | 371,916 | 30 |
 | 2024-01-17 | 372,072 | 30 |
-| 2024-01-18 | 372,099 | 30 |
+| 2024-01-18 | 372,101 | 30 |
 ## Awards
 Max (Diverse Characters): 1,379  (Ranked 144)  
-Sum: 9,437 (Ranked 98)  
-Diff (max vs sum): 46  
+Sum: 9,437 (Ranked 99)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,379 |

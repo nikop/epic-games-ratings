@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -3001,9 +3001,9 @@
       "ID": "2ndFloor",
       "SetID": "5lok9mm",
       "Name": "You feel middle classy",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2133
     },
     {
       "ID": "AllChests",
@@ -3433,8 +3433,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2024-01-14T01:56:33.127982+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:04:22.2452658+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:05:11.3866512+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.8612432+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:57:43.485775+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:04:22.245314+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:57:52.5860511+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:05:11.3866954+00:00"
 }

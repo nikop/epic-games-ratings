@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140215,
+  "EOS_Progressed": 140216,
   "EOS_Completed": 1268,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -31560,6 +31560,11 @@
       "Time": "2024-01-18T06:04:06.7613991+00:00",
       "NumProgressed": 140215,
       "NumCompleted": 1268
+    },
+    {
+      "Time": "2024-01-18T07:04:50.7362152+00:00",
+      "NumProgressed": 140216,
+      "NumCompleted": 1268
     }
   ],
   "TotalAchievements": 34,
@@ -31587,7 +31592,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58890
+      "UsersEstimate": 58891
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -31595,7 +31600,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 42064
+      "UsersEstimate": 42065
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -31627,7 +31632,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112172
+      "UsersEstimate": 112173
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31643,7 +31648,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78520
+      "UsersEstimate": 78521
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31723,7 +31728,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22434
+      "UsersEstimate": 22435
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -31771,7 +31776,7 @@
       "Name": "Naacalvision",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22434
+      "UsersEstimate": 22435
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -31827,7 +31832,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 32249
+      "UsersEstimate": 32250
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -31842,7 +31847,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140215,
+      "Progressed": 140216,
       "Completed": 1268
     }
   ],
@@ -31850,8 +31855,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:04:06.7613987+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:04:50.7362149+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:59:06.6336249+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:04:06.7615979+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:46.5667129+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:04:50.736407+00:00"
 }

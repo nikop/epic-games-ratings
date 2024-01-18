@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 2374,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4759,9 +4759,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1543
     },
     {
       "ID": "ACH_02",
@@ -5056,8 +5056,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:39.4138217+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:29.872665+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:57:20.9844354+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:39.4138644+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:57:21.9138406+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:29.872702+00:00"
 }

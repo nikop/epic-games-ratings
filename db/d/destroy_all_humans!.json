@@ -2362,9 +2362,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2418,8 +2418,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:05:07.6131914+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:06:11.7867175+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:03:04.1879722+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:05:07.6132227+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:03:22.0972727+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:06:11.7867489+00:00"
 }

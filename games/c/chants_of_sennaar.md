@@ -16,8 +16,8 @@ Rating: 4.87 (Ranked 24)
 | True G3M4R | 32.00% | ~912 |
 | One last step | 30.00% | ~855 |
 | Cable guy | 29.00% | ~826 |
+| Half the way | 29.00% | ~826 |
 | I did it | 28.00% | ~798 |
-| Half the way | 28.00% | ~798 |
 | In this together | 27.00% | ~769 |
 | Peace walker | 27.00% | ~769 |
 | Rascal | 27.00% | ~769 |
@@ -26,7 +26,7 @@ Rating: 4.87 (Ranked 24)
 | Feels like springtime | 23.00% | ~655 |
 | Alchemists Express | 22.00% | ~627 |
 | Free at last | 20.00% | ~570 |
-| A Link to the Past | 17.00% | ~484 |
+| A Link to the Past | 18.00% | ~513 |
 | A great audience | 15.00% | ~427 |
 | For its own good | 15.00% | ~427 |
 | Fashion victim | 10.00% | ~285 |

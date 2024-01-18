@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -2787,9 +2787,9 @@
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -2947,8 +2947,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:42.3580642+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:33.2928334+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.1596234+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:05.0376738+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:42.3581152+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:58:22.5155767+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:33.2928966+00:00"
 }

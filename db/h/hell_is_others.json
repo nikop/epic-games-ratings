@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 787,
-  "Ranking_Popularity": 447,
+  "Ranking_Rating": 771,
+  "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -1445,6 +1445,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 382,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-01-18T06:59:30.6226964+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 382,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
@@ -1513,9 +1519,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 260777,
+  "EOS_Progressed": 260779,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27558,6 +27564,11 @@
       "Time": "2024-01-18T05:08:32.500802+00:00",
       "NumProgressed": 260777,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T07:08:34.2494886+00:00",
+      "NumProgressed": 260779,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27569,7 +27580,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18254
+      "UsersEstimate": 18255
     },
     {
       "ID": "Act2",
@@ -28016,16 +28027,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260777,
+      "Progressed": 260779,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-17T06:58:16.489971+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:06:24.7015399+00:00",
+  "LastChanged": "2024-01-18T06:59:30.6226961+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:08:34.2494882+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:54.7914234+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:06:24.7016953+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:30.6226967+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:08:34.2496456+00:00"
 }

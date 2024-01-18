@@ -5,27 +5,27 @@ Rating: 4.64 (Ranked 345)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,715 |
-| On the Top Step | 83.00% | ~15,245 |
-| Setting up for Success | 70.00% | ~12,858 |
-| Team Orders | 68.00% | ~12,490 |
+| Getting on the Step | 91.00% | ~16,717 |
+| On the Top Step | 83.00% | ~15,247 |
+| Setting up for Success | 70.00% | ~12,859 |
+| Team Orders | 68.00% | ~12,492 |
 | Engineer | 45.00% | ~8,266 |
 | Familiar Faces | 42.00% | ~7,715 |
-| Going the Extra Mile | 36.00% | ~6,612 |
-| Sharing the Love | 33.00% | ~6,061 |
-| Hitting a Season | 27.00% | ~4,959 |
+| Going the Extra Mile | 36.00% | ~6,613 |
+| Sharing the Love | 33.00% | ~6,062 |
+| Hitting a Season | 27.00% | ~4,960 |
 | A Dozen Pieces | 25.00% | ~4,592 |
 | Making History | 25.00% | ~4,592 |
 | Network Success | 23.00% | ~4,225 |
 | Challenge Yourself | 23.00% | ~4,225 |
 | Writing a new Chapter | 19.00% | ~3,490 |
-| Spring Cleaning | 18.00% | ~3,306 |
-| Reduce | 15.00% | ~2,755 |
-| Ups and Downs | 15.00% | ~2,755 |
+| Spring Cleaning | 18.00% | ~3,307 |
+| Reduce | 15.00% | ~2,756 |
+| Ups and Downs | 15.00% | ~2,756 |
 | Crucial Combo | 13.00% | ~2,388 |
 | Proving Them Wrong | 13.00% | ~2,388 |
 | Reuse | 12.00% | ~2,204 |
-| Gathering Dust | 11.00% | ~2,020 |
+| Gathering Dust | 11.00% | ~2,021 |
 | Eagle Eye | 10.00% | ~1,837 |
 | All in a Weekend's Work | 10.00% | ~1,837 |
 | Friendly Competition | 10.00% | ~1,837 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 345)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,368 (Ranked 163)  
+Progressed: 18,370 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,7 +182,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 18,246 | 0 |
 | 2024-01-16 | 18,312 | 0 |
 | 2024-01-17 | 18,358 | 0 |
-| 2024-01-18 | 18,368 | 0 |
+| 2024-01-18 | 18,370 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 458 (Ranked 349)  

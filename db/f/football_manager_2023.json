@@ -4,11 +4,11 @@
   "ProductSlug": "football-manager-2023",
   "Ranking_Rating": 134,
   "Ranking_Popularity": 144,
-  "Ranking_PopularitySum": 98,
+  "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-11-08T00:00:00+00:00",
     "PcReleaseDate": "2022-11-08T00:00:00+00:00",
@@ -9643,9 +9643,9 @@
       "Count": 633
     }
   ],
-  "EOS_Progressed": 372099,
+  "EOS_Progressed": 372101,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40603,6 +40603,11 @@
       "Time": "2024-01-18T06:10:46.9919691+00:00",
       "NumProgressed": 372099,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-18T07:11:38.5699212+00:00",
+      "NumProgressed": 372101,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 100,
@@ -40758,7 +40763,7 @@
       "Name": "Clean Sheet",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 204654
+      "UsersEstimate": 204656
     },
     {
       "ID": "achievement_clean_sheet_network",
@@ -40774,7 +40779,7 @@
       "Name": "Clean Sheet Versus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_club_world_cup",
@@ -40998,7 +41003,7 @@
       "Name": "Motivational Speaker",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 256748
+      "UsersEstimate": 256750
     },
     {
       "ID": "achievement_new_kids_on_the_block",
@@ -41022,7 +41027,7 @@
       "Name": "One of Us, One of Us!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 230701
+      "UsersEstimate": 230703
     },
     {
       "ID": "achievement_people_pleaser",
@@ -41118,7 +41123,7 @@
       "Name": "Off the Books",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 193491
+      "UsersEstimate": 193493
     },
     {
       "ID": "achievement_shots_for_days",
@@ -41134,7 +41139,7 @@
       "Name": "#DoneDeal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 200933
+      "UsersEstimate": 200935
     },
     {
       "ID": "achievement_signed_a_player_from_another_network_user",
@@ -41158,7 +41163,7 @@
       "Name": "Super-Sub",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 193491
+      "UsersEstimate": 193493
     },
     {
       "ID": "achievement_the_only_stat_that_matters",
@@ -41182,7 +41187,7 @@
       "Name": "The Player Whisperer",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 253027
+      "UsersEstimate": 253029
     },
     {
       "ID": "achievement_the_unstoppables",
@@ -41238,7 +41243,7 @@
       "Name": "Versus Champ",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_we_go_again",
@@ -41302,7 +41307,7 @@
       "Name": "First Victory",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 204654
+      "UsersEstimate": 204656
     },
     {
       "ID": "achievement_won_international_championship",
@@ -41390,7 +41395,7 @@
       "Name": "Online Rivalry",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "fantasy_draft_online_streak",
@@ -41413,7 +41418,7 @@
     {
       "ID": "26pcimd",
       "IsBase": true,
-      "Progressed": 372099,
+      "Progressed": 372101,
       "Completed": 30
     }
   ],
@@ -41421,8 +41426,8 @@
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
   "LastChanged": "2024-01-18T02:22:45.2551671+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:46.9919688+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:38.569921+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.8900575+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:42.1265444+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:46.9921832+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:13.0390195+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:38.57012+00:00"
 }

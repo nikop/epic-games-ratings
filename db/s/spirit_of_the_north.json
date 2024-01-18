@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80331,
+  "EOS_Progressed": 80332,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 631,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -30504,6 +30504,11 @@
       "Time": "2024-01-18T06:10:17.1103666+00:00",
       "NumProgressed": 80331,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2024-01-18T07:11:00.7308183+00:00",
+      "NumProgressed": 80332,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 24,
@@ -30531,7 +30536,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55428
+      "UsersEstimate": 55429
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30595,7 +30600,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42575
+      "UsersEstimate": 42576
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -30611,7 +30616,7 @@
       "Name": "MATCH MAKER",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "NONE_FORGOTTEN",
@@ -30627,7 +30632,7 @@
       "Name": "NORTHERN LIGHTS",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "OLD_COMPANION",
@@ -30651,7 +30656,7 @@
       "Name": "SPIRITED AWAY",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "SPIRIT_BARK",
@@ -30667,7 +30672,7 @@
       "Name": "SPIRIT DASH",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8836
+      "UsersEstimate": 8837
     },
     {
       "ID": "SPIRIT_FORM",
@@ -30706,7 +30711,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80331,
+      "Progressed": 80332,
       "Completed": 436
     }
   ],
@@ -30714,8 +30719,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:17.1103662+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:00.7308174+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:57:48.2650335+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:17.110491+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:57:59.3515367+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:00.731026+00:00"
 }

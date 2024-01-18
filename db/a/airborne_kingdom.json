@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7804,
+  "EOS_Progressed": 7805,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -7038,6 +7038,11 @@
       "Time": "2024-01-18T04:08:08.0054172+00:00",
       "NumProgressed": 7804,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-18T07:08:42.3820402+00:00",
+      "NumProgressed": 7805,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7081,7 +7086,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4136
+      "UsersEstimate": 4137
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -7201,7 +7206,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4370
+      "UsersEstimate": 4371
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7217,7 +7222,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2653
+      "UsersEstimate": 2654
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -7241,7 +7246,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -7264,15 +7269,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7804,
+      "Progressed": 7805,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:06:30.850877+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:08:42.38204+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:03:40.7665505+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:06:30.8509429+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:04:13.5881886+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:08:42.3820804+00:00"
 }

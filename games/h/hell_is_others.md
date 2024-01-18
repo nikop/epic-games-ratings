@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 787)  
+Rating: 4.40 (Ranked 771)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.39 (Ranked 787)
 | Predator I | 23.00% | ~59,979 |
 | Fixer I | 10.00% | ~26,078 |
 | A week in Century City | 10.00% | ~26,078 |
-| The Wait | 7.00% | ~18,254 |
+| The Wait | 7.00% | ~18,255 |
 | Green thumb I | 6.00% | ~15,647 |
 | Cleaning Company | 6.00% | ~15,647 |
 | Well-oiled machine | 5.00% | ~13,039 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 787)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,777 (Ranked 69)  
+Progressed: 260,779 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,11 +335,11 @@ Completed: 3 (0.00%) (Ranked 404)
 | 2024-01-15 | 260,699 | 3 |
 | 2024-01-16 | 260,735 | 3 |
 | 2024-01-17 | 260,770 | 3 |
-| 2024-01-18 | 260,777 | 3 |
+| 2024-01-18 | 260,779 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 55  (Ranked 447)  
+Max (Great for Quick Sessions): 55  (Ranked 448)  
 Sum: 382 (Ranked 367)  
-Diff (max vs sum): 80  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 55 |
@@ -555,3 +555,4 @@ Diff (max vs sum): 80
 | 2024-01-14 | 4.40 | 54 | 378 |
 | 2024-01-15 | 4.39 | 55 | 381 |
 | 2024-01-17 | 4.39 | 55 | 382 |
+| 2024-01-18 | 4.40 | 55 | 382 |

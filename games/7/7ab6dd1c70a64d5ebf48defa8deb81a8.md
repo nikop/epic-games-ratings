@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,519 |
+| Break Out | 65.00% | ~1,543 |
 | Trinity | 35.00% | ~831 |
 | The Collector | 28.00% | ~665 |
 | Find Allies | 27.00% | ~641 |

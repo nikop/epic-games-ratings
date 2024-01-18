@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 5,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
     "PcReleaseDate": "2019-01-29T12:00:00+00:00",
@@ -5953,9 +5953,9 @@
       "Count": 687
     }
   ],
-  "EOS_Progressed": 3610299,
+  "EOS_Progressed": 3610307,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 3033,
+  "EOS_NewPlayers": 3034,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37458,6 +37458,11 @@
       "Time": "2024-01-18T06:05:29.2084427+00:00",
       "NumProgressed": 3610299,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-18T07:06:40.6889517+00:00",
+      "NumProgressed": 3610307,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 52,
@@ -37477,7 +37482,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 902575
+      "UsersEstimate": 902577
     },
     {
       "ID": "BRICK",
@@ -37509,7 +37514,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 577648
+      "UsersEstimate": 577649
     },
     {
       "ID": "BUILD_2",
@@ -37533,7 +37538,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1408017
+      "UsersEstimate": 1408020
     },
     {
       "ID": "CASH_2",
@@ -37565,7 +37570,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 324927
+      "UsersEstimate": 324928
     },
     {
       "ID": "DATE",
@@ -37597,7 +37602,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 722060
+      "UsersEstimate": 722061
     },
     {
       "ID": "HBPC_TIME",
@@ -37629,7 +37634,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1046987
+      "UsersEstimate": 1046989
     },
     {
       "ID": "JOBS_2",
@@ -37637,7 +37642,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 397133
+      "UsersEstimate": 397134
     },
     {
       "ID": "JOBS_3",
@@ -37709,7 +37714,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1769047
+      "UsersEstimate": 1769050
     },
     {
       "ID": "NO_PASTE",
@@ -37717,7 +37722,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1660738
+      "UsersEstimate": 1660741
     },
     {
       "ID": "OPC_BM_1",
@@ -37773,7 +37778,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 324927
+      "UsersEstimate": 324928
     },
     {
       "ID": "PLAY_MUSIC",
@@ -37829,7 +37834,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 288824
+      "UsersEstimate": 288825
     },
     {
       "ID": "STARS_2",
@@ -37877,22 +37882,22 @@
       "Name": "Treat yourself - RAM",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 18051
+      "UsersEstimate": 18052
     }
   ],
   "AchievementSets": [
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3610299,
+      "Progressed": 3610307,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2024-01-17T19:58:14.5874415+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:05:29.2084423+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:06:40.6889512+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.4141666+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:34.3726604+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:05:29.2086233+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:02.2696001+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:06:40.6891346+00:00"
 }

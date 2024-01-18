@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58829,
+  "EOS_Progressed": 58832,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16051,6 +16051,11 @@
       "Time": "2024-01-18T06:04:04.5100161+00:00",
       "NumProgressed": 58829,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T07:04:47.7755039+00:00",
+      "NumProgressed": 58832,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16126,7 +16131,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4706
+      "UsersEstimate": 4707
     },
     {
       "ID": "FlyingPresent",
@@ -16374,7 +16379,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2941
+      "UsersEstimate": 2942
     },
     {
       "ID": "Teamwork",
@@ -16453,7 +16458,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58829,
+      "Progressed": 58832,
       "Completed": 6
     }
   ],
@@ -16461,8 +16466,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:04:04.5100157+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:04:47.7755036+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.3003234+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:59:57.7416761+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:04:04.510221+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:00:57.8714501+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:04:47.7756444+00:00"
 }

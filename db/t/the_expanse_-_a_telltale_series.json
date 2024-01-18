@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19129,
+  "EOS_Progressed": 19130,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17699,6 +17699,11 @@
       "Time": "2024-01-18T06:06:31.4582729+00:00",
       "NumProgressed": 19129,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T07:08:43.1593903+00:00",
+      "NumProgressed": 19130,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17759,7 +17764,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "16",
@@ -17775,7 +17780,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2295
+      "UsersEstimate": 2296
     },
     {
       "ID": "18",
@@ -17919,7 +17924,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "7",
@@ -17983,20 +17988,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19129,
+      "Progressed": 19130,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5083,
+      "Progressed": 5084,
       "Completed": 1342
     }
   ],
@@ -18004,8 +18009,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:06:31.4582726+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:08:43.1593901+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:00:06.211852+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:06:31.4584074+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:01:09.0421572+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:08:43.1594899+00:00"
 }

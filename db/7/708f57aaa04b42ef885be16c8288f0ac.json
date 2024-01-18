@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15024,
+  "EOS_Progressed": 15025,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 451,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10759,6 +10759,11 @@
       "Time": "2024-01-18T06:10:36.7475663+00:00",
       "NumProgressed": 15024,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T07:11:26.4699354+00:00",
+      "NumProgressed": 15025,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10843,7 +10848,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8263
+      "UsersEstimate": 8264
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10883,7 +10888,7 @@
       "Name": "He Just Wanted To Help",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "JackOfAllTrades",
@@ -10955,7 +10960,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "TheOldSchoolWay",
@@ -10971,7 +10976,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6461
     },
     {
       "ID": "ThisIsDharma",
@@ -10987,7 +10992,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "UnResurrected",
@@ -11003,7 +11008,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -11042,7 +11047,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15024,
+      "Progressed": 15025,
       "Completed": 27
     }
   ],
@@ -11050,8 +11055,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:36.747566+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:26.4699352+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:02:57.903647+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:36.7476331+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:03:13.0081945+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:26.4700188+00:00"
 }

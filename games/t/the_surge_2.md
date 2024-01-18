@@ -6,26 +6,26 @@ Rating: 4.27 (Ranked 912)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 78.00% | ~2,030 |
-| Don't I Know You...? | 74.00% | ~1,925 |
-| Jailbreak | 64.00% | ~1,665 |
+| Don't I Know You...? | 74.00% | ~1,926 |
+| Jailbreak | 64.00% | ~1,666 |
 | HEADSHOT! | 37.00% | ~963 |
 | Suited and Booted | 37.00% | ~963 |
 | Sleeping With The Fishes | 34.00% | ~885 |
 | High Performance | 30.00% | ~781 |
 | Overheated | 29.00% | ~755 |
 | Powered Up | 27.00% | ~703 |
-| Studied The Blade | 24.00% | ~624 |
-| Home Invasion | 22.00% | ~572 |
-| Luminary | 22.00% | ~572 |
-| True Survivor | 21.00% | ~546 |
-| It's a Trap | 21.00% | ~546 |
-| Offensive Defense | 20.00% | ~520 |
-| Shocking | 20.00% | ~520 |
-| Court Martial | 19.00% | ~494 |
-| Unforeseeable Consequences | 19.00% | ~494 |
-| Clean Cut | 18.00% | ~468 |
-| Dead Again | 17.00% | ~442 |
-| Full Arsenal | 17.00% | ~442 |
+| Studied The Blade | 24.00% | ~625 |
+| Home Invasion | 22.00% | ~573 |
+| Luminary | 22.00% | ~573 |
+| True Survivor | 21.00% | ~547 |
+| It's a Trap | 21.00% | ~547 |
+| Offensive Defense | 20.00% | ~521 |
+| Shocking | 20.00% | ~521 |
+| Court Martial | 19.00% | ~495 |
+| Unforeseeable Consequences | 19.00% | ~495 |
+| Clean Cut | 18.00% | ~469 |
+| Dead Again | 17.00% | ~443 |
+| Full Arsenal | 17.00% | ~443 |
 | Can't Trust Banks | 15.00% | ~390 |
 | Mommy Dearest | 13.00% | ~338 |
 | Bad Dog | 13.00% | ~338 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 912)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,602 (Ranked 238)  
+Progressed: 2,603 (Ranked 238)  
 Completed: 13 (0.50%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 13 (0.50%) (Ranked 228)
 | 2024-01-15 | 2,595 | 13 |
 | 2024-01-16 | 2,597 | 13 |
 | 2024-01-17 | 2,599 | 13 |
-| 2024-01-18 | 2,602 | 13 |
+| 2024-01-18 | 2,603 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

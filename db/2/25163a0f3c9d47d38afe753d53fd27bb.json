@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1783,
+  "EOS_Progressed": 1784,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.29,
   "EosHistory": [
@@ -4509,6 +4509,11 @@
       "Time": "2024-01-18T02:34:07.7780762+00:00",
       "NumProgressed": 1783,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-18T07:11:25.1231832+00:00",
+      "NumProgressed": 1784,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4520,7 +4525,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "LEVEL_002",
@@ -4544,7 +4549,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "LEVEL_005",
@@ -4568,7 +4573,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "LEVEL_008",
@@ -4584,7 +4589,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "LEVEL_010",
@@ -4614,9 +4619,9 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 321
     },
     {
       "ID": "LEVEL_014",
@@ -4640,7 +4645,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "LEVEL_017",
@@ -4688,7 +4693,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_023",
@@ -4696,7 +4701,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_024",
@@ -4759,14 +4764,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1783,
+      "Progressed": 1784,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:35.6791294+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:11:25.123183+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-18T06:00:32.3355163+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:35.6791794+00:00"
+  "LastUpdate_Ratings": "2024-01-18T07:03:07.0201653+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:11:25.123221+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,549 |
-| Break A Leg | 9.00% | ~72,494 |
-| Hotel California | 9.00% | ~72,494 |
-| Coup de Grâce | 8.00% | ~64,439 |
-| Hazardous Materials | 8.00% | ~64,439 |
-| Git Gutte! | 7.00% | ~56,384 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,384 |
+| Welcome To Hell-A | 10.00% | ~80,550 |
+| Break A Leg | 9.00% | ~72,495 |
+| Hotel California | 9.00% | ~72,495 |
+| Coup de Grâce | 8.00% | ~64,440 |
+| Hazardous Materials | 8.00% | ~64,440 |
+| Git Gutte! | 7.00% | ~56,385 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,385 |
 | Dr. Reed, I Presume? | 6.00% | ~48,330 |
 | Bookworm | 6.00% | ~48,330 |
 | Friends Like These | 6.00% | ~48,330 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 549)
 | A Patton Emerges | 4.00% | ~32,220 |
 | I Am the Resurrection | 4.00% | ~32,220 |
 | Our True Nature | 4.00% | ~32,220 |
-| Whatever It Takes | 4.00% | ~5,241 |
-| Pork Chopped | 4.00% | ~5,241 |
+| Whatever It Takes | 4.00% | ~5,242 |
+| Pork Chopped | 4.00% | ~5,242 |
 | Humanity Distilled | 3.00% | ~24,165 |
 | Down with the Sickness | 3.00% | ~24,165 |
 | One of Us | 3.00% | ~3,931 |
@@ -48,16 +48,16 @@ Rating: 4.54 (Ranked 549)
 | On Safari | 1.00% | ~8,055 |
 | Gore Horse | 1.00% | ~8,055 |
 | Variety is the Spice of Death | 1.00% | ~8,055 |
-| Sole Survivor | 0.90% | ~7,249 |
-| Sharpest Tool in the Box | 0.90% | ~7,249 |
+| Sole Survivor | 0.90% | ~7,250 |
+| Sharpest Tool in the Box | 0.90% | ~7,250 |
 | Top That, Tisha! | 0.60% | ~786 |
-| Survival Skills | 0.50% | ~4,027 |
-| Donk! | 0.30% | ~2,416 |
+| Survival Skills | 0.50% | ~4,028 |
+| Donk! | 0.30% | ~2,417 |
 | Lawn and Order | 0.30% | ~393 |
-| Bucket List | 0.10% | ~805 |
+| Bucket List | 0.10% | ~806 |
 | Wilhelm | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,492 (Ranked 23)  
+Progressed: 805,504 (Ranked 23)  
 Completed: 2,596 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 2,596 (0.32%) (Ranked 257)
 | 2024-01-15 | 804,269 | 2,590 |
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
-| 2024-01-18 | 805,492 | 2,596 |
+| 2024-01-18 | 805,504 | 2,596 |
 ## Awards
 Max (Great Boss Battles): 10,564  (Ranked 40)  
 Sum: 16,217 (Ranked 70)  

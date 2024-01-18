@@ -251,9 +251,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93585,
+  "EOS_Progressed": 93587,
   "EOS_Completed": 345,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18311,6 +18311,11 @@
       "Time": "2024-01-18T06:08:49.4468145+00:00",
       "NumProgressed": 93585,
       "NumCompleted": 345
+    },
+    {
+      "Time": "2024-01-18T07:09:04.9630242+00:00",
+      "NumProgressed": 93587,
+      "NumCompleted": 345
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -18323,7 +18328,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 74868
+      "UsersEstimate": 74870
     },
     {
       "ID": "grp_beet",
@@ -18339,7 +18344,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 72060
+      "UsersEstimate": 72062
     },
     {
       "ID": "grp_endless",
@@ -18363,7 +18368,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 23396
+      "UsersEstimate": 23397
     },
     {
       "ID": "grp_level10",
@@ -18411,7 +18416,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50536
+      "UsersEstimate": 50537
     },
     {
       "ID": "grp_money_tree",
@@ -18419,7 +18424,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 69253
+      "UsersEstimate": 69254
     },
     {
       "ID": "grp_speed",
@@ -18427,7 +18432,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 44921
+      "UsersEstimate": 44922
     },
     {
       "ID": "grp_stone",
@@ -18435,7 +18440,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10294
+      "UsersEstimate": 10295
     },
     {
       "ID": "grp_store_ftux",
@@ -18458,7 +18463,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93585,
+      "Progressed": 93587,
       "Completed": 345
     }
   ],
@@ -18466,8 +18471,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-11T13:59:21.7305428+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:08:49.4468142+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:09:04.9630239+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:12.4453179+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:58:48.6739323+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:08:49.4469113+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:59:22.1955794+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:09:04.9631031+00:00"
 }

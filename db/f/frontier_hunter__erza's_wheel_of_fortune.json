@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 158,
+  "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -2780,9 +2780,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "7pimpda",
       "Name": "Training Simulation",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 591
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2860,9 +2860,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "7pimpda",
       "Name": "Kuku Bird Hunter",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 493
+      "UsersEstimate": 500
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -3061,8 +3061,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-18T06:10:08.2260677+00:00",
+  "LastChanged_Achievements": "2024-01-18T07:10:48.9428038+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.6411785+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:57:33.5295829+00:00",
-  "LastUpdate_Achievements": "2024-01-18T06:10:08.2261178+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:57:38.7968021+00:00",
+  "LastUpdate_Achievements": "2024-01-18T07:10:48.9428436+00:00"
 }

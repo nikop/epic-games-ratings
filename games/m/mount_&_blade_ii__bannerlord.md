@@ -6,21 +6,21 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,236 |
-| Landlord | 35.00% | ~33,564 |
-| Trained | 30.00% | ~28,769 |
-| Bannerlord | 25.00% | ~23,974 |
-| Lawmaker | 24.00% | ~23,015 |
-| Horde breaker | 21.00% | ~20,138 |
-| The king is pleased | 20.00% | ~19,179 |
-| King Solomon | 18.00% | ~17,261 |
-| Apple of my eye | 17.00% | ~16,302 |
-| This Is Our Land | 17.00% | ~16,302 |
-| Against all odds | 15.00% | ~14,385 |
-| I can do it | 15.00% | ~14,385 |
-| Duelist | 13.00% | ~12,467 |
-| God of the Arena | 12.00% | ~11,508 |
-| Swordbearer | 11.00% | ~10,549 |
+| Lawbringer | 43.00% | ~41,239 |
+| Landlord | 35.00% | ~33,567 |
+| Trained | 30.00% | ~28,772 |
+| Bannerlord | 25.00% | ~23,976 |
+| Lawmaker | 24.00% | ~23,017 |
+| Horde breaker | 21.00% | ~20,140 |
+| The king is pleased | 20.00% | ~19,181 |
+| King Solomon | 18.00% | ~17,263 |
+| Apple of my eye | 17.00% | ~16,304 |
+| This Is Our Land | 17.00% | ~16,304 |
+| Against all odds | 15.00% | ~14,386 |
+| I can do it | 15.00% | ~14,386 |
+| Duelist | 13.00% | ~12,468 |
+| God of the Arena | 12.00% | ~11,509 |
+| Swordbearer | 11.00% | ~10,550 |
 | Dynasty | 10.00% | ~9,590 |
 | I spit on your grave | 10.00% | ~9,590 |
 | What have the Romans ever done for us? | 10.00% | ~9,590 |
@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crackshot | 0.80% | ~767 |
 | Undercover | 0.80% | ~767 |
 | Fat Cat | 0.60% | ~575 |
-| Catch | 0.50% | ~479 |
+| Catch | 0.50% | ~480 |
 | Slice 'n dice | 0.40% | ~384 |
 | Ride it like you stole it | 0.30% | ~288 |
 | Explorer | 0.20% | ~192 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,897 (Ranked 103)  
+Progressed: 95,905 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 95,467 | 0 |
 | 2024-01-16 | 95,667 | 0 |
 | 2024-01-17 | 95,878 | 0 |
-| 2024-01-18 | 95,897 | 0 |
+| 2024-01-18 | 95,905 | 0 |
 ## Awards
 Max (Character Customization): 8,099  (Ranked 50)  
 Sum: 16,803 (Ranked 66)  
