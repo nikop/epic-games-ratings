@@ -25,10 +25,10 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.50% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.07% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.74% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.05% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.04% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -97,11 +97,11 @@
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
-| 98 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.61% |
-| 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
-| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
-| 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
-| 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
+| 98 | [Doodle God](games/d/doodle_god.md) | 3.60% |
+| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
+| 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
+| 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
+| 100 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.57% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
@@ -182,7 +182,7 @@
 | 180 | [Lemon Cake](games/l/lemon_cake.md) | 1.02% |
 | 180 | [Sable](games/s/sable.md) | 1.02% |
 | 182 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.01% |
-| 183 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
+| 183 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.95% |
 | 184 | [Trifox](games/t/trifox.md) | 0.95% |
 | 186 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
