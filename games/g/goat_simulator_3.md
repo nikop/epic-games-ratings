@@ -5,12 +5,12 @@ Rating: 4.83 (Ranked 57)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~243,697 |
-| Private Club | 73.00% | ~195,493 |
-| Rogue Guild | 64.00% | ~171,391 |
-| I Watched the Intro | 57.00% | ~152,645 |
-| Covert Consortium | 54.00% | ~144,611 |
-| Goat Queen | 52.00% | ~139,255 |
+| Forgotten Sorority | 91.00% | ~243,698 |
+| Private Club | 73.00% | ~195,494 |
+| Rogue Guild | 64.00% | ~171,392 |
+| I Watched the Intro | 57.00% | ~152,646 |
+| Covert Consortium | 54.00% | ~144,612 |
+| Goat Queen | 52.00% | ~139,256 |
 | Reach the Stratosphere | 50.00% | ~133,900 |
 | Synchronization Complete | 47.00% | ~125,866 |
 | Secret Society | 44.00% | ~117,832 |
@@ -45,7 +45,7 @@ Rating: 4.83 (Ranked 57)
 | Move! That! Bus! | 0.60% | ~1,607 |
 | G.O.A.T | 0.40% | ~1,071 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267,799 (Ranked 68)  
+Progressed: 267,800 (Ranked 68)  
 Completed: 954 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 954 (0.36%) (Ranked 250)
 | 2024-01-15 | 267,577 | 953 |
 | 2024-01-16 | 267,681 | 953 |
 | 2024-01-17 | 267,789 | 954 |
-| 2024-01-18 | 267,799 | 954 |
+| 2024-01-18 | 267,800 | 954 |
 ## Awards
 Max (Great for Beginners): 550  (Ranked 217)  
 Sum: 4,397 (Ranked 161)  

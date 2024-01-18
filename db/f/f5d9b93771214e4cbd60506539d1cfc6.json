@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161692,
+  "EOS_Progressed": 161693,
   "EOS_Completed": 395,
-  "EOS_NewPlayers": 889,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -25628,6 +25628,11 @@
       "Time": "2024-01-18T05:05:03.5175223+00:00",
       "NumProgressed": 161692,
       "NumCompleted": 395
+    },
+    {
+      "Time": "2024-01-18T06:04:28.8417949+00:00",
+      "NumProgressed": 161693,
+      "NumCompleted": 395
     }
   ],
   "TotalAchievements": 31,
@@ -25647,7 +25652,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113184
+      "UsersEstimate": 113185
     },
     {
       "ID": "EAwards_10",
@@ -25663,7 +25668,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33955
+      "UsersEstimate": 33956
     },
     {
       "ID": "EAwards_12",
@@ -25823,7 +25828,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30721
+      "UsersEstimate": 30722
     },
     {
       "ID": "EAwards_30",
@@ -25886,7 +25891,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 161692,
+      "Progressed": 161693,
       "Completed": 395
     }
   ],
@@ -25894,8 +25899,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:05:03.5175219+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:04:28.8417945+00:00",
   "LastUpdate_AppInfo": "2024-01-12T09:57:07.503551+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:58:23.5195099+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:05:03.517634+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:58:10.7537198+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:04:28.8419597+00:00"
 }

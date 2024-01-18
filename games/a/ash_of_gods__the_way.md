@@ -13,9 +13,9 @@
 | Blood and sand | 24.00% | ~19 |
 | A hidden snake | 23.00% | ~18 |
 | Surpass the teacher | 21.00% | ~17 |
+| Power of Inquisition | 19.00% | ~15 |
 | All for one! | 19.00% | ~15 |
 | Help of the Gell | 19.00% | ~15 |
-| Power of Inquisition | 18.00% | ~14 |
 | Crimson rivers | 16.00% | ~13 |
 | Rage | 16.00% | ~13 |
 | She-Wolf | 16.00% | ~13 |

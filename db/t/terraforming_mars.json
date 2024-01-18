@@ -4,10 +4,10 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 567,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3607,9 +3607,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 90969,
+  "EOS_Progressed": 90970,
   "EOS_Completed": 184,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -34157,6 +34157,11 @@
       "Time": "2024-01-18T05:06:36.4374782+00:00",
       "NumProgressed": 90969,
       "NumCompleted": 184
+    },
+    {
+      "Time": "2024-01-18T06:05:36.7237379+00:00",
+      "NumProgressed": 90970,
+      "NumCompleted": 184
     }
   ],
   "TotalAchievements": 30,
@@ -34256,7 +34261,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25471
+      "UsersEstimate": 25472
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -34288,7 +34293,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16374
+      "UsersEstimate": 16375
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -34336,7 +34341,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 13645
+      "UsersEstimate": 13646
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -34344,7 +34349,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30929
+      "UsersEstimate": 30930
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -34392,7 +34397,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16374
+      "UsersEstimate": 16375
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -34407,15 +34412,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 90969,
+      "Progressed": 90970,
       "Completed": 184
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2024-01-17T23:57:28.938395+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:06:36.4374777+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:05:36.7237376+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:57:38.1047169+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:06:36.4376233+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:57:38.7710158+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:05:36.7238977+00:00"
 }

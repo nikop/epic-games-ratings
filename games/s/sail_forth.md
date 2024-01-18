@@ -5,34 +5,34 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~192,542 |
-| Wind Master | 52.00% | ~151,700 |
-| Hook, Line and Stinker | 18.00% | ~52,511 |
-| Davy Jones | 17.00% | ~49,594 |
-| Nice Shootin' Duds | 5.00% | ~14,586 |
-| Gateway Slug | 5.00% | ~14,586 |
-| Baby's First Thingamabob | 4.00% | ~11,669 |
-| Race In Yo Face | 4.00% | ~11,669 |
-| Boarding Party | 4.00% | ~11,669 |
-| Great Balls Of Fire | 3.00% | ~8,752 |
-| Light Up the Night | 3.00% | ~8,752 |
-| I Don't Like The Slugs | 3.00% | ~8,752 |
-| By The Power Of Underskull | 2.00% | ~5,835 |
-| This Is Fine | 2.00% | ~5,835 |
-| Pengy Fun | 2.00% | ~5,835 |
-| Enter The Croakers | 1.00% | ~2,917 |
-| But The Slugs Like Me | 1.00% | ~2,917 |
-| Fish Kabob | 0.90% | ~2,626 |
-| Snapping Turtle | 0.70% | ~2,042 |
-| Polar Pontification | 0.60% | ~1,750 |
-| Crovert Ops | 0.60% | ~1,750 |
-| Aggro Kreb | 0.50% | ~1,459 |
-| No More Splosions | 0.50% | ~1,459 |
-| Tekk Savvy | 0.40% | ~1,167 |
-| Blowfish Me Down | 0.30% | ~875 |
-| Fish And Tips | 0.30% | ~875 |
-| Sweeter Than Honey | 0.20% | ~583 |
-| This Magik Moment | 0.20% | ~583 |
+| Tootorial | 66.00% | ~193,004 |
+| Wind Master | 52.00% | ~152,064 |
+| Hook, Line and Stinker | 18.00% | ~52,638 |
+| Davy Jones | 17.00% | ~49,713 |
+| Nice Shootin' Duds | 5.00% | ~14,622 |
+| Gateway Slug | 5.00% | ~14,622 |
+| Baby's First Thingamabob | 4.00% | ~11,697 |
+| Race In Yo Face | 4.00% | ~11,697 |
+| Boarding Party | 4.00% | ~11,697 |
+| Great Balls Of Fire | 3.00% | ~8,773 |
+| Light Up the Night | 3.00% | ~8,773 |
+| I Don't Like The Slugs | 3.00% | ~8,773 |
+| By The Power Of Underskull | 2.00% | ~5,849 |
+| This Is Fine | 2.00% | ~5,849 |
+| Pengy Fun | 2.00% | ~5,849 |
+| Enter The Croakers | 1.00% | ~2,924 |
+| But The Slugs Like Me | 1.00% | ~2,924 |
+| Fish Kabob | 0.90% | ~2,632 |
+| Snapping Turtle | 0.70% | ~2,047 |
+| Polar Pontification | 0.60% | ~1,755 |
+| Crovert Ops | 0.60% | ~1,755 |
+| Aggro Kreb | 0.50% | ~1,462 |
+| No More Splosions | 0.50% | ~1,462 |
+| Tekk Savvy | 0.40% | ~1,170 |
+| Blowfish Me Down | 0.30% | ~877 |
+| Fish And Tips | 0.30% | ~877 |
+| Sweeter Than Honey | 0.20% | ~585 |
+| This Magik Moment | 0.20% | ~585 |
 | What's Krakalackin? | 0.10% | ~292 |
 | Total Eclipse of the Eel | 0.10% | ~292 |
 | All Good Things... | 0.10% | ~292 |
@@ -53,7 +53,7 @@ Rating: 4.38 (Ranked 797)
 | For Whom The Bells Toll | 0.10% | ~292 |
 | Don't I Know You? | 0.10% | ~292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 291,730 (Ranked 66)  
+Progressed: 292,431 (Ranked 66)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 221,430 | 0 |
 | 2024-01-16 | 252,384 | 0 |
 | 2024-01-17 | 286,420 | 0 |
-| 2024-01-18 | 291,730 | 0 |
+| 2024-01-18 | 292,431 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~339,501 |
-| good drivers have dead flies on the side windows | 32.00% | ~135,800 |
-| keep it tidy | 26.00% | ~110,338 |
-| brail | 26.00% | ~110,338 |
-| car wash | 23.00% | ~97,606 |
-| the artist | 23.00% | ~97,606 |
-| podium | 20.00% | ~84,875 |
-| medium attack | 17.00% | ~72,144 |
-| bicycle race | 6.00% | ~25,463 |
-| grocery-getter | 5.00% | ~21,219 |
-| autopilot | 4.00% | ~16,975 |
-| rwd only | 3.00% | ~12,731 |
-| where is the stage? | 3.00% | ~12,731 |
-| night ride | 3.00% | ~12,731 |
-| snorkel | 3.00% | ~12,731 |
-| food tour: pasta | 3.00% | ~12,731 |
+| light attack | 80.00% | ~339,533 |
+| good drivers have dead flies on the side windows | 32.00% | ~135,813 |
+| keep it tidy | 26.00% | ~110,348 |
+| brail | 26.00% | ~110,348 |
+| car wash | 23.00% | ~97,616 |
+| the artist | 23.00% | ~97,616 |
+| podium | 20.00% | ~84,883 |
+| medium attack | 17.00% | ~72,151 |
+| bicycle race | 6.00% | ~25,465 |
+| grocery-getter | 5.00% | ~21,221 |
+| autopilot | 4.00% | ~16,977 |
+| rwd only | 3.00% | ~12,732 |
+| where is the stage? | 3.00% | ~12,732 |
+| night ride | 3.00% | ~12,732 |
+| snorkel | 3.00% | ~12,732 |
+| food tour: pasta | 3.00% | ~12,732 |
 | to finish first, first you must finish | 2.00% | ~8,488 |
 | perkele | 2.00% | ~8,488 |
 | turbo | 2.00% | ~8,488 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~424 |
 | you're here for a good time, not a long time | 0.10% | ~424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424,376 (Ranked 48)  
+Progressed: 424,416 (Ranked 48)  
 Completed: 24 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 24 (0.01%) (Ranked 378)
 | 2024-01-15 | 420,823 | 22 |
 | 2024-01-16 | 422,503 | 23 |
 | 2024-01-17 | 424,076 | 24 |
-| 2024-01-18 | 424,376 | 24 |
+| 2024-01-18 | 424,416 | 24 |
 ## Awards
 Max (Quickly Understood Controls): 45  (Ranked 476)  
 Sum: 262 (Ranked 398)  

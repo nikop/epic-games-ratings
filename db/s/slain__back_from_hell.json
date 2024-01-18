@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 335,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44375,
+  "EOS_Progressed": 44376,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -29852,6 +29852,11 @@
       "Time": "2024-01-18T05:09:19.2642245+00:00",
       "NumProgressed": 44375,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-18T06:08:59.4137369+00:00",
+      "NumProgressed": 44376,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30015,7 +30020,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -30023,7 +30028,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -30094,7 +30099,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44375,
+      "Progressed": 44376,
       "Completed": 30
     }
   ],
@@ -30102,8 +30107,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:09:19.2642242+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:08:59.4137366+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.9023781+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:03:25.4331279+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:09:19.2643955+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:03:16.9411217+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:08:59.4138775+00:00"
 }

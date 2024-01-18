@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,115 |
-| Battlefields Have Memories | 82.00% | ~2,870 |
-| Enlisted | 75.00% | ~2,625 |
-| Maybe Engage a Little | 70.00% | ~2,450 |
-| No More Names | 54.00% | ~1,890 |
+| Unforeseen | 89.00% | ~3,116 |
+| Battlefields Have Memories | 82.00% | ~2,871 |
+| Enlisted | 75.00% | ~2,626 |
+| Maybe Engage a Little | 70.00% | ~2,451 |
+| No More Names | 54.00% | ~1,891 |
 | Initiate | 41.00% | ~1,435 |
 | Thrada-Kul | 37.00% | ~1,295 |
 | Gravity-Challenged Rocks | 31.00% | ~1,085 |
@@ -45,15 +45,15 @@ Rating: 4.19 (Ranked 977)
 | Witch-Taker | 0.90% | ~32 |
 | Backtracker | 0.90% | ~32 |
 | Master of Ultramarine | 0.80% | ~28 |
-| Petite Bourgeoisie | 0.70% | ~24 |
+| Petite Bourgeoisie | 0.70% | ~25 |
 | Family Business | 0.60% | ~21 |
 | Diplomat | 0.60% | ~21 |
 | Master of Malachite | 0.60% | ~21 |
 | Treasure Hunter | 0.50% | ~18 |
 | Out of Time | 0.40% | ~14 |
-| Fowl Play | 0.30% | ~10 |
+| Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500 (Ranked 228)  
+Progressed: 3,501 (Ranked 228)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
-| 2024-01-18 | 3,500 | 5 |
+| 2024-01-18 | 3,501 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

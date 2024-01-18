@@ -449,9 +449,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15022,
+  "EOS_Progressed": 15024,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10754,6 +10754,11 @@
       "Time": "2024-01-18T05:11:30.9296559+00:00",
       "NumProgressed": 15022,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T06:10:36.7475663+00:00",
+      "NumProgressed": 15024,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10774,7 +10779,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6159
+      "UsersEstimate": 6160
     },
     {
       "ID": "BeLikeWater",
@@ -10806,7 +10811,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3605
+      "UsersEstimate": 3606
     },
     {
       "ID": "Eavesdropper",
@@ -10838,7 +10843,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8262
+      "UsersEstimate": 8263
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10910,7 +10915,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "NoMoreTotems",
@@ -10966,7 +10971,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6459
+      "UsersEstimate": 6460
     },
     {
       "ID": "ThisIsDharma",
@@ -11037,7 +11042,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15022,
+      "Progressed": 15024,
       "Completed": 27
     }
   ],
@@ -11045,8 +11050,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:11:30.9296557+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:10:36.747566+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:02:57.4744349+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:11:30.9297085+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:02:57.903647+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:10:36.7476331+00:00"
 }

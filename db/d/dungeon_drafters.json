@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 456,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -777,9 +777,9 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "LW_complete",
@@ -953,9 +953,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "cards_discovered_complete",
@@ -1074,8 +1074,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:04:58.6045915+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:04:25.293715+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.1547329+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:59:23.5982071+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:04:58.6046297+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:58:52.2985951+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:04:25.2937415+00:00"
 }

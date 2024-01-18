@@ -5,10 +5,10 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,476 |
+| First Step Into the Knight | 50.00% | ~41,477 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,204 |
-| Loose Ends | 33.00% | ~27,374 |
-| To the Victor Go the Spoils | 27.00% | ~22,397 |
+| Loose Ends | 33.00% | ~27,375 |
+| To the Victor Go the Spoils | 27.00% | ~22,398 |
 | Knighthood | 26.00% | ~21,568 |
 | Get ReQ'd | 24.00% | ~19,909 |
 | Whispered Words | 24.00% | ~19,909 |
@@ -22,12 +22,12 @@ Rating: 4.19 (Ranked 977)
 | Snow Problem | 19.00% | ~15,761 |
 | The Show Mud Go On | 17.00% | ~14,102 |
 | From Inside Gotham's Walls | 17.00% | ~14,102 |
-| Protector of Gotham | 16.00% | ~13,272 |
+| Protector of Gotham | 16.00% | ~13,273 |
 | In Your Element | 15.00% | ~12,443 |
 | Universal Health Scare | 15.00% | ~12,443 |
-| Rock and a Hard Place | 14.00% | ~11,613 |
-| Cooldown | 14.00% | ~11,613 |
-| Voiceless | 14.00% | ~11,613 |
+| Rock and a Hard Place | 14.00% | ~11,614 |
+| Cooldown | 14.00% | ~11,614 |
+| Voiceless | 14.00% | ~11,614 |
 | Shock Til They Drop | 13.00% | ~10,784 |
 | Seeking Asylum | 13.00% | ~10,784 |
 | End of an Era | 12.00% | ~9,954 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,953 (Ranked 110)  
+Progressed: 82,954 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 135 (0.16%) (Ranked 294)
 | 2024-01-15 | 82,834 | 134 |
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
-| 2024-01-18 | 82,953 | 135 |
+| 2024-01-18 | 82,954 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,216  (Ranked 102)  
 Sum: 5,497 (Ranked 144)  

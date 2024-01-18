@@ -8,19 +8,21 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.30% | ~3,162 |
 | Right Back At Ya | 0.30% | ~3,162 |
+| The Hermit | 0.30% | ~3,162 |
 | The Wheel of Fortune | 0.30% | ~3,162 |
 | True Soldier | 0.30% | ~3,162 |
 | Bushido and Chill | 0.20% | ~2,108 |
 | Gun Fu | 0.20% | ~2,108 |
 | Master Crafter | 0.20% | ~2,108 |
 | Christmas Tree Attack | 0.20% | ~2,108 |
+| The Quick and the Dead | 0.20% | ~2,108 |
 | Life of the Road | 0.20% | ~2,108 |
 | Stanislavski's Method | 0.20% | ~2,108 |
 | The Fool | 0.20% | ~2,108 |
-| The Hermit | 0.20% | ~2,108 |
 | The High Priestess | 0.20% | ~2,108 |
 | The Lovers | 0.20% | ~2,108 |
 | The World | 0.20% | ~2,108 |
+| True Warrior | 0.20% | ~2,108 |
 | Judy vs Night City | 0.20% | ~2,108 |
 | Legend of The Afterlife | 0.20% | ~2,108 |
 | All the President's Men | 0.20% | ~365 |
@@ -35,7 +37,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.10% | ~1,054 |
 | Mean Streets | 0.10% | ~1,054 |
 | Little Tokyo | 0.10% | ~1,054 |
-| The Quick and the Dead | 0.10% | ~1,054 |
 | Must Be Rats | 0.10% | ~1,054 |
 | Breathtaking | 0.10% | ~1,054 |
 | The Wasteland | 0.10% | ~1,054 |
@@ -48,7 +49,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.10% | ~1,054 |
 | Greetings from Pacifica! | 0.10% | ~1,054 |
 | The Jungle | 0.10% | ~1,054 |
-| True Warrior | 0.10% | ~1,054 |
 | Two Heads, One Bullet | 0.10% | ~1,054 |
 | V for Vendetta | 0.10% | ~1,054 |
 | It's Elementary | 0.10% | ~1,054 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,956 (Ranked 17)  
+Progressed: 1,053,985 (Ranked 17)  
 Completed: 3,117 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 3,117 (0.30%) (Ranked 262)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
-| 2024-01-18 | 1,053,956 | 3,117 |
+| 2024-01-18 | 1,053,985 | 3,117 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
 Sum: 502,464 (Ranked 8)  

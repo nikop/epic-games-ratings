@@ -5,40 +5,40 @@ Rating: 4.38 (Ranked 797)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~2,118 |
-| A new Journey | 76.00% | ~2,091 |
-| Departure | 75.00% | ~2,063 |
+| Country Bumpkin | 77.00% | ~2,119 |
+| A new Journey | 76.00% | ~2,092 |
+| Departure | 75.00% | ~2,064 |
 | From X to Y | 74.00% | ~2,036 |
 | Way of Iron | 72.00% | ~1,981 |
 | Mystery Tour | 70.00% | ~1,926 |
-| We brake for nobody | 69.00% | ~1,898 |
-| Brainstorm | 67.00% | ~1,843 |
+| We brake for nobody | 69.00% | ~1,899 |
+| Brainstorm | 67.00% | ~1,844 |
 | Mind the Gap | 66.00% | ~1,816 |
 | Travel Company | 66.00% | ~1,816 |
 | All around the World | 64.00% | ~1,761 |
-| Right through the middle | 59.00% | ~1,623 |
-| Facility Manager | 55.00% | ~1,513 |
-| Poor Devil | 55.00% | ~1,513 |
+| Right through the middle | 59.00% | ~1,624 |
+| Facility Manager | 55.00% | ~1,514 |
+| Poor Devil | 55.00% | ~1,514 |
 | Producer | 52.00% | ~1,431 |
 | Bridge Builder | 43.00% | ~1,183 |
-| Apprentice | 42.00% | ~1,155 |
+| Apprentice | 42.00% | ~1,156 |
 | Access granted | 37.00% | ~1,018 |
 | Going once, going twice, sold | 37.00% | ~1,018 |
-| Bull and bear | 36.00% | ~990 |
-| Stoker | 34.00% | ~935 |
-| Full Steam ahead | 34.00% | ~935 |
-| All mine | 32.00% | ~880 |
-| Financial Shark | 32.00% | ~880 |
+| Bull and bear | 36.00% | ~991 |
+| Stoker | 34.00% | ~936 |
+| Full Steam ahead | 34.00% | ~936 |
+| All mine | 32.00% | ~881 |
+| Financial Shark | 32.00% | ~881 |
 | Mole | 31.00% | ~853 |
 | General Manager | 29.00% | ~798 |
 | Country Life | 29.00% | ~798 |
-| Socializer | 28.00% | ~770 |
-| Hostile Takeover | 26.00% | ~715 |
+| Socializer | 28.00% | ~771 |
+| Hostile Takeover | 26.00% | ~716 |
 | Seven at one stroke | 25.00% | ~688 |
 | Breaking Ground | 23.00% | ~633 |
 | Trailblazer | 22.00% | ~605 |
 | Traffic Junction | 22.00% | ~605 |
-| Traffic Jam | 21.00% | ~578 |
+| Traffic Jam | 20.00% | ~550 |
 | Resistance is futile | 18.00% | ~495 |
 | Bold and beautiful | 17.00% | ~468 |
 | Networker | 17.00% | ~468 |
@@ -61,7 +61,7 @@ Rating: 4.38 (Ranked 797)
 | European Union | 0.60% | ~17 |
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,751 (Ranked 236)  
+Progressed: 2,752 (Ranked 236)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -306,6 +306,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 2,739 | 0 |
 | 2024-01-16 | 2,743 | 0 |
 | 2024-01-17 | 2,751 | 0 |
+| 2024-01-18 | 2,752 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

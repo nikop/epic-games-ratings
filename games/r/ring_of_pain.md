@@ -101,6 +101,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Become The Nightmare | 0.20% | ~486 |
 | Trail Of Death | 0.20% | ~486 |
 | The Boulder | 0.20% | ~486 |
+| Overthrown | 0.20% | ~486 |
 | No Mercy | 0.20% | ~486 |
 | Just Looking Around | 0.20% | ~486 |
 | Champion of the Day | 0.20% | ~486 |
@@ -114,7 +115,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | For Science | 0.10% | ~243 |
 | Here Comes The Airplane | 0.10% | ~243 |
 | Blizzard | 0.10% | ~243 |
-| Overthrown | 0.10% | ~243 |
 | Poor Choices | 0.10% | ~243 |
 | Not What I Meant | 0.10% | ~243 |
 | A Rock And A Hard Place | 0.10% | ~243 |

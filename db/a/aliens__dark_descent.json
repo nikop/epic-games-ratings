@@ -573,9 +573,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6482,
+  "EOS_Progressed": 6483,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10023,6 +10023,11 @@
       "Time": "2024-01-18T05:08:54.7027262+00:00",
       "NumProgressed": 6482,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T06:08:40.9467132+00:00",
+      "NumProgressed": 6483,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10074,7 +10079,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10130,7 +10135,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10146,7 +10151,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3500
+      "UsersEstimate": 3501
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10250,7 +10255,7 @@
       "Name": "Making a Stand",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "ACH_MISSION_05",
@@ -10274,7 +10279,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1621
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10330,7 +10335,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10338,7 +10343,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10354,7 +10359,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10370,7 +10375,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10386,14 +10391,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6482,
+      "Progressed": 6483,
       "Completed": 3
     }
   ],
@@ -10401,8 +10406,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-16T16:58:38.2720301+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:08:54.702726+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:08:40.9467128+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:00:14.5652129+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:08:54.7027884+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:59:27.7549046+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:08:40.9468186+00:00"
 }

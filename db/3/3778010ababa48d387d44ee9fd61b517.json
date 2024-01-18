@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 458,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -676,9 +676,9 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "A_CHESTS_2",
@@ -908,9 +908,9 @@
       "ID": "A_SUNKEN",
       "SetID": "324h56e",
       "Name": "The Sunken City",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "A_TURRET",
@@ -963,8 +963,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:08:49.6771129+00:00",
-  "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:00:34.4048167+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:08:49.6771378+00:00"
+  "LastChanged_Achievements": "2024-01-18T06:08:36.9288348+00:00",
+  "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
+  "LastUpdate_Ratings": "2024-01-18T05:59:41.7770289+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:08:36.9288669+00:00"
 }

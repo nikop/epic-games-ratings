@@ -4,7 +4,7 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 384,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
@@ -412,9 +412,9 @@
       "ID": "ACH_COACH_OF_THE_SEASON",
       "SetID": "1lnhagg",
       "Name": "Standing at the Top",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_EMPTY_ARENA",
@@ -428,17 +428,17 @@
       "ID": "ACH_FIRST_CHAMPIONSHIP",
       "SetID": "1lnhagg",
       "Name": "First is Always Special",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FIRST_STAR_MANAGER",
       "SetID": "1lnhagg",
       "Name": "The First Star",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_FIRST_WIN",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:09:58.8935058+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:09:28.5811722+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:05.9985691+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:57:23.6776333+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:09:58.8935335+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:57:28.808882+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:09:28.5812003+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 744,
+  "Ranking_Rating": 745,
   "Ranking_Popularity": 555,
   "Ranking_PopularitySum": 564,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -354,9 +354,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 29872,
+  "EOS_Progressed": 29874,
   "EOS_Completed": 216,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 772,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -10954,6 +10954,11 @@
       "Time": "2024-01-18T05:11:23.9127916+00:00",
       "NumProgressed": 29872,
       "NumCompleted": 216
+    },
+    {
+      "Time": "2024-01-18T06:10:31.3062559+00:00",
+      "NumProgressed": 29874,
+      "NumCompleted": 216
     }
   ],
   "TotalAchievements": 24,
@@ -10965,7 +10970,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACH_CollectAll",
@@ -10997,7 +11002,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 7169
+      "UsersEstimate": 7170
     },
     {
       "ID": "ACH_Finale",
@@ -11117,7 +11122,7 @@
       "Name": "Sector 4",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 5974
+      "UsersEstimate": 5975
     },
     {
       "ID": "ACH_Sector5",
@@ -11125,7 +11130,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3883
+      "UsersEstimate": 3884
     },
     {
       "ID": "ACH_Sector6",
@@ -11156,7 +11161,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 29872,
+      "Progressed": 29874,
       "Completed": 216
     }
   ],
@@ -11164,8 +11169,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-15T21:57:18.9189471+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:11:23.9127913+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:10:31.3062556+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:29.7811569+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:59:18.8123929+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:11:23.9128573+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:58:48.9415495+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:10:31.3063313+00:00"
 }

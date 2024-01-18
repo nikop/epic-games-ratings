@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,973 |
-| Alt+F4 | 11.00% | ~27,343 |
+| Sowwy! | 37.00% | ~91,974 |
+| Alt+F4 | 11.00% | ~27,344 |
 | Where's that freaking Dwarf? | 9.00% | ~22,372 |
 | Déjà vu | 8.00% | ~19,886 |
 | Sock! SOCK! | 6.00% | ~14,915 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,576 (Ranked 73)  
+Progressed: 248,578 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 9 (0.00%) (Ranked 404)
 | 2024-01-15 | 248,300 | 9 |
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
-| 2024-01-18 | 248,576 | 9 |
+| 2024-01-18 | 248,578 | 9 |
 ## Awards
 Max (Character Customization): 272  (Ranked 278)  
 Sum: 575 (Ranked 331)  

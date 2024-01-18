@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1907,8 +1907,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:10:10.7626064+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:09:37.333428+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:59:44.2783214+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:10:10.7626626+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:59:06.3409711+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:09:37.3334882+00:00"
 }

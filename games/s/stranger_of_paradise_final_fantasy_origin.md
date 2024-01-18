@@ -6,23 +6,23 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~80,064 |
-| No Escape | 86.00% | ~70,984 |
+| Manifestation of the Soul | 97.00% | ~80,065 |
+| No Escape | 86.00% | ~70,985 |
 | Seeker of Power | 84.00% | ~69,334 |
-| Hopes and Dreams | 82.00% | ~67,683 |
-| Lantern Smasher | 78.00% | ~64,381 |
-| The Pirate's Way | 73.00% | ~60,254 |
-| Dark Crystal, Warrior's Heart | 70.00% | ~57,778 |
-| The King of the Dark Elves | 68.00% | ~56,127 |
-| Memories of the Distant Past | 66.00% | ~54,476 |
+| Hopes and Dreams | 82.00% | ~67,684 |
+| Lantern Smasher | 78.00% | ~64,382 |
+| The Pirate's Way | 73.00% | ~60,255 |
+| Dark Crystal, Warrior's Heart | 70.00% | ~57,779 |
+| The King of the Dark Elves | 68.00% | ~56,128 |
+| Memories of the Distant Past | 66.00% | ~54,477 |
 | Distortion's Progeny | 62.00% | ~51,175 |
-| Savant | 61.00% | ~50,349 |
-| A Landscape of Memory | 58.00% | ~47,873 |
+| Savant | 61.00% | ~50,350 |
+| A Landscape of Memory | 58.00% | ~47,874 |
 | The Wind's Light | 54.00% | ~44,572 |
 | Vague Remembrances | 49.00% | ~40,445 |
 | The Fire's Light | 47.00% | ~38,794 |
 | Phantom Memories | 47.00% | ~38,794 |
-| Imbued Memories | 46.00% | ~37,968 |
+| Imbued Memories | 46.00% | ~37,969 |
 | The Earth's Light | 45.00% | ~37,143 |
 | Shared Recollections | 42.00% | ~34,667 |
 | The Water's Light | 40.00% | ~33,016 |
@@ -30,30 +30,30 @@ Number of Ratings: 1,919  (23.09.2022)
 | Malice Takes Root | 37.00% | ~30,540 |
 | Path of the Dark Knight | 37.00% | ~30,540 |
 | Path of the Breaker | 37.00% | ~30,540 |
-| Duty's Course | 36.00% | ~29,714 |
-| Path of the Paladin | 36.00% | ~29,714 |
+| Duty's Course | 36.00% | ~29,715 |
+| Path of the Paladin | 36.00% | ~29,715 |
 | Path of the Liberator | 35.00% | ~28,889 |
 | Led by the Nose | 34.00% | ~28,064 |
 | Path of the Void Knight | 34.00% | ~28,064 |
 | Path of the Tyrant | 34.00% | ~28,064 |
-| Terminus of Fate | 33.00% | ~27,238 |
-| Path of the Ninja | 33.00% | ~27,238 |
-| His Name Is Garland | 33.00% | ~27,238 |
+| Terminus of Fate | 33.00% | ~27,239 |
+| Path of the Ninja | 33.00% | ~27,239 |
+| His Name Is Garland | 33.00% | ~27,239 |
 | Path of the Assassin | 32.00% | ~26,413 |
 | Seeker of Ultimate Power | 24.00% | ~19,810 |
 | Artifact Collector | 22.00% | ~18,159 |
 | Polymath | 22.00% | ~18,159 |
-| True Potential | 21.00% | ~17,333 |
+| True Potential | 21.00% | ~17,334 |
 | Origin of True Chaos | 20.00% | ~16,508 |
 | Master's Awakening | 19.00% | ~15,683 |
 | Jack-of-All-Trades | 19.00% | ~15,683 |
-| Cycle of Darkness | 16.00% | ~13,206 |
+| Cycle of Darkness | 16.00% | ~13,207 |
 | Job Master | 8.00% | ~6,603 |
 | Crest Bearer | 7.00% | ~5,778 |
 | Strangers' Memories | 3.00% | ~2,476 |
 | A Tale of Origins and Endings | 2.00% | ~1,651 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,540 (Ranked 111)  
+Progressed: 82,541 (Ranked 111)  
 Completed: 2,236 (2.71%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,21 +325,21 @@ Completed: 2,236 (2.71%) (Ranked 119)
 | 2024-01-15 | 82,505 | 2,236 |
 | 2024-01-16 | 82,516 | 2,236 |
 | 2024-01-17 | 82,537 | 2,236 |
-| 2024-01-18 | 82,540 | 2,236 |
+| 2024-01-18 | 82,541 | 2,236 |
 ## Awards
 Max (Great Boss Battles): 783  (Ranked 188)  
-Sum: 1,612 (Ranked 242)  
+Sum: 1,614 (Ranked 242)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,024 |
 | This game has Great Boss Battles | 783 |
 | This game is Extremely Fun | 115 |
-| This game is Highly Recommended | 114 |
+| This game is Highly Recommended | 115 |
 | This game has Diverse Characters | 112 |
 | This game has Amazing Storytelling | 107 |
 | This game has Quickly Understood Controls | 106 |
-| This game has Challenging Combat | 98 |
+| This game has Challenging Combat | 99 |
 | This game has Amazing Characters | 93 |
 | This game has Unique Visuals | 84 |
 | This game has a Creative Community | 58 |
@@ -480,3 +480,4 @@ Diff (max vs sum): -54
 | 2024-01-14 | 4.51 | - | 782 | 1,610 |
 | 2024-01-16 | 4.51 | - | 783 | 1,611 |
 | 2024-01-17 | 4.51 | - | 783 | 1,612 |
+| 2024-01-18 | 4.51 | - | 783 | 1,614 |

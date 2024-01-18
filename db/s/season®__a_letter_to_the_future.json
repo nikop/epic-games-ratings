@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2154,
+  "EOS_Progressed": 2155,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
@@ -5174,6 +5174,11 @@
       "Time": "2024-01-18T03:10:46.8990867+00:00",
       "NumProgressed": 2154,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2024-01-18T06:10:29.5418778+00:00",
+      "NumProgressed": 2155,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 16,
@@ -5241,7 +5246,7 @@
       "Name": "Home Leaver",
       "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1681
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5312,7 +5317,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2154,
+      "Progressed": 2155,
       "Completed": 79
     }
   ],
@@ -5320,8 +5325,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:11:21.7696516+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:10:29.5418775+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.0756455+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:57:45.4350827+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:11:21.7696882+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:57:43.9658166+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:10:29.5419163+00:00"
 }

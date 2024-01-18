@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -308,7 +308,7 @@
   "Tags": [],
   "EOS_Progressed": 2602,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4833,9 +4833,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1665
     },
     {
       "ID": "ACHV_03",
@@ -5290,8 +5290,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:06:23.0117421+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:05:26.895802+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-18T05:03:24.3111675+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:06:23.0117986+00:00"
+  "LastUpdate_Ratings": "2024-01-18T06:03:16.1655197+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:05:26.8958828+00:00"
 }

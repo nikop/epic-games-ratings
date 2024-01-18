@@ -5,19 +5,19 @@ Rating: 4.87 (Ranked 24)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 61.00% | ~1,737 |
+| That's the spirit | 61.00% | ~1,738 |
 | Welcome to the Tower | 54.00% | ~1,538 |
-| The great escape | 46.00% | ~1,310 |
-| The Preacher's fate | 44.00% | ~1,253 |
-| A new dawn | 38.00% | ~1,082 |
-| Scholar | 34.00% | ~968 |
+| The great escape | 46.00% | ~1,311 |
+| The Preacher's fate | 44.00% | ~1,254 |
+| A new dawn | 38.00% | ~1,083 |
+| Scholar | 34.00% | ~969 |
 | The darkness | 33.00% | ~940 |
-| A good beginning | 32.00% | ~911 |
-| True G3M4R | 32.00% | ~911 |
-| One last step | 30.00% | ~854 |
-| I did it | 28.00% | ~797 |
-| Cable guy | 28.00% | ~797 |
-| Half the way | 28.00% | ~797 |
+| A good beginning | 32.00% | ~912 |
+| True G3M4R | 32.00% | ~912 |
+| One last step | 30.00% | ~855 |
+| Cable guy | 29.00% | ~826 |
+| I did it | 28.00% | ~798 |
+| Half the way | 28.00% | ~798 |
 | In this together | 27.00% | ~769 |
 | Peace walker | 27.00% | ~769 |
 | Rascal | 27.00% | ~769 |
@@ -31,7 +31,7 @@ Rating: 4.87 (Ranked 24)
 | For its own good | 15.00% | ~427 |
 | Fashion victim | 10.00% | ~285 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,848 (Ranked 235)  
+Progressed: 2,849 (Ranked 235)  
 Completed: 219 (7.69%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 219 (7.69%) (Ranked 52)
 | 2024-01-15 | 2,799 | 211 |
 | 2024-01-16 | 2,816 | 215 |
 | 2024-01-17 | 2,841 | 218 |
-| 2024-01-18 | 2,848 | 219 |
+| 2024-01-18 | 2,849 | 219 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

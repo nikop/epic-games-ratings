@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 1733,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4640,9 +4640,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 988
+      "UsersEstimate": 1005
     },
     {
       "ID": "AchvAllMemories",
@@ -4881,8 +4881,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-18T05:11:05.8587959+00:00",
+  "LastChanged_Achievements": "2024-01-18T06:10:17.6841132+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-18T04:58:52.733161+00:00",
-  "LastUpdate_Achievements": "2024-01-18T05:11:05.8588363+00:00"
+  "LastUpdate_Ratings": "2024-01-18T05:58:30.8023195+00:00",
+  "LastUpdate_Achievements": "2024-01-18T06:10:17.6841598+00:00"
 }
