@@ -4,11 +4,11 @@
   "ProductSlug": "riders-republic",
   "Ranking_Rating": 151,
   "Ranking_Popularity": 175,
-  "Ranking_PopularitySum": 113,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-28T04:00:00+00:00",
     "PcReleaseDate": "2021-10-28T04:00:00+00:00",
@@ -11371,11 +11371,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 8431,
       "NumberOfAwardsMax": 899
+    },
+    {
+      "Time": "2024-01-18T20:01:54.9117676+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8434,
+      "NumberOfAwardsMax": 901
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8431,
-  "NumberOfAwardsMax": 899,
+  "NumberOfAwards": 8434,
+  "NumberOfAwardsMax": 901,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -11394,7 +11400,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 842
+      "Count": 843
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11418,7 +11424,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 899
+      "Count": 901
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11468,8 +11474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-01-18T19:02:45.1765875+00:00",
+  "LastChanged": "2024-01-18T20:01:54.9117674+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.7252631+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:02:45.1765881+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:08:53.9992858+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:01:54.911768+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:08:21.5156443+00:00"
 }

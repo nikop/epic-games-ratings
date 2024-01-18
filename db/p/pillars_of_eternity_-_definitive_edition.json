@@ -5,10 +5,10 @@
   "Ranking_Rating": 304,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 156,
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 289,
   "Ranking_EOS_NewPlayers": 3856,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
     "PcReleaseDate": "2015-03-26T16:00:00+00:00",
@@ -3627,9 +3627,9 @@
       "Count": 190
     }
   ],
-  "EOS_Progressed": 1074,
+  "EOS_Progressed": 1073,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -2,
+  "EOS_NewPlayers": -3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -4057,6 +4057,11 @@
       "Time": "2024-01-16T15:03:54.9876887+00:00",
       "NumProgressed": 1074,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T20:05:47.754556+00:00",
+      "NumProgressed": 1073,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 48,
@@ -4076,7 +4081,7 @@
       "Name": "Completed Act II",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 182
     },
     {
       "ID": "achievement_03",
@@ -4212,7 +4217,7 @@
       "Name": "The Heir of Caed Nua",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 139
     },
     {
       "ID": "achievement_20",
@@ -4348,7 +4353,7 @@
       "Name": "Kickstarter Backer",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 901
     },
     {
       "ID": "achievement_37",
@@ -4451,15 +4456,15 @@
     {
       "ID": "70p237j",
       "IsBase": true,
-      "Progressed": 1074,
+      "Progressed": 1073,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2024-01-18T16:00:00.8881988+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:06:39.9431062+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:05:47.7545558+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:31.0884942+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:00:57.8435909+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:06:39.9431431+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:00:05.665882+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:05:47.7546006+00:00"
 }

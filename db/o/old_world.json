@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2328,9 +2328,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16968,
+  "EOS_Progressed": 16970,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20418,6 +20418,11 @@
       "Time": "2024-01-18T19:12:02.8630906+00:00",
       "NumProgressed": 16968,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T20:11:27.6531427+00:00",
+      "NumProgressed": 16970,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20579,9 +20584,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1",
       "SetID": "9201eeb",
       "Name": "Carthage - Ox Hide",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
@@ -21027,9 +21032,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -21323,9 +21328,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_STATESMEN",
       "SetID": "7l38kb8",
       "Name": "Statesmen",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_TRADERS",
@@ -21603,9 +21608,9 @@
       "ID": "ACHIEVEMENT_GREECE4_WIN_OLYMPIAS_STORYLINE",
       "SetID": "9201eeb",
       "Name": "Queen of Lies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_GREECE4_WIN_PAUSANIAS_STORYLINE",
@@ -21747,9 +21752,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
       "SetID": "9201eeb",
       "Name": "Acropolis",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 339
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_APADANA",
@@ -22403,9 +22408,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -23292,21 +23297,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16968,
+      "Progressed": 16970,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16968,
+      "Progressed": 16970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:12:02.8630903+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:11:27.6531425+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:03:47.3499512+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:12:02.8641433+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:02:55.2093054+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:11:27.6540653+00:00"
 }

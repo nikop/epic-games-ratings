@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2036,9 +2036,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2284,9 +2284,9 @@
       "ID": "ACH_OPEN_FLUFF_MENU",
       "SetID": "4n84pon",
       "Name": "Earthly Pleasures",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2397,8 +2397,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:10:59.4564481+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:10:26.3416663+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:01:17.4840756+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:10:59.456485+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:00:25.5385337+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:10:26.3417134+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Legend Bowl",
   "ProductSlug": "legend-bowl-10bc86",
   "Ranking_Rating": 122,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-02T23:00:00+00:00",
     "PcReleaseDate": "2021-09-02T00:00:00+00:00",
@@ -66,6 +66,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.9619923+00:00",
   "LastChanged": "2024-01-15T17:57:49.3340391+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.1091438+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:01:06.5169738+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:08:25.3607745+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:00:14.049668+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:07:32.5638891+00:00"
 }

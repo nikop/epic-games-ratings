@@ -3,12 +3,12 @@
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
   "Ranking_Rating": 323,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 195,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7809,
+  "EOS_Progressed": 7810,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -7063,6 +7063,11 @@
       "Time": "2024-01-18T18:03:31.7355579+00:00",
       "NumProgressed": 7809,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-18T20:04:03.4691251+00:00",
+      "NumProgressed": 7810,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7082,7 +7087,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -7226,7 +7231,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4373
+      "UsersEstimate": 4374
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7289,15 +7294,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7809,
+      "Progressed": 7810,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:04:54.3650638+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:04:03.4691199+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:04:37.4296997+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:04:54.3651236+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:03:45.3540278+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:04:03.469179+00:00"
 }

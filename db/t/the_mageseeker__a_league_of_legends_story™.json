@@ -3,12 +3,12 @@
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
   "Ranking_Rating": 113,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -188,10 +188,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3477,
-  "EOS_Completed": 32,
-  "EOS_NewPlayers": 56,
-  "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 0.92,
+  "EOS_Completed": 33,
+  "EOS_NewPlayers": 55,
+  "EOS_NewCompleters": 10,
+  "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.6138039+00:00",
@@ -6642,6 +6642,11 @@
       "Time": "2024-01-18T13:09:44.5711342+00:00",
       "NumProgressed": 3477,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2024-01-18T20:04:13.9124886+00:00",
+      "NumProgressed": 3477,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -7077,15 +7082,15 @@
       "ID": "3pe2bac",
       "IsBase": true,
       "Progressed": 3477,
-      "Completed": 32
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:05:04.430571+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:04:13.9124882+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:00:40.7204029+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:05:04.4306379+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:59:48.2382409+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:04:13.9125849+00:00"
 }

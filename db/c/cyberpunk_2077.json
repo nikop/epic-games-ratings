@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 23,
+  "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -18588,18 +18588,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 503435,
       "NumberOfAwardsMax": 141662
+    },
+    {
+      "Time": "2024-01-18T20:03:32.6116639+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 503916,
+      "NumberOfAwardsMax": 142143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 503435,
-  "NumberOfAwardsMax": 141662,
+  "NumberOfAwards": 503916,
+  "NumberOfAwardsMax": 142143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 141662
+      "Count": 142143
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18668,9 +18674,9 @@
       "Count": 19395
     }
   ],
-  "EOS_Progressed": 1054434,
+  "EOS_Progressed": 1054460,
   "EOS_Completed": 3123,
-  "EOS_NewPlayers": 8021,
+  "EOS_NewPlayers": 7972,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -49978,6 +49984,11 @@
       "Time": "2024-01-18T19:10:13.6541923+00:00",
       "NumProgressed": 1054434,
       "NumCompleted": 3123
+    },
+    {
+      "Time": "2024-01-18T20:09:40.5094707+00:00",
+      "NumProgressed": 1054460,
+      "NumCompleted": 3123
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50525,21 +50536,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054434,
+      "Progressed": 1054460,
       "Completed": 3123
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183057,
+      "Progressed": 183083,
       "Completed": 10653
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-18T18:03:14.1162775+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:10:13.6541919+00:00",
+  "LastChanged": "2024-01-18T20:03:32.6116638+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:09:40.5094704+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:04:24.7389899+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:10:13.6543509+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:03:32.6116643+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:09:40.50962+00:00"
 }

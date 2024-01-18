@@ -18,7 +18,7 @@ Number of Ratings: 546  (23.09.2022)
 | Quick Movements | 30.00% | ~4,455 |
 | Go Home... | 28.00% | ~4,158 |
 | The Final Battle of the First Hero | 27.00% | ~4,009 |
-| The Hero Killer | 25.00% | ~3,712 |
+| The Hero Killer | 26.00% | ~3,861 |
 | Brain at Full Throttle | 20.00% | ~2,970 |
 | Rookies Welcome | 18.00% | ~2,673 |
 | Deadly Power | 16.00% | ~2,376 |

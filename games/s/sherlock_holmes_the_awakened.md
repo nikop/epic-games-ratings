@@ -5,37 +5,37 @@ Rating: 4.52 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~928 |
-| To Hell In A Handcart | 61.00% | ~913 |
-| High Profile | 54.00% | ~808 |
-| Whispers In The Dark | 52.00% | ~778 |
-| Fond Memories | 50.00% | ~748 |
-| A Method To His Madness | 48.00% | ~718 |
-| History Check | 47.00% | ~703 |
-| The New World | 45.00% | ~673 |
-| Open Sesame | 44.00% | ~658 |
-| Gaze Into The Abyss | 43.00% | ~643 |
-| Sticky Fingers | 43.00% | ~643 |
-| Knives Out | 43.00% | ~643 |
-| Land, Ho! | 43.00% | ~643 |
-| Lock, Stock, And Barrel | 42.00% | ~628 |
-| Back In The Saddle | 42.00% | ~628 |
-| No Man Is An Island | 42.00% | ~628 |
-| At Wits' End | 41.00% | ~613 |
-| Fhtagn! | 40.00% | ~598 |
-| Up In Flames | 39.00% | ~583 |
-| Bookworm | 38.00% | ~568 |
+| Read Between The Lines | 62.00% | ~929 |
+| To Hell In A Handcart | 61.00% | ~914 |
+| High Profile | 54.00% | ~809 |
+| Whispers In The Dark | 52.00% | ~779 |
+| Fond Memories | 50.00% | ~749 |
+| A Method To His Madness | 48.00% | ~719 |
+| History Check | 47.00% | ~704 |
+| The New World | 45.00% | ~674 |
+| Open Sesame | 44.00% | ~659 |
+| Gaze Into The Abyss | 43.00% | ~644 |
+| Sticky Fingers | 43.00% | ~644 |
+| Knives Out | 43.00% | ~644 |
+| Land, Ho! | 43.00% | ~644 |
+| Lock, Stock, And Barrel | 42.00% | ~629 |
+| Back In The Saddle | 42.00% | ~629 |
+| No Man Is An Island | 42.00% | ~629 |
+| At Wits' End | 41.00% | ~614 |
+| Up In Flames | 39.00% | ~584 |
+| Fhtagn! | 39.00% | ~584 |
+| Bookworm | 38.00% | ~569 |
 | Going Once... | 36.00% | ~539 |
 | Let Me Be Frank | 34.00% | ~509 |
 | No Stone Unturned | 32.00% | ~479 |
 | Brain Food | 31.00% | ~464 |
-| Read It And Weep | 20.00% | ~299 |
-| Curiosity Killed The Cat | 19.00% | ~284 |
-| Big Breakthrough | 13.00% | ~194 |
+| Read It And Weep | 20.00% | ~300 |
+| Curiosity Killed The Cat | 19.00% | ~285 |
+| Big Breakthrough | 13.00% | ~195 |
 | Reawakened | 4.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,496 (Ranked 272)  
-Completed: 49 (3.28%) (Ranked 106)  
+Progressed: 1,498 (Ranked 272)  
+Completed: 49 (3.27%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 49 (3.28%) (Ranked 106)
 | 2024-01-15 | 1,457 | 48 |
 | 2024-01-16 | 1,462 | 48 |
 | 2024-01-17 | 1,482 | 49 |
-| 2024-01-18 | 1,496 | 49 |
+| 2024-01-18 | 1,498 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

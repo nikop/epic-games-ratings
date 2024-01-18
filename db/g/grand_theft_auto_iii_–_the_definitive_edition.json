@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 957,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 174,
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12407,
+  "EOS_Progressed": 12409,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -16071,6 +16071,11 @@
       "Time": "2024-01-18T18:04:24.2079966+00:00",
       "NumProgressed": 12407,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2024-01-18T20:05:04.3334906+00:00",
+      "NumProgressed": 12409,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 29,
@@ -16082,7 +16087,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10298
+      "UsersEstimate": 10299
     },
     {
       "ID": "ACH02",
@@ -16090,7 +16095,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4342
+      "UsersEstimate": 4343
     },
     {
       "ID": "ACH03",
@@ -16106,7 +16111,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4840
     },
     {
       "ID": "ACH05",
@@ -16122,7 +16127,7 @@
       "Name": "Street Sweeper",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "ACH07",
@@ -16154,7 +16159,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "ACH11",
@@ -16186,7 +16191,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2233
+      "UsersEstimate": 2234
     },
     {
       "ID": "ACH15",
@@ -16226,7 +16231,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "ACH20",
@@ -16313,7 +16318,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12407,
+      "Progressed": 12409,
       "Completed": 92
     }
   ],
@@ -16321,8 +16326,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:05:55.5451707+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:05:04.3334903+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:00:08.8205181+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:05:55.5452374+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:59:16.2704825+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:05:04.3335615+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.86 (Ranked 34)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,736 |
-| Start with a bang! | 55.00% | ~9,562 |
-| You can pet the cat! | 50.00% | ~8,692 |
-| Who put gears in there? | 41.00% | ~7,128 |
-| Cream of the Crop | 37.00% | ~6,432 |
+| Feeling the beat! | 56.00% | ~9,737 |
+| Start with a bang! | 55.00% | ~9,563 |
+| You can pet the cat! | 50.00% | ~8,694 |
+| Who put gears in there? | 41.00% | ~7,129 |
+| Cream of the Crop | 37.00% | ~6,433 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,259 |
-| You got this, Peppermint? | 31.00% | ~5,389 |
+| You got this, Peppermint? | 31.00% | ~5,390 |
 | Perfect Parry | 29.00% | ~5,042 |
 | Alright, that felt AWESOME! | 28.00% | ~4,868 |
-| I play my own way! | 25.00% | ~4,346 |
+| I play my own way! | 25.00% | ~4,347 |
 | This will cost you big time | 23.00% | ~3,999 |
 | Uh, they were broken when I got here | 23.00% | ~3,999 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,651 |
 | Kissing the sky! | 21.00% | ~3,651 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,129 |
-| The Negotiator | 17.00% | ~2,955 |
-| Does that say weakpoint? | 17.00% | ~2,955 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,130 |
+| The Negotiator | 17.00% | ~2,956 |
+| Does that say weakpoint? | 17.00% | ~2,956 |
 | You must like calling me in, Chai | 15.00% | ~2,608 |
 | Headliner | 14.00% | ~2,434 |
 | Out in a puff of smoke | 14.00% | ~2,434 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,385 (Ranked 168)  
+Progressed: 17,387 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-15 | 17,227 | 8 |
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
-| 2024-01-18 | 17,385 | 8 |
+| 2024-01-18 | 17,387 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 535)  

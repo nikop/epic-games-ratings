@@ -8,16 +8,16 @@ Rating: 4.22 (Ranked 957)
 | The Outer Way | 28.00% | ~6,311 |
 | Flesh Wound | 27.00% | ~6,086 |
 | Desperate Times | 26.00% | ~5,860 |
-| Paper Jams | 24.00% | ~5,409 |
+| Paper Jams | 24.00% | ~5,410 |
 | Get a Grip | 23.00% | ~5,184 |
 | Chew 'Em Up | 22.00% | ~4,959 |
 | Reforged | 20.00% | ~4,508 |
-| Float Like A Butterfly | 19.00% | ~4,282 |
+| Float Like A Butterfly | 19.00% | ~4,283 |
 | Workplace Hazard | 18.00% | ~4,057 |
 | If the SHU Fits... | 18.00% | ~4,057 |
 | Without A Paddle | 15.00% | ~3,381 |
-| In the Pipe, Five by Five | 14.00% | ~3,155 |
-| Crash Site | 14.00% | ~3,155 |
+| In the Pipe, Five by Five | 14.00% | ~3,156 |
+| Crash Site | 14.00% | ~3,156 |
 | Two Heads Are Better Than One | 13.00% | ~2,930 |
 | Power Up | 13.00% | ~2,930 |
 | Giving Back | 11.00% | ~2,479 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 957)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,539 (Ranked 151)  
+Progressed: 22,540 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,17 +318,17 @@ Completed: 82 (0.36%) (Ranked 251)
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
 | 2024-01-17 | 22,513 | 82 |
-| 2024-01-18 | 22,539 | 82 |
+| 2024-01-18 | 22,540 | 82 |
 ## Awards
 Max (Amazing Characters): 136  (Ranked 346)  
-Sum: 665 (Ranked 318)  
+Sum: 666 (Ranked 318)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 136 |
 | This game is Highly Recommended | 123 |
 | This game is Extremely Fun | 122 |
-| This game has Quickly Understood Controls | 114 |
+| This game has Quickly Understood Controls | 115 |
 | This game has Amazing Storytelling | 114 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 56 |
@@ -540,3 +540,4 @@ Diff (max vs sum): 28
 | 2024-01-15 | 4.22 | 135 | 654 |
 | 2024-01-16 | 4.22 | 135 | 656 |
 | 2024-01-17 | 4.22 | 136 | 665 |
+| 2024-01-18 | 4.22 | 136 | 666 |

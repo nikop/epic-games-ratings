@@ -14,13 +14,13 @@ Rating: 3.75 (Ranked 1,096)
 | Curious | 42.00% | ~272 |
 | Everybody lies | 36.00% | ~233 |
 | Trick or Treat? | 23.00% | ~149 |
+| Sysadmin | 22.00% | ~143 |
 | There is another way | 22.00% | ~143 |
 | Every little helps | 21.00% | ~136 |
-| Sysadmin | 21.00% | ~136 |
+| Annoying | 19.00% | ~123 |
 | Hacker | 19.00% | ~123 |
 | He is just a child | 19.00% | ~123 |
 | The Walking Robot Among Us | 19.00% | ~123 |
-| Annoying | 18.00% | ~117 |
 | Goody | 17.00% | ~110 |
 | Uncertain | 17.00% | ~110 |
 | Ace | 16.00% | ~104 |

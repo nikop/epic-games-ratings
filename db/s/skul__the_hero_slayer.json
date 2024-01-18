@@ -1579,7 +1579,7 @@
   ],
   "EOS_Progressed": 14849,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10429,9 +10429,9 @@
       "ID": "HeroSlayer",
       "SetID": "97dk767",
       "Name": "The Hero Killer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 3712
+      "UsersEstimate": 3861
     },
     {
       "ID": "LeoniasFall",
@@ -10541,8 +10541,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-18T14:57:31.8456825+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:10:48.980772+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:10:15.5099224+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:58:32.7851479+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:10:48.9808263+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:57:42.549475+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:10:15.509967+00:00"
 }

@@ -9,9 +9,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 14.00% | ~1,123 |
 | Lost and Found | 9.00% | ~722 |
 | Autodidact | 8.00% | ~10,652 |
-| This Belongs in a Museum | 7.00% | ~9,320 |
-| Overdue Notice | 7.00% | ~9,320 |
-| This guy... again? | 7.00% | ~561 |
+| This Belongs in a Museum | 7.00% | ~9,321 |
+| Overdue Notice | 7.00% | ~9,321 |
+| This guy... again? | 7.00% | ~562 |
 | Serenity Now! | 6.00% | ~7,989 |
 | Creep and Sleep | 6.00% | ~7,989 |
 | Meat and Greet | 6.00% | ~7,989 |
@@ -21,16 +21,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,989 |
 | Ploughshares to Swords | 6.00% | ~481 |
 | Bloody Graduation | 6.00% | ~481 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,657 |
-| It Rings a Bell | 5.00% | ~6,657 |
-| Not Today! | 5.00% | ~6,657 |
-| It Happens | 5.00% | ~6,657 |
-| Merry Time | 5.00% | ~6,657 |
-| Harvest Festival | 5.00% | ~6,657 |
-| Whale | 5.00% | ~6,657 |
-| A Place to Lay Your Head | 5.00% | ~6,657 |
-| FNG | 5.00% | ~6,657 |
-| Nope | 5.00% | ~6,657 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,658 |
+| It Rings a Bell | 5.00% | ~6,658 |
+| Not Today! | 5.00% | ~6,658 |
+| It Happens | 5.00% | ~6,658 |
+| Merry Time | 5.00% | ~6,658 |
+| Harvest Festival | 5.00% | ~6,658 |
+| Whale | 5.00% | ~6,658 |
+| A Place to Lay Your Head | 5.00% | ~6,658 |
+| FNG | 5.00% | ~6,658 |
+| Nope | 5.00% | ~6,658 |
 | Friends 'Til the End | 5.00% | ~401 |
 | Resurrection | 4.00% | ~5,326 |
 | Unleash Hell | 4.00% | ~5,326 |
@@ -46,14 +46,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,326 |
 | A Clear Conscience | 4.00% | ~5,326 |
 | Unshackled | 4.00% | ~5,326 |
-| Hope Rekindled | 3.00% | ~3,994 |
-| Predator | 3.00% | ~3,994 |
-| Deprogramming | 3.00% | ~3,994 |
-| Reverse Banditry | 3.00% | ~3,994 |
-| When You Want Something Done Right | 3.00% | ~3,994 |
-| Utopia | 3.00% | ~3,994 |
-| Hot Air | 3.00% | ~3,994 |
-| Road Trip | 3.00% | ~3,994 |
+| Hope Rekindled | 3.00% | ~3,995 |
+| Predator | 3.00% | ~3,995 |
+| Deprogramming | 3.00% | ~3,995 |
+| Reverse Banditry | 3.00% | ~3,995 |
+| When You Want Something Done Right | 3.00% | ~3,995 |
+| Utopia | 3.00% | ~3,995 |
+| Hot Air | 3.00% | ~3,995 |
+| Road Trip | 3.00% | ~3,995 |
 | This Looks Familiar | 2.00% | ~2,663 |
 | Ichthyophobic | 2.00% | ~2,663 |
 | No More Mouths to Feed | 2.00% | ~2,663 |
@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,663 |
 | Handled | 2.00% | ~2,663 |
 | Body of Work | 2.00% | ~2,663 |
-| Clearing the Ledger | 1.00% | ~1,331 |
-| Hat Trick | 1.00% | ~1,331 |
-| Shrine of Reflection | 1.00% | ~1,331 |
-| Triage | 1.00% | ~1,331 |
+| Clearing the Ledger | 1.00% | ~1,332 |
+| Hat Trick | 1.00% | ~1,332 |
+| Shrine of Reflection | 1.00% | ~1,332 |
+| Triage | 1.00% | ~1,332 |
 | No Mercy | 1.00% | ~80 |
 | Slap on the Wrist | 1.00% | ~80 |
 | For Old Time' Sake | 1.00% | ~80 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,149 (Ranked 92)  
+Progressed: 133,154 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,15 +349,15 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,149 | 5 |
+| 2024-01-18 | 133,154 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
-Sum: 21,739 (Ranked 58)  
+Sum: 21,744 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,040 |
-| This game has Diverse Characters | 1,869 |
+| This game has Diverse Characters | 1,874 |
 | This game has Challenging Combat | 1,686 |
 | This game is Highly Recommended | 1,610 |
 | This game has Amazing Characters | 1,539 |
@@ -726,4 +726,4 @@ Diff (max vs sum): -6
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
-| 2024-01-18 | 4.69 | - | 8,040 | 21,739 |
+| 2024-01-18 | 4.69 | - | 8,040 | 21,744 |

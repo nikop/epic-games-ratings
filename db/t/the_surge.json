@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5456,
+  "EOS_Progressed": 5457,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5410,6 +5410,11 @@
       "Time": "2024-01-18T19:07:10.0210621+00:00",
       "NumProgressed": 5456,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-18T20:06:17.5745722+00:00",
+      "NumProgressed": 5457,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5421,7 +5426,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5437,7 +5442,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5469,7 +5474,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4583
+      "UsersEstimate": 4584
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5477,7 +5482,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5129
+      "UsersEstimate": 5130
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5491,9 +5496,9 @@
       "ID": "ID_ACHIEV_10",
       "SetID": "98bke8c",
       "Name": "Hey Listen",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1910
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5557,7 +5562,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -5637,7 +5642,7 @@
       "Name": "First Day on the Job",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4092
+      "UsersEstimate": 4093
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5669,7 +5674,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5701,7 +5706,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1800
+      "UsersEstimate": 1801
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5773,7 +5778,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5797,7 +5802,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -5837,7 +5842,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -5869,7 +5874,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -5956,15 +5961,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5456,
+      "Progressed": 5457,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:07:10.0210618+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:06:17.5745721+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:00:58.0339748+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:07:10.0211378+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:00:05.8533077+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:06:17.574639+00:00"
 }

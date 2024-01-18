@@ -16,7 +16,9 @@
 | Seed of Love | 3.00% | ~7 |
 | Who's a Good Plant? | 3.00% | ~7 |
 | Budding Scientist | 2.00% | ~4 |
+| Feet in the Water | 2.00% | ~4 |
 | Hands in the Dirt | 2.00% | ~4 |
+| Head in the Clouds | 2.00% | ~4 |
 | Lab-Room | 2.00% | ~4 |
 | Landlord | 2.00% | ~4 |
 | Let's Go for a Walk | 2.00% | ~4 |
@@ -27,9 +29,7 @@
 | Spray Spray Spray | 2.00% | ~4 |
 | Water Water Water | 2.00% | ~4 |
 | Balcony Optimizer | 1.00% | ~2 |
-| Feet in the Water | 1.00% | ~2 |
 | Food for Insects | 1.00% | ~2 |
-| Head in the Clouds | 1.00% | ~2 |
 | Say Cheese! | 1.00% | ~2 |
 | The Best One | 1.00% | ~2 |
 | Weeds Have Feelings Too | 1.00% | ~2 |

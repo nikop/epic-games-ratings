@@ -3,12 +3,12 @@
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
   "Ranking_Rating": 1060,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 967,
+  "EOS_Progressed": 968,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4197,6 +4197,11 @@
       "Time": "2024-01-17T21:05:08.8531102+00:00",
       "NumProgressed": 967,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T20:07:08.1620032+00:00",
+      "NumProgressed": 968,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4272,7 +4277,7 @@
       "Name": "Earth Shattering",
       "Percentage": 44,
       "XP": 90,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -4288,7 +4293,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4303,7 +4308,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 967,
+      "Progressed": 968,
       "Completed": 0
     }
   ],
@@ -4311,8 +4316,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-01-12T11:00:14.7563806+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:08:00.6357414+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:07:08.1620029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.5720761+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:01:56.6805587+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:08:00.6357871+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:01:05.2858512+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:07:08.1620355+00:00"
 }

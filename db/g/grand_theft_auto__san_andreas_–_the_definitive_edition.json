@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2501,10 +2501,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1125,
       "NumberOfAwardsMax": 691
+    },
+    {
+      "Time": "2024-01-18T19:59:44.9643822+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1126,
+      "NumberOfAwardsMax": 691
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1125,
+  "NumberOfAwards": 1126,
   "NumberOfAwardsMax": 691,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2524,7 +2530,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2570,9 +2576,9 @@
     }
   ],
   "EOS_Progressed": 19684,
-  "EOS_Completed": 80,
-  "EOS_NewPlayers": 297,
-  "EOS_NewCompleters": 5,
+  "EOS_Completed": 81,
+  "EOS_NewPlayers": 293,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -20849,6 +20855,11 @@
       "Time": "2024-01-18T19:11:46.7708366+00:00",
       "NumProgressed": 19684,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-18T20:11:12.7431753+00:00",
+      "NumProgressed": 19684,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21122,9 +21133,9 @@
       "ID": "ACH34",
       "SetID": "4ck5mbe",
       "Name": "...Here we go again",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH35",
@@ -21140,15 +21151,15 @@
       "ID": "4ck5mbe",
       "IsBase": true,
       "Progressed": 19684,
-      "Completed": 80
+      "Completed": 81
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-18T13:05:02.7203654+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:11:46.7708362+00:00",
+  "LastChanged": "2024-01-18T19:59:44.9643821+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:11:12.743175+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:00:37.2666997+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:11:46.770942+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:59:44.9643825+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:11:12.7432517+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 992,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-11-16T16:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75873,
+  "EOS_Progressed": 75879,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1316,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7792,6 +7792,11 @@
       "Time": "2024-01-18T19:09:57.0348235+00:00",
       "NumProgressed": 75873,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2024-01-18T20:09:23.8622865+00:00",
+      "NumProgressed": 75879,
+      "NumCompleted": 127
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7804,7 +7809,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28073
+      "UsersEstimate": 28075
     },
     {
       "ID": "Achievement_10",
@@ -7828,7 +7833,7 @@
       "Name": "Owl Tide Bestiary",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Achievement_13",
@@ -7844,7 +7849,7 @@
       "Name": "Gardener of Lango",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "Achievement_15",
@@ -7892,7 +7897,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21244
+      "UsersEstimate": 21246
     },
     {
       "ID": "Achievement_20",
@@ -7916,7 +7921,7 @@
       "Name": "Spiritualist of the Sands",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "Achievement_23",
@@ -7988,7 +7993,7 @@
       "Name": "Master Engineer",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "Achievement_31",
@@ -8004,7 +8009,7 @@
       "Name": "Art Director",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "Achievement_33",
@@ -8036,7 +8041,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5311
+      "UsersEstimate": 5312
     },
     {
       "ID": "Achievement_6",
@@ -8075,7 +8080,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75873,
+      "Progressed": 75879,
       "Completed": 127
     }
   ],
@@ -8083,8 +8088,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:09:57.0348233+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:09:23.8622863+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:01:54.9051445+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:09:57.0348995+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:01:02.7783954+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:09:23.8623465+00:00"
 }

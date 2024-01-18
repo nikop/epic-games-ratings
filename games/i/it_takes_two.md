@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~101,140 |
-| Struck A Pose | 82.00% | ~99,922 |
-| Look At Him Go | 69.00% | ~84,081 |
-| On Rails Experience | 45.00% | ~54,835 |
-| A Daring Devil | 44.00% | ~53,617 |
-| Break the Bank | 33.00% | ~40,212 |
-| It Took Two | 32.00% | ~38,994 |
-| Bug Sized Relaxation | 14.00% | ~17,060 |
-| Plastic Prison Breakers | 13.00% | ~15,841 |
-| Terror Of The Seven Seas | 10.00% | ~12,186 |
-| Realize Your Art | 8.00% | ~9,748 |
-| Force Triangulated | 8.00% | ~9,748 |
-| Meditation Maestro | 8.00% | ~9,748 |
-| Something Fishy | 7.00% | ~8,530 |
-| Snackosaurus | 6.00% | ~7,311 |
-| Platforming Prodigy | 6.00% | ~7,311 |
-| Lost And Found | 6.00% | ~7,311 |
-| Mood Swing | 5.00% | ~6,093 |
+| Fried Friendship | 83.00% | ~101,155 |
+| Struck A Pose | 82.00% | ~99,936 |
+| Look At Him Go | 69.00% | ~84,092 |
+| On Rails Experience | 45.00% | ~54,843 |
+| A Daring Devil | 44.00% | ~53,624 |
+| Break the Bank | 33.00% | ~40,218 |
+| It Took Two | 32.00% | ~38,999 |
+| Bug Sized Relaxation | 14.00% | ~17,062 |
+| Plastic Prison Breakers | 13.00% | ~15,843 |
+| Terror Of The Seven Seas | 10.00% | ~12,187 |
+| Realize Your Art | 8.00% | ~9,750 |
+| Force Triangulated | 8.00% | ~9,750 |
+| Meditation Maestro | 8.00% | ~9,750 |
+| Something Fishy | 7.00% | ~8,531 |
+| Snackosaurus | 6.00% | ~7,312 |
+| Platforming Prodigy | 6.00% | ~7,312 |
+| Lost And Found | 6.00% | ~7,312 |
+| Mood Swing | 5.00% | ~6,094 |
 | Faraway Frequencies | 3.00% | ~3,656 |
 | Minigame Megalomania | 2.00% | ~2,437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,856 (Ranked 95)  
+Progressed: 121,873 (Ranked 95)  
 Completed: 289 (0.24%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,4 +150,4 @@ Completed: 289 (0.24%) (Ranked 275)
 | 2024-01-15 | 118,472 | 270 |
 | 2024-01-16 | 119,720 | 280 |
 | 2024-01-17 | 120,843 | 286 |
-| 2024-01-18 | 121,856 | 289 |
+| 2024-01-18 | 121,873 | 289 |

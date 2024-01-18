@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
     "PcReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3631,9 +3631,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47257,
+  "EOS_Progressed": 47258,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34091,6 +34091,11 @@
       "Time": "2024-01-18T19:05:05.4734962+00:00",
       "NumProgressed": 47257,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-18T20:04:14.8492419+00:00",
+      "NumProgressed": 47258,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -34102,7 +34107,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27409
+      "UsersEstimate": 27410
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -34110,7 +34115,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21738
+      "UsersEstimate": 21739
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -34118,7 +34123,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 27409
+      "UsersEstimate": 27410
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -34190,7 +34195,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16067
+      "UsersEstimate": 16068
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -34334,7 +34339,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19375
+      "UsersEstimate": 19376
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -34342,7 +34347,7 @@
       "Name": "Thirst quencher",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -34358,7 +34363,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12759
+      "UsersEstimate": 12760
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -34478,7 +34483,7 @@
       "Name": "Damned good",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 15122
+      "UsersEstimate": 15123
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -34486,7 +34491,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21738
+      "UsersEstimate": 21739
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -34502,7 +34507,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 33080
+      "UsersEstimate": 33081
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -34526,7 +34531,7 @@
       "Name": "The Victorious Evil",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_1",
@@ -34581,15 +34586,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47257,
+      "Progressed": 47258,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-16T23:57:36.8848841+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:05:05.4734959+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:04:14.8492416+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:00:27.8318525+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:05:05.4737081+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:59:36.0006852+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:04:14.8494584+00:00"
 }

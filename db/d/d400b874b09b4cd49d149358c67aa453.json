@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -2744,6 +2744,11 @@
       "Time": "2024-01-18T18:06:22.9836322+00:00",
       "NumProgressed": 748,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T20:08:12.2862124+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2804,7 +2809,7 @@
       "Name": "I love customers",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2812,7 +2817,7 @@
       "Name": "Ready to go",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2820,7 +2825,7 @@
       "Name": "I can fix that",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2828,7 +2833,7 @@
       "Name": "Gotta go fast",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -2900,7 +2905,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2924,7 +2929,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2963,14 +2968,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:08:44.765719+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:08:12.2862122+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.3210844+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:01:06.3925553+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:08:44.7657451+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:00:14.0285941+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:08:12.2862432+00:00"
 }

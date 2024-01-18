@@ -2,10 +2,10 @@
   "ID": "1903efa2b18040089ecbd796f9ec3a16",
   "Name": "Extreme Formula Championship",
   "ProductSlug": "extreme-formula-championship-a8271d",
-  "Ranking_EOS_Progress": 704,
+  "Ranking_EOS_Progress": 692,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 488,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-05-03T18:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2024-01-17T15:05:12.8411603+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T20:05:57.3872394+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-30T19:03:25.6411728+00:00",
@@ -59,9 +64,9 @@
       "ID": "EXTREME_LEVEL2",
       "SetID": "3d99g70",
       "Name": "Contender",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "EXTREME_LEVEL3",
@@ -100,14 +105,14 @@
     {
       "ID": "3d99g70",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-22T19:57:40.0065945+00:00",
   "FirstSeenAchievements": "2023-11-30T19:03:25.6411727+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:06:49.7730944+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:05:57.387239+00:00",
   "LastUpdate_AppInfo": "2024-01-11T22:56:57.4279041+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:57:55.2498349+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:06:49.7731015+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:57:04.7492183+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:05:57.3872434+00:00"
 }

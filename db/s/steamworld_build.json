@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1169,9 +1169,9 @@
       "ID": "DiggingAHole",
       "SetID": "4bd750m",
       "Name": "Digging a Hole",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "DopaMiner",
@@ -1241,9 +1241,9 @@
       "ID": "MineSweeper",
       "SetID": "4bd750m",
       "Name": "Mine Sweeper",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "NothingButRoad",
@@ -1265,9 +1265,9 @@
       "ID": "RollOut",
       "SetID": "4bd750m",
       "Name": "Roll Out",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "RoomToSpare",
@@ -1360,8 +1360,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:06:20.6831143+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:05:28.4927691+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.8775637+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:04:30.5766064+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:06:20.6831584+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:03:38.3380011+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:05:28.4927851+00:00"
 }

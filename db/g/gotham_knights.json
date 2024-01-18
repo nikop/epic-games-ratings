@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5357,9 +5357,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82969,
+  "EOS_Progressed": 82971,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30712,6 +30712,11 @@
       "Time": "2024-01-18T19:07:47.7183992+00:00",
       "NumProgressed": 82969,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T20:06:55.6187547+00:00",
+      "NumProgressed": 82971,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30739,7 +30744,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -30771,7 +30776,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18253
+      "UsersEstimate": 18254
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30803,7 +30808,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "APPLY_STATUS",
@@ -30811,7 +30816,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12445
+      "UsersEstimate": 12446
     },
     {
       "ID": "CHALLENGES_1",
@@ -30875,7 +30880,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4148
+      "UsersEstimate": 4149
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -30883,7 +30888,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -30899,7 +30904,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -30987,7 +30992,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -31027,7 +31032,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28209
+      "UsersEstimate": 28210
     },
     {
       "ID": "HARLEY_2",
@@ -31051,7 +31056,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12445
+      "UsersEstimate": 12446
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31067,7 +31072,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41484
+      "UsersEstimate": 41486
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31131,7 +31136,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18253
+      "UsersEstimate": 18254
     },
     {
       "ID": "MYSTERY_04",
@@ -31171,7 +31176,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9957
     },
     {
       "ID": "SECRET_CACHE",
@@ -31195,7 +31200,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -31210,13 +31215,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82969,
+      "Progressed": 82971,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53249,
+      "Progressed": 53251,
       "Completed": 2680
     }
   ],
@@ -31224,8 +31229,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T16:57:33.4775999+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:07:47.718399+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:06:55.6187544+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:58:18.8730045+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:07:47.7186088+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:57:28.7038247+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:06:55.6189437+00:00"
 }

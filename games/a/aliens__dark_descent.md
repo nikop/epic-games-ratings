@@ -38,7 +38,7 @@ Rating: 4.53 (Ranked 568)
 | One For Every Occasion | 17.00% | ~1,103 |
 | The Cable Guy | 17.00% | ~1,103 |
 | Bandage Lover | 16.00% | ~1,038 |
-| Regicide | 13.00% | ~843 |
+| Regicide | 14.00% | ~908 |
 | This Went Smoothly | 12.00% | ~778 |
 | Flawless Victory | 11.00% | ~714 |
 | Heavy Steps | 11.00% | ~714 |
@@ -51,7 +51,7 @@ Rating: 4.53 (Ranked 568)
 | Perfect Organism | 0.70% | ~45 |
 | This Ain't No Picnic | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,487 (Ranked 202)  
+Progressed: 6,487 (Ranked 203)  
 Completed: 3 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |

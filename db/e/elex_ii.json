@@ -2,13 +2,13 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 902,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Rating": 901,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1781,9 +1781,9 @@
       "ID": "ALLCRAFT",
       "SetID": "a1angca",
       "Name": "Self-Sufficient",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ALLJETPACK",
@@ -1805,9 +1805,9 @@
       "ID": "ALLSURVIVAL",
       "SetID": "a1angca",
       "Name": "Unbreakable",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ALLXP",
@@ -1981,9 +1981,9 @@
       "ID": "KILL20MONSTER",
       "SetID": "a1angca",
       "Name": "Hunter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "KILL20SKYANDS",
@@ -2045,8 +2045,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:05:15.9977772+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:04:25.1666834+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:58:45.7426236+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:05:15.9978258+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:57:55.5517621+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:04:25.1667417+00:00"
 }

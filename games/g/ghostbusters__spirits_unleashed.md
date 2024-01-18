@@ -333,7 +333,7 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-18 | 33,777 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
-Sum: 2,969 (Ranked 188)  
+Sum: 2,970 (Ranked 188)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): 70
 | This game has Amazing Storytelling | 297 |
 | This game is Highly Recommended | 296 |
 | This game has Competitive Players | 290 |
-| This game is Extremely Fun | 288 |
+| This game is Extremely Fun | 289 |
 | This game is Relaxing | 284 |
 | This game has Amazing Characters | 274 |
 | This game has Quickly Understood Controls | 271 |
@@ -617,4 +617,4 @@ Diff (max vs sum): 70
 | 2024-01-11 | 4.50 | 328 | 2,961 |
 | 2024-01-13 | 4.50 | 328 | 2,965 |
 | 2024-01-16 | 4.50 | 328 | 2,967 |
-| 2024-01-18 | 4.50 | 328 | 2,969 |
+| 2024-01-18 | 4.50 | 328 | 2,970 |

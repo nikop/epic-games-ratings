@@ -44,6 +44,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Cities | 2.00% | ~339 |
 | Able Difficulty | 2.00% | ~339 |
 | Furious Family | 2.00% | ~339 |
+| Acropolis | 2.00% | ~339 |
 | Apadana | 2.00% | ~339 |
 | Great Ziggurat | 2.00% | ~339 |
 | Ishtar Gate | 2.00% | ~339 |
@@ -69,7 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 1.00% | ~170 |
 | Champions | 1.00% | ~170 |
 | Sages | 1.00% | ~170 |
-| Acropolis | 1.00% | ~170 |
+| Statesmen | 1.00% | ~170 |
 | Colossus | 1.00% | ~170 |
 | Temple of Solomon | 1.00% | ~170 |
 | Mausoleum | 1.00% | ~170 |
@@ -84,13 +85,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
 | Patrons | 0.90% | ~153 |
-| Statesmen | 0.90% | ~153 |
 | Hittite Iron | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Conqueror | 0.80% | ~136 |
+| Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
 | Riders | 0.80% | ~136 |
 | Traders | 0.80% | ~136 |
@@ -105,9 +106,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~136 |
 | Capable | 0.70% | ~119 |
 | Invincible | 0.70% | ~119 |
-| Ready | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
+| Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
 | Cimmerian Archer | 0.70% | ~119 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Rome | 0.60% | ~102 |
 | Hittite Paganism | 0.60% | ~102 |
 | Enlightenment | 0.60% | ~102 |
-| Gnosticism | 0.60% | ~102 |
 | Revelation | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
 | Jerwan Aqueduct | 0.60% | ~102 |
@@ -141,6 +141,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
+| Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
 | Jebel Barkal | 0.40% | ~68 |
-| Carthage - Ox Hide | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
@@ -248,6 +248,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Philip's Silver Crown | 0.10% | ~17 |
 | Queen of Politics | 0.10% | ~17 |
 | Queen of Intrigue | 0.10% | ~17 |
+| Queen of Lies | 0.10% | ~17 |
 | Queen of War | 0.10% | ~17 |
 | Mighty Bucephalus | 0.10% | ~17 |
 | Knot So Hard | 0.10% | ~17 |
@@ -328,7 +329,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle in Delphi | 0.00% | ~0 |
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
-| Queen of Lies | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
 | Gate to Victory | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,968 (Ranked 169)  
+Progressed: 16,970 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,968 | 5 |
+| 2024-01-18 | 16,970 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

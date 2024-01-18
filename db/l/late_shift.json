@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 1127,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -3333,9 +3333,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 158
+      "UsersEstimate": 169
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3398,8 +3398,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:11:19.3262668+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:10:46.2274698+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:58:54.4754576+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:11:19.3263044+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:58:04.628479+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:10:46.2274987+00:00"
 }

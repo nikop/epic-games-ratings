@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9987,
+  "EOS_Progressed": 9988,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11307,6 +11307,11 @@
       "Time": "2024-01-18T19:11:06.340759+00:00",
       "NumProgressed": 9987,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-18T20:10:33.2467468+00:00",
+      "NumProgressed": 9988,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11326,7 +11331,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11334,7 +11339,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4394
+      "UsersEstimate": 4395
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11382,7 +11387,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11390,7 +11395,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -11398,7 +11403,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -11438,7 +11443,7 @@
       "Name": "Generalissimo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -11486,7 +11491,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11510,7 +11515,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4494
+      "UsersEstimate": 4495
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11566,7 +11571,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11670,14 +11675,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5093
+      "UsersEstimate": 5094
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9987,
+      "Progressed": 9988,
       "Completed": 10
     }
   ],
@@ -11685,8 +11690,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:11:06.3407587+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:10:33.2467466+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:03:36.6725454+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:11:06.3408407+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:02:43.2834022+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:10:33.246809+00:00"
 }

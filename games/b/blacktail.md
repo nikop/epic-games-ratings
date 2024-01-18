@@ -24,12 +24,12 @@ Rating: 4.68 (Ranked 264)
 | Sneak peek | 4.00% | ~37 |
 | Favorite | 4.00% | ~37 |
 | Queen | 4.00% | ~37 |
-| Goal! | 3.00% | ~28 |
-| Both sides | 3.00% | ~28 |
 | Specialist | 3.00% | ~28 |
 | Witch's cookbook | 3.00% | ~28 |
 | Bad apple | 2.00% | ~18 |
+| Goal! | 2.00% | ~18 |
 | Gnowlledgeable | 2.00% | ~18 |
+| Both sides | 2.00% | ~18 |
 | Always worth a try | 2.00% | ~18 |
 | Toxic | 2.00% | ~18 |
 | Entangled | 2.00% | ~18 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 264)
 | Mushrooming enthusiast | 0.70% | ~6 |
 | Apex predator | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 920 (Ranked 308)  
+Progressed: 921 (Ranked 308)  
 Completed: 1 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,6 +259,7 @@ Completed: 1 (0.11%) (Ranked 312)
 | 2024-01-15 | 915 | 1 |
 | 2024-01-16 | 917 | 1 |
 | 2024-01-17 | 920 | 1 |
+| 2024-01-18 | 921 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

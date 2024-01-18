@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 695,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28961,
+  "EOS_Progressed": 28962,
   "EOS_Completed": 532,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29901,6 +29901,11 @@
       "Time": "2024-01-18T19:06:23.4424334+00:00",
       "NumProgressed": 28961,
       "NumCompleted": 532
+    },
+    {
+      "Time": "2024-01-18T20:05:31.1467232+00:00",
+      "NumProgressed": 28962,
+      "NumCompleted": 532
     }
   ],
   "TotalAchievements": 20,
@@ -29936,7 +29941,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2606
+      "UsersEstimate": 2607
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -30032,7 +30037,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22010
+      "UsersEstimate": 22011
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30040,7 +30045,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7819
+      "UsersEstimate": 7820
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30071,15 +30076,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28961,
+      "Progressed": 28962,
       "Completed": 532
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:06:23.442433+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:05:31.1467228+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:59:05.3109441+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:06:23.4425713+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:58:13.9111222+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:05:31.1468919+00:00"
 }

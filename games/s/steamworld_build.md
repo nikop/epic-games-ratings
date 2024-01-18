@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Mathematic | 86.00% | ~232 |
-| Digging a Hole | 77.00% | ~208 |
+| Digging a Hole | 78.00% | ~211 |
 | It's Yours, My Friend | 74.00% | ~200 |
 | Conducted Trade | 68.00% | ~184 |
 | Going Places | 66.00% | ~178 |
@@ -14,8 +14,8 @@
 | Slotting Machine | 48.00% | ~130 |
 | Systematic | 47.00% | ~127 |
 | Gotta Go Fast | 46.00% | ~124 |
-| Mine Sweeper | 43.00% | ~116 |
-| Roll Out | 38.00% | ~103 |
+| Mine Sweeper | 44.00% | ~119 |
+| Roll Out | 39.00% | ~105 |
 | Up, Up And Away! | 34.00% | ~92 |
 | Dopa-Miner | 33.00% | ~89 |
 | Whoa! | 31.00% | ~84 |

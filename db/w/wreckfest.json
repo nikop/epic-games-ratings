@@ -3,12 +3,12 @@
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
   "Ranking_Rating": 929,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3062,6 +3062,11 @@
       "Time": "2024-01-18T19:10:20.9794753+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T20:09:47.8296431+00:00",
+      "NumProgressed": 1202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3082,7 +3087,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 731
+      "UsersEstimate": 733
     },
     {
       "ID": "CareerChamp1",
@@ -3090,15 +3095,15 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "CareerChamp2",
       "SetID": "5hd282c",
       "Name": "National Amateurs Champion",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 216
     },
     {
       "ID": "CareerChamp3",
@@ -3130,7 +3135,7 @@
       "Name": "Storm Warning",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 853
     },
     {
       "ID": "CollectVehiclesA",
@@ -3138,7 +3143,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "CollectVehiclesB",
@@ -3186,7 +3191,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "PlayerRankB",
@@ -3200,9 +3205,9 @@
       "ID": "PlayerRankC",
       "SetID": "5hd282c",
       "Name": "Showing Some Dedication",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "RocketSpeedReached",
@@ -3233,7 +3238,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1202,
       "Completed": 0
     }
   ],
@@ -3241,8 +3246,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:10:20.9794749+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:09:47.8296429+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:59:23.6260886+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:10:20.9795038+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:58:32.1902271+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:09:47.8296667+00:00"
 }

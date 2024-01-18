@@ -38,11 +38,11 @@ Rating: 4.56 (Ranked 513)
 | Not a Player | 1.00% | ~197 |
 | Chick Magnet | 1.00% | ~197 |
 | Remastered | 0.80% | ~157 |
-| ...Here we go again | 0.50% | ~98 |
+| ...Here we go again | 0.60% | ~118 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19,684 (Ranked 157)  
-Completed: 80 (0.41%) (Ranked 243)  
+Completed: 81 (0.41%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,17 +314,17 @@ Completed: 80 (0.41%) (Ranked 243)
 | 2024-01-15 | 19,602 | 79 |
 | 2024-01-16 | 19,632 | 80 |
 | 2024-01-17 | 19,657 | 80 |
-| 2024-01-18 | 19,684 | 80 |
+| 2024-01-18 | 19,684 | 81 |
 ## Awards
 Max (Great Boss Battles): 691  (Ranked 198)  
-Sum: 1,125 (Ranked 268)  
+Sum: 1,126 (Ranked 268)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 691 |
 | This game has Amazing Characters | 61 |
+| This game has Amazing Storytelling | 60 |
 | This game is Relaxing | 59 |
-| This game has Amazing Storytelling | 59 |
 | This game is Highly Recommended | 59 |
 | This game is Great for Beginners | 56 |
 | This game has Diverse Characters | 54 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -70
 | 2024-01-15 | 4.56 | 677 | 1,096 |
 | 2024-01-16 | 4.56 | 682 | 1,107 |
 | 2024-01-17 | 4.56 | 685 | 1,118 |
-| 2024-01-18 | 4.56 | 691 | 1,125 |
+| 2024-01-18 | 4.56 | 691 | 1,126 |

@@ -3,12 +3,12 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 264,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 587,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 156,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 920,
+  "EOS_Progressed": 921,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2981,6 +2981,11 @@
       "Time": "2024-01-17T15:10:56.6878677+00:00",
       "NumProgressed": 920,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T20:11:14.4420384+00:00",
+      "NumProgressed": 921,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -3070,9 +3075,9 @@
       "ID": "Goal",
       "SetID": "2aagp3d",
       "Name": "Goal!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 18
     },
     {
       "ID": "GoldRush",
@@ -3126,9 +3131,9 @@
       "ID": "LostAndFound",
       "SetID": "2aagp3d",
       "Name": "Both sides",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 18
     },
     {
       "ID": "MuhsroomTruth",
@@ -3247,7 +3252,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 920,
+      "Progressed": 921,
       "Completed": 1
     }
   ],
@@ -3255,8 +3260,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-18T19:11:48.6423314+00:00",
+  "LastChanged_Achievements": "2024-01-18T20:11:14.4420381+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.9247795+00:00",
-  "LastUpdate_Ratings": "2024-01-18T19:02:43.8310715+00:00",
-  "LastUpdate_Achievements": "2024-01-18T19:11:48.6423612+00:00"
+  "LastUpdate_Ratings": "2024-01-18T20:01:52.6163797+00:00",
+  "LastUpdate_Achievements": "2024-01-18T20:11:14.4420682+00:00"
 }
