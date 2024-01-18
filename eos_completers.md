@@ -13,8 +13,8 @@
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
 | 12 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
 | 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
-| 14 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
-| 15 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.47% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.21% |
+| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
 | 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
 | 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
@@ -25,7 +25,7 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.86% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.84% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.14% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
@@ -75,7 +75,7 @@
 | 73 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.96% |
-| 76 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
+| 76 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
 | 77 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.76% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.75% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.74% |
@@ -85,7 +85,7 @@
 | 83 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 84 | [JARS](games/j/jars.md) | 4.42% |
 | 85 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
-| 86 | [Dungeons 4](games/d/dungeons_4.md) | 4.39% |
+| 86 | [Dungeons 4](games/d/dungeons_4.md) | 4.38% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.36% |
 | 88 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 89 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.24% |
@@ -258,9 +258,9 @@
 | 255 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 257 | [Darksiders III](games/d/darksiders_iii.md) | 0.32% |
 | 257 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 259 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
-| 259 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.31% |
-| 259 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 257 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
+| 260 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
+| 260 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 262 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 262 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
 | 262 | [Train Valley](games/t/train_valley.md) | 0.30% |
