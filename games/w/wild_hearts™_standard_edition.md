@@ -32,7 +32,7 @@
 | Karakuri Isle | 21.00% | ~290 |
 | Team Hunter | 21.00% | ~290 |
 | Artful Assister | 21.00% | ~290 |
-| Reincarnation Cycle Stopper | 19.00% | ~262 |
+| Reincarnation Cycle Stopper | 20.00% | ~276 |
 | Left Arm Leverager | 17.00% | ~235 |
 | Human Believer | 17.00% | ~235 |
 | Quintessence of Form | 16.00% | ~221 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -3042,9 +3042,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544662,
+  "EOS_Progressed": 544663,
   "EOS_Completed": 1688,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33357,6 +33357,11 @@
       "Time": "2024-01-18T08:04:50.9457096+00:00",
       "NumProgressed": 544662,
       "NumCompleted": 1688
+    },
+    {
+      "Time": "2024-01-18T09:05:06.1519481+00:00",
+      "NumProgressed": 544663,
+      "NumCompleted": 1688
     }
   ],
   "TotalAchievements": 37,
@@ -33384,7 +33389,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168845
+      "UsersEstimate": 168846
     },
     {
       "ID": "DEVOTED",
@@ -33424,7 +33429,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 452069
+      "UsersEstimate": 452070
     },
     {
       "ID": "HONED",
@@ -33432,7 +33437,7 @@
       "Name": "Honed",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21786
+      "UsersEstimate": 21787
     },
     {
       "ID": "HOUSE_OF_SPLENDOR",
@@ -33440,7 +33445,7 @@
       "Name": "The House of Splendor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21786
+      "UsersEstimate": 21787
     },
     {
       "ID": "KEEPERS_OF_FIRE",
@@ -33512,7 +33517,7 @@
       "Name": "The Crypt",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 21786
+      "UsersEstimate": 21787
     },
     {
       "ID": "THE_DOME",
@@ -33576,7 +33581,7 @@
       "Name": "The Palace",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 21786
+      "UsersEstimate": 21787
     },
     {
       "ID": "THE_PITCHWOODS",
@@ -33663,15 +33668,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544662,
+      "Progressed": 544663,
       "Completed": 1688
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-17T19:00:06.7804227+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:04:50.945709+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:05:06.1519476+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:56.9253788+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:04:50.9458359+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:59:56.8671418+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:05:06.1521148+00:00"
 }

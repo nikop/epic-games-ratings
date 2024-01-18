@@ -449,9 +449,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15025,
+  "EOS_Progressed": 15026,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10764,6 +10764,11 @@
       "Time": "2024-01-18T07:11:26.4699354+00:00",
       "NumProgressed": 15025,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T09:10:22.2122187+00:00",
+      "NumProgressed": 15026,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10784,7 +10789,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6160
+      "UsersEstimate": 6161
     },
     {
       "ID": "BeLikeWater",
@@ -10792,7 +10797,7 @@
       "Name": "Be Like Water",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Bikemaggedon",
@@ -10824,7 +10829,7 @@
       "Name": "Eavesdropper",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ExplosivePersonality",
@@ -10920,7 +10925,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "NoMoreTotems",
@@ -10952,7 +10957,7 @@
       "Name": "Scorch Squaaad!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "TheFloorIsLava",
@@ -10968,7 +10973,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "TheQuarterback",
@@ -11024,7 +11029,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -11032,7 +11037,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     },
     {
       "ID": "k01101110",
@@ -11040,14 +11045,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1503
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15025,
+      "Progressed": 15026,
       "Completed": 27
     }
   ],
@@ -11055,8 +11060,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:10:24.6938736+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:10:22.2122183+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:02:45.1799738+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:10:24.6939382+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:02:53.1666311+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:10:22.2122959+00:00"
 }

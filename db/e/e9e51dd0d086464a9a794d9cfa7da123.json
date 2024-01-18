@@ -2,9 +2,9 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2024-01-15T02:37:50.0724198+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T09:10:30.6515152+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -813,7 +818,7 @@
       "ID": "LYWEAIR",
       "SetID": "2621k8c",
       "Name": "Love you without expecting anything in return",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -861,7 +866,7 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 40
     },
@@ -893,7 +898,7 @@
       "ID": "PL",
       "SetID": "2621k8c",
       "Name": "Perfect Lover",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -981,7 +986,7 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -1101,7 +1106,7 @@
       "ID": "Superficial",
       "SetID": "2621k8c",
       "Name": "Superficial",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 13
     },
@@ -1125,7 +1130,7 @@
       "ID": "TMBM",
       "SetID": "2621k8c",
       "Name": "The most beautiful memory",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -1214,14 +1219,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:10:33.0695344+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:10:30.651515+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:27.3732343+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:57:54.5497345+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:10:33.0696206+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:57:52.2298729+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:10:30.6515917+00:00"
 }

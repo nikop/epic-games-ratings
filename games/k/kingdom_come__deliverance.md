@@ -6,8 +6,8 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,759 |
-| Cavalier | 26.00% | ~212,679 |
+| Blacksmith's Son | 32.00% | ~261,760 |
+| Cavalier | 26.00% | ~212,680 |
 | Fatso | 23.00% | ~188,140 |
 | Awakening | 21.00% | ~171,780 |
 | Ranger | 20.00% | ~163,600 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~818 |
 | Wingman | 0.10% | ~818 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,998 (Ranked 21)  
+Progressed: 818,001 (Ranked 21)  
 Completed: 53 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -362,7 +362,7 @@ Completed: 53 (0.01%) (Ranked 378)
 | 2024-01-15 | 817,694 | 53 |
 | 2024-01-16 | 817,836 | 53 |
 | 2024-01-17 | 817,964 | 53 |
-| 2024-01-18 | 817,998 | 53 |
+| 2024-01-18 | 818,001 | 53 |
 ## Awards
 Max (Character Customization): 7,785  (Ranked 54)  
 Sum: 28,859 (Ranked 50)  

@@ -90,9 +90,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "a48gbka",
       "Name": "Lieutenant Junior Grade",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 55,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -154,9 +154,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "a48gbka",
       "Name": "Lieutenant",
-      "Percentage": 58,
+      "Percentage": 67,
       "XP": 55,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -170,9 +170,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "a48gbka",
       "Name": "Lieutenant Commander",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -232,8 +232,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:04:31.2666097+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:04:45.574981+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:13.8316591+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:41.8466675+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:04:31.266626+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:59:41.4119455+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:04:45.5749922+00:00"
 }

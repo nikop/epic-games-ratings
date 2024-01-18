@@ -17,13 +17,13 @@ Rating: 4.54 (Ranked 549)
 | Spore Taste | 12.00% | ~2,296 |
 | Zen Master | 11.00% | ~559 |
 | Call it Even | 10.00% | ~1,913 |
-| Safe Cracker | 10.00% | ~508 |
+| Safe Cracker | 10.00% | ~509 |
+| Madame Undersecretary | 10.00% | ~509 |
 | Heal Thy Medic | 9.00% | ~1,722 |
-| Madame Undersecretary | 9.00% | ~458 |
-| Data Archivist | 8.00% | ~1,530 |
-| Drug Gifter | 8.00% | ~1,530 |
-| Thorston Mayer | 8.00% | ~1,530 |
-| Khan's Revenge | 8.00% | ~1,530 |
+| Data Archivist | 8.00% | ~1,531 |
+| Drug Gifter | 8.00% | ~1,531 |
+| Thorston Mayer | 8.00% | ~1,531 |
+| Khan's Revenge | 8.00% | ~1,531 |
 | Keep Arjun in Check | 8.00% | ~407 |
 | Doctor Approved | 7.00% | ~1,339 |
 | Bottoms up! | 7.00% | ~1,339 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 549)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,131 (Ranked 159)  
+Progressed: 19,132 (Ranked 159)  
 Completed: 66 (0.34%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 66 (0.34%) (Ranked 253)
 | 2024-01-15 | 19,055 | 66 |
 | 2024-01-16 | 19,084 | 66 |
 | 2024-01-17 | 19,116 | 66 |
-| 2024-01-18 | 19,131 | 66 |
+| 2024-01-18 | 19,132 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

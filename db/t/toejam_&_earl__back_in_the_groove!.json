@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58832,
+  "EOS_Progressed": 58835,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16056,6 +16056,11 @@
       "Time": "2024-01-18T07:04:47.7755039+00:00",
       "NumProgressed": 58832,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T09:04:05.641385+00:00",
+      "NumProgressed": 58835,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16123,7 +16128,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "FallFest",
@@ -16155,7 +16160,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5883
+      "UsersEstimate": 5884
     },
     {
       "ID": "FoolMeTwice",
@@ -16291,7 +16296,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "OldSchool",
@@ -16371,7 +16376,7 @@
       "Name": "Struck By Love",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "Sunflower",
@@ -16395,7 +16400,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ThrillSeeker",
@@ -16458,7 +16463,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58832,
+      "Progressed": 58835,
       "Completed": 6
     }
   ],
@@ -16466,8 +16471,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:03:52.1870946+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:04:05.6413847+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.3003234+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:47.9061348+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:03:52.1872193+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:59:47.4277357+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:04:05.6415004+00:00"
 }

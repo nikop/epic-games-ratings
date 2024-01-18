@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -513,9 +513,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4097,
+  "EOS_Progressed": 4098,
   "EOS_Completed": 146,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.56,
   "EosHistory": [
@@ -7493,6 +7493,11 @@
       "Time": "2024-01-18T01:53:13.6324774+00:00",
       "NumProgressed": 4097,
       "NumCompleted": 146
+    },
+    {
+      "Time": "2024-01-18T09:05:16.6302948+00:00",
+      "NumProgressed": 4098,
+      "NumCompleted": 146
     }
   ],
   "TotalAchievements": 14,
@@ -7520,7 +7525,7 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_CLIMBER",
@@ -7528,7 +7533,7 @@
       "Name": "Climber",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7536,7 +7541,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -7560,7 +7565,7 @@
       "Name": "Hidden Secrets",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACH_IMPRISONMENT",
@@ -7568,7 +7573,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -7576,7 +7581,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_REUNION",
@@ -7584,7 +7589,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -7615,7 +7620,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4097,
+      "Progressed": 4098,
       "Completed": 146
     }
   ],
@@ -7623,8 +7628,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-17T15:01:36.9556508+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:05:01.1044113+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:05:16.6302943+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:02:44.7341478+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:05:01.1044534+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:02:52.6924969+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:05:16.6303431+00:00"
 }

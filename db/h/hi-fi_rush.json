@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 535,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 343,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17360,
+  "EOS_Progressed": 17361,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12599,6 +12599,11 @@
       "Time": "2024-01-18T08:03:36.192215+00:00",
       "NumProgressed": 17360,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-18T09:03:49.5089654+00:00",
+      "NumProgressed": 17361,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12610,7 +12615,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9548
+      "UsersEstimate": 9549
     },
     {
       "ID": "Ach002",
@@ -12618,7 +12623,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6423
+      "UsersEstimate": 6424
     },
     {
       "ID": "Ach003",
@@ -12642,7 +12647,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "Ach006",
@@ -12738,7 +12743,7 @@
       "Name": "I play my own way!",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "Ach018",
@@ -12834,7 +12839,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "Ach030",
@@ -12850,7 +12855,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5034
+      "UsersEstimate": 5035
     },
     {
       "ID": "Ach032",
@@ -13177,13 +13182,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17360,
+      "Progressed": 17361,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15881,
+      "Progressed": 15882,
       "Completed": 1931
     }
   ],
@@ -13191,8 +13196,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:03:36.1922145+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:03:49.5089651+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:57:16.6143059+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:03:36.1923326+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:57:13.1251432+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:03:49.5090853+00:00"
 }

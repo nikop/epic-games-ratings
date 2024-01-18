@@ -9655,9 +9655,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254511,
+  "EOS_Progressed": 254518,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1208,
+  "EOS_NewPlayers": 1211,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40620,6 +40620,11 @@
       "Time": "2024-01-18T08:10:37.279222+00:00",
       "NumProgressed": 254511,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-18T09:10:35.2467151+00:00",
+      "NumProgressed": 254518,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -40631,7 +40636,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10180
+      "UsersEstimate": 10181
     },
     {
       "ID": "objective_completed_10",
@@ -42493,9 +42498,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2545
     },
     {
       "ID": "objective_completed_40",
@@ -44935,7 +44940,7 @@
       "Name": "Fast Food",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "objective_completed_1563",
@@ -44998,21 +45003,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220785,
+      "Progressed": 220792,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254511,
+      "Progressed": 254518,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-18T07:59:00.741304+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:10:37.2792216+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:10:35.2467147+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:00.7413049+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:10:37.2814944+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:58:57.6800459+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:10:35.2490884+00:00"
 }

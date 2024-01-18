@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 879,
+  "EOS_Progressed": 880,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.84,
+  "EOS_Completed_Percentage": 16.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3806,6 +3806,11 @@
       "Time": "2024-01-18T07:07:11.7366418+00:00",
       "NumProgressed": 879,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2024-01-18T09:05:54.255674+00:00",
+      "NumProgressed": 880,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 22,
@@ -3817,7 +3822,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "LEVEL_002",
@@ -3825,7 +3830,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "LEVEL_003",
@@ -3833,7 +3838,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "LEVEL_004",
@@ -3841,7 +3846,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "LEVEL_005",
@@ -3969,7 +3974,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LEVEL_021",
@@ -3977,7 +3982,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "LEVEL_022",
@@ -3985,14 +3990,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 879,
+      "Progressed": 880,
       "Completed": 148
     }
   ],
@@ -4000,8 +4005,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:05:37.7614697+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:05:54.2556732+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:00.2585938+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:05:37.7615079+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:58:57.085895+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:05:54.2557091+00:00"
 }

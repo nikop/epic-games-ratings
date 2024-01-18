@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~100,514 |
-| Struck A Pose | 82.00% | ~99,303 |
-| Look At Him Go | 69.00% | ~83,560 |
-| On Rails Experience | 45.00% | ~54,495 |
-| A Daring Devil | 44.00% | ~53,284 |
-| Break the Bank | 33.00% | ~39,963 |
-| It Took Two | 32.00% | ~38,752 |
-| Bug Sized Relaxation | 14.00% | ~16,954 |
-| Plastic Prison Breakers | 13.00% | ~15,743 |
-| Terror Of The Seven Seas | 10.00% | ~12,110 |
-| Realize Your Art | 8.00% | ~9,688 |
-| Force Triangulated | 8.00% | ~9,688 |
-| Meditation Maestro | 8.00% | ~9,688 |
-| Something Fishy | 7.00% | ~8,477 |
-| Snackosaurus | 6.00% | ~7,266 |
-| Platforming Prodigy | 6.00% | ~7,266 |
-| Lost And Found | 6.00% | ~7,266 |
-| Mood Swing | 5.00% | ~6,055 |
-| Faraway Frequencies | 3.00% | ~3,633 |
-| Minigame Megalomania | 2.00% | ~2,422 |
+| Fried Friendship | 83.00% | ~100,576 |
+| Struck A Pose | 82.00% | ~99,364 |
+| Look At Him Go | 69.00% | ~83,611 |
+| On Rails Experience | 45.00% | ~54,529 |
+| A Daring Devil | 44.00% | ~53,317 |
+| Break the Bank | 33.00% | ~39,988 |
+| It Took Two | 32.00% | ~38,776 |
+| Bug Sized Relaxation | 14.00% | ~16,965 |
+| Plastic Prison Breakers | 13.00% | ~15,753 |
+| Terror Of The Seven Seas | 10.00% | ~12,118 |
+| Realize Your Art | 8.00% | ~9,694 |
+| Force Triangulated | 8.00% | ~9,694 |
+| Meditation Maestro | 8.00% | ~9,694 |
+| Something Fishy | 7.00% | ~8,482 |
+| Snackosaurus | 6.00% | ~7,271 |
+| Platforming Prodigy | 6.00% | ~7,271 |
+| Lost And Found | 6.00% | ~7,271 |
+| Mood Swing | 5.00% | ~6,059 |
+| Faraway Frequencies | 3.00% | ~3,635 |
+| Minigame Megalomania | 2.00% | ~2,424 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121,101 (Ranked 95)  
-Completed: 288 (0.24%) (Ranked 274)  
+Progressed: 121,176 (Ranked 95)  
+Completed: 289 (0.24%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,4 +150,4 @@ Completed: 288 (0.24%) (Ranked 274)
 | 2024-01-15 | 118,472 | 270 |
 | 2024-01-16 | 119,720 | 280 |
 | 2024-01-17 | 120,843 | 286 |
-| 2024-01-18 | 121,101 | 288 |
+| 2024-01-18 | 121,176 | 289 |

@@ -8,7 +8,7 @@ Number of Ratings: 118  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sowwy! | 37.00% | ~91,976 |
 | Alt+F4 | 11.00% | ~27,344 |
-| Where's that freaking Dwarf? | 9.00% | ~22,372 |
+| Where's that freaking Dwarf? | 9.00% | ~22,373 |
 | Déjà vu | 8.00% | ~19,887 |
 | Sock! SOCK! | 6.00% | ~14,915 |
 | Speedrun | 6.00% | ~14,915 |
@@ -18,15 +18,15 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 5.00% | ~12,429 |
 | Way of the Wimp | 4.00% | ~9,943 |
 | The plot thickens... At the tavern | 4.00% | ~9,943 |
-| Livin' in a dwarven paradise | 3.00% | ~7,457 |
-| The demons' feast | 3.00% | ~7,457 |
-| The Great Library | 3.00% | ~7,457 |
-| Torture and Sensibility | 3.00% | ~7,457 |
-| Urik's Depths | 3.00% | ~7,457 |
-| The Dungeon Master | 3.00% | ~7,457 |
-| The Woman in the High Castle | 3.00% | ~7,457 |
-| Team Building Exercise | 3.00% | ~7,457 |
-| Oh, when I'll be level 10... | 3.00% | ~7,457 |
+| Livin' in a dwarven paradise | 3.00% | ~7,458 |
+| The demons' feast | 3.00% | ~7,458 |
+| The Great Library | 3.00% | ~7,458 |
+| Torture and Sensibility | 3.00% | ~7,458 |
+| Urik's Depths | 3.00% | ~7,458 |
+| The Dungeon Master | 3.00% | ~7,458 |
+| The Woman in the High Castle | 3.00% | ~7,458 |
+| Team Building Exercise | 3.00% | ~7,458 |
+| Oh, when I'll be level 10... | 3.00% | ~7,458 |
 | Shiny and Crôm | 2.00% | ~4,972 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,972 |
 | Res Judicata | 2.00% | ~4,972 |
@@ -50,7 +50,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.80% | ~1,989 |
 | Holistic Adventuring Party | 0.70% | ~1,740 |
 | Law and Order | 0.70% | ~1,740 |
-| Scholar of the Lands of Fangh | 0.60% | ~1,491 |
+| Scholar of the Lands of Fangh | 0.60% | ~1,492 |
 | I'd rather... Just... Sing! | 0.50% | ~1,243 |
 | It's been a hard day's night | 0.50% | ~1,243 |
 | Friendly fire | 0.40% | ~994 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,583 (Ranked 73)  
+Progressed: 248,585 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 9 (0.00%) (Ranked 404)
 | 2024-01-15 | 248,300 | 9 |
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
-| 2024-01-18 | 248,583 | 9 |
+| 2024-01-18 | 248,585 | 9 |
 ## Awards
 Max (Character Customization): 272  (Ranked 278)  
 Sum: 575 (Ranked 331)  

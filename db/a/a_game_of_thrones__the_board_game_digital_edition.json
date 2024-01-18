@@ -1428,9 +1428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33723,
+  "EOS_Progressed": 33724,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30858,6 +30858,11 @@
       "Time": "2024-01-18T08:10:15.0071132+00:00",
       "NumProgressed": 33723,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-18T09:10:12.4305926+00:00",
+      "NumProgressed": 33724,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30989,7 +30994,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "1031",
@@ -31005,7 +31010,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13489
+      "UsersEstimate": 13490
     },
     {
       "ID": "1033",
@@ -31044,15 +31049,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33723,
+      "Progressed": 33724,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-17T22:58:28.4065006+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:10:15.0071125+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:10:12.4305922+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:58:00.1273869+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:10:15.0072668+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:57:57.4164378+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:10:12.4307495+00:00"
 }

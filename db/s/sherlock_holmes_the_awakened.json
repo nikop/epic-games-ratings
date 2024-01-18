@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1484,
+  "EOS_Progressed": 1485,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.3,
   "EosHistory": [
@@ -5301,6 +5301,11 @@
       "Time": "2024-01-18T04:07:42.1345077+00:00",
       "NumProgressed": 1484,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-18T09:06:14.4988025+00:00",
+      "NumProgressed": 1485,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5312,7 +5317,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "MQ01_2",
@@ -5320,15 +5325,15 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 816
+      "UsersEstimate": 802
     },
     {
       "ID": "MQ02_2",
@@ -5368,7 +5373,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MQ03_3",
@@ -5376,7 +5381,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "MQ03_4",
@@ -5392,7 +5397,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "MQ04_1",
@@ -5400,7 +5405,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "MQ04_2",
@@ -5408,7 +5413,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "MQ04_3",
@@ -5432,7 +5437,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "MQ05_3",
@@ -5448,7 +5453,7 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MQ06_1",
@@ -5472,7 +5477,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "MQ06_4",
@@ -5480,7 +5485,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "MQ07_1",
@@ -5496,7 +5501,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "MQ08_1",
@@ -5535,7 +5540,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1484,
+      "Progressed": 1485,
       "Completed": 49
     }
   ],
@@ -5543,8 +5548,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:05:57.6186597+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:06:14.4988008+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:03:21.4323409+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:05:57.6187036+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:03:31.293556+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:06:14.4988542+00:00"
 }

@@ -6,41 +6,41 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~466,376 |
-| Sword Runner | 24.00% | ~279,826 |
-| Running out of breath | 19.00% | ~221,529 |
-| Wallrunner | 18.00% | ~209,869 |
-| I call it luck | 14.00% | ~163,232 |
-| Out of order | 12.00% | ~139,913 |
-| Homerunner | 11.00% | ~128,254 |
-| Back to hell | 9.00% | ~104,935 |
-| Running Wild | 9.00% | ~104,935 |
-| Where are my Keys? | 9.00% | ~104,935 |
-| Sword to a gunfight | 8.00% | ~93,275 |
-| Perfection | 7.00% | ~81,616 |
-| Artificial selection | 6.00% | ~69,956 |
-| Finish line | 6.00% | ~69,956 |
-| Control freak | 6.00% | ~69,956 |
-| Upgrades not mandatory | 6.00% | ~69,956 |
-| Why not both | 6.00% | ~69,956 |
-| Unstoppable force | 5.00% | ~58,297 |
-| Dead in the air | 4.00% | ~46,638 |
-| Wave of mutilation | 4.00% | ~46,638 |
-| Can't Run Can't Hide | 3.00% | ~34,978 |
-| Improvise, adapt, overrun | 2.00% | ~23,319 |
-| Pre-empative strike | 2.00% | ~23,319 |
-| R is for Running | 2.00% | ~23,319 |
-| Strike | 2.00% | ~23,319 |
-| Triple A | 2.00% | ~23,319 |
-| More than human | 1.00% | ~11,659 |
-| Push it to the limit | 0.80% | ~9,328 |
-| Fine addition | 0.60% | ~6,996 |
-| About Adam | 0.40% | ~4,664 |
-| One Of Those Days | 0.30% | ~3,498 |
-| Hit me if you can | 0.20% | ~2,332 |
-| Junkrunner | 0.20% | ~2,332 |
-| One man's trash | 0.20% | ~2,332 |
-| Where He Stood | 0.20% | ~2,332 |
+| Longrunner | 40.00% | ~466,554 |
+| Sword Runner | 24.00% | ~279,933 |
+| Running out of breath | 19.00% | ~221,613 |
+| Wallrunner | 18.00% | ~209,949 |
+| I call it luck | 14.00% | ~163,294 |
+| Out of order | 12.00% | ~139,966 |
+| Homerunner | 11.00% | ~128,302 |
+| Back to hell | 9.00% | ~104,975 |
+| Running Wild | 9.00% | ~104,975 |
+| Where are my Keys? | 9.00% | ~104,975 |
+| Sword to a gunfight | 8.00% | ~93,311 |
+| Perfection | 7.00% | ~81,647 |
+| Artificial selection | 6.00% | ~69,983 |
+| Finish line | 6.00% | ~69,983 |
+| Control freak | 6.00% | ~69,983 |
+| Upgrades not mandatory | 6.00% | ~69,983 |
+| Why not both | 6.00% | ~69,983 |
+| Unstoppable force | 5.00% | ~58,319 |
+| Dead in the air | 4.00% | ~46,655 |
+| Wave of mutilation | 4.00% | ~46,655 |
+| Can't Run Can't Hide | 3.00% | ~34,992 |
+| Improvise, adapt, overrun | 2.00% | ~23,328 |
+| Pre-empative strike | 2.00% | ~23,328 |
+| R is for Running | 2.00% | ~23,328 |
+| Strike | 2.00% | ~23,328 |
+| Triple A | 2.00% | ~23,328 |
+| More than human | 1.00% | ~11,664 |
+| Push it to the limit | 0.80% | ~9,331 |
+| Fine addition | 0.60% | ~6,998 |
+| About Adam | 0.40% | ~4,666 |
+| One Of Those Days | 0.30% | ~3,499 |
+| Hit me if you can | 0.20% | ~2,333 |
+| Junkrunner | 0.20% | ~2,333 |
+| One man's trash | 0.20% | ~2,333 |
+| Where He Stood | 0.20% | ~2,333 |
 | A Grade | 0.10% | ~1,166 |
 | Everyone Needs A Hobby | 0.10% | ~1,166 |
 | GR Project Complete | 0.10% | ~1,166 |
@@ -52,8 +52,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Strafing Run | 0.10% | ~1,166 |
 | Up Close And Personal | 0.10% | ~1,166 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,165,941 (Ranked 14)  
-Completed: 233 (0.02%) (Ranked 368)  
+Progressed: 1,166,386 (Ranked 14)  
+Completed: 234 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,10 +325,10 @@ Completed: 233 (0.02%) (Ranked 368)
 | 2024-01-15 | 1,144,294 | 224 |
 | 2024-01-16 | 1,154,083 | 228 |
 | 2024-01-17 | 1,163,134 | 231 |
-| 2024-01-18 | 1,165,941 | 233 |
+| 2024-01-18 | 1,166,386 | 234 |
 ## Awards
 Max (Great Boss Battles): 1,524  (Ranked 139)  
-Sum: 1,867 (Ranked 225)  
+Sum: 1,870 (Ranked 225)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): -86
 | This game has Diverse Characters | 53 |
 | This game is Extremely Fun | 51 |
 | This game has Quickly Understood Controls | 51 |
-| This game has a Creative Community | 42 |
+| This game has a Creative Community | 45 |
 | This game has Amazing Characters | 38 |
 | This game has Unique Visuals | 38 |
 | This game is Highly Recommended | 37 |
@@ -550,4 +550,4 @@ Diff (max vs sum): -86
 | 2024-01-15 | 4.59 | - | 1,443 | 1,771 |
 | 2024-01-16 | 4.59 | - | 1,489 | 1,821 |
 | 2024-01-17 | 4.59 | - | 1,524 | 1,866 |
-| 2024-01-18 | 4.59 | - | 1,524 | 1,867 |
+| 2024-01-18 | 4.59 | - | 1,524 | 1,870 |

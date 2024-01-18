@@ -2,9 +2,9 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -694,6 +694,11 @@
       "Time": "2024-01-15T19:05:26.1044319+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T09:04:06.1058974+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -802,7 +807,7 @@
       "Name": "Glider",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "beat_c1_bronze",
@@ -824,17 +829,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "beat_c1a_bronze",
@@ -888,17 +893,17 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "beat_c2a_bronze",
@@ -1330,7 +1335,7 @@
       "Name": "Look What I Found!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "trophies_117",
@@ -1393,14 +1398,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:03:52.508138+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:04:06.1058971+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.2574267+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:57:45.9747806+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:03:52.5082212+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:57:43.0515737+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:04:06.1059774+00:00"
 }

@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10557,
+  "EOS_Progressed": 10559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17224,6 +17224,11 @@
       "Time": "2024-01-18T07:06:50.3734966+00:00",
       "NumProgressed": 10557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T09:05:38.3662394+00:00",
+      "NumProgressed": 10559,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17235,7 +17240,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3906
+      "UsersEstimate": 3907
     },
     {
       "ID": "10",
@@ -17347,14 +17352,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10557,
+      "Progressed": 10559,
       "Completed": 0
     }
   ],
@@ -17362,8 +17367,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:05:22.1665052+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:05:38.3662382+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:14.6782325+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:05:22.1665958+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:59:13.1533169+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:05:38.366311+00:00"
 }

@@ -6,60 +6,60 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,787 |
-| Skillful | 7.00% | ~82,787 |
-| Zealous | 6.00% | ~70,960 |
-| Not half bad | 5.00% | ~59,134 |
-| Apt Survivor | 5.00% | ~59,134 |
-| Survival Treasures | 5.00% | ~59,134 |
-| Make Some Noise | 5.00% | ~59,134 |
-| No one left behind | 4.00% | ~47,307 |
-| Handyman | 4.00% | ~47,307 |
-| Bloody Millionaire | 4.00% | ~47,307 |
-| I | 4.00% | ~47,307 |
-| Sorted | 4.00% | ~47,307 |
-| Healthy Obsession | 4.00% | ~47,307 |
-| Resurgence | 4.00% | ~47,307 |
-| Preemptive Strike | 4.00% | ~47,307 |
-| The Grand Sacrifice | 3.00% | ~35,480 |
-| Agonizing Escape | 3.00% | ~35,480 |
-| Backdoor Escape | 3.00% | ~35,480 |
-| I've got your back | 3.00% | ~35,480 |
-| Medic | 3.00% | ~35,480 |
-| Perfect Escape | 3.00% | ~35,480 |
-| Perfect Killing | 3.00% | ~35,480 |
-| Apt Killer | 3.00% | ~35,480 |
-| Risk it all | 3.00% | ~35,480 |
-| II | 3.00% | ~35,480 |
-| Engineer | 3.00% | ~35,480 |
-| Close Shave | 3.00% | ~35,480 |
-| Humanitarian | 3.00% | ~35,480 |
-| Blood on your hands | 2.00% | ~23,653 |
-| Escape Artist | 2.00% | ~23,653 |
-| Made it out alive! | 2.00% | ~23,653 |
-| Gifts for the Fog | 2.00% | ~23,653 |
-| Vulture | 2.00% | ~23,653 |
-| III | 2.00% | ~23,653 |
-| III-50 | 2.00% | ~23,653 |
-| Item of Obsession | 2.00% | ~23,653 |
-| Holiday Get-Together | 2.00% | ~23,653 |
-| Near-Death Experience | 2.00% | ~23,653 |
-| Cherish your Life | 2.00% | ~23,653 |
-| Unforgettable Getaway | 2.00% | ~23,653 |
-| Wounded Healer | 2.00% | ~23,653 |
-| Cutting Out | 2.00% | ~23,653 |
-| First to the Punch | 2.00% | ~23,653 |
-| Operation: Survival | 2.00% | ~23,653 |
-| Old West Oasis | 2.00% | ~23,653 |
-| Classy Act | 2.00% | ~23,653 |
-| Every Last Drop | 2.00% | ~23,653 |
-| Raccoon City Recruit | 2.00% | ~23,653 |
-| With Scars to Show | 2.00% | ~23,653 |
-| Flight to Freedom | 2.00% | ~23,653 |
-| Lifting The Fog | 2.00% | ~23,653 |
-| Chorus of Chaos | 2.00% | ~23,653 |
-| One More Step | 2.00% | ~23,653 |
-| Second Act | 2.00% | ~23,653 |
+| It wakes | 7.00% | ~82,790 |
+| Skillful | 7.00% | ~82,790 |
+| Zealous | 6.00% | ~70,963 |
+| Not half bad | 5.00% | ~59,136 |
+| Apt Survivor | 5.00% | ~59,136 |
+| Survival Treasures | 5.00% | ~59,136 |
+| Make Some Noise | 5.00% | ~59,136 |
+| No one left behind | 4.00% | ~47,309 |
+| Handyman | 4.00% | ~47,309 |
+| Bloody Millionaire | 4.00% | ~47,309 |
+| I | 4.00% | ~47,309 |
+| Sorted | 4.00% | ~47,309 |
+| Healthy Obsession | 4.00% | ~47,309 |
+| Resurgence | 4.00% | ~47,309 |
+| Preemptive Strike | 4.00% | ~47,309 |
+| The Grand Sacrifice | 3.00% | ~35,482 |
+| Agonizing Escape | 3.00% | ~35,482 |
+| Backdoor Escape | 3.00% | ~35,482 |
+| I've got your back | 3.00% | ~35,482 |
+| Medic | 3.00% | ~35,482 |
+| Perfect Escape | 3.00% | ~35,482 |
+| Perfect Killing | 3.00% | ~35,482 |
+| Apt Killer | 3.00% | ~35,482 |
+| Risk it all | 3.00% | ~35,482 |
+| II | 3.00% | ~35,482 |
+| Engineer | 3.00% | ~35,482 |
+| Close Shave | 3.00% | ~35,482 |
+| Humanitarian | 3.00% | ~35,482 |
+| Blood on your hands | 2.00% | ~23,654 |
+| Escape Artist | 2.00% | ~23,654 |
+| Made it out alive! | 2.00% | ~23,654 |
+| Gifts for the Fog | 2.00% | ~23,654 |
+| Vulture | 2.00% | ~23,654 |
+| III | 2.00% | ~23,654 |
+| III-50 | 2.00% | ~23,654 |
+| Item of Obsession | 2.00% | ~23,654 |
+| Holiday Get-Together | 2.00% | ~23,654 |
+| Near-Death Experience | 2.00% | ~23,654 |
+| Cherish your Life | 2.00% | ~23,654 |
+| Unforgettable Getaway | 2.00% | ~23,654 |
+| Wounded Healer | 2.00% | ~23,654 |
+| Cutting Out | 2.00% | ~23,654 |
+| First to the Punch | 2.00% | ~23,654 |
+| Operation: Survival | 2.00% | ~23,654 |
+| Old West Oasis | 2.00% | ~23,654 |
+| Classy Act | 2.00% | ~23,654 |
+| Every Last Drop | 2.00% | ~23,654 |
+| Raccoon City Recruit | 2.00% | ~23,654 |
+| With Scars to Show | 2.00% | ~23,654 |
+| Flight to Freedom | 2.00% | ~23,654 |
+| Lifting The Fog | 2.00% | ~23,654 |
+| Chorus of Chaos | 2.00% | ~23,654 |
+| One More Step | 2.00% | ~23,654 |
+| Second Act | 2.00% | ~23,654 |
 | A bite for the Entity | 1.00% | ~11,827 |
 | Blood on your face | 1.00% | ~11,827 |
 | Nerves of steel | 1.00% | ~11,827 |
@@ -92,11 +92,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.90% | ~10,644 |
 | Party Crasher | 0.90% | ~10,644 |
 | High Speed Pursuit | 0.90% | ~10,644 |
-| Deep Cleansing | 0.80% | ~9,461 |
-| Texas BBQ | 0.80% | ~9,461 |
-| Outrage | 0.80% | ~9,461 |
-| I See You | 0.80% | ~9,461 |
-| Triage | 0.80% | ~9,461 |
+| Deep Cleansing | 0.80% | ~9,462 |
+| Texas BBQ | 0.80% | ~9,462 |
+| Outrage | 0.80% | ~9,462 |
+| I See You | 0.80% | ~9,462 |
+| Triage | 0.80% | ~9,462 |
 | Blood in your mouth | 0.70% | ~8,279 |
 | Whiffing to Success | 0.70% | ~8,279 |
 | Heavy Burden | 0.70% | ~8,279 |
@@ -105,11 +105,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Kitted Out | 0.70% | ~8,279 |
 | Looter | 0.60% | ~7,096 |
 | Power Moves | 0.60% | ~7,096 |
-| Mad House | 0.50% | ~5,913 |
-| Death of Ignorance | 0.50% | ~5,913 |
-| Ghost in the Machine | 0.50% | ~5,913 |
-| Hack the Mainframe | 0.50% | ~5,913 |
-| Disarm and Dismember | 0.50% | ~5,913 |
+| Mad House | 0.50% | ~5,914 |
+| Death of Ignorance | 0.50% | ~5,914 |
+| Ghost in the Machine | 0.50% | ~5,914 |
+| Hack the Mainframe | 0.50% | ~5,914 |
+| Disarm and Dismember | 0.50% | ~5,914 |
 | Deranged Pursuit | 0.40% | ~4,731 |
 | Dismantle | 0.40% | ~4,731 |
 | Denied! | 0.40% | ~4,731 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,183 |
 | Adept Good Guy | 0.10% | ~1,183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,182,674 (Ranked 13)  
+Progressed: 1,182,718 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 68 (0.01%) (Ranked 378)
 | 2024-01-15 | 1,179,156 | 68 |
 | 2024-01-16 | 1,180,767 | 68 |
 | 2024-01-17 | 1,182,216 | 68 |
-| 2024-01-18 | 1,182,674 | 68 |
+| 2024-01-18 | 1,182,718 | 68 |
 ## Awards
 Max (Diverse Characters): 39,860  (Ranked 15)  
 Sum: 300,194 (Ranked 12)  

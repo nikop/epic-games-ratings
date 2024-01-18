@@ -2,7 +2,7 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 223,
@@ -563,9 +563,9 @@
       "Count": 172
     }
   ],
-  "EOS_Progressed": 3698,
+  "EOS_Progressed": 3699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3728,6 +3728,11 @@
       "Time": "2024-01-18T08:09:11.2660074+00:00",
       "NumProgressed": 3698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T09:09:07.6943939+00:00",
+      "NumProgressed": 3699,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -3955,7 +3960,7 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 3698,
+      "Progressed": 3699,
       "Completed": 0
     }
   ],
@@ -3963,8 +3968,8 @@
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
   "LastChanged": "2024-01-17T08:58:45.1069491+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:09:11.2660071+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:09:07.6943932+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.9619611+00:00",
-  "LastUpdate_Ratings": "2024-01-18T07:59:12.429639+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:09:11.2660349+00:00"
+  "LastUpdate_Ratings": "2024-01-18T08:59:10.8983701+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:09:07.6944281+00:00"
 }

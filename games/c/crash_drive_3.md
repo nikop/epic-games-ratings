@@ -48,11 +48,11 @@
 | To war! | 6.00% | ~26 |
 | Hoarder | 6.00% | ~26 |
 | A Starting Collector | 4.00% | ~18 |
+| Best Friends! | 4.00% | ~18 |
 | Event Master | 4.00% | ~18 |
 | My Precious | 3.00% | ~13 |
 | Apprentice Mechanic | 3.00% | ~13 |
 | 433 Eros | 3.00% | ~13 |
-| Best Friends! | 3.00% | ~13 |
 | One Million Dollars! | 3.00% | ~13 |
 | Monkey Madness | 2.00% | ~9 |
 | M2H was Here! | 2.00% | ~9 |

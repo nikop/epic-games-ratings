@@ -6,15 +6,15 @@ Rating: 4.86 (Ranked 34)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 56.00% | ~9,722 |
-| Start with a bang! | 55.00% | ~9,548 |
+| Start with a bang! | 55.00% | ~9,549 |
 | You can pet the cat! | 50.00% | ~8,680 |
 | Who put gears in there? | 41.00% | ~7,118 |
-| Cream of the Crop | 37.00% | ~6,423 |
+| Cream of the Crop | 37.00% | ~6,424 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,250 |
 | You got this, Peppermint? | 31.00% | ~5,382 |
-| Perfect Parry | 29.00% | ~5,034 |
+| Perfect Parry | 29.00% | ~5,035 |
 | Alright, that felt AWESOME! | 28.00% | ~4,861 |
-| I play my own way! | 24.00% | ~4,166 |
+| I play my own way! | 24.00% | ~4,167 |
 | This will cost you big time | 23.00% | ~3,993 |
 | Uh, they were broken when I got here | 23.00% | ~3,993 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,646 |
@@ -23,8 +23,8 @@ Rating: 4.86 (Ranked 34)
 | The Negotiator | 17.00% | ~2,951 |
 | Does that say weakpoint? | 17.00% | ~2,951 |
 | You must like calling me in, Chai | 15.00% | ~2,604 |
-| Headliner | 14.00% | ~2,430 |
-| Out in a puff of smoke | 14.00% | ~2,430 |
+| Headliner | 14.00% | ~2,431 |
+| Out in a puff of smoke | 14.00% | ~2,431 |
 | Time to pay up! | 13.00% | ~2,257 |
 | Perfecter Parry-er! | 13.00% | ~2,257 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,257 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,360 (Ranked 168)  
+Progressed: 17,361 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 8 (0.05%) (Ranked 343)
 | 2024-01-15 | 17,227 | 8 |
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
-| 2024-01-18 | 17,360 | 8 |
+| 2024-01-18 | 17,361 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 535)  

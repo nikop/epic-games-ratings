@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -988,9 +988,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55262,
+  "EOS_Progressed": 55263,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32063,6 +32063,11 @@
       "Time": "2024-01-18T08:03:57.1510707+00:00",
       "NumProgressed": 55262,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T09:04:10.6345461+00:00",
+      "NumProgressed": 55263,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32098,7 +32103,7 @@
       "Name": "Scout",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "distance500000",
@@ -32114,7 +32119,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15473
+      "UsersEstimate": 15474
     },
     {
       "ID": "goals180",
@@ -32362,7 +32367,7 @@
       "Name": "Voyager",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2210
+      "UsersEstimate": 2211
     },
     {
       "ID": "wanderer",
@@ -32385,15 +32390,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55262,
+      "Progressed": 55263,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-16T19:59:32.4683523+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:03:57.1510699+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:04:10.6345456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:00:06.7536407+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:03:57.1513145+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:00:05.9982096+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:04:10.6347677+00:00"
 }

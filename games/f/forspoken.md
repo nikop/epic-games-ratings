@@ -6,19 +6,19 @@ Rating: 4.16 (Ranked 997)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Attachments | 13.00% | ~6,167 |
-| Unlocked Potential | 12.00% | ~5,692 |
+| Unlocked Potential | 12.00% | ~5,693 |
 | Tinkerer | 9.00% | ~4,269 |
 | Leapfrogger | 8.00% | ~3,795 |
 | Knock 'Em Dead | 8.00% | ~3,795 |
 | Pilgrimage: Initiate | 8.00% | ~3,795 |
 | Hell of a Run | 8.00% | ~3,795 |
-| Call of the Fount: Baptized | 7.00% | ~3,320 |
+| Call of the Fount: Baptized | 7.00% | ~3,321 |
 | No Mercy | 6.00% | ~2,846 |
 | Explorer: Seeker | 6.00% | ~2,846 |
 | Help Me Out Here | 6.00% | ~2,846 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,372 |
 | Stuck | 5.00% | ~2,372 |
-| The Interloper | 4.00% | ~1,897 |
+| The Interloper | 4.00% | ~1,898 |
 | Outdoorsperson | 3.00% | ~1,423 |
 | Damned If You Do... | 3.00% | ~1,423 |
 | Hop, Step, Jump | 3.00% | ~1,423 |
@@ -34,7 +34,7 @@ Rating: 4.16 (Ranked 997)
 | None the Wiser | 1.00% | ~474 |
 | Forspoken | 1.00% | ~474 |
 | Pilgrimage: Novice | 1.00% | ~474 |
-| Wildfire | 0.80% | ~379 |
+| Wildfire | 0.80% | ~380 |
 | Awakening | 0.70% | ~332 |
 | Realized Potential | 0.70% | ~332 |
 | Explorer: Trailblazer | 0.60% | ~285 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 997)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,435 (Ranked 127)  
+Progressed: 47,438 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,11 +332,11 @@ Completed: 4 (0.01%) (Ranked 378)
 | 2024-01-15 | 47,308 | 4 |
 | 2024-01-16 | 47,364 | 4 |
 | 2024-01-17 | 47,424 | 4 |
-| 2024-01-18 | 47,435 | 4 |
+| 2024-01-18 | 47,438 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 453)  
-Sum: 78 (Ranked 488)  
-Diff (max vs sum): -35  
+Sum: 78 (Ranked 489)  
+Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 52 |

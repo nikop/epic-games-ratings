@@ -5,7 +5,7 @@ Rating: 4.33 (Ranked 859)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~5,883 |
+| Food Taster | 10.00% | ~5,884 |
 | Fall Fest | 8.00% | ~4,707 |
 | Thrill Seeker | 7.00% | ~4,118 |
 | Flying Present Catcher | 6.00% | ~3,530 |
@@ -34,10 +34,10 @@ Rating: 4.33 (Ranked 859)
 | Harsh Love | 0.40% | ~235 |
 | Made It Through | 0.40% | ~235 |
 | I'm A Total Saint | 0.40% | ~235 |
-| Map Explorer | 0.30% | ~176 |
-| Nine Funkotronians | 0.30% | ~176 |
-| Struck By Love | 0.30% | ~176 |
-| The Worst Possible Luck | 0.30% | ~176 |
+| Map Explorer | 0.30% | ~177 |
+| Nine Funkotronians | 0.30% | ~177 |
+| Struck By Love | 0.30% | ~177 |
+| The Worst Possible Luck | 0.30% | ~177 |
 | Broken Present Risk Taker | 0.20% | ~118 |
 | Truly Evil | 0.20% | ~118 |
 | Achievement Achiever | 0.10% | ~59 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 859)
 | Why Do I Keep Doing That? | 0.10% | ~59 |
 | Hey, You Did It! | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,832 (Ranked 121)  
+Progressed: 58,835 (Ranked 121)  
 Completed: 6 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 6 (0.01%) (Ranked 378)
 | 2024-01-15 | 58,809 | 6 |
 | 2024-01-16 | 58,818 | 6 |
 | 2024-01-17 | 58,826 | 6 |
-| 2024-01-18 | 58,832 | 6 |
+| 2024-01-18 | 58,835 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

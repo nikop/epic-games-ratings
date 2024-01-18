@@ -1761,9 +1761,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11008,
+  "EOS_Progressed": 11010,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11901,6 +11901,11 @@
       "Time": "2024-01-18T08:03:56.0610086+00:00",
       "NumProgressed": 11008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T09:04:09.5638139+00:00",
+      "NumProgressed": 11010,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11929,7 +11934,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1871
+      "UsersEstimate": 1872
     },
     {
       "ID": "achievement_12",
@@ -11945,7 +11950,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "achievement_14",
@@ -12009,7 +12014,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "achievement_21",
@@ -12025,7 +12030,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "achievement_4",
@@ -12041,7 +12046,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "achievement_6",
@@ -12065,7 +12070,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2862
+      "UsersEstimate": 2863
     },
     {
       "ID": "achievement_9",
@@ -12080,7 +12085,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11008,
+      "Progressed": 11010,
       "Completed": 0
     }
   ],
@@ -12088,8 +12093,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-18T04:02:54.8864333+00:00",
-  "LastChanged_Achievements": "2024-01-18T08:03:56.0610081+00:00",
+  "LastChanged_Achievements": "2024-01-18T09:04:09.5638136+00:00",
   "LastUpdate_AppInfo": "2024-01-11T10:57:09.7547705+00:00",
-  "LastUpdate_Ratings": "2024-01-18T08:02:54.446889+00:00",
-  "LastUpdate_Achievements": "2024-01-18T08:03:56.0610659+00:00"
+  "LastUpdate_Ratings": "2024-01-18T09:03:03.6572315+00:00",
+  "LastUpdate_Achievements": "2024-01-18T09:04:09.5638828+00:00"
 }
