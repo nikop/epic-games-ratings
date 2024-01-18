@@ -20,17 +20,17 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.32% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.59% |
+| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 22.47% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.80% |
-| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.12% |
-| 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
-| 30 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.50% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.80% |
+| 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.12% |
+| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
+| 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 33 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 34 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 13.33% |
@@ -51,7 +51,7 @@
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.72% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.70% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
@@ -105,7 +105,7 @@
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.29% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.28% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.16% |
@@ -143,7 +143,7 @@
 | 141 | [Somerville](games/s/somerville.md) | 1.94% |
 | 142 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
-| 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
+| 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.77% |
@@ -181,7 +181,7 @@
 | 179 | [Lemon Cake](games/l/lemon_cake.md) | 1.02% |
 | 179 | [Sable](games/s/sable.md) | 1.02% |
 | 181 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.01% |
-| 182 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.96% |
+| 182 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 183 | [Trifox](games/t/trifox.md) | 0.95% |
 | 184 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
 | 185 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
@@ -322,13 +322,13 @@
 | 316 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 316 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 316 | [Riverbond](games/r/riverbond.md) | 0.10% |
-| 323 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
-| 323 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 323 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 323 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 323 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.09% |
-| 323 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 323 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 316 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
+| 324 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
+| 324 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 324 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 324 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 324 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 324 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 330 | [MythForce](games/m/mythforce.md) | 0.08% |
 | 330 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
 | 330 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
