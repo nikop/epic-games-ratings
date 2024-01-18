@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Title_Pending](games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 2024-01-19 | 24 (1,000 XP) | 1 | - | - |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-01-19 | 18 (1,000 XP) | 0 | - | - |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-19 | - |  | - | - |
 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | 2024-01-19 | 21 (1,000 XP) | 1 | - | - |
@@ -500,7 +501,6 @@
 | [The World of Nifty Craft](games/9/9fdb4607f27248eaa4a0e72b346ec8e7.md) | 2099-01-01 | - |  | - | - |
 | [Three Kingdoms The Last Warlord](games/t/three_kingdoms_the_last_warlord.md) | 2099-01-01 | 192 (1,000 XP) | 0 | - | - |
 | [Time Flies](games/d/deef7522b0aa48629c8df8cfab16007c.md) | 2099-01-01 | - |  | - | - |
-| [Title_Pending](games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 2099-01-01 | 24 (1,000 XP) | 1 | - | - |
 | [Tokyo Waning Moon](games/0/098b24c8da10404abc327b0e1604ee96.md) | 2099-01-01 | - |  | - | - |
 | [Tormented Souls 2](games/9/98a33c69dd4c462a877089ca59716a52.md) | 2099-01-01 | - |  | - | - |
 | [Tracks of Thought](games/t/tracks_of_thought.md) | 2099-01-01 | - |  | - | - |

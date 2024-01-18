@@ -6,8 +6,8 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.06% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
-| 7 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 42.86% |
-| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.86% |
+| 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.24% |
+| 8 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 42.86% |
 | 9 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
 | 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
@@ -28,7 +28,7 @@
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.50% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.09% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 16.08% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -52,12 +52,12 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.68% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.36% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.26% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.25% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
@@ -142,7 +142,7 @@
 | 140 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
 | 141 | [Somerville](games/s/somerville.md) | 1.94% |
 | 142 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
-| 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
+| 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.90% |
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 145 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.82% |
@@ -316,7 +316,6 @@
 | 312 | [BLACKTAIL](games/b/blacktail.md) | 0.11% |
 | 312 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
 | 312 | [Supraland](games/s/supraland.md) | 0.11% |
-| 317 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.10% |
 | 317 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 317 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 317 | [Isonzo](games/i/isonzo.md) | 0.10% |
@@ -324,12 +323,13 @@
 | 317 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 317 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 317 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
-| 325 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
-| 325 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 325 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 325 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 325 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 325 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 324 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.09% |
+| 324 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
+| 324 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 324 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 324 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 324 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 324 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 331 | [MythForce](games/m/mythforce.md) | 0.08% |
 | 331 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
 | 331 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
