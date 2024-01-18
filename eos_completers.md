@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.84% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.14% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.13% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 30 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
@@ -50,19 +50,19 @@
 | 48 | [Smelter](games/s/smelter.md) | 8.51% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.72% |
+| 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.41% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.29% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.28% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.88% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
-| 63 | [Scorn](games/s/scorn.md) | 6.86% |
+| 63 | [Scorn](games/s/scorn.md) | 6.85% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -95,8 +95,8 @@
 | 93 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 94 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
-| 96 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
-| 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.67% |
+| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
+| 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
 | 98 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.61% |
 | 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
@@ -143,7 +143,7 @@
 | 141 | [Somerville](games/s/somerville.md) | 1.94% |
 | 142 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
-| 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
+| 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 146 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.77% |
@@ -252,15 +252,15 @@
 | 250 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 250 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 250 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
-| 253 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
-| 254 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
+| 253 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.34% |
+| 253 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 255 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.33% |
 | 255 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 257 | [Darksiders III](games/d/darksiders_iii.md) | 0.32% |
 | 257 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 257 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
-| 260 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
-| 260 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 259 | [Darksiders III](games/d/darksiders_iii.md) | 0.31% |
+| 259 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
+| 259 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 262 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
 | 262 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
 | 262 | [Train Valley](games/t/train_valley.md) | 0.30% |

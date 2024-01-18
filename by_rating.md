@@ -179,7 +179,7 @@
 | 166 | [This War of Mine](games/t/this_war_of_mine.md) | 4.74 | 95 | 394 |
 | 166 | [Townscaper](games/t/townscaper.md) | 4.74 | 0 | 586 |
 | 166 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.74 | 0 | 586 |
-| 180 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 465 | 228 |
+| 180 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 468 | 228 |
 | 180 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 49 | 465 |
 | 180 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 586 |
 | 180 | [Fez](games/f/fez.md) | 4.73 | 26 | 548 |
@@ -404,7 +404,7 @@
 | 399 | [Control](games/c/control.md) | 4.61 | 9,136 | 44 |
 | 399 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 81 | 405 |
 | 399 | [Darkwood](games/d/darkwood.md) | 4.61 | 329 | 257 |
-| 399 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 53,408 | 13 |
+| 399 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 4.61 | 53,496 | 13 |
 | 399 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 117 | 361 |
 | 399 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.61 | 0 | 586 |
 | 399 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 586 |
@@ -413,7 +413,7 @@
 | 399 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 421 | 238 |
 | 399 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.61 | 0 | 586 |
 | 399 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,380 | 143 |
-| 399 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 642 | 202 |
+| 399 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 645 | 202 |
 | 399 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,860 | 39 |
 | 399 | [RiME](games/r/rime.md) | 4.61 | 0 | 586 |
 | 399 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,107 | 155 |
@@ -646,7 +646,7 @@
 | 641 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.49 | 45 | 476 |
 | 641 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.49 | 0 | 586 |
 | 641 | [Knockout City™](games/k/knockout_city™.md) | 4.49 | 0 | 586 |
-| 641 | [Maneater](games/m/maneater.md) | 4.49 | 13,942 | 32 |
+| 641 | [Maneater](games/m/maneater.md) | 4.49 | 13,945 | 32 |
 | 641 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 4.49 | 100 | 383 |
 | 641 | [Oddworld: New 'n' Tasty](games/o/oddworld__new_'n'_tasty.md) | 4.49 | 38 | 494 |
 | 641 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 4.49 | 28 | 538 |
@@ -923,7 +923,7 @@
 | 921 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.26 | 0 | 586 |
 | 921 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 22,286 | 21 |
 | 921 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4.26 | 0 | 586 |
-| 921 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,960 | 95 |
+| 921 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.26 | 3,962 | 95 |
 | 921 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.26 | 53 | 451 |
 | 921 | [Men of War](games/m/men_of_war.md) | 4.26 | 0 | 586 |
 | 921 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 586 |
@@ -1038,7 +1038,7 @@
 | 1,028 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 586 |
 | 1,037 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 591 | 214 |
 | 1,037 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 586 |
-| 1,037 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,786 | 74 |
+| 1,037 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 5,792 | 74 |
 | 1,037 | [Pinball FX](games/p/pinball_fx.md) | 4.07 | 215 | 294 |
 | 1,041 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 586 |
 | 1,041 | [Bus Simulator 21 Next Stop](games/b/bus_simulator_21.md) | 4.06 | 0 | 586 |
